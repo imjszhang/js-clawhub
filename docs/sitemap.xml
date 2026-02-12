@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://imjszhang.github.io/js-clawhub/</loc>
+        <loc>https://js-clawhub.com/</loc>
         <lastmod>2026-02-12</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://imjszhang.github.io/js-clawhub/skills/</loc>
+        <loc>https://js-clawhub.com/skills/</loc>
         <lastmod>2026-02-12</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://imjszhang.github.io/js-clawhub/blog/</loc>
+        <loc>https://js-clawhub.com/blog/</loc>
         <lastmod>2026-02-12</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://imjszhang.github.io/js-clawhub/guide/</loc>
+        <loc>https://js-clawhub.com/guide/</loc>
         <lastmod>2026-02-12</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>

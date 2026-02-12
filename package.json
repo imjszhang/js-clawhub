@@ -5,8 +5,12 @@
   "author": "imjszhang",
   "license": "MIT",
   "homepage": "https://github.com/imjszhang/js-clawhub",
+  "type": "module",
   "scripts": {
     "dev": "npx serve docs",
-    "preview": "npx serve docs -l 3000"
+    "preview": "npx serve docs -l 3000",
+    "cf:setup": "node --env-file=.env scripts/setup-cloudflare.js",
+    "gh:pages": "node --env-file=.env scripts/setup-github-pages.js",
+    "setup": "npm run cf:setup && npm run gh:pages"
   }
 }
