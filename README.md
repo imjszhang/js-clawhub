@@ -27,7 +27,10 @@ npm run dev
 
 ## 部署
 
-GitHub Pages 自动从 `docs/` 目录部署。
+- **GitHub 仓库**：https://github.com/imjszhang/js-clawhub
+- **在线演示**：https://imjszhang.github.io/js-clawhub/
+
+GitHub Pages 已配置为从 `docs/` 目录自动部署，推送后即可生效。
 
 ## 许可证
 
