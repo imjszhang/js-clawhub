@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "what-is-openclaw",
+    "title": "OpenClaw 是什么",
+    "order": 1
+  },
+  {
+    "slug": "installation",
+    "title": "安装与配置",
+    "order": 2
+  },
+  {
+    "slug": "skill-development",
+    "title": "技能开发入门",
+    "order": 3
+  },
+  {
+    "slug": "faq",
+    "title": "常见问题 FAQ",
+    "order": 4
+  }
+]

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文章 - JS ClawHub Blog</title>
+    <meta id="meta-description" name="description" content="JS ClawHub Blog">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article">
+    <meta id="og-title" property="og:title" content="JS ClawHub Blog">
+    <meta id="og-description" property="og:description" content="JS ClawHub Blog">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta id="twitter-title" name="twitter:title" content="JS ClawHub Blog">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
+    <!-- Marked.js -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- Highlight.js -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Space Grotesk', 'sans-serif'],
+                        mono: ['JetBrains Mono', 'monospace'],
+                    },
+                    colors: {
+                        brand: { yellow: '#FCD228', black: '#000000', white: '#FFFFFF' }
+                    },
+                    boxShadow: {
+                        'brutal': '4px 4px 0px 0px #000000',
+                        'brutal-lg': '8px 8px 0px 0px #000000',
+                        'brutal-hover': '2px 2px 0px 0px #000000',
+                        'brutal-white': '4px 4px 0px 0px #FFFFFF',
+                    },
+                    borderWidth: { '3': '3px' },
+                    animation: {
+                        'slide-up': 'slideUp 0.8s ease-out forwards',
+                    },
+                    keyframes: {
+                        slideUp: { '0%': { opacity: '0', transform: 'translateY(40px)' }, '100%': { opacity: '1', transform: 'translateY(0)' } }
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="../shared/css/brutal.css">
+</head>
+<body class="min-h-screen font-sans selection:bg-black selection:text-brand-yellow overflow-x-hidden">
+
+    <div id="canvas-container" class="fixed inset-0 -z-10 opacity-40 pointer-events-none"></div>
+    <div id="nav-container"></div>
+
+    <main class="pt-32 pb-24 px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
+
+        <!-- Back link -->
+        <a href="./" class="inline-block mb-8 brutal-btn-secondary px-4 py-2 text-sm no-underline">
+            ← BACK TO BLOG
+        </a>
+
+        <!-- Loading State -->
+        <div id="loading-state" class="text-center py-12">
+            <div class="brutal-loading mx-auto mb-4"></div>
+            <p class="font-mono font-bold">LOADING POST...</p>
+        </div>
+
+        <!-- Post Header -->
+        <div id="post-header" class="mb-8"></div>
+
+        <!-- Post Content -->
+        <div id="post-content" class="brutal-card p-8 brutal-prose"></div>
+
+        <!-- Error State -->
+        <div id="error-state" class="hidden text-center py-12">
+            <p class="font-mono font-bold text-2xl mb-4">// POST NOT FOUND</p>
+            <a href="./" class="brutal-btn-primary px-6 py-3 inline-block no-underline">BROWSE ALL POSTS</a>
+        </div>
+
+    </main>
+
+    <div id="footer-container"></div>
+
+    <script src="../shared/js/threejs-bg.js"></script>
+    <script src="../shared/js/nav.js"></script>
+    <script src="../shared/js/footer.js"></script>
+    <script src="./js/blog.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const params = new URLSearchParams(window.location.search);
+            const slug = params.get('slug');
+            if (slug) {
+                Blog.loadPost(slug);
+            } else {
+                document.getElementById('loading-state')?.remove();
+                document.getElementById('error-state')?.classList.remove('hidden');
+            }
+        });
+    </script>
+</body>
+</html>

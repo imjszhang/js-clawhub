@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imjszhang.github.io/js-clawhub/sitemap.xml

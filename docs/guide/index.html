@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>入门指南 - JS ClawHub</title>
+    <meta name="description" content="OpenClaw 入门指南 - 从零开始配置你的个人 AI 助手">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="入门指南 - JS ClawHub">
+    <meta property="og:description" content="OpenClaw 入门指南 - 从零开始配置你的个人 AI 助手">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
+    <!-- Marked.js -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- Highlight.js -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Space Grotesk', 'sans-serif'],
+                        mono: ['JetBrains Mono', 'monospace'],
+                    },
+                    colors: {
+                        brand: { yellow: '#FCD228', black: '#000000', white: '#FFFFFF' }
+                    },
+                    boxShadow: {
+                        'brutal': '4px 4px 0px 0px #000000',
+                        'brutal-lg': '8px 8px 0px 0px #000000',
+                        'brutal-hover': '2px 2px 0px 0px #000000',
+                        'brutal-white': '4px 4px 0px 0px #FFFFFF',
+                    },
+                    borderWidth: { '3': '3px' },
+                    animation: {
+                        'slide-up': 'slideUp 0.8s ease-out forwards',
+                    },
+                    keyframes: {
+                        slideUp: { '0%': { opacity: '0', transform: 'translateY(40px)' }, '100%': { opacity: '1', transform: 'translateY(0)' } }
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="../shared/css/brutal.css">
+</head>
+<body class="min-h-screen font-sans selection:bg-black selection:text-brand-yellow overflow-x-hidden">
+
+    <div id="canvas-container" class="fixed inset-0 -z-10 opacity-40 pointer-events-none"></div>
+    <div id="nav-container"></div>
+
+    <main class="pt-32 pb-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+
+        <!-- Header -->
+        <section class="mb-12">
+            <h1 class="brutal-section-title mb-6">Guide</h1>
+            <p class="text-xl font-bold max-w-2xl border-l-4 border-black pl-6 bg-white/50 p-4">
+                从零开始配置你的 OpenClaw <span class="bg-black text-brand-yellow px-1">个人 AI 助手</span>。
+            </p>
+        </section>
+
+        <div class="flex flex-col lg:flex-row gap-8">
+
+            <!-- Sidebar / Table of Contents -->
+            <aside class="lg:w-64 flex-shrink-0">
+                <div class="lg:sticky lg:top-28">
+                    <div class="brutal-card p-4">
+                        <h3 class="font-bold uppercase text-sm mb-4 border-b-2 border-black pb-2">目录</h3>
+                        <nav id="guide-nav" class="flex flex-col gap-1">
+                            <!-- Rendered by JS -->
+                            <div class="brutal-loading mx-auto"></div>
+                        </nav>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Content Area -->
+            <div class="flex-grow min-w-0">
+                <div id="guide-content" class="brutal-card p-8 brutal-prose">
+                    <!-- Loading -->
+                    <div id="loading-state" class="text-center py-8">
+                        <div class="brutal-loading mx-auto mb-4"></div>
+                        <p class="font-mono font-bold">LOADING GUIDE...</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <div id="footer-container"></div>
+
+    <script src="../shared/js/threejs-bg.js"></script>
+    <script src="../shared/js/nav.js"></script>
+    <script src="../shared/js/footer.js"></script>
+
+    <script>
+    const GuidePage = {
+        guides: [],
+        currentSlug: null,
+
+        async init() {
+            try {
+                const response = await fetch('./data/index.json');
+                if (!response.ok) throw new Error('Failed to load guide index');
+                this.guides = await response.json();
+                this.renderNav();
+
+                // Load from URL hash or first guide
+                const hash = window.location.hash.replace('#', '');
+                const slug = hash || (this.guides.length > 0 ? this.guides[0].slug : null);
+                if (slug) {
+                    this.loadGuide(slug);
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('loading-state').innerHTML = '<p class="font-mono font-bold text-xl">// ERROR LOADING GUIDE</p>';
+            }
+        },
+
+        renderNav() {
+            const nav = document.getElementById('guide-nav');
+            if (!nav) return;
+
+            nav.innerHTML = this.guides.map(guide => `
+                <a href="#${guide.slug}" 
+                   class="guide-nav-item px-3 py-2 font-bold text-sm border-2 border-transparent hover:border-black hover:bg-brand-yellow transition-all no-underline text-black"
+                   data-slug="${guide.slug}"
+                   onclick="GuidePage.loadGuide('${guide.slug}'); return false;">
+                    ${this.escapeHtml(guide.title)}
+                </a>
+            `).join('');
+        },
+
+        async loadGuide(slug) {
+            this.currentSlug = slug;
+            window.location.hash = slug;
+
+            // Update active nav
+            document.querySelectorAll('.guide-nav-item').forEach(item => {
+                if (item.dataset.slug === slug) {
+                    item.classList.add('border-black', 'bg-brand-yellow');
+                    item.classList.remove('border-transparent');
+                } else {
+                    item.classList.remove('border-black', 'bg-brand-yellow');
+                    item.classList.add('border-transparent');
+                }
+            });
+
+            const contentEl = document.getElementById('guide-content');
+
+            try {
+                const response = await fetch(`./data/${slug}.md`);
+                if (!response.ok) throw new Error('Guide not found');
+
+                let markdown = await response.text();
+                markdown = markdown.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
+
+                if (typeof marked !== 'undefined') {
+                    marked.setOptions({ breaks: true, gfm: true });
+                    contentEl.innerHTML = marked.parse(markdown);
+                    if (typeof hljs !== 'undefined') {
+                        contentEl.querySelectorAll('pre code').forEach(block => hljs.highlightElement(block));
+                    }
+                }
+
+                // Update page title
+                const guide = this.guides.find(g => g.slug === slug);
+                if (guide) {
+                    document.title = `${guide.title} - JS ClawHub Guide`;
+                }
+
+            } catch (error) {
+                console.error('Error loading guide:', error);
+                contentEl.innerHTML = '<p class="font-mono font-bold text-xl">// GUIDE NOT FOUND</p>';
+            }
+        },
+
+        escapeHtml(str) {
+            if (!str) return '';
+            const div = document.createElement('div');
+            div.textContent = str;
+            return div.innerHTML;
+        }
+    };
+
+    document.addEventListener('DOMContentLoaded', () => GuidePage.init());
+    </script>
+</body>
+</html>

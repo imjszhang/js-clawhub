@@ -1,0 +1,12 @@
+{
+  "name": "js-clawhub",
+  "version": "1.0.0",
+  "description": "JS 精选的 OpenClaw 生态项目导航站",
+  "author": "imjszhang",
+  "license": "MIT",
+  "homepage": "https://github.com/imjszhang/js-clawhub",
+  "scripts": {
+    "dev": "npx serve docs",
+    "preview": "npx serve docs -l 3000"
+  }
+}

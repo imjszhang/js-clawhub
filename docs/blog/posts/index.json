@@ -1,0 +1,28 @@
+[
+  {
+    "slug": "welcome-to-clawhub",
+    "title": "Welcome to JS ClawHub",
+    "date": "2026-02-12",
+    "summary": "JS ClawHub 正式上线。一个由 JS 策展的 OpenClaw 生态项目导航站，帮你发现最好的技能、集成和教程。",
+    "cover": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "tags": ["Announcement"],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    }
+  },
+  {
+    "slug": "what-is-openclaw",
+    "title": "What is OpenClaw: The Open Source Personal AI Assistant",
+    "date": "2026-02-10",
+    "summary": "深入了解 OpenClaw——2026 年最令人兴奋的开源 AI 项目。它如何改变我们与 AI 交互的方式？",
+    "cover": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=800&q=80",
+    "tags": ["Guide", "OpenClaw"],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    }
+  }
+]

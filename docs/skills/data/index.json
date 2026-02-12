@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "whatsapp-integration",
+    "name": "WhatsApp Integration",
+    "category": "messaging",
+    "tags": ["official", "communication"],
+    "author": {
+      "name": "steipete",
+      "url": "https://x.com/steipete",
+      "avatar": "https://unavatar.io/x/steipete"
+    },
+    "desc": "通过 WhatsApp 与 OpenClaw 对话，支持消息、图片、语音等多种格式。",
+    "github": "https://github.com/openclaw/openclaw",
+    "date": "2026-02-01"
+  },
+  {
+    "slug": "gmail-manager",
+    "name": "Gmail Manager",
+    "category": "productivity",
+    "tags": ["official", "email"],
+    "author": {
+      "name": "steipete",
+      "url": "https://x.com/steipete",
+      "avatar": "https://unavatar.io/x/steipete"
+    },
+    "desc": "邮件管理技能：自动回复、清理收件箱、退订垃圾邮件、邮件摘要。",
+    "github": "https://github.com/openclaw/openclaw",
+    "date": "2026-01-28"
+  },
+  {
+    "slug": "browser-automation",
+    "name": "Browser Automation",
+    "category": "automation",
+    "tags": ["official", "browser"],
+    "author": {
+      "name": "steipete",
+      "url": "https://x.com/steipete",
+      "avatar": "https://unavatar.io/x/steipete"
+    },
+    "desc": "浏览器自动化技能：网页浏览、表单填写、数据提取、截图。",
+    "github": "https://github.com/openclaw/openclaw",
+    "date": "2026-01-25"
+  },
+  {
+    "slug": "spotify-control",
+    "name": "Spotify Control",
+    "category": "media",
+    "tags": ["community", "music"],
+    "author": {
+      "name": "community",
+      "url": "https://github.com/openclaw/openclaw",
+      "avatar": "https://ui-avatars.com/api/?name=C&background=FCD228&color=000&bold=true"
+    },
+    "desc": "Spotify 音乐控制：播放、暂停、切歌、创建播放列表、歌曲推荐。",
+    "github": "https://github.com/openclaw/openclaw",
+    "date": "2026-01-20"
+  },
+  {
+    "slug": "daily-briefing",
+    "name": "Daily Briefing",
+    "category": "productivity",
+    "tags": ["community", "automation"],
+    "author": {
+      "name": "BraydonCoyer",
+      "url": "https://x.com/BraydonCoyer",
+      "avatar": "https://unavatar.io/x/BraydonCoyer"
+    },
+    "desc": "每日自动简报：天气、日程、新闻、待办事项汇总，支持自定义时间发送。",
+    "github": "https://github.com/openclaw/openclaw",
+    "date": "2026-01-15"
+  },
+  {
+    "slug": "obsidian-sync",
+    "name": "Obsidian Sync",
+    "category": "productivity",
+    "tags": ["community", "knowledge"],
+    "author": {
+      "name": "svenkataram",
+      "url": "https://x.com/svenkataram",
+      "avatar": "https://unavatar.io/x/svenkataram"
+    },
+    "desc": "连接 Obsidian 笔记库，让 AI 助手了解你的知识体系并提供上下文感知回答。",
+    "github": "https://github.com/openclaw/openclaw",
+    "date": "2026-01-10"
+  }
+]

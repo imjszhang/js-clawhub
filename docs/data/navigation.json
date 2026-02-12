@@ -1,0 +1,250 @@
+{
+  "featured": [
+    {
+      "name": "OpenClaw",
+      "url": "https://openclaw.ai/",
+      "desc": "开源个人 AI 助手，运行在你自己的机器上，通过 WhatsApp/Telegram/Discord 等聊天应用交互。",
+      "icon": "star",
+      "tags": ["official", "core"],
+      "jsComment": "2026 年最令人兴奋的开源 AI 项目，没有之一。"
+    },
+    {
+      "name": "ClawHub Skills",
+      "url": "https://clawhub.com/",
+      "desc": "OpenClaw 官方技能市场，下载社区创建的技能扩展你的 AI 助手能力。",
+      "icon": "puzzle",
+      "tags": ["official", "skills"],
+      "jsComment": "技能生态是 OpenClaw 的灵魂，这里能找到各种神奇的扩展。"
+    },
+    {
+      "name": "OpenClaw GitHub",
+      "url": "https://github.com/openclaw/openclaw",
+      "desc": "OpenClaw 核心代码仓库，开源、可 hack、可自托管。",
+      "icon": "code",
+      "tags": ["official", "source"],
+      "jsComment": "代码质量很高，社区活跃度惊人，值得 star 和 watch。"
+    }
+  ],
+  "categories": [
+    {
+      "id": "messaging",
+      "name": "MESSAGING",
+      "items": [
+        {
+          "name": "WhatsApp 集成",
+          "url": "https://openclaw.ai/",
+          "desc": "通过 WhatsApp 与你的 AI 助手对话，支持 DM 和群聊。",
+          "tags": ["official"]
+        },
+        {
+          "name": "Telegram 集成",
+          "url": "https://openclaw.ai/",
+          "desc": "Telegram Bot 接入，支持消息、语音、文件交互。",
+          "tags": ["official"]
+        },
+        {
+          "name": "Discord 集成",
+          "url": "https://openclaw.ai/",
+          "desc": "Discord 服务器中的 AI 助手，支持多频道管理。",
+          "tags": ["official"]
+        },
+        {
+          "name": "Slack 集成",
+          "url": "https://openclaw.ai/",
+          "desc": "团队协作场景下的 AI 助手，集成到 Slack workspace。",
+          "tags": ["official"]
+        },
+        {
+          "name": "Signal 集成",
+          "url": "https://openclaw.ai/",
+          "desc": "注重隐私的消息通道，端到端加密的 AI 对话。",
+          "tags": ["official"]
+        },
+        {
+          "name": "iMessage 集成",
+          "url": "https://openclaw.ai/",
+          "desc": "Apple 生态下的原生消息集成。",
+          "tags": ["official"]
+        }
+      ]
+    },
+    {
+      "id": "ai-models",
+      "name": "AI MODELS",
+      "items": [
+        {
+          "name": "Claude (Anthropic)",
+          "url": "https://docs.anthropic.com/",
+          "desc": "OpenClaw 默认推荐模型，强大的推理和工具调用能力。",
+          "tags": ["recommended"]
+        },
+        {
+          "name": "GPT (OpenAI)",
+          "url": "https://platform.openai.com/",
+          "desc": "支持 GPT-4o 等 OpenAI 模型作为后端驱动。",
+          "tags": ["supported"]
+        },
+        {
+          "name": "MiniMax m2.1",
+          "url": "https://www.minimax.chat/",
+          "desc": "社区推荐的高性价比本地模型，工具调用表现优秀。",
+          "tags": ["community"]
+        },
+        {
+          "name": "本地模型",
+          "url": "https://ollama.com/",
+          "desc": "通过 Ollama 等工具运行本地模型，数据完全私有。",
+          "tags": ["self-hosted"]
+        }
+      ]
+    },
+    {
+      "id": "productivity",
+      "name": "PRODUCTIVITY",
+      "items": [
+        {
+          "name": "Gmail 集成",
+          "url": "https://openclaw.ai/",
+          "desc": "邮件管理、自动回复、收件箱清理、退订管理。",
+          "tags": ["official"]
+        },
+        {
+          "name": "Calendar 集成",
+          "url": "https://openclaw.ai/",
+          "desc": "日程管理、提醒、自动安排会议。",
+          "tags": ["official"]
+        },
+        {
+          "name": "Obsidian 集成",
+          "url": "https://openclaw.ai/",
+          "desc": "连接你的知识库，让 AI 助手了解你的笔记。",
+          "tags": ["community"]
+        },
+        {
+          "name": "GitHub 集成",
+          "url": "https://openclaw.ai/",
+          "desc": "代码审查、Issue 管理、PR 创建与自动化。",
+          "tags": ["official"]
+        },
+        {
+          "name": "Todoist 集成",
+          "url": "https://openclaw.ai/",
+          "desc": "任务管理自动化，通过对话创建和管理待办事项。",
+          "tags": ["community"]
+        }
+      ]
+    },
+    {
+      "id": "automation",
+      "name": "AUTOMATION",
+      "items": [
+        {
+          "name": "浏览器控制",
+          "url": "https://openclaw.ai/",
+          "desc": "自动浏览网页、填写表单、提取数据，完整的浏览器自动化。",
+          "tags": ["official"]
+        },
+        {
+          "name": "文件系统访问",
+          "url": "https://openclaw.ai/",
+          "desc": "读写文件、运行脚本、执行 shell 命令。",
+          "tags": ["official"]
+        },
+        {
+          "name": "Cron 定时任务",
+          "url": "https://openclaw.ai/",
+          "desc": "设置定时任务，让 AI 助手在特定时间自动执行工作。",
+          "tags": ["official"]
+        },
+        {
+          "name": "Heartbeat 主动通知",
+          "url": "https://openclaw.ai/",
+          "desc": "AI 助手主动检查和汇报，不只是被动响应。",
+          "tags": ["official"]
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "name": "MEDIA",
+      "items": [
+        {
+          "name": "Spotify 集成",
+          "url": "https://openclaw.ai/",
+          "desc": "音乐控制、播放列表管理、歌曲推荐。",
+          "tags": ["community"]
+        },
+        {
+          "name": "ElevenLabs TTS",
+          "url": "https://elevenlabs.io/",
+          "desc": "AI 语音合成，让你的助手能打电话、发语音消息。",
+          "tags": ["community"]
+        },
+        {
+          "name": "Sora 视频生成",
+          "url": "https://openai.com/sora",
+          "desc": "通过对话生成视频，社区已实现完整工作流。",
+          "tags": ["community"]
+        }
+      ]
+    },
+    {
+      "id": "deployment",
+      "name": "DEPLOYMENT",
+      "items": [
+        {
+          "name": "Mac Mini 部署",
+          "url": "https://openclaw.ai/",
+          "desc": "最推荐的部署方案，24/7 运行的个人 AI 服务器。",
+          "tags": ["recommended"]
+        },
+        {
+          "name": "Raspberry Pi",
+          "url": "https://openclaw.ai/",
+          "desc": "低成本部署方案，搭配 Cloudflare 隧道实现外网访问。",
+          "tags": ["community"]
+        },
+        {
+          "name": "macOS 客户端",
+          "url": "https://openclaw.ai/",
+          "desc": "官方桌面客户端（Beta），菜单栏快速访问。",
+          "tags": ["official", "beta"]
+        },
+        {
+          "name": "npm 一键安装",
+          "url": "https://openclaw.ai/",
+          "desc": "npm i -g openclaw，最简单的安装方式。",
+          "tags": ["official"]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "text": "OpenClaw 是 2026 年最让人兴奋的开源项目。一个人 + 一个仓库，填补了价值数十亿美元的产业空白。",
+      "project": "OpenClaw",
+      "url": "https://openclaw.ai/"
+    },
+    {
+      "text": "技能系统的设计太聪明了——AI 不仅能使用技能，还能自己编写新技能。这才是真正的可扩展性。",
+      "project": "ClawHub Skills",
+      "url": "https://clawhub.com/"
+    },
+    {
+      "text": "在 Mac Mini 上 24/7 运行 OpenClaw，感觉像拥有了一个不需要工资的全职助手。每天早晨的自动简报令人惊艳。",
+      "project": "Mac Mini 部署",
+      "url": "https://openclaw.ai/"
+    },
+    {
+      "text": "社区的创造力超出想象：有人让它管理空气净化器，有人让它自动退订垃圾邮件，还有人让它用澳洲口音打电话。",
+      "project": "社区生态",
+      "url": "https://github.com/openclaw/openclaw"
+    }
+  ],
+  "stats": {
+    "projects": 50,
+    "skills": 30,
+    "integrations": 15,
+    "tutorials": 10
+  }
+}

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>技能市场 - JS ClawHub</title>
+    <meta name="description" content="发现和探索 OpenClaw 社区技能，扩展你的 AI 助手能力">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="技能市场 - JS ClawHub">
+    <meta property="og:description" content="发现和探索 OpenClaw 社区技能">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
+
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Space Grotesk', 'sans-serif'],
+                        mono: ['JetBrains Mono', 'monospace'],
+                    },
+                    colors: {
+                        brand: { yellow: '#FCD228', black: '#000000', white: '#FFFFFF' }
+                    },
+                    boxShadow: {
+                        'brutal': '4px 4px 0px 0px #000000',
+                        'brutal-lg': '8px 8px 0px 0px #000000',
+                        'brutal-hover': '2px 2px 0px 0px #000000',
+                        'brutal-white': '4px 4px 0px 0px #FFFFFF',
+                    },
+                    borderWidth: { '3': '3px' },
+                    animation: {
+                        'marquee': 'marquee 25s linear infinite',
+                        'slide-up': 'slideUp 0.8s ease-out forwards',
+                    },
+                    keyframes: {
+                        marquee: { '0%': { transform: 'translateX(0%)' }, '100%': { transform: 'translateX(-100%)' } },
+                        slideUp: { '0%': { opacity: '0', transform: 'translateY(40px)' }, '100%': { opacity: '1', transform: 'translateY(0)' } }
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="../shared/css/brutal.css">
+</head>
+<body class="min-h-screen font-sans selection:bg-black selection:text-brand-yellow overflow-x-hidden">
+
+    <div id="canvas-container" class="fixed inset-0 -z-10 opacity-40 pointer-events-none"></div>
+    <div id="nav-container"></div>
+
+    <main class="pt-32 pb-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+
+        <!-- Header -->
+        <section class="mb-12">
+            <h1 class="brutal-section-title mb-6">Skills Market</h1>
+            <p class="text-xl font-bold max-w-2xl border-l-4 border-black pl-6 bg-white/50 p-4">
+                发现和探索 OpenClaw 社区技能，扩展你的 AI 助手<span class="bg-black text-brand-yellow px-1">能力边界</span>。
+            </p>
+        </section>
+
+        <!-- Search + Filter -->
+        <section class="mb-8">
+            <div class="flex flex-col sm:flex-row gap-4">
+                <div class="relative flex-grow">
+                    <input type="text" id="skill-search" class="brutal-search w-full pl-14" placeholder="搜索技能...">
+                    <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5">
+                        <path stroke-linecap="square" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+                    </svg>
+                </div>
+            </div>
+            <div id="skill-tabs" class="flex flex-wrap gap-3 mt-4">
+                <!-- Rendered by JS -->
+            </div>
+        </section>
+
+        <!-- Skills Grid -->
+        <div id="skills-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Loading -->
+            <div id="loading-state" class="col-span-full text-center py-12">
+                <div class="brutal-loading mx-auto mb-4"></div>
+                <p class="font-mono font-bold">LOADING SKILLS...</p>
+            </div>
+        </div>
+
+    </main>
+
+    <div id="footer-container"></div>
+
+    <script src="../shared/js/threejs-bg.js"></script>
+    <script src="../shared/js/nav.js"></script>
+    <script src="../shared/js/footer.js"></script>
+
+    <script>
+    const SkillsPage = {
+        skills: [],
+        currentCategory: 'all',
+
+        async init() {
+            try {
+                const response = await fetch('./data/index.json');
+                if (!response.ok) throw new Error('Failed to load skills');
+                this.skills = await response.json();
+                this.skills.sort((a, b) => new Date(b.date) - new Date(a.date));
+                this.renderTabs();
+                this.renderSkills();
+                this.initSearch();
+                document.getElementById('loading-state')?.remove();
+            } catch (error) {
+                console.error('Error:', error);
+                const loading = document.getElementById('loading-state');
+                if (loading) loading.innerHTML = '<p class="font-mono font-bold text-xl">// ERROR LOADING SKILLS</p>';
+            }
+        },
+
+        renderTabs() {
+            const tabs = document.getElementById('skill-tabs');
+            if (!tabs) return;
+
+            const categories = ['all', ...new Set(this.skills.map(s => s.category))];
+            tabs.innerHTML = categories.map(cat => `
+                <button class="${cat === 'all' ? 'brutal-btn-primary' : 'brutal-btn-secondary'} px-4 py-2 text-sm skill-tab" data-category="${cat}" onclick="SkillsPage.filterCategory('${cat}')">
+                    ${cat.toUpperCase()}
+                </button>
+            `).join('');
+        },
+
+        filterCategory(category) {
+            this.currentCategory = category;
+            // Update tab styles
+            document.querySelectorAll('.skill-tab').forEach(tab => {
+                tab.className = (tab.dataset.category === category ? 'brutal-btn-primary' : 'brutal-btn-secondary') + ' px-4 py-2 text-sm skill-tab';
+            });
+            this.renderSkills();
+        },
+
+        renderSkills() {
+            const grid = document.getElementById('skills-grid');
+            if (!grid) return;
+
+            const filtered = this.currentCategory === 'all' 
+                ? this.skills 
+                : this.skills.filter(s => s.category === this.currentCategory);
+
+            if (filtered.length === 0) {
+                grid.innerHTML = '<div class="col-span-full text-center py-12 font-mono font-bold text-xl">// NO SKILLS IN THIS CATEGORY</div>';
+                return;
+            }
+
+            grid.innerHTML = filtered.map(skill => `
+                <a href="./detail.html?slug=${encodeURIComponent(skill.slug)}" class="brutal-card p-6 flex flex-col no-underline text-black skill-card" data-tags="${(skill.tags || []).join(' ')} ${skill.category}">
+                    <div class="flex items-start justify-between mb-3">
+                        <div>
+                            <h3 class="text-xl font-bold uppercase">${this.escapeHtml(skill.name)}</h3>
+                            ${skill.author ? `<p class="font-mono text-xs text-black/60 mt-1">by @${this.escapeHtml(skill.author.name)}</p>` : ''}
+                        </div>
+                        <svg class="w-5 h-5 flex-shrink-0 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5">
+                            <path stroke-linecap="square" d="M9 5l7 7-7 7"/>
+                        </svg>
+                    </div>
+                    <p class="font-medium text-sm mb-4 flex-grow">${this.escapeHtml(skill.desc)}</p>
+                    <div class="flex flex-wrap gap-1 mt-auto pt-3 border-t-2 border-black/10">
+                        <span class="brutal-tag">${this.escapeHtml(skill.category)}</span>
+                        ${(skill.tags || []).map(tag => `<span class="brutal-tag" style="background:#FCD228;color:#000;">${this.escapeHtml(tag)}</span>`).join('')}
+                    </div>
+                </a>
+            `).join('');
+        },
+
+        initSearch() {
+            const input = document.getElementById('skill-search');
+            if (!input) return;
+            input.addEventListener('input', (e) => {
+                const query = e.target.value.toLowerCase().trim();
+                document.querySelectorAll('.skill-card').forEach(card => {
+                    const match = !query || card.textContent.toLowerCase().includes(query) || (card.dataset.tags || '').toLowerCase().includes(query);
+                    card.style.display = match ? '' : 'none';
+                });
+            });
+        },
+
+        escapeHtml(str) {
+            if (!str) return '';
+            const div = document.createElement('div');
+            div.textContent = str;
+            return div.innerHTML;
+        }
+    };
+
+    document.addEventListener('DOMContentLoaded', () => SkillsPage.init());
+    </script>
+</body>
+</html>
