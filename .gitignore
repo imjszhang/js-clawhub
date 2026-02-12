@@ -3,3 +3,9 @@ node_modules/
 .DS_Store
 Thumbs.db
 *.log
+
+# Windows 保留设备名，防止误创建后无法正常删除
+NUL
+CON
+PRN
+AUX
