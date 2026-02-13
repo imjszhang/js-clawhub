@@ -1,22 +1,16 @@
 [
-  {
-    "slug": "what-is-openclaw",
-    "title": "OpenClaw 是什么",
-    "order": 1
-  },
-  {
-    "slug": "installation",
-    "title": "安装与配置",
-    "order": 2
-  },
-  {
-    "slug": "skill-development",
-    "title": "技能开发入门",
-    "order": 3
-  },
-  {
-    "slug": "faq",
-    "title": "常见问题 FAQ",
-    "order": 4
-  }
+  {"slug":"what-is-openclaw","title":"OpenClaw 是什么","order":1},
+  {"slug":"core-concepts","title":"核心概念","order":2},
+  {"slug":"installation","title":"安装与配置","order":3},
+  {"slug":"model-agent-config","title":"AI 模型与 Agent 配置","order":4},
+  {"slug":"channel-deployment","title":"消息渠道部署","order":5},
+  {"slug":"doctor-troubleshooting","title":"诊断与故障排除","order":6},
+  {"slug":"skill-development","title":"技能开发入门","order":7},
+  {"slug":"skills-detailed","title":"技能系统详解","order":8},
+  {"slug":"cron-config","title":"定时任务 Cron","order":9},
+  {"slug":"extension-development","title":"扩展开发","order":10},
+  {"slug":"fork-deployment","title":"Fork 与生产部署","order":11},
+  {"slug":"custom-channel","title":"自定义 Channel 开发","order":12},
+  {"slug":"external-scripting","title":"外部脚本与 API","order":13},
+  {"slug":"faq","title":"常见问题 FAQ","order":14}
 ]

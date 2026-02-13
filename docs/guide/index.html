@@ -120,6 +120,12 @@
                 if (slug) {
                     this.loadGuide(slug);
                 }
+                window.addEventListener('hashchange', () => {
+                    const h = window.location.hash.replace('#', '');
+                    if (h && this.guides.some(g => g.slug === h)) {
+                        this.loadGuide(h);
+                    }
+                });
             } catch (error) {
                 console.error('Error:', error);
                 document.getElementById('loading-state').innerHTML = '<p class="font-mono font-bold text-xl">// ERROR LOADING GUIDE</p>';
