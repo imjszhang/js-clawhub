@@ -9,6 +9,7 @@ const Nav = {
         { label: 'PROJECTS', href: '/' },
         { label: 'SKILLS', href: '/skills/' },
         { label: 'BLOG', href: '/blog/' },
+        { label: 'PULSE', href: '/pulse/' },
         { label: 'GUIDE', href: '/guide/' },
     ],
 
@@ -18,7 +19,7 @@ const Nav = {
     getBasePath() {
         const path = window.location.pathname;
         // If we're in a subdirectory (skills/, blog/, guide/), go up one level
-        if (path.includes('/skills/') || path.includes('/blog/') || path.includes('/guide/')) {
+        if (path.includes('/skills/') || path.includes('/blog/') || path.includes('/pulse/') || path.includes('/guide/')) {
             return '../';
         }
         return './';
@@ -99,7 +100,7 @@ const Nav = {
     isActive(currentPath, itemHref) {
         if (itemHref === '/') {
             return currentPath.endsWith('/') && !currentPath.includes('/skills/') && 
-                   !currentPath.includes('/blog/') && !currentPath.includes('/guide/');
+                   !currentPath.includes('/blog/') && !currentPath.includes('/pulse/') && !currentPath.includes('/guide/');
         }
         return currentPath.includes(itemHref);
     },

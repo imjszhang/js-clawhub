@@ -152,6 +152,17 @@
             </div>
         </section>
 
+        <!-- ====== LATEST PULSE ====== -->
+        <section id="latest-pulse" class="mb-24">
+            <div class="flex items-center justify-between mb-10">
+                <h2 class="brutal-section-title mb-0">Latest Pulse</h2>
+                <a href="./pulse/" class="brutal-btn-secondary px-4 py-2 text-sm no-underline font-mono font-bold">VIEW ALL →</a>
+            </div>
+            <div id="pulse-preview" class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <!-- Rendered by JS -->
+            </div>
+        </section>
+
         <!-- ====== STATS ====== -->
         <section id="stats" class="mb-24">
             <div class="brutal-card bg-black text-white p-8 md:p-12" style="background:#000;color:#fff;">
@@ -188,6 +199,7 @@
                 this.renderFeatured();
                 this.renderCategories();
                 this.renderRecommendations();
+                this.renderLatestPulse();
                 this.renderStats();
                 this.initSearch();
             } catch (error) {
@@ -290,6 +302,66 @@
                     </a>
                 </div>
             `).join('');
+        },
+
+        // ==========================================
+        // LATEST PULSE
+        // ==========================================
+        async renderLatestPulse() {
+            const grid = document.getElementById('pulse-preview');
+            if (!grid) return;
+
+            try {
+                const response = await fetch('./pulse/data/items.json');
+                if (!response.ok) throw new Error('No pulse data');
+                const items = await response.json();
+                if (!items || items.length === 0) {
+                    document.getElementById('latest-pulse').style.display = 'none';
+                    return;
+                }
+
+                const top3 = items.slice(0, 3);
+                grid.innerHTML = top3.map(item => {
+                    const authorHandle = (item.author || '').replace(/^@+/, '');
+                    const avatarUrl = authorHandle
+                        ? `https://unavatar.io/x/${authorHandle}`
+                        : `https://ui-avatars.com/api/?name=X&background=FCD228&color=000&bold=true&size=48`;
+
+                    const engHTML = this.formatPulseEngagement(item.engagement);
+
+                    return `
+                        <a href="${this.escapeHtml(item.tweet_url)}" target="_blank" rel="noopener noreferrer"
+                           class="brutal-card p-5 flex flex-col no-underline text-black group">
+                            <div class="flex items-center gap-3 mb-3">
+                                <img src="${avatarUrl}" alt="${this.escapeHtml(item.author)}"
+                                     class="w-8 h-8 rounded-full border-2 border-black"
+                                     onerror="this.src='https://ui-avatars.com/api/?name=${encodeURIComponent(authorHandle || 'X')}&background=FCD228&color=000&bold=true&size=48'">
+                                <span class="font-mono font-bold text-xs">${this.escapeHtml(item.author)}</span>
+                                <span class="ml-auto font-mono text-[10px] text-black/40">${this.escapeHtml(item.date)}</span>
+                            </div>
+                            <h3 class="font-bold text-sm mb-2 group-hover:bg-black group-hover:text-brand-yellow group-hover:px-1 transition-all leading-snug flex-grow">
+                                ${this.escapeHtml(item.title)}
+                            </h3>
+                            <div class="flex items-center gap-3 mt-auto pt-2 border-t border-black/10 font-mono text-[11px] text-black/40">
+                                ${engHTML}
+                            </div>
+                        </a>
+                    `;
+                }).join('');
+            } catch {
+                // Hide section if no data
+                const section = document.getElementById('latest-pulse');
+                if (section) section.style.display = 'none';
+            }
+        },
+
+        formatPulseEngagement(engagement) {
+            if (!engagement || Object.keys(engagement).length === 0) return '<span>via X</span>';
+            const parts = [];
+            if (engagement.likes != null) parts.push(`♥ ${engagement.likes}`);
+            if (engagement.replies != null) parts.push(`💬 ${engagement.replies}`);
+            if (engagement.retweets != null) parts.push(`🔁 ${engagement.retweets}`);
+            return parts.length > 0 ? parts.map(p => `<span>${p}</span>`).join('') : '<span>via X</span>';
         },
 
         // ==========================================
