@@ -4,7 +4,7 @@
  * ClawHub CLI — programmatic access to all ClawHub data.
  *
  * Usage:
- *   node scripts/cli.js <command> [options]
+ *   node cli/cli.js <command> [options]
  *
  * Commands:
  *   search <keyword> [--type pulse|project|skill|blog|guide]

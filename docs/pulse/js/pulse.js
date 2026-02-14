@@ -2,6 +2,8 @@
  * JS ClawHub Pulse - Client-side rendering logic
  * Renders OpenClaw ecosystem X highlights as a timeline
  * With i18n support via I18nManager
+ *
+ * v2: bilingual title/summary, JS's Take, views/bookmarks
  */
 
 const Pulse = {
@@ -11,6 +13,14 @@ const Pulse = {
 
     _t(key) {
         return typeof I18nManager !== 'undefined' ? I18nManager.t(key) : key;
+    },
+
+    _l(item, field) {
+        if (typeof I18nManager !== 'undefined') return I18nManager.getLocalizedField(item, field);
+        const val = item[field];
+        if (typeof val === 'string') return val;
+        if (val && typeof val === 'object') return val['zh-CN'] || val['en-US'] || '';
+        return '';
     },
 
     /**
@@ -83,9 +93,12 @@ const Pulse = {
             ? `https://unavatar.io/x/${authorHandle}`
             : `https://ui-avatars.com/api/?name=X&background=FCD228&color=000&bold=true&size=48`;
 
+        const title = this._l(item, 'title');
+        const summary = this._l(item, 'summary');
         const engagementHTML = this.renderEngagement(item.engagement);
         const scoreBar = this.renderScoreBar(item.score);
         const typeTag = this.renderTypeTag(item.comment_type);
+        const jsTakeHTML = this.renderJsTake(item.js_take);
 
         return `
             <a href="${this.escapeAttr(item.tweet_url)}" target="_blank" rel="noopener noreferrer"
@@ -101,11 +114,12 @@ const Pulse = {
                         ${typeTag}
                     </div>
                     <h3 class="font-bold text-base mb-2 group-hover:bg-black group-hover:text-brand-yellow group-hover:px-1 transition-all leading-snug">
-                        ${this.escapeHtml(item.title)}
+                        ${this.escapeHtml(title)}
                     </h3>
                     <p class="text-sm text-black/70 mb-3 leading-relaxed">
-                        ${this.escapeHtml(item.summary)}
+                        ${this.escapeHtml(summary)}
                     </p>
+                    ${jsTakeHTML}
                     <div class="flex items-center gap-4 flex-wrap">
                         ${engagementHTML}
                         ${scoreBar}
@@ -120,6 +134,17 @@ const Pulse = {
         `;
     },
 
+    renderJsTake(jsTake) {
+        if (!jsTake) return '';
+        const label = this._t('pulse.jsTake');
+        return `
+            <div class="mb-3 pl-3 border-l-4 border-brand-yellow bg-brand-yellow/5 py-2 pr-2">
+                <span class="font-mono text-[10px] font-bold text-black/40 uppercase">${this.escapeHtml(label)}</span>
+                <p class="text-xs text-black/60 italic leading-relaxed mt-0.5">${this.escapeHtml(jsTake)}</p>
+            </div>
+        `;
+    },
+
     renderEngagement(engagement) {
         if (!engagement || Object.keys(engagement).length === 0) return '';
         const metrics = [];
@@ -131,6 +156,12 @@ const Pulse = {
         }
         if (engagement.retweets != null) {
             metrics.push(`<span class="flex items-center gap-1" title="Retweets"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M7 7h10v3l4-4-4-4v3H5v6h2V7zm10 10H7v-3l-4 4 4 4v-3h12v-6h-2v4z"/></svg>${this.formatNumber(engagement.retweets)}</span>`);
+        }
+        if (engagement.views != null) {
+            metrics.push(`<span class="flex items-center gap-1" title="${this._t('pulse.views')}"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>${this.formatNumber(engagement.views)}</span>`);
+        }
+        if (engagement.bookmarks != null) {
+            metrics.push(`<span class="flex items-center gap-1" title="${this._t('pulse.bookmarks')}"><svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M17 3H7c-1.1 0-2 .9-2 2v16l7-3 7 3V5c0-1.1-.9-2-2-2z"/></svg>${this.formatNumber(engagement.bookmarks)}</span>`);
         }
         if (metrics.length === 0) return '';
         return `<div class="flex items-center gap-3 font-mono text-xs text-black/50">${metrics.join('')}</div>`;

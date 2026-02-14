@@ -144,9 +144,12 @@
 
         <!-- ====== LATEST PULSE ====== -->
         <section id="latest-pulse" class="mb-24">
-            <div class="flex items-center justify-between mb-10">
+            <div class="flex items-center justify-between mb-4">
                 <h2 class="brutal-section-title mb-0" data-i18n="home.latestPulse">Latest Pulse</h2>
                 <a href="./pulse/" class="brutal-btn-secondary px-4 py-2 text-sm no-underline font-mono font-bold" data-i18n="home.viewAll">VIEW ALL →</a>
+            </div>
+            <div id="pulse-stats-bar" class="mb-8 hidden">
+                <p id="pulse-stats-text" class="font-mono text-xs text-black/50"></p>
             </div>
             <div id="pulse-preview" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
         </section>
@@ -300,21 +303,52 @@
             if (!grid) return;
 
             try {
-                const response = await fetch('./pulse/data/items.json');
-                if (!response.ok) throw new Error('No pulse data');
-                const items = await response.json();
-                if (!items || items.length === 0) {
-                    document.getElementById('latest-pulse').style.display = 'none';
-                    return;
+                // Try loading pulse_stats.json for week stats + top items
+                let statsData = null;
+                let topItems = null;
+                try {
+                    const statsResp = await fetch('./pulse/data/pulse_stats.json');
+                    if (statsResp.ok) {
+                        statsData = await statsResp.json();
+                        const week = statsData.this_week || {};
+                        if (week.top_items && week.top_items.length > 0) {
+                            topItems = week.top_items.slice(0, 3);
+                        }
+                        // Render stats bar
+                        if (week.total_items > 0) {
+                            const statsBar = document.getElementById('pulse-stats-bar');
+                            const statsText = document.getElementById('pulse-stats-text');
+                            if (statsBar && statsText) {
+                                const tmpl = this._t('pulse.weekStats');
+                                statsText.textContent = tmpl
+                                    .replace('{total}', week.total_items || 0)
+                                    .replace('{authors}', week.unique_authors || 0)
+                                    .replace('{score}', week.avg_score || 0);
+                                statsBar.classList.remove('hidden');
+                            }
+                        }
+                    }
+                } catch {}
+
+                // Fallback to items.json if no stats top items
+                if (!topItems) {
+                    const response = await fetch('./pulse/data/items.json');
+                    if (!response.ok) throw new Error('No pulse data');
+                    const items = await response.json();
+                    if (!items || items.length === 0) {
+                        document.getElementById('latest-pulse').style.display = 'none';
+                        return;
+                    }
+                    topItems = items.slice(0, 3);
                 }
 
-                const top3 = items.slice(0, 3);
-                grid.innerHTML = top3.map(item => {
+                grid.innerHTML = topItems.map(item => {
                     const authorHandle = (item.author || '').replace(/^@+/, '');
                     const avatarUrl = authorHandle
                         ? `https://unavatar.io/x/${authorHandle}`
                         : `https://ui-avatars.com/api/?name=X&background=FCD228&color=000&bold=true&size=48`;
 
+                    const title = this._l(item, 'title');
                     const engHTML = this.formatPulseEngagement(item.engagement);
 
                     return `
@@ -328,7 +362,7 @@
                                 <span class="ml-auto font-mono text-[10px] text-black/40">${this.escapeHtml(item.date)}</span>
                             </div>
                             <h3 class="font-bold text-sm mb-2 group-hover:bg-black group-hover:text-brand-yellow group-hover:px-1 transition-all leading-snug flex-grow">
-                                ${this.escapeHtml(item.title)}
+                                ${this.escapeHtml(title)}
                             </h3>
                             <div class="flex items-center gap-3 mt-auto pt-2 border-t border-black/10 font-mono text-[11px] text-black/40">
                                 ${engHTML}

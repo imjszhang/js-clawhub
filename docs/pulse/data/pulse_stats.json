@@ -1,0 +1,60 @@
+{
+  "updated_at": "2026-02-14T18:49:16.609160+00:00",
+  "this_week": {
+    "total_items": 103,
+    "avg_score": 0.85,
+    "unique_authors": 89,
+    "top_items": [
+      {
+        "id": "2022538086165393501",
+        "date": "2026-02-14",
+        "author": "@steipete",
+        "author_url": "https://x.com/steipete",
+        "tweet_url": "https://x.com/steipete/status/2022538086165393501",
+        "title": "Intentionally not making setup too easy for security awareness",
+        "summary": "OpenClaw安全哲学与设置设计",
+        "relevance": "OpenClaw安全哲学与设置设计",
+        "score": 0.95,
+        "engagement": {},
+        "comment_type": "agree_and_extend",
+        "synced_at": "2026-02-14T15:54:51.853829+00:00"
+      },
+      {
+        "id": "2022385562423038414",
+        "date": "2026-02-14",
+        "author": "@AnnikaSays",
+        "author_url": "https://x.com/AnnikaSays",
+        "tweet_url": "https://x.com/AnnikaSays/status/2022385562423038414",
+        "title": "One month with Claude Code + OpenClaw, shipped apps and research pipeline",
+        "summary": "极高互动(1233赞, 2079收藏)，展示真实用户从0到1的OpenClaw使用历程",
+        "relevance": "OpenClaw使用体验 - 新手到生产力的转变",
+        "score": 0.95,
+        "engagement": {
+          "likes": 1233,
+          "replies": 84,
+          "retweets": 40
+        },
+        "comment_type": "ask_question",
+        "synced_at": "2026-02-14T15:54:51.853943+00:00"
+      },
+      {
+        "id": "2022522600681775361",
+        "date": "2026-02-14",
+        "author": "@steipete",
+        "author_url": "https://x.com/steipete",
+        "tweet_url": "https://x.com/steipete/status/2022522600681775361",
+        "title": "summarize tool with OpenRouter free model scanner",
+        "summary": "OpenClaw tool - automatic free model detection",
+        "relevance": "OpenClaw tool - automatic free model detection",
+        "score": 0.94,
+        "engagement": {},
+        "comment_type": "ask_question",
+        "synced_at": "2026-02-14T15:54:51.853752+00:00"
+      }
+    ]
+  },
+  "all_time": {
+    "total_items": 103,
+    "unique_authors": 89
+  }
+}

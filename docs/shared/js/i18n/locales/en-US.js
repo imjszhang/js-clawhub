@@ -109,6 +109,11 @@
             errorTitle: '// ERROR LOADING PULSE',
             errorDesc: 'Failed to load data. Please refresh.',
             items: 'items',
+            jsTake: "JS's Take",
+            views: 'Views',
+            bookmarks: 'Bookmarks',
+            weekStats: '{total} items · {authors} authors · avg {score}',
+            trending: 'Trending This Week',
         },
 
         // Search

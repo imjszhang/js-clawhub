@@ -13,7 +13,7 @@
     "cf:setup": "node --env-file=.env scripts/setup-cloudflare.js",
     "gh:pages": "node --env-file=.env scripts/setup-github-pages.js",
     "sync-pulse": "node scripts/sync-pulse.js",
-    "cli": "node scripts/cli.js",
+    "cli": "node cli/cli.js",
     "setup": "npm run cf:setup && npm run gh:pages"
   }
 }
