@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-14T18:49:16.609160+00:00",
+  "updated_at": "2026-02-14T21:01:36.943814+00:00",
   "this_week": {
-    "total_items": 103,
+    "total_items": 112,
     "avg_score": 0.85,
-    "unique_authors": 89,
+    "unique_authors": 94,
     "top_items": [
       {
         "id": "2022538086165393501",
@@ -11,13 +11,23 @@
         "author": "@steipete",
         "author_url": "https://x.com/steipete",
         "tweet_url": "https://x.com/steipete/status/2022538086165393501",
-        "title": "Intentionally not making setup too easy for security awareness",
-        "summary": "OpenClaw安全哲学与设置设计",
+        "title": {
+          "en-US": "Intentionally not making setup too easy for security awareness",
+          "zh-CN": "Intentionally not making setup too easy for security awareness"
+        },
+        "summary": {
+          "en-US": "OpenClaw安全哲学与设置设计",
+          "zh-CN": "OpenClaw安全哲学与设置设计"
+        },
         "relevance": "OpenClaw安全哲学与设置设计",
         "score": 0.95,
         "engagement": {},
         "comment_type": "agree_and_extend",
-        "synced_at": "2026-02-14T15:54:51.853829+00:00"
+        "synced_at": "2026-02-14T15:54:51.853829+00:00",
+        "js_take": {
+          "en-US": "Security through comprehension is underrated. Making users understand what they're running prevents the 'copy-paste from Stack Overflow' vulnerabilities. How do you balance this with enterprise adoption where IT wants one-click deployment?",
+          "zh-CN": "「通过理解来保障安全」被低估了。让用户明白自己在跑什么能防止那种「从 Stack Overflow 复制粘贴」的漏洞。你们怎么平衡这一点和企业 IT 想要的一键部署？"
+        }
       },
       {
         "id": "2022385562423038414",
@@ -25,8 +35,14 @@
         "author": "@AnnikaSays",
         "author_url": "https://x.com/AnnikaSays",
         "tweet_url": "https://x.com/AnnikaSays/status/2022385562423038414",
-        "title": "One month with Claude Code + OpenClaw, shipped apps and research pipeline",
-        "summary": "极高互动(1233赞, 2079收藏)，展示真实用户从0到1的OpenClaw使用历程",
+        "title": {
+          "en-US": "One month with Claude Code + OpenClaw, shipped apps and research pipeline",
+          "zh-CN": "One month with Claude Code + OpenClaw, shipped apps and research pipeline"
+        },
+        "summary": {
+          "en-US": "OpenClaw使用体验 - 新手到生产力的转变",
+          "zh-CN": "极高互动(1233赞, 2079收藏)，展示真实用户从0到1的OpenClaw使用历程"
+        },
         "relevance": "OpenClaw使用体验 - 新手到生产力的转变",
         "score": 0.95,
         "engagement": {
@@ -35,7 +51,11 @@
           "retweets": 40
         },
         "comment_type": "ask_question",
-        "synced_at": "2026-02-14T15:54:51.853943+00:00"
+        "synced_at": "2026-02-14T15:54:51.853943+00:00",
+        "js_take": {
+          "en-US": "That learning curve is real. What specific OpenClaw configuration changes had the biggest impact on your workflow after the first month? I've found memory file organization and skill isolation matter more than the model choice itself.",
+          "zh-CN": "这个学习曲线确实真实。第一个月后，哪些 OpenClaw 配置调整对你工作流影响最大？我发现记忆文件组织和 skill 隔离比模型选择本身更重要。"
+        }
       },
       {
         "id": "2022522600681775361",
@@ -43,18 +63,28 @@
         "author": "@steipete",
         "author_url": "https://x.com/steipete",
         "tweet_url": "https://x.com/steipete/status/2022522600681775361",
-        "title": "summarize tool with OpenRouter free model scanner",
-        "summary": "OpenClaw tool - automatic free model detection",
+        "title": {
+          "en-US": "summarize tool with OpenRouter free model scanner",
+          "zh-CN": "summarize tool with OpenRouter free model scanner"
+        },
+        "summary": {
+          "en-US": "OpenClaw tool - automatic free model detection",
+          "zh-CN": "OpenClaw tool - automatic free model detection"
+        },
         "relevance": "OpenClaw tool - automatic free model detection",
         "score": 0.94,
         "engagement": {},
         "comment_type": "ask_question",
-        "synced_at": "2026-02-14T15:54:51.853752+00:00"
+        "synced_at": "2026-02-14T15:54:51.853752+00:00",
+        "js_take": {
+          "en-US": "How are you evaluating the free models? Is it just throughput/latency or do you check output quality consistency too? Rate limits must be brutal for summarization workloads.",
+          "zh-CN": "你怎么评估这些免费模型？只看吞吐/延迟，还是也检查输出质量一致性？对摘要任务来说，限流肯定很要命吧。"
+        }
       }
     ]
   },
   "all_time": {
-    "total_items": 103,
-    "unique_authors": 89
+    "total_items": 112,
+    "unique_authors": 94
   }
 }
