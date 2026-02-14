@@ -77,7 +77,6 @@ const Nav = {
                     </div>
                     <div class="hidden sm:flex items-center gap-3">
                         <button id="lang-toggle" onclick="Nav.toggleLocale()" class="brutal-btn-secondary px-3 py-2 text-sm font-mono font-bold">${toggleLabel}</button>
-                        <a href="https://github.com/imjszhang/js-clawhub/issues" target="_blank" class="brutal-btn-primary px-6 py-2 text-sm no-underline" data-i18n="nav.submit">${t('nav.submit')}</a>
                     </div>
                     <!-- Mobile menu button -->
                     <button id="mobile-menu-btn" class="md:hidden border-3 border-black p-2 bg-white" onclick="Nav.toggleMobile()">
@@ -94,8 +93,7 @@ const Nav = {
                             return `<a href="${resolvedHref}" class="px-6 py-3 border-b border-black/10 hover:bg-brand-yellow">${this._label(item)}</a>`;
                         }).join('')}
                         <div class="flex">
-                            <button onclick="Nav.toggleLocale()" class="flex-1 px-6 py-3 border-r border-black/10 hover:bg-brand-yellow text-center">${toggleLabel}</button>
-                            <a href="https://github.com/imjszhang/js-clawhub/issues" target="_blank" class="flex-1 px-6 py-3 bg-black text-brand-yellow text-center" data-i18n="nav.submitProject">${t('nav.submitProject')}</a>
+                            <button onclick="Nav.toggleLocale()" class="flex-1 px-6 py-3 hover:bg-brand-yellow text-center">${toggleLabel}</button>
                         </div>
                     </div>
                 </div>
