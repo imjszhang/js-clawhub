@@ -98,7 +98,7 @@ const Pulse = {
         const engagementHTML = this.renderEngagement(item.engagement);
         const scoreBar = this.renderScoreBar(item.score);
         const typeTag = this.renderTypeTag(item.comment_type);
-        const jsTakeHTML = this.renderJsTake(item.js_take);
+        const jsTakeHTML = this.renderJsTake(item.js_take, item);
 
         return `
             <a href="${this.escapeAttr(item.tweet_url)}" target="_blank" rel="noopener noreferrer"
@@ -134,13 +134,18 @@ const Pulse = {
         `;
     },
 
-    renderJsTake(jsTake) {
+    renderJsTake(jsTake, item) {
         if (!jsTake) return '';
         const label = this._t('pulse.jsTake');
+        // Support bilingual: {"en-US": "...", "zh-CN": "..."}
+        const text = (item && typeof jsTake === 'object')
+            ? this._l(item, 'js_take')
+            : (typeof jsTake === 'string' ? jsTake : '');
+        if (!text) return '';
         return `
             <div class="mb-3 pl-3 border-l-4 border-brand-yellow bg-brand-yellow/5 py-2 pr-2">
                 <span class="font-mono text-[10px] font-bold text-black/40 uppercase">${this.escapeHtml(label)}</span>
-                <p class="text-xs text-black/60 italic leading-relaxed mt-0.5">${this.escapeHtml(jsTake)}</p>
+                <p class="text-xs text-black/60 italic leading-relaxed mt-0.5">${this.escapeHtml(text)}</p>
             </div>
         `;
     },
