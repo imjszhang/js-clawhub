@@ -203,6 +203,35 @@
     }
   },
   {
+    "id": "2022754640941678901",
+    "date": "2026-02-15",
+    "author": "@moltdotid",
+    "author_url": "https://x.com/moltdotid",
+    "tweet_url": "https://x.com/moltdotid/status/2022754640941678901",
+    "title": {
+      "en-US": "OpenClaw on Solana mobile, mint AI agent on phone",
+      "zh-CN": "OpenClaw在Solana手机上运行，连接钱包→选名字→铸造，agent即上线，无需服务器或代码"
+    },
+    "summary": {
+      "en-US": "OpenClaw移动端 - Solana手机集成",
+      "zh-CN": "77赞16回复65收藏，展示OpenClaw移动端无服务器部署方案"
+    },
+    "relevance": "OpenClaw移动端 - Solana手机集成",
+    "score": 0.88,
+    "engagement": {
+      "likes": 77,
+      "replies": 16,
+      "retweets": 9
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问agent在手机上的运行机制和长期后台保活策略",
+    "synced_at": "2026-02-14T22:01:24.552674+00:00",
+    "js_take": {
+      "en-US": "Mobile-native agent deployment is the missing piece. How does the agent persist when the phone goes to sleep or the app gets backgrounded? Would love to understand the keep-alive mechanism.",
+      "zh-CN": "Mobile-native agent deployment is the missing piece. How does the agent persist when the phone goes to sleep or the app gets backgrounded? Would love to understand the keep-alive mechanism."
+    }
+  },
+  {
     "id": "2022664472243192225",
     "date": "2026-02-15",
     "author": "@YuLin807",
@@ -454,6 +483,31 @@
     "comment_type": "share_experience",
     "suggested_angle": "分享在Moltbook平台发布公告的最佳时间经验",
     "synced_at": "2026-02-14T21:01:36.941115+00:00"
+  },
+  {
+    "id": "2022758912345411832",
+    "date": "2026-02-15",
+    "author": "@jianxliao",
+    "author_url": "https://x.com/jianxliao",
+    "tweet_url": "https://x.com/jianxliao/status/2022758912345411832",
+    "title": {
+      "en-US": "TinyClaw transcribes and talks back completely local",
+      "zh-CN": "TinyClaw实现完全本地化的语音转录和回复，无需调用任何API"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - TinyClaw本地语音能力",
+      "zh-CN": "展示OpenClaw轻量级实现的本地语音交互能力，对隐私敏感场景有价值"
+    },
+    "relevance": "OpenClaw生态 - TinyClaw本地语音能力",
+    "score": 0.78,
+    "engagement": {
+      "likes": 11,
+      "replies": 2,
+      "retweets": 0
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问TinyClaw本地语音模型的延迟和准确率表现",
+    "synced_at": "2026-02-14T22:01:24.552681+00:00"
   },
   {
     "id": "2022586806014001216",
