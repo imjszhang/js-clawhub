@@ -29,7 +29,7 @@ const Footer = {
                         </div>
                     </div>
                     <div class="mt-8 pt-6 border-t border-white/10 text-center text-sm text-white/50 font-mono">
-                        Curated by JS // <span data-i18n="footer.tagline">${t('footer.tagline')}</span> // ${new Date().getFullYear()}
+                        <span data-i18n="footer.curatedBy">${t('footer.curatedBy')}</span> // <span data-i18n="footer.tagline">${t('footer.tagline')}</span> // ${new Date().getFullYear()}
                     </div>
                 </div>
             </footer>

@@ -86,6 +86,7 @@ const BILINGUAL_FIELDS = {
     'data/navigation.json': {
         'featured[].desc': true,
         'featured[].jsComment': true,
+        'categories[].name': true,
         'categories[].items[].desc': true,
         'recommendations[].text': true,
         'recommendations[].project': true,

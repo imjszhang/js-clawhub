@@ -28,7 +28,7 @@
   "categories": [
     {
       "id": "messaging",
-      "name": "MESSAGING",
+      "name": {"zh-CN": "消息", "en-US": "MESSAGING"},
       "items": [
         {"name": "WhatsApp", "url": "https://openclaw.ai/", "desc": {"zh-CN": "通过 WhatsApp 与你的 AI 助手对话，支持 DM 和群聊。", "en-US": "Chat with your AI assistant via WhatsApp. Supports DM and group chats."}, "tags": ["official"]},
         {"name": "Telegram", "url": "https://openclaw.ai/", "desc": {"zh-CN": "Telegram Bot 接入，支持消息、语音、文件交互。", "en-US": "Telegram Bot integration with message, voice, and file support."}, "tags": ["official"]},
@@ -40,7 +40,7 @@
     },
     {
       "id": "ai-models",
-      "name": "AI MODELS",
+      "name": {"zh-CN": "AI 模型", "en-US": "AI MODELS"},
       "items": [
         {"name": "Claude (Anthropic)", "url": "https://docs.anthropic.com/", "desc": {"zh-CN": "OpenClaw 默认推荐模型，强大的推理和工具调用能力。", "en-US": "OpenClaw's recommended default model with powerful reasoning and tool-calling."}, "tags": ["recommended"]},
         {"name": "GPT (OpenAI)", "url": "https://platform.openai.com/", "desc": {"zh-CN": "支持 GPT-4o 等 OpenAI 模型作为后端驱动。", "en-US": "Supports GPT-4o and other OpenAI models as backend drivers."}, "tags": ["supported"]},
@@ -50,7 +50,7 @@
     },
     {
       "id": "productivity",
-      "name": "PRODUCTIVITY",
+      "name": {"zh-CN": "效率工具", "en-US": "PRODUCTIVITY"},
       "items": [
         {"name": "Gmail", "url": "https://openclaw.ai/", "desc": {"zh-CN": "邮件管理、自动回复、收件箱清理、退订管理。", "en-US": "Email management, auto-reply, inbox cleanup, and unsubscribe management."}, "tags": ["official"]},
         {"name": "Calendar", "url": "https://openclaw.ai/", "desc": {"zh-CN": "日程管理、提醒、自动安排会议。", "en-US": "Schedule management, reminders, and automatic meeting scheduling."}, "tags": ["official"]},
@@ -61,7 +61,7 @@
     },
     {
       "id": "automation",
-      "name": "AUTOMATION",
+      "name": {"zh-CN": "自动化", "en-US": "AUTOMATION"},
       "items": [
         {"name": "Browser Control", "url": "https://openclaw.ai/", "desc": {"zh-CN": "自动浏览网页、填写表单、提取数据，完整的浏览器自动化。", "en-US": "Auto-browse pages, fill forms, extract data. Full browser automation."}, "tags": ["official"]},
         {"name": "File System", "url": "https://openclaw.ai/", "desc": {"zh-CN": "读写文件、运行脚本、执行 shell 命令。", "en-US": "Read/write files, run scripts, execute shell commands."}, "tags": ["official"]},
@@ -71,7 +71,7 @@
     },
     {
       "id": "media",
-      "name": "MEDIA",
+      "name": {"zh-CN": "媒体", "en-US": "MEDIA"},
       "items": [
         {"name": "Spotify", "url": "https://openclaw.ai/", "desc": {"zh-CN": "音乐控制、播放列表管理、歌曲推荐。", "en-US": "Music control, playlist management, and song recommendations."}, "tags": ["community"]},
         {"name": "ElevenLabs TTS", "url": "https://elevenlabs.io/", "desc": {"zh-CN": "AI 语音合成，让你的助手能打电话、发语音消息。", "en-US": "AI voice synthesis. Let your assistant make calls and send voice messages."}, "tags": ["community"]},
@@ -80,7 +80,7 @@
     },
     {
       "id": "deployment",
-      "name": "DEPLOYMENT",
+      "name": {"zh-CN": "部署", "en-US": "DEPLOYMENT"},
       "items": [
         {"name": "Mac Mini", "url": "https://openclaw.ai/", "desc": {"zh-CN": "最推荐的部署方案，24/7 运行的个人 AI 服务器。", "en-US": "Most recommended deployment. 24/7 personal AI server."}, "tags": ["recommended"]},
         {"name": "Raspberry Pi", "url": "https://openclaw.ai/", "desc": {"zh-CN": "低成本部署方案，搭配 Cloudflare 隧道实现外网访问。", "en-US": "Low-cost deployment with Cloudflare tunnel for external access."}, "tags": ["community"]},

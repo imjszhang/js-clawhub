@@ -16,6 +16,12 @@ const Blog = {
         return typeof val === 'string' ? val : (val && val['zh-CN']) || '';
     },
 
+    _tag(tag) {
+        if (typeof I18nManager === 'undefined') return tag;
+        const t = I18nManager.t('blog.tags.' + tag);
+        return t !== 'blog.tags.' + tag ? t : tag;
+    },
+
     /**
      * Load and render post list
      */
@@ -59,7 +65,7 @@ const Blog = {
         const summary = this._l(post, 'summary');
 
         const tagsHTML = post.tags && post.tags.length > 0
-            ? post.tags.map(tag => `<span class="brutal-tag">${this.escapeHtml(tag)}</span>`).join('')
+            ? post.tags.map(tag => `<span class="brutal-tag">${this.escapeHtml(this._tag(tag))}</span>`).join('')
             : '';
 
         const authorHTML = post.author ? `
@@ -172,7 +178,7 @@ const Blog = {
         const title = this._l(post, 'title');
 
         const tagsHTML = post.tags && post.tags.length > 0
-            ? post.tags.map(tag => `<span class="brutal-tag">${this.escapeHtml(tag)}</span>`).join('')
+            ? post.tags.map(tag => `<span class="brutal-tag">${this.escapeHtml(this._tag(tag))}</span>`).join('')
             : '';
 
         const authorHTML = post.author ? `
@@ -219,7 +225,7 @@ const Blog = {
         const title = this._l(post, 'title');
         const summary = this._l(post, 'summary');
 
-        document.title = `${title} - JS ClawHub Blog`;
+        document.title = title + (typeof I18nManager !== 'undefined' ? I18nManager.t('blog.postTitleSuffix') : ' - JS ClawHub Blog');
 
         const metaDesc = document.getElementById('meta-description');
         if (metaDesc && summary) metaDesc.setAttribute('content', summary);

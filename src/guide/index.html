@@ -40,7 +40,7 @@
     <div id="nav-container"></div>
     <main class="pt-32 pb-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
         <section class="mb-12">
-            <h1 class="brutal-section-title mb-6">Guide</h1>
+            <h1 class="brutal-section-title mb-6" data-i18n="guide.heroTitle">入门指南</h1>
             <p class="text-xl font-bold max-w-2xl border-l-4 border-black pl-6 bg-white/50 p-4" data-i18n-html="guide.heroDesc">
                 从零开始配置你的 OpenClaw <span class="bg-black text-brand-yellow px-1">个人 AI 助手</span>。
             </p>
@@ -128,7 +128,7 @@
                 if (typeof hljs !== 'undefined') contentEl.querySelectorAll('pre code').forEach(block => hljs.highlightElement(block));
             }
             const guide = this.guides.find(g => g.slug === slug);
-            if (guide) document.title = this._l(guide, 'title') + ' - JS ClawHub Guide';
+            if (guide) document.title = this._l(guide, 'title') + (typeof I18nManager !== 'undefined' ? I18nManager.t('guide.detailTitleSuffix') : ' - 入门指南');
         },
         escapeHtml(str) { if (!str) return ''; const div = document.createElement('div'); div.textContent = str; return div.innerHTML; }
     };

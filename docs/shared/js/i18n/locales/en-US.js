@@ -18,6 +18,7 @@
         // Footer
         footer: {
             tagline: 'OpenClaw Ecosystem Navigation',
+            curatedBy: 'Curated by JS',
         },
 
         // Homepage
@@ -25,6 +26,7 @@
             pageTitle: 'JS ClawHub - OpenClaw Ecosystem Navigation',
             metaDesc: 'Curated OpenClaw ecosystem navigation by JS. Discover skills, integrations, tutorials & community resources.',
             curatedBadge: '// CURATED BY JS',
+            heroEcosystem: 'Ecosystem',
             heroDesc: 'Curated OpenClaw ecosystem navigation by JS. Discover skills, integrations, tutorials & <span class="bg-black text-brand-yellow px-1">community resources</span>.',
             searchPlaceholder: 'Search projects, skills, tutorials...',
             featured: 'Featured',
@@ -52,6 +54,14 @@
             postNotFound: '// POST NOT FOUND',
             browseAll: 'BROWSE ALL POSTS',
             backToBlog: '← BACK TO BLOG',
+            postTitleSuffix: ' - JS ClawHub Blog',
+            tags: {
+                Announcement: 'Announcement',
+                Guide: 'Guide',
+                OpenClaw: 'OpenClaw',
+                Tutorial: 'Tutorial',
+                Deployment: 'Deployment',
+            },
         },
 
         // Skills Market
@@ -78,12 +88,14 @@
         // Getting Started Guide
         guide: {
             pageTitle: 'Getting Started - JS ClawHub',
+            heroTitle: 'Guide',
             metaDesc: 'OpenClaw Getting Started Guide - Configure your personal AI assistant from scratch',
             heroDesc: 'Configure your OpenClaw <span class="bg-black text-brand-yellow px-1">personal AI assistant</span> from scratch.',
             toc: 'Contents',
             loadingGuide: 'LOADING GUIDE...',
             errorLoading: '// ERROR LOADING GUIDE',
             guideNotFound: '// GUIDE NOT FOUND',
+            detailTitleSuffix: ' - Getting Started Guide',
         },
 
         // Pulse

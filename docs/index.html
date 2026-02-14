@@ -98,7 +98,7 @@
 
             <h1 class="opacity-0-init animate-slide-up stagger-2 text-6xl md:text-8xl font-black tracking-tight mb-8 leading-none uppercase">
                 OpenClaw<br>
-                <span class="text-white text-stroke">Ecosystem</span>
+                <span class="text-white text-stroke" data-i18n="home.heroEcosystem">生态</span>
             </h1>
 
             <p class="opacity-0-init animate-slide-up stagger-3 text-xl md:text-2xl font-bold max-w-2xl leading-relaxed border-l-4 border-black pl-6 bg-white/50 backdrop-blur-sm p-4 mb-8" data-i18n-html="home.heroDesc">
@@ -243,7 +243,7 @@
 
             tabs.innerHTML = this.data.categories.map((cat, idx) => `
                 <button class="${idx === 0 ? 'brutal-btn-primary' : 'brutal-btn-secondary'} px-4 py-2 text-sm category-tab" data-category="${cat.id}" onclick="HomePage.switchCategory('${cat.id}')">
-                    ${this.escapeHtml(cat.name)}
+                    ${this.escapeHtml(this._l(cat, 'name'))}
                 </button>
             `).join('');
 
