@@ -15,13 +15,24 @@ const ROOT = resolve(__dirname, '..');
 const SRC = join(ROOT, 'src');
 const DOCS = join(ROOT, 'docs');
 
+// Google Analytics measurement ID
+const GA_ID = 'G-4WV60W6FM6';
+const GA_SNIPPET = `<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '${GA_ID}');
+</script>`;
+
 // ============================================================
 // Step 1: Clean docs/ directory
 // ============================================================
 console.log('\n🔧 JS ClawHub Build');
 console.log('='.repeat(50));
 
-console.log('\n[1/4] Cleaning docs/ ...');
+console.log('\n[1/5] Cleaning docs/ ...');
 if (existsSync(DOCS)) {
     rmSync(DOCS, { recursive: true, force: true });
 }
@@ -30,19 +41,46 @@ mkdirSync(DOCS, { recursive: true });
 // ============================================================
 // Step 2: Copy src/ to docs/
 // ============================================================
-console.log('[2/4] Copying src/ → docs/ ...');
+console.log('[2/5] Copying src/ → docs/ ...');
 cpSync(SRC, DOCS, { recursive: true });
 
 // ============================================================
 // Step 3: Create .nojekyll for GitHub Pages
 // ============================================================
-console.log('[3/4] Creating .nojekyll ...');
+console.log('[3/5] Creating .nojekyll ...');
 writeFileSync(join(DOCS, '.nojekyll'), '');
 
 // ============================================================
-// Step 4: Validate i18n completeness in JSON data files
+// Step 4: Inject Google Analytics into all HTML files
 // ============================================================
-console.log('[4/4] Validating i18n translations ...\n');
+console.log('[4/5] Injecting Google Analytics ...');
+
+function injectGA(dir) {
+    let count = 0;
+    const entries = readdirSync(dir, { withFileTypes: true });
+    for (const entry of entries) {
+        const fullPath = join(dir, entry.name);
+        if (entry.isDirectory()) {
+            count += injectGA(fullPath);
+        } else if (entry.name.endsWith('.html')) {
+            let html = readFileSync(fullPath, 'utf-8');
+            if (!html.includes('googletagmanager.com') && html.includes('</head>')) {
+                html = html.replace('</head>', `${GA_SNIPPET}\n</head>`);
+                writeFileSync(fullPath, html, 'utf-8');
+                count++;
+            }
+        }
+    }
+    return count;
+}
+
+const gaCount = injectGA(DOCS);
+console.log(`     Injected into ${gaCount} HTML file(s)`);
+
+// ============================================================
+// Step 5: Validate i18n completeness in JSON data files
+// ============================================================
+console.log('[5/5] Validating i18n translations ...\n');
 
 const BILINGUAL_FIELDS = {
     'data/navigation.json': {
