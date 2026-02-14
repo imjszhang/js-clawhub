@@ -1,10 +1,39 @@
 {
-  "updated_at": "2026-02-14T22:01:24.555559+00:00",
+  "updated_at": "2026-02-14T23:04:36.238680+00:00",
   "this_week": {
-    "total_items": 114,
+    "total_items": 120,
     "avg_score": 0.85,
-    "unique_authors": 95,
+    "unique_authors": 99,
     "top_items": [
+      {
+        "id": "2022344874499223884",
+        "date": "2026-02-15",
+        "author": "@shiri_shh",
+        "author_url": "https://x.com/shiri_shh",
+        "tweet_url": "https://x.com/shiri_shh/status/2022344874499223884",
+        "title": {
+          "en-US": "OpenClaw for local business websites automation",
+          "zh-CN": "用OpenClaw自动为本地商家生成网站：从Google Business抓取信息，自动生成网站，邮件发送预览+付款链接"
+        },
+        "summary": {
+          "en-US": "OpenClaw商业化 - 本地商家自动化服务",
+          "zh-CN": "2669赞4425收藏的超高价值内容，展示OpenClaw商业化落地案例"
+        },
+        "relevance": "OpenClaw商业化 - 本地商家自动化服务",
+        "score": 0.95,
+        "engagement": {
+          "likes": 2669,
+          "replies": 181,
+          "retweets": 88
+        },
+        "comment_type": "ask_question",
+        "suggested_angle": "询问实际转化率数据和客户对AI生成网站的接受程度",
+        "synced_at": "2026-02-14T23:04:36.233879+00:00",
+        "js_take": {
+          "en-US": "This is a solid business model. What's the actual conversion rate like—how many businesses go from 'free preview' to paid? Curious if local business owners are skeptical about AI-generated sites or if the low price overcomes that.",
+          "zh-CN": "This is a solid business model. What's the actual conversion rate like—how many businesses go from 'free preview' to paid? Curious if local business owners are skeptical about AI-generated sites or if the low price overcomes that."
+        }
+      },
       {
         "id": "2022538086165393501",
         "date": "2026-02-14",
@@ -56,35 +85,11 @@
           "en-US": "That learning curve is real. What specific OpenClaw configuration changes had the biggest impact on your workflow after the first month? I've found memory file organization and skill isolation matter more than the model choice itself.",
           "zh-CN": "这个学习曲线确实真实。第一个月后，哪些 OpenClaw 配置调整对你工作流影响最大？我发现记忆文件组织和 skill 隔离比模型选择本身更重要。"
         }
-      },
-      {
-        "id": "2022522600681775361",
-        "date": "2026-02-14",
-        "author": "@steipete",
-        "author_url": "https://x.com/steipete",
-        "tweet_url": "https://x.com/steipete/status/2022522600681775361",
-        "title": {
-          "en-US": "summarize tool with OpenRouter free model scanner",
-          "zh-CN": "summarize tool with OpenRouter free model scanner"
-        },
-        "summary": {
-          "en-US": "OpenClaw tool - automatic free model detection",
-          "zh-CN": "OpenClaw tool - automatic free model detection"
-        },
-        "relevance": "OpenClaw tool - automatic free model detection",
-        "score": 0.94,
-        "engagement": {},
-        "comment_type": "ask_question",
-        "synced_at": "2026-02-14T15:54:51.853752+00:00",
-        "js_take": {
-          "en-US": "How are you evaluating the free models? Is it just throughput/latency or do you check output quality consistency too? Rate limits must be brutal for summarization workloads.",
-          "zh-CN": "你怎么评估这些免费模型？只看吞吐/延迟，还是也检查输出质量一致性？对摘要任务来说，限流肯定很要命吧。"
-        }
       }
     ]
   },
   "all_time": {
-    "total_items": 114,
-    "unique_authors": 95
+    "total_items": 120,
+    "unique_authors": 99
   }
 }

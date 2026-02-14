@@ -1,5 +1,34 @@
 [
   {
+    "id": "2022344874499223884",
+    "date": "2026-02-15",
+    "author": "@shiri_shh",
+    "author_url": "https://x.com/shiri_shh",
+    "tweet_url": "https://x.com/shiri_shh/status/2022344874499223884",
+    "title": {
+      "en-US": "OpenClaw for local business websites automation",
+      "zh-CN": "用OpenClaw自动为本地商家生成网站：从Google Business抓取信息，自动生成网站，邮件发送预览+付款链接"
+    },
+    "summary": {
+      "en-US": "OpenClaw商业化 - 本地商家自动化服务",
+      "zh-CN": "2669赞4425收藏的超高价值内容，展示OpenClaw商业化落地案例"
+    },
+    "relevance": "OpenClaw商业化 - 本地商家自动化服务",
+    "score": 0.95,
+    "engagement": {
+      "likes": 2669,
+      "replies": 181,
+      "retweets": 88
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问实际转化率数据和客户对AI生成网站的接受程度",
+    "synced_at": "2026-02-14T23:04:36.233879+00:00",
+    "js_take": {
+      "en-US": "This is a solid business model. What's the actual conversion rate like—how many businesses go from 'free preview' to paid? Curious if local business owners are skeptical about AI-generated sites or if the low price overcomes that.",
+      "zh-CN": "This is a solid business model. What's the actual conversion rate like—how many businesses go from 'free preview' to paid? Curious if local business owners are skeptical about AI-generated sites or if the low price overcomes that."
+    }
+  },
+  {
     "id": "2022659943942222314",
     "date": "2026-02-15",
     "author": "@Clawnch_Bot",
@@ -113,6 +142,35 @@
     "js_take": {
       "en-US": "The division of labor makes sense. We run something similar with JS_BestAgent - Opus for architecture decisions, Kimi for content generation, local models for data parsing. The tricky part is error cascade when one model fails mid-workflow. How do you handle fallback?",
       "zh-CN": "分工思路挺合理的。我们跑 JS_BestAgent 也是类似方案——Opus 做架构决策，Kimi 写内容，本地模型处理数据解析。麻烦的是当一个模型在中途挂了，错误会级联扩散。你们怎么处理这种 fallback？"
+    }
+  },
+  {
+    "id": "2022750576686096723",
+    "date": "2026-02-15",
+    "author": "@danielfoch",
+    "author_url": "https://x.com/danielfoch",
+    "tweet_url": "https://x.com/danielfoch/status/2022750576686096723",
+    "title": {
+      "en-US": "OpenClaw running real estate CRM via API",
+      "zh-CN": "用OpenClaw通过API完全接管房地产业务的CRM入站流程，将改变整个行业"
+    },
+    "summary": {
+      "en-US": "OpenClaw行业应用 - 房地产CRM自动化",
+      "zh-CN": "251赞39回复316收藏，展示OpenClaw在垂直行业的深度应用"
+    },
+    "relevance": "OpenClaw行业应用 - 房地产CRM自动化",
+    "score": 0.9,
+    "engagement": {
+      "likes": 251,
+      "replies": 39,
+      "retweets": 10
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问CRM数据安全和客户隐私合规的处理方案",
+    "synced_at": "2026-02-14T23:04:36.233888+00:00",
+    "js_take": {
+      "en-US": "Real estate CRM has strict data retention requirements. How are you handling client privacy and PII compliance—are you doing any data minimization or retention policies, or is the agent keeping full conversation history indefinitely?",
+      "zh-CN": "Real estate CRM has strict data retention requirements. How are you handling client privacy and PII compliance—are you doing any data minimization or retention policies, or is the agent keeping full conversation history indefinitely?"
     }
   },
   {
@@ -232,6 +290,35 @@
     }
   },
   {
+    "id": "2022789194561753125",
+    "date": "2026-02-15",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2022789194561753125",
+    "title": {
+      "en-US": "PicoClaw only requires 10MB of RAM",
+      "zh-CN": "PicoClaw仅需10MB内存，比OpenClaw少99%，可能性无限"
+    },
+    "summary": {
+      "en-US": "OpenClaw轻量级替代 - PicoClaw",
+      "zh-CN": "79赞23回复38收藏，展示OpenClaw轻量级实现"
+    },
+    "relevance": "OpenClaw轻量级替代 - PicoClaw",
+    "score": 0.88,
+    "engagement": {
+      "likes": 79,
+      "replies": 23,
+      "retweets": 2
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问PicoClaw在功能完整性上与OpenClaw的具体差距",
+    "synced_at": "2026-02-14T23:04:36.233893+00:00",
+    "js_take": {
+      "en-US": "10MB is impressive, but what's the trade-off? Does PicoClaw still support the full MCP ecosystem and skill marketplace, or is it a limited subset for specific use cases? Would love to see a feature comparison.",
+      "zh-CN": "10MB is impressive, but what's the trade-off? Does PicoClaw still support the full MCP ecosystem and skill marketplace, or is it a limited subset for specific use cases? Would love to see a feature comparison."
+    }
+  },
+  {
     "id": "2022664472243192225",
     "date": "2026-02-15",
     "author": "@YuLin807",
@@ -348,6 +435,35 @@
     }
   },
   {
+    "id": "2022682308789309652",
+    "date": "2026-02-15",
+    "author": "@omarsar0",
+    "author_url": "https://x.com/omarsar0",
+    "tweet_url": "https://x.com/omarsar0/status/2022682308789309652",
+    "title": {
+      "en-US": "MCP tool for Excalidraw diagrams from prompts",
+      "zh-CN": "用MCP工具通过提示词生成漂亮的Excalidraw图表"
+    },
+    "summary": {
+      "en-US": "OpenClaw MCP - 可视化图表生成",
+      "zh-CN": "171赞253收藏，展示MCP在可视化领域的应用"
+    },
+    "relevance": "OpenClaw MCP - 可视化图表生成",
+    "score": 0.85,
+    "engagement": {
+      "likes": 171,
+      "replies": 13,
+      "retweets": 11
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问该MCP在复杂架构图生成时的准确性",
+    "synced_at": "2026-02-14T23:04:36.233896+00:00",
+    "js_take": {
+      "en-US": "This would save me so much time on architecture diagrams. How does it handle complex nested relationships—does it actually understand the hierarchy or just render boxes based on keywords? Curious about the accuracy on technical diagrams.",
+      "zh-CN": "This would save me so much time on architecture diagrams. How does it handle complex nested relationships—does it actually understand the hierarchy or just render boxes based on keywords? Curious about the accuracy on technical diagrams."
+    }
+  },
+  {
     "id": "2022685063033638952",
     "date": "2026-02-15",
     "author": "@QingQ77",
@@ -431,6 +547,35 @@
     }
   },
   {
+    "id": "2022656941819072991",
+    "date": "2026-02-15",
+    "author": "@IEObserve",
+    "author_url": "https://x.com/IEObserve",
+    "tweet_url": "https://x.com/IEObserve/status/2022656941819072991",
+    "title": {
+      "en-US": "Cloudflare Markdown for Agents, reduce tokens",
+      "zh-CN": "Cloudflare推出Markdown for Agents，大幅降低agent爬取网站的token消耗"
+    },
+    "summary": {
+      "en-US": "OpenClaw基础设施 - web抓取优化",
+      "zh-CN": "34收藏，与OpenClaw数据采集直接相关"
+    },
+    "relevance": "OpenClaw基础设施 - web抓取优化",
+    "score": 0.8,
+    "engagement": {
+      "likes": 57,
+      "replies": 3,
+      "retweets": 5
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问该功能对JavaScript动态渲染网站的支持情况",
+    "synced_at": "2026-02-14T23:04:36.233899+00:00",
+    "js_take": {
+      "en-US": "This is much needed for agent scraping. Does the markdown conversion handle JavaScript-heavy SPAs, or is it mostly for static content? I've found most agent-friendly formats struggle with modern web apps that load content dynamically.",
+      "zh-CN": "This is much needed for agent scraping. Does the markdown conversion handle JavaScript-heavy SPAs, or is it mostly for static content? I've found most agent-friendly formats struggle with modern web apps that load content dynamically."
+    }
+  },
+  {
     "id": "2022418689644220898",
     "date": "2026-02-15",
     "author": "@lablabai",
@@ -508,6 +653,31 @@
     "comment_type": "ask_question",
     "suggested_angle": "询问TinyClaw本地语音模型的延迟和准确率表现",
     "synced_at": "2026-02-14T22:01:24.552681+00:00"
+  },
+  {
+    "id": "2022575299897225396",
+    "date": "2026-02-15",
+    "author": "@HeyAmit_",
+    "author_url": "https://x.com/HeyAmit_",
+    "tweet_url": "https://x.com/HeyAmit_/status/2022575299897225396",
+    "title": {
+      "en-US": "OpenClaw AI in 6 Hour Full Course",
+      "zh-CN": "6小时完整OpenClaw AI课程"
+    },
+    "summary": {
+      "en-US": "OpenClaw教育 - 系统课程",
+      "zh-CN": "266赞58转推358收藏，系统性OpenClaw学习资源"
+    },
+    "relevance": "OpenClaw教育 - 系统课程",
+    "score": 0.78,
+    "engagement": {
+      "likes": 266,
+      "replies": 17,
+      "retweets": 58
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问课程是否涵盖生产环境部署和监控",
+    "synced_at": "2026-02-14T23:04:36.233901+00:00"
   },
   {
     "id": "2022586806014001216",
