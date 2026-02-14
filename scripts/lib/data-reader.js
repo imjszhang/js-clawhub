@@ -15,7 +15,8 @@ const __dirname = dirname(__filename);
 
 // ── Paths ────────────────────────────────────────────────────────────
 
-const DOCS = join(__dirname, '..', '..', 'docs');
+// Read from src/ (source of truth); docs/ is the build output
+const DOCS = join(__dirname, '..', '..', 'src');
 
 const PATHS = {
     pulse:      join(DOCS, 'pulse', 'data', 'items.json'),
@@ -43,6 +44,21 @@ function formatDate(d) {
     const month = String(d.getMonth() + 1).padStart(2, '0');
     const day = String(d.getDate()).padStart(2, '0');
     return `${year}-${month}-${day}`;
+}
+
+/**
+ * Resolve a bilingual field to a plain string.
+ * Handles both plain strings and {"zh-CN": "...", "en-US": "..."} objects.
+ * For CLI output, prefers zh-CN as default (same as the site default).
+ * @param {string|Object} val
+ * @returns {string}
+ */
+function resolveField(val) {
+    if (typeof val === 'string') return val;
+    if (val && typeof val === 'object') {
+        return val['zh-CN'] || val['en-US'] || '';
+    }
+    return '';
 }
 
 // ── Public API ───────────────────────────────────────────────────────
@@ -101,7 +117,7 @@ export function readProjects({ category, tag } = {}) {
     for (const item of (nav.featured || [])) {
         results.push({
             name: item.name,
-            desc: item.desc,
+            desc: resolveField(item.desc),
             url: item.url,
             category: 'featured',
             tags: item.tags || [],
@@ -113,7 +129,7 @@ export function readProjects({ category, tag } = {}) {
         for (const item of (cat.items || [])) {
             results.push({
                 name: item.name,
-                desc: item.desc,
+                desc: resolveField(item.desc),
                 url: item.url,
                 category: cat.id,
                 tags: item.tags || [],
@@ -150,7 +166,8 @@ export function readSkills({ category } = {}) {
         items = items.filter(it => (it.category || '').toLowerCase() === c);
     }
 
-    return items;
+    // Resolve bilingual fields for CLI output
+    return items.map(it => ({ ...it, desc: resolveField(it.desc) }));
 }
 
 /**
@@ -177,7 +194,8 @@ export function readBlog({ tag, latest } = {}) {
         items = items.slice(0, latest);
     }
 
-    return items;
+    // Resolve bilingual fields for CLI output
+    return items.map(it => ({ ...it, title: resolveField(it.title), summary: resolveField(it.summary) }));
 }
 
 /**
@@ -191,6 +209,9 @@ export function readGuide({ slug } = {}) {
 
     // Sort by order
     items.sort((a, b) => (a.order || 0) - (b.order || 0));
+
+    // Resolve bilingual title for CLI output
+    items = items.map(it => ({ ...it, title: resolveField(it.title) }));
 
     if (slug) {
         return items.find(it => it.slug === slug) || null;

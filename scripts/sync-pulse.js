@@ -22,7 +22,8 @@ const __dirname = dirname(__filename);
 
 // ── Config ──────────────────────────────────────────────────────────
 
-const ITEMS_PATH = join(__dirname, '..', 'docs', 'pulse', 'data', 'items.json');
+// Write to src/ (source of truth); run `npm run build` afterwards to update docs/
+const ITEMS_PATH = join(__dirname, '..', 'src', 'pulse', 'data', 'items.json');
 
 // Relative path from js-clawhub to js-moltbook engagement history
 const HISTORY_DIR = join(__dirname, '..', '..', 'js-moltbook', 'data', 'intelligence', 'x_engagement_history');

@@ -1,0 +1,287 @@
+/*
+ * JS ClawHub - Neo-Brutalism Design System
+ * Extracted from agent-js ui/land.html
+ * Brand Colors: Yellow #FCD228 / Black #000000 / White #FFFFFF
+ */
+
+/* ========================================
+   BASE STYLES
+   ======================================== */
+
+body {
+    background-color: #FCD228;
+    color: #000000;
+    /* Technical Grid Pattern */
+    background-image: 
+        linear-gradient(rgba(0, 0, 0, 0.08) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 0, 0, 0.08) 1px, transparent 1px);
+    background-size: 50px 50px;
+}
+
+/* ========================================
+   SCROLLBAR
+   ======================================== */
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+::-webkit-scrollbar-track {
+    background: #FCD228;
+    border-left: 3px solid black;
+}
+::-webkit-scrollbar-thumb {
+    background: #000000;
+    border: 3px solid #FCD228;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #333;
+}
+
+/* ========================================
+   BRUTALISM COMPONENTS
+   ======================================== */
+
+.brutal-card {
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    box-shadow: 6px 6px 0px 0px #000000;
+    transition: all 0.2s ease-in-out;
+}
+
+.brutal-card:hover {
+    transform: translate(2px, 2px);
+    box-shadow: 4px 4px 0px 0px #000000;
+}
+
+.brutal-btn-primary {
+    background: #000000;
+    color: #FCD228;
+    border: 3px solid #000000;
+    box-shadow: 4px 4px 0px 0px #FFFFFF;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: all 0.1s;
+    cursor: pointer;
+}
+
+.brutal-btn-primary:hover {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0px 0px #FFFFFF;
+}
+
+.brutal-btn-secondary {
+    background: #FFFFFF;
+    color: #000000;
+    border: 3px solid #000000;
+    box-shadow: 4px 4px 0px 0px #000000;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: all 0.1s;
+    cursor: pointer;
+}
+
+.brutal-btn-secondary:hover {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0px 0px #000000;
+}
+
+.brutal-tag {
+    background: #000000;
+    color: #FCD228;
+    display: inline-block;
+    padding: 2px 8px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.brutal-section-title {
+    display: inline-block;
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    padding: 8px 16px;
+    box-shadow: 6px 6px 0px 0px #000000;
+    font-size: 2.25rem;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+/* ========================================
+   TEXT EFFECTS
+   ======================================== */
+
+.text-stroke {
+    -webkit-text-stroke: 1px #000000;
+    color: transparent;
+}
+
+/* ========================================
+   ANIMATIONS
+   ======================================== */
+
+.stagger-1 { animation-delay: 0.1s; }
+.stagger-2 { animation-delay: 0.2s; }
+.stagger-3 { animation-delay: 0.3s; }
+.stagger-4 { animation-delay: 0.4s; }
+.stagger-5 { animation-delay: 0.5s; }
+
+.opacity-0-init { opacity: 0; }
+
+/* ========================================
+   SEARCH INPUT
+   ======================================== */
+
+.brutal-search {
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    box-shadow: 4px 4px 0px 0px #000000;
+    font-family: 'JetBrains Mono', monospace;
+    padding: 12px 16px;
+    font-size: 1rem;
+    width: 100%;
+    outline: none;
+    transition: all 0.1s;
+}
+
+.brutal-search:focus {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0px 0px #000000;
+}
+
+.brutal-search::placeholder {
+    color: #999;
+}
+
+/* ========================================
+   TERMINAL CODE BLOCK
+   ======================================== */
+
+.brutal-terminal {
+    background: #000000;
+    color: #FCD228;
+    border: 3px solid #000000;
+    box-shadow: 6px 6px 0px 0px #000000;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    padding: 16px;
+}
+
+.brutal-terminal .terminal-dots {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #333;
+}
+
+.brutal-terminal .terminal-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+/* ========================================
+   MARKDOWN CONTENT STYLES
+   ======================================== */
+
+.brutal-prose h1,
+.brutal-prose h2,
+.brutal-prose h3 {
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.brutal-prose h1 { font-size: 2rem; }
+.brutal-prose h2 { font-size: 1.5rem; border-bottom: 3px solid #000; padding-bottom: 0.5rem; }
+.brutal-prose h3 { font-size: 1.25rem; }
+
+.brutal-prose p {
+    margin-bottom: 1rem;
+    line-height: 1.75;
+}
+
+.brutal-prose a {
+    color: #000;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+}
+
+.brutal-prose a:hover {
+    background: #000;
+    color: #FCD228;
+    text-decoration: none;
+    padding: 0 4px;
+}
+
+.brutal-prose code {
+    background: #000;
+    color: #FCD228;
+    padding: 2px 6px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.875rem;
+}
+
+.brutal-prose pre {
+    background: #000;
+    color: #FCD228;
+    border: 3px solid #000;
+    padding: 16px;
+    overflow-x: auto;
+    margin-bottom: 1rem;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.875rem;
+}
+
+.brutal-prose pre code {
+    background: none;
+    padding: 0;
+}
+
+.brutal-prose ul,
+.brutal-prose ol {
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+}
+
+.brutal-prose li {
+    margin-bottom: 0.5rem;
+    line-height: 1.75;
+}
+
+.brutal-prose blockquote {
+    border-left: 4px solid #000;
+    padding-left: 1rem;
+    font-style: italic;
+    margin-bottom: 1rem;
+    background: rgba(0,0,0,0.05);
+    padding: 1rem;
+}
+
+.brutal-prose img {
+    border: 3px solid #000;
+    box-shadow: 4px 4px 0px 0px #000;
+    max-width: 100%;
+}
+
+/* ========================================
+   LOADING STATES
+   ======================================== */
+
+.brutal-loading {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    border: 3px solid #000;
+    border-top-color: #FCD228;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
