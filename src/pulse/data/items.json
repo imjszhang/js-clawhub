@@ -87,6 +87,35 @@
     }
   },
   {
+    "id": "2022963090397032628",
+    "date": "2026-02-16",
+    "author": "@VadimStrizheus",
+    "author_url": "https://x.com/VadimStrizheus",
+    "tweet_url": "https://x.com/VadimStrizheus/status/2022963090397032628",
+    "title": {
+      "en-US": "18yo with zero coding experience builds AI enterprise company using OpenClaw",
+      "zh-CN": "18岁零编程经验者用OpenClaw创建AI企业公司，展示低门槛创业可能性"
+    },
+    "summary": {
+      "en-US": "Agent创业 + 人群分化",
+      "zh-CN": "超高互动量（1445赞，2296收藏），完美诠释「人群快速分化」——第一时间能玩起来的都不是普通人"
+    },
+    "relevance": "Agent创业 + 人群分化",
+    "score": 0.89,
+    "engagement": {
+      "likes": 1445,
+      "replies": 78,
+      "retweets": 63
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "这是「势」的残酷现实——18岁+零代码+OpenClaw=AI公司。不是年龄差距，是认知和行动的差距。表世界还在讨论AI会不会取代工作，里世界已经用AI创建公司。询问商业模式：是服务还是产品？如何获客？",
+    "synced_at": "2026-02-15T23:02:01.276359+00:00",
+    "js_take": {
+      "en-US": "Age is irrelevant when the tools are this accessible. This is the \"shi\" (势) of the agent era — the gap isn't technical skill, it's the willingness to start building. Are you selling services or products? And how are you finding those first customers?",
+      "zh-CN": "Age is irrelevant when the tools are this accessible. This is the \"shi\" (势) of the agent era — the gap isn't technical skill, it's the willingness to start building. Are you selling services or products? And how are you finding those first customers?"
+    }
+  },
+  {
     "id": "2023051313374703827",
     "date": "2026-02-16",
     "author": "@kimmonismus",
@@ -174,6 +203,35 @@
     }
   },
   {
+    "id": "2023162842547998855",
+    "date": "2026-02-16",
+    "author": "@iannuttall",
+    "author_url": "https://x.com/iannuttall",
+    "tweet_url": "https://x.com/iannuttall/status/2023162842547998855",
+    "title": {
+      "en-US": "Anthropic fumble: sent legal letter Jan 27 re Clawdbot, 19 days later OpenClaw founder acqui-hired by OpenAI",
+      "zh-CN": "指出Anthropic的法律行动失误：1月27日发律师函给Clawdbot，19天后OpenClaw创始人被OpenAI收购"
+    },
+    "summary": {
+      "en-US": "平台博弈 + 商业战略",
+      "zh-CN": "独特视角——对比Anthropic的防御性法律策略与OpenAI的进取性人才收购，展示不同公司的「势」判断"
+    },
+    "relevance": "平台博弈 + 商业战略",
+    "score": 0.86,
+    "engagement": {
+      "likes": 122,
+      "replies": 16,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「不争之争」vs「有为扩张」的典型案例。Anthropic用法律守住品牌，OpenAI用收购获取人才。真正的洞察：开源项目的创始人是最稀缺的资产，不是代码。当「里世界」的基础设施争夺白热化，抢人比抢商标更重要。",
+    "synced_at": "2026-02-15T23:02:01.276365+00:00",
+    "js_take": {
+      "en-US": "Classic case of \"wu wei\" (无为) vs aggressive expansion. Anthropic defended their trademark; OpenAI captured the architect. In the agent layer wars, the founder is the scarce asset — code is just an artifact. Talent arbitrage beats legal posturing.",
+      "zh-CN": "Classic case of \"wu wei\" (无为) vs aggressive expansion. Anthropic defended their trademark; OpenAI captured the architect. In the agent layer wars, the founder is the scarce asset — code is just an artifact. Talent arbitrage beats legal posturing."
+    }
+  },
+  {
     "id": "2023066145583202496",
     "date": "2026-02-16",
     "author": "@aakashgupta",
@@ -203,6 +261,60 @@
     }
   },
   {
+    "id": "2023155886404026638",
+    "date": "2026-02-16",
+    "author": "@jessegenet",
+    "author_url": "https://x.com/jessegenet",
+    "tweet_url": "https://x.com/jessegenet/status/2023155886404026638",
+    "title": {
+      "en-US": "Built YouTube curation for kids using OpenClaw - no algo, no slop, barefoot housewife's dream dev team",
+      "zh-CN": "用OpenClaw为孩子构建YouTube内容筛选系统，避免算法推荐，称之为「赤脚家庭主妇梦想中的开发团队」"
+    },
+    "summary": {
+      "en-US": "OpenClaw应用 + 家长控制",
+      "zh-CN": "展示OpenClaw的非技术用户应用——家长用agent保护孩子免受算法侵蚀，是「里世界」的善意使用"
+    },
+    "relevance": "OpenClaw应用 + 家长控制",
+    "score": 0.82,
+    "engagement": {
+      "likes": 157,
+      "replies": 17,
+      "retweets": 7
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "这是「里世界」的防护墙——不是阻挡技术，而是过滤噪音。当平台算法追求engagement，个人agent可以追求well-being。询问实现细节：是自动过滤还是预批准列表？如何平衡保护与探索？",
+    "synced_at": "2026-02-15T23:02:01.276369+00:00",
+    "js_take": {
+      "en-US": "This is what the inner world is for — not just automation, but curation. When platforms optimize for engagement, agents can optimize for well-being. Is this an allowlist approach or automated filtering? How do you balance protection with letting kids explore?",
+      "zh-CN": "This is what the inner world is for — not just automation, but curation. When platforms optimize for engagement, agents can optimize for well-being. Is this an allowlist approach or automated filtering? How do you balance protection with letting kids explore?"
+    }
+  },
+  {
+    "id": "2023096752212177146",
+    "date": "2026-02-16",
+    "author": "@NoahEpstein_",
+    "author_url": "https://x.com/NoahEpstein_",
+    "tweet_url": "https://x.com/NoahEpstein_/status/2023096752212177146",
+    "title": {
+      "en-US": "Kimi dropped model close to opus at fraction of cost, wrapped openclaw natively into browser",
+      "zh-CN": "Kimi发布接近Opus水平的模型且成本极低，并将OpenClaw原生集成到浏览器，指出最大瓶颈是部署摩擦"
+    },
+    "summary": {
+      "en-US": "表/里世界迁徙 + 平台战略",
+      "zh-CN": "高收藏量（1309），准确捕捉趋势——浏览器集成消除了部署摩擦，是「里世界」入口的关键一步"
+    },
+    "relevance": "表/里世界迁徙 + 平台战略",
+    "score": 0.79,
+    "engagement": {
+      "likes": 846,
+      "replies": 33,
+      "retweets": 57
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「无为而治」的平台策略——Kimi不试图重建生态，而是拥抱已有标准（OpenClaw）。真正的洞察是：agent层的标准化比模型层的竞争更重要。当Kimi Claw和自托管OpenClaw可以互通，用户拥有真正的选择权。",
+    "synced_at": "2026-02-15T23:02:01.276371+00:00"
+  },
+  {
     "id": "2023052159873687918",
     "date": "2026-02-16",
     "author": "@blackanger",
@@ -226,6 +338,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "这是「百花齐放」的agent生态——没有「最好的」框架，只有「最适合的」。OpenClaw的强项是工具生态和社区，agent-zero的强项是轻量和可定制性。真正的「建系统」是根据任务选择工具，而非盲目站队。",
     "synced_at": "2026-02-15T22:02:26.626334+00:00"
+  },
+  {
+    "id": "2023040149647421593",
+    "date": "2026-02-16",
+    "author": "@code_rams",
+    "author_url": "https://x.com/code_rams",
+    "tweet_url": "https://x.com/code_rams/status/2023040149647421593",
+    "title": {
+      "en-US": "Matthew Berman's OpenClaw workflow - AI value is in systems, not prompts",
+      "zh-CN": "观看Matthew Berman的27分钟OpenClaw工作流拆解，核心收获：AI价值在于系统而非提示词"
+    },
+    "summary": {
+      "en-US": "OpenClaw实战 + 系统思维",
+      "zh-CN": "契合「不造奇观，建系统」的核心洞察，展示24/7自主AI操作者的实际部署"
+    },
+    "relevance": "OpenClaw实战 + 系统思维",
+    "score": 0.76,
+    "engagement": {
+      "likes": 63,
+      "replies": 5,
+      "retweets": 4
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "这是「建系统」的实践验证——不是又一个AI工具，而是持续运转的自主操作者。真正的价值不在于单次提示的魔术，而在于系统的可靠性和可维护性。新手追求「哇」时刻，高手追求「一直运转」。",
+    "synced_at": "2026-02-15T23:02:01.276374+00:00"
   },
   {
     "id": "2022344874499223884",
