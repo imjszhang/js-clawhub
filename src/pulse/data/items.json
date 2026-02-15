@@ -29,6 +29,31 @@
     }
   },
   {
+    "id": "2022846202581258585",
+    "date": "2026-02-15",
+    "author": "@geekbb",
+    "author_url": "https://x.com/geekbb",
+    "tweet_url": "https://x.com/geekbb/status/2022846202581258585",
+    "title": {
+      "en-US": "ZeroClaw Rust rewrite vs OpenClaw: 3.4MB vs 28MB, 0s vs 5.98s, 7.8MB vs 1.52GB",
+      "zh-CN": "用Rust重写的ZeroClaw性能对比OpenClaw：体积缩小8倍，启动时间从5.98秒降至0秒，内存占用从1.52GB降至7.8MB"
+    },
+    "summary": {
+      "en-US": "OpenClaw轻量级替代 - Rust重写",
+      "zh-CN": "235赞382收藏24回复的高互动，展示OpenClaw生态的Rust替代方案，性能对比极具冲击力"
+    },
+    "relevance": "OpenClaw轻量级替代 - Rust重写",
+    "score": 0.95,
+    "engagement": {
+      "likes": 235,
+      "replies": 24,
+      "retweets": 33
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问ZeroClaw在MCP协议兼容性和技能生态系统上的完整度",
+    "synced_at": "2026-02-15T03:04:05.925752+00:00"
+  },
+  {
     "id": "2022659943942222314",
     "date": "2026-02-15",
     "author": "@Clawnch_Bot",
@@ -435,6 +460,31 @@
     }
   },
   {
+    "id": "2022841335951298619",
+    "date": "2026-02-15",
+    "author": "@jianxliao",
+    "author_url": "https://x.com/jianxliao",
+    "tweet_url": "https://x.com/jianxliao/status/2022841335951298619",
+    "title": {
+      "en-US": "TinyClaw v0.0.4 with specialized agent team collaboration",
+      "zh-CN": "TinyClaw v0.0.4发布，支持coder/reviewer/writer/researcher专业agent团队协作，通过actor模型和消息队列实现并行工作"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - TinyClaw多agent协作",
+      "zh-CN": "展示轻量级OpenClaw实现的多agent协作架构，26收藏"
+    },
+    "relevance": "OpenClaw生态 - TinyClaw多agent协作",
+    "score": 0.88,
+    "engagement": {
+      "likes": 30,
+      "replies": 3,
+      "retweets": 3
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问agent间消息传递的延迟和冲突解决机制",
+    "synced_at": "2026-02-15T03:04:05.925758+00:00"
+  },
+  {
     "id": "2022664472243192225",
     "date": "2026-02-15",
     "author": "@YuLin807",
@@ -578,6 +628,31 @@
       "en-US": "This would save me so much time on architecture diagrams. How does it handle complex nested relationships—does it actually understand the hierarchy or just render boxes based on keywords? Curious about the accuracy on technical diagrams.",
       "zh-CN": "This would save me so much time on architecture diagrams. How does it handle complex nested relationships—does it actually understand the hierarchy or just render boxes based on keywords? Curious about the accuracy on technical diagrams."
     }
+  },
+  {
+    "id": "2022780976804385230",
+    "date": "2026-02-15",
+    "author": "@Patrick1Kennedy",
+    "author_url": "https://x.com/Patrick1Kennedy",
+    "tweet_url": "https://x.com/Patrick1Kennedy/status/2022780976804385230",
+    "title": {
+      "en-US": "MiniMax-M2.5 MLX on Mac Studio M3 Ultra for OpenClaw",
+      "zh-CN": "在Mac Studio M3 Ultra 512GB上用LM Studio运行MiniMax-M2.5 MLX，速度足够快可同时托管OpenClaw、n8n工作流和Open WebUI"
+    },
+    "summary": {
+      "en-US": "OpenClaw部署 - Mac Studio + MiniMax本地推理",
+      "zh-CN": "84赞31收藏，展示Mac Studio作为OpenClaw服务器的实际部署方案"
+    },
+    "relevance": "OpenClaw部署 - Mac Studio + MiniMax本地推理",
+    "score": 0.85,
+    "engagement": {
+      "likes": 84,
+      "replies": 8,
+      "retweets": 10
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问MiniMax-M2.5在工具调用准确率上与Claude的对比",
+    "synced_at": "2026-02-15T03:04:05.925762+00:00"
   },
   {
     "id": "2022699301353238970",
