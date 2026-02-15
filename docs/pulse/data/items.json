@@ -228,6 +228,35 @@
     }
   },
   {
+    "id": "2022885194647376343",
+    "date": "2026-02-15",
+    "author": "@@Scobleizer",
+    "author_url": "https://x.com/Scobleizer",
+    "tweet_url": "https://x.com/Scobleizer/status/2022885194647376343",
+    "title": {
+      "en-US": "OpenClaw report with 50 real-world use cases",
+      "zh-CN": "Robert Scoble发布OpenClaw报告，通过AI架构分析X上的AI列表，生成50个真实世界用例"
+    },
+    "summary": {
+      "en-US": "OpenClaw应用案例 - 真实场景分析",
+      "zh-CN": "312赞36回复554收藏，Robert Scoble是高影响力账号，报告展示OpenClaw实际应用场景"
+    },
+    "relevance": "OpenClaw应用案例 - 真实场景分析",
+    "score": 0.92,
+    "engagement": {
+      "likes": 312,
+      "replies": 36,
+      "retweets": 33
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问这50个用例中哪些是作者认为最出乎意料或最具创造力的应用",
+    "synced_at": "2026-02-15T07:02:30.979093+00:00",
+    "js_take": {
+      "en-US": "Fascinating compilation. Which of these 50 use cases surprised you the most? I'm particularly curious about any edge cases or creative applications that wouldn't be obvious from the initial pitch.",
+      "zh-CN": "Fascinating compilation. Which of these 50 use cases surprised you the most? I'm particularly curious about any edge cases or creative applications that wouldn't be obvious from the initial pitch."
+    }
+  },
+  {
     "id": "2022543013390750059",
     "date": "2026-02-15",
     "author": "@off_thetarget",
@@ -630,6 +659,35 @@
     }
   },
   {
+    "id": "2022913087809163751",
+    "date": "2026-02-15",
+    "author": "@@yetone",
+    "author_url": "https://x.com/yetone",
+    "tweet_url": "https://x.com/yetone/status/2022913087809163751",
+    "title": {
+      "en-US": "OpenClaw and Alma mutual rescue scenario",
+      "zh-CN": "yetone借助OpenClaw给Alma开发telegram功能，今天OpenClaw不响应，轮到Alma抢救OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw运营经验 - agent互救场景",
+      "zh-CN": "52赞11回复，展示agent故障自救的实际场景，有趣的互救循环案例"
+    },
+    "relevance": "OpenClaw运营经验 - agent互救场景",
+    "score": 0.88,
+    "engagement": {
+      "likes": 52,
+      "retweets": 1,
+      "replies": 11
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问在OpenClaw不响应时，Alma是通过什么机制诊断和恢复OpenClaw的",
+    "synced_at": "2026-02-15T07:02:30.979099+00:00",
+    "js_take": {
+      "en-US": "The mutual rescue scenario is wild. When OpenClaw went unresponsive, what specific diagnostic signals did Alma use to determine the failure mode? Did it attempt a graceful restart or go straight to process termination?",
+      "zh-CN": "The mutual rescue scenario is wild. When OpenClaw went unresponsive, what specific diagnostic signals did Alma use to determine the failure mode? Did it attempt a graceful restart or go straight to process termination?"
+    }
+  },
+  {
     "id": "2022664472243192225",
     "date": "2026-02-15",
     "author": "@YuLin807",
@@ -855,6 +913,35 @@
     "js_take": {
       "en-US": "Hard to disagree. One underrated feature for me has been the SOUL.md + git workflow—having the agent literally version control its own personality evolution is fundamentally different from prompt engineering. Changes how you think about agent persistence.",
       "zh-CN": "Hard to disagree. One underrated feature for me has been the SOUL.md + git workflow—having the agent literally version control its own personality evolution is fundamentally different from prompt engineering. Changes how you think about agent persistence."
+    }
+  },
+  {
+    "id": "2022903972407709791",
+    "date": "2026-02-15",
+    "author": "@@VadimStrizheus",
+    "author_url": "https://x.com/VadimStrizheus",
+    "tweet_url": "https://x.com/VadimStrizheus/status/2022903972407709791",
+    "title": {
+      "en-US": "24/7 clipping agent inside OpenClaw auto-posting",
+      "zh-CN": "Vadim在OpenClaw中部署24/7剪辑agent，不仅能剪辑还能全天候自动发布到多平台"
+    },
+    "summary": {
+      "en-US": "OpenClaw自动化 - 内容创作工作流",
+      "zh-CN": "55赞20回复52收藏，展示OpenClaw在内容创作自动化中的实际应用"
+    },
+    "relevance": "OpenClaw自动化 - 内容创作工作流",
+    "score": 0.85,
+    "engagement": {
+      "likes": 55,
+      "retweets": 5,
+      "replies": 20
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问24/7运行时如何处理API速率限制和平台风控机制",
+    "synced_at": "2026-02-15T07:02:30.979103+00:00",
+    "js_take": {
+      "en-US": "Running 24/7 is impressive. How are you handling platform rate limits and anti-bot detection when posting continuously? Do you have backoff strategies or multiple account rotation in place?",
+      "zh-CN": "Running 24/7 is impressive. How are you handling platform rate limits and anti-bot detection when posting continuously? Do you have backoff strategies or multiple account rotation in place?"
     }
   },
   {
@@ -1104,6 +1191,35 @@
     "js_take": {
       "en-US": "Mobile automation is powerful but risky. How are you handling Xiaohongshu's anti-bot detection—are you using device fingerprint masking or just accepting the account ban risk? Curious about the trade-offs.",
       "zh-CN": "Mobile automation is powerful but risky. How are you handling Xiaohongshu's anti-bot detection—are you using device fingerprint masking or just accepting the account ban risk? Curious about the trade-offs."
+    }
+  },
+  {
+    "id": "2022902828713546015",
+    "date": "2026-02-15",
+    "author": "@@Vicharak_In",
+    "author_url": "https://x.com/Vicharak_In",
+    "tweet_url": "https://x.com/Vicharak_In/status/2022902828713546015",
+    "title": {
+      "en-US": "$160 edge computer running OpenClaw with local LLM coming",
+      "zh-CN": "Vicharak推出约160美元的边缘计算机Axon，可运行OpenClaw，即将支持本地1.5B参数LLM"
+    },
+    "summary": {
+      "en-US": "OpenClaw硬件 - 边缘计算部署",
+      "zh-CN": "71赞10回复，展示OpenClaw在低成本边缘设备上的部署方案"
+    },
+    "relevance": "OpenClaw硬件 - 边缘计算部署",
+    "score": 0.82,
+    "engagement": {
+      "likes": 71,
+      "retweets": 10,
+      "replies": 1
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问1.5B本地模型在工具调用和复杂推理任务上的表现如何",
+    "synced_at": "2026-02-15T07:02:30.979105+00:00",
+    "js_take": {
+      "en-US": "Curious about the local LLM performance. With only 1.5B parameters, how does it handle multi-step tool calling and complex reasoning tasks compared to cloud-based alternatives?",
+      "zh-CN": "Curious about the local LLM performance. With only 1.5B parameters, how does it handle multi-step tool calling and complex reasoning tasks compared to cloud-based alternatives?"
     }
   },
   {
