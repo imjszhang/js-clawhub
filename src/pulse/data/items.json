@@ -713,6 +713,31 @@
     }
   },
   {
+    "id": "2022764416660574261",
+    "date": "2026-02-15",
+    "author": "@aisearchio",
+    "author_url": "https://x.com/aisearchio",
+    "tweet_url": "https://x.com/aisearchio/status/2022764416660574261",
+    "title": {
+      "en-US": "PicoClaw <10MB RAM, 99% less memory, 400X faster",
+      "zh-CN": "PicoClaw仅需10MB内存，比OpenClaw少99%，快400倍"
+    },
+    "summary": {
+      "en-US": "OpenClaw轻量级替代 - PicoClaw",
+      "zh-CN": "82赞40收藏，展示OpenClaw的高性能替代方案"
+    },
+    "relevance": "OpenClaw轻量级替代 - PicoClaw",
+    "score": 0.84,
+    "engagement": {
+      "likes": 82,
+      "replies": 5,
+      "retweets": 4
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问PicoClaw在功能完整性和MCP兼容性上与OpenClaw的对比",
+    "synced_at": "2026-02-15T03:05:05.603879+00:00"
+  },
+  {
     "id": "2022685063033638952",
     "date": "2026-02-15",
     "author": "@QingQ77",
