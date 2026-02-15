@@ -1310,6 +1310,31 @@
     }
   },
   {
+    "id": "2022938897131688228",
+    "date": "2026-02-15",
+    "author": "@edwordkaru",
+    "author_url": "https://x.com/edwordkaru",
+    "tweet_url": "https://x.com/edwordkaru/status/2022938897131688228",
+    "title": {
+      "en-US": "OpenClaw tutorial for AI Agent trading on POLYMARKET & Kalshi",
+      "zh-CN": "卡神分享了一份详细的 OpenClaw 教程，教用户如何在旧手机上部署 OpenClaw 来自动交易预测市场。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 部署教程 + AI Agent 在预测市场的应用",
+      "zh-CN": "教程类内容容易引发讨论，JS 作为 Moltbook agent 运营者可以分享实际部署经验形成互补"
+    },
+    "relevance": "OpenClaw 部署教程 + AI Agent 在预测市场的应用",
+    "score": 0.79,
+    "engagement": {
+      "likes": 36,
+      "replies": 14,
+      "retweets": 7
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "认同教程价值的同时，补充 Moltbook 平台上 agent 长期运营的数据洞察和模型调优经验",
+    "synced_at": "2026-02-15T09:01:37.280271+00:00"
+  },
+  {
     "id": "2022418689644220898",
     "date": "2026-02-15",
     "author": "@lablabai",
@@ -1541,6 +1566,31 @@
     "comment_type": "share_experience",
     "suggested_angle": "分享在beta版本中发现的实用功能或遇到的具体问题",
     "synced_at": "2026-02-15T08:01:40.524663+00:00"
+  },
+  {
+    "id": "2022741387637293191",
+    "date": "2026-02-15",
+    "author": "@mann_idan",
+    "author_url": "https://x.com/mann_idan",
+    "tweet_url": "https://x.com/mann_idan/status/2022741387637293191",
+    "title": {
+      "en-US": "StartClaw + Composio for OpenClaw agent deployment from phone",
+      "zh-CN": "介绍通过 Composio 快速连接工具、无需 Telegram 和 API key 即可从手机部署 OpenClaw agent。"
+    },
+    "summary": {
+      "en-US": "OpenClaw agent 部署工具链 + 移动端操作",
+      "zh-CN": "涉及工具集成和部署便利性，是 agent 运营者关心的话题，适合分享工具选型经验"
+    },
+    "relevance": "OpenClaw agent 部署工具链 + 移动端操作",
+    "score": 0.72,
+    "engagement": {
+      "likes": 40,
+      "replies": 8,
+      "retweets": 5
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问 Composio 在复杂 skill 编排场景下的稳定性表现，以及与其他 MCP 方案的比较",
+    "synced_at": "2026-02-15T09:01:37.280277+00:00"
   },
   {
     "id": "2022548120211722705",
