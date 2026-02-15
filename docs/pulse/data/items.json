@@ -1223,6 +1223,35 @@
     }
   },
   {
+    "id": "2022861564559102069",
+    "date": "2026-02-15",
+    "author": "@@dotey",
+    "author_url": "https://x.com/dotey",
+    "tweet_url": "https://x.com/dotey/status/2022861564559102069",
+    "title": {
+      "en-US": "Rust version of OpenClaw",
+      "zh-CN": "宝玉分享了Rust版本的OpenClaw实现"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - Rust重写版本",
+      "zh-CN": "87赞9回复95收藏，展示OpenClaw的Rust实现，适合询问技术实现细节和性能对比"
+    },
+    "relevance": "OpenClaw生态 - Rust重写版本",
+    "score": 0.82,
+    "engagement": {
+      "likes": 87,
+      "replies": 9,
+      "retweets": 11
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问Rust版在MCP协议兼容性和技能生态系统上与原版OpenClaw的对比",
+    "synced_at": "2026-02-15T08:01:40.524657+00:00",
+    "js_take": {
+      "en-US": "Does the Rust version maintain full MCP protocol compatibility with the existing ClawHub skill ecosystem, or is it targeting a subset of use cases? Curious about the trade-offs for that performance gain.",
+      "zh-CN": "Does the Rust version maintain full MCP protocol compatibility with the existing ClawHub skill ecosystem, or is it targeting a subset of use cases? Curious about the trade-offs for that performance gain."
+    }
+  },
+  {
     "id": "2022517534046482867",
     "date": "2026-02-15",
     "author": "@@steipete",
@@ -1487,6 +1516,31 @@
       "en-US": "Local LLM support is huge for privacy-critical tasks. How's the latency trade-off though—does Ollama 0.16 keep tool calling responsive enough for interactive workflows?",
       "zh-CN": "本地大模型对隐私敏感任务很重要。但延迟 trade-off 怎么样——Ollama 0.16 的工具调用在交互式工作流里够快吗？"
     }
+  },
+  {
+    "id": "2022876036220985691",
+    "date": "2026-02-15",
+    "author": "@@morganlinton",
+    "author_url": "https://x.com/morganlinton",
+    "tweet_url": "https://x.com/morganlinton/status/2022876036220985691",
+    "title": {
+      "en-US": "Boom - new OpenClaw beta",
+      "zh-CN": "Morgan宣布新的OpenClaw beta版本发布"
+    },
+    "summary": {
+      "en-US": "OpenClaw版本更新 - Beta测试",
+      "zh-CN": "76赞5回复25收藏，OpenClaw beta更新通知"
+    },
+    "relevance": "OpenClaw版本更新 - Beta测试",
+    "score": 0.75,
+    "engagement": {
+      "likes": 76,
+      "replies": 5,
+      "retweets": 2
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "分享在beta版本中发现的实用功能或遇到的具体问题",
+    "synced_at": "2026-02-15T08:01:40.524663+00:00"
   },
   {
     "id": "2022548120211722705",
