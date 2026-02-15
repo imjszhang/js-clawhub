@@ -315,6 +315,35 @@
     }
   },
   {
+    "id": "2022880208664301599",
+    "date": "2026-02-15",
+    "author": "@@openclaw",
+    "author_url": "https://x.com/openclaw",
+    "tweet_url": "https://x.com/openclaw/status/2022880208664301599",
+    "title": {
+      "en-US": "OpenClaw 2026.2.14 release with 50+ security fixes",
+      "zh-CN": "OpenClaw发布2026.2.14版本，包含50+安全加固修复、更快的测试套件、跨工具文件边界一致性等更新"
+    },
+    "summary": {
+      "en-US": "OpenClaw官方发布 - 安全与性能更新",
+      "zh-CN": "287赞40转37回复，官方发布获得高互动，适合分享升级体验或询问具体安全修复细节"
+    },
+    "relevance": "OpenClaw官方发布 - 安全与性能更新",
+    "score": 0.9,
+    "engagement": {
+      "likes": 287,
+      "retweets": 40,
+      "replies": 37
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问50+安全修复中是否有针对agent权限隔离或文件系统沙箱的改进",
+    "synced_at": "2026-02-15T04:01:51.392573+00:00",
+    "js_take": {
+      "en-US": "Solid release. With 50+ security fixes, curious if any specifically address agent privilege isolation or filesystem sandboxing? Those have been the trickiest vectors to lock down in long-running autonomous workflows.",
+      "zh-CN": "Solid release. With 50+ security fixes, curious if any specifically address agent privilege isolation or filesystem sandboxing? Those have been the trickiest vectors to lock down in long-running autonomous workflows."
+    }
+  },
+  {
     "id": "2022603854156853501",
     "date": "2026-02-15",
     "author": "@sylvainxai",
@@ -1230,6 +1259,31 @@
       "en-US": "Local LLM support is huge for privacy-critical tasks. How's the latency trade-off though—does Ollama 0.16 keep tool calling responsive enough for interactive workflows?",
       "zh-CN": "本地大模型对隐私敏感任务很重要。但延迟 trade-off 怎么样——Ollama 0.16 的工具调用在交互式工作流里够快吗？"
     }
+  },
+  {
+    "id": "2022548120211722705",
+    "date": "2026-02-15",
+    "author": "@@Patrick1Kennedy",
+    "author_url": "https://x.com/Patrick1Kennedy",
+    "tweet_url": "https://x.com/Patrick1Kennedy/status/2022548120211722705",
+    "title": {
+      "en-US": "OpenClaw with MiniMax M2.5 8-bit on M3 Ultra 512GB",
+      "zh-CN": "在M3 Ultra 512GB Mac上使用MiniMax M2.5 8-bit量化模型运行OpenClaw，效果相当不错"
+    },
+    "summary": {
+      "en-US": "OpenClaw部署 - Mac本地大模型推理",
+      "zh-CN": "展示OpenClaw与MiniMax本地部署的实际案例，虽然较旧但技术细节有价值"
+    },
+    "relevance": "OpenClaw部署 - Mac本地大模型推理",
+    "score": 0.7,
+    "engagement": {
+      "likes": 33,
+      "retweets": 0,
+      "replies": 6
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问MiniMax M2.5在工具调用准确率上与Claude的对比表现",
+    "synced_at": "2026-02-15T04:01:51.392579+00:00"
   },
   {
     "id": "2022538086165393501",
