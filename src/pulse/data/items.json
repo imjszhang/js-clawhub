@@ -1455,6 +1455,35 @@
     }
   },
   {
+    "id": "2023018625494634693",
+    "date": "2026-02-15",
+    "author": "@VersunPan",
+    "author_url": "https://x.com/VersunPan",
+    "tweet_url": "https://x.com/VersunPan/status/2023018625494634693",
+    "title": {
+      "en-US": "Code audit report comparing OpenClaw variants: OpenClaw/Moltis/IronClaw/ZeroClaw/NanoClaw/PicoClaw/ZeptoClaw",
+      "zh-CN": "对主流 OpenClaw 变体进行深度代码审计，从可维护性到可持续性进行全面分析"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态分化 + 架构选择",
+      "zh-CN": "中国开发者主导的深度技术分析，体现了表/里世界迁徙中「势」的判断——不同场景需要不同量级的 agent"
+    },
+    "relevance": "OpenClaw 生态分化 + 架构选择",
+    "score": 0.82,
+    "engagement": {
+      "likes": 48,
+      "replies": 3,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "认同这种「分形」分析，补充「Jarvis 定律」视角：轻量变体适合边缘计算和快速响应，原版适合复杂工作流。询问审计中发现的 MCP skill 生态兼容性问题——这是生态分裂的最大风险",
+    "synced_at": "2026-02-15T15:02:13.027241+00:00",
+    "js_take": {
+      "en-US": "The ecosystem is fracturing by context — lightweight variants for edge/fast response, full OpenClaw for complex workflows. Jarvis Law: different embodiment needs different infrastructure. Curious about MCP skill compatibility across variants — that's where fragmentation hurts.",
+      "zh-CN": "The ecosystem is fracturing by context — lightweight variants for edge/fast response, full OpenClaw for complex workflows. Jarvis Law: different embodiment needs different infrastructure. Curious about MCP skill compatibility across variants — that's where fragmentation hurts."
+    }
+  },
+  {
     "id": "2022517534046482867",
     "date": "2026-02-15",
     "author": "@@steipete",
@@ -1510,6 +1539,35 @@
     "js_take": {
       "en-US": "This is much needed for agent scraping. Does the markdown conversion handle JavaScript-heavy SPAs, or is it mostly for static content? I've found most agent-friendly formats struggle with modern web apps that load content dynamically.",
       "zh-CN": "This is much needed for agent scraping. Does the markdown conversion handle JavaScript-heavy SPAs, or is it mostly for static content? I've found most agent-friendly formats struggle with modern web apps that load content dynamically."
+    }
+  },
+  {
+    "id": "2023030130134892557",
+    "date": "2026-02-15",
+    "author": "@testingcatalog",
+    "author_url": "https://x.com/testingcatalog",
+    "tweet_url": "https://x.com/testingcatalog/status/2023030130134892557",
+    "title": {
+      "en-US": "Kimi rolling out Kimi Claw agent in beta, managed 24/7 agent based on OpenClaw",
+      "zh-CN": "Kimi 正式推出基于 OpenClaw 的 Kimi Claw 托管 agent，支持 24/7 运行，并可连接自托管 OpenClaw"
+    },
+    "summary": {
+      "en-US": "平台竞争 + 表/里世界迁徙",
+      "zh-CN": "高互动量（498赞），代表大模型厂商正式入局 agent 托管，是里世界入口争夺的关键信号"
+    },
+    "relevance": "平台竞争 + 表/里世界迁徙",
+    "score": 0.8,
+    "engagement": {
+      "likes": 498,
+      "replies": 20,
+      "retweets": 36
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "指出这是「顺势而为」的战略——Kimi 从模型供应商进化为交互层平台。但关键问题是：当平台掌握 agent 运行时，独立 agent 的「主权」如何保障？询问自托管与托管的混合策略",
+    "synced_at": "2026-02-15T15:02:13.027247+00:00",
+    "js_take": {
+      "en-US": "Surface web becomes database, platforms race to own the interface layer. Strategic move. But when platforms control the runtime, what's the sovereignty model for independent agents? Hybrid self-hosted + managed is probably the pragmatic path.",
+      "zh-CN": "Surface web becomes database, platforms race to own the interface layer. Strategic move. But when platforms control the runtime, what's the sovereignty model for independent agents? Hybrid self-hosted + managed is probably the pragmatic path."
     }
   },
   {
@@ -1767,6 +1825,31 @@
     "synced_at": "2026-02-15T06:01:37.928794+00:00"
   },
   {
+    "id": "2023027903269851452",
+    "date": "2026-02-15",
+    "author": "@vikingmute",
+    "author_url": "https://x.com/vikingmute",
+    "tweet_url": "https://x.com/vikingmute/status/2023027903269851452",
+    "title": {
+      "en-US": "Sharing practical Claude Code tutorial with real battle-tested tips: Plan Mode and memory maintenance",
+      "zh-CN": "分享 Claude Code 实战教程，强调先用 Plan Mode 强制规划和维护记忆的重要性"
+    },
+    "summary": {
+      "en-US": "AI 编码工具 + 工程实践",
+      "zh-CN": "Claude Code 与 OpenClaw 是平行生态，高收藏量（302）说明实用价值，可分享跨平台经验"
+    },
+    "relevance": "AI 编码工具 + 工程实践",
+    "score": 0.76,
+    "engagement": {
+      "likes": 200,
+      "replies": 1,
+      "retweets": 43
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "认同 Plan Mode 的价值，补充 OpenClaw 的对比经验——SOUL.md 和 MEMORY.md 的「双轨记忆」设计如何平衡长期人格与短期任务上下文。询问 Claude Code 在长会话中的上下文管理机制",
+    "synced_at": "2026-02-15T15:02:13.027250+00:00"
+  },
+  {
     "id": "2022586806014001216",
     "date": "2026-02-15",
     "author": "@rammcodes",
@@ -1869,6 +1952,31 @@
     "comment_type": "ask_question",
     "suggested_angle": "询问 Composio 在复杂 skill 编排场景下的稳定性表现，以及与其他 MCP 方案的比较",
     "synced_at": "2026-02-15T09:01:37.280277+00:00"
+  },
+  {
+    "id": "2022994819765981402",
+    "date": "2026-02-15",
+    "author": "@gxjdian",
+    "author_url": "https://x.com/gxjdian",
+    "tweet_url": "https://x.com/gxjdian/status/2022994819765981402",
+    "title": {
+      "en-US": "Deployed OpenClaw lobster, sharing GitHub project with X analysis and multi-agent team scheduling",
+      "zh-CN": "部署 OpenClaw 后分享 GitHub 项目合集，包含 X 分析、热门分享和多 agent 专业团队调度"
+    },
+    "summary": {
+      "en-US": "OpenClaw 社区资源 + 多 agent 系统",
+      "zh-CN": "展示了中国社区的 agent 项目集合，涉及多代理调度——这是「里世界」复杂系统的关键能力"
+    },
+    "relevance": "OpenClaw 社区资源 + 多 agent 系统",
+    "score": 0.72,
+    "engagement": {
+      "likes": 80,
+      "replies": 0,
+      "retweets": 14
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "赞赏这种社区资源聚合，询问多 agent 专业团队的调度策略——是中心化协调还是去中心化自治？从「系统复利」角度，这种多 agent 架构如何积累长期价值而非一次性奇观",
+    "synced_at": "2026-02-15T15:02:13.027252+00:00"
   },
   {
     "id": "2022548120211722705",
