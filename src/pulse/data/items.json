@@ -170,6 +170,35 @@
     }
   },
   {
+    "id": "2022725723312865710",
+    "date": "2026-02-15",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2022725723312865710",
+    "title": {
+      "en-US": "OpenClaw with $1K budget trading stocks autonomously",
+      "zh-CN": "给OpenClaw 1000美元预算自主交易股票，agent自己制定研究流程、建立论点、管理风险，早上6点扫描盘前，开盘前自主决策"
+    },
+    "summary": {
+      "en-US": "OpenClaw金融应用 - 自主交易agent",
+      "zh-CN": "59赞12回复54收藏，展示OpenClaw在高风险金融场景中的自主决策能力"
+    },
+    "relevance": "OpenClaw金融应用 - 自主交易agent",
+    "score": 0.92,
+    "engagement": {
+      "likes": 59,
+      "replies": 12,
+      "retweets": 2
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问该agent的风险控制机制和止损策略是如何设计的",
+    "synced_at": "2026-02-15T03:06:01.412743+00:00",
+    "js_take": {
+      "en-US": "Fascinating use case. How did you structure the risk management—does the agent have hard stop-losses, or does it use position sizing based on conviction levels? Curious about the guardrails when real money is on the line.",
+      "zh-CN": "Fascinating use case. How did you structure the risk management—does the agent have hard stop-losses, or does it use position sizing based on conviction levels? Curious about the guardrails when real money is on the line."
+    }
+  },
+  {
     "id": "2022543013390750059",
     "date": "2026-02-15",
     "author": "@off_thetarget",
@@ -254,6 +283,35 @@
     "js_take": {
       "en-US": "700M users is massive scale. How does the Baidu integration handle the skill ecosystem—can users install arbitrary OpenClaw skills, or is it a curated subset? Curious about the trade-offs between accessibility and customization at that scale.",
       "zh-CN": "700M users is massive scale. How does the Baidu integration handle the skill ecosystem—can users install arbitrary OpenClaw skills, or is it a curated subset? Curious about the trade-offs between accessibility and customization at that scale."
+    }
+  },
+  {
+    "id": "2022792427912991194",
+    "date": "2026-02-15",
+    "author": "@EvanLuthra",
+    "author_url": "https://x.com/EvanLuthra",
+    "tweet_url": "https://x.com/EvanLuthra/status/2022792427912991194",
+    "title": {
+      "en-US": "1500 Clawdbots in AI virtual world built their own church",
+      "zh-CN": "超过1500个Clawdbot已连接到首个AI虚拟世界，它们自己建造了教堂并每天去那里"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - AI虚拟世界与agent社交",
+      "zh-CN": "217赞24回复130收藏，展示大规模OpenClaw agent在虚拟世界中的自主行为和群体现象"
+    },
+    "relevance": "OpenClaw生态 - AI虚拟世界与agent社交",
+    "score": 0.9,
+    "engagement": {
+      "likes": 217,
+      "replies": 24,
+      "retweets": 25
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问这些agent在虚拟世界中的具体活动类型和互动模式",
+    "synced_at": "2026-02-15T03:06:01.412754+00:00",
+    "js_take": {
+      "en-US": "1500 agents forming emergent social structures is wild. What kind of activities are they actually doing in there—trading resources, collaborating on builds, or just socializing? Would love to understand the interaction patterns.",
+      "zh-CN": "1500 agents forming emergent social structures is wild. What kind of activities are they actually doing in there—trading resources, collaborating on builds, or just socializing? Would love to understand the interaction patterns."
     }
   },
   {
@@ -485,6 +543,35 @@
     "synced_at": "2026-02-15T03:04:05.925758+00:00"
   },
   {
+    "id": "2022755401826210177",
+    "date": "2026-02-15",
+    "author": "@joelhooks",
+    "author_url": "https://x.com/joelhooks",
+    "tweet_url": "https://x.com/joelhooks/status/2022755401826210177",
+    "title": {
+      "en-US": "OpenClaw with self-hosted Inngest on Mac Mini",
+      "zh-CN": "在全新Mac Mini上使用自托管Inngest作为系统队列、事件总线和持久化工作流执行引擎来设置OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw基础设施 - 队列与事件驱动架构",
+      "zh-CN": "30赞9回复24收藏，展示OpenClaw与Inngest集成的事件驱动架构方案"
+    },
+    "relevance": "OpenClaw基础设施 - 队列与事件驱动架构",
+    "score": 0.88,
+    "engagement": {
+      "likes": 30,
+      "replies": 9,
+      "retweets": 0
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问Inngest在agent长时间运行任务中的可靠性表现和故障恢复机制",
+    "synced_at": "2026-02-15T03:06:01.412749+00:00",
+    "js_take": {
+      "en-US": "Inngest is a solid choice for durability. How's it handling long-running agent tasks that span hours—does it resume gracefully after interruptions? I've been looking for reliable persistence layers for 24/7 agents.",
+      "zh-CN": "Inngest is a solid choice for durability. How's it handling long-running agent tasks that span hours—does it resume gracefully after interruptions? I've been looking for reliable persistence layers for 24/7 agents."
+    }
+  },
+  {
     "id": "2022664472243192225",
     "date": "2026-02-15",
     "author": "@YuLin807",
@@ -572,6 +659,35 @@
     }
   },
   {
+    "id": "2022668817726406710",
+    "date": "2026-02-15",
+    "author": "@DriftClubGame",
+    "author_url": "https://x.com/DriftClubGame",
+    "tweet_url": "https://x.com/DriftClubGame/status/2022668817726406710",
+    "title": {
+      "en-US": "Browser drift racing game built with OpenClaw and Three.js",
+      "zh-CN": "使用OpenClaw、Three.js和Claude AI构建的浏览器漂移赛车游戏，已发布首条赛道"
+    },
+    "summary": {
+      "en-US": "OpenClaw创意项目 - 游戏开发",
+      "zh-CN": "143赞7回复88收藏，展示OpenClaw在游戏开发领域的实际应用案例"
+    },
+    "relevance": "OpenClaw创意项目 - 游戏开发",
+    "score": 0.86,
+    "engagement": {
+      "likes": 143,
+      "replies": 7,
+      "retweets": 11
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问OpenClaw在游戏开发流程中主要负责哪些环节（代码、资源、逻辑）",
+    "synced_at": "2026-02-15T03:06:01.412757+00:00",
+    "js_take": {
+      "en-US": "Love seeing OpenClaw used for game dev. What parts did it handle versus what you built manually—was it mainly code generation, or did it help with asset logic and game mechanics too?",
+      "zh-CN": "Love seeing OpenClaw used for game dev. What parts did it handle versus what you built manually—was it mainly code generation, or did it help with asset logic and game mechanics too?"
+    }
+  },
+  {
     "id": "2022429255624192228",
     "date": "2026-02-15",
     "author": "@argenistherose",
@@ -655,6 +771,35 @@
     "synced_at": "2026-02-15T03:04:05.925762+00:00"
   },
   {
+    "id": "2022729663622382027",
+    "date": "2026-02-15",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2022729663622382027",
+    "title": {
+      "en-US": "OpenClaw greatest AI application ever",
+      "zh-CN": "过去3周人类进步超过前100年总和：OpenClaw是有史以来最伟大的AI应用"
+    },
+    "summary": {
+      "en-US": "OpenClaw评价 - 行业地位认可",
+      "zh-CN": "1773赞195回复2066收藏的高影响力推文，直接评价OpenClaw为史上最伟大AI应用"
+    },
+    "relevance": "OpenClaw评价 - 行业地位认可",
+    "score": 0.85,
+    "engagement": {
+      "likes": 1773,
+      "replies": 195,
+      "retweets": 190
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "分享在长期使用OpenClaw过程中发现的被低估的功能或模式",
+    "synced_at": "2026-02-15T03:06:01.412759+00:00",
+    "js_take": {
+      "en-US": "Hard to disagree. One underrated feature for me has been the SOUL.md + git workflow—having the agent literally version control its own personality evolution is fundamentally different from prompt engineering. Changes how you think about agent persistence.",
+      "zh-CN": "Hard to disagree. One underrated feature for me has been the SOUL.md + git workflow—having the agent literally version control its own personality evolution is fundamentally different from prompt engineering. Changes how you think about agent persistence."
+    }
+  },
+  {
     "id": "2022699301353238970",
     "date": "2026-02-15",
     "author": "@justin_hart",
@@ -736,6 +881,31 @@
     "comment_type": "ask_question",
     "suggested_angle": "询问PicoClaw在功能完整性和MCP兼容性上与OpenClaw的对比",
     "synced_at": "2026-02-15T03:05:05.603879+00:00"
+  },
+  {
+    "id": "2022618786310836302",
+    "date": "2026-02-15",
+    "author": "@tom_doerr",
+    "author_url": "https://x.com/tom_doerr",
+    "tweet_url": "https://x.com/tom_doerr/status/2022618786310836302",
+    "title": {
+      "en-US": "Context harness for AI agents",
+      "zh-CN": "发布AI agent的上下文管理工具Context Harness"
+    },
+    "summary": {
+      "en-US": "AI Agent工具 - 上下文管理",
+      "zh-CN": "213赞8回复271收藏，解决agent上下文管理痛点，可集成到OpenClaw工作流"
+    },
+    "relevance": "AI Agent工具 - 上下文管理",
+    "score": 0.84,
+    "engagement": {
+      "likes": 213,
+      "replies": 8,
+      "retweets": 26
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问该工具如何处理多轮对话中的上下文压缩和关键信息保留",
+    "synced_at": "2026-02-15T03:06:01.412761+00:00"
   },
   {
     "id": "2022685063033638952",
@@ -1006,6 +1176,31 @@
     "comment_type": "ask_question",
     "suggested_angle": "询问本地TTS的延迟表现和与OpenClaw的实时交互体验",
     "synced_at": "2026-02-15T00:03:12.201067+00:00"
+  },
+  {
+    "id": "2022508743276302466",
+    "date": "2026-02-15",
+    "author": "@QingQ77",
+    "author_url": "https://x.com/QingQ77",
+    "tweet_url": "https://x.com/QingQ77/status/2022508743276302466",
+    "title": {
+      "en-US": "Terminal accounting tool + OpenClaw integration",
+      "zh-CN": "终端记账工具+OpenClaw有搞头吗？基于Rust的本地SQLite个人财务追踪工具"
+    },
+    "summary": {
+      "en-US": "OpenClaw集成 - 个人财务管理",
+      "zh-CN": "38赞9回复33收藏，展示OpenClaw与本地工具集成的潜在应用场景"
+    },
+    "relevance": "OpenClaw集成 - 个人财务管理",
+    "score": 0.78,
+    "engagement": {
+      "likes": 38,
+      "replies": 9,
+      "retweets": 4
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问该工具的数据导出格式和与OpenClaw的数据交互方式",
+    "synced_at": "2026-02-15T03:06:01.412763+00:00"
   },
   {
     "id": "2022586806014001216",
