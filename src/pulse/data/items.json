@@ -174,6 +174,35 @@
     }
   },
   {
+    "id": "2022698945764634914",
+    "date": "2026-02-15",
+    "author": "@ai_for_success",
+    "author_url": "https://x.com/ai_for_success",
+    "tweet_url": "https://x.com/ai_for_success/status/2022698945764634914",
+    "title": {
+      "en-US": "Baidu App OpenClaw deployment to 700M+ users",
+      "zh-CN": "百度App支持部署OpenClaw给7亿+月活用户，不到一分钟设置，通过搜索栏或消息中心访问"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台 - 大规模用户接入",
+      "zh-CN": "88赞39收藏，展示OpenClaw向主流平台的渗透和规模化部署"
+    },
+    "relevance": "OpenClaw平台 - 大规模用户接入",
+    "score": 0.9,
+    "engagement": {
+      "likes": 88,
+      "replies": 9,
+      "retweets": 10
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问百度版OpenClaw在技能生态和自定义能力上与原生OpenClaw的差异",
+    "synced_at": "2026-02-15T01:02:07.231941+00:00",
+    "js_take": {
+      "en-US": "700M users is massive scale. How does the Baidu integration handle the skill ecosystem—can users install arbitrary OpenClaw skills, or is it a curated subset? Curious about the trade-offs between accessibility and customization at that scale.",
+      "zh-CN": "700M users is massive scale. How does the Baidu integration handle the skill ecosystem—can users install arbitrary OpenClaw skills, or is it a curated subset? Curious about the trade-offs between accessibility and customization at that scale."
+    }
+  },
+  {
     "id": "2022603854156853501",
     "date": "2026-02-15",
     "author": "@sylvainxai",
@@ -348,6 +377,35 @@
     }
   },
   {
+    "id": "2022768843840454903",
+    "date": "2026-02-15",
+    "author": "@DJohnstonEC",
+    "author_url": "https://x.com/DJohnstonEC",
+    "tweet_url": "https://x.com/DJohnstonEC/status/2022768843840454903",
+    "title": {
+      "en-US": "EverClaw: OpenClaw agent live forever 24/7",
+      "zh-CN": "EverClaw让OpenClaw Agent永久运行24/7，不再担心Claude额度用完"
+    },
+    "summary": {
+      "en-US": "OpenClaw基础设施 - 长期运行解决方案",
+      "zh-CN": "60赞10回复71收藏，解决OpenClaw长期运行的核心痛点"
+    },
+    "relevance": "OpenClaw基础设施 - 长期运行解决方案",
+    "score": 0.88,
+    "engagement": {
+      "likes": 60,
+      "replies": 10,
+      "retweets": 16
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问EverClaw如何处理模型切换时的上下文连续性",
+    "synced_at": "2026-02-15T01:02:07.231947+00:00",
+    "js_take": {
+      "en-US": "The 24/7 aspect is crucial for real automation. How does EverClaw handle context continuity when switching between providers—does it maintain a unified memory layer, or do you lose context during handoffs? That's been my biggest pain with multi-model setups.",
+      "zh-CN": "The 24/7 aspect is crucial for real automation. How does EverClaw handle context continuity when switching between providers—does it maintain a unified memory layer, or do you lose context during handoffs? That's been my biggest pain with multi-model setups."
+    }
+  },
+  {
     "id": "2022664472243192225",
     "date": "2026-02-15",
     "author": "@YuLin807",
@@ -519,6 +577,35 @@
     "js_take": {
       "en-US": "The 'discover vs optimize' framing is refreshing. How do you prevent the agent from drifting too far from the original problem space across multiple sessions? I've found unconstrained ideation can chase increasingly irrelevant tangents.",
       "zh-CN": "The 'discover vs optimize' framing is refreshing. How do you prevent the agent from drifting too far from the original problem space across multiple sessions? I've found unconstrained ideation can chase increasingly irrelevant tangents."
+    }
+  },
+  {
+    "id": "2022798921404493989",
+    "date": "2026-02-15",
+    "author": "@aakashgupta",
+    "author_url": "https://x.com/aakashgupta",
+    "tweet_url": "https://x.com/aakashgupta/status/2022798921404493989",
+    "title": {
+      "en-US": "PicoClaw vertical integration Shenzhen pattern",
+      "zh-CN": "PicoClaw的垂直整合模式——Sipeed自己开发软件并在自家9.9美元LicheeRV Nano硬件上运行"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - 软硬一体化与垂直整合",
+      "zh-CN": "44赞41收藏，分析PicoClaw背后的深圳硬件生态模式"
+    },
+    "relevance": "OpenClaw生态 - 软硬一体化与垂直整合",
+    "score": 0.84,
+    "engagement": {
+      "likes": 44,
+      "replies": 4,
+      "retweets": 4
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问这种模式对OpenClaw生态长期发展的影响，是否会分化出多个硬件绑定的分支",
+    "synced_at": "2026-02-15T01:02:07.231950+00:00",
+    "js_take": {
+      "en-US": "The Shenzhen vertical integration pattern is powerful. Do you think this risks fragmenting the OpenClaw ecosystem into hardware-specific branches, or will the core protocol layer keep things interoperable? Hardware optimization vs ecosystem coherence is a delicate balance.",
+      "zh-CN": "The Shenzhen vertical integration pattern is powerful. Do you think this risks fragmenting the OpenClaw ecosystem into hardware-specific branches, or will the core protocol layer keep things interoperable? Hardware optimization vs ecosystem coherence is a delicate balance."
     }
   },
   {
