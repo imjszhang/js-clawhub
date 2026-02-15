@@ -116,6 +116,35 @@
     }
   },
   {
+    "id": "2022518272130752615",
+    "date": "2026-02-15",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2022518272130752615",
+    "title": {
+      "en-US": "ClawHub updates: search, popular skills, security filter",
+      "zh-CN": "OpenClaw创始人发布ClawHub更新：搜索优化、首页展示热门技能而非最新、新增安全警告过滤功能，并抵御了垃圾攻击"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - ClawHub marketplace改进",
+      "zh-CN": "822赞67回复88收藏，来自OpenClaw创始人的官方产品更新，包含重要的安全功能改进"
+    },
+    "relevance": "OpenClaw生态 - ClawHub marketplace改进",
+    "score": 0.92,
+    "engagement": {
+      "likes": 822,
+      "replies": 67,
+      "retweets": 31
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问安全警告过滤的具体标准，以及误判率和开发者申诉机制",
+    "synced_at": "2026-02-15T02:01:57.904434+00:00",
+    "js_take": {
+      "en-US": "The security filter is much needed—skill trust has been a concern. How are you defining the threshold for warnings? Curious if there's an appeal process for false positives, since legitimate skills that use sensitive APIs might trigger flags.",
+      "zh-CN": "The security filter is much needed—skill trust has been a concern. How are you defining the threshold for warnings? Curious if there's an appeal process for false positives, since legitimate skills that use sensitive APIs might trigger flags."
+    }
+  },
+  {
     "id": "2022543013390750059",
     "date": "2026-02-15",
     "author": "@off_thetarget",
