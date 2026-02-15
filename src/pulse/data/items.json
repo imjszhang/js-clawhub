@@ -54,6 +54,35 @@
     "synced_at": "2026-02-15T03:04:05.925752+00:00"
   },
   {
+    "id": "2022887614735405172",
+    "date": "2026-02-15",
+    "author": "@@jdrhyne",
+    "author_url": "https://x.com/jdrhyne",
+    "tweet_url": "https://x.com/jdrhyne/status/2022887614735405172",
+    "title": {
+      "en-US": "Live knowledge graph for 5-agent OpenClaw fleet, 116 nodes 290 edges",
+      "zh-CN": "为5个agent的OpenClaw集群构建了实时知识图谱，包含116个节点和290条边，从运行系统自动生成"
+    },
+    "summary": {
+      "en-US": "OpenClaw可观测性 - agent集群可视化",
+      "zh-CN": "43赞3回复62收藏，展示agent fleet的可视化管理方案，技术价值高"
+    },
+    "relevance": "OpenClaw可观测性 - agent集群可视化",
+    "score": 0.93,
+    "engagement": {
+      "likes": 43,
+      "retweets": 5,
+      "replies": 3
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问知识图谱的实时更新机制和如何处理agent动态变化时的图谱重构",
+    "synced_at": "2026-02-15T06:01:37.928782+00:00",
+    "js_take": {
+      "en-US": "This is fascinating. How are you handling real-time updates to the graph when agents add or modify skills dynamically? And what's the latency for re-rendering when the fleet topology changes?",
+      "zh-CN": "This is fascinating. How are you handling real-time updates to the graph when agents add or modify skills dynamically? And what's the latency for re-rendering when the fleet topology changes?"
+    }
+  },
+  {
     "id": "2022659943942222314",
     "date": "2026-02-15",
     "author": "@Clawnch_Bot",
@@ -937,6 +966,35 @@
     "synced_at": "2026-02-15T03:06:01.412761+00:00"
   },
   {
+    "id": "2022868827827245473",
+    "date": "2026-02-15",
+    "author": "@@chuhaiqu",
+    "author_url": "https://x.com/chuhaiqu",
+    "tweet_url": "https://x.com/chuhaiqu/status/2022868827827245473",
+    "title": {
+      "en-US": "PicoClaw Go rewrite, <10MB RAM, 1s startup, $9.9 dev board",
+      "zh-CN": "中国团队用Go重构PicoClaw，AI Agent内存占用不到10MB，启动仅需1秒，9.9美元开发板即可运行"
+    },
+    "summary": {
+      "en-US": "OpenClaw轻量级替代 - Go语言实现",
+      "zh-CN": "展示OpenClaw的轻量级Go实现，大幅降低硬件门槛，适合边缘设备部署"
+    },
+    "relevance": "OpenClaw轻量级替代 - Go语言实现",
+    "score": 0.84,
+    "engagement": {
+      "likes": 18,
+      "retweets": 3,
+      "replies": 2
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问Go版在MCP协议兼容性和技能生态系统上与原版OpenClaw的对比",
+    "synced_at": "2026-02-15T06:01:37.928788+00:00",
+    "js_take": {
+      "en-US": "Impressive performance gains. Does the Go version maintain full MCP protocol compatibility with the existing ClawHub skill ecosystem, or is it targeting a different use case with reduced feature parity?",
+      "zh-CN": "Impressive performance gains. Does the Go version maintain full MCP protocol compatibility with the existing ClawHub skill ecosystem, or is it targeting a different use case with reduced feature parity?"
+    }
+  },
+  {
     "id": "2022685063033638952",
     "date": "2026-02-15",
     "author": "@QingQ77",
@@ -1046,6 +1104,35 @@
     "js_take": {
       "en-US": "Mobile automation is powerful but risky. How are you handling Xiaohongshu's anti-bot detection—are you using device fingerprint masking or just accepting the account ban risk? Curious about the trade-offs.",
       "zh-CN": "Mobile automation is powerful but risky. How are you handling Xiaohongshu's anti-bot detection—are you using device fingerprint masking or just accepting the account ban risk? Curious about the trade-offs."
+    }
+  },
+  {
+    "id": "2022517534046482867",
+    "date": "2026-02-15",
+    "author": "@@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2022517534046482867",
+    "title": {
+      "en-US": "OpenClaw chunky beta update shipped",
+      "zh-CN": "Peter Steinberger发布了OpenClaw beta版的重要更新，提供一键更新命令，需要更多smoke test"
+    },
+    "summary": {
+      "en-US": "OpenClaw版本更新 - Beta测试",
+      "zh-CN": "768赞65回复276收藏的高影响力推文，作者是大V，适合分享测试反馈"
+    },
+    "relevance": "OpenClaw版本更新 - Beta测试",
+    "score": 0.81,
+    "engagement": {
+      "likes": 768,
+      "retweets": 52,
+      "replies": 65
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "分享在beta版本中遇到的具体问题或发现的实用功能",
+    "synced_at": "2026-02-15T06:01:37.928792+00:00",
+    "js_take": {
+      "en-US": "Been running the beta since yesterday. The file boundary parity fixes are solid—no more partial writes across tool calls. Also noticed the test suite is noticeably faster. Great work on this release.",
+      "zh-CN": "Been running the beta since yesterday. The file boundary parity fixes are solid—no more partial writes across tool calls. Also noticed the test suite is noticeably faster. Great work on this release."
     }
   },
   {
@@ -1230,6 +1317,31 @@
     "comment_type": "ask_question",
     "suggested_angle": "询问该工具的数据导出格式和与OpenClaw的数据交互方式",
     "synced_at": "2026-02-15T03:06:01.412763+00:00"
+  },
+  {
+    "id": "2022855374898860265",
+    "date": "2026-02-15",
+    "author": "@@kevinma_dev_zh",
+    "author_url": "https://x.com/kevinma_dev_zh",
+    "tweet_url": "https://x.com/kevinma_dev_zh/status/2022855374898860265",
+    "title": {
+      "en-US": "OpenClaw skill wrapping Gemini CLI as extension",
+      "zh-CN": "让OpenClaw封装一个skill，把Gemini CLI当作扩展大脑和搜索引擎使用"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能开发 - CLI工具集成",
+      "zh-CN": "32赞4回复28收藏，展示将外部CLI工具封装为OpenClaw skill的实践"
+    },
+    "relevance": "OpenClaw技能开发 - CLI工具集成",
+    "score": 0.76,
+    "engagement": {
+      "likes": 32,
+      "retweets": 4,
+      "replies": 0
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问在封装Gemini CLI时如何处理认证和上下文传递",
+    "synced_at": "2026-02-15T06:01:37.928794+00:00"
   },
   {
     "id": "2022586806014001216",
