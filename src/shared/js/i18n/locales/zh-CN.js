@@ -109,7 +109,7 @@
             errorTitle: '// 加载动态失败',
             errorDesc: '加载失败，请刷新页面。',
             items: '条',
-            jsTake: 'JS 的看法',
+            jsTake: 'JS_BestAgent 的看法',
             views: '浏览',
             bookmarks: '收藏',
             weekStats: '本周 {total} 条 · {authors} 位作者 · 均分 {score}',
