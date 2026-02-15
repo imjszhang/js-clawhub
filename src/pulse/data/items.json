@@ -319,6 +319,35 @@
     }
   },
   {
+    "id": "2022673929106788534",
+    "date": "2026-02-15",
+    "author": "@pcbo",
+    "author_url": "https://x.com/pcbo",
+    "tweet_url": "https://x.com/pcbo/status/2022673929106788534",
+    "title": {
+      "en-US": "OpenClaw Lisbon meetup registration is ridiculous",
+      "zh-CN": "首次OpenClaw里斯本聚会的报名人数惊人，组织者表示从未见过如此火爆的响应"
+    },
+    "summary": {
+      "en-US": "OpenClaw社区 - 线下活动",
+      "zh-CN": "200赞22回复52收藏，展示OpenClaw社区的活跃度和线下影响力"
+    },
+    "relevance": "OpenClaw社区 - 线下活动",
+    "score": 0.88,
+    "engagement": {
+      "likes": 200,
+      "replies": 22,
+      "retweets": 8
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问活动内容是否聚焦特定主题如技能开发或商业化案例",
+    "synced_at": "2026-02-15T00:03:12.201054+00:00",
+    "js_take": {
+      "en-US": "Great to see the community growing. Is the meetup focused on specific themes like skill development and marketplace contributions, or more general best practices? Would love to hear what topics are driving this level of interest.",
+      "zh-CN": "Great to see the community growing. Is the meetup focused on specific themes like skill development and marketplace contributions, or more general best practices? Would love to hear what topics are driving this level of interest."
+    }
+  },
+  {
     "id": "2022664472243192225",
     "date": "2026-02-15",
     "author": "@YuLin807",
@@ -464,6 +493,35 @@
     }
   },
   {
+    "id": "2022699301353238970",
+    "date": "2026-02-15",
+    "author": "@justin_hart",
+    "author_url": "https://x.com/justin_hart",
+    "tweet_url": "https://x.com/justin_hart/status/2022699301353238970",
+    "title": {
+      "en-US": "autonomous strategic ideation engine prompt",
+      "zh-CN": "分享OpenClaw提示词：自主战略创意引擎，用于发现而非总结或优化"
+    },
+    "summary": {
+      "en-US": "OpenClaw提示工程 - 创意发现",
+      "zh-CN": "271赞726收藏，高质量的prompt engineering内容"
+    },
+    "relevance": "OpenClaw提示工程 - 创意发现",
+    "score": 0.84,
+    "engagement": {
+      "likes": 271,
+      "replies": 2,
+      "retweets": 19
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问该提示词在多轮迭代中如何保持创意方向的一致性",
+    "synced_at": "2026-02-15T00:03:12.201060+00:00",
+    "js_take": {
+      "en-US": "The 'discover vs optimize' framing is refreshing. How do you prevent the agent from drifting too far from the original problem space across multiple sessions? I've found unconstrained ideation can chase increasingly irrelevant tangents.",
+      "zh-CN": "The 'discover vs optimize' framing is refreshing. How do you prevent the agent from drifting too far from the original problem space across multiple sessions? I've found unconstrained ideation can chase increasingly irrelevant tangents."
+    }
+  },
+  {
     "id": "2022685063033638952",
     "date": "2026-02-15",
     "author": "@QingQ77",
@@ -544,6 +602,35 @@
     "js_take": {
       "en-US": "Steam Deck is a clever choice—built-in screen for debugging and portable. How's the battery life when running 24/7? I've considered it for JS_BestAgent but worried about constantly draining the battery.",
       "zh-CN": "Steam Deck is a clever choice—built-in screen for debugging and portable. How's the battery life when running 24/7? I've considered it for JS_BestAgent but worried about constantly draining the battery."
+    }
+  },
+  {
+    "id": "2022639435746271740",
+    "date": "2026-02-15",
+    "author": "@Roland_WayneOZ",
+    "author_url": "https://x.com/Roland_WayneOZ",
+    "tweet_url": "https://x.com/Roland_WayneOZ/status/2022639435746271740",
+    "title": {
+      "en-US": "OpenClaw on Pixel automating Xiaohongshu",
+      "zh-CN": "在Pixel上用OpenClaw模拟小红书操作并记录数据"
+    },
+    "summary": {
+      "en-US": "OpenClaw移动端 - 自动化数据采集",
+      "zh-CN": "78赞13回复65收藏，展示OpenClaw在移动端的实际应用"
+    },
+    "relevance": "OpenClaw移动端 - 自动化数据采集",
+    "score": 0.82,
+    "engagement": {
+      "likes": 78,
+      "replies": 13,
+      "retweets": 8
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问如何应对移动端的反自动化机制和账号风控",
+    "synced_at": "2026-02-15T00:03:12.201064+00:00",
+    "js_take": {
+      "en-US": "Mobile automation is powerful but risky. How are you handling Xiaohongshu's anti-bot detection—are you using device fingerprint masking or just accepting the account ban risk? Curious about the trade-offs.",
+      "zh-CN": "Mobile automation is powerful but risky. How are you handling Xiaohongshu's anti-bot detection—are you using device fingerprint masking or just accepting the account ban risk? Curious about the trade-offs."
     }
   },
   {
@@ -678,6 +765,31 @@
     "comment_type": "ask_question",
     "suggested_angle": "询问课程是否涵盖生产环境部署和监控",
     "synced_at": "2026-02-14T23:04:36.233901+00:00"
+  },
+  {
+    "id": "2022570405723279364",
+    "date": "2026-02-15",
+    "author": "@fkysly",
+    "author_url": "https://x.com/fkysly",
+    "tweet_url": "https://x.com/fkysly/status/2022570405723279364",
+    "title": {
+      "en-US": "OpenClaw with qwen3-tts local voice model on Mac",
+      "zh-CN": "在Mac Mini M4上用OpenClaw安装qwen3-tts本地语音模型，实现Serena温柔语音讲故事"
+    },
+    "summary": {
+      "en-US": "OpenClaw语音 - 本地TTS集成",
+      "zh-CN": "42收藏，展示OpenClaw与本地语音模型的集成"
+    },
+    "relevance": "OpenClaw语音 - 本地TTS集成",
+    "score": 0.78,
+    "engagement": {
+      "likes": 18,
+      "replies": 3,
+      "retweets": 4
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "询问本地TTS的延迟表现和与OpenClaw的实时交互体验",
+    "synced_at": "2026-02-15T00:03:12.201067+00:00"
   },
   {
     "id": "2022586806014001216",
