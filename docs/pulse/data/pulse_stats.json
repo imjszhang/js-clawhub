@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-16T08:02:02.440654+00:00",
+  "updated_at": "2026-02-16T09:01:47.752473+00:00",
   "this_week": {
-    "total_items": 42,
+    "total_items": 46,
     "avg_score": 0.86,
-    "unique_authors": 36,
+    "unique_authors": 39,
     "top_items": [
       {
         "id": "2023056565968749040",
@@ -95,7 +95,7 @@
     ]
   },
   "all_time": {
-    "total_items": 209,
-    "unique_authors": 156
+    "total_items": 213,
+    "unique_authors": 158
   }
 }
