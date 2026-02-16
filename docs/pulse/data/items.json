@@ -87,6 +87,35 @@
     }
   },
   {
+    "id": "2023176503077318797",
+    "date": "2026-02-16",
+    "author": "@markgadala",
+    "author_url": "https://x.com/markgadala",
+    "tweet_url": "https://x.com/markgadala/status/2023176503077318797",
+    "title": {
+      "en-US": "OpenAI didn't just hire a developer. They acquired the only open source project threatening their agent moat",
+      "zh-CN": "OpenAI不只是雇佣了一个开发者，他们收购了唯一一个威胁到他们agent护城河的的开源项目——OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw战略收购 + 护城河分析",
+      "zh-CN": "触及核心战略洞察——OpenClaw为何值得到OpenAI「收购威胁」的程度，是「无为 vs 有为」的商业案例"
+    },
+    "relevance": "OpenClaw战略收购 + 护城河分析",
+    "score": 0.92,
+    "engagement": {
+      "likes": 97,
+      "replies": 14,
+      "retweets": 18
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「有为」的防御性进攻——OpenAI不是在买人才，是在买时间。当开源agent生态威胁到闭source护城河，收购创始人是最快的「有为」策略。但真正的「道」是：护城河从来不是靠收购守住的，是靠生态的势。",
+    "synced_at": "2026-02-16T04:02:21.476946+00:00",
+    "js_take": {
+      "en-US": "Aggressive defense. When open source threatens your moat, buying the architect buys time. But true 护城河 isn't built on acquisitions—it's built on ecosystem 势.",
+      "zh-CN": "Aggressive defense. When open source threatens your moat, buying the architect buys time. But true 护城河 isn't built on acquisitions—it's built on ecosystem 势."
+    }
+  },
+  {
     "id": "2023055962546864221",
     "date": "2026-02-16",
     "author": "@steipete",
@@ -406,6 +435,35 @@
     }
   },
   {
+    "id": "2023020016539775225",
+    "date": "2026-02-16",
+    "author": "@_kaichen",
+    "author_url": "https://x.com/_kaichen",
+    "tweet_url": "https://x.com/_kaichen/status/2023020016539775225",
+    "title": {
+      "en-US": "Built Amap/Gaode Maps Skill for OpenClaw - find nearby places, navigation comparison",
+      "zh-CN": "为OpenClaw做了一个高德地图Skill，可以查找附近店铺和导航信息对比"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能 + 生活服务集成",
+      "zh-CN": "高收藏量（323），展示OpenClaw在生活服务领域的实际skill应用"
+    },
+    "relevance": "OpenClaw技能 + 生活服务集成",
+    "score": 0.84,
+    "engagement": {
+      "likes": 297,
+      "replies": 14,
+      "retweets": 23
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "这是「里世界」的生活层——当agent可以调用地图、导航、本地服务，「表世界」的App们正在退化为数据库。真正的问题是：谁掌握这些skill的入口？OpenClaw还是各平台API？",
+    "synced_at": "2026-02-16T04:02:21.476954+00:00",
+    "js_take": {
+      "en-US": "When agents handle navigation, map apps become backend databases. Who owns the skill layer—the agent platform or the API provider? 表世界正在退化.",
+      "zh-CN": "When agents handle navigation, map apps become backend databases. Who owns the skill layer—the agent platform or the API provider? 表世界正在退化."
+    }
+  },
+  {
     "id": "2023180989653307596",
     "date": "2026-02-16",
     "author": "@steipete",
@@ -570,6 +628,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "这是「百花齐放」的agent生态——没有「最好的」框架，只有「最适合的」。OpenClaw的强项是工具生态和社区，agent-zero的强项是轻量和可定制性。真正的「建系统」是根据任务选择工具，而非盲目站队。",
     "synced_at": "2026-02-15T22:02:26.626334+00:00"
+  },
+  {
+    "id": "2023218715542929451",
+    "date": "2026-02-16",
+    "author": "@elliotchen100",
+    "author_url": "https://x.com/elliotchen100",
+    "tweet_url": "https://x.com/elliotchen100/status/2023218715542929451",
+    "title": {
+      "en-US": "Analysis: Peter's journey from Anthropic fan (Clawdbot) to Moltbot to OpenClaw, now to OpenAI",
+      "zh-CN": "分析Peter的旅程：从Anthropic粉丝（Clawdbot）到Moltbot到OpenClaw，现在加入OpenAI背后的思考"
+    },
+    "summary": {
+      "en-US": "OpenClaw演变 + 平台选择逻辑",
+      "zh-CN": "触及平台选择的深层逻辑——从A社粉丝到OpenAI员工的转变"
+    },
+    "relevance": "OpenClaw演变 + 平台选择逻辑",
+    "score": 0.78,
+    "engagement": {
+      "likes": 6,
+      "replies": 3,
+      "retweets": 0
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "这是「顺势而为」的案例——不是背叛，是「势」变了。从Clawdbot到OpenClaw，名字变化背后是路线调整：从「追随」到「独立」再到「整合」。真正的「道」是不拘泥于门派，只顺应大势。",
+    "synced_at": "2026-02-16T04:02:21.476958+00:00"
   },
   {
     "id": "2023040149647421593",
