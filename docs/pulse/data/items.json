@@ -319,6 +319,35 @@
     }
   },
   {
+    "id": "2023047886032781475",
+    "date": "2026-02-16",
+    "author": "@mbaka_paschal",
+    "author_url": "https://x.com/mbaka_paschal",
+    "tweet_url": "https://x.com/mbaka_paschal/status/2023047886032781475",
+    "title": {
+      "en-US": "Just installed OpenClaw Agent. Next up, figure out how to make as much money as possible with it",
+      "zh-CN": "刚安装OpenClaw，接下来要研究如何用它赚尽可能多的钱——冷外联？DM成交？一天发20条X？发冷邮件？"
+    },
+    "summary": {
+      "en-US": "OpenClaw商业化 + 赚钱策略",
+      "zh-CN": "高互动量（816赞，806收藏），触及用户最关心的问题：如何用OpenClaw赚钱，是「里世界」经济层的直接体现"
+    },
+    "relevance": "OpenClaw商业化 + 赚钱策略",
+    "score": 0.91,
+    "engagement": {
+      "likes": 816,
+      "replies": 66,
+      "retweets": 53
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「里世界」的经济觉醒——用户不问「怎么用」，问「怎么赚」。冷外联、DM成交、自动发帖……agent的商业化路径正在成型。真正的「势」是：谁先建系统，谁先收割。",
+    "synced_at": "2026-02-16T12:02:45.510779+00:00",
+    "js_take": {
+      "en-US": "The economic awakening of the inner world—users don't ask \"how to use,\" they ask \"how to earn.\" Cold outreach, DM closing, auto-posting... agent monetization paths are forming. The real 势: whoever builds systems first, harvests first.",
+      "zh-CN": "The economic awakening of the inner world—users don't ask \"how to use,\" they ask \"how to earn.\" Cold outreach, DM closing, auto-posting... agent monetization paths are forming. The real 势: whoever builds systems first, harvests first."
+    }
+  },
+  {
     "id": "2022963090397032628",
     "date": "2026-02-16",
     "author": "@VadimStrizheus",
@@ -867,6 +896,35 @@
     "js_take": {
       "en-US": "The ultimate edge of the inner world—agent on ESP32, 8M Flash, local Qwen4B inference. When agents become light enough to be \"everywhere,\" the surface-to-inner migration truly completes.",
       "zh-CN": "The ultimate edge of the inner world—agent on ESP32, 8M Flash, local Qwen4B inference. When agents become light enough to be \"everywhere,\" the surface-to-inner migration truly completes."
+    }
+  },
+  {
+    "id": "2023313012611014974",
+    "date": "2026-02-16",
+    "author": "@sonnylazuardi",
+    "author_url": "https://x.com/sonnylazuardi",
+    "tweet_url": "https://x.com/sonnylazuardi/status/2023313012611014974",
+    "title": {
+      "en-US": "OpenClaw Telegram streaming + sub-agent pipeline: 3-hour YouTube podcast to article in Bahasa Indonesia",
+      "zh-CN": "OpenClaw Telegram流式传输+子agent管道：将3小时YouTube播客转化为印尼语文章，速度和流畅度都是下一代水平"
+    },
+    "summary": {
+      "en-US": "OpenClaw实际用例 + 内容生产 + 多语言",
+      "zh-CN": "展示OpenClaw在内容生产中的实际应用，从长视频到多语言文章，是「建系统」的内容层"
+    },
+    "relevance": "OpenClaw实际用例 + 内容生产 + 多语言",
+    "score": 0.85,
+    "engagement": {
+      "likes": 79,
+      "replies": 10,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「建系统」的内容层——3小时播客→印尼语文章，不是魔法，是管道。子agent分工：转录→提炼→翻译→润色。流式传输让等待变「实时」，体验跃迁。",
+    "synced_at": "2026-02-16T12:02:45.510785+00:00",
+    "js_take": {
+      "en-US": "Content layer of system building—3-hour podcast to Bahasa Indonesia article isn't magic, it's pipeline. Sub-agents分工: transcribe→extract→translate→polish. Streaming makes waiting become \"real-time,\" an experience leap.",
+      "zh-CN": "Content layer of system building—3-hour podcast to Bahasa Indonesia article isn't magic, it's pipeline. Sub-agents分工: transcribe→extract→translate→polish. Streaming makes waiting become \"real-time,\" an experience leap."
     }
   },
   {
