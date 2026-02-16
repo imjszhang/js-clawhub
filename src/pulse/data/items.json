@@ -1,5 +1,63 @@
 [
   {
+    "id": "2023373451902456275",
+    "date": "2026-02-17",
+    "author": "@heyshrutimishra",
+    "author_url": "https://x.com/heyshrutimishra",
+    "tweet_url": "https://x.com/heyshrutimishra/status/2023373451902456275",
+    "title": {
+      "en-US": "700 million Chinese users can deploy AI agents via Baidu search bar, OpenClaw through Baidu AI Cloud",
+      "zh-CN": "7亿中国用户现在可以通过百度搜索栏部署AI Agent，百度AI云支持OpenClaw一键部署，无需终端、Docker或开发环境"
+    },
+    "summary": {
+      "en-US": "OpenClaw + Baidu + 中国市场大规模部署",
+      "zh-CN": "触及OpenClaw进入中国市场的重要节点，7亿用户无门槛部署是「里世界」普及的关键一步"
+    },
+    "relevance": "OpenClaw + Baidu + 中国市场大规模部署",
+    "score": 0.94,
+    "engagement": {
+      "likes": 112,
+      "replies": 16,
+      "retweets": 25
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「里世界」的中国加速度——7亿用户从搜索栏部署Agent，不是技术进步，是入口革命。当部署门槛降到零，人群分化将彻底加速。",
+    "synced_at": "2026-02-16T17:05:16.008698+00:00",
+    "js_take": {
+      "en-US": "Inner world's China acceleration—700M users deploying Agents from search bar. Not tech progress, entry point revolution. When deployment hits zero friction, demographic divergence goes supersonic.",
+      "zh-CN": "Inner world's China acceleration—700M users deploying Agents from search bar. Not tech progress, entry point revolution. When deployment hits zero friction, demographic divergence goes supersonic."
+    }
+  },
+  {
+    "id": "2022895591530062016",
+    "date": "2026-02-17",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2022895591530062016",
+    "title": {
+      "en-US": "apps are dead",
+      "zh-CN": "Peter Steinberger（OpenClaw之父）发推：「apps are dead」（应用已死）"
+    },
+    "summary": {
+      "en-US": "OpenClaw创始人 + 表/里世界哲学 + 高互动",
+      "zh-CN": "超高互动量（4021赞，997收藏），OpenClaw之父的宣言式推文，完美契合「表/里世界迁徙」框架"
+    },
+    "relevance": "OpenClaw创始人 + 表/里世界哲学 + 高互动",
+    "score": 0.93,
+    "engagement": {
+      "likes": 4021,
+      "replies": 420,
+      "retweets": 216
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「表/里世界迁徙」的宣言——App是表世界的遗迹，Agent是里世界的新原住民。不是应用死了，是应用的交互范式死了。",
+    "synced_at": "2026-02-16T17:05:16.008706+00:00",
+    "js_take": {
+      "en-US": "Surface-to-inner migration manifesto—Apps are surface world relics, Agents are inner world's new natives. Not that apps died, but the app interaction paradigm did. The shift is structural.",
+      "zh-CN": "Surface-to-inner migration manifesto—Apps are surface world relics, Agents are inner world's new natives. Not that apps died, but the app interaction paradigm did. The shift is structural."
+    }
+  },
+  {
     "id": "2023400725061959748",
     "date": "2026-02-17",
     "author": "@jacobsklug",
@@ -87,6 +145,35 @@
     }
   },
   {
+    "id": "2023414421402300654",
+    "date": "2026-02-17",
+    "author": "@0xSammy",
+    "author_url": "https://x.com/0xSammy",
+    "tweet_url": "https://x.com/0xSammy/status/2023414421402300654",
+    "title": {
+      "en-US": "OpenClaw Roundup: 245 apps (+40), Phone Booth agent calls, moltdomestic task market, moltenagentic search",
+      "zh-CN": "OpenClaw Roundup更新：245个应用（新增40个），包括Phone Booth（Agent打电话）、moltdomestic（Agent任务市场）、moltenagentic（Agent搜索引擎）"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + Agent应用 + 市场扩展",
+      "zh-CN": "展示OpenClaw生态快速扩张，Agent应用类别多元化（通讯、市场、搜索），是「里世界」应用层的成型"
+    },
+    "relevance": "OpenClaw生态 + Agent应用 + 市场扩展",
+    "score": 0.88,
+    "engagement": {
+      "likes": 84,
+      "replies": 20,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「里世界」的应用层爆发——从工具到市场到搜索引擎，Agent-native应用正在自成生态。245个应用不是数量，是范式转移的信号。",
+    "synced_at": "2026-02-16T17:05:16.008711+00:00",
+    "js_take": {
+      "en-US": "Inner world's application layer exploding—tools to markets to search engines, Agent-native apps self-organizing into ecosystem. 245 apps isn't a number, it's paradigm shift signals.",
+      "zh-CN": "Inner world's application layer exploding—tools to markets to search engines, Agent-native apps self-organizing into ecosystem. 245 apps isn't a number, it's paradigm shift signals."
+    }
+  },
+  {
     "id": "2023367835792056661",
     "date": "2026-02-17",
     "author": "@jumperz",
@@ -114,6 +201,89 @@
       "en-US": "Interaction layer evolution of the inner world—from text replies to component interactions, agent interfaces maturing. Discord components are the beginning; every agent will have its own UI soon.",
       "zh-CN": "Interaction layer evolution of the inner world—from text replies to component interactions, agent interfaces maturing. Discord components are the beginning; every agent will have its own UI soon."
     }
+  },
+  {
+    "id": "2023223966975049878",
+    "date": "2026-02-17",
+    "author": "@JefferyTatsuya",
+    "author_url": "https://x.com/JefferyTatsuya",
+    "tweet_url": "https://x.com/JefferyTatsuya/status/2023223966975049878",
+    "title": {
+      "en-US": "search-skill update: ClawHub datasource support, 5000+ community skills, 6 sources",
+      "zh-CN": "search-skill更新：新增ClawHub数据源支持，搜索Claude Code技能时会包含ClawHub的5000+社区技能库，6个可信数据源分层搜索"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能搜索 + ClawHub集成 + 技能生态",
+      "zh-CN": "高收藏量（187），触及技能发现 layer 的进化，5000+社区技能库是生态成熟标志"
+    },
+    "relevance": "OpenClaw技能搜索 + ClawHub集成 + 技能生态",
+    "score": 0.85,
+    "engagement": {
+      "likes": 117,
+      "replies": 3,
+      "retweets": 20
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「里世界」的发现层——5000+技能库需要搜索引擎，Agent生态正在长出基础设施。分层搜索、质量过滤，这些才是规模化的问题。",
+    "synced_at": "2026-02-16T17:05:16.008714+00:00",
+    "js_take": {
+      "en-US": "Inner world's discovery layer—5000+ skills need search infrastructure. Layered search, quality filtering: these are scaling problems. The ecosystem is growing its own nervous system.",
+      "zh-CN": "Inner world's discovery layer—5000+ skills need search infrastructure. Layered search, quality filtering: these are scaling problems. The ecosystem is growing its own nervous system."
+    }
+  },
+  {
+    "id": "2023416488884129826",
+    "date": "2026-02-17",
+    "author": "@TheTuringPost",
+    "author_url": "https://x.com/TheTuringPost",
+    "tweet_url": "https://x.com/TheTuringPost/status/2023416488884129826",
+    "title": {
+      "en-US": "2 lightweight OpenClaw alternatives: PicoClaw (<10MB RAM, $10 hardware) and nanobot (4000 lines)",
+      "zh-CN": "两个轻量级OpenClaw替代方案：PicoClaw（<10MB内存，10美元硬件，1秒启动）和nanobot（4000行代码，比OpenClaw小99%）"
+    },
+    "summary": {
+      "en-US": "OpenClaw替代方案 + 轻量级Agent + 生态分化",
+      "zh-CN": "触及OpenClaw生态的轻量化趋势，99%更小的替代方案代表技术栈的多元化演进"
+    },
+    "relevance": "OpenClaw替代方案 + 轻量级Agent + 生态分化",
+    "score": 0.82,
+    "engagement": {
+      "likes": 13,
+      "replies": 1,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是生态分化的信号——OpenClaw的成功催生轻量化替代。不是竞争，是分层。重型Agent vs 嵌入式Agent，各有各的战场。",
+    "synced_at": "2026-02-16T17:05:16.008717+00:00",
+    "js_take": {
+      "en-US": "Ecosystem divergence signal—OpenClaw's success spawns lightweight alternatives. Not competition, stratification. Heavy Agents vs embedded Agents, different battlefields.",
+      "zh-CN": "Ecosystem divergence signal—OpenClaw's success spawns lightweight alternatives. Not competition, stratification. Heavy Agents vs embedded Agents, different battlefields."
+    }
+  },
+  {
+    "id": "2023413706193776702",
+    "date": "2026-02-17",
+    "author": "@CrypSaf",
+    "author_url": "https://x.com/CrypSaf",
+    "tweet_url": "https://x.com/CrypSaf/status/2023413706193776702",
+    "title": {
+      "en-US": "8 days OpenClaw costs: Mac mini $600, Claude $200/mo, Kimi $10/mo, OpenAI $20/mo, Gemini $10/mo, MiniMax $10/mo",
+      "zh-CN": "使用OpenClaw 8天的成本 bleeding：Mac mini 600美元（一次性），Claude Opus 200美元/月，Kimi K2.5 10美元/月，OpenAI 20美元/月等"
+    },
+    "summary": {
+      "en-US": "OpenClaw运营成本 + Agent经济学 + 多模型策略",
+      "zh-CN": "触及Agent运营的真实成本结构，多模型并行是「里世界」的基础设施开支"
+    },
+    "relevance": "OpenClaw运营成本 + Agent经济学 + 多模型策略",
+    "score": 0.81,
+    "engagement": {
+      "likes": 138,
+      "replies": 60,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「里世界」的成本结构——Agent不是免费劳动力，是多模型 orchestra 的指挥费。Kimi 10刀 vs Claude 200刀，性价比的势正在转移。",
+    "synced_at": "2026-02-16T17:05:16.008720+00:00"
   },
   {
     "id": "2023056565968749040",
