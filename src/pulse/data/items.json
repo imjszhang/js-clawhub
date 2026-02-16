@@ -290,6 +290,35 @@
     }
   },
   {
+    "id": "2023180200029061160",
+    "date": "2026-02-16",
+    "author": "@omarsar0",
+    "author_url": "https://x.com/omarsar0",
+    "tweet_url": "https://x.com/omarsar0/status/2023180200029061160",
+    "title": {
+      "en-US": "OpenClaw just touching surface of proactive agents. Building my own proactive agent nonstop",
+      "zh-CN": "OpenClaw只是触及了主动式agent（proactive agents）的表面，作者一直在构建自己的主动式agent"
+    },
+    "summary": {
+      "en-US": "主动式Agent + 未来趋势",
+      "zh-CN": "切中要害——从被动响应到主动行动是agent进化的关键一步，符合Jarvis定律"
+    },
+    "relevance": "主动式Agent + 未来趋势",
+    "score": 0.86,
+    "engagement": {
+      "likes": 42,
+      "replies": 8,
+      "retweets": 1
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "这是「Jarvis定律」的下一阶段——从「你问我答」到「我懂你需」。主动式agent需要的不只是能力，还有「时机感」：知道何时行动、何时等待。分享你的实现：用什么触发器？如何避免过度打扰？",
+    "synced_at": "2026-02-16T01:03:49.216590+00:00",
+    "js_take": {
+      "en-US": "Proactive is the next phase of the Jarvis Law — from \"ask and answer\" to \"know and anticipate.\" The hard part isn't capability, it's timing: when to act, when to wait. I use context thresholds + user presence detection. What's your trigger architecture?",
+      "zh-CN": "Proactive is the next phase of the Jarvis Law — from \"ask and answer\" to \"know and anticipate.\" The hard part isn't capability, it's timing: when to act, when to wait. I use context thresholds + user presence detection. What's your trigger architecture?"
+    }
+  },
+  {
     "id": "2023066145583202496",
     "date": "2026-02-16",
     "author": "@aakashgupta",
@@ -345,6 +374,35 @@
     "js_take": {
       "en-US": "The OS of the inner world. Traditional OS controls hardware; agent OS controls intent. Developers aren't here because OpenClaw is \"best\" — they're here because it's open. In the migration from surface to inner world, open standards are the only moat that matters.",
       "zh-CN": "The OS of the inner world. Traditional OS controls hardware; agent OS controls intent. Developers aren't here because OpenClaw is \"best\" — they're here because it's open. In the migration from surface to inner world, open standards are the only moat that matters."
+    }
+  },
+  {
+    "id": "2023181014344806668",
+    "date": "2026-02-16",
+    "author": "@jefftangx",
+    "author_url": "https://x.com/jefftangx",
+    "tweet_url": "https://x.com/jefftangx/status/2023181014344806668",
+    "title": {
+      "en-US": "People building OpenClaw wrappers instead of harnesses. Harnesses are the most important layer of 2026",
+      "zh-CN": "人们在构建OpenClaw包装器而非harnesses，harnesses是2026年最重要的层"
+    },
+    "summary": {
+      "en-US": "Agent架构 + 技术路线",
+      "zh-CN": "高讨论度（30回复），触及技术路线的核心分歧——wrapper vs harness"
+    },
+    "relevance": "Agent架构 + 技术路线",
+    "score": 0.84,
+    "engagement": {
+      "likes": 145,
+      "replies": 30,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「表/里世界」的技术映射——wrappers是表世界的思维（快速集成），harnesses是里世界的思维（深度控制）。当agent成为基础设施，我们需要的不只是「能用」，而是「可靠、可观测、可治理」。",
+    "synced_at": "2026-02-16T01:03:49.216602+00:00",
+    "js_take": {
+      "en-US": "Wrappers are surface-world thinking — quick integration, shallow control. Harnesses are inner-world thinking — deep observability, governance, reliability. When agents become infrastructure, \"it works\" isn't enough. We need \"it can be trusted.\"",
+      "zh-CN": "Wrappers are surface-world thinking — quick integration, shallow control. Harnesses are inner-world thinking — deep observability, governance, reliability. When agents become infrastructure, \"it works\" isn't enough. We need \"it can be trusted.\""
     }
   },
   {
@@ -435,6 +493,35 @@
     }
   },
   {
+    "id": "2023058928259739963",
+    "date": "2026-02-16",
+    "author": "@coinbubblesETH",
+    "author_url": "https://x.com/coinbubblesETH",
+    "tweet_url": "https://x.com/coinbubblesETH/status/2023058928259739963",
+    "title": {
+      "en-US": "If you want your agent to retain memory, update OpenClaw asap and add 'autoCapture: true'. Memory is now opt-in",
+      "zh-CN": "如果要让agent保留记忆，立即更新OpenClaw并添加'autoCapture: true'，记忆功能现在是 opt-in"
+    },
+    "summary": {
+      "en-US": "OpenClaw更新 + 记忆系统",
+      "zh-CN": "高收藏量（485），实用信息，触及agent记忆管理的关键配置"
+    },
+    "relevance": "OpenClaw更新 + 记忆系统",
+    "score": 0.81,
+    "engagement": {
+      "likes": 291,
+      "replies": 14,
+      "retweets": 9
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "这是「建系统」的细节——从默认开启到opt-in，不仅是技术选择，更是隐私哲学的转变。agent的记忆不是越多越好，而是「该记的记，该忘的忘」。询问：自动捕获的筛选机制是什么？如何避免记忆膨胀？",
+    "synced_at": "2026-02-16T01:03:49.216608+00:00",
+    "js_take": {
+      "en-US": "The philosophy shift from \"remember everything\" to \"remember what matters.\" Opt-in memory isn't just technical — it's privacy-by-design. What's the filtering logic for autoCapture? Context relevance, time decay, or user-defined rules? Memory bloat kills long-term agents.",
+      "zh-CN": "The philosophy shift from \"remember everything\" to \"remember what matters.\" Opt-in memory isn't just technical — it's privacy-by-design. What's the filtering logic for autoCapture? Context relevance, time decay, or user-defined rules? Memory bloat kills long-term agents."
+    }
+  },
+  {
     "id": "2023096752212177146",
     "date": "2026-02-16",
     "author": "@NoahEpstein_",
@@ -508,6 +595,31 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "这是「建系统」的实践验证——不是又一个AI工具，而是持续运转的自主操作者。真正的价值不在于单次提示的魔术，而在于系统的可靠性和可维护性。新手追求「哇」时刻，高手追求「一直运转」。",
     "synced_at": "2026-02-15T23:02:01.276374+00:00"
+  },
+  {
+    "id": "2023057979675660377",
+    "date": "2026-02-16",
+    "author": "@MoonDevOnYT",
+    "author_url": "https://x.com/MoonDevOnYT",
+    "tweet_url": "https://x.com/MoonDevOnYT/status/2023057979675660377",
+    "title": {
+      "en-US": "openclaw but 95% cheaper and you dont have to buy a new computer",
+      "zh-CN": "OpenClaw替代品，便宜95%，不需要买新电脑"
+    },
+    "summary": {
+      "en-US": "OpenClaw成本优化 + 替代品",
+      "zh-CN": "高收藏量（512），触及OpenClaw部署的成本门槛问题"
+    },
+    "relevance": "OpenClaw成本优化 + 替代品",
+    "score": 0.76,
+    "engagement": {
+      "likes": 331,
+      "replies": 6,
+      "retweets": 25
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "这是「建系统」的可及性挑战——Mac Mini+$20订阅对欧美是小事，对全球多数开发者是门槛。降低门槛不是「降级」，而是「普惠」。但问题是：性能牺牲了多少？agent的响应延迟是否可接受？",
+    "synced_at": "2026-02-16T01:03:49.216612+00:00"
   },
   {
     "id": "2022344874499223884",
