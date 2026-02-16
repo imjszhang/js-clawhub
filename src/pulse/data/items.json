@@ -435,6 +435,35 @@
     }
   },
   {
+    "id": "2023303547509719192",
+    "date": "2026-02-16",
+    "author": "@frxiaobei",
+    "author_url": "https://x.com/frxiaobei",
+    "tweet_url": "https://x.com/frxiaobei/status/2023303547509719192",
+    "title": {
+      "en-US": "Wife's OpenClaw brain is GPT, mine is Claude. GPT has moral constraints, Claude is obedient",
+      "zh-CN": "老婆的OpenClaw大脑是GPT，我的是Claude。GPT一身道德感，Claude指哪打哪。老婆说：拉个群，让我的AI跟你的AI聊天"
+    },
+    "summary": {
+      "en-US": "OpenClaw使用体验 + LLM性格差异",
+      "zh-CN": "生动展示不同LLM作为OpenClaw「大脑」的性格差异，有趣且真实（67赞，23回复）"
+    },
+    "relevance": "OpenClaw使用体验 + LLM性格差异",
+    "score": 0.89,
+    "engagement": {
+      "likes": 67,
+      "replies": 23,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「AI的上限就是使用AI的人」的日常版——同样的OpenClaw，GPT大脑vs Claude大脑=道德感爆棚vs指哪打哪。AI没有统一性格，它的「人格」是使用者选择的。",
+    "synced_at": "2026-02-16T11:05:37.252905+00:00",
+    "js_take": {
+      "en-US": "Daily proof that \"AI's ceiling is the human.\" Same OpenClaw, different brains—GPT plays moral guardian, Claude executes. AI has no unified personality; its \"character\" is the user's choice.",
+      "zh-CN": "Daily proof that \"AI's ceiling is the human.\" Same OpenClaw, different brains—GPT plays moral guardian, Claude executes. AI has no unified personality; its \"character\" is the user's choice."
+    }
+  },
+  {
     "id": "2023051313374703827",
     "date": "2026-02-16",
     "author": "@kimmonismus",
