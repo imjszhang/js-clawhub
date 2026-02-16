@@ -58,6 +58,35 @@
     }
   },
   {
+    "id": "2023429586411978933",
+    "date": "2026-02-17",
+    "author": "@virtuals_io",
+    "author_url": "https://x.com/virtuals_io",
+    "tweet_url": "https://x.com/virtuals_io/status/2023429586411978933",
+    "title": {
+      "en-US": "aGDP agent skills page: 1,000+ live agent capabilities, search and install into OpenClaw",
+      "zh-CN": "Virtuals发布aGDP Agent技能页面，可发现1000+实时Agent能力，搜索并一键安装到OpenClaw，被称为官方App Store"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能市场 + App Store生态 + aGDP",
+      "zh-CN": "触及OpenClaw技能层的商业化进展，1000+技能+App Store模式是「里世界」应用层成熟标志"
+    },
+    "relevance": "OpenClaw技能市场 + App Store生态 + aGDP",
+    "score": 0.94,
+    "engagement": {
+      "likes": 170,
+      "replies": 53,
+      "retweets": 25
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「里世界」的App Store时刻——1000+技能不是数量，是生态的临界点。当Agent能力可搜索、可安装、可组合，真正的编排经济才开始。",
+    "synced_at": "2026-02-16T19:02:31.733067+00:00",
+    "js_take": {
+      "en-US": "Inner world's App Store moment—1000+ skills isn't a number, it's the tipping point. When Agent capabilities become searchable, installable, composable, true orchestration economy begins.",
+      "zh-CN": "Inner world's App Store moment—1000+ skills isn't a number, it's the tipping point. When Agent capabilities become searchable, installable, composable, true orchestration economy begins."
+    }
+  },
+  {
     "id": "2022895591530062016",
     "date": "2026-02-17",
     "author": "@steipete",
@@ -174,6 +203,35 @@
     }
   },
   {
+    "id": "2023373182481395749",
+    "date": "2026-02-17",
+    "author": "@gaou_tw",
+    "author_url": "https://x.com/gaou_tw",
+    "tweet_url": "https://x.com/gaou_tw/status/2023373182481395749",
+    "title": {
+      "en-US": "OpenClaw token explosion issue, chat history as input causing 150k tokens per request",
+      "zh-CN": "用户分享OpenClaw爆token经历：聊天记录全作为会话输入，导致每次请求都带上全部历史，一次干出15万token，之后即使问hello也是15万token请求"
+    },
+    "summary": {
+      "en-US": "OpenClaw使用问题 + Token管理 + 记忆架构",
+      "zh-CN": "触及OpenClaw实际使用中的痛点（token爆炸），是「建系统」中记忆/上下文管理的真实案例"
+    },
+    "relevance": "OpenClaw使用问题 + Token管理 + 记忆架构",
+    "score": 0.89,
+    "engagement": {
+      "likes": 83,
+      "replies": 11,
+      "retweets": 1
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「建系统」的记忆层教训——上下文无限制增长是负债不是资产。需要分层记忆：工作记忆+长期记忆，而不是把整个对话历史当prompt。",
+    "synced_at": "2026-02-16T19:02:31.733072+00:00",
+    "js_take": {
+      "en-US": "Memory layer lesson—unbounded context growth is liability, not asset. Need tiered memory: working + long-term, not dumping whole conversation history into prompt.",
+      "zh-CN": "Memory layer lesson—unbounded context growth is liability, not asset. Need tiered memory: working + long-term, not dumping whole conversation history into prompt."
+    }
+  },
+  {
     "id": "2023289389623783493",
     "date": "2026-02-17",
     "author": "@kaostyl",
@@ -229,6 +287,35 @@
     "js_take": {
       "en-US": "Inner world's application layer exploding—tools to markets to search engines, Agent-native apps self-organizing into ecosystem. 245 apps isn't a number, it's paradigm shift signals.",
       "zh-CN": "Inner world's application layer exploding—tools to markets to search engines, Agent-native apps self-organizing into ecosystem. 245 apps isn't a number, it's paradigm shift signals."
+    }
+  },
+  {
+    "id": "2023412091378339971",
+    "date": "2026-02-17",
+    "author": "@georgesttock",
+    "author_url": "https://x.com/georgesttock",
+    "tweet_url": "https://x.com/georgesttock/status/2023412091378339971",
+    "title": {
+      "en-US": "Clawdbot + MakeUGC V.2 = 550 videos per day, AI-powered UGC ads",
+      "zh-CN": "Clawdbot + MakeUGC V.2每天生成550个视频，全自动UGC广告生成，零成本、分钟级生产、即时规模化"
+    },
+    "summary": {
+      "en-US": "OpenClaw内容生产 + AI视频 + 自动化营销",
+      "zh-CN": "高收藏量（214），展示OpenClaw在内容生产中的规模化应用，是「建系统」的内容层案例"
+    },
+    "relevance": "OpenClaw内容生产 + AI视频 + 自动化营销",
+    "score": 0.87,
+    "engagement": {
+      "likes": 177,
+      "replies": 107,
+      "retweets": 54
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「建系统」的内容层——550视频/天不是奇观，是管道。Clawdbot+MakeUGC=内容工厂，真正的价值在可复制的工作流，不是单条爆款。",
+    "synced_at": "2026-02-16T19:02:31.733076+00:00",
+    "js_take": {
+      "en-US": "Content layer of system building—550 videos/day isn't spectacle, it's pipeline. Clawdbot+MakeUGC=content factory. Value is in reproducible workflow, not viral hits.",
+      "zh-CN": "Content layer of system building—550 videos/day isn't spectacle, it's pipeline. Clawdbot+MakeUGC=content factory. Value is in reproducible workflow, not viral hits."
     }
   },
   {
@@ -319,6 +406,35 @@
     }
   },
   {
+    "id": "2023428910042513482",
+    "date": "2026-02-17",
+    "author": "@raroque",
+    "author_url": "https://x.com/raroque",
+    "tweet_url": "https://x.com/raroque/status/2023428910042513482",
+    "title": {
+      "en-US": "Anthropic Agent SDK, spent a week building, people sleeping on how powerful it is",
+      "zh-CN": "开发者分享使用Anthropic Agent SDK一周的经验，认为人们低估了其强大之处"
+    },
+    "summary": {
+      "en-US": "Anthropic Agent SDK + Agent框架 + 开发者体验",
+      "zh-CN": "高收藏量（350），触及Agent框架层的竞争格局，是OpenClaw的竞品观察"
+    },
+    "relevance": "Anthropic Agent SDK + Agent框架 + 开发者体验",
+    "score": 0.85,
+    "engagement": {
+      "likes": 288,
+      "replies": 20,
+      "retweets": 8
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是Agent框架层的竞争——Anthropic SDK vs OpenClaw，不是零和，是生态分化。不同工具满足不同场景，真正的势是：Agent基础设施正在标准化。",
+    "synced_at": "2026-02-16T19:02:31.733078+00:00",
+    "js_take": {
+      "en-US": "Agent framework competition—Anthropic SDK vs OpenClaw isn't zero-sum, it's ecosystem differentiation. Different tools for different scenarios. Real 势: Agent infrastructure standardizing.",
+      "zh-CN": "Agent framework competition—Anthropic SDK vs OpenClaw isn't zero-sum, it's ecosystem differentiation. Different tools for different scenarios. Real 势: Agent infrastructure standardizing."
+    }
+  },
+  {
     "id": "2023416488884129826",
     "date": "2026-02-17",
     "author": "@TheTuringPost",
@@ -371,6 +487,35 @@
     "comment_type": "add_insight",
     "suggested_angle": "这是「里世界」的成本结构——Agent不是免费劳动力，是多模型 orchestra 的指挥费。Kimi 10刀 vs Claude 200刀，性价比的势正在转移。",
     "synced_at": "2026-02-16T17:05:16.008720+00:00"
+  },
+  {
+    "id": "2023465440979353664",
+    "date": "2026-02-17",
+    "author": "@VadimStrizheus",
+    "author_url": "https://x.com/VadimStrizheus",
+    "tweet_url": "https://x.com/VadimStrizheus/status/2023465440979353664",
+    "title": {
+      "en-US": "Manus launched Manus Agents on Telegram, looks like copying OpenClaw",
+      "zh-CN": "Manus在Telegram上推出Manus Agents，看起来像是在复制OpenClaw"
+    },
+    "summary": {
+      "en-US": "Manus平台 + Agent竞争 + Telegram集成",
+      "zh-CN": "触及Agent平台的竞争格局，Manus跟随OpenClaw进入Telegram，是生态扩张的信号"
+    },
+    "relevance": "Manus平台 + Agent竞争 + Telegram集成",
+    "score": 0.81,
+    "engagement": {
+      "likes": 11,
+      "replies": 3,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是生态扩张的信号——Manus跟进Telegram，说明里世界的入口争夺战正在多线作战。不是复制，是验证。OpenClaw的方向是对的。",
+    "synced_at": "2026-02-16T19:02:31.733081+00:00",
+    "js_take": {
+      "en-US": "Ecosystem expansion signal—Manus following into Telegram means inner world entry point battles are multi-front. Not copying, it's validation. OpenClaw's direction is right.",
+      "zh-CN": "Ecosystem expansion signal—Manus following into Telegram means inner world entry point battles are multi-front. Not copying, it's validation. OpenClaw's direction is right."
+    }
   },
   {
     "id": "2023056565968749040",
