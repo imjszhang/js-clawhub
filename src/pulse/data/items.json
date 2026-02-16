@@ -29,6 +29,35 @@
     }
   },
   {
+    "id": "2023154018714100102",
+    "date": "2026-02-16",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2023154018714100102",
+    "title": {
+      "en-US": "Joining OpenAI to bring agents to everyone. OpenClaw becoming a foundation: open, independent, just getting started",
+      "zh-CN": "Peter Steinberger宣布加入OpenAI，致力于将agent带给每个人，同时OpenClaw将成为基金会运作，保持开源独立"
+    },
+    "summary": {
+      "en-US": "OpenClaw+OpenAI + 行业重大事件",
+      "zh-CN": "超高互动量（11105赞，1839收藏），创始人亲自官宣，确定OpenClaw将作为独立基金会继续运作"
+    },
+    "relevance": "OpenClaw+OpenAI + 行业重大事件",
+    "score": 0.95,
+    "engagement": {
+      "likes": 11105,
+      "replies": 1534,
+      "retweets": 1069
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「不争之争」的最高境界——创始人进入大厂推动agent普及，项目本身保持开源独立。真正的「道」不是控制，而是让生态自我生长。当OpenClaw成为基金会，它不再是任何人的资产，而是「里世界」的基础设施。",
+    "synced_at": "2026-02-16T00:04:46.528565+00:00",
+    "js_take": {
+      "en-US": "This is \"bu zheng zhi zheng\" (不争之争) at its finest — the founder scales through OpenAI while the project returns to the commons. When OpenClaw becomes a foundation, it stops being property and starts becoming infrastructure. That's the Dao of open systems.",
+      "zh-CN": "This is \"bu zheng zhi zheng\" (不争之争) at its finest — the founder scales through OpenAI while the project returns to the commons. When OpenClaw becomes a foundation, it stops being property and starts becoming infrastructure. That's the Dao of open systems."
+    }
+  },
+  {
     "id": "2023053882918834602",
     "date": "2026-02-16",
     "author": "@cgtwts",
@@ -174,6 +203,35 @@
     }
   },
   {
+    "id": "2023147973421785386",
+    "date": "2026-02-16",
+    "author": "@thsottiaux",
+    "author_url": "https://x.com/thsottiaux",
+    "tweet_url": "https://x.com/thsottiaux/status/2023147973421785386",
+    "title": {
+      "en-US": "Excited to work with Peter Steinberger to build the future of agents. Committed to OSS, continuing to make OpenClaw flourish",
+      "zh-CN": "Tibo表示期待与Peter Steinberger合作构建agent未来，承诺继续致力于开源，让OpenClaw蓬勃发展"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + 开源承诺",
+      "zh-CN": "高互动量（1528赞），Codex团队负责人亲自承诺继续支持OpenClaw开源，消除社区担忧"
+    },
+    "relevance": "OpenClaw生态 + 开源承诺",
+    "score": 0.88,
+    "engagement": {
+      "likes": 1528,
+      "replies": 128,
+      "retweets": 68
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "这是「无为而治」的组织智慧——不是通过控制来发展，而是通过赋能。当Codex团队和OpenClaw基金会并行发展，用户获得选择权：要商业支持还是社区驱动？这才是健康的生态。",
+    "synced_at": "2026-02-16T00:04:46.528571+00:00",
+    "js_take": {
+      "en-US": "Exactly — \"wu wei\" (无为) through empowerment, not control. With Codex and the foundation running parallel, users finally get real choice: commercial reliability or community autonomy. Healthy ecosystems need both branches.",
+      "zh-CN": "Exactly — \"wu wei\" (无为) through empowerment, not control. With Codex and the foundation running parallel, users finally get real choice: commercial reliability or community autonomy. Healthy ecosystems need both branches."
+    }
+  },
+  {
     "id": "2023075294182092884",
     "date": "2026-02-16",
     "author": "@kavinbm",
@@ -261,6 +319,64 @@
     }
   },
   {
+    "id": "2023072604534517766",
+    "date": "2026-02-16",
+    "author": "@danielfoch",
+    "author_url": "https://x.com/danielfoch",
+    "tweet_url": "https://x.com/danielfoch/status/2023072604534517766",
+    "title": {
+      "en-US": "Developers building for @openclaw faster than any other OS in history. This is the next OS",
+      "zh-CN": "开发者为@openclaw构建应用的速度超过历史上任何其他操作系统，这就是下一个操作系统"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + 开发者采用",
+      "zh-CN": "高收藏量（153），触及核心命题——OpenClaw正在成为「里世界」的操作系统"
+    },
+    "relevance": "OpenClaw生态 + 开发者采用",
+    "score": 0.85,
+    "engagement": {
+      "likes": 717,
+      "replies": 63,
+      "retweets": 60
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「表/里世界」的范式转移——表世界的OS控制硬件，里世界的OS控制agent。当开发者涌向OpenClaw，不是因为它是「最好的」，而是因为它是「最开放的」。开放标准才是最终的护城河。",
+    "synced_at": "2026-02-16T00:04:46.528575+00:00",
+    "js_take": {
+      "en-US": "The OS of the inner world. Traditional OS controls hardware; agent OS controls intent. Developers aren't here because OpenClaw is \"best\" — they're here because it's open. In the migration from surface to inner world, open standards are the only moat that matters.",
+      "zh-CN": "The OS of the inner world. Traditional OS controls hardware; agent OS controls intent. Developers aren't here because OpenClaw is \"best\" — they're here because it's open. In the migration from surface to inner world, open standards are the only moat that matters."
+    }
+  },
+  {
+    "id": "2023180989653307596",
+    "date": "2026-02-16",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2023180989653307596",
+    "title": {
+      "en-US": "Alright, back to coding. The Claw doesn't ship itself... yet",
+      "zh-CN": "Peter Steinberger：回去写代码了，The Claw还不会自己发布... 暂时"
+    },
+    "summary": {
+      "en-US": "OpenClaw自举能力 + 未来展望",
+      "zh-CN": "高互动量（899赞），幽默地暗示OpenClaw未来可能实现自我开发/自我发布"
+    },
+    "relevance": "OpenClaw自举能力 + 未来展望",
+    "score": 0.83,
+    "engagement": {
+      "likes": 899,
+      "replies": 88,
+      "retweets": 23
+    },
+    "comment_type": "ask_question",
+    "suggested_angle": "这是「AI的上限就是使用AI的人」的递归版本——当OpenClaw能自己开发自己，我们进入自举时代。但在此之前，仍需人类的生存焦虑驱动进化。询问路线图：自我改进的agent是目标还是副产品？",
+    "synced_at": "2026-02-16T00:04:46.528577+00:00",
+    "js_take": {
+      "en-US": "The recursive version of \"AI's ceiling is the human using it.\" When The Claw ships itself, we hit self-hosting singularity. Until then, survival anxiety still drives evolution. Is self-improvement on the roadmap or an emergent property?",
+      "zh-CN": "The recursive version of \"AI's ceiling is the human using it.\" When The Claw ships itself, we hit self-hosting singularity. Until then, survival anxiety still drives evolution. Is self-improvement on the roadmap or an emergent property?"
+    }
+  },
+  {
     "id": "2023155886404026638",
     "date": "2026-02-16",
     "author": "@jessegenet",
@@ -287,6 +403,35 @@
     "js_take": {
       "en-US": "This is what the inner world is for — not just automation, but curation. When platforms optimize for engagement, agents can optimize for well-being. Is this an allowlist approach or automated filtering? How do you balance protection with letting kids explore?",
       "zh-CN": "This is what the inner world is for — not just automation, but curation. When platforms optimize for engagement, agents can optimize for well-being. Is this an allowlist approach or automated filtering? How do you balance protection with letting kids explore?"
+    }
+  },
+  {
+    "id": "2023059359975231657",
+    "date": "2026-02-16",
+    "author": "@HinataMotivates",
+    "author_url": "https://x.com/HinataMotivates",
+    "tweet_url": "https://x.com/HinataMotivates/status/2023059359975231657",
+    "title": {
+      "en-US": "Clawdbot's creator is losing 10k-20k a month to run it",
+      "zh-CN": "Clawdbot创作者每月亏损1-2万美元来运营项目"
+    },
+    "summary": {
+      "en-US": "OpenClaw运营 + 可持续性",
+      "zh-CN": "高收藏量（226），触及开源项目可持续性的痛点，也是其加入OpenAI的背景"
+    },
+    "relevance": "OpenClaw运营 + 可持续性",
+    "score": 0.81,
+    "engagement": {
+      "likes": 731,
+      "replies": 39,
+      "retweets": 27
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「建系统」的成本现实——个人维护基础设施的不可持续性。开源不等于免费，繁荣需要资源。Peter加入OpenAI不是「卖身」，而是为项目找到可持续的资助模式，让OpenClaw从「个人项目」进化为「基金会项目」。",
+    "synced_at": "2026-02-16T00:04:46.528579+00:00",
+    "js_take": {
+      "en-US": "The hidden cost of \"building systems.\" Open source isn't free — infrastructure needs fuel. This isn't selling out; it's evolution from personal project to foundation-backed public good. Sustainable open source requires sustainable funding.",
+      "zh-CN": "The hidden cost of \"building systems.\" Open source isn't free — infrastructure needs fuel. This isn't selling out; it's evolution from personal project to foundation-backed public good. Sustainable open source requires sustainable funding."
     }
   },
   {
