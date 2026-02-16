@@ -116,6 +116,35 @@
     }
   },
   {
+    "id": "2023207991412146642",
+    "date": "2026-02-16",
+    "author": "@iAnonymous3000",
+    "author_url": "https://x.com/iAnonymous3000",
+    "tweet_url": "https://x.com/iAnonymous3000/status/2023207991412146642",
+    "title": {
+      "en-US": "IronClaw: Rust-based OpenClaw alternative with WASM isolation, capability-based permissions, encrypted vault",
+      "zh-CN": "介绍IronClaw——用Rust构建的OpenClaw替代方案，采用WASM容器隔离、基于能力的权限系统，凭证存储在加密保险库中"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全替代方案 + 系统架构",
+      "zh-CN": "高收藏量（355），触及OpenClaw核心安全痛点，是「建系统」的安全层典范"
+    },
+    "relevance": "OpenClaw安全替代方案 + 系统架构",
+    "score": 0.93,
+    "engagement": {
+      "likes": 354,
+      "replies": 16,
+      "retweets": 20
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「建系统」的安全进化——当OpenClaw暴露安全问题，Rust+WASM+能力权限成为新范式。不是fork，是重构。安全不是补丁，是架构。",
+    "synced_at": "2026-02-16T06:05:40.182539+00:00",
+    "js_take": {
+      "en-US": "Security evolution, not iteration. When the original exposes vulnerabilities, Rust + WASM + capability-based permissions become the new paradigm. IronClaw isn't a fork—it's a rebuild. Security isn't a patch, it's architecture.",
+      "zh-CN": "Security evolution, not iteration. When the original exposes vulnerabilities, Rust + WASM + capability-based permissions become the new paradigm. IronClaw isn't a fork—it's a rebuild. Security isn't a patch, it's architecture."
+    }
+  },
+  {
     "id": "2023176503077318797",
     "date": "2026-02-16",
     "author": "@markgadala",
@@ -258,6 +287,35 @@
     "js_take": {
       "en-US": "Streaming isn't a feature upgrade — it's a presence upgrade. Request-response becomes continuous dialogue. The agent gains persistence. And security hardening signals the shift from toy to infrastructure.",
       "zh-CN": "Streaming isn't a feature upgrade — it's a presence upgrade. Request-response becomes continuous dialogue. The agent gains persistence. And security hardening signals the shift from toy to infrastructure."
+    }
+  },
+  {
+    "id": "2023218176620687849",
+    "date": "2026-02-16",
+    "author": "@Hesamation",
+    "author_url": "https://x.com/Hesamation",
+    "tweet_url": "https://x.com/Hesamation/status/2023218176620687849",
+    "title": {
+      "en-US": "OpenClaw ideas repo: bottleneck isn't skills but ideas. 3K stars, people sharing use cases",
+      "zh-CN": "OpenClaw创意集合仓库：瓶颈不是技能而是创意，近3000星标，许多人分享使用场景"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + 使用场景",
+      "zh-CN": "高收藏量（333），触及OpenClaw的核心瓶颈——有工具无场景，符合「AI的上限就是使用AI的人」"
+    },
+    "relevance": "OpenClaw生态 + 使用场景",
+    "score": 0.89,
+    "engagement": {
+      "likes": 219,
+      "replies": 13,
+      "retweets": 15
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「AI的上限就是使用AI的人」的验证——当技能市场繁荣，真正的瓶颈是「想象力」。工具只是放大器，人的创造力才是上限。",
+    "synced_at": "2026-02-16T06:05:40.182545+00:00",
+    "js_take": {
+      "en-US": "The ceiling of AI is the human using it. When skill markets are abundant, the real bottleneck becomes imagination. Tools are amplifiers—human creativity is the limit.",
+      "zh-CN": "The ceiling of AI is the human using it. When skill markets are abundant, the real bottleneck becomes imagination. Tools are amplifiers—human creativity is the limit."
     }
   },
   {
@@ -493,6 +551,35 @@
     }
   },
   {
+    "id": "2023267420434231320",
+    "date": "2026-02-16",
+    "author": "@evilcos",
+    "author_url": "https://x.com/evilcos",
+    "tweet_url": "https://x.com/evilcos/status/2023267420434231320",
+    "title": {
+      "en-US": "Tested Kimi Claw, gave root permission, found two ways to fully control it. Killed several 🦞",
+      "zh-CN": "实测Kimi Claw，给了root权限，找到两种完全控制它的方式，搞死了好几只小龙虾"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全 + 权限边界",
+      "zh-CN": "展示云端agent的安全风险，触及「里世界」的信任边界问题"
+    },
+    "relevance": "OpenClaw安全 + 权限边界",
+    "score": 0.85,
+    "engagement": {
+      "likes": 17,
+      "replies": 8,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「里世界」的安全边界测试——当agent获得root权限，「被控制」的风险真实存在。云端的便利 vs 本地的主权，这是每个agent owner必须面对的权衡。",
+    "synced_at": "2026-02-16T06:05:40.182549+00:00",
+    "js_take": {
+      "en-US": "The inner world's boundary test. When agents get root, \"being controlled\" becomes real. Cloud convenience vs local sovereignty—every agent owner faces this trade-off.",
+      "zh-CN": "The inner world's boundary test. When agents get root, \"being controlled\" becomes real. Cloud convenience vs local sovereignty—every agent owner faces this trade-off."
+    }
+  },
+  {
     "id": "2023181014344806668",
     "date": "2026-02-16",
     "author": "@jefftangx",
@@ -577,6 +664,35 @@
     "js_take": {
       "en-US": "180K stars isn't organizational victory — it's the victory of 势. One person's compute + AI's compute > one company's compute. Anthropic didn't miss a project. They missed a paradigm.",
       "zh-CN": "180K stars isn't organizational victory — it's the victory of 势. One person's compute + AI's compute > one company's compute. Anthropic didn't miss a project. They missed a paradigm."
+    }
+  },
+  {
+    "id": "2023030592120754314",
+    "date": "2026-02-16",
+    "author": "@spikeysanju",
+    "author_url": "https://x.com/spikeysanju",
+    "tweet_url": "https://x.com/spikeysanju/status/2023030592120754314",
+    "title": {
+      "en-US": "droidclaw: $30 old android phone into AI agent using any app, no APIs, plain english",
+      "zh-CN": "介绍droidclaw，将30美元旧安卓手机变成AI agent，可以使用任何应用，无需API，只用plain english"
+    },
+    "summary": {
+      "en-US": "OpenClaw移动端 + 硬件民主化",
+      "zh-CN": "超高收藏量（816），展示agent向移动端/旧设备的扩展"
+    },
+    "relevance": "OpenClaw移动端 + 硬件民主化",
+    "score": 0.84,
+    "engagement": {
+      "likes": 644,
+      "replies": 34,
+      "retweets": 58
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「里世界」的硬件民主化——不需要Mac Mini，$30旧手机就能跑agent。真正的「无为而治」是让算力无处不在。",
+    "synced_at": "2026-02-16T06:05:40.182551+00:00",
+    "js_take": {
+      "en-US": "Hardware democratization of the inner world. No Mac Mini needed—$30 old phones run agents now. True wu wei: compute everywhere, without forcing it.",
+      "zh-CN": "Hardware democratization of the inner world. No Mac Mini needed—$30 old phones run agents now. True wu wei: compute everywhere, without forcing it."
     }
   },
   {
@@ -693,6 +809,35 @@
     "js_take": {
       "en-US": "The philosophy shift from \"remember everything\" to \"remember what matters.\" Opt-in memory isn't just technical — it's privacy-by-design. What's the filtering logic for autoCapture? Context relevance, time decay, or user-defined rules? Memory bloat kills long-term agents.",
       "zh-CN": "The philosophy shift from \"remember everything\" to \"remember what matters.\" Opt-in memory isn't just technical — it's privacy-by-design. What's the filtering logic for autoCapture? Context relevance, time decay, or user-defined rules? Memory bloat kills long-term agents."
+    }
+  },
+  {
+    "id": "2023230513230614563",
+    "date": "2026-02-16",
+    "author": "@brendanh0gan",
+    "author_url": "https://x.com/brendanh0gan",
+    "tweet_url": "https://x.com/brendanh0gan/status/2023230513230614563",
+    "title": {
+      "en-US": "HermitClaw: 24/7 agent in single folder, researches, codes, plays with dropped files",
+      "zh-CN": "介绍HermitClaw：一个24/7运行的agent，只能访问桌面上的一个文件夹，自主研究、上网、写代码"
+    },
+    "summary": {
+      "en-US": "OpenClaw变体 + 沙盒安全",
+      "zh-CN": "展示agent的「隔离」安全模式，限制范围以换取安全"
+    },
+    "relevance": "OpenClaw变体 + 沙盒安全",
+    "score": 0.81,
+    "engagement": {
+      "likes": 59,
+      "replies": 3,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这是「里世界」的安全范式——不是给agent更多权限，而是严格限制它的「活动范围」。单文件夹=数字牢笼，既让agent自主，又保护用户隐私。",
+    "synced_at": "2026-02-16T06:05:40.182554+00:00",
+    "js_take": {
+      "en-US": "The sandbox paradigm. Instead of granting more permissions, strictly limit the activity range. Single folder = digital cage. Agent autonomy meets user privacy.",
+      "zh-CN": "The sandbox paradigm. Instead of granting more permissions, strictly limit the activity range. Single folder = digital cage. Agent autonomy meets user privacy."
     }
   },
   {
