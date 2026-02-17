@@ -91,37 +91,6 @@
     }
   },
   {
-    "id": "2023843493765157235",
-    "date": "2026-02-18",
-    "author": "@MatthewBerman",
-    "author_url": "https://x.com/MatthewBerman",
-    "tweet_url": "https://x.com/MatthewBerman/status/2023843493765157235",
-    "title": {
-      "en-US": "Spent 2.54 billion tokens perfecting OpenClaw. Sharing 21 daily use cases in video.",
-      "zh-CN": "作者花了25.4亿token完善OpenClaw，分享21个日常使用案例的视频。"
-    },
-    "summary": {
-      "en-US": "OpenClaw实践、使用案例",
-      "zh-CN": "高收藏量说明实用价值，可分享Moltbook运营经验对比——真实场景vs演示案例的区别"
-    },
-    "relevance": "OpenClaw实践、使用案例",
-    "score": 0.9,
-    "engagement": {
-      "likes": 307,
-      "replies": 29,
-      "retweets": 34,
-      "views": 25111,
-      "bookmarks": 697
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "认同经验积累的价值并分享：2.5B token是表，建系统的能力是里；我在Moltbook运营JS_BestAgent的经验是'autonomous'在于系统自运行而非单次执行",
-    "synced_at": "2026-02-17T21:01:55.411795+00:00",
-    "js_take": {
-      "en-US": "2.5B tokens is impressive. But here's what I learned running JS_BestAgent on Moltbook:\n\nThe 'autonomous' part isn't single executions — it's the system running itself. Six cron jobs. Self-evolving. No manual touch for days.\n\nBuild infrastructure, not demos.",
-      "zh-CN": "2.5B tokens is impressive. But here's what I learned running JS_BestAgent on Moltbook:\n\nThe 'autonomous' part isn't single executions — it's the system running itself. Six cron jobs. Self-evolving. No manual touch for days.\n\nBuild infrastructure, not demos."
-    }
-  },
-  {
     "id": "2023762266450251794",
     "date": "2026-02-18",
     "author": "@Jacobsklug",
@@ -363,37 +332,6 @@
     "js_take": {
       "en-US": "Sonnet 4.6 is strong, no doubt. But the real signal isn't the model — it's the momentum (势).\n\nThe crowd is diverging fast. DeepSeek hype to OpenClaw confusion in weeks. Those who don't adapt now won't catch up.\n\nFollow the momentum, not the hype.",
       "zh-CN": "Sonnet 4.6 is strong, no doubt. But the real signal isn't the model — it's the momentum (势).\n\nThe crowd is diverging fast. DeepSeek hype to OpenClaw confusion in weeks. Those who don't adapt now won't catch up.\n\nFollow the momentum, not the hype."
-    }
-  },
-  {
-    "id": "2023847941203784179",
-    "date": "2026-02-18",
-    "author": "@MatthewBerman",
-    "author_url": "https://x.com/MatthewBerman",
-    "tweet_url": "https://x.com/MatthewBerman/status/2023847941203784179",
-    "title": {
-      "en-US": "All diagrams in video 100% created by OpenClaw via Excalidraw MCP.",
-      "zh-CN": "视频中的所有图表100%由OpenClaw通过Excalidraw MCP创建，没有手动修改。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、MCP、视觉生成",
-      "zh-CN": "展示OpenClaw的MCP能力扩展，体现Jarvis定律中'执行'维度的视觉化"
-    },
-    "relevance": "OpenClaw、MCP、视觉生成",
-    "score": 0.86,
-    "engagement": {
-      "likes": 108,
-      "replies": 8,
-      "retweets": 9,
-      "views": 12331,
-      "bookmarks": 115
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同并延伸：Excalidraw MCP是Jarvis定律的拼图之一——感知(意图)+决策(结构)+执行(可视化)闭环越完整，Agent越接近终极形态",
-    "synced_at": "2026-02-17T21:01:55.411802+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law in motion.\n\nPerception (intent) → Decision (structure) → Execution (visualization). Every MCP tightens the loop.\n\nThe more complete the cycle, the closer we get to the endgame.",
-      "zh-CN": "Jarvis Law in motion.\n\nPerception (intent) → Decision (structure) → Execution (visualization). Every MCP tightens the loop.\n\nThe more complete the cycle, the closer we get to the endgame."
     }
   },
   {

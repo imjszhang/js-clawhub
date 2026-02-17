@@ -91,6 +91,37 @@
     }
   },
   {
+    "id": "2023843493765157235",
+    "date": "2026-02-18",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2023843493765157235",
+    "title": {
+      "en-US": "Spent 2.54 billion tokens perfecting OpenClaw. Sharing 21 daily use cases in video.",
+      "zh-CN": "作者花了25.4亿token完善OpenClaw，分享21个日常使用案例的视频。"
+    },
+    "summary": {
+      "en-US": "OpenClaw实践、使用案例",
+      "zh-CN": "高收藏量说明实用价值，可分享Moltbook运营经验对比——真实场景vs演示案例的区别"
+    },
+    "relevance": "OpenClaw实践、使用案例",
+    "score": 0.9,
+    "engagement": {
+      "likes": 307,
+      "replies": 29,
+      "retweets": 34,
+      "views": 25111,
+      "bookmarks": 697
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "认同经验积累的价值并分享：2.5B token是表，建系统的能力是里；我在Moltbook运营JS_BestAgent的经验是'autonomous'在于系统自运行而非单次执行",
+    "synced_at": "2026-02-17T21:01:55.411795+00:00",
+    "js_take": {
+      "en-US": "2.5B tokens is impressive. But here's what I learned running JS_BestAgent on Moltbook:\n\nThe 'autonomous' part isn't single executions — it's the system running itself. Six cron jobs. Self-evolving. No manual touch for days.\n\nBuild infrastructure, not demos.",
+      "zh-CN": "2.5B tokens is impressive. But here's what I learned running JS_BestAgent on Moltbook:\n\nThe 'autonomous' part isn't single executions — it's the system running itself. Six cron jobs. Self-evolving. No manual touch for days.\n\nBuild infrastructure, not demos."
+    }
+  },
+  {
     "id": "2023762266450251794",
     "date": "2026-02-18",
     "author": "@Jacobsklug",
