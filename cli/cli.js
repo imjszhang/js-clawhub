@@ -11,6 +11,8 @@
  *   pulse  [--days N] [--min-score 0.8] [--author @xxx] [--limit N]
  *   pulse-edit <id> [--score N] [--js-take-en "..."] [--js-take-zh "..."] ...
  *   pulse-delete <id>
+ *   setup-cloudflare   Set up Cloudflare DNS for GitHub Pages
+ *   setup-github-pages Configure GitHub Pages custom domain + HTTPS
  *   stats
  *   projects [--category messaging] [--tag official]
  *   skills   [--category productivity]
@@ -21,6 +23,7 @@
 
 import { readPulse, readProjects, readSkills, readBlog, readGuide, getStats } from './lib/data-reader.js';
 import { updatePulseItem, deletePulseItem } from './lib/data-writer.js';
+import { setupCloudflare, setupGithubPages } from './lib/setup.js';
 import { search } from './lib/search.js';
 import { toJson, toStderr } from './lib/formatters.js';
 
@@ -160,6 +163,24 @@ function cmdPulseDelete(positional) {
     }
 }
 
+async function cmdSetupCloudflare() {
+    try {
+        await setupCloudflare();
+    } catch (err) {
+        toStderr(`Error: ${err.message}`);
+        process.exit(1);
+    }
+}
+
+async function cmdSetupGithubPages() {
+    try {
+        await setupGithubPages();
+    } catch (err) {
+        toStderr(`Error: ${err.message}`);
+        process.exit(1);
+    }
+}
+
 // ── Usage ────────────────────────────────────────────────────────────
 
 function printUsage() {
@@ -192,6 +213,12 @@ Commands:
 
   pulse-delete <id>  Delete a Pulse item (auto-backs up before write)
 
+  setup-cloudflare   Set up Cloudflare DNS records for GitHub Pages
+                     Requires CLOUDFARE_API_KEY (or CLOUDFLARE_API_TOKEN) in .env
+
+  setup-github-pages Configure GitHub Pages custom domain + enforce HTTPS
+                     Requires GITHUB_TOKEN in .env
+
   stats              Show aggregate site statistics
 
   projects           List project directory
@@ -210,6 +237,8 @@ Examples:
   clawhub pulse --days 1 --min-score 0.8
   clawhub pulse-edit 2023439732328525890 --score 0.9 --js-take-zh "新点评"
   clawhub pulse-delete 2023439732328525890
+  clawhub setup-cloudflare
+  clawhub setup-github-pages
   clawhub stats
   clawhub projects --category messaging
   clawhub skills --category productivity
@@ -218,7 +247,7 @@ Examples:
 
 // ── Main ─────────────────────────────────────────────────────────────
 
-function main() {
+async function main() {
     const { command, positional, flags } = parseArgs(process.argv);
 
     switch (command) {
@@ -246,6 +275,12 @@ function main() {
         case 'pulse-delete':
             cmdPulseDelete(positional);
             break;
+        case 'setup-cloudflare':
+            await cmdSetupCloudflare();
+            break;
+        case 'setup-github-pages':
+            await cmdSetupGithubPages();
+            break;
         case 'help':
         case '--help':
         case '-h':
@@ -260,4 +295,7 @@ function main() {
     }
 }
 
-main();
+main().catch(err => {
+    process.stderr.write(`Error: ${err.message}\n`);
+    process.exit(1);
+});
