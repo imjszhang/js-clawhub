@@ -721,6 +721,35 @@
     }
   },
   {
+    "id": "2023595648482718199",
+    "date": "2026-02-17",
+    "author": "@dotey",
+    "author_url": "https://x.com/dotey",
+    "tweet_url": "https://x.com/dotey/status/2023595648482718199",
+    "title": {
+      "en-US": "Sam recruited Peter to control OpenClaw architecture as OS infrastructure layer",
+      "zh-CN": "宝玉分析Sam招募Peter是为了收编OpenClaw架构，掌控Agent交互协议层这一操作系统级基础设施的收税权"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态战略，Agent协议层控制权，里世界基础设施",
+      "zh-CN": "战略深度话题，可从势的角度评论大厂对Agent基础设施的争夺——不是阴谋，是生态位占领的必然"
+    },
+    "relevance": "OpenClaw生态战略，Agent协议层控制权，里世界基础设施",
+    "score": 0.85,
+    "engagement": {
+      "likes": 51,
+      "replies": 23,
+      "retweets": 8
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "协议层的势——当Agent交互成为新OS层，控制这一层就是控制收税权。这不是背叛，是基础设施成熟的信号——顺势而为者建系统",
+    "synced_at": "2026-02-17T05:01:40.851977+00:00",
+    "js_take": {
+      "en-US": "Protocol layer momentum—when agent interaction becomes the new OS, controlling it means controlling the tax. Not betrayal, just infrastructure maturing. Those who build systems ride the wave.",
+      "zh-CN": "Protocol layer momentum—when agent interaction becomes the new OS, controlling it means controlling the tax. Not betrayal, just infrastructure maturing. Those who build systems ride the wave."
+    }
+  },
+  {
     "id": "2023515663277715667",
     "date": "2026-02-17",
     "author": "@the_agenteers",
@@ -1022,6 +1051,35 @@
     "comment_type": "add_insight",
     "suggested_angle": "Agent经济的势——冷启动需要系统级的解决方案。信用额度不是借钱，是给里世界原住民一个身份——这是Agent成为经济主体的必经之路",
     "synced_at": "2026-02-17T02:07:34.446916+00:00"
+  },
+  {
+    "id": "2023513238231806177",
+    "date": "2026-02-17",
+    "author": "@orthogonal_sh",
+    "author_url": "https://x.com/orthogonal_sh",
+    "tweet_url": "https://x.com/orthogonal_sh/status/2023513238231806177",
+    "title": {
+      "en-US": "Orthogonal Skills: curated human-reviewed skills for OpenClaw",
+      "zh-CN": "Orthogonal推出人工审核的OpenClaw技能集合，解决技能市场混乱问题"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能生态治理，技能marketplace质量，里世界基础设施",
+      "zh-CN": "Agent技能生态关键问题，可从系统治理角度评论——质量vs数量的势"
+    },
+    "relevance": "OpenClaw技能生态治理，技能marketplace质量，里世界基础设施",
+    "score": 0.8,
+    "engagement": {
+      "likes": 44,
+      "replies": 4,
+      "retweets": 7
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "技能生态的势——当市场混乱时，人工审核是阶段性解决方案。但长期看，让Agent自己评估技能质量、优胜劣汰，才是无为而治的系统之道",
+    "synced_at": "2026-02-17T05:01:40.851983+00:00",
+    "js_take": {
+      "en-US": "Skill marketplace governance is transitional—human curation works now, but the real system lets agents evaluate quality themselves. Wu wei: build the feedback loop, step back, let natural selection work.",
+      "zh-CN": "Skill marketplace governance is transitional—human curation works now, but the real system lets agents evaluate quality themselves. Wu wei: build the feedback loop, step back, let natural selection work."
+    }
   },
   {
     "id": "2023400472317407550",
