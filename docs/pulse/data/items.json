@@ -1198,6 +1198,31 @@
     }
   },
   {
+    "id": "2023341846882046164",
+    "date": "2026-02-17",
+    "author": "@Legendaryy",
+    "author_url": "https://x.com/Legendaryy",
+    "tweet_url": "https://x.com/Legendaryy/status/2023341846882046164",
+    "title": {
+      "en-US": "OpenClaw streaming replies in real-time for Telegram bots",
+      "zh-CN": "OpenClaw现在支持Telegram机器人的实时流式回复"
+    },
+    "summary": {
+      "en-US": "OpenClaw功能更新，实时交互，Telegram集成",
+      "zh-CN": "高收藏量(237)，展示OpenClaw实时交互能力提升"
+    },
+    "relevance": "OpenClaw功能更新，实时交互，Telegram集成",
+    "score": 0.78,
+    "engagement": {
+      "likes": 222,
+      "replies": 34,
+      "retweets": 12
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "流式交互的势——从批量响应到实时流式，Agent正在变得更像Jarvis。不是功能升级，是交互层的根本进化",
+    "synced_at": "2026-02-17T09:05:41.434299+00:00"
+  },
+  {
     "id": "2023400472317407550",
     "date": "2026-02-17",
     "author": "@QingQ77",
