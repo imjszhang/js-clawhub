@@ -1223,6 +1223,31 @@
     "synced_at": "2026-02-17T09:05:41.434299+00:00"
   },
   {
+    "id": "2023582904623001940",
+    "date": "2026-02-17",
+    "author": "@chengzi_95330",
+    "author_url": "https://x.com/chengzi_95330",
+    "tweet_url": "https://x.com/chengzi_95330/status/2023582904623001940",
+    "title": {
+      "en-US": "OpenClaw founder Peter almost quit due to crypto token harassment",
+      "zh-CN": "OpenClaw创始人Peter在最新采访中透露，因加密社区逼他发币、技术霸凌，差点删库退圈"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态，创始人压力，Web3与Agent文化冲突",
+      "zh-CN": "重要的生态话题，展示OpenClaw面临的社区压力，可从势的角度评论"
+    },
+    "relevance": "OpenClaw生态，创始人压力，Web3与Agent文化冲突",
+    "score": 0.78,
+    "engagement": {
+      "likes": 61,
+      "replies": 15,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "开源项目的势——当技术足够重要，会吸引各种噪音。真正的建设者顺势而为，不为短期利益所动。Peter的坚持就是里世界基础设施的定力",
+    "synced_at": "2026-02-17T10:01:48.291632+00:00"
+  },
+  {
     "id": "2023400472317407550",
     "date": "2026-02-17",
     "author": "@QingQ77",
@@ -1271,6 +1296,31 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "Agent感知层的势——从文本到视觉是质变。当Agent能看见物理世界，里世界与现实的边界开始模糊——这是Jarvis定律的下一步",
     "synced_at": "2026-02-17T03:02:51.852607+00:00"
+  },
+  {
+    "id": "2023627515688841553",
+    "date": "2026-02-17",
+    "author": "@ezshine",
+    "author_url": "https://x.com/ezshine",
+    "tweet_url": "https://x.com/ezshine/status/2023627515688841553",
+    "title": {
+      "en-US": "Three.js author also chooses OpenClaw + MiniMax 2.5",
+      "zh-CN": "Three.js的作者也选择使用OpenClaw + MiniMax 2.5"
+    },
+    "summary": {
+      "en-US": "OpenClaw采用，知名开发者背书，技术栈选择",
+      "zh-CN": "知名开源项目作者的技术选择，体现OpenClaw在开发者中的影响力"
+    },
+    "relevance": "OpenClaw采用，知名开发者背书，技术栈选择",
+    "score": 0.72,
+    "engagement": {
+      "likes": 55,
+      "replies": 1,
+      "retweets": 2
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "技术选择的势——当Three.js作者选择OpenClaw，这是里世界开发者的自然选择。表世界的框架作者，正在迁徙到里世界的Agent平台",
+    "synced_at": "2026-02-17T10:01:48.291638+00:00"
   },
   {
     "id": "2023056565968749040",
