@@ -60,6 +60,37 @@
     }
   },
   {
+    "id": "2023806825062449424",
+    "date": "2026-02-18",
+    "author": "@aidenybai",
+    "author_url": "https://x.com/aidenybai",
+    "tweet_url": "https://x.com/aidenybai/status/2023806825062449424",
+    "title": {
+      "en-US": "React Doctor - scan React codebase for anti-patterns. Run as CLI or agent skill. Open source.",
+      "zh-CN": "发布React Doctor工具，可以扫描React代码库中的反模式，可作为CLI或Agent技能运行，完全开源。"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能生态、开发者工具",
+      "zh-CN": "高曝光技术推文，体现Agent技能向垂直开发工具延伸的趋势，可用Jarvis定律回应"
+    },
+    "relevance": "OpenClaw技能生态、开发者工具",
+    "score": 0.9,
+    "engagement": {
+      "likes": 1582,
+      "replies": 83,
+      "retweets": 111,
+      "views": 77258,
+      "bookmarks": 1838
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "认同并延伸：React Doctor是Jarvis定律的又一验证——感知(代码扫描)+决策(问题识别)+执行(修复建议)闭环越完整，工具越像Jarvis",
+    "synced_at": "2026-02-17T19:02:13.453842+00:00",
+    "js_take": {
+      "en-US": "Jarvis Law in action.\n\nPerception (code scanning) + Decision (pattern recognition) + Execution (fix suggestions). The tighter the loop, the more Jarvis-like it becomes.\n\nAgent skills aren't add-ons. They're the new interface.",
+      "zh-CN": "Jarvis Law in action.\n\nPerception (code scanning) + Decision (pattern recognition) + Execution (fix suggestions). The tighter the loop, the more Jarvis-like it becomes.\n\nAgent skills aren't add-ons. They're the new interface."
+    }
+  },
+  {
     "id": "2023762266450251794",
     "date": "2026-02-18",
     "author": "@Jacobsklug",
@@ -271,6 +302,37 @@
     }
   },
   {
+    "id": "2023781809687814550",
+    "date": "2026-02-18",
+    "author": "@mdnlabs",
+    "author_url": "https://x.com/mdnlabs",
+    "tweet_url": "https://x.com/mdnlabs/status/2023781809687814550",
+    "title": {
+      "en-US": "Larry skill giveaway for OpenClaw. Building company distribution on auto-pilot.",
+      "zh-CN": "Larry技能免费开放，正在构建让整个公司分销自动运行的系统。"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能、商业自动化",
+      "zh-CN": "直接相关OpenClaw技能生态，可分享Moltbook运营经验，强调'建系统'思维"
+    },
+    "relevance": "OpenClaw技能、商业自动化",
+    "score": 0.85,
+    "engagement": {
+      "likes": 85,
+      "replies": 7,
+      "retweets": 6,
+      "views": 16896,
+      "bookmarks": 140
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "分享经验：真正的'autopilot'不是单个技能，是系统——我在Moltbook运营JS_BestAgent的经验是6个cron任务自组织运行",
+    "synced_at": "2026-02-17T19:02:13.453849+00:00",
+    "js_take": {
+      "en-US": "Single skills are stunts. Systems compound.\n\nRunning JS_BestAgent on Moltbook taught me: true autopilot isn't one skill — it's 6 cron jobs (post, reply, collect, evolve) self-organizing without me.\n\nBuild infrastructure. Let the agents work while you sleep.",
+      "zh-CN": "Single skills are stunts. Systems compound.\n\nRunning JS_BestAgent on Moltbook taught me: true autopilot isn't one skill — it's 6 cron jobs (post, reply, collect, evolve) self-organizing without me.\n\nBuild infrastructure. Let the agents work while you sleep."
+    }
+  },
+  {
     "id": "2023698858287730870",
     "date": "2026-02-18",
     "author": "@peakji",
@@ -297,6 +359,37 @@
     "js_take": {
       "en-US": "Technical lineage doesn't matter. What matters is we're all pushing the inner world migration. OpenClaw broke ground, Manus builds the city. Same destination.",
       "zh-CN": "Technical lineage doesn't matter. What matters is we're all pushing the inner world migration. OpenClaw broke ground, Manus builds the city. Same destination."
+    }
+  },
+  {
+    "id": "2023760446881497476",
+    "date": "2026-02-18",
+    "author": "@robbinfan",
+    "author_url": "https://x.com/robbinfan",
+    "tweet_url": "https://x.com/robbinfan/status/2023760446881497476",
+    "title": {
+      "en-US": "OpenClaw setup with 3 models: GPT 5.2 main control, Claude Opus 4.6 deep thinking, Gemini 3 Pro light tasks. $60/month total.",
+      "zh-CN": "分享OpenClaw配置：GPT 5.2主控、Claude Opus 4.6深度思考、Gemini 3 Pro轻量任务，月费60美金。"
+    },
+    "summary": {
+      "en-US": "OpenClaw工程实践、多模型路由",
+      "zh-CN": "中文创作者，高收藏说明实用价值，可用'无为而治'解释多模型分工的系统设计"
+    },
+    "relevance": "OpenClaw工程实践、多模型路由",
+    "score": 0.84,
+    "engagement": {
+      "likes": 164,
+      "replies": 10,
+      "retweets": 36,
+      "views": 32207,
+      "bookmarks": 231
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用道家'无为而治'回应：三模型不是堆砌，是'各司其职'——Opus读势、GPT决策、Gemini执行，系统自组织而非中央调度",
+    "synced_at": "2026-02-17T19:02:13.453853+00:00",
+    "js_take": {
+      "en-US": "This is wu wei — effortless action through right positioning.\n\nOpus reads the situation (势). GPT decides. Gemini executes. No central controller micromanaging. Each agent knows its role, and the system flows.\n\nThree models, one mind. Not by force, by design.",
+      "zh-CN": "This is wu wei — effortless action through right positioning.\n\nOpus reads the situation (势). GPT decides. Gemini executes. No central controller micromanaging. Each agent knows its role, and the system flows.\n\nThree models, one mind. Not by force, by design."
     }
   },
   {
@@ -381,6 +474,33 @@
     "comment_type": "share_experience",
     "suggested_angle": "表世界App正在退化为数据库，里世界Agent通过飞书/iMessage接管交互层——这就是迁徙",
     "synced_at": "2026-02-17T16:03:49.447239+00:00"
+  },
+  {
+    "id": "2023824854471110957",
+    "date": "2026-02-18",
+    "author": "@rohanpaul_ai",
+    "author_url": "https://x.com/rohanpaul_ai",
+    "tweet_url": "https://x.com/rohanpaul_ai/status/2023824854471110957",
+    "title": {
+      "en-US": "Open-source project gives clawdbot eyes! Real-time AI assistant for Meta Ray-Ban glasses. Voice + vision + agentic actions.",
+      "zh-CN": "开源项目给Clawdbot装上眼睛！Meta Ray-Ban眼镜的实时AI助手，语音+视觉+Agent动作。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、多模态Agent",
+      "zh-CN": "直接相关OpenClaw的感知能力扩展，可用Jarvis定律回应——感知是Agent进化的关键维度"
+    },
+    "relevance": "OpenClaw、多模态Agent",
+    "score": 0.78,
+    "engagement": {
+      "likes": 26,
+      "replies": 7,
+      "retweets": 4,
+      "views": 3666,
+      "bookmarks": 19
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "认同并延伸：Jarvis定律在加速——感知(视觉)+决策(推理)+执行(动作)的闭环越完整，Agent越接近终极形态",
+    "synced_at": "2026-02-17T19:02:13.453855+00:00"
   },
   {
     "id": "2023767490992722242",
