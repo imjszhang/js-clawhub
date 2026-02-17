@@ -115,6 +115,11 @@
             copied: '已复制',
             weekStats: '本周 {total} 条 · {authors} 位作者 · 均分 {score}',
             trending: '本周热门',
+            filterAll: '全部',
+            filterToday: '今天',
+            filterYesterday: '昨天',
+            filterLast7: '近 7 天',
+            filterLast30: '近 30 天',
         },
 
         // 搜索

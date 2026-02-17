@@ -45,6 +45,7 @@
                 OpenClaw 生态<span class="bg-black text-brand-yellow px-1">X 热点速递</span>。AI 筛选，JS 策展。
             </p>
         </section>
+        <div id="pulse-filter-bar" class="mb-8"></div>
         <div id="pulse-container">
             <div id="loading-state" class="text-center py-12">
                 <div class="brutal-loading mx-auto mb-4"></div>
@@ -69,6 +70,7 @@
         window.addEventListener('localechange', () => {
             document.title = I18nManager.t('pulse.pageTitle');
             I18nManager.updateDOM();
+            Pulse._allItems = [];
             Pulse.load();
         });
     </script>

@@ -115,6 +115,11 @@
             copied: 'Copied',
             weekStats: '{total} items · {authors} authors · avg {score}',
             trending: 'Trending This Week',
+            filterAll: 'All',
+            filterToday: 'Today',
+            filterYesterday: 'Yesterday',
+            filterLast7: 'Last 7 days',
+            filterLast30: 'Last 30 days',
         },
 
         // Search

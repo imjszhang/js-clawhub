@@ -3,13 +3,17 @@
  * Renders OpenClaw ecosystem X highlights as a timeline
  * With i18n support via I18nManager
  *
- * v2: bilingual title/summary, JS's Take, views/bookmarks
+ * v3: date filtering, bilingual title/summary, JS's Take, views/bookmarks
  */
 
 const Pulse = {
     config: {
         dataFile: './data/items.json',
     },
+
+    _allItems: [],
+    _allDates: [],
+    _filter: 'all',
 
     _t(key) {
         return typeof I18nManager !== 'undefined' ? I18nManager.t(key) : key;
@@ -23,6 +27,35 @@ const Pulse = {
         return '';
     },
 
+    _todayStr() {
+        const d = new Date();
+        return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+    },
+
+    _daysAgoStr(n) {
+        const d = new Date();
+        d.setDate(d.getDate() - n);
+        return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+    },
+
+    _applyFilter(items) {
+        const f = this._filter;
+        if (f === 'all') return items;
+
+        let cutoff;
+        if (f === 'today') cutoff = this._todayStr();
+        else if (f === 'yesterday') cutoff = this._daysAgoStr(1);
+        else if (f === 'last7') cutoff = this._daysAgoStr(6);
+        else if (f === 'last30') cutoff = this._daysAgoStr(29);
+        else cutoff = f;
+
+        if (f === 'today') return items.filter(it => it.date === cutoff);
+        if (f === 'yesterday') return items.filter(it => it.date === cutoff);
+        if (f === 'last7' || f === 'last30') return items.filter(it => it.date >= cutoff);
+
+        return items.filter(it => it.date === f);
+    },
+
     /**
      * Load and render pulse items
      */
@@ -33,22 +66,34 @@ const Pulse = {
         const errorState = document.getElementById('error-state');
 
         try {
-            const response = await fetch(this.config.dataFile);
-            if (!response.ok) throw new Error('Failed to fetch pulse data');
-
-            const items = await response.json();
+            if (this._allItems.length === 0) {
+                const response = await fetch(this.config.dataFile);
+                if (!response.ok) throw new Error('Failed to fetch pulse data');
+                this._allItems = await response.json();
+                this._allDates = [...new Set(this._allItems.map(it => it.date))].sort((a, b) => b.localeCompare(a));
+            }
 
             if (loadingState) loadingState.remove();
 
-            if (!items || items.length === 0) {
+            if (!this._allItems || this._allItems.length === 0) {
                 if (emptyState) emptyState.classList.remove('hidden');
                 return;
             }
 
-            // Group by date
-            const grouped = this.groupByDate(items);
+            const filtered = this._applyFilter(this._allItems);
+            const grouped = this.groupByDate(filtered);
 
-            // Render timeline
+            const filterBar = document.getElementById('pulse-filter-bar');
+            if (filterBar) filterBar.innerHTML = this.renderFilterBar();
+
+            if (filtered.length === 0) {
+                container.innerHTML = `
+                    <div class="text-center py-12">
+                        <p class="font-mono font-bold text-xl text-black/40">// ${this.escapeHtml(this._t('pulse.noPulse'))}</p>
+                    </div>`;
+                return;
+            }
+
             container.innerHTML = this.renderTimeline(grouped);
 
         } catch (error) {
@@ -56,6 +101,48 @@ const Pulse = {
             if (loadingState) loadingState.remove();
             if (errorState) errorState.classList.remove('hidden');
         }
+    },
+
+    setFilter(value) {
+        this._filter = value;
+        this.load();
+    },
+
+    renderFilterBar() {
+        const presets = [
+            { key: 'all',       label: this._t('pulse.filterAll') },
+            { key: 'today',     label: this._t('pulse.filterToday') },
+            { key: 'yesterday', label: this._t('pulse.filterYesterday') },
+            { key: 'last7',     label: this._t('pulse.filterLast7') },
+            { key: 'last30',    label: this._t('pulse.filterLast30') },
+        ];
+
+        const today = this._todayStr();
+        const yesterday = this._daysAgoStr(1);
+
+        const presetHTML = presets.map(({ key, label }) => {
+            const active = this._filter === key;
+            const cls = active
+                ? 'bg-black text-brand-yellow shadow-brutal-hover'
+                : 'bg-white text-black hover:bg-black hover:text-brand-yellow';
+            return `<button onclick="Pulse.setFilter('${key}')" class="flex-shrink-0 px-3 py-1.5 font-mono text-xs font-bold border-2 border-black transition-all ${cls}">${this.escapeHtml(label)}</button>`;
+        }).join('');
+
+        const specificDates = this._allDates
+            .filter(d => d !== today && d !== yesterday)
+            .slice(0, 14);
+
+        const dateHTML = specificDates.map(d => {
+            const active = this._filter === d;
+            const cls = active
+                ? 'bg-black text-brand-yellow shadow-brutal-hover'
+                : 'bg-white text-black/60 hover:bg-black hover:text-brand-yellow';
+            return `<button onclick="Pulse.setFilter('${d}')" class="flex-shrink-0 px-3 py-1.5 font-mono text-xs font-bold border-2 border-black/30 transition-all ${cls}">${this.escapeHtml(this.formatDateShort(d))}</button>`;
+        }).join('');
+
+        const sep = dateHTML ? '<span class="flex-shrink-0 w-px h-6 bg-black/20"></span>' : '';
+
+        return `<div class="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-hide">${presetHTML}${sep}${dateHTML}</div>`;
     },
 
     groupByDate(items) {
@@ -251,6 +338,16 @@ const Pulse = {
         try {
             return new Date(dateStr + 'T00:00:00').toLocaleDateString('zh-CN', {
                 year: 'numeric', month: 'long', day: 'numeric'
+            });
+        } catch { return dateStr; }
+    },
+
+    formatDateShort(dateStr) {
+        try {
+            const locale = (typeof I18nManager !== 'undefined' && I18nManager.currentLocale)
+                ? I18nManager.currentLocale : 'zh-CN';
+            return new Date(dateStr + 'T00:00:00').toLocaleDateString(locale, {
+                month: 'short', day: 'numeric'
             });
         } catch { return dateStr; }
     },
