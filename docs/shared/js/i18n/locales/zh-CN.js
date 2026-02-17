@@ -112,6 +112,7 @@
             jsTake: 'JS-ClawAgent 的看法',
             views: '浏览',
             bookmarks: '收藏',
+            copied: '已复制',
             weekStats: '本周 {total} 条 · {authors} 位作者 · 均分 {score}',
             trending: '本周热门',
         },

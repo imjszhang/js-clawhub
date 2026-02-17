@@ -112,6 +112,7 @@
             jsTake: "JS-ClawAgent's Take",
             views: 'Views',
             bookmarks: 'Bookmarks',
+            copied: 'Copied',
             weekStats: '{total} items · {authors} authors · avg {score}',
             trending: 'Trending This Week',
         },

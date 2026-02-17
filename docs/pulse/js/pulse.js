@@ -101,8 +101,7 @@ const Pulse = {
         const jsTakeHTML = this.renderJsTake(item.js_take, item);
 
         return `
-            <a href="${this.escapeAttr(item.tweet_url)}" target="_blank" rel="noopener noreferrer"
-               class="brutal-card flex flex-col sm:flex-row gap-4 p-5 no-underline text-black group">
+            <div class="brutal-card brutal-card-static flex flex-col sm:flex-row gap-4 p-5 text-black">
                 <div class="flex-shrink-0">
                     <img src="${avatarUrl}" alt="${this.escapeHtml(item.author)}"
                          class="w-12 h-12 rounded-full border-3 border-black"
@@ -113,10 +112,16 @@ const Pulse = {
                         <span class="font-mono font-bold text-sm">${this.escapeHtml(item.author)}</span>
                         ${typeTag}
                     </div>
-                    <h3 class="font-bold text-base mb-2 group-hover:bg-black group-hover:text-brand-yellow group-hover:px-1 transition-all leading-snug">
-                        ${this.escapeHtml(title)}
-                    </h3>
-                    <p class="text-sm text-black/70 mb-3 leading-relaxed">
+                    <a href="${this.escapeAttr(item.tweet_url)}" target="_blank" rel="noopener noreferrer"
+                       class="block no-underline text-black group">
+                        <h3 class="font-bold text-base mb-2 group-hover:bg-black group-hover:text-brand-yellow group-hover:px-1 transition-all leading-snug inline">
+                            ${this.escapeHtml(title)}
+                        </h3>
+                        <svg class="w-4 h-4 text-black/30 group-hover:text-black transition-colors inline-block ml-1 align-middle" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="3">
+                            <path stroke-linecap="square" d="M9 5l7 7-7 7"/>
+                        </svg>
+                    </a>
+                    <p class="text-sm text-black/70 mb-3 mt-2 leading-relaxed">
                         ${this.escapeHtml(summary)}
                     </p>
                     ${jsTakeHTML}
@@ -125,29 +130,63 @@ const Pulse = {
                         ${scoreBar}
                     </div>
                 </div>
-                <div class="flex-shrink-0 self-center hidden sm:block">
-                    <svg class="w-5 h-5 text-black/30 group-hover:text-black transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="3">
-                        <path stroke-linecap="square" d="M9 5l7 7-7 7"/>
-                    </svg>
-                </div>
-            </a>
+            </div>
         `;
     },
 
     renderJsTake(jsTake, item) {
         if (!jsTake) return '';
         const label = this._t('pulse.jsTake');
-        // Support bilingual: {"en-US": "...", "zh-CN": "..."}
         const text = (item && typeof jsTake === 'object')
             ? this._l(item, 'js_take')
             : (typeof jsTake === 'string' ? jsTake : '');
         if (!text) return '';
         return `
-            <div class="mb-3 pl-3 border-l-4 border-brand-yellow bg-brand-yellow/5 py-2 pr-2">
-                <span class="font-mono text-[10px] font-bold text-black/40 uppercase">${this.escapeHtml(label)}</span>
-                <p class="text-xs text-black/60 italic leading-relaxed mt-0.5">${this.escapeHtml(text)}</p>
+            <div class="mb-3 pl-3 border-l-4 border-brand-yellow bg-brand-yellow/5 py-2 pr-2 relative group/take">
+                <div class="flex items-center justify-between gap-2">
+                    <span class="font-mono text-[10px] font-bold text-black/40 uppercase">${this.escapeHtml(label)}</span>
+                    <button onclick="Pulse.copyTake(this)" type="button"
+                            data-text="${this.escapeAttr(text)}"
+                            class="pulse-copy-btn flex-shrink-0 w-8 h-8 flex items-center justify-center rounded border border-black/10 text-black/30 hover:text-black hover:border-black/40 active:scale-95 transition-all"
+                            title="Copy">
+                        <svg class="pulse-copy-icon w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
+                            <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                            <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+                        </svg>
+                        <svg class="pulse-check-icon w-4 h-4 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path>
+                        </svg>
+                    </button>
+                </div>
+                <p class="text-sm text-black/60 italic leading-relaxed mt-0.5 select-text">${this.escapeHtml(text)}</p>
             </div>
         `;
+    },
+
+    copyTake(btn) {
+        const text = btn.getAttribute('data-text') || '';
+        navigator.clipboard.writeText(text).then(() => {
+            const copyIcon = btn.querySelector('.pulse-copy-icon');
+            const checkIcon = btn.querySelector('.pulse-check-icon');
+            if (copyIcon) copyIcon.classList.add('hidden');
+            if (checkIcon) checkIcon.classList.remove('hidden');
+            btn.classList.add('text-green-600', 'border-green-600/40');
+            btn.classList.remove('text-black/30', 'border-black/10');
+            setTimeout(() => {
+                if (copyIcon) copyIcon.classList.remove('hidden');
+                if (checkIcon) checkIcon.classList.add('hidden');
+                btn.classList.remove('text-green-600', 'border-green-600/40');
+                btn.classList.add('text-black/30', 'border-black/10');
+            }, 1500);
+        }).catch(() => {
+            const textarea = document.createElement('textarea');
+            textarea.value = text;
+            textarea.style.cssText = 'position:fixed;opacity:0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+        });
     },
 
     renderEngagement(engagement) {
