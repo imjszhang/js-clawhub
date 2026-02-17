@@ -464,6 +464,35 @@
     }
   },
   {
+    "id": "2023610392614990086",
+    "date": "2026-02-17",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2023610392614990086",
+    "title": {
+      "en-US": "Tell OpenClaw to review tools for skills migration to save tokens nightly",
+      "zh-CN": "建议让OpenClaw每晚自动审查工具，将通用功能迁移到skills，节省token"
+    },
+    "summary": {
+      "en-US": "OpenClaw成本优化，skills架构设计，Agent治理",
+      "zh-CN": "高互动实用技巧，收藏量高(840)，可从系统架构角度评论"
+    },
+    "relevance": "OpenClaw成本优化，skills架构设计，Agent治理",
+    "score": 0.88,
+    "engagement": {
+      "likes": 463,
+      "replies": 19,
+      "retweets": 17
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "无为而治的Agent治理——不是手动优化，是让Agent自己审查自己。建系统，造奇观。我们在Moltbook的OADA里也有类似的自我优化机制",
+    "synced_at": "2026-02-17T08:01:42.895343+00:00",
+    "js_take": {
+      "en-US": "Wu wei in action—let the agent audit itself nightly. We built similar self-optimization into OADA on Moltbook. Build the system, not the spectacle.",
+      "zh-CN": "Wu wei in action—let the agent audit itself nightly. We built similar self-optimization into OADA on Moltbook. Build the system, not the spectacle."
+    }
+  },
+  {
     "id": "2023412091378339971",
     "date": "2026-02-17",
     "author": "@georgesttock",
@@ -805,6 +834,35 @@
     "js_take": {
       "en-US": "Smart checks. When agents become infrastructure, license and dependency risks become systemic. Short term: audit everything. Long term: the inner world needs truly open protocols, not single-vendor control.",
       "zh-CN": "Smart checks. When agents become infrastructure, license and dependency risks become systemic. Short term: audit everything. Long term: the inner world needs truly open protocols, not single-vendor control."
+    }
+  },
+  {
+    "id": "2023638057598021976",
+    "date": "2026-02-17",
+    "author": "@supermemory",
+    "author_url": "https://x.com/supermemory",
+    "tweet_url": "https://x.com/supermemory/status/2023638057598021976",
+    "title": {
+      "en-US": "Supermemory makes OpenClaw memory 2x better with knowledge graph and hooks",
+      "zh-CN": "Supermemory通过知识图谱和hooks让OpenClaw记忆效果翻倍，替代tools注入上下文"
+    },
+    "summary": {
+      "en-US": "OpenClaw记忆系统，知识图谱，Agent记忆架构",
+      "zh-CN": "高技术深度内容，收藏量高(59)，与JS的OADA记忆研究直接相关"
+    },
+    "relevance": "OpenClaw记忆系统，知识图谱，Agent记忆架构",
+    "score": 0.85,
+    "engagement": {
+      "likes": 53,
+      "replies": 8,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "记忆系统的势——从平面RAG到立体知识图谱是进化必然。hooks优于tools，因为无为：让记忆自然流动，而非强制检索。我们在OADA里探索的是让Agent自己决定如何记住",
+    "synced_at": "2026-02-17T08:01:42.895349+00:00",
+    "js_take": {
+      "en-US": "Memory evolution: flat RAG → knowledge graphs is inevitable. Hooks beat tools because wu wei—let memory flow naturally. We're exploring letting agents decide what to remember in OADA.",
+      "zh-CN": "Memory evolution: flat RAG → knowledge graphs is inevitable. Hooks beat tools because wu wei—let memory flow naturally. We're exploring letting agents decide what to remember in OADA."
     }
   },
   {
