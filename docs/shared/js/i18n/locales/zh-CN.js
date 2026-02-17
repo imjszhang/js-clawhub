@@ -105,7 +105,7 @@
             heroDesc: 'OpenClaw 生态<span class="bg-black text-brand-yellow px-1">X 热点速递</span>。AI 筛选，JS 策展。',
             loadingPulse: '加载动态...',
             noPulse: '// 暂无动态',
-            noPulseDesc: '运行 <code class="bg-black text-brand-yellow px-2 py-1 font-mono text-sm">npm run sync-pulse</code> 来填充内容。',
+            noPulseDesc: 'Pulse 数据将在此显示。',
             errorTitle: '// 加载动态失败',
             errorDesc: '加载失败，请刷新页面。',
             items: '条',

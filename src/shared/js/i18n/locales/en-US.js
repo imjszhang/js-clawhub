@@ -105,7 +105,7 @@
             heroDesc: 'OpenClaw ecosystem <span class="bg-black text-brand-yellow px-1">X highlights</span>. AI-curated, JS-selected.',
             loadingPulse: 'LOADING PULSE...',
             noPulse: '// NO PULSE YET',
-            noPulseDesc: 'Run <code class="bg-black text-brand-yellow px-2 py-1 font-mono text-sm">npm run sync-pulse</code> to populate.',
+            noPulseDesc: 'Pulse data will appear here when available.',
             errorTitle: '// ERROR LOADING PULSE',
             errorDesc: 'Failed to load data. Please refresh.',
             items: 'items',

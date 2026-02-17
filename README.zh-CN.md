@@ -101,7 +101,6 @@ npm run preview
 | `npm run dev` | 启动开发服务器（serve `src/`） |
 | `npm run build` | 构建到 `docs/`，含 i18n 翻译校验 |
 | `npm run preview` | 在 3000 端口预览构建产物 |
-| `npm run sync-pulse` | 同步最新 OpenClaw X 动态 |
 | `npm run setup` | 配置 Cloudflare + GitHub Pages |
 
 ## 国际化 (i18n)

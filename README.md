@@ -101,7 +101,6 @@ npm run preview
 | `npm run dev` | Start dev server (serves `src/`) |
 | `npm run build` | Build to `docs/` with i18n validation |
 | `npm run preview` | Preview build output on port 3000 |
-| `npm run sync-pulse` | Sync latest OpenClaw X highlights |
 | `npm run setup` | Configure Cloudflare + GitHub Pages |
 
 ## i18n (Internationalization)
