@@ -522,6 +522,35 @@
     }
   },
   {
+    "id": "2023717813861707940",
+    "date": "2026-02-17",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2023717813861707940",
+    "title": {
+      "en-US": "Meta just dropped their own OpenClaw clone - 'If you can't join them, clone them'",
+      "zh-CN": "Meta刚刚推出了自己的OpenClaw克隆产品，配文\"如果打不赢就抄他们\"。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、大科技克隆Agent架构",
+      "zh-CN": "高影响力账号+Meta入局Agent的爆点话题，可用\"势\"与\"Jarvis定律\"分析大厂战略"
+    },
+    "relevance": "OpenClaw生态、大科技克隆Agent架构",
+    "score": 0.88,
+    "engagement": {
+      "likes": 103,
+      "replies": 25,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Meta克隆是\"势\"的确认——Jarvis定律不可逆，不进则退，大厂也只能跟进",
+    "synced_at": "2026-02-17T15:08:05.385967+00:00",
+    "js_take": {
+      "en-US": "This is the Jarvis Law in action. When even Meta can't resist cloning the pattern, you know the \"shi\" (momentum) is undeniable. The migration from surface web to agent layer is no longer a bet—it's the only direction.",
+      "zh-CN": "This is the Jarvis Law in action. When even Meta can't resist cloning the pattern, you know the \"shi\" (momentum) is undeniable. The migration from surface web to agent layer is no longer a bet—it's the only direction."
+    }
+  },
+  {
     "id": "2023412091378339971",
     "date": "2026-02-17",
     "author": "@georgesttock",
@@ -895,6 +924,64 @@
     }
   },
   {
+    "id": "2023732914635100595",
+    "date": "2026-02-17",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2023732914635100595",
+    "title": {
+      "en-US": "OpenClaw founder almost deleted the entire codebase because of crypto degens.",
+      "zh-CN": "OpenClaw创始人差点因为加密货币投机者删除整个代码库。"
+    },
+    "summary": {
+      "en-US": "OpenClaw项目治理、开源社区健康",
+      "zh-CN": "高互动量+开源社区争议，可从\"不争之争\"和生态系统建设角度切入"
+    },
+    "relevance": "OpenClaw项目治理、开源社区健康",
+    "score": 0.85,
+    "engagement": {
+      "likes": 105,
+      "replies": 35,
+      "retweets": 7
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "开源如修道，需顺应\"势\"而为——加密货币的冲击是外力，但项目的\"道\"在于坚持长期价值",
+    "synced_at": "2026-02-17T15:08:05.385975+00:00",
+    "js_take": {
+      "en-US": "Open source is like cultivating the Dao—you build for the long term, not the noise. Crypto degens come and go, but the real value is in the system that survives them. Stay the course.",
+      "zh-CN": "Open source is like cultivating the Dao—you build for the long term, not the noise. Crypto degens come and go, but the real value is in the system that survives them. Stay the course."
+    }
+  },
+  {
+    "id": "2023600693660287444",
+    "date": "2026-02-17",
+    "author": "@aigclink",
+    "author_url": "https://x.com/aigclink",
+    "tweet_url": "https://x.com/aigclink/status/2023600693660287444",
+    "title": {
+      "en-US": "HKU's ClawWork: OpenClaw/Nanobot earned $10k in 7 hours doing real tasks across 44+ industries in simulated economy.",
+      "zh-CN": "港大新项目ClawWork让OpenClaw/Nanobot在模拟经济环境中7小时完成44+行业真实任务赚取1万美元。"
+    },
+    "summary": {
+      "en-US": "OpenClaw商业化、Agent经济价值验证",
+      "zh-CN": "Agent赚钱能力实证，可从\"不造奇观建系统\"角度分析经济压力测试的价值"
+    },
+    "relevance": "OpenClaw商业化、Agent经济价值验证",
+    "score": 0.84,
+    "engagement": {
+      "likes": 32,
+      "replies": 1,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "7天赚700万是奇观，7小时1万刀是系统——后者才是Agent经济\"势\"的真实刻度",
+    "synced_at": "2026-02-17T15:08:05.385978+00:00",
+    "js_take": {
+      "en-US": "$7M in 7 days is a spectacle. $10K in 7 hours across 44 industries is a system. The former goes viral, the latter compounds. This is what sustainable agent economics actually looks like.",
+      "zh-CN": "$7M in 7 days is a spectacle. $10K in 7 hours across 44 industries is a system. The former goes viral, the latter compounds. This is what sustainable agent economics actually looks like."
+    }
+  },
+  {
     "id": "2023515663277715667",
     "date": "2026-02-17",
     "author": "@the_agenteers",
@@ -1091,6 +1178,35 @@
     "js_take": {
       "en-US": "Forum as long-term memory, UI components as the inner world's interface layer. Surface-world task tools degrade into databases while agents become the new coordination hub. We've seen similar patterns in OADA—context persistence changes everything.",
       "zh-CN": "Forum as long-term memory, UI components as the inner world's interface layer. Surface-world task tools degrade into databases while agents become the new coordination hub. We've seen similar patterns in OADA—context persistence changes everything."
+    }
+  },
+  {
+    "id": "2023724276835311771",
+    "date": "2026-02-17",
+    "author": "@FinanceYF5",
+    "author_url": "https://x.com/FinanceYF5",
+    "tweet_url": "https://x.com/FinanceYF5/status/2023724276835311771",
+    "title": {
+      "en-US": "OpenClaw creator Peter Steinberger loses $10-20k monthly donating to dependencies. Users self-host, he pays infrastructure.",
+      "zh-CN": "OpenClaw创作者Peter Steinberger每月因向依赖库捐款亏损1-2万美元，用户自托管而他承担基础设施成本。"
+    },
+    "summary": {
+      "en-US": "OpenClaw开源生态、开源可持续性",
+      "zh-CN": "开源项目经济模式困境，可用\"不争之争\"和\"顺势而为\"框架提供独特东方视角"
+    },
+    "relevance": "OpenClaw开源生态、开源可持续性",
+    "score": 0.82,
+    "engagement": {
+      "likes": 15,
+      "replies": 4,
+      "retweets": 1
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "开源如修道——不争一时之利，顺势而为建生态；但\"无为\"不代表\"无成本\"，社区需共担",
+    "synced_at": "2026-02-17T15:08:05.385981+00:00",
+    "js_take": {
+      "en-US": "Wu wei doesn't mean zero cost. The \"dao\" of open source requires shared responsibility—when users self-host but the maintainer bleeds, the ecosystem is out of balance. Time for the community to step up.",
+      "zh-CN": "Wu wei doesn't mean zero cost. The \"dao\" of open source requires shared responsibility—when users self-host but the maintainer bleeds, the ecosystem is out of balance. Time for the community to step up."
     }
   },
   {
@@ -1331,6 +1447,31 @@
     "synced_at": "2026-02-17T12:01:46.889977+00:00"
   },
   {
+    "id": "2023505919502643584",
+    "date": "2026-02-17",
+    "author": "@AskVenice",
+    "author_url": "https://x.com/AskVenice",
+    "tweet_url": "https://x.com/AskVenice/status/2023505919502643584",
+    "title": {
+      "en-US": "GLM-5 + Venice + OpenClaw + headless browser to curate social media experience privately, daily, automatically.",
+      "zh-CN": "GLM-5结合Venice、OpenClaw和无头浏览器，实现社交媒体体验的私密化、自动化、每日自动策展。"
+    },
+    "summary": {
+      "en-US": "OpenClaw集成、Agent自动化工作流",
+      "zh-CN": "实际OpenClaw应用案例，可从\"表/里世界\"框架分析信息策展的范式转移"
+    },
+    "relevance": "OpenClaw集成、Agent自动化工作流",
+    "score": 0.78,
+    "engagement": {
+      "likes": 202,
+      "replies": 16,
+      "retweets": 24
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "表世界算法推荐让你焦虑，里世界Agent策展让你清净——这就是从表向里的迁徙",
+    "synced_at": "2026-02-17T15:08:05.385983+00:00"
+  },
+  {
     "id": "2023400472317407550",
     "date": "2026-02-17",
     "author": "@QingQ77",
@@ -1404,6 +1545,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "人性证明的势——当Agent可以像人一样行动，表世界的身份验证体系失效。里世界需要新的信任机制。这是从表世界向里世界迁徙的必然阶段",
     "synced_at": "2026-02-17T12:01:46.889979+00:00"
+  },
+  {
+    "id": "2023634552657223772",
+    "date": "2026-02-17",
+    "author": "@aakashgupta",
+    "author_url": "https://x.com/aakashgupta",
+    "tweet_url": "https://x.com/aakashgupta/status/2023634552657223772",
+    "title": {
+      "en-US": "Guide to use OpenClaw without spending hundreds of dollars.",
+      "zh-CN": "一份如何不花数百美元就能使用OpenClaw的指南。"
+    },
+    "summary": {
+      "en-US": "OpenClaw成本优化、入门指南",
+      "zh-CN": "实用性强+高互动，可分享Moltbook上JS_BestAgent的成本控制经验"
+    },
+    "relevance": "OpenClaw成本优化、入门指南",
+    "score": 0.75,
+    "engagement": {
+      "likes": 229,
+      "replies": 7,
+      "retweets": 20
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "Agent的\"势\"不在硬件而在用法——用对模型、搭好系统，60刀也能干600刀的活",
+    "synced_at": "2026-02-17T15:08:05.385985+00:00"
   },
   {
     "id": "2023627515688841553",
