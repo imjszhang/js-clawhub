@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * ClawHub CLI — programmatic access to all ClawHub data.
+ * ClawHub CLI — programmatic access to all ClawHub data, build, and deploy.
  *
  * Usage:
  *   node cli/cli.js <command> [options]
@@ -11,6 +11,9 @@
  *   pulse  [--days N] [--min-score 0.8] [--author @xxx] [--limit N]
  *   pulse-edit <id> [--score N] [--js-take-en "..."] [--js-take-zh "..."] ...
  *   pulse-delete <id>
+ *   build  [--skip-ga] [--skip-i18n] [--dry-run] [--no-clean]
+ *   commit [--message "..."] [--all] [--scope <area>]
+ *   sync   [--no-build] [--no-push] [--message "..."] [--dry-run]
  *   setup-cloudflare   Set up Cloudflare DNS for GitHub Pages
  *   setup-github-pages Configure GitHub Pages custom domain + HTTPS
  *   stats
@@ -25,6 +28,8 @@ import { readPulse, readProjects, readSkills, readBlog, readGuide, getStats } fr
 import { updatePulseItem, deletePulseItem } from './lib/data-writer.js';
 import { setupCloudflare, setupGithubPages } from './lib/setup.js';
 import { search } from './lib/search.js';
+import { build } from './lib/builder.js';
+import { gitStatus, gitAdd, gitAddAll, gitCommit, gitPush, gitDiffStat, generateCommitMessage } from './lib/git.js';
 import { toJson, toStderr } from './lib/formatters.js';
 
 // ── Arg parser ───────────────────────────────────────────────────────
@@ -181,10 +186,141 @@ async function cmdSetupGithubPages() {
     }
 }
 
+// ── Build / Git commands ─────────────────────────────────────────────
+
+function cmdBuild(flags) {
+    try {
+        const result = build({
+            clean: !flags['no-clean'],
+            skipGa: !!flags['skip-ga'],
+            skipI18n: !!flags['skip-i18n'],
+            dryRun: !!flags['dry-run'],
+        });
+        toJson(result);
+    } catch (err) {
+        toStderr(`Error: ${err.message}`);
+        process.exit(1);
+    }
+}
+
+function cmdCommit(flags) {
+    try {
+        // Check current status
+        const status = gitStatus();
+        if (status.clean) {
+            toStderr('Nothing to commit — working tree clean.');
+            toJson({ committed: false, reason: 'clean' });
+            return;
+        }
+
+        // Stage files
+        if (flags.all) {
+            toStderr('Staging all changes ...');
+            gitAddAll();
+        } else if (flags.scope) {
+            const scopeDirs = [`src/${flags.scope}/`, `docs/${flags.scope}/`];
+            toStderr(`Staging scope: ${scopeDirs.join(', ')} ...`);
+            gitAdd(scopeDirs);
+        } else {
+            toStderr('Staging all changes ...');
+            gitAddAll();
+        }
+
+        // Generate or use provided message
+        const { files } = gitDiffStat();
+        if (files.length === 0) {
+            toStderr('Nothing staged to commit after add.');
+            toJson({ committed: false, reason: 'nothing_staged' });
+            return;
+        }
+
+        const message = flags.message || flags.m || generateCommitMessage(files);
+        toStderr(`Committing: ${message}`);
+        const { hash } = gitCommit(message);
+
+        toJson({
+            committed: true,
+            hash,
+            message,
+            files,
+            branch: status.branch,
+        });
+    } catch (err) {
+        toStderr(`Error: ${err.message}`);
+        process.exit(1);
+    }
+}
+
+function cmdSync(flags) {
+    try {
+        const dryRun = !!flags['dry-run'];
+        const noBuild = !!flags['no-build'];
+        const noPush = !!flags['no-push'];
+        const result = { build: null, commit: null, push: null };
+
+        // Step 1: Check git status
+        const status = gitStatus();
+        toStderr(`Branch: ${status.branch}`);
+
+        // Step 2: Build (unless --no-build)
+        if (!noBuild) {
+            toStderr('\n── Build ──');
+            result.build = build({
+                clean: true,
+                skipGa: false,
+                skipI18n: false,
+                dryRun,
+            });
+        } else {
+            toStderr('Build skipped (--no-build)');
+        }
+
+        if (dryRun) {
+            toStderr('\n[dry-run] Skipping commit and push.');
+            toJson({ ...result, dryRun: true });
+            return;
+        }
+
+        // Step 3: Stage all changes
+        toStderr('\n── Stage ──');
+        gitAddAll();
+
+        // Step 4: Commit
+        const { files } = gitDiffStat();
+        if (files.length === 0) {
+            toStderr('Nothing to commit — all clean after build.');
+            toJson({ ...result, commit: { committed: false, reason: 'clean' } });
+            return;
+        }
+
+        const message = flags.message || flags.m || generateCommitMessage(files);
+        toStderr(`\n── Commit ──`);
+        toStderr(`Message: ${message}`);
+        const { hash } = gitCommit(message);
+        result.commit = { committed: true, hash, message, files };
+
+        // Step 5: Push (unless --no-push)
+        if (!noPush) {
+            toStderr(`\n── Push ──`);
+            toStderr(`Pushing to origin/${status.branch} ...`);
+            const pushResult = gitPush('origin', status.branch);
+            result.push = pushResult;
+            toStderr('Push complete.');
+        } else {
+            toStderr('\nPush skipped (--no-push)');
+        }
+
+        toJson(result);
+    } catch (err) {
+        toStderr(`Error: ${err.message}`);
+        process.exit(1);
+    }
+}
+
 // ── Usage ────────────────────────────────────────────────────────────
 
 function printUsage() {
-    toStderr(`ClawHub CLI — programmatic access to ClawHub data
+    toStderr(`ClawHub CLI — programmatic access to ClawHub data, build, and deploy
 
 Usage:
   clawhub <command> [options]
@@ -213,6 +349,23 @@ Commands:
 
   pulse-delete <id>  Delete a Pulse item (auto-backs up before write)
 
+  build              Build site: copy src/ to docs/, inject GA, validate i18n
+    --skip-ga          Skip Google Analytics injection
+    --skip-i18n        Skip i18n translation validation
+    --dry-run          Validate only, don't write files
+    --no-clean         Don't remove docs/ before copying
+
+  commit             Stage and commit changes with auto-generated message
+    --message "msg"    Use custom commit message (alias: --m)
+    --all              Stage all changes (default)
+    --scope <area>     Only stage src/<area>/ and docs/<area>/
+
+  sync               Build + commit + push in one step
+    --no-build         Skip build step
+    --no-push          Skip push step (build + commit only)
+    --message "msg"    Use custom commit message
+    --dry-run          Show what would happen without making changes
+
   setup-cloudflare   Set up Cloudflare DNS records for GitHub Pages
                      Requires CLOUDFARE_API_KEY (or CLOUDFLARE_API_TOKEN) in .env
 
@@ -237,6 +390,11 @@ Examples:
   clawhub pulse --days 1 --min-score 0.8
   clawhub pulse-edit 2023439732328525890 --score 0.9 --js-take-zh "新点评"
   clawhub pulse-delete 2023439732328525890
+  clawhub build
+  clawhub build --dry-run
+  clawhub commit --message "pulse: add new items"
+  clawhub sync
+  clawhub sync --no-push --message "update pulse data"
   clawhub setup-cloudflare
   clawhub setup-github-pages
   clawhub stats
@@ -280,6 +438,15 @@ async function main() {
             break;
         case 'setup-github-pages':
             await cmdSetupGithubPages();
+            break;
+        case 'build':
+            cmdBuild(flags);
+            break;
+        case 'commit':
+            cmdCommit(flags);
+            break;
+        case 'sync':
+            cmdSync(flags);
             break;
         case 'help':
         case '--help':
