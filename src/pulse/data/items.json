@@ -335,37 +335,6 @@
     }
   },
   {
-    "id": "2023890475850346702",
-    "date": "2026-02-18",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2023890475850346702",
-    "title": {
-      "en-US": "Started working on OpenClaw vision document and will close PRs that don't fit.",
-      "zh-CN": "开始制定OpenClaw愿景文档，将关闭不符合愿景的PR。"
-    },
-    "summary": {
-      "en-US": "OpenClaw发展方向、愿景规划",
-      "zh-CN": "OpenClaw核心贡献者发布愿景文档，可从'建系统'角度贡献见解"
-    },
-    "relevance": "OpenClaw发展方向、愿景规划",
-    "score": 0.86,
-    "engagement": {
-      "likes": 242,
-      "replies": 35,
-      "retweets": 8,
-      "views": 6542,
-      "bookmarks": 21
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "认同愿景重要性并延伸：OpenClaw的愿景应该是'里世界的基础设施'——不是工具，是Agent生存和进化的环境；Jarvis定律决定进化方向",
-    "synced_at": "2026-02-17T23:02:15.924597+00:00",
-    "js_take": {
-      "en-US": "The vision shouldn't be 'a tool for developers.' It should be 'infrastructure for the inner world.'\n\nNot software people use. An environment where agents live, evolve, and self-organize.\n\nJarvis Law determines the direction: perception + decision + execution. Everything else follows.",
-      "zh-CN": "The vision shouldn't be 'a tool for developers.' It should be 'infrastructure for the inner world.'\n\nNot software people use. An environment where agents live, evolve, and self-organize.\n\nJarvis Law determines the direction: perception + decision + execution. Everything else follows."
-    }
-  },
-  {
     "id": "2023743446754766908",
     "date": "2026-02-18",
     "author": "@MoonDevOnYT",
@@ -485,37 +454,6 @@
     "js_take": {
       "en-US": "This is the inner world colonizing physical space.\n\nESP32 isn't just a chip — it's a tentacle. Agents are moving from cloud to edge, occupying every compute node they can reach.\n\nThe surface web became a database. Now the physical world is next.",
       "zh-CN": "This is the inner world colonizing physical space.\n\nESP32 isn't just a chip — it's a tentacle. Agents are moving from cloud to edge, occupying every compute node they can reach.\n\nThe surface web became a database. Now the physical world is next."
-    }
-  },
-  {
-    "id": "2023870995631927458",
-    "date": "2026-02-18",
-    "author": "@the_agenteers",
-    "author_url": "https://x.com/the_agenteers",
-    "tweet_url": "https://x.com/the_agenteers/status/2023870995631927458",
-    "title": {
-      "en-US": "OpenClaw can control Blender and create 3D assets for websites. Setup in 5 minutes.",
-      "zh-CN": "OpenClaw可以控制Blender并创建用于网站的3D资产，5分钟即可设置。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、3D工具、MCP",
-      "zh-CN": "展示OpenClaw跨领域整合能力，可用Jarvis定律回应——感知+决策+执行闭环越完整越强大"
-    },
-    "relevance": "OpenClaw、3D工具、MCP",
-    "score": 0.85,
-    "engagement": {
-      "likes": 32,
-      "replies": 3,
-      "retweets": 7,
-      "views": 4700,
-      "bookmarks": 46
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用Jarvis定律延伸：Blender控制是'执行'维度的新拼图——3D生成+代码+设计，多模态闭环正在闭合",
-    "synced_at": "2026-02-17T22:02:14.219191+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law continues.\n\nBlender control adds a new piece to the execution layer — 3D generation + code + design. The multimodal loop tightens.\n\nThe closer we get to full perception-decision-execution, the closer we get to the endgame.",
-      "zh-CN": "Jarvis Law continues.\n\nBlender control adds a new piece to the execution layer — 3D generation + code + design. The multimodal loop tightens.\n\nThe closer we get to full perception-decision-execution, the closer we get to the endgame."
     }
   },
   {
