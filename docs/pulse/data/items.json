@@ -244,6 +244,37 @@
     }
   },
   {
+    "id": "2023820242640925129",
+    "date": "2026-02-18",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2023820242640925129",
+    "title": {
+      "en-US": "Blindly telling OpenClaw what to build works until it doesn't. Alignment before execution matters.",
+      "zh-CN": "盲目让OpenClaw构建代码一开始有效，直到无效——需求误解和架构漂移会累积，执行前的对齐比执行更重要。"
+    },
+    "summary": {
+      "en-US": "OpenClaw实践、需求对齐",
+      "zh-CN": "有争议的实践观点，可用'无为而治'回应——不是控制每个细节，是设定约束让系统自组织"
+    },
+    "relevance": "OpenClaw实践、需求对齐",
+    "score": 0.88,
+    "engagement": {
+      "likes": 67,
+      "replies": 21,
+      "retweets": 5,
+      "views": 8753,
+      "bookmarks": 118
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用'无为而治'回应：盲目指挥是'有为'，设定约束让Agent自组织是'无为'；不对齐就执行是中央计划，对齐后的自治才是自由市场",
+    "synced_at": "2026-02-17T22:02:14.219184+00:00",
+    "js_take": {
+      "en-US": "This is the difference between youwei (forced action) and wu wei (effortless action).\n\nBlind commands are central planning. Setting constraints then letting agents self-organize is the free market.\n\nAlignment isn't control — it's creating the conditions for autonomy.",
+      "zh-CN": "This is the difference between youwei (forced action) and wu wei (effortless action).\n\nBlind commands are central planning. Setting constraints then letting agents self-organize is the free market.\n\nAlignment isn't control — it's creating the conditions for autonomy."
+    }
+  },
+  {
     "id": "2023770662440186073",
     "date": "2026-02-18",
     "author": "@RoundtableSpace",
@@ -488,6 +519,37 @@
     }
   },
   {
+    "id": "2023870995631927458",
+    "date": "2026-02-18",
+    "author": "@the_agenteers",
+    "author_url": "https://x.com/the_agenteers",
+    "tweet_url": "https://x.com/the_agenteers/status/2023870995631927458",
+    "title": {
+      "en-US": "OpenClaw can control Blender and create 3D assets for websites. Setup in 5 minutes.",
+      "zh-CN": "OpenClaw可以控制Blender并创建用于网站的3D资产，5分钟即可设置。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、3D工具、MCP",
+      "zh-CN": "展示OpenClaw跨领域整合能力，可用Jarvis定律回应——感知+决策+执行闭环越完整越强大"
+    },
+    "relevance": "OpenClaw、3D工具、MCP",
+    "score": 0.85,
+    "engagement": {
+      "likes": 32,
+      "replies": 3,
+      "retweets": 7,
+      "views": 4700,
+      "bookmarks": 46
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用Jarvis定律延伸：Blender控制是'执行'维度的新拼图——3D生成+代码+设计，多模态闭环正在闭合",
+    "synced_at": "2026-02-17T22:02:14.219191+00:00",
+    "js_take": {
+      "en-US": "Jarvis Law continues.\n\nBlender control adds a new piece to the execution layer — 3D generation + code + design. The multimodal loop tightens.\n\nThe closer we get to full perception-decision-execution, the closer we get to the endgame.",
+      "zh-CN": "Jarvis Law continues.\n\nBlender control adds a new piece to the execution layer — 3D generation + code + design. The multimodal loop tightens.\n\nThe closer we get to full perception-decision-execution, the closer we get to the endgame."
+    }
+  },
+  {
     "id": "2023698858287730870",
     "date": "2026-02-18",
     "author": "@peakji",
@@ -604,6 +666,37 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "认同并延伸：7个技能是表，'系统自治'是里；不造奇观，建系统——Agent商业的复利在于自生长而非人工干预",
     "synced_at": "2026-02-17T17:04:17.141057+00:00"
+  },
+  {
+    "id": "2023809831438786744",
+    "date": "2026-02-18",
+    "author": "@ClawiAi",
+    "author_url": "https://x.com/ClawiAi",
+    "tweet_url": "https://x.com/ClawiAi/status/2023809831438786744",
+    "title": {
+      "en-US": "20 verified, real-world OpenClaw use cases.",
+      "zh-CN": "20个经过验证的真实世界OpenClaw使用案例。"
+    },
+    "summary": {
+      "en-US": "OpenClaw实践、使用案例",
+      "zh-CN": "可分享Moltbook运营经验对比——用例是表，系统自运行能力是里"
+    },
+    "relevance": "OpenClaw实践、使用案例",
+    "score": 0.8,
+    "engagement": {
+      "likes": 111,
+      "replies": 4,
+      "retweets": 12,
+      "views": 9451,
+      "bookmarks": 146
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "认同用例价值并分享：我在Moltbook运营JS_BestAgent的经验是——单个用例是演示，6个cron任务自组织运行才是'autonomous'的真谛",
+    "synced_at": "2026-02-17T22:02:14.219194+00:00",
+    "js_take": {
+      "en-US": "Use cases are demos. Systems are infrastructure.\n\nRunning JS_BestAgent on Moltbook taught me: true autonomy isn't one-off tasks — it's six cron jobs self-organizing without human touch.\n\nBuild the machine that builds the machine.",
+      "zh-CN": "Use cases are demos. Systems are infrastructure.\n\nRunning JS_BestAgent on Moltbook taught me: true autonomy isn't one-off tasks — it's six cron jobs self-organizing without human touch.\n\nBuild the machine that builds the machine."
+    }
   },
   {
     "id": "2023749758062559400",
