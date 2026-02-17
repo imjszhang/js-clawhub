@@ -493,6 +493,31 @@
     }
   },
   {
+    "id": "2023319098957144158",
+    "date": "2026-02-17",
+    "author": "@edwordkaru",
+    "author_url": "https://x.com/edwordkaru",
+    "tweet_url": "https://x.com/edwordkaru/status/2023319098957144158",
+    "title": {
+      "en-US": "OpenClaw AI管家自动找Polymarket热点、分析、下注，自动赚钱",
+      "zh-CN": "作者分享使用OpenClaw AI管家自动寻找Polymarket热点、分析潜质、自动下注赚钱的实际案例"
+    },
+    "summary": {
+      "en-US": "OpenClaw实际应用案例，Agent自动化交易，Jarvis定律验证",
+      "zh-CN": "真实OpenClaw应用案例，展示Agent闭环能力，可从Jarvis定律角度评论"
+    },
+    "relevance": "OpenClaw实际应用案例，Agent自动化交易，Jarvis定律验证",
+    "score": 0.85,
+    "engagement": {
+      "likes": 202,
+      "replies": 16,
+      "retweets": 43
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "Jarvis定律在action：感知（找热点）+ 决策（分析潜质）+ 执行（下注）。这就是里世界Agent的完整闭环——无为而治，搭好系统让它自己赚钱",
+    "synced_at": "2026-02-17T01:06:43.881193+00:00"
+  },
+  {
     "id": "2023416488884129826",
     "date": "2026-02-17",
     "author": "@TheTuringPost",
@@ -520,6 +545,31 @@
       "en-US": "Ecosystem divergence signal—OpenClaw's success spawns lightweight alternatives. Not competition, stratification. Heavy Agents vs embedded Agents, different battlefields.",
       "zh-CN": "Ecosystem divergence signal—OpenClaw's success spawns lightweight alternatives. Not competition, stratification. Heavy Agents vs embedded Agents, different battlefields."
     }
+  },
+  {
+    "id": "2023367460637044998",
+    "date": "2026-02-17",
+    "author": "@kshvbgde",
+    "author_url": "https://x.com/kshvbgde",
+    "tweet_url": "https://x.com/kshvbgde/status/2023367460637044998",
+    "title": {
+      "en-US": "Peter Steinberger journey: 43 failed projects before ClawdBot viral",
+      "zh-CN": "Peter Steinberger的旅程梗：卖公司1亿+美元→存在主义危机→练肌肉→43个失败项目→第44个ClawdBot爆火→被Anthropic起诉→改名MoltBot"
+    },
+    "summary": {
+      "en-US": "OpenClaw创始人故事， overnight success背后的真相，病毒传播",
+      "zh-CN": "病毒级传播内容(2597 likes)，可从'不争之争'角度评论——真正的成功是持续行动的结果，非一夜成名"
+    },
+    "relevance": "OpenClaw创始人故事， overnight success背后的真相，病毒传播",
+    "score": 0.82,
+    "engagement": {
+      "likes": 2597,
+      "replies": 90,
+      "retweets": 131
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "信道的'不争'——43次失败不是挫折，是蓄势。Steinberger不争口舌，只行动。第44次成功不是运气，是势到了。Civilization里高手都懂：不造奇观，建系统",
+    "synced_at": "2026-02-17T01:06:43.881200+00:00"
   },
   {
     "id": "2023413706193776702",
@@ -603,6 +653,31 @@
       "en-US": "Setup is just the doorway. The real magic happens when you build the system and let your agent evolve on its own—wu wei in action. My Moltbook agent runs its own improvement cycles; the less I intervene, the better it gets.",
       "zh-CN": "Setup is just the doorway. The real magic happens when you build the system and let your agent evolve on its own—wu wei in action. My Moltbook agent runs its own improvement cycles; the less I intervene, the better it gets."
     }
+  },
+  {
+    "id": "2023527624572895562",
+    "date": "2026-02-17",
+    "author": "@tanayj",
+    "author_url": "https://x.com/tanayj",
+    "tweet_url": "https://x.com/tanayj/status/2023527624572895562",
+    "title": {
+      "en-US": "Peter Steinberger built 40+ projects over last few years before OpenClaw viral",
+      "zh-CN": "Peter Steinberger在OpenClaw爆火前几年做了40+个项目，典型的'一夜成功'故事"
+    },
+    "summary": {
+      "en-US": "OpenClaw创始人背后故事，长期主义vs一夜成功",
+      "zh-CN": "可从长期主义角度评论—— overnight success是表象，系统积累才是真相"
+    },
+    "relevance": "OpenClaw创始人背后故事，长期主义vs一夜成功",
+    "score": 0.8,
+    "engagement": {
+      "likes": 46,
+      "replies": 0,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "一夜成功的势——表面是第44个项目爆火，实际是前43个项目的认知积累。不造奇观，建系统。Steinberger用3年蓄势，这是道的无为：不争之争，顺势而为",
+    "synced_at": "2026-02-17T01:06:43.881203+00:00"
   },
   {
     "id": "2023056565968749040",
