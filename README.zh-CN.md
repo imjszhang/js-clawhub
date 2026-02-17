@@ -72,7 +72,17 @@ js-clawhub/
 │   ├── skills/                   # 技能市场
 │   ├── guide/                    # 入门指南
 │   └── pulse/                    # 社区动态
-├── build/build.js                # 构建脚本（src/ → docs/）
+├── cli/                          # CLI 工具
+│   ├── cli.js                    # 入口（clawhub <command>）
+│   └── lib/                      # 功能模块
+│       ├── builder.js            # 构建逻辑
+│       ├── git.js                # Git 操作
+│       ├── data-reader.js        # 数据查询
+│       ├── data-writer.js        # 数据修改
+│       ├── search.js             # 全源搜索
+│       ├── formatters.js         # 输出格式化
+│       └── setup.js              # Cloudflare / GitHub Pages 配置
+├── build/build.js                # 构建脚本（封装 cli/lib/builder.js）
 ├── docs/                         # 构建产物（GitHub Pages 部署）
 └── scripts/                      # 工具脚本
 ```
@@ -102,6 +112,43 @@ npm run preview
 | `npm run build` | 构建到 `docs/`，含 i18n 翻译校验 |
 | `npm run preview` | 在 3000 端口预览构建产物 |
 | `npm run setup` | 配置 Cloudflare + GitHub Pages |
+| `npm run cli -- <cmd>` | 运行 CLI 命令（见下方） |
+
+## CLI 工具
+
+CLI 提供对 ClawHub 所有数据和操作的编程接口。JSON 输出到 stdout，日志输出到 stderr。
+
+```bash
+node cli/cli.js <command> [options]
+```
+
+### 构建与部署
+
+| 命令 | 说明 |
+|-----|------|
+| `clawhub build` | 构建站点：src/ → docs/，注入 GA，校验 i18n |
+| `clawhub build --dry-run` | 仅校验，不写入文件 |
+| `clawhub build --skip-ga` | 跳过 Google Analytics 注入 |
+| `clawhub commit` | 暂存所有变更并自动生成 commit message 提交 |
+| `clawhub commit --message "msg"` | 使用自定义提交信息 |
+| `clawhub commit --scope pulse` | 仅暂存 src/pulse/ 和 docs/pulse/ |
+| `clawhub sync` | 一键构建 + 提交 + 推送 |
+| `clawhub sync --no-push` | 构建 + 提交，不推送 |
+| `clawhub sync --dry-run` | 预览完整流程，不做任何修改 |
+
+### 数据访问
+
+| 命令 | 说明 |
+|-----|------|
+| `clawhub search <关键词>` | 跨所有数据源搜索 |
+| `clawhub pulse --days 7` | 列出最近的 Pulse 条目 |
+| `clawhub pulse-edit <id> --score 0.9` | 编辑 Pulse 条目 |
+| `clawhub projects --category messaging` | 按分类列出项目 |
+| `clawhub skills` | 列出所有技能 |
+| `clawhub blog --latest 5` | 列出最新博文 |
+| `clawhub stats` | 显示汇总统计 |
+
+运行 `clawhub help` 查看完整命令参考。
 
 ## 国际化 (i18n)
 
@@ -118,10 +165,12 @@ JS ClawHub 支持中文（默认）和英文双语。i18n 系统包含：
 站点通过 GitHub Pages 从 `docs/` 目录部署。
 
 ```bash
-# 构建并部署
-npm run build
-git add docs/
-git commit -m "build: 更新站点"
+# 一键构建 + 提交 + 推送
+node cli/cli.js sync
+
+# 或手动分步
+node cli/cli.js build
+node cli/cli.js commit --message "build: 更新站点"
 git push
 ```
 

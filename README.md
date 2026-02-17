@@ -72,7 +72,17 @@ js-clawhub/
 │   ├── skills/                   # Skills market
 │   ├── guide/                    # Getting started guide
 │   └── pulse/                    # Community pulse
-├── build/build.js                # Build script (src/ → docs/)
+├── cli/                          # CLI tool
+│   ├── cli.js                    # Entry point (clawhub <command>)
+│   └── lib/                      # Modules
+│       ├── builder.js            # Build logic
+│       ├── git.js                # Git operations
+│       ├── data-reader.js        # Data queries
+│       ├── data-writer.js        # Data mutations
+│       ├── search.js             # Cross-source search
+│       ├── formatters.js         # Output formatting
+│       └── setup.js              # Cloudflare / GitHub Pages setup
+├── build/build.js                # Build script (wraps cli/lib/builder.js)
 ├── docs/                         # Build output (GitHub Pages)
 └── scripts/                      # Utility scripts
 ```
@@ -102,6 +112,43 @@ npm run preview
 | `npm run build` | Build to `docs/` with i18n validation |
 | `npm run preview` | Preview build output on port 3000 |
 | `npm run setup` | Configure Cloudflare + GitHub Pages |
+| `npm run cli -- <cmd>` | Run CLI commands (see below) |
+
+## CLI
+
+The CLI provides programmatic access to all ClawHub data and operations. All output is JSON to stdout, logs to stderr.
+
+```bash
+node cli/cli.js <command> [options]
+```
+
+### Build & Deploy
+
+| Command | Description |
+|---------|-------------|
+| `clawhub build` | Build site: src/ → docs/, inject GA, validate i18n |
+| `clawhub build --dry-run` | Validate only, don't write files |
+| `clawhub build --skip-ga` | Skip Google Analytics injection |
+| `clawhub commit` | Stage all changes and commit with auto-generated message |
+| `clawhub commit --message "msg"` | Commit with a custom message |
+| `clawhub commit --scope pulse` | Only stage src/pulse/ and docs/pulse/ |
+| `clawhub sync` | Build + commit + push in one step |
+| `clawhub sync --no-push` | Build + commit without pushing |
+| `clawhub sync --dry-run` | Preview the full pipeline without changes |
+
+### Data Access
+
+| Command | Description |
+|---------|-------------|
+| `clawhub search <keyword>` | Search across all data sources |
+| `clawhub pulse --days 7` | List recent Pulse items |
+| `clawhub pulse-edit <id> --score 0.9` | Edit a Pulse item |
+| `clawhub projects --category messaging` | List projects by category |
+| `clawhub skills` | List all skills |
+| `clawhub blog --latest 5` | List recent blog posts |
+| `clawhub stats` | Show aggregate statistics |
+
+Run `clawhub help` for the full command reference.
 
 ## i18n (Internationalization)
 
@@ -118,10 +165,12 @@ JS ClawHub supports Chinese (default) and English. The i18n system includes:
 The site is deployed on GitHub Pages from the `docs/` directory.
 
 ```bash
-# Build and deploy
-npm run build
-git add docs/
-git commit -m "build: update site"
+# One-step build + commit + push
+node cli/cli.js sync
+
+# Or manually
+node cli/cli.js build
+node cli/cli.js commit --message "build: update site"
 git push
 ```
 
