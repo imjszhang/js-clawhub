@@ -190,6 +190,7 @@ const Pulse = {
         const scoreBar = this.renderScoreBar(item.score);
         const typeTag = this.renderTypeTag(item.comment_type);
         const jsTakeHTML = this.renderJsTake(item.js_take, item);
+        const idChip = this.renderIdChip(item.id);
 
         return `
             <div class="brutal-card brutal-card-static flex flex-col sm:flex-row gap-4 p-5 text-black">
@@ -202,6 +203,7 @@ const Pulse = {
                     <div class="flex items-center gap-2 mb-1 flex-wrap">
                         <span class="font-mono font-bold text-sm">${this.escapeHtml(item.author)}</span>
                         ${typeTag}
+                        ${idChip}
                     </div>
                     <a href="${this.escapeAttr(item.tweet_url)}" target="_blank" rel="noopener noreferrer"
                        class="block no-underline text-black group">
@@ -327,6 +329,36 @@ const Pulse = {
         };
         const label = labels[type] || type.toUpperCase();
         return `<span class="brutal-tag text-[10px] px-1.5 py-0.5">${label}</span>`;
+    },
+
+    renderIdChip(id) {
+        if (!id) return '';
+        const short = id.length > 8 ? '...' + id.slice(-6) : id;
+        return `<button onclick="Pulse.copyId(this)" data-id="${this.escapeAttr(id)}" title="ID: ${this.escapeAttr(id)}" class="pulse-id-chip ml-auto flex items-center gap-1 px-1.5 py-0.5 font-mono text-[10px] text-black/30 border border-black/10 rounded hover:text-black hover:border-black/40 hover:bg-brand-yellow/10 active:scale-95 transition-all cursor-pointer select-none"><svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg><span class="pulse-id-label">${this.escapeHtml(short)}</span></button>`;
+    },
+
+    copyId(btn) {
+        const id = btn.getAttribute('data-id') || '';
+        const label = btn.querySelector('.pulse-id-label');
+        const orig = label ? label.textContent : '';
+        navigator.clipboard.writeText(id).then(() => {
+            if (label) label.textContent = this._t('pulse.copied');
+            btn.classList.add('text-green-600', 'border-green-600/40');
+            btn.classList.remove('text-black/30', 'border-black/10');
+            setTimeout(() => {
+                if (label) label.textContent = orig;
+                btn.classList.remove('text-green-600', 'border-green-600/40');
+                btn.classList.add('text-black/30', 'border-black/10');
+            }, 1500);
+        }).catch(() => {
+            const ta = document.createElement('textarea');
+            ta.value = id;
+            ta.style.cssText = 'position:fixed;opacity:0';
+            document.body.appendChild(ta);
+            ta.select();
+            document.execCommand('copy');
+            document.body.removeChild(ta);
+        });
     },
 
     formatDate(dateStr) {
