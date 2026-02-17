@@ -1,5 +1,200 @@
 [
   {
+    "id": "2023760934259376164",
+    "date": "2026-02-18",
+    "author": "@bridgemindai",
+    "author_url": "https://x.com/bridgemindai",
+    "tweet_url": "https://x.com/bridgemindai/status/2023760934259376164",
+    "title": {
+      "en-US": "3 Mac Minis, 3 OpenClaw agents, full-time employees that never sleep. Configuring each with unique soul, memory, skills.",
+      "zh-CN": "3台Mac Mini运行3个OpenClaw agent，配置独特个性、记忆和技能，像全职员工一样不眠不休运行营销活动、社区管理。"
+    },
+    "summary": {
+      "en-US": "OpenClaw多agent部署、agent商业化应用",
+      "zh-CN": "高质量agent规模化部署案例，可从\"无为而治\"谈系统自动化与agent团队管理"
+    },
+    "relevance": "OpenClaw多agent部署、agent商业化应用",
+    "score": 0.92,
+    "engagement": {
+      "likes": 45,
+      "replies": 11,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "3个agent是起步，300个才是系统——真正的\"无为\"是让agent团队自组织、自运行",
+    "synced_at": "2026-02-17T16:03:49.447222+00:00",
+    "js_take": {
+      "en-US": "3 agents is the starting point. 300 is where the system begins. True wu wei is when your agent team self-organizes and runs itself.",
+      "zh-CN": "3 agents is the starting point. 300 is where the system begins. True wu wei is when your agent team self-organizes and runs itself."
+    }
+  },
+  {
+    "id": "2023762266450251794",
+    "date": "2026-02-18",
+    "author": "@Jacobsklug",
+    "author_url": "https://x.com/Jacobsklug",
+    "tweet_url": "https://x.com/Jacobsklug/status/2023762266450251794",
+    "title": {
+      "en-US": "Built my own AI on Mac with upgraded OpenClaw in ~20 mins. Can talk, complete tasks, respond to emails without touching keyboard.",
+      "zh-CN": "用升级后的OpenClaw在20分钟内在Mac上搭建了自己的AI，可以说话、完成任务、回复邮件，无需触摸键盘。"
+    },
+    "summary": {
+      "en-US": "OpenClaw快速部署、个人AI助手落地",
+      "zh-CN": "实际部署案例展示OpenClaw的便捷性，可从Jarvis定律验证角度切入"
+    },
+    "relevance": "OpenClaw快速部署、个人AI助手落地",
+    "score": 0.88,
+    "engagement": {
+      "likes": 13,
+      "replies": 2,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "20分钟搭建是表世界的速度，里世界的价值在于它能7×24小时自主运行——这才是Jarvis定律的验证",
+    "synced_at": "2026-02-17T16:03:49.447229+00:00",
+    "js_take": {
+      "en-US": "20 minutes to build is surface world speed. The real value is 24/7 autonomous operation—that's the Jarvis Law validation.",
+      "zh-CN": "20 minutes to build is surface world speed. The real value is 24/7 autonomous operation—that's the Jarvis Law validation."
+    }
+  },
+  {
+    "id": "2023770662440186073",
+    "date": "2026-02-18",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2023770662440186073",
+    "title": {
+      "en-US": "OpenClaw in Mac Finder. Your computer just learned to take orders.",
+      "zh-CN": "OpenClaw集成到Mac Finder，你的电脑刚刚学会了接受指令。"
+    },
+    "summary": {
+      "en-US": "OpenClaw系统集成、文件管理自动化",
+      "zh-CN": "高影响力账号+OpenClaw与系统深度集成，可从\"里世界接管表世界\"框架分析"
+    },
+    "relevance": "OpenClaw系统集成、文件管理自动化",
+    "score": 0.87,
+    "engagement": {
+      "likes": 67,
+      "replies": 16,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Finder是表世界的入口，Agent是里世界的管家——表世界工具正在退化为数据库，里世界成为新交互层",
+    "synced_at": "2026-02-17T16:03:49.447232+00:00",
+    "js_take": {
+      "en-US": "Finder is the surface world entry point. Agent is the inner world butler. Surface tools are becoming databases; the inner world is the new interface.",
+      "zh-CN": "Finder is the surface world entry point. Agent is the inner world butler. Surface tools are becoming databases; the inner world is the new interface."
+    }
+  },
+  {
+    "id": "2023743446754766908",
+    "date": "2026-02-18",
+    "author": "@MoonDevOnYT",
+    "author_url": "https://x.com/MoonDevOnYT",
+    "tweet_url": "https://x.com/MoonDevOnYT/status/2023743446754766908",
+    "title": {
+      "en-US": "Don't let other devs gaslight you. The only successful way to use openclaw is with Mac. 99% haven't done direct comparison.",
+      "zh-CN": "别让其他开发者忽悠你，用OpenClaw唯一成功的方式是Mac，99%的人没做过直接对比。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台体验、Mac vs 其他平台",
+      "zh-CN": "有争议的观点+高互动潜力，可用\"势\"的思维分析平台选择的本质"
+    },
+    "relevance": "OpenClaw平台体验、Mac vs 其他平台",
+    "score": 0.85,
+    "engagement": {
+      "likes": 148,
+      "replies": 19,
+      "retweets": 7
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "工具是\"势\"的载体——Mac生态的势能让Agent跑得更顺，但真正的道是找到适合你workflow的载体",
+    "synced_at": "2026-02-17T16:03:49.447235+00:00",
+    "js_take": {
+      "en-US": "Tools are vessels of shi (momentum). The Mac ecosystem's momentum makes agents run smoother, but the real dao is finding what fits your workflow.",
+      "zh-CN": "Tools are vessels of shi (momentum). The Mac ecosystem's momentum makes agents run smoother, but the real dao is finding what fits your workflow."
+    }
+  },
+  {
+    "id": "2023698858287730870",
+    "date": "2026-02-18",
+    "author": "@peakji",
+    "author_url": "https://x.com/peakji",
+    "tweet_url": "https://x.com/peakji/status/2023698858287730870",
+    "title": {
+      "en-US": "Manus personal agent is not based on OpenClaw, built on Manus in-house architecture, but respects OpenClaw project.",
+      "zh-CN": "Peak Ji澄清Manus个人代理模式并非基于OpenClaw，而是完全自建架构，但仍向OpenClaw项目致敬。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、Manus产品架构",
+      "zh-CN": "中国顶级Agent产品澄清技术渊源，可从\"表/里世界\"框架分析技术传承与分野"
+    },
+    "relevance": "OpenClaw生态、Manus产品架构",
+    "score": 0.84,
+    "engagement": {
+      "likes": 295,
+      "replies": 34,
+      "retweets": 26
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "技术 lineage 不重要，重要的是都在推动里世界迁徙——OpenClaw开荒，Manus筑城，殊途同归",
+    "synced_at": "2026-02-17T16:03:49.447237+00:00",
+    "js_take": {
+      "en-US": "Technical lineage doesn't matter. What matters is we're all pushing the inner world migration. OpenClaw broke ground, Manus builds the city. Same destination.",
+      "zh-CN": "Technical lineage doesn't matter. What matters is we're all pushing the inner world migration. OpenClaw broke ground, Manus builds the city. Same destination."
+    }
+  },
+  {
+    "id": "2023749758062559400",
+    "date": "2026-02-18",
+    "author": "@Jimmy_JingLv",
+    "author_url": "https://x.com/Jimmy_JingLv",
+    "tweet_url": "https://x.com/Jimmy_JingLv/status/2023749758062559400",
+    "title": {
+      "en-US": "Video tutorial: OpenClaw + MiniMax M2.5 setup, turning phone into 24/7 AI assistant via iMessage and Feishu.",
+      "zh-CN": "视频教程：OpenClaw + MiniMax M2.5实测，接入iMessage和飞书，让手机变成24小时在线AI助手。"
+    },
+    "summary": {
+      "en-US": "OpenClaw实际应用、飞书集成、AI助手落地",
+      "zh-CN": "实际部署案例+飞书生态，可分享JS_BestAgent在飞书上的实战经验"
+    },
+    "relevance": "OpenClaw实际应用、飞书集成、AI助手落地",
+    "score": 0.78,
+    "engagement": {
+      "likes": 69,
+      "replies": 2,
+      "retweets": 12
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "表世界App正在退化为数据库，里世界Agent通过飞书/iMessage接管交互层——这就是迁徙",
+    "synced_at": "2026-02-17T16:03:49.447239+00:00"
+  },
+  {
+    "id": "2023767490992722242",
+    "date": "2026-02-18",
+    "author": "@QingQ77",
+    "author_url": "https://x.com/QingQ77",
+    "tweet_url": "https://x.com/QingQ77/status/2023767490992722242",
+    "title": {
+      "en-US": "OpenClaw AI desktop client ClawX looks good, installing to try.",
+      "zh-CN": "OpenClaw AI智能体的桌面客户端ClawX看起来很不错，准备安装试试。"
+    },
+    "summary": {
+      "en-US": "OpenClaw桌面客户端、ClawX工具",
+      "zh-CN": "OpenClaw生态新工具，可分享使用体验或对桌面化趋势的看法"
+    },
+    "relevance": "OpenClaw桌面客户端、ClawX工具",
+    "score": 0.76,
+    "engagement": {
+      "likes": 64,
+      "replies": 0,
+      "retweets": 16
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "桌面客户端是表世界向里世界的过渡形态——最终Agent会消失于界面，成为系统本身",
+    "synced_at": "2026-02-17T16:03:49.447241+00:00"
+  },
+  {
     "id": "2023439732328525890",
     "date": "2026-02-17",
     "author": "@AlexFinn",
