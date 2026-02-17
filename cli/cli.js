@@ -9,6 +9,8 @@
  * Commands:
  *   search <keyword> [--type pulse|project|skill|blog|guide]
  *   pulse  [--days N] [--min-score 0.8] [--author @xxx] [--limit N]
+ *   pulse-edit <id> [--score N] [--js-take-en "..."] [--js-take-zh "..."] ...
+ *   pulse-delete <id>
  *   stats
  *   projects [--category messaging] [--tag official]
  *   skills   [--category productivity]
@@ -18,6 +20,7 @@
  */
 
 import { readPulse, readProjects, readSkills, readBlog, readGuide, getStats } from './lib/data-reader.js';
+import { updatePulseItem, deletePulseItem } from './lib/data-writer.js';
 import { search } from './lib/search.js';
 import { toJson, toStderr } from './lib/formatters.js';
 
@@ -95,6 +98,68 @@ function cmdBlog(flags) {
     toJson(readBlog(opts));
 }
 
+function cmdPulseEdit(positional, flags) {
+    const id = positional[0];
+    if (!id) {
+        toStderr('Error: pulse-edit requires an item ID.');
+        toStderr('Usage: clawhub pulse-edit <id> [--score 0.9] [--js-take-en "text"] ...');
+        process.exit(1);
+    }
+
+    // Build patch object from flags
+    const patch = {};
+
+    // Simple scalar fields
+    if (flags.score != null)           patch.score = parseFloat(flags.score);
+    if (flags['comment-type'] != null) patch.comment_type = flags['comment-type'];
+    if (flags.relevance != null)       patch.relevance = flags.relevance;
+    if (flags['suggested-angle'] != null) patch.suggested_angle = flags['suggested-angle'];
+
+    // Bilingual fields: --<field>-en / --<field>-zh → { "en-US": …, "zh-CN": … }
+    for (const field of ['js-take', 'title', 'summary']) {
+        const en = flags[`${field}-en`];
+        const zh = flags[`${field}-zh`];
+        if (en != null || zh != null) {
+            const key = field.replace('-', '_'); // js-take → js_take
+            const obj = {};
+            if (en != null) obj['en-US'] = en;
+            if (zh != null) obj['zh-CN'] = zh;
+            patch[key] = obj;
+        }
+    }
+
+    if (Object.keys(patch).length === 0) {
+        toStderr('Error: no fields to update. Provide at least one --flag.');
+        toStderr('Run "clawhub help" for available flags.');
+        process.exit(1);
+    }
+
+    try {
+        const updated = updatePulseItem(id, patch);
+        toJson(updated);
+    } catch (err) {
+        toStderr(`Error: ${err.message}`);
+        process.exit(1);
+    }
+}
+
+function cmdPulseDelete(positional) {
+    const id = positional[0];
+    if (!id) {
+        toStderr('Error: pulse-delete requires an item ID.');
+        toStderr('Usage: clawhub pulse-delete <id>');
+        process.exit(1);
+    }
+
+    try {
+        const removed = deletePulseItem(id);
+        toJson(removed);
+    } catch (err) {
+        toStderr(`Error: ${err.message}`);
+        process.exit(1);
+    }
+}
+
 // ── Usage ────────────────────────────────────────────────────────────
 
 function printUsage() {
@@ -113,6 +178,20 @@ Commands:
     --author <handle>  Filter by author
     --limit <N>        Max items to return
 
+  pulse-edit <id>    Edit a Pulse item (auto-backs up before write)
+    --score <N>        Update score (0-1)
+    --comment-type <t> Update type (add_insight|agree_and_extend|...)
+    --js-take-en "t"   Update JS Take (English)
+    --js-take-zh "t"   Update JS Take (Chinese)
+    --title-en "t"     Update title (English)
+    --title-zh "t"     Update title (Chinese)
+    --summary-en "t"   Update summary (English)
+    --summary-zh "t"   Update summary (Chinese)
+    --relevance "t"    Update relevance description
+    --suggested-angle "t"  Update suggested angle
+
+  pulse-delete <id>  Delete a Pulse item (auto-backs up before write)
+
   stats              Show aggregate site statistics
 
   projects           List project directory
@@ -129,6 +208,8 @@ Commands:
 Examples:
   clawhub search "memory"
   clawhub pulse --days 1 --min-score 0.8
+  clawhub pulse-edit 2023439732328525890 --score 0.9 --js-take-zh "新点评"
+  clawhub pulse-delete 2023439732328525890
   clawhub stats
   clawhub projects --category messaging
   clawhub skills --category productivity
@@ -158,6 +239,12 @@ function main() {
             break;
         case 'blog':
             cmdBlog(flags);
+            break;
+        case 'pulse-edit':
+            cmdPulseEdit(positional, flags);
+            break;
+        case 'pulse-delete':
+            cmdPulseDelete(positional);
             break;
         case 'help':
         case '--help':
