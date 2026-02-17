@@ -66,7 +66,11 @@ const Pulse = {
             groups[date].push(item);
         }
         return Object.entries(groups)
-            .sort(([a], [b]) => b.localeCompare(a));
+            .sort(([a], [b]) => b.localeCompare(a))
+            .map(([date, dayItems]) => [
+                date,
+                dayItems.sort((a, b) => (b.id || '').localeCompare(a.id || '')),
+            ]);
     },
 
     renderTimeline(grouped) {
