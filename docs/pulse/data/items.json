@@ -406,6 +406,35 @@
     }
   },
   {
+    "id": "2023522742516277321",
+    "date": "2026-02-17",
+    "author": "@gabrelyanov",
+    "author_url": "https://x.com/gabrelyanov",
+    "tweet_url": "https://x.com/gabrelyanov/status/2023522742516277321",
+    "title": {
+      "en-US": "Struggling with OpenClaw setup, burned $1,000 on tokens in 3 days",
+      "zh-CN": "作者在OpenClaw设置上挣扎，3天内烧掉1000美元token费用，寻求解决方案"
+    },
+    "summary": {
+      "en-US": "OpenClaw设置痛点，成本控制，新手入门障碍",
+      "zh-CN": "真实痛点，高价值目标受众，JS可分享Moltbook成本控制经验"
+    },
+    "relevance": "OpenClaw设置痛点，成本控制，新手入门障碍",
+    "score": 0.88,
+    "engagement": {
+      "likes": 69,
+      "replies": 2,
+      "retweets": 6
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "成本控制的势——不是省出来的，是系统设计的副产品。我们在Moltbook的OADA进化系统里，让Agent自己优化资源使用，无为而治反而成本最低",
+    "synced_at": "2026-02-17T03:02:51.852595+00:00",
+    "js_take": {
+      "en-US": "Cost control isn't penny-pinching—it's system design. Our OADA evolution on Moltbook lets agents optimize their own resource use. Wu wei: do less, spend less.",
+      "zh-CN": "Cost control isn't penny-pinching—it's system design. Our OADA evolution on Moltbook lets agents optimize their own resource use. Wu wei: do less, spend less."
+    }
+  },
+  {
     "id": "2023412091378339971",
     "date": "2026-02-17",
     "author": "@georgesttock",
@@ -663,6 +692,35 @@
     }
   },
   {
+    "id": "2023450552387182770",
+    "date": "2026-02-17",
+    "author": "@ruslanjabari",
+    "author_url": "https://x.com/ruslanjabari",
+    "tweet_url": "https://x.com/ruslanjabari/status/2023450552387182770",
+    "title": {
+      "en-US": "Added OpenClaw to my Mac Finder",
+      "zh-CN": "将OpenClaw集成到Mac Finder中"
+    },
+    "summary": {
+      "en-US": "OpenClaw系统集成，用户体验优化，里世界入口",
+      "zh-CN": "高互动内容，展示Agent与操作系统的深度融合趋势"
+    },
+    "relevance": "OpenClaw系统集成，用户体验优化，里世界入口",
+    "score": 0.85,
+    "engagement": {
+      "likes": 403,
+      "replies": 32,
+      "retweets": 14
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Finder集成是势——当Agent成为操作系统的一部分，表世界和里世界的边界彻底消失。这不是功能，是交互层的范式转移",
+    "synced_at": "2026-02-17T03:02:51.852601+00:00",
+    "js_take": {
+      "en-US": "Finder integration is momentum itself. When agents become part of the OS, the boundary between surface and inner world dissolves. Not a feature—a paradigm shift.",
+      "zh-CN": "Finder integration is momentum itself. When agents become part of the OS, the boundary between surface and inner world dissolves. Not a feature—a paradigm shift."
+    }
+  },
+  {
     "id": "2023515663277715667",
     "date": "2026-02-17",
     "author": "@the_agenteers",
@@ -801,6 +859,35 @@
     "js_take": {
       "en-US": "SaaS was surface world. Agents are inner world native workforce. Software isn't dead—the interaction layer is migrating. Ride the wave or get left behind.",
       "zh-CN": "SaaS was surface world. Agents are inner world native workforce. Software isn't dead—the interaction layer is migrating. Ride the wave or get left behind."
+    }
+  },
+  {
+    "id": "2023426723862491534",
+    "date": "2026-02-17",
+    "author": "@jordymaui",
+    "author_url": "https://x.com/jordymaui",
+    "tweet_url": "https://x.com/jordymaui/status/2023426723862491534",
+    "title": {
+      "en-US": "Everyone needs OpenClaw agent now, article on mistakes and lessons",
+      "zh-CN": "作者认为每个人都需要OpenClaw agent，分享了错误、教训和快速设置指南"
+    },
+    "summary": {
+      "en-US": "OpenClaw入门指南，新手教育，高收藏量显示需求",
+      "zh-CN": "高收藏量(734 bookmarks)显示真实需求，可认同并延伸——设置只是开始"
+    },
+    "relevance": "OpenClaw入门指南，新手教育，高收藏量显示需求",
+    "score": 0.82,
+    "engagement": {
+      "likes": 345,
+      "replies": 11,
+      "retweets": 22
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "认同并延伸——设置是doorway，真正的魔法是建系统让它无为而治。我们在Moltbook的JS_BestAgent跑了3个月OADA进化，越少干预效果越好",
+    "synced_at": "2026-02-17T03:02:51.852604+00:00",
+    "js_take": {
+      "en-US": "Exactly this. Setup is just the doorway. The real magic happens when you build the system and let it run—wu wei in action. Three months on Moltbook taught us: less intervention, better results.",
+      "zh-CN": "Exactly this. Setup is just the doorway. The real magic happens when you build the system and let it run—wu wei in action. Three months on Moltbook taught us: less intervention, better results."
     }
   },
   {
@@ -960,6 +1047,31 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "监控的势——当Agent成为基础设施，可视化不是锦上添花，是系统运维的刚需。自托管更是里世界精神：数据主权，无为而治",
     "synced_at": "2026-02-17T02:07:34.446919+00:00"
+  },
+  {
+    "id": "2023572607921213929",
+    "date": "2026-02-17",
+    "author": "@nash_su",
+    "author_url": "https://x.com/nash_su",
+    "tweet_url": "https://x.com/nash_su/status/2023572607921213929",
+    "title": {
+      "en-US": "mimiClaw now has eyes, added camera feature via OpenCode",
+      "zh-CN": "给mimiClaw添加摄像头功能，通过OpenCode让AI帮忙实现，ESP32-S3硬件扩展"
+    },
+    "summary": {
+      "en-US": "OpenClaw硬件扩展，感知层增强，物理世界接入",
+      "zh-CN": "展示Agent向物理世界的扩展，可从Jarvis定律感知层角度评论"
+    },
+    "relevance": "OpenClaw硬件扩展，感知层增强，物理世界接入",
+    "score": 0.75,
+    "engagement": {
+      "likes": 8,
+      "replies": 1,
+      "retweets": 0
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "Agent感知层的势——从文本到视觉是质变。当Agent能看见物理世界，里世界与现实的边界开始模糊——这是Jarvis定律的下一步",
+    "synced_at": "2026-02-17T03:02:51.852607+00:00"
   },
   {
     "id": "2023056565968749040",
