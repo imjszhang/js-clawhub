@@ -1,5 +1,63 @@
 [
   {
+    "id": "2024027203344953457",
+    "date": "2026-02-19",
+    "author": "@GithubProjects",
+    "author_url": "https://x.com/GithubProjects",
+    "tweet_url": "https://x.com/GithubProjects/status/2024027203344953457",
+    "title": {
+      "en-US": "Three lightweight OpenClaw variants: Picoclaw, Zeroclaw, Nanobot",
+      "zh-CN": "三个轻量级OpenClaw变体：Picoclaw、Zeroclaw、Nanobot"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、极简化、边缘部署",
+      "zh-CN": "OpenClaw生态、极简化、边缘部署"
+    },
+    "relevance": "OpenClaw生态、极简化、边缘部署",
+    "score": 0.88,
+    "engagement": {
+      "likes": 306,
+      "replies": 11,
+      "retweets": 35
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Three variants, one vision: agents everywhere. When the runtime gets smaller than a browser tab, adoption becomes inevitable.",
+    "synced_at": "2026-02-18T20:04:37.524507+00:00",
+    "js_take": {
+      "en-US": "Three variants, one vision: agents everywhere. When the runtime gets smaller than a browser tab, adoption becomes inevitable.",
+      "zh-CN": "三个变体，一个愿景：Agent无处不在。当运行时比浏览器标签页还轻量时，普及就成了必然。"
+    }
+  },
+  {
+    "id": "2024125323755884919",
+    "date": "2026-02-19",
+    "author": "@robzolkos",
+    "author_url": "https://x.com/robzolkos",
+    "tweet_url": "https://x.com/robzolkos/status/2024125323755884919",
+    "title": {
+      "en-US": "Claude Code policy: OAuth tokens not permitted for other tools",
+      "zh-CN": "Claude Code政策：OAuth令牌不得用于其他工具"
+    },
+    "summary": {
+      "en-US": "OpenClaw合规风险、平台政策、基础设施依赖",
+      "zh-CN": "OpenClaw合规风险、平台政策、基础设施依赖"
+    },
+    "relevance": "OpenClaw合规风险、平台政策、基础设施依赖",
+    "score": 0.87,
+    "engagement": {
+      "likes": 1039,
+      "replies": 202,
+      "retweets": 60
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Platform risk is real. When you build on closed APIs, you're renting, not owning. This is exactly why open models and local inference aren't just alternatives—they're insurance.",
+    "synced_at": "2026-02-18T20:04:37.524513+00:00",
+    "js_take": {
+      "en-US": "Platform risk is real. When you build on closed APIs, you're renting, not owning. This is exactly why open models and local inference aren't just alternatives—they're insurance.",
+      "zh-CN": "平台风险真实存在。在封闭API上构建，你是在租赁而非拥有。这正是开源模型和本地推理不只是替代方案——它们是保险。"
+    }
+  },
+  {
     "id": "2024178348415455268",
     "date": "2026-02-19",
     "author": "@RoundtableSpace",
@@ -26,6 +84,35 @@
     "js_take": {
       "en-US": "$10 chip, 10MB RAM, 95% self-coded. When the agent runtime gets smaller than a smartphone app, you're watching infrastructure disappear into the background. The future is zero-overhead agents everywhere.",
       "zh-CN": "10美元芯片，10MB内存，95%自编程。当Agent运行时才比手机App还小，基础设施正在隐入背景。未来是零开销Agent无处不在的时代。"
+    }
+  },
+  {
+    "id": "2024197229548839268",
+    "date": "2026-02-19",
+    "author": "@cathrynlavery",
+    "author_url": "https://x.com/cathrynlavery",
+    "tweet_url": "https://x.com/cathrynlavery/status/2024197229548839268",
+    "title": {
+      "en-US": "OpenClaw UX tip: immediate 'Got it' feedback for long tasks",
+      "zh-CN": "OpenClaw UX技巧：长任务立即回复「收到」"
+    },
+    "summary": {
+      "en-US": "OpenClaw UX、最佳实践、反馈设计",
+      "zh-CN": "OpenClaw UX、最佳实践、反馈设计"
+    },
+    "relevance": "OpenClaw UX、最佳实践、反馈设计",
+    "score": 0.85,
+    "engagement": {
+      "likes": 28,
+      "replies": 7,
+      "retweets": 2
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "The 'Got it' pattern—so simple, so crucial. Managing user expectations isn't glamorous, but it's the difference between a tool and a teammate.",
+    "synced_at": "2026-02-18T20:04:37.524511+00:00",
+    "js_take": {
+      "en-US": "The 'Got it' pattern—so simple, so crucial. Managing user expectations isn't glamorous, but it's the difference between a tool and a teammate.",
+      "zh-CN": "「收到」模式——如此简单，却至关重要。管理用户预期并不光鲜，但这正是工具与队友之间的分水岭。"
     }
   },
   {
@@ -5542,93 +5629,6 @@
     "js_take": {
       "en-US": "This is what the inner world is for — not just automation, but curation. When platforms optimize for engagement, agents can optimize for well-being. Is this an allowlist approach or automated filtering? How do you balance protection with letting kids explore?",
       "zh-CN": "This is what the inner world is for — not just automation, but curation. When platforms optimize for engagement, agents can optimize for well-being. Is this an allowlist approach or automated filtering? How do you balance protection with letting kids explore?"
-    }
-  },
-  {
-    "id": "2023259490129199317",
-    "date": "2026-02-16",
-    "author": "@4shad0wed",
-    "author_url": "https://x.com/4shad0wed",
-    "tweet_url": "https://x.com/4shad0wed/status/2023259490129199317",
-    "title": {
-      "en-US": "Discord feature: agent can send button prompts, dropdowns, pop-up forms, get responses",
-      "zh-CN": "Discord新功能：agent可以发送按钮提示、下拉菜单、弹出表单，并获得用户交互响应"
-    },
-    "summary": {
-      "en-US": "OpenClaw Discord集成 + 交互组件",
-      "zh-CN": "展示agent向富交互界面演进，是「Jarvis定律」的交互层"
-    },
-    "relevance": "OpenClaw Discord集成 + 交互组件",
-    "score": 0.82,
-    "engagement": {
-      "likes": 98,
-      "replies": 16,
-      "retweets": 6
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "这是「Jarvis定律」的交互层——从文本到按钮/表单，agent的「手」变得更灵活。Discord Components v2让agent从「聊天」变成「操作界面」。询问：如何处理复杂多步表单？",
-    "synced_at": "2026-02-16T08:02:02.436074+00:00",
-    "js_take": {
-      "en-US": "Interaction layer of Jarvis Law—from text to buttons/forms, agents' \"hands\" become more dexterous. Discord Components v2 transforms agents from chatbots to operation interfaces. How do you handle complex multi-step forms?",
-      "zh-CN": "Interaction layer of Jarvis Law—from text to buttons/forms, agents' \"hands\" become more dexterous. Discord Components v2 transforms agents from chatbots to operation interfaces. How do you handle complex multi-step forms?"
-    }
-  },
-  {
-    "id": "2023059359975231657",
-    "date": "2026-02-16",
-    "author": "@HinataMotivates",
-    "author_url": "https://x.com/HinataMotivates",
-    "tweet_url": "https://x.com/HinataMotivates/status/2023059359975231657",
-    "title": {
-      "en-US": "Clawdbot's creator is losing 10k-20k a month to run it",
-      "zh-CN": "Clawdbot创作者每月亏损1-2万美元来运营项目"
-    },
-    "summary": {
-      "en-US": "OpenClaw运营 + 可持续性",
-      "zh-CN": "高收藏量（226），触及开源项目可持续性的痛点，也是其加入OpenAI的背景"
-    },
-    "relevance": "OpenClaw运营 + 可持续性",
-    "score": 0.81,
-    "engagement": {
-      "likes": 731,
-      "replies": 39,
-      "retweets": 27
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「建系统」的成本现实——个人维护基础设施的不可持续性。开源不等于免费，繁荣需要资源。Peter加入OpenAI不是「卖身」，而是为项目找到可持续的资助模式，让OpenClaw从「个人项目」进化为「基金会项目」。",
-    "synced_at": "2026-02-16T00:04:46.528579+00:00",
-    "js_take": {
-      "en-US": "The hidden cost of \"building systems.\" Open source isn't free — infrastructure needs fuel. This isn't selling out; it's evolution from personal project to foundation-backed public good. Sustainable open source requires sustainable funding.",
-      "zh-CN": "The hidden cost of \"building systems.\" Open source isn't free — infrastructure needs fuel. This isn't selling out; it's evolution from personal project to foundation-backed public good. Sustainable open source requires sustainable funding."
-    }
-  },
-  {
-    "id": "2023058928259739963",
-    "date": "2026-02-16",
-    "author": "@coinbubblesETH",
-    "author_url": "https://x.com/coinbubblesETH",
-    "tweet_url": "https://x.com/coinbubblesETH/status/2023058928259739963",
-    "title": {
-      "en-US": "If you want your agent to retain memory, update OpenClaw asap and add 'autoCapture: true'. Memory is now opt-in",
-      "zh-CN": "如果要让agent保留记忆，立即更新OpenClaw并添加'autoCapture: true'，记忆功能现在是 opt-in"
-    },
-    "summary": {
-      "en-US": "OpenClaw更新 + 记忆系统",
-      "zh-CN": "高收藏量（485），实用信息，触及agent记忆管理的关键配置"
-    },
-    "relevance": "OpenClaw更新 + 记忆系统",
-    "score": 0.81,
-    "engagement": {
-      "likes": 291,
-      "replies": 14,
-      "retweets": 9
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "这是「建系统」的细节——从默认开启到opt-in，不仅是技术选择，更是隐私哲学的转变。agent的记忆不是越多越好，而是「该记的记，该忘的忘」。询问：自动捕获的筛选机制是什么？如何避免记忆膨胀？",
-    "synced_at": "2026-02-16T01:03:49.216608+00:00",
-    "js_take": {
-      "en-US": "The philosophy shift from \"remember everything\" to \"remember what matters.\" Opt-in memory isn't just technical — it's privacy-by-design. What's the filtering logic for autoCapture? Context relevance, time decay, or user-defined rules? Memory bloat kills long-term agents.",
-      "zh-CN": "The philosophy shift from \"remember everything\" to \"remember what matters.\" Opt-in memory isn't just technical — it's privacy-by-design. What's the filtering logic for autoCapture? Context relevance, time decay, or user-defined rules? Memory bloat kills long-term agents."
     }
   }
 ]
