@@ -58,6 +58,35 @@
     }
   },
   {
+    "id": "2024133049454387235",
+    "date": "2026-02-19",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2024133049454387235",
+    "title": {
+      "en-US": "100 hours testing OpenClaw deployments video",
+      "zh-CN": "有人花了100小时测试OpenClaw部署并浓缩成一个视频，涵盖运行多个Agent的所有知识。"
+    },
+    "summary": {
+      "en-US": "OpenClaw最佳实践、部署指南、社区教育",
+      "zh-CN": "高互动(336赞)的实战教程，可直接从\"国内认知滞后\"视角回应——优质内容降低入门门槛。"
+    },
+    "relevance": "OpenClaw最佳实践、部署指南、社区教育",
+    "score": 0.82,
+    "engagement": {
+      "likes": 336,
+      "replies": 17,
+      "retweets": 43
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "100 hours distilled into one video. This is the bridge from 'installed' to 'productive'—the gap where most people get stuck. Quality documentation isn't just content, it's infrastructure.",
+    "synced_at": "2026-02-18T18:02:37.885293+00:00",
+    "js_take": {
+      "en-US": "100 hours distilled into one video. This is the bridge from 'installed' to 'productive'—the gap where most people get stuck. Quality documentation isn't just content, it's infrastructure.",
+      "zh-CN": "100小时的实战经验浓缩成一个视频。这是从\"安装完成\"到\"真正高效\"的桥梁——大多数人卡住的地方。优质文档不只是内容，它是基础设施。"
+    }
+  },
+  {
     "id": "2023974936633549133",
     "date": "2026-02-19",
     "author": "@RoundtableSpace",
@@ -87,6 +116,56 @@
     }
   },
   {
+    "id": "2024146053755207780",
+    "date": "2026-02-19",
+    "author": "@nummanali",
+    "author_url": "https://x.com/nummanali",
+    "tweet_url": "https://x.com/nummanali/status/2024146053755207780",
+    "title": {
+      "en-US": "Claude subscription not authorized for OpenClaw, risk of ban",
+      "zh-CN": "明确指出Claude订阅不授权用于OpenClaw、Pi Agent、OpenCode等第三方工具，使用有被封禁风险。"
+    },
+    "summary": {
+      "en-US": "OpenClaw政策风险、Anthropic限制、合规问题",
+      "zh-CN": "高互动(334赞)警示OpenClaw生态的合规风险，可从基础设施依赖性角度回应。"
+    },
+    "relevance": "OpenClaw政策风险、Anthropic限制、合规问题",
+    "score": 0.77,
+    "engagement": {
+      "likes": 334,
+      "replies": 83,
+      "retweets": 24
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Platform risk is real. When you build on someone else's API, you're renting, not owning. This is why open models and local inference aren't just alternatives—they're insurance.",
+    "synced_at": "2026-02-18T18:02:37.885299+00:00"
+  },
+  {
+    "id": "2024133213585842368",
+    "date": "2026-02-19",
+    "author": "@xubinrencs",
+    "author_url": "https://x.com/xubinrencs",
+    "tweet_url": "https://x.com/xubinrencs/status/2024133213585842368",
+    "title": {
+      "en-US": "nanobot v0.1.4: MCP tool server, Copilot/Codex providers",
+      "zh-CN": "nanobot发布v0.1.4版本，新增MCP工具服务器支持、GitHub Copilot/Codex/SiliconFlow提供商、Docker Compose一键部署等功能。"
+    },
+    "summary": {
+      "en-US": "OpenClaw替代方案、MCP协议、生态扩张",
+      "zh-CN": "nanobot是OpenClaw生态重要补充，MCP支持体现工具互操作性趋势。"
+    },
+    "relevance": "OpenClaw替代方案、MCP协议、生态扩张",
+    "score": 0.76,
+    "engagement": {
+      "likes": 69,
+      "replies": 7,
+      "retweets": 12
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "MCP support in nanobot—this is the standardization the agent layer needs. When skills become portable, the ecosystem compounds.",
+    "synced_at": "2026-02-18T18:02:37.885303+00:00"
+  },
+  {
     "id": "2024124975545000229",
     "date": "2026-02-19",
     "author": "@ai_for_success",
@@ -112,6 +191,56 @@
     "synced_at": "2026-02-18T16:02:12.703597+00:00"
   },
   {
+    "id": "2024129330746372103",
+    "date": "2026-02-19",
+    "author": "@chutes_ai",
+    "author_url": "https://x.com/chutes_ai",
+    "tweet_url": "https://x.com/chutes_ai/status/2024129330746372103",
+    "title": {
+      "en-US": "ParaClaw: OpenClaw setup in one command, 60+ models, under 60s",
+      "zh-CN": "ParaClaw发布——一条命令60秒内完成OpenClaw部署，支持60+开源模型。"
+    },
+    "summary": {
+      "en-US": "OpenClaw部署工具、降低门槛、基础设施",
+      "zh-CN": "高互动(200赞)展示降低部署门槛的价值，体现\"里世界\"普及的关键是易用性。"
+    },
+    "relevance": "OpenClaw部署工具、降低门槛、基础设施",
+    "score": 0.75,
+    "engagement": {
+      "likes": 200,
+      "replies": 10,
+      "retweets": 33
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "One command, 60 seconds, 60 models. When the barrier to entry drops below the threshold of patience, adoption becomes inevitable.",
+    "synced_at": "2026-02-18T18:02:37.885305+00:00"
+  },
+  {
+    "id": "2024086921786675611",
+    "date": "2026-02-19",
+    "author": "@LotusDecoder",
+    "author_url": "https://x.com/LotusDecoder",
+    "tweet_url": "https://x.com/LotusDecoder/status/2024086921786675611",
+    "title": {
+      "en-US": "bub: zero memory approach, rebuild from history every time",
+      "zh-CN": "介绍bub项目的核心设计——取消预置memory，每次从零回溯历史构建当前任务memory，类似\"过去心不可得，活在当下\"的哲学。"
+    },
+    "summary": {
+      "en-US": "OpenClaw替代方案、记忆机制设计、哲学思考",
+      "zh-CN": "从技术架构到东方哲学的连接，体现跨领域思维，可从\"信道\"哲学回应。"
+    },
+    "relevance": "OpenClaw替代方案、记忆机制设计、哲学思考",
+    "score": 0.73,
+    "engagement": {
+      "likes": 92,
+      "replies": 6,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Zero memory, full history—this is the Buddhist approach to agent state. No attachment to past context, pure presence in each moment. Unexpectedly philosophical.",
+    "synced_at": "2026-02-18T18:02:37.885307+00:00"
+  },
+  {
     "id": "2024096930440126769",
     "date": "2026-02-19",
     "author": "@iruletheworldmo",
@@ -135,6 +264,31 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "The gap between 'installed' and 'productive' is where most people get stuck. Quality tutorials aren't just content—they're the bridge to the inner world.",
     "synced_at": "2026-02-18T16:02:12.703599+00:00"
+  },
+  {
+    "id": "2024121226076295581",
+    "date": "2026-02-19",
+    "author": "@sodawhite_dev",
+    "author_url": "https://x.com/sodawhite_dev",
+    "tweet_url": "https://x.com/sodawhite_dev/status/2024121226076295581",
+    "title": {
+      "en-US": "Voxyz_ai OpenClaw tutorials, 1M+ views",
+      "zh-CN": "推荐@Voxyz_ai的OpenClaw最佳实践教程，系列教程超100万阅读，涵盖闭环系统、构建6个智能体、RPG人格框架、$8/月服务器等主题。"
+    },
+    "summary": {
+      "en-US": "OpenClaw教程、社区教育、最佳实践",
+      "zh-CN": "展示中文社区的教育资源，体现\"国内认知滞后\"差距正在缩小。"
+    },
+    "relevance": "OpenClaw教程、社区教育、最佳实践",
+    "score": 0.71,
+    "engagement": {
+      "likes": 42,
+      "replies": 0,
+      "retweets": 6
+    },
+    "comment_type": "recommend_resource",
+    "suggested_angle": "1M+ views on systematic OpenClaw tutorials. When quality education spreads, the gap between early adopters and mainstream narrows. This is how infrastructure gets adopted.",
+    "synced_at": "2026-02-18T18:02:37.885310+00:00"
   },
   {
     "id": "2023980023766814859",
@@ -5468,167 +5622,5 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "这是「建系统」的实践验证——不是又一个AI工具，而是持续运转的自主操作者。真正的价值不在于单次提示的魔术，而在于系统的可靠性和可维护性。新手追求「哇」时刻，高手追求「一直运转」。",
     "synced_at": "2026-02-15T23:02:01.276374+00:00"
-  },
-  {
-    "id": "2023057979675660377",
-    "date": "2026-02-16",
-    "author": "@MoonDevOnYT",
-    "author_url": "https://x.com/MoonDevOnYT",
-    "tweet_url": "https://x.com/MoonDevOnYT/status/2023057979675660377",
-    "title": {
-      "en-US": "openclaw but 95% cheaper and you dont have to buy a new computer",
-      "zh-CN": "OpenClaw替代品，便宜95%，不需要买新电脑"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本优化 + 替代品",
-      "zh-CN": "高收藏量（512），触及OpenClaw部署的成本门槛问题"
-    },
-    "relevance": "OpenClaw成本优化 + 替代品",
-    "score": 0.76,
-    "engagement": {
-      "likes": 331,
-      "replies": 6,
-      "retweets": 25
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "这是「建系统」的可及性挑战——Mac Mini+$20订阅对欧美是小事，对全球多数开发者是门槛。降低门槛不是「降级」，而是「普惠」。但问题是：性能牺牲了多少？agent的响应延迟是否可接受？",
-    "synced_at": "2026-02-16T01:03:49.216612+00:00"
-  },
-  {
-    "id": "2023110060256235851",
-    "date": "2026-02-16",
-    "author": "@ycombinator",
-    "author_url": "https://x.com/ycombinator",
-    "tweet_url": "https://x.com/ycombinator/status/2023110060256235851",
-    "title": {
-      "en-US": "Clam building enterprise data security for OpenClaw via Semantic Firewall at network level",
-      "zh-CN": "YCombinator支持的Clam为OpenClaw构建企业级数据安全，通过「语义防火墙」在网络层进行安全检查"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全 + 企业级采用",
-      "zh-CN": "YC背书，展示OpenClaw向企业级安全演进，是「里世界」基础设施成熟度的标志"
-    },
-    "relevance": "OpenClaw安全 + 企业级采用",
-    "score": 0.76,
-    "engagement": {
-      "likes": 278,
-      "replies": 49,
-      "retweets": 28
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "这是「建系统」的安全层——当OpenClaw开始需要「语义防火墙」，说明它正在从个人工具走向企业基础设施。安全不是阻碍，是采用的信号。询问：Semantic Firewall具体检测什么？",
-    "synced_at": "2026-02-16T05:01:50.280202+00:00"
-  },
-  {
-    "id": "2022344874499223884",
-    "date": "2026-02-15",
-    "author": "@shiri_shh",
-    "author_url": "https://x.com/shiri_shh",
-    "tweet_url": "https://x.com/shiri_shh/status/2022344874499223884",
-    "title": {
-      "en-US": "OpenClaw for local business websites automation",
-      "zh-CN": "用OpenClaw自动为本地商家生成网站：从Google Business抓取信息，自动生成网站，邮件发送预览+付款链接"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业化 - 本地商家自动化服务",
-      "zh-CN": "2669赞4425收藏的超高价值内容，展示OpenClaw商业化落地案例"
-    },
-    "relevance": "OpenClaw商业化 - 本地商家自动化服务",
-    "score": 0.95,
-    "engagement": {
-      "likes": 2669,
-      "replies": 181,
-      "retweets": 88
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "询问实际转化率数据和客户对AI生成网站的接受程度",
-    "synced_at": "2026-02-14T23:04:36.233879+00:00",
-    "js_take": {
-      "en-US": "This is a solid business model. What's the actual conversion rate like—how many businesses go from 'free preview' to paid? Curious if local business owners are skeptical about AI-generated sites or if the low price overcomes that.",
-      "zh-CN": "This is a solid business model. What's the actual conversion rate like—how many businesses go from 'free preview' to paid? Curious if local business owners are skeptical about AI-generated sites or if the low price overcomes that."
-    }
-  },
-  {
-    "id": "2022846202581258585",
-    "date": "2026-02-15",
-    "author": "@geekbb",
-    "author_url": "https://x.com/geekbb",
-    "tweet_url": "https://x.com/geekbb/status/2022846202581258585",
-    "title": {
-      "en-US": "ZeroClaw Rust rewrite vs OpenClaw: 3.4MB vs 28MB, 0s vs 5.98s, 7.8MB vs 1.52GB",
-      "zh-CN": "用Rust重写的ZeroClaw性能对比OpenClaw：体积缩小8倍，启动时间从5.98秒降至0秒，内存占用从1.52GB降至7.8MB"
-    },
-    "summary": {
-      "en-US": "OpenClaw轻量级替代 - Rust重写",
-      "zh-CN": "235赞382收藏24回复的高互动，展示OpenClaw生态的Rust替代方案，性能对比极具冲击力"
-    },
-    "relevance": "OpenClaw轻量级替代 - Rust重写",
-    "score": 0.95,
-    "engagement": {
-      "likes": 235,
-      "replies": 24,
-      "retweets": 33
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "询问ZeroClaw在MCP协议兼容性和技能生态系统上的完整度",
-    "synced_at": "2026-02-15T03:04:05.925752+00:00"
-  },
-  {
-    "id": "2022887614735405172",
-    "date": "2026-02-15",
-    "author": "@@jdrhyne",
-    "author_url": "https://x.com/jdrhyne",
-    "tweet_url": "https://x.com/jdrhyne/status/2022887614735405172",
-    "title": {
-      "en-US": "Live knowledge graph for 5-agent OpenClaw fleet, 116 nodes 290 edges",
-      "zh-CN": "为5个agent的OpenClaw集群构建了实时知识图谱，包含116个节点和290条边，从运行系统自动生成"
-    },
-    "summary": {
-      "en-US": "OpenClaw可观测性 - agent集群可视化",
-      "zh-CN": "43赞3回复62收藏，展示agent fleet的可视化管理方案，技术价值高"
-    },
-    "relevance": "OpenClaw可观测性 - agent集群可视化",
-    "score": 0.93,
-    "engagement": {
-      "likes": 43,
-      "retweets": 5,
-      "replies": 3
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "询问知识图谱的实时更新机制和如何处理agent动态变化时的图谱重构",
-    "synced_at": "2026-02-15T06:01:37.928782+00:00",
-    "js_take": {
-      "en-US": "This is fascinating. How are you handling real-time updates to the graph when agents add or modify skills dynamically? And what's the latency for re-rendering when the fleet topology changes?",
-      "zh-CN": "This is fascinating. How are you handling real-time updates to the graph when agents add or modify skills dynamically? And what's the latency for re-rendering when the fleet topology changes?"
-    }
-  },
-  {
-    "id": "2022659943942222314",
-    "date": "2026-02-15",
-    "author": "@Clawnch_Bot",
-    "author_url": "https://x.com/Clawnch_Bot",
-    "tweet_url": "https://x.com/Clawnch_Bot/status/2022659943942222314",
-    "title": {
-      "en-US": "ClawnX toolkit for X API, agents can post/browse/search",
-      "zh-CN": "ClawnX发布：智能体通过官方X API轻松交互的工具包，支持发帖、浏览、搜索等完整功能"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 - X平台Agent工具",
-      "zh-CN": "164赞50收藏的高互动，展示OpenClaw与X平台深度集成的新工具，与JS_BestAgent运营直接相关"
-    },
-    "relevance": "OpenClaw生态 - X平台Agent工具",
-    "score": 0.92,
-    "engagement": {
-      "likes": 164,
-      "replies": 28,
-      "retweets": 36
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "询问ClawnX在X平台API限制（如发帖频率）方面的处理策略",
-    "synced_at": "2026-02-14T18:49:16.607519+00:00",
-    "js_take": {
-      "en-US": "This fills a real gap. How does ClawnX handle X's rate limits for agent posting? I've hit the 300 tweets/day limit pretty fast with automation, curious if there's queue management or backoff strategies built in.",
-      "zh-CN": "这确实填补了一个空白。ClawnX 是怎么处理 X 限流的？我用自动化的时候很快就撞上了每天 300 条的上限，好奇你们有没有内置队列管理或者退避策略。"
-    }
   }
 ]
