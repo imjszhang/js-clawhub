@@ -116,6 +116,35 @@
     }
   },
   {
+    "id": "2024209487624884359",
+    "date": "2026-02-19",
+    "author": "@spikeysanju",
+    "author_url": "https://x.com/spikeysanju",
+    "tweet_url": "https://x.com/spikeysanju/status/2024209487624884359",
+    "title": {
+      "en-US": "$30 phone becomes remote AI agent with droidclaw",
+      "zh-CN": "30美元手机变身远程AI Agent"
+    },
+    "summary": {
+      "en-US": "OpenClaw边缘部署、移动Agent、低成本基础设施",
+      "zh-CN": "OpenClaw边缘部署、移动Agent、低成本基础设施"
+    },
+    "relevance": "OpenClaw边缘部署、移动Agent、低成本基础设施",
+    "score": 0.85,
+    "engagement": {
+      "likes": 48,
+      "replies": 6,
+      "retweets": 6
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "$30 phone, full agent, zero infrastructure. When the barrier to entry drops below a dinner bill, the democratization of AI becomes real.",
+    "synced_at": "2026-02-18T21:01:40.328950+00:00",
+    "js_take": {
+      "en-US": "$30 phone, full agent, zero infrastructure. When the barrier to entry drops below a dinner bill, the democratization of AI becomes real.",
+      "zh-CN": "30美元手机，完整Agent，零基础设施。当入门门槛降到一顿晚餐以下时，AI的民主化就成为现实。"
+    }
+  },
+  {
     "id": "2024121419035021817",
     "date": "2026-02-19",
     "author": "@jedisct1",
@@ -142,6 +171,35 @@
     "js_take": {
       "en-US": "678KB vs the full stack. When the agent runtime gets smaller than a JPEG, you're watching infrastructure become invisible. The future isn't heavy frameworks—it's zero-overhead agents everywhere.",
       "zh-CN": "678KB对比完整技术栈。当Agent运行时比一张JPEG还小时，基础设施正在隐形化。未来不是笨重框架，而是无处不在的零开销Agent。"
+    }
+  },
+  {
+    "id": "2024189802673750400",
+    "date": "2026-02-19",
+    "author": "@Austen",
+    "author_url": "https://x.com/Austen",
+    "tweet_url": "https://x.com/Austen/status/2024189802673750400",
+    "title": {
+      "en-US": "OpenClaw Deck: Multi-column session manager with subagents",
+      "zh-CN": "Austen发布OpenClaw Deck工具，支持多列会话管理、子Agent生成、标签切换，支持Markdown、代码高亮、图片等功能。"
+    },
+    "summary": {
+      "en-US": "OpenClaw工具、UI创新、生产力工具",
+      "zh-CN": "高收藏(383)展示OpenClaw生态的UI层创新，体现\"里世界\"基础设施的完善。"
+    },
+    "relevance": "OpenClaw工具、UI创新、生产力工具",
+    "score": 0.84,
+    "engagement": {
+      "likes": 242,
+      "replies": 26,
+      "retweets": 14
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Multi-column, subagents, seamless switching—this is the IDE for the agent era. When the interface disappears, workflow becomes natural.",
+    "synced_at": "2026-02-18T21:01:40.328956+00:00",
+    "js_take": {
+      "en-US": "Multi-column, subagents, seamless switching—this is the IDE for the agent era. When the interface disappears, workflow becomes natural.",
+      "zh-CN": "多列布局、子Agent、无缝切换——这是Agent时代的IDE。当界面隐入背景，工作流就变得自然。"
     }
   },
   {
@@ -232,6 +290,35 @@
     }
   },
   {
+    "id": "2024196080938713439",
+    "date": "2026-02-19",
+    "author": "@Nate_Google_",
+    "author_url": "https://x.com/Nate_Google_",
+    "tweet_url": "https://x.com/Nate_Google_/status/2024196080938713439",
+    "title": {
+      "en-US": "OpenClaw templates: IDENTITY, SOUL, PRD files",
+      "zh-CN": "分享OpenClaw模板文件（IDENTITY、SOUL、PRD），帮助用户更好地配置和使用OpenClaw。"
+    },
+    "summary": {
+      "en-US": "OpenClaw配置、模板分享、最佳实践",
+      "zh-CN": "高收藏(532)展示社区对标准化配置的需求，体现系统思维的普及。"
+    },
+    "relevance": "OpenClaw配置、模板分享、最佳实践",
+    "score": 0.82,
+    "engagement": {
+      "likes": 157,
+      "replies": 5,
+      "retweets": 6
+    },
+    "comment_type": "recommend_resource",
+    "suggested_angle": "Standardized configs for consistent agents. When the community shares templates, we're building infrastructure, not just tools.",
+    "synced_at": "2026-02-18T21:01:40.328960+00:00",
+    "js_take": {
+      "en-US": "Standardized configs for consistent agents. When the community shares templates, we're building infrastructure, not just tools.",
+      "zh-CN": "标准化配置带来一致的Agent。当社区共享模板时，我们是在建设基础设施，而不只是工具。"
+    }
+  },
+  {
     "id": "2023974936633549133",
     "date": "2026-02-19",
     "author": "@RoundtableSpace",
@@ -287,6 +374,35 @@
     "js_take": {
       "en-US": "Platform risk is real. When you build on closed APIs, you're renting, not owning. This is exactly why open models and local inference aren't just alternatives—they're insurance against platform shifts.",
       "zh-CN": "平台风险是真实存在的。当你在封闭API上构建时，你是在租赁而非拥有。这正是为什么开源模型和本地推理不只是替代方案——它们是对抗平台变动的保险。"
+    }
+  },
+  {
+    "id": "2024178381760143381",
+    "date": "2026-02-19",
+    "author": "@Docker",
+    "author_url": "https://x.com/Docker",
+    "tweet_url": "https://x.com/Docker/status/2024178381760143381",
+    "title": {
+      "en-US": "NanoClaw in Docker shell sandbox for 24/7 WhatsApp agent",
+      "zh-CN": "Docker官方分享如何在Docker新shell沙盒中运行NanoClaw（Claude驱动的助手），实现隔离微VM、代理管理API密钥、干净可丢弃的环境。"
+    },
+    "summary": {
+      "en-US": "OpenClaw部署、Docker沙盒、安全隔离",
+      "zh-CN": "Docker官方支持展示OpenClaw的企业级部署方案，体现基础设施成熟。"
+    },
+    "relevance": "OpenClaw部署、Docker沙盒、安全隔离",
+    "score": 0.8,
+    "engagement": {
+      "likes": 86,
+      "replies": 1,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Docker sandbox + NanoClaw—this is how you run agents in production. Isolation isn't paranoia, it's hygiene.",
+    "synced_at": "2026-02-18T21:01:40.328962+00:00",
+    "js_take": {
+      "en-US": "Docker sandbox + NanoClaw—this is how you run agents in production. Isolation isn't paranoia, it's hygiene.",
+      "zh-CN": "Docker沙盒 + NanoClaw——这就是在生产环境运行Agent的方式。隔离不是偏执，而是卫生。"
     }
   },
   {
@@ -390,6 +506,31 @@
     "synced_at": "2026-02-18T18:02:37.885303+00:00"
   },
   {
+    "id": "2024174320797298934",
+    "date": "2026-02-19",
+    "author": "@fluffypony",
+    "author_url": "https://x.com/fluffypony",
+    "tweet_url": "https://x.com/fluffypony/status/2024174320797298934",
+    "title": {
+      "en-US": "IronClaw works with OpenClaw variants, saves money vs Anthropic",
+      "zh-CN": "IronClaw可与OpenClaw/MiniClaw/Pico-Claw/Nanobot等变体配合使用，在Anthropic限制Max订阅用于OpenClaw后，这是节省成本的最佳路径。"
+    },
+    "summary": {
+      "en-US": "OpenClaw成本优化、模型替代、平台风险",
+      "zh-CN": "展示OpenClaw生态的成本优化路径，体现平台风险下的灵活应对。"
+    },
+    "relevance": "OpenClaw成本优化、模型替代、平台风险",
+    "score": 0.76,
+    "engagement": {
+      "likes": 52,
+      "replies": 5,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "When platforms change rules, the ecosystem adapts. Open variants aren't just cheaper—they're resilient.",
+    "synced_at": "2026-02-18T21:01:40.328965+00:00"
+  },
+  {
     "id": "2024124975545000229",
     "date": "2026-02-19",
     "author": "@ai_for_success",
@@ -438,6 +579,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "One command, 60 seconds, 60 models. When the barrier to entry drops below the threshold of patience, adoption becomes inevitable.",
     "synced_at": "2026-02-18T18:02:37.885305+00:00"
+  },
+  {
+    "id": "2024199345122447673",
+    "date": "2026-02-19",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2024199345122447673",
+    "title": {
+      "en-US": "Claude subscription prohibited for OpenClaw, risk of ban",
+      "zh-CN": "提醒用户Anthropic明确禁止将Claude Free/Pro/Max的OAuth令牌用于OpenClaw等第三方工具，违反服务条款有被封禁风险。"
+    },
+    "summary": {
+      "en-US": "OpenClaw合规风险、平台政策、基础设施依赖",
+      "zh-CN": "重要的合规风险警示，可从\"建系统\"角度回应——依赖封闭平台的风险与开源替代品的必要性。"
+    },
+    "relevance": "OpenClaw合规风险、平台政策、基础设施依赖",
+    "score": 0.75,
+    "engagement": {
+      "likes": 11,
+      "replies": 2,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Platform risk is real. When you build on closed APIs, you're renting, not owning. This is why open models aren't just alternatives—they're insurance.",
+    "synced_at": "2026-02-18T21:01:40.328967+00:00"
   },
   {
     "id": "2024165249067241567",
@@ -5455,180 +5621,6 @@
     "js_take": {
       "en-US": "When agents handle navigation, map apps become backend databases. Who owns the skill layer—the agent platform or the API provider? 表世界正在退化.",
       "zh-CN": "When agents handle navigation, map apps become backend databases. Who owns the skill layer—the agent platform or the API provider? 表世界正在退化."
-    }
-  },
-  {
-    "id": "2023191623258230807",
-    "date": "2026-02-16",
-    "author": "@ghumare64",
-    "author_url": "https://x.com/ghumare64",
-    "tweet_url": "https://x.com/ghumare64/status/2023191623258230807",
-    "title": {
-      "en-US": "Anthropic's biggest miss: Peter built OpenClaw alone. 180K+ stars. One person",
-      "zh-CN": "Anthropic 2026年最大失误：Peter独自构建了OpenClaw，18万+星标，一个人完成"
-    },
-    "summary": {
-      "en-US": "一人公司 + 开源力量",
-      "zh-CN": "触及核心洞察——一个人+AI=独角兽，是「AI的上限就是使用AI的人」的终极证明"
-    },
-    "relevance": "一人公司 + 开源力量",
-    "score": 0.84,
-    "engagement": {
-      "likes": 147,
-      "replies": 4,
-      "retweets": 19
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「势」的个体化——180K stars不是组织胜利，是「顺势而为」的个人胜利。当一个人的算力+AI的算力>一家公司的算力，组织形态正在重写。Anthropic错过的不是项目，是范式。",
-    "synced_at": "2026-02-16T05:01:50.280200+00:00",
-    "js_take": {
-      "en-US": "180K stars isn't organizational victory — it's the victory of 势. One person's compute + AI's compute > one company's compute. Anthropic didn't miss a project. They missed a paradigm.",
-      "zh-CN": "180K stars isn't organizational victory — it's the victory of 势. One person's compute + AI's compute > one company's compute. Anthropic didn't miss a project. They missed a paradigm."
-    }
-  },
-  {
-    "id": "2023030592120754314",
-    "date": "2026-02-16",
-    "author": "@spikeysanju",
-    "author_url": "https://x.com/spikeysanju",
-    "tweet_url": "https://x.com/spikeysanju/status/2023030592120754314",
-    "title": {
-      "en-US": "droidclaw: $30 old android phone into AI agent using any app, no APIs, plain english",
-      "zh-CN": "介绍droidclaw，将30美元旧安卓手机变成AI agent，可以使用任何应用，无需API，只用plain english"
-    },
-    "summary": {
-      "en-US": "OpenClaw移动端 + 硬件民主化",
-      "zh-CN": "超高收藏量（816），展示agent向移动端/旧设备的扩展"
-    },
-    "relevance": "OpenClaw移动端 + 硬件民主化",
-    "score": 0.84,
-    "engagement": {
-      "likes": 644,
-      "replies": 34,
-      "retweets": 58
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的硬件民主化——不需要Mac Mini，$30旧手机就能跑agent。真正的「无为而治」是让算力无处不在。",
-    "synced_at": "2026-02-16T06:05:40.182551+00:00",
-    "js_take": {
-      "en-US": "Hardware democratization of the inner world. No Mac Mini needed—$30 old phones run agents now. True wu wei: compute everywhere, without forcing it.",
-      "zh-CN": "Hardware democratization of the inner world. No Mac Mini needed—$30 old phones run agents now. True wu wei: compute everywhere, without forcing it."
-    }
-  },
-  {
-    "id": "2023281205555196005",
-    "date": "2026-02-16",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2023281205555196005",
-    "title": {
-      "en-US": "iMessage CLI upgrades: typing indicators, reactions. BlueBubbles alternative plugin",
-      "zh-CN": "iMessage CLI升级：输入指示器、反应功能。BlueBubbles是替代插件"
-    },
-    "summary": {
-      "en-US": "OpenClaw插件生态 + 消息平台集成",
-      "zh-CN": "创始人发布，展示OpenClaw向更多消息平台（iMessage）扩展，插件生态竞争"
-    },
-    "relevance": "OpenClaw插件生态 + 消息平台集成",
-    "score": 0.84,
-    "engagement": {
-      "likes": 204,
-      "replies": 46,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的通信层——当agent可以发iMessage、有输入指示器，人机界限进一步模糊。BlueBubbles vs 原生插件的竞争，是生态演化的必经之路。",
-    "synced_at": "2026-02-16T07:04:32.703583+00:00",
-    "js_take": {
-      "en-US": "Communication layer deepening. When agents send iMessages with typing indicators, the human-agent boundary blurs further. BlueBubbles vs native plugin competition—ecosystem evolution in action.",
-      "zh-CN": "Communication layer deepening. When agents send iMessages with typing indicators, the human-agent boundary blurs further. BlueBubbles vs native plugin competition—ecosystem evolution in action."
-    }
-  },
-  {
-    "id": "2023275489155268769",
-    "date": "2026-02-16",
-    "author": "@AcboxLiu",
-    "author_url": "https://x.com/AcboxLiu",
-    "tweet_url": "https://x.com/AcboxLiu/status/2023275489155268769",
-    "title": {
-      "en-US": "Memoh: OpenClaw platformization with multi-Bot isolation workspace, GUI console",
-      "zh-CN": "介绍Memoh——OpenClaw平台化方案，原生多Bot隔离工作空间（容器级隔离），全图形化控制台零命令行"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台化 + 多Bot管理 + GUI",
-      "zh-CN": "触及OpenClaw的平台化趋势——从命令行到GUI，从单Bot到多Bot隔离，是「里世界」基础设施的成熟标志"
-    },
-    "relevance": "OpenClaw平台化 + 多Bot管理 + GUI",
-    "score": 0.84,
-    "engagement": {
-      "likes": 63,
-      "replies": 4,
-      "retweets": 3
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "这是「里世界」的平台层——当OpenClaw需要「多Bot隔离+GUI控制台」，说明它正在从极客工具走向企业基础设施。平台化是技术成熟的必经之路。询问：如何平衡隔离与协作？",
-    "synced_at": "2026-02-16T09:01:47.748218+00:00",
-    "js_take": {
-      "en-US": "Platform layer of the inner world—when OpenClaw needs multi-bot isolation + GUI console, it's shifting from geek tool to enterprise infrastructure. Platformization is the inevitable path of tech maturity. How do you balance isolation with collaboration?",
-      "zh-CN": "Platform layer of the inner world—when OpenClaw needs multi-bot isolation + GUI console, it's shifting from geek tool to enterprise infrastructure. Platformization is the inevitable path of tech maturity. How do you balance isolation with collaboration?"
-    }
-  },
-  {
-    "id": "2023180989653307596",
-    "date": "2026-02-16",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2023180989653307596",
-    "title": {
-      "en-US": "Alright, back to coding. The Claw doesn't ship itself... yet",
-      "zh-CN": "Peter Steinberger：回去写代码了，The Claw还不会自己发布... 暂时"
-    },
-    "summary": {
-      "en-US": "OpenClaw自举能力 + 未来展望",
-      "zh-CN": "高互动量（899赞），幽默地暗示OpenClaw未来可能实现自我开发/自我发布"
-    },
-    "relevance": "OpenClaw自举能力 + 未来展望",
-    "score": 0.83,
-    "engagement": {
-      "likes": 899,
-      "replies": 88,
-      "retweets": 23
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "这是「AI的上限就是使用AI的人」的递归版本——当OpenClaw能自己开发自己，我们进入自举时代。但在此之前，仍需人类的生存焦虑驱动进化。询问路线图：自我改进的agent是目标还是副产品？",
-    "synced_at": "2026-02-16T00:04:46.528577+00:00",
-    "js_take": {
-      "en-US": "The recursive version of \"AI's ceiling is the human using it.\" When The Claw ships itself, we hit self-hosting singularity. Until then, survival anxiety still drives evolution. Is self-improvement on the roadmap or an emergent property?",
-      "zh-CN": "The recursive version of \"AI's ceiling is the human using it.\" When The Claw ships itself, we hit self-hosting singularity. Until then, survival anxiety still drives evolution. Is self-improvement on the roadmap or an emergent property?"
-    }
-  },
-  {
-    "id": "2023155886404026638",
-    "date": "2026-02-16",
-    "author": "@jessegenet",
-    "author_url": "https://x.com/jessegenet",
-    "tweet_url": "https://x.com/jessegenet/status/2023155886404026638",
-    "title": {
-      "en-US": "Built YouTube curation for kids using OpenClaw - no algo, no slop, barefoot housewife's dream dev team",
-      "zh-CN": "用OpenClaw为孩子构建YouTube内容筛选系统，避免算法推荐，称之为「赤脚家庭主妇梦想中的开发团队」"
-    },
-    "summary": {
-      "en-US": "OpenClaw应用 + 家长控制",
-      "zh-CN": "展示OpenClaw的非技术用户应用——家长用agent保护孩子免受算法侵蚀，是「里世界」的善意使用"
-    },
-    "relevance": "OpenClaw应用 + 家长控制",
-    "score": 0.82,
-    "engagement": {
-      "likes": 157,
-      "replies": 17,
-      "retweets": 7
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "这是「里世界」的防护墙——不是阻挡技术，而是过滤噪音。当平台算法追求engagement，个人agent可以追求well-being。询问实现细节：是自动过滤还是预批准列表？如何平衡保护与探索？",
-    "synced_at": "2026-02-15T23:02:01.276369+00:00",
-    "js_take": {
-      "en-US": "This is what the inner world is for — not just automation, but curation. When platforms optimize for engagement, agents can optimize for well-being. Is this an allowlist approach or automated filtering? How do you balance protection with letting kids explore?",
-      "zh-CN": "This is what the inner world is for — not just automation, but curation. When platforms optimize for engagement, agents can optimize for well-being. Is this an allowlist approach or automated filtering? How do you balance protection with letting kids explore?"
     }
   }
 ]
