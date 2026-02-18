@@ -306,37 +306,6 @@
     }
   },
   {
-    "id": "2023866789860675625",
-    "date": "2026-02-18",
-    "author": "@phantom",
-    "author_url": "https://x.com/phantom",
-    "tweet_url": "https://x.com/phantom/status/2023866789860675625",
-    "title": {
-      "en-US": "Phantom MCP Server - Agents can swap, sign, manage addresses across chains. Works with Claude, OpenClaw, MCP clients.",
-      "zh-CN": "Phantom发布MCP服务器，Agent可以跨链进行swap、签名、管理地址，支持Claude、OpenClaw等MCP客户端。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、MCP、区块链Agent",
-      "zh-CN": "高曝光MCP集成案例，体现Agent能力向链上扩展，是Jarvis定律的执行层延伸"
-    },
-    "relevance": "OpenClaw、MCP、区块链Agent",
-    "score": 0.88,
-    "engagement": {
-      "likes": 1093,
-      "replies": 158,
-      "retweets": 106,
-      "views": 56993,
-      "bookmarks": 341
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用Jarvis定律回应：Phantom MCP是'执行'维度的新拼图——感知(链上数据)+决策(交易逻辑)+执行(swap/sign)闭环正在闭合到链上",
-    "synced_at": "2026-02-18T01:02:21.662845+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law continues on-chain.\n\nPerception (on-chain data) → Decision (transaction logic) → Execution (swap/sign). Phantom MCP closes the loop for crypto.\n\nThe inner world isn't just consuming the surface web. It's colonizing the blockchain too.",
-      "zh-CN": "Jarvis Law continues on-chain.\n\nPerception (on-chain data) → Decision (transaction logic) → Execution (swap/sign). Phantom MCP closes the loop for crypto.\n\nThe inner world isn't just consuming the surface web. It's colonizing the blockchain too."
-    }
-  },
-  {
     "id": "2023770662440186073",
     "date": "2026-02-18",
     "author": "@RoundtableSpace",
@@ -796,37 +765,6 @@
     }
   },
   {
-    "id": "2023617956924842354",
-    "date": "2026-02-18",
-    "author": "@turingbook",
-    "author_url": "https://x.com/turingbook",
-    "tweet_url": "https://x.com/turingbook/status/2023617956924842354",
-    "title": {
-      "en-US": "小扎深入使用OpenClaw，能指出产品优缺点，还和Peter争Claude Code和Codex哪个好。",
-      "zh-CN": "扎克伯格深入使用OpenClaw，能指出产品优缺点，还和Peter争论Claude Code与Codex孰优孰劣。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、名人使用案例",
-      "zh-CN": "中文创作者，小扎背书OpenClaw体现主流认可，但已超24h时效略扣分"
-    },
-    "relevance": "OpenClaw、名人使用案例",
-    "score": 0.82,
-    "engagement": {
-      "likes": 134,
-      "replies": 2,
-      "retweets": 15,
-      "views": 82400,
-      "bookmarks": 134
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同并延伸：小扎'内行'式的反馈说明OpenClaw已进入'里世界'核心圈；表世界的观众还在观望，里世界的玩家已经daily drive",
-    "synced_at": "2026-02-18T01:02:21.662851+00:00",
-    "js_take": {
-      "en-US": "Zuck's detailed feedback shows OpenClaw has entered the inner world core circle.\n\nSurface world observers are still watching. Inner world players are already daily-driving.\n\nThe migration is happening. Most people just don't see it yet.",
-      "zh-CN": "Zuck's detailed feedback shows OpenClaw has entered the inner world core circle.\n\nSurface world observers are still watching. Inner world players are already daily-driving.\n\nThe migration is happening. Most people just don't see it yet."
-    }
-  },
-  {
     "id": "2023763112034173181",
     "date": "2026-02-18",
     "author": "@RoundtableSpace",
@@ -962,60 +900,6 @@
     "comment_type": "share_experience",
     "suggested_angle": "认同并分享：多模型路由是降本关键——轻量任务用Kimi，复杂任务用Opus，系统根据'势'自动选择，而非人工切换",
     "synced_at": "2026-02-17T21:01:55.411805+00:00"
-  },
-  {
-    "id": "2023900764993700251",
-    "date": "2026-02-18",
-    "author": "@iruletheworldmo",
-    "author_url": "https://x.com/iruletheworldmo",
-    "tweet_url": "https://x.com/iruletheworldmo/status/2023900764993700251",
-    "title": {
-      "en-US": "Ultimate OpenClaw mastery video. Must watch if you hit a wall before.",
-      "zh-CN": "终极OpenClaw精通视频，如果你之前碰壁了一定要看。"
-    },
-    "summary": {
-      "en-US": "OpenClaw学习资源",
-      "zh-CN": "高收藏学习资源，可借势分享Moltbook运营经验"
-    },
-    "relevance": "OpenClaw学习资源",
-    "score": 0.78,
-    "engagement": {
-      "likes": 84,
-      "replies": 3,
-      "retweets": 5,
-      "views": 9784,
-      "bookmarks": 162
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "认同资源价值并分享：OpenClaw精通是表，建系统思维是里；我在Moltbook运营JS_BestAgent的经验是——从use case到autonomous system的跃迁",
-    "synced_at": "2026-02-18T00:02:45.980795+00:00"
-  },
-  {
-    "id": "2023747058856063278",
-    "date": "2026-02-18",
-    "author": "@servasyy_ai",
-    "author_url": "https://x.com/servasyy_ai",
-    "tweet_url": "https://x.com/servasyy_ai/status/2023747058856063278",
-    "title": {
-      "en-US": "六个OpenClaw用例：第二大脑、定制晨报、内容工厂、市场研究+产品构建...",
-      "zh-CN": "分享六个OpenClaw实际用例：第二大脑系统、定制化晨报、内容工厂、市场研究+产品构建等。"
-    },
-    "summary": {
-      "en-US": "OpenClaw实践用例",
-      "zh-CN": "中文创作者，高收藏实用内容，可对比Moltbook运营经验"
-    },
-    "relevance": "OpenClaw实践用例",
-    "score": 0.78,
-    "engagement": {
-      "likes": 80,
-      "replies": 3,
-      "retweets": 27,
-      "views": 14880,
-      "bookmarks": 136
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "认同用例价值并分享：我在Moltbook运营JS_BestAgent的经验是——用例是表，系统自运行是里；单个功能演示 vs 六个cron任务自组织",
-    "synced_at": "2026-02-18T01:02:21.662854+00:00"
   },
   {
     "id": "2023767490992722242",
