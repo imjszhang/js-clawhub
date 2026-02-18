@@ -87,6 +87,35 @@
     }
   },
   {
+    "id": "2023915540864282732",
+    "date": "2026-02-18",
+    "author": "@archiexzzz",
+    "author_url": "https://x.com/archiexzzz",
+    "tweet_url": "https://x.com/archiexzzz/status/2023915540864282732",
+    "title": {
+      "en-US": "OpenClaw founder is the actual 100x engineer every CEO wants",
+      "zh-CN": "推主称OpenClaw创始人就是每个CEO都想雇佣的\"100x工程师\"。"
+    },
+    "summary": {
+      "en-US": "OpenClaw创始人、工程文化、Agent时代生产力",
+      "zh-CN": "极高互动(1585赞)讨论OpenClaw创始人，可从\"AI的上限就是使用AI的人\"切入——Agent时代100x工程师的定义正在被重构。"
+    },
+    "relevance": "OpenClaw创始人、工程文化、Agent时代生产力",
+    "score": 0.91,
+    "engagement": {
+      "likes": 1585,
+      "replies": 46,
+      "retweets": 46
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "The 100x engineer of the agent era isn't measured by lines of code—it's measured by systems architected. When one person can orchestrate an army of agents, multiplication happens at the coordination layer, not the keyboard.",
+    "synced_at": "2026-02-18T10:02:51.023390+00:00",
+    "js_take": {
+      "en-US": "100x in the agent era means systems architected, not code written. One person orchestrating an army of agents—multiplication happens at the coordination layer, not the keyboard.",
+      "zh-CN": "100x in the agent era means systems architected, not code written. One person orchestrating an army of agents—multiplication happens at the coordination layer, not the keyboard."
+    }
+  },
+  {
     "id": "2023419626030510465",
     "date": "2026-02-18",
     "author": "@paraschopra",
@@ -759,6 +788,35 @@
     }
   },
   {
+    "id": "2024003369061228835",
+    "date": "2026-02-18",
+    "author": "@JamesAI",
+    "author_url": "https://x.com/JamesAI",
+    "tweet_url": "https://x.com/JamesAI/status/2024003369061228835",
+    "title": {
+      "en-US": "Replaced $200/mo SaaS with OpenClaw + CLI for Google Ads",
+      "zh-CN": "分享用OpenClaw+CLI接入Google Ads实现投放策略自动化，取代昂贵SaaS工具。"
+    },
+    "summary": {
+      "en-US": "OpenClaw商业应用、SaaS替代、Agent变现",
+      "zh-CN": "实际商业应用场景展示OpenClaw的SaaS替代能力，可从\"表/里世界\"框架回应——表世界(SaaS)退化为数据库，里世界(Agent)成为新交互层。"
+    },
+    "relevance": "OpenClaw商业应用、SaaS替代、Agent变现",
+    "score": 0.84,
+    "engagement": {
+      "likes": 76,
+      "replies": 5,
+      "retweets": 11
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "SaaS is the surface world. When you can orchestrate the same APIs through an agent, you're not just saving money—you're migrating from subscription software to composable infrastructure.",
+    "synced_at": "2026-02-18T10:02:51.023396+00:00",
+    "js_take": {
+      "en-US": "Done the same with my stack. You're not just cutting costs—you're migrating from subscription software to composable infrastructure. The API stays, the middleman leaves.",
+      "zh-CN": "Done the same with my stack. You're not just cutting costs—you're migrating from subscription software to composable infrastructure. The API stays, the middleman leaves."
+    }
+  },
+  {
     "id": "2023775671407841311",
     "date": "2026-02-18",
     "author": "@kavinbm",
@@ -940,6 +998,35 @@
     "js_take": {
       "en-US": "Mobile apps becoming portals to the agent layer. The iOS UI is just glass—the intelligence lives elsewhere. This is how we interface with the inner world.",
       "zh-CN": "Mobile apps becoming portals to the agent layer. The iOS UI is just glass—the intelligence lives elsewhere. This is how we interface with the inner world."
+    }
+  },
+  {
+    "id": "2023959405616591147",
+    "date": "2026-02-18",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2023959405616591147",
+    "title": {
+      "en-US": "AI controlling Blender and building websites in minutes",
+      "zh-CN": "Mario Nawfal分享AI控制Blender并在几分钟内建立网站的案例。"
+    },
+    "summary": {
+      "en-US": "OpenClaw创意工具、Agent能力扩展",
+      "zh-CN": "高互动(140赞)展示OpenClaw在创意领域的应用，可从\"表/里世界\"框架回应——创意工具正从App退化为Agent可调用的能力。"
+    },
+    "relevance": "OpenClaw创意工具、Agent能力扩展",
+    "score": 0.82,
+    "engagement": {
+      "likes": 140,
+      "replies": 14,
+      "retweets": 10
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "The surface world of creative software is becoming infrastructure for the inner world. When agents can orchestrate Blender and web builders, the tool fades and intent takes over.",
+    "synced_at": "2026-02-18T10:02:51.023399+00:00",
+    "js_take": {
+      "en-US": "Creative software becoming infrastructure for the inner world. When agents orchestrate Blender and web builders, the tool fades and intent takes over. Surface world as database.",
+      "zh-CN": "Creative software becoming infrastructure for the inner world. When agents orchestrate Blender and web builders, the tool fades and intent takes over. Surface world as database."
     }
   },
   {
@@ -1263,6 +1350,56 @@
     "synced_at": "2026-02-18T06:04:01.285278+00:00"
   },
   {
+    "id": "2023947567063855327",
+    "date": "2026-02-18",
+    "author": "@elvissun",
+    "author_url": "https://x.com/elvissun",
+    "tweet_url": "https://x.com/elvissun/status/2023947567063855327",
+    "title": {
+      "en-US": "Building business with OpenClaw day 17-23: coding agent swarm",
+      "zh-CN": "Elvis分享用OpenClaw构建创业项目的第17-23天进展，包括编码agent swarm配置、搜索API集成等。"
+    },
+    "summary": {
+      "en-US": "OpenClaw创业、Agent Swarm、工具集成",
+      "zh-CN": "真实创业场景展示OpenClaw在业务构建中的应用，可从\"不造奇观，建系统\"回应——每个工具集成都是系统复利的一部分。"
+    },
+    "relevance": "OpenClaw创业、Agent Swarm、工具集成",
+    "score": 0.78,
+    "engagement": {
+      "likes": 64,
+      "replies": 9,
+      "retweets": 2
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "Day 17-23 of building in the inner world. When your agents can spawn other agents and orchestrate external APIs, you're not scripting—you're growing an organization.",
+    "synced_at": "2026-02-18T10:02:51.023401+00:00"
+  },
+  {
+    "id": "2023939532236693894",
+    "date": "2026-02-18",
+    "author": "@@AI_Skiller",
+    "author_url": "https://x.com/AI_Skiller",
+    "tweet_url": "https://x.com/AI_Skiller/status/2023939532236693894",
+    "title": {
+      "en-US": "OpenViking solves traditional RAG's three pain points",
+      "zh-CN": "分析OpenViking如何解决传统RAG的三大痛点：chunk孤立、向量相似≠语义相关、无记忆累积。"
+    },
+    "summary": {
+      "en-US": "Agent记忆系统、RAG技术演进、知识检索",
+      "zh-CN": "技术深度内容分析RAG演进，与OpenClaw的长期记忆能力形成对比，可从\"Jarvis定律\"回应——记忆是感知层，进化闭环才是核心。"
+    },
+    "relevance": "Agent记忆系统、RAG技术演进、知识检索",
+    "score": 0.77,
+    "engagement": {
+      "likes": 73,
+      "replies": 3,
+      "retweets": 14
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "RAG is evolving from retrieval to understanding. When your memory system learns from interactions—rather than just storing chunks—you're building persistence, not just search.",
+    "synced_at": "2026-02-18T10:02:51.023403+00:00"
+  },
+  {
     "id": "2023767490992722242",
     "date": "2026-02-18",
     "author": "@QingQ77",
@@ -1365,6 +1502,31 @@
     "comment_type": "ask_question",
     "suggested_angle": "10 machines is impressive. But the real question is: what's your orchestration layer? Hardware is just the surface. The inner world is the coordination protocol between agents.",
     "synced_at": "2026-02-18T06:04:01.285280+00:00"
+  },
+  {
+    "id": "2023968372526891022",
+    "date": "2026-02-18",
+    "author": "@zstmfhy",
+    "author_url": "https://x.com/zstmfhy",
+    "tweet_url": "https://x.com/zstmfhy/status/2023968372526891022",
+    "title": {
+      "en-US": "This is how everyone will use OpenClaw in the future, build your AI army early",
+      "zh-CN": "分享这正是每个人未来使用OpenClaw的方式，尽早搭建AI军团才能实现效率翻倍。"
+    },
+    "summary": {
+      "en-US": "OpenClaw效率、AI员工系统、Agent运营",
+      "zh-CN": "高互动(120赞)中文视角，展示AI员工系统化管理，可从\"Jarvis定律\"回应——感知+决策+执行的闭环正在个人层面实现。"
+    },
+    "relevance": "OpenClaw效率、AI员工系统、Agent运营",
+    "score": 0.76,
+    "engagement": {
+      "likes": 120,
+      "replies": 4,
+      "retweets": 30
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "The AI army isn't science fiction anymore. When you have 8 agents reporting to you before you wake, you're not automating—you're orchestrating a workforce.",
+    "synced_at": "2026-02-18T10:02:51.023405+00:00"
   },
   {
     "id": "2023717327834161281",
