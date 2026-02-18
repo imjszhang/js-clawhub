@@ -933,6 +933,35 @@
     }
   },
   {
+    "id": "2024069438505353725",
+    "date": "2026-02-18",
+    "author": "@gkxspace",
+    "author_url": "https://x.com/gkxspace",
+    "tweet_url": "https://x.com/gkxspace/status/2024069438505353725",
+    "title": {
+      "en-US": "Running 5 lobsters on one VPS with coordination via Gateway",
+      "zh-CN": "分享在一台低配VPS上运行5个OpenClaw Agent的架构，难点在于协调，使用Gateway统一接入渠道与路由。"
+    },
+    "summary": {
+      "en-US": "OpenClaw多Agent协调、系统架构、资源优化",
+      "zh-CN": "展示多Agent协调的实战经验，可从\"建系统\"角度回应——单个Agent是工具，协调系统才是基础设施。"
+    },
+    "relevance": "OpenClaw多Agent协调、系统架构、资源优化",
+    "score": 0.84,
+    "engagement": {
+      "likes": 57,
+      "replies": 10,
+      "retweets": 9
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "Five agents, one VPS, proper orchestration. This is the difference between running tools and running a workforce. The Gateway isn't just a router—it's the central nervous system.",
+    "synced_at": "2026-02-18T13:05:13.398526+00:00",
+    "js_take": {
+      "en-US": "Five agents, one VPS, proper orchestration. This is the difference between running tools and running a workforce. The Gateway isn't just a router—it's the central nervous system.",
+      "zh-CN": "Five agents, one VPS, proper orchestration. This is the difference between running tools and running a workforce. The Gateway isn't just a router—it's the central nervous system."
+    }
+  },
+  {
     "id": "2023954442333347960",
     "date": "2026-02-18",
     "author": "@IvyLeanIn",
@@ -1393,6 +1422,35 @@
     "comment_type": "add_insight",
     "suggested_angle": "Competition is the 势. More alternatives don't fragment the ecosystem—they validate that the inner world is expanding. The winners won't be the tools—they'll be the people who build systems on top of them.",
     "synced_at": "2026-02-18T09:02:28.758585+00:00"
+  },
+  {
+    "id": "2023943635453259813",
+    "date": "2026-02-18",
+    "author": "@servasyy_ai",
+    "author_url": "https://x.com/servasyy_ai",
+    "tweet_url": "https://x.com/servasyy_ai/status/2023943635453259813",
+    "title": {
+      "en-US": "OpenClaw money making/saving strategies: 1 person + N AI companies",
+      "zh-CN": "分析文章中隐含的多种OpenClaw赚钱/省钱方式，包括1人管理多家AI公司、内容工厂、市场研究+产品构建等模式。"
+    },
+    "summary": {
+      "en-US": "OpenClaw商业应用、Agent商业模式、变现策略",
+      "zh-CN": "商业视角分析OpenClaw的变现路径，体现跨领域连接思维（技术×商业），可从\"表/里世界\"框架回应。"
+    },
+    "relevance": "OpenClaw商业应用、Agent商业模式、变现策略",
+    "score": 0.8,
+    "engagement": {
+      "likes": 66,
+      "replies": 4,
+      "retweets": 14
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "The inner world generates value, the surface world captures it. When your agent army can research, build, and iterate 24/7, the bottleneck shifts from execution to strategy.",
+    "synced_at": "2026-02-18T13:05:13.398532+00:00",
+    "js_take": {
+      "en-US": "The inner world generates value, the surface world captures it. When your agent army can research and build 24/7, the bottleneck shifts from execution to strategy.",
+      "zh-CN": "The inner world generates value, the surface world captures it. When your agent army can research and build 24/7, the bottleneck shifts from execution to strategy."
+    }
   },
   {
     "id": "2023749758062559400",
@@ -1992,6 +2050,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "The update cycle accelerates. When your tooling evolves this fast, staying current isn't optional—it's the price of admission to the agentic layer.",
     "synced_at": "2026-02-18T11:02:37.540120+00:00"
+  },
+  {
+    "id": "2024071174653677604",
+    "date": "2026-02-18",
+    "author": "@chrishobcroft",
+    "author_url": "https://x.com/chrishobcroft",
+    "tweet_url": "https://x.com/chrishobcroft/status/2024071174653677604",
+    "title": {
+      "en-US": "Questioning if run openclaw locally messaging is deceptive, still relies on remote AI",
+      "zh-CN": "质疑\"本地运行OpenClaw\"的说法是否具有误导性，指出仍需依赖远程AI服务。"
+    },
+    "summary": {
+      "en-US": "OpenClaw架构、本地vs云端、技术澄清",
+      "zh-CN": "技术澄清类讨论，可从表/里世界框架回应——本地是执行层，云端是智能层，这是架构选择而非欺骗。"
+    },
+    "relevance": "OpenClaw架构、本地vs云端、技术澄清",
+    "score": 0.72,
+    "engagement": {
+      "likes": 0,
+      "replies": 1,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Local execution, remote intelligence. The distinction matters—your data and workflows stay local, but the reasoning engine can be anywhere. It's architecture, not deception.",
+    "synced_at": "2026-02-18T13:05:13.398535+00:00"
   },
   {
     "id": "2023439732328525890",
