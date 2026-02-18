@@ -10,7 +10,9 @@
  *   search <keyword> [--type pulse|project|skill|blog|guide]
  *   pulse  [--days N] [--min-score 0.8] [--author @xxx] [--limit N]
  *   pulse-edit <id> [--score N] [--js-take-en "..."] [--js-take-zh "..."] ...
- *   pulse-delete <id>
+ *   pulse-delete <id> [--reason "..."]
+ *   pulse-restore <id>
+ *   pulse-excluded
  *   build  [--skip-ga] [--skip-i18n] [--dry-run] [--no-clean]
  *   commit [--message "..."] [--all] [--scope <area>]
  *   sync   [--no-build] [--no-push] [--message "..."] [--dry-run]
@@ -25,7 +27,7 @@
  */
 
 import { readPulse, readProjects, readSkills, readBlog, readGuide, getStats } from './lib/data-reader.js';
-import { updatePulseItem, deletePulseItem } from './lib/data-writer.js';
+import { updatePulseItem, deletePulseItem, restoreItem, getExcludedIds } from './lib/data-writer.js';
 import { setupCloudflare, setupGithubPages } from './lib/setup.js';
 import { search } from './lib/search.js';
 import { build } from './lib/builder.js';
@@ -151,17 +153,52 @@ function cmdPulseEdit(positional, flags) {
     }
 }
 
-function cmdPulseDelete(positional) {
+function cmdPulseDelete(positional, flags) {
     const id = positional[0];
     if (!id) {
         toStderr('Error: pulse-delete requires an item ID.');
-        toStderr('Usage: clawhub pulse-delete <id>');
+        toStderr('Usage: clawhub pulse-delete <id> [--reason "..."]');
         process.exit(1);
     }
 
     try {
-        const removed = deletePulseItem(id);
+        const reason = flags.reason || '';
+        const removed = deletePulseItem(id, reason);
         toJson(removed);
+    } catch (err) {
+        toStderr(`Error: ${err.message}`);
+        process.exit(1);
+    }
+}
+
+function cmdPulseRestore(positional) {
+    const id = positional[0];
+    if (!id) {
+        toStderr('Error: pulse-restore requires an item ID.');
+        toStderr('Usage: clawhub pulse-restore <id>');
+        process.exit(1);
+    }
+
+    try {
+        const restored = restoreItem(id);
+        if (restored) {
+            toJson({ restored: true, id });
+        } else {
+            toJson({ restored: false, id, reason: 'Item not found in edited_items registry' });
+        }
+    } catch (err) {
+        toStderr(`Error: ${err.message}`);
+        process.exit(1);
+    }
+}
+
+function cmdPulseExcluded() {
+    try {
+        const excludedIds = getExcludedIds();
+        toJson({ 
+            count: excludedIds.length,
+            ids: excludedIds
+        });
     } catch (err) {
         toStderr(`Error: ${err.message}`);
         process.exit(1);
@@ -347,7 +384,12 @@ Commands:
     --relevance "t"    Update relevance description
     --suggested-angle "t"  Update suggested angle
 
-  pulse-delete <id>  Delete a Pulse item (auto-backs up before write)
+  pulse-delete <id>  Delete a Pulse item (registers in edited_items.json)
+    --reason "text"    Optional reason for deletion
+
+  pulse-restore <id> Restore a deleted/edited item (remove from edited_items.json)
+
+  pulse-excluded     List all IDs excluded from sync (deleted or edited)
 
   build              Build site: copy src/ to docs/, inject GA, validate i18n
     --skip-ga          Skip Google Analytics injection
@@ -431,7 +473,13 @@ async function main() {
             cmdPulseEdit(positional, flags);
             break;
         case 'pulse-delete':
-            cmdPulseDelete(positional);
+            cmdPulseDelete(positional, flags);
+            break;
+        case 'pulse-restore':
+            cmdPulseRestore(positional);
+            break;
+        case 'pulse-excluded':
+            cmdPulseExcluded();
             break;
         case 'setup-cloudflare':
             await cmdSetupCloudflare();

@@ -12,8 +12,9 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const DOCS = join(__dirname, '..', '..', 'src');
+const DOCS = join(__dirname, '..', '..', '..', '..', 'projects', 'js-clawhub', 'src');
 const PULSE_ITEMS = join(DOCS, 'pulse', 'data', 'items.json');
+const EDITED_ITEMS = join(DOCS, 'pulse', 'data', 'edited_items.json');
 const BACKUP_DIR = join(DOCS, 'pulse', 'data', '.backups');
 
 const MAX_BACKUPS = 20;
@@ -73,6 +74,83 @@ function writeJson(filepath, data) {
     writeFileSync(filepath, JSON.stringify(data, null, 2) + '\n', 'utf-8');
 }
 
+// ── Edited Items Registry ────────────────────────────────────────────
+
+/**
+ * Read the edited_items registry.
+ * @returns {Object} { items: {} }
+ */
+function readEditedItems() {
+    const data = readJson(EDITED_ITEMS);
+    return data || { items: {} };
+}
+
+/**
+ * Write the edited_items registry.
+ */
+function writeEditedItems(data) {
+    writeFileSync(EDITED_ITEMS, JSON.stringify(data, null, 2) + '\n', 'utf-8');
+}
+
+/**
+ * Register an item as deleted in the edited_items registry.
+ */
+function registerDeleted(id, item, reason = '') {
+    const registry = readEditedItems();
+    registry.items[id] = {
+        status: 'deleted',
+        deleted_at: new Date().toISOString(),
+        reason,
+        tweet_url: item.tweet_url,
+        author: item.author
+    };
+    writeEditedItems(registry);
+}
+
+/**
+ * Register an item as edited in the edited_items registry.
+ */
+function registerEdited(id, item, fields = []) {
+    const registry = readEditedItems();
+    const existing = registry.items[id];
+    
+    registry.items[id] = {
+        status: 'edited',
+        modified_at: new Date().toISOString(),
+        fields: existing?.status === 'edited' 
+            ? [...new Set([...existing.fields, ...fields])]
+            : fields,
+        tweet_url: item.tweet_url,
+        author: item.author
+    };
+    writeEditedItems(registry);
+}
+
+/**
+ * Get all IDs that should be excluded from sync.
+ * @returns {string[]}
+ */
+export function getExcludedIds() {
+    const registry = readEditedItems();
+    return Object.keys(registry.items).filter(id => {
+        const item = registry.items[id];
+        return item.status === 'deleted' || item.status === 'edited';
+    });
+}
+
+/**
+ * Restore an item (remove from edited_items registry).
+ */
+export function restoreItem(id) {
+    const registry = readEditedItems();
+    if (registry.items[id]) {
+        delete registry.items[id];
+        writeEditedItems(registry);
+        return true;
+    }
+    return false;
+}
+
 /**
  * Validate a patch object before applying it.
  * Throws on invalid values.
@@ -120,6 +198,7 @@ function mergeBilingual(existing, incoming) {
 
 /**
  * Update a single Pulse item by ID.
+ * After editing, mark the item as edited in edited_items.json.
  *
  * @param {string} id    - Tweet ID to locate
  * @param {Object} patch - Fields to update (validated before apply)
@@ -136,6 +215,9 @@ export function updatePulseItem(id, patch) {
 
     const item = items[idx];
 
+    // Track which fields are being modified
+    const modifiedFields = Object.keys(patch);
+
     // Apply patch with bilingual-aware merging
     for (const [key, val] of Object.entries(patch)) {
         if (BILINGUAL_FIELDS.includes(key)) {
@@ -146,16 +228,40 @@ export function updatePulseItem(id, patch) {
     }
 
     writeJson(PULSE_ITEMS, items);
+    
+    // Register as edited
+    registerEdited(id, item, modifiedFields);
+    
     return item;
 }
 
 /**
  * Delete a single Pulse item by ID.
+ * Instead of physical deletion, mark as deleted in edited_items.json.
  *
- * @param {string} id - Tweet ID to remove
- * @returns {Object} The deleted item
+ * @param {string} id - Tweet ID to mark as deleted
+ * @param {string} reason - Optional reason for deletion
+ * @returns {Object} The marked item
  */
-export function deletePulseItem(id) {
+export function deletePulseItem(id, reason = '') {
+    const items = readJson(PULSE_ITEMS);
+    if (!items) throw new Error('Could not read items.json');
+
+    const item = items.find(it => it.id === id);
+    if (!item) throw new Error(`Item not found: "${id}"`);
+
+    // Mark as deleted in registry (item stays in items.json for reference)
+    registerDeleted(id, item, reason);
+    
+    return { ...item, status: 'deleted', deleted_at: new Date().toISOString() };
+}
+
+/**
+ * Physically delete an item (for internal/sync use only).
+ * @param {string} id - Tweet ID to remove
+ * @returns {Object} The removed item
+ */
+export function physicallyDeletePulseItem(id) {
     const items = readJson(PULSE_ITEMS);
     if (!items) throw new Error('Could not read items.json');
 
