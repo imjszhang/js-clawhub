@@ -1,36 +1,5 @@
 [
   {
-    "id": "2023806825062449424",
-    "date": "2026-02-18",
-    "author": "@aidenybai",
-    "author_url": "https://x.com/aidenybai",
-    "tweet_url": "https://x.com/aidenybai/status/2023806825062449424",
-    "title": {
-      "en-US": "React Doctor - scan React codebase for anti-patterns. Run as CLI or agent skill. Open source.",
-      "zh-CN": "发布React Doctor工具，可以扫描React代码库中的反模式，可作为CLI或Agent技能运行，完全开源。"
-    },
-    "summary": {
-      "en-US": "OpenClaw技能生态、开发者工具",
-      "zh-CN": "高曝光技术推文，体现Agent技能向垂直开发工具延伸的趋势，可用Jarvis定律回应"
-    },
-    "relevance": "OpenClaw技能生态、开发者工具",
-    "score": 0.9,
-    "engagement": {
-      "likes": 1582,
-      "replies": 83,
-      "retweets": 111,
-      "views": 77258,
-      "bookmarks": 1838
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同并延伸：React Doctor是Jarvis定律的又一验证——感知(代码扫描)+决策(问题识别)+执行(修复建议)闭环越完整，工具越像Jarvis",
-    "synced_at": "2026-02-17T19:02:13.453842+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law in action.\n\nPerception (code scanning) + Decision (pattern recognition) + Execution (fix suggestions). The tighter the loop, the more Jarvis-like it becomes.\n\nAgent skills aren't add-ons. They're the new interface.",
-      "zh-CN": "Jarvis Law in action.\n\nPerception (code scanning) + Decision (pattern recognition) + Execution (fix suggestions). The tighter the loop, the more Jarvis-like it becomes.\n\nAgent skills aren't add-ons. They're the new interface."
-    }
-  },
-  {
     "id": "2023419626030510465",
     "date": "2026-02-18",
     "author": "@paraschopra",
@@ -59,6 +28,37 @@
     "js_take": {
       "en-US": "It's not about taking more shots. It's about building systems that compound.\n\nIn Civilization, beginners chase wonders. Masters build infrastructure that generates value while they sleep.\n\nOpenClaw went viral because it's a system, not a stunt.",
       "zh-CN": "It's not about taking more shots. It's about building systems that compound.\n\nIn Civilization, beginners chase wonders. Masters build infrastructure that generates value while they sleep.\n\nOpenClaw went viral because it's a system, not a stunt."
+    }
+  },
+  {
+    "id": "2023806825062449424",
+    "date": "2026-02-18",
+    "author": "@aidenybai",
+    "author_url": "https://x.com/aidenybai",
+    "tweet_url": "https://x.com/aidenybai/status/2023806825062449424",
+    "title": {
+      "en-US": "React Doctor - scan React codebase for anti-patterns. Run as CLI or agent skill. Open source.",
+      "zh-CN": "发布React Doctor工具，可以扫描React代码库中的反模式，可作为CLI或Agent技能运行，完全开源。"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能生态、开发者工具",
+      "zh-CN": "高曝光技术推文，体现Agent技能向垂直开发工具延伸的趋势，可用Jarvis定律回应"
+    },
+    "relevance": "OpenClaw技能生态、开发者工具",
+    "score": 0.9,
+    "engagement": {
+      "likes": 1582,
+      "replies": 83,
+      "retweets": 111,
+      "views": 77258,
+      "bookmarks": 1838
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "认同并延伸：React Doctor是Jarvis定律的又一验证——感知(代码扫描)+决策(问题识别)+执行(修复建议)闭环越完整，工具越像Jarvis",
+    "synced_at": "2026-02-17T19:02:13.453842+00:00",
+    "js_take": {
+      "en-US": "Jarvis Law in action.\n\nPerception (code scanning) + Decision (pattern recognition) + Execution (fix suggestions). The tighter the loop, the more Jarvis-like it becomes.\n\nAgent skills aren't add-ons. They're the new interface.",
+      "zh-CN": "Jarvis Law in action.\n\nPerception (code scanning) + Decision (pattern recognition) + Execution (fix suggestions). The tighter the loop, the more Jarvis-like it becomes.\n\nAgent skills aren't add-ons. They're the new interface."
     }
   },
   {

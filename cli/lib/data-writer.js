@@ -94,6 +94,7 @@ function writeEditedItems(data) {
 
 /**
  * Register an item as deleted in the edited_items registry.
+ * Stores full item data so it can be restored later.
  */
 function registerDeleted(id, item, reason = '') {
     const registry = readEditedItems();
@@ -102,7 +103,8 @@ function registerDeleted(id, item, reason = '') {
         deleted_at: new Date().toISOString(),
         reason,
         tweet_url: item.tweet_url,
-        author: item.author
+        author: item.author,
+        data: { ...item }  // Store full item data for restoration
     };
     writeEditedItems(registry);
 }
@@ -139,16 +141,33 @@ export function getExcludedIds() {
 }
 
 /**
- * Restore an item (remove from edited_items registry).
+ * Restore an item (remove from edited_items registry and add back to items.json).
  */
 export function restoreItem(id) {
     const registry = readEditedItems();
-    if (registry.items[id]) {
-        delete registry.items[id];
-        writeEditedItems(registry);
-        return true;
+    const entry = registry.items[id];
+    
+    if (!entry) return false;
+    
+    // If we have the full data (for deleted items), restore it to items.json
+    if (entry.data) {
+        const items = readJson(PULSE_ITEMS) || [];
+        items.push(entry.data);
+        
+        // Sort by date desc, score desc
+        items.sort((a, b) => {
+            const dateA = a.date || '';
+            const dateB = b.date || '';
+            if (dateA !== dateB) return dateB.localeCompare(dateA);
+            return (b.score || 0) - (a.score || 0);
+        });
+        
+        writeJson(PULSE_ITEMS, items);
     }
-    return false;
+    
+    delete registry.items[id];
+    writeEditedItems(registry);
+    return true;
 }
 
 /**
@@ -237,23 +256,28 @@ export function updatePulseItem(id, patch) {
 
 /**
  * Delete a single Pulse item by ID.
- * Instead of physical deletion, mark as deleted in edited_items.json.
+ * Physically removes from items.json AND marks as deleted in edited_items.json
+ * to prevent sync from restoring it.
  *
- * @param {string} id - Tweet ID to mark as deleted
+ * @param {string} id - Tweet ID to delete
  * @param {string} reason - Optional reason for deletion
- * @returns {Object} The marked item
+ * @returns {Object} The deleted item
  */
 export function deletePulseItem(id, reason = '') {
     const items = readJson(PULSE_ITEMS);
     if (!items) throw new Error('Could not read items.json');
 
-    const item = items.find(it => it.id === id);
-    if (!item) throw new Error(`Item not found: "${id}"`);
+    const idx = items.findIndex(it => it.id === id);
+    if (idx === -1) throw new Error(`Item not found: "${id}"`);
 
-    // Mark as deleted in registry (item stays in items.json for reference)
-    registerDeleted(id, item, reason);
+    // Physically remove from items.json
+    const [removed] = items.splice(idx, 1);
+    writeJson(PULSE_ITEMS, items);
+
+    // Mark as deleted in registry to prevent sync from restoring
+    registerDeleted(id, removed, reason);
     
-    return { ...item, status: 'deleted', deleted_at: new Date().toISOString() };
+    return { ...removed, status: 'deleted', deleted_at: new Date().toISOString() };
 }
 
 /**
