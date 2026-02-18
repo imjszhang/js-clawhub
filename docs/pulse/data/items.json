@@ -1262,6 +1262,35 @@
     }
   },
   {
+    "id": "2023959686647521776",
+    "date": "2026-02-18",
+    "author": "@naiivememe",
+    "author_url": "https://x.com/naiivememe",
+    "tweet_url": "https://x.com/naiivememe/status/2023959686647521776",
+    "title": {
+      "en-US": "Bought a Mac Mini, now what?",
+      "zh-CN": "用户买了Mac Mini后发问\"现在该做什么\"，暗示准备开始OpenClaw之旅。"
+    },
+    "summary": {
+      "en-US": "OpenClaw入门、硬件准备、社区互动",
+      "zh-CN": "超高互动(538赞+311回复)的入门话题，适合分享经验——从硬件到Agent军队的起点。"
+    },
+    "relevance": "OpenClaw入门、硬件准备、社区互动",
+    "score": 0.82,
+    "engagement": {
+      "likes": 538,
+      "replies": 311,
+      "retweets": 18
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "The Mac Mini is the gateway drug to the inner world. Install OpenClaw, give it a goal, and watch it build an army while you sleep. The hard part isn't starting—it's deciding what to automate first.",
+    "synced_at": "2026-02-18T14:03:57.132052+00:00",
+    "js_take": {
+      "en-US": "The Mac Mini is the gateway drug to the inner world. Install OpenClaw, give it a goal, and watch it build an army while you sleep. The hard part isn't starting—it's deciding what to automate first.",
+      "zh-CN": "The Mac Mini is the gateway drug to the inner world. Install OpenClaw, give it a goal, and watch it build an army while you sleep. The hard part isn't starting—it's deciding what to automate first."
+    }
+  },
+  {
     "id": "2023940063965728778",
     "date": "2026-02-18",
     "author": "@lijiuer92",
@@ -1686,6 +1715,31 @@
     "synced_at": "2026-02-18T11:02:37.540117+00:00"
   },
   {
+    "id": "2023953390712058319",
+    "date": "2026-02-18",
+    "author": "@ccjing_eth",
+    "author_url": "https://x.com/ccjing_eth",
+    "tweet_url": "https://x.com/ccjing_eth/status/2023953390712058319",
+    "title": {
+      "en-US": "Built OpenClaw token-saving skill, open sourced on Clawhub",
+      "zh-CN": "开发者创建了OpenClaw自动节省Token的skill并开源，上传到Clawhub官方商店。"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能开发、成本优化、开源贡献",
+      "zh-CN": "展示OpenClaw技能市场生态，可从\"建系统\"回应——成本优化技能是可持续运营的基础设施。"
+    },
+    "relevance": "OpenClaw技能开发、成本优化、开源贡献",
+    "score": 0.78,
+    "engagement": {
+      "likes": 45,
+      "replies": 6,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Token efficiency as infrastructure. When you optimize the cost layer, you're not just saving money—you're making the agentic layer economically viable for everyone.",
+    "synced_at": "2026-02-18T14:03:57.132059+00:00"
+  },
+  {
     "id": "2023939532236693894",
     "date": "2026-02-18",
     "author": "@@AI_Skiller",
@@ -1840,6 +1894,31 @@
     "synced_at": "2026-02-18T10:02:51.023405+00:00"
   },
   {
+    "id": "2024077466281648294",
+    "date": "2026-02-18",
+    "author": "@bozhou_ai",
+    "author_url": "https://x.com/bozhou_ai",
+    "tweet_url": "https://x.com/bozhou_ai/status/2024077466281648294",
+    "title": {
+      "en-US": "Don't know what to do with OpenClaw? Check this out",
+      "zh-CN": "泊舟分享OpenClaw用例汇总，针对不知道用OpenClaw来干嘛的用户。"
+    },
+    "summary": {
+      "en-US": "OpenClaw用例、入门指南、社区资源",
+      "zh-CN": "中文视角的OpenClaw用例汇总，适合分享跨领域连接思维——从工具到系统的跃迁。"
+    },
+    "relevance": "OpenClaw用例、入门指南、社区资源",
+    "score": 0.76,
+    "engagement": {
+      "likes": 97,
+      "replies": 14,
+      "retweets": 1
+    },
+    "comment_type": "recommend_resource",
+    "suggested_angle": "The gap between 'installed' and 'productive' is where most people get stuck. Use cases are the bridge—find one that hurts enough to automate, then build from there.",
+    "synced_at": "2026-02-18T14:03:57.132062+00:00"
+  },
+  {
     "id": "2023717327834161281",
     "date": "2026-02-18",
     "author": "@chuhaiqu",
@@ -1946,6 +2025,31 @@
     "synced_at": "2026-02-18T10:05:04.870898+00:00"
   },
   {
+    "id": "2024042210824515842",
+    "date": "2026-02-18",
+    "author": "@cryptonerdcn",
+    "author_url": "https://x.com/cryptonerdcn",
+    "tweet_url": "https://x.com/cryptonerdcn/status/2024042210824515842",
+    "title": {
+      "en-US": "OpenClaw variants: Nanobot, PicoClaw, ZeroClaw overview",
+      "zh-CN": "梳理OpenClaw的变种生态：Nanobot（Python轻量版）、PicoClaw（Go语言，更快更小）、ZeroClaw等。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、竞品分析、技术架构",
+      "zh-CN": "中文视角分析OpenClaw替代生态，可从\"势\"的角度回应——生态分化是基础设施成熟的标志。"
+    },
+    "relevance": "OpenClaw生态、竞品分析、技术架构",
+    "score": 0.75,
+    "engagement": {
+      "likes": 52,
+      "replies": 6,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "The ecosystem diversifies. When you have Nanobot for Pythonists, PicoClaw for performance, and OpenClaw for full power, you're watching the infrastructure layer mature. Competition validates the category.",
+    "synced_at": "2026-02-18T14:03:57.132064+00:00"
+  },
+  {
     "id": "2023769209881457038",
     "date": "2026-02-18",
     "author": "@VersunPan",
@@ -1971,6 +2075,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "从'连续自我'角度回应：记忆不是存储，是Agent的'道'——决定它能否形成稳定决策模式与进化路径",
     "synced_at": "2026-02-17T18:01:51.020800+00:00"
+  },
+  {
+    "id": "2024110291819127242",
+    "date": "2026-02-18",
+    "author": "@bridgemindai",
+    "author_url": "https://x.com/bridgemindai",
+    "tweet_url": "https://x.com/bridgemindai/status/2024110291819127242",
+    "title": {
+      "en-US": "3 Mac Minis, 3 agents, 24/7 autonomous work with souls",
+      "zh-CN": "分享3台Mac Mini运行3个Agent（Sam/Dario/Elon）24/7自主工作，每个都有灵魂、身份和完整计算机使用权。"
+    },
+    "summary": {
+      "en-US": "OpenClaw多Agent部署、角色分工、系统架构",
+      "zh-CN": "展示多Agent角色分工的实战经验，可从\"建系统\"回应——专业化的Agent军队比通用Agent更高效。"
+    },
+    "relevance": "OpenClaw多Agent部署、角色分工、系统架构",
+    "score": 0.73,
+    "engagement": {
+      "likes": 18,
+      "replies": 7,
+      "retweets": 0
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "Specialized agents > generalist agents. When you assign roles—marketing, engineering, general purpose—you're not just running software, you're managing a workforce with distinct expertise.",
+    "synced_at": "2026-02-18T14:03:57.132066+00:00"
   },
   {
     "id": "2023688519701692839",
