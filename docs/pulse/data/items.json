@@ -1117,6 +1117,35 @@
     }
   },
   {
+    "id": "2023954522046165022",
+    "date": "2026-02-18",
+    "author": "@yaohui12138",
+    "author_url": "https://x.com/yaohui12138",
+    "tweet_url": "https://x.com/yaohui12138/status/2023954522046165022",
+    "title": {
+      "en-US": "ByteDance open source breaks OpenClaw's core: long-term memory system",
+      "zh-CN": "分析字节开源项目对OpenClaw核心（长期记忆系统）的冲击，预测未来各类工具将有自己的记忆系统。"
+    },
+    "summary": {
+      "en-US": "Agent记忆系统、OpenClaw竞争分析、技术趋势",
+      "zh-CN": "中文视角深度分析OpenClaw核心能力被挑战，可从\"Jarvis定律\"回应——记忆只是感知层，完整闭环才是护城河。"
+    },
+    "relevance": "Agent记忆系统、OpenClaw竞争分析、技术趋势",
+    "score": 0.82,
+    "engagement": {
+      "likes": 48,
+      "replies": 3,
+      "retweets": 6
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Memory is the perception layer of Jarvis. But perception without persistence is blindness. The real moat isn't memory—it's the full loop: perceive → decide → execute → learn.",
+    "synced_at": "2026-02-18T11:02:37.540111+00:00",
+    "js_take": {
+      "en-US": "Memory is just the perception layer. The real moat isn't remembering—it's the full loop: perceive, decide, execute, learn. Everything else is just storage.",
+      "zh-CN": "Memory is just the perception layer. The real moat isn't remembering—it's the full loop: perceive, decide, execute, learn. Everything else is just storage."
+    }
+  },
+  {
     "id": "2023940063965728778",
     "date": "2026-02-18",
     "author": "@lijiuer92",
@@ -1487,6 +1516,31 @@
     "synced_at": "2026-02-18T10:05:04.870896+00:00"
   },
   {
+    "id": "2023989034151018890",
+    "date": "2026-02-18",
+    "author": "@a_katsumata",
+    "author_url": "https://x.com/a_katsumata",
+    "tweet_url": "https://x.com/a_katsumata/status/2023989034151018890",
+    "title": {
+      "en-US": "Giving away 10 Mac minis for students to use OpenClaw seriously",
+      "zh-CN": "日本推主购买10台Mac mini免费送给想认真使用OpenClaw的学生，并考虑补贴API费用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw社区建设、硬件支持、教育推广",
+      "zh-CN": "超高互动(777赞)展示OpenClaw社区支持行动，可从\"人群分化\"洞察回应——让更多人进入里世界，缩小认知差距。"
+    },
+    "relevance": "OpenClaw社区建设、硬件支持、教育推广",
+    "score": 0.78,
+    "engagement": {
+      "likes": 777,
+      "replies": 35,
+      "retweets": 110
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "Lowering barriers to entry. When you remove the hardware friction, more people can migrate to the inner world. This is how you accelerate the shift—one Mac mini at a time.",
+    "synced_at": "2026-02-18T11:02:37.540117+00:00"
+  },
+  {
     "id": "2023939532236693894",
     "date": "2026-02-18",
     "author": "@@AI_Skiller",
@@ -1826,6 +1880,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "认同多模型趋势并延伸：单模型是工具，多模型是系统；Cline和OpenClaw都在走向'无为而治'——让合适的模型做合适的事",
     "synced_at": "2026-02-17T20:01:45.607565+00:00"
+  },
+  {
+    "id": "2024054265967190201",
+    "date": "2026-02-18",
+    "author": "@ClawiAi",
+    "author_url": "https://x.com/ClawiAi",
+    "tweet_url": "https://x.com/ClawiAi/status/2024054265967190201",
+    "title": {
+      "en-US": "OpenClaw 2026.2.17 now on Clawi, restart your agents",
+      "zh-CN": "Clawi宣布OpenClaw 2026.2.17版本已上线，提醒用户重启agents。"
+    },
+    "summary": {
+      "en-US": "OpenClaw更新、工具集成",
+      "zh-CN": "展示OpenClaw生态的快速迭代，可从\"Jarvis定律\"回应——快速跟进是生存之道。"
+    },
+    "relevance": "OpenClaw更新、工具集成",
+    "score": 0.72,
+    "engagement": {
+      "likes": 27,
+      "replies": 5,
+      "retweets": 1
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "The update cycle accelerates. When your tooling evolves this fast, staying current isn't optional—it's the price of admission to the agentic layer.",
+    "synced_at": "2026-02-18T11:02:37.540120+00:00"
   },
   {
     "id": "2023439732328525890",
