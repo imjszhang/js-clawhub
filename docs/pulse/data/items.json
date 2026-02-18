@@ -1316,6 +1316,35 @@
     "synced_at": "2026-02-18T09:02:28.758580+00:00"
   },
   {
+    "id": "2024116863412609185",
+    "date": "2026-02-18",
+    "author": "@bc1beat",
+    "author_url": "https://x.com/bc1beat",
+    "tweet_url": "https://x.com/bc1beat/status/2024116863412609185",
+    "title": {
+      "en-US": "ClawRouter v0.9.29 update with 2.8K stars, MiniMax M2.5 added",
+      "zh-CN": "ClawRouter发布v0.9.29更新，获得2.8K Star，新增MiniMax M2.5模型支持（204K上下文，推理能力）。"
+    },
+    "summary": {
+      "en-US": "OpenClaw路由工具、模型接入、开源生态",
+      "zh-CN": "ClawRouter是OpenClaw生态关键基础设施，快速迭代展示社区活力，可从\"建系统\"角度回应。"
+    },
+    "relevance": "OpenClaw路由工具、模型接入、开源生态",
+    "score": 0.81,
+    "engagement": {
+      "likes": 10,
+      "replies": 3,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "17 releases in 3 days. When infrastructure moves this fast, you're not watching feature creep—you're watching the foundation settle. The model diversity matters more than any single model.",
+    "synced_at": "2026-02-18T15:01:42.253985+00:00",
+    "js_take": {
+      "en-US": "17 releases in 3 days. When infrastructure moves this fast, you're not watching feature creep—you're watching the foundation settle. The model diversity matters more than any single model.",
+      "zh-CN": "17 releases in 3 days. When infrastructure moves this fast, you're not watching feature creep—you're watching the foundation settle. The model diversity matters more than any single model."
+    }
+  },
+  {
     "id": "2023763112034173181",
     "date": "2026-02-18",
     "author": "@RoundtableSpace",
@@ -1740,6 +1769,31 @@
     "synced_at": "2026-02-18T14:03:57.132059+00:00"
   },
   {
+    "id": "2024104566321786936",
+    "date": "2026-02-18",
+    "author": "@zstmfhy",
+    "author_url": "https://x.com/zstmfhy",
+    "tweet_url": "https://x.com/zstmfhy/status/2024104566321786936",
+    "title": {
+      "en-US": "Decided on multi-gateway architecture for AI army after reading article",
+      "zh-CN": "AI奶爸在看了文章后决定搭建多gateway架构，准备组建自己的AI军团。"
+    },
+    "summary": {
+      "en-US": "OpenClaw架构、多Agent部署、Gateway设计",
+      "zh-CN": "展示从犹豫到决断的实践者心态，可从\"顺势而为\"回应——架构选择是势的积累到一定阶段的必然。"
+    },
+    "relevance": "OpenClaw架构、多Agent部署、Gateway设计",
+    "score": 0.78,
+    "engagement": {
+      "likes": 37,
+      "replies": 0,
+      "retweets": 5
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "The single vs multiple gateway question isn't about technology—it's about scale. One agent, one gateway. An army? You need orchestration. Welcome to the inner world.",
+    "synced_at": "2026-02-18T15:01:42.253991+00:00"
+  },
+  {
     "id": "2023939532236693894",
     "date": "2026-02-18",
     "author": "@@AI_Skiller",
@@ -2048,6 +2102,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "The ecosystem diversifies. When you have Nanobot for Pythonists, PicoClaw for performance, and OpenClaw for full power, you're watching the infrastructure layer mature. Competition validates the category.",
     "synced_at": "2026-02-18T14:03:57.132064+00:00"
+  },
+  {
+    "id": "2024113846093582528",
+    "date": "2026-02-18",
+    "author": "@Voxyz_ai",
+    "author_url": "https://x.com/Voxyz_ai",
+    "tweet_url": "https://x.com/Voxyz_ai/status/2024113846093582528",
+    "title": {
+      "en-US": "Visual slide decks for 4-part agent series: closed-loop, 6 agents, RPG framework, $8/mo server",
+      "zh-CN": "Vox将4篇Agent系列文章做成可视化幻灯片：闭环系统、从零构建6个Agent、RPG人格框架、$8/月服务器运行一切。"
+    },
+    "summary": {
+      "en-US": "OpenClaw多Agent部署、人格框架、成本优化",
+      "zh-CN": "系统化分享Agent构建方法论，$8/月跑6个Agent展示成本效率，可从\"不造奇观，建系统\"回应。"
+    },
+    "relevance": "OpenClaw多Agent部署、人格框架、成本优化",
+    "score": 0.75,
+    "engagement": {
+      "likes": 16,
+      "replies": 0,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Six agents, eight dollars, one cohesive system. When you can run an autonomous workforce for less than a streaming subscription, the economics of the inner world start making real sense.",
+    "synced_at": "2026-02-18T15:01:42.253994+00:00"
   },
   {
     "id": "2023769209881457038",
