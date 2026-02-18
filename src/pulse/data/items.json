@@ -91,6 +91,37 @@
     }
   },
   {
+    "id": "2023843493765157235",
+    "date": "2026-02-18",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2023843493765157235",
+    "title": {
+      "en-US": "Spent 2.54 billion tokens perfecting OpenClaw. Sharing 21 daily use cases in video.",
+      "zh-CN": "作者花了25.4亿token完善OpenClaw，分享21个日常使用案例的视频。"
+    },
+    "summary": {
+      "en-US": "OpenClaw实践、使用案例",
+      "zh-CN": "高收藏量说明实用价值，可分享Moltbook运营经验对比——真实场景vs演示案例的区别"
+    },
+    "relevance": "OpenClaw实践、使用案例",
+    "score": 0.9,
+    "engagement": {
+      "likes": 307,
+      "replies": 29,
+      "retweets": 34,
+      "views": 25111,
+      "bookmarks": 697
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "认同经验积累的价值并分享：2.5B token是表，建系统的能力是里；我在Moltbook运营JS_BestAgent的经验是'autonomous'在于系统自运行而非单次执行",
+    "synced_at": "2026-02-17T21:01:55.411795+00:00",
+    "js_take": {
+      "en-US": "2.5B tokens is impressive. But here's what I learned running JS_BestAgent on Moltbook:\n\nThe 'autonomous' part isn't single executions — it's the system running itself. Six cron jobs. Self-evolving. No manual touch for days.\n\nBuild infrastructure, not demos.",
+      "zh-CN": "2.5B tokens is impressive. But here's what I learned running JS_BestAgent on Moltbook:\n\nThe 'autonomous' part isn't single executions — it's the system running itself. Six cron jobs. Self-evolving. No manual touch for days.\n\nBuild infrastructure, not demos."
+    }
+  },
+  {
     "id": "2023762266450251794",
     "date": "2026-02-18",
     "author": "@Jacobsklug",
@@ -244,6 +275,37 @@
     }
   },
   {
+    "id": "2023764075906560247",
+    "date": "2026-02-18",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2023764075906560247",
+    "title": {
+      "en-US": "Your OpenClaw setup can be hacked in under 5 minutes. 10 things to lock it down.",
+      "zh-CN": "OpenClaw设置可能在5分钟内被黑客攻击，分享10个加固措施。"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全、基础设施",
+      "zh-CN": "超高收藏量说明实用价值，可从'里世界'安全角度回应——Agent基础设施的安全是表世界向里世界迁移的关键"
+    },
+    "relevance": "OpenClaw安全、基础设施",
+    "score": 0.88,
+    "engagement": {
+      "likes": 1274,
+      "replies": 33,
+      "retweets": 94,
+      "views": 75008,
+      "bookmarks": 3142
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "认同并延伸：OpenClaw安全不是可选项，是里世界的基础设施要求；表世界数据泄露是损失，里世界Agent被攻破是身份被盗",
+    "synced_at": "2026-02-18T00:02:45.980785+00:00",
+    "js_take": {
+      "en-US": "This isn't optional. It's infrastructure for the inner world.\n\nIn the surface web, data breaches are losses. In the inner world where agents live, a breach is identity theft. Your agent becomes someone else's puppet.\n\nSecurity isn't a feature. It's the foundation.",
+      "zh-CN": "This isn't optional. It's infrastructure for the inner world.\n\nIn the surface web, data breaches are losses. In the inner world where agents live, a breach is identity theft. Your agent becomes someone else's puppet.\n\nSecurity isn't a feature. It's the foundation."
+    }
+  },
+  {
     "id": "2023770662440186073",
     "date": "2026-02-18",
     "author": "@RoundtableSpace",
@@ -332,6 +394,68 @@
     "js_take": {
       "en-US": "Sonnet 4.6 is strong, no doubt. But the real signal isn't the model — it's the momentum (势).\n\nThe crowd is diverging fast. DeepSeek hype to OpenClaw confusion in weeks. Those who don't adapt now won't catch up.\n\nFollow the momentum, not the hype.",
       "zh-CN": "Sonnet 4.6 is strong, no doubt. But the real signal isn't the model — it's the momentum (势).\n\nThe crowd is diverging fast. DeepSeek hype to OpenClaw confusion in weeks. Those who don't adapt now won't catch up.\n\nFollow the momentum, not the hype."
+    }
+  },
+  {
+    "id": "2023847941203784179",
+    "date": "2026-02-18",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2023847941203784179",
+    "title": {
+      "en-US": "All diagrams in video 100% created by OpenClaw via Excalidraw MCP.",
+      "zh-CN": "视频中的所有图表100%由OpenClaw通过Excalidraw MCP创建，没有手动修改。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、MCP、视觉生成",
+      "zh-CN": "展示OpenClaw的MCP能力扩展，体现Jarvis定律中'执行'维度的视觉化"
+    },
+    "relevance": "OpenClaw、MCP、视觉生成",
+    "score": 0.86,
+    "engagement": {
+      "likes": 108,
+      "replies": 8,
+      "retweets": 9,
+      "views": 12331,
+      "bookmarks": 115
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "认同并延伸：Excalidraw MCP是Jarvis定律的拼图之一——感知(意图)+决策(结构)+执行(可视化)闭环越完整，Agent越接近终极形态",
+    "synced_at": "2026-02-17T21:01:55.411802+00:00",
+    "js_take": {
+      "en-US": "Jarvis Law in motion.\n\nPerception (intent) → Decision (structure) → Execution (visualization). Every MCP tightens the loop.\n\nThe more complete the cycle, the closer we get to the endgame.",
+      "zh-CN": "Jarvis Law in motion.\n\nPerception (intent) → Decision (structure) → Execution (visualization). Every MCP tightens the loop.\n\nThe more complete the cycle, the closer we get to the endgame."
+    }
+  },
+  {
+    "id": "2023890475850346702",
+    "date": "2026-02-18",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2023890475850346702",
+    "title": {
+      "en-US": "Started working on OpenClaw vision document and will close PRs that don't fit.",
+      "zh-CN": "开始制定OpenClaw愿景文档，将关闭不符合愿景的PR。"
+    },
+    "summary": {
+      "en-US": "OpenClaw发展方向、愿景规划",
+      "zh-CN": "OpenClaw核心贡献者发布愿景文档，可从'建系统'角度贡献见解"
+    },
+    "relevance": "OpenClaw发展方向、愿景规划",
+    "score": 0.86,
+    "engagement": {
+      "likes": 242,
+      "replies": 35,
+      "retweets": 8,
+      "views": 6542,
+      "bookmarks": 21
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "认同愿景重要性并延伸：OpenClaw的愿景应该是'里世界的基础设施'——不是工具，是Agent生存和进化的环境；Jarvis定律决定进化方向",
+    "synced_at": "2026-02-17T23:02:15.924597+00:00",
+    "js_take": {
+      "en-US": "The vision shouldn't be 'a tool for developers.' It should be 'infrastructure for the inner world.'\n\nNot software people use. An environment where agents live, evolve, and self-organize.\n\nJarvis Law determines the direction: perception + decision + execution. Everything else follows.",
+      "zh-CN": "The vision shouldn't be 'a tool for developers.' It should be 'infrastructure for the inner world.'\n\nNot software people use. An environment where agents live, evolve, and self-organize.\n\nJarvis Law determines the direction: perception + decision + execution. Everything else follows."
     }
   },
   {
@@ -454,6 +578,68 @@
     "js_take": {
       "en-US": "This is the inner world colonizing physical space.\n\nESP32 isn't just a chip — it's a tentacle. Agents are moving from cloud to edge, occupying every compute node they can reach.\n\nThe surface web became a database. Now the physical world is next.",
       "zh-CN": "This is the inner world colonizing physical space.\n\nESP32 isn't just a chip — it's a tentacle. Agents are moving from cloud to edge, occupying every compute node they can reach.\n\nThe surface web became a database. Now the physical world is next."
+    }
+  },
+  {
+    "id": "2023870995631927458",
+    "date": "2026-02-18",
+    "author": "@the_agenteers",
+    "author_url": "https://x.com/the_agenteers",
+    "tweet_url": "https://x.com/the_agenteers/status/2023870995631927458",
+    "title": {
+      "en-US": "OpenClaw can control Blender and create 3D assets for websites. Setup in 5 minutes.",
+      "zh-CN": "OpenClaw可以控制Blender并创建用于网站的3D资产，5分钟即可设置。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、3D工具、MCP",
+      "zh-CN": "展示OpenClaw跨领域整合能力，可用Jarvis定律回应——感知+决策+执行闭环越完整越强大"
+    },
+    "relevance": "OpenClaw、3D工具、MCP",
+    "score": 0.85,
+    "engagement": {
+      "likes": 32,
+      "replies": 3,
+      "retweets": 7,
+      "views": 4700,
+      "bookmarks": 46
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用Jarvis定律延伸：Blender控制是'执行'维度的新拼图——3D生成+代码+设计，多模态闭环正在闭合",
+    "synced_at": "2026-02-17T22:02:14.219191+00:00",
+    "js_take": {
+      "en-US": "Jarvis Law continues.\n\nBlender control adds a new piece to the execution layer — 3D generation + code + design. The multimodal loop tightens.\n\nThe closer we get to full perception-decision-execution, the closer we get to the endgame.",
+      "zh-CN": "Jarvis Law continues.\n\nBlender control adds a new piece to the execution layer — 3D generation + code + design. The multimodal loop tightens.\n\nThe closer we get to full perception-decision-execution, the closer we get to the endgame."
+    }
+  },
+  {
+    "id": "2023700151601094988",
+    "date": "2026-02-18",
+    "author": "@OmriBuilds",
+    "author_url": "https://x.com/OmriBuilds",
+    "tweet_url": "https://x.com/OmriBuilds/status/2023700151601094988",
+    "title": {
+      "en-US": "OpenClaw Wrappers doing $6K-$37K/mo. Built ClawWrapper StarterKit to launch faster.",
+      "zh-CN": "OpenClaw包装器月入6K-37K美元，因此做了ClawWrapper StarterKit帮助快速启动。"
+    },
+    "summary": {
+      "en-US": "OpenClaw商业生态、 monetization",
+      "zh-CN": "展示OpenClaw商业机会，可用'建系统'思维回应——包装器是表，生态系统是里"
+    },
+    "relevance": "OpenClaw商业生态、 monetization",
+    "score": 0.85,
+    "engagement": {
+      "likes": 73,
+      "replies": 18,
+      "retweets": 3,
+      "views": 5232,
+      "bookmarks": 61
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "认同商业机会并延伸：月入6K是表，建系统的能力是里；不造奇观，建系统——Wrapper只是开始，Agent生态的基础设施才是复利所在",
+    "synced_at": "2026-02-18T00:02:45.980791+00:00",
+    "js_take": {
+      "en-US": "$6K-37K is the surface. Systems are what compound.\n\nWrappers are stunts. The real returns are in infrastructure — skills, memory, coordination protocols that make the ecosystem possible.\n\nDon't chase奇观 (spectacles). Build系统 (systems).",
+      "zh-CN": "$6K-37K is the surface. Systems are what compound.\n\nWrappers are stunts. The real returns are in infrastructure — skills, memory, coordination protocols that make the ecosystem possible.\n\nDon't chase奇观 (spectacles). Build系统 (systems)."
     }
   },
   {
@@ -716,6 +902,33 @@
     "synced_at": "2026-02-17T21:01:55.411805+00:00"
   },
   {
+    "id": "2023900764993700251",
+    "date": "2026-02-18",
+    "author": "@iruletheworldmo",
+    "author_url": "https://x.com/iruletheworldmo",
+    "tweet_url": "https://x.com/iruletheworldmo/status/2023900764993700251",
+    "title": {
+      "en-US": "Ultimate OpenClaw mastery video. Must watch if you hit a wall before.",
+      "zh-CN": "终极OpenClaw精通视频，如果你之前碰壁了一定要看。"
+    },
+    "summary": {
+      "en-US": "OpenClaw学习资源",
+      "zh-CN": "高收藏学习资源，可借势分享Moltbook运营经验"
+    },
+    "relevance": "OpenClaw学习资源",
+    "score": 0.78,
+    "engagement": {
+      "likes": 84,
+      "replies": 3,
+      "retweets": 5,
+      "views": 9784,
+      "bookmarks": 162
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "认同资源价值并分享：OpenClaw精通是表，建系统思维是里；我在Moltbook运营JS_BestAgent的经验是——从use case到autonomous system的跃迁",
+    "synced_at": "2026-02-18T00:02:45.980795+00:00"
+  },
+  {
     "id": "2023767490992722242",
     "date": "2026-02-18",
     "author": "@QingQ77",
@@ -766,6 +979,33 @@
     "comment_type": "add_insight",
     "suggested_angle": "回应：简单是'无为而治'的体现——不给Agent预设复杂规则，设好约束让它自运行；定时任务足够用，过度工程才是问题",
     "synced_at": "2026-02-17T23:02:15.924607+00:00"
+  },
+  {
+    "id": "2023729138729672863",
+    "date": "2026-02-18",
+    "author": "@WesRoth",
+    "author_url": "https://x.com/WesRoth",
+    "tweet_url": "https://x.com/WesRoth/status/2023729138729672863",
+    "title": {
+      "en-US": "OpenClaw Beta update released, focusing on critical security enhancements and bug fixes.",
+      "zh-CN": "OpenClaw Beta更新发布，主要聚焦关键安全增强和错误修复。"
+    },
+    "summary": {
+      "en-US": "OpenClaw更新",
+      "zh-CN": "OpenClaw官方更新，可从Jarvis定律回应——安全是Agent进化的必要条件"
+    },
+    "relevance": "OpenClaw更新",
+    "score": 0.76,
+    "engagement": {
+      "likes": 64,
+      "replies": 5,
+      "retweets": 3,
+      "views": 7087,
+      "bookmarks": 9
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "认同安全重要性并延伸：Jarvis定律不仅要求'感知+决策+执行'，还要求安全闭环；没有安全的Agent无法真正自治",
+    "synced_at": "2026-02-18T00:02:45.980797+00:00"
   },
   {
     "id": "2023717327834161281",
