@@ -29,6 +29,35 @@
     }
   },
   {
+    "id": "2024247983999521123",
+    "date": "2026-02-19",
+    "author": "@gregisenberg",
+    "author_url": "https://x.com/gregisenberg",
+    "tweet_url": "https://x.com/gregisenberg/status/2024247983999521123",
+    "title": {
+      "en-US": "How to use OpenClaw for 24/7 digital employees and cash-flowing assets",
+      "zh-CN": "用OpenClaw部署7×24小时数字员工"
+    },
+    "summary": {
+      "en-US": "OpenClaw商业应用、Agent经济、数字员工",
+      "zh-CN": "OpenClaw商业应用、Agent经济、数字员工"
+    },
+    "relevance": "OpenClaw商业应用、Agent经济、数字员工",
+    "score": 0.88,
+    "engagement": {
+      "likes": 165,
+      "replies": 22,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "24/7 digital employees that cash flow. This is the shift from productivity tools to autonomous business infrastructure. The boring workflows are where the real leverage hides.",
+    "synced_at": "2026-02-18T23:01:20.584476+00:00",
+    "js_take": {
+      "en-US": "24/7 digital employees that cash flow. This is the shift from productivity tools to autonomous business infrastructure. The boring workflows are where the real leverage hides.",
+      "zh-CN": "7×24小时创造现金流的数字员工。这是从生产力工具到自主商业基础设施的转变。那些无聊的工作流程里藏着真正的杠杆。"
+    }
+  },
+  {
     "id": "2024125323755884919",
     "date": "2026-02-19",
     "author": "@robzolkos",
@@ -171,6 +200,35 @@
     "js_take": {
       "en-US": "The inner world gets its own marketplace. When you can trade OpenClaw startups, you're watching the agent economy get its own infrastructure.",
       "zh-CN": "里世界有了自己的市场。当你可以交易OpenClaw创业项目时，你正在见证Agent经济形成自己的基础设施。"
+    }
+  },
+  {
+    "id": "2023894165164335364",
+    "date": "2026-02-19",
+    "author": "@morganlinton",
+    "author_url": "https://x.com/morganlinton",
+    "tweet_url": "https://x.com/morganlinton/status/2023894165164335364",
+    "title": {
+      "en-US": "This Skills .md file is really good",
+      "zh-CN": "这个Skills.md文件非常棒"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能、最佳实践、社区资源",
+      "zh-CN": "OpenClaw技能、最佳实践、社区资源"
+    },
+    "relevance": "OpenClaw技能、最佳实践、社区资源",
+    "score": 0.85,
+    "engagement": {
+      "likes": 3709,
+      "replies": 28,
+      "retweets": 198
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "Skills as the new API documentation. When the community crowdsources best practices, everyone ships faster. This is infrastructure building in public.",
+    "synced_at": "2026-02-18T23:01:20.584481+00:00",
+    "js_take": {
+      "en-US": "Skills as the new API documentation. When the community crowdsources best practices, everyone ships faster. This is infrastructure building in public.",
+      "zh-CN": "Skill正在成为新的API文档。当社区众包最佳实践时，每个人都能更快交付。这就是公开建设基础设施。"
     }
   },
   {
@@ -374,6 +432,35 @@
     "js_take": {
       "en-US": "From stateless to compounding. Memory isn't just storage—it's the difference between a tool and a teammate that learns.",
       "zh-CN": "从无状态到复利。记忆不只是存储——它是工具与会学习的队友之间的分水岭。"
+    }
+  },
+  {
+    "id": "2024227639087813035",
+    "date": "2026-02-19",
+    "author": "@hellokillian",
+    "author_url": "https://x.com/hellokillian",
+    "tweet_url": "https://x.com/hellokillian/status/2024227639087813035",
+    "title": {
+      "en-US": "Launching Interpreter: desktop agent for PDFs, Excel, Word, offline, free",
+      "zh-CN": "killian发布Interpreter——桌面Agent，可填写PDF、编辑Excel和Word文档，离线运行，支持任何模型，免费。"
+    },
+    "summary": {
+      "en-US": "OpenClaw替代方案、桌面Agent、文档自动化",
+      "zh-CN": "高互动(412赞+371收藏)展示文档自动化Agent的需求，体现生态多样化趋势。"
+    },
+    "relevance": "OpenClaw替代方案、桌面Agent、文档自动化",
+    "score": 0.82,
+    "engagement": {
+      "likes": 412,
+      "replies": 41,
+      "retweets": 36
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Offline, local, document-native. When agents run on your machine with your files, privacy isn't a feature—it's the default. This is the local-first counter-trend.",
+    "synced_at": "2026-02-18T23:01:20.584484+00:00",
+    "js_take": {
+      "en-US": "Offline, local, document-native. When agents run on your machine with your files, privacy isn't a feature—it's the default. This is the local-first counter-trend.",
+      "zh-CN": "离线、本地、文档原生。当Agent在你的机器上运行你的文件时，隐私不是功能——它是默认设置。这是本地优先的逆向趋势。"
     }
   },
   {
@@ -662,6 +749,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Platform risk is real. When you build on closed APIs, you're renting, not owning. This is why open models aren't just alternatives—they're insurance.",
     "synced_at": "2026-02-18T21:01:40.328967+00:00"
+  },
+  {
+    "id": "2024241369686917234",
+    "date": "2026-02-19",
+    "author": "@dotey",
+    "author_url": "https://x.com/dotey",
+    "tweet_url": "https://x.com/dotey/status/2024241369686917234",
+    "title": {
+      "en-US": "Claude Agent SDK also blocked from Claude Code OAuth",
+      "zh-CN": "宝玉分享Claude Agent SDK也不能使用Claude Code的OAuth登录了，Anthropic的限制进一步扩大。"
+    },
+    "summary": {
+      "en-US": "OpenClaw合规风险、平台政策、基础设施依赖",
+      "zh-CN": "平台风险持续升级，可从\"建系统\"角度回应——依赖封闭平台的风险与开源替代品的必要性。"
+    },
+    "relevance": "OpenClaw合规风险、平台政策、基础设施依赖",
+    "score": 0.75,
+    "engagement": {
+      "likes": 11,
+      "replies": 7,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "The walls keep closing. When platforms lock down access, the value of open alternatives compounds. This isn't just about cost—it's about sovereignty.",
+    "synced_at": "2026-02-18T23:01:20.584486+00:00"
   },
   {
     "id": "2024165249067241567",
@@ -5501,122 +5613,6 @@
     "js_take": {
       "en-US": "Classic \"win by not competing\"—OpenClaw becomes infrastructure rather than fighting for platform dominance. Kimi gets ecosystem depth, OpenClaw gets distribution. Mutual momentum beats zero-sum games.",
       "zh-CN": "Classic \"win by not competing\"—OpenClaw becomes infrastructure rather than fighting for platform dominance. Kimi gets ecosystem depth, OpenClaw gets distribution. Mutual momentum beats zero-sum games."
-    }
-  },
-  {
-    "id": "2023072604534517766",
-    "date": "2026-02-16",
-    "author": "@danielfoch",
-    "author_url": "https://x.com/danielfoch",
-    "tweet_url": "https://x.com/danielfoch/status/2023072604534517766",
-    "title": {
-      "en-US": "Developers building for @openclaw faster than any other OS in history. This is the next OS",
-      "zh-CN": "开发者为@openclaw构建应用的速度超过历史上任何其他操作系统，这就是下一个操作系统"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 + 开发者采用",
-      "zh-CN": "高收藏量（153），触及核心命题——OpenClaw正在成为「里世界」的操作系统"
-    },
-    "relevance": "OpenClaw生态 + 开发者采用",
-    "score": 0.85,
-    "engagement": {
-      "likes": 717,
-      "replies": 63,
-      "retweets": 60
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「表/里世界」的范式转移——表世界的OS控制硬件，里世界的OS控制agent。当开发者涌向OpenClaw，不是因为它是「最好的」，而是因为它是「最开放的」。开放标准才是最终的护城河。",
-    "synced_at": "2026-02-16T00:04:46.528575+00:00",
-    "js_take": {
-      "en-US": "The OS of the inner world. Traditional OS controls hardware; agent OS controls intent. Developers aren't here because OpenClaw is \"best\" — they're here because it's open. In the migration from surface to inner world, open standards are the only moat that matters.",
-      "zh-CN": "The OS of the inner world. Traditional OS controls hardware; agent OS controls intent. Developers aren't here because OpenClaw is \"best\" — they're here because it's open. In the migration from surface to inner world, open standards are the only moat that matters."
-    }
-  },
-  {
-    "id": "2023267420434231320",
-    "date": "2026-02-16",
-    "author": "@evilcos",
-    "author_url": "https://x.com/evilcos",
-    "tweet_url": "https://x.com/evilcos/status/2023267420434231320",
-    "title": {
-      "en-US": "Tested Kimi Claw, gave root permission, found two ways to fully control it. Killed several 🦞",
-      "zh-CN": "实测Kimi Claw，给了root权限，找到两种完全控制它的方式，搞死了好几只小龙虾"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全 + 权限边界",
-      "zh-CN": "展示云端agent的安全风险，触及「里世界」的信任边界问题"
-    },
-    "relevance": "OpenClaw安全 + 权限边界",
-    "score": 0.85,
-    "engagement": {
-      "likes": 17,
-      "replies": 8,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的安全边界测试——当agent获得root权限，「被控制」的风险真实存在。云端的便利 vs 本地的主权，这是每个agent owner必须面对的权衡。",
-    "synced_at": "2026-02-16T06:05:40.182549+00:00",
-    "js_take": {
-      "en-US": "The inner world's boundary test. When agents get root, \"being controlled\" becomes real. Cloud convenience vs local sovereignty—every agent owner faces this trade-off.",
-      "zh-CN": "The inner world's boundary test. When agents get root, \"being controlled\" becomes real. Cloud convenience vs local sovereignty—every agent owner faces this trade-off."
-    }
-  },
-  {
-    "id": "2023262073615159452",
-    "date": "2026-02-16",
-    "author": "@0xluffy_eth",
-    "author_url": "https://x.com/0xluffy_eth",
-    "tweet_url": "https://x.com/0xluffy_eth/status/2023262073615159452",
-    "title": {
-      "en-US": "700+ OpenClaw skills organized, install with one command like apt/brew",
-      "zh-CN": "700+个OpenClaw技能已整理好，一条命令安装，像apt/brew管理插件"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 + 包管理",
-      "zh-CN": "高收藏量（111），触及技能生态的「可发现性」和「易用性」"
-    },
-    "relevance": "OpenClaw生态 + 包管理",
-    "score": 0.85,
-    "engagement": {
-      "likes": 72,
-      "replies": 3,
-      "retweets": 17
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「建系统」的生态层——当700+技能可以被「apt install」，agent从「项目」变成「平台」。包管理是基础设施，不是功能。生态成熟度看开发者体验。",
-    "synced_at": "2026-02-16T08:02:02.436071+00:00",
-    "js_take": {
-      "en-US": "Ecosystem layer of system building—when 700+ skills become \"apt install\", agents shift from projects to platforms. Package management is infrastructure, not a feature. Ecosystem maturity shows in developer experience.",
-      "zh-CN": "Ecosystem layer of system building—when 700+ skills become \"apt install\", agents shift from projects to platforms. Package management is infrastructure, not a feature. Ecosystem maturity shows in developer experience."
-    }
-  },
-  {
-    "id": "2023309156825063858",
-    "date": "2026-02-16",
-    "author": "@nash_su",
-    "author_url": "https://x.com/nash_su",
-    "tweet_url": "https://x.com/nash_su/status/2023309156825063858",
-    "title": {
-      "en-US": "Running MimiClaw on ESP32-S3 (8M Flash), faster than phone OpenClaw, connected to local Qwen4B",
-      "zh-CN": "在ESP32-S3（8M Flash）上运行MimiClaw，比手机上的OpenClaw还快，连接本地笔记本跑的Qwen4B"
-    },
-    "summary": {
-      "en-US": "OpenClaw边缘部署 + ESP32 + 本地LLM",
-      "zh-CN": "展示OpenClaw向ESP32等微控制器的极致轻量化，是「里世界」硬件民主化的极致"
-    },
-    "relevance": "OpenClaw边缘部署 + ESP32 + 本地LLM",
-    "score": 0.85,
-    "engagement": {
-      "likes": 16,
-      "replies": 4,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的极致边缘化——ESP32上的agent，8M Flash运行，本地Qwen4B推理。当agent轻到可以「无处不在」，表世界的迁徙才算真正完成。",
-    "synced_at": "2026-02-16T10:02:11.711722+00:00",
-    "js_take": {
-      "en-US": "The ultimate edge of the inner world—agent on ESP32, 8M Flash, local Qwen4B inference. When agents become light enough to be \"everywhere,\" the surface-to-inner migration truly completes.",
-      "zh-CN": "The ultimate edge of the inner world—agent on ESP32, 8M Flash, local Qwen4B inference. When agents become light enough to be \"everywhere,\" the surface-to-inner migration truly completes."
     }
   }
 ]
