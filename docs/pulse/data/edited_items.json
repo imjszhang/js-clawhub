@@ -1,3 +1,25 @@
 {
-  "items": {}
+  "items": {
+    "2023843493765157235": {
+      "status": "deleted",
+      "deleted_at": "2026-02-17T23:31:58.000Z",
+      "reason": "Restored from backup - MatthewBerman OpenClaw tokens video",
+      "tweet_url": "https://x.com/MatthewBerman/status/2023843493765157235",
+      "author": "@MatthewBerman"
+    },
+    "2023847941203784179": {
+      "status": "deleted",
+      "deleted_at": "2026-02-17T23:31:58.000Z",
+      "reason": "Restored from backup - MatthewBerman Excalidraw MCP",
+      "tweet_url": "https://x.com/MatthewBerman/status/2023847941203784179",
+      "author": "@MatthewBerman"
+    },
+    "2023890475850346702": {
+      "status": "deleted",
+      "deleted_at": "2026-02-17T23:31:58.000Z",
+      "reason": "Restored from backup - steipete OpenClaw vision",
+      "tweet_url": "https://x.com/steipete/status/2023890475850346702",
+      "author": "@steipete"
+    }
+  }
 }
