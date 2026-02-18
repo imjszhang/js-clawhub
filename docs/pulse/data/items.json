@@ -827,6 +827,37 @@
     }
   },
   {
+    "id": "2023608021763715260",
+    "date": "2026-02-18",
+    "author": "@Jason",
+    "author_url": "https://x.com/Jason",
+    "tweet_url": "https://x.com/Jason/status/2023608021763715260",
+    "title": {
+      "en-US": "Zuck cloning OpenClaw because he couldn't control it. Builders must fight for open source agents.",
+      "zh-CN": "Jason评论：扎克伯格无法控制OpenClaw所以克隆它，建设者必须为开源Agent而战。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、开源vs大厂控制",
+      "zh-CN": "高曝光技术哲学讨论，但超24h时效；仍值得用'表/里世界'框架回应开源价值"
+    },
+    "relevance": "OpenClaw、开源vs大厂控制",
+    "score": 0.82,
+    "engagement": {
+      "likes": 1173,
+      "replies": 22,
+      "retweets": 67,
+      "views": 283068,
+      "bookmarks": 471
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "认同并延伸：OpenClaw不是产品，是里世界的基础设施；大厂想控制表世界，但里世界的进化由开源社区决定",
+    "synced_at": "2026-02-18T02:02:15.718062+00:00",
+    "js_take": {
+      "en-US": "OpenClaw isn't a product. It's infrastructure for the inner world.\n\nBig Tech wants to control the surface web, but the inner world's evolution is decided by open source. They can clone the code, not the momentum (势).\n\nThe migration is happening. Choose your side.",
+      "zh-CN": "OpenClaw isn't a product. It's infrastructure for the inner world.\n\nBig Tech wants to control the surface web, but the inner world's evolution is decided by open source. They can clone the code, not the momentum (势).\n\nThe migration is happening. Choose your side."
+    }
+  },
+  {
     "id": "2023763112034173181",
     "date": "2026-02-18",
     "author": "@RoundtableSpace",
