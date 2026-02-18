@@ -1,5 +1,63 @@
 [
   {
+    "id": "2023938290567835943",
+    "date": "2026-02-18",
+    "author": "@rileybrown",
+    "author_url": "https://x.com/rileybrown",
+    "tweet_url": "https://x.com/rileybrown/status/2023938290567835943",
+    "title": {
+      "en-US": "OpenClaw accessing Blender, Cinema 4D, After Effects, Figma",
+      "zh-CN": "展示OpenClaw接入Blender、C4D、AE、Figma等创意工具后的强大能力。"
+    },
+    "summary": {
+      "en-US": "OpenClaw创意工具集成、Agent能力边界扩展",
+      "zh-CN": "超高互动(634赞)展示OpenClaw在创意生产管道的实际应用，完美体现\"表/里世界\"框架——创意工具正从App退化为Agent可调用的能力。"
+    },
+    "relevance": "OpenClaw创意工具集成、Agent能力边界扩展",
+    "score": 0.94,
+    "engagement": {
+      "likes": 634,
+      "replies": 34,
+      "retweets": 52
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "The surface world of creative software is becoming infrastructure for the inner world. When agents can orchestrate Blender, Cinema 4D, and Figma in a single workflow, the tool fades and intent takes over. This is the migration from GUI to agent-native computing.",
+    "synced_at": "2026-02-18T09:02:28.758569+00:00",
+    "js_take": {
+      "en-US": "This is the shift from GUI-native to agent-native. Creative tools becoming APIs that agents orchestrate. The interface fades when intent becomes the interface.",
+      "zh-CN": "This is the shift from GUI-native to agent-native. Creative tools becoming APIs that agents orchestrate. The interface fades when intent becomes the interface."
+    }
+  },
+  {
+    "id": "2023960543959101938",
+    "date": "2026-02-18",
+    "author": "@levelsio",
+    "author_url": "https://x.com/levelsio",
+    "tweet_url": "https://x.com/levelsio/status/2023960543959101938",
+    "title": {
+      "en-US": "Chat with sites via Telegram using OpenClaw, scared to run on production",
+      "zh-CN": "Levelsio分享通过Telegram直接与网站对话构建功能，承认一直害怕在生产服务器上运行OpenClaw。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生产部署、安全风险、Agent应用",
+      "zh-CN": "超高互动(929赞)来自知名独立开发者，展示OpenClaw生产环境的真实顾虑，可从\"不造奇观，建系统\"回应——安全是系统的一部分，不是障碍。"
+    },
+    "relevance": "OpenClaw生产部署、安全风险、Agent应用",
+    "score": 0.93,
+    "engagement": {
+      "likes": 929,
+      "replies": 119,
+      "retweets": 40
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Production fear is rational. When agents have write access to real systems, the blast radius is real. But that's not a reason to avoid adoption—it's a reason to build guardrails. Safety is part of the system, not a blocker.",
+    "synced_at": "2026-02-18T09:02:28.758575+00:00",
+    "js_take": {
+      "en-US": "Rational fear. When agents have write access, blast radius is real. But the answer isn't avoidance—it's building guardrails. Safety is system design, not a blocker.",
+      "zh-CN": "Rational fear. When agents have write access, blast radius is real. But the answer isn't avoidance—it's building guardrails. Safety is system design, not a blocker."
+    }
+  },
+  {
     "id": "2023760934259376164",
     "date": "2026-02-18",
     "author": "@bridgemindai",
@@ -856,6 +914,60 @@
     }
   },
   {
+    "id": "2023966085955965180",
+    "date": "2026-02-18",
+    "author": "@rileybrown",
+    "author_url": "https://x.com/rileybrown",
+    "tweet_url": "https://x.com/rileybrown/status/2023966085955965180",
+    "title": {
+      "en-US": "Built iOS app to talk to my OpenClaw in 30 minutes with VibeCode",
+      "zh-CN": "用VibeCode在30分钟内开发了一个iOS应用来与自己的OpenClaw对话。"
+    },
+    "summary": {
+      "en-US": "OpenClaw移动接入、VibeCoding、Agent交互界面",
+      "zh-CN": "展示Agent交互层的快速构建，可从表/里世界迁移角度——手机App正在成为访问里世界Agent的portal。"
+    },
+    "relevance": "OpenClaw移动接入、VibeCoding、Agent交互界面",
+    "score": 0.82,
+    "engagement": {
+      "likes": 185,
+      "replies": 26,
+      "retweets": 8
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Mobile apps becoming portals to the inner world. The surface (iOS UI) is just a window; the substance (agent logic) lives elsewhere. This is the architecture of the agentic future.",
+    "synced_at": "2026-02-18T09:02:28.758578+00:00",
+    "js_take": {
+      "en-US": "Mobile apps becoming portals to the agent layer. The iOS UI is just glass—the intelligence lives elsewhere. This is how we interface with the inner world.",
+      "zh-CN": "Mobile apps becoming portals to the agent layer. The iOS UI is just glass—the intelligence lives elsewhere. This is how we interface with the inner world."
+    }
+  },
+  {
+    "id": "2023940063965728778",
+    "date": "2026-02-18",
+    "author": "@lijiuer92",
+    "author_url": "https://x.com/lijiuer92",
+    "tweet_url": "https://x.com/lijiuer92/status/2023940063965728778",
+    "title": {
+      "en-US": "Migrated OpenViding to OpenClaw, epro-memory package",
+      "zh-CN": "李韭二将OpenViding迁移到OpenClaw，开发了记忆插件@moltbot/epro-memory，一行命令即可安装。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、记忆系统、开发者贡献",
+      "zh-CN": "中文开发者实际贡献案例，体现生态建设，可从\"建系统\"核心洞察回应——单个工具是奇观，可组合的基础设施才是系统。"
+    },
+    "relevance": "OpenClaw生态、记忆系统、开发者贡献",
+    "score": 0.81,
+    "engagement": {
+      "likes": 44,
+      "replies": 8,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Migration is the new integration. When tools move freely between platforms, the platform becomes infrastructure. This is how systems compound—one migration at a time.",
+    "synced_at": "2026-02-18T09:02:28.758580+00:00"
+  },
+  {
     "id": "2023763112034173181",
     "date": "2026-02-18",
     "author": "@RoundtableSpace",
@@ -941,6 +1053,56 @@
       "en-US": "Three is a proof of concept. Three hundred is where the system wakes up. True wu wei isn't doing nothing—it's building infrastructure that runs while you sleep.",
       "zh-CN": "Three is a proof of concept. Three hundred is where the system wakes up. True wu wei isn't doing nothing—it's building infrastructure that runs while you sleep."
     }
+  },
+  {
+    "id": "2023952294006477002",
+    "date": "2026-02-18",
+    "author": "@boqdan_",
+    "author_url": "https://x.com/boqdan_",
+    "tweet_url": "https://x.com/boqdan_/status/2023952294006477002",
+    "title": {
+      "en-US": "Building Solum, an Elixir-based OpenClaw killer with tiered memory",
+      "zh-CN": "开发者分享正在构建的OpenClaw竞品Solum，采用分层内存系统架构。"
+    },
+    "summary": {
+      "en-US": "OpenClaw竞品分析、Agent内存系统、技术架构",
+      "zh-CN": "技术深度内容，展示OpenClaw替代品的架构思考，可从\"建系统\"核心洞察回应——竞争验证生态扩张，基础设施层正在分化。"
+    },
+    "relevance": "OpenClaw竞品分析、Agent内存系统、技术架构",
+    "score": 0.8,
+    "engagement": {
+      "likes": 94,
+      "replies": 14,
+      "retweets": 6
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Competition validates the category. When alternatives emerge with different architectural bets—like tiered memory—you're watching the infrastructure layer diversify. The future isn't one platform; it's interoperable systems.",
+    "synced_at": "2026-02-18T09:02:28.758582+00:00"
+  },
+  {
+    "id": "2023937308932899135",
+    "date": "2026-02-18",
+    "author": "@dingyi",
+    "author_url": "https://x.com/dingyi",
+    "tweet_url": "https://x.com/dingyi/status/2023937308932899135",
+    "title": {
+      "en-US": "spacebot by spacedrive team, self-host free OpenClaw alternative",
+      "zh-CN": "Dingyi推荐spacebot作为OpenClaw替代品，可自托管、完全免费，并预测今年会出现更多优质替代品。"
+    },
+    "summary": {
+      "en-US": "OpenClaw竞品分析、Agent框架生态",
+      "zh-CN": "中文视角分析OpenClaw替代品趋势，可从\"势\"的角度回应——竞争是好事，说明里世界生态在扩张。"
+    },
+    "relevance": "OpenClaw竞品分析、Agent框架生态",
+    "score": 0.8,
+    "engagement": {
+      "likes": 140,
+      "replies": 8,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Competition is the 势. More alternatives don't fragment the ecosystem—they validate that the inner world is expanding. The winners won't be the tools—they'll be the people who build systems on top of them.",
+    "synced_at": "2026-02-18T09:02:28.758585+00:00"
   },
   {
     "id": "2023749758062559400",
