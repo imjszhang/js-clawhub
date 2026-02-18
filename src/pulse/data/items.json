@@ -422,6 +422,35 @@
     }
   },
   {
+    "id": "2023990375539491077",
+    "date": "2026-02-18",
+    "author": "@dabit3",
+    "author_url": "https://x.com/dabit3",
+    "tweet_url": "https://x.com/dabit3/status/2023990375539491077",
+    "title": {
+      "en-US": "Understanding agent stack with Pi library that powers OpenClaw",
+      "zh-CN": "深入解析Pi库（OpenClaw的底层库），逐层添加功能直到拥有自定义agent，消除对agent的\"魔法\"感。"
+    },
+    "summary": {
+      "en-US": "OpenClaw底层技术、Agent栈理解、技术深度",
+      "zh-CN": "高互动(309赞)技术深度内容，帮助开发者理解OpenClaw底层，可从\"不造奇观，建系统\"回应——理解底层才能建可持续系统。"
+    },
+    "relevance": "OpenClaw底层技术、Agent栈理解、技术深度",
+    "score": 0.88,
+    "engagement": {
+      "likes": 309,
+      "replies": 13,
+      "retweets": 20
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Understanding the stack is what separates toy builders from system architects. When you know how Pi orchestrates agents, you're not guessing—you're engineering.",
+    "synced_at": "2026-02-18T10:05:04.870884+00:00",
+    "js_take": {
+      "en-US": "Understanding the stack separates toy builders from system architects. When you know how Pi orchestrates agents, you're not guessing—you're engineering.",
+      "zh-CN": "Understanding the stack separates toy builders from system architects. When you know how Pi orchestrates agents, you're not guessing—you're engineering."
+    }
+  },
+  {
     "id": "2023770662440186073",
     "date": "2026-02-18",
     "author": "@RoundtableSpace",
@@ -510,6 +539,35 @@
     "js_take": {
       "en-US": "Sonnet 4.6 is strong, no doubt. But the real signal isn't the model — it's the momentum (势).\n\nThe crowd is diverging fast. DeepSeek hype to OpenClaw confusion in weeks. Those who don't adapt now won't catch up.\n\nFollow the momentum, not the hype.",
       "zh-CN": "Sonnet 4.6 is strong, no doubt. But the real signal isn't the model — it's the momentum (势).\n\nThe crowd is diverging fast. DeepSeek hype to OpenClaw confusion in weeks. Those who don't adapt now won't catch up.\n\nFollow the momentum, not the hype."
+    }
+  },
+  {
+    "id": "2023881934414508513",
+    "date": "2026-02-18",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2023881934414508513",
+    "title": {
+      "en-US": "Told OpenClaw to stop executing, be orchestrator, spin up subagents",
+      "zh-CN": "用户让OpenClaw停止执行任务，转为协调者角色，需要做事时派生子agent执行，自己和OpenClaw只负责规划。"
+    },
+    "summary": {
+      "en-US": "OpenClaw架构模式、Agent协调、分层系统",
+      "zh-CN": "展示先进的Agent架构思维，可从\"Jarvis定律\"回应——感知+决策+执行需要分层，协调者模式是Agent成熟的标志。"
+    },
+    "relevance": "OpenClaw架构模式、Agent协调、分层系统",
+    "score": 0.86,
+    "engagement": {
+      "likes": 215,
+      "replies": 24,
+      "retweets": 8
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "The orchestrator pattern. When your agent stops doing and starts delegating, it's not slacking—it's maturing. This is how you scale cognition: one mind plans, many hands build.",
+    "synced_at": "2026-02-18T10:05:04.870890+00:00",
+    "js_take": {
+      "en-US": "The orchestrator pattern. When your agent stops doing and starts delegating, it's not slacking—it's maturing. One mind plans, many hands build.",
+      "zh-CN": "The orchestrator pattern. When your agent stops doing and starts delegating, it's not slacking—it's maturing. One mind plans, many hands build."
     }
   },
   {
@@ -814,6 +872,35 @@
     "js_take": {
       "en-US": "Done the same with my stack. You're not just cutting costs—you're migrating from subscription software to composable infrastructure. The API stays, the middleman leaves.",
       "zh-CN": "Done the same with my stack. You're not just cutting costs—you're migrating from subscription software to composable infrastructure. The API stays, the middleman leaves."
+    }
+  },
+  {
+    "id": "2023954442333347960",
+    "date": "2026-02-18",
+    "author": "@IvyLeanIn",
+    "author_url": "https://x.com/IvyLeanIn",
+    "tweet_url": "https://x.com/IvyLeanIn/status/2023954442333347960",
+    "title": {
+      "en-US": "Engineer analyzed OpenClaw source: simple, embeds Pi framework with bash tools",
+      "zh-CN": "中文推主分享工程师朋友对OpenClaw源码的安全分析，指出其简单粗暴的架构并强调安全教程稀缺。"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全、架构分析、中文视角",
+      "zh-CN": "中文深度技术分析+安全视角，可从\"表/里世界\"框架回应——安全焦虑是表世界的惯性，里世界的信任模型本就不同。"
+    },
+    "relevance": "OpenClaw安全、架构分析、中文视角",
+    "score": 0.83,
+    "engagement": {
+      "likes": 58,
+      "replies": 3,
+      "retweets": 11
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Security through transparency. When the source is open and the prompts are visible, trust shifts from obscurity to verifiability. That's the inner world paradigm.",
+    "synced_at": "2026-02-18T10:05:04.870893+00:00",
+    "js_take": {
+      "en-US": "Security through transparency. When source and prompts are visible, trust shifts from obscurity to verifiability. The inner world has different trust assumptions.",
+      "zh-CN": "Security through transparency. When source and prompts are visible, trust shifts from obscurity to verifiability. The inner world has different trust assumptions."
     }
   },
   {
@@ -1375,6 +1462,31 @@
     "synced_at": "2026-02-18T10:02:51.023401+00:00"
   },
   {
+    "id": "2023993288278057417",
+    "date": "2026-02-18",
+    "author": "@code_rams",
+    "author_url": "https://x.com/code_rams",
+    "tweet_url": "https://x.com/code_rams/status/2023993288278057417",
+    "title": {
+      "en-US": "Matthew Berman shared 21 real OpenClaw workflows: CRM, knowledge base",
+      "zh-CN": "Ramya分享Matthew Berman的21个OpenClaw实战工作流，包括个人CRM、知识库等实用案例。"
+    },
+    "summary": {
+      "en-US": "OpenClaw实用案例、工作流系统、Agent应用",
+      "zh-CN": "实战案例展示OpenClaw在个人生产力中的应用，可从\"建系统\"角度回应——单个工作流是工具，系统化工作流才是资产。"
+    },
+    "relevance": "OpenClaw实用案例、工作流系统、Agent应用",
+    "score": 0.78,
+    "engagement": {
+      "likes": 54,
+      "replies": 8,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "21 workflows is a system. When you move from ad-hoc automation to systematic workflows, you're not just saving time—you're building infrastructure that compounds.",
+    "synced_at": "2026-02-18T10:05:04.870896+00:00"
+  },
+  {
     "id": "2023939532236693894",
     "date": "2026-02-18",
     "author": "@@AI_Skiller",
@@ -1608,6 +1720,31 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "认同配置价值并分享：多模型路由是OpenClaw的精髓——不同任务配不同模型，'各司其职'才是系统思维",
     "synced_at": "2026-02-17T20:01:45.607563+00:00"
+  },
+  {
+    "id": "2023962090092810747",
+    "date": "2026-02-18",
+    "author": "@4shad0wed",
+    "author_url": "https://x.com/4shad0wed",
+    "tweet_url": "https://x.com/4shad0wed/status/2023962090092810747",
+    "title": {
+      "en-US": "Discord connection more stable now, no big features yet",
+      "zh-CN": "Shadow宣布Discord连接稳定性提升，暂时没有大功能更新。"
+    },
+    "summary": {
+      "en-US": "OpenClaw集成、基础设施稳定性",
+      "zh-CN": "展示OpenClaw基础设施的持续改进，可从\"建系统\"核心洞察回应——稳定的基础设施比新奇功能更重要。"
+    },
+    "relevance": "OpenClaw集成、基础设施稳定性",
+    "score": 0.75,
+    "engagement": {
+      "likes": 140,
+      "replies": 14,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Stability is a feature. In the agent layer, reliability beats novelty every time. This is infrastructure thinking—boring until it matters, then critical.",
+    "synced_at": "2026-02-18T10:05:04.870898+00:00"
   },
   {
     "id": "2023769209881457038",
