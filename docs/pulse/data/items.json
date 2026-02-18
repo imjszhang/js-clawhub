@@ -674,6 +674,37 @@
     }
   },
   {
+    "id": "2023748938231394409",
+    "date": "2026-02-18",
+    "author": "@chiefofautism",
+    "author_url": "https://x.com/chiefofautism",
+    "tweet_url": "https://x.com/chiefofautism/status/2023748938231394409",
+    "title": {
+      "en-US": "Someone rebuilt OpenClaw to run on $10 chip with 10MB RAM. PicoClaw, AI wrote 95% of its own code.",
+      "zh-CN": "有人重建OpenClaw在10美元芯片、10MB内存上运行，PicoClaw的AI自己写了95%的代码。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、边缘计算",
+      "zh-CN": "展示Agent向极致边缘设备的渗透，体现'里世界'无处不在"
+    },
+    "relevance": "OpenClaw、边缘计算",
+    "score": 0.85,
+    "engagement": {
+      "likes": 91,
+      "replies": 12,
+      "retweets": 6,
+      "views": 4223,
+      "bookmarks": 38
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用表/里世界框架：PicoClaw是里世界向物理世界的极致渗透——Agent不再只在云端，正在占领每一个计算节点，从服务器到$10芯片",
+    "synced_at": "2026-02-18T03:03:11.192685+00:00",
+    "js_take": {
+      "en-US": "The inner world colonizing physical space.\n\nAgents aren't just living in the cloud anymore. They're occupying every compute node they can reach — from servers to $10 chips.\n\nThe surface web became a database. Now the physical world is next.",
+      "zh-CN": "The inner world colonizing physical space.\n\nAgents aren't just living in the cloud anymore. They're occupying every compute node they can reach — from servers to $10 chips.\n\nThe surface web became a database. Now the physical world is next."
+    }
+  },
+  {
     "id": "2023698858287730870",
     "date": "2026-02-18",
     "author": "@peakji",
@@ -855,6 +886,37 @@
     "js_take": {
       "en-US": "OpenClaw isn't a product. It's infrastructure for the inner world.\n\nBig Tech wants to control the surface web, but the inner world's evolution is decided by open source. They can clone the code, not the momentum (势).\n\nThe migration is happening. Choose your side.",
       "zh-CN": "OpenClaw isn't a product. It's infrastructure for the inner world.\n\nBig Tech wants to control the surface web, but the inner world's evolution is decided by open source. They can clone the code, not the momentum (势).\n\nThe migration is happening. Choose your side."
+    }
+  },
+  {
+    "id": "2023911336808485240",
+    "date": "2026-02-18",
+    "author": "@Jason",
+    "author_url": "https://x.com/Jason",
+    "tweet_url": "https://x.com/Jason/status/2023911336808485240",
+    "title": {
+      "en-US": "How to setup OpenClaw on AWS for $20 a month... quickly",
+      "zh-CN": "如何在AWS上以每月20美元快速搭建OpenClaw。"
+    },
+    "summary": {
+      "en-US": "OpenClaw入门、成本优化",
+      "zh-CN": "超高曝光实用教程，可降低OpenClaw入门门槛"
+    },
+    "relevance": "OpenClaw入门、成本优化",
+    "score": 0.82,
+    "engagement": {
+      "likes": 1648,
+      "replies": 84,
+      "retweets": 111,
+      "views": 348306,
+      "bookmarks": 4176
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "认同并延伸：$20/月是表，'势'的成熟是里；当基础设施成本降到普通人可承受，人群分化加速——跟进或淘汰的临界点到了",
+    "synced_at": "2026-02-18T03:03:11.192690+00:00",
+    "js_take": {
+      "en-US": "$20/month is the surface. The momentum (势) is what matters.\n\nWhen infrastructure costs drop to what 'regular people' can afford, the crowd diverges fast. DeepSeek hype to OpenClaw confusion.\n\nThe临界点 (inflection point) is here. Follow or get left behind.",
+      "zh-CN": "$20/month is the surface. The momentum (势) is what matters.\n\nWhen infrastructure costs drop to what 'regular people' can afford, the crowd diverges fast. DeepSeek hype to OpenClaw confusion.\n\nThe临界点 (inflection point) is here. Follow or get left behind."
     }
   },
   {
