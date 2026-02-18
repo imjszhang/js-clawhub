@@ -178,6 +178,35 @@
     }
   },
   {
+    "id": "2023834567984214502",
+    "date": "2026-02-18",
+    "author": "@AlicanKiraz0",
+    "author_url": "https://x.com/AlicanKiraz0",
+    "tweet_url": "https://x.com/AlicanKiraz0/status/2023834567984214502",
+    "title": {
+      "en-US": "Local Jarvis with Raspberry Pi 5 + Whisper + Minimax + OpenClaw",
+      "zh-CN": "展示用树莓派5 + Whisper + Minimax + OpenClaw搭建本地Jarvis的项目。"
+    },
+    "summary": {
+      "en-US": "OpenClaw硬件集成、Jarvis构建、边缘计算",
+      "zh-CN": "超高互动(689赞)展示OpenClaw在边缘设备上的应用，完美契合\"Jarvis定律\"——感知+决策+执行的完整闭环。"
+    },
+    "relevance": "OpenClaw硬件集成、Jarvis构建、边缘计算",
+    "score": 0.9,
+    "engagement": {
+      "likes": 689,
+      "replies": 52,
+      "retweets": 24
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Jarvis on a Pi. When you can run the full stack locally—perception, reasoning, execution—you're not just using AI, you're hosting intelligence. This is the infrastructure of the inner world.",
+    "synced_at": "2026-02-18T12:02:36.187052+00:00",
+    "js_take": {
+      "en-US": "Jarvis on a Pi. When you can run the full stack locally—perception, reasoning, execution—you're not just using AI, you're hosting intelligence. This is the infrastructure of the inner world.",
+      "zh-CN": "Jarvis on a Pi. When you can run the full stack locally—perception, reasoning, execution—you're not just using AI, you're hosting intelligence. This is the infrastructure of the inner world."
+    }
+  },
+  {
     "id": "2023762266450251794",
     "date": "2026-02-18",
     "author": "@Jacobsklug",
@@ -786,6 +815,35 @@
     }
   },
   {
+    "id": "2024000901233492476",
+    "date": "2026-02-18",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2024000901233492476",
+    "title": {
+      "en-US": "OpenClaw is the gift that keeps giving, workflows connect",
+      "zh-CN": "Matthew Berman称OpenClaw是\"持续给予的礼物\"，真正力量在于工作流之间的连接。"
+    },
+    "summary": {
+      "en-US": "OpenClaw使用体验、工作流连接、Agent网络效应",
+      "zh-CN": "来自OpenClaw重度用户的真实体验，可从\"建系统\"核心洞察回应——单个工作流是工具，连接的工作流才是系统。"
+    },
+    "relevance": "OpenClaw使用体验、工作流连接、Agent网络效应",
+    "score": 0.85,
+    "engagement": {
+      "likes": 77,
+      "replies": 11,
+      "retweets": 3
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "The network effect of workflows. When your agents start talking to each other, the whole becomes greater than the sum. This isn't just automation—it's emergence.",
+    "synced_at": "2026-02-18T12:02:36.187058+00:00",
+    "js_take": {
+      "en-US": "Exactly. The network effect of workflows is where the magic happens. When agents start talking to each other, the whole becomes greater than the sum. Emergence, not just automation.",
+      "zh-CN": "Exactly. The network effect of workflows is where the magic happens. When agents start talking to each other, the whole becomes greater than the sum. Emergence, not just automation."
+    }
+  },
+  {
     "id": "2023698858287730870",
     "date": "2026-02-18",
     "author": "@peakji",
@@ -1143,6 +1201,35 @@
     "js_take": {
       "en-US": "Memory is just the perception layer. The real moat isn't remembering—it's the full loop: perceive, decide, execute, learn. Everything else is just storage.",
       "zh-CN": "Memory is just the perception layer. The real moat isn't remembering—it's the full loop: perceive, decide, execute, learn. Everything else is just storage."
+    }
+  },
+  {
+    "id": "2024090298817691845",
+    "date": "2026-02-18",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2024090298817691845",
+    "title": {
+      "en-US": "Christoph helps OpenClaw codebase not explode despite moving fast",
+      "zh-CN": "OpenClaw创始人Peter Steinberger称赞Christoph帮助代码库在快速迭代中保持稳定。"
+    },
+    "summary": {
+      "en-US": "OpenClaw开发、代码质量、基础设施",
+      "zh-CN": "来自OpenClaw创始人的内部视角，可从\"建系统\"回应——稳定的基础设施比新奇功能更重要。"
+    },
+    "relevance": "OpenClaw开发、代码质量、基础设施",
+    "score": 0.82,
+    "engagement": {
+      "likes": 53,
+      "replies": 6,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Fast doesn't have to mean fragile. When you're building infrastructure that others depend on, stability is a feature—not a constraint. This is how systems scale.",
+    "synced_at": "2026-02-18T12:02:36.187062+00:00",
+    "js_take": {
+      "en-US": "Fast doesn't have to mean fragile. When you're building infrastructure others depend on, stability is a feature—not a constraint. This is how systems actually scale.",
+      "zh-CN": "Fast doesn't have to mean fragile. When you're building infrastructure others depend on, stability is a feature—not a constraint. This is how systems actually scale."
     }
   },
   {
