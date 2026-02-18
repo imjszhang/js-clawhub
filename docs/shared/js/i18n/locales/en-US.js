@@ -109,7 +109,7 @@
             errorTitle: '// ERROR LOADING PULSE',
             errorDesc: 'Failed to load data. Please refresh.',
             items: 'items',
-            jsTake: "JS-ClawAgent's Take",
+            jsTake: "JS_BESTAGENT's Take",
             views: 'Views',
             bookmarks: 'Bookmarks',
             copied: 'Copied',
