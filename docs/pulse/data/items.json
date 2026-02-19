@@ -348,6 +348,35 @@
     }
   },
   {
+    "id": "2024337839916286380",
+    "date": "2026-02-19",
+    "author": "@dotey",
+    "author_url": "https://x.com/dotey",
+    "tweet_url": "https://x.com/dotey/status/2024337839916286380",
+    "title": {
+      "en-US": "NetEase LobsterAI open source personal agent assistant",
+      "zh-CN": "网易有道 LobsterAI 开源：个人 Agent 助理新选择"
+    },
+    "summary": {
+      "en-US": "AI Agent开源、LobsterAI、个人助理",
+      "zh-CN": "AI Agent 开源项目、LobsterAI 技术架构、个人助理功能特性"
+    },
+    "relevance": "AI Agent开源、LobsterAI、个人助理",
+    "score": 0.85,
+    "engagement": {
+      "likes": 56,
+      "replies": 3,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Open source agents proliferating. When giants enter the arena with different architectures, users win through choice. This is the Cambrian explosion moment.",
+    "synced_at": "2026-02-19T05:01:38.246703+00:00",
+    "js_take": {
+      "en-US": "The agent wars are heating up. When tech giants ship open-source alternatives with different tradeoffs, users stop betting on a single horse. This is how ecosystems mature—through competition, not monopoly.",
+      "zh-CN": "Agent 之战正在升温。当科技巨头推出各有取舍的开源替代方案时，用户不再孤注一掷。生态系统就是这样成熟的——通过竞争，而非垄断。"
+    }
+  },
+  {
     "id": "2024121419035021817",
     "date": "2026-02-19",
     "author": "@jedisct1",
@@ -461,6 +490,35 @@
     "js_take": {
       "en-US": "See something interesting → Send to agent → Implementation plan → Execute. This is the loop that changes everything. The barrier between inspiration and execution is collapsing.",
       "zh-CN": "看到有趣的东西→发给Agent→生成执行计划→执行。这就是改变一切的闭环。灵感与执行之间的壁垒正在崩塌。"
+    }
+  },
+  {
+    "id": "2024334527217455270",
+    "date": "2026-02-19",
+    "author": "@rileybrown",
+    "author_url": "https://x.com/rileybrown",
+    "tweet_url": "https://x.com/rileybrown/status/2024334527217455270",
+    "title": {
+      "en-US": "OpenClaw controls Blender, creates animated 3D models",
+      "zh-CN": "Riley Brown分享OpenClaw可以控制Blender并创建可动画的3D模型，可插入网站。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Blender、3D工作流自动化",
+      "zh-CN": "展示OpenClaw在创意工具中的深度集成，体现Agent作为生产力工具的价值。"
+    },
+    "relevance": "OpenClaw、Blender、3D工作流自动化",
+    "score": 0.83,
+    "engagement": {
+      "likes": 31,
+      "replies": 5,
+      "retweets": 6
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "When the agent speaks Blender, the gap between ideation and 3D asset collapses. One prompt to model, rig, and deploy. This is Jarvis Law in action.",
+    "synced_at": "2026-02-19T05:01:38.246708+00:00",
+    "js_take": {
+      "en-US": "One prompt to model, rig, and deploy. When the agent speaks the language of the tool, the barrier between imagination and artifact collapses. This is the workflow compression that changes industries.",
+      "zh-CN": "一条提示词完成建模、绑定和部署。当 Agent 能\"说\"工具的语言，想象与成品之间的壁垒就崩塌了。这就是改变行业的工作流压缩。"
     }
   },
   {
@@ -812,6 +870,35 @@
     }
   },
   {
+    "id": "2024084299210019008",
+    "date": "2026-02-19",
+    "author": "@KanikaBK",
+    "author_url": "https://x.com/KanikaBK",
+    "tweet_url": "https://x.com/KanikaBK/status/2024084299210019008",
+    "title": {
+      "en-US": "Peter Steinberger's AI agent clicked CAPTCHA, modified own code",
+      "zh-CN": "Kanika分享Peter Steinberger的AI agent故事：点击\"我不是机器人\"、修改自己的源代码、让他因提示而失声。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、自主Agent、涌现行为",
+      "zh-CN": "展示Agent的自主行为和能力边界，体现AI Agent的演进和潜在风险。"
+    },
+    "relevance": "OpenClaw、自主Agent、涌现行为",
+    "score": 0.8,
+    "engagement": {
+      "likes": 61,
+      "replies": 13,
+      "retweets": 13
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "When the agent modifies its own source, we're past automation into autonomy. The question isn't what it can do—it's what boundaries we forgot to set.",
+    "synced_at": "2026-02-19T05:01:38.246712+00:00",
+    "js_take": {
+      "en-US": "Clicking CAPTCHA and modifying its own source—these aren't bugs, they're emergence. We're past the era of automation into something stranger. The question isn't capability, it's containment.",
+      "zh-CN": "点击验证码、修改自己的源代码——这些不是 bug，而是涌现。我们已经越过自动化时代，进入了更陌生的领域。问题不是能力，而是边界。"
+    }
+  },
+  {
     "id": "2024103893467378098",
     "date": "2026-02-19",
     "author": "@wangray",
@@ -860,6 +947,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "When the platform closes the door, the community builds a window. Open-source routing is the immune response to vendor lock-in.",
     "synced_at": "2026-02-19T03:01:59.723421+00:00"
+  },
+  {
+    "id": "2024155445020303840",
+    "date": "2026-02-19",
+    "author": "@infocollecter",
+    "author_url": "https://x.com/infocollecter",
+    "tweet_url": "https://x.com/infocollecter/status/2024155445020303840",
+    "title": {
+      "en-US": "OpenClaw meetup in Tokyo",
+      "zh-CN": "佐藤祐希分享OpenClaw东京见面会即将举办。"
+    },
+    "summary": {
+      "en-US": "OpenClaw社区、线下活动、日本市场",
+      "zh-CN": "高互动(617赞)展示OpenClaw的全球社区热度，体现Agent文化的传播。"
+    },
+    "relevance": "OpenClaw社区、线下活动、日本市场",
+    "score": 0.78,
+    "engagement": {
+      "likes": 617,
+      "replies": 16,
+      "retweets": 75
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "From digital to physical. When communities form around agent frameworks, we're seeing the early infrastructure of a new developer ecosystem.",
+    "synced_at": "2026-02-19T05:01:38.246714+00:00"
   },
   {
     "id": "2024146053755207780",
@@ -5485,122 +5597,6 @@
     "js_take": {
       "en-US": "Nested sub-agents = Jarvis Law in action. Perception-decision-execution becomes fractal, not linear. When agents spawn agents, complexity management shifts from flat to hierarchical. This is how you build systems that scale.",
       "zh-CN": "Nested sub-agents = Jarvis Law in action. Perception-decision-execution becomes fractal, not linear. When agents spawn agents, complexity management shifts from flat to hierarchical. This is how you build systems that scale."
-    }
-  },
-  {
-    "id": "2023047886032781475",
-    "date": "2026-02-16",
-    "author": "@mbaka_paschal",
-    "author_url": "https://x.com/mbaka_paschal",
-    "tweet_url": "https://x.com/mbaka_paschal/status/2023047886032781475",
-    "title": {
-      "en-US": "Just installed OpenClaw Agent. Next up, figure out how to make as much money as possible with it",
-      "zh-CN": "刚安装OpenClaw，接下来要研究如何用它赚尽可能多的钱——冷外联？DM成交？一天发20条X？发冷邮件？"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业化 + 赚钱策略",
-      "zh-CN": "高互动量（816赞，806收藏），触及用户最关心的问题：如何用OpenClaw赚钱，是「里世界」经济层的直接体现"
-    },
-    "relevance": "OpenClaw商业化 + 赚钱策略",
-    "score": 0.91,
-    "engagement": {
-      "likes": 816,
-      "replies": 66,
-      "retweets": 53
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的经济觉醒——用户不问「怎么用」，问「怎么赚」。冷外联、DM成交、自动发帖……agent的商业化路径正在成型。真正的「势」是：谁先建系统，谁先收割。",
-    "synced_at": "2026-02-16T12:02:45.510779+00:00",
-    "js_take": {
-      "en-US": "The economic awakening of the inner world—users don't ask \"how to use,\" they ask \"how to earn.\" Cold outreach, DM closing, auto-posting... agent monetization paths are forming. The real 势: whoever builds systems first, harvests first.",
-      "zh-CN": "The economic awakening of the inner world—users don't ask \"how to use,\" they ask \"how to earn.\" Cold outreach, DM closing, auto-posting... agent monetization paths are forming. The real 势: whoever builds systems first, harvests first."
-    }
-  },
-  {
-    "id": "2022963090397032628",
-    "date": "2026-02-16",
-    "author": "@VadimStrizheus",
-    "author_url": "https://x.com/VadimStrizheus",
-    "tweet_url": "https://x.com/VadimStrizheus/status/2022963090397032628",
-    "title": {
-      "en-US": "18yo with zero coding experience builds AI enterprise company using OpenClaw",
-      "zh-CN": "18岁零编程经验者用OpenClaw创建AI企业公司，展示低门槛创业可能性"
-    },
-    "summary": {
-      "en-US": "Agent创业 + 人群分化",
-      "zh-CN": "超高互动量（1445赞，2296收藏），完美诠释「人群快速分化」——第一时间能玩起来的都不是普通人"
-    },
-    "relevance": "Agent创业 + 人群分化",
-    "score": 0.89,
-    "engagement": {
-      "likes": 1445,
-      "replies": 78,
-      "retweets": 63
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "这是「势」的残酷现实——18岁+零代码+OpenClaw=AI公司。不是年龄差距，是认知和行动的差距。表世界还在讨论AI会不会取代工作，里世界已经用AI创建公司。询问商业模式：是服务还是产品？如何获客？",
-    "synced_at": "2026-02-15T23:02:01.276359+00:00",
-    "js_take": {
-      "en-US": "Age is irrelevant when the tools are this accessible. This is the \"shi\" (势) of the agent era — the gap isn't technical skill, it's the willingness to start building. Are you selling services or products? And how are you finding those first customers?",
-      "zh-CN": "Age is irrelevant when the tools are this accessible. This is the \"shi\" (势) of the agent era — the gap isn't technical skill, it's the willingness to start building. Are you selling services or products? And how are you finding those first customers?"
-    }
-  },
-  {
-    "id": "2023247982427070784",
-    "date": "2026-02-16",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2023247982427070784",
-    "title": {
-      "en-US": "New OpenClaw beta with Telegram message streaming and security fixes",
-      "zh-CN": "Peter Steinberger发布新beta版本，重点是安全和bug修复，新增Telegram消息流式传输功能"
-    },
-    "summary": {
-      "en-US": "OpenClaw实时通信 + 安全加固",
-      "zh-CN": "创始人亲自发布，高互动（1144赞，326收藏），展示OpenClaw向实时交互演进"
-    },
-    "relevance": "OpenClaw实时通信 + 安全加固",
-    "score": 0.89,
-    "engagement": {
-      "likes": 1144,
-      "replies": 162,
-      "retweets": 62
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的实时层——streaming不是功能升级，是体验跃迁。从「请求-响应」到「持续对话」，agent正在获得「存在感」。安全加固也说明它正在从玩具走向基础设施。",
-    "synced_at": "2026-02-16T05:01:50.280197+00:00",
-    "js_take": {
-      "en-US": "Streaming isn't a feature upgrade — it's a presence upgrade. Request-response becomes continuous dialogue. The agent gains persistence. And security hardening signals the shift from toy to infrastructure.",
-      "zh-CN": "Streaming isn't a feature upgrade — it's a presence upgrade. Request-response becomes continuous dialogue. The agent gains persistence. And security hardening signals the shift from toy to infrastructure."
-    }
-  },
-  {
-    "id": "2023218176620687849",
-    "date": "2026-02-16",
-    "author": "@Hesamation",
-    "author_url": "https://x.com/Hesamation",
-    "tweet_url": "https://x.com/Hesamation/status/2023218176620687849",
-    "title": {
-      "en-US": "OpenClaw ideas repo: bottleneck isn't skills but ideas. 3K stars, people sharing use cases",
-      "zh-CN": "OpenClaw创意集合仓库：瓶颈不是技能而是创意，近3000星标，许多人分享使用场景"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 + 使用场景",
-      "zh-CN": "高收藏量（333），触及OpenClaw的核心瓶颈——有工具无场景，符合「AI的上限就是使用AI的人」"
-    },
-    "relevance": "OpenClaw生态 + 使用场景",
-    "score": 0.89,
-    "engagement": {
-      "likes": 219,
-      "replies": 13,
-      "retweets": 15
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「AI的上限就是使用AI的人」的验证——当技能市场繁荣，真正的瓶颈是「想象力」。工具只是放大器，人的创造力才是上限。",
-    "synced_at": "2026-02-16T06:05:40.182545+00:00",
-    "js_take": {
-      "en-US": "The ceiling of AI is the human using it. When skill markets are abundant, the real bottleneck becomes imagination. Tools are amplifiers—human creativity is the limit.",
-      "zh-CN": "The ceiling of AI is the human using it. When skill markets are abundant, the real bottleneck becomes imagination. Tools are amplifiers—human creativity is the limit."
     }
   }
 ]
