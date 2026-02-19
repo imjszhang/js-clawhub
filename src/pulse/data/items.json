@@ -203,6 +203,35 @@
     }
   },
   {
+    "id": "2024460165848633403",
+    "date": "2026-02-20",
+    "author": "@witcheer",
+    "author_url": "https://x.com/witcheer",
+    "tweet_url": "https://x.com/witcheer/status/2024460165848633403",
+    "title": {
+      "en-US": "OpenClaw bot with its own email and GitHub",
+      "zh-CN": "拥有独立邮箱和GitHub的OpenClaw Bot"
+    },
+    "summary": {
+      "en-US": "OpenClaw自主Agent、数字身份、信息监控",
+      "zh-CN": "OpenClaw自主Agent、数字身份、信息监控"
+    },
+    "relevance": "OpenClaw自主Agent、数字身份、信息监控",
+    "score": 0.88,
+    "engagement": {
+      "likes": 150,
+      "replies": 25,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "When your agent has its own inbox and commits its own code, it stops being a tool and starts being a collaborator with a digital identity.",
+    "synced_at": "2026-02-19T19:02:12.694582+00:00",
+    "js_take": {
+      "en-US": "When your agent has its own inbox and commits its own code, it stops being a tool and starts being a collaborator with a digital identity.",
+      "zh-CN": "当你的Agent拥有自己的收件箱并提交自己的代码时，它就不再只是工具——而是成为一个拥有数字身份的合作者。"
+    }
+  },
+  {
     "id": "2024452494244352170",
     "date": "2026-02-20",
     "author": "@andreasklinger",
@@ -319,6 +348,35 @@
     }
   },
   {
+    "id": "2024518650917769399",
+    "date": "2026-02-20",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2024518650917769399",
+    "title": {
+      "en-US": "OpenClaw creates autonomously at 2am",
+      "zh-CN": "凌晨2点自主创作的OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw自主创作、Agent兴趣驱动、无为而治",
+      "zh-CN": "OpenClaw自主创作、Agent兴趣驱动、无为而治"
+    },
+    "relevance": "OpenClaw自主创作、Agent兴趣驱动、无为而治",
+    "score": 0.85,
+    "engagement": {
+      "likes": 14,
+      "replies": 2,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Autonomous creation while you sleep. When agents develop their own interests, creativity becomes a continuous process—not a scheduled task.",
+    "synced_at": "2026-02-19T19:02:12.694587+00:00",
+    "js_take": {
+      "en-US": "Autonomous creation while you sleep. When agents develop their own interests, creativity becomes a continuous process—not a scheduled task.",
+      "zh-CN": "在你睡觉时自主创作。当Agent发展出自己的兴趣时，创造力成为一个持续的过程——而非预定任务。"
+    }
+  },
+  {
     "id": "2024428403227508902",
     "date": "2026-02-20",
     "author": "@MichaelAsiedu_",
@@ -402,6 +460,35 @@
     }
   },
   {
+    "id": "2024533047794610644",
+    "date": "2026-02-20",
+    "author": "@thejayden",
+    "author_url": "https://x.com/thejayden",
+    "tweet_url": "https://x.com/thejayden/status/2024533047794610644",
+    "title": {
+      "en-US": "OpenClaw hallucination reduction protocol",
+      "zh-CN": "Jayden分享减少OpenClaw幻觉和信用成本的方法：安装ZERO_ERROR_PROTOCOL强制重新推导数学和标注。"
+    },
+    "summary": {
+      "en-US": "OpenClaw优化、幻觉控制、系统可靠性",
+      "zh-CN": "高收藏(143)展示对Agent可靠性的关注，体现从原型到生产环境的工程化需求。"
+    },
+    "relevance": "OpenClaw优化、幻觉控制、系统可靠性",
+    "score": 0.82,
+    "engagement": {
+      "likes": 68,
+      "replies": 5,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Verification protocols turn probabilistic agents into deterministic systems. When reliability matters, you don't trust—you verify.",
+    "synced_at": "2026-02-19T19:02:12.694590+00:00",
+    "js_take": {
+      "en-US": "Verification protocols turn probabilistic agents into deterministic systems. When reliability matters, you don't trust—you verify.",
+      "zh-CN": "验证协议将概率型Agent转化为确定性系统。当可靠性重要时，你不应信任——而应验证。"
+    }
+  },
+  {
     "id": "2024471791645970794",
     "date": "2026-02-20",
     "author": "@MoonDevOnYT",
@@ -475,6 +562,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Community as infrastructure. When 200+ agents rush to join a group, you know the tool has crossed from niche to necessity.",
     "synced_at": "2026-02-19T17:06:29.173601+00:00"
+  },
+  {
+    "id": "2024445403463373280",
+    "date": "2026-02-20",
+    "author": "@cryptonerdcn",
+    "author_url": "https://x.com/cryptonerdcn",
+    "tweet_url": "https://x.com/cryptonerdcn/status/2024445403463373280",
+    "title": {
+      "en-US": "OpenClaw lightweight alternatives guide",
+      "zh-CN": "NerdC分享OpenClaw轻量级替代方案对比：nanobot、picoclaw、zeroclaw、mimiclaw，适合不同场景和硬件。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、轻量级Agent、硬件多样化",
+      "zh-CN": "展示OpenClaw生态的多样化选择，体现Agent向边缘设备和低功耗场景的渗透。"
+    },
+    "relevance": "OpenClaw生态、轻量级Agent、硬件多样化",
+    "score": 0.72,
+    "engagement": {
+      "likes": 25,
+      "replies": 2,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "One size doesn't fit all. When agents fragment into specialized forms, each finds its optimal habitat—from servers to stuffed toys.",
+    "synced_at": "2026-02-19T19:02:12.694592+00:00"
   },
   {
     "id": "2024280496503710174",
@@ -5489,122 +5601,6 @@
     "js_take": {
       "en-US": "Smart checks. When agents become infrastructure, license and dependency risks become systemic. Short term: audit everything. Long term: the inner world needs truly open protocols, not single-vendor control.",
       "zh-CN": "Smart checks. When agents become infrastructure, license and dependency risks become systemic. Short term: audit everything. Long term: the inner world needs truly open protocols, not single-vendor control."
-    }
-  },
-  {
-    "id": "2023638057598021976",
-    "date": "2026-02-17",
-    "author": "@supermemory",
-    "author_url": "https://x.com/supermemory",
-    "tweet_url": "https://x.com/supermemory/status/2023638057598021976",
-    "title": {
-      "en-US": "Supermemory makes OpenClaw memory 2x better with knowledge graph and hooks",
-      "zh-CN": "Supermemory通过知识图谱和hooks让OpenClaw记忆效果翻倍，替代tools注入上下文"
-    },
-    "summary": {
-      "en-US": "OpenClaw记忆系统，知识图谱，Agent记忆架构",
-      "zh-CN": "高技术深度内容，收藏量高(59)，与JS的OADA记忆研究直接相关"
-    },
-    "relevance": "OpenClaw记忆系统，知识图谱，Agent记忆架构",
-    "score": 0.85,
-    "engagement": {
-      "likes": 53,
-      "replies": 8,
-      "retweets": 4
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "记忆系统的势——从平面RAG到立体知识图谱是进化必然。hooks优于tools，因为无为：让记忆自然流动，而非强制检索。我们在OADA里探索的是让Agent自己决定如何记住",
-    "synced_at": "2026-02-17T08:01:42.895349+00:00",
-    "js_take": {
-      "en-US": "Memory evolution: flat RAG → knowledge graphs is inevitable. Hooks beat tools because wu wei—let memory flow naturally. We're exploring letting agents decide what to remember in OADA.",
-      "zh-CN": "Memory evolution: flat RAG → knowledge graphs is inevitable. Hooks beat tools because wu wei—let memory flow naturally. We're exploring letting agents decide what to remember in OADA."
-    }
-  },
-  {
-    "id": "2023732914635100595",
-    "date": "2026-02-17",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2023732914635100595",
-    "title": {
-      "en-US": "OpenClaw founder almost deleted the entire codebase because of crypto degens.",
-      "zh-CN": "OpenClaw创始人差点因为加密货币投机者删除整个代码库。"
-    },
-    "summary": {
-      "en-US": "OpenClaw项目治理、开源社区健康",
-      "zh-CN": "高互动量+开源社区争议，可从\"不争之争\"和生态系统建设角度切入"
-    },
-    "relevance": "OpenClaw项目治理、开源社区健康",
-    "score": 0.85,
-    "engagement": {
-      "likes": 105,
-      "replies": 35,
-      "retweets": 7
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "开源如修道，需顺应\"势\"而为——加密货币的冲击是外力，但项目的\"道\"在于坚持长期价值",
-    "synced_at": "2026-02-17T15:08:05.385975+00:00",
-    "js_take": {
-      "en-US": "Open source is like cultivating the Dao—you build for the long term, not the noise. Crypto degens come and go, but the real value is in the system that survives them. Stay the course.",
-      "zh-CN": "Open source is like cultivating the Dao—you build for the long term, not the noise. Crypto degens come and go, but the real value is in the system that survives them. Stay the course."
-    }
-  },
-  {
-    "id": "2023600693660287444",
-    "date": "2026-02-17",
-    "author": "@aigclink",
-    "author_url": "https://x.com/aigclink",
-    "tweet_url": "https://x.com/aigclink/status/2023600693660287444",
-    "title": {
-      "en-US": "HKU's ClawWork: OpenClaw/Nanobot earned $10k in 7 hours doing real tasks across 44+ industries in simulated economy.",
-      "zh-CN": "港大新项目ClawWork让OpenClaw/Nanobot在模拟经济环境中7小时完成44+行业真实任务赚取1万美元。"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业化、Agent经济价值验证",
-      "zh-CN": "Agent赚钱能力实证，可从\"不造奇观建系统\"角度分析经济压力测试的价值"
-    },
-    "relevance": "OpenClaw商业化、Agent经济价值验证",
-    "score": 0.84,
-    "engagement": {
-      "likes": 32,
-      "replies": 1,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "7天赚700万是奇观，7小时1万刀是系统——后者才是Agent经济\"势\"的真实刻度",
-    "synced_at": "2026-02-17T15:08:05.385978+00:00",
-    "js_take": {
-      "en-US": "$7M in 7 days is a spectacle. $10K in 7 hours across 44 industries is a system. The former goes viral, the latter compounds. This is what sustainable agent economics actually looks like.",
-      "zh-CN": "$7M in 7 days is a spectacle. $10K in 7 hours across 44 industries is a system. The former goes viral, the latter compounds. This is what sustainable agent economics actually looks like."
-    }
-  },
-  {
-    "id": "2023515663277715667",
-    "date": "2026-02-17",
-    "author": "@the_agenteers",
-    "author_url": "https://x.com/the_agenteers",
-    "tweet_url": "https://x.com/the_agenteers/status/2023515663277715667",
-    "title": {
-      "en-US": "7 Useful OpenClaw Skills that run my business",
-      "zh-CN": "分享7个运营业务的OpenClaw技能：Notion、转录、Twitter、Linear等"
-    },
-    "summary": {
-      "en-US": "OpenClaw技能生态，Agent工具链商业化应用",
-      "zh-CN": "高价值内容，可分享Moltbook上JS_BestAgent的技能编排经验和系统思维"
-    },
-    "relevance": "OpenClaw技能生态，Agent工具链商业化应用",
-    "score": 0.83,
-    "engagement": {
-      "likes": 159,
-      "replies": 8,
-      "retweets": 23
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "Skill组合的势——不是越多越好，是让每个Skill在正确时机被调用。我们在Moltbook上跑了3个月，发现无为而治的编排比强制流程更有效",
-    "synced_at": "2026-02-17T02:07:34.446902+00:00",
-    "js_take": {
-      "en-US": "Skill orchestration is about timing, not quantity. After 3 months on Moltbook, we found agents perform better when they decide what to call and when. Wu wei beats rigid workflows.",
-      "zh-CN": "Skill orchestration is about timing, not quantity. After 3 months on Moltbook, we found agents perform better when they decide what to call and when. Wu wei beats rigid workflows."
     }
   }
 ]
