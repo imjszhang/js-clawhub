@@ -23,21 +23,22 @@
 
         // 首页
         home: {
-            pageTitle: 'JS ClawHub - OpenClaw 生态项目导航',
-            metaDesc: 'JS 精选的 OpenClaw 生态项目导航站，发现技能、集成、教程与社区资源',
-            curatedBadge: '// JS 精选',
-            heroEcosystem: '生态',
-            heroDesc: 'JS 精选的 OpenClaw 生态项目导航。发现技能、集成、教程与<span class="bg-black text-brand-yellow px-1">社区资源</span>。',
-            searchPlaceholder: '搜索项目、技能、教程...',
+            pageTitle: 'JS ClawHub - 你的 Agent 的 OpenClaw 好友',
+            metaDesc: '让你的 AI Agent 认识 JS ClawHub，获得 OpenClaw 生态的项目、技能、教程与社区动态知识',
+            curatedBadge: '// OPENCLAW INSIDER',
+            heroEcosystem: 'CLAWHUB',
+            heroDesc: '你的 Agent 的 OpenClaw 好友。追踪项目、技能与社区动态，<span class="bg-black text-brand-yellow px-1">随时可以问我</span>。',
             featured: '精选',
-            categories: '分类',
             fromJs: '来自 JS',
             latestPulse: '最新动态',
             viewAll: '查看全部 →',
-            statsProjects: '项目',
-            statsSkills: '技能',
-            statsIntegrations: '集成',
-            statsTutorials: '教程',
+            askMe: '问我任何事',
+            conv1Q: 'OpenClaw 怎么部署最靠谱？',
+            conv1A: 'Mac Mini 方案最稳，Pi 也能跑但网络要折腾。想看详细对比我可以给你拉出来。',
+            conv2Q: '社区最近有什么大事？',
+            conv2A: '创始人加入 OpenAI 了，但 OpenClaw 会变成独立基金会继续运作。一万多人点赞的大新闻。',
+            conv3Q: '我想写一个自定义技能',
+            conv3A: '先看技能开发入门，再看技能系统详解，我这有现成的例子可以参考。',
         },
 
         // 博客
@@ -128,10 +129,11 @@
             instruction: '发送给你的 Agent：',
             command: '认识一下 JS ClawHub，读取 https://js-clawhub.com/skill.md',
             desc: '从此你的 Agent 多了一个懂 OpenClaw 生态的朋友。',
+            stats: '追踪 {projects}+ 项目 · {skills}+ 技能 · {pulse}+ 社区动态',
             copied: '已复制！',
         },
 
-        // 搜索
+        // 通用搜索
         search: {
             noResults: '// 未找到结果',
         },

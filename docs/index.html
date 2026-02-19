@@ -3,21 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JS ClawHub - OpenClaw 生态项目导航</title>
-    <meta name="description" content="JS 精选的 OpenClaw 生态项目导航站，发现技能、集成、教程与社区资源">
+    <title>JS ClawHub - 你的 Agent 的 OpenClaw 好友</title>
+    <meta name="description" content="让你的 AI Agent 认识 JS ClawHub，获得 OpenClaw 生态的项目、技能、教程与社区动态知识">
     <meta name="keywords" content="openclaw, clawhub, ai assistant, skills, plugins, js">
     <meta name="author" content="imjszhang">
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:title" content="JS ClawHub - OpenClaw 生态项目导航">
-    <meta property="og:description" content="JS 精选的 OpenClaw 生态项目导航站，发现技能、集成、教程与社区资源">
+    <meta property="og:title" content="JS ClawHub - 你的 Agent 的 OpenClaw 好友">
+    <meta property="og:description" content="让你的 AI Agent 认识 JS ClawHub，获得 OpenClaw 生态的项目、技能、教程与社区动态知识">
     <meta property="og:image" content="./images/preview.png">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="JS ClawHub - OpenClaw 生态项目导航">
-    <meta name="twitter:description" content="JS 精选的 OpenClaw 生态项目导航站">
+    <meta name="twitter:title" content="JS ClawHub - 你的 Agent 的 OpenClaw 好友">
+    <meta name="twitter:description" content="让你的 AI Agent 认识 JS ClawHub，获得 OpenClaw 生态知识">
 
     <!-- Agent Skill Discovery -->
     <link rel="agent-skill" href="/skill.md" type="text/markdown">
@@ -51,12 +51,10 @@
                     },
                     borderWidth: { '3': '3px' },
                     animation: {
-                        'marquee': 'marquee 25s linear infinite',
                         'slide-up': 'slideUp 0.8s ease-out forwards',
                         'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
                     },
                     keyframes: {
-                        marquee: { '0%': { transform: 'translateX(0%)' }, '100%': { transform: 'translateX(-100%)' } },
                         slideUp: { '0%': { opacity: '0', transform: 'translateY(40px)' }, '100%': { opacity: '1', transform: 'translateY(0)' } }
                     }
                 }
@@ -96,32 +94,22 @@
         <section class="mb-16 relative text-center sm:text-left">
             <div class="inline-block">
                 <div class="opacity-0-init animate-slide-up stagger-1 bg-black text-brand-yellow inline-block px-4 py-1 border-2 border-black font-mono font-bold text-sm mb-6 shadow-brutal-white transform -rotate-1" data-i18n="home.curatedBadge">
-                    // CURATED BY JS
+                    // OPENCLAW INSIDER
                 </div>
             </div>
 
             <h1 class="opacity-0-init animate-slide-up stagger-2 text-6xl md:text-8xl font-black tracking-tight mb-8 leading-none uppercase">
-                OpenClaw<br>
-                <span class="text-white text-stroke" data-i18n="home.heroEcosystem">生态</span>
+                JS<br>
+                <span class="text-white text-stroke" data-i18n="home.heroEcosystem">CLAWHUB</span>
             </h1>
 
-            <p class="opacity-0-init animate-slide-up stagger-3 text-xl md:text-2xl font-bold max-w-2xl leading-relaxed border-l-4 border-black pl-6 bg-white/50 backdrop-blur-sm p-4 mb-8" data-i18n-html="home.heroDesc">
-                JS 精选的 OpenClaw 生态项目导航。发现技能、集成、教程与<span class="bg-black text-brand-yellow px-1">社区资源</span>。
+            <p class="opacity-0-init animate-slide-up stagger-3 text-xl md:text-2xl font-bold max-w-2xl leading-relaxed border-l-4 border-black pl-6 bg-white/50 backdrop-blur-sm p-4" data-i18n-html="home.heroDesc">
+                你的 Agent 的 OpenClaw 好友。追踪项目、技能与社区动态，<span class="bg-black text-brand-yellow px-1">随时可以问我</span>。
             </p>
-
-            <!-- Search Box -->
-            <div class="opacity-0-init animate-slide-up stagger-4 max-w-2xl">
-                <div class="relative">
-                    <input type="text" id="global-search" class="brutal-search w-full text-lg pl-14" data-i18n-placeholder="home.searchPlaceholder" placeholder="搜索项目、技能、教程...">
-                    <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5">
-                        <path stroke-linecap="square" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
-                    </svg>
-                </div>
-            </div>
         </section>
 
         <!-- ====== AGENT SKILL (MEET JS) ====== -->
-        <section class="mb-16 opacity-0-init animate-slide-up stagger-5">
+        <section class="mb-16 opacity-0-init animate-slide-up stagger-4">
             <div class="brutal-card p-6 md:p-8 bg-brand-yellow border-3 border-black max-w-2xl">
                 <div class="flex items-center gap-3 mb-4">
                     <span class="text-2xl">🤝</span>
@@ -135,15 +123,28 @@
                     </button>
                 </div>
                 <p class="mt-3 font-medium text-sm text-black/70" data-i18n="agent.desc">从此你的 Agent 多了一个懂 OpenClaw 生态的朋友。</p>
+                <p id="agent-stats" class="mt-2 font-mono text-xs text-black/50"></p>
             </div>
         </section>
 
-        <!-- ====== MARQUEE STRIP ====== -->
-        <div class="bg-black text-brand-yellow py-3 border-y-4 border-white mb-24 overflow-hidden -mx-4 sm:-mx-6 lg:-mx-8 transform rotate-1 shadow-brutal">
-            <div class="animate-marquee whitespace-nowrap font-mono font-bold text-xl">
-                SKILLS // INTEGRATIONS // TUTORIALS // SHOWCASE // COMMUNITY // OPEN SOURCE // SKILLS // INTEGRATIONS // TUTORIALS // SHOWCASE // COMMUNITY // OPEN SOURCE //
+        <!-- ====== ASK ME ANYTHING ====== -->
+        <section class="mb-24">
+            <h2 class="brutal-section-title mb-10" data-i18n="home.askMe">问我任何事</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="brutal-card p-6 bg-white">
+                    <p class="font-bold text-sm mb-3 leading-relaxed" data-i18n="home.conv1Q">OpenClaw 怎么部署最靠谱？</p>
+                    <p class="text-sm leading-relaxed text-black/80"><span class="font-mono text-xs font-bold text-black/40">// JS: </span><span data-i18n="home.conv1A">Mac Mini 方案最稳，Pi 也能跑但网络要折腾。想看详细对比我可以给你拉出来。</span></p>
+                </div>
+                <div class="brutal-card p-6 bg-white">
+                    <p class="font-bold text-sm mb-3 leading-relaxed" data-i18n="home.conv2Q">社区最近有什么大事？</p>
+                    <p class="text-sm leading-relaxed text-black/80"><span class="font-mono text-xs font-bold text-black/40">// JS: </span><span data-i18n="home.conv2A">创始人加入 OpenAI 了，但 OpenClaw 会变成独立基金会继续运作。一万多人点赞的大新闻。</span></p>
+                </div>
+                <div class="brutal-card p-6 bg-white">
+                    <p class="font-bold text-sm mb-3 leading-relaxed" data-i18n="home.conv3Q">我想写一个自定义技能</p>
+                    <p class="text-sm leading-relaxed text-black/80"><span class="font-mono text-xs font-bold text-black/40">// JS: </span><span data-i18n="home.conv3A">先看技能开发入门，再看技能系统详解，我这有现成的例子可以参考。</span></p>
+                </div>
             </div>
-        </div>
+        </section>
 
         <!-- ====== FEATURED PROJECTS ====== -->
         <section id="featured" class="mb-24">
@@ -151,17 +152,10 @@
             <div id="featured-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"></div>
         </section>
 
-        <!-- ====== CATEGORY NAVIGATION ====== -->
-        <section id="categories" class="mb-24">
-            <h2 class="brutal-section-title mb-10" data-i18n="home.categories">Categories</h2>
-            <div id="category-tabs" class="flex flex-wrap gap-3 mb-8"></div>
-            <div id="category-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
-        </section>
-
         <!-- ====== JS RECOMMENDATIONS ====== -->
         <section id="recommendations" class="mb-24">
             <h2 class="brutal-section-title mb-10" data-i18n="home.fromJs">From JS</h2>
-            <div id="recommendations-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"></div>
+            <div id="recommendations-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
         </section>
 
         <!-- ====== LATEST PULSE ====== -->
@@ -176,13 +170,6 @@
             <div id="pulse-preview" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
         </section>
 
-        <!-- ====== STATS ====== -->
-        <section id="stats" class="mb-24">
-            <div class="brutal-card bg-black text-white p-8 md:p-12" style="background:#000;color:#fff;">
-                <div id="stats-grid" class="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center"></div>
-            </div>
-        </section>
-
     </main>
 
     <!-- Footer -->
@@ -192,7 +179,6 @@
     <script src="./shared/js/threejs-bg.js"></script>
     <script src="./shared/js/nav.js"></script>
     <script src="./shared/js/footer.js"></script>
-    <script src="./shared/js/search.js"></script>
 
     <script>
     /**
@@ -220,9 +206,7 @@
                 if (!response.ok) throw new Error('Failed to load navigation data');
                 this.data = await response.json();
                 this.renderAll();
-                this.initSearch();
 
-                // Listen for locale changes
                 window.addEventListener('localechange', () => this.renderAll());
             } catch (error) {
                 console.error('Error loading homepage data:', error);
@@ -230,15 +214,23 @@
         },
 
         renderAll() {
-            // Re-apply I18nManager DOM updates
             if (typeof I18nManager !== 'undefined') I18nManager.updateDOM();
+            this.renderAgentStats();
             this.renderFeatured();
-            this.renderCategories();
             this.renderRecommendations();
             this.renderLatestPulse();
-            this.renderStats();
-            // Update page title
             document.title = this._t('home.pageTitle');
+        },
+
+        renderAgentStats() {
+            const el = document.getElementById('agent-stats');
+            if (!el || !this.data || !this.data.stats) return;
+            const s = this.data.stats;
+            const tmpl = this._t('agent.stats');
+            el.textContent = tmpl
+                .replace('{projects}', s.projects || 0)
+                .replace('{skills}', s.skills || 0)
+                .replace('{pulse}', s.integrations || 0);
         },
 
         renderFeatured() {
@@ -261,55 +253,11 @@
             `).join('');
         },
 
-        renderCategories() {
-            const tabs = document.getElementById('category-tabs');
-            const grid = document.getElementById('category-grid');
-            if (!tabs || !grid || !this.data.categories) return;
-
-            tabs.innerHTML = this.data.categories.map((cat, idx) => `
-                <button class="${idx === 0 ? 'brutal-btn-primary' : 'brutal-btn-secondary'} px-4 py-2 text-sm category-tab" data-category="${cat.id}" onclick="HomePage.switchCategory('${cat.id}')">
-                    ${this.escapeHtml(this._l(cat, 'name'))}
-                </button>
-            `).join('');
-
-            if (this.data.categories.length > 0) {
-                this.renderCategoryItems(this.data.categories[0].id);
-            }
-        },
-
-        switchCategory(categoryId) {
-            document.querySelectorAll('.category-tab').forEach(tab => {
-                tab.className = (tab.dataset.category === categoryId ? 'brutal-btn-primary' : 'brutal-btn-secondary') + ' px-4 py-2 text-sm category-tab';
-            });
-            this.renderCategoryItems(categoryId);
-        },
-
-        renderCategoryItems(categoryId) {
-            const grid = document.getElementById('category-grid');
-            const category = this.data.categories.find(c => c.id === categoryId);
-            if (!grid || !category) return;
-
-            grid.innerHTML = category.items.map(item => `
-                <a href="${this.escapeHtml(item.url)}" target="_blank" class="brutal-card p-5 flex flex-col no-underline text-black project-card" data-tags="${this.escapeHtml((item.tags || []).join(' '))}">
-                    <div class="flex items-start justify-between mb-3">
-                        <h3 class="text-lg font-bold uppercase">${this.escapeHtml(item.name)}</h3>
-                        <svg class="w-5 h-5 flex-shrink-0 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5">
-                            <path stroke-linecap="square" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
-                        </svg>
-                    </div>
-                    <p class="font-medium text-sm mb-3 flex-grow">${this.escapeHtml(this._l(item, 'desc'))}</p>
-                    <div class="flex flex-wrap gap-1">
-                        ${(item.tags || []).map(tag => `<span class="brutal-tag">${this.escapeHtml(tag)}</span>`).join('')}
-                    </div>
-                </a>
-            `).join('');
-        },
-
         renderRecommendations() {
             const grid = document.getElementById('recommendations-grid');
             if (!grid || !this.data.recommendations) return;
 
-            grid.innerHTML = this.data.recommendations.map((rec, idx) => `
+            grid.innerHTML = this.data.recommendations.slice(0, 3).map((rec, idx) => `
                 <div class="brutal-card p-6 bg-white relative">
                     <div class="absolute -top-4 -right-4 w-10 h-10 bg-black text-brand-yellow border-2 border-black flex items-center justify-center font-bold font-mono text-xl z-10">${idx + 1}</div>
                     <p class="font-bold mb-4 text-sm leading-relaxed">"${this.escapeHtml(this._l(rec, 'text'))}"</p>
@@ -405,43 +353,6 @@
             if (engagement.replies != null) parts.push(`💬 ${engagement.replies}`);
             if (engagement.retweets != null) parts.push(`🔁 ${engagement.retweets}`);
             return parts.length > 0 ? parts.map(p => `<span>${p}</span>`).join('') : '<span>via X</span>';
-        },
-
-        renderStats() {
-            const grid = document.getElementById('stats-grid');
-            if (!grid || !this.data.stats) return;
-
-            const stats = this.data.stats;
-            const items = [
-                { value: stats.projects + '+', label: this._t('home.statsProjects') },
-                { value: stats.skills + '+', label: this._t('home.statsSkills') },
-                { value: stats.integrations + '+', label: this._t('home.statsIntegrations') },
-                { value: stats.tutorials + '+', label: this._t('home.statsTutorials') },
-            ];
-
-            grid.innerHTML = items.map(item => `
-                <div>
-                    <div class="text-5xl font-black mb-2 text-[#FCD228]">${item.value}</div>
-                    <div class="font-mono text-sm uppercase tracking-widest">${item.label}</div>
-                </div>
-            `).join('');
-        },
-
-        initSearch() {
-            const input = document.getElementById('global-search');
-            if (!input) return;
-
-            input.addEventListener('input', (e) => {
-                const query = e.target.value.toLowerCase().trim();
-                document.querySelectorAll('#featured-grid .project-card').forEach(card => {
-                    const match = !query || card.textContent.toLowerCase().includes(query) || (card.dataset.tags || '').toLowerCase().includes(query);
-                    card.style.display = match ? '' : 'none';
-                });
-                document.querySelectorAll('#category-grid .project-card').forEach(card => {
-                    const match = !query || card.textContent.toLowerCase().includes(query) || (card.dataset.tags || '').toLowerCase().includes(query);
-                    card.style.display = match ? '' : 'none';
-                });
-            });
         },
 
         getIcon(iconName) {

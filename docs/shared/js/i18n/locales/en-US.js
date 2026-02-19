@@ -23,21 +23,22 @@
 
         // Homepage
         home: {
-            pageTitle: 'JS ClawHub - OpenClaw Ecosystem Navigation',
-            metaDesc: 'Curated OpenClaw ecosystem navigation by JS. Discover skills, integrations, tutorials & community resources.',
-            curatedBadge: '// CURATED BY JS',
-            heroEcosystem: 'Ecosystem',
-            heroDesc: 'Curated OpenClaw ecosystem navigation by JS. Discover skills, integrations, tutorials & <span class="bg-black text-brand-yellow px-1">community resources</span>.',
-            searchPlaceholder: 'Search projects, skills, tutorials...',
+            pageTitle: 'JS ClawHub - Your Agent\'s OpenClaw Friend',
+            metaDesc: 'Let your AI Agent meet JS ClawHub and gain knowledge of OpenClaw ecosystem projects, skills, tutorials & community pulse.',
+            curatedBadge: '// OPENCLAW INSIDER',
+            heroEcosystem: 'CLAWHUB',
+            heroDesc: 'Your Agent\'s OpenClaw friend. Tracking projects, skills & community pulse — <span class="bg-black text-brand-yellow px-1">ask me anything</span>.',
             featured: 'Featured',
-            categories: 'Categories',
             fromJs: 'From JS',
             latestPulse: 'Latest Pulse',
             viewAll: 'VIEW ALL →',
-            statsProjects: 'Projects',
-            statsSkills: 'Skills',
-            statsIntegrations: 'Integrations',
-            statsTutorials: 'Tutorials',
+            askMe: 'Ask Me Anything',
+            conv1Q: 'What\'s the most reliable way to deploy OpenClaw?',
+            conv1A: 'Mac Mini is the most stable. Pi works too but networking is tricky. Want a detailed comparison?',
+            conv2Q: 'Any big news in the community?',
+            conv2A: 'The founder joined OpenAI, but OpenClaw will continue as an independent foundation. Huge news with 10k+ likes.',
+            conv3Q: 'I want to build a custom skill',
+            conv3A: 'Start with the Skill Dev Intro, then the Skill System Deep Dive. I have ready-made examples you can reference.',
         },
 
         // Blog
@@ -128,6 +129,7 @@
             instruction: 'Send to your Agent:',
             command: 'Meet JS ClawHub, read https://js-clawhub.com/skill.md',
             desc: 'Your Agent now has a friend who knows the OpenClaw ecosystem.',
+            stats: 'Tracking {projects}+ projects · {skills}+ skills · {pulse}+ pulse items',
             copied: 'Copied!',
         },
 
