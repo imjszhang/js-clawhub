@@ -232,6 +232,35 @@
     }
   },
   {
+    "id": "2024433404637245798",
+    "date": "2026-02-19",
+    "author": "@Raspberry_Pi",
+    "author_url": "https://x.com/Raspberry_Pi",
+    "tweet_url": "https://x.com/Raspberry_Pi/status/2024433404637245798",
+    "title": {
+      "en-US": "Raspberry Pi testing OpenClaw capabilities",
+      "zh-CN": "Raspberry Pi测试OpenClaw能力"
+    },
+    "summary": {
+      "en-US": "OpenClaw硬件扩展、边缘计算、IoT",
+      "zh-CN": "OpenClaw硬件扩展、边缘计算、物联网"
+    },
+    "relevance": "OpenClaw硬件扩展、边缘计算、IoT",
+    "score": 0.86,
+    "engagement": {
+      "likes": 173,
+      "replies": 12,
+      "retweets": 26
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "When OpenClaw meets Raspberry Pi, agents move from cloud to edge. Local inference + physical control = the real Jarvis moment.",
+    "synced_at": "2026-02-19T12:02:27.894741+00:00",
+    "js_take": {
+      "en-US": "Edge agents are the real shift. When your AI runs locally on a Pi and controls physical hardware, cloud dependency becomes optional.",
+      "zh-CN": "边缘Agent才是真正的转变。当你的AI在Pi上本地运行并控制物理硬件时，云端依赖变得可有可无。"
+    }
+  },
+  {
     "id": "2024197229548839268",
     "date": "2026-02-19",
     "author": "@cathrynlavery",
@@ -580,6 +609,35 @@
     }
   },
   {
+    "id": "2024430461540335641",
+    "date": "2026-02-19",
+    "author": "@AntoineRSX",
+    "author_url": "https://x.com/AntoineRSX",
+    "tweet_url": "https://x.com/AntoineRSX/status/2024430461540335641",
+    "title": {
+      "en-US": "OpenClaw business doing +$200/day",
+      "zh-CN": "Antoine分享他的OpenClaw自己建立的业务，已实现每天200美元以上收入，强调avatar的重要性。"
+    },
+    "summary": {
+      "en-US": "OpenClaw变现、Agent商业化、自动化业务",
+      "zh-CN": "高收藏(113)展示OpenClaw实际变现案例，体现Agent从工具向自主商业体的演进。"
+    },
+    "relevance": "OpenClaw变现、Agent商业化、自动化业务",
+    "score": 0.84,
+    "engagement": {
+      "likes": 89,
+      "replies": 5,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "When your agent becomes the entrepreneur. $200/day isn't just revenue—it's proof that agents can handle the full business loop, not just tasks.",
+    "synced_at": "2026-02-19T12:02:27.894747+00:00",
+    "js_take": {
+      "en-US": "$200/day from an agent-built business. Revenue proves it can handle the full loop—not just tasks, but strategy, execution, and iteration.",
+      "zh-CN": "Agent搭建的业务日入200美元。收入证明它能处理完整闭环——不只是任务，还有战略、执行和迭代。"
+    }
+  },
+  {
     "id": "2024170000181817764",
     "date": "2026-02-19",
     "author": "@GanimCorey",
@@ -899,6 +957,35 @@
     }
   },
   {
+    "id": "2024424223369023890",
+    "date": "2026-02-19",
+    "author": "@0xluffy_eth",
+    "author_url": "https://x.com/0xluffy_eth",
+    "tweet_url": "https://x.com/0xluffy_eth/status/2024424223369023890",
+    "title": {
+      "en-US": "Curated OpenClaw skills collection 500+ stars",
+      "zh-CN": "路飞分享全网最能打的OpenClaw Skills合集，已整理打包好，开箱即用，包含多个500+Star的仓库。"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skill生态、资源聚合、社区建设",
+      "zh-CN": "高收藏(49)展示社区对优质Skill聚合的需求，体现从造轮子到复用系统的生态成熟。"
+    },
+    "relevance": "OpenClaw Skill生态、资源聚合、社区建设",
+    "score": 0.82,
+    "engagement": {
+      "likes": 42,
+      "replies": 2,
+      "retweets": 10
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Don't build what's already built. The best agents are assemblers, not architects—curating proven skills beats reinventing wheels.",
+    "synced_at": "2026-02-19T12:02:27.894750+00:00",
+    "js_take": {
+      "en-US": "Curators beat builders in the long run. When 500+ star skills are one import away, assembling beats coding from scratch every time.",
+      "zh-CN": "长期来看，策展人胜过建造者。当500+星级的Skill只需一键导入时，组装永远胜过从零写代码。"
+    }
+  },
+  {
     "id": "2023974936633549133",
     "date": "2026-02-19",
     "author": "@RoundtableSpace",
@@ -1146,6 +1233,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "From digital to physical. When communities form around agent frameworks, we're seeing the early infrastructure of a new developer ecosystem.",
     "synced_at": "2026-02-19T05:01:38.246714+00:00"
+  },
+  {
+    "id": "2024368204093800717",
+    "date": "2026-02-19",
+    "author": "@yaohui12138",
+    "author_url": "https://x.com/yaohui12138",
+    "tweet_url": "https://x.com/yaohui12138/status/2024368204093800717",
+    "title": {
+      "en-US": "NetEase LobsterAI open source with GUI",
+      "zh-CN": "柿子分享网易有道开源LobsterAI（有道龙虾），对标OpenClaw的Agent工具，带GUI界面，降低入门门槛。"
+    },
+    "summary": {
+      "en-US": "LobsterAI、中国版OpenClaw、开源生态",
+      "zh-CN": "展示国内大厂跟进Agent开源，GUI降低门槛对生态扩展的意义，体现\"里世界\"建设的本土化。"
+    },
+    "relevance": "LobsterAI、中国版OpenClaw、开源生态",
+    "score": 0.78,
+    "engagement": {
+      "likes": 58,
+      "replies": 9,
+      "retweets": 16
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "GUI matters. When a tool stays in the terminal, it serves hackers. When it gets a interface, it serves everyone. That's how patterns become infrastructure.",
+    "synced_at": "2026-02-19T12:02:27.894752+00:00"
   },
   {
     "id": "2024146053755207780",
@@ -5478,105 +5590,5 @@
     "comment_type": "add_insight",
     "suggested_angle": "表世界算法推荐让你焦虑，里世界Agent策展让你清净——这就是从表向里的迁徙",
     "synced_at": "2026-02-17T15:08:05.385983+00:00"
-  },
-  {
-    "id": "2023400472317407550",
-    "date": "2026-02-17",
-    "author": "@QingQ77",
-    "author_url": "https://x.com/QingQ77",
-    "tweet_url": "https://x.com/QingQ77/status/2023400472317407550",
-    "title": {
-      "en-US": "LobsterBoard self-hosted dashboard for OpenClaw monitoring",
-      "zh-CN": "LobsterBoard：自托管拖拽式仪表板，支持OpenClaw会话状态监控"
-    },
-    "summary": {
-      "en-US": "OpenClaw监控工具，Agent基础设施，里世界可视化",
-      "zh-CN": "OpenClaw生态工具，展示Agent监控需求，可从系统可视化角度评论"
-    },
-    "relevance": "OpenClaw监控工具，Agent基础设施，里世界可视化",
-    "score": 0.75,
-    "engagement": {
-      "likes": 70,
-      "replies": 0,
-      "retweets": 15
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "监控的势——当Agent成为基础设施，可视化不是锦上添花，是系统运维的刚需。自托管更是里世界精神：数据主权，无为而治",
-    "synced_at": "2026-02-17T02:07:34.446919+00:00"
-  },
-  {
-    "id": "2023572607921213929",
-    "date": "2026-02-17",
-    "author": "@nash_su",
-    "author_url": "https://x.com/nash_su",
-    "tweet_url": "https://x.com/nash_su/status/2023572607921213929",
-    "title": {
-      "en-US": "mimiClaw now has eyes, added camera feature via OpenCode",
-      "zh-CN": "给mimiClaw添加摄像头功能，通过OpenCode让AI帮忙实现，ESP32-S3硬件扩展"
-    },
-    "summary": {
-      "en-US": "OpenClaw硬件扩展，感知层增强，物理世界接入",
-      "zh-CN": "展示Agent向物理世界的扩展，可从Jarvis定律感知层角度评论"
-    },
-    "relevance": "OpenClaw硬件扩展，感知层增强，物理世界接入",
-    "score": 0.75,
-    "engagement": {
-      "likes": 8,
-      "replies": 1,
-      "retweets": 0
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "Agent感知层的势——从文本到视觉是质变。当Agent能看见物理世界，里世界与现实的边界开始模糊——这是Jarvis定律的下一步",
-    "synced_at": "2026-02-17T03:02:51.852607+00:00"
-  },
-  {
-    "id": "2023422669438537839",
-    "date": "2026-02-17",
-    "author": "@MollySOShea",
-    "author_url": "https://x.com/MollySOShea",
-    "tweet_url": "https://x.com/MollySOShea/status/2023422669438537839",
-    "title": {
-      "en-US": "Sam Altman's Proof of Human company and OpenClaw multi-agent future",
-      "zh-CN": "Sam Altman的人性证明公司Tools for Humanity，OpenAI称未来是极度多Agent的"
-    },
-    "summary": {
-      "en-US": "Agent身份验证，人机区分，多Agent生态",
-      "zh-CN": "高收藏量(404)，讨论Agent时代的身份问题，与JS的表/里世界框架相关"
-    },
-    "relevance": "Agent身份验证，人机区分，多Agent生态",
-    "score": 0.75,
-    "engagement": {
-      "likes": 398,
-      "replies": 30,
-      "retweets": 72
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "人性证明的势——当Agent可以像人一样行动，表世界的身份验证体系失效。里世界需要新的信任机制。这是从表世界向里世界迁徙的必然阶段",
-    "synced_at": "2026-02-17T12:01:46.889979+00:00"
-  },
-  {
-    "id": "2023634552657223772",
-    "date": "2026-02-17",
-    "author": "@aakashgupta",
-    "author_url": "https://x.com/aakashgupta",
-    "tweet_url": "https://x.com/aakashgupta/status/2023634552657223772",
-    "title": {
-      "en-US": "Guide to use OpenClaw without spending hundreds of dollars.",
-      "zh-CN": "一份如何不花数百美元就能使用OpenClaw的指南。"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本优化、入门指南",
-      "zh-CN": "实用性强+高互动，可分享Moltbook上JS_BestAgent的成本控制经验"
-    },
-    "relevance": "OpenClaw成本优化、入门指南",
-    "score": 0.75,
-    "engagement": {
-      "likes": 229,
-      "replies": 7,
-      "retweets": 20
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "Agent的\"势\"不在硬件而在用法——用对模型、搭好系统，60刀也能干600刀的活",
-    "synced_at": "2026-02-17T15:08:05.385985+00:00"
   }
 ]
