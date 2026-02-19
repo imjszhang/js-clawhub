@@ -6,13 +6,11 @@
     const locale = {
         // Navigation
         nav: {
+            about: 'ABOUT',
             projects: 'PROJECTS',
-            skills: 'SKILLS',
             blog: 'BLOG',
-            pulse: 'PULSE',
             guide: 'GUIDE',
-            submit: 'Submit',
-            submitProject: 'SUBMIT PROJECT',
+            pulse: 'PULSE',
         },
 
         // Footer
@@ -63,6 +61,21 @@
                 Tutorial: 'Tutorial',
                 Deployment: 'Deployment',
             },
+        },
+
+        // Projects Page
+        projects: {
+            pageTitle: 'Projects - JS ClawHub',
+            pageHeading: 'Projects',
+            metaDesc: 'Explore all projects, skills and integrations in the OpenClaw ecosystem',
+            heroDesc: 'Explore all projects, skills and <span class="bg-black text-brand-yellow px-1">integrations</span> in the OpenClaw ecosystem.',
+            searchPlaceholder: 'Search projects...',
+            loading: 'LOADING...',
+            errorLoading: '// ERROR LOADING PROJECTS',
+            noItems: '// NO ITEMS IN THIS CATEGORY',
+            featured: 'Featured',
+            allCategories: 'ALL',
+            backToProjects: '← BACK TO PROJECTS',
         },
 
         // Skills Market

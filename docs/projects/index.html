@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>项目 - JS ClawHub</title>
+    <meta name="description" content="探索 OpenClaw 生态的全部项目、技能与集成">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="项目 - JS ClawHub">
+    <meta property="og:description" content="探索 OpenClaw 生态的全部项目、技能与集成">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Space Grotesk', 'sans-serif'], mono: ['JetBrains Mono', 'monospace'] },
+                    colors: { brand: { yellow: '#FCD228', black: '#000000', white: '#FFFFFF' } },
+                    boxShadow: { 'brutal': '4px 4px 0px 0px #000000', 'brutal-lg': '8px 8px 0px 0px #000000', 'brutal-hover': '2px 2px 0px 0px #000000', 'brutal-white': '4px 4px 0px 0px #FFFFFF' },
+                    borderWidth: { '3': '3px' },
+                    animation: { 'slide-up': 'slideUp 0.8s ease-out forwards' },
+                    keyframes: { slideUp: { '0%': { opacity: '0', transform: 'translateY(40px)' }, '100%': { opacity: '1', transform: 'translateY(0)' } } }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="../shared/css/brutal.css">
+    <script src="../shared/js/i18n/index.js"></script>
+    <script src="../shared/js/i18n/locales/zh-CN.js"></script>
+    <script src="../shared/js/i18n/locales/en-US.js"></script>
+    <script>if (typeof I18nManager !== 'undefined') I18nManager.init();</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4WV60W6FM6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-4WV60W6FM6');
+</script>
+</head>
+<body class="min-h-screen font-sans selection:bg-black selection:text-brand-yellow overflow-x-hidden">
+    <div id="canvas-container" class="fixed inset-0 -z-10 opacity-40 pointer-events-none"></div>
+    <div id="nav-container"></div>
+    <main class="pt-32 pb-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+        <section class="mb-12">
+            <h1 class="brutal-section-title mb-6" data-i18n="projects.pageHeading">Projects</h1>
+            <p class="text-xl font-bold max-w-2xl border-l-4 border-black pl-6 bg-white/50 p-4" data-i18n-html="projects.heroDesc">
+                探索 OpenClaw 生态的全部项目、技能与<span class="bg-black text-brand-yellow px-1">集成</span>。
+            </p>
+        </section>
+
+        <!-- Search -->
+        <section class="mb-8">
+            <div class="relative">
+                <input type="text" id="project-search" class="brutal-search w-full pl-14" data-i18n-placeholder="projects.searchPlaceholder" placeholder="搜索项目...">
+                <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5">
+                    <path stroke-linecap="square" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+                </svg>
+            </div>
+            <div id="category-tabs" class="flex flex-wrap gap-3 mt-4"></div>
+        </section>
+
+        <!-- Featured -->
+        <section id="featured-section" class="mb-12 hidden">
+            <h2 class="brutal-section-title text-2xl mb-6" data-i18n="projects.featured">Featured</h2>
+            <div id="featured-grid" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
+        </section>
+
+        <!-- Items Grid -->
+        <div id="items-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div id="loading-state" class="col-span-full text-center py-12">
+                <div class="brutal-loading mx-auto mb-4"></div>
+                <p class="font-mono font-bold" data-i18n="projects.loading">LOADING...</p>
+            </div>
+        </div>
+    </main>
+    <div id="footer-container"></div>
+    <script src="../shared/js/threejs-bg.js"></script>
+    <script src="../shared/js/nav.js"></script>
+    <script src="../shared/js/footer.js"></script>
+
+    <script>
+    const ProjectsPage = {
+        categories: [],
+        featured: [],
+        currentCategory: 'all',
+
+        _l(obj, field) {
+            if (typeof I18nManager !== 'undefined') return I18nManager.getLocalizedField(obj, field);
+            const val = obj[field]; return typeof val === 'string' ? val : (val && val['zh-CN']) || '';
+        },
+        _t(key) { return typeof I18nManager !== 'undefined' ? I18nManager.t(key) : key; },
+
+        async init() {
+            try {
+                const [navResp, skillsResp] = await Promise.all([
+                    fetch('../data/navigation.json'),
+                    fetch('../skills/data/index.json')
+                ]);
+                if (!navResp.ok) throw new Error('Failed to load navigation data');
+
+                const navData = await navResp.json();
+                this.featured = navData.featured || [];
+                this.categories = navData.categories || [];
+
+                if (skillsResp.ok) {
+                    const skillsData = await skillsResp.json();
+                    const skillItems = skillsData.map(s => ({
+                        name: s.name,
+                        url: '../skills/detail.html?slug=' + encodeURIComponent(s.slug),
+                        desc: s.desc,
+                        tags: s.tags || [],
+                        _isSkill: true,
+                        _author: s.author,
+                        _slug: s.slug
+                    }));
+                    this.categories.push({
+                        id: 'skills',
+                        name: { 'zh-CN': '技能', 'en-US': 'SKILLS' },
+                        items: skillItems
+                    });
+                }
+
+                document.getElementById('loading-state')?.remove();
+                this.renderTabs();
+                this.renderFeatured();
+                this.renderItems();
+                this.initSearch();
+                document.title = this._t('projects.pageTitle');
+            } catch (error) {
+                console.error('Error:', error);
+                const loading = document.getElementById('loading-state');
+                if (loading) loading.innerHTML = '<p class="font-mono font-bold text-xl">' + this._t('projects.errorLoading') + '</p>';
+            }
+        },
+
+        renderTabs() {
+            const tabs = document.getElementById('category-tabs');
+            if (!tabs) return;
+            const allLabel = this._t('projects.allCategories');
+            const tabsData = [{ id: 'all', label: allLabel }, ...this.categories.map(c => ({ id: c.id, label: this._l(c, 'name') }))];
+            tabs.innerHTML = tabsData.map(tab =>
+                '<button class="' + (tab.id === this.currentCategory ? 'brutal-btn-primary' : 'brutal-btn-secondary') +
+                ' px-4 py-2 text-sm category-tab" data-category="' + tab.id +
+                '" onclick="ProjectsPage.switchCategory(\'' + tab.id + '\')">' +
+                this.escapeHtml(tab.label) + '</button>'
+            ).join('');
+        },
+
+        switchCategory(catId) {
+            this.currentCategory = catId;
+            document.querySelectorAll('.category-tab').forEach(tab => {
+                tab.className = (tab.dataset.category === catId ? 'brutal-btn-primary' : 'brutal-btn-secondary') + ' px-4 py-2 text-sm category-tab';
+            });
+            const featuredSection = document.getElementById('featured-section');
+            if (featuredSection) featuredSection.classList.toggle('hidden', catId !== 'all');
+            this.renderItems();
+        },
+
+        renderFeatured() {
+            const grid = document.getElementById('featured-grid');
+            const section = document.getElementById('featured-section');
+            if (!grid || !section || this.featured.length === 0) return;
+            section.classList.remove('hidden');
+            grid.innerHTML = this.featured.map(item => `
+                <a href="${this.escapeHtml(item.url)}" target="_blank" class="brutal-card p-6 flex flex-col h-full no-underline text-black">
+                    <h3 class="text-xl font-bold mb-2 uppercase">${this.escapeHtml(item.name)}</h3>
+                    <p class="font-medium text-sm mb-3 flex-grow">${this.escapeHtml(this._l(item, 'desc'))}</p>
+                    ${item.jsComment ? `<div class="mt-auto pt-3 border-t-2 border-black/10"><p class="font-mono text-xs text-black/60">// JS: ${this.escapeHtml(this._l(item, 'jsComment'))}</p></div>` : ''}
+                    <div class="flex flex-wrap gap-1 mt-2">${(item.tags || []).map(t => '<span class="brutal-tag">' + this.escapeHtml(t) + '</span>').join('')}</div>
+                </a>
+            `).join('');
+        },
+
+        renderItems() {
+            const grid = document.getElementById('items-grid');
+            if (!grid) return;
+
+            let items = [];
+            if (this.currentCategory === 'all') {
+                this.categories.forEach(cat => {
+                    (cat.items || []).forEach(item => {
+                        items.push({ ...item, _categoryId: cat.id, _categoryName: this._l(cat, 'name') });
+                    });
+                });
+            } else {
+                const cat = this.categories.find(c => c.id === this.currentCategory);
+                if (cat) {
+                    items = (cat.items || []).map(item => ({ ...item, _categoryId: cat.id, _categoryName: this._l(cat, 'name') }));
+                }
+            }
+
+            if (items.length === 0) {
+                grid.innerHTML = '<div class="col-span-full text-center py-12 font-mono font-bold text-xl">' + this._t('projects.noItems') + '</div>';
+                return;
+            }
+
+            grid.innerHTML = items.map(item => {
+                const isSkill = item._isSkill;
+                const href = this.escapeHtml(item.url);
+                const target = isSkill ? '' : ' target="_blank"';
+                const authorHtml = isSkill && item._author
+                    ? '<p class="font-mono text-xs text-black/60 mt-1">by @' + this.escapeHtml(item._author.name) + '</p>'
+                    : '';
+
+                return `<a href="${href}"${target} class="brutal-card p-6 flex flex-col no-underline text-black project-item" data-tags="${this.escapeHtml((item.tags || []).join(' ') + ' ' + (item._categoryId || ''))}" data-search="${this.escapeHtml((item.name + ' ' + this._l(item, 'desc')).toLowerCase())}">
+                    <div class="flex items-start justify-between mb-2">
+                        <div>
+                            <h3 class="text-lg font-bold uppercase">${this.escapeHtml(item.name)}</h3>
+                            ${authorHtml}
+                        </div>
+                        <svg class="w-5 h-5 flex-shrink-0 ml-2 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M9 5l7 7-7 7"/></svg>
+                    </div>
+                    <p class="font-medium text-sm mb-3 flex-grow">${this.escapeHtml(this._l(item, 'desc'))}</p>
+                    <div class="flex flex-wrap gap-1 mt-auto pt-3 border-t-2 border-black/10">
+                        <span class="brutal-tag">${this.escapeHtml(item._categoryName)}</span>
+                        ${(item.tags || []).map(t => '<span class="brutal-tag" style="background:#FCD228;color:#000;">' + this.escapeHtml(t) + '</span>').join('')}
+                    </div>
+                </a>`;
+            }).join('');
+        },
+
+        initSearch() {
+            const input = document.getElementById('project-search');
+            if (!input) return;
+            input.addEventListener('input', (e) => {
+                const query = e.target.value.toLowerCase().trim();
+                document.querySelectorAll('.project-item').forEach(card => {
+                    const match = !query || card.textContent.toLowerCase().includes(query) || (card.dataset.tags || '').toLowerCase().includes(query);
+                    card.style.display = match ? '' : 'none';
+                });
+            });
+        },
+
+        escapeHtml(str) { if (!str) return ''; const div = document.createElement('div'); div.textContent = str; return div.innerHTML; }
+    };
+
+    document.addEventListener('DOMContentLoaded', () => ProjectsPage.init());
+    window.addEventListener('localechange', () => {
+        document.title = ProjectsPage._t('projects.pageTitle');
+        if (typeof I18nManager !== 'undefined') I18nManager.updateDOM();
+        ProjectsPage.renderTabs();
+        ProjectsPage.renderFeatured();
+        ProjectsPage.renderItems();
+    });
+    </script>
+</body>
+</html>

@@ -6,13 +6,11 @@
     const locale = {
         // 导航
         nav: {
+            about: '关于',
             projects: '项目',
-            skills: '技能',
             blog: '博客',
-            pulse: '动态',
             guide: '指南',
-            submit: '提交',
-            submitProject: '提交项目',
+            pulse: '动态',
         },
 
         // 页脚
@@ -63,6 +61,21 @@
                 Tutorial: '教程',
                 Deployment: '部署',
             },
+        },
+
+        // 项目页
+        projects: {
+            pageTitle: '项目 - JS ClawHub',
+            pageHeading: '项目',
+            metaDesc: '探索 OpenClaw 生态的全部项目、技能与集成',
+            heroDesc: '探索 OpenClaw 生态的全部项目、技能与<span class="bg-black text-brand-yellow px-1">集成</span>。',
+            searchPlaceholder: '搜索项目...',
+            loading: '加载中...',
+            errorLoading: '// 加载项目失败',
+            noItems: '// 该分类暂无项目',
+            featured: '精选',
+            allCategories: '全部',
+            backToProjects: '← 返回项目',
         },
 
         // 技能市场
