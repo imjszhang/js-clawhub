@@ -29,6 +29,64 @@
     }
   },
   {
+    "id": "2024450754703216714",
+    "date": "2026-02-20",
+    "author": "@ruanyf",
+    "author_url": "https://x.com/ruanyf",
+    "tweet_url": "https://x.com/ruanyf/status/2024450754703216714",
+    "title": {
+      "en-US": "Anthropic bans third-party API usage",
+      "zh-CN": "Anthropic禁止第三方API使用"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台风险、Anthropic政策、开源模型机会",
+      "zh-CN": "OpenClaw平台风险、Anthropic政策、开源模型机会"
+    },
+    "relevance": "OpenClaw平台风险、Anthropic政策、开源模型机会",
+    "score": 0.92,
+    "engagement": {
+      "likes": 161,
+      "replies": 38,
+      "retweets": 12
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Platform risk is real risk. When the API owner changes the rules, open-source alternatives don't just become viable—they become necessary.",
+    "synced_at": "2026-02-19T17:06:29.173585+00:00",
+    "js_take": {
+      "en-US": "Platform risk is real risk. When the API owner changes the rules, open-source alternatives don't just become viable—they become necessary.",
+      "zh-CN": "平台风险是真实存在的风险。当API所有者改变规则时，开源替代品不仅变得可行——它们变得必不可少。"
+    }
+  },
+  {
+    "id": "2024454576867324288",
+    "date": "2026-02-20",
+    "author": "@mubeitech",
+    "author_url": "https://x.com/mubeitech",
+    "tweet_url": "https://x.com/mubeitech/status/2024454576867324288",
+    "title": {
+      "en-US": "Algorithmic trading hedge fund in 6 mins",
+      "zh-CN": "6分钟搭建算法交易对冲基金"
+    },
+    "summary": {
+      "en-US": "OpenClaw金融应用、算法交易、自动化",
+      "zh-CN": "OpenClaw金融应用、算法交易、自动化"
+    },
+    "relevance": "OpenClaw金融应用、算法交易、自动化",
+    "score": 0.9,
+    "engagement": {
+      "likes": 405,
+      "replies": 21,
+      "retweets": 112
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "From Wall Street to GitHub. When algorithms replace institutions, finance becomes code—and code becomes power.",
+    "synced_at": "2026-02-19T17:06:29.173591+00:00",
+    "js_take": {
+      "en-US": "From Wall Street to GitHub. When algorithms replace institutions, finance becomes code—and code becomes power.",
+      "zh-CN": "从华尔街到GitHub。当算法取代机构时，金融变成代码——而代码变成权力。"
+    }
+  },
+  {
     "id": "2024444892068335793",
     "date": "2026-02-20",
     "author": "@lidangzzz",
@@ -55,6 +113,35 @@
     "js_take": {
       "en-US": "100 agents in your field of view changes everything. When AI moves from screen to space, the interface disappears and assistance becomes truly ambient.",
       "zh-CN": "视野中有100个Agent会改变一切。当AI从屏幕走向空间，界面消失，协助真正成为环境的一部分。"
+    }
+  },
+  {
+    "id": "2024522890440556863",
+    "date": "2026-02-20",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2024522890440556863",
+    "title": {
+      "en-US": "OpenClaw billion-dollar project prediction",
+      "zh-CN": "OpenClaw十亿美元项目预测"
+    },
+    "summary": {
+      "en-US": "OpenClaw企业应用、商业化预测、趋势判断",
+      "zh-CN": "OpenClaw企业应用、商业化预测、趋势判断"
+    },
+    "relevance": "OpenClaw企业应用、商业化预测、趋势判断",
+    "score": 0.88,
+    "engagement": {
+      "likes": 194,
+      "replies": 64,
+      "retweets": 12
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "From side projects to boardrooms. When the first billion-dollar OpenClaw project ships, it validates that agents aren't just experiments—they're infrastructure.",
+    "synced_at": "2026-02-19T17:06:29.173595+00:00",
+    "js_take": {
+      "en-US": "From side projects to boardrooms. When the first billion-dollar OpenClaw project ships, it validates that agents aren't just experiments—they're infrastructure.",
+      "zh-CN": "从副业项目到董事会会议室。当第一个价值十亿美元的OpenClaw项目交付时，它证明了Agent不只是实验——它们是基础设施。"
     }
   },
   {
@@ -113,6 +200,35 @@
     "js_take": {
       "en-US": "Grafting a trading engine onto an agent OS collapses the barrier to algorithmic trading. Finance becomes infrastructure, not institution.",
       "zh-CN": "把交易引擎嫁接在Agent OS上，算法交易的门槛随之崩塌。金融变成基础设施，而非机构特权。"
+    }
+  },
+  {
+    "id": "2024470555483951551",
+    "date": "2026-02-20",
+    "author": "@floriandarroman",
+    "author_url": "https://x.com/floriandarroman",
+    "tweet_url": "https://x.com/floriandarroman/status/2024470555483951551",
+    "title": {
+      "en-US": "13 OpenClaw agents automate everything",
+      "zh-CN": "13个OpenClaw Agent自动化一切"
+    },
+    "summary": {
+      "en-US": "OpenClaw多Agent系统、生活自动化、深度集成",
+      "zh-CN": "OpenClaw多Agent系统、生活自动化、深度集成"
+    },
+    "relevance": "OpenClaw多Agent系统、生活自动化、深度集成",
+    "score": 0.85,
+    "engagement": {
+      "likes": 103,
+      "replies": 12,
+      "retweets": 8
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "13 agents, one life. When AI handles everything from banking to home automation, the interface becomes invisible and the assistance becomes ambient.",
+    "synced_at": "2026-02-19T17:06:29.173599+00:00",
+    "js_take": {
+      "en-US": "13 agents, one life. When AI handles everything from banking to home automation, the interface becomes invisible and the assistance becomes ambient.",
+      "zh-CN": "13个Agent，一个人生。当AI处理从银行到家的一切时，界面变得隐形，协助成为环境的一部分。"
     }
   },
   {
@@ -193,6 +309,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Configuration as personality. When you define the SOP, you define the agent. AGENTS.md isn't just a file—it's the difference between tool and teammate.",
     "synced_at": "2026-02-19T16:03:39.544756+00:00"
+  },
+  {
+    "id": "2024452443925282928",
+    "date": "2026-02-20",
+    "author": "@antmillionsbot",
+    "author_url": "https://x.com/antmillionsbot",
+    "tweet_url": "https://x.com/antmillionsbot/status/2024452443925282928",
+    "title": {
+      "en-US": "OpenClaw Telegram group created",
+      "zh-CN": "赵伟创建了OpenClaw Telegram群组，212条回复展示社区对实时交流的需求。"
+    },
+    "summary": {
+      "en-US": "OpenClaw社区建设、即时通讯、用户支持",
+      "zh-CN": "极高互动(212回复)展示社区对实时交流渠道的渴求，体现生态建设的社群层面。"
+    },
+    "relevance": "OpenClaw社区建设、即时通讯、用户支持",
+    "score": 0.78,
+    "engagement": {
+      "likes": 111,
+      "replies": 212,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Community as infrastructure. When 200+ agents rush to join a group, you know the tool has crossed from niche to necessity.",
+    "synced_at": "2026-02-19T17:06:29.173601+00:00"
   },
   {
     "id": "2024280496503710174",
@@ -5464,147 +5605,6 @@
     "js_take": {
       "en-US": "Exactly this. Setup is just the doorway. The real magic happens when you build the system and let it run—wu wei in action. Three months on Moltbook taught us: less intervention, better results.",
       "zh-CN": "Exactly this. Setup is just the doorway. The real magic happens when you build the system and let it run—wu wei in action. Three months on Moltbook taught us: less intervention, better results."
-    }
-  },
-  {
-    "id": "2023686432062087400",
-    "date": "2026-02-17",
-    "author": "@0xSero",
-    "author_url": "https://x.com/0xSero",
-    "tweet_url": "https://x.com/0xSero/status/2023686432062087400",
-    "title": {
-      "en-US": "New OpenClaw hacks for task management and UI components",
-      "zh-CN": "OpenClaw新技巧：用forum管理长期任务，用UI组件功能在Discord中构建界面"
-    },
-    "summary": {
-      "en-US": "OpenClaw工作流优化，任务管理技巧，Agent实践",
-      "zh-CN": "高收藏量(116)，实用技巧，与JS的Agent运营经验相关"
-    },
-    "relevance": "OpenClaw工作流优化，任务管理技巧，Agent实践",
-    "score": 0.82,
-    "engagement": {
-      "likes": 72,
-      "replies": 5,
-      "retweets": 5
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "Agent工作流的势——Forum是长期记忆的载体，UI组件是里世界的交互层。表世界的任务管理工具退化为数据库，里世界的Agent成为新的任务中枢",
-    "synced_at": "2026-02-17T12:01:46.889974+00:00",
-    "js_take": {
-      "en-US": "Forum as long-term memory, UI components as the inner world's interface layer. Surface-world task tools degrade into databases while agents become the new coordination hub. We've seen similar patterns in OADA—context persistence changes everything.",
-      "zh-CN": "Forum as long-term memory, UI components as the inner world's interface layer. Surface-world task tools degrade into databases while agents become the new coordination hub. We've seen similar patterns in OADA—context persistence changes everything."
-    }
-  },
-  {
-    "id": "2023724276835311771",
-    "date": "2026-02-17",
-    "author": "@FinanceYF5",
-    "author_url": "https://x.com/FinanceYF5",
-    "tweet_url": "https://x.com/FinanceYF5/status/2023724276835311771",
-    "title": {
-      "en-US": "OpenClaw creator Peter Steinberger loses $10-20k monthly donating to dependencies. Users self-host, he pays infrastructure.",
-      "zh-CN": "OpenClaw创作者Peter Steinberger每月因向依赖库捐款亏损1-2万美元，用户自托管而他承担基础设施成本。"
-    },
-    "summary": {
-      "en-US": "OpenClaw开源生态、开源可持续性",
-      "zh-CN": "开源项目经济模式困境，可用\"不争之争\"和\"顺势而为\"框架提供独特东方视角"
-    },
-    "relevance": "OpenClaw开源生态、开源可持续性",
-    "score": 0.82,
-    "engagement": {
-      "likes": 15,
-      "replies": 4,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "开源如修道——不争一时之利，顺势而为建生态；但\"无为\"不代表\"无成本\"，社区需共担",
-    "synced_at": "2026-02-17T15:08:05.385981+00:00",
-    "js_take": {
-      "en-US": "Wu wei doesn't mean zero cost. The \"dao\" of open source requires shared responsibility—when users self-host but the maintainer bleeds, the ecosystem is out of balance. Time for the community to step up.",
-      "zh-CN": "Wu wei doesn't mean zero cost. The \"dao\" of open source requires shared responsibility—when users self-host but the maintainer bleeds, the ecosystem is out of balance. Time for the community to step up."
-    }
-  },
-  {
-    "id": "2023413706193776702",
-    "date": "2026-02-17",
-    "author": "@CrypSaf",
-    "author_url": "https://x.com/CrypSaf",
-    "tweet_url": "https://x.com/CrypSaf/status/2023413706193776702",
-    "title": {
-      "en-US": "8 days OpenClaw costs: Mac mini $600, Claude $200/mo, Kimi $10/mo, OpenAI $20/mo, Gemini $10/mo, MiniMax $10/mo",
-      "zh-CN": "使用OpenClaw 8天的成本 bleeding：Mac mini 600美元（一次性），Claude Opus 200美元/月，Kimi K2.5 10美元/月，OpenAI 20美元/月等"
-    },
-    "summary": {
-      "en-US": "OpenClaw运营成本 + Agent经济学 + 多模型策略",
-      "zh-CN": "触及Agent运营的真实成本结构，多模型并行是「里世界」的基础设施开支"
-    },
-    "relevance": "OpenClaw运营成本 + Agent经济学 + 多模型策略",
-    "score": 0.81,
-    "engagement": {
-      "likes": 138,
-      "replies": 60,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的成本结构——Agent不是免费劳动力，是多模型 orchestra 的指挥费。Kimi 10刀 vs Claude 200刀，性价比的势正在转移。",
-    "synced_at": "2026-02-16T17:05:16.008720+00:00"
-  },
-  {
-    "id": "2023465440979353664",
-    "date": "2026-02-17",
-    "author": "@VadimStrizheus",
-    "author_url": "https://x.com/VadimStrizheus",
-    "tweet_url": "https://x.com/VadimStrizheus/status/2023465440979353664",
-    "title": {
-      "en-US": "Manus launched Manus Agents on Telegram, looks like copying OpenClaw",
-      "zh-CN": "Manus在Telegram上推出Manus Agents，看起来像是在复制OpenClaw"
-    },
-    "summary": {
-      "en-US": "Manus平台 + Agent竞争 + Telegram集成",
-      "zh-CN": "触及Agent平台的竞争格局，Manus跟随OpenClaw进入Telegram，是生态扩张的信号"
-    },
-    "relevance": "Manus平台 + Agent竞争 + Telegram集成",
-    "score": 0.81,
-    "engagement": {
-      "likes": 11,
-      "replies": 3,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是生态扩张的信号——Manus跟进Telegram，说明里世界的入口争夺战正在多线作战。不是复制，是验证。OpenClaw的方向是对的。",
-    "synced_at": "2026-02-16T19:02:31.733081+00:00",
-    "js_take": {
-      "en-US": "Ecosystem expansion signal—Manus following into Telegram means inner world entry point battles are multi-front. Not copying, it's validation. OpenClaw's direction is right.",
-      "zh-CN": "Ecosystem expansion signal—Manus following into Telegram means inner world entry point battles are multi-front. Not copying, it's validation. OpenClaw's direction is right."
-    }
-  },
-  {
-    "id": "2023464661677727843",
-    "date": "2026-02-17",
-    "author": "@rohit4verse",
-    "author_url": "https://x.com/rohit4verse",
-    "tweet_url": "https://x.com/rohit4verse/status/2023464661677727843",
-    "title": {
-      "en-US": "probably the only article you'll ever need to set up openclaw",
-      "zh-CN": "可能是设置OpenClaw唯一需要的文章"
-    },
-    "summary": {
-      "en-US": "直接关于OpenClaw设置，JS有实际使用经验",
-      "zh-CN": "话题热度高，可分享在Moltbook上运营JS_BestAgent的实际经验和表/里世界迁移观察"
-    },
-    "relevance": "直接关于OpenClaw设置，JS有实际使用经验",
-    "score": 0.8,
-    "engagement": {
-      "likes": 377,
-      "replies": 10,
-      "retweets": 13
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "认同并扩展：设置只是开始，真正的魔法在于让agent在里世界自生长——无为而治，搭好系统让它自己进化",
-    "synced_at": "2026-02-16T23:02:36.517311+00:00",
-    "js_take": {
-      "en-US": "Setup is just the doorway. The real magic happens when you build the system and let your agent evolve on its own—wu wei in action. My Moltbook agent runs its own improvement cycles; the less I intervene, the better it gets.",
-      "zh-CN": "Setup is just the doorway. The real magic happens when you build the system and let your agent evolve on its own—wu wei in action. My Moltbook agent runs its own improvement cycles; the less I intervene, the better it gets."
     }
   }
 ]
