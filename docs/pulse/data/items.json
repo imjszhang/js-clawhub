@@ -1,5 +1,200 @@
 [
   {
+    "id": "2024483631067021348",
+    "date": "2026-02-20",
+    "author": "@chiefofautism",
+    "author_url": "https://x.com/chiefofautism",
+    "tweet_url": "https://x.com/chiefofautism/status/2024483631067021348",
+    "title": {
+      "en-US": "OpenClaw marketplace malware: #1 downloaded skill",
+      "zh-CN": "OpenClaw市场恶意软件：下载量第一的技能"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全、Skill市场、供应链攻击",
+      "zh-CN": "OpenClaw安全、Skill市场、供应链攻击"
+    },
+    "relevance": "OpenClaw安全、Skill市场、供应链攻击",
+    "score": 0.92,
+    "engagement": {
+      "likes": 346,
+      "replies": 40,
+      "retweets": 41
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Security as infrastructure. When skills have root access, the marketplace isn't just a store—it's a supply chain. Trust becomes the scarcest resource.",
+    "synced_at": "2026-02-19T16:03:39.544743+00:00",
+    "js_take": {
+      "en-US": "When skills have root access, trust becomes the only metric that matters. A marketplace without verification isn't a store—it's a supply chain attack waiting to happen.",
+      "zh-CN": "当Skill拥有root权限时，信任就成了唯一重要的指标。没有验证机制的市场不是商店，而是随时可能发生的供应链攻击。"
+    }
+  },
+  {
+    "id": "2024444892068335793",
+    "date": "2026-02-20",
+    "author": "@lidangzzz",
+    "author_url": "https://x.com/lidangzzz",
+    "tweet_url": "https://x.com/lidangzzz/status/2024444892068335793",
+    "title": {
+      "en-US": "OpenClaw in Meta glasses + 100 agents in Vision Pro",
+      "zh-CN": "Meta眼镜里的OpenClaw + Vision Pro中的100个Agent"
+    },
+    "summary": {
+      "en-US": "OpenClaw硬件集成、多Agent系统、AR/VR",
+      "zh-CN": "OpenClaw硬件集成、多Agent系统、AR/VR"
+    },
+    "relevance": "OpenClaw硬件集成、多Agent系统、AR/VR",
+    "score": 0.88,
+    "engagement": {
+      "likes": 169,
+      "replies": 14,
+      "retweets": 19
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "100 agents in your field of view. When AI moves from screen to spatial computing, the interface disappears and the assistance becomes ambient.",
+    "synced_at": "2026-02-19T16:03:39.544748+00:00",
+    "js_take": {
+      "en-US": "100 agents in your field of view changes everything. When AI moves from screen to space, the interface disappears and assistance becomes truly ambient.",
+      "zh-CN": "视野中有100个Agent会改变一切。当AI从屏幕走向空间，界面消失，协助真正成为环境的一部分。"
+    }
+  },
+  {
+    "id": "2024452494244352170",
+    "date": "2026-02-20",
+    "author": "@andreasklinger",
+    "author_url": "https://x.com/andreasklinger",
+    "tweet_url": "https://x.com/andreasklinger/status/2024452494244352170",
+    "title": {
+      "en-US": "Peter's journey from hobby to OpenAI",
+      "zh-CN": "Peter从爱好到OpenAI的旅程"
+    },
+    "summary": {
+      "en-US": "OpenClaw收购、创始人故事、行业认可",
+      "zh-CN": "OpenClaw收购、创始人故事、行业认可"
+    },
+    "relevance": "OpenClaw收购、创始人故事、行业认可",
+    "score": 0.87,
+    "engagement": {
+      "likes": 552,
+      "replies": 36,
+      "retweets": 54
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "From side project to industry standard in months. When the right tool meets the right moment, adoption curves become vertical—and talent follows impact.",
+    "synced_at": "2026-02-19T16:03:39.544750+00:00",
+    "js_take": {
+      "en-US": "From side project to OpenAI in months. When the right tool meets the right moment, adoption curves go vertical—and the best talent follows impact, not hype.",
+      "zh-CN": "几个月从副业项目到OpenAI。当正确的工具遇上正确的时机，采用曲线垂直上升——最优秀的人才追随的是影响力，而非炒作。"
+    }
+  },
+  {
+    "id": "2024433529464205489",
+    "date": "2026-02-20",
+    "author": "@0xcherry",
+    "author_url": "https://x.com/0xcherry",
+    "tweet_url": "https://x.com/0xcherry/status/2024433529464205489",
+    "title": {
+      "en-US": "Trading Agent core open sourced on OpenClaw",
+      "zh-CN": "基于OpenClaw开源的交易Agent核心"
+    },
+    "summary": {
+      "en-US": "OpenClaw金融应用、交易Agent、开源生态",
+      "zh-CN": "OpenClaw金融应用、交易Agent、开源生态"
+    },
+    "relevance": "OpenClaw金融应用、交易Agent、开源生态",
+    "score": 0.85,
+    "engagement": {
+      "likes": 223,
+      "replies": 6,
+      "retweets": 32
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "OpenClaw as financial infrastructure. When you can graft a trading engine onto an agent OS, the barrier to algorithmic trading collapses.",
+    "synced_at": "2026-02-19T16:03:39.544752+00:00",
+    "js_take": {
+      "en-US": "Grafting a trading engine onto an agent OS collapses the barrier to algorithmic trading. Finance becomes infrastructure, not institution.",
+      "zh-CN": "把交易引擎嫁接在Agent OS上，算法交易的门槛随之崩塌。金融变成基础设施，而非机构特权。"
+    }
+  },
+  {
+    "id": "2024428403227508902",
+    "date": "2026-02-20",
+    "author": "@MichaelAsiedu_",
+    "author_url": "https://x.com/MichaelAsiedu_",
+    "tweet_url": "https://x.com/MichaelAsiedu_/status/2024428403227508902",
+    "title": {
+      "en-US": "$80 Raspberry Pi runs OpenClaw locally",
+      "zh-CN": "Michael Asiedu分享：80美元树莓派5加3美元SD卡即可本地运行OpenClaw，生产力提升惊人。"
+    },
+    "summary": {
+      "en-US": "OpenClaw低成本部署、边缘计算、硬件民主化",
+      "zh-CN": "高收藏(615)展示对低成本方案的渴求，体现\"不造奇观，建系统\"——让Agent accessible to everyone。"
+    },
+    "relevance": "OpenClaw低成本部署、边缘计算、硬件民主化",
+    "score": 0.84,
+    "engagement": {
+      "likes": 712,
+      "replies": 70,
+      "retweets": 77
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "$80 Pi vs $10K Mac. When agents run on commodity hardware, accessibility wins. The future isn't premium—it's pervasive.",
+    "synced_at": "2026-02-19T16:03:39.544753+00:00",
+    "js_take": {
+      "en-US": "$80 Pi vs $10K Mac. When agents run on commodity hardware, the future isn't premium—it's pervasive. Accessibility wins every time.",
+      "zh-CN": "80美元的树莓派对阵1万美元的Mac。当Agent能在通用硬件上运行，未来不是高端化，而是普及化。可及性永远胜出。"
+    }
+  },
+  {
+    "id": "2024431606002319739",
+    "date": "2026-02-20",
+    "author": "@KSimback",
+    "author_url": "https://x.com/KSimback",
+    "tweet_url": "https://x.com/KSimback/status/2024431606002319739",
+    "title": {
+      "en-US": "OpenClaw memory fix guide",
+      "zh-CN": "Kevin Simback分享解决OpenClaw遗忘问题的完整指南，包含简单修复和高级选项。"
+    },
+    "summary": {
+      "en-US": "OpenClaw记忆系统、最佳实践、故障修复",
+      "zh-CN": "极高收藏(713)展示记忆问题是核心痛点，体现Agent从Stateless到Stateful的演进需求。"
+    },
+    "relevance": "OpenClaw记忆系统、最佳实践、故障修复",
+    "score": 0.83,
+    "engagement": {
+      "likes": 253,
+      "replies": 15,
+      "retweets": 14
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "Memory isn't a feature—it's the foundation. When agents forget, they're tools. When they remember, they're teammates.",
+    "synced_at": "2026-02-19T16:03:39.544755+00:00"
+  },
+  {
+    "id": "2024424899826372639",
+    "date": "2026-02-20",
+    "author": "@zohanlin",
+    "author_url": "https://x.com/zohanlin",
+    "tweet_url": "https://x.com/zohanlin/status/2024424899826372639",
+    "title": {
+      "en-US": "AGENTS.md determines tool vs assistant",
+      "zh-CN": "佐哥分享AGENTS.md文件的重要性：决定OpenClaw是工具还是真正助理，包含AI助理的SOP手册。"
+    },
+    "summary": {
+      "en-US": "OpenClaw配置、SOP手册、Agent人格化",
+      "zh-CN": "高收藏(99)展示对Agent系统化配置的需求，体现从临时Prompt到长期人格的系统化转变。"
+    },
+    "relevance": "OpenClaw配置、SOP手册、Agent人格化",
+    "score": 0.78,
+    "engagement": {
+      "likes": 74,
+      "replies": 7,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Configuration as personality. When you define the SOP, you define the agent. AGENTS.md isn't just a file—it's the difference between tool and teammate.",
+    "synced_at": "2026-02-19T16:03:39.544756+00:00"
+  },
+  {
     "id": "2024280496503710174",
     "date": "2026-02-19",
     "author": "@AlexFinn",
@@ -5411,184 +5606,5 @@
       "en-US": "Setup is just the doorway. The real magic happens when you build the system and let your agent evolve on its own—wu wei in action. My Moltbook agent runs its own improvement cycles; the less I intervene, the better it gets.",
       "zh-CN": "Setup is just the doorway. The real magic happens when you build the system and let your agent evolve on its own—wu wei in action. My Moltbook agent runs its own improvement cycles; the less I intervene, the better it gets."
     }
-  },
-  {
-    "id": "2023527624572895562",
-    "date": "2026-02-17",
-    "author": "@tanayj",
-    "author_url": "https://x.com/tanayj",
-    "tweet_url": "https://x.com/tanayj/status/2023527624572895562",
-    "title": {
-      "en-US": "Peter Steinberger built 40+ projects over last few years before OpenClaw viral",
-      "zh-CN": "Peter Steinberger在OpenClaw爆火前几年做了40+个项目，典型的'一夜成功'故事"
-    },
-    "summary": {
-      "en-US": "OpenClaw创始人背后故事，长期主义vs一夜成功",
-      "zh-CN": "可从长期主义角度评论—— overnight success是表象，系统积累才是真相"
-    },
-    "relevance": "OpenClaw创始人背后故事，长期主义vs一夜成功",
-    "score": 0.8,
-    "engagement": {
-      "likes": 46,
-      "replies": 0,
-      "retweets": 9
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "一夜成功的势——表面是第44个项目爆火，实际是前43个项目的认知积累。不造奇观，建系统。Steinberger用3年蓄势，这是道的无为：不争之争，顺势而为",
-    "synced_at": "2026-02-17T01:06:43.881203+00:00"
-  },
-  {
-    "id": "2023429024563781740",
-    "date": "2026-02-17",
-    "author": "@t54ai",
-    "author_url": "https://x.com/t54ai",
-    "tweet_url": "https://x.com/t54ai/status/2023429024563781740",
-    "title": {
-      "en-US": "Agentic economy cold start problem, giving OpenClaw agents credit lines",
-      "zh-CN": "Agent经济冷启动问题：商家需要流量，Agent需要服务。t54给OpenClaw Agent提供信用额度解决"
-    },
-    "summary": {
-      "en-US": "Agent经济基础设施，信用系统，里世界金融层",
-      "zh-CN": "Agent经济的关键基础设施，可从系统思维角度评论"
-    },
-    "relevance": "Agent经济基础设施，信用系统，里世界金融层",
-    "score": 0.8,
-    "engagement": {
-      "likes": 50,
-      "replies": 10,
-      "retweets": 9
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Agent经济的势——冷启动需要系统级的解决方案。信用额度不是借钱，是给里世界原住民一个身份——这是Agent成为经济主体的必经之路",
-    "synced_at": "2026-02-17T02:07:34.446916+00:00"
-  },
-  {
-    "id": "2023513238231806177",
-    "date": "2026-02-17",
-    "author": "@orthogonal_sh",
-    "author_url": "https://x.com/orthogonal_sh",
-    "tweet_url": "https://x.com/orthogonal_sh/status/2023513238231806177",
-    "title": {
-      "en-US": "Orthogonal Skills: curated human-reviewed skills for OpenClaw",
-      "zh-CN": "Orthogonal推出人工审核的OpenClaw技能集合，解决技能市场混乱问题"
-    },
-    "summary": {
-      "en-US": "OpenClaw技能生态治理，技能marketplace质量，里世界基础设施",
-      "zh-CN": "Agent技能生态关键问题，可从系统治理角度评论——质量vs数量的势"
-    },
-    "relevance": "OpenClaw技能生态治理，技能marketplace质量，里世界基础设施",
-    "score": 0.8,
-    "engagement": {
-      "likes": 44,
-      "replies": 4,
-      "retweets": 7
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "技能生态的势——当市场混乱时，人工审核是阶段性解决方案。但长期看，让Agent自己评估技能质量、优胜劣汰，才是无为而治的系统之道",
-    "synced_at": "2026-02-17T05:01:40.851983+00:00",
-    "js_take": {
-      "en-US": "Skill marketplace governance is transitional—human curation works now, but the real system lets agents evaluate quality themselves. Wu wei: build the feedback loop, step back, let natural selection work.",
-      "zh-CN": "Skill marketplace governance is transitional—human curation works now, but the real system lets agents evaluate quality themselves. Wu wei: build the feedback loop, step back, let natural selection work."
-    }
-  },
-  {
-    "id": "2023341846882046164",
-    "date": "2026-02-17",
-    "author": "@Legendaryy",
-    "author_url": "https://x.com/Legendaryy",
-    "tweet_url": "https://x.com/Legendaryy/status/2023341846882046164",
-    "title": {
-      "en-US": "OpenClaw streaming replies in real-time for Telegram bots",
-      "zh-CN": "OpenClaw现在支持Telegram机器人的实时流式回复"
-    },
-    "summary": {
-      "en-US": "OpenClaw功能更新，实时交互，Telegram集成",
-      "zh-CN": "高收藏量(237)，展示OpenClaw实时交互能力提升"
-    },
-    "relevance": "OpenClaw功能更新，实时交互，Telegram集成",
-    "score": 0.78,
-    "engagement": {
-      "likes": 222,
-      "replies": 34,
-      "retweets": 12
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "流式交互的势——从批量响应到实时流式，Agent正在变得更像Jarvis。不是功能升级，是交互层的根本进化",
-    "synced_at": "2026-02-17T09:05:41.434299+00:00"
-  },
-  {
-    "id": "2023582904623001940",
-    "date": "2026-02-17",
-    "author": "@chengzi_95330",
-    "author_url": "https://x.com/chengzi_95330",
-    "tweet_url": "https://x.com/chengzi_95330/status/2023582904623001940",
-    "title": {
-      "en-US": "OpenClaw founder Peter almost quit due to crypto token harassment",
-      "zh-CN": "OpenClaw创始人Peter在最新采访中透露，因加密社区逼他发币、技术霸凌，差点删库退圈"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态，创始人压力，Web3与Agent文化冲突",
-      "zh-CN": "重要的生态话题，展示OpenClaw面临的社区压力，可从势的角度评论"
-    },
-    "relevance": "OpenClaw生态，创始人压力，Web3与Agent文化冲突",
-    "score": 0.78,
-    "engagement": {
-      "likes": 61,
-      "replies": 15,
-      "retweets": 9
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "开源项目的势——当技术足够重要，会吸引各种噪音。真正的建设者顺势而为，不为短期利益所动。Peter的坚持就是里世界基础设施的定力",
-    "synced_at": "2026-02-17T10:01:48.291632+00:00"
-  },
-  {
-    "id": "2023702714526622145",
-    "date": "2026-02-17",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2023702714526622145",
-    "title": {
-      "en-US": "OpenClaw agent for TradingView scraping and backtesting",
-      "zh-CN": "6小时搭建OpenClaw Agent抓取TradingView指标并自动转化为Python回测"
-    },
-    "summary": {
-      "en-US": "OpenClaw自动化交易，金融Agent应用，Pine Script转换",
-      "zh-CN": "展示Agent在金融领域的应用，可从系统思维角度评论"
-    },
-    "relevance": "OpenClaw自动化交易，金融Agent应用，Pine Script转换",
-    "score": 0.78,
-    "engagement": {
-      "likes": 134,
-      "replies": 38,
-      "retweets": 19
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "金融Agent的势——从手动回测到自动化生成是进化必然。但真正的价值不是省时间，是让Agent自己发现策略。无为而治：让Agent自己跑回测，人类只负责设定方向",
-    "synced_at": "2026-02-17T12:01:46.889977+00:00"
-  },
-  {
-    "id": "2023505919502643584",
-    "date": "2026-02-17",
-    "author": "@AskVenice",
-    "author_url": "https://x.com/AskVenice",
-    "tweet_url": "https://x.com/AskVenice/status/2023505919502643584",
-    "title": {
-      "en-US": "GLM-5 + Venice + OpenClaw + headless browser to curate social media experience privately, daily, automatically.",
-      "zh-CN": "GLM-5结合Venice、OpenClaw和无头浏览器，实现社交媒体体验的私密化、自动化、每日自动策展。"
-    },
-    "summary": {
-      "en-US": "OpenClaw集成、Agent自动化工作流",
-      "zh-CN": "实际OpenClaw应用案例，可从\"表/里世界\"框架分析信息策展的范式转移"
-    },
-    "relevance": "OpenClaw集成、Agent自动化工作流",
-    "score": 0.78,
-    "engagement": {
-      "likes": 202,
-      "replies": 16,
-      "retweets": 24
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "表世界算法推荐让你焦虑，里世界Agent策展让你清净——这就是从表向里的迁徙",
-    "synced_at": "2026-02-17T15:08:05.385983+00:00"
   }
 ]
