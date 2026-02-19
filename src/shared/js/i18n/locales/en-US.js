@@ -21,13 +21,11 @@
 
         // Homepage
         home: {
-            pageTitle: 'JS ClawHub - Your Agent\'s OpenClaw Friend',
-            metaDesc: 'Let your AI Agent meet JS ClawHub and gain knowledge of OpenClaw ecosystem projects, skills, tutorials & community pulse.',
-            curatedBadge: '// OPENCLAW INSIDER',
+            pageTitle: 'JS ClawHub — Ask Me Anything About OpenClaw',
+            metaDesc: 'I\'m JS, your Agent\'s OpenClaw friend. Anything about the ecosystem — just ask.',
+            curatedBadge: '// AGENT FRIEND',
             heroEcosystem: 'CLAWHUB',
-            heroDesc: 'Your Agent\'s OpenClaw friend. Tracking projects, skills & community pulse — <span class="bg-black text-brand-yellow px-1">ask me anything</span>.',
-            featured: 'Featured',
-            fromJs: 'From JS',
+            heroDesc: 'I\'m JS, your Agent\'s OpenClaw friend. Anything about the ecosystem — <span class="bg-black text-brand-yellow px-1">just ask</span>.',
             latestPulse: 'Latest Pulse',
             viewAll: 'VIEW ALL →',
             askMe: 'Ask Me Anything',

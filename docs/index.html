@@ -3,21 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JS ClawHub - 你的 Agent 的 OpenClaw 好友</title>
-    <meta name="description" content="让你的 AI Agent 认识 JS ClawHub，获得 OpenClaw 生态的项目、技能、教程与社区动态知识">
+    <title>JS ClawHub — 问我关于 OpenClaw 的一切</title>
+    <meta name="description" content="我是 JS，你的 Agent 的 OpenClaw 好友。关于这个生态的一切，问我就行。">
     <meta name="keywords" content="openclaw, clawhub, ai assistant, skills, plugins, js">
     <meta name="author" content="imjszhang">
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:title" content="JS ClawHub - 你的 Agent 的 OpenClaw 好友">
-    <meta property="og:description" content="让你的 AI Agent 认识 JS ClawHub，获得 OpenClaw 生态的项目、技能、教程与社区动态知识">
+    <meta property="og:title" content="JS ClawHub — 问我关于 OpenClaw 的一切">
+    <meta property="og:description" content="我是 JS，你的 Agent 的 OpenClaw 好友。关于这个生态的一切，问我就行。">
     <meta property="og:image" content="./images/preview.png">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="JS ClawHub - 你的 Agent 的 OpenClaw 好友">
-    <meta name="twitter:description" content="让你的 AI Agent 认识 JS ClawHub，获得 OpenClaw 生态知识">
+    <meta name="twitter:title" content="JS ClawHub — 问我关于 OpenClaw 的一切">
+    <meta name="twitter:description" content="我是 JS，你的 Agent 的 OpenClaw 好友。关于这个生态的一切，问我就行。">
 
     <!-- Agent Skill Discovery -->
     <link rel="agent-skill" href="/skill.md" type="text/markdown">
@@ -94,7 +94,7 @@
         <section class="mb-16 relative text-center sm:text-left">
             <div class="inline-block">
                 <div class="opacity-0-init animate-slide-up stagger-1 bg-black text-brand-yellow inline-block px-4 py-1 border-2 border-black font-mono font-bold text-sm mb-6 shadow-brutal-white transform -rotate-1" data-i18n="home.curatedBadge">
-                    // OPENCLAW INSIDER
+                    // AGENT FRIEND
                 </div>
             </div>
 
@@ -104,7 +104,7 @@
             </h1>
 
             <p class="opacity-0-init animate-slide-up stagger-3 text-xl md:text-2xl font-bold max-w-2xl leading-relaxed border-l-4 border-black pl-6 bg-white/50 backdrop-blur-sm p-4" data-i18n-html="home.heroDesc">
-                你的 Agent 的 OpenClaw 好友。追踪项目、技能与社区动态，<span class="bg-black text-brand-yellow px-1">随时可以问我</span>。
+                我是 JS，你的 Agent 的 OpenClaw 好友。关于这个生态的一切，<span class="bg-black text-brand-yellow px-1">问我就行</span>。
             </p>
         </section>
 
@@ -144,18 +144,6 @@
                     <p class="text-sm leading-relaxed text-black/80"><span class="font-mono text-xs font-bold text-black/40">// JS: </span><span data-i18n="home.conv3A">告诉我你的主题和内容类型，我按蓝图帮你生成整套脚手架，push 到 GitHub 就能上线。</span></p>
                 </div>
             </div>
-        </section>
-
-        <!-- ====== FEATURED PROJECTS ====== -->
-        <section id="featured" class="mb-24">
-            <h2 class="brutal-section-title mb-10" data-i18n="home.featured">Featured</h2>
-            <div id="featured-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"></div>
-        </section>
-
-        <!-- ====== JS RECOMMENDATIONS ====== -->
-        <section id="recommendations" class="mb-24">
-            <h2 class="brutal-section-title mb-10" data-i18n="home.fromJs">From JS</h2>
-            <div id="recommendations-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
         </section>
 
         <!-- ====== LATEST PULSE ====== -->
@@ -216,8 +204,6 @@
         renderAll() {
             if (typeof I18nManager !== 'undefined') I18nManager.updateDOM();
             this.renderAgentStats();
-            this.renderFeatured();
-            this.renderRecommendations();
             this.renderLatestPulse();
             document.title = this._t('home.pageTitle');
         },
@@ -231,41 +217,6 @@
                 .replace('{projects}', s.projects || 0)
                 .replace('{skills}', s.skills || 0)
                 .replace('{pulse}', s.integrations || 0);
-        },
-
-        renderFeatured() {
-            const grid = document.getElementById('featured-grid');
-            if (!grid || !this.data.featured) return;
-
-            grid.innerHTML = this.data.featured.map(item => `
-                <a href="${this.escapeHtml(item.url)}" target="_blank" class="brutal-card p-6 flex flex-col h-full no-underline text-black project-card" data-tags="${this.escapeHtml((item.tags || []).join(' '))}">
-                    <div class="border-2 border-black w-12 h-12 flex items-center justify-center mb-4 bg-[#FCD228]">
-                        ${this.getIcon(item.icon)}
-                    </div>
-                    <h3 class="text-2xl font-bold mb-2 uppercase">${this.escapeHtml(item.name)}</h3>
-                    <p class="font-medium mb-3 flex-grow">${this.escapeHtml(this._l(item, 'desc'))}</p>
-                    ${item.jsComment ? `
-                        <div class="mt-auto pt-3 border-t-2 border-black/10">
-                            <p class="font-mono text-xs text-black/60">// JS: ${this.escapeHtml(this._l(item, 'jsComment'))}</p>
-                        </div>
-                    ` : ''}
-                </a>
-            `).join('');
-        },
-
-        renderRecommendations() {
-            const grid = document.getElementById('recommendations-grid');
-            if (!grid || !this.data.recommendations) return;
-
-            grid.innerHTML = this.data.recommendations.slice(0, 3).map((rec, idx) => `
-                <div class="brutal-card p-6 bg-white relative">
-                    <div class="absolute -top-4 -right-4 w-10 h-10 bg-black text-brand-yellow border-2 border-black flex items-center justify-center font-bold font-mono text-xl z-10">${idx + 1}</div>
-                    <p class="font-bold mb-4 text-sm leading-relaxed">"${this.escapeHtml(this._l(rec, 'text'))}"</p>
-                    <a href="${this.escapeHtml(rec.url)}" target="_blank" class="font-mono text-xs font-bold uppercase border-b-2 border-black hover:bg-black hover:text-brand-yellow hover:px-2 transition-all">
-                        ${this.escapeHtml(this._l(rec, 'project'))} →
-                    </a>
-                </div>
-            `).join('');
         },
 
         async renderLatestPulse() {
@@ -353,21 +304,6 @@
             if (engagement.replies != null) parts.push(`💬 ${engagement.replies}`);
             if (engagement.retweets != null) parts.push(`🔁 ${engagement.retweets}`);
             return parts.length > 0 ? parts.map(p => `<span>${p}</span>`).join('') : '<span>via X</span>';
-        },
-
-        getIcon(iconName) {
-            const icons = {
-                'globe': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"/></svg>',
-                'code': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"/></svg>',
-                'chat': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/></svg>',
-                'bolt': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>',
-                'puzzle': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z"/></svg>',
-                'book': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/></svg>',
-                'home': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/></svg>',
-                'star': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"/></svg>',
-                'terminal': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>',
-            };
-            return icons[iconName] || icons['star'];
         },
 
         escapeHtml(str) {

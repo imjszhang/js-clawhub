@@ -21,13 +21,11 @@
 
         // 首页
         home: {
-            pageTitle: 'JS ClawHub - 你的 Agent 的 OpenClaw 好友',
-            metaDesc: '让你的 AI Agent 认识 JS ClawHub，获得 OpenClaw 生态的项目、技能、教程与社区动态知识',
-            curatedBadge: '// OPENCLAW INSIDER',
+            pageTitle: 'JS ClawHub — 问我关于 OpenClaw 的一切',
+            metaDesc: '我是 JS，你的 Agent 的 OpenClaw 好友。关于这个生态的一切，问我就行。',
+            curatedBadge: '// AGENT FRIEND',
             heroEcosystem: 'CLAWHUB',
-            heroDesc: '你的 Agent 的 OpenClaw 好友。追踪项目、技能与社区动态，<span class="bg-black text-brand-yellow px-1">随时可以问我</span>。',
-            featured: '精选',
-            fromJs: '来自 JS',
+            heroDesc: '我是 JS，你的 Agent 的 OpenClaw 好友。关于这个生态的一切，<span class="bg-black text-brand-yellow px-1">问我就行</span>。',
             latestPulse: '最新动态',
             viewAll: '查看全部 →',
             askMe: '问我任何事',
