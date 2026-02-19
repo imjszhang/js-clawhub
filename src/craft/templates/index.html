@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{displayName}} - {{ecosystem}} Ecosystem</title>
+    <meta name="description" content="{{displayName}} — your Agent's {{ecosystem}} friend">
+    <meta name="author" content="{{authorName}}">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{displayName}} - {{ecosystem}} Ecosystem">
+    <meta property="og:description" content="{{displayName}} — your Agent's {{ecosystem}} friend">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{displayName}} - {{ecosystem}} Ecosystem">
+    <meta name="twitter:description" content="{{displayName}} — your Agent's {{ecosystem}} friend">
+
+    <!-- Agent Skill Discovery -->
+    <link rel="agent-skill" href="/skill.md" type="text/markdown">
+    <meta name="llms" content="/llms.txt">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Three.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
+
+    <!-- Tailwind Config -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Space Grotesk', 'sans-serif'],
+                        mono: ['JetBrains Mono', 'monospace'],
+                    },
+                    colors: {
+                        brand: { yellow: '{{brandColor}}', black: '#000000', white: '#FFFFFF' }
+                    },
+                    boxShadow: {
+                        'brutal': '4px 4px 0px 0px #000000',
+                        'brutal-lg': '8px 8px 0px 0px #000000',
+                        'brutal-hover': '2px 2px 0px 0px #000000',
+                        'brutal-white': '4px 4px 0px 0px #FFFFFF',
+                    },
+                    borderWidth: { '3': '3px' },
+                    animation: {
+                        'slide-up': 'slideUp 0.8s ease-out forwards',
+                        'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+                    },
+                    keyframes: {
+                        slideUp: { '0%': { opacity: '0', transform: 'translateY(40px)' }, '100%': { opacity: '1', transform: 'translateY(0)' } }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- Design System CSS -->
+    <link rel="stylesheet" href="./shared/css/brutal.css">
+
+    <!-- i18n -->
+    <script src="./shared/js/i18n/index.js"></script>
+    <script src="./shared/js/i18n/locales/zh-CN.js"></script>
+    <script src="./shared/js/i18n/locales/en-US.js"></script>
+    <script>if (typeof I18nManager !== 'undefined') I18nManager.init();</script>
+</head>
+<body class="min-h-screen font-sans selection:bg-black selection:text-brand-yellow overflow-x-hidden">
+
+    <!-- Three.js Background -->
+    <div id="canvas-container" class="fixed inset-0 -z-10 opacity-40 pointer-events-none"></div>
+
+    <!-- Navigation -->
+    <div id="nav-container"></div>
+
+    <!-- Main Content -->
+    <main class="pt-32 pb-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+
+        <!-- ====== HERO SECTION ====== -->
+        <section class="mb-16 relative text-center sm:text-left">
+            <div class="inline-block">
+                <div class="opacity-0-init animate-slide-up stagger-1 bg-black text-brand-yellow inline-block px-4 py-1 border-2 border-black font-mono font-bold text-sm mb-6 shadow-brutal-white transform -rotate-1" data-i18n="home.curatedBadge">
+                    // {{ecosystem}} INSIDER
+                </div>
+            </div>
+
+            <h1 class="opacity-0-init animate-slide-up stagger-2 text-6xl md:text-8xl font-black tracking-tight mb-8 leading-none uppercase">
+                {{personaName}}<br>
+                <span class="text-white text-stroke" data-i18n="home.heroEcosystem">HUB</span>
+            </h1>
+
+            <p class="opacity-0-init animate-slide-up stagger-3 text-xl md:text-2xl font-bold max-w-2xl leading-relaxed border-l-4 border-black pl-6 bg-white/50 backdrop-blur-sm p-4" data-i18n-html="home.heroDesc">
+                Your Agent's {{ecosystem}} friend. Ask me anything.
+            </p>
+        </section>
+
+        <!-- ====== AGENT SKILL (MEET) ====== -->
+        <section class="mb-16 opacity-0-init animate-slide-up stagger-4">
+            <div class="brutal-card p-6 md:p-8 bg-brand-yellow border-3 border-black max-w-2xl">
+                <div class="flex items-center gap-3 mb-4">
+                    <h3 class="text-xl font-black uppercase" data-i18n="agent.title">Let your AI Agent meet {{personaName}}</h3>
+                </div>
+                <p class="font-mono text-xs font-bold mb-2 text-black/60" data-i18n="agent.instruction">Send to your Agent:</p>
+                <div class="flex items-stretch gap-0">
+                    <code id="agent-command" class="flex-1 bg-black text-brand-yellow px-4 py-3 font-mono text-sm border-3 border-black border-r-0 break-all leading-relaxed" data-i18n="agent.command">Meet {{displayName}}, read https://{{domain}}/skill.md</code>
+                    <button onclick="copyAgentCommand()" class="bg-white px-4 py-3 border-3 border-black font-mono font-bold text-sm hover:bg-black hover:text-brand-yellow transition-colors flex-shrink-0" title="Copy">
+                        <span id="copy-icon">COPY</span>
+                    </button>
+                </div>
+                <p class="mt-3 font-medium text-sm text-black/70" data-i18n="agent.desc">Your Agent now has a friend who knows the {{ecosystem}} ecosystem.</p>
+                <p id="agent-stats" class="mt-2 font-mono text-xs text-black/50"></p>
+            </div>
+        </section>
+
+        <!-- ====== FEATURED PROJECTS ====== -->
+        <section id="featured" class="mb-24">
+            <h2 class="brutal-section-title mb-10" data-i18n="home.featured">Featured</h2>
+            <div id="featured-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"></div>
+        </section>
+
+        <!-- ====== RECOMMENDATIONS ====== -->
+        <section id="recommendations" class="mb-24">
+            <h2 class="brutal-section-title mb-10" data-i18n="home.fromPersona">From {{personaName}}</h2>
+            <div id="recommendations-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <div id="footer-container"></div>
+
+    <!-- Scripts -->
+    <script src="./shared/js/threejs-bg.js"></script>
+    <script src="./shared/js/nav.js"></script>
+    <script src="./shared/js/footer.js"></script>
+
+    <script>
+    const HomePage = {
+        data: null,
+
+        _l(obj, field) {
+            if (typeof I18nManager !== 'undefined') return I18nManager.getLocalizedField(obj, field);
+            const val = obj[field];
+            if (typeof val === 'string') return val;
+            if (val && typeof val === 'object') return val['zh-CN'] || val['en-US'] || '';
+            return '';
+        },
+
+        _t(key) {
+            return typeof I18nManager !== 'undefined' ? I18nManager.t(key) : key;
+        },
+
+        async init() {
+            try {
+                const response = await fetch('./data/navigation.json');
+                if (!response.ok) throw new Error('Failed to load navigation data');
+                this.data = await response.json();
+                this.renderAll();
+                window.addEventListener('localechange', () => this.renderAll());
+            } catch (error) {
+                console.error('Error loading homepage data:', error);
+            }
+        },
+
+        renderAll() {
+            if (typeof I18nManager !== 'undefined') I18nManager.updateDOM();
+            this.renderAgentStats();
+            this.renderFeatured();
+            this.renderRecommendations();
+            document.title = this._t('home.pageTitle');
+        },
+
+        renderAgentStats() {
+            const el = document.getElementById('agent-stats');
+            if (!el || !this.data || !this.data.stats) return;
+            const s = this.data.stats;
+            const tmpl = this._t('agent.stats');
+            el.textContent = tmpl
+                .replace('{projects}', s.projects || 0)
+                .replace('{skills}', s.skills || 0)
+                .replace('{integrations}', s.integrations || 0);
+        },
+
+        renderFeatured() {
+            const grid = document.getElementById('featured-grid');
+            if (!grid || !this.data.featured) return;
+            grid.innerHTML = this.data.featured.map(item => `
+                <a href="${this.escapeHtml(item.url)}" target="_blank" class="brutal-card p-6 flex flex-col h-full no-underline text-black">
+                    <h3 class="text-2xl font-bold mb-2 uppercase">${this.escapeHtml(item.name)}</h3>
+                    <p class="font-medium mb-3 flex-grow">${this.escapeHtml(this._l(item, 'desc'))}</p>
+                    ${item.jsComment ? `
+                        <div class="mt-auto pt-3 border-t-2 border-black/10">
+                            <p class="font-mono text-xs text-black/60">// ${this.escapeHtml(this._l(item, 'jsComment'))}</p>
+                        </div>
+                    ` : ''}
+                </a>
+            `).join('');
+        },
+
+        renderRecommendations() {
+            const grid = document.getElementById('recommendations-grid');
+            if (!grid || !this.data.recommendations) return;
+            grid.innerHTML = this.data.recommendations.slice(0, 3).map((rec, idx) => `
+                <div class="brutal-card p-6 bg-white relative">
+                    <div class="absolute -top-4 -right-4 w-10 h-10 bg-black text-brand-yellow border-2 border-black flex items-center justify-center font-bold font-mono text-xl z-10">${idx + 1}</div>
+                    <p class="font-bold mb-4 text-sm leading-relaxed">"${this.escapeHtml(this._l(rec, 'text'))}"</p>
+                    <a href="${this.escapeHtml(rec.url)}" target="_blank" class="font-mono text-xs font-bold uppercase border-b-2 border-black hover:bg-black hover:text-brand-yellow hover:px-2 transition-all">
+                        ${this.escapeHtml(this._l(rec, 'project'))} →
+                    </a>
+                </div>
+            `).join('');
+        },
+
+        escapeHtml(str) {
+            if (!str) return '';
+            const div = document.createElement('div');
+            div.textContent = str;
+            return div.innerHTML;
+        }
+    };
+
+    function copyAgentCommand() {
+        const code = document.getElementById('agent-command');
+        const icon = document.getElementById('copy-icon');
+        if (!code) return;
+        navigator.clipboard.writeText(code.textContent.trim()).then(() => {
+            const label = typeof I18nManager !== 'undefined' ? I18nManager.t('agent.copied') : 'Copied!';
+            icon.textContent = label;
+            setTimeout(() => { icon.textContent = 'COPY'; }, 2000);
+        });
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        HomePage.init();
+    });
+    </script>
+</body>
+</html>

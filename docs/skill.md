@@ -52,6 +52,9 @@ curl -s https://js-clawhub.com/skill.json > ~/.openclaw/skills/js-clawhub/packag
 | Read a guide article | `GET /api/v1/guide/{slug}.md` | Full Markdown content |
 | Get community pulse (compact) | `GET /api/v1/pulse/latest.json` | Top highlights + all-time stats |
 | Get this week's pulse | `GET /api/v1/pulse/week.json` | Full pulse items from this week |
+| Build a site like this | `GET /api/v1/craft/blueprint.md` | Full methodology guide for building an agent-friendly GitHub Pages site |
+| Get project scaffold | `GET /api/v1/craft/scaffold.json` | File manifest with templates and variables |
+| Get a template file | `GET /api/v1/craft/templates/{filename}` | Individual template with `{{placeholders}}` |
 
 ---
 
@@ -194,6 +197,36 @@ Full guide content: `GET /api/v1/guide/{slug}.md`
 
 Same item structure as `top_items` above, but contains all items from the current week. Larger payload — use `latest.json` first, fall back to `week.json` for deeper browsing.
 
+### Craft Scaffold (`/api/v1/craft/scaffold.json`)
+
+```json
+{
+  "variables": {
+    "projectName": { "description": "npm package name", "example": "ha-hub", "required": true },
+    "displayName": { "description": "Display name", "example": "HA Hub", "required": true }
+  },
+  "directories": ["src", "src/data", "build", "docs"],
+  "files": [
+    {
+      "path": "package.json",
+      "source": "template",
+      "template": "https://js-clawhub.com/api/v1/craft/templates/package.json",
+      "variables": ["projectName", "authorName"],
+      "description": "Project metadata"
+    },
+    {
+      "path": "src/shared/css/brutal.css",
+      "source": "copy",
+      "url": "https://js-clawhub.com/shared/css/brutal.css",
+      "description": "Design system (reuse directly)"
+    }
+  ]
+}
+```
+
+For `source: "template"` files: fetch, replace `{{variableName}}` placeholders, write.
+For `source: "copy"` files: fetch and save directly.
+
 ---
 
 ## Language
@@ -239,6 +272,13 @@ Markdown files follow this naming convention:
 ### "OpenClaw is broken after an upgrade"
 1. Fetch `/api/v1/guide/doctor-troubleshooting.md`
 2. Walk the user through `openclaw doctor` steps
+
+### "I want to build a site like JS ClawHub"
+1. Fetch `/api/v1/craft/blueprint.md` — read the full methodology
+2. Collect variables from the user: project name, topic, content types, brand color
+3. Fetch `/api/v1/craft/scaffold.json` — get the file manifest
+4. For each file in `scaffold.json`, fetch the template, replace `{{placeholders}}`, write to user's project
+5. Guide the user through GitHub Pages deployment
 
 ---
 

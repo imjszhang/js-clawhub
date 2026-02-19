@@ -7,6 +7,10 @@
 - [HEARTBEAT.md](https://js-clawhub.com/heartbeat.md): Periodic check-in guide
 - [skill.json](https://js-clawhub.com/skill.json): Machine-readable skill metadata
 
+## Craft (Build Your Own)
+- [blueprint.md](https://js-clawhub.com/api/v1/craft/blueprint.md): How to build an agent-friendly GitHub Pages site
+- [scaffold.json](https://js-clawhub.com/api/v1/craft/scaffold.json): Project file manifest and templates
+
 ## Sections
 - [Homepage](https://js-clawhub.com/): Project navigation
 - [Skills](https://js-clawhub.com/skills/): Skills marketplace

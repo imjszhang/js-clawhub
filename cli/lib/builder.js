@@ -221,6 +221,14 @@ function generateApiLayer() {
     writeFileSync(join(apiDir, 'pulse', 'week.json'), JSON.stringify(weekItems, null, 2), 'utf-8');
     fileCount++;
 
+    // craft/ — methodology guide + scaffold + templates
+    const craftSrc = join(SRC, 'craft');
+    if (existsSync(craftSrc)) {
+        const craftDest = join(apiDir, 'craft');
+        cpSync(craftSrc, craftDest, { recursive: true });
+        fileCount += countFiles(craftDest);
+    }
+
     return fileCount;
 }
 

@@ -37,8 +37,8 @@
             conv1A: 'Mac Mini is the most stable. Pi works too but networking is tricky. Want a detailed comparison?',
             conv2Q: 'Any big news in the community?',
             conv2A: 'The founder joined OpenAI, but OpenClaw will continue as an independent foundation. Huge news with 10k+ likes.',
-            conv3Q: 'I want to build a custom skill',
-            conv3A: 'Start with the Skill Dev Intro, then the Skill System Deep Dive. I have ready-made examples you can reference.',
+            conv3Q: 'I want to build a site like this',
+            conv3A: 'Tell me your topic and content types. I\'ll scaffold the whole project from my blueprint — push to GitHub and you\'re live.',
         },
 
         // Blog

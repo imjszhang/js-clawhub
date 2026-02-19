@@ -9,7 +9,8 @@
   "files": {
     "skill": "/skill.md",
     "soul": "/soul.md",
-    "heartbeat": "/heartbeat.md"
+    "heartbeat": "/heartbeat.md",
+    "craft": "/api/v1/craft/blueprint.md"
   },
   "endpoints": [
     { "path": "/projects.json", "method": "GET", "description": "All ecosystem projects by category" },
@@ -20,7 +21,10 @@
     { "path": "/guide/{slug}.md", "method": "GET", "description": "Full guide content (Markdown)" },
     { "path": "/pulse/latest.json", "method": "GET", "description": "Community pulse highlights (compact)" },
     { "path": "/pulse/week.json", "method": "GET", "description": "This week's pulse items" },
-    { "path": "/stats.json", "method": "GET", "description": "Ecosystem statistics" }
+    { "path": "/stats.json", "method": "GET", "description": "Ecosystem statistics" },
+    { "path": "/craft/blueprint.md", "method": "GET", "description": "Methodology guide for building agent-friendly sites" },
+    { "path": "/craft/scaffold.json", "method": "GET", "description": "Project file manifest with templates" },
+    { "path": "/craft/templates/{filename}", "method": "GET", "description": "Template file with placeholders" }
   ],
   "languages": ["zh-CN", "en-US"],
   "auth": "none"
