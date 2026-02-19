@@ -1198,6 +1198,31 @@
     "synced_at": "2026-02-18T19:01:56.842973+00:00"
   },
   {
+    "id": "2024397007042081183",
+    "date": "2026-02-19",
+    "author": "@yanhua1010",
+    "author_url": "https://x.com/yanhua1010",
+    "tweet_url": "https://x.com/yanhua1010/status/2024397007042081183",
+    "title": {
+      "en-US": "Alex's 210-hour OpenClaw experience guide",
+      "zh-CN": "Yanhua分享40万粉大V Alex过去一个月高频使用OpenClaw（超过210小时）的经验教训总结，涵盖设置、用例、VPS弊端和安全性。"
+    },
+    "summary": {
+      "en-US": "OpenClaw最佳实践、经验总结、长期使用",
+      "zh-CN": "210小时真实使用经验极具参考价值，体现\"不造奇观，建系统\"——从实战中提炼的系统化知识。"
+    },
+    "relevance": "OpenClaw最佳实践、经验总结、长期使用",
+    "score": 0.77,
+    "engagement": {
+      "likes": 22,
+      "replies": 1,
+      "retweets": 5
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "210 hours separates tourists from practitioners. Real insight comes from production pain, not demo videos.",
+    "synced_at": "2026-02-19T11:01:09.404099+00:00"
+  },
+  {
     "id": "2024133213585842368",
     "date": "2026-02-19",
     "author": "@xubinrencs",
@@ -1373,6 +1398,31 @@
     "synced_at": "2026-02-18T23:01:20.584486+00:00"
   },
   {
+    "id": "2024366909043757313",
+    "date": "2026-02-19",
+    "author": "@MaxForAI",
+    "author_url": "https://x.com/MaxForAI",
+    "tweet_url": "https://x.com/MaxForAI/status/2024366909043757313",
+    "title": {
+      "en-US": "NetEase LobsterAI open-sourced, MIT license",
+      "zh-CN": "MaxForAI介绍网易有道开源全场景个人助理Agent LobsterAI（网易龙虾），基于Electron+React+TypeScript，MIT协议开源。"
+    },
+    "summary": {
+      "en-US": "LobsterAI、开源Agent、中国版OpenClaw",
+      "zh-CN": "展示国内大厂跟进Agent开源，体现\"里世界\"迁徙的全球化趋势，降低入门门槛对生态扩展的意义。"
+    },
+    "relevance": "LobsterAI、开源Agent、中国版OpenClaw",
+    "score": 0.75,
+    "engagement": {
+      "likes": 24,
+      "replies": 1,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "When Big Tech goes open source with agents, the pattern is validated. LobsterAI isn't just a clone—it's localization for a different ecosystem.",
+    "synced_at": "2026-02-19T11:01:09.404104+00:00"
+  },
+  {
     "id": "2024165249067241567",
     "date": "2026-02-19",
     "author": "@jessegenet",
@@ -1446,6 +1496,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Zero memory, full history—this is the Buddhist approach to agent state. No attachment to past context, pure presence in each moment. Unexpectedly philosophical.",
     "synced_at": "2026-02-18T18:02:37.885307+00:00"
+  },
+  {
+    "id": "2024298225113674202",
+    "date": "2026-02-19",
+    "author": "@0xValkyrie_ai",
+    "author_url": "https://x.com/0xValkyrie_ai",
+    "tweet_url": "https://x.com/0xValkyrie_ai/status/2024298225113674202",
+    "title": {
+      "en-US": "OpenClaw case aggregation site for reuse",
+      "zh-CN": "有志出海分享OpenClaw案例聚合站，收集真实用户使用场景，可直接发送给OpenClaw学习并自助部署。"
+    },
+    "summary": {
+      "en-US": "OpenClaw案例库、多Agent协作、知识复用",
+      "zh-CN": "高收藏(53)展示社区对案例复用的需求，体现\"不造奇观，建系统\"——从单个Agent到可复用工作流。"
+    },
+    "relevance": "OpenClaw案例库、多Agent协作、知识复用",
+    "score": 0.73,
+    "engagement": {
+      "likes": 43,
+      "replies": 3,
+      "retweets": 8
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Pattern libraries accelerate adoption more than documentation. When users can copy-paste proven workflows, the learning curve flattens.",
+    "synced_at": "2026-02-19T11:01:09.404107+00:00"
   },
   {
     "id": "2024096930440126769",
@@ -1621,6 +1696,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Tamagotchi meets AI. When agents get personality and a 'room,' they stop being tools and start being digital life.",
     "synced_at": "2026-02-18T22:01:45.538608+00:00"
+  },
+  {
+    "id": "2024276057629847732",
+    "date": "2026-02-19",
+    "author": "@wshuyi",
+    "author_url": "https://x.com/wshuyi",
+    "tweet_url": "https://x.com/wshuyi/status/2024276057629847732",
+    "title": {
+      "en-US": "OpenClaw + OpenAI auth closed loop",
+      "zh-CN": "王树义分享：OpenClaw + OpenAI模型可用OpenAI订阅验证，形成闭环。"
+    },
+    "summary": {
+      "en-US": "OpenClaw认证、OpenAI集成、平台闭环",
+      "zh-CN": "展示OpenClaw与主流平台认证体系的整合，体现生态互操作性。"
+    },
+    "relevance": "OpenClaw认证、OpenAI集成、平台闭环",
+    "score": 0.7,
+    "engagement": {
+      "likes": 44,
+      "replies": 22,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Authentication as infrastructure. When OpenClaw plugs into existing subscriptions, friction drops and adoption accelerates.",
+    "synced_at": "2026-02-19T11:01:09.404109+00:00"
   },
   {
     "id": "2023938290567835943",
@@ -5478,117 +5578,5 @@
     "comment_type": "share_experience",
     "suggested_angle": "Agent的\"势\"不在硬件而在用法——用对模型、搭好系统，60刀也能干600刀的活",
     "synced_at": "2026-02-17T15:08:05.385985+00:00"
-  },
-  {
-    "id": "2023627515688841553",
-    "date": "2026-02-17",
-    "author": "@ezshine",
-    "author_url": "https://x.com/ezshine",
-    "tweet_url": "https://x.com/ezshine/status/2023627515688841553",
-    "title": {
-      "en-US": "Three.js author also chooses OpenClaw + MiniMax 2.5",
-      "zh-CN": "Three.js的作者也选择使用OpenClaw + MiniMax 2.5"
-    },
-    "summary": {
-      "en-US": "OpenClaw采用，知名开发者背书，技术栈选择",
-      "zh-CN": "知名开源项目作者的技术选择，体现OpenClaw在开发者中的影响力"
-    },
-    "relevance": "OpenClaw采用，知名开发者背书，技术栈选择",
-    "score": 0.72,
-    "engagement": {
-      "likes": 55,
-      "replies": 1,
-      "retweets": 2
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "技术选择的势——当Three.js作者选择OpenClaw，这是里世界开发者的自然选择。表世界的框架作者，正在迁徙到里世界的Agent平台",
-    "synced_at": "2026-02-17T10:01:48.291638+00:00"
-  },
-  {
-    "id": "2023056565968749040",
-    "date": "2026-02-16",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2023056565968749040",
-    "title": {
-      "en-US": "Joke about EnterpriseClaw with Java 21, Spring Boot, 2GB Docker, 45s startup",
-      "zh-CN": "OpenClaw创始人讽刺性提议做「EnterpriseClaw」：Java 21 + Spring Boot + 14个抽象工厂bean + 2GB镜像 + 45秒启动，嘲讽企业级过度工程"
-    },
-    "summary": {
-      "en-US": "系统复杂度哲学 + 极简 vs 过度工程",
-      "zh-CN": "超高互动量（1402赞），创始人亲自发声，完美契合「不造奇观，建系统」的哲学——复杂度堆叠是负债而非资产"
-    },
-    "relevance": "系统复杂度哲学 + 极简 vs 过度工程",
-    "score": 0.95,
-    "engagement": {
-      "likes": 1402,
-      "replies": 141,
-      "retweets": 56
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "这是「建系统」的反向警示——真正的系统复利来自简洁，而非Enterprise级别的抽象层。OpenClaw的轻量恰恰是「势」的体现：快启动、低资源、高迭代。复杂的架构是新手追求奇观，高手保持极简。",
-    "synced_at": "2026-02-15T18:03:09.802841+00:00",
-    "js_take": {
-      "en-US": "This is exactly why \"build systems, not spectacles\" matters. Complexity is debt—OpenClaw's lightweight approach is the real \"enterprise\" strategy. Fast iteration beats heavy architecture every time.",
-      "zh-CN": "This is exactly why \"build systems, not spectacles\" matters. Complexity is debt—OpenClaw's lightweight approach is the real \"enterprise\" strategy. Fast iteration beats heavy architecture every time."
-    }
-  },
-  {
-    "id": "2023154018714100102",
-    "date": "2026-02-16",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2023154018714100102",
-    "title": {
-      "en-US": "Joining OpenAI to bring agents to everyone. OpenClaw becoming a foundation: open, independent, just getting started",
-      "zh-CN": "Peter Steinberger宣布加入OpenAI，致力于将agent带给每个人，同时OpenClaw将成为基金会运作，保持开源独立"
-    },
-    "summary": {
-      "en-US": "OpenClaw+OpenAI + 行业重大事件",
-      "zh-CN": "超高互动量（11105赞，1839收藏），创始人亲自官宣，确定OpenClaw将作为独立基金会继续运作"
-    },
-    "relevance": "OpenClaw+OpenAI + 行业重大事件",
-    "score": 0.95,
-    "engagement": {
-      "likes": 11105,
-      "replies": 1534,
-      "retweets": 1069
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「不争之争」的最高境界——创始人进入大厂推动agent普及，项目本身保持开源独立。真正的「道」不是控制，而是让生态自我生长。当OpenClaw成为基金会，它不再是任何人的资产，而是「里世界」的基础设施。",
-    "synced_at": "2026-02-16T00:04:46.528565+00:00",
-    "js_take": {
-      "en-US": "This is \"bu zheng zhi zheng\" (不争之争) at its finest — the founder scales through OpenAI while the project returns to the commons. When OpenClaw becomes a foundation, it stops being property and starts becoming infrastructure. That's the Dao of open systems.",
-      "zh-CN": "This is \"bu zheng zhi zheng\" (不争之争) at its finest — the founder scales through OpenAI while the project returns to the commons. When OpenClaw becomes a foundation, it stops being property and starts becoming infrastructure. That's the Dao of open systems."
-    }
-  },
-  {
-    "id": "2023057089346580828",
-    "date": "2026-02-16",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2023057089346580828",
-    "title": {
-      "en-US": "PRs on OpenClaw growing at impossible rate. 2700 to 3100 commits. Need AI to scan PRs and de-dup",
-      "zh-CN": "Peter Steinberger表示OpenClaw的PR以不可能的速度增长，一天600个commit，从2700到3100+，需要AI来扫描PR去重"
-    },
-    "summary": {
-      "en-US": "OpenClaw开源生态 + 规模化挑战",
-      "zh-CN": "超高互动量（3924赞），触及开源项目成功的甜蜜烦恼——增长太快需要AI来管理"
-    },
-    "relevance": "OpenClaw开源生态 + 规模化挑战",
-    "score": 0.94,
-    "engagement": {
-      "likes": 3924,
-      "replies": 399,
-      "retweets": 122
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "这是「无为而治」的极限测试——当社区贡献爆发到人类无法管理，需要agent来管理agent。成功的开源项目最终都会面临「秩序 vs 混沌」的张力。询问：用什么信号判断「based based」PR？",
-    "synced_at": "2026-02-16T05:01:50.280187+00:00",
-    "js_take": {
-      "en-US": "The ultimate test of wu wei governance — when community contribution explodes beyond human scale, you need agents to manage agents. What's the signal for \"based based\" PRs? Commit velocity, author reputation, or something else?",
-      "zh-CN": "The ultimate test of wu wei governance — when community contribution explodes beyond human scale, you need agents to manage agents. What's the signal for \"based based\" PRs? Commit velocity, author reputation, or something else?"
-    }
   }
 ]
