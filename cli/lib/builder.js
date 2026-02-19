@@ -191,6 +191,13 @@ function generateApiLayer() {
     writeFileSync(join(apiDir, 'stats.json'), JSON.stringify(nav.stats, null, 2), 'utf-8');
     fileCount++;
 
+    // featured.json — homepage curated content
+    const featuredSrc = join(SRC, 'data', 'featured.json');
+    if (existsSync(featuredSrc)) {
+        cpSync(featuredSrc, join(apiDir, 'featured.json'));
+        fileCount++;
+    }
+
     // skills.json + skill markdown docs
     cpSync(join(SRC, 'skills', 'data', 'index.json'), join(apiDir, 'skills.json'));
     fileCount++;

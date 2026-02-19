@@ -150,6 +150,33 @@
             <div id="pulse-preview" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
         </section>
 
+        <!-- ====== FEATURED PROJECTS ====== -->
+        <section id="featured-projects" class="mb-24 hidden">
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="brutal-section-title mb-0" data-i18n="home.featuredProjects">Featured Projects</h2>
+                <a href="./projects/" class="brutal-btn-secondary px-4 py-2 text-sm no-underline font-mono font-bold" data-i18n="home.viewAllProjects">ALL PROJECTS →</a>
+            </div>
+            <div id="featured-projects-grid" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
+        </section>
+
+        <!-- ====== FEATURED GUIDE ====== -->
+        <section id="featured-guide" class="mb-24 hidden">
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="brutal-section-title mb-0" data-i18n="home.featuredGuide">Featured Guide</h2>
+                <a href="./guide/" class="brutal-btn-secondary px-4 py-2 text-sm no-underline font-mono font-bold" data-i18n="home.viewAllGuide">ALL GUIDES →</a>
+            </div>
+            <div id="featured-guide-grid" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
+        </section>
+
+        <!-- ====== FEATURED BLOG ====== -->
+        <section id="featured-blog" class="mb-24 hidden">
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="brutal-section-title mb-0" data-i18n="home.featuredBlog">Featured Blog</h2>
+                <a href="./blog/" class="brutal-btn-secondary px-4 py-2 text-sm no-underline font-mono font-bold" data-i18n="home.viewAllBlog">ALL POSTS →</a>
+            </div>
+            <div id="featured-blog-grid" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
+        </section>
+
     </main>
 
     <!-- Footer -->
@@ -167,6 +194,7 @@
      */
     const HomePage = {
         data: null,
+        featured: null,
 
         _l(obj, field) {
             if (typeof I18nManager !== 'undefined') return I18nManager.getLocalizedField(obj, field);
@@ -182,9 +210,12 @@
 
         async init() {
             try {
-                const response = await fetch('./data/navigation.json');
-                if (!response.ok) throw new Error('Failed to load navigation data');
-                this.data = await response.json();
+                const [navResp, featResp] = await Promise.all([
+                    fetch('./data/navigation.json'),
+                    fetch('./data/featured.json'),
+                ]);
+                if (navResp.ok) this.data = await navResp.json();
+                if (featResp.ok) this.featured = await featResp.json();
                 this.renderAll();
 
                 window.addEventListener('localechange', () => this.renderAll());
@@ -197,6 +228,9 @@
             if (typeof I18nManager !== 'undefined') I18nManager.updateDOM();
             this.renderAgentStats();
             this.renderLatestPulse();
+            this.renderFeaturedProjects();
+            this.renderFeaturedGuide();
+            this.renderFeaturedBlog();
             document.title = this._t('home.pageTitle');
         },
 
@@ -287,6 +321,70 @@
                 const section = document.getElementById('latest-pulse');
                 if (section) section.style.display = 'none';
             }
+        },
+
+        renderFeaturedProjects() {
+            const section = document.getElementById('featured-projects');
+            const grid = document.getElementById('featured-projects-grid');
+            if (!grid || !this.featured || !this.featured.projects || this.featured.projects.length === 0) {
+                if (section) section.classList.add('hidden');
+                return;
+            }
+            section.classList.remove('hidden');
+            grid.innerHTML = this.featured.projects.map(item => `
+                <a href="${this.escapeHtml(item.url)}" target="_blank" class="brutal-card p-6 flex flex-col h-full no-underline text-black">
+                    <h3 class="text-xl font-bold mb-2 uppercase">${this.escapeHtml(item.name)}</h3>
+                    <p class="font-medium text-sm mb-3 flex-grow">${this.escapeHtml(this._l(item, 'desc'))}</p>
+                    ${item.jsComment ? `<div class="mt-auto pt-3 border-t-2 border-black/10"><p class="font-mono text-xs text-black/60">// JS: ${this.escapeHtml(this._l(item, 'jsComment'))}</p></div>` : ''}
+                    <div class="flex flex-wrap gap-1 mt-3">${(item.tags || []).map(t => `<span class="bg-brand-yellow text-black text-[10px] font-mono font-bold px-2 py-0.5 border border-black uppercase">${this.escapeHtml(t)}</span>`).join('')}</div>
+                </a>
+            `).join('');
+        },
+
+        renderFeaturedGuide() {
+            const section = document.getElementById('featured-guide');
+            const grid = document.getElementById('featured-guide-grid');
+            if (!grid || !this.featured || !this.featured.guide || this.featured.guide.length === 0) {
+                if (section) section.classList.add('hidden');
+                return;
+            }
+            section.classList.remove('hidden');
+            grid.innerHTML = this.featured.guide.map((item, idx) => `
+                <a href="./guide/detail.html?slug=${this.escapeHtml(item.slug)}" class="brutal-card p-6 flex flex-col no-underline text-black group">
+                    <div class="flex items-center gap-3 mb-3">
+                        <span class="bg-black text-brand-yellow w-8 h-8 flex items-center justify-center font-mono font-bold text-sm border-2 border-black">${item.order || idx + 1}</span>
+                        <h3 class="font-bold text-sm group-hover:bg-black group-hover:text-brand-yellow group-hover:px-1 transition-all">${this.escapeHtml(this._l(item, 'title'))}</h3>
+                    </div>
+                </a>
+            `).join('');
+        },
+
+        renderFeaturedBlog() {
+            const section = document.getElementById('featured-blog');
+            const grid = document.getElementById('featured-blog-grid');
+            if (!grid || !this.featured || !this.featured.blog || this.featured.blog.length === 0) {
+                if (section) section.classList.add('hidden');
+                return;
+            }
+            section.classList.remove('hidden');
+            grid.innerHTML = this.featured.blog.map(item => {
+                const authorName = item.author ? item.author.name : '';
+                const avatarUrl = item.author && item.author.avatar
+                    ? item.author.avatar
+                    : `https://ui-avatars.com/api/?name=${encodeURIComponent(authorName || 'A')}&background=FCD228&color=000&bold=true&size=48`;
+                return `
+                    <a href="./blog/post.html?slug=${this.escapeHtml(item.slug)}" class="brutal-card p-6 flex flex-col no-underline text-black group">
+                        <div class="flex items-center gap-3 mb-3">
+                            <img src="${avatarUrl}" alt="${this.escapeHtml(authorName)}" class="w-7 h-7 rounded-full border-2 border-black" onerror="this.src='https://ui-avatars.com/api/?name=A&background=FCD228&color=000&bold=true&size=48'">
+                            <span class="font-mono font-bold text-xs">${this.escapeHtml(authorName)}</span>
+                            <span class="ml-auto font-mono text-[10px] text-black/40">${this.escapeHtml(item.date || '')}</span>
+                        </div>
+                        <h3 class="font-bold text-sm mb-2 group-hover:bg-black group-hover:text-brand-yellow group-hover:px-1 transition-all">${this.escapeHtml(this._l(item, 'title'))}</h3>
+                        <p class="text-xs text-black/60 flex-grow">${this.escapeHtml(this._l(item, 'summary'))}</p>
+                        <div class="flex flex-wrap gap-1 mt-3">${(item.tags || []).map(t => `<span class="bg-black/5 text-black text-[10px] font-mono font-bold px-2 py-0.5 border border-black/20 uppercase">${this.escapeHtml(t)}</span>`).join('')}</div>
+                    </a>
+                `;
+            }).join('');
         },
 
         formatPulseEngagement(engagement) {
