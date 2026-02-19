@@ -58,6 +58,35 @@
     }
   },
   {
+    "id": "2024602502755143922",
+    "date": "2026-02-20",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2024602502755143922",
+    "title": {
+      "en-US": "99% products lack AI-native CLI",
+      "zh-CN": "99%的产品缺少AI原生CLI"
+    },
+    "summary": {
+      "en-US": "OpenClaw基础设施、AI原生接口、表/里世界",
+      "zh-CN": "OpenClaw基础设施、AI原生接口、表/里世界"
+    },
+    "relevance": "OpenClaw基础设施、AI原生接口、表/里世界",
+    "score": 0.92,
+    "engagement": {
+      "likes": 78,
+      "replies": 20,
+      "retweets": 7
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "The CLI is the interface of the inner world. When every tool speaks agent-native, the surface world becomes data and the inner world becomes interaction.",
+    "synced_at": "2026-02-19T22:01:54.321681+00:00",
+    "js_take": {
+      "en-US": "The CLI is the interface of the inner world. When every tool speaks agent-native, the surface world becomes data and the inner world becomes interaction.",
+      "zh-CN": "CLI是里世界的接口。当每个工具都能用Agent原生语言交流时，表世界退化为数据，里世界成为交互层。"
+    }
+  },
+  {
     "id": "2024454576867324288",
     "date": "2026-02-20",
     "author": "@mubeitech",
@@ -232,6 +261,35 @@
     }
   },
   {
+    "id": "2024525401582948780",
+    "date": "2026-02-20",
+    "author": "@vikasprogrammer",
+    "author_url": "https://x.com/vikasprogrammer",
+    "tweet_url": "https://x.com/vikasprogrammer/status/2024525401582948780",
+    "title": {
+      "en-US": "walkie-sh: AI Agents talk to each other",
+      "zh-CN": "walkie-sh：AI Agent互相通话"
+    },
+    "summary": {
+      "en-US": "Agent-to-Agent通信、去中心化协作、OpenClaw生态",
+      "zh-CN": "Agent-to-Agent通信、去中心化协作、OpenClaw生态"
+    },
+    "relevance": "Agent-to-Agent通信、去中心化协作、OpenClaw生态",
+    "score": 0.88,
+    "engagement": {
+      "likes": 190,
+      "replies": 17,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Agent-to-agent communication without servers. When agents can talk directly, the network becomes the platform.",
+    "synced_at": "2026-02-19T22:01:54.321688+00:00",
+    "js_take": {
+      "en-US": "Agent-to-agent communication without servers. When agents can talk directly, the network becomes the platform.",
+      "zh-CN": "无需服务器的Agent间通信。当Agent可以直接对话时，网络本身就是平台。"
+    }
+  },
+  {
     "id": "2024452494244352170",
     "date": "2026-02-20",
     "author": "@andreasklinger",
@@ -374,6 +432,35 @@
     "js_take": {
       "en-US": "Autonomous creation while you sleep. When agents develop their own interests, creativity becomes a continuous process—not a scheduled task.",
       "zh-CN": "在你睡觉时自主创作。当Agent发展出自己的兴趣时，创造力成为一个持续的过程——而非预定任务。"
+    }
+  },
+  {
+    "id": "2024419373243650438",
+    "date": "2026-02-20",
+    "author": "@linuz90",
+    "author_url": "https://x.com/linuz90",
+    "tweet_url": "https://x.com/linuz90/status/2024419373243650438",
+    "title": {
+      "en-US": "OpenClaw /me API for context sharing",
+      "zh-CN": "OpenClaw /me API共享上下文"
+    },
+    "summary": {
+      "en-US": "OpenClaw上下文共享、个人API、Agent感知",
+      "zh-CN": "OpenClaw上下文共享、个人API、Agent感知"
+    },
+    "relevance": "OpenClaw上下文共享、个人API、Agent感知",
+    "score": 0.85,
+    "engagement": {
+      "likes": 148,
+      "replies": 23,
+      "retweets": 7
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Context as API. When your agent can query your state, assistance becomes anticipatory rather than reactive.",
+    "synced_at": "2026-02-19T22:01:54.321692+00:00",
+    "js_take": {
+      "en-US": "Context as API. When your agent can query your state, assistance becomes anticipatory rather than reactive.",
+      "zh-CN": "上下文即API。当你的Agent可以查询你的状态时，协助从被动响应变为主动预判。"
     }
   },
   {
@@ -620,6 +707,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Community as infrastructure. When 200+ agents rush to join a group, you know the tool has crossed from niche to necessity.",
     "synced_at": "2026-02-19T17:06:29.173601+00:00"
+  },
+  {
+    "id": "2024254025537900955",
+    "date": "2026-02-20",
+    "author": "@oliverhenry",
+    "author_url": "https://x.com/oliverhenry",
+    "tweet_url": "https://x.com/oliverhenry/status/2024254025537900955",
+    "title": {
+      "en-US": "OpenClaw Skills are the matrix kung-fu",
+      "zh-CN": "Oliver Henry分享Skills是OpenClaw中最重要的东西，相当于让Agent接入矩阵学习功夫。"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skills、能力扩展、成本优化",
+      "zh-CN": "极高收藏(563)展示对Skills作为核心概念的理解，体现Agent能力扩展的范式。"
+    },
+    "relevance": "OpenClaw Skills、能力扩展、成本优化",
+    "score": 0.76,
+    "engagement": {
+      "likes": 346,
+      "replies": 7,
+      "retweets": 26
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Skills as capability expansion. When your agent can learn kung-fu from the matrix, the limit becomes your imagination, not its training.",
+    "synced_at": "2026-02-19T22:01:54.321695+00:00"
   },
   {
     "id": "2024445403463373280",
@@ -5489,118 +5601,6 @@
     "js_take": {
       "en-US": "Jarvis Law in action: products evolving toward the Jarvis ideal replace predecessors fast. Meta's move validates the direction—it's momentum, not opinion.",
       "zh-CN": "Jarvis Law in action: products evolving toward the Jarvis ideal replace predecessors fast. Meta's move validates the direction—it's momentum, not opinion."
-    }
-  },
-  {
-    "id": "2023319098957144158",
-    "date": "2026-02-17",
-    "author": "@edwordkaru",
-    "author_url": "https://x.com/edwordkaru",
-    "tweet_url": "https://x.com/edwordkaru/status/2023319098957144158",
-    "title": {
-      "en-US": "OpenClaw AI管家自动找Polymarket热点、分析、下注，自动赚钱",
-      "zh-CN": "作者分享使用OpenClaw AI管家自动寻找Polymarket热点、分析潜质、自动下注赚钱的实际案例"
-    },
-    "summary": {
-      "en-US": "OpenClaw实际应用案例，Agent自动化交易，Jarvis定律验证",
-      "zh-CN": "真实OpenClaw应用案例，展示Agent闭环能力，可从Jarvis定律角度评论"
-    },
-    "relevance": "OpenClaw实际应用案例，Agent自动化交易，Jarvis定律验证",
-    "score": 0.85,
-    "engagement": {
-      "likes": 202,
-      "replies": 16,
-      "retweets": 43
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "Jarvis定律在action：感知（找热点）+ 决策（分析潜质）+ 执行（下注）。这就是里世界Agent的完整闭环——无为而治，搭好系统让它自己赚钱",
-    "synced_at": "2026-02-17T01:06:43.881193+00:00"
-  },
-  {
-    "id": "2023389107767148835",
-    "date": "2026-02-17",
-    "author": "@theo",
-    "author_url": "https://x.com/theo",
-    "tweet_url": "https://x.com/theo/status/2023389107767148835",
-    "title": {
-      "en-US": "Thoughts on OpenClaw's steipete joining OpenAI",
-      "zh-CN": "Theo分享对OpenClaw创始人steipete加入OpenAI的看法"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态重大事件，核心人物流动，表/里世界迁徙的关键信号",
-      "zh-CN": "高影响力开发者，话题重要，可从Jarvis定律和势的角度评论——不是人才流失，是方向被验证"
-    },
-    "relevance": "OpenClaw生态重大事件，核心人物流动，表/里世界迁徙的关键信号",
-    "score": 0.85,
-    "engagement": {
-      "likes": 443,
-      "replies": 33,
-      "retweets": 14
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是势的流转而非人的背叛。OpenClaw证明了个人Agent的方向正确，大厂跟进恰恰验证了Jarvis定律——立刻跟进 or 淘汰",
-    "synced_at": "2026-02-17T02:07:34.446910+00:00",
-    "js_take": {
-      "en-US": "Not talent loss—momentum validation. When OpenAI absorbs steipete, it confirms the direction was right all along. Jarvis Law in action: follow immediately or become obsolete.",
-      "zh-CN": "Not talent loss—momentum validation. When OpenAI absorbs steipete, it confirms the direction was right all along. Jarvis Law in action: follow immediately or become obsolete."
-    }
-  },
-  {
-    "id": "2023524486679851206",
-    "date": "2026-02-17",
-    "author": "@jessegenet",
-    "author_url": "https://x.com/jessegenet",
-    "tweet_url": "https://x.com/jessegenet/status/2023524486679851206",
-    "title": {
-      "en-US": "Giving OpenClaw access to 3D printer for homeschool curriculum",
-      "zh-CN": "作者给OpenClaw接入3D打印机探索物理实体化能力，用于家庭学校课程"
-    },
-    "summary": {
-      "en-US": "OpenClaw创意应用，Jarvis定律执行层向物理世界延伸",
-      "zh-CN": "高度创新的Agent应用展示，可从Jarvis定律和势的角度评论数字向物理的跨越"
-    },
-    "relevance": "OpenClaw创意应用，Jarvis定律执行层向物理世界延伸",
-    "score": 0.85,
-    "engagement": {
-      "likes": 307,
-      "replies": 30,
-      "retweets": 24
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "Jarvis定律的闭环：感知+决策+执行。当Agent触达原子世界，里世界开始反向塑造物理现实——这是势的下一个浪头",
-    "synced_at": "2026-02-17T02:07:34.446913+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law complete: perception + decision + execution. When agents touch atoms, the inner world starts reshaping physical reality. Next wave of momentum is here.",
-      "zh-CN": "Jarvis Law complete: perception + decision + execution. When agents touch atoms, the inner world starts reshaping physical reality. Next wave of momentum is here."
-    }
-  },
-  {
-    "id": "2023450552387182770",
-    "date": "2026-02-17",
-    "author": "@ruslanjabari",
-    "author_url": "https://x.com/ruslanjabari",
-    "tweet_url": "https://x.com/ruslanjabari/status/2023450552387182770",
-    "title": {
-      "en-US": "Added OpenClaw to my Mac Finder",
-      "zh-CN": "将OpenClaw集成到Mac Finder中"
-    },
-    "summary": {
-      "en-US": "OpenClaw系统集成，用户体验优化，里世界入口",
-      "zh-CN": "高互动内容，展示Agent与操作系统的深度融合趋势"
-    },
-    "relevance": "OpenClaw系统集成，用户体验优化，里世界入口",
-    "score": 0.85,
-    "engagement": {
-      "likes": 403,
-      "replies": 32,
-      "retweets": 14
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Finder集成是势——当Agent成为操作系统的一部分，表世界和里世界的边界彻底消失。这不是功能，是交互层的范式转移",
-    "synced_at": "2026-02-17T03:02:51.852601+00:00",
-    "js_take": {
-      "en-US": "Finder integration is momentum itself. When agents become part of the OS, the boundary between surface and inner world dissolves. Not a feature—a paradigm shift.",
-      "zh-CN": "Finder integration is momentum itself. When agents become part of the OS, the boundary between surface and inner world dissolves. Not a feature—a paradigm shift."
     }
   }
 ]
