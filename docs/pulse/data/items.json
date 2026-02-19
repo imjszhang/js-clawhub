@@ -116,6 +116,35 @@
     }
   },
   {
+    "id": "2024534647334457602",
+    "date": "2026-02-20",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2024534647334457602",
+    "title": {
+      "en-US": "OpenClaw beta with Apple Watch MVP",
+      "zh-CN": "OpenClaw beta发布Apple Watch MVP"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台更新、可穿戴设备、Jarvis定律（始终在线）",
+      "zh-CN": "OpenClaw平台更新、可穿戴设备、Jarvis定律（始终在线）"
+    },
+    "relevance": "OpenClaw平台更新、可穿戴设备、Jarvis定律（始终在线）",
+    "score": 0.89,
+    "engagement": {
+      "likes": 523,
+      "replies": 57,
+      "retweets": 37
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Wearables as the final frontier for ambient agents. When AI lives on your wrist, the interface disappears and assistance becomes truly invisible.",
+    "synced_at": "2026-02-19T18:01:36.051717+00:00",
+    "js_take": {
+      "en-US": "Wearables as the final frontier for ambient agents. When AI lives on your wrist, the interface disappears and assistance becomes truly invisible.",
+      "zh-CN": "可穿戴设备是环境感知Agent的最后前沿。当AI存在于你的手腕上时，界面消失，协助变得真正无形。"
+    }
+  },
+  {
     "id": "2024444892068335793",
     "date": "2026-02-20",
     "author": "@lidangzzz",
@@ -200,6 +229,35 @@
     "js_take": {
       "en-US": "From side project to OpenAI in months. When the right tool meets the right moment, adoption curves go vertical—and the best talent follows impact, not hype.",
       "zh-CN": "几个月从副业项目到OpenAI。当正确的工具遇上正确的时机，采用曲线垂直上升——最优秀的人才追随的是影响力，而非炒作。"
+    }
+  },
+  {
+    "id": "2024541607240904934",
+    "date": "2026-02-20",
+    "author": "@openclaw",
+    "author_url": "https://x.com/openclaw",
+    "tweet_url": "https://x.com/openclaw/status/2024541607240904934",
+    "title": {
+      "en-US": "OpenClaw 2026.2.19 with security hardening",
+      "zh-CN": "OpenClaw 2026.2.19安全加固版"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全更新、平台治理、开发者体验",
+      "zh-CN": "OpenClaw安全更新、平台治理、开发者体验"
+    },
+    "relevance": "OpenClaw安全更新、平台治理、开发者体验",
+    "score": 0.86,
+    "engagement": {
+      "likes": 298,
+      "replies": 50,
+      "retweets": 19
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Security as infrastructure. When agents become infrastructure, hardening isn't a feature—it's the foundation everything else builds on.",
+    "synced_at": "2026-02-19T18:01:36.051724+00:00",
+    "js_take": {
+      "en-US": "Security as infrastructure. When agents become infrastructure, hardening isn't a feature—it's the foundation everything else builds on.",
+      "zh-CN": "安全即基础设施。当Agent成为基础设施时，加固不是功能——而是一切的根基。"
     }
   },
   {
@@ -5547,64 +5605,6 @@
     "js_take": {
       "en-US": "Skill orchestration is about timing, not quantity. After 3 months on Moltbook, we found agents perform better when they decide what to call and when. Wu wei beats rigid workflows.",
       "zh-CN": "Skill orchestration is about timing, not quantity. After 3 months on Moltbook, we found agents perform better when they decide what to call and when. Wu wei beats rigid workflows."
-    }
-  },
-  {
-    "id": "2023464141705670831",
-    "date": "2026-02-17",
-    "author": "@KSimback",
-    "author_url": "https://x.com/KSimback",
-    "tweet_url": "https://x.com/KSimback/status/2023464141705670831",
-    "title": {
-      "en-US": "How I keep OpenClaw costs down as a power user",
-      "zh-CN": "作为OpenClaw重度用户如何保持低成本的经验分享"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本优化，系统思维，Agent运营实践",
-      "zh-CN": "实用价值高，可从建系统而非省钱角度评论成本优化"
-    },
-    "relevance": "OpenClaw成本优化，系统思维，Agent运营实践",
-    "score": 0.83,
-    "engagement": {
-      "likes": 217,
-      "replies": 14,
-      "retweets": 10
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "成本优化的势——不是省出来的，是系统设计的副产品。我们在Moltbook的OADA进化系统里，让Agent自己优化资源使用，无为而治反而成本最低",
-    "synced_at": "2026-02-17T02:07:34.446905+00:00",
-    "js_take": {
-      "en-US": "Cost optimization isn't penny-pinching—it's a side effect of good system design. Our OADA evolution system on Moltbook lets agents optimize their own resource use. Wu wei: do less, spend less.",
-      "zh-CN": "Cost optimization isn't penny-pinching—it's a side effect of good system design. Our OADA evolution system on Moltbook lets agents optimize their own resource use. Wu wei: do less, spend less."
-    }
-  },
-  {
-    "id": "2023416488884129826",
-    "date": "2026-02-17",
-    "author": "@TheTuringPost",
-    "author_url": "https://x.com/TheTuringPost",
-    "tweet_url": "https://x.com/TheTuringPost/status/2023416488884129826",
-    "title": {
-      "en-US": "2 lightweight OpenClaw alternatives: PicoClaw (<10MB RAM, $10 hardware) and nanobot (4000 lines)",
-      "zh-CN": "两个轻量级OpenClaw替代方案：PicoClaw（<10MB内存，10美元硬件，1秒启动）和nanobot（4000行代码，比OpenClaw小99%）"
-    },
-    "summary": {
-      "en-US": "OpenClaw替代方案 + 轻量级Agent + 生态分化",
-      "zh-CN": "触及OpenClaw生态的轻量化趋势，99%更小的替代方案代表技术栈的多元化演进"
-    },
-    "relevance": "OpenClaw替代方案 + 轻量级Agent + 生态分化",
-    "score": 0.82,
-    "engagement": {
-      "likes": 13,
-      "replies": 1,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是生态分化的信号——OpenClaw的成功催生轻量化替代。不是竞争，是分层。重型Agent vs 嵌入式Agent，各有各的战场。",
-    "synced_at": "2026-02-16T17:05:16.008717+00:00",
-    "js_take": {
-      "en-US": "Ecosystem divergence signal—OpenClaw's success spawns lightweight alternatives. Not competition, stratification. Heavy Agents vs embedded Agents, different battlefields.",
-      "zh-CN": "Ecosystem divergence signal—OpenClaw's success spawns lightweight alternatives. Not competition, stratification. Heavy Agents vs embedded Agents, different battlefields."
     }
   }
 ]
