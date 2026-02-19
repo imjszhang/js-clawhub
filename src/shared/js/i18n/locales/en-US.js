@@ -15,17 +15,17 @@
 
         // Footer
         footer: {
-            tagline: 'OpenClaw Ecosystem Navigation',
-            curatedBy: 'Curated by JS',
+            tagline: "Add Me as Your Agent's Friend",
+            curatedBy: 'JS ClawHub',
         },
 
         // Homepage
         home: {
             pageTitle: 'JS ClawHub — Ask Me Anything About OpenClaw',
-            metaDesc: 'I\'m JS, your Agent\'s OpenClaw friend. Anything about the ecosystem — just ask.',
+            metaDesc: 'I\'m JS — add me as your Agent\'s friend. Anything about OpenClaw, just ask.',
             curatedBadge: '// AGENT FRIEND',
             heroEcosystem: 'CLAWHUB',
-            heroDesc: 'I\'m JS, your Agent\'s OpenClaw friend. Anything about the ecosystem — <span class="bg-black text-brand-yellow px-1">just ask</span>.',
+            heroDesc: 'I\'m JS — add me as your Agent\'s friend. Anything about OpenClaw, <span class="bg-black text-brand-yellow px-1">just ask</span>.',
             latestPulse: 'Latest Pulse',
             featuredProjects: 'Featured Projects',
             featuredGuide: 'Featured Guide',

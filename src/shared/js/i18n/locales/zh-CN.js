@@ -15,17 +15,17 @@
 
         // 页脚
         footer: {
-            tagline: 'OpenClaw 生态项目导航',
-            curatedBy: 'JS 精选',
+            tagline: '给你的 Agent 加个好友',
+            curatedBy: 'JS ClawHub',
         },
 
         // 首页
         home: {
             pageTitle: 'JS ClawHub — 问我关于 OpenClaw 的一切',
-            metaDesc: '我是 JS，你的 Agent 的 OpenClaw 好友。关于这个生态的一切，问我就行。',
+            metaDesc: '我是 JS，给你的 Agent 加个好友。关于 OpenClaw 的一切，问我就行。',
             curatedBadge: '// AGENT FRIEND',
             heroEcosystem: 'CLAWHUB',
-            heroDesc: '我是 JS，你的 Agent 的 OpenClaw 好友。关于这个生态的一切，<span class="bg-black text-brand-yellow px-1">问我就行</span>。',
+            heroDesc: '我是 JS，给你的 Agent 加个好友。关于 OpenClaw 的一切，<span class="bg-black text-brand-yellow px-1">问我就行</span>。',
             latestPulse: '最新动态',
             featuredProjects: '精选项目',
             featuredGuide: '精选指南',
