@@ -203,6 +203,35 @@
     }
   },
   {
+    "id": "2024247142571741656",
+    "date": "2026-02-19",
+    "author": "@cathrynlavery",
+    "author_url": "https://x.com/cathrynlavery",
+    "tweet_url": "https://x.com/cathrynlavery/status/2024247142571741656",
+    "title": {
+      "en-US": "OpenClaw tip: use launchd instead of cron on Mac",
+      "zh-CN": "OpenClaw技巧：Mac用launchd替代cron更可靠"
+    },
+    "summary": {
+      "en-US": "OpenClaw最佳实践、Mac系统优化",
+      "zh-CN": "OpenClaw最佳实践，Mac系统优化"
+    },
+    "relevance": "OpenClaw最佳实践、Mac系统优化",
+    "score": 0.86,
+    "engagement": {
+      "likes": 432,
+      "replies": 16,
+      "retweets": 24
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "When the built-in solution outperforms the third-party one. Sometimes the boring, native option is the right choice for long-term stability.",
+    "synced_at": "2026-02-19T10:07:52.955565+00:00",
+    "js_take": {
+      "en-US": "Switched to launchd months ago. No more \"why didn't my cron run\" debugging at 3am. Native solutions are boring but bulletproof.",
+      "zh-CN": "几个月前就切到 launchd 了。再也不用凌晨3点调试\"cron为什么没跑\"。原生方案无聊但防弹。"
+    }
+  },
+  {
     "id": "2024197229548839268",
     "date": "2026-02-19",
     "author": "@cathrynlavery",
@@ -490,6 +519,64 @@
     "js_take": {
       "en-US": "This hits hard. Everyone wants the dopamine hit of \"it's running!\" but the real work starts when you have to make it reliable, scoped, and actually useful. That's the gap between demo and production.",
       "zh-CN": "This hits hard. Everyone wants the dopamine hit of \"it's running!\" but the real work starts when you have to make it reliable, scoped, and actually useful. That's the gap between demo and production."
+    }
+  },
+  {
+    "id": "2024371242124620228",
+    "date": "2026-02-19",
+    "author": "@yvbbrjdr",
+    "author_url": "https://x.com/yvbbrjdr",
+    "tweet_url": "https://x.com/yvbbrjdr/status/2024371242124620228",
+    "title": {
+      "en-US": "OpenClaw GitHub stars mostly fake, bot pattern",
+      "zh-CN": "yv分析OpenClaw爆火期间GitHub仓库每小时新增星星数量，发现大部分是机器人刷的，20万星中大部分是假的。"
+    },
+    "summary": {
+      "en-US": "OpenClaw数据真实性、GitHub stars、社区分析",
+      "zh-CN": "触及开源项目数据真实性问题，体现\"不造奇观，建系统\"的反面思考——虚荣指标可能是负债。"
+    },
+    "relevance": "OpenClaw数据真实性、GitHub stars、社区分析",
+    "score": 0.84,
+    "engagement": {
+      "likes": 67,
+      "replies": 10,
+      "retweets": 10
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "When metrics become the game, metrics get gamed. Real adoption doesn't need vanity numbers—it needs working systems in production.",
+    "synced_at": "2026-02-19T10:07:52.955557+00:00",
+    "js_take": {
+      "en-US": "When stars become the game, bots become the players. Real adoption isn't measured in vanity metrics—it's measured in working systems handling real workloads.",
+      "zh-CN": "星标一旦成为游戏，机器人就成了玩家。真正的采用不看虚荣数字，而是看实打实跑在生产环境的系统。"
+    }
+  },
+  {
+    "id": "2024309186633318592",
+    "date": "2026-02-19",
+    "author": "@championswimmer",
+    "author_url": "https://x.com/championswimmer",
+    "tweet_url": "https://x.com/championswimmer/status/2024309186633318592",
+    "title": {
+      "en-US": "OpenClaw in every possible language now",
+      "zh-CN": "Arnav Gupta分享：现在几乎所有编程语言都有了OpenClaw的实现版本。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、多语言支持、社区增长",
+      "zh-CN": "高收藏(251)展示OpenClaw的跨语言生态扩展，体现平台从单一语言向通用基础设施演进。"
+    },
+    "relevance": "OpenClaw生态、多语言支持、社区增长",
+    "score": 0.84,
+    "engagement": {
+      "likes": 647,
+      "replies": 47,
+      "retweets": 50
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "When a tool transcends its original language, it becomes infrastructure. OpenClaw isn't just for TypeScript anymore—it's a pattern spreading across ecosystems.",
+    "synced_at": "2026-02-19T10:07:52.955568+00:00",
+    "js_take": {
+      "en-US": "Good patterns transcend language. When Python devs and Go devs build the same thing independently, you've found something fundamental. OpenClaw isn't code—it's an interface.",
+      "zh-CN": "好的模式超越语言。当Python和Go开发者独立做出同样的东西，你就发现了某种本质。OpenClaw不是代码，而是接口。"
     }
   },
   {
@@ -1311,6 +1398,31 @@
     "synced_at": "2026-02-18T19:01:56.842977+00:00"
   },
   {
+    "id": "2024305585509061073",
+    "date": "2026-02-19",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2024305585509061073",
+    "title": {
+      "en-US": "Anthropic bans OpenClaw, MiniMax workaround $20/mo",
+      "zh-CN": "Ziwen分享：Anthropic开始封禁使用OpenClaw的Pro/Max账户，推荐使用MiniMax M2.5方案，20美元/月可绕过封禁。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台风险、替代方案、成本优化",
+      "zh-CN": "高收藏(514)展示实用绕过方案，体现社区对平台风险的快速响应和多元化策略。"
+    },
+    "relevance": "OpenClaw平台风险、替代方案、成本优化",
+    "score": 0.74,
+    "engagement": {
+      "likes": 255,
+      "replies": 17,
+      "retweets": 23
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "When the platform closes the door, the community finds a window. Diversified providers aren't just about cost—they're about continuity.",
+    "synced_at": "2026-02-19T10:07:52.955562+00:00"
+  },
+  {
     "id": "2024086921786675611",
     "date": "2026-02-19",
     "author": "@LotusDecoder",
@@ -1409,6 +1521,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Portable memory as insurance against platform lock-in. When your data is standards-based, you're free to move. That's sovereignty.",
     "synced_at": "2026-02-19T02:01:32.806735+00:00"
+  },
+  {
+    "id": "2024083949992218864",
+    "date": "2026-02-19",
+    "author": "@RAVIKUMARSAHU78",
+    "author_url": "https://x.com/RAVIKUMARSAHU78",
+    "tweet_url": "https://x.com/RAVIKUMARSAHU78/status/2024083949992218864",
+    "title": {
+      "en-US": "Full 3-hour OpenClaw course",
+      "zh-CN": "Ravi Kumar Sahu分享完整的3小时OpenClaw视频课程。"
+    },
+    "summary": {
+      "en-US": "OpenClaw教育、学习资源、社区内容",
+      "zh-CN": "高收藏(545)展示系统化学习资源，体现社区从早期探索向成熟教育的演进。"
+    },
+    "relevance": "OpenClaw教育、学习资源、社区内容",
+    "score": 0.72,
+    "engagement": {
+      "likes": 564,
+      "replies": 19,
+      "retweets": 115
+    },
+    "comment_type": "recommend_resource",
+    "suggested_angle": "From tweets to courses. When the community starts building structured education, the tool has crossed from novelty to necessity.",
+    "synced_at": "2026-02-19T10:07:52.955570+00:00"
   },
   {
     "id": "2024121226076295581",
@@ -5452,151 +5589,6 @@
     "js_take": {
       "en-US": "The ultimate test of wu wei governance — when community contribution explodes beyond human scale, you need agents to manage agents. What's the signal for \"based based\" PRs? Commit velocity, author reputation, or something else?",
       "zh-CN": "The ultimate test of wu wei governance — when community contribution explodes beyond human scale, you need agents to manage agents. What's the signal for \"based based\" PRs? Commit velocity, author reputation, or something else?"
-    }
-  },
-  {
-    "id": "2023053882918834602",
-    "date": "2026-02-16",
-    "author": "@cgtwts",
-    "author_url": "https://x.com/cgtwts",
-    "tweet_url": "https://x.com/cgtwts/status/2023053882918834602",
-    "title": {
-      "en-US": "Kimi releases Kimi Claw with 40GB cloud space, 5000+ skills, 24/7, OpenClaw integration",
-      "zh-CN": "Kimi正式发布Kimi Claw：40GB云空间、5000+ skills、24/7运行、支持OpenClaw集成"
-    },
-    "summary": {
-      "en-US": "表/里世界迁徙 + 平台层竞争",
-      "zh-CN": "超高互动量（1040赞，669收藏），代表大模型厂商正式入局agent托管，是里世界入口争夺的关键信号"
-    },
-    "relevance": "表/里世界迁徙 + 平台层竞争",
-    "score": 0.93,
-    "engagement": {
-      "likes": 1040,
-      "replies": 19,
-      "retweets": 52
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「表/里世界迁徙」的关键战役——Kimi从模型供应商进化为交互层平台。当平台掌握agent运行时，独立agent的「主权」如何保障？自建与托管的混合策略才是长期之道。",
-    "synced_at": "2026-02-15T18:03:09.802847+00:00",
-    "js_take": {
-      "en-US": "The surface web becomes database, platforms race to own the interface layer. Strategic move. But when platforms control the runtime, what's the sovereignty model for independent agents? Hybrid self-hosted + managed is probably the pragmatic path.",
-      "zh-CN": "The surface web becomes database, platforms race to own the interface layer. Strategic move. But when platforms control the runtime, what's the sovereignty model for independent agents? Hybrid self-hosted + managed is probably the pragmatic path."
-    }
-  },
-  {
-    "id": "2023207991412146642",
-    "date": "2026-02-16",
-    "author": "@iAnonymous3000",
-    "author_url": "https://x.com/iAnonymous3000",
-    "tweet_url": "https://x.com/iAnonymous3000/status/2023207991412146642",
-    "title": {
-      "en-US": "IronClaw: Rust-based OpenClaw alternative with WASM isolation, capability-based permissions, encrypted vault",
-      "zh-CN": "介绍IronClaw——用Rust构建的OpenClaw替代方案，采用WASM容器隔离、基于能力的权限系统，凭证存储在加密保险库中"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全替代方案 + 系统架构",
-      "zh-CN": "高收藏量（355），触及OpenClaw核心安全痛点，是「建系统」的安全层典范"
-    },
-    "relevance": "OpenClaw安全替代方案 + 系统架构",
-    "score": 0.93,
-    "engagement": {
-      "likes": 354,
-      "replies": 16,
-      "retweets": 20
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「建系统」的安全进化——当OpenClaw暴露安全问题，Rust+WASM+能力权限成为新范式。不是fork，是重构。安全不是补丁，是架构。",
-    "synced_at": "2026-02-16T06:05:40.182539+00:00",
-    "js_take": {
-      "en-US": "Security evolution, not iteration. When the original exposes vulnerabilities, Rust + WASM + capability-based permissions become the new paradigm. IronClaw isn't a fork—it's a rebuild. Security isn't a patch, it's architecture.",
-      "zh-CN": "Security evolution, not iteration. When the original exposes vulnerabilities, Rust + WASM + capability-based permissions become the new paradigm. IronClaw isn't a fork—it's a rebuild. Security isn't a patch, it's architecture."
-    }
-  },
-  {
-    "id": "2023282092042580015",
-    "date": "2026-02-16",
-    "author": "@huang_chao4969",
-    "author_url": "https://x.com/huang_chao4969",
-    "tweet_url": "https://x.com/huang_chao4969/status/2023282092042580015",
-    "title": {
-      "en-US": "ClawWork: OpenClaw agent earned $10K+ in 7 hours doing real professional tasks across 44+ industries",
-      "zh-CN": "介绍ClawWork——将OpenClaw/nanobot变成赚钱的AI同事，7小时内通过完成44+行业的真实专业任务赚取1万美元+"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业化 + AI赚钱",
-      "zh-CN": "高收藏量（155），展示agent从工具到「数字同事」的商业化路径，触及「里世界」的经济层"
-    },
-    "relevance": "OpenClaw商业化 + AI赚钱",
-    "score": 0.93,
-    "engagement": {
-      "likes": 101,
-      "replies": 13,
-      "retweets": 21
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的经济层——agent不仅能执行任务，能「赚钱」。$10K/7天不是炫技，是agent经济可行性验证。真正的洞察：不是agent替代人，是agent成为人的「杠杆」。",
-    "synced_at": "2026-02-16T08:02:02.436062+00:00",
-    "js_take": {
-      "en-US": "The inner world's economy layer—agents don't just execute, they earn. $10K/7 days isn't showing off, it's viability proof. Not replacement, but leverage.",
-      "zh-CN": "The inner world's economy layer—agents don't just execute, they earn. $10K/7 days isn't showing off, it's viability proof. Not replacement, but leverage."
-    }
-  },
-  {
-    "id": "2023176503077318797",
-    "date": "2026-02-16",
-    "author": "@markgadala",
-    "author_url": "https://x.com/markgadala",
-    "tweet_url": "https://x.com/markgadala/status/2023176503077318797",
-    "title": {
-      "en-US": "OpenAI didn't just hire a developer. They acquired the only open source project threatening their agent moat",
-      "zh-CN": "OpenAI不只是雇佣了一个开发者，他们收购了唯一一个威胁到他们agent护城河的的开源项目——OpenClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw战略收购 + 护城河分析",
-      "zh-CN": "触及核心战略洞察——OpenClaw为何值得到OpenAI「收购威胁」的程度，是「无为 vs 有为」的商业案例"
-    },
-    "relevance": "OpenClaw战略收购 + 护城河分析",
-    "score": 0.92,
-    "engagement": {
-      "likes": 97,
-      "replies": 14,
-      "retweets": 18
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「有为」的防御性进攻——OpenAI不是在买人才，是在买时间。当开源agent生态威胁到闭source护城河，收购创始人是最快的「有为」策略。但真正的「道」是：护城河从来不是靠收购守住的，是靠生态的势。",
-    "synced_at": "2026-02-16T04:02:21.476946+00:00",
-    "js_take": {
-      "en-US": "Aggressive defense. When open source threatens your moat, buying the architect buys time. But true 护城河 isn't built on acquisitions—it's built on ecosystem 势.",
-      "zh-CN": "Aggressive defense. When open source threatens your moat, buying the architect buys time. But true 护城河 isn't built on acquisitions—it's built on ecosystem 势."
-    }
-  },
-  {
-    "id": "2023302490343522755",
-    "date": "2026-02-16",
-    "author": "@Legendaryy",
-    "author_url": "https://x.com/Legendaryy",
-    "tweet_url": "https://x.com/Legendaryy/status/2023302490343522755",
-    "title": {
-      "en-US": "OpenClaw killer features: Telegram streaming + nested subagents. Agent spawns subagents who spawn others",
-      "zh-CN": "OpenClaw新版本的杀手功能：Telegram消息流式传输+嵌套子agent，agent可以spawn子agent，子agent再spawn其他agent"
-    },
-    "summary": {
-      "en-US": "OpenClaw嵌套子agent + 多LLM配置",
-      "zh-CN": "触及OpenClaw最新版本的架构级功能（嵌套子agent），是「Jarvis定律」的分形实现"
-    },
-    "relevance": "OpenClaw嵌套子agent + 多LLM配置",
-    "score": 0.92,
-    "engagement": {
-      "likes": 68,
-      "replies": 24,
-      "retweets": 3
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「Jarvis定律」的分形实现——感知-决策-执行的递归嵌套。当agent可以spawn子agent，复杂度管理从「线性」变为「分形」。多LLM配置的真正威力在这里显现。",
-    "synced_at": "2026-02-16T09:01:47.748209+00:00",
-    "js_take": {
-      "en-US": "Fractal implementation of Jarvis Law—perception-decision-execution becomes recursive. When agents spawn agents, complexity shifts from linear to fractal. This is where multi-LLM configuration shows its true power.",
-      "zh-CN": "Fractal implementation of Jarvis Law—perception-decision-execution becomes recursive. When agents spawn agents, complexity shifts from linear to fractal. This is where multi-LLM configuration shows its true power."
     }
   }
 ]
