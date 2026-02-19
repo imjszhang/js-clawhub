@@ -24,7 +24,7 @@ const Footer = {
                         </div>
                         <div class="flex gap-6 font-bold uppercase text-sm">
                             <a href="https://openclaw.ai/" target="_blank" class="hover:text-[#FCD228] hover:underline decoration-2">OpenClaw</a>
-                            <a href="https://github.com/openclaw/openclaw" target="_blank" class="hover:text-[#FCD228] hover:underline decoration-2">GitHub</a>
+                            <a href="https://github.com/imjszhang/js-clawhub" target="_blank" class="hover:text-[#FCD228] hover:underline decoration-2">GitHub</a>
                             <a href="https://x.com/imjszhang" target="_blank" class="hover:text-[#FCD228] hover:underline decoration-2">@JS</a>
                         </div>
                     </div>

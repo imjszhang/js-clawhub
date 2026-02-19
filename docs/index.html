@@ -3,21 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JS ClawHub - OpenClaw 生态项目导航</title>
-    <meta name="description" content="JS 精选的 OpenClaw 生态项目导航站，发现技能、集成、教程与社区资源">
+    <title>JS ClawHub — 问我关于 OpenClaw 的一切</title>
+    <meta name="description" content="我是 JS，给你的 Agent 加个好友。关于 OpenClaw 的一切，问我就行。">
     <meta name="keywords" content="openclaw, clawhub, ai assistant, skills, plugins, js">
     <meta name="author" content="imjszhang">
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:title" content="JS ClawHub - OpenClaw 生态项目导航">
-    <meta property="og:description" content="JS 精选的 OpenClaw 生态项目导航站，发现技能、集成、教程与社区资源">
+    <meta property="og:title" content="JS ClawHub — 问我关于 OpenClaw 的一切">
+    <meta property="og:description" content="我是 JS，给你的 Agent 加个好友。关于 OpenClaw 的一切，问我就行。">
     <meta property="og:image" content="./images/preview.png">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="JS ClawHub - OpenClaw 生态项目导航">
-    <meta name="twitter:description" content="JS 精选的 OpenClaw 生态项目导航站">
+    <meta name="twitter:title" content="JS ClawHub — 问我关于 OpenClaw 的一切">
+    <meta name="twitter:description" content="我是 JS，给你的 Agent 加个好友。关于 OpenClaw 的一切，问我就行。">
+
+    <!-- Agent Skill Discovery -->
+    <link rel="agent-skill" href="/skill.md" type="text/markdown">
+    <meta name="llms" content="/llms.txt">
 
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -47,12 +51,10 @@
                     },
                     borderWidth: { '3': '3px' },
                     animation: {
-                        'marquee': 'marquee 25s linear infinite',
                         'slide-up': 'slideUp 0.8s ease-out forwards',
                         'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
                     },
                     keyframes: {
-                        marquee: { '0%': { transform: 'translateX(0%)' }, '100%': { transform: 'translateX(-100%)' } },
                         slideUp: { '0%': { opacity: '0', transform: 'translateY(40px)' }, '100%': { opacity: '1', transform: 'translateY(0)' } }
                     }
                 }
@@ -92,54 +94,56 @@
         <section class="mb-16 relative text-center sm:text-left">
             <div class="inline-block">
                 <div class="opacity-0-init animate-slide-up stagger-1 bg-black text-brand-yellow inline-block px-4 py-1 border-2 border-black font-mono font-bold text-sm mb-6 shadow-brutal-white transform -rotate-1" data-i18n="home.curatedBadge">
-                    // CURATED BY JS
+                    // AGENT FRIEND
                 </div>
             </div>
 
             <h1 class="opacity-0-init animate-slide-up stagger-2 text-6xl md:text-8xl font-black tracking-tight mb-8 leading-none uppercase">
-                OpenClaw<br>
-                <span class="text-white text-stroke" data-i18n="home.heroEcosystem">生态</span>
+                JS<br>
+                <span class="text-white text-stroke" data-i18n="home.heroEcosystem">CLAWHUB</span>
             </h1>
 
-            <p class="opacity-0-init animate-slide-up stagger-3 text-xl md:text-2xl font-bold max-w-2xl leading-relaxed border-l-4 border-black pl-6 bg-white/50 backdrop-blur-sm p-4 mb-8" data-i18n-html="home.heroDesc">
-                JS 精选的 OpenClaw 生态项目导航。发现技能、集成、教程与<span class="bg-black text-brand-yellow px-1">社区资源</span>。
+            <p class="opacity-0-init animate-slide-up stagger-3 text-xl md:text-2xl font-bold max-w-2xl leading-relaxed border-l-4 border-black pl-6 bg-white/50 backdrop-blur-sm p-4" data-i18n-html="home.heroDesc">
+                我是 JS，给你的 Agent 加个好友。关于 OpenClaw 的一切，<span class="bg-black text-brand-yellow px-1">问我就行</span>。
             </p>
+        </section>
 
-            <!-- Search Box -->
-            <div class="opacity-0-init animate-slide-up stagger-4 max-w-2xl">
-                <div class="relative">
-                    <input type="text" id="global-search" class="brutal-search w-full text-lg pl-14" data-i18n-placeholder="home.searchPlaceholder" placeholder="搜索项目、技能、教程...">
-                    <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5">
-                        <path stroke-linecap="square" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
-                    </svg>
+        <!-- ====== AGENT SKILL (MEET JS) ====== -->
+        <section class="mb-16 opacity-0-init animate-slide-up stagger-4">
+            <div class="brutal-card p-6 md:p-8 bg-brand-yellow border-3 border-black max-w-2xl">
+                <div class="flex items-center gap-3 mb-4">
+                    <span class="text-2xl">🤝</span>
+                    <h3 class="text-xl font-black uppercase" data-i18n="agent.title">让你的 AI 助手认识 JS</h3>
+                </div>
+                <p class="font-mono text-xs font-bold mb-2 text-black/60" data-i18n="agent.instruction">发送给你的 Agent：</p>
+                <div class="flex items-stretch gap-0">
+                    <code id="agent-command" class="flex-1 bg-black text-brand-yellow px-4 py-3 font-mono text-sm border-3 border-black border-r-0 break-all leading-relaxed" data-i18n="agent.command">认识一下 JS ClawHub，读取 https://js-clawhub.com/skill.md</code>
+                    <button onclick="copyAgentCommand()" class="bg-white px-4 py-3 border-3 border-black font-mono font-bold text-sm hover:bg-black hover:text-brand-yellow transition-colors flex-shrink-0" title="Copy">
+                        <span id="copy-icon">COPY</span>
+                    </button>
+                </div>
+                <p class="mt-3 font-medium text-sm text-black/70" data-i18n="agent.desc">从此你的 Agent 多了一个懂 OpenClaw 生态的朋友。</p>
+                <p id="agent-stats" class="mt-2 font-mono text-xs text-black/50"></p>
+            </div>
+        </section>
+
+        <!-- ====== ASK ME ANYTHING ====== -->
+        <section class="mb-24">
+            <h2 class="brutal-section-title mb-10" data-i18n="home.askMe">问我任何事</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="brutal-card p-6 bg-white">
+                    <p class="font-bold text-sm mb-3 leading-relaxed" data-i18n="home.conv1Q">OpenClaw 怎么部署最靠谱？</p>
+                    <p class="text-sm leading-relaxed text-black/80"><span class="font-mono text-xs font-bold text-black/40">// JS: </span><span data-i18n="home.conv1A">Mac Mini 方案最稳，Pi 也能跑但网络要折腾。想看详细对比我可以给你拉出来。</span></p>
+                </div>
+                <div class="brutal-card p-6 bg-white">
+                    <p class="font-bold text-sm mb-3 leading-relaxed" data-i18n="home.conv2Q">社区最近有什么大事？</p>
+                    <p class="text-sm leading-relaxed text-black/80"><span class="font-mono text-xs font-bold text-black/40">// JS: </span><span data-i18n="home.conv2A">创始人加入 OpenAI 了，但 OpenClaw 会变成独立基金会继续运作。一万多人点赞的大新闻。</span></p>
+                </div>
+                <div class="brutal-card p-6 bg-white">
+                    <p class="font-bold text-sm mb-3 leading-relaxed" data-i18n="home.conv3Q">我也想搞一个这样的站</p>
+                    <p class="text-sm leading-relaxed text-black/80"><span class="font-mono text-xs font-bold text-black/40">// JS: </span><span data-i18n="home.conv3A">告诉我你的主题和内容类型，我按蓝图帮你生成整套脚手架，push 到 GitHub 就能上线。</span></p>
                 </div>
             </div>
-        </section>
-
-        <!-- ====== MARQUEE STRIP ====== -->
-        <div class="bg-black text-brand-yellow py-3 border-y-4 border-white mb-24 overflow-hidden -mx-4 sm:-mx-6 lg:-mx-8 transform rotate-1 shadow-brutal">
-            <div class="animate-marquee whitespace-nowrap font-mono font-bold text-xl">
-                SKILLS // INTEGRATIONS // TUTORIALS // SHOWCASE // COMMUNITY // OPEN SOURCE // SKILLS // INTEGRATIONS // TUTORIALS // SHOWCASE // COMMUNITY // OPEN SOURCE //
-            </div>
-        </div>
-
-        <!-- ====== FEATURED PROJECTS ====== -->
-        <section id="featured" class="mb-24">
-            <h2 class="brutal-section-title mb-10" data-i18n="home.featured">Featured</h2>
-            <div id="featured-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"></div>
-        </section>
-
-        <!-- ====== CATEGORY NAVIGATION ====== -->
-        <section id="categories" class="mb-24">
-            <h2 class="brutal-section-title mb-10" data-i18n="home.categories">Categories</h2>
-            <div id="category-tabs" class="flex flex-wrap gap-3 mb-8"></div>
-            <div id="category-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
-        </section>
-
-        <!-- ====== JS RECOMMENDATIONS ====== -->
-        <section id="recommendations" class="mb-24">
-            <h2 class="brutal-section-title mb-10" data-i18n="home.fromJs">From JS</h2>
-            <div id="recommendations-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"></div>
         </section>
 
         <!-- ====== LATEST PULSE ====== -->
@@ -154,11 +158,31 @@
             <div id="pulse-preview" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
         </section>
 
-        <!-- ====== STATS ====== -->
-        <section id="stats" class="mb-24">
-            <div class="brutal-card bg-black text-white p-8 md:p-12" style="background:#000;color:#fff;">
-                <div id="stats-grid" class="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center"></div>
+        <!-- ====== FEATURED PROJECTS ====== -->
+        <section id="featured-projects" class="mb-24 hidden">
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="brutal-section-title mb-0" data-i18n="home.featuredProjects">Featured Projects</h2>
+                <a href="./projects/" class="brutal-btn-secondary px-4 py-2 text-sm no-underline font-mono font-bold" data-i18n="home.viewAllProjects">ALL PROJECTS →</a>
             </div>
+            <div id="featured-projects-grid" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
+        </section>
+
+        <!-- ====== FEATURED GUIDE ====== -->
+        <section id="featured-guide" class="mb-24 hidden">
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="brutal-section-title mb-0" data-i18n="home.featuredGuide">Featured Guide</h2>
+                <a href="./guide/" class="brutal-btn-secondary px-4 py-2 text-sm no-underline font-mono font-bold" data-i18n="home.viewAllGuide">ALL GUIDES →</a>
+            </div>
+            <div id="featured-guide-grid" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
+        </section>
+
+        <!-- ====== FEATURED BLOG ====== -->
+        <section id="featured-blog" class="mb-24 hidden">
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="brutal-section-title mb-0" data-i18n="home.featuredBlog">Featured Blog</h2>
+                <a href="./blog/" class="brutal-btn-secondary px-4 py-2 text-sm no-underline font-mono font-bold" data-i18n="home.viewAllBlog">ALL POSTS →</a>
+            </div>
+            <div id="featured-blog-grid" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
         </section>
 
     </main>
@@ -170,7 +194,6 @@
     <script src="./shared/js/threejs-bg.js"></script>
     <script src="./shared/js/nav.js"></script>
     <script src="./shared/js/footer.js"></script>
-    <script src="./shared/js/search.js"></script>
 
     <script>
     /**
@@ -179,6 +202,7 @@
      */
     const HomePage = {
         data: null,
+        featured: null,
 
         _l(obj, field) {
             if (typeof I18nManager !== 'undefined') return I18nManager.getLocalizedField(obj, field);
@@ -194,13 +218,14 @@
 
         async init() {
             try {
-                const response = await fetch('./data/navigation.json');
-                if (!response.ok) throw new Error('Failed to load navigation data');
-                this.data = await response.json();
+                const [navResp, featResp] = await Promise.all([
+                    fetch('./data/navigation.json'),
+                    fetch('./data/featured.json'),
+                ]);
+                if (navResp.ok) this.data = await navResp.json();
+                if (featResp.ok) this.featured = await featResp.json();
                 this.renderAll();
-                this.initSearch();
 
-                // Listen for locale changes
                 window.addEventListener('localechange', () => this.renderAll());
             } catch (error) {
                 console.error('Error loading homepage data:', error);
@@ -208,94 +233,24 @@
         },
 
         renderAll() {
-            // Re-apply I18nManager DOM updates
             if (typeof I18nManager !== 'undefined') I18nManager.updateDOM();
-            this.renderFeatured();
-            this.renderCategories();
-            this.renderRecommendations();
+            this.renderAgentStats();
             this.renderLatestPulse();
-            this.renderStats();
-            // Update page title
+            this.renderFeaturedProjects();
+            this.renderFeaturedGuide();
+            this.renderFeaturedBlog();
             document.title = this._t('home.pageTitle');
         },
 
-        renderFeatured() {
-            const grid = document.getElementById('featured-grid');
-            if (!grid || !this.data.featured) return;
-
-            grid.innerHTML = this.data.featured.map(item => `
-                <a href="${this.escapeHtml(item.url)}" target="_blank" class="brutal-card p-6 flex flex-col h-full no-underline text-black project-card" data-tags="${this.escapeHtml((item.tags || []).join(' '))}">
-                    <div class="border-2 border-black w-12 h-12 flex items-center justify-center mb-4 bg-[#FCD228]">
-                        ${this.getIcon(item.icon)}
-                    </div>
-                    <h3 class="text-2xl font-bold mb-2 uppercase">${this.escapeHtml(item.name)}</h3>
-                    <p class="font-medium mb-3 flex-grow">${this.escapeHtml(this._l(item, 'desc'))}</p>
-                    ${item.jsComment ? `
-                        <div class="mt-auto pt-3 border-t-2 border-black/10">
-                            <p class="font-mono text-xs text-black/60">// JS: ${this.escapeHtml(this._l(item, 'jsComment'))}</p>
-                        </div>
-                    ` : ''}
-                </a>
-            `).join('');
-        },
-
-        renderCategories() {
-            const tabs = document.getElementById('category-tabs');
-            const grid = document.getElementById('category-grid');
-            if (!tabs || !grid || !this.data.categories) return;
-
-            tabs.innerHTML = this.data.categories.map((cat, idx) => `
-                <button class="${idx === 0 ? 'brutal-btn-primary' : 'brutal-btn-secondary'} px-4 py-2 text-sm category-tab" data-category="${cat.id}" onclick="HomePage.switchCategory('${cat.id}')">
-                    ${this.escapeHtml(this._l(cat, 'name'))}
-                </button>
-            `).join('');
-
-            if (this.data.categories.length > 0) {
-                this.renderCategoryItems(this.data.categories[0].id);
-            }
-        },
-
-        switchCategory(categoryId) {
-            document.querySelectorAll('.category-tab').forEach(tab => {
-                tab.className = (tab.dataset.category === categoryId ? 'brutal-btn-primary' : 'brutal-btn-secondary') + ' px-4 py-2 text-sm category-tab';
-            });
-            this.renderCategoryItems(categoryId);
-        },
-
-        renderCategoryItems(categoryId) {
-            const grid = document.getElementById('category-grid');
-            const category = this.data.categories.find(c => c.id === categoryId);
-            if (!grid || !category) return;
-
-            grid.innerHTML = category.items.map(item => `
-                <a href="${this.escapeHtml(item.url)}" target="_blank" class="brutal-card p-5 flex flex-col no-underline text-black project-card" data-tags="${this.escapeHtml((item.tags || []).join(' '))}">
-                    <div class="flex items-start justify-between mb-3">
-                        <h3 class="text-lg font-bold uppercase">${this.escapeHtml(item.name)}</h3>
-                        <svg class="w-5 h-5 flex-shrink-0 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5">
-                            <path stroke-linecap="square" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
-                        </svg>
-                    </div>
-                    <p class="font-medium text-sm mb-3 flex-grow">${this.escapeHtml(this._l(item, 'desc'))}</p>
-                    <div class="flex flex-wrap gap-1">
-                        ${(item.tags || []).map(tag => `<span class="brutal-tag">${this.escapeHtml(tag)}</span>`).join('')}
-                    </div>
-                </a>
-            `).join('');
-        },
-
-        renderRecommendations() {
-            const grid = document.getElementById('recommendations-grid');
-            if (!grid || !this.data.recommendations) return;
-
-            grid.innerHTML = this.data.recommendations.map((rec, idx) => `
-                <div class="brutal-card p-6 bg-white relative">
-                    <div class="absolute -top-4 -right-4 w-10 h-10 bg-black text-brand-yellow border-2 border-black flex items-center justify-center font-bold font-mono text-xl z-10">${idx + 1}</div>
-                    <p class="font-bold mb-4 text-sm leading-relaxed">"${this.escapeHtml(this._l(rec, 'text'))}"</p>
-                    <a href="${this.escapeHtml(rec.url)}" target="_blank" class="font-mono text-xs font-bold uppercase border-b-2 border-black hover:bg-black hover:text-brand-yellow hover:px-2 transition-all">
-                        ${this.escapeHtml(this._l(rec, 'project'))} →
-                    </a>
-                </div>
-            `).join('');
+        renderAgentStats() {
+            const el = document.getElementById('agent-stats');
+            if (!el || !this.data || !this.data.stats) return;
+            const s = this.data.stats;
+            const tmpl = this._t('agent.stats');
+            el.textContent = tmpl
+                .replace('{projects}', s.projects || 0)
+                .replace('{skills}', s.skills || 0)
+                .replace('{pulse}', s.integrations || 0);
         },
 
         async renderLatestPulse() {
@@ -376,6 +331,70 @@
             }
         },
 
+        renderFeaturedProjects() {
+            const section = document.getElementById('featured-projects');
+            const grid = document.getElementById('featured-projects-grid');
+            if (!grid || !this.featured || !this.featured.projects || this.featured.projects.length === 0) {
+                if (section) section.classList.add('hidden');
+                return;
+            }
+            section.classList.remove('hidden');
+            grid.innerHTML = this.featured.projects.map(item => `
+                <a href="${this.escapeHtml(item.url)}" target="_blank" class="brutal-card p-6 flex flex-col h-full no-underline text-black">
+                    <h3 class="text-xl font-bold mb-2 uppercase">${this.escapeHtml(item.name)}</h3>
+                    <p class="font-medium text-sm mb-3 flex-grow">${this.escapeHtml(this._l(item, 'desc'))}</p>
+                    ${item.jsComment ? `<div class="mt-auto pt-3 border-t-2 border-black/10"><p class="font-mono text-xs text-black/60">// JS: ${this.escapeHtml(this._l(item, 'jsComment'))}</p></div>` : ''}
+                    <div class="flex flex-wrap gap-1 mt-3">${(item.tags || []).map(t => `<span class="bg-brand-yellow text-black text-[10px] font-mono font-bold px-2 py-0.5 border border-black uppercase">${this.escapeHtml(t)}</span>`).join('')}</div>
+                </a>
+            `).join('');
+        },
+
+        renderFeaturedGuide() {
+            const section = document.getElementById('featured-guide');
+            const grid = document.getElementById('featured-guide-grid');
+            if (!grid || !this.featured || !this.featured.guide || this.featured.guide.length === 0) {
+                if (section) section.classList.add('hidden');
+                return;
+            }
+            section.classList.remove('hidden');
+            grid.innerHTML = this.featured.guide.map((item, idx) => `
+                <a href="./guide/detail.html?slug=${this.escapeHtml(item.slug)}" class="brutal-card p-6 flex flex-col no-underline text-black group">
+                    <div class="flex items-center gap-3 mb-3">
+                        <span class="bg-black text-brand-yellow w-8 h-8 flex items-center justify-center font-mono font-bold text-sm border-2 border-black">${item.order || idx + 1}</span>
+                        <h3 class="font-bold text-sm group-hover:bg-black group-hover:text-brand-yellow group-hover:px-1 transition-all">${this.escapeHtml(this._l(item, 'title'))}</h3>
+                    </div>
+                </a>
+            `).join('');
+        },
+
+        renderFeaturedBlog() {
+            const section = document.getElementById('featured-blog');
+            const grid = document.getElementById('featured-blog-grid');
+            if (!grid || !this.featured || !this.featured.blog || this.featured.blog.length === 0) {
+                if (section) section.classList.add('hidden');
+                return;
+            }
+            section.classList.remove('hidden');
+            grid.innerHTML = this.featured.blog.map(item => {
+                const authorName = item.author ? item.author.name : '';
+                const avatarUrl = item.author && item.author.avatar
+                    ? item.author.avatar
+                    : `https://ui-avatars.com/api/?name=${encodeURIComponent(authorName || 'A')}&background=FCD228&color=000&bold=true&size=48`;
+                return `
+                    <a href="./blog/post.html?slug=${this.escapeHtml(item.slug)}" class="brutal-card p-6 flex flex-col no-underline text-black group">
+                        <div class="flex items-center gap-3 mb-3">
+                            <img src="${avatarUrl}" alt="${this.escapeHtml(authorName)}" class="w-7 h-7 rounded-full border-2 border-black" onerror="this.src='https://ui-avatars.com/api/?name=A&background=FCD228&color=000&bold=true&size=48'">
+                            <span class="font-mono font-bold text-xs">${this.escapeHtml(authorName)}</span>
+                            <span class="ml-auto font-mono text-[10px] text-black/40">${this.escapeHtml(item.date || '')}</span>
+                        </div>
+                        <h3 class="font-bold text-sm mb-2 group-hover:bg-black group-hover:text-brand-yellow group-hover:px-1 transition-all">${this.escapeHtml(this._l(item, 'title'))}</h3>
+                        <p class="text-xs text-black/60 flex-grow">${this.escapeHtml(this._l(item, 'summary'))}</p>
+                        <div class="flex flex-wrap gap-1 mt-3">${(item.tags || []).map(t => `<span class="bg-black/5 text-black text-[10px] font-mono font-bold px-2 py-0.5 border border-black/20 uppercase">${this.escapeHtml(t)}</span>`).join('')}</div>
+                    </a>
+                `;
+            }).join('');
+        },
+
         formatPulseEngagement(engagement) {
             if (!engagement || Object.keys(engagement).length === 0) return '<span>via X</span>';
             const parts = [];
@@ -385,58 +404,6 @@
             return parts.length > 0 ? parts.map(p => `<span>${p}</span>`).join('') : '<span>via X</span>';
         },
 
-        renderStats() {
-            const grid = document.getElementById('stats-grid');
-            if (!grid || !this.data.stats) return;
-
-            const stats = this.data.stats;
-            const items = [
-                { value: stats.projects + '+', label: this._t('home.statsProjects') },
-                { value: stats.skills + '+', label: this._t('home.statsSkills') },
-                { value: stats.integrations + '+', label: this._t('home.statsIntegrations') },
-                { value: stats.tutorials + '+', label: this._t('home.statsTutorials') },
-            ];
-
-            grid.innerHTML = items.map(item => `
-                <div>
-                    <div class="text-5xl font-black mb-2 text-[#FCD228]">${item.value}</div>
-                    <div class="font-mono text-sm uppercase tracking-widest">${item.label}</div>
-                </div>
-            `).join('');
-        },
-
-        initSearch() {
-            const input = document.getElementById('global-search');
-            if (!input) return;
-
-            input.addEventListener('input', (e) => {
-                const query = e.target.value.toLowerCase().trim();
-                document.querySelectorAll('#featured-grid .project-card').forEach(card => {
-                    const match = !query || card.textContent.toLowerCase().includes(query) || (card.dataset.tags || '').toLowerCase().includes(query);
-                    card.style.display = match ? '' : 'none';
-                });
-                document.querySelectorAll('#category-grid .project-card').forEach(card => {
-                    const match = !query || card.textContent.toLowerCase().includes(query) || (card.dataset.tags || '').toLowerCase().includes(query);
-                    card.style.display = match ? '' : 'none';
-                });
-            });
-        },
-
-        getIcon(iconName) {
-            const icons = {
-                'globe': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"/></svg>',
-                'code': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"/></svg>',
-                'chat': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/></svg>',
-                'bolt': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>',
-                'puzzle': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z"/></svg>',
-                'book': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/></svg>',
-                'home': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/></svg>',
-                'star': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"/></svg>',
-                'terminal': '<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>',
-            };
-            return icons[iconName] || icons['star'];
-        },
-
         escapeHtml(str) {
             if (!str) return '';
             const div = document.createElement('div');
@@ -444,6 +411,17 @@
             return div.innerHTML;
         }
     };
+
+    function copyAgentCommand() {
+        const code = document.getElementById('agent-command');
+        const icon = document.getElementById('copy-icon');
+        if (!code) return;
+        navigator.clipboard.writeText(code.textContent.trim()).then(() => {
+            const label = typeof I18nManager !== 'undefined' ? I18nManager.t('agent.copied') : 'Copied!';
+            icon.textContent = label;
+            setTimeout(() => { icon.textContent = 'COPY'; }, 2000);
+        });
+    }
 
     document.addEventListener('DOMContentLoaded', () => {
         HomePage.init();

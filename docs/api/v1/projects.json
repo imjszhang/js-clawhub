@@ -1,0 +1,120 @@
+{
+  "featured": [
+    {
+      "name": "OpenClaw",
+      "url": "https://openclaw.ai/",
+      "desc": {"zh-CN": "开源个人 AI 助手，运行在你自己的机器上，通过 WhatsApp/Telegram/Discord 等聊天应用交互。", "en-US": "Open-source personal AI assistant that runs on your own machine, interacting via WhatsApp/Telegram/Discord and more."},
+      "icon": "star",
+      "tags": ["official", "core"],
+      "jsComment": {"zh-CN": "2026 年最令人兴奋的开源 AI 项目，没有之一。", "en-US": "The most exciting open-source AI project of 2026, bar none."}
+    },
+    {
+      "name": "ClawHub Skills",
+      "url": "https://clawhub.com/",
+      "desc": {"zh-CN": "OpenClaw 官方技能市场，下载社区创建的技能扩展你的 AI 助手能力。", "en-US": "Official OpenClaw skill marketplace. Download community-created skills to extend your AI assistant."},
+      "icon": "puzzle",
+      "tags": ["official", "skills"],
+      "jsComment": {"zh-CN": "技能生态是 OpenClaw 的灵魂，这里能找到各种神奇的扩展。", "en-US": "The skill ecosystem is the soul of OpenClaw. Find all kinds of amazing extensions here."}
+    },
+    {
+      "name": "OpenClaw GitHub",
+      "url": "https://github.com/openclaw/openclaw",
+      "desc": {"zh-CN": "OpenClaw 核心代码仓库，开源、可 hack、可自托管。", "en-US": "OpenClaw core repository. Open-source, hackable, self-hostable."},
+      "icon": "code",
+      "tags": ["official", "source"],
+      "jsComment": {"zh-CN": "代码质量很高，社区活跃度惊人，值得 star 和 watch。", "en-US": "High code quality, amazing community activity. Worth a star and watch."}
+    }
+  ],
+  "categories": [
+    {
+      "id": "messaging",
+      "name": {"zh-CN": "消息", "en-US": "MESSAGING"},
+      "items": [
+        {"name": "WhatsApp", "url": "https://openclaw.ai/", "desc": {"zh-CN": "通过 WhatsApp 与你的 AI 助手对话，支持 DM 和群聊。", "en-US": "Chat with your AI assistant via WhatsApp. Supports DM and group chats."}, "tags": ["official"]},
+        {"name": "Telegram", "url": "https://openclaw.ai/", "desc": {"zh-CN": "Telegram Bot 接入，支持消息、语音、文件交互。", "en-US": "Telegram Bot integration with message, voice, and file support."}, "tags": ["official"]},
+        {"name": "Discord", "url": "https://openclaw.ai/", "desc": {"zh-CN": "Discord 服务器中的 AI 助手，支持多频道管理。", "en-US": "AI assistant in your Discord server with multi-channel management."}, "tags": ["official"]},
+        {"name": "Slack", "url": "https://openclaw.ai/", "desc": {"zh-CN": "团队协作场景下的 AI 助手，集成到 Slack workspace。", "en-US": "AI assistant for team collaboration, integrated into Slack workspace."}, "tags": ["official"]},
+        {"name": "Signal", "url": "https://openclaw.ai/", "desc": {"zh-CN": "注重隐私的消息通道，端到端加密的 AI 对话。", "en-US": "Privacy-focused messaging channel with end-to-end encrypted AI conversations."}, "tags": ["official"]},
+        {"name": "iMessage", "url": "https://openclaw.ai/", "desc": {"zh-CN": "Apple 生态下的原生消息集成。", "en-US": "Native messaging integration within the Apple ecosystem."}, "tags": ["official"]}
+      ]
+    },
+    {
+      "id": "ai-models",
+      "name": {"zh-CN": "AI 模型", "en-US": "AI MODELS"},
+      "items": [
+        {"name": "Claude (Anthropic)", "url": "https://docs.anthropic.com/", "desc": {"zh-CN": "OpenClaw 默认推荐模型，强大的推理和工具调用能力。", "en-US": "OpenClaw's recommended default model with powerful reasoning and tool-calling."}, "tags": ["recommended"]},
+        {"name": "GPT (OpenAI)", "url": "https://platform.openai.com/", "desc": {"zh-CN": "支持 GPT-4o 等 OpenAI 模型作为后端驱动。", "en-US": "Supports GPT-4o and other OpenAI models as backend drivers."}, "tags": ["supported"]},
+        {"name": "MiniMax m2.1", "url": "https://www.minimax.chat/", "desc": {"zh-CN": "社区推荐的高性价比本地模型，工具调用表现优秀。", "en-US": "Community-recommended cost-effective model with excellent tool-calling."}, "tags": ["community"]},
+        {"name": "Local Models", "url": "https://ollama.com/", "desc": {"zh-CN": "通过 Ollama 等工具运行本地模型，数据完全私有。", "en-US": "Run local models via Ollama and similar tools. Fully private data."}, "tags": ["self-hosted"]}
+      ]
+    },
+    {
+      "id": "productivity",
+      "name": {"zh-CN": "效率工具", "en-US": "PRODUCTIVITY"},
+      "items": [
+        {"name": "Gmail", "url": "https://openclaw.ai/", "desc": {"zh-CN": "邮件管理、自动回复、收件箱清理、退订管理。", "en-US": "Email management, auto-reply, inbox cleanup, and unsubscribe management."}, "tags": ["official"]},
+        {"name": "Calendar", "url": "https://openclaw.ai/", "desc": {"zh-CN": "日程管理、提醒、自动安排会议。", "en-US": "Schedule management, reminders, and automatic meeting scheduling."}, "tags": ["official"]},
+        {"name": "Obsidian", "url": "https://openclaw.ai/", "desc": {"zh-CN": "连接你的知识库，让 AI 助手了解你的笔记。", "en-US": "Connect your knowledge base so AI can understand your notes."}, "tags": ["community"]},
+        {"name": "GitHub", "url": "https://openclaw.ai/", "desc": {"zh-CN": "代码审查、Issue 管理、PR 创建与自动化。", "en-US": "Code review, issue management, PR creation and automation."}, "tags": ["official"]},
+        {"name": "Todoist", "url": "https://openclaw.ai/", "desc": {"zh-CN": "任务管理自动化，通过对话创建和管理待办事项。", "en-US": "Task management automation. Create and manage todos via conversation."}, "tags": ["community"]}
+      ]
+    },
+    {
+      "id": "automation",
+      "name": {"zh-CN": "自动化", "en-US": "AUTOMATION"},
+      "items": [
+        {"name": "Browser Control", "url": "https://openclaw.ai/", "desc": {"zh-CN": "自动浏览网页、填写表单、提取数据，完整的浏览器自动化。", "en-US": "Auto-browse pages, fill forms, extract data. Full browser automation."}, "tags": ["official"]},
+        {"name": "File System", "url": "https://openclaw.ai/", "desc": {"zh-CN": "读写文件、运行脚本、执行 shell 命令。", "en-US": "Read/write files, run scripts, execute shell commands."}, "tags": ["official"]},
+        {"name": "Cron Jobs", "url": "https://openclaw.ai/", "desc": {"zh-CN": "设置定时任务，让 AI 助手在特定时间自动执行工作。", "en-US": "Set up scheduled tasks for your AI assistant to run automatically."}, "tags": ["official"]},
+        {"name": "Heartbeat", "url": "https://openclaw.ai/", "desc": {"zh-CN": "AI 助手主动检查和汇报，不只是被动响应。", "en-US": "AI assistant proactively checks and reports, not just reactive."}, "tags": ["official"]}
+      ]
+    },
+    {
+      "id": "media",
+      "name": {"zh-CN": "媒体", "en-US": "MEDIA"},
+      "items": [
+        {"name": "Spotify", "url": "https://openclaw.ai/", "desc": {"zh-CN": "音乐控制、播放列表管理、歌曲推荐。", "en-US": "Music control, playlist management, and song recommendations."}, "tags": ["community"]},
+        {"name": "ElevenLabs TTS", "url": "https://elevenlabs.io/", "desc": {"zh-CN": "AI 语音合成，让你的助手能打电话、发语音消息。", "en-US": "AI voice synthesis. Let your assistant make calls and send voice messages."}, "tags": ["community"]},
+        {"name": "Sora", "url": "https://openai.com/sora", "desc": {"zh-CN": "通过对话生成视频，社区已实现完整工作流。", "en-US": "Generate videos via conversation. Community has built full workflows."}, "tags": ["community"]}
+      ]
+    },
+    {
+      "id": "deployment",
+      "name": {"zh-CN": "部署", "en-US": "DEPLOYMENT"},
+      "items": [
+        {"name": "Mac Mini", "url": "https://openclaw.ai/", "desc": {"zh-CN": "最推荐的部署方案，24/7 运行的个人 AI 服务器。", "en-US": "Most recommended deployment. 24/7 personal AI server."}, "tags": ["recommended"]},
+        {"name": "Raspberry Pi", "url": "https://openclaw.ai/", "desc": {"zh-CN": "低成本部署方案，搭配 Cloudflare 隧道实现外网访问。", "en-US": "Low-cost deployment with Cloudflare tunnel for external access."}, "tags": ["community"]},
+        {"name": "macOS Client", "url": "https://openclaw.ai/", "desc": {"zh-CN": "官方桌面客户端（Beta），菜单栏快速访问。", "en-US": "Official desktop client (Beta). Quick access from menu bar."}, "tags": ["official", "beta"]},
+        {"name": "npm Install", "url": "https://openclaw.ai/", "desc": {"zh-CN": "npm i -g openclaw，最简单的安装方式。", "en-US": "npm i -g openclaw — the simplest way to install."}, "tags": ["official"]}
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "text": {"zh-CN": "OpenClaw 是 2026 年最让人兴奋的开源项目。一个人 + 一个仓库，填补了价值数十亿美元的产业空白。", "en-US": "OpenClaw is the most exciting open-source project of 2026. One person + one repo, filling a multi-billion dollar industry gap."},
+      "project": "OpenClaw",
+      "url": "https://openclaw.ai/"
+    },
+    {
+      "text": {"zh-CN": "技能系统的设计太聪明了——AI 不仅能使用技能，还能自己编写新技能。这才是真正的可扩展性。", "en-US": "The skill system design is brilliant — AI can not only use skills but also write new ones. That's true extensibility."},
+      "project": "ClawHub Skills",
+      "url": "https://clawhub.com/"
+    },
+    {
+      "text": {"zh-CN": "在 Mac Mini 上 24/7 运行 OpenClaw，感觉像拥有了一个不需要工资的全职助手。每天早晨的自动简报令人惊艳。", "en-US": "Running OpenClaw 24/7 on a Mac Mini feels like having a full-time assistant that doesn't need a salary. The daily morning briefing is amazing."},
+      "project": "Mac Mini",
+      "url": "https://openclaw.ai/"
+    },
+    {
+      "text": {"zh-CN": "社区的创造力超出想象：有人让它管理空气净化器，有人让它自动退订垃圾邮件，还有人让它用澳洲口音打电话。", "en-US": "Community creativity is beyond imagination: some control air purifiers, some auto-unsubscribe spam, some even make calls with an Australian accent."},
+      "project": {"zh-CN": "社区生态", "en-US": "Community"},
+      "url": "https://github.com/openclaw/openclaw"
+    }
+  ],
+  "stats": {
+    "projects": 50,
+    "skills": 30,
+    "integrations": 15,
+    "tutorials": 10
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "projects": [
+    {
+      "name": "OpenClaw",
+      "url": "https://openclaw.ai/",
+      "desc": {
+        "zh-CN": "开源个人 AI 助手，运行在你自己的机器上，通过 WhatsApp/Telegram/Discord 等聊天应用交互。",
+        "en-US": "Open-source personal AI assistant that runs on your own machine, interacting via WhatsApp/Telegram/Discord and more."
+      },
+      "tags": [
+        "official",
+        "core"
+      ],
+      "jsComment": {
+        "zh-CN": "2026 年最令人兴奋的开源 AI 项目，没有之一。",
+        "en-US": "The most exciting open-source AI project of 2026, bar none."
+      },
+      "icon": "star",
+      "source": "navigation.featured"
+    },
+    {
+      "name": "ClawHub Skills",
+      "url": "https://clawhub.com/",
+      "desc": {
+        "zh-CN": "OpenClaw 官方技能市场，下载社区创建的技能扩展你的 AI 助手能力。",
+        "en-US": "Official OpenClaw skill marketplace. Download community-created skills to extend your AI assistant."
+      },
+      "tags": [
+        "official",
+        "skills"
+      ],
+      "jsComment": {
+        "zh-CN": "技能生态是 OpenClaw 的灵魂，这里能找到各种神奇的扩展。",
+        "en-US": "The skill ecosystem is the soul of OpenClaw. Find all kinds of amazing extensions here."
+      },
+      "icon": "puzzle",
+      "source": "navigation.featured"
+    },
+    {
+      "name": "OpenClaw GitHub",
+      "url": "https://github.com/openclaw/openclaw",
+      "desc": {
+        "zh-CN": "OpenClaw 核心代码仓库，开源、可 hack、可自托管。",
+        "en-US": "OpenClaw core repository. Open-source, hackable, self-hostable."
+      },
+      "tags": [
+        "official",
+        "source"
+      ],
+      "jsComment": {
+        "zh-CN": "代码质量很高，社区活跃度惊人，值得 star 和 watch。",
+        "en-US": "High code quality, amazing community activity. Worth a star and watch."
+      },
+      "icon": "code",
+      "source": "navigation.featured"
+    }
+  ],
+  "guide": [
+    {
+      "slug": "what-is-openclaw",
+      "title": {
+        "zh-CN": "OpenClaw 是什么",
+        "en-US": "What is OpenClaw"
+      },
+      "order": 1,
+      "source": "guide"
+    },
+    {
+      "slug": "installation",
+      "title": {
+        "zh-CN": "安装与配置",
+        "en-US": "Installation & Setup"
+      },
+      "order": 3,
+      "source": "guide"
+    },
+    {
+      "slug": "core-concepts",
+      "title": {
+        "zh-CN": "核心概念",
+        "en-US": "Core Concepts"
+      },
+      "order": 2,
+      "source": "guide"
+    }
+  ],
+  "blog": [
+    {
+      "slug": "welcome-to-clawhub",
+      "title": {
+        "zh-CN": "欢迎来到 JS ClawHub",
+        "en-US": "Welcome to JS ClawHub"
+      },
+      "date": "2026-02-12",
+      "summary": {
+        "zh-CN": "JS ClawHub 正式上线。一个由 JS 策展的 OpenClaw 生态项目导航站，帮你发现最好的技能、集成和教程。",
+        "en-US": "JS ClawHub is officially live. A curated OpenClaw ecosystem navigation site by JS, helping you discover the best skills, integrations, and tutorials."
+      },
+      "cover": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "tags": [
+        "Announcement"
+      ],
+      "author": {
+        "name": "imjszhang",
+        "avatar": "https://unavatar.io/x/imjszhang",
+        "url": "https://x.com/imjszhang"
+      },
+      "source": "blog"
+    },
+    {
+      "slug": "what-is-openclaw",
+      "title": {
+        "zh-CN": "什么是 OpenClaw：开源个人 AI 助手",
+        "en-US": "What is OpenClaw: The Open Source Personal AI Assistant"
+      },
+      "date": "2026-02-10",
+      "summary": {
+        "zh-CN": "深入了解 OpenClaw——2026 年最令人兴奋的开源 AI 项目。它如何改变我们与 AI 交互的方式？",
+        "en-US": "A deep dive into OpenClaw — the most exciting open-source AI project of 2026. How is it changing the way we interact with AI?"
+      },
+      "cover": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=800&q=80",
+      "tags": [
+        "Guide",
+        "OpenClaw"
+      ],
+      "author": {
+        "name": "imjszhang",
+        "avatar": "https://unavatar.io/x/imjszhang",
+        "url": "https://x.com/imjszhang"
+      },
+      "source": "blog"
+    },
+    {
+      "slug": "openclaw-architecture-analysis",
+      "title": {
+        "zh-CN": "OpenClaw 项目架构分析",
+        "en-US": "OpenClaw Architecture Analysis"
+      },
+      "date": "2026-01-31",
+      "summary": {
+        "zh-CN": "花了一天把 OpenClaw 的代码和文档捋了一遍。部署逻辑、核心组件、设备要求，我的学习笔记。",
+        "en-US": "Spent a day going through OpenClaw's code and docs. Deployment logic, core components, device requirements — my study notes."
+      },
+      "cover": "https://images.unsplash.com/photo-1558494949-ef010c3dc523?w=800&q=80",
+      "tags": [
+        "OpenClaw",
+        "Guide"
+      ],
+      "author": {
+        "name": "imjszhang",
+        "avatar": "https://unavatar.io/x/imjszhang",
+        "url": "https://x.com/imjszhang"
+      },
+      "source": "blog"
+    }
+  ]
+}

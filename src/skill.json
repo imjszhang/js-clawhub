@@ -1,0 +1,31 @@
+{
+  "name": "js-clawhub",
+  "version": "1.0.0",
+  "description": "OpenClaw ecosystem navigator — search projects, browse skills, read guides and blogs, get community pulse.",
+  "homepage": "https://js-clawhub.com",
+  "author": "imjszhang",
+  "license": "MIT",
+  "api_base": "https://js-clawhub.com/api/v1",
+  "files": {
+    "skill": "/skill.md",
+    "soul": "/soul.md",
+    "heartbeat": "/heartbeat.md",
+    "craft": "/api/v1/craft/blueprint.md"
+  },
+  "endpoints": [
+    { "path": "/projects.json", "method": "GET", "description": "All ecosystem projects by category" },
+    { "path": "/skills.json", "method": "GET", "description": "Skills marketplace listing" },
+    { "path": "/blog/index.json", "method": "GET", "description": "Blog post index" },
+    { "path": "/blog/{slug}.md", "method": "GET", "description": "Full blog post content (Markdown)" },
+    { "path": "/guide/index.json", "method": "GET", "description": "Guide article index" },
+    { "path": "/guide/{slug}.md", "method": "GET", "description": "Full guide content (Markdown)" },
+    { "path": "/pulse/latest.json", "method": "GET", "description": "Community pulse highlights (compact)" },
+    { "path": "/pulse/week.json", "method": "GET", "description": "This week's pulse items" },
+    { "path": "/stats.json", "method": "GET", "description": "Ecosystem statistics" },
+    { "path": "/craft/blueprint.md", "method": "GET", "description": "Methodology guide for building agent-friendly sites" },
+    { "path": "/craft/scaffold.json", "method": "GET", "description": "Project file manifest with templates" },
+    { "path": "/craft/templates/{filename}", "method": "GET", "description": "Template file with placeholders" }
+  ],
+  "languages": ["zh-CN", "en-US"],
+  "auth": "none"
+}

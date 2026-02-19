@@ -2,7 +2,8 @@
  * ClawHub Builder — site build logic extracted from build/build.js.
  *
  * Copies src/ to docs/ for GitHub Pages deployment, injects Google Analytics,
- * validates i18n completeness, and returns structured results.
+ * validates i18n completeness, generates /api/v1/ data layer for agent skills,
+ * and returns structured results.
  */
 
 import { cpSync, mkdirSync, rmSync, writeFileSync, readFileSync, existsSync, readdirSync } from 'fs';
@@ -155,6 +156,89 @@ function validateI18n() {
     return warnings;
 }
 
+// ── API layer generation ─────────────────────────────────────────────
+
+function copyMdFiles(srcDir, destDir) {
+    if (!existsSync(srcDir)) return 0;
+    let count = 0;
+    for (const entry of readdirSync(srcDir, { withFileTypes: true })) {
+        if (!entry.isFile() || !entry.name.endsWith('.md')) continue;
+        cpSync(join(srcDir, entry.name), join(destDir, entry.name));
+        count++;
+    }
+    return count;
+}
+
+function generateApiLayer() {
+    const apiDir = join(DOCS, 'api', 'v1');
+    const dirs = [
+        apiDir,
+        join(apiDir, 'skills'),
+        join(apiDir, 'blog'),
+        join(apiDir, 'guide'),
+        join(apiDir, 'pulse'),
+    ];
+    for (const d of dirs) mkdirSync(d, { recursive: true });
+
+    let fileCount = 0;
+
+    // projects.json — full navigation data
+    cpSync(join(SRC, 'data', 'navigation.json'), join(apiDir, 'projects.json'));
+    fileCount++;
+
+    // stats.json — extracted stats field
+    const nav = JSON.parse(readFileSync(join(SRC, 'data', 'navigation.json'), 'utf-8'));
+    writeFileSync(join(apiDir, 'stats.json'), JSON.stringify(nav.stats, null, 2), 'utf-8');
+    fileCount++;
+
+    // featured.json — homepage curated content
+    const featuredSrc = join(SRC, 'data', 'featured.json');
+    if (existsSync(featuredSrc)) {
+        cpSync(featuredSrc, join(apiDir, 'featured.json'));
+        fileCount++;
+    }
+
+    // skills.json + skill markdown docs
+    cpSync(join(SRC, 'skills', 'data', 'index.json'), join(apiDir, 'skills.json'));
+    fileCount++;
+    fileCount += copyMdFiles(join(SRC, 'skills', 'data'), join(apiDir, 'skills'));
+
+    // blog/index.json + blog post markdown
+    cpSync(join(SRC, 'blog', 'posts', 'index.json'), join(apiDir, 'blog', 'index.json'));
+    fileCount++;
+    fileCount += copyMdFiles(join(SRC, 'blog', 'posts'), join(apiDir, 'blog'));
+
+    // guide/index.json + guide markdown
+    cpSync(join(SRC, 'guide', 'data', 'index.json'), join(apiDir, 'guide', 'index.json'));
+    fileCount++;
+    fileCount += copyMdFiles(join(SRC, 'guide', 'data'), join(apiDir, 'guide'));
+
+    // pulse/latest.json — compact stats
+    cpSync(join(SRC, 'pulse', 'data', 'pulse_stats.json'), join(apiDir, 'pulse', 'latest.json'));
+    fileCount++;
+
+    // pulse/week.json — this week's items only (controls payload size)
+    const allItems = JSON.parse(readFileSync(join(SRC, 'pulse', 'data', 'items.json'), 'utf-8'));
+    const now = new Date();
+    const weekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+    const weekItems = allItems.filter(item => {
+        const d = new Date(item.date);
+        return d >= weekAgo;
+    });
+    writeFileSync(join(apiDir, 'pulse', 'week.json'), JSON.stringify(weekItems, null, 2), 'utf-8');
+    fileCount++;
+
+    // craft/ — methodology guide + scaffold + templates
+    const craftSrc = join(SRC, 'craft');
+    if (existsSync(craftSrc)) {
+        const craftDest = join(apiDir, 'craft');
+        cpSync(craftSrc, craftDest, { recursive: true });
+        fileCount += countFiles(craftDest);
+    }
+
+    return fileCount;
+}
+
 // ── Public API ───────────────────────────────────────────────────────
 
 /**
@@ -180,59 +264,69 @@ export function build(options = {}) {
 
     // Step 1: Clean (maxRetries handles IDE file-watcher race conditions)
     if (clean && !dryRun) {
-        toStderr('[1/5] Cleaning docs/ ...');
+        toStderr('[1/6] Cleaning docs/ ...');
         if (existsSync(DOCS)) {
             rmSync(DOCS, { recursive: true, force: true, maxRetries: 3, retryDelay: 100 });
         }
         mkdirSync(DOCS, { recursive: true });
     } else if (dryRun) {
-        toStderr('[1/5] Cleaning docs/ ... (skipped: dry-run)');
+        toStderr('[1/6] Cleaning docs/ ... (skipped: dry-run)');
     } else {
-        toStderr('[1/5] Cleaning docs/ ... (skipped: --no-clean)');
+        toStderr('[1/6] Cleaning docs/ ... (skipped: --no-clean)');
     }
 
     // Step 2: Copy
     let filesCopied = 0;
     if (!dryRun) {
-        toStderr('[2/5] Copying src/ → docs/ ...');
+        toStderr('[2/6] Copying src/ → docs/ ...');
         if (!existsSync(DOCS)) {
             mkdirSync(DOCS, { recursive: true });
         }
         cpSync(SRC, DOCS, { recursive: true });
         filesCopied = countFiles(DOCS);
     } else {
-        toStderr('[2/5] Copying src/ → docs/ ... (skipped: dry-run)');
+        toStderr('[2/6] Copying src/ → docs/ ... (skipped: dry-run)');
         filesCopied = countFiles(SRC);
     }
 
     // Step 3: .nojekyll
     if (!dryRun) {
-        toStderr('[3/5] Creating .nojekyll ...');
+        toStderr('[3/6] Creating .nojekyll ...');
         writeFileSync(join(DOCS, '.nojekyll'), '');
     } else {
-        toStderr('[3/5] Creating .nojekyll ... (skipped: dry-run)');
+        toStderr('[3/6] Creating .nojekyll ... (skipped: dry-run)');
     }
 
     // Step 4: GA injection
     let gaInjected = 0;
     if (!skipGa && !dryRun) {
-        toStderr('[4/5] Injecting Google Analytics ...');
+        toStderr('[4/6] Injecting Google Analytics ...');
         gaInjected = injectGA(DOCS);
         toStderr(`     Injected into ${gaInjected} HTML file(s)`);
     } else {
-        toStderr(`[4/5] Injecting Google Analytics ... (skipped${skipGa ? ': --skip-ga' : ': dry-run'})`);
+        toStderr(`[4/6] Injecting Google Analytics ... (skipped${skipGa ? ': --skip-ga' : ': dry-run'})`);
     }
 
     // Step 5: i18n validation
     let i18nWarnings = [];
     if (!skipI18n) {
-        toStderr('[5/5] Validating i18n translations ...');
+        toStderr('[5/6] Validating i18n translations ...');
         i18nWarnings = validateI18n();
         for (const w of i18nWarnings) {
             toStderr(`  ⚠️  Missing "${w.locale}" in ${w.file} → ${w.field}`);
         }
     } else {
-        toStderr('[5/5] Validating i18n translations ... (skipped: --skip-i18n)');
+        toStderr('[5/6] Validating i18n translations ... (skipped: --skip-i18n)');
+    }
+
+    // Step 6: Generate API layer for agent skills
+    let apiFiles = 0;
+    if (!dryRun) {
+        toStderr('[6/6] Generating API layer (api/v1/) ...');
+        apiFiles = generateApiLayer();
+        toStderr(`      Generated ${apiFiles} file(s) in api/v1/`);
+    } else {
+        toStderr('[6/6] Generating API layer ... (skipped: dry-run)');
     }
 
     // Summary
@@ -246,5 +340,5 @@ export function build(options = {}) {
     toStderr(`📁 Output: docs/`);
     toStderr(`⏱  ${elapsed}ms\n`);
 
-    return { filesCopied, gaInjected, i18nWarnings, elapsed, dryRun };
+    return { filesCopied, gaInjected, i18nWarnings, apiFiles, elapsed, dryRun };
 }

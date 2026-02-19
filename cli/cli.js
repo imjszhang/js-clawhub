@@ -13,6 +13,7 @@
  *   pulse-delete <id> [--reason "..."]
  *   pulse-restore <id>
  *   pulse-excluded
+ *   featured [list|set|clear] [section] [ids]
  *   build  [--skip-ga] [--skip-i18n] [--dry-run] [--no-clean]
  *   commit [--message "..."] [--all] [--scope <area>]
  *   sync   [--no-build] [--no-push] [--message "..."] [--dry-run]
@@ -28,6 +29,7 @@
 
 import { readPulse, readProjects, readSkills, readBlog, readGuide, getStats } from './lib/data-reader.js';
 import { updatePulseItem, deletePulseItem, restoreItem, getExcludedIds } from './lib/data-writer.js';
+import { listFeatured, setFeatured, clearFeatured } from './lib/featured.js';
 import { setupCloudflare, setupGithubPages } from './lib/setup.js';
 import { search } from './lib/search.js';
 import { build } from './lib/builder.js';
@@ -223,6 +225,59 @@ async function cmdSetupGithubPages() {
     }
 }
 
+// ── Featured commands ────────────────────────────────────────────────
+
+function cmdFeatured(positional) {
+    const subcommand = positional[0] || 'list';
+
+    if (subcommand === 'list' || positional.length === 0) {
+        toJson(listFeatured());
+        return;
+    }
+
+    if (subcommand === 'set') {
+        const section = positional[1];
+        const idsStr = positional[2];
+        if (!section || !idsStr) {
+            toStderr('Error: featured set requires <section> <id1,id2,...>');
+            toStderr('Usage: clawhub featured set projects OpenClaw,"ClawHub Skills"');
+            toStderr('       clawhub featured set guide what-is-openclaw,installation');
+            toStderr('       clawhub featured set blog welcome-to-clawhub');
+            process.exit(1);
+        }
+        const ids = idsStr.split(',').map(s => s.trim()).filter(Boolean);
+        try {
+            const result = setFeatured(section, ids);
+            toJson(result);
+        } catch (err) {
+            toStderr(`Error: ${err.message}`);
+            process.exit(1);
+        }
+        return;
+    }
+
+    if (subcommand === 'clear') {
+        const section = positional[1];
+        if (!section) {
+            toStderr('Error: featured clear requires <section>');
+            toStderr('Usage: clawhub featured clear projects');
+            process.exit(1);
+        }
+        try {
+            const result = clearFeatured(section);
+            toJson(result);
+        } catch (err) {
+            toStderr(`Error: ${err.message}`);
+            process.exit(1);
+        }
+        return;
+    }
+
+    toStderr(`Error: unknown featured subcommand "${subcommand}"`);
+    toStderr('Usage: clawhub featured [list|set|clear]');
+    process.exit(1);
+}
+
 // ── Build / Git commands ─────────────────────────────────────────────
 
 function cmdBuild(flags) {
@@ -391,6 +446,14 @@ Commands:
 
   pulse-excluded     List all IDs excluded from sync (deleted or edited)
 
+  featured           Manage homepage featured/curated content
+  featured list      Show current featured selections (default)
+  featured set <section> <ids>
+                     Set featured items for a section (projects|guide|blog)
+                     IDs are comma-separated names (projects) or slugs (guide/blog)
+  featured clear <section>
+                     Clear all featured items in a section
+
   build              Build site: copy src/ to docs/, inject GA, validate i18n
     --skip-ga          Skip Google Analytics injection
     --skip-i18n        Skip i18n translation validation
@@ -439,6 +502,11 @@ Examples:
   clawhub sync --no-push --message "update pulse data"
   clawhub setup-cloudflare
   clawhub setup-github-pages
+  clawhub featured
+  clawhub featured set projects "OpenClaw,ClawHub Skills,Mac Mini"
+  clawhub featured set guide what-is-openclaw,installation
+  clawhub featured set blog welcome-to-clawhub
+  clawhub featured clear blog
   clawhub stats
   clawhub projects --category messaging
   clawhub skills --category productivity
@@ -480,6 +548,9 @@ async function main() {
             break;
         case 'pulse-excluded':
             cmdPulseExcluded();
+            break;
+        case 'featured':
+            cmdFeatured(positional);
             break;
         case 'setup-cloudflare':
             await cmdSetupCloudflare();

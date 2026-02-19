@@ -1,0 +1,54 @@
+{
+  "featured": [
+    {
+      "name": "{{ecosystem}}",
+      "url": "https://example.com/",
+      "desc": {
+        "zh-CN": "在这里填写{{ecosystem}}的中文描述。",
+        "en-US": "Fill in the English description for {{ecosystem}} here."
+      },
+      "icon": "star",
+      "tags": ["official", "core"],
+      "jsComment": {
+        "zh-CN": "在这里填写{{personaName}}对该项目的个人评价。",
+        "en-US": "Fill in {{personaName}}'s personal take on this project."
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "example-category",
+      "name": {
+        "zh-CN": "示例分类",
+        "en-US": "Example Category"
+      },
+      "items": [
+        {
+          "name": "Example Project",
+          "url": "https://example.com/",
+          "desc": {
+            "zh-CN": "示例项目描述。",
+            "en-US": "Example project description."
+          },
+          "tags": ["community"]
+        }
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "text": {
+        "zh-CN": "在这里填写{{personaName}}的推荐语。",
+        "en-US": "Fill in {{personaName}}'s recommendation here."
+      },
+      "project": "{{ecosystem}}",
+      "url": "https://example.com/"
+    }
+  ],
+  "stats": {
+    "projects": 0,
+    "skills": 0,
+    "integrations": 0,
+    "tutorials": 0
+  }
+}

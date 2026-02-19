@@ -1,0 +1,26 @@
+{
+  "name": "{{projectName}}",
+  "version": "1.0.0",
+  "description": "{{ecosystem}} ecosystem navigator — search projects, read guides, get community pulse.",
+  "homepage": "https://{{domain}}",
+  "author": "{{authorName}}",
+  "license": "MIT",
+  "api_base": "https://{{domain}}/api/v1",
+  "files": {
+    "skill": "/skill.md",
+    "soul": "/soul.md",
+    "heartbeat": "/heartbeat.md"
+  },
+  "endpoints": [
+    { "path": "/projects.json", "method": "GET", "description": "All ecosystem projects by category" },
+    { "path": "/blog/index.json", "method": "GET", "description": "Blog post index" },
+    { "path": "/blog/{slug}.md", "method": "GET", "description": "Full blog post content (Markdown)" },
+    { "path": "/guide/index.json", "method": "GET", "description": "Guide article index" },
+    { "path": "/guide/{slug}.md", "method": "GET", "description": "Full guide content (Markdown)" },
+    { "path": "/pulse/latest.json", "method": "GET", "description": "Community pulse highlights (compact)" },
+    { "path": "/pulse/week.json", "method": "GET", "description": "This week's pulse items" },
+    { "path": "/stats.json", "method": "GET", "description": "Ecosystem statistics" }
+  ],
+  "languages": ["zh-CN", "en-US"],
+  "auth": "none"
+}
