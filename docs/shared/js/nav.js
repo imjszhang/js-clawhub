@@ -8,10 +8,10 @@ const Nav = {
     // Navigation items (keys reference i18n locale keys)
     items: [
         { i18nKey: 'nav.about', href: '/' },
-        { i18nKey: 'nav.projects', href: '/projects/' },
-        { i18nKey: 'nav.blog', href: '/blog/' },
-        { i18nKey: 'nav.guide', href: '/guide/' },
         { i18nKey: 'nav.pulse', href: '/pulse/' },
+        { i18nKey: 'nav.projects', href: '/projects/' },
+        { i18nKey: 'nav.guide', href: '/guide/' },
+        { i18nKey: 'nav.blog', href: '/blog/' },
     ],
 
     /**
