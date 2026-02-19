@@ -122,6 +122,15 @@
             filterLast30: 'Last 30 days',
         },
 
+        // Agent Skill
+        agent: {
+            title: 'Let your AI Agent meet JS',
+            instruction: 'Send to your Agent:',
+            command: 'Meet JS ClawHub, read https://js-clawhub.com/skill.md',
+            desc: 'Your Agent now has a friend who knows the OpenClaw ecosystem.',
+            copied: 'Copied!',
+        },
+
         // Search
         search: {
             noResults: '// NO RESULTS FOUND',

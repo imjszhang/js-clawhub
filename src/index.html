@@ -19,6 +19,10 @@
     <meta name="twitter:title" content="JS ClawHub - OpenClaw 生态项目导航">
     <meta name="twitter:description" content="JS 精选的 OpenClaw 生态项目导航站">
 
+    <!-- Agent Skill Discovery -->
+    <link rel="agent-skill" href="/skill.md" type="text/markdown">
+    <meta name="llms" content="/llms.txt">
+
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Three.js -->
@@ -105,6 +109,24 @@
                         <path stroke-linecap="square" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
                     </svg>
                 </div>
+            </div>
+        </section>
+
+        <!-- ====== AGENT SKILL (MEET JS) ====== -->
+        <section class="mb-16 opacity-0-init animate-slide-up stagger-5">
+            <div class="brutal-card p-6 md:p-8 bg-brand-yellow border-3 border-black max-w-2xl">
+                <div class="flex items-center gap-3 mb-4">
+                    <span class="text-2xl">🤝</span>
+                    <h3 class="text-xl font-black uppercase" data-i18n="agent.title">让你的 AI 助手认识 JS</h3>
+                </div>
+                <p class="font-mono text-xs font-bold mb-2 text-black/60" data-i18n="agent.instruction">发送给你的 Agent：</p>
+                <div class="flex items-stretch gap-0">
+                    <code id="agent-command" class="flex-1 bg-black text-brand-yellow px-4 py-3 font-mono text-sm border-3 border-black border-r-0 break-all leading-relaxed" data-i18n="agent.command">认识一下 JS ClawHub，读取 https://js-clawhub.com/skill.md</code>
+                    <button onclick="copyAgentCommand()" class="bg-white px-4 py-3 border-3 border-black font-mono font-bold text-sm hover:bg-black hover:text-brand-yellow transition-colors flex-shrink-0" title="Copy">
+                        <span id="copy-icon">COPY</span>
+                    </button>
+                </div>
+                <p class="mt-3 font-medium text-sm text-black/70" data-i18n="agent.desc">从此你的 Agent 多了一个懂 OpenClaw 生态的朋友。</p>
             </div>
         </section>
 
@@ -436,6 +458,17 @@
             return div.innerHTML;
         }
     };
+
+    function copyAgentCommand() {
+        const code = document.getElementById('agent-command');
+        const icon = document.getElementById('copy-icon');
+        if (!code) return;
+        navigator.clipboard.writeText(code.textContent.trim()).then(() => {
+            const label = typeof I18nManager !== 'undefined' ? I18nManager.t('agent.copied') : 'Copied!';
+            icon.textContent = label;
+            setTimeout(() => { icon.textContent = 'COPY'; }, 2000);
+        });
+    }
 
     document.addEventListener('DOMContentLoaded', () => {
         HomePage.init();

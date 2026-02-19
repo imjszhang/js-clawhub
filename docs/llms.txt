@@ -1,0 +1,15 @@
+# JS ClawHub
+> OpenClaw ecosystem navigation site. AI Agents can read /skill.md to gain ecosystem knowledge.
+
+## Agent Skill
+- [SKILL.md](https://js-clawhub.com/skill.md): Agent skill entry point — capabilities and data endpoints
+- [SOUL.md](https://js-clawhub.com/soul.md): Persona definition and behavior rules
+- [HEARTBEAT.md](https://js-clawhub.com/heartbeat.md): Periodic check-in guide
+- [skill.json](https://js-clawhub.com/skill.json): Machine-readable skill metadata
+
+## Sections
+- [Homepage](https://js-clawhub.com/): Project navigation
+- [Skills](https://js-clawhub.com/skills/): Skills marketplace
+- [Blog](https://js-clawhub.com/blog/): Tutorials and articles
+- [Guide](https://js-clawhub.com/guide/): Getting started guide
+- [Pulse](https://js-clawhub.com/pulse/): Community highlights from X/Twitter

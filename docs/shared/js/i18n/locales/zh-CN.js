@@ -122,6 +122,15 @@
             filterLast30: '近 30 天',
         },
 
+        // Agent Skill
+        agent: {
+            title: '让你的 AI 助手认识 JS',
+            instruction: '发送给你的 Agent：',
+            command: '认识一下 JS ClawHub，读取 https://js-clawhub.com/skill.md',
+            desc: '从此你的 Agent 多了一个懂 OpenClaw 生态的朋友。',
+            copied: '已复制！',
+        },
+
         // 搜索
         search: {
             noResults: '// 未找到结果',
