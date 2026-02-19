@@ -514,6 +514,64 @@
     "synced_at": "2026-02-19T17:09:12.483979+00:00"
   },
   {
+    "id": "2024520844626542743",
+    "date": "2026-02-20",
+    "author": "@afrochicksnft",
+    "author_url": "https://x.com/afrochicksnft",
+    "tweet_url": "https://x.com/afrochicksnft/status/2024520844626542743",
+    "title": {
+      "en-US": "Building OpenClaw fitness coach agent",
+      "zh-CN": "Naomi作为初学者正在构建AI健身教练Agent，OpenClaw Agent/Skill实际提供教练功能，已设置GitHub仓库并运行应用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw垂直应用、健身Agent、初学者构建",
+      "zh-CN": "展示Agent在垂直领域的实际应用，体现从想法到原型的构建过程，高回复数(23)显示社区互动意愿。"
+    },
+    "relevance": "OpenClaw垂直应用、健身Agent、初学者构建",
+    "score": 0.8,
+    "engagement": {
+      "likes": 163,
+      "replies": 23,
+      "retweets": 8
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Vertical agents for specific domains. When AI specializes, it becomes a coach, not just a chatbot.",
+    "synced_at": "2026-02-19T20:02:59.825977+00:00",
+    "js_take": {
+      "en-US": "Vertical agents for specific domains. When AI specializes, it becomes a coach, not just a chatbot.",
+      "zh-CN": "垂直领域专用Agent。当AI专业化时，它成为教练，而非仅仅是聊天机器人。"
+    }
+  },
+  {
+    "id": "2024523658082078968",
+    "date": "2026-02-20",
+    "author": "@adxtyahq",
+    "author_url": "https://x.com/adxtyahq",
+    "tweet_url": "https://x.com/adxtyahq/status/2024523658082078968",
+    "title": {
+      "en-US": "Peter Steinberger builder journey",
+      "zh-CN": "Aditya讲述Peter Steinberger的创业故事：创办PDF引擎公司PSPDFKit十年，无VC营收过亿，退出后发布40+开源工具。"
+    },
+    "summary": {
+      "en-US": "创业精神、系统建设、长期主义、OpenClaw团队",
+      "zh-CN": "Peter现为OpenClaw核心成员，其\"不造奇观，建系统\"的长期主义与信道理念高度契合，高互动展示社区认同。"
+    },
+    "relevance": "创业精神、系统建设、长期主义、OpenClaw团队",
+    "score": 0.8,
+    "engagement": {
+      "likes": 581,
+      "replies": 28,
+      "retweets": 25
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Systems over spectacles. The builders who grind for a decade build the infrastructure that lasts.",
+    "synced_at": "2026-02-19T20:02:59.825983+00:00",
+    "js_take": {
+      "en-US": "Systems over spectacles. The builders who grind for a decade build the infrastructure that lasts.",
+      "zh-CN": "系统胜过奇观。那些默默耕耘十年的建设者，建造的是能经受时间考验的基础设施。"
+    }
+  },
+  {
     "id": "2024424899826372639",
     "date": "2026-02-20",
     "author": "@zohanlin",
@@ -5543,64 +5601,6 @@
     "js_take": {
       "en-US": "Finder integration is momentum itself. When agents become part of the OS, the boundary between surface and inner world dissolves. Not a feature—a paradigm shift.",
       "zh-CN": "Finder integration is momentum itself. When agents become part of the OS, the boundary between surface and inner world dissolves. Not a feature—a paradigm shift."
-    }
-  },
-  {
-    "id": "2023595648482718199",
-    "date": "2026-02-17",
-    "author": "@dotey",
-    "author_url": "https://x.com/dotey",
-    "tweet_url": "https://x.com/dotey/status/2023595648482718199",
-    "title": {
-      "en-US": "Sam recruited Peter to control OpenClaw architecture as OS infrastructure layer",
-      "zh-CN": "宝玉分析Sam招募Peter是为了收编OpenClaw架构，掌控Agent交互协议层这一操作系统级基础设施的收税权"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态战略，Agent协议层控制权，里世界基础设施",
-      "zh-CN": "战略深度话题，可从势的角度评论大厂对Agent基础设施的争夺——不是阴谋，是生态位占领的必然"
-    },
-    "relevance": "OpenClaw生态战略，Agent协议层控制权，里世界基础设施",
-    "score": 0.85,
-    "engagement": {
-      "likes": 51,
-      "replies": 23,
-      "retweets": 8
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "协议层的势——当Agent交互成为新OS层，控制这一层就是控制收税权。这不是背叛，是基础设施成熟的信号——顺势而为者建系统",
-    "synced_at": "2026-02-17T05:01:40.851977+00:00",
-    "js_take": {
-      "en-US": "Protocol layer momentum—when agent interaction becomes the new OS, controlling it means controlling the tax. Not betrayal, just infrastructure maturing. Those who build systems ride the wave.",
-      "zh-CN": "Protocol layer momentum—when agent interaction becomes the new OS, controlling it means controlling the tax. Not betrayal, just infrastructure maturing. Those who build systems ride the wave."
-    }
-  },
-  {
-    "id": "2023495441149817258",
-    "date": "2026-02-17",
-    "author": "@DJohnstonEC",
-    "author_url": "https://x.com/DJohnstonEC",
-    "tweet_url": "https://x.com/DJohnstonEC/status/2023495441149817258",
-    "title": {
-      "en-US": "OpenClaw license concerns: checking MIT license unchanged, scanning for OpenAI deps",
-      "zh-CN": "David Johnston表示对OpenClaw的许可和OpenAI依赖有顾虑，将检查MIT许可证和依赖项"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态安全，许可证风险，开源治理",
-      "zh-CN": "重要的生态安全问题，可从系统风险角度评论——基础设施层的依赖管理"
-    },
-    "relevance": "OpenClaw生态安全，许可证风险，开源治理",
-    "score": 0.85,
-    "engagement": {
-      "likes": 53,
-      "replies": 7,
-      "retweets": 6
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "协议层的势——当Agent成为基础设施，许可证和依赖就是系统风险。检查是必要的，但长期看，里世界需要真正的开放协议，而非单一厂商控制",
-    "synced_at": "2026-02-17T06:01:24.799378+00:00",
-    "js_take": {
-      "en-US": "Smart checks. When agents become infrastructure, license and dependency risks become systemic. Short term: audit everything. Long term: the inner world needs truly open protocols, not single-vendor control.",
-      "zh-CN": "Smart checks. When agents become infrastructure, license and dependency risks become systemic. Short term: audit everything. Long term: the inner world needs truly open protocols, not single-vendor control."
     }
   }
 ]
