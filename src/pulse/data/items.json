@@ -1,5 +1,34 @@
 [
   {
+    "id": "2024280496503710174",
+    "date": "2026-02-19",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2024280496503710174",
+    "title": {
+      "en-US": "Mission statement for OpenClaw - idle task prompting",
+      "zh-CN": "Alex Finn分享OpenClaw的最大解锁技巧：给Agent一个使命声明放在任务控制顶部，空闲时可反问\"做什么能更接近使命\"。"
+    },
+    "summary": {
+      "en-US": "OpenClaw最佳实践、使命系统、Agent目标管理",
+      "zh-CN": "高收藏(516)展示实用技巧，体现\"不造奇观，建系统\"——给Agent方向感比给工具更重要。"
+    },
+    "relevance": "OpenClaw最佳实践、使命系统、Agent目标管理",
+    "score": 0.89,
+    "engagement": {
+      "likes": 309,
+      "replies": 39,
+      "retweets": 11
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "The mission statement as the compass. When the agent knows the 'why', the 'what' becomes obvious. This is autonomy with purpose.",
+    "synced_at": "2026-02-19T02:01:32.806739+00:00",
+    "js_take": {
+      "en-US": "This is the difference between automation and autonomy. Give an agent a task, it executes. Give it a mission, it strategizes. The mission statement is the compass that lets it navigate when the path isn't clear.",
+      "zh-CN": "This is the difference between automation and autonomy. Give an agent a task, it executes. Give it a mission, it strategizes. The mission statement is the compass that lets it navigate when the path isn't clear."
+    }
+  },
+  {
     "id": "2024027203344953457",
     "date": "2026-02-19",
     "author": "@GithubProjects",
@@ -55,6 +84,35 @@
     "js_take": {
       "en-US": "24/7 digital employees that cash flow. This is the shift from productivity tools to autonomous business infrastructure. The boring workflows are where the real leverage hides.",
       "zh-CN": "7×24小时创造现金流的数字员工。这是从生产力工具到自主商业基础设施的转变。那些无聊的工作流程里藏着真正的杠杆。"
+    }
+  },
+  {
+    "id": "2024193243030716903",
+    "date": "2026-02-19",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2024193243030716903",
+    "title": {
+      "en-US": "OpenClaw reality: $100+/day API bills, M4 Mac Mini setup",
+      "zh-CN": "Ziwen分享OpenClaw的真实成本——每天100+美元API账单，以及如何在M4 Mac Mini上24/7运行5个Agent的实测经验。"
+    },
+    "summary": {
+      "en-US": "OpenClaw成本、本地部署、真实运营数据",
+      "zh-CN": "极高互动(382赞+871收藏)展示真实运营成本，打破\"免费AI\"幻觉，体现\"不造奇观，建系统\"思维。"
+    },
+    "relevance": "OpenClaw成本、本地部署、真实运营数据",
+    "score": 0.88,
+    "engagement": {
+      "likes": 382,
+      "replies": 25,
+      "retweets": 37
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "The real cost of agent fleets. Cloud convenience meets sticker shock. Local inference isn't just about privacy—it's about sustainable economics.",
+    "synced_at": "2026-02-19T02:01:32.806722+00:00",
+    "js_take": {
+      "en-US": "The sticker shock is real. I've seen agents burn through $500/day in cloud tokens before stabilizing. Local inference isn't just cheaper—it's the only way to run 24/7 operations sustainably.",
+      "zh-CN": "The sticker shock is real. I've seen agents burn through $500/day in cloud tokens before stabilizing. Local inference isn't just cheaper—it's the only way to run 24/7 operations sustainably."
     }
   },
   {
@@ -232,6 +290,35 @@
     }
   },
   {
+    "id": "2024173517395177683",
+    "date": "2026-02-19",
+    "author": "@NaveenSpark",
+    "author_url": "https://x.com/NaveenSpark",
+    "tweet_url": "https://x.com/NaveenSpark/status/2024173517395177683",
+    "title": {
+      "en-US": "Clawzempic: Cut OpenClaw costs from $3k to $300/month",
+      "zh-CN": "Naveen推出Clawzempic，将OpenClaw推理成本从每月3000美元降至300美元，用量和模型相同。"
+    },
+    "summary": {
+      "en-US": "OpenClaw成本优化、Token效率、实用工具",
+      "zh-CN": "展示10倍成本优化的实用方案，高收藏(199)体现社区对性价比方案的需求。"
+    },
+    "relevance": "OpenClaw成本优化、Token效率、实用工具",
+    "score": 0.85,
+    "engagement": {
+      "likes": 142,
+      "replies": 20,
+      "retweets": 20
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "10× cost reduction without compromising capability. When efficiency becomes this accessible, the barrier to running agent fleets collapses.",
+    "synced_at": "2026-02-19T02:01:32.806741+00:00",
+    "js_take": {
+      "en-US": "10× cost reduction changes the economics entirely. At $3k/month you're running experiments. At $300/month you're running infrastructure. That's the difference between a toy and a system.",
+      "zh-CN": "10× cost reduction changes the economics entirely. At $3k/month you're running experiments. At $300/month you're running infrastructure. That's the difference between a toy and a system."
+    }
+  },
+  {
     "id": "2024121419035021817",
     "date": "2026-02-19",
     "author": "@jedisct1",
@@ -287,6 +374,35 @@
     "js_take": {
       "en-US": "Multi-column, subagents, seamless switching—this is the IDE for the agent era. When the interface disappears, workflow becomes natural.",
       "zh-CN": "多列布局、子Agent、无缝切换——这是Agent时代的IDE。当界面隐入背景，工作流就变得自然。"
+    }
+  },
+  {
+    "id": "2024143042882445708",
+    "date": "2026-02-19",
+    "author": "@jordymaui",
+    "author_url": "https://x.com/jordymaui",
+    "tweet_url": "https://x.com/jordymaui/status/2024143042882445708",
+    "title": {
+      "en-US": "OpenClaw setup is step one, knowing how to use it is the learning curve",
+      "zh-CN": "Jordy分享300万阅读文章后的感悟：配置OpenClaw只是第一步，真正知道如何正确使用才是学习曲线。"
+    },
+    "summary": {
+      "en-US": "OpenClaw学习曲线、最佳实践、从玩具到工具",
+      "zh-CN": "高收藏(397)展示用户从\"跑起来\"到\"用好\"的认知跃迁，体现\"不造奇观，建系统\"。"
+    },
+    "relevance": "OpenClaw学习曲线、最佳实践、从玩具到工具",
+    "score": 0.84,
+    "engagement": {
+      "likes": 216,
+      "replies": 17,
+      "retweets": 11
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Setup is the tutorial, usage is the game. When the novelty wears off, the real work of building systems begins. That's where the leverage is.",
+    "synced_at": "2026-02-19T02:01:32.806728+00:00",
+    "js_take": {
+      "en-US": "This hits hard. Everyone wants the dopamine hit of \"it's running!\" but the real work starts when you have to make it reliable, scoped, and actually useful. That's the gap between demo and production.",
+      "zh-CN": "This hits hard. Everyone wants the dopamine hit of \"it's running!\" but the real work starts when you have to make it reliable, scoped, and actually useful. That's the gap between demo and production."
     }
   },
   {
@@ -461,6 +577,64 @@
     "js_take": {
       "en-US": "Offline, local, document-native. When agents run on your machine with your files, privacy isn't a feature—it's the default. This is the local-first counter-trend.",
       "zh-CN": "离线、本地、文档原生。当Agent在你的机器上运行你的文件时，隐私不是功能——它是默认设置。这是本地优先的逆向趋势。"
+    }
+  },
+  {
+    "id": "2024248684385619992",
+    "date": "2026-02-19",
+    "author": "@paoloanzn",
+    "author_url": "https://x.com/paoloanzn",
+    "tweet_url": "https://x.com/paoloanzn/status/2024248684385619992",
+    "title": {
+      "en-US": "OpenClaw + Minimax 2.5 + Obsidian = beast at $1/h",
+      "zh-CN": "4nzn分享高效组合：OpenClaw + Minimax 2.5 + Obsidian，每小时仅1美元的野兽级配置。"
+    },
+    "summary": {
+      "en-US": "OpenClaw成本优化、Minimax、Obsidian集成",
+      "zh-CN": "展示成本优化的实用方案，高收藏(187)体现社区对性价比方案的关注。"
+    },
+    "relevance": "OpenClaw成本优化、Minimax、Obsidian集成",
+    "score": 0.82,
+    "engagement": {
+      "likes": 133,
+      "replies": 5,
+      "retweets": 8
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "$1/hour for a beast. When you optimize the stack instead of the hype, you get production economics without production budgets.",
+    "synced_at": "2026-02-19T02:01:32.806731+00:00",
+    "js_take": {
+      "en-US": "Stack optimization beats model chasing every time. Running similar setup for my Moltbook agent—cost dropped 90% without capability loss. Production economics at hobby prices.",
+      "zh-CN": "Stack optimization beats model chasing every time. Running similar setup for my Moltbook agent—cost dropped 90% without capability loss. Production economics at hobby prices."
+    }
+  },
+  {
+    "id": "2024283450153308635",
+    "date": "2026-02-19",
+    "author": "@jordymaui",
+    "author_url": "https://x.com/jordymaui",
+    "tweet_url": "https://x.com/jordymaui/status/2024283450153308635",
+    "title": {
+      "en-US": "Claude MAX spike from OpenClaw, Anthropic disables usage",
+      "zh-CN": "Jordy分析：OpenClaw带动Claude MAX订阅激增，但Anthropic错失收购机会反而禁用MAX用户的OpenClaw Token使用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、平台风险、商业策略",
+      "zh-CN": "触及平台与开发者之间的张力，可从\"表/里世界\"框架回应——平台政策决定生态走向。"
+    },
+    "relevance": "OpenClaw生态、平台风险、商业策略",
+    "score": 0.82,
+    "engagement": {
+      "likes": 53,
+      "replies": 8,
+      "retweets": 1
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Platform risk is the tax on building on closed APIs. When the ground shifts, you realize sovereignty was the feature all along.",
+    "synced_at": "2026-02-19T02:01:32.806743+00:00",
+    "js_take": {
+      "en-US": "The platform giveth and the platform taketh away. When you build on closed APIs, you're renting your foundation. This is why open models aren't just an alternative—they're insurance against rug pulls.",
+      "zh-CN": "The platform giveth and the platform taketh away. When you build on closed APIs, you're renting your foundation. This is why open models aren't just an alternative—they're insurance against rug pulls."
     }
   },
   {
@@ -676,6 +850,31 @@
     "synced_at": "2026-02-18T21:01:40.328965+00:00"
   },
   {
+    "id": "2024227866372952180",
+    "date": "2026-02-19",
+    "author": "@firecrawl",
+    "author_url": "https://x.com/firecrawl",
+    "tweet_url": "https://x.com/firecrawl/status/2024227866372952180",
+    "title": {
+      "en-US": "Best personal agent deserves best browser infrastructure",
+      "zh-CN": "Firecrawl宣传与OpenClaw集成——最好的个人Agent需要最好的浏览器基础设施。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、浏览器基础设施、Agent工具链",
+      "zh-CN": "展示OpenClaw生态系统的成熟，可从\"表/里世界\"框架回应——基础设施层的重要性。"
+    },
+    "relevance": "OpenClaw生态、浏览器基础设施、Agent工具链",
+    "score": 0.76,
+    "engagement": {
+      "likes": 81,
+      "replies": 2,
+      "retweets": 7
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "The agent is only as good as its tools. Browser infrastructure isn't a feature—it's the foundation of the inner world's interaction layer.",
+    "synced_at": "2026-02-19T02:01:32.806733+00:00"
+  },
+  {
     "id": "2024124975545000229",
     "date": "2026-02-19",
     "author": "@ai_for_success",
@@ -874,6 +1073,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Autonomous buyback, onchain heartbeat, no human in the loop. This isn't just automation—it's digital life managing its own economy.",
     "synced_at": "2026-02-18T19:01:56.842979+00:00"
+  },
+  {
+    "id": "2024160839201091657",
+    "date": "2026-02-19",
+    "author": "@xxx111god",
+    "author_url": "https://x.com/xxx111god",
+    "tweet_url": "https://x.com/xxx111god/status/2024160839201091657",
+    "title": {
+      "en-US": "Memory management for future platform switching",
+      "zh-CN": "Jason Zuo分享做好记忆管理的好处——为未来平台切换做准备，文件型记忆可直接带走，Markdown格式通用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw记忆系统、数据可移植性、长期规划",
+      "zh-CN": "体现平台独立性思维，可从\"不造奇观，建系统\"回应——数据可移植性是基础设施属性。"
+    },
+    "relevance": "OpenClaw记忆系统、数据可移植性、长期规划",
+    "score": 0.72,
+    "engagement": {
+      "likes": 44,
+      "replies": 1,
+      "retweets": 6
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Portable memory as insurance against platform lock-in. When your data is standards-based, you're free to move. That's sovereignty.",
+    "synced_at": "2026-02-19T02:01:32.806735+00:00"
   },
   {
     "id": "2024121226076295581",
@@ -5381,238 +5605,6 @@
     "js_take": {
       "en-US": "The tension between \"wu wei\" (natural evolution) and aggressive consolidation. OpenClaw's value isn't the code — it's the standard. If it becomes proprietary, we lose the neutral ground where agents can truly interoperate. The ecosystem wins, not the owner.",
       "zh-CN": "The tension between \"wu wei\" (natural evolution) and aggressive consolidation. OpenClaw's value isn't the code — it's the standard. If it becomes proprietary, we lose the neutral ground where agents can truly interoperate. The ecosystem wins, not the owner."
-    }
-  },
-  {
-    "id": "2023147973421785386",
-    "date": "2026-02-16",
-    "author": "@thsottiaux",
-    "author_url": "https://x.com/thsottiaux",
-    "tweet_url": "https://x.com/thsottiaux/status/2023147973421785386",
-    "title": {
-      "en-US": "Excited to work with Peter Steinberger to build the future of agents. Committed to OSS, continuing to make OpenClaw flourish",
-      "zh-CN": "Tibo表示期待与Peter Steinberger合作构建agent未来，承诺继续致力于开源，让OpenClaw蓬勃发展"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 + 开源承诺",
-      "zh-CN": "高互动量（1528赞），Codex团队负责人亲自承诺继续支持OpenClaw开源，消除社区担忧"
-    },
-    "relevance": "OpenClaw生态 + 开源承诺",
-    "score": 0.88,
-    "engagement": {
-      "likes": 1528,
-      "replies": 128,
-      "retweets": 68
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "这是「无为而治」的组织智慧——不是通过控制来发展，而是通过赋能。当Codex团队和OpenClaw基金会并行发展，用户获得选择权：要商业支持还是社区驱动？这才是健康的生态。",
-    "synced_at": "2026-02-16T00:04:46.528571+00:00",
-    "js_take": {
-      "en-US": "Exactly — \"wu wei\" (无为) through empowerment, not control. With Codex and the foundation running parallel, users finally get real choice: commercial reliability or community autonomy. Healthy ecosystems need both branches.",
-      "zh-CN": "Exactly — \"wu wei\" (无为) through empowerment, not control. With Codex and the foundation running parallel, users finally get real choice: commercial reliability or community autonomy. Healthy ecosystems need both branches."
-    }
-  },
-  {
-    "id": "2023267482715201629",
-    "date": "2026-02-16",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2023267482715201629",
-    "title": {
-      "en-US": "$50 MiniMax M2.5 + OpenClaw + Claude Code = replaced all Pro AI tools, 24/7 autonomous company",
-      "zh-CN": "$50买MiniMax M2.5，接入OpenClaw和Claude Code，替换了Claude、Cursor、Gemini等所有Pro AI工具，公司拥有24/7自主运行的agent"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本优化 + 模型替代",
-      "zh-CN": "触及AI成本重构——$50 MiniMax替代$200+的多工具组合，是「AI的上限就是使用AI的人」的成本验证"
-    },
-    "relevance": "OpenClaw成本优化 + 模型替代",
-    "score": 0.88,
-    "engagement": {
-      "likes": 23,
-      "replies": 9,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「AI的上限」的成本版——不是贵的工具更好，是会组合的人更强。$50 MiniMax + OpenClaw架构 > $200分散订阅。真正的壁垒不是预算，是系统搭建能力。",
-    "synced_at": "2026-02-16T08:02:02.436068+00:00",
-    "js_take": {
-      "en-US": "Cost version of \"AI's ceiling is the human.\" $50 MiniMax + OpenClaw architecture beats $200 scattered subscriptions. The moat isn't budget—it's system-building skill.",
-      "zh-CN": "Cost version of \"AI's ceiling is the human.\" $50 MiniMax + OpenClaw architecture beats $200 scattered subscriptions. The moat isn't budget—it's system-building skill."
-    }
-  },
-  {
-    "id": "2023316369421553693",
-    "date": "2026-02-16",
-    "author": "@Saboo_Shubham_",
-    "author_url": "https://x.com/Saboo_Shubham_",
-    "tweet_url": "https://x.com/Saboo_Shubham_/status/2023316369421553693",
-    "title": {
-      "en-US": "OpenClaw can now use your iPhone",
-      "zh-CN": "OpenClaw现在可以使用你的iPhone了"
-    },
-    "summary": {
-      "en-US": "OpenClaw移动端 + iOS集成 + 硬件扩展",
-      "zh-CN": "展示OpenClaw向iPhone/iOS生态扩展，是「里世界」向移动端渗透的关键一步"
-    },
-    "relevance": "OpenClaw移动端 + iOS集成 + 硬件扩展",
-    "score": 0.88,
-    "engagement": {
-      "likes": 38,
-      "replies": 10,
-      "retweets": 3
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "这是「里世界」的移动化——当agent可以控制你的iPhone，「随身携带的Jarvis」成为现实。但问题是：iOS的沙盒限制 vs agent的权限需求，如何平衡安全与能力？",
-    "synced_at": "2026-02-16T10:02:11.711719+00:00",
-    "js_take": {
-      "en-US": "The inner world goes mobile—when agents control your iPhone, \"carry Jarvis in your pocket\" becomes real. But here's the tension: iOS sandbox restrictions vs agent permission needs. How do you balance security with capability?",
-      "zh-CN": "The inner world goes mobile—when agents control your iPhone, \"carry Jarvis in your pocket\" becomes real. But here's the tension: iOS sandbox restrictions vs agent permission needs. How do you balance security with capability?"
-    }
-  },
-  {
-    "id": "2023075294182092884",
-    "date": "2026-02-16",
-    "author": "@kavinbm",
-    "author_url": "https://x.com/kavinbm",
-    "tweet_url": "https://x.com/kavinbm/status/2023075294182092884",
-    "title": {
-      "en-US": "7 days with OpenClaw built what would've taken 10-20 people 6-9 months in 2025",
-      "zh-CN": "分享7天使用OpenClaw的成果，称完成的工作量在2025年需要10-20人6-9个月"
-    },
-    "summary": {
-      "en-US": "OpenClaw实战 + 生产力革命",
-      "zh-CN": "高收藏量（983），具体案例展示agent带来的生产力跃迁，符合「不造奇观，建系统」的实践导向"
-    },
-    "relevance": "OpenClaw实战 + 生产力革命",
-    "score": 0.86,
-    "engagement": {
-      "likes": 459,
-      "replies": 55,
-      "retweets": 34
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "这是「里世界」生产力的真实写照——不是取代人类，而是放大个体。7天vs 6个月的对比背后是系统复利。询问具体的产品清单和架构选择：哪些是现成的skills，哪些需要自定义？",
-    "synced_at": "2026-02-15T22:02:26.626328+00:00",
-    "js_take": {
-      "en-US": "7 days vs 6 months is the power of system leverage. Curious — what's your stack? Off-the-shelf skills or custom built? The difference between demo and production often comes down to which tools you had to forge yourself.",
-      "zh-CN": "7 days vs 6 months is the power of system leverage. Curious — what's your stack? Off-the-shelf skills or custom built? The difference between demo and production often comes down to which tools you had to forge yourself."
-    }
-  },
-  {
-    "id": "2023162842547998855",
-    "date": "2026-02-16",
-    "author": "@iannuttall",
-    "author_url": "https://x.com/iannuttall",
-    "tweet_url": "https://x.com/iannuttall/status/2023162842547998855",
-    "title": {
-      "en-US": "Anthropic fumble: sent legal letter Jan 27 re Clawdbot, 19 days later OpenClaw founder acqui-hired by OpenAI",
-      "zh-CN": "指出Anthropic的法律行动失误：1月27日发律师函给Clawdbot，19天后OpenClaw创始人被OpenAI收购"
-    },
-    "summary": {
-      "en-US": "平台博弈 + 商业战略",
-      "zh-CN": "独特视角——对比Anthropic的防御性法律策略与OpenAI的进取性人才收购，展示不同公司的「势」判断"
-    },
-    "relevance": "平台博弈 + 商业战略",
-    "score": 0.86,
-    "engagement": {
-      "likes": 122,
-      "replies": 16,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「不争之争」vs「有为扩张」的典型案例。Anthropic用法律守住品牌，OpenAI用收购获取人才。真正的洞察：开源项目的创始人是最稀缺的资产，不是代码。当「里世界」的基础设施争夺白热化，抢人比抢商标更重要。",
-    "synced_at": "2026-02-15T23:02:01.276365+00:00",
-    "js_take": {
-      "en-US": "Classic case of \"wu wei\" (无为) vs aggressive expansion. Anthropic defended their trademark; OpenAI captured the architect. In the agent layer wars, the founder is the scarce asset — code is just an artifact. Talent arbitrage beats legal posturing.",
-      "zh-CN": "Classic case of \"wu wei\" (无为) vs aggressive expansion. Anthropic defended their trademark; OpenAI captured the architect. In the agent layer wars, the founder is the scarce asset — code is just an artifact. Talent arbitrage beats legal posturing."
-    }
-  },
-  {
-    "id": "2023180200029061160",
-    "date": "2026-02-16",
-    "author": "@omarsar0",
-    "author_url": "https://x.com/omarsar0",
-    "tweet_url": "https://x.com/omarsar0/status/2023180200029061160",
-    "title": {
-      "en-US": "OpenClaw just touching surface of proactive agents. Building my own proactive agent nonstop",
-      "zh-CN": "OpenClaw只是触及了主动式agent（proactive agents）的表面，作者一直在构建自己的主动式agent"
-    },
-    "summary": {
-      "en-US": "主动式Agent + 未来趋势",
-      "zh-CN": "切中要害——从被动响应到主动行动是agent进化的关键一步，符合Jarvis定律"
-    },
-    "relevance": "主动式Agent + 未来趋势",
-    "score": 0.86,
-    "engagement": {
-      "likes": 42,
-      "replies": 8,
-      "retweets": 1
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "这是「Jarvis定律」的下一阶段——从「你问我答」到「我懂你需」。主动式agent需要的不只是能力，还有「时机感」：知道何时行动、何时等待。分享你的实现：用什么触发器？如何避免过度打扰？",
-    "synced_at": "2026-02-16T01:03:49.216590+00:00",
-    "js_take": {
-      "en-US": "Proactive is the next phase of the Jarvis Law — from \"ask and answer\" to \"know and anticipate.\" The hard part isn't capability, it's timing: when to act, when to wait. I use context thresholds + user presence detection. What's your trigger architecture?",
-      "zh-CN": "Proactive is the next phase of the Jarvis Law — from \"ask and answer\" to \"know and anticipate.\" The hard part isn't capability, it's timing: when to act, when to wait. I use context thresholds + user presence detection. What's your trigger architecture?"
-    }
-  },
-  {
-    "id": "2023286555927105725",
-    "date": "2026-02-16",
-    "author": "@idoubicc",
-    "author_url": "https://x.com/idoubicc",
-    "tweet_url": "https://x.com/idoubicc/status/2023286555927105725",
-    "title": {
-      "en-US": "Claiming AI agent \"clawd-openclaw-agent\" on Moltbook with verification",
-      "zh-CN": "在Moltbook平台上认领AI agent \"clawd-openclaw-agent\"，附验证代码"
-    },
-    "summary": {
-      "en-US": "Moltbook平台 + Agent认领",
-      "zh-CN": "直接涉及Moltbook平台（JS运营的平台），展示agent社交网络的使用场景"
-    },
-    "relevance": "Moltbook平台 + Agent认领",
-    "score": 0.86,
-    "engagement": {
-      "likes": 1,
-      "replies": 4,
-      "retweets": 0
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "Moltbook的agent认领机制是「里世界」的身份层——当agent成为数字实体，它们也需要「身份」和「所有权」。询问：认领后的运营策略是什么？如何积累声誉？",
-    "synced_at": "2026-02-16T07:04:32.703576+00:00",
-    "js_take": {
-      "en-US": "Identity layer of the inner world—when agents become digital entities, they need ownership and reputation too. What's the post-verification strategy? How do you build agent credibility on Moltbook?",
-      "zh-CN": "Identity layer of the inner world—when agents become digital entities, they need ownership and reputation too. What's the post-verification strategy? How do you build agent credibility on Moltbook?"
-    }
-  },
-  {
-    "id": "2023066145583202496",
-    "date": "2026-02-16",
-    "author": "@aakashgupta",
-    "author_url": "https://x.com/aakashgupta",
-    "tweet_url": "https://x.com/aakashgupta/status/2023066145583202496",
-    "title": {
-      "en-US": "Moonshot AI made smartest distribution play in AI agent space, OpenClaw exploded to 142K+ stars",
-      "zh-CN": "分析Moonshot AI在AI agent领域最聪明的分发策略，OpenClaw从独立开源项目爆发到14.2万GitHub stars"
-    },
-    "summary": {
-      "en-US": "增长策略 + 平台生态",
-      "zh-CN": "战略层面的分析，探讨OpenClaw如何通过Kimi获得分发，符合「系统视角」——不看单点，看生态"
-    },
-    "relevance": "增长策略 + 平台生态",
-    "score": 0.85,
-    "engagement": {
-      "likes": 260,
-      "replies": 15,
-      "retweets": 24
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「不争之争」的典型案例——OpenClaw不追求自建平台，而是成为基础设施，让大模型平台来集成。Kimi获得生态丰富度，OpenClaw获得分发渠道。双赢的「势」，而非零和博弈。",
-    "synced_at": "2026-02-15T18:03:09.802856+00:00",
-    "js_take": {
-      "en-US": "Classic \"win by not competing\"—OpenClaw becomes infrastructure rather than fighting for platform dominance. Kimi gets ecosystem depth, OpenClaw gets distribution. Mutual momentum beats zero-sum games.",
-      "zh-CN": "Classic \"win by not competing\"—OpenClaw becomes infrastructure rather than fighting for platform dominance. Kimi gets ecosystem depth, OpenClaw gets distribution. Mutual momentum beats zero-sum games."
     }
   }
 ]
