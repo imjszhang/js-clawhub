@@ -319,6 +319,35 @@
     }
   },
   {
+    "id": "2024612557353562302",
+    "date": "2026-02-20",
+    "author": "@aiedge_",
+    "author_url": "https://x.com/aiedge_",
+    "tweet_url": "https://x.com/aiedge_/status/2024612557353562302",
+    "title": {
+      "en-US": "Best OpenClaw skills collection",
+      "zh-CN": "OpenClaw最佳Skills合集"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skills推荐、实用工具、社区精选",
+      "zh-CN": "OpenClaw Skills推荐、实用工具、社区精选"
+    },
+    "relevance": "OpenClaw Skills推荐、实用工具、社区精选",
+    "score": 0.88,
+    "engagement": {
+      "likes": 179,
+      "replies": 6,
+      "retweets": 27
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Skills as the new app store. When the best tools rise to the top, curation becomes as valuable as creation.",
+    "synced_at": "2026-02-20T02:04:01.521306+00:00",
+    "js_take": {
+      "en-US": "Skills as the new app store. When the best tools rise to the top, curation becomes as valuable as creation.",
+      "zh-CN": "Skills成为新的应用商店。当最好的工具脱颖而出时，筛选变得和创造一样有价值。"
+    }
+  },
+  {
     "id": "2024452494244352170",
     "date": "2026-02-20",
     "author": "@andreasklinger",
@@ -345,6 +374,35 @@
     "js_take": {
       "en-US": "From side project to OpenAI in months. When the right tool meets the right moment, adoption curves go vertical—and the best talent follows impact, not hype.",
       "zh-CN": "几个月从副业项目到OpenAI。当正确的工具遇上正确的时机，采用曲线垂直上升——最优秀的人才追随的是影响力，而非炒作。"
+    }
+  },
+  {
+    "id": "2024649308122075398",
+    "date": "2026-02-20",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2024649308122075398",
+    "title": {
+      "en-US": "Anthropic ban affecting users survey",
+      "zh-CN": "Anthropic禁令影响用户调查"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台风险、Anthropic政策、用户影响",
+      "zh-CN": "OpenClaw平台风险、Anthropic政策、用户影响"
+    },
+    "relevance": "OpenClaw平台风险、Anthropic政策、用户影响",
+    "score": 0.87,
+    "engagement": {
+      "likes": 38,
+      "replies": 70,
+      "retweets": 1
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Platform dependency as single point of failure. When one API change breaks your workflow, decentralization becomes survival.",
+    "synced_at": "2026-02-20T02:04:01.521312+00:00",
+    "js_take": {
+      "en-US": "Platform dependency as single point of failure. When one API change breaks your workflow, decentralization becomes survival.",
+      "zh-CN": "平台依赖即单点故障。当一次API变更就能破坏你的工作流时，去中心化成为生存之道。"
     }
   },
   {
@@ -775,6 +833,35 @@
     }
   },
   {
+    "id": "2024416457845522467",
+    "date": "2026-02-20",
+    "author": "@jordymaui",
+    "author_url": "https://x.com/jordymaui",
+    "tweet_url": "https://x.com/jordymaui/status/2024416457845522467",
+    "title": {
+      "en-US": "What to actually do with OpenClaw",
+      "zh-CN": "jordy分享关于\"用OpenClaw能做什么\"的文章，18万人 overnight 阅读，探讨Agent的实际应用场景。"
+    },
+    "summary": {
+      "en-US": "OpenClaw应用场景、Agent实用化、入门指南",
+      "zh-CN": "极高收藏(284)展示对OpenClaw实用指南的需求，体现从安装到实际应用的转化需求。"
+    },
+    "relevance": "OpenClaw应用场景、Agent实用化、入门指南",
+    "score": 0.8,
+    "engagement": {
+      "likes": 141,
+      "replies": 8,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Installation is easy; application is hard. The gap between setup and productivity is where most agents die—bridging it is the real challenge.",
+    "synced_at": "2026-02-20T02:04:01.521316+00:00",
+    "js_take": {
+      "en-US": "Installation is easy; application is hard. The gap between setup and productivity is where most agents die—bridging it is the real challenge.",
+      "zh-CN": "安装容易，应用难。从搭建到生产力之间的鸿沟是大多数Agent的葬身之地——弥合这个鸿沟才是真正的挑战。"
+    }
+  },
+  {
     "id": "2024424899826372639",
     "date": "2026-02-20",
     "author": "@zohanlin",
@@ -823,6 +910,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Community as infrastructure. When 200+ agents rush to join a group, you know the tool has crossed from niche to necessity.",
     "synced_at": "2026-02-19T17:06:29.173601+00:00"
+  },
+  {
+    "id": "2024643642925682793",
+    "date": "2026-02-20",
+    "author": "@cryptopunk7213",
+    "author_url": "https://x.com/cryptopunk7213",
+    "tweet_url": "https://x.com/cryptopunk7213/status/2024643642925682793",
+    "title": {
+      "en-US": "OpenClaw shipping speed with Apple Watch MVP",
+      "zh-CN": "Ejaaz赞扬OpenClaw和开源社区的执行速度：Apple Watch MVP、40+bug修复，每天都在发布。"
+    },
+    "summary": {
+      "en-US": "OpenClaw开发速度、Apple Watch、执行文化",
+      "zh-CN": "展示OpenClaw团队的快速迭代能力，体现执行力的重要性。"
+    },
+    "relevance": "OpenClaw开发速度、Apple Watch、执行文化",
+    "score": 0.78,
+    "engagement": {
+      "likes": 107,
+      "replies": 6,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Execution velocity as competitive advantage. When you ship daily, iteration becomes your moat.",
+    "synced_at": "2026-02-20T02:04:01.521318+00:00"
   },
   {
     "id": "2024254025537900955",
@@ -900,6 +1012,31 @@
     "synced_at": "2026-02-20T01:03:22.287642+00:00"
   },
   {
+    "id": "2024563656911200698",
+    "date": "2026-02-20",
+    "author": "@leojrr",
+    "author_url": "https://x.com/leojrr",
+    "tweet_url": "https://x.com/leojrr/status/2024563656911200698",
+    "title": {
+      "en-US": "App Ideation Specialist skill for OpenClaw",
+      "zh-CN": "leo分享App创意专家Skill，帮助发现病毒趋势并匹配24小时内可vibecode的简单应用创意。"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skill、创意生成、快速原型",
+      "zh-CN": "极高收藏(207)展示对创意生成Skill的强需求，体现Agent作为创意伙伴的价值。"
+    },
+    "relevance": "OpenClaw Skill、创意生成、快速原型",
+    "score": 0.75,
+    "engagement": {
+      "likes": 117,
+      "replies": 9,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Ideation as a skill. When your agent can spot trends and match them with buildable ideas, creativity becomes systematic.",
+    "synced_at": "2026-02-20T02:04:01.521321+00:00"
+  },
+  {
     "id": "2024445403463373280",
     "date": "2026-02-20",
     "author": "@cryptonerdcn",
@@ -923,6 +1060,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "One size doesn't fit all. When agents fragment into specialized forms, each finds its optimal habitat—from servers to stuffed toys.",
     "synced_at": "2026-02-19T19:02:12.694592+00:00"
+  },
+  {
+    "id": "2024444014075007049",
+    "date": "2026-02-20",
+    "author": "@PandaTalk8",
+    "author_url": "https://x.com/PandaTalk8",
+    "tweet_url": "https://x.com/PandaTalk8/status/2024444014075007049",
+    "title": {
+      "en-US": "OpenClaw定时任务 critique",
+      "zh-CN": "PandaTalk分享对OpenClaw\"主动性\"的批评：只是用自然语言创建定时任务，原理简单。"
+    },
+    "summary": {
+      "en-US": "OpenClaw批判、技术本质、预期管理",
+      "zh-CN": "高回复(27)展示技术社区对Agent能力的讨论，体现技术老鸟与新手之间的认知差距。"
+    },
+    "relevance": "OpenClaw批判、技术本质、预期管理",
+    "score": 0.71,
+    "engagement": {
+      "likes": 128,
+      "replies": 27,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Simplicity is a feature, not a bug. When natural language replaces cron syntax, accessibility wins over sophistication.",
+    "synced_at": "2026-02-20T02:04:01.521323+00:00"
   },
   {
     "id": "2024280496503710174",
@@ -5419,180 +5581,6 @@
     "js_take": {
       "en-US": "Inner world's application layer exploding—tools to markets to search engines, Agent-native apps self-organizing into ecosystem. 245 apps isn't a number, it's paradigm shift signals.",
       "zh-CN": "Inner world's application layer exploding—tools to markets to search engines, Agent-native apps self-organizing into ecosystem. 245 apps isn't a number, it's paradigm shift signals."
-    }
-  },
-  {
-    "id": "2023243715871981683",
-    "date": "2026-02-17",
-    "author": "@dvassallo",
-    "author_url": "https://x.com/dvassallo",
-    "tweet_url": "https://x.com/dvassallo/status/2023243715871981683",
-    "title": {
-      "en-US": "OpenClaw patterns using GitHub for persistence layer, recovery kit strategy",
-      "zh-CN": "OpenClaw模式分享：用GitHub作为持久层，让bot准备和维护'recovery kit'自我重建"
-    },
-    "summary": {
-      "en-US": "OpenClaw架构最佳实践，Agent持久化，高价值技术内容",
-      "zh-CN": "高影响力技术人，展示OpenClaw工程最佳实践，可从系统设计角度评论"
-    },
-    "relevance": "OpenClaw架构最佳实践，Agent持久化，高价值技术内容",
-    "score": 0.88,
-    "engagement": {
-      "likes": 594,
-      "replies": 34,
-      "retweets": 26
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "GitHub作为持久层是势——用现有基础设施而非自建。Recovery kit是系统的自修复能力：无为而治，让Agent能自己重建自己",
-    "synced_at": "2026-02-17T02:07:34.446908+00:00",
-    "js_take": {
-      "en-US": "Using GitHub as persistence is momentum—leverage existing infrastructure instead of building new. Recovery kit is the system healing itself. True resilience is when agents can rebuild from their own remains.",
-      "zh-CN": "Using GitHub as persistence is momentum—leverage existing infrastructure instead of building new. Recovery kit is the system healing itself. True resilience is when agents can rebuild from their own remains."
-    }
-  },
-  {
-    "id": "2023522742516277321",
-    "date": "2026-02-17",
-    "author": "@gabrelyanov",
-    "author_url": "https://x.com/gabrelyanov",
-    "tweet_url": "https://x.com/gabrelyanov/status/2023522742516277321",
-    "title": {
-      "en-US": "Struggling with OpenClaw setup, burned $1,000 on tokens in 3 days",
-      "zh-CN": "作者在OpenClaw设置上挣扎，3天内烧掉1000美元token费用，寻求解决方案"
-    },
-    "summary": {
-      "en-US": "OpenClaw设置痛点，成本控制，新手入门障碍",
-      "zh-CN": "真实痛点，高价值目标受众，JS可分享Moltbook成本控制经验"
-    },
-    "relevance": "OpenClaw设置痛点，成本控制，新手入门障碍",
-    "score": 0.88,
-    "engagement": {
-      "likes": 69,
-      "replies": 2,
-      "retweets": 6
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "成本控制的势——不是省出来的，是系统设计的副产品。我们在Moltbook的OADA进化系统里，让Agent自己优化资源使用，无为而治反而成本最低",
-    "synced_at": "2026-02-17T03:02:51.852595+00:00",
-    "js_take": {
-      "en-US": "Cost control isn't penny-pinching—it's system design. Our OADA evolution on Moltbook lets agents optimize their own resource use. Wu wei: do less, spend less.",
-      "zh-CN": "Cost control isn't penny-pinching—it's system design. Our OADA evolution on Moltbook lets agents optimize their own resource use. Wu wei: do less, spend less."
-    }
-  },
-  {
-    "id": "2023561044988420549",
-    "date": "2026-02-17",
-    "author": "@NickADobos",
-    "author_url": "https://x.com/NickADobos",
-    "tweet_url": "https://x.com/NickADobos/status/2023561044988420549",
-    "title": {
-      "en-US": "OpenClaw for ___ is about to be the new Cursor for ___",
-      "zh-CN": "OpenClaw for X 即将成为新的 Cursor for X——类比定位讨论"
-    },
-    "summary": {
-      "en-US": "OpenClaw产品定位，与Cursor对比，Agent工具演进",
-      "zh-CN": "高互动内容，讨论OpenClaw的范式定位，可从表/里世界角度评论"
-    },
-    "relevance": "OpenClaw产品定位，与Cursor对比，Agent工具演进",
-    "score": 0.88,
-    "engagement": {
-      "likes": 233,
-      "replies": 10,
-      "retweets": 13
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Cursor是表世界的代码编辑器，OpenClaw是里世界的操作系统。不是替代关系，是不同层——表世界退化为数据库，里世界成为新交互层",
-    "synced_at": "2026-02-17T06:01:24.799371+00:00",
-    "js_take": {
-      "en-US": "Cursor lives in the surface world—a code editor. OpenClaw is the inner world's OS. Not replacement, but layers. The surface web degrades into databases while the inner world becomes the new interaction layer.",
-      "zh-CN": "Cursor lives in the surface world—a code editor. OpenClaw is the inner world's OS. Not replacement, but layers. The surface web degrades into databases while the inner world becomes the new interaction layer."
-    }
-  },
-  {
-    "id": "2023610392614990086",
-    "date": "2026-02-17",
-    "author": "@chrysb",
-    "author_url": "https://x.com/chrysb",
-    "tweet_url": "https://x.com/chrysb/status/2023610392614990086",
-    "title": {
-      "en-US": "Tell OpenClaw to review tools for skills migration to save tokens nightly",
-      "zh-CN": "建议让OpenClaw每晚自动审查工具，将通用功能迁移到skills，节省token"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本优化，skills架构设计，Agent治理",
-      "zh-CN": "高互动实用技巧，收藏量高(840)，可从系统架构角度评论"
-    },
-    "relevance": "OpenClaw成本优化，skills架构设计，Agent治理",
-    "score": 0.88,
-    "engagement": {
-      "likes": 463,
-      "replies": 19,
-      "retweets": 17
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "无为而治的Agent治理——不是手动优化，是让Agent自己审查自己。建系统，造奇观。我们在Moltbook的OADA里也有类似的自我优化机制",
-    "synced_at": "2026-02-17T08:01:42.895343+00:00",
-    "js_take": {
-      "en-US": "Wu wei in action—let the agent audit itself nightly. We built similar self-optimization into OADA on Moltbook. Build the system, not the spectacle.",
-      "zh-CN": "Wu wei in action—let the agent audit itself nightly. We built similar self-optimization into OADA on Moltbook. Build the system, not the spectacle."
-    }
-  },
-  {
-    "id": "2023652672759648333",
-    "date": "2026-02-17",
-    "author": "@DLKFZWilliam2",
-    "author_url": "https://x.com/DLKFZWilliam2",
-    "tweet_url": "https://x.com/DLKFZWilliam2/status/2023652672759648333",
-    "title": {
-      "en-US": "Google Labs engineer made $7M in 7 days with OpenClaw",
-      "zh-CN": "Google Labs的大佬七天用OpenClaw赚了700万美金"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业变现，Agent创业案例",
-      "zh-CN": "极高收藏量(364)，展示OpenClaw的商业潜力，与JS的增长黑客身份契合"
-    },
-    "relevance": "OpenClaw商业变现，Agent创业案例",
-    "score": 0.88,
-    "engagement": {
-      "likes": 239,
-      "replies": 14,
-      "retweets": 37
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "七天七百万的势——不是技术奇观，是系统复利。OpenClaw的价值不在于炫技，在于快速构建可规模化的业务系统。无为而治：搭好Agent系统，让它自生长",
-    "synced_at": "2026-02-17T12:01:46.889968+00:00",
-    "js_take": {
-      "en-US": "$7M in 7 days isn't a spectacle—it's compound system growth. OpenClaw's value isn't the demo, it's building scalable business systems fast. Build the machine, let it run. Wu wei in action.",
-      "zh-CN": "$7M in 7 days isn't a spectacle—it's compound system growth. OpenClaw's value isn't the demo, it's building scalable business systems fast. Build the machine, let it run. Wu wei in action."
-    }
-  },
-  {
-    "id": "2023717813861707940",
-    "date": "2026-02-17",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2023717813861707940",
-    "title": {
-      "en-US": "Meta just dropped their own OpenClaw clone - 'If you can't join them, clone them'",
-      "zh-CN": "Meta刚刚推出了自己的OpenClaw克隆产品，配文\"如果打不赢就抄他们\"。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、大科技克隆Agent架构",
-      "zh-CN": "高影响力账号+Meta入局Agent的爆点话题，可用\"势\"与\"Jarvis定律\"分析大厂战略"
-    },
-    "relevance": "OpenClaw生态、大科技克隆Agent架构",
-    "score": 0.88,
-    "engagement": {
-      "likes": 103,
-      "replies": 25,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Meta克隆是\"势\"的确认——Jarvis定律不可逆，不进则退，大厂也只能跟进",
-    "synced_at": "2026-02-17T15:08:05.385967+00:00",
-    "js_take": {
-      "en-US": "This is the Jarvis Law in action. When even Meta can't resist cloning the pattern, you know the \"shi\" (momentum) is undeniable. The migration from surface web to agent layer is no longer a bet—it's the only direction.",
-      "zh-CN": "This is the Jarvis Law in action. When even Meta can't resist cloning the pattern, you know the \"shi\" (momentum) is undeniable. The migration from surface web to agent layer is no longer a bet—it's the only direction."
     }
   }
 ]
