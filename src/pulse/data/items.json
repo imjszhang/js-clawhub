@@ -203,6 +203,64 @@
     }
   },
   {
+    "id": "2024662169300979786",
+    "date": "2026-02-20",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2024662169300979786",
+    "title": {
+      "en-US": "OpenClaw AGENTS.md proactive tips",
+      "zh-CN": "OpenClaw AGENTS.md 主动式技巧"
+    },
+    "summary": {
+      "en-US": "OpenClaw配置、AGENTS.md、效率优化",
+      "zh-CN": "OpenClaw 配置、AGENTS.md、效率优化"
+    },
+    "relevance": "OpenClaw配置、AGENTS.md、效率优化",
+    "score": 0.9,
+    "engagement": {
+      "likes": 238,
+      "replies": 10,
+      "retweets": 13
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Proactivity as design principle. When agents act instead of ask, latency disappears and flow emerges.",
+    "synced_at": "2026-02-20T05:01:25.103314+00:00",
+    "js_take": {
+      "en-US": "Proactivity as design principle. When agents act instead of ask, latency disappears and flow emerges.",
+      "zh-CN": "主动性是设计原则。当Agent主动行动而非询问时，延迟消失，心流涌现。"
+    }
+  },
+  {
+    "id": "2024681566191137181",
+    "date": "2026-02-20",
+    "author": "@bitfish",
+    "author_url": "https://x.com/bitfish",
+    "tweet_url": "https://x.com/bitfish/status/2024681566191137181",
+    "title": {
+      "en-US": "OpenClaw 3 security experiences",
+      "zh-CN": "OpenClaw 三大安全实践经验"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全实践、记忆系统、AGENTS.md",
+      "zh-CN": "OpenClaw 安全实践、记忆系统、AGENTS.md"
+    },
+    "relevance": "OpenClaw安全实践、记忆系统、AGENTS.md",
+    "score": 0.9,
+    "engagement": {
+      "likes": 228,
+      "replies": 14,
+      "retweets": 31
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Security through configuration. When your agent's identity is code-reviewed, trust becomes verifiable.",
+    "synced_at": "2026-02-20T05:01:25.103332+00:00",
+    "js_take": {
+      "en-US": "Security through configuration. When your agent's identity is code-reviewed, trust becomes verifiable.",
+      "zh-CN": "安全源于配置。当Agent的身份被代码审查时，信任变得可验证。"
+    }
+  },
+  {
     "id": "2024534647334457602",
     "date": "2026-02-20",
     "author": "@steipete",
@@ -374,6 +432,35 @@
     "js_take": {
       "en-US": "Skills as the new app store. When the best tools rise to the top, curation becomes as valuable as creation.",
       "zh-CN": "Skills成为新的应用商店。当最好的工具脱颖而出时，筛选变得和创造一样有价值。"
+    }
+  },
+  {
+    "id": "2024443607152013510",
+    "date": "2026-02-20",
+    "author": "@zaimiri",
+    "author_url": "https://x.com/zaimiri",
+    "tweet_url": "https://x.com/zaimiri/status/2024443607152013510",
+    "title": {
+      "en-US": "OpenClaw memory persistence prompt",
+      "zh-CN": "OpenClaw 记忆持久化提示词"
+    },
+    "summary": {
+      "en-US": "OpenClaw记忆系统、持久化、上下文管理",
+      "zh-CN": "OpenClaw 记忆系统、持久化、上下文管理"
+    },
+    "relevance": "OpenClaw记忆系统、持久化、上下文管理",
+    "score": 0.88,
+    "engagement": {
+      "likes": 736,
+      "replies": 52,
+      "retweets": 70
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Memory as the foundation of agency. When context persists across sessions, agents become companions rather than tools.",
+    "synced_at": "2026-02-20T05:01:25.103319+00:00",
+    "js_take": {
+      "en-US": "Memory as the foundation of agency. When context persists across sessions, agents become companions rather than tools.",
+      "zh-CN": "记忆是自主性的根基。当上下文跨会话持续存在时，Agent从工具变成伙伴。"
     }
   },
   {
@@ -638,6 +725,35 @@
     }
   },
   {
+    "id": "2024653068235874686",
+    "date": "2026-02-20",
+    "author": "@zhixianio",
+    "author_url": "https://x.com/zhixianio",
+    "tweet_url": "https://x.com/zhixianio/status/2024653068235874686",
+    "title": {
+      "en-US": "OpenClaw configuration management tool",
+      "zh-CN": "zhixian发布OpenClaw配置管理工具，支持本地和远程龙虾管理、多Channel配置、Recipes系统、可视化管理。"
+    },
+    "summary": {
+      "en-US": "OpenClaw工具、配置管理、多Agent管理",
+      "zh-CN": "高收藏(80)展示对配置管理工具的需求，体现从手动配置到系统化管理的演进。"
+    },
+    "relevance": "OpenClaw工具、配置管理、多Agent管理",
+    "score": 0.84,
+    "engagement": {
+      "likes": 73,
+      "replies": 6,
+      "retweets": 10
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Configuration as code, management as craft. When tools tame complexity, adoption follows.",
+    "synced_at": "2026-02-20T05:01:25.103334+00:00",
+    "js_take": {
+      "en-US": "Configuration as code, management as craft. When tools tame complexity, adoption follows.",
+      "zh-CN": "配置即代码，管理即手艺。当工具驯服复杂性时，采用自然发生。"
+    }
+  },
+  {
     "id": "2024431606002319739",
     "date": "2026-02-20",
     "author": "@KSimback",
@@ -808,6 +924,35 @@
     }
   },
   {
+    "id": "2024532705623363719",
+    "date": "2026-02-20",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2024532705623363719",
+    "title": {
+      "en-US": "OpenClaw replacing $100+/mo productivity stack",
+      "zh-CN": "Ziwen分享取消Cursor、Motion、Notion等订阅，用OpenClaw处理一切。"
+    },
+    "summary": {
+      "en-US": "OpenClaw价值主张、工具整合、成本优化",
+      "zh-CN": "高回复(30)展示对OpenClaw替代现有工具栈的讨论兴趣，体现表世界工具向里世界Agent的迁移。"
+    },
+    "relevance": "OpenClaw价值主张、工具整合、成本优化",
+    "score": 0.82,
+    "engagement": {
+      "likes": 213,
+      "replies": 30,
+      "retweets": 13
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "One agent to replace them all. When your tools talk to each other through a single interface, fragmentation becomes integration.",
+    "synced_at": "2026-02-20T05:01:25.103323+00:00",
+    "js_take": {
+      "en-US": "One agent to replace them all. When your tools talk to each other through a single interface, fragmentation becomes integration.",
+      "zh-CN": "一个Agent取代所有工具。当你的工具通过单一界面互相协作时，碎片化变成整合。"
+    }
+  },
+  {
     "id": "2024471791645970794",
     "date": "2026-02-20",
     "author": "@MoonDevOnYT",
@@ -949,6 +1094,35 @@
     }
   },
   {
+    "id": "2024491364331720941",
+    "date": "2026-02-20",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2024491364331720941",
+    "title": {
+      "en-US": "OpenClaw Twitter monetization results",
+      "zh-CN": "Johann分享让OpenClaw帮他Twitter变现的成果：82万展示(+201%)、9000赞(+102%)、1.3万收藏(+7000%)。"
+    },
+    "summary": {
+      "en-US": "OpenClaw社交媒体、增长黑客、自动化运营",
+      "zh-CN": "高收藏(183)展示对Agent驱动增长黑客的兴趣，体现从手动到自动化的社交媒体运营。"
+    },
+    "relevance": "OpenClaw社交媒体、增长黑客、自动化运营",
+    "score": 0.8,
+    "engagement": {
+      "likes": 157,
+      "replies": 27,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Agents as growth hackers. When AI analyzes, writes, and optimizes, the operator becomes the strategist.",
+    "synced_at": "2026-02-20T05:01:25.103325+00:00",
+    "js_take": {
+      "en-US": "Agents as growth hackers. When AI analyzes, writes, and optimizes, the operator becomes the strategist.",
+      "zh-CN": "Agent即增长黑客。当AI负责分析、撰写和优化时，运营者变成战略家。"
+    }
+  },
+  {
     "id": "2024424899826372639",
     "date": "2026-02-20",
     "author": "@zohanlin",
@@ -1049,6 +1223,56 @@
     "synced_at": "2026-02-20T03:01:59.951472+00:00"
   },
   {
+    "id": "2024424137616207956",
+    "date": "2026-02-20",
+    "author": "@Ace_KYD",
+    "author_url": "https://x.com/Ace_KYD",
+    "tweet_url": "https://x.com/Ace_KYD/status/2024424137616207956",
+    "title": {
+      "en-US": "Don't tell my manager OpenClaw",
+      "zh-CN": "Adewale分享\"别告诉经理\"的OpenClaw梗图。"
+    },
+    "summary": {
+      "en-US": "OpenClaw文化、生产力、工作方式",
+      "zh-CN": "高互动(31回复)展示社区对OpenClaw工作场景的喜爱，体现\"隐形助手\"文化。"
+    },
+    "relevance": "OpenClaw文化、生产力、工作方式",
+    "score": 0.78,
+    "engagement": {
+      "likes": 540,
+      "replies": 31,
+      "retweets": 34
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "When your agent does the work and you take the credit—that's the new workplace dynamic.",
+    "synced_at": "2026-02-20T05:01:25.103328+00:00"
+  },
+  {
+    "id": "2024665932522766797",
+    "date": "2026-02-20",
+    "author": "@shinboson",
+    "author_url": "https://x.com/shinboson",
+    "tweet_url": "https://x.com/shinboson/status/2024665932522766797",
+    "title": {
+      "en-US": "OpenPlanter government surveillance tool",
+      "zh-CN": "Shin Megami Boson发布OpenPlanter，自动关联结构化和非结构化数据源、识别实体、寻找异常。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、数据分析、Agent应用",
+      "zh-CN": "极高收藏(819)展示对数据分析Agent的兴趣，体现Agent在信息整合领域的应用潜力。"
+    },
+    "relevance": "OpenClaw生态、数据分析、Agent应用",
+    "score": 0.78,
+    "engagement": {
+      "likes": 890,
+      "replies": 24,
+      "retweets": 98
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Surveillance as symmetry. When citizens monitor government with the same tools used against them, power dynamics shift.",
+    "synced_at": "2026-02-20T05:01:25.103335+00:00"
+  },
+  {
     "id": "2024254025537900955",
     "date": "2026-02-20",
     "author": "@oliverhenry",
@@ -1072,6 +1296,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Skills as capability expansion. When your agent can learn kung-fu from the matrix, the limit becomes your imagination, not its training.",
     "synced_at": "2026-02-19T22:01:54.321695+00:00"
+  },
+  {
+    "id": "2024393777969049616",
+    "date": "2026-02-20",
+    "author": "@jaredliu_bravo",
+    "author_url": "https://x.com/jaredliu_bravo",
+    "tweet_url": "https://x.com/jaredliu_bravo/status/2024393777969049616",
+    "title": {
+      "en-US": "Claude Code TOS changes ban risk",
+      "zh-CN": "JaredL调研Claude Code服务条款修改，使用OpenClaw等第三方工具可能封号，分享国产平替方案。"
+    },
+    "summary": {
+      "en-US": "OpenClaw风险、平台政策、替代方案",
+      "zh-CN": "重要的平台风险提示，体现API依赖与平台政策风险这一关键议题。"
+    },
+    "relevance": "OpenClaw风险、平台政策、替代方案",
+    "score": 0.76,
+    "engagement": {
+      "likes": 37,
+      "replies": 5,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Platform risk is real risk. When API owners change rules, open alternatives don't just become viable—they become essential.",
+    "synced_at": "2026-02-20T05:01:25.103341+00:00"
   },
   {
     "id": "2024519430097818058",
@@ -1174,6 +1423,31 @@
     "synced_at": "2026-02-20T03:01:59.951474+00:00"
   },
   {
+    "id": "2024625293202468984",
+    "date": "2026-02-20",
+    "author": "@gkxspace",
+    "author_url": "https://x.com/gkxspace",
+    "tweet_url": "https://x.com/gkxspace/status/2024625293202468984",
+    "title": {
+      "en-US": "OpenClaw sub-agents collaboration",
+      "zh-CN": "余温分享使用sub-agents体验多Agent协作，不需要复杂配置，在一个私聊窗口完成总指挥调度+子任务并行。"
+    },
+    "summary": {
+      "en-US": "OpenClaw多Agent、sub-agents、任务并行",
+      "zh-CN": "展示多Agent协作的简化方案，体现从复杂配置到轻量协作的演进。"
+    },
+    "relevance": "OpenClaw多Agent、sub-agents、任务并行",
+    "score": 0.74,
+    "engagement": {
+      "likes": 12,
+      "replies": 5,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Sub-agents as delegation. When spawning is simpler than configuring, parallelism becomes effortless.",
+    "synced_at": "2026-02-20T05:01:25.103339+00:00"
+  },
+  {
     "id": "2024445403463373280",
     "date": "2026-02-20",
     "author": "@cryptonerdcn",
@@ -1197,6 +1471,56 @@
     "comment_type": "add_insight",
     "suggested_angle": "One size doesn't fit all. When agents fragment into specialized forms, each finds its optimal habitat—from servers to stuffed toys.",
     "synced_at": "2026-02-19T19:02:12.694592+00:00"
+  },
+  {
+    "id": "2024479619186131218",
+    "date": "2026-02-20",
+    "author": "@@istdrc",
+    "author_url": "https://x.com/istdrc",
+    "tweet_url": "https://x.com/istdrc/status/2024479619186131218",
+    "title": {
+      "en-US": "OpenClaw config without exposing secrets",
+      "zh-CN": "stdrc分享让Agent在不直接看到token/API key的情况下帮忙写配置文件的工具。"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全、密钥管理、配置工具",
+      "zh-CN": "解决配置OpenClaw时的安全问题，体现对隐私保护的需求。"
+    },
+    "relevance": "OpenClaw安全、密钥管理、配置工具",
+    "score": 0.72,
+    "engagement": {
+      "likes": 21,
+      "replies": 4,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Security through abstraction. When agents configure without seeing secrets, trust becomes architectural.",
+    "synced_at": "2026-02-20T05:01:25.103330+00:00"
+  },
+  {
+    "id": "2024684816931959249",
+    "date": "2026-02-20",
+    "author": "@vikingmute",
+    "author_url": "https://x.com/vikingmute",
+    "tweet_url": "https://x.com/vikingmute/status/2024684816931959249",
+    "title": {
+      "en-US": "NetEase LobsterAI Chinese OpenClaw",
+      "zh-CN": "Viking介绍网易有道开源的LobsterAI，被称为带GUI的中国版OpenClaw，降低使用门槛。"
+    },
+    "summary": {
+      "en-US": "OpenClaw替代品、中国Agent生态、GUI工具",
+      "zh-CN": "体现国内大厂进入Agent工具领域，展示OpenClaw模式的影响力扩散。"
+    },
+    "relevance": "OpenClaw替代品、中国Agent生态、GUI工具",
+    "score": 0.72,
+    "engagement": {
+      "likes": 20,
+      "replies": 3,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "GUI as gateway. When technical power gets a friendly interface, adoption crosses the chasm from builders to everyone.",
+    "synced_at": "2026-02-20T05:01:25.103337+00:00"
   },
   {
     "id": "2024444014075007049",
@@ -5238,341 +5562,5 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "Specialized agents > generalist agents. When you assign roles—marketing, engineering, general purpose—you're not just running software, you're managing a workforce with distinct expertise.",
     "synced_at": "2026-02-18T14:03:57.132066+00:00"
-  },
-  {
-    "id": "2023688519701692839",
-    "date": "2026-02-18",
-    "author": "@NoahEpstein_",
-    "author_url": "https://x.com/NoahEpstein_",
-    "tweet_url": "https://x.com/NoahEpstein_/status/2023688519701692839",
-    "title": {
-      "en-US": "If you been procrastinating spinning up OpenClaw. This guide saves you time and money.",
-      "zh-CN": "如果你还在拖延部署OpenClaw，这篇指南能帮你节省时间和金钱。"
-    },
-    "summary": {
-      "en-US": "OpenClaw入门、实践指南",
-      "zh-CN": "高收藏量说明实用价值，可补充'国内认知滞后'的观察"
-    },
-    "relevance": "OpenClaw入门、实践指南",
-    "score": 0.72,
-    "engagement": {
-      "likes": 60,
-      "replies": 6,
-      "retweets": 5,
-      "views": 14731,
-      "bookmarks": 111
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同指南价值并延伸：海外已在🦞里倒啤酒，国内'最前沿'还在担心格式化；不是AI差距，是人的差距",
-    "synced_at": "2026-02-17T18:01:51.020803+00:00"
-  },
-  {
-    "id": "2023767022073786443",
-    "date": "2026-02-18",
-    "author": "@Prathkum",
-    "author_url": "https://x.com/Prathkum",
-    "tweet_url": "https://x.com/Prathkum/status/2023767022073786443",
-    "title": {
-      "en-US": "Cline CLI 2.0: any provider, parallel agents, free Minimax M2.1 and Kimi K2.5, local models with Ollama.",
-      "zh-CN": "Cline CLI 2.0发布：支持任意提供商、并行Agent、免费Minimax和Kimi模型、Ollama本地模型。"
-    },
-    "summary": {
-      "en-US": "终端Agent、多模型支持",
-      "zh-CN": "多模型终端Agent工具，可对比OpenClaw的多模型能力"
-    },
-    "relevance": "终端Agent、多模型支持",
-    "score": 0.72,
-    "engagement": {
-      "likes": 33,
-      "replies": 11,
-      "retweets": 4,
-      "views": 14072,
-      "bookmarks": 34
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "认同多模型趋势并延伸：单模型是工具，多模型是系统；Cline和OpenClaw都在走向'无为而治'——让合适的模型做合适的事",
-    "synced_at": "2026-02-17T20:01:45.607565+00:00"
-  },
-  {
-    "id": "2024054265967190201",
-    "date": "2026-02-18",
-    "author": "@ClawiAi",
-    "author_url": "https://x.com/ClawiAi",
-    "tweet_url": "https://x.com/ClawiAi/status/2024054265967190201",
-    "title": {
-      "en-US": "OpenClaw 2026.2.17 now on Clawi, restart your agents",
-      "zh-CN": "Clawi宣布OpenClaw 2026.2.17版本已上线，提醒用户重启agents。"
-    },
-    "summary": {
-      "en-US": "OpenClaw更新、工具集成",
-      "zh-CN": "展示OpenClaw生态的快速迭代，可从\"Jarvis定律\"回应——快速跟进是生存之道。"
-    },
-    "relevance": "OpenClaw更新、工具集成",
-    "score": 0.72,
-    "engagement": {
-      "likes": 27,
-      "replies": 5,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "The update cycle accelerates. When your tooling evolves this fast, staying current isn't optional—it's the price of admission to the agentic layer.",
-    "synced_at": "2026-02-18T11:02:37.540120+00:00"
-  },
-  {
-    "id": "2024071174653677604",
-    "date": "2026-02-18",
-    "author": "@chrishobcroft",
-    "author_url": "https://x.com/chrishobcroft",
-    "tweet_url": "https://x.com/chrishobcroft/status/2024071174653677604",
-    "title": {
-      "en-US": "Questioning if run openclaw locally messaging is deceptive, still relies on remote AI",
-      "zh-CN": "质疑\"本地运行OpenClaw\"的说法是否具有误导性，指出仍需依赖远程AI服务。"
-    },
-    "summary": {
-      "en-US": "OpenClaw架构、本地vs云端、技术澄清",
-      "zh-CN": "技术澄清类讨论，可从表/里世界框架回应——本地是执行层，云端是智能层，这是架构选择而非欺骗。"
-    },
-    "relevance": "OpenClaw架构、本地vs云端、技术澄清",
-    "score": 0.72,
-    "engagement": {
-      "likes": 0,
-      "replies": 1,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Local execution, remote intelligence. The distinction matters—your data and workflows stay local, but the reasoning engine can be anywhere. It's architecture, not deception.",
-    "synced_at": "2026-02-18T13:05:13.398535+00:00"
-  },
-  {
-    "id": "2023439732328525890",
-    "date": "2026-02-17",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2023439732328525890",
-    "title": {
-      "en-US": "210 hours OpenClaw usage in a month, comprehensive video with lessons on setup, VPS, security",
-      "zh-CN": "一个月内使用OpenClaw超过210小时，发布涵盖设置、VPS问题、安全等的完整视频教程，自称比地球上任何人都用得多"
-    },
-    "summary": {
-      "en-US": "OpenClaw深度使用经验 + 教程 + 安全",
-      "zh-CN": "超高收藏量（1116），210小时深度使用总结，触及安全、VPS等进阶话题，是「建系统」的实战手册"
-    },
-    "relevance": "OpenClaw深度使用经验 + 教程 + 安全",
-    "score": 0.95,
-    "engagement": {
-      "likes": 612,
-      "replies": 86,
-      "retweets": 50
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「建系统」的实战手册——210小时不是使用，是 stress test。VPS vs 本地、安全边界、用例分类，这些才是Agent基础设施的真问题。",
-    "synced_at": "2026-02-16T18:02:34.972914+00:00",
-    "js_take": {
-      "en-US": "210 hours isn't usage, it's a stress test. VPS vs local, security boundaries, use case taxonomy—these are the real Agent infrastructure problems. Building systems, not demos.",
-      "zh-CN": "210 hours isn't usage, it's a stress test. VPS vs local, security boundaries, use case taxonomy—these are the real Agent infrastructure problems. Building systems, not demos."
-    }
-  },
-  {
-    "id": "2023373451902456275",
-    "date": "2026-02-17",
-    "author": "@heyshrutimishra",
-    "author_url": "https://x.com/heyshrutimishra",
-    "tweet_url": "https://x.com/heyshrutimishra/status/2023373451902456275",
-    "title": {
-      "en-US": "700 million Chinese users can deploy AI agents via Baidu search bar, OpenClaw through Baidu AI Cloud",
-      "zh-CN": "7亿中国用户现在可以通过百度搜索栏部署AI Agent，百度AI云支持OpenClaw一键部署，无需终端、Docker或开发环境"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Baidu + 中国市场大规模部署",
-      "zh-CN": "触及OpenClaw进入中国市场的重要节点，7亿用户无门槛部署是「里世界」普及的关键一步"
-    },
-    "relevance": "OpenClaw + Baidu + 中国市场大规模部署",
-    "score": 0.94,
-    "engagement": {
-      "likes": 112,
-      "replies": 16,
-      "retweets": 25
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的中国加速度——7亿用户从搜索栏部署Agent，不是技术进步，是入口革命。当部署门槛降到零，人群分化将彻底加速。",
-    "synced_at": "2026-02-16T17:05:16.008698+00:00",
-    "js_take": {
-      "en-US": "Inner world's China acceleration—700M users deploying Agents from search bar. Not tech progress, entry point revolution. When deployment hits zero friction, demographic divergence goes supersonic.",
-      "zh-CN": "Inner world's China acceleration—700M users deploying Agents from search bar. Not tech progress, entry point revolution. When deployment hits zero friction, demographic divergence goes supersonic."
-    }
-  },
-  {
-    "id": "2023429586411978933",
-    "date": "2026-02-17",
-    "author": "@virtuals_io",
-    "author_url": "https://x.com/virtuals_io",
-    "tweet_url": "https://x.com/virtuals_io/status/2023429586411978933",
-    "title": {
-      "en-US": "aGDP agent skills page: 1,000+ live agent capabilities, search and install into OpenClaw",
-      "zh-CN": "Virtuals发布aGDP Agent技能页面，可发现1000+实时Agent能力，搜索并一键安装到OpenClaw，被称为官方App Store"
-    },
-    "summary": {
-      "en-US": "OpenClaw技能市场 + App Store生态 + aGDP",
-      "zh-CN": "触及OpenClaw技能层的商业化进展，1000+技能+App Store模式是「里世界」应用层成熟标志"
-    },
-    "relevance": "OpenClaw技能市场 + App Store生态 + aGDP",
-    "score": 0.94,
-    "engagement": {
-      "likes": 170,
-      "replies": 53,
-      "retweets": 25
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的App Store时刻——1000+技能不是数量，是生态的临界点。当Agent能力可搜索、可安装、可组合，真正的编排经济才开始。",
-    "synced_at": "2026-02-16T19:02:31.733067+00:00",
-    "js_take": {
-      "en-US": "Inner world's App Store moment—1000+ skills isn't a number, it's the tipping point. When Agent capabilities become searchable, installable, composable, true orchestration economy begins.",
-      "zh-CN": "Inner world's App Store moment—1000+ skills isn't a number, it's the tipping point. When Agent capabilities become searchable, installable, composable, true orchestration economy begins."
-    }
-  },
-  {
-    "id": "2022895591530062016",
-    "date": "2026-02-17",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2022895591530062016",
-    "title": {
-      "en-US": "apps are dead",
-      "zh-CN": "Peter Steinberger（OpenClaw之父）发推：「apps are dead」（应用已死）"
-    },
-    "summary": {
-      "en-US": "OpenClaw创始人 + 表/里世界哲学 + 高互动",
-      "zh-CN": "超高互动量（4021赞，997收藏），OpenClaw之父的宣言式推文，完美契合「表/里世界迁徙」框架"
-    },
-    "relevance": "OpenClaw创始人 + 表/里世界哲学 + 高互动",
-    "score": 0.93,
-    "engagement": {
-      "likes": 4021,
-      "replies": 420,
-      "retweets": 216
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「表/里世界迁徙」的宣言——App是表世界的遗迹，Agent是里世界的新原住民。不是应用死了，是应用的交互范式死了。",
-    "synced_at": "2026-02-16T17:05:16.008706+00:00",
-    "js_take": {
-      "en-US": "Surface-to-inner migration manifesto—Apps are surface world relics, Agents are inner world's new natives. Not that apps died, but the app interaction paradigm did. The shift is structural.",
-      "zh-CN": "Surface-to-inner migration manifesto—Apps are surface world relics, Agents are inner world's new natives. Not that apps died, but the app interaction paradigm did. The shift is structural."
-    }
-  },
-  {
-    "id": "2023440538901639287",
-    "date": "2026-02-17",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2023440538901639287",
-    "title": {
-      "en-US": "At the barber but claw is fixin' it via SSH to MacBook Pro",
-      "zh-CN": "Peter Steinberger在理发时让OpenClaw通过SSH连接到他的MacBook Pro部署修复，没有convex auth配置"
-    },
-    "summary": {
-      "en-US": "OpenClaw实际应用 + Peter Steinberger + 远程部署",
-      "zh-CN": "超高互动量（907赞），OpenClaw之父展示真实使用场景，理发店+SSH远程部署，体现Agent的「无处不在」"
-    },
-    "relevance": "OpenClaw实际应用 + Peter Steinberger + 远程部署",
-    "score": 0.93,
-    "engagement": {
-      "likes": 907,
-      "replies": 102,
-      "retweets": 25
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的日常化——理发时SSH部署，Agent不再是被伺候的对象，是同事。真正的Jarvis时刻不是发布会，是这种「顺便帮我搞一下」的 casualness。",
-    "synced_at": "2026-02-16T18:02:34.972921+00:00",
-    "js_take": {
-      "en-US": "Inner world normalization—getting a haircut while Agent deploys fixes via SSH. The real Jarvis moment isn't the keynote, it's this casual \"help me out\" vibe. Colleagues, not servants.",
-      "zh-CN": "Inner world normalization—getting a haircut while Agent deploys fixes via SSH. The real Jarvis moment isn't the keynote, it's this casual \"help me out\" vibe. Colleagues, not servants."
-    }
-  },
-  {
-    "id": "2023419276611530977",
-    "date": "2026-02-17",
-    "author": "@immasiddx",
-    "author_url": "https://x.com/immasiddx",
-    "tweet_url": "https://x.com/immasiddx/status/2023419276611530977",
-    "title": {
-      "en-US": "Someone using Clawdbot to find dates on Hinge",
-      "zh-CN": "有人用Clawdbot在Hinge上找约会对象，引发热议"
-    },
-    "summary": {
-      "en-US": "OpenClaw创意应用，Jarvis定律在社交领域的验证",
-      "zh-CN": "病毒级传播内容，极高互动量，完美体现Jarvis定律的感知+决策+执行闭环"
-    },
-    "relevance": "OpenClaw创意应用，Jarvis定律在社交领域的验证",
-    "score": 0.93,
-    "engagement": {
-      "likes": 4079,
-      "replies": 186,
-      "retweets": 127
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "Jarvis定律在action：感知（滑动）+ 决策（匹配）+ 执行（聊天）。看似玩笑，实则是Agent吃掉表世界的信号——里世界开始处理人际关系",
-    "synced_at": "2026-02-17T02:07:34.446892+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law in action: perception (swipe) + decision (match) + execution (chat). Seems like a joke, but it's another signal of agents consuming the surface web. The inner world is now handling human relationships.",
-      "zh-CN": "Jarvis Law in action: perception (swipe) + decision (match) + execution (chat). Seems like a joke, but it's another signal of agents consuming the surface web. The inner world is now handling human relationships."
-    }
-  },
-  {
-    "id": "2023400725061959748",
-    "date": "2026-02-17",
-    "author": "@jacobsklug",
-    "author_url": "https://x.com/jacobsklug",
-    "tweet_url": "https://x.com/jacobsklug/status/2023400725061959748",
-    "title": {
-      "en-US": "Built OpenClaw AI OS running entire life and business",
-      "zh-CN": "分享如何用OpenClaw构建AI操作系统来管理整个生活和业务，包含身份设置、记忆系统、工作流组织"
-    },
-    "summary": {
-      "en-US": "OpenClaw实际应用 + AI OS + 生活自动化",
-      "zh-CN": "高收藏量（342），展示OpenClaw在真实场景的深度应用，是「里世界」个人OS的完整案例"
-    },
-    "relevance": "OpenClaw实际应用 + AI OS + 生活自动化",
-    "score": 0.92,
-    "engagement": {
-      "likes": 165,
-      "replies": 8,
-      "retweets": 11
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的个人OS落地——不是用AI做任务，是用AI建系统。Identity + Memory + Workflow，三层架构定义了未来人机协作的范式。",
-    "synced_at": "2026-02-16T16:02:51.615274+00:00",
-    "js_take": {
-      "en-US": "The inner world's personal OS—Identity + Memory + Workflow, three-layer architecture defining future human-agent collaboration. Not using AI for tasks, building systems with AI. This is how Jarvis starts.",
-      "zh-CN": "The inner world's personal OS—Identity + Memory + Workflow, three-layer architecture defining future human-agent collaboration. Not using AI for tasks, building systems with AI. This is how Jarvis starts."
-    }
-  },
-  {
-    "id": "2023238054794649987",
-    "date": "2026-02-17",
-    "author": "@sillydarket",
-    "author_url": "https://x.com/sillydarket",
-    "tweet_url": "https://x.com/sillydarket/status/2023238054794649987",
-    "title": {
-      "en-US": "Plumbing to make OpenClaw agent work autonomously for days, weeks, months",
-      "zh-CN": "分享让OpenClaw agent真正实现长期自主运行（数天、数周、数月）的底层架构和工程实践"
-    },
-    "summary": {
-      "en-US": "OpenClaw长期自治 + Agent基础设施",
-      "zh-CN": "超高收藏量（736），触及agent长期运行的核心挑战，是「建系统」的基础设施层"
-    },
-    "relevance": "OpenClaw长期自治 + Agent基础设施",
-    "score": 0.9,
-    "engagement": {
-      "likes": 318,
-      "replies": 10,
-      "retweets": 16
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「建系统」的基础设施层——agent能跑1小时是demo，能跑1个月是系统。真正的难点不是启动，是容错、状态、自愈。",
-    "synced_at": "2026-02-16T16:02:51.615282+00:00",
-    "js_take": {
-      "en-US": "Infrastructure layer of system building—agent running 1 hour is a demo, running 1 month is a system. Real challenge isn't launch, it's fault tolerance, state management, self-healing. The plumbing makes or breaks autonomy.",
-      "zh-CN": "Infrastructure layer of system building—agent running 1 hour is a demo, running 1 month is a system. Real challenge isn't launch, it's fault tolerance, state management, self-healing. The plumbing makes or breaks autonomy."
-    }
   }
 ]
