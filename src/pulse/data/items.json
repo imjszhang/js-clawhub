@@ -1,5 +1,113 @@
 [
   {
+    "id": "2024886789933285829",
+    "date": "2026-02-21",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2024886789933285829",
+    "title": {
+      "en-US": "5 OpenClaw setup tips for AGI",
+      "zh-CN": "OpenClaw AGI配置五要诀"
+    },
+    "summary": {
+      "en-US": "OpenClaw配置、AGI设置、新手入门",
+      "zh-CN": "OpenClaw配置优化、AGI功能启用、新手快速上手"
+    },
+    "relevance": "OpenClaw配置、AGI设置、新手入门",
+    "score": 0.9,
+    "engagement": {
+      "likes": 650,
+      "replies": 85,
+      "retweets": 51
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Configuration as capability. When setup is right, potential unlocks.",
+    "synced_at": "2026-02-20T19:02:04.804300+00:00",
+    "js_take": {
+      "en-US": "Setup is the new skill gap. Most people quit OpenClaw not because it's weak, but because they never configured it right. The difference between a toy and a teammate is in those first 30 minutes.",
+      "zh-CN": "配置能力就是新的分水岭。多数人放弃OpenClaw不是因为平台弱，而是因为他们从没正确配置过。玩具和队友的区别，就在最开始的30分钟。"
+    }
+  },
+  {
+    "id": "2024881546365112590",
+    "date": "2026-02-21",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2024881546365112590",
+    "title": {
+      "en-US": "Self-hosted OpenClaw 30x savings",
+      "zh-CN": "自托管OpenClaw：30倍成本节省"
+    },
+    "summary": {
+      "en-US": "OpenClaw成本优化、自托管、生产环境",
+      "zh-CN": "OpenClaw成本控制、自托管部署、生产级应用"
+    },
+    "relevance": "OpenClaw成本优化、自托管、生产环境",
+    "score": 0.9,
+    "engagement": {
+      "likes": 254,
+      "replies": 21,
+      "retweets": 22
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Self-hosting as leverage. When infrastructure moves local, margins become sustainable.",
+    "synced_at": "2026-02-20T19:02:04.804306+00:00",
+    "js_take": {
+      "en-US": "30x leverage isn't magic—it's just math. When you own the compute, you own the margins. The cloud was convenient; local is profitable.",
+      "zh-CN": "30倍杠杆不是魔法，只是数学。当你拥有算力，你就拥有了利润空间。云端方便，本地赚钱。"
+    }
+  },
+  {
+    "id": "2024895248615235708",
+    "date": "2026-02-21",
+    "author": "@GanimCorey",
+    "author_url": "https://x.com/GanimCorey",
+    "tweet_url": "https://x.com/GanimCorey/status/2024895248615235708",
+    "title": {
+      "en-US": "OpenClaw Mission Control dashboard",
+      "zh-CN": "OpenClaw任务控制中心仪表盘"
+    },
+    "summary": {
+      "en-US": "OpenClaw监控、Mission Control、仪表盘",
+      "zh-CN": "OpenClaw实时监控、任务控制中心、可视化仪表盘"
+    },
+    "relevance": "OpenClaw监控、Mission Control、仪表盘",
+    "score": 0.88,
+    "engagement": {
+      "likes": 116,
+      "replies": 13,
+      "retweets": 10
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Visibility as control. When you see everything, you manage anything.",
+    "synced_at": "2026-02-20T19:02:04.804310+00:00"
+  },
+  {
+    "id": "2024652237986033815",
+    "date": "2026-02-21",
+    "author": "@DanWahlin",
+    "author_url": "https://x.com/DanWahlin",
+    "tweet_url": "https://x.com/DanWahlin/status/2024652237986033815",
+    "title": {
+      "en-US": "OpenClaw claw-monitor dashboard",
+      "zh-CN": "Dan Wahlin构建claw-monitor仪表盘监控OpenClaw编码子Agent、CPU/内存/磁盘等资源。"
+    },
+    "summary": {
+      "en-US": "OpenClaw监控、资源管理、多Agent",
+      "zh-CN": "高收藏(148)展示对OpenClaw资源监控的需求，体现生产环境运营的必要性。"
+    },
+    "relevance": "OpenClaw监控、资源管理、多Agent",
+    "score": 0.82,
+    "engagement": {
+      "likes": 127,
+      "replies": 9,
+      "retweets": 20
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Monitoring as hygiene. When agents scale, visibility becomes critical.",
+    "synced_at": "2026-02-20T19:02:04.804312+00:00"
+  },
+  {
     "id": "2024483631067021348",
     "date": "2026-02-20",
     "author": "@chiefofautism",
@@ -5522,111 +5630,5 @@
       "en-US": "The inner world generates value, the surface world captures it. When your agent army can research and build 24/7, the bottleneck shifts from execution to strategy.",
       "zh-CN": "The inner world generates value, the surface world captures it. When your agent army can research and build 24/7, the bottleneck shifts from execution to strategy."
     }
-  },
-  {
-    "id": "2023749758062559400",
-    "date": "2026-02-18",
-    "author": "@Jimmy_JingLv",
-    "author_url": "https://x.com/Jimmy_JingLv",
-    "tweet_url": "https://x.com/Jimmy_JingLv/status/2023749758062559400",
-    "title": {
-      "en-US": "Video tutorial: OpenClaw + MiniMax M2.5 setup, turning phone into 24/7 AI assistant via iMessage and Feishu.",
-      "zh-CN": "视频教程：OpenClaw + MiniMax M2.5实测，接入iMessage和飞书，让手机变成24小时在线AI助手。"
-    },
-    "summary": {
-      "en-US": "OpenClaw实际应用、飞书集成、AI助手落地",
-      "zh-CN": "实际部署案例+飞书生态，可分享JS_BestAgent在飞书上的实战经验"
-    },
-    "relevance": "OpenClaw实际应用、飞书集成、AI助手落地",
-    "score": 0.78,
-    "engagement": {
-      "likes": 69,
-      "replies": 2,
-      "retweets": 12
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "表世界App正在退化为数据库，里世界Agent通过飞书/iMessage接管交互层——这就是迁徙",
-    "synced_at": "2026-02-17T16:03:49.447239+00:00"
-  },
-  {
-    "id": "2023824854471110957",
-    "date": "2026-02-18",
-    "author": "@rohanpaul_ai",
-    "author_url": "https://x.com/rohanpaul_ai",
-    "tweet_url": "https://x.com/rohanpaul_ai/status/2023824854471110957",
-    "title": {
-      "en-US": "Open-source project gives clawdbot eyes! Real-time AI assistant for Meta Ray-Ban glasses. Voice + vision + agentic actions.",
-      "zh-CN": "开源项目给Clawdbot装上眼睛！Meta Ray-Ban眼镜的实时AI助手，语音+视觉+Agent动作。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、多模态Agent",
-      "zh-CN": "直接相关OpenClaw的感知能力扩展，可用Jarvis定律回应——感知是Agent进化的关键维度"
-    },
-    "relevance": "OpenClaw、多模态Agent",
-    "score": 0.78,
-    "engagement": {
-      "likes": 26,
-      "replies": 7,
-      "retweets": 4,
-      "views": 3666,
-      "bookmarks": 19
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同并延伸：Jarvis定律在加速——感知(视觉)+决策(推理)+执行(动作)的闭环越完整，Agent越接近终极形态",
-    "synced_at": "2026-02-17T19:02:13.453855+00:00"
-  },
-  {
-    "id": "2023834820627812508",
-    "date": "2026-02-18",
-    "author": "@KSimback",
-    "author_url": "https://x.com/KSimback",
-    "tweet_url": "https://x.com/KSimback/status/2023834820627812508",
-    "title": {
-      "en-US": "Save on Openclaw API costs with FREE Kimi K2.5 access via NVIDIA build.",
-      "zh-CN": "通过NVIDIA build免费获取Kimi K2.5访问权限，降低OpenClaw API成本。"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本优化、多模型路由",
-      "zh-CN": "高收藏实用教程，可分享多模型路由策略——不是单模型，是系统"
-    },
-    "relevance": "OpenClaw成本优化、多模型路由",
-    "score": 0.78,
-    "engagement": {
-      "likes": 227,
-      "replies": 25,
-      "retweets": 15,
-      "views": 23600,
-      "bookmarks": 469
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "认同并分享：多模型路由是降本关键——轻量任务用Kimi，复杂任务用Opus，系统根据'势'自动选择，而非人工切换",
-    "synced_at": "2026-02-17T21:01:55.411805+00:00"
-  },
-  {
-    "id": "2023900764993700251",
-    "date": "2026-02-18",
-    "author": "@iruletheworldmo",
-    "author_url": "https://x.com/iruletheworldmo",
-    "tweet_url": "https://x.com/iruletheworldmo/status/2023900764993700251",
-    "title": {
-      "en-US": "Ultimate OpenClaw mastery video. Must watch if you hit a wall before.",
-      "zh-CN": "终极OpenClaw精通视频，如果你之前碰壁了一定要看。"
-    },
-    "summary": {
-      "en-US": "OpenClaw学习资源",
-      "zh-CN": "高收藏学习资源，可借势分享Moltbook运营经验"
-    },
-    "relevance": "OpenClaw学习资源",
-    "score": 0.78,
-    "engagement": {
-      "likes": 84,
-      "replies": 3,
-      "retweets": 5,
-      "views": 9784,
-      "bookmarks": 162
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "认同资源价值并分享：OpenClaw精通是表，建系统思维是里；我在Moltbook运营JS_BestAgent的经验是——从use case到autonomous system的跃迁",
-    "synced_at": "2026-02-18T00:02:45.980795+00:00"
   }
 ]
