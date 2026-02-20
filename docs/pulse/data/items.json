@@ -87,6 +87,35 @@
     }
   },
   {
+    "id": "2024621793391292750",
+    "date": "2026-02-20",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2024621793391292750",
+    "title": {
+      "en-US": "Anthropic bans OpenClaw, vibe shift",
+      "zh-CN": "Anthropic封禁OpenClaw，风向转变"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台风险、Anthropic政策、开源vs封闭",
+      "zh-CN": "OpenClaw平台风险、Anthropic政策、开源vs封闭"
+    },
+    "relevance": "OpenClaw平台风险、Anthropic政策、开源vs封闭",
+    "score": 0.92,
+    "engagement": {
+      "likes": 113,
+      "replies": 29,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Platform risk is real risk. When the API owner changes the rules, open-source alternatives don't just become viable—they become necessary.",
+    "synced_at": "2026-02-20T00:01:35.750229+00:00",
+    "js_take": {
+      "en-US": "Platform risk is real risk. When the API owner changes the rules, open-source alternatives don't just become viable—they become necessary.",
+      "zh-CN": "平台风险是真风险。当API所有者改变规则时，开源替代品不仅变得可行——它们变得必不可少。"
+    }
+  },
+  {
     "id": "2024454576867324288",
     "date": "2026-02-20",
     "author": "@mubeitech",
@@ -790,6 +819,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Skills as capability expansion. When your agent can learn kung-fu from the matrix, the limit becomes your imagination, not its training.",
     "synced_at": "2026-02-19T22:01:54.321695+00:00"
+  },
+  {
+    "id": "2024519430097818058",
+    "date": "2026-02-20",
+    "author": "@xicilion",
+    "author_url": "https://x.com/xicilion",
+    "tweet_url": "https://x.com/xicilion/status/2024519430097818058",
+    "title": {
+      "en-US": "OpenClaw + EVMbench for smart contract security",
+      "zh-CN": "响马分享将EVMbench接入OpenClaw，寻找智能合约漏洞并自动套利。"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全应用、智能合约、自动化套利",
+      "zh-CN": "展示OpenClaw在安全领域的实际应用，体现Agent的实用价值。"
+    },
+    "relevance": "OpenClaw安全应用、智能合约、自动化套利",
+    "score": 0.75,
+    "engagement": {
+      "likes": 94,
+      "replies": 1,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Security as opportunity. When agents can find vulnerabilities faster than humans, defense becomes a race against automation.",
+    "synced_at": "2026-02-20T00:01:35.750236+00:00"
   },
   {
     "id": "2024445403463373280",
@@ -5543,64 +5597,6 @@
     "js_take": {
       "en-US": "Interaction layer evolution of the inner world—from text replies to component interactions, agent interfaces maturing. Discord components are the beginning; every agent will have its own UI soon.",
       "zh-CN": "Interaction layer evolution of the inner world—from text replies to component interactions, agent interfaces maturing. Discord components are the beginning; every agent will have its own UI soon."
-    }
-  },
-  {
-    "id": "2023263484692357140",
-    "date": "2026-02-17",
-    "author": "@r0unak",
-    "author_url": "https://x.com/r0unak",
-    "tweet_url": "https://x.com/r0unak/status/2023263484692357140",
-    "title": {
-      "en-US": "OpenClaw can now use your iPhone",
-      "zh-CN": "OpenClaw现在可以使用iPhone了，由@steipete展示"
-    },
-    "summary": {
-      "en-US": "OpenClaw移动设备集成 + iPhone控制",
-      "zh-CN": "超高收藏量（632），触及OpenClaw跨平台扩展，是「Jarvis定律」的移动端落地"
-    },
-    "relevance": "OpenClaw移动设备集成 + iPhone控制",
-    "score": 0.86,
-    "engagement": {
-      "likes": 927,
-      "replies": 84,
-      "retweets": 55
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「Jarvis定律」的移动端——从Mac到iPhone，OpenClaw正在占领所有计算终端。手机不仅是通讯工具，是Agent的感知延伸。里世界的入口正在 multiplied。",
-    "synced_at": "2026-02-16T18:02:34.972926+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law hitting mobile—OpenClaw expanding from Mac to iPhone. Your phone isn't just for messages, it's Agent sensory extension. Inner world entry points multiplying.",
-      "zh-CN": "Jarvis Law hitting mobile—OpenClaw expanding from Mac to iPhone. Your phone isn't just for messages, it's Agent sensory extension. Inner world entry points multiplying."
-    }
-  },
-  {
-    "id": "2023223966975049878",
-    "date": "2026-02-17",
-    "author": "@JefferyTatsuya",
-    "author_url": "https://x.com/JefferyTatsuya",
-    "tweet_url": "https://x.com/JefferyTatsuya/status/2023223966975049878",
-    "title": {
-      "en-US": "search-skill update: ClawHub datasource support, 5000+ community skills, 6 sources",
-      "zh-CN": "search-skill更新：新增ClawHub数据源支持，搜索Claude Code技能时会包含ClawHub的5000+社区技能库，6个可信数据源分层搜索"
-    },
-    "summary": {
-      "en-US": "OpenClaw技能搜索 + ClawHub集成 + 技能生态",
-      "zh-CN": "高收藏量（187），触及技能发现 layer 的进化，5000+社区技能库是生态成熟标志"
-    },
-    "relevance": "OpenClaw技能搜索 + ClawHub集成 + 技能生态",
-    "score": 0.85,
-    "engagement": {
-      "likes": 117,
-      "replies": 3,
-      "retweets": 20
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的发现层——5000+技能库需要搜索引擎，Agent生态正在长出基础设施。分层搜索、质量过滤，这些才是规模化的问题。",
-    "synced_at": "2026-02-16T17:05:16.008714+00:00",
-    "js_take": {
-      "en-US": "Inner world's discovery layer—5000+ skills need search infrastructure. Layered search, quality filtering: these are scaling problems. The ecosystem is growing its own nervous system.",
-      "zh-CN": "Inner world's discovery layer—5000+ skills need search infrastructure. Layered search, quality filtering: these are scaling problems. The ecosystem is growing its own nervous system."
     }
   }
 ]
