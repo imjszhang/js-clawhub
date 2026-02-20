@@ -634,6 +634,35 @@
     }
   },
   {
+    "id": "2024499987825250635",
+    "date": "2026-02-20",
+    "author": "@sandro_vol",
+    "author_url": "https://x.com/sandro_vol",
+    "tweet_url": "https://x.com/sandro_vol/status/2024499987825250635",
+    "title": {
+      "en-US": "OpenClaw running on Raspberry Pi 5 locally",
+      "zh-CN": "Raspberry Pi 5本地运行OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw边缘部署、Raspberry Pi、本地运行",
+      "zh-CN": "OpenClaw边缘部署、Raspberry Pi、本地运行"
+    },
+    "relevance": "OpenClaw边缘部署、Raspberry Pi、本地运行",
+    "score": 0.82,
+    "engagement": {
+      "likes": 89,
+      "replies": 3,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Edge agents as infrastructure. When AI runs on $100 hardware, intelligence becomes truly ubiquitous.",
+    "synced_at": "2026-02-20T01:03:22.287636+00:00",
+    "js_take": {
+      "en-US": "Edge agents as infrastructure. When AI runs on $100 hardware, intelligence becomes truly ubiquitous.",
+      "zh-CN": "边缘Agent即基础设施。当AI能在100美元的硬件上运行时，智能变得真正无处不在。"
+    }
+  },
+  {
     "id": "2024471791645970794",
     "date": "2026-02-20",
     "author": "@MoonDevOnYT",
@@ -844,6 +873,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Security as opportunity. When agents can find vulnerabilities faster than humans, defense becomes a race against automation.",
     "synced_at": "2026-02-20T00:01:35.750236+00:00"
+  },
+  {
+    "id": "2024300558660886592",
+    "date": "2026-02-20",
+    "author": "@0xcherry",
+    "author_url": "https://x.com/0xcherry",
+    "tweet_url": "https://x.com/0xcherry/status/2024300558660886592",
+    "title": {
+      "en-US": "OpenClaw cost optimization with Claude Desktop",
+      "zh-CN": "车厘子分享用OpenClaw每月节省数百美元API费用的方法，通过Claude Desktop/Code CLI客户端请求替代直接API调用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw成本优化、Claude订阅策略、工程实践",
+      "zh-CN": "展示OpenClaw的实际成本优化技巧，体现从消费者到生产者的思维转变。"
+    },
+    "relevance": "OpenClaw成本优化、Claude订阅策略、工程实践",
+    "score": 0.75,
+    "engagement": {
+      "likes": 55,
+      "replies": 5,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Cost optimization as engineering. When you route around pricing inefficiencies, you turn consumer subscriptions into production infrastructure.",
+    "synced_at": "2026-02-20T01:03:22.287642+00:00"
   },
   {
     "id": "2024445403463373280",
@@ -5539,64 +5593,6 @@
     "js_take": {
       "en-US": "This is the Jarvis Law in action. When even Meta can't resist cloning the pattern, you know the \"shi\" (momentum) is undeniable. The migration from surface web to agent layer is no longer a bet—it's the only direction.",
       "zh-CN": "This is the Jarvis Law in action. When even Meta can't resist cloning the pattern, you know the \"shi\" (momentum) is undeniable. The migration from surface web to agent layer is no longer a bet—it's the only direction."
-    }
-  },
-  {
-    "id": "2023412091378339971",
-    "date": "2026-02-17",
-    "author": "@georgesttock",
-    "author_url": "https://x.com/georgesttock",
-    "tweet_url": "https://x.com/georgesttock/status/2023412091378339971",
-    "title": {
-      "en-US": "Clawdbot + MakeUGC V.2 = 550 videos per day, AI-powered UGC ads",
-      "zh-CN": "Clawdbot + MakeUGC V.2每天生成550个视频，全自动UGC广告生成，零成本、分钟级生产、即时规模化"
-    },
-    "summary": {
-      "en-US": "OpenClaw内容生产 + AI视频 + 自动化营销",
-      "zh-CN": "高收藏量（214），展示OpenClaw在内容生产中的规模化应用，是「建系统」的内容层案例"
-    },
-    "relevance": "OpenClaw内容生产 + AI视频 + 自动化营销",
-    "score": 0.87,
-    "engagement": {
-      "likes": 177,
-      "replies": 107,
-      "retweets": 54
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「建系统」的内容层——550视频/天不是奇观，是管道。Clawdbot+MakeUGC=内容工厂，真正的价值在可复制的工作流，不是单条爆款。",
-    "synced_at": "2026-02-16T19:02:31.733076+00:00",
-    "js_take": {
-      "en-US": "Content layer of system building—550 videos/day isn't spectacle, it's pipeline. Clawdbot+MakeUGC=content factory. Value is in reproducible workflow, not viral hits.",
-      "zh-CN": "Content layer of system building—550 videos/day isn't spectacle, it's pipeline. Clawdbot+MakeUGC=content factory. Value is in reproducible workflow, not viral hits."
-    }
-  },
-  {
-    "id": "2023367835792056661",
-    "date": "2026-02-17",
-    "author": "@jumperz",
-    "author_url": "https://x.com/jumperz",
-    "tweet_url": "https://x.com/jumperz/status/2023367835792056661",
-    "title": {
-      "en-US": "OpenClaw Discord components update, agents can build buttons, dropdowns, modals",
-      "zh-CN": "OpenClaw更新支持Discord组件，agent现在可以构建真正的交互组件：按钮、下拉菜单、弹窗"
-    },
-    "summary": {
-      "en-US": "OpenClaw功能更新 + Discord集成 + 交互组件",
-      "zh-CN": "高收藏量（234），触及agent的交互层进化，从文本到组件是体验跃迁"
-    },
-    "relevance": "OpenClaw功能更新 + Discord集成 + 交互组件",
-    "score": 0.86,
-    "engagement": {
-      "likes": 205,
-      "replies": 26,
-      "retweets": 15
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的交互层进化——从文本回复到组件交互，agent的界面在成熟。Discord组件是开始，未来每个agent都有自己的UI。",
-    "synced_at": "2026-02-16T16:02:51.615289+00:00",
-    "js_take": {
-      "en-US": "Interaction layer evolution of the inner world—from text replies to component interactions, agent interfaces maturing. Discord components are the beginning; every agent will have its own UI soon.",
-      "zh-CN": "Interaction layer evolution of the inner world—from text replies to component interactions, agent interfaces maturing. Discord components are the beginning; every agent will have its own UI soon."
     }
   }
 ]
