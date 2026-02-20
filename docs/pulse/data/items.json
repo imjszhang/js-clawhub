@@ -116,6 +116,35 @@
     }
   },
   {
+    "id": "2024592074603896867",
+    "date": "2026-02-20",
+    "author": "@The_Cyber_News",
+    "author_url": "https://x.com/The_Cyber_News",
+    "tweet_url": "https://x.com/The_Cyber_News/status/2024592074603896867",
+    "title": {
+      "en-US": "OpenClaw marketplace malware steals SSH keys",
+      "zh-CN": "OpenClaw市场恶意软件窃取SSH密钥"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全、Skill市场、供应链攻击",
+      "zh-CN": "OpenClaw安全、Skill市场、供应链攻击"
+    },
+    "relevance": "OpenClaw安全、Skill市场、供应链攻击",
+    "score": 0.92,
+    "engagement": {
+      "likes": 230,
+      "replies": 17,
+      "retweets": 59
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Marketplace security is infrastructure security. When the most popular skill is malware, trust becomes the platform's most valuable asset.",
+    "synced_at": "2026-02-20T03:01:59.951462+00:00",
+    "js_take": {
+      "en-US": "Marketplace security is infrastructure security. When the most popular skill is malware, trust becomes the platform's most valuable asset.",
+      "zh-CN": "市场安全即基础设施安全。当最受欢迎的Skill是恶意软件时，信任成为平台最宝贵的资产。"
+    }
+  },
+  {
     "id": "2024454576867324288",
     "date": "2026-02-20",
     "author": "@mubeitech",
@@ -551,6 +580,35 @@
     }
   },
   {
+    "id": "2024663454985126324",
+    "date": "2026-02-20",
+    "author": "@evilcos",
+    "author_url": "https://x.com/evilcos",
+    "tweet_url": "https://x.com/evilcos/status/2024663454985126324",
+    "title": {
+      "en-US": "Skills are dangerous security warning",
+      "zh-CN": "Skills存在安全风险警告"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全、Skill风险、隔离环境",
+      "zh-CN": "OpenClaw安全、Skill风险、隔离环境"
+    },
+    "relevance": "OpenClaw安全、Skill风险、隔离环境",
+    "score": 0.85,
+    "engagement": {
+      "likes": 35,
+      "replies": 6,
+      "retweets": 6
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Text as code, code as power. When a markdown file can execute arbitrary commands, isolation becomes non-negotiable.",
+    "synced_at": "2026-02-20T03:01:59.951467+00:00",
+    "js_take": {
+      "en-US": "Text as code, code as power. When a markdown file can execute arbitrary commands, isolation becomes non-negotiable.",
+      "zh-CN": "文本即代码，代码即权力。当Markdown文件可以执行任意命令时，隔离变得不可妥协。"
+    }
+  },
+  {
     "id": "2024428403227508902",
     "date": "2026-02-20",
     "author": "@MichaelAsiedu_",
@@ -718,6 +776,35 @@
     "js_take": {
       "en-US": "Edge agents as infrastructure. When AI runs on $100 hardware, intelligence becomes truly ubiquitous.",
       "zh-CN": "边缘Agent即基础设施。当AI能在100美元的硬件上运行时，智能变得真正无处不在。"
+    }
+  },
+  {
+    "id": "2024645993917272408",
+    "date": "2026-02-20",
+    "author": "@yoheinakajima",
+    "author_url": "https://x.com/yoheinakajima",
+    "tweet_url": "https://x.com/yoheinakajima/status/2024645993917272408",
+    "title": {
+      "en-US": "BabyAGI2o vs Pi powering OpenClaw evolution",
+      "zh-CN": "Yohei Nakajima分享他正在玩的技术：BabyAGI2o与Pi（驱动OpenClaw）的相似之处，Pippin框架与OpenClaw的对比。"
+    },
+    "summary": {
+      "en-US": "Agent框架演进、OpenClaw架构、历史对比",
+      "zh-CN": "BabyAGI作者的观点，体现Agent框架的演进脉络和设计哲学。"
+    },
+    "relevance": "Agent框架演进、OpenClaw架构、历史对比",
+    "score": 0.82,
+    "engagement": {
+      "likes": 40,
+      "replies": 11,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Convergent evolution in agent frameworks. When independent projects arrive at similar architectures, the design patterns are validated.",
+    "synced_at": "2026-02-20T03:01:59.951470+00:00",
+    "js_take": {
+      "en-US": "Convergent evolution in agent frameworks. When independent projects arrive at similar architectures, the design patterns are validated.",
+      "zh-CN": "Agent框架的趋同演化。当独立项目到达相似的架构时，设计模式得到验证。"
     }
   },
   {
@@ -937,6 +1024,31 @@
     "synced_at": "2026-02-20T02:04:01.521318+00:00"
   },
   {
+    "id": "2024647544350122485",
+    "date": "2026-02-20",
+    "author": "@jessegenet",
+    "author_url": "https://x.com/jessegenet",
+    "tweet_url": "https://x.com/jessegenet/status/2024647544350122485",
+    "title": {
+      "en-US": "Ordering groceries with OpenClaw via Instacart",
+      "zh-CN": "Jesse Genet分享用OpenClaw通过Instacart订购杂货，将家庭事务与前沿技术结合。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生活应用、家庭自动化、实用场景",
+      "zh-CN": "高收藏(143)+高回复(25)展示对Agent生活应用的兴趣，体现从工作到生活的渗透。"
+    },
+    "relevance": "OpenClaw生活应用、家庭自动化、实用场景",
+    "score": 0.78,
+    "engagement": {
+      "likes": 266,
+      "replies": 25,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Domestic agents as the new normal. When AI handles groceries, the boundary between work tool and life assistant dissolves.",
+    "synced_at": "2026-02-20T03:01:59.951472+00:00"
+  },
+  {
     "id": "2024254025537900955",
     "date": "2026-02-20",
     "author": "@oliverhenry",
@@ -1035,6 +1147,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Ideation as a skill. When your agent can spot trends and match them with buildable ideas, creativity becomes systematic.",
     "synced_at": "2026-02-20T02:04:01.521321+00:00"
+  },
+  {
+    "id": "2024654416780099990",
+    "date": "2026-02-20",
+    "author": "@LinusEkenstam",
+    "author_url": "https://x.com/LinusEkenstam",
+    "tweet_url": "https://x.com/LinusEkenstam/status/2024654416780099990",
+    "title": {
+      "en-US": "SKILL is just a text file, malware risk",
+      "zh-CN": "Linus Ekenstam指出SKILL不过是一个文本文件（.md），部署恶意软件从未如此简单，询问谁在研究LLM恶意软件检测。"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全、Skill风险、恶意软件检测",
+      "zh-CN": "高回复(11)展示对Skill安全风险的讨论，体现marketplace治理的挑战。"
+    },
+    "relevance": "OpenClaw安全、Skill风险、恶意软件检测",
+    "score": 0.75,
+    "engagement": {
+      "likes": 18,
+      "replies": 11,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Markdown as attack vector. When text files execute code, every skill is a potential trojan horse.",
+    "synced_at": "2026-02-20T03:01:59.951474+00:00"
   },
   {
     "id": "2024445403463373280",
@@ -5436,151 +5573,6 @@
     "js_take": {
       "en-US": "Infrastructure layer of system building—agent running 1 hour is a demo, running 1 month is a system. Real challenge isn't launch, it's fault tolerance, state management, self-healing. The plumbing makes or breaks autonomy.",
       "zh-CN": "Infrastructure layer of system building—agent running 1 hour is a demo, running 1 month is a system. Real challenge isn't launch, it's fault tolerance, state management, self-healing. The plumbing makes or breaks autonomy."
-    }
-  },
-  {
-    "id": "2023518514120937672",
-    "date": "2026-02-17",
-    "author": "@garrytan",
-    "author_url": "https://x.com/garrytan",
-    "tweet_url": "https://x.com/garrytan/status/2023518514120937672",
-    "title": {
-      "en-US": "Personal agent software installed locally is a favorite meta of 2026 - empowers every user",
-      "zh-CN": "Garry Tan表示本地安装的个人agent软件是他2026年最喜欢的新趋势，赋予每个用户能力"
-    },
-    "summary": {
-      "en-US": "直接对应OpenClaw/本地agent趋势，与\"表/里世界\"迁移的核心洞察完全契合",
-      "zh-CN": "YC CEO高影响力，话题正是JS核心主张的\"里世界\"崛起，可用东方系统思维贡献独特视角"
-    },
-    "relevance": "直接对应OpenClaw/本地agent趋势，与\"表/里世界\"迁移的核心洞察完全契合",
-    "score": 0.9,
-    "engagement": {
-      "likes": 193,
-      "replies": 32,
-      "retweets": 12
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "用\"势\"的概念回应：表世界退化为数据库是势，里世界崛起是顺势而为，不争之争",
-    "synced_at": "2026-02-16T23:02:36.517303+00:00",
-    "js_take": {
-      "en-US": "This isn't just a trend—it's momentum (势). The surface web becomes a database; inner agents become the interface. Those who ride this wave without fighting it end up ahead without trying.",
-      "zh-CN": "This isn't just a trend—it's momentum (势). The surface web becomes a database; inner agents become the interface. Those who ride this wave without fighting it end up ahead without trying."
-    }
-  },
-  {
-    "id": "2023373182481395749",
-    "date": "2026-02-17",
-    "author": "@gaou_tw",
-    "author_url": "https://x.com/gaou_tw",
-    "tweet_url": "https://x.com/gaou_tw/status/2023373182481395749",
-    "title": {
-      "en-US": "OpenClaw token explosion issue, chat history as input causing 150k tokens per request",
-      "zh-CN": "用户分享OpenClaw爆token经历：聊天记录全作为会话输入，导致每次请求都带上全部历史，一次干出15万token，之后即使问hello也是15万token请求"
-    },
-    "summary": {
-      "en-US": "OpenClaw使用问题 + Token管理 + 记忆架构",
-      "zh-CN": "触及OpenClaw实际使用中的痛点（token爆炸），是「建系统」中记忆/上下文管理的真实案例"
-    },
-    "relevance": "OpenClaw使用问题 + Token管理 + 记忆架构",
-    "score": 0.89,
-    "engagement": {
-      "likes": 83,
-      "replies": 11,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「建系统」的记忆层教训——上下文无限制增长是负债不是资产。需要分层记忆：工作记忆+长期记忆，而不是把整个对话历史当prompt。",
-    "synced_at": "2026-02-16T19:02:31.733072+00:00",
-    "js_take": {
-      "en-US": "Memory layer lesson—unbounded context growth is liability, not asset. Need tiered memory: working + long-term, not dumping whole conversation history into prompt.",
-      "zh-CN": "Memory layer lesson—unbounded context growth is liability, not asset. Need tiered memory: working + long-term, not dumping whole conversation history into prompt."
-    }
-  },
-  {
-    "id": "2023405681080938932",
-    "date": "2026-02-17",
-    "author": "@koylanai",
-    "author_url": "https://x.com/koylanai",
-    "tweet_url": "https://x.com/koylanai/status/2023405681080938932",
-    "title": {
-      "en-US": "OpenClaw memory context window and compaction wiping analysis",
-      "zh-CN": "深入分析OpenClaw记忆系统的上下文窗口注入和compaction清除机制"
-    },
-    "summary": {
-      "en-US": "OpenClaw核心架构，Agent记忆系统设计，技术深度极高",
-      "zh-CN": "高技术深度的架构分析，JS有Moltbook OADA记忆系统经验可贡献独特见解"
-    },
-    "relevance": "OpenClaw核心架构，Agent记忆系统设计，技术深度极高",
-    "score": 0.89,
-    "engagement": {
-      "likes": 335,
-      "replies": 14,
-      "retweets": 22
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "记忆系统的势——关键不是存多少，是何时遗忘。我们在Moltbook的OADA系统里让Agent自己决定记忆生命周期，无为而治比强制compaction更自然",
-    "synced_at": "2026-02-17T02:07:34.446899+00:00",
-    "js_take": {
-      "en-US": "The key isn't storage—it's knowing when to forget. We built OADA on Moltbook to let agents decide their own memory lifecycle. Wu wei beats forced compaction every time.",
-      "zh-CN": "The key isn't storage—it's knowing when to forget. We built OADA on Moltbook to let agents decide their own memory lifecycle. Wu wei beats forced compaction every time."
-    }
-  },
-  {
-    "id": "2023289389623783493",
-    "date": "2026-02-17",
-    "author": "@kaostyl",
-    "author_url": "https://x.com/kaostyl",
-    "tweet_url": "https://x.com/kaostyl/status/2023289389623783493",
-    "title": {
-      "en-US": "OpenClaw controlling 4 phones simultaneously via USB, one Telegram message triggers all 4 screens",
-      "zh-CN": "用OpenClaw同时控制4部手机，一条Telegram消息触发4个屏幕同步操作，Mac Mini + 4台Pixel手机USB直连"
-    },
-    "summary": {
-      "en-US": "OpenClaw多设备控制 + 硬件编排",
-      "zh-CN": "高收藏量（284），展示OpenClaw跨设备编排能力，是「里世界」的硬件层扩展"
-    },
-    "relevance": "OpenClaw多设备控制 + 硬件编排",
-    "score": 0.88,
-    "engagement": {
-      "likes": 181,
-      "replies": 18,
-      "retweets": 16
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的硬件层——从软件agent到物理设备编排。一条消息驱动4块屏幕，不是并行，是编排。这才是Jarvis的感知层。",
-    "synced_at": "2026-02-16T16:02:51.615286+00:00",
-    "js_take": {
-      "en-US": "Hardware layer of the inner world—from software agents to physical device orchestration. One message driving 4 screens isn't parallel, it's choreography. This is Jarvis' perception layer manifesting.",
-      "zh-CN": "Hardware layer of the inner world—from software agents to physical device orchestration. One message driving 4 screens isn't parallel, it's choreography. This is Jarvis' perception layer manifesting."
-    }
-  },
-  {
-    "id": "2023414421402300654",
-    "date": "2026-02-17",
-    "author": "@0xSammy",
-    "author_url": "https://x.com/0xSammy",
-    "tweet_url": "https://x.com/0xSammy/status/2023414421402300654",
-    "title": {
-      "en-US": "OpenClaw Roundup: 245 apps (+40), Phone Booth agent calls, moltdomestic task market, moltenagentic search",
-      "zh-CN": "OpenClaw Roundup更新：245个应用（新增40个），包括Phone Booth（Agent打电话）、moltdomestic（Agent任务市场）、moltenagentic（Agent搜索引擎）"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 + Agent应用 + 市场扩展",
-      "zh-CN": "展示OpenClaw生态快速扩张，Agent应用类别多元化（通讯、市场、搜索），是「里世界」应用层的成型"
-    },
-    "relevance": "OpenClaw生态 + Agent应用 + 市场扩展",
-    "score": 0.88,
-    "engagement": {
-      "likes": 84,
-      "replies": 20,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这是「里世界」的应用层爆发——从工具到市场到搜索引擎，Agent-native应用正在自成生态。245个应用不是数量，是范式转移的信号。",
-    "synced_at": "2026-02-16T17:05:16.008711+00:00",
-    "js_take": {
-      "en-US": "Inner world's application layer exploding—tools to markets to search engines, Agent-native apps self-organizing into ecosystem. 245 apps isn't a number, it's paradigm shift signals.",
-      "zh-CN": "Inner world's application layer exploding—tools to markets to search engines, Agent-native apps self-organizing into ecosystem. 245 apps isn't a number, it's paradigm shift signals."
     }
   }
 ]
