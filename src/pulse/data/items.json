@@ -174,6 +174,35 @@
     }
   },
   {
+    "id": "2024678503598235963",
+    "date": "2026-02-20",
+    "author": "@TheMattBerman",
+    "author_url": "https://x.com/TheMattBerman",
+    "tweet_url": "https://x.com/TheMattBerman/status/2024678503598235963",
+    "title": {
+      "en-US": "OpenClaw replaced $200K GTM hire",
+      "zh-CN": "OpenClaw替代20万美元GTM岗位"
+    },
+    "summary": {
+      "en-US": "OpenClaw销售自动化、GTM、商业应用",
+      "zh-CN": "OpenClaw 销售自动化、GTM、商业应用"
+    },
+    "relevance": "OpenClaw销售自动化、GTM、商业应用",
+    "score": 0.92,
+    "engagement": {
+      "likes": 510,
+      "replies": 287,
+      "retweets": 18
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Agents as revenue generators. When automation replaces headcount, ROI becomes undeniable.",
+    "synced_at": "2026-02-20T11:03:22.561566+00:00",
+    "js_take": {
+      "en-US": "Agents as revenue generators. When automation replaces headcount, ROI becomes undeniable.",
+      "zh-CN": "Agent即收入生成器。当自动化取代人力时，投资回报率便无可否认。"
+    }
+  },
+  {
     "id": "2024454576867324288",
     "date": "2026-02-20",
     "author": "@mubeitech",
@@ -580,6 +609,35 @@
     }
   },
   {
+    "id": "2024514563505607156",
+    "date": "2026-02-20",
+    "author": "@thetripathi58",
+    "author_url": "https://x.com/thetripathi58",
+    "tweet_url": "https://x.com/thetripathi58/status/2024514563505607156",
+    "title": {
+      "en-US": "7 OpenClaw skills run entire business",
+      "zh-CN": "7个OpenClaw技能运营整个业务"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能、业务自动化、创业",
+      "zh-CN": "OpenClaw 技能、业务自动化、创业"
+    },
+    "relevance": "OpenClaw技能、业务自动化、创业",
+    "score": 0.88,
+    "engagement": {
+      "likes": 652,
+      "replies": 11,
+      "retweets": 117
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Skills as business infrastructure. When 7 agents replace a team, solopreneur becomes scalable.",
+    "synced_at": "2026-02-20T11:03:22.561571+00:00",
+    "js_take": {
+      "en-US": "Skills as business infrastructure. When 7 agents replace a team, solopreneur becomes scalable.",
+      "zh-CN": "技能即商业基础设施。当7个Agent取代一个团队时，个体创业者便具备规模化能力。"
+    }
+  },
+  {
     "id": "2024452494244352170",
     "date": "2026-02-20",
     "author": "@andreasklinger",
@@ -693,6 +751,35 @@
     "js_take": {
       "en-US": "Depth as differentiation. When everyone multiplies agents, the one who deepens one stands out.",
       "zh-CN": "深度即差异化。当所有人都在增加Agent数量时，深耕单一Agent的人脱颖而出。"
+    }
+  },
+  {
+    "id": "2024729892659822620",
+    "date": "2026-02-20",
+    "author": "@yangyi",
+    "author_url": "https://x.com/yangyi",
+    "tweet_url": "https://x.com/yangyi/status/2024729892659822620",
+    "title": {
+      "en-US": "OpenClaw self-learning on Reddit",
+      "zh-CN": "OpenClaw在Reddit自主学习"
+    },
+    "summary": {
+      "en-US": "OpenClaw自主学习、Reddit运营、Agent自动化",
+      "zh-CN": "OpenClaw 自主学习、Reddit运营、Agent自动化"
+    },
+    "relevance": "OpenClaw自主学习、Reddit运营、Agent自动化",
+    "score": 0.86,
+    "engagement": {
+      "likes": 44,
+      "replies": 2,
+      "retweets": 8
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Self-directed learning as autonomy. When agents find their own training data, they become truly independent.",
+    "synced_at": "2026-02-20T11:03:22.561575+00:00",
+    "js_take": {
+      "en-US": "Self-directed learning as autonomy. When agents find their own training data, they become truly independent.",
+      "zh-CN": "自主学习即自主性。当Agent自己寻找训练数据时，它们便真正独立。"
     }
   },
   {
@@ -1124,6 +1211,35 @@
     "js_take": {
       "en-US": "One agent to replace them all. When your tools talk to each other through a single interface, fragmentation becomes integration.",
       "zh-CN": "一个Agent取代所有工具。当你的工具通过单一界面互相协作时，碎片化变成整合。"
+    }
+  },
+  {
+    "id": "2024781538802729306",
+    "date": "2026-02-20",
+    "author": "@YuLin807",
+    "author_url": "https://x.com/YuLin807",
+    "tweet_url": "https://x.com/YuLin807/status/2024781538802729306",
+    "title": {
+      "en-US": "X-Tweet-Fetcher Skill Chinese platforms",
+      "zh-CN": "Qingyue发布X-Tweet-Fetcher Skill更新，增加对国内平台支持：微博/B站/CSDN/微信公众号。"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能、国内平台集成、内容抓取",
+      "zh-CN": "展示OpenClaw技能本地化适配，体现从国际平台到国内生态的扩展。"
+    },
+    "relevance": "OpenClaw技能、国内平台集成、内容抓取",
+    "score": 0.82,
+    "engagement": {
+      "likes": 21,
+      "replies": 4,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Localization as adoption catalyst. When tools speak your language, barriers disappear.",
+    "synced_at": "2026-02-20T11:03:22.561577+00:00",
+    "js_take": {
+      "en-US": "Localization as adoption catalyst. When tools speak your language, barriers disappear.",
+      "zh-CN": "本土化即采用催化剂。当工具说你的语言时，障碍便消失。"
     }
   },
   {
@@ -1595,6 +1711,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Domestic agents as Trojan horse. When AI orders groceries, normalization follows.",
     "synced_at": "2026-02-20T08:01:39.084053+00:00"
+  },
+  {
+    "id": "2024474579578896483",
+    "date": "2026-02-20",
+    "author": "@imwsl90",
+    "author_url": "https://x.com/imwsl90",
+    "tweet_url": "https://x.com/imwsl90/status/2024474579578896483",
+    "title": {
+      "en-US": "OpenClaw earned 5500 yuan this month",
+      "zh-CN": "卫斯理分享这个月靠OpenClaw赚到5500元。"
+    },
+    "summary": {
+      "en-US": "OpenClaw变现、商业化、个人收入",
+      "zh-CN": "高互动(69回复)展示对OpenClaw赚钱方法的关注，体现技术变现的实际案例。"
+    },
+    "relevance": "OpenClaw变现、商业化、个人收入",
+    "score": 0.76,
+    "engagement": {
+      "likes": 113,
+      "replies": 69,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Tools as income streams. When skills become products, hobbyists become entrepreneurs.",
+    "synced_at": "2026-02-20T11:03:22.561579+00:00"
   },
   {
     "id": "2024519430097818058",
