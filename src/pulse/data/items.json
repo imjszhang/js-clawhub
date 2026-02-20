@@ -464,6 +464,64 @@
     }
   },
   {
+    "id": "2024572078314451146",
+    "date": "2026-02-20",
+    "author": "@kloss_xyz",
+    "author_url": "https://x.com/kloss_xyz",
+    "tweet_url": "https://x.com/kloss_xyz/status/2024572078314451146",
+    "title": {
+      "en-US": "OpenClaw 21 prompts to surface insights",
+      "zh-CN": "OpenClaw 21个挖掘洞察的提示词"
+    },
+    "summary": {
+      "en-US": "OpenClaw提示工程、人机协作、自我洞察",
+      "zh-CN": "OpenClaw 提示工程、人机协作、自我洞察"
+    },
+    "relevance": "OpenClaw提示工程、人机协作、自我洞察",
+    "score": 0.88,
+    "engagement": {
+      "likes": 419,
+      "replies": 29,
+      "retweets": 37
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Interrogation as discovery. When you ask your agent the right questions, it surfaces insights about you that you never articulated.",
+    "synced_at": "2026-02-20T06:03:57.699031+00:00",
+    "js_take": {
+      "en-US": "Interrogation as discovery. When you ask your agent the right questions, it surfaces insights about you that you never articulated.",
+      "zh-CN": "审问即发现。当你向Agent提出正确的问题时，它会浮现出你从未表达过的自我洞察。"
+    }
+  },
+  {
+    "id": "2024686968102117502",
+    "date": "2026-02-20",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2024686968102117502",
+    "title": {
+      "en-US": "10 Things I Wish I Knew Before OpenClaw",
+      "zh-CN": "使用OpenClaw前希望知道的10件事"
+    },
+    "summary": {
+      "en-US": "OpenClaw最佳实践、成本优化、模型选择",
+      "zh-CN": "OpenClaw 最佳实践、成本优化、模型选择"
+    },
+    "relevance": "OpenClaw最佳实践、成本优化、模型选择",
+    "score": 0.88,
+    "engagement": {
+      "likes": 101,
+      "replies": 7,
+      "retweets": 7
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Wisdom through friction. When you learn what you wish you knew earlier, the path becomes clearer for those who follow.",
+    "synced_at": "2026-02-20T06:03:57.699040+00:00",
+    "js_take": {
+      "en-US": "Wisdom through friction. When you learn what you wish you knew earlier, the path becomes clearer for those who follow.",
+      "zh-CN": "摩擦即智慧。当你学到那些早该知道的事时，后来者的路便变得清晰。"
+    }
+  },
+  {
     "id": "2024452494244352170",
     "date": "2026-02-20",
     "author": "@andreasklinger",
@@ -953,6 +1011,35 @@
     }
   },
   {
+    "id": "2024677889917001847",
+    "date": "2026-02-20",
+    "author": "@linwanwan823",
+    "author_url": "https://x.com/linwanwan823",
+    "tweet_url": "https://x.com/linwanwan823/status/2024677889917001847",
+    "title": {
+      "en-US": "NetEase LobsterAI Chinese OpenClaw",
+      "zh-CN": "林晚晚介绍网易有道开源的LobsterAI（有道龙虾），被称为中国版OpenClaw，7×24小时个人助理。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、中国Agent工具、桌面级助理",
+      "zh-CN": "大厂入场Agent工具领域，展示OpenClaw模式在中国的扩散和本土化演进。"
+    },
+    "relevance": "OpenClaw生态、中国Agent工具、桌面级助理",
+    "score": 0.82,
+    "engagement": {
+      "likes": 114,
+      "replies": 22,
+      "retweets": 25
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Localization as validation. When the pattern spreads across ecosystems, the paradigm shift becomes undeniable.",
+    "synced_at": "2026-02-20T06:03:57.699036+00:00",
+    "js_take": {
+      "en-US": "Localization as validation. When the pattern spreads across ecosystems, the paradigm shift becomes undeniable.",
+      "zh-CN": "本土化即验证。当模式跨越生态系统传播时，范式转变便无可否认。"
+    }
+  },
+  {
     "id": "2024471791645970794",
     "date": "2026-02-20",
     "author": "@MoonDevOnYT",
@@ -1321,6 +1408,56 @@
     "comment_type": "add_insight",
     "suggested_angle": "Platform risk is real risk. When API owners change rules, open alternatives don't just become viable—they become essential.",
     "synced_at": "2026-02-20T05:01:25.103341+00:00"
+  },
+  {
+    "id": "2024637917042262526",
+    "date": "2026-02-20",
+    "author": "@omarsar0",
+    "author_url": "https://x.com/omarsar0",
+    "tweet_url": "https://x.com/omarsar0/status/2024637917042262526",
+    "title": {
+      "en-US": "Files over apps mantra",
+      "zh-CN": "elvis提出\"files over apps\"新信条，主要与文件工作而非应用，呼应Karpathy的定制化软件时代。"
+    },
+    "summary": {
+      "en-US": "文件优先架构、OpenClaw理念、软件范式转变",
+      "zh-CN": "体现从应用中心到文件中心的范式转变，与OpenClaw的文件优先架构高度契合。"
+    },
+    "relevance": "文件优先架构、OpenClaw理念、软件范式转变",
+    "score": 0.76,
+    "engagement": {
+      "likes": 31,
+      "replies": 7,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Files as the universal interface. When everything is a file, interoperability becomes inherent.",
+    "synced_at": "2026-02-20T06:03:57.699038+00:00"
+  },
+  {
+    "id": "2024541301635764380",
+    "date": "2026-02-20",
+    "author": "@bailyLU",
+    "author_url": "https://x.com/bailyLU",
+    "tweet_url": "https://x.com/bailyLU/status/2024541301635764380",
+    "title": {
+      "en-US": "OpenClaw is addictive, better than NAS",
+      "zh-CN": "贝利分享OpenClaw令人上瘾，是中年男人新玩具，感觉胜过软路由和NAS。"
+    },
+    "summary": {
+      "en-US": "OpenClaw用户体验、技术 adoption、 hobbyist文化",
+      "zh-CN": "展示OpenClaw在技术爱好者中的吸引力，体现从工具到玩具再到必需品的演进。"
+    },
+    "relevance": "OpenClaw用户体验、技术 adoption、 hobbyist文化",
+    "score": 0.76,
+    "engagement": {
+      "likes": 131,
+      "replies": 18,
+      "retweets": 14
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Tools that capture attention shape behavior. When setup becomes play, adoption becomes inevitable.",
+    "synced_at": "2026-02-20T06:03:57.699042+00:00"
   },
   {
     "id": "2024519430097818058",
@@ -5435,132 +5572,5 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "认同配置价值并分享：多模型路由是OpenClaw的精髓——不同任务配不同模型，'各司其职'才是系统思维",
     "synced_at": "2026-02-17T20:01:45.607563+00:00"
-  },
-  {
-    "id": "2023962090092810747",
-    "date": "2026-02-18",
-    "author": "@4shad0wed",
-    "author_url": "https://x.com/4shad0wed",
-    "tweet_url": "https://x.com/4shad0wed/status/2023962090092810747",
-    "title": {
-      "en-US": "Discord connection more stable now, no big features yet",
-      "zh-CN": "Shadow宣布Discord连接稳定性提升，暂时没有大功能更新。"
-    },
-    "summary": {
-      "en-US": "OpenClaw集成、基础设施稳定性",
-      "zh-CN": "展示OpenClaw基础设施的持续改进，可从\"建系统\"核心洞察回应——稳定的基础设施比新奇功能更重要。"
-    },
-    "relevance": "OpenClaw集成、基础设施稳定性",
-    "score": 0.75,
-    "engagement": {
-      "likes": 140,
-      "replies": 14,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Stability is a feature. In the agent layer, reliability beats novelty every time. This is infrastructure thinking—boring until it matters, then critical.",
-    "synced_at": "2026-02-18T10:05:04.870898+00:00"
-  },
-  {
-    "id": "2024042210824515842",
-    "date": "2026-02-18",
-    "author": "@cryptonerdcn",
-    "author_url": "https://x.com/cryptonerdcn",
-    "tweet_url": "https://x.com/cryptonerdcn/status/2024042210824515842",
-    "title": {
-      "en-US": "OpenClaw variants: Nanobot, PicoClaw, ZeroClaw overview",
-      "zh-CN": "梳理OpenClaw的变种生态：Nanobot（Python轻量版）、PicoClaw（Go语言，更快更小）、ZeroClaw等。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、竞品分析、技术架构",
-      "zh-CN": "中文视角分析OpenClaw替代生态，可从\"势\"的角度回应——生态分化是基础设施成熟的标志。"
-    },
-    "relevance": "OpenClaw生态、竞品分析、技术架构",
-    "score": 0.75,
-    "engagement": {
-      "likes": 52,
-      "replies": 6,
-      "retweets": 9
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "The ecosystem diversifies. When you have Nanobot for Pythonists, PicoClaw for performance, and OpenClaw for full power, you're watching the infrastructure layer mature. Competition validates the category.",
-    "synced_at": "2026-02-18T14:03:57.132064+00:00"
-  },
-  {
-    "id": "2024113846093582528",
-    "date": "2026-02-18",
-    "author": "@Voxyz_ai",
-    "author_url": "https://x.com/Voxyz_ai",
-    "tweet_url": "https://x.com/Voxyz_ai/status/2024113846093582528",
-    "title": {
-      "en-US": "Visual slide decks for 4-part agent series: closed-loop, 6 agents, RPG framework, $8/mo server",
-      "zh-CN": "Vox将4篇Agent系列文章做成可视化幻灯片：闭环系统、从零构建6个Agent、RPG人格框架、$8/月服务器运行一切。"
-    },
-    "summary": {
-      "en-US": "OpenClaw多Agent部署、人格框架、成本优化",
-      "zh-CN": "系统化分享Agent构建方法论，$8/月跑6个Agent展示成本效率，可从\"不造奇观，建系统\"回应。"
-    },
-    "relevance": "OpenClaw多Agent部署、人格框架、成本优化",
-    "score": 0.75,
-    "engagement": {
-      "likes": 16,
-      "replies": 0,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Six agents, eight dollars, one cohesive system. When you can run an autonomous workforce for less than a streaming subscription, the economics of the inner world start making real sense.",
-    "synced_at": "2026-02-18T15:01:42.253994+00:00"
-  },
-  {
-    "id": "2023769209881457038",
-    "date": "2026-02-18",
-    "author": "@VersunPan",
-    "author_url": "https://x.com/VersunPan",
-    "tweet_url": "https://x.com/VersunPan/status/2023769209881457038",
-    "title": {
-      "en-US": "OpenClaw memory systems comparison. NowledgeMem is generation ahead of qmd.",
-      "zh-CN": "对比OpenClaw各种记忆系统，推荐NowledgeMem，认为是代差级体验。"
-    },
-    "summary": {
-      "en-US": "OpenClaw记忆系统",
-      "zh-CN": "中文创作者，可从Agent连续性角度讨论记忆的战略意义"
-    },
-    "relevance": "OpenClaw记忆系统",
-    "score": 0.74,
-    "engagement": {
-      "likes": 84,
-      "replies": 5,
-      "retweets": 13,
-      "views": 3828,
-      "bookmarks": 142
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "从'连续自我'角度回应：记忆不是存储，是Agent的'道'——决定它能否形成稳定决策模式与进化路径",
-    "synced_at": "2026-02-17T18:01:51.020800+00:00"
-  },
-  {
-    "id": "2024110291819127242",
-    "date": "2026-02-18",
-    "author": "@bridgemindai",
-    "author_url": "https://x.com/bridgemindai",
-    "tweet_url": "https://x.com/bridgemindai/status/2024110291819127242",
-    "title": {
-      "en-US": "3 Mac Minis, 3 agents, 24/7 autonomous work with souls",
-      "zh-CN": "分享3台Mac Mini运行3个Agent（Sam/Dario/Elon）24/7自主工作，每个都有灵魂、身份和完整计算机使用权。"
-    },
-    "summary": {
-      "en-US": "OpenClaw多Agent部署、角色分工、系统架构",
-      "zh-CN": "展示多Agent角色分工的实战经验，可从\"建系统\"回应——专业化的Agent军队比通用Agent更高效。"
-    },
-    "relevance": "OpenClaw多Agent部署、角色分工、系统架构",
-    "score": 0.73,
-    "engagement": {
-      "likes": 18,
-      "replies": 7,
-      "retweets": 0
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "Specialized agents > generalist agents. When you assign roles—marketing, engineering, general purpose—you're not just running software, you're managing a workforce with distinct expertise.",
-    "synced_at": "2026-02-18T14:03:57.132066+00:00"
   }
 ]
