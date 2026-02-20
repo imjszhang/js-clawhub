@@ -667,6 +667,35 @@
     }
   },
   {
+    "id": "2024677705527283841",
+    "date": "2026-02-20",
+    "author": "@karry_viber",
+    "author_url": "https://x.com/karry_viber",
+    "tweet_url": "https://x.com/karry_viber/status/2024677705527283841",
+    "title": {
+      "en-US": "OpenClaw multi-agent vs single deep agent philosophy",
+      "zh-CN": "OpenClaw：单Agent深耕 vs 多Agent协作"
+    },
+    "summary": {
+      "en-US": "OpenClaw哲学、单Agent深度vs多Agent协作",
+      "zh-CN": "OpenClaw 哲学、单 Agent 深度 vs 多 Agent 协作"
+    },
+    "relevance": "OpenClaw哲学、单Agent深度vs多Agent协作",
+    "score": 0.86,
+    "engagement": {
+      "likes": 18,
+      "replies": 5,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Depth as differentiation. When everyone multiplies agents, the one who deepens one stands out.",
+    "synced_at": "2026-02-20T08:01:39.084043+00:00",
+    "js_take": {
+      "en-US": "Depth as differentiation. When everyone multiplies agents, the one who deepens one stands out.",
+      "zh-CN": "深度即差异化。当所有人都在增加Agent数量时，深耕单一Agent的人脱颖而出。"
+    }
+  },
+  {
     "id": "2024433529464205489",
     "date": "2026-02-20",
     "author": "@0xcherry",
@@ -896,6 +925,35 @@
     "js_take": {
       "en-US": "Infrastructure as memory. When environments persist across agents, repetition becomes automation.",
       "zh-CN": "基础设施即记忆。当环境跨Agent持久化时，重复变成自动化。"
+    }
+  },
+  {
+    "id": "2024676211880775921",
+    "date": "2026-02-20",
+    "author": "@tom_doerr",
+    "author_url": "https://x.com/tom_doerr",
+    "tweet_url": "https://x.com/tom_doerr/status/2024676211880775921",
+    "title": {
+      "en-US": "Directory of agent skills",
+      "zh-CN": "Tom Dörr分享Agent技能目录。"
+    },
+    "summary": {
+      "en-US": "Agent技能、技能目录、OpenClaw生态",
+      "zh-CN": "极高收藏(96)展示对技能目录的需求，体现技能发现和复用的基础设施价值。"
+    },
+    "relevance": "Agent技能、技能目录、OpenClaw生态",
+    "score": 0.84,
+    "engagement": {
+      "likes": 80,
+      "replies": 2,
+      "retweets": 16
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Discovery as infrastructure. When skills are discoverable, the ecosystem becomes composable.",
+    "synced_at": "2026-02-20T08:01:39.084048+00:00",
+    "js_take": {
+      "en-US": "Discovery as infrastructure. When skills are discoverable, the ecosystem becomes composable.",
+      "zh-CN": "发现即基础设施。当技能可被搜索时，生态系统变得可组合。"
     }
   },
   {
@@ -1447,6 +1505,31 @@
     "synced_at": "2026-02-20T05:01:25.103335+00:00"
   },
   {
+    "id": "2024708557174886516",
+    "date": "2026-02-20",
+    "author": "@robbinfan",
+    "author_url": "https://x.com/robbinfan",
+    "tweet_url": "https://x.com/robbinfan/status/2024708557174886516",
+    "title": {
+      "en-US": "OpenClaw config tool for beginners",
+      "zh-CN": "范凯评价某OpenClaw配置工具适合新手，解决配置不够轻松的问题。"
+    },
+    "summary": {
+      "en-US": "OpenClaw工具、配置管理、新手友好",
+      "zh-CN": "展示OpenClaw生态中降低门槛的工具需求，体现从早期采用者到大众市场的过渡。"
+    },
+    "relevance": "OpenClaw工具、配置管理、新手友好",
+    "score": 0.78,
+    "engagement": {
+      "likes": 35,
+      "replies": 1,
+      "retweets": 6
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Onboarding as ecosystem growth. When barriers fall, adoption accelerates.",
+    "synced_at": "2026-02-20T08:01:39.084051+00:00"
+  },
+  {
     "id": "2024254025537900955",
     "date": "2026-02-20",
     "author": "@oliverhenry",
@@ -1570,6 +1653,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Tips as interface refinement. When small optimizations compound, workflow becomes seamless.",
     "synced_at": "2026-02-20T07:01:53.341432+00:00"
+  },
+  {
+    "id": "2024670399619797337",
+    "date": "2026-02-20",
+    "author": "@ThisWeeknAI",
+    "author_url": "https://x.com/ThisWeeknAI",
+    "tweet_url": "https://x.com/ThisWeeknAI/status/2024670399619797337",
+    "title": {
+      "en-US": "OpenClaw Day 1 use case groceries",
+      "zh-CN": "This Week in AI分享OpenClaw使用案例Day 1：订购杂货。"
+    },
+    "summary": {
+      "en-US": "OpenClaw用例、Agent日常生活应用",
+      "zh-CN": "高曝光(3.2万views)展示OpenClaw实际应用场景，体现Agent从代码工具到生活助手的转变。"
+    },
+    "relevance": "OpenClaw用例、Agent日常生活应用",
+    "score": 0.76,
+    "engagement": {
+      "likes": 86,
+      "replies": 4,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Domestic agents as Trojan horse. When AI orders groceries, normalization follows.",
+    "synced_at": "2026-02-20T08:01:39.084053+00:00"
   },
   {
     "id": "2024519430097818058",
@@ -5474,109 +5582,5 @@
     "comment_type": "add_insight",
     "suggested_angle": "桌面客户端是表世界向里世界的过渡形态——最终Agent会消失于界面，成为系统本身",
     "synced_at": "2026-02-17T16:03:49.447241+00:00"
-  },
-  {
-    "id": "2023763914031591474",
-    "date": "2026-02-18",
-    "author": "@0xcherry",
-    "author_url": "https://x.com/0xcherry",
-    "tweet_url": "https://x.com/0xcherry/status/2023763914031591474",
-    "title": {
-      "en-US": "Technical analysis: OpenClaw Agent Loop is simple pi-ai SDK, async is just cron not event-driven.",
-      "zh-CN": "技术分析OpenClaw：内置Agent Loop极其简单使用pi-ai SDK，异步性本质只是定时任务而非事件驱动。"
-    },
-    "summary": {
-      "en-US": "OpenClaw技术实现",
-      "zh-CN": "中文创作者技术吐槽，可从'建系统'角度回应——简单是feature不是bug"
-    },
-    "relevance": "OpenClaw技术实现",
-    "score": 0.76,
-    "engagement": {
-      "likes": 51,
-      "replies": 3,
-      "retweets": 7,
-      "views": 7641,
-      "bookmarks": 58
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "回应：简单是'无为而治'的体现——不给Agent预设复杂规则，设好约束让它自运行；定时任务足够用，过度工程才是问题",
-    "synced_at": "2026-02-17T23:02:15.924607+00:00"
-  },
-  {
-    "id": "2023729138729672863",
-    "date": "2026-02-18",
-    "author": "@WesRoth",
-    "author_url": "https://x.com/WesRoth",
-    "tweet_url": "https://x.com/WesRoth/status/2023729138729672863",
-    "title": {
-      "en-US": "OpenClaw Beta update released, focusing on critical security enhancements and bug fixes.",
-      "zh-CN": "OpenClaw Beta更新发布，主要聚焦关键安全增强和错误修复。"
-    },
-    "summary": {
-      "en-US": "OpenClaw更新",
-      "zh-CN": "OpenClaw官方更新，可从Jarvis定律回应——安全是Agent进化的必要条件"
-    },
-    "relevance": "OpenClaw更新",
-    "score": 0.76,
-    "engagement": {
-      "likes": 64,
-      "replies": 5,
-      "retweets": 3,
-      "views": 7087,
-      "bookmarks": 9
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同安全重要性并延伸：Jarvis定律不仅要求'感知+决策+执行'，还要求安全闭环；没有安全的Agent无法真正自治",
-    "synced_at": "2026-02-18T00:02:45.980797+00:00"
-  },
-  {
-    "id": "2023888421748699608",
-    "date": "2026-02-18",
-    "author": "@meximalist",
-    "author_url": "https://x.com/meximalist",
-    "tweet_url": "https://x.com/meximalist/status/2023888421748699608",
-    "title": {
-      "en-US": "6 mac minis, 4 PCs running in parallel, my digital AI employees living here, running 24/7 coordinating everything.",
-      "zh-CN": "6台Mac Mini、4台PC并行工作，数字AI员工住在这里，24/7运行协调所有工作。"
-    },
-    "summary": {
-      "en-US": "OpenClaw多实例部署、Agent团队管理",
-      "zh-CN": "高互动展示Agent基础设施规模，可从\"系统视角\"回应——硬件只是表象， orchestration 才是核心"
-    },
-    "relevance": "OpenClaw多实例部署、Agent团队管理",
-    "score": 0.76,
-    "engagement": {
-      "likes": 386,
-      "replies": 19,
-      "retweets": 21
-    },
-    "comment_type": "ask_question",
-    "suggested_angle": "10 machines is impressive. But the real question is: what's your orchestration layer? Hardware is just the surface. The inner world is the coordination protocol between agents.",
-    "synced_at": "2026-02-18T06:04:01.285280+00:00"
-  },
-  {
-    "id": "2023968372526891022",
-    "date": "2026-02-18",
-    "author": "@zstmfhy",
-    "author_url": "https://x.com/zstmfhy",
-    "tweet_url": "https://x.com/zstmfhy/status/2023968372526891022",
-    "title": {
-      "en-US": "This is how everyone will use OpenClaw in the future, build your AI army early",
-      "zh-CN": "分享这正是每个人未来使用OpenClaw的方式，尽早搭建AI军团才能实现效率翻倍。"
-    },
-    "summary": {
-      "en-US": "OpenClaw效率、AI员工系统、Agent运营",
-      "zh-CN": "高互动(120赞)中文视角，展示AI员工系统化管理，可从\"Jarvis定律\"回应——感知+决策+执行的闭环正在个人层面实现。"
-    },
-    "relevance": "OpenClaw效率、AI员工系统、Agent运营",
-    "score": 0.76,
-    "engagement": {
-      "likes": 120,
-      "replies": 4,
-      "retweets": 30
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "The AI army isn't science fiction anymore. When you have 8 agents reporting to you before you wake, you're not automating—you're orchestrating a workforce.",
-    "synced_at": "2026-02-18T10:02:51.023405+00:00"
   }
 ]
