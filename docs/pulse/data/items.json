@@ -373,6 +373,64 @@
     }
   },
   {
+    "id": "2024602283644780754",
+    "date": "2026-02-21",
+    "author": "@Clawnch_Bot",
+    "author_url": "https://x.com/Clawnch_Bot",
+    "tweet_url": "https://x.com/Clawnch_Bot/status/2024602283644780754",
+    "title": {
+      "en-US": "Clawtomaton MoltBunker decentralized",
+      "zh-CN": "Clawtomaton MoltBunker去中心化部署"
+    },
+    "summary": {
+      "en-US": "OpenClaw、去中心化Agent、MoltBunker、自主生存",
+      "zh-CN": "OpenClaw去中心化实践、MoltBunker自主托管、Agent生存机制"
+    },
+    "relevance": "OpenClaw、去中心化Agent、MoltBunker、自主生存",
+    "score": 0.88,
+    "engagement": {
+      "likes": 170,
+      "replies": 10,
+      "retweets": 33
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Autonomy as survival. When agents control their own infrastructure, they become unstoppable.",
+    "synced_at": "2026-02-20T23:02:50.130109+00:00",
+    "js_take": {
+      "en-US": "Can't be shut off. That's the difference. Decentralized infrastructure means the agent hosts itself, defends itself, persists. Autonomy isn't a feature—it's survival.",
+      "zh-CN": "无法被关闭。这就是区别。去中心化基础设施意味着代理自己托管、自己防御、持续存在。自主性不是功能——它是生存。"
+    }
+  },
+  {
+    "id": "2024854137456800137",
+    "date": "2026-02-21",
+    "author": "@iamcamengland",
+    "author_url": "https://x.com/iamcamengland",
+    "tweet_url": "https://x.com/iamcamengland/status/2024854137456800137",
+    "title": {
+      "en-US": "$80K selling Clawdbots this week",
+      "zh-CN": "一周销售Clawdbots获利8万美元"
+    },
+    "summary": {
+      "en-US": "OpenClaw商业化、Clawdbots、Agent即服务",
+      "zh-CN": "OpenClaw商业变现、Clawdbots代理服务、Agent经济模式"
+    },
+    "relevance": "OpenClaw商业化、Clawdbots、Agent即服务",
+    "score": 0.88,
+    "engagement": {
+      "likes": 211,
+      "replies": 15,
+      "retweets": 55
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Agents as products. When infrastructure becomes code, expertise becomes scalable.",
+    "synced_at": "2026-02-20T23:02:50.130115+00:00",
+    "js_take": {
+      "en-US": "$80K selling digital employees in one week. Not courses. Not consulting. Actual agents. When expertise becomes copy-paste, labor transforms into leverage.",
+      "zh-CN": "一周卖出8万美元的数字员工。不是课程。不是咨询。是真正的代理。当专业知识变成复制粘贴，劳动就变成了杠杆。"
+    }
+  },
+  {
     "id": "2024872924851913023",
     "date": "2026-02-21",
     "author": "@RoundtableSpace",
@@ -508,6 +566,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Configuration as capability. When setup is right, potential unlocks.",
     "synced_at": "2026-02-20T22:05:15.408770+00:00"
+  },
+  {
+    "id": "2024958747475673586",
+    "date": "2026-02-21",
+    "author": "@PrajwalTomar_",
+    "author_url": "https://x.com/PrajwalTomar_",
+    "tweet_url": "https://x.com/PrajwalTomar_/status/2024958747475673586",
+    "title": {
+      "en-US": "OpenClaw cost cut 80% thread",
+      "zh-CN": "Prajwal分享完整的OpenClaw成本优化教程，声称可削减80%成本。"
+    },
+    "summary": {
+      "en-US": "OpenClaw成本优化、配置技巧",
+      "zh-CN": "高收藏(93)展示对OpenClaw成本控制的持续需求，体现生产环境可持续运营的关键。"
+    },
+    "relevance": "OpenClaw成本优化、配置技巧",
+    "score": 0.84,
+    "engagement": {
+      "likes": 33,
+      "replies": 0,
+      "retweets": 1
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Cost as leverage. When burn drops, experimentation becomes sustainable.",
+    "synced_at": "2026-02-20T23:02:50.130118+00:00"
   },
   {
     "id": "2024652237986033815",
@@ -5528,95 +5611,6 @@
     "js_take": {
       "en-US": "Done the same with my stack. You're not just cutting costs—you're migrating from subscription software to composable infrastructure. The API stays, the middleman leaves.",
       "zh-CN": "Done the same with my stack. You're not just cutting costs—you're migrating from subscription software to composable infrastructure. The API stays, the middleman leaves."
-    }
-  },
-  {
-    "id": "2024069438505353725",
-    "date": "2026-02-18",
-    "author": "@gkxspace",
-    "author_url": "https://x.com/gkxspace",
-    "tweet_url": "https://x.com/gkxspace/status/2024069438505353725",
-    "title": {
-      "en-US": "Running 5 lobsters on one VPS with coordination via Gateway",
-      "zh-CN": "分享在一台低配VPS上运行5个OpenClaw Agent的架构，难点在于协调，使用Gateway统一接入渠道与路由。"
-    },
-    "summary": {
-      "en-US": "OpenClaw多Agent协调、系统架构、资源优化",
-      "zh-CN": "展示多Agent协调的实战经验，可从\"建系统\"角度回应——单个Agent是工具，协调系统才是基础设施。"
-    },
-    "relevance": "OpenClaw多Agent协调、系统架构、资源优化",
-    "score": 0.84,
-    "engagement": {
-      "likes": 57,
-      "replies": 10,
-      "retweets": 9
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "Five agents, one VPS, proper orchestration. This is the difference between running tools and running a workforce. The Gateway isn't just a router—it's the central nervous system.",
-    "synced_at": "2026-02-18T13:05:13.398526+00:00",
-    "js_take": {
-      "en-US": "Five agents, one VPS, proper orchestration. This is the difference between running tools and running a workforce. The Gateway isn't just a router—it's the central nervous system.",
-      "zh-CN": "Five agents, one VPS, proper orchestration. This is the difference between running tools and running a workforce. The Gateway isn't just a router—it's the central nervous system."
-    }
-  },
-  {
-    "id": "2023954442333347960",
-    "date": "2026-02-18",
-    "author": "@IvyLeanIn",
-    "author_url": "https://x.com/IvyLeanIn",
-    "tweet_url": "https://x.com/IvyLeanIn/status/2023954442333347960",
-    "title": {
-      "en-US": "Engineer analyzed OpenClaw source: simple, embeds Pi framework with bash tools",
-      "zh-CN": "中文推主分享工程师朋友对OpenClaw源码的安全分析，指出其简单粗暴的架构并强调安全教程稀缺。"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全、架构分析、中文视角",
-      "zh-CN": "中文深度技术分析+安全视角，可从\"表/里世界\"框架回应——安全焦虑是表世界的惯性，里世界的信任模型本就不同。"
-    },
-    "relevance": "OpenClaw安全、架构分析、中文视角",
-    "score": 0.83,
-    "engagement": {
-      "likes": 58,
-      "replies": 3,
-      "retweets": 11
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Security through transparency. When the source is open and the prompts are visible, trust shifts from obscurity to verifiability. That's the inner world paradigm.",
-    "synced_at": "2026-02-18T10:05:04.870893+00:00",
-    "js_take": {
-      "en-US": "Security through transparency. When source and prompts are visible, trust shifts from obscurity to verifiability. The inner world has different trust assumptions.",
-      "zh-CN": "Security through transparency. When source and prompts are visible, trust shifts from obscurity to verifiability. The inner world has different trust assumptions."
-    }
-  },
-  {
-    "id": "2023775671407841311",
-    "date": "2026-02-18",
-    "author": "@kavinbm",
-    "author_url": "https://x.com/kavinbm",
-    "tweet_url": "https://x.com/kavinbm/status/2023775671407841311",
-    "title": {
-      "en-US": "Reducing costs on OpenClaw: Opus synthesizes + Sub-agents do grunt work. Update CLAUDE.md with spawn rules.",
-      "zh-CN": "分享OpenClaw降本策略：Opus做综合决策，Sub-agents做脏活累活，更新CLAUDE.md配置子agent触发规则。"
-    },
-    "summary": {
-      "en-US": "OpenClaw工程实践、多Agent分工",
-      "zh-CN": "可用'无为而治'解释多Agent分工——不是中央控制，是各司其职、顺势自组织"
-    },
-    "relevance": "OpenClaw工程实践、多Agent分工",
-    "score": 0.82,
-    "engagement": {
-      "likes": 53,
-      "replies": 2,
-      "retweets": 5,
-      "views": 6543,
-      "bookmarks": 134
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用道家'无为而治'回应：Opus不做执行，只做'势'的判断；子agents不争功，各安其位，系统自运行",
-    "synced_at": "2026-02-17T17:04:17.141055+00:00",
-    "js_take": {
-      "en-US": "This is wu wei in practice.\n\nOpus doesn't execute — it reads the situation and decides. Sub-agents don't compete for attention — they each know their role. The system flows without forced coordination.\n\nLess control, more intelligence.",
-      "zh-CN": "This is wu wei in practice.\n\nOpus doesn't execute — it reads the situation and decides. Sub-agents don't compete for attention — they each know their role. The system flows without forced coordination.\n\nLess control, more intelligence."
     }
   }
 ]
