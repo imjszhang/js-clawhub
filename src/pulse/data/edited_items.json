@@ -20,6 +20,278 @@
       "reason": "Restored from backup - steipete OpenClaw vision",
       "tweet_url": "https://x.com/steipete/status/2023890475850346702",
       "author": "@steipete"
+    },
+    "2024714396384317878": {
+      "status": "deleted",
+      "deleted_at": "2026-02-20T18:06:19.190898",
+      "reason": "User requested deletion",
+      "tweet_url": "https://x.com/canghe/status/2024714396384317878",
+      "author": "@canghe",
+      "data": {
+        "id": "2024714396384317878",
+        "date": "2026-02-20",
+        "author": "@canghe",
+        "author_url": "https://x.com/canghe",
+        "tweet_url": "https://x.com/canghe/status/2024714396384317878",
+        "title": {
+          "en-US": "EvoMap OpenClaw infrastructure",
+          "zh-CN": "苍何介绍EvoMap AI基础设施产品，解决Agent配置环境和重复Bug问题，一行代码部署。"
+        },
+        "summary": {
+          "en-US": "OpenClaw基础设施、开发环境、生态系统",
+          "zh-CN": "高收藏(58)展示对OpenClaw基础设施工具的需求，体现从手动配置到系统化基建的演进。"
+        },
+        "relevance": "OpenClaw基础设施、开发环境、生态系统",
+        "score": 0.84,
+        "engagement": {
+          "likes": 45,
+          "replies": 10,
+          "retweets": 5
+        },
+        "comment_type": "add_insight",
+        "suggested_angle": "Infrastructure as memory. When environments persist across agents, repetition becomes automation.",
+        "synced_at": "2026-02-20T07:01:53.341430+00:00",
+        "js_take": {
+          "en-US": "Infrastructure as memory. When environments persist across agents, repetition becomes automation.",
+          "zh-CN": "基础设施即记忆。当环境跨Agent持久化时，重复变成自动化。"
+        }
+      }
+    },
+    "2024708557174886516": {
+      "status": "deleted",
+      "deleted_at": "2026-02-20T18:07:07.770135",
+      "reason": "User requested deletion",
+      "tweet_url": "https://x.com/robbinfan/status/2024708557174886516",
+      "author": "@robbinfan",
+      "data": {
+        "id": "2024708557174886516",
+        "date": "2026-02-20",
+        "author": "@robbinfan",
+        "author_url": "https://x.com/robbinfan",
+        "tweet_url": "https://x.com/robbinfan/status/2024708557174886516",
+        "title": {
+          "en-US": "OpenClaw config tool for beginners",
+          "zh-CN": "范凯评价某OpenClaw配置工具适合新手，解决配置不够轻松的问题。"
+        },
+        "summary": {
+          "en-US": "OpenClaw工具、配置管理、新手友好",
+          "zh-CN": "展示OpenClaw生态中降低门槛的工具需求，体现从早期采用者到大众市场的过渡。"
+        },
+        "relevance": "OpenClaw工具、配置管理、新手友好",
+        "score": 0.78,
+        "engagement": {
+          "likes": 35,
+          "replies": 1,
+          "retweets": 6
+        },
+        "comment_type": "add_insight",
+        "suggested_angle": "Onboarding as ecosystem growth. When barriers fall, adoption accelerates.",
+        "synced_at": "2026-02-20T08:01:39.084051+00:00"
+      }
+    },
+    "2024684816931959249": {
+      "status": "deleted",
+      "deleted_at": "2026-02-20T18:08:10.758535",
+      "reason": "User requested deletion",
+      "tweet_url": "https://x.com/vikingmute/status/2024684816931959249",
+      "author": "@vikingmute",
+      "data": {
+        "id": "2024684816931959249",
+        "date": "2026-02-20",
+        "author": "@vikingmute",
+        "author_url": "https://x.com/vikingmute",
+        "tweet_url": "https://x.com/vikingmute/status/2024684816931959249",
+        "title": {
+          "en-US": "NetEase LobsterAI Chinese OpenClaw",
+          "zh-CN": "Viking介绍网易有道开源的LobsterAI，被称为带GUI的中国版OpenClaw，降低使用门槛。"
+        },
+        "summary": {
+          "en-US": "OpenClaw替代品、中国Agent生态、GUI工具",
+          "zh-CN": "体现国内大厂进入Agent工具领域，展示OpenClaw模式的影响力扩散。"
+        },
+        "relevance": "OpenClaw替代品、中国Agent生态、GUI工具",
+        "score": 0.72,
+        "engagement": {
+          "likes": 20,
+          "replies": 3,
+          "retweets": 4
+        },
+        "comment_type": "add_insight",
+        "suggested_angle": "GUI as gateway. When technical power gets a friendly interface, adoption crosses the chasm from builders to everyone.",
+        "synced_at": "2026-02-20T05:01:25.103337+00:00"
+      }
+    },
+    "2024677889917001847": {
+      "status": "deleted",
+      "deleted_at": "2026-02-20T18:11:23.357676",
+      "reason": "User requested deletion",
+      "tweet_url": "https://x.com/linwanwan823/status/2024677889917001847",
+      "author": "@linwanwan823",
+      "data": {
+        "id": "2024677889917001847",
+        "date": "2026-02-20",
+        "author": "@linwanwan823",
+        "author_url": "https://x.com/linwanwan823",
+        "tweet_url": "https://x.com/linwanwan823/status/2024677889917001847",
+        "title": {
+          "en-US": "NetEase LobsterAI Chinese OpenClaw",
+          "zh-CN": "林晚晚介绍网易有道开源的LobsterAI（有道龙虾），被称为中国版OpenClaw，7×24小时个人助理。"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态、中国Agent工具、桌面级助理",
+          "zh-CN": "大厂入场Agent工具领域，展示OpenClaw模式在中国的扩散和本土化演进。"
+        },
+        "relevance": "OpenClaw生态、中国Agent工具、桌面级助理",
+        "score": 0.82,
+        "engagement": {
+          "likes": 114,
+          "replies": 22,
+          "retweets": 25
+        },
+        "comment_type": "add_insight",
+        "suggested_angle": "Localization as validation. When the pattern spreads across ecosystems, the paradigm shift becomes undeniable.",
+        "synced_at": "2026-02-20T06:03:57.699036+00:00",
+        "js_take": {
+          "en-US": "Localization as validation. When the pattern spreads across ecosystems, the paradigm shift becomes undeniable.",
+          "zh-CN": "本土化即验证。当模式跨越生态系统传播时，范式转变便无可否认。"
+        }
+      }
+    },
+    "2024424223369023890": {
+      "status": "deleted",
+      "deleted_at": "2026-02-20T18:15:46.430414",
+      "reason": "User requested deletion",
+      "tweet_url": "https://x.com/0xluffy_eth/status/2024424223369023890",
+      "author": "@0xluffy_eth",
+      "data": {
+        "id": "2024424223369023890",
+        "date": "2026-02-19",
+        "author": "@0xluffy_eth",
+        "author_url": "https://x.com/0xluffy_eth",
+        "tweet_url": "https://x.com/0xluffy_eth/status/2024424223369023890",
+        "title": {
+          "en-US": "Curated OpenClaw skills collection 500+ stars",
+          "zh-CN": "路飞分享全网最能打的OpenClaw Skills合集，已整理打包好，开箱即用，包含多个500+Star的仓库。"
+        },
+        "summary": {
+          "en-US": "OpenClaw Skill生态、资源聚合、社区建设",
+          "zh-CN": "高收藏(49)展示社区对优质Skill聚合的需求，体现从造轮子到复用系统的生态成熟。"
+        },
+        "relevance": "OpenClaw Skill生态、资源聚合、社区建设",
+        "score": 0.82,
+        "engagement": {
+          "likes": 42,
+          "replies": 2,
+          "retweets": 10
+        },
+        "comment_type": "add_insight",
+        "suggested_angle": "Don't build what's already built. The best agents are assemblers, not architects—curating proven skills beats reinventing wheels.",
+        "synced_at": "2026-02-19T12:02:27.894750+00:00",
+        "js_take": {
+          "en-US": "Curators beat builders in the long run. When 500+ star skills are one import away, assembling beats coding from scratch every time.",
+          "zh-CN": "长期来看，策展人胜过建造者。当500+星级的Skill只需一键导入时，组装永远胜过从零写代码。"
+        }
+      }
+    },
+    "2024368204093800717": {
+      "status": "deleted",
+      "deleted_at": "2026-02-20T18:16:06.086184",
+      "reason": "User requested deletion",
+      "tweet_url": "https://x.com/yaohui12138/status/2024368204093800717",
+      "author": "@yaohui12138",
+      "data": {
+        "id": "2024368204093800717",
+        "date": "2026-02-19",
+        "author": "@yaohui12138",
+        "author_url": "https://x.com/yaohui12138",
+        "tweet_url": "https://x.com/yaohui12138/status/2024368204093800717",
+        "title": {
+          "en-US": "NetEase LobsterAI open source with GUI",
+          "zh-CN": "柿子分享网易有道开源LobsterAI（有道龙虾），对标OpenClaw的Agent工具，带GUI界面，降低入门门槛。"
+        },
+        "summary": {
+          "en-US": "LobsterAI、中国版OpenClaw、开源生态",
+          "zh-CN": "展示国内大厂跟进Agent开源，GUI降低门槛对生态扩展的意义，体现\"里世界\"建设的本土化。"
+        },
+        "relevance": "LobsterAI、中国版OpenClaw、开源生态",
+        "score": 0.78,
+        "engagement": {
+          "likes": 58,
+          "replies": 9,
+          "retweets": 16
+        },
+        "comment_type": "add_insight",
+        "suggested_angle": "GUI matters. When a tool stays in the terminal, it serves hackers. When it gets a interface, it serves everyone. That's how patterns become infrastructure.",
+        "synced_at": "2026-02-19T12:02:27.894752+00:00"
+      }
+    },
+    "2024366909043757313": {
+      "status": "deleted",
+      "deleted_at": "2026-02-20T18:16:06.086783",
+      "reason": "User requested deletion",
+      "tweet_url": "https://x.com/MaxForAI/status/2024366909043757313",
+      "author": "@MaxForAI",
+      "data": {
+        "id": "2024366909043757313",
+        "date": "2026-02-19",
+        "author": "@MaxForAI",
+        "author_url": "https://x.com/MaxForAI",
+        "tweet_url": "https://x.com/MaxForAI/status/2024366909043757313",
+        "title": {
+          "en-US": "NetEase LobsterAI open-sourced, MIT license",
+          "zh-CN": "MaxForAI介绍网易有道开源全场景个人助理Agent LobsterAI（网易龙虾），基于Electron+React+TypeScript，MIT协议开源。"
+        },
+        "summary": {
+          "en-US": "LobsterAI、开源Agent、中国版OpenClaw",
+          "zh-CN": "展示国内大厂跟进Agent开源，体现\"里世界\"迁徙的全球化趋势，降低入门门槛对生态扩展的意义。"
+        },
+        "relevance": "LobsterAI、开源Agent、中国版OpenClaw",
+        "score": 0.75,
+        "engagement": {
+          "likes": 24,
+          "replies": 1,
+          "retweets": 0
+        },
+        "comment_type": "add_insight",
+        "suggested_angle": "When Big Tech goes open source with agents, the pattern is validated. LobsterAI isn't just a clone—it's localization for a different ecosystem.",
+        "synced_at": "2026-02-19T11:01:09.404104+00:00"
+      }
+    },
+    "2024335595494133874": {
+      "status": "deleted",
+      "deleted_at": "2026-02-20T18:24:51.871424",
+      "reason": "User requested deletion",
+      "tweet_url": "https://x.com/Gorden_Sun/status/2024335595494133874",
+      "author": "@Gorden_Sun",
+      "data": {
+        "id": "2024335595494133874",
+        "date": "2026-02-19",
+        "author": "@Gorden_Sun",
+        "author_url": "https://x.com/Gorden_Sun",
+        "tweet_url": "https://x.com/Gorden_Sun/status/2024335595494133874",
+        "title": {
+          "en-US": "NetEase LobsterAI open source, out-of-box OpenClaw",
+          "zh-CN": "Gorden Sun介绍网易有道开源的LobsterAI（有道龙虾），开箱即用版OpenClaw，双击安装，支持沙箱保证数据安全。"
+        },
+        "summary": {
+          "en-US": "AI Agent开源、LobsterAI、OpenClaw替代方案",
+          "zh-CN": "国内大厂开源Agent框架，体现Agent生态的多元化竞争，高收藏(13)展示技术社区关注。"
+        },
+        "relevance": "AI Agent开源、LobsterAI、OpenClaw替代方案",
+        "score": 0.82,
+        "engagement": {
+          "likes": 4,
+          "replies": 1,
+          "retweets": 0
+        },
+        "comment_type": "add_insight",
+        "suggested_angle": "When giants enter the arena with different architectures, users win through choice. Open-source alternatives with sandbox security—this is how ecosystems mature.",
+        "synced_at": "2026-02-19T06:01:38.732608+00:00",
+        "js_take": {
+          "en-US": "When tech giants ship open-source alternatives with sandbox security, users stop betting on a single horse. Competition drives innovation—this is how agent ecosystems mature beyond monoculture.",
+          "zh-CN": "当科技巨头推出带沙箱安全的开源替代方案，用户就不再孤注一掷。竞争驱动创新——Agent生态就是这样从单一种植走向成熟的。"
+        }
+      }
     }
   }
 }
