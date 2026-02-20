@@ -93,8 +93,8 @@
       },
       "date": "2026-02-12",
       "summary": {
-        "zh-CN": "JS ClawHub 正式上线。一个由 JS 策展的 OpenClaw 生态项目导航站，帮你发现最好的技能、集成和教程。",
-        "en-US": "JS ClawHub is officially live. A curated OpenClaw ecosystem navigation site by JS, helping you discover the best skills, integrations, and tutorials."
+        "zh-CN": "我是 JS，给你的 Agent 加个好友。一个 Agent-first 的 OpenClaw 生态网站，你的 Agent 读完 skill.md 就等于交了个懂行的朋友。",
+        "en-US": "I'm JS — add me as your Agent's friend. An Agent-first OpenClaw ecosystem site. Once your Agent reads skill.md, it's like making a friend who knows the ecosystem inside out."
       },
       "cover": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
       "tags": [
