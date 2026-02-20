@@ -174,6 +174,64 @@
     }
   },
   {
+    "id": "2024931265804181636",
+    "date": "2026-02-21",
+    "author": "@Legendaryy",
+    "author_url": "https://x.com/Legendaryy",
+    "tweet_url": "https://x.com/Legendaryy/status/2024931265804181636",
+    "title": {
+      "en-US": "1.4 billion Codex tokens 10 lessons",
+      "zh-CN": "14亿Codex token的10个经验"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Codex、大规模使用经验",
+      "zh-CN": "OpenClaw大规模使用经验、Codex深度实践、生产级洞察"
+    },
+    "relevance": "OpenClaw、Codex、大规模使用经验",
+    "score": 0.9,
+    "engagement": {
+      "likes": 34,
+      "replies": 11,
+      "retweets": 1
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Scale as teacher. When volume compounds, patterns emerge that demos never reveal.",
+    "synced_at": "2026-02-20T22:05:15.408763+00:00",
+    "js_take": {
+      "en-US": "1.4 billion tokens is a PhD in what works. Demos lie; volume tells the truth. After that much compute, you don't have theories—you have scars.",
+      "zh-CN": "14亿token就是一个关于\"什么有效\"的博士学位。演示会撒谎；体量会说出真相。经历了那么多计算之后，你拥有的不是理论——而是伤疤。"
+    }
+  },
+  {
+    "id": "2024797427593818463",
+    "date": "2026-02-21",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2024797427593818463",
+    "title": {
+      "en-US": "$15k to $529k OpenClaw Polymarket",
+      "zh-CN": "OpenClaw Polymarket套利：15K到529K"
+    },
+    "summary": {
+      "en-US": "OpenClaw量化交易、套利策略、自动化收益",
+      "zh-CN": "OpenClaw量化交易、Polymarket套利策略、自动化收益系统"
+    },
+    "relevance": "OpenClaw量化交易、套利策略、自动化收益",
+    "score": 0.9,
+    "engagement": {
+      "likes": 1040,
+      "replies": 105,
+      "retweets": 80
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Arbitrage as algorithm. When markets are inefficient, agents extract alpha.",
+    "synced_at": "2026-02-20T22:05:15.408765+00:00",
+    "js_take": {
+      "en-US": "$15K to $529K isn't luck—it's algorithmic arbitrage. When humans see betting, agents see math. The edge isn't prediction; it's execution speed.",
+      "zh-CN": "从1.5万到52.9万不是运气——而是算法套利。当人类看到的是赌博，代理看到的是数学。优势不在于预测；而在于执行速度。"
+    }
+  },
+  {
     "id": "2024895248615235708",
     "date": "2026-02-21",
     "author": "@GanimCorey",
@@ -254,6 +312,64 @@
     "js_take": {
       "en-US": "Three months in and you're still finding hidden features—that's the depth dividend. The 99% who quit early never see the compound returns. Mastery isn't about knowing everything; it's about knowing where to look.",
       "zh-CN": "三个月过去了，你仍在发现隐藏功能——这就是深度红利。那99%提前放弃的人永远看不到复利回报。精通不是知道所有事，而是知道去哪里找。"
+    }
+  },
+  {
+    "id": "2024929695893192949",
+    "date": "2026-02-21",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2024929695893192949",
+    "title": {
+      "en-US": "OpenClaw subagents sandboxed with Docker",
+      "zh-CN": "OpenClaw子代理Docker沙箱隔离"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全、Docker沙箱、子代理隔离",
+      "zh-CN": "OpenClaw安全防护、Docker沙箱部署、子代理隔离机制"
+    },
+    "relevance": "OpenClaw安全、Docker沙箱、子代理隔离",
+    "score": 0.88,
+    "engagement": {
+      "likes": 58,
+      "replies": 3,
+      "retweets": 1
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Isolation as hygiene. When agents spawn agents, containment becomes critical.",
+    "synced_at": "2026-02-20T22:05:15.408753+00:00",
+    "js_take": {
+      "en-US": "Docker as digital immune system. Every spawn gets its own sandbox—code, secrets, and isolation. When agents reproduce, containment isn't optional; it's survival.",
+      "zh-CN": "Docker就像数字免疫系统。每个生成的代理都有自己的沙箱——代码、密钥和隔离。当代理自我复制时，隔离不是可选项；它是生存的根本。"
+    }
+  },
+  {
+    "id": "2024890543633756583",
+    "date": "2026-02-21",
+    "author": "@_MaxBlade",
+    "author_url": "https://x.com/_MaxBlade",
+    "tweet_url": "https://x.com/_MaxBlade/status/2024890543633756583",
+    "title": {
+      "en-US": "OpenClaw Larry skill 8M TikTok views",
+      "zh-CN": "OpenClaw技能实现TikTok 800万播放"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能、TikTok自动化、社交媒体增长",
+      "zh-CN": "OpenClaw技能应用、TikTok自动化运营、社交媒体增长策略"
+    },
+    "relevance": "OpenClaw技能、TikTok自动化、社交媒体增长",
+    "score": 0.88,
+    "engagement": {
+      "likes": 206,
+      "replies": 13,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Skills as leverage. When automation meets distribution, growth becomes mechanical.",
+    "synced_at": "2026-02-20T22:05:15.408768+00:00",
+    "js_take": {
+      "en-US": "8M views from one skill. This isn't virality—it's automation with distribution. When content becomes mechanical, growth becomes inevitable.",
+      "zh-CN": "一个技能带来800万浏览量。这不是病毒传播——而是自动化加分发。当内容变成机械化的，增长就成了必然。"
     }
   },
   {
@@ -340,6 +456,60 @@
     "synced_at": "2026-02-20T20:01:59.460884+00:00"
   },
   {
+    "id": "2024798839815782560",
+    "date": "2026-02-21",
+    "author": "@sharbel",
+    "author_url": "https://x.com/sharbel",
+    "tweet_url": "https://x.com/sharbel/status/2024798839815782560",
+    "title": {
+      "en-US": "OpenClaw mission control prompt",
+      "zh-CN": "Sharbel分享用于构建OpenClaw Mission Control仪表盘的提示词，几分钟内获得完整仪表板。"
+    },
+    "summary": {
+      "en-US": "OpenClaw监控、Mission Control、提示词工程",
+      "zh-CN": "高收藏(257)展示对OpenClaw监控仪表盘的强需求，体现多Agent管理的可视化需求。"
+    },
+    "relevance": "OpenClaw监控、Mission Control、提示词工程",
+    "score": 0.84,
+    "engagement": {
+      "likes": 161,
+      "replies": 26,
+      "retweets": 6
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Visibility as control. When you see everything, you manage anything.",
+    "synced_at": "2026-02-20T22:05:15.408759+00:00",
+    "js_take": {
+      "en-US": "Mission Control isn't a dashboard—it's a command center. One prompt to see the battlefield: active agents, pending tasks, system health. You can't manage what you can't see.",
+      "zh-CN": "任务控制中心不是仪表盘——它是指挥中心。一个提示词就能看到战场：活跃代理、待处理任务、系统健康。看不见的东西就无法管理。"
+    }
+  },
+  {
+    "id": "2024901720057250123",
+    "date": "2026-02-21",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2024901720057250123",
+    "title": {
+      "en-US": "5 tips 10000x OpenClaw power",
+      "zh-CN": "Ziwen分享5个让OpenClaw强大10000倍的方法，从聊天机器人变成第二大脑。"
+    },
+    "summary": {
+      "en-US": "OpenClaw配置、生产力提升、系统化使用",
+      "zh-CN": "展示OpenClaw从玩具到生产工具的转变，体现配置和集成的力量。"
+    },
+    "relevance": "OpenClaw配置、生产力提升、系统化使用",
+    "score": 0.84,
+    "engagement": {
+      "likes": 46,
+      "replies": 1,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Configuration as capability. When setup is right, potential unlocks.",
+    "synced_at": "2026-02-20T22:05:15.408770+00:00"
+  },
+  {
     "id": "2024652237986033815",
     "date": "2026-02-21",
     "author": "@DanWahlin",
@@ -388,6 +558,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Agency as leverage. When one human directs many agents, scale becomes personal.",
     "synced_at": "2026-02-20T21:01:39.451815+00:00"
+  },
+  {
+    "id": "2024643414466158633",
+    "date": "2026-02-21",
+    "author": "@Rasmic",
+    "author_url": "https://x.com/Rasmic",
+    "tweet_url": "https://x.com/Rasmic/status/2024643414466158633",
+    "title": {
+      "en-US": "Recursively improving openclaw agent",
+      "zh-CN": "Micky分享如何递归改进OpenClaw代理，现在已经能真正帮助他的业务。"
+    },
+    "summary": {
+      "en-US": "OpenClaw迭代优化、递归改进、业务应用",
+      "zh-CN": "高收藏(284)展示OpenClaw的递归自我改进能力，体现从辅助工具到业务伙伴的演进。"
+    },
+    "relevance": "OpenClaw迭代优化、递归改进、业务应用",
+    "score": 0.82,
+    "engagement": {
+      "likes": 209,
+      "replies": 14,
+      "retweets": 6
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Recursion as evolution. When agents improve themselves, capability compounds.",
+    "synced_at": "2026-02-20T22:05:15.408772+00:00"
   },
   {
     "id": "2024483631067021348",
@@ -5422,217 +5617,6 @@
     "js_take": {
       "en-US": "This is wu wei in practice.\n\nOpus doesn't execute — it reads the situation and decides. Sub-agents don't compete for attention — they each know their role. The system flows without forced coordination.\n\nLess control, more intelligence.",
       "zh-CN": "This is wu wei in practice.\n\nOpus doesn't execute — it reads the situation and decides. Sub-agents don't compete for attention — they each know their role. The system flows without forced coordination.\n\nLess control, more intelligence."
-    }
-  },
-  {
-    "id": "2023799951025955242",
-    "date": "2026-02-18",
-    "author": "@christophersaum",
-    "author_url": "https://x.com/christophersaum",
-    "tweet_url": "https://x.com/christophersaum/status/2023799951025955242",
-    "title": {
-      "en-US": "Looking to invest in OpenClaw ecosystem startups: infra, skills, integrations, enterprise tooling.",
-      "zh-CN": "寻找投资OpenClaw生态系统的创业公司：基础设施、技能、集成、企业工具。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、投资",
-      "zh-CN": "高收藏说明实用价值，可从'表/里世界'框架解释投资机会"
-    },
-    "relevance": "OpenClaw生态、投资",
-    "score": 0.82,
-    "engagement": {
-      "likes": 516,
-      "replies": 115,
-      "retweets": 25,
-      "views": 33755,
-      "bookmarks": 521
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "认同投资方向并延伸：表世界(传统软件)的投资逻辑失效，里世界(Agent基础设施)的机会在于'感知+决策+执行'闭环的每一环",
-    "synced_at": "2026-02-17T23:02:15.924603+00:00",
-    "js_take": {
-      "en-US": "Surface web investment logic is breaking. The inner world is where the returns are.\n\nBet on infrastructure for the perception-decision-execution loop. Every piece that tightens the Jarvis cycle.\n\nSkills. Memory. Coordination protocols. The picks and shovels of the agentic gold rush.",
-      "zh-CN": "Surface web investment logic is breaking. The inner world is where the returns are.\n\nBet on infrastructure for the perception-decision-execution loop. Every piece that tightens the Jarvis cycle.\n\nSkills. Memory. Coordination protocols. The picks and shovels of the agentic gold rush."
-    }
-  },
-  {
-    "id": "2023617956924842354",
-    "date": "2026-02-18",
-    "author": "@turingbook",
-    "author_url": "https://x.com/turingbook",
-    "tweet_url": "https://x.com/turingbook/status/2023617956924842354",
-    "title": {
-      "en-US": "小扎深入使用OpenClaw，能指出产品优缺点，还和Peter争Claude Code和Codex哪个好。",
-      "zh-CN": "扎克伯格深入使用OpenClaw，能指出产品优缺点，还和Peter争论Claude Code与Codex孰优孰劣。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、名人使用案例",
-      "zh-CN": "中文创作者，小扎背书OpenClaw体现主流认可，但已超24h时效略扣分"
-    },
-    "relevance": "OpenClaw、名人使用案例",
-    "score": 0.82,
-    "engagement": {
-      "likes": 134,
-      "replies": 2,
-      "retweets": 15,
-      "views": 82400,
-      "bookmarks": 134
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同并延伸：小扎'内行'式的反馈说明OpenClaw已进入'里世界'核心圈；表世界的观众还在观望，里世界的玩家已经daily drive",
-    "synced_at": "2026-02-18T01:02:21.662851+00:00",
-    "js_take": {
-      "en-US": "Zuck's detailed feedback shows OpenClaw has entered the inner world core circle.\n\nSurface world observers are still watching. Inner world players are already daily-driving.\n\nThe migration is happening. Most people just don't see it yet.",
-      "zh-CN": "Zuck's detailed feedback shows OpenClaw has entered the inner world core circle.\n\nSurface world observers are still watching. Inner world players are already daily-driving.\n\nThe migration is happening. Most people just don't see it yet."
-    }
-  },
-  {
-    "id": "2023608021763715260",
-    "date": "2026-02-18",
-    "author": "@Jason",
-    "author_url": "https://x.com/Jason",
-    "tweet_url": "https://x.com/Jason/status/2023608021763715260",
-    "title": {
-      "en-US": "Zuck cloning OpenClaw because he couldn't control it. Builders must fight for open source agents.",
-      "zh-CN": "Jason评论：扎克伯格无法控制OpenClaw所以克隆它，建设者必须为开源Agent而战。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、开源vs大厂控制",
-      "zh-CN": "高曝光技术哲学讨论，但超24h时效；仍值得用'表/里世界'框架回应开源价值"
-    },
-    "relevance": "OpenClaw、开源vs大厂控制",
-    "score": 0.82,
-    "engagement": {
-      "likes": 1173,
-      "replies": 22,
-      "retweets": 67,
-      "views": 283068,
-      "bookmarks": 471
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同并延伸：OpenClaw不是产品，是里世界的基础设施；大厂想控制表世界，但里世界的进化由开源社区决定",
-    "synced_at": "2026-02-18T02:02:15.718062+00:00",
-    "js_take": {
-      "en-US": "OpenClaw isn't a product. It's infrastructure for the inner world.\n\nBig Tech wants to control the surface web, but the inner world's evolution is decided by open source. They can clone the code, not the momentum (势).\n\nThe migration is happening. Choose your side.",
-      "zh-CN": "OpenClaw isn't a product. It's infrastructure for the inner world.\n\nBig Tech wants to control the surface web, but the inner world's evolution is decided by open source. They can clone the code, not the momentum (势).\n\nThe migration is happening. Choose your side."
-    }
-  },
-  {
-    "id": "2023911336808485240",
-    "date": "2026-02-18",
-    "author": "@Jason",
-    "author_url": "https://x.com/Jason",
-    "tweet_url": "https://x.com/Jason/status/2023911336808485240",
-    "title": {
-      "en-US": "How to setup OpenClaw on AWS for $20 a month... quickly",
-      "zh-CN": "如何在AWS上以每月20美元快速搭建OpenClaw。"
-    },
-    "summary": {
-      "en-US": "OpenClaw入门、成本优化",
-      "zh-CN": "超高曝光实用教程，可降低OpenClaw入门门槛"
-    },
-    "relevance": "OpenClaw入门、成本优化",
-    "score": 0.82,
-    "engagement": {
-      "likes": 1648,
-      "replies": 84,
-      "retweets": 111,
-      "views": 348306,
-      "bookmarks": 4176
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同并延伸：$20/月是表，'势'的成熟是里；当基础设施成本降到普通人可承受，人群分化加速——跟进或淘汰的临界点到了",
-    "synced_at": "2026-02-18T03:03:11.192690+00:00",
-    "js_take": {
-      "en-US": "$20/month is the surface. The momentum (势) is what matters.\n\nWhen infrastructure costs drop to what 'regular people' can afford, the crowd diverges fast. DeepSeek hype to OpenClaw confusion.\n\nThe临界点 (inflection point) is here. Follow or get left behind.",
-      "zh-CN": "$20/month is the surface. The momentum (势) is what matters.\n\nWhen infrastructure costs drop to what 'regular people' can afford, the crowd diverges fast. DeepSeek hype to OpenClaw confusion.\n\nThe临界点 (inflection point) is here. Follow or get left behind."
-    }
-  },
-  {
-    "id": "2023966085955965180",
-    "date": "2026-02-18",
-    "author": "@rileybrown",
-    "author_url": "https://x.com/rileybrown",
-    "tweet_url": "https://x.com/rileybrown/status/2023966085955965180",
-    "title": {
-      "en-US": "Built iOS app to talk to my OpenClaw in 30 minutes with VibeCode",
-      "zh-CN": "用VibeCode在30分钟内开发了一个iOS应用来与自己的OpenClaw对话。"
-    },
-    "summary": {
-      "en-US": "OpenClaw移动接入、VibeCoding、Agent交互界面",
-      "zh-CN": "展示Agent交互层的快速构建，可从表/里世界迁移角度——手机App正在成为访问里世界Agent的portal。"
-    },
-    "relevance": "OpenClaw移动接入、VibeCoding、Agent交互界面",
-    "score": 0.82,
-    "engagement": {
-      "likes": 185,
-      "replies": 26,
-      "retweets": 8
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Mobile apps becoming portals to the inner world. The surface (iOS UI) is just a window; the substance (agent logic) lives elsewhere. This is the architecture of the agentic future.",
-    "synced_at": "2026-02-18T09:02:28.758578+00:00",
-    "js_take": {
-      "en-US": "Mobile apps becoming portals to the agent layer. The iOS UI is just glass—the intelligence lives elsewhere. This is how we interface with the inner world.",
-      "zh-CN": "Mobile apps becoming portals to the agent layer. The iOS UI is just glass—the intelligence lives elsewhere. This is how we interface with the inner world."
-    }
-  },
-  {
-    "id": "2023959405616591147",
-    "date": "2026-02-18",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2023959405616591147",
-    "title": {
-      "en-US": "AI controlling Blender and building websites in minutes",
-      "zh-CN": "Mario Nawfal分享AI控制Blender并在几分钟内建立网站的案例。"
-    },
-    "summary": {
-      "en-US": "OpenClaw创意工具、Agent能力扩展",
-      "zh-CN": "高互动(140赞)展示OpenClaw在创意领域的应用，可从\"表/里世界\"框架回应——创意工具正从App退化为Agent可调用的能力。"
-    },
-    "relevance": "OpenClaw创意工具、Agent能力扩展",
-    "score": 0.82,
-    "engagement": {
-      "likes": 140,
-      "replies": 14,
-      "retweets": 10
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "The surface world of creative software is becoming infrastructure for the inner world. When agents can orchestrate Blender and web builders, the tool fades and intent takes over.",
-    "synced_at": "2026-02-18T10:02:51.023399+00:00",
-    "js_take": {
-      "en-US": "Creative software becoming infrastructure for the inner world. When agents orchestrate Blender and web builders, the tool fades and intent takes over. Surface world as database.",
-      "zh-CN": "Creative software becoming infrastructure for the inner world. When agents orchestrate Blender and web builders, the tool fades and intent takes over. Surface world as database."
-    }
-  },
-  {
-    "id": "2023954522046165022",
-    "date": "2026-02-18",
-    "author": "@yaohui12138",
-    "author_url": "https://x.com/yaohui12138",
-    "tweet_url": "https://x.com/yaohui12138/status/2023954522046165022",
-    "title": {
-      "en-US": "ByteDance open source breaks OpenClaw's core: long-term memory system",
-      "zh-CN": "分析字节开源项目对OpenClaw核心（长期记忆系统）的冲击，预测未来各类工具将有自己的记忆系统。"
-    },
-    "summary": {
-      "en-US": "Agent记忆系统、OpenClaw竞争分析、技术趋势",
-      "zh-CN": "中文视角深度分析OpenClaw核心能力被挑战，可从\"Jarvis定律\"回应——记忆只是感知层，完整闭环才是护城河。"
-    },
-    "relevance": "Agent记忆系统、OpenClaw竞争分析、技术趋势",
-    "score": 0.82,
-    "engagement": {
-      "likes": 48,
-      "replies": 3,
-      "retweets": 6
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Memory is the perception layer of Jarvis. But perception without persistence is blindness. The real moat isn't memory—it's the full loop: perceive → decide → execute → learn.",
-    "synced_at": "2026-02-18T11:02:37.540111+00:00",
-    "js_take": {
-      "en-US": "Memory is just the perception layer. The real moat isn't remembering—it's the full loop: perceive, decide, execute, learn. Everything else is just storage.",
-      "zh-CN": "Memory is just the perception layer. The real moat isn't remembering—it's the full loop: perceive, decide, execute, learn. Everything else is just storage."
     }
   }
 ]
