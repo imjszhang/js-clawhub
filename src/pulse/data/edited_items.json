@@ -292,6 +292,42 @@
           "zh-CN": "当科技巨头推出带沙箱安全的开源替代方案，用户就不再孤注一掷。竞争驱动创新——Agent生态就是这样从单一种植走向成熟的。"
         }
       }
+    },
+    "2024337839916286380": {
+      "status": "deleted",
+      "deleted_at": "2026-02-20T14:34:12.915509+00:00",
+      "reason": "User requested deletion",
+      "tweet_url": "https://x.com/dotey/status/2024337839916286380",
+      "author": "@dotey",
+      "data": {
+        "id": "2024337839916286380",
+        "date": "2026-02-19",
+        "author": "@dotey",
+        "author_url": "https://x.com/dotey",
+        "tweet_url": "https://x.com/dotey/status/2024337839916286380",
+        "title": {
+          "en-US": "NetEase LobsterAI open source personal agent assistant",
+          "zh-CN": "网易有道 LobsterAI 开源：个人 Agent 助理新选择"
+        },
+        "summary": {
+          "en-US": "AI Agent开源、LobsterAI、个人助理",
+          "zh-CN": "AI Agent 开源项目、LobsterAI 技术架构、个人助理功能特性"
+        },
+        "relevance": "AI Agent开源、LobsterAI、个人助理",
+        "score": 0.85,
+        "engagement": {
+          "likes": 56,
+          "replies": 3,
+          "retweets": 4
+        },
+        "comment_type": "add_insight",
+        "suggested_angle": "Open source agents proliferating. When giants enter the arena with different architectures, users win through choice. This is the Cambrian explosion moment.",
+        "synced_at": "2026-02-19T05:01:38.246703+00:00",
+        "js_take": {
+          "en-US": "The agent wars are heating up. When tech giants ship open-source alternatives with different tradeoffs, users stop betting on a single horse. This is how ecosystems mature—through competition, not monopoly.",
+          "zh-CN": "Agent 之战正在升温。当科技巨头推出各有取舍的开源替代方案时，用户不再孤注一掷。生态系统就是这样成熟的——通过竞争，而非垄断。"
+        }
+      }
     }
   }
 }
