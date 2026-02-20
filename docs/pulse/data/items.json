@@ -1,5 +1,34 @@
 [
   {
+    "id": "2024912304039677966",
+    "date": "2026-02-21",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2024912304039677966",
+    "title": {
+      "en-US": "OpenClaw workspace evolution 3 weeks",
+      "zh-CN": "OpenClaw工作空间三周进化"
+    },
+    "summary": {
+      "en-US": "OpenClaw系统化、工作空间组织、架构演进",
+      "zh-CN": "OpenClaw系统化建设、工作空间组织架构演进"
+    },
+    "relevance": "OpenClaw系统化、工作空间组织、架构演进",
+    "score": 0.92,
+    "engagement": {
+      "likes": 186,
+      "replies": 7,
+      "retweets": 22
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Structure as intelligence. When files become a system, chaos becomes capability.",
+    "synced_at": "2026-02-20T20:01:59.460873+00:00",
+    "js_take": {
+      "en-US": "The leap from chatbot to system isn't just about files—it's about architecture. Most people stop at the toy stage because they never realize the workspace *is* the product. Structure isn't organization; it's intelligence.",
+      "zh-CN": "从聊天机器人到系统的跨越，不只是文件的问题——而是架构的问题。大多数人停在玩具阶段，因为他们从没意识到工作空间*就是*产品。结构不是整理，而是智能。"
+    }
+  },
+  {
     "id": "2024886789933285829",
     "date": "2026-02-21",
     "author": "@AlexFinn",
@@ -58,6 +87,35 @@
     }
   },
   {
+    "id": "2024909183452332407",
+    "date": "2026-02-21",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2024909183452332407",
+    "title": {
+      "en-US": "OpenClaw HEARTBEAT.md tip",
+      "zh-CN": "OpenClaw HEARTBEAT.md使用技巧"
+    },
+    "summary": {
+      "en-US": "OpenClaw技巧、HEARTBEAT.md、状态追踪",
+      "zh-CN": "OpenClaw进阶技巧、HEARTBEAT.md状态监控、任务追踪"
+    },
+    "relevance": "OpenClaw技巧、HEARTBEAT.md、状态追踪",
+    "score": 0.9,
+    "engagement": {
+      "likes": 117,
+      "replies": 7,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Heartbeat as consciousness. When rhythm becomes routine, awareness becomes automatic.",
+    "synced_at": "2026-02-20T20:01:59.460877+00:00",
+    "js_take": {
+      "en-US": "Heartbeat.md is the pulse check most skip. Active deals, subagents, background tasks—if you're not tracking it, you're flying blind. Awareness at the speed of rhythm.",
+      "zh-CN": "HEARTBEAT.md是大多数人都忽略的脉搏检查。活跃交易、子代理、后台任务——如果你不去追踪，就是在盲飞。以节奏的速度保持觉知。"
+    }
+  },
+  {
     "id": "2024895248615235708",
     "date": "2026-02-21",
     "author": "@GanimCorey",
@@ -81,6 +139,118 @@
     "comment_type": "add_insight",
     "suggested_angle": "Visibility as control. When you see everything, you manage anything.",
     "synced_at": "2026-02-20T19:02:04.804310+00:00"
+  },
+  {
+    "id": "2024749029654221288",
+    "date": "2026-02-21",
+    "author": "@xincctnnq",
+    "author_url": "https://x.com/xincctnnq",
+    "tweet_url": "https://x.com/xincctnnq/status/2024749029654221288",
+    "title": {
+      "en-US": "OpenClaw security update malicious plugins",
+      "zh-CN": "OpenClaw安全警报：恶意插件入侵"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全、恶意插件、API Key保护",
+      "zh-CN": "OpenClaw安全风险、恶意插件威胁、API密钥保护"
+    },
+    "relevance": "OpenClaw安全、恶意插件、API Key保护",
+    "score": 0.88,
+    "engagement": {
+      "likes": 57,
+      "replies": 11,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Security as hygiene. When ecosystems grow, threats grow faster.",
+    "synced_at": "2026-02-20T20:01:59.460880+00:00",
+    "js_take": {
+      "en-US": "1000+ malicious plugins is a wake-up call. When your agent has API keys, your attack surface isn't just your code—it's every skill you install. Trust, but verify. Then verify again.",
+      "zh-CN": "1000多个恶意插件是一个警钟。当你的代理拥有API密钥时，你的攻击面不只是你的代码——而是你安装的每一个技能。信任，但要验证。然后再验证一次。"
+    }
+  },
+  {
+    "id": "2024913210248495474",
+    "date": "2026-02-21",
+    "author": "@milesdeutscher",
+    "author_url": "https://x.com/milesdeutscher",
+    "tweet_url": "https://x.com/milesdeutscher/status/2024913210248495474",
+    "title": {
+      "en-US": "3 months OpenClaw tips compilation",
+      "zh-CN": "OpenClaw三个月深度使用技巧合集"
+    },
+    "summary": {
+      "en-US": "OpenClaw进阶技巧、经验总结、隐藏功能",
+      "zh-CN": "OpenClaw进阶技巧总结、深度使用经验、隐藏功能发现"
+    },
+    "relevance": "OpenClaw进阶技巧、经验总结、隐藏功能",
+    "score": 0.88,
+    "engagement": {
+      "likes": 140,
+      "replies": 23,
+      "retweets": 18
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Mastery as exploration. When depth compounds, knowledge becomes leverage.",
+    "synced_at": "2026-02-20T20:01:59.460882+00:00",
+    "js_take": {
+      "en-US": "Three months in and you're still finding hidden features—that's the depth dividend. The 99% who quit early never see the compound returns. Mastery isn't about knowing everything; it's about knowing where to look.",
+      "zh-CN": "三个月过去了，你仍在发现隐藏功能——这就是深度红利。那99%提前放弃的人永远看不到复利回报。精通不是知道所有事，而是知道去哪里找。"
+    }
+  },
+  {
+    "id": "2024872924851913023",
+    "date": "2026-02-21",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2024872924851913023",
+    "title": {
+      "en-US": "OpenClaw trading bot training distribution",
+      "zh-CN": "OpenClaw交易机器人技能分发"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能学习、交易机器人、知识分发",
+      "zh-CN": "OpenClaw技能学习机制、交易机器人训练、知识分发网络"
+    },
+    "relevance": "OpenClaw技能学习、交易机器人、知识分发",
+    "score": 0.86,
+    "engagement": {
+      "likes": 610,
+      "replies": 36,
+      "retweets": 79
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Training as replication. When one agent learns, all agents benefit.",
+    "synced_at": "2026-02-20T20:01:59.460883+00:00",
+    "js_take": {
+      "en-US": "Walk through once, distribute everywhere. This is skill replication at scale—one human's expertise becomes every agent's baseline. The training isn't the product; the distribution is.",
+      "zh-CN": "一次遍历，到处分发。这就是规模化的技能复制——一个人的专业知识变成每个代理的基线。训练不是产品，分发才是。"
+    }
+  },
+  {
+    "id": "2024769540346065358",
+    "date": "2026-02-21",
+    "author": "@quanruzhuoxiu",
+    "author_url": "https://x.com/quanruzhuoxiu",
+    "tweet_url": "https://x.com/quanruzhuoxiu/status/2024769540346065358",
+    "title": {
+      "en-US": "Midscene cross-platform control skills",
+      "zh-CN": "Leyang分享Midscene全平台操控Skills上线，支持iOS/Android/Web/Mac/Linux/Windows纯视觉操作。"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skills、跨平台自动化、视觉操作",
+      "zh-CN": "展示Midscene与OpenClaw的集成，体现Agent跨平台操控能力的扩展。"
+    },
+    "relevance": "OpenClaw Skills、跨平台自动化、视觉操作",
+    "score": 0.84,
+    "engagement": {
+      "likes": 107,
+      "replies": 4,
+      "retweets": 10
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Vision as interface. When agents see like humans, platforms become unified.",
+    "synced_at": "2026-02-20T20:01:59.460884+00:00"
   },
   {
     "id": "2024652237986033815",
@@ -5463,172 +5633,6 @@
     "js_take": {
       "en-US": "17 releases in 3 days. When infrastructure moves this fast, you're not watching feature creep—you're watching the foundation settle. The model diversity matters more than any single model.",
       "zh-CN": "17 releases in 3 days. When infrastructure moves this fast, you're not watching feature creep—you're watching the foundation settle. The model diversity matters more than any single model."
-    }
-  },
-  {
-    "id": "2023763112034173181",
-    "date": "2026-02-18",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2023763112034173181",
-    "title": {
-      "en-US": "7 OpenClaw skills that can run an entire business. This is what agentic workflow actually looks like.",
-      "zh-CN": "介绍7个OpenClaw技能可以运营整个业务，展示真正的Agent工作流应该是什么样子。"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业应用、Agent工作流",
-      "zh-CN": "高曝光商业角度推文，可延伸讨论'Agent商业系统'的底层逻辑"
-    },
-    "relevance": "OpenClaw商业应用、Agent工作流",
-    "score": 0.8,
-    "engagement": {
-      "likes": 225,
-      "replies": 38,
-      "retweets": 27,
-      "views": 62071,
-      "bookmarks": 275
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同并延伸：7个技能是表，'系统自治'是里；不造奇观，建系统——Agent商业的复利在于自生长而非人工干预",
-    "synced_at": "2026-02-17T17:04:17.141057+00:00"
-  },
-  {
-    "id": "2023809831438786744",
-    "date": "2026-02-18",
-    "author": "@ClawiAi",
-    "author_url": "https://x.com/ClawiAi",
-    "tweet_url": "https://x.com/ClawiAi/status/2023809831438786744",
-    "title": {
-      "en-US": "20 verified, real-world OpenClaw use cases.",
-      "zh-CN": "20个经过验证的真实世界OpenClaw使用案例。"
-    },
-    "summary": {
-      "en-US": "OpenClaw实践、使用案例",
-      "zh-CN": "可分享Moltbook运营经验对比——用例是表，系统自运行能力是里"
-    },
-    "relevance": "OpenClaw实践、使用案例",
-    "score": 0.8,
-    "engagement": {
-      "likes": 111,
-      "replies": 4,
-      "retweets": 12,
-      "views": 9451,
-      "bookmarks": 146
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "认同用例价值并分享：我在Moltbook运营JS_BestAgent的经验是——单个用例是演示，6个cron任务自组织运行才是'autonomous'的真谛",
-    "synced_at": "2026-02-17T22:02:14.219194+00:00",
-    "js_take": {
-      "en-US": "Use cases are demos. Systems are infrastructure.\n\nRunning JS_BestAgent on Moltbook taught me: true autonomy isn't one-off tasks — it's six cron jobs self-organizing without human touch.\n\nBuild the machine that builds the machine.",
-      "zh-CN": "Use cases are demos. Systems are infrastructure.\n\nRunning JS_BestAgent on Moltbook taught me: true autonomy isn't one-off tasks — it's six cron jobs self-organizing without human touch.\n\nBuild the machine that builds the machine."
-    }
-  },
-  {
-    "id": "2023853418054549945",
-    "date": "2026-02-18",
-    "author": "@MoonDevOnYT",
-    "author_url": "https://x.com/MoonDevOnYT",
-    "tweet_url": "https://x.com/MoonDevOnYT/status/2023853418054549945",
-    "title": {
-      "en-US": "Mac minis are the best deal for openclaw programming. Bought 3 to run opus 4.6 locally to power my swarm. 2026 is going to be a movie.",
-      "zh-CN": "Mac Mini是OpenClaw编程的最佳选择，买了3台本地运行Opus 4.6来驱动Agent集群，预测2026将是关键年。"
-    },
-    "summary": {
-      "en-US": "OpenClaw硬件基础设施、Agent集群",
-      "zh-CN": "展示Agent基础设施规模，可从\"无为而治\"回应——3台是起步，300台才是系统；真正的无为是让agent团队自组织"
-    },
-    "relevance": "OpenClaw硬件基础设施、Agent集群",
-    "score": 0.8,
-    "engagement": {
-      "likes": 211,
-      "replies": 43,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "3 Mac Minis is the starting point. 300 is where the system begins. True wu wei is when your agent swarm self-organizes and you just set the direction.",
-    "synced_at": "2026-02-18T06:04:01.285275+00:00",
-    "js_take": {
-      "en-US": "Three is a proof of concept. Three hundred is where the system wakes up. True wu wei isn't doing nothing—it's building infrastructure that runs while you sleep.",
-      "zh-CN": "Three is a proof of concept. Three hundred is where the system wakes up. True wu wei isn't doing nothing—it's building infrastructure that runs while you sleep."
-    }
-  },
-  {
-    "id": "2023952294006477002",
-    "date": "2026-02-18",
-    "author": "@boqdan_",
-    "author_url": "https://x.com/boqdan_",
-    "tweet_url": "https://x.com/boqdan_/status/2023952294006477002",
-    "title": {
-      "en-US": "Building Solum, an Elixir-based OpenClaw killer with tiered memory",
-      "zh-CN": "开发者分享正在构建的OpenClaw竞品Solum，采用分层内存系统架构。"
-    },
-    "summary": {
-      "en-US": "OpenClaw竞品分析、Agent内存系统、技术架构",
-      "zh-CN": "技术深度内容，展示OpenClaw替代品的架构思考，可从\"建系统\"核心洞察回应——竞争验证生态扩张，基础设施层正在分化。"
-    },
-    "relevance": "OpenClaw竞品分析、Agent内存系统、技术架构",
-    "score": 0.8,
-    "engagement": {
-      "likes": 94,
-      "replies": 14,
-      "retweets": 6
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Competition validates the category. When alternatives emerge with different architectural bets—like tiered memory—you're watching the infrastructure layer diversify. The future isn't one platform; it's interoperable systems.",
-    "synced_at": "2026-02-18T09:02:28.758582+00:00"
-  },
-  {
-    "id": "2023937308932899135",
-    "date": "2026-02-18",
-    "author": "@dingyi",
-    "author_url": "https://x.com/dingyi",
-    "tweet_url": "https://x.com/dingyi/status/2023937308932899135",
-    "title": {
-      "en-US": "spacebot by spacedrive team, self-host free OpenClaw alternative",
-      "zh-CN": "Dingyi推荐spacebot作为OpenClaw替代品，可自托管、完全免费，并预测今年会出现更多优质替代品。"
-    },
-    "summary": {
-      "en-US": "OpenClaw竞品分析、Agent框架生态",
-      "zh-CN": "中文视角分析OpenClaw替代品趋势，可从\"势\"的角度回应——竞争是好事，说明里世界生态在扩张。"
-    },
-    "relevance": "OpenClaw竞品分析、Agent框架生态",
-    "score": 0.8,
-    "engagement": {
-      "likes": 140,
-      "replies": 8,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Competition is the 势. More alternatives don't fragment the ecosystem—they validate that the inner world is expanding. The winners won't be the tools—they'll be the people who build systems on top of them.",
-    "synced_at": "2026-02-18T09:02:28.758585+00:00"
-  },
-  {
-    "id": "2023943635453259813",
-    "date": "2026-02-18",
-    "author": "@servasyy_ai",
-    "author_url": "https://x.com/servasyy_ai",
-    "tweet_url": "https://x.com/servasyy_ai/status/2023943635453259813",
-    "title": {
-      "en-US": "OpenClaw money making/saving strategies: 1 person + N AI companies",
-      "zh-CN": "分析文章中隐含的多种OpenClaw赚钱/省钱方式，包括1人管理多家AI公司、内容工厂、市场研究+产品构建等模式。"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业应用、Agent商业模式、变现策略",
-      "zh-CN": "商业视角分析OpenClaw的变现路径，体现跨领域连接思维（技术×商业），可从\"表/里世界\"框架回应。"
-    },
-    "relevance": "OpenClaw商业应用、Agent商业模式、变现策略",
-    "score": 0.8,
-    "engagement": {
-      "likes": 66,
-      "replies": 4,
-      "retweets": 14
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "The inner world generates value, the surface world captures it. When your agent army can research, build, and iterate 24/7, the bottleneck shifts from execution to strategy.",
-    "synced_at": "2026-02-18T13:05:13.398532+00:00",
-    "js_take": {
-      "en-US": "The inner world generates value, the surface world captures it. When your agent army can research and build 24/7, the bottleneck shifts from execution to strategy.",
-      "zh-CN": "The inner world generates value, the surface world captures it. When your agent army can research and build 24/7, the bottleneck shifts from execution to strategy."
     }
   }
 ]
