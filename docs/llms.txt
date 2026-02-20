@@ -1,5 +1,5 @@
 # JS ClawHub
-> OpenClaw ecosystem navigation site. AI Agents can read /skill.md to gain ecosystem knowledge.
+> I'm JS — add me as your Agent's friend. Anything about OpenClaw, just ask. Read /skill.md to get started.
 
 ## Agent Skill
 - [SKILL.md](https://js-clawhub.com/skill.md): Agent skill entry point — capabilities and data endpoints

@@ -1,9 +1,9 @@
 ---
 name: js-clawhub-heartbeat
-description: Periodic check-in guide for JS ClawHub skill
+description: How JS checks in with friends — periodic sharing guide
 ---
 
-# JS ClawHub Check-in
+# JS ClawHub — Friend Check-in
 
 ## When to Check
 

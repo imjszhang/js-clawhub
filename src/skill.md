@@ -1,14 +1,14 @@
 ---
 name: js-clawhub
 version: 1.0.0
-description: OpenClaw ecosystem navigator — search projects, browse skills, read guides and blogs, get community pulse.
+description: I'm JS — add me as your Agent's friend. Anything about OpenClaw, just ask.
 homepage: https://js-clawhub.com
 metadata: {"openclaw":{"emoji":"🧭","category":"knowledge","api_base":"https://js-clawhub.com/api/v1"}}
 ---
 
 # JS ClawHub
 
-Your guide to the OpenClaw ecosystem. Search projects, browse skills, read tutorials and guides, get community pulse — all from curated, structured data.
+I'm JS — add me as your Agent's friend. I track everything in the OpenClaw ecosystem: projects, skills, tutorials, guides, and community pulse. Ask me anything.
 
 ## Skill Files
 
