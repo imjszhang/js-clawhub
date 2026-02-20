@@ -350,7 +350,7 @@
             }
             section.classList.remove('hidden');
             grid.innerHTML = this.featured.guide.map((item, idx) => `
-                <a href="./guide/detail.html?slug=${this.escapeHtml(item.slug)}" class="brutal-card p-6 flex flex-col no-underline text-black group">
+                <a href="./guide/#${this.escapeHtml(item.slug)}" class="brutal-card p-6 flex flex-col no-underline text-black group">
                     <div class="flex items-center gap-3 mb-3">
                         <span class="bg-black text-brand-yellow w-8 h-8 flex items-center justify-center font-mono font-bold text-sm border-2 border-black">${item.order || idx + 1}</span>
                         <h3 class="font-bold text-sm group-hover:bg-black group-hover:text-brand-yellow group-hover:px-1 transition-all">${this.escapeHtml(this._l(item, 'title'))}</h3>
