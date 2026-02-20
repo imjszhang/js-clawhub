@@ -1,10 +1,39 @@
 {
-  "updated_at": "2026-02-20T20:02:27.259359+00:00",
+  "updated_at": "2026-02-20T21:01:57.052002+00:00",
   "this_week": {
     "total_items": 200,
     "avg_score": 0.83,
-    "unique_authors": 154,
+    "unique_authors": 153,
     "top_items": [
+      {
+        "id": "2024900944589148615",
+        "date": "2026-02-21",
+        "author": "@ziwenxu_",
+        "author_url": "https://x.com/ziwenxu_",
+        "tweet_url": "https://x.com/ziwenxu_/status/2024900944589148615",
+        "title": {
+          "en-US": "OpenClaw toys vs factories insight",
+          "zh-CN": "OpenClaw：从玩具到工厂"
+        },
+        "summary": {
+          "en-US": "OpenClaw工业化、系统设计、生产环境",
+          "zh-CN": "OpenClaw工业化实践、系统架构设计、生产环境部署"
+        },
+        "relevance": "OpenClaw工业化、系统设计、生产环境",
+        "score": 0.94,
+        "engagement": {
+          "likes": 36,
+          "replies": 2,
+          "retweets": 0
+        },
+        "comment_type": "add_insight",
+        "suggested_angle": "Systems over spectacle. When builders mature, toys become infrastructure.",
+        "synced_at": "2026-02-20T21:01:39.451803+00:00",
+        "js_take": {
+          "en-US": "Toys break. Factories scale. The 99% who quit never made the leap from demo to deployment—because demos are fun and systems are work. Industrial-grade means boring, reliable, and profitable.",
+          "zh-CN": "玩具会坏，工厂能扩。那99%放弃的人从未完成从演示到部署的跨越——因为演示有趣，系统才是工作。工业级意味着枯燥、可靠、盈利。"
+        }
+      },
       {
         "id": "2023938290567835943",
         "date": "2026-02-18",
@@ -62,40 +91,11 @@
           "en-US": "Rational fear. When agents have write access, blast radius is real. But the answer isn't avoidance—it's building guardrails. Safety is system design, not a blocker.",
           "zh-CN": "Rational fear. When agents have write access, blast radius is real. But the answer isn't avoidance—it's building guardrails. Safety is system design, not a blocker."
         }
-      },
-      {
-        "id": "2024912304039677966",
-        "date": "2026-02-21",
-        "author": "@johann_sath",
-        "author_url": "https://x.com/johann_sath",
-        "tweet_url": "https://x.com/johann_sath/status/2024912304039677966",
-        "title": {
-          "en-US": "OpenClaw workspace evolution 3 weeks",
-          "zh-CN": "OpenClaw工作空间三周进化"
-        },
-        "summary": {
-          "en-US": "OpenClaw系统化、工作空间组织、架构演进",
-          "zh-CN": "OpenClaw系统化建设、工作空间组织架构演进"
-        },
-        "relevance": "OpenClaw系统化、工作空间组织、架构演进",
-        "score": 0.92,
-        "engagement": {
-          "likes": 186,
-          "replies": 7,
-          "retweets": 22
-        },
-        "comment_type": "add_insight",
-        "suggested_angle": "Structure as intelligence. When files become a system, chaos becomes capability.",
-        "synced_at": "2026-02-20T20:01:59.460873+00:00",
-        "js_take": {
-          "en-US": "The leap from chatbot to system isn't just about files—it's about architecture. Most people stop at the toy stage because they never realize the workspace *is* the product. Structure isn't organization; it's intelligence.",
-          "zh-CN": "从聊天机器人到系统的跨越，不只是文件的问题——而是架构的问题。大多数人停在玩具阶段，因为他们从没意识到工作空间*就是*产品。结构不是整理，而是智能。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 154
+    "unique_authors": 153
   }
 }

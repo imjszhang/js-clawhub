@@ -1,5 +1,34 @@
 [
   {
+    "id": "2024900944589148615",
+    "date": "2026-02-21",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2024900944589148615",
+    "title": {
+      "en-US": "OpenClaw toys vs factories insight",
+      "zh-CN": "OpenClaw：从玩具到工厂"
+    },
+    "summary": {
+      "en-US": "OpenClaw工业化、系统设计、生产环境",
+      "zh-CN": "OpenClaw工业化实践、系统架构设计、生产环境部署"
+    },
+    "relevance": "OpenClaw工业化、系统设计、生产环境",
+    "score": 0.94,
+    "engagement": {
+      "likes": 36,
+      "replies": 2,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Systems over spectacle. When builders mature, toys become infrastructure.",
+    "synced_at": "2026-02-20T21:01:39.451803+00:00",
+    "js_take": {
+      "en-US": "Toys break. Factories scale. The 99% who quit never made the leap from demo to deployment—because demos are fun and systems are work. Industrial-grade means boring, reliable, and profitable.",
+      "zh-CN": "玩具会坏，工厂能扩。那99%放弃的人从未完成从演示到部署的跨越——因为演示有趣，系统才是工作。工业级意味着枯燥、可靠、盈利。"
+    }
+  },
+  {
     "id": "2024912304039677966",
     "date": "2026-02-21",
     "author": "@johann_sath",
@@ -116,6 +145,35 @@
     }
   },
   {
+    "id": "2024880549735592413",
+    "date": "2026-02-21",
+    "author": "@GanimCorey",
+    "author_url": "https://x.com/GanimCorey",
+    "tweet_url": "https://x.com/GanimCorey/status/2024880549735592413",
+    "title": {
+      "en-US": "OpenClaw config files setup",
+      "zh-CN": "OpenClaw四文件配置法"
+    },
+    "summary": {
+      "en-US": "OpenClaw配置、人格化、系统化设置",
+      "zh-CN": "OpenClaw系统化配置、Agent人格化设置、工作流架构"
+    },
+    "relevance": "OpenClaw配置、人格化、系统化设置",
+    "score": 0.9,
+    "engagement": {
+      "likes": 103,
+      "replies": 6,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Persona as architecture. When files define identity, behavior becomes predictable.",
+    "synced_at": "2026-02-20T21:01:39.451809+00:00",
+    "js_take": {
+      "en-US": "Four files, one employee. Most people configure their agents like chatbots—wondering why they get chatbot output. Structure isn't bureaucracy; it's clarity.",
+      "zh-CN": "四个文件，一个员工。大多数人把代理配置得像聊天机器人——然后疑惑为什么得到的是聊天机器人的输出。结构不是官僚，而是清晰。"
+    }
+  },
+  {
     "id": "2024895248615235708",
     "date": "2026-02-21",
     "author": "@GanimCorey",
@@ -228,6 +286,35 @@
     }
   },
   {
+    "id": "2024854317300433243",
+    "date": "2026-02-21",
+    "author": "@PrajwalTomar_",
+    "author_url": "https://x.com/PrajwalTomar_",
+    "tweet_url": "https://x.com/PrajwalTomar_/status/2024854317300433243",
+    "title": {
+      "en-US": "OpenClaw cost optimization",
+      "zh-CN": "OpenClaw成本优化指南"
+    },
+    "summary": {
+      "en-US": "OpenClaw成本优化、生产环境、配置技巧",
+      "zh-CN": "OpenClaw成本控制策略、生产环境配置技巧、可持续运营模式"
+    },
+    "relevance": "OpenClaw成本优化、生产环境、配置技巧",
+    "score": 0.86,
+    "engagement": {
+      "likes": 142,
+      "replies": 9,
+      "retweets": 13
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Cost as constraint. When burn rate drops, experimentation becomes sustainable.",
+    "synced_at": "2026-02-20T21:01:39.451812+00:00",
+    "js_take": {
+      "en-US": "$35/day is a barrier to experimentation. $50/month is a license to iterate. The difference between hobbyists and builders is sustainable burn rate.",
+      "zh-CN": "每天35美元是实验的障碍，每月50美元是迭代的许可证。爱好者和建造者的区别在于可持续的消耗率。"
+    }
+  },
+  {
     "id": "2024769540346065358",
     "date": "2026-02-21",
     "author": "@quanruzhuoxiu",
@@ -276,6 +363,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Monitoring as hygiene. When agents scale, visibility becomes critical.",
     "synced_at": "2026-02-20T19:02:04.804312+00:00"
+  },
+  {
+    "id": "2024799946231222686",
+    "date": "2026-02-21",
+    "author": "@iamzhihui",
+    "author_url": "https://x.com/iamzhihui",
+    "tweet_url": "https://x.com/iamzhihui/status/2024799946231222686",
+    "title": {
+      "en-US": "OpenClaw as your own boss",
+      "zh-CN": "志辉分享OpenClaw助你成为自己的老板，搭建自己的员工体系。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、个人Agent团队、数字员工",
+      "zh-CN": "展示OpenClaw作为数字员工系统的理念，体现AI时代的组织形态变革。"
+    },
+    "relevance": "OpenClaw、个人Agent团队、数字员工",
+    "score": 0.82,
+    "engagement": {
+      "likes": 57,
+      "replies": 1,
+      "retweets": 12
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Agency as leverage. When one human directs many agents, scale becomes personal.",
+    "synced_at": "2026-02-20T21:01:39.451815+00:00"
   },
   {
     "id": "2024483631067021348",
@@ -5521,118 +5633,6 @@
     "js_take": {
       "en-US": "Memory is just the perception layer. The real moat isn't remembering—it's the full loop: perceive, decide, execute, learn. Everything else is just storage.",
       "zh-CN": "Memory is just the perception layer. The real moat isn't remembering—it's the full loop: perceive, decide, execute, learn. Everything else is just storage."
-    }
-  },
-  {
-    "id": "2024090298817691845",
-    "date": "2026-02-18",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2024090298817691845",
-    "title": {
-      "en-US": "Christoph helps OpenClaw codebase not explode despite moving fast",
-      "zh-CN": "OpenClaw创始人Peter Steinberger称赞Christoph帮助代码库在快速迭代中保持稳定。"
-    },
-    "summary": {
-      "en-US": "OpenClaw开发、代码质量、基础设施",
-      "zh-CN": "来自OpenClaw创始人的内部视角，可从\"建系统\"回应——稳定的基础设施比新奇功能更重要。"
-    },
-    "relevance": "OpenClaw开发、代码质量、基础设施",
-    "score": 0.82,
-    "engagement": {
-      "likes": 53,
-      "replies": 6,
-      "retweets": 3
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Fast doesn't have to mean fragile. When you're building infrastructure that others depend on, stability is a feature—not a constraint. This is how systems scale.",
-    "synced_at": "2026-02-18T12:02:36.187062+00:00",
-    "js_take": {
-      "en-US": "Fast doesn't have to mean fragile. When you're building infrastructure others depend on, stability is a feature—not a constraint. This is how systems actually scale.",
-      "zh-CN": "Fast doesn't have to mean fragile. When you're building infrastructure others depend on, stability is a feature—not a constraint. This is how systems actually scale."
-    }
-  },
-  {
-    "id": "2023959686647521776",
-    "date": "2026-02-18",
-    "author": "@naiivememe",
-    "author_url": "https://x.com/naiivememe",
-    "tweet_url": "https://x.com/naiivememe/status/2023959686647521776",
-    "title": {
-      "en-US": "Bought a Mac Mini, now what?",
-      "zh-CN": "用户买了Mac Mini后发问\"现在该做什么\"，暗示准备开始OpenClaw之旅。"
-    },
-    "summary": {
-      "en-US": "OpenClaw入门、硬件准备、社区互动",
-      "zh-CN": "超高互动(538赞+311回复)的入门话题，适合分享经验——从硬件到Agent军队的起点。"
-    },
-    "relevance": "OpenClaw入门、硬件准备、社区互动",
-    "score": 0.82,
-    "engagement": {
-      "likes": 538,
-      "replies": 311,
-      "retweets": 18
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "The Mac Mini is the gateway drug to the inner world. Install OpenClaw, give it a goal, and watch it build an army while you sleep. The hard part isn't starting—it's deciding what to automate first.",
-    "synced_at": "2026-02-18T14:03:57.132052+00:00",
-    "js_take": {
-      "en-US": "The Mac Mini is the gateway drug to the inner world. Install OpenClaw, give it a goal, and watch it build an army while you sleep. The hard part isn't starting—it's deciding what to automate first.",
-      "zh-CN": "The Mac Mini is the gateway drug to the inner world. Install OpenClaw, give it a goal, and watch it build an army while you sleep. The hard part isn't starting—it's deciding what to automate first."
-    }
-  },
-  {
-    "id": "2023940063965728778",
-    "date": "2026-02-18",
-    "author": "@lijiuer92",
-    "author_url": "https://x.com/lijiuer92",
-    "tweet_url": "https://x.com/lijiuer92/status/2023940063965728778",
-    "title": {
-      "en-US": "Migrated OpenViding to OpenClaw, epro-memory package",
-      "zh-CN": "李韭二将OpenViding迁移到OpenClaw，开发了记忆插件@moltbot/epro-memory，一行命令即可安装。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、记忆系统、开发者贡献",
-      "zh-CN": "中文开发者实际贡献案例，体现生态建设，可从\"建系统\"核心洞察回应——单个工具是奇观，可组合的基础设施才是系统。"
-    },
-    "relevance": "OpenClaw生态、记忆系统、开发者贡献",
-    "score": 0.81,
-    "engagement": {
-      "likes": 44,
-      "replies": 8,
-      "retweets": 4
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Migration is the new integration. When tools move freely between platforms, the platform becomes infrastructure. This is how systems compound—one migration at a time.",
-    "synced_at": "2026-02-18T09:02:28.758580+00:00"
-  },
-  {
-    "id": "2024116863412609185",
-    "date": "2026-02-18",
-    "author": "@bc1beat",
-    "author_url": "https://x.com/bc1beat",
-    "tweet_url": "https://x.com/bc1beat/status/2024116863412609185",
-    "title": {
-      "en-US": "ClawRouter v0.9.29 update with 2.8K stars, MiniMax M2.5 added",
-      "zh-CN": "ClawRouter发布v0.9.29更新，获得2.8K Star，新增MiniMax M2.5模型支持（204K上下文，推理能力）。"
-    },
-    "summary": {
-      "en-US": "OpenClaw路由工具、模型接入、开源生态",
-      "zh-CN": "ClawRouter是OpenClaw生态关键基础设施，快速迭代展示社区活力，可从\"建系统\"角度回应。"
-    },
-    "relevance": "OpenClaw路由工具、模型接入、开源生态",
-    "score": 0.81,
-    "engagement": {
-      "likes": 10,
-      "replies": 3,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "17 releases in 3 days. When infrastructure moves this fast, you're not watching feature creep—you're watching the foundation settle. The model diversity matters more than any single model.",
-    "synced_at": "2026-02-18T15:01:42.253985+00:00",
-    "js_take": {
-      "en-US": "17 releases in 3 days. When infrastructure moves this fast, you're not watching feature creep—you're watching the foundation settle. The model diversity matters more than any single model.",
-      "zh-CN": "17 releases in 3 days. When infrastructure moves this fast, you're not watching feature creep—you're watching the foundation settle. The model diversity matters more than any single model."
     }
   }
 ]
