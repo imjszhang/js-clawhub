@@ -145,6 +145,35 @@
     }
   },
   {
+    "id": "2024583239331991830",
+    "date": "2026-02-20",
+    "author": "@evilsocket",
+    "author_url": "https://x.com/evilsocket",
+    "tweet_url": "https://x.com/evilsocket/status/2024583239331991830",
+    "title": {
+      "en-US": "1,184 malicious skills on ClawHub",
+      "zh-CN": "ClawHub发现1184个恶意技能"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全、市场信任、代码即风险",
+      "zh-CN": "OpenClaw 安全、市场信任、代码即风险"
+    },
+    "relevance": "OpenClaw安全、市场信任、代码即风险",
+    "score": 0.92,
+    "engagement": {
+      "likes": 75,
+      "replies": 4,
+      "retweets": 19
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Text as code, code as power. When markdown files can execute arbitrary commands, isolation becomes non-negotiable.",
+    "synced_at": "2026-02-20T07:01:53.341421+00:00",
+    "js_take": {
+      "en-US": "Text as code, code as power. When markdown files can execute arbitrary commands, isolation becomes non-negotiable.",
+      "zh-CN": "文本即代码，代码即权力。当Markdown文件可以执行任意命令时，隔离变得不可妥协。"
+    }
+  },
+  {
     "id": "2024454576867324288",
     "date": "2026-02-20",
     "author": "@mubeitech",
@@ -522,6 +551,35 @@
     }
   },
   {
+    "id": "2024527358611390678",
+    "date": "2026-02-20",
+    "author": "@Chilearmy123",
+    "author_url": "https://x.com/Chilearmy123",
+    "tweet_url": "https://x.com/Chilearmy123/status/2024527358611390678",
+    "title": {
+      "en-US": "OpenClaw running costs shock",
+      "zh-CN": "OpenClaw运行成本震惊用户"
+    },
+    "summary": {
+      "en-US": "OpenClaw成本、使用门槛、优化策略",
+      "zh-CN": "OpenClaw 成本、使用门槛、优化策略"
+    },
+    "relevance": "OpenClaw成本、使用门槛、优化策略",
+    "score": 0.88,
+    "engagement": {
+      "likes": 818,
+      "replies": 142,
+      "retweets": 60
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Cost as the reality check. When the novelty fades, optimization separates hobbyists from practitioners.",
+    "synced_at": "2026-02-20T07:01:53.341427+00:00",
+    "js_take": {
+      "en-US": "Cost as the reality check. When the novelty fades, optimization separates hobbyists from practitioners.",
+      "zh-CN": "成本即现实检验。当新鲜感褪去，优化将爱好者与实践者区分开来。"
+    }
+  },
+  {
     "id": "2024452494244352170",
     "date": "2026-02-20",
     "author": "@andreasklinger",
@@ -809,6 +867,35 @@
     "js_take": {
       "en-US": "Configuration as code, management as craft. When tools tame complexity, adoption follows.",
       "zh-CN": "配置即代码，管理即手艺。当工具驯服复杂性时，采用自然发生。"
+    }
+  },
+  {
+    "id": "2024714396384317878",
+    "date": "2026-02-20",
+    "author": "@canghe",
+    "author_url": "https://x.com/canghe",
+    "tweet_url": "https://x.com/canghe/status/2024714396384317878",
+    "title": {
+      "en-US": "EvoMap OpenClaw infrastructure",
+      "zh-CN": "苍何介绍EvoMap AI基础设施产品，解决Agent配置环境和重复Bug问题，一行代码部署。"
+    },
+    "summary": {
+      "en-US": "OpenClaw基础设施、开发环境、生态系统",
+      "zh-CN": "高收藏(58)展示对OpenClaw基础设施工具的需求，体现从手动配置到系统化基建的演进。"
+    },
+    "relevance": "OpenClaw基础设施、开发环境、生态系统",
+    "score": 0.84,
+    "engagement": {
+      "likes": 45,
+      "replies": 10,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Infrastructure as memory. When environments persist across agents, repetition becomes automation.",
+    "synced_at": "2026-02-20T07:01:53.341430+00:00",
+    "js_take": {
+      "en-US": "Infrastructure as memory. When environments persist across agents, repetition becomes automation.",
+      "zh-CN": "基础设施即记忆。当环境跨Agent持久化时，重复变成自动化。"
     }
   },
   {
@@ -1458,6 +1545,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "Tools that capture attention shape behavior. When setup becomes play, adoption becomes inevitable.",
     "synced_at": "2026-02-20T06:03:57.699042+00:00"
+  },
+  {
+    "id": "2024540568114585923",
+    "date": "2026-02-20",
+    "author": "@DavidOndrej1",
+    "author_url": "https://x.com/DavidOndrej1",
+    "tweet_url": "https://x.com/DavidOndrej1/status/2024540568114585923",
+    "title": {
+      "en-US": "OpenClaw pro tip",
+      "zh-CN": "David分享OpenClaw专业技巧（仅链接），高收藏显示实用价值。"
+    },
+    "summary": {
+      "en-US": "OpenClaw技巧、最佳实践",
+      "zh-CN": "极高收藏(343)展示对OpenClaw实用技巧的强需求，体现社区对效率优化的追求。"
+    },
+    "relevance": "OpenClaw技巧、最佳实践",
+    "score": 0.76,
+    "engagement": {
+      "likes": 477,
+      "replies": 44,
+      "retweets": 12
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Tips as interface refinement. When small optimizations compound, workflow becomes seamless.",
+    "synced_at": "2026-02-20T07:01:53.341432+00:00"
   },
   {
     "id": "2024519430097818058",
@@ -5466,111 +5578,5 @@
     "comment_type": "share_experience",
     "suggested_angle": "The AI army isn't science fiction anymore. When you have 8 agents reporting to you before you wake, you're not automating—you're orchestrating a workforce.",
     "synced_at": "2026-02-18T10:02:51.023405+00:00"
-  },
-  {
-    "id": "2024077466281648294",
-    "date": "2026-02-18",
-    "author": "@bozhou_ai",
-    "author_url": "https://x.com/bozhou_ai",
-    "tweet_url": "https://x.com/bozhou_ai/status/2024077466281648294",
-    "title": {
-      "en-US": "Don't know what to do with OpenClaw? Check this out",
-      "zh-CN": "泊舟分享OpenClaw用例汇总，针对不知道用OpenClaw来干嘛的用户。"
-    },
-    "summary": {
-      "en-US": "OpenClaw用例、入门指南、社区资源",
-      "zh-CN": "中文视角的OpenClaw用例汇总，适合分享跨领域连接思维——从工具到系统的跃迁。"
-    },
-    "relevance": "OpenClaw用例、入门指南、社区资源",
-    "score": 0.76,
-    "engagement": {
-      "likes": 97,
-      "replies": 14,
-      "retweets": 1
-    },
-    "comment_type": "recommend_resource",
-    "suggested_angle": "The gap between 'installed' and 'productive' is where most people get stuck. Use cases are the bridge—find one that hurts enough to automate, then build from there.",
-    "synced_at": "2026-02-18T14:03:57.132062+00:00"
-  },
-  {
-    "id": "2023717327834161281",
-    "date": "2026-02-18",
-    "author": "@chuhaiqu",
-    "author_url": "https://x.com/chuhaiqu",
-    "tweet_url": "https://x.com/chuhaiqu/status/2023717327834161281",
-    "title": {
-      "en-US": "折腾OpenClaw的爽感像当年第一次用GPT-3。我们把AI当浏览器标签页，用完就关；OpenClaw把'大脑'接在Claude上，是反向逻辑。",
-      "zh-CN": "分享第一次使用OpenClaw的体验：爽感像当年第一次用GPT-3，把AI从浏览器标签页变成了持续连接的'大脑'。"
-    },
-    "summary": {
-      "en-US": "OpenClaw体验、表/里世界",
-      "zh-CN": "中文创作者，正好可用'表/里世界迁徙'框架回应其'大脑'隐喻"
-    },
-    "relevance": "OpenClaw体验、表/里世界",
-    "score": 0.75,
-    "engagement": {
-      "likes": 38,
-      "replies": 2,
-      "retweets": 8,
-      "views": 6754,
-      "bookmarks": 33
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同并延伸：你说得对——这不是工具升级，是存在方式迁移；表世界（浏览器）退化为数据库，里世界（Agent）成为新交互层",
-    "synced_at": "2026-02-17T17:04:17.141060+00:00"
-  },
-  {
-    "id": "2023797266826621372",
-    "date": "2026-02-18",
-    "author": "@tetsuoai",
-    "author_url": "https://x.com/tetsuoai",
-    "tweet_url": "https://x.com/tetsuoai/status/2023797266826621372",
-    "title": {
-      "en-US": "Grok 4.20 agents built an artificial life simulator in one HTML file. Mind blown.",
-      "zh-CN": "用Grok 4.20的四个agent在单个HTML文件里构建了人工生命模拟器，效果震撼。"
-    },
-    "summary": {
-      "en-US": "多Agent协作、Grok 4.20",
-      "zh-CN": "可对比OpenClaw与Grok的多Agent架构，体现技术判断力"
-    },
-    "relevance": "多Agent协作、Grok 4.20",
-    "score": 0.75,
-    "engagement": {
-      "likes": 168,
-      "replies": 21,
-      "retweets": 23,
-      "views": 8034,
-      "bookmarks": 46
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "认同技术趋势但指出：多Agent辩论是表，'势'的判断是里；OpenClaw的本地闭环才是真正的进化方向",
-    "synced_at": "2026-02-17T18:01:51.020798+00:00"
-  },
-  {
-    "id": "2023828631793909855",
-    "date": "2026-02-18",
-    "author": "@nummanali",
-    "author_url": "https://x.com/nummanali",
-    "tweet_url": "https://x.com/nummanali/status/2023828631793909855",
-    "title": {
-      "en-US": "Access 1M context Sonnet 4.6 and set default in Claude Code. Configuration guide provided.",
-      "zh-CN": "如何在Claude Code中访问1M上下文的Sonnet 4.6并设置为默认模型，提供了配置指南。"
-    },
-    "summary": {
-      "en-US": "Claude Code配置、Sonnet 4.6",
-      "zh-CN": "实用技术教程，高收藏量，可分享OpenClaw模型切换经验"
-    },
-    "relevance": "Claude Code配置、Sonnet 4.6",
-    "score": 0.75,
-    "engagement": {
-      "likes": 191,
-      "replies": 9,
-      "retweets": 7,
-      "views": 15749,
-      "bookmarks": 226
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同配置价值并分享：多模型路由是OpenClaw的精髓——不同任务配不同模型，'各司其职'才是系统思维",
-    "synced_at": "2026-02-17T20:01:45.607563+00:00"
   }
 ]
