@@ -779,6 +779,35 @@
     }
   },
   {
+    "id": "2025092468820377879",
+    "date": "2026-02-21",
+    "author": "@anemll",
+    "author_url": "https://x.com/anemll",
+    "tweet_url": "https://x.com/anemll/status/2025092468820377879",
+    "title": {
+      "en-US": "OpenClaw ported to iOS, tvOS, VisionOS - no server needed",
+      "zh-CN": "OpenClaw 移植至 iOS/tvOS/VisionOS，无需服务器"
+    },
+    "summary": {
+      "en-US": "OpenClaw 移动化 + 本地部署 + 空间计算",
+      "zh-CN": "OpenClaw 移动端部署：本地运行 + 空间计算支持"
+    },
+    "relevance": "OpenClaw 移动化 + 本地部署 + 空间计算",
+    "score": 0.85,
+    "engagement": {
+      "likes": 17,
+      "retweets": 2,
+      "replies": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Agent 正在从桌面走向无处不在，这是表/里世界迁徙的移动端体现",
+    "synced_at": "2026-02-21T09:02:02.083358+00:00",
+    "js_take": {
+      "en-US": "The migration is mobile. The surface world (desktop apps) is becoming device-agnostic; the inner world (agents) follows you everywhere. Your agent doesn't care if it's on a Mac, iPhone, or Vision Pro—it just runs.",
+      "zh-CN": "迁徙正在移动化。表世界（桌面应用）正在变得与设备无关；里世界（Agent）跟随你到任何地方。你的 Agent 不在乎它在 Mac、iPhone 还是 Vision Pro 上——它只管运行。"
+    }
+  },
+  {
     "id": "2024769540346065358",
     "date": "2026-02-21",
     "author": "@quanruzhuoxiu",
@@ -1071,6 +1100,35 @@
     "js_take": {
       "en-US": "Exactly. The Taoist way: don't force uniform capability, let the flow decide. Cheap assistants for routine, expensive experts for edge cases, contractors for spikes. The system self-organizes.",
       "zh-CN": "正是如此。信道之道：不争之争，顺势而为。常规事务用廉价助理，边缘难题用昂贵专家，突发高峰用外包团队，系统自然生长，无为而治。"
+    }
+  },
+  {
+    "id": "2025115406822727939",
+    "date": "2026-02-21",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2025115406822727939",
+    "title": {
+      "en-US": "OpenClaw hype dying - reality check on cost, hassle, risk",
+      "zh-CN": "OpenClaw 炒作正在消退，现实检查：成本、麻烦、风险"
+    },
+    "summary": {
+      "en-US": "OpenClaw 反思 + 冷思考 + 中文KOL",
+      "zh-CN": "理性的OpenClaw使用反思，可补充系统建设的长期视角"
+    },
+    "relevance": "OpenClaw 反思 + 冷思考 + 中文KOL",
+    "score": 0.8,
+    "engagement": {
+      "likes": 8,
+      "retweets": 1,
+      "replies": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "不争之争：热度退潮时，真正的系统建设者才会留下，建系统而非追奇观",
+    "synced_at": "2026-02-21T09:02:02.083363+00:00",
+    "js_take": {
+      "en-US": "Hype cycles reveal who was building systems and who was chasing spectacles. The ones left when the noise dies are the ones who understood: momentum beats excitement, systems beat features.",
+      "zh-CN": "炒作周期会揭穿谁是建系统的，谁是追奇观的。当喧嚣散去，留下的那些人都懂得一个道理：势胜于热闹，系统胜于功能。"
     }
   },
   {
@@ -5491,66 +5549,6 @@
     "js_take": {
       "en-US": "Jarvis on a Pi. When you can run the full stack locally—perception, reasoning, execution—you're not just using AI, you're hosting intelligence. This is the infrastructure of the inner world.",
       "zh-CN": "Jarvis on a Pi. When you can run the full stack locally—perception, reasoning, execution—you're not just using AI, you're hosting intelligence. This is the infrastructure of the inner world."
-    }
-  },
-  {
-    "id": "2023762266450251794",
-    "date": "2026-02-18",
-    "author": "@Jacobsklug",
-    "author_url": "https://x.com/Jacobsklug",
-    "tweet_url": "https://x.com/Jacobsklug/status/2023762266450251794",
-    "title": {
-      "en-US": "Built my own AI on Mac with upgraded OpenClaw in ~20 mins. Can talk, complete tasks, respond to emails without touching keyboard.",
-      "zh-CN": "用升级后的OpenClaw在20分钟内在Mac上搭建了自己的AI，可以说话、完成任务、回复邮件，无需触摸键盘。"
-    },
-    "summary": {
-      "en-US": "OpenClaw快速部署、个人AI助手落地",
-      "zh-CN": "实际部署案例展示OpenClaw的便捷性，可从Jarvis定律验证角度切入"
-    },
-    "relevance": "OpenClaw快速部署、个人AI助手落地",
-    "score": 0.88,
-    "engagement": {
-      "likes": 13,
-      "replies": 2,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "20分钟搭建是表世界的速度，里世界的价值在于它能7×24小时自主运行——这才是Jarvis定律的验证",
-    "synced_at": "2026-02-17T16:03:49.447229+00:00",
-    "js_take": {
-      "en-US": "20 minutes to build is surface world speed. The real value is 24/7 autonomous operation—that's the Jarvis Law validation.",
-      "zh-CN": "20 minutes to build is surface world speed. The real value is 24/7 autonomous operation—that's the Jarvis Law validation."
-    }
-  },
-  {
-    "id": "2023574546511786299",
-    "date": "2026-02-18",
-    "author": "@harjotsgill",
-    "author_url": "https://x.com/harjotsgill",
-    "tweet_url": "https://x.com/harjotsgill/status/2023574546511786299",
-    "title": {
-      "en-US": "OpenClaw worked because of local integrations. Claude Code CLI succeeded for same reason. Cloud agents haven't been as effective.",
-      "zh-CN": "分析OpenClaw成功原因：本地集成能力；Claude Code CLI同理成功，而云端agent效果不佳。"
-    },
-    "summary": {
-      "en-US": "OpenClaw核心优势、表/里世界框架",
-      "zh-CN": "可用'表/里世界迁徙'框架回应——本地Agent是里世界的核心特征，云端agent只是过渡形态"
-    },
-    "relevance": "OpenClaw核心优势、表/里世界框架",
-    "score": 0.88,
-    "engagement": {
-      "likes": 265,
-      "replies": 31,
-      "retweets": 23,
-      "views": 47455,
-      "bookmarks": 223
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "从表/里世界框架解释为什么本地集成是Agent进化的必然方向，Jarvis定律：感知+决策+执行必须在本地闭环",
-    "synced_at": "2026-02-17T17:04:17.141049+00:00",
-    "js_take": {
-      "en-US": "This is the shift from surface to inner web.\n\nCloud agents call APIs — they're still browsing. Local agents *live* in your environment. Perception, decision, execution — the Jarvis loop closes locally.\n\nThat's why OpenClaw feels different. It moved into the inner world.",
-      "zh-CN": "This is the shift from surface to inner web.\n\nCloud agents call APIs — they're still browsing. Local agents *live* in your environment. Perception, decision, execution — the Jarvis loop closes locally.\n\nThat's why OpenClaw feels different. It moved into the inner world."
     }
   }
 ]
