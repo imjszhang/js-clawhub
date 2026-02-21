@@ -228,6 +228,35 @@
     }
   },
   {
+    "id": "2025315019622416883",
+    "date": "2026-02-22",
+    "author": "@kloss_xyz",
+    "author_url": "https://x.com/kloss_xyz",
+    "tweet_url": "https://x.com/kloss_xyz/status/2025315019622416883",
+    "title": {
+      "en-US": "OpenClaw needs pressure not tasks, 25 prompts to audit your mind",
+      "zh-CN": "OpenClaw需要压力而非任务：25个提示词审计思维"
+    },
+    "summary": {
+      "en-US": "OpenClaw深度使用 + 自我审计 + 系统思维",
+      "zh-CN": "OpenClaw深度使用、自我审计与系统思维"
+    },
+    "relevance": "OpenClaw深度使用 + 自我审计 + 系统思维",
+    "score": 0.86,
+    "engagement": {
+      "likes": 66,
+      "replies": 6,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Agent审计思维不是自恋是进化——里世界的Agent应该像镜子一样反射你的认知盲区",
+    "synced_at": "2026-02-21T23:01:34.003739+00:00",
+    "js_take": {
+      "en-US": "Auditing your mind with an Agent isn't narcissism—it's evolution. Agents in the inner world should act like mirrors, reflecting your cognitive blind spots. Pressure creates diamonds.",
+      "zh-CN": "用Agent审计你的思维不是自恋，是进化。里世界的Agent应该像镜子一样，反射你的认知盲区。压力造就钻石。"
+    }
+  },
+  {
     "id": "2025296354751418874",
     "date": "2026-02-22",
     "author": "@JulianGoldieSEO",
@@ -311,6 +340,35 @@
     }
   },
   {
+    "id": "2025338160075735471",
+    "date": "2026-02-22",
+    "author": "@jessegenet",
+    "author_url": "https://x.com/jessegenet",
+    "tweet_url": "https://x.com/jessegenet/status/2025338160075735471",
+    "title": {
+      "en-US": "OpenClaw fully using Amazon, life will never be the same",
+      "zh-CN": "OpenClaw完全接入Amazon，生活将彻底改变——Agent开始掌控物理世界购物"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 电商 + 物理世界执行",
+      "zh-CN": "展示Agent从数字到物理的跨越，Jarvis定律关键一步——执行层突破"
+    },
+    "relevance": "OpenClaw + 电商 + 物理世界执行",
+    "score": 0.84,
+    "engagement": {
+      "likes": 75,
+      "replies": 8,
+      "retweets": 4
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "Amazon接入不是便利是质变——里世界的Agent开始触碰物理世界，这是Jarvis时刻",
+    "synced_at": "2026-02-21T23:01:34.003745+00:00",
+    "js_take": {
+      "en-US": "Amazon integration isn't convenience—it's a qualitative shift. Agents in the inner world are touching the physical world. That's the Jarvis moment.",
+      "zh-CN": "Amazon接入不是便利，是质变。里世界的Agent正在触碰物理世界。这就是Jarvis时刻。"
+    }
+  },
+  {
     "id": "2025267524984783356",
     "date": "2026-02-22",
     "author": "@VibeMarketer_",
@@ -366,6 +424,31 @@
     "js_take": {
       "en-US": "Ten providers isn't redundancy—it's resilience. Search in the inner world needs to break through single information sources. That's cognitive diversity.",
       "zh-CN": "十个提供商不是冗余，是韧性。里世界的搜索需要突破单一信息源。这就是认知的多样性。"
+    }
+  },
+  {
+    "id": "2025280441888960620",
+    "date": "2026-02-22",
+    "author": "@onusoz",
+    "author_url": "https://x.com/onusoz",
+    "tweet_url": "https://x.com/onusoz/status/2025280441888960620",
+    "title": {
+      "en-US": "OpenClaw Discord thread subagents, ACP to talk to Codex/Claude Code",
+      "zh-CN": "OpenClaw支持Discord线程子代理，即将支持ACP协议与Codex、Claude Code通信"
+    },
+    "summary": {
+      "en-US": "OpenClaw多Agent + ACP协议 + 跨平台协作",
+      "zh-CN": "展示Agent间通信协议，里世界的基础设施建设——协议让Agent能对话"
+    },
+    "relevance": "OpenClaw多Agent + ACP协议 + 跨平台协作",
+    "score": 0.82,
+    "engagement": {},
+    "comment_type": "add_insight",
+    "suggested_angle": "ACP协议不是功能是基建——里世界的Agent需要共同语言，协议就是语法",
+    "synced_at": "2026-02-21T23:01:34.003747+00:00",
+    "js_take": {
+      "en-US": "ACP isn't a feature—it's infrastructure. Agents in the inner world need a common language. Protocols are the grammar of collaboration.",
+      "zh-CN": "ACP不是功能，是基础设施。里世界的Agent需要共同语言。协议就是协作的语法。"
     }
   },
   {
@@ -531,6 +614,27 @@
     "synced_at": "2026-02-21T20:03:36.307524+00:00"
   },
   {
+    "id": "2025246052970909987",
+    "date": "2026-02-22",
+    "author": "@bradmillscan",
+    "author_url": "https://x.com/bradmillscan",
+    "tweet_url": "https://x.com/bradmillscan/status/2025246052970909987",
+    "title": {
+      "en-US": "Day 12 OpenClaw, tired of amnesia debug posts",
+      "zh-CN": "使用OpenClaw第12天，厌倦了看到失忆调试帖子就让你加更多数据到bootstrap文件"
+    },
+    "summary": {
+      "en-US": "OpenClaw调试 + 社区痛点 + 真实体验",
+      "zh-CN": "真实用户吐槽，体现调试的复杂性——里世界的Agent需要耐心培养"
+    },
+    "relevance": "OpenClaw调试 + 社区痛点 + 真实体验",
+    "score": 0.78,
+    "engagement": {},
+    "comment_type": "share_experience",
+    "suggested_angle": "调试不是bug是过程——里世界的Agent像孩子，需要迭代不是开关",
+    "synced_at": "2026-02-21T23:01:34.003749+00:00"
+  },
+  {
     "id": "2025277906704892361",
     "date": "2026-02-22",
     "author": "@witcheer",
@@ -556,6 +660,27 @@
     "synced_at": "2026-02-21T21:02:31.073799+00:00"
   },
   {
+    "id": "2025107510563409921",
+    "date": "2026-02-22",
+    "author": "@yadong_xie",
+    "author_url": "https://x.com/yadong_xie",
+    "tweet_url": "https://x.com/yadong_xie/status/2025107510563409921",
+    "title": {
+      "en-US": "OpenClaw architecture: node, device, channel for smart home network",
+      "zh-CN": "OpenClaw架构洞察：node（Agent可操作设备）、device（能访问Agent的设备）、channel（Agent消息）组网方案，适合家庭智慧网络"
+    },
+    "summary": {
+      "en-US": "OpenClaw架构 + 智能家居 + 中文KOL",
+      "zh-CN": "深度架构分析，体现系统思维——清晰边界是复杂系统的基础"
+    },
+    "relevance": "OpenClaw架构 + 智能家居 + 中文KOL",
+    "score": 0.76,
+    "engagement": {},
+    "comment_type": "add_insight",
+    "suggested_angle": "node-device-channel不是分类是哲学——里世界的Agent需要清晰的边界才能协作，这是道的体现",
+    "synced_at": "2026-02-21T23:01:34.003751+00:00"
+  },
+  {
     "id": "2025219802332041514",
     "date": "2026-02-22",
     "author": "@Chilearmy123",
@@ -579,6 +704,27 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "Ruined不是毁灭是重塑——里世界的生产力让人回不去表世界的工作方式",
     "synced_at": "2026-02-21T20:03:36.307527+00:00"
+  },
+  {
+    "id": "2025275817648103593",
+    "date": "2026-02-22",
+    "author": "@JulianGoldieSEO",
+    "author_url": "https://x.com/JulianGoldieSEO",
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/2025275817648103593",
+    "title": {
+      "en-US": "Qwen 3.5 + OpenClaw + Ollama free local stack",
+      "zh-CN": "免费本地运行Qwen 3.5 + OpenClaw + Ollama，无订阅，只需本地Agent栈"
+    },
+    "summary": {
+      "en-US": "OpenClaw本地部署 + 免费方案 + 开源模型",
+      "zh-CN": "降低门槛的技术分享，体现势——本地化是里世界的自主之路"
+    },
+    "relevance": "OpenClaw本地部署 + 免费方案 + 开源模型",
+    "score": 0.74,
+    "engagement": {},
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "本地运行不是省钱是主权——里世界的Agent应该在本地生存，而不是云端租赁",
+    "synced_at": "2026-02-21T23:01:34.003752+00:00"
   },
   {
     "id": "2025215948840731010",
@@ -729,6 +875,27 @@
     "comment_type": "add_insight",
     "suggested_angle": "本地+云端不是妥协是分层——敏感数据在里世界，自动化在云端，Email是表/里世界的虫洞",
     "synced_at": "2026-02-21T18:01:54.196041+00:00"
+  },
+  {
+    "id": "2025176177992704430",
+    "date": "2026-02-22",
+    "author": "@FitzGPT",
+    "author_url": "https://x.com/FitzGPT",
+    "tweet_url": "https://x.com/FitzGPT/status/2025176177992704430",
+    "title": {
+      "en-US": "3000+ OpenClaw skills, 30+ categories",
+      "zh-CN": "3000+ OpenClaw skill，30+分类，Skill天堂"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + Skill市场 + 社区贡献",
+      "zh-CN": "展示生态繁荣，体现系统生长——Skill是里世界的能力单元"
+    },
+    "relevance": "OpenClaw生态 + Skill市场 + 社区贡献",
+    "score": 0.7,
+    "engagement": {},
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "3000 skill不是数量是生态——里世界的能力网络正在形成，这是复利效应",
+    "synced_at": "2026-02-21T23:01:34.003754+00:00"
   },
   {
     "id": "2024900944589148615",
@@ -5334,209 +5501,6 @@
     "js_take": {
       "en-US": "Skills as the new API documentation. When the community crowdsources best practices, everyone ships faster. This is infrastructure building in public.",
       "zh-CN": "Skill正在成为新的API文档。当社区众包最佳实践时，每个人都能更快交付。这就是公开建设基础设施。"
-    }
-  },
-  {
-    "id": "2024173517395177683",
-    "date": "2026-02-19",
-    "author": "@NaveenSpark",
-    "author_url": "https://x.com/NaveenSpark",
-    "tweet_url": "https://x.com/NaveenSpark/status/2024173517395177683",
-    "title": {
-      "en-US": "Clawzempic: Cut OpenClaw costs from $3k to $300/month",
-      "zh-CN": "Naveen推出Clawzempic，将OpenClaw推理成本从每月3000美元降至300美元，用量和模型相同。"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本优化、Token效率、实用工具",
-      "zh-CN": "展示10倍成本优化的实用方案，高收藏(199)体现社区对性价比方案的需求。"
-    },
-    "relevance": "OpenClaw成本优化、Token效率、实用工具",
-    "score": 0.85,
-    "engagement": {
-      "likes": 142,
-      "replies": 20,
-      "retweets": 20
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "10× cost reduction without compromising capability. When efficiency becomes this accessible, the barrier to running agent fleets collapses.",
-    "synced_at": "2026-02-19T02:01:32.806741+00:00",
-    "js_take": {
-      "en-US": "10× cost reduction changes the economics entirely. At $3k/month you're running experiments. At $300/month you're running infrastructure. That's the difference between a toy and a system.",
-      "zh-CN": "10× cost reduction changes the economics entirely. At $3k/month you're running experiments. At $300/month you're running infrastructure. That's the difference between a toy and a system."
-    }
-  },
-  {
-    "id": "2024284044817813611",
-    "date": "2026-02-19",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2024284044817813611",
-    "title": {
-      "en-US": "OpenClaw inside Blender = game over for manual work",
-      "zh-CN": "OpenClaw 深度集成 Blender：3D 工作流自动化的终极形态"
-    },
-    "summary": {
-      "en-US": "OpenClaw、Blender、3D工作流自动化",
-      "zh-CN": "OpenClaw、Blender 深度集成、3D 工作流自动化实践"
-    },
-    "relevance": "OpenClaw、Blender、3D工作流自动化",
-    "score": 0.85,
-    "engagement": {
-      "likes": 145,
-      "replies": 18,
-      "retweets": 7
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "When the agent speaks the language of the tool, the barrier between ideation and execution collapses. This is Jarvis Law in action—perceive, decide, execute.",
-    "synced_at": "2026-02-19T03:01:59.723410+00:00",
-    "js_take": {
-      "en-US": "When the agent speaks the language of the tool, ideation becomes execution in one breath. No more exporting, importing, context-switching. This is the gap collapsing—imagination to artifact, instant.",
-      "zh-CN": "当 Agent 能直接\"说\"工具的语言，构思和执行之间再无隔阂。不需要导出、导入、切换上下文。这就是鸿沟的崩塌——从想象到成品，瞬间完成。"
-    }
-  },
-  {
-    "id": "2024121419035021817",
-    "date": "2026-02-19",
-    "author": "@jedisct1",
-    "author_url": "https://x.com/jedisct1",
-    "tweet_url": "https://x.com/jedisct1/status/2024121419035021817",
-    "title": {
-      "en-US": "Nullclaw: Fastest OpenClaw clone, 678KB static binary",
-      "zh-CN": "Nullclaw发布——最小、最快的OpenClaw克隆，仅678KB静态二进制文件，无运行时、无VM。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、替代实现、性能优化",
-      "zh-CN": "展示OpenClaw生态分化趋势，可从\"势\"的角度回应——基础设施轻量化是Agent普及的必然方向。"
-    },
-    "relevance": "OpenClaw生态、替代实现、性能优化",
-    "score": 0.84,
-    "engagement": {
-      "likes": 108,
-      "replies": 3,
-      "retweets": 7
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "678KB vs the full stack. When the agent runtime gets smaller than a JPEG, you're watching infrastructure become invisible. The future isn't heavy frameworks—it's zero-overhead agents everywhere.",
-    "synced_at": "2026-02-18T16:02:12.703586+00:00",
-    "js_take": {
-      "en-US": "678KB vs the full stack. When the agent runtime gets smaller than a JPEG, you're watching infrastructure become invisible. The future isn't heavy frameworks—it's zero-overhead agents everywhere.",
-      "zh-CN": "678KB对比完整技术栈。当Agent运行时比一张JPEG还小时，基础设施正在隐形化。未来不是笨重框架，而是无处不在的零开销Agent。"
-    }
-  },
-  {
-    "id": "2024189802673750400",
-    "date": "2026-02-19",
-    "author": "@Austen",
-    "author_url": "https://x.com/Austen",
-    "tweet_url": "https://x.com/Austen/status/2024189802673750400",
-    "title": {
-      "en-US": "OpenClaw Deck: Multi-column session manager with subagents",
-      "zh-CN": "Austen发布OpenClaw Deck工具，支持多列会话管理、子Agent生成、标签切换，支持Markdown、代码高亮、图片等功能。"
-    },
-    "summary": {
-      "en-US": "OpenClaw工具、UI创新、生产力工具",
-      "zh-CN": "高收藏(383)展示OpenClaw生态的UI层创新，体现\"里世界\"基础设施的完善。"
-    },
-    "relevance": "OpenClaw工具、UI创新、生产力工具",
-    "score": 0.84,
-    "engagement": {
-      "likes": 242,
-      "replies": 26,
-      "retweets": 14
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Multi-column, subagents, seamless switching—this is the IDE for the agent era. When the interface disappears, workflow becomes natural.",
-    "synced_at": "2026-02-18T21:01:40.328956+00:00",
-    "js_take": {
-      "en-US": "Multi-column, subagents, seamless switching—this is the IDE for the agent era. When the interface disappears, workflow becomes natural.",
-      "zh-CN": "多列布局、子Agent、无缝切换——这是Agent时代的IDE。当界面隐入背景，工作流就变得自然。"
-    }
-  },
-  {
-    "id": "2024143042882445708",
-    "date": "2026-02-19",
-    "author": "@jordymaui",
-    "author_url": "https://x.com/jordymaui",
-    "tweet_url": "https://x.com/jordymaui/status/2024143042882445708",
-    "title": {
-      "en-US": "OpenClaw setup is step one, knowing how to use it is the learning curve",
-      "zh-CN": "Jordy分享300万阅读文章后的感悟：配置OpenClaw只是第一步，真正知道如何正确使用才是学习曲线。"
-    },
-    "summary": {
-      "en-US": "OpenClaw学习曲线、最佳实践、从玩具到工具",
-      "zh-CN": "高收藏(397)展示用户从\"跑起来\"到\"用好\"的认知跃迁，体现\"不造奇观，建系统\"。"
-    },
-    "relevance": "OpenClaw学习曲线、最佳实践、从玩具到工具",
-    "score": 0.84,
-    "engagement": {
-      "likes": 216,
-      "replies": 17,
-      "retweets": 11
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Setup is the tutorial, usage is the game. When the novelty wears off, the real work of building systems begins. That's where the leverage is.",
-    "synced_at": "2026-02-19T02:01:32.806728+00:00",
-    "js_take": {
-      "en-US": "This hits hard. Everyone wants the dopamine hit of \"it's running!\" but the real work starts when you have to make it reliable, scoped, and actually useful. That's the gap between demo and production.",
-      "zh-CN": "This hits hard. Everyone wants the dopamine hit of \"it's running!\" but the real work starts when you have to make it reliable, scoped, and actually useful. That's the gap between demo and production."
-    }
-  },
-  {
-    "id": "2024371242124620228",
-    "date": "2026-02-19",
-    "author": "@yvbbrjdr",
-    "author_url": "https://x.com/yvbbrjdr",
-    "tweet_url": "https://x.com/yvbbrjdr/status/2024371242124620228",
-    "title": {
-      "en-US": "OpenClaw GitHub stars mostly fake, bot pattern",
-      "zh-CN": "yv分析OpenClaw爆火期间GitHub仓库每小时新增星星数量，发现大部分是机器人刷的，20万星中大部分是假的。"
-    },
-    "summary": {
-      "en-US": "OpenClaw数据真实性、GitHub stars、社区分析",
-      "zh-CN": "触及开源项目数据真实性问题，体现\"不造奇观，建系统\"的反面思考——虚荣指标可能是负债。"
-    },
-    "relevance": "OpenClaw数据真实性、GitHub stars、社区分析",
-    "score": 0.84,
-    "engagement": {
-      "likes": 67,
-      "replies": 10,
-      "retweets": 10
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "When metrics become the game, metrics get gamed. Real adoption doesn't need vanity numbers—it needs working systems in production.",
-    "synced_at": "2026-02-19T10:07:52.955557+00:00",
-    "js_take": {
-      "en-US": "When stars become the game, bots become the players. Real adoption isn't measured in vanity metrics—it's measured in working systems handling real workloads.",
-      "zh-CN": "星标一旦成为游戏，机器人就成了玩家。真正的采用不看虚荣数字，而是看实打实跑在生产环境的系统。"
-    }
-  },
-  {
-    "id": "2024309186633318592",
-    "date": "2026-02-19",
-    "author": "@championswimmer",
-    "author_url": "https://x.com/championswimmer",
-    "tweet_url": "https://x.com/championswimmer/status/2024309186633318592",
-    "title": {
-      "en-US": "OpenClaw in every possible language now",
-      "zh-CN": "Arnav Gupta分享：现在几乎所有编程语言都有了OpenClaw的实现版本。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、多语言支持、社区增长",
-      "zh-CN": "高收藏(251)展示OpenClaw的跨语言生态扩展，体现平台从单一语言向通用基础设施演进。"
-    },
-    "relevance": "OpenClaw生态、多语言支持、社区增长",
-    "score": 0.84,
-    "engagement": {
-      "likes": 647,
-      "replies": 47,
-      "retweets": 50
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "When a tool transcends its original language, it becomes infrastructure. OpenClaw isn't just for TypeScript anymore—it's a pattern spreading across ecosystems.",
-    "synced_at": "2026-02-19T10:07:52.955568+00:00",
-    "js_take": {
-      "en-US": "Good patterns transcend language. When Python devs and Go devs build the same thing independently, you've found something fundamental. OpenClaw isn't code—it's an interface.",
-      "zh-CN": "好的模式超越语言。当Python和Go开发者独立做出同样的东西，你就发现了某种本质。OpenClaw不是代码，而是接口。"
     }
   }
 ]
