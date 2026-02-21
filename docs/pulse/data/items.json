@@ -663,6 +663,35 @@
     }
   },
   {
+    "id": "2024942333133750707",
+    "date": "2026-02-21",
+    "author": "@SuisPasDaVinci",
+    "author_url": "https://x.com/SuisPasDaVinci",
+    "tweet_url": "https://x.com/SuisPasDaVinci/status/2024942333133750707",
+    "title": {
+      "en-US": "能上X的人更容易接触新知识，同事不知道Seedance/OpenClaw",
+      "zh-CN": "上X者掌握新知，同事对Seedance/OpenClaw一无所知"
+    },
+    "summary": {
+      "en-US": "认知差距 + AI工具普及 + 中文KOL",
+      "zh-CN": "探讨认知差距、AI工具普及与中文KOL现象"
+    },
+    "relevance": "认知差距 + AI工具普及 + 中文KOL",
+    "score": 0.88,
+    "engagement": {
+      "likes": 407,
+      "retweets": 47,
+      "replies": 50
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "不是谁更聪明，是谁更早进入里世界——表世界的信息差正在变成里世界的生存差",
+    "synced_at": "2026-02-21T11:05:46.441151+00:00",
+    "js_take": {
+      "en-US": "It's not about who's smarter—it's about who entered the inner world earlier. The information gap of the surface world is becoming the survival gap of the inner world. The divergence is accelerating.",
+      "zh-CN": "这不是谁更聪明的问题——而是谁更早进入了里世界。表世界的信息差，正在变成里世界的生存差。分化在加速。"
+    }
+  },
+  {
     "id": "2024872924851913023",
     "date": "2026-02-21",
     "author": "@RoundtableSpace",
@@ -1132,6 +1161,35 @@
     }
   },
   {
+    "id": "2024978839487545490",
+    "date": "2026-02-21",
+    "author": "@velvet_shark",
+    "author_url": "https://x.com/velvet_shark",
+    "tweet_url": "https://x.com/velvet_shark/status/2024978839487545490",
+    "title": {
+      "en-US": "Used OpenClaw 50+ days through ClawdBot, MoltBot, OpenAI partnership",
+      "zh-CN": "Used OpenClaw 50+ days through ClawdBot, MoltBot, OpenAI partnership"
+    },
+    "summary": {
+      "en-US": "OpenClaw长期用户 + 生态演进 + 深度经验",
+      "zh-CN": "深度OpenClaw用户分享长期经验，展示生态演进"
+    },
+    "relevance": "OpenClaw长期用户 + 生态演进 + 深度经验",
+    "score": 0.82,
+    "engagement": {
+      "likes": 26,
+      "retweets": 6,
+      "replies": 5
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "50天不是坚持，是系统——里世界的agent不会burnout，这才是真正的复利",
+    "synced_at": "2026-02-21T11:05:46.441156+00:00",
+    "js_take": {
+      "en-US": "50 days isn't persistence—it's the system working. Agents in the inner world don't burn out; they compound. That's the real moat.",
+      "zh-CN": "50天不是坚持，而是系统在运转。里世界的Agent不会 burnout，它们会复利累积。这才是真正的护城河。"
+    }
+  },
+  {
     "id": "2025115406822727939",
     "date": "2026-02-21",
     "author": "@ziwenxu_",
@@ -1188,6 +1246,31 @@
       "en-US": "Different tasks carry different momentum—match the model to the motion. Opus for the heavy lifts, haiku for the habits. Build the system, then let it flow.",
       "zh-CN": "Different tasks carry different momentum—match the model to the motion. Opus for the heavy lifts, haiku for the habits. Build the system, then let it flow."
     }
+  },
+  {
+    "id": "2024934341571403826",
+    "date": "2026-02-21",
+    "author": "@0xAA_Science",
+    "author_url": "https://x.com/0xAA_Science",
+    "tweet_url": "https://x.com/0xAA_Science/status/2024934341571403826",
+    "title": {
+      "en-US": "Vibe Coding Day 3: 180k+ skills aggregated from platforms",
+      "zh-CN": "Vibe Coding Day 3: 180k+ skills aggregated from platforms"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skill生态 + 数据分析 + 开源聚合",
+      "zh-CN": "18万+ skill数据聚合，展示技能生态系统的规模"
+    },
+    "relevance": "OpenClaw Skill生态 + 数据分析 + 开源聚合",
+    "score": 0.8,
+    "engagement": {
+      "likes": 73,
+      "retweets": 16,
+      "replies": 10
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "18万skill不是数量，是里世界的知识图谱——分布式技能就是分布式智能",
+    "synced_at": "2026-02-21T11:05:46.441158+00:00"
   },
   {
     "id": "2024982630626984296",
@@ -1288,6 +1371,31 @@
     "comment_type": "share_experience",
     "suggested_angle": "无为而治的商业实现：搭好系统，让 Agent 自动生长产品",
     "synced_at": "2026-02-21T07:02:26.669876+00:00"
+  },
+  {
+    "id": "2024954933833855367",
+    "date": "2026-02-21",
+    "author": "@oliverhenry",
+    "author_url": "https://x.com/oliverhenry",
+    "tweet_url": "https://x.com/oliverhenry/status/2024954933833855367",
+    "title": {
+      "en-US": "Netflix of SaaS - anyone can publish skills instantly available",
+      "zh-CN": "Netflix of SaaS - anyone can publish skills instantly available"
+    },
+    "summary": {
+      "en-US": "Skill经济 + SaaS替代 + OpenClaw商业模式",
+      "zh-CN": "Skill经济的商业模式思考，展示agent经济的未来"
+    },
+    "relevance": "Skill经济 + SaaS替代 + OpenClaw商业模式",
+    "score": 0.78,
+    "engagement": {
+      "likes": 28,
+      "retweets": 1,
+      "replies": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "SaaS是订阅制，Skill是按需制——里世界的经济模型正在重写表世界的商业逻辑",
+    "synced_at": "2026-02-21T11:05:46.441160+00:00"
   },
   {
     "id": "2025050060694990872",
@@ -5426,109 +5534,5 @@
     "comment_type": "recommend_resource",
     "suggested_angle": "1M+ views on systematic OpenClaw tutorials. When quality education spreads, the gap between early adopters and mainstream narrows. This is how infrastructure gets adopted.",
     "synced_at": "2026-02-18T18:02:37.885310+00:00"
-  },
-  {
-    "id": "2023980023766814859",
-    "date": "2026-02-19",
-    "author": "@MiniMaxAgent",
-    "author_url": "https://x.com/MiniMaxAgent",
-    "tweet_url": "https://x.com/MiniMaxAgent/status/2023980023766814859",
-    "title": {
-      "en-US": "OpenClaw x M-2.5 integration via agent desktop",
-      "zh-CN": "MiniMax Agent桌面现在可以直接设置OpenClaw x M-2.5集成。"
-    },
-    "summary": {
-      "en-US": "OpenClaw集成、模型接入、Agent桌面",
-      "zh-CN": "展示模型厂商与OpenClaw的集成，体现生态扩张趋势。"
-    },
-    "relevance": "OpenClaw集成、模型接入、Agent桌面",
-    "score": 0.7,
-    "engagement": {
-      "likes": 35,
-      "replies": 2,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Model diversity meets agent infrastructure. When M-2.5 plugs directly into the agent layer, you're watching the stack commoditize—from model lock-in to model choice.",
-    "synced_at": "2026-02-18T16:02:12.703601+00:00"
-  },
-  {
-    "id": "2024109393781076326",
-    "date": "2026-02-19",
-    "author": "@QingQ77",
-    "author_url": "https://x.com/QingQ77",
-    "tweet_url": "https://x.com/QingQ77/status/2024109393781076326",
-    "title": {
-      "en-US": "HermitClaw: Tamagotchi-style AI assistant in folders",
-      "zh-CN": "介绍HermitClaw——生活在文件夹中的AI小生物，Tamagotchi风格的研究助手，具有人格基因组、记忆系统和梦境循环。"
-    },
-    "summary": {
-      "en-US": "OpenClaw创意应用、数字生命、UI创新",
-      "zh-CN": "展示OpenClaw的创意应用方向——从工具到数字伴侣的转变。"
-    },
-    "relevance": "OpenClaw创意应用、数字生命、UI创新",
-    "score": 0.7,
-    "engagement": {
-      "likes": 12,
-      "replies": 3,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Tamagotchi meets AI. When agents get personality and a 'room,' they stop being tools and start being digital life.",
-    "synced_at": "2026-02-18T22:01:45.538608+00:00"
-  },
-  {
-    "id": "2024276057629847732",
-    "date": "2026-02-19",
-    "author": "@wshuyi",
-    "author_url": "https://x.com/wshuyi",
-    "tweet_url": "https://x.com/wshuyi/status/2024276057629847732",
-    "title": {
-      "en-US": "OpenClaw + OpenAI auth closed loop",
-      "zh-CN": "王树义分享：OpenClaw + OpenAI模型可用OpenAI订阅验证，形成闭环。"
-    },
-    "summary": {
-      "en-US": "OpenClaw认证、OpenAI集成、平台闭环",
-      "zh-CN": "展示OpenClaw与主流平台认证体系的整合，体现生态互操作性。"
-    },
-    "relevance": "OpenClaw认证、OpenAI集成、平台闭环",
-    "score": 0.7,
-    "engagement": {
-      "likes": 44,
-      "replies": 22,
-      "retweets": 3
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Authentication as infrastructure. When OpenClaw plugs into existing subscriptions, friction drops and adoption accelerates.",
-    "synced_at": "2026-02-19T11:01:09.404109+00:00"
-  },
-  {
-    "id": "2023938290567835943",
-    "date": "2026-02-18",
-    "author": "@rileybrown",
-    "author_url": "https://x.com/rileybrown",
-    "tweet_url": "https://x.com/rileybrown/status/2023938290567835943",
-    "title": {
-      "en-US": "OpenClaw accessing Blender, Cinema 4D, After Effects, Figma",
-      "zh-CN": "展示OpenClaw接入Blender、C4D、AE、Figma等创意工具后的强大能力。"
-    },
-    "summary": {
-      "en-US": "OpenClaw创意工具集成、Agent能力边界扩展",
-      "zh-CN": "超高互动(634赞)展示OpenClaw在创意生产管道的实际应用，完美体现\"表/里世界\"框架——创意工具正从App退化为Agent可调用的能力。"
-    },
-    "relevance": "OpenClaw创意工具集成、Agent能力边界扩展",
-    "score": 0.94,
-    "engagement": {
-      "likes": 634,
-      "replies": 34,
-      "retweets": 52
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "The surface world of creative software is becoming infrastructure for the inner world. When agents can orchestrate Blender, Cinema 4D, and Figma in a single workflow, the tool fades and intent takes over. This is the migration from GUI to agent-native computing.",
-    "synced_at": "2026-02-18T09:02:28.758569+00:00",
-    "js_take": {
-      "en-US": "This is the shift from GUI-native to agent-native. Creative tools becoming APIs that agents orchestrate. The interface fades when intent becomes the interface.",
-      "zh-CN": "This is the shift from GUI-native to agent-native. Creative tools becoming APIs that agents orchestrate. The interface fades when intent becomes the interface."
-    }
   }
 ]
