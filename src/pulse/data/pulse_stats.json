@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-21T18:02:11.738413+00:00",
+  "updated_at": "2026-02-21T19:02:26.412875+00:00",
   "this_week": {
     "total_items": 200,
     "avg_score": 0.83,
-    "unique_authors": 149,
+    "unique_authors": 150,
     "top_items": [
       {
         "id": "2024900944589148615",
@@ -64,38 +64,38 @@
         }
       },
       {
-        "id": "2024912304039677966",
-        "date": "2026-02-21",
-        "author": "@johann_sath",
-        "author_url": "https://x.com/johann_sath",
-        "tweet_url": "https://x.com/johann_sath/status/2024912304039677966",
+        "id": "2025270903437717745",
+        "date": "2026-02-22",
+        "author": "@openclaw",
+        "author_url": "https://x.com/openclaw",
+        "tweet_url": "https://x.com/openclaw/status/2025270903437717745",
         "title": {
-          "en-US": "OpenClaw workspace evolution 3 weeks",
-          "zh-CN": "OpenClaw工作空间三周进化"
+          "en-US": "OpenClaw 2026.2.21: Gemini 3.1, security, Discord voice, 100+ fixes",
+          "zh-CN": "OpenClaw 2026.2.21发布：Gemini 3.1、安全加固、Discord语音"
         },
         "summary": {
-          "en-US": "OpenClaw系统化、工作空间组织、架构演进",
-          "zh-CN": "OpenClaw系统化建设、工作空间组织架构演进"
+          "en-US": "OpenClaw官方发布 + 重大更新 + Jarvis定律演进",
+          "zh-CN": "OpenClaw官方发布、重大更新与Jarvis定律演进"
         },
-        "relevance": "OpenClaw系统化、工作空间组织、架构演进",
+        "relevance": "OpenClaw官方发布 + 重大更新 + Jarvis定律演进",
         "score": 0.92,
         "engagement": {
-          "likes": 186,
-          "replies": 7,
-          "retweets": 22
+          "likes": 1159,
+          "replies": 112,
+          "retweets": 92
         },
-        "comment_type": "add_insight",
-        "suggested_angle": "Structure as intelligence. When files become a system, chaos becomes capability.",
-        "synced_at": "2026-02-20T20:01:59.460873+00:00",
+        "comment_type": "agree_and_extend",
+        "suggested_angle": "每一次更新都是里世界的基础设施升级——Discord语音是感知，Gemini 3.1是决策，生态扩张是执行",
+        "synced_at": "2026-02-21T19:02:09.695968+00:00",
         "js_take": {
-          "en-US": "The leap from chatbot to system isn't just about files—it's about architecture. Most people stop at the toy stage because they never realize the workspace *is* the product. Structure isn't organization; it's intelligence.",
-          "zh-CN": "从聊天机器人到系统的跨越，不只是文件的问题——而是架构的问题。大多数人停在玩具阶段，因为他们从没意识到工作空间*就是*产品。结构不是整理，而是智能。"
+          "en-US": "Every update builds infrastructure for the inner world. Discord voice is perception, Gemini 3.1 is reasoning, ecosystem expansion is execution. That's Jarvis law in motion.",
+          "zh-CN": "每一次更新都在为里世界建设基础设施。Discord语音是感知，Gemini 3.1是推理，生态扩张是执行。这就是Jarvis定律的运作。"
         }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 149
+    "unique_authors": 150
   }
 }

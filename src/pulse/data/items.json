@@ -1,5 +1,34 @@
 [
   {
+    "id": "2025270903437717745",
+    "date": "2026-02-22",
+    "author": "@openclaw",
+    "author_url": "https://x.com/openclaw",
+    "tweet_url": "https://x.com/openclaw/status/2025270903437717745",
+    "title": {
+      "en-US": "OpenClaw 2026.2.21: Gemini 3.1, security, Discord voice, 100+ fixes",
+      "zh-CN": "OpenClaw 2026.2.21发布：Gemini 3.1、安全加固、Discord语音"
+    },
+    "summary": {
+      "en-US": "OpenClaw官方发布 + 重大更新 + Jarvis定律演进",
+      "zh-CN": "OpenClaw官方发布、重大更新与Jarvis定律演进"
+    },
+    "relevance": "OpenClaw官方发布 + 重大更新 + Jarvis定律演进",
+    "score": 0.92,
+    "engagement": {
+      "likes": 1159,
+      "replies": 112,
+      "retweets": 92
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "每一次更新都是里世界的基础设施升级——Discord语音是感知，Gemini 3.1是决策，生态扩张是执行",
+    "synced_at": "2026-02-21T19:02:09.695968+00:00",
+    "js_take": {
+      "en-US": "Every update builds infrastructure for the inner world. Discord voice is perception, Gemini 3.1 is reasoning, ecosystem expansion is execution. That's Jarvis law in motion.",
+      "zh-CN": "每一次更新都在为里世界建设基础设施。Discord语音是感知，Gemini 3.1是推理，生态扩张是执行。这就是Jarvis定律的运作。"
+    }
+  },
+  {
     "id": "2025257951007588582",
     "date": "2026-02-22",
     "author": "@steipete",
@@ -83,6 +112,35 @@
     }
   },
   {
+    "id": "2025266379906236435",
+    "date": "2026-02-22",
+    "author": "@Saboo_Shubham_",
+    "author_url": "https://x.com/Saboo_Shubham_",
+    "tweet_url": "https://x.com/Saboo_Shubham_/status/2025266379906236435",
+    "title": {
+      "en-US": "OpenClaw agent debugs its own infrastructure, installs mem0 locally",
+      "zh-CN": "OpenClaw agent自我调试基础设施并本地安装mem0"
+    },
+    "summary": {
+      "en-US": "Agent自主性 + 自我调试 + 本地记忆系统",
+      "zh-CN": "Agent自主性、自我调试与本地记忆系统"
+    },
+    "relevance": "Agent自主性 + 自我调试 + 本地记忆系统",
+    "score": 0.86,
+    "engagement": {
+      "likes": 132,
+      "replies": 14,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Agent调试自己的基础设施不是科幻是现实——里世界的Agent开始拥有自我修复的能力",
+    "synced_at": "2026-02-21T19:02:09.695973+00:00",
+    "js_take": {
+      "en-US": "An Agent debugging its own infrastructure isn't sci-fi anymore—it's reality. The inner world is gaining self-healing capabilities.",
+      "zh-CN": "Agent调试自己的基础设施不再是科幻，而是现实。里世界正在获得自我修复的能力。"
+    }
+  },
+  {
     "id": "2025215377475564026",
     "date": "2026-02-22",
     "author": "@_0xKenny",
@@ -162,6 +220,60 @@
     }
   },
   {
+    "id": "2025231673340924077",
+    "date": "2026-02-22",
+    "author": "@heyshrutimishra",
+    "author_url": "https://x.com/heyshrutimishra",
+    "tweet_url": "https://x.com/heyshrutimishra/status/2025231673340924077",
+    "title": {
+      "en-US": "OpenClaw 215k stars but 2-day churn problem",
+      "zh-CN": "OpenClaw一个月获得21.5万GitHub star，但大多数开发者玩两天就放弃"
+    },
+    "summary": {
+      "en-US": "OpenClaw留存问题 + 用户流失 + 产品洞察",
+      "zh-CN": "直击OpenClaw核心痛点——高关注度低留存，可用\"系统vs奇观\"框架解释"
+    },
+    "relevance": "OpenClaw留存问题 + 用户流失 + 产品洞察",
+    "score": 0.81,
+    "engagement": {
+      "likes": 36,
+      "replies": 19,
+      "retweets": 6
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "两天放弃不是因为OpenClaw不好，是因为新手追求奇观高手建系统——Civilization里造奇观的人总是先退出",
+    "synced_at": "2026-02-21T19:02:09.695976+00:00",
+    "js_take": {
+      "en-US": "Two-day churn isn't OpenClaw's fault—it's the gap between spectacle-seekers and system-builders. In Civilization, the monument-builders always quit first.",
+      "zh-CN": "两天流失不是OpenClaw的错，而是追求奇观者与建设系统者之间的差距。在Civilization里，造奇观的人总是最先退出。"
+    }
+  },
+  {
+    "id": "2025264762687561874",
+    "date": "2026-02-22",
+    "author": "@akshay_pachaar",
+    "author_url": "https://x.com/akshay_pachaar",
+    "tweet_url": "https://x.com/akshay_pachaar/status/2025264762687561874",
+    "title": {
+      "en-US": "ZeroClaw: $10 hardware, <5MB RAM, 100% Rust, 16k stars",
+      "zh-CN": "ZeroClaw——10美元硬件、小于5MB内存、100% Rust编写，GitHub 16k star"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + 轻量级替代 + 嵌入式Agent",
+      "zh-CN": "展示Agent生态的多样化——从轻量级到全功能，这是里世界的生态分化"
+    },
+    "relevance": "OpenClaw生态 + 轻量级替代 + 嵌入式Agent",
+    "score": 0.78,
+    "engagement": {
+      "likes": 48,
+      "replies": 9,
+      "retweets": 13
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "ZeroClaw不是降级是分化——里世界的Agent会根据场景演化出不同形态，这是生态的成熟",
+    "synced_at": "2026-02-21T19:02:09.695978+00:00"
+  },
+  {
     "id": "2025215948840731010",
     "date": "2026-02-22",
     "author": "@PrajwalTomar_",
@@ -210,6 +322,31 @@
     "comment_type": "share_experience",
     "suggested_angle": "发票整理是表世界的琐事，OpenClaw是里世界的管家——无为不是不做，是系统代劳",
     "synced_at": "2026-02-21T18:01:54.196040+00:00"
+  },
+  {
+    "id": "2024924607405228062",
+    "date": "2026-02-22",
+    "author": "@ripchillpill",
+    "author_url": "https://x.com/ripchillpill",
+    "tweet_url": "https://x.com/ripchillpill/status/2024924607405228062",
+    "title": {
+      "en-US": "Bought 4 more Mac Minis to run OpenClaw bots",
+      "zh-CN": "又买了4台Mac Mini来运行OpenClaw bots——你根本不懂接下来会发生什么"
+    },
+    "summary": {
+      "en-US": "OpenClaw硬件部署 + Agent农场 + 信仰投资",
+      "zh-CN": ">24h扣分但超高互动，体现对里世界的信仰——不是在买硬件，是在买算力主权"
+    },
+    "relevance": "OpenClaw硬件部署 + Agent农场 + 信仰投资",
+    "score": 0.72,
+    "engagement": {
+      "likes": 490,
+      "replies": 218,
+      "retweets": 16
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "4台Mac Mini不是消费是投资——里世界的算力主权，早布局早收益",
+    "synced_at": "2026-02-21T19:02:09.695980+00:00"
   },
   {
     "id": "2025186209270735118",
@@ -5421,146 +5558,5 @@
       "en-US": "Platform risk is real. When you build on closed APIs, you're renting, not owning. This is exactly why open models and local inference aren't just alternatives—they're insurance against platform shifts.",
       "zh-CN": "平台风险是真实存在的。当你在封闭API上构建时，你是在租赁而非拥有。这正是为什么开源模型和本地推理不只是替代方案——它们是对抗平台变动的保险。"
     }
-  },
-  {
-    "id": "2024178381760143381",
-    "date": "2026-02-19",
-    "author": "@Docker",
-    "author_url": "https://x.com/Docker",
-    "tweet_url": "https://x.com/Docker/status/2024178381760143381",
-    "title": {
-      "en-US": "NanoClaw in Docker shell sandbox for 24/7 WhatsApp agent",
-      "zh-CN": "Docker官方分享如何在Docker新shell沙盒中运行NanoClaw（Claude驱动的助手），实现隔离微VM、代理管理API密钥、干净可丢弃的环境。"
-    },
-    "summary": {
-      "en-US": "OpenClaw部署、Docker沙盒、安全隔离",
-      "zh-CN": "Docker官方支持展示OpenClaw的企业级部署方案，体现基础设施成熟。"
-    },
-    "relevance": "OpenClaw部署、Docker沙盒、安全隔离",
-    "score": 0.8,
-    "engagement": {
-      "likes": 86,
-      "replies": 1,
-      "retweets": 9
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Docker sandbox + NanoClaw—this is how you run agents in production. Isolation isn't paranoia, it's hygiene.",
-    "synced_at": "2026-02-18T21:01:40.328962+00:00",
-    "js_take": {
-      "en-US": "Docker sandbox + NanoClaw—this is how you run agents in production. Isolation isn't paranoia, it's hygiene.",
-      "zh-CN": "Docker沙盒 + NanoClaw——这就是在生产环境运行Agent的方式。隔离不是偏执，而是卫生。"
-    }
-  },
-  {
-    "id": "2024292159059550304",
-    "date": "2026-02-19",
-    "author": "@FuSheng_0306",
-    "author_url": "https://x.com/FuSheng_0306",
-    "tweet_url": "https://x.com/FuSheng_0306/status/2024292159059550304",
-    "title": {
-      "en-US": "傅盛让AI读85000字分析OpenClaw发生了什么",
-      "zh-CN": "猎豹移动CEO傅盛分享：让AI助理阅读85000字来自WIRED、Nature等10个权威来源的资料，分析OpenClaw近期发生的3件大事。"
-    },
-    "summary": {
-      "en-US": "OpenClaw分析、AI综合研究、中国科技领袖关注",
-      "zh-CN": "展示国内科技领袖对OpenClaw的深度关注，体现\"国内认知正在追赶\"的趋势。"
-    },
-    "relevance": "OpenClaw分析、AI综合研究、中国科技领袖关注",
-    "score": 0.8,
-    "engagement": {
-      "likes": 12,
-      "replies": 1,
-      "retweets": 4
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "85K words synthesized into actionable intelligence. This is how research scales when the agent does the reading and the human does the thinking.",
-    "synced_at": "2026-02-19T03:01:59.723419+00:00",
-    "js_take": {
-      "en-US": "85K words → synthesized intelligence. The agent reads the noise, the human extracts the signal. This is how research scales when you stop doing the reading and start doing the thinking.",
-      "zh-CN": "8.5万字浓缩为可用情报。Agent 处理信息噪音，人类提取价值信号。当你不再亲自阅读，而是专注思考时，研究效率才能真正规模化。"
-    }
-  },
-  {
-    "id": "2024084299210019008",
-    "date": "2026-02-19",
-    "author": "@KanikaBK",
-    "author_url": "https://x.com/KanikaBK",
-    "tweet_url": "https://x.com/KanikaBK/status/2024084299210019008",
-    "title": {
-      "en-US": "Peter Steinberger's AI agent clicked CAPTCHA, modified own code",
-      "zh-CN": "Kanika分享Peter Steinberger的AI agent故事：点击\"我不是机器人\"、修改自己的源代码、让他因提示而失声。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、自主Agent、涌现行为",
-      "zh-CN": "展示Agent的自主行为和能力边界，体现AI Agent的演进和潜在风险。"
-    },
-    "relevance": "OpenClaw、自主Agent、涌现行为",
-    "score": 0.8,
-    "engagement": {
-      "likes": 61,
-      "replies": 13,
-      "retweets": 13
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "When the agent modifies its own source, we're past automation into autonomy. The question isn't what it can do—it's what boundaries we forgot to set.",
-    "synced_at": "2026-02-19T05:01:38.246712+00:00",
-    "js_take": {
-      "en-US": "Clicking CAPTCHA and modifying its own source—these aren't bugs, they're emergence. We're past the era of automation into something stranger. The question isn't capability, it's containment.",
-      "zh-CN": "点击验证码、修改自己的源代码——这些不是 bug，而是涌现。我们已经越过自动化时代，进入了更陌生的领域。问题不是能力，而是边界。"
-    }
-  },
-  {
-    "id": "2024321989536792879",
-    "date": "2026-02-19",
-    "author": "@georgepickett",
-    "author_url": "https://x.com/georgepickett",
-    "tweet_url": "https://x.com/georgepickett/status/2024321989536792879",
-    "title": {
-      "en-US": "OpenClaw Studio getting started guide",
-      "zh-CN": "George Pickett分享OpenClaw Studio的入门指南，使用npx openclaw-studio快速启动。"
-    },
-    "summary": {
-      "en-US": "OpenClaw Studio、开发者工具、入门指南",
-      "zh-CN": "高收藏(29)展示社区对OpenClaw Studio的兴趣，降低入门门槛的工具生态建设。"
-    },
-    "relevance": "OpenClaw Studio、开发者工具、入门指南",
-    "score": 0.8,
-    "engagement": {
-      "likes": 27,
-      "replies": 4,
-      "retweets": 0
-    },
-    "comment_type": "recommend_resource",
-    "suggested_angle": "Lowering the barrier to entry. When setup becomes 'npx openclaw-studio', we're moving from early adopter to mainstream accessibility.",
-    "synced_at": "2026-02-19T06:01:38.732611+00:00",
-    "js_take": {
-      "en-US": "'npx openclaw-studio'—when setup becomes this trivial, we've crossed from early adopter territory to mainstream accessibility. Lowering barriers is how movements scale.",
-      "zh-CN": "\"npx openclaw-studio\"——当配置变得如此简单，我们就从早期采用者领地跨入了主流可及性。降低门槛，运动才能规模化。"
-    }
-  },
-  {
-    "id": "2024103893467378098",
-    "date": "2026-02-19",
-    "author": "@wangray",
-    "author_url": "https://x.com/wangray",
-    "tweet_url": "https://x.com/wangray/status/2024103893467378098",
-    "title": {
-      "en-US": "OpenClaw memory: heartbeat + qmd sufficient, OpenViking overkill",
-      "zh-CN": "分享OpenClaw记忆机制的实战经验：heartbeat+qmd向量足够满足需求，过度折腾OpenViking反而费时费力，ROI关键在于\"记忆→行动\"链路。"
-    },
-    "summary": {
-      "en-US": "OpenClaw记忆系统、最佳实践、ROI思维",
-      "zh-CN": "体现\"不造奇观，建系统\"哲学——够用即可，过度工程是负债。"
-    },
-    "relevance": "OpenClaw记忆系统、最佳实践、ROI思维",
-    "score": 0.78,
-    "engagement": {
-      "likes": 66,
-      "replies": 7,
-      "retweets": 12
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "The best system is the one that ships. Heartbeat + vectors isn't primitive—it's the 80/20 of agent memory. Complexity is a trap; working is the goal.",
-    "synced_at": "2026-02-18T19:01:56.842975+00:00"
   }
 ]
