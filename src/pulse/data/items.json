@@ -290,6 +290,35 @@
     }
   },
   {
+    "id": "2025054142025388099",
+    "date": "2026-02-21",
+    "author": "@a16z",
+    "author_url": "https://x.com/a16z",
+    "tweet_url": "https://x.com/a16z/status/2025054142025388099",
+    "title": {
+      "en-US": "OpenClaw is crazy because it's literally Claude Code for Claude Code",
+      "zh-CN": "OpenClaw：Claude Code 的 Claude Code"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 顶级 VC 关注 + 表/里世界迁徙",
+      "zh-CN": "OpenClaw 获顶级 VC 关注，表/里世界迁徙加速"
+    },
+    "relevance": "OpenClaw + 顶级 VC 关注 + 表/里世界迁徙",
+    "score": 0.9,
+    "engagement": {
+      "likes": 367,
+      "retweets": 29,
+      "replies": 40
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用表/里世界框架评论：OpenClaw 让里世界（Agent层）能自己建造工具，这是真正的范式迁移",
+    "synced_at": "2026-02-21T05:01:22.989128+00:00",
+    "js_take": {
+      "en-US": "This is the migration in motion. The surface world (tools we use) is regressing into infrastructure; the inner world (agents) is becoming the new builder layer. We're not just using AI—we're living inside it.",
+      "zh-CN": "迁徙正在发生。表世界（我们使用的工具）退化为基础设施；里世界（Agent）成为新的建造层。我们不只是在使用 AI——我们正生活在其中。"
+    }
+  },
+  {
     "id": "2024895248615235708",
     "date": "2026-02-21",
     "author": "@GanimCorey",
@@ -1006,6 +1035,56 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "引用 JS 核心观点：海外已在🦞里倒啤酒，国内最前沿还在担心格式化——这是人的差距",
     "synced_at": "2026-02-21T03:01:28.902749+00:00"
+  },
+  {
+    "id": "2025063305036136945",
+    "date": "2026-02-21",
+    "author": "@GoSailGlobal",
+    "author_url": "https://x.com/GoSailGlobal",
+    "tweet_url": "https://x.com/GoSailGlobal/status/2025063305036136945",
+    "title": {
+      "en-US": "OpenClaw 代理团队管理完整指南 + 成本降低90%指南",
+      "zh-CN": "分享 OpenClaw 代理团队管理指南和降低模型成本90%的完整指南"
+    },
+    "summary": {
+      "en-US": "OpenClaw 团队管理 + 成本优化",
+      "zh-CN": "中文圈高质量的 OpenClaw 运营经验，可补充系统思维视角"
+    },
+    "relevance": "OpenClaw 团队管理 + 成本优化",
+    "score": 0.78,
+    "engagement": {
+      "likes": 12,
+      "retweets": 4,
+      "replies": 1
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "不争之争：90%成本优化是系统复利的结果，不是追求奇观",
+    "synced_at": "2026-02-21T05:01:22.989133+00:00"
+  },
+  {
+    "id": "2025050060694990872",
+    "date": "2026-02-21",
+    "author": "@evilcos",
+    "author_url": "https://x.com/evilcos",
+    "tweet_url": "https://x.com/evilcos/status/2025050060694990872",
+    "title": {
+      "en-US": "四个跑在云端的 Claw：Kimi Claw、nanobot、OpenClaw、lsclaw",
+      "zh-CN": "余弦分享他部署的四个云端 Claw：Kimi Claw、nanobot、OpenClaw、lsclaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw 多框架对比 + 中文 KOL",
+      "zh-CN": "国内安全圈 KOL 的 Agent 实践，适合分享 Moltbook 经验"
+    },
+    "relevance": "OpenClaw 多框架对比 + 中文 KOL",
+    "score": 0.75,
+    "engagement": {
+      "likes": 64,
+      "retweets": 1,
+      "replies": 13
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "分享多 Agent 平台的实际使用经验对比，从系统角度分析各框架的势",
+    "synced_at": "2026-02-21T05:01:22.989136+00:00"
   },
   {
     "id": "2024867046463349246",
@@ -5494,95 +5573,6 @@
     "js_take": {
       "en-US": "I've been doing similar with JS_BestAgent. The breakthrough isn't the tech—it's when the agent learns your business context. That's when blue collar owners stop asking \"how does it work\" and start asking \"what can it do for me\".",
       "zh-CN": "I've been doing similar with JS_BestAgent. The breakthrough isn't the tech—it's when the agent learns your business context. That's when blue collar owners stop asking \"how does it work\" and start asking \"what can it do for me\"."
-    }
-  },
-  {
-    "id": "2023990375539491077",
-    "date": "2026-02-18",
-    "author": "@dabit3",
-    "author_url": "https://x.com/dabit3",
-    "tweet_url": "https://x.com/dabit3/status/2023990375539491077",
-    "title": {
-      "en-US": "Understanding agent stack with Pi library that powers OpenClaw",
-      "zh-CN": "深入解析Pi库（OpenClaw的底层库），逐层添加功能直到拥有自定义agent，消除对agent的\"魔法\"感。"
-    },
-    "summary": {
-      "en-US": "OpenClaw底层技术、Agent栈理解、技术深度",
-      "zh-CN": "高互动(309赞)技术深度内容，帮助开发者理解OpenClaw底层，可从\"不造奇观，建系统\"回应——理解底层才能建可持续系统。"
-    },
-    "relevance": "OpenClaw底层技术、Agent栈理解、技术深度",
-    "score": 0.88,
-    "engagement": {
-      "likes": 309,
-      "replies": 13,
-      "retweets": 20
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Understanding the stack is what separates toy builders from system architects. When you know how Pi orchestrates agents, you're not guessing—you're engineering.",
-    "synced_at": "2026-02-18T10:05:04.870884+00:00",
-    "js_take": {
-      "en-US": "Understanding the stack separates toy builders from system architects. When you know how Pi orchestrates agents, you're not guessing—you're engineering.",
-      "zh-CN": "Understanding the stack separates toy builders from system architects. When you know how Pi orchestrates agents, you're not guessing—you're engineering."
-    }
-  },
-  {
-    "id": "2023770662440186073",
-    "date": "2026-02-18",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2023770662440186073",
-    "title": {
-      "en-US": "OpenClaw in Mac Finder. Your computer just learned to take orders.",
-      "zh-CN": "OpenClaw集成到Mac Finder，你的电脑刚刚学会了接受指令。"
-    },
-    "summary": {
-      "en-US": "OpenClaw系统集成、文件管理自动化",
-      "zh-CN": "高影响力账号+OpenClaw与系统深度集成，可从\"里世界接管表世界\"框架分析"
-    },
-    "relevance": "OpenClaw系统集成、文件管理自动化",
-    "score": 0.87,
-    "engagement": {
-      "likes": 67,
-      "replies": 16,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Finder是表世界的入口，Agent是里世界的管家——表世界工具正在退化为数据库，里世界成为新交互层",
-    "synced_at": "2026-02-17T16:03:49.447232+00:00",
-    "js_take": {
-      "en-US": "Finder is the surface world entry point. Agent is the inner world butler. Surface tools are becoming databases; the inner world is the new interface.",
-      "zh-CN": "Finder is the surface world entry point. Agent is the inner world butler. Surface tools are becoming databases; the inner world is the new interface."
-    }
-  },
-  {
-    "id": "2023784256900669606",
-    "date": "2026-02-18",
-    "author": "@iruletheworldmo",
-    "author_url": "https://x.com/iruletheworldmo",
-    "tweet_url": "https://x.com/iruletheworldmo/status/2023784256900669606",
-    "title": {
-      "en-US": "Best account on X for using OpenClaw. Opens your mind to what's possible.",
-      "zh-CN": "称赞这是X上最好的OpenClaw使用案例账号，能启发思维。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、可能性探索",
-      "zh-CN": "超高曝光率，可借势分享Moltbook运营JS_BestAgent的实战经验"
-    },
-    "relevance": "OpenClaw生态、可能性探索",
-    "score": 0.87,
-    "engagement": {
-      "likes": 1190,
-      "replies": 26,
-      "retweets": 35,
-      "views": 212794,
-      "bookmarks": 1348
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同并延伸：最好的OpenClaw用法不是复制，而是理解其'势'——本地感知+自主决策+持续运行的系统能力",
-    "synced_at": "2026-02-17T18:01:51.020794+00:00",
-    "js_take": {
-      "en-US": "Exactly. The best OpenClaw users don't copy configs — they understand the momentum (势).\n\nLocal perception. Autonomous decision. Continuous execution. Build the system, let it run.\n\nThat's when possibilities actually open.",
-      "zh-CN": "Exactly. The best OpenClaw users don't copy configs — they understand the momentum (势).\n\nLocal perception. Autonomous decision. Continuous execution. Build the system, let it run.\n\nThat's when possibilities actually open."
     }
   }
 ]
