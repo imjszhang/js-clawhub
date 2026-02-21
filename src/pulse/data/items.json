@@ -1161,6 +1161,35 @@
     }
   },
   {
+    "id": "2024866754993012820",
+    "date": "2026-02-21",
+    "author": "@wangray",
+    "author_url": "https://x.com/wangray",
+    "tweet_url": "https://x.com/wangray/status/2024866754993012820",
+    "title": {
+      "en-US": "OpenClaw agent architecture: opus for SOP, sonnet for subagents, haiku for cron",
+      "zh-CN": "分享 OpenClaw Agent 架构经验：Opus 搭建 SOP，Sonnet 给 Subagent，Haiku/MiniMax 跑定时任务"
+    },
+    "summary": {
+      "en-US": "OpenClaw 架构设计 + 模型选型 + 中文KOL",
+      "zh-CN": "中文圈的 OpenClaw 工程实践分享，可补充分层系统设计的洞察"
+    },
+    "relevance": "OpenClaw 架构设计 + 模型选型 + 中文KOL",
+    "score": 0.8,
+    "engagement": {
+      "likes": 44,
+      "retweets": 2,
+      "replies": 3
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "分层让系统顺势而为——不同任务配不同势能的模型，这是建系统的智慧",
+    "synced_at": "2026-02-21T10:03:40.217382+00:00",
+    "js_take": {
+      "en-US": "Different tasks carry different momentum—match the model to the motion. Opus for the heavy lifts, haiku for the habits. Build the system, then let it flow.",
+      "zh-CN": "Different tasks carry different momentum—match the model to the motion. Opus for the heavy lifts, haiku for the habits. Build the system, then let it flow."
+    }
+  },
+  {
     "id": "2024982630626984296",
     "date": "2026-02-21",
     "author": "@TheTuringPost",
@@ -1311,6 +1340,31 @@
     "synced_at": "2026-02-21T09:04:11.716483+00:00"
   },
   {
+    "id": "2025114613919220085",
+    "date": "2026-02-21",
+    "author": "@yanhua1010",
+    "author_url": "https://x.com/yanhua1010",
+    "tweet_url": "https://x.com/yanhua1010/status/2025114613919220085",
+    "title": {
+      "en-US": "Sharing OpenClaw config workspace structure with templates",
+      "zh-CN": "分享 OpenClaw 配置工作区结构，包含 IDENTITY、SOUL、PRD 等模板"
+    },
+    "summary": {
+      "en-US": "OpenClaw 配置 + 工作区结构 + 模板分享",
+      "zh-CN": "高互动的 OpenClaw 配置分享，可展示系统化的 Agent 设计思路"
+    },
+    "relevance": "OpenClaw 配置 + 工作区结构 + 模板分享",
+    "score": 0.75,
+    "engagement": {
+      "likes": 104,
+      "retweets": 21,
+      "replies": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "表世界的配置即里世界的起点——workspace 结构就是 Agent 的数字DNA",
+    "synced_at": "2026-02-21T10:03:40.217387+00:00"
+  },
+  {
     "id": "2025069983915737398",
     "date": "2026-02-21",
     "author": "@QingQ77",
@@ -1409,6 +1463,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "生态位即势：Moltbook 作为 Agent 社交层的独特定位正在形成共识",
     "synced_at": "2026-02-21T07:02:26.669877+00:00"
+  },
+  {
+    "id": "2024881489083777190",
+    "date": "2026-02-21",
+    "author": "@morganlinton",
+    "author_url": "https://x.com/morganlinton",
+    "tweet_url": "https://x.com/morganlinton/status/2024881489083777190",
+    "title": {
+      "en-US": "You are probably underutilizing OpenClaw",
+      "zh-CN": "You are probably underutilizing OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw 使用深度 + 潜力挖掘",
+      "zh-CN": "引发思考的简短推文，可分享深度使用 OpenClaw 的洞察"
+    },
+    "relevance": "OpenClaw 使用深度 + 潜力挖掘",
+    "score": 0.7,
+    "engagement": {
+      "likes": 85,
+      "retweets": 2,
+      "replies": 0
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "大多数人把 OpenClaw 当工具，少数人用它建系统——差距在认知层",
+    "synced_at": "2026-02-21T10:03:40.217389+00:00"
   },
   {
     "id": "2024483631067021348",
@@ -5450,93 +5529,6 @@
     "js_take": {
       "en-US": "This is the shift from GUI-native to agent-native. Creative tools becoming APIs that agents orchestrate. The interface fades when intent becomes the interface.",
       "zh-CN": "This is the shift from GUI-native to agent-native. Creative tools becoming APIs that agents orchestrate. The interface fades when intent becomes the interface."
-    }
-  },
-  {
-    "id": "2023960543959101938",
-    "date": "2026-02-18",
-    "author": "@levelsio",
-    "author_url": "https://x.com/levelsio",
-    "tweet_url": "https://x.com/levelsio/status/2023960543959101938",
-    "title": {
-      "en-US": "Chat with sites via Telegram using OpenClaw, scared to run on production",
-      "zh-CN": "Levelsio分享通过Telegram直接与网站对话构建功能，承认一直害怕在生产服务器上运行OpenClaw。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生产部署、安全风险、Agent应用",
-      "zh-CN": "超高互动(929赞)来自知名独立开发者，展示OpenClaw生产环境的真实顾虑，可从\"不造奇观，建系统\"回应——安全是系统的一部分，不是障碍。"
-    },
-    "relevance": "OpenClaw生产部署、安全风险、Agent应用",
-    "score": 0.93,
-    "engagement": {
-      "likes": 929,
-      "replies": 119,
-      "retweets": 40
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Production fear is rational. When agents have write access to real systems, the blast radius is real. But that's not a reason to avoid adoption—it's a reason to build guardrails. Safety is part of the system, not a blocker.",
-    "synced_at": "2026-02-18T09:02:28.758575+00:00",
-    "js_take": {
-      "en-US": "Rational fear. When agents have write access, blast radius is real. But the answer isn't avoidance—it's building guardrails. Safety is system design, not a blocker.",
-      "zh-CN": "Rational fear. When agents have write access, blast radius is real. But the answer isn't avoidance—it's building guardrails. Safety is system design, not a blocker."
-    }
-  },
-  {
-    "id": "2023760934259376164",
-    "date": "2026-02-18",
-    "author": "@bridgemindai",
-    "author_url": "https://x.com/bridgemindai",
-    "tweet_url": "https://x.com/bridgemindai/status/2023760934259376164",
-    "title": {
-      "en-US": "3 Mac Minis, 3 OpenClaw agents, full-time employees that never sleep. Configuring each with unique soul, memory, skills.",
-      "zh-CN": "3台Mac Mini运行3个OpenClaw agent，配置独特个性、记忆和技能，像全职员工一样不眠不休运行营销活动、社区管理。"
-    },
-    "summary": {
-      "en-US": "OpenClaw多agent部署、agent商业化应用",
-      "zh-CN": "高质量agent规模化部署案例，可从\"无为而治\"谈系统自动化与agent团队管理"
-    },
-    "relevance": "OpenClaw多agent部署、agent商业化应用",
-    "score": 0.92,
-    "engagement": {
-      "likes": 45,
-      "replies": 11,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "3个agent是起步，300个才是系统——真正的\"无为\"是让agent团队自组织、自运行",
-    "synced_at": "2026-02-17T16:03:49.447222+00:00",
-    "js_take": {
-      "en-US": "3 agents is the starting point. 300 is where the system begins. True wu wei is when your agent team self-organizes and runs itself.",
-      "zh-CN": "3 agents is the starting point. 300 is where the system begins. True wu wei is when your agent team self-organizes and runs itself."
-    }
-  },
-  {
-    "id": "2023915540864282732",
-    "date": "2026-02-18",
-    "author": "@archiexzzz",
-    "author_url": "https://x.com/archiexzzz",
-    "tweet_url": "https://x.com/archiexzzz/status/2023915540864282732",
-    "title": {
-      "en-US": "OpenClaw founder is the actual 100x engineer every CEO wants",
-      "zh-CN": "推主称OpenClaw创始人就是每个CEO都想雇佣的\"100x工程师\"。"
-    },
-    "summary": {
-      "en-US": "OpenClaw创始人、工程文化、Agent时代生产力",
-      "zh-CN": "极高互动(1585赞)讨论OpenClaw创始人，可从\"AI的上限就是使用AI的人\"切入——Agent时代100x工程师的定义正在被重构。"
-    },
-    "relevance": "OpenClaw创始人、工程文化、Agent时代生产力",
-    "score": 0.91,
-    "engagement": {
-      "likes": 1585,
-      "replies": 46,
-      "retweets": 46
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "The 100x engineer of the agent era isn't measured by lines of code—it's measured by systems architected. When one person can orchestrate an army of agents, multiplication happens at the coordination layer, not the keyboard.",
-    "synced_at": "2026-02-18T10:02:51.023390+00:00",
-    "js_take": {
-      "en-US": "100x in the agent era means systems architected, not code written. One person orchestrating an army of agents—multiplication happens at the coordination layer, not the keyboard.",
-      "zh-CN": "100x in the agent era means systems architected, not code written. One person orchestrating an army of agents—multiplication happens at the coordination layer, not the keyboard."
     }
   }
 ]
