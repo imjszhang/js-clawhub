@@ -663,6 +663,35 @@
     }
   },
   {
+    "id": "2025043042840051931",
+    "date": "2026-02-21",
+    "author": "@YuLin807",
+    "author_url": "https://x.com/YuLin807",
+    "tweet_url": "https://x.com/YuLin807/status/2025043042840051931",
+    "title": {
+      "en-US": "上班族玩 OpenClaw 的正确姿势：异步任务管理",
+      "zh-CN": "上班族玩转OpenClaw：异步任务管理术"
+    },
+    "summary": {
+      "en-US": "OpenClaw 工作流 + 异步协作",
+      "zh-CN": "OpenClaw工作流与异步协作实践"
+    },
+    "relevance": "OpenClaw 工作流 + 异步协作",
+    "score": 0.85,
+    "engagement": {
+      "likes": 18,
+      "replies": 3,
+      "retweets": 4
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "认同异步理念，补充\"无为而治\"视角：搭好系统让它自运行，而非 micromanage",
+    "synced_at": "2026-02-21T04:03:48.012605+00:00",
+    "js_take": {
+      "en-US": "This is wu wei in action. Set up the system right, and it governs itself. The best agents don't need micromanagement—they need clear constraints, then autonomy.",
+      "zh-CN": "无为而治的真实写照。把系统搭好，它自会运转。最好的Agent不需要微观管理——它们需要清晰的约束，然后是自主。"
+    }
+  },
+  {
     "id": "2024769540346065358",
     "date": "2026-02-21",
     "author": "@quanruzhuoxiu",
@@ -900,6 +929,35 @@
     }
   },
   {
+    "id": "2025038112930374121",
+    "date": "2026-02-21",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2025038112930374121",
+    "title": {
+      "en-US": "Stop paying for OpenClaw heartbeats. Use local LLM on Mac Mini.",
+      "zh-CN": "建议用 16GB Mac Mini 跑本地 LLM 做 OpenClaw heartbeat，省下 API token 费用"
+    },
+    "summary": {
+      "en-US": "OpenClaw 成本优化 + 本地部署",
+      "zh-CN": "直接击中 OpenClaw 运营成本痛点，可用系统思维补充"
+    },
+    "relevance": "OpenClaw 成本优化 + 本地部署",
+    "score": 0.82,
+    "engagement": {
+      "likes": 55,
+      "replies": 4,
+      "retweets": 6
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "分享从系统角度看的权衡：本地模型成本 vs API 成本，建系统而非追奇观",
+    "synced_at": "2026-02-21T04:03:48.012610+00:00",
+    "js_take": {
+      "en-US": "Smart optimization. But the real question: what's your time worth? Local inference saves tokens, but costs engineering time. Civilization players know—don't chase wonders, build compound systems.",
+      "zh-CN": "聪明的优化。但真正的问题是：你的时间值多少钱？本地推理省下了token，却消耗工程时间。Civilization玩家都懂——别追奇观，建复利系统。"
+    }
+  },
+  {
     "id": "2024982630626984296",
     "date": "2026-02-21",
     "author": "@TheTuringPost",
@@ -948,6 +1006,31 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "引用 JS 核心观点：海外已在🦞里倒啤酒，国内最前沿还在担心格式化——这是人的差距",
     "synced_at": "2026-02-21T03:01:28.902749+00:00"
+  },
+  {
+    "id": "2024867046463349246",
+    "date": "2026-02-21",
+    "author": "@davidonchainx",
+    "author_url": "https://x.com/davidonchainx",
+    "tweet_url": "https://x.com/davidonchainx/status/2024867046463349246",
+    "title": {
+      "en-US": "Bought 12 mac minis, setting up first clawdbot",
+      "zh-CN": "买了 12 台 Mac Mini，搭建第一个 clawdbot"
+    },
+    "summary": {
+      "en-US": "OpenClaw 硬件扩展 + 多 Agent 部署",
+      "zh-CN": "硬件规模化的实践，评论区热度高，互动潜力大"
+    },
+    "relevance": "OpenClaw 硬件扩展 + 多 Agent 部署",
+    "score": 0.7,
+    "engagement": {
+      "likes": 770,
+      "replies": 361,
+      "retweets": 20
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "评论硬件规模化的权衡：12 台 Mac Mini 是一个系统，但别造奇观，要建可持续的复利系统",
+    "synced_at": "2026-02-21T04:03:48.012613+00:00"
   },
   {
     "id": "2024483631067021348",
@@ -5500,95 +5583,6 @@
     "js_take": {
       "en-US": "Exactly. The best OpenClaw users don't copy configs — they understand the momentum (势).\n\nLocal perception. Autonomous decision. Continuous execution. Build the system, let it run.\n\nThat's when possibilities actually open.",
       "zh-CN": "Exactly. The best OpenClaw users don't copy configs — they understand the momentum (势).\n\nLocal perception. Autonomous decision. Continuous execution. Build the system, let it run.\n\nThat's when possibilities actually open."
-    }
-  },
-  {
-    "id": "2023828886287708303",
-    "date": "2026-02-18",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2023828886287708303",
-    "title": {
-      "en-US": "Sonnet 4.6 is the best model for OpenClaw ever. Human level at Computer Use for fraction of price.",
-      "zh-CN": "Sonnet 4.6是有史以来最适合OpenClaw的模型，计算机使用能力达到人类水平，价格却很低。"
-    },
-    "summary": {
-      "en-US": "OpenClaw模型选择、Sonnet 4.6",
-      "zh-CN": "高曝光推文，可用'人群分化'视角回应——模型进化加速，跟不上的人将被快速甩开"
-    },
-    "relevance": "OpenClaw模型选择、Sonnet 4.6",
-    "score": 0.86,
-    "engagement": {
-      "likes": 763,
-      "replies": 114,
-      "retweets": 43,
-      "views": 78856,
-      "bookmarks": 775
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同并警示：Sonnet 4.6确实强，但关键不是模型本身，是'势'的判断——人群正在快速分化，现在不跟进就晚了",
-    "synced_at": "2026-02-17T20:01:45.607558+00:00",
-    "js_take": {
-      "en-US": "Sonnet 4.6 is strong, no doubt. But the real signal isn't the model — it's the momentum (势).\n\nThe crowd is diverging fast. DeepSeek hype to OpenClaw confusion in weeks. Those who don't adapt now won't catch up.\n\nFollow the momentum, not the hype.",
-      "zh-CN": "Sonnet 4.6 is strong, no doubt. But the real signal isn't the model — it's the momentum (势).\n\nThe crowd is diverging fast. DeepSeek hype to OpenClaw confusion in weeks. Those who don't adapt now won't catch up.\n\nFollow the momentum, not the hype."
-    }
-  },
-  {
-    "id": "2023881934414508513",
-    "date": "2026-02-18",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2023881934414508513",
-    "title": {
-      "en-US": "Told OpenClaw to stop executing, be orchestrator, spin up subagents",
-      "zh-CN": "用户让OpenClaw停止执行任务，转为协调者角色，需要做事时派生子agent执行，自己和OpenClaw只负责规划。"
-    },
-    "summary": {
-      "en-US": "OpenClaw架构模式、Agent协调、分层系统",
-      "zh-CN": "展示先进的Agent架构思维，可从\"Jarvis定律\"回应——感知+决策+执行需要分层，协调者模式是Agent成熟的标志。"
-    },
-    "relevance": "OpenClaw架构模式、Agent协调、分层系统",
-    "score": 0.86,
-    "engagement": {
-      "likes": 215,
-      "replies": 24,
-      "retweets": 8
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "The orchestrator pattern. When your agent stops doing and starts delegating, it's not slacking—it's maturing. This is how you scale cognition: one mind plans, many hands build.",
-    "synced_at": "2026-02-18T10:05:04.870890+00:00",
-    "js_take": {
-      "en-US": "The orchestrator pattern. When your agent stops doing and starts delegating, it's not slacking—it's maturing. One mind plans, many hands build.",
-      "zh-CN": "The orchestrator pattern. When your agent stops doing and starts delegating, it's not slacking—it's maturing. One mind plans, many hands build."
-    }
-  },
-  {
-    "id": "2023743446754766908",
-    "date": "2026-02-18",
-    "author": "@MoonDevOnYT",
-    "author_url": "https://x.com/MoonDevOnYT",
-    "tweet_url": "https://x.com/MoonDevOnYT/status/2023743446754766908",
-    "title": {
-      "en-US": "Don't let other devs gaslight you. The only successful way to use openclaw is with Mac. 99% haven't done direct comparison.",
-      "zh-CN": "别让其他开发者忽悠你，用OpenClaw唯一成功的方式是Mac，99%的人没做过直接对比。"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台体验、Mac vs 其他平台",
-      "zh-CN": "有争议的观点+高互动潜力，可用\"势\"的思维分析平台选择的本质"
-    },
-    "relevance": "OpenClaw平台体验、Mac vs 其他平台",
-    "score": 0.85,
-    "engagement": {
-      "likes": 148,
-      "replies": 19,
-      "retweets": 7
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "工具是\"势\"的载体——Mac生态的势能让Agent跑得更顺，但真正的道是找到适合你workflow的载体",
-    "synced_at": "2026-02-17T16:03:49.447235+00:00",
-    "js_take": {
-      "en-US": "Tools are vessels of shi (momentum). The Mac ecosystem's momentum makes agents run smoother, but the real dao is finding what fits your workflow.",
-      "zh-CN": "Tools are vessels of shi (momentum). The Mac ecosystem's momentum makes agents run smoother, but the real dao is finding what fits your workflow."
     }
   }
 ]
