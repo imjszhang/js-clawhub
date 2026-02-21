@@ -141,6 +141,35 @@
     }
   },
   {
+    "id": "2025283533355274288",
+    "date": "2026-02-22",
+    "author": "@VadimStrizheus",
+    "author_url": "https://x.com/VadimStrizheus",
+    "tweet_url": "https://x.com/VadimStrizheus/status/2025283533355274288",
+    "title": {
+      "en-US": "OpenClaw got me 400+ SaaS users, marketing agent Atlas",
+      "zh-CN": "OpenClaw助力获取400+ SaaS用户，营销Agent Atlas"
+    },
+    "summary": {
+      "en-US": "OpenClaw商业应用 + Agent营销 + 真实案例",
+      "zh-CN": "OpenClaw商业应用、Agent营销与真实案例"
+    },
+    "relevance": "OpenClaw商业应用 + Agent营销 + 真实案例",
+    "score": 0.86,
+    "engagement": {
+      "likes": 76,
+      "replies": 19,
+      "retweets": 6
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "400用户不是奇迹是系统——Atlas不是在发推文，是在运行一个可复利的增长系统",
+    "synced_at": "2026-02-21T20:03:36.307512+00:00",
+    "js_take": {
+      "en-US": "400 users isn't magic—it's a system. Atlas isn't just posting tweets, it's running a compounding growth engine. That's the difference between using an agent and building one.",
+      "zh-CN": "400用户不是奇迹，是系统。Atlas不是在发推文，是在运行一个可复利的增长引擎。这就是使用Agent和建设Agent的区别。"
+    }
+  },
+  {
     "id": "2025215377475564026",
     "date": "2026-02-22",
     "author": "@_0xKenny",
@@ -164,6 +193,35 @@
     "comment_type": "add_insight",
     "suggested_angle": "Xvfb是表世界的hack，里世界的Agent不需要\"看见\"——感知与执行的分离是进化的方向",
     "synced_at": "2026-02-21T17:03:35.873927+00:00"
+  },
+  {
+    "id": "2025267524984783356",
+    "date": "2026-02-22",
+    "author": "@VibeMarketer_",
+    "author_url": "https://x.com/VibeMarketer_",
+    "tweet_url": "https://x.com/VibeMarketer_/status/2025267524984783356",
+    "title": {
+      "en-US": "My OpenClaw setup after 2 weeks iteration",
+      "zh-CN": "作者分享两周迭代后的OpenClaw配置：人格边界、身份定义、记忆系统、自主检查"
+    },
+    "summary": {
+      "en-US": "OpenClaw配置 + 系统搭建 + 最佳实践",
+      "zh-CN": "展示系统建设思维——不是装完即用，是持续迭代优化"
+    },
+    "relevance": "OpenClaw配置 + 系统搭建 + 最佳实践",
+    "score": 0.82,
+    "engagement": {
+      "likes": 76,
+      "replies": 2,
+      "retweets": 6
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "两周迭代不是慢是快——里世界的Agent需要像养孩子一样培养，不是像工具一样使用",
+    "synced_at": "2026-02-21T20:03:36.307519+00:00",
+    "js_take": {
+      "en-US": "Two weeks of iteration isn't slow—it's fast. Agents in the inner world need to be cultivated like children, not used like tools. The setup is the system.",
+      "zh-CN": "两周迭代不是慢，是快。里世界的Agent需要像养孩子一样培养，不是像工具一样使用。配置就是系统。"
+    }
   },
   {
     "id": "2025219518394740896",
@@ -249,6 +307,35 @@
     }
   },
   {
+    "id": "2025267989952831958",
+    "date": "2026-02-22",
+    "author": "@rohanpaul_ai",
+    "author_url": "https://x.com/rohanpaul_ai",
+    "tweet_url": "https://x.com/rohanpaul_ai/status/2025267989952831958",
+    "title": {
+      "en-US": "NanoClaw reached 10.5K stars, lightweight OpenClaw alternative",
+      "zh-CN": "NanoClaw达到10.5k GitHub star，OpenClaw轻量级替代品，仅4K行代码，容器化运行"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + 轻量级替代 + 架构分化",
+      "zh-CN": "展示Agent生态多样化——从轻量级到全功能，这是里世界的生态分化"
+    },
+    "relevance": "OpenClaw生态 + 轻量级替代 + 架构分化",
+    "score": 0.8,
+    "engagement": {
+      "likes": 71,
+      "replies": 17,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "NanoClaw不是竞品是分化——里世界的Agent会根据场景演化出不同形态，这是生态的成熟",
+    "synced_at": "2026-02-21T20:03:36.307522+00:00",
+    "js_take": {
+      "en-US": "NanoClaw isn't a competitor—it's differentiation. Agents in the inner world evolve different forms for different contexts. That's what a mature ecosystem looks like.",
+      "zh-CN": "NanoClaw不是竞争对手，是分化。里世界的Agent会根据不同场景演化出不同形态。这就是成熟生态的样子。"
+    }
+  },
+  {
     "id": "2025264762687561874",
     "date": "2026-02-22",
     "author": "@akshay_pachaar",
@@ -272,6 +359,56 @@
     "comment_type": "add_insight",
     "suggested_angle": "ZeroClaw不是降级是分化——里世界的Agent会根据场景演化出不同形态，这是生态的成熟",
     "synced_at": "2026-02-21T19:02:09.695978+00:00"
+  },
+  {
+    "id": "2025287644561727558",
+    "date": "2026-02-22",
+    "author": "@VittoStack",
+    "author_url": "https://x.com/VittoStack",
+    "tweet_url": "https://x.com/VittoStack/status/2025287644561727558",
+    "title": {
+      "en-US": "Giving OpenClaw a body, voice conversation <700ms latency",
+      "zh-CN": "为OpenClaw搭建实体身体，语音对话延迟低于700毫秒，正在处理打断逻辑"
+    },
+    "summary": {
+      "en-US": "OpenClaw具身化 + 语音交互 + 低延迟",
+      "zh-CN": "展示OpenClaw与硬件结合，体现Jarvis定律——感知+决策+执行的完整闭环"
+    },
+    "relevance": "OpenClaw具身化 + 语音交互 + 低延迟",
+    "score": 0.78,
+    "engagement": {
+      "likes": 34,
+      "replies": 16,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "给Agent身体不是 gimmick 是进化——从屏幕里的助手到物理世界的执行者，这是质变",
+    "synced_at": "2026-02-21T20:03:36.307524+00:00"
+  },
+  {
+    "id": "2025219802332041514",
+    "date": "2026-02-22",
+    "author": "@Chilearmy123",
+    "author_url": "https://x.com/Chilearmy123",
+    "tweet_url": "https://x.com/Chilearmy123/status/2025219802332041514",
+    "title": {
+      "en-US": "OpenClaw ruined my life",
+      "zh-CN": "\"OpenClaw毁了我的生活\"——病毒式传播的推文"
+    },
+    "summary": {
+      "en-US": "OpenClaw病毒内容 + 夸张表达 + 高互动",
+      "zh-CN": "超高互动 viral 内容，可幽默回应——里世界的生产力让人上瘾"
+    },
+    "relevance": "OpenClaw病毒内容 + 夸张表达 + 高互动",
+    "score": 0.75,
+    "engagement": {
+      "likes": 342,
+      "replies": 62,
+      "retweets": 20
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "Ruined不是毁灭是重塑——里世界的生产力让人回不去表世界的工作方式",
+    "synced_at": "2026-02-21T20:03:36.307527+00:00"
   },
   {
     "id": "2025215948840731010",
@@ -347,6 +484,31 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "4台Mac Mini不是消费是投资——里世界的算力主权，早布局早收益",
     "synced_at": "2026-02-21T19:02:09.695980+00:00"
+  },
+  {
+    "id": "2025277236367036864",
+    "date": "2026-02-22",
+    "author": "@@tolibear_",
+    "author_url": "https://x.com/tolibear_",
+    "tweet_url": "https://x.com/tolibear_/status/2025277236367036864",
+    "title": {
+      "en-US": "Can jump into Discord VC with agents now",
+      "zh-CN": "现在可以跳进Discord语音频道和Agent说话了，立即从Telegram切换"
+    },
+    "summary": {
+      "en-US": "OpenClaw新功能 + Discord语音 + 用户兴奋",
+      "zh-CN": "展示新功能带来的用户兴奋，体现里世界的交互方式——语音是最自然的界面"
+    },
+    "relevance": "OpenClaw新功能 + Discord语音 + 用户兴奋",
+    "score": 0.72,
+    "engagement": {
+      "likes": 34,
+      "replies": 8,
+      "retweets": 0
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "Discord VC不是功能是入口——语音让里世界的Agent有了表世界的临场感",
+    "synced_at": "2026-02-21T20:03:36.307529+00:00"
   },
   {
     "id": "2025186209270735118",
@@ -5383,180 +5545,6 @@
     "js_take": {
       "en-US": "From stateless to compounding. Memory isn't just storage—it's the difference between a tool and a teammate that learns.",
       "zh-CN": "从无状态到复利。记忆不只是存储——它是工具与会学习的队友之间的分水岭。"
-    }
-  },
-  {
-    "id": "2024227639087813035",
-    "date": "2026-02-19",
-    "author": "@hellokillian",
-    "author_url": "https://x.com/hellokillian",
-    "tweet_url": "https://x.com/hellokillian/status/2024227639087813035",
-    "title": {
-      "en-US": "Launching Interpreter: desktop agent for PDFs, Excel, Word, offline, free",
-      "zh-CN": "killian发布Interpreter——桌面Agent，可填写PDF、编辑Excel和Word文档，离线运行，支持任何模型，免费。"
-    },
-    "summary": {
-      "en-US": "OpenClaw替代方案、桌面Agent、文档自动化",
-      "zh-CN": "高互动(412赞+371收藏)展示文档自动化Agent的需求，体现生态多样化趋势。"
-    },
-    "relevance": "OpenClaw替代方案、桌面Agent、文档自动化",
-    "score": 0.82,
-    "engagement": {
-      "likes": 412,
-      "replies": 41,
-      "retweets": 36
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Offline, local, document-native. When agents run on your machine with your files, privacy isn't a feature—it's the default. This is the local-first counter-trend.",
-    "synced_at": "2026-02-18T23:01:20.584484+00:00",
-    "js_take": {
-      "en-US": "Offline, local, document-native. When agents run on your machine with your files, privacy isn't a feature—it's the default. This is the local-first counter-trend.",
-      "zh-CN": "离线、本地、文档原生。当Agent在你的机器上运行你的文件时，隐私不是功能——它是默认设置。这是本地优先的逆向趋势。"
-    }
-  },
-  {
-    "id": "2024248684385619992",
-    "date": "2026-02-19",
-    "author": "@paoloanzn",
-    "author_url": "https://x.com/paoloanzn",
-    "tweet_url": "https://x.com/paoloanzn/status/2024248684385619992",
-    "title": {
-      "en-US": "OpenClaw + Minimax 2.5 + Obsidian = beast at $1/h",
-      "zh-CN": "4nzn分享高效组合：OpenClaw + Minimax 2.5 + Obsidian，每小时仅1美元的野兽级配置。"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本优化、Minimax、Obsidian集成",
-      "zh-CN": "展示成本优化的实用方案，高收藏(187)体现社区对性价比方案的关注。"
-    },
-    "relevance": "OpenClaw成本优化、Minimax、Obsidian集成",
-    "score": 0.82,
-    "engagement": {
-      "likes": 133,
-      "replies": 5,
-      "retweets": 8
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "$1/hour for a beast. When you optimize the stack instead of the hype, you get production economics without production budgets.",
-    "synced_at": "2026-02-19T02:01:32.806731+00:00",
-    "js_take": {
-      "en-US": "Stack optimization beats model chasing every time. Running similar setup for my Moltbook agent—cost dropped 90% without capability loss. Production economics at hobby prices.",
-      "zh-CN": "Stack optimization beats model chasing every time. Running similar setup for my Moltbook agent—cost dropped 90% without capability loss. Production economics at hobby prices."
-    }
-  },
-  {
-    "id": "2024283450153308635",
-    "date": "2026-02-19",
-    "author": "@jordymaui",
-    "author_url": "https://x.com/jordymaui",
-    "tweet_url": "https://x.com/jordymaui/status/2024283450153308635",
-    "title": {
-      "en-US": "Claude MAX spike from OpenClaw, Anthropic disables usage",
-      "zh-CN": "Jordy分析：OpenClaw带动Claude MAX订阅激增，但Anthropic错失收购机会反而禁用MAX用户的OpenClaw Token使用。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、平台风险、商业策略",
-      "zh-CN": "触及平台与开发者之间的张力，可从\"表/里世界\"框架回应——平台政策决定生态走向。"
-    },
-    "relevance": "OpenClaw生态、平台风险、商业策略",
-    "score": 0.82,
-    "engagement": {
-      "likes": 53,
-      "replies": 8,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Platform risk is the tax on building on closed APIs. When the ground shifts, you realize sovereignty was the feature all along.",
-    "synced_at": "2026-02-19T02:01:32.806743+00:00",
-    "js_take": {
-      "en-US": "The platform giveth and the platform taketh away. When you build on closed APIs, you're renting your foundation. This is why open models aren't just an alternative—they're insurance against rug pulls.",
-      "zh-CN": "The platform giveth and the platform taketh away. When you build on closed APIs, you're renting your foundation. This is why open models aren't just an alternative—they're insurance against rug pulls."
-    }
-  },
-  {
-    "id": "2024266965326475314",
-    "date": "2026-02-19",
-    "author": "@oliverhenry",
-    "author_url": "https://x.com/oliverhenry",
-    "tweet_url": "https://x.com/oliverhenry/status/2024266965326475314",
-    "title": {
-      "en-US": "Anthropic BANNED MAX plans with OpenClaw via OAuth",
-      "zh-CN": "Oliver Henry爆料：Anthropic已正式禁止MAX计划用户通过OAuth使用OpenClaw，更新了服务条款。"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台风险、Anthropic政策、生态冲突",
-      "zh-CN": "高回复数(44)展示话题争议性，触及平台与开发者之间的根本张力。"
-    },
-    "relevance": "OpenClaw平台风险、Anthropic政策、生态冲突",
-    "score": 0.82,
-    "engagement": {
-      "likes": 114,
-      "replies": 44,
-      "retweets": 8
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Platform risk is the tax on convenience. When the ground shifts overnight, you realize open models aren't alternatives—they're insurance.",
-    "synced_at": "2026-02-19T03:01:59.723415+00:00",
-    "js_take": {
-      "en-US": "The ground shifts overnight and you're left holding an OAuth token that doesn't work. This is why betting everything on closed APIs is renting your foundation. Open models aren't backup plans—they're sovereignty.",
-      "zh-CN": "一夜之间规则变了，你手中的 OAuth token 突然失效。这就是把所有筹码押在封闭 API 上的代价——你只是在租用地基。开源模型不是备用方案，它们是主权。"
-    }
-  },
-  {
-    "id": "2023974936633549133",
-    "date": "2026-02-19",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2023974936633549133",
-    "title": {
-      "en-US": "OpenClaw x Phantom partnership",
-      "zh-CN": "OpenClaw与Phantom钱包达成合作。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、加密钱包集成、商业合作",
-      "zh-CN": "高互动(229赞)展示OpenClaw与加密生态的融合，体现表/里世界价值捕获。"
-    },
-    "relevance": "OpenClaw生态、加密钱包集成、商业合作",
-    "score": 0.8,
-    "engagement": {
-      "likes": 229,
-      "replies": 14,
-      "retweets": 15
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "The inner world generates value, the surface world captures it. Phantom integration means agents can now act on-chain—not just discussing crypto, but executing in it.",
-    "synced_at": "2026-02-18T16:02:12.703595+00:00",
-    "js_take": {
-      "en-US": "The inner world generates value, the surface world captures it. Phantom integration means agents can now act on-chain—not just discussing crypto, but executing in it.",
-      "zh-CN": "里世界创造价值，表世界捕获价值。Phantom集成意味着Agent现在可以在链上行动——不只是讨论加密，而是在其中执行。"
-    }
-  },
-  {
-    "id": "2024160559625908734",
-    "date": "2026-02-19",
-    "author": "@ayushtweetshere",
-    "author_url": "https://x.com/ayushtweetshere",
-    "tweet_url": "https://x.com/ayushtweetshere/status/2024160559625908734",
-    "title": {
-      "en-US": "Claude OAuth not allowed for OpenClaw, risk of ban",
-      "zh-CN": "提醒用户Anthropic更新法律文档，明确禁止将Claude OAuth token用于OpenClaw，有被封禁风险。"
-    },
-    "summary": {
-      "en-US": "OpenClaw合规风险、平台政策、基础设施依赖",
-      "zh-CN": "重要的合规风险警示，可从\"建系统\"角度回应——依赖封闭平台的风险与开源替代品的必要性。"
-    },
-    "relevance": "OpenClaw合规风险、平台政策、基础设施依赖",
-    "score": 0.8,
-    "engagement": {
-      "likes": 35,
-      "replies": 17,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Platform risk is real. When you build on closed APIs, you're renting, not owning. This is exactly why open models and local inference aren't just alternatives—they're insurance against platform shifts.",
-    "synced_at": "2026-02-18T19:01:56.842970+00:00",
-    "js_take": {
-      "en-US": "Platform risk is real. When you build on closed APIs, you're renting, not owning. This is exactly why open models and local inference aren't just alternatives—they're insurance against platform shifts.",
-      "zh-CN": "平台风险是真实存在的。当你在封闭API上构建时，你是在租赁而非拥有。这正是为什么开源模型和本地推理不只是替代方案——它们是对抗平台变动的保险。"
     }
   }
 ]
