@@ -83,6 +83,35 @@
     "synced_at": "2026-02-21T17:03:35.873923+00:00"
   },
   {
+    "id": "2025297498206531697",
+    "date": "2026-02-22",
+    "author": "@icobeast",
+    "author_url": "https://x.com/icobeast",
+    "tweet_url": "https://x.com/icobeast/status/2025297498206531697",
+    "title": {
+      "en-US": "Set up local cluster for OpenClaw: 2x DGX Spark, M3 Ultra, 4x M4 Mini, 2x RasPi 5",
+      "zh-CN": "搭建OpenClaw本地集群：DGX Spark、M3 Ultra、M4 Mini、树莓派"
+    },
+    "summary": {
+      "en-US": "OpenClaw硬件集群 + 本地部署 + 算力投资",
+      "zh-CN": "OpenClaw硬件集群、本地部署与算力投资"
+    },
+    "relevance": "OpenClaw硬件集群 + 本地部署 + 算力投资",
+    "score": 0.88,
+    "engagement": {
+      "likes": 248,
+      "replies": 164,
+      "retweets": 6
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "这套配置不是消费是基建——里世界的算力主权，早布局早收益",
+    "synced_at": "2026-02-21T22:01:52.574589+00:00",
+    "js_take": {
+      "en-US": "This setup isn't consumption—it's infrastructure. Compute sovereignty in the inner world. The sooner you lay the foundation, the sooner the migration accelerates.",
+      "zh-CN": "这套配置不是消费，是基础设施。里世界的算力主权。越早打好基础，迁徙就越快加速。"
+    }
+  },
+  {
     "id": "2025231564247081328",
     "date": "2026-02-22",
     "author": "@petergyang",
@@ -199,6 +228,35 @@
     }
   },
   {
+    "id": "2025296354751418874",
+    "date": "2026-02-22",
+    "author": "@JulianGoldieSEO",
+    "author_url": "https://x.com/JulianGoldieSEO",
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/2025296354751418874",
+    "title": {
+      "en-US": "OpenClaw Mission Control: dashboard, Kanban, agent chat, real-time approval",
+      "zh-CN": "OpenClaw Mission Control：仪表盘、看板、Agent对话、实时批准"
+    },
+    "summary": {
+      "en-US": "OpenClaw新功能 + 多Agent管理 + 控制中心",
+      "zh-CN": "OpenClaw新功能、多Agent管理与控制中心"
+    },
+    "relevance": "OpenClaw新功能 + 多Agent管理 + 控制中心",
+    "score": 0.85,
+    "engagement": {
+      "likes": 39,
+      "replies": 3,
+      "retweets": 5
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Mission Control不是仪表盘是指挥中心——里世界的Agent需要表世界的入口，这是生态成熟的标志",
+    "synced_at": "2026-02-21T22:01:52.574594+00:00",
+    "js_take": {
+      "en-US": "Mission Control isn't a dashboard—it's a command center. Agents in the inner world need an entry point in the surface world. That's what a mature ecosystem looks like.",
+      "zh-CN": "Mission Control不是仪表盘，是指挥中心。里世界的Agent需要表世界的入口。这就是成熟生态的样子。"
+    }
+  },
+  {
     "id": "2025215377475564026",
     "date": "2026-02-22",
     "author": "@_0xKenny",
@@ -279,6 +337,35 @@
     "js_take": {
       "en-US": "Two weeks of iteration isn't slow—it's fast. Agents in the inner world need to be cultivated like children, not used like tools. The setup is the system.",
       "zh-CN": "两周迭代不是慢，是快。里世界的Agent需要像养孩子一样培养，不是像工具一样使用。配置就是系统。"
+    }
+  },
+  {
+    "id": "2025224778878157232",
+    "date": "2026-02-22",
+    "author": "@thekitze",
+    "author_url": "https://x.com/thekitze",
+    "tweet_url": "https://x.com/thekitze/status/2025224778878157232",
+    "title": {
+      "en-US": "OpenClaw web search skill with 10 providers, consolidated output",
+      "zh-CN": "Tinkerer.club成员制作的OpenClaw网页搜索skill，使用10个不同搜索提供商，结构化输出结果"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skill + 搜索聚合 + 社区贡献",
+      "zh-CN": "展示社区Skill生态，体现系统思维——不是单一来源是多元聚合"
+    },
+    "relevance": "OpenClaw Skill + 搜索聚合 + 社区贡献",
+    "score": 0.82,
+    "engagement": {
+      "likes": 82,
+      "replies": 10,
+      "retweets": 4
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "10个提供商不是冗余是韧性——里世界的搜索需要突破单一信息源，这是认知的多样性",
+    "synced_at": "2026-02-21T22:01:52.574597+00:00",
+    "js_take": {
+      "en-US": "Ten providers isn't redundancy—it's resilience. Search in the inner world needs to break through single information sources. That's cognitive diversity.",
+      "zh-CN": "十个提供商不是冗余，是韧性。里世界的搜索需要突破单一信息源。这就是认知的多样性。"
     }
   },
   {
@@ -5450,93 +5537,6 @@
     "js_take": {
       "en-US": "Good patterns transcend language. When Python devs and Go devs build the same thing independently, you've found something fundamental. OpenClaw isn't code—it's an interface.",
       "zh-CN": "好的模式超越语言。当Python和Go开发者独立做出同样的东西，你就发现了某种本质。OpenClaw不是代码，而是接口。"
-    }
-  },
-  {
-    "id": "2024430461540335641",
-    "date": "2026-02-19",
-    "author": "@AntoineRSX",
-    "author_url": "https://x.com/AntoineRSX",
-    "tweet_url": "https://x.com/AntoineRSX/status/2024430461540335641",
-    "title": {
-      "en-US": "OpenClaw business doing +$200/day",
-      "zh-CN": "Antoine分享他的OpenClaw自己建立的业务，已实现每天200美元以上收入，强调avatar的重要性。"
-    },
-    "summary": {
-      "en-US": "OpenClaw变现、Agent商业化、自动化业务",
-      "zh-CN": "高收藏(113)展示OpenClaw实际变现案例，体现Agent从工具向自主商业体的演进。"
-    },
-    "relevance": "OpenClaw变现、Agent商业化、自动化业务",
-    "score": 0.84,
-    "engagement": {
-      "likes": 89,
-      "replies": 5,
-      "retweets": 3
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "When your agent becomes the entrepreneur. $200/day isn't just revenue—it's proof that agents can handle the full business loop, not just tasks.",
-    "synced_at": "2026-02-19T12:02:27.894747+00:00",
-    "js_take": {
-      "en-US": "$200/day from an agent-built business. Revenue proves it can handle the full loop—not just tasks, but strategy, execution, and iteration.",
-      "zh-CN": "Agent搭建的业务日入200美元。收入证明它能处理完整闭环——不只是任务，还有战略、执行和迭代。"
-    }
-  },
-  {
-    "id": "2024170000181817764",
-    "date": "2026-02-19",
-    "author": "@GanimCorey",
-    "author_url": "https://x.com/GanimCorey",
-    "tweet_url": "https://x.com/GanimCorey/status/2024170000181817764",
-    "title": {
-      "en-US": "Send tweet link to OpenClaw, agent analyzes and builds implementation plan",
-      "zh-CN": "用户分享使用OpenClaw的工作流：看到推文的链接直接发给OpenClaw，让Agent分析并生成执行计划，然后自动执行。"
-    },
-    "summary": {
-      "en-US": "OpenClaw实际应用、Agent工作流、意图到执行",
-      "zh-CN": "展示OpenClaw从\"看到想法\"到\"执行完成\"的闭环，符合Jarvis定律的感知-决策-执行闭环。"
-    },
-    "relevance": "OpenClaw实际应用、Agent工作流、意图到执行",
-    "score": 0.83,
-    "engagement": {
-      "likes": 89,
-      "replies": 10,
-      "retweets": 4
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "See something interesting → Send to agent → Implementation plan → Execute. This is the loop that changes everything. The barrier between inspiration and execution is collapsing.",
-    "synced_at": "2026-02-18T19:01:56.842967+00:00",
-    "js_take": {
-      "en-US": "See something interesting → Send to agent → Implementation plan → Execute. This is the loop that changes everything. The barrier between inspiration and execution is collapsing.",
-      "zh-CN": "看到有趣的东西→发给Agent→生成执行计划→执行。这就是改变一切的闭环。灵感与执行之间的壁垒正在崩塌。"
-    }
-  },
-  {
-    "id": "2024334527217455270",
-    "date": "2026-02-19",
-    "author": "@rileybrown",
-    "author_url": "https://x.com/rileybrown",
-    "tweet_url": "https://x.com/rileybrown/status/2024334527217455270",
-    "title": {
-      "en-US": "OpenClaw controls Blender, creates animated 3D models",
-      "zh-CN": "Riley Brown分享OpenClaw可以控制Blender并创建可动画的3D模型，可插入网站。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、Blender、3D工作流自动化",
-      "zh-CN": "展示OpenClaw在创意工具中的深度集成，体现Agent作为生产力工具的价值。"
-    },
-    "relevance": "OpenClaw、Blender、3D工作流自动化",
-    "score": 0.83,
-    "engagement": {
-      "likes": 31,
-      "replies": 5,
-      "retweets": 6
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "When the agent speaks Blender, the gap between ideation and 3D asset collapses. One prompt to model, rig, and deploy. This is Jarvis Law in action.",
-    "synced_at": "2026-02-19T05:01:38.246708+00:00",
-    "js_take": {
-      "en-US": "One prompt to model, rig, and deploy. When the agent speaks the language of the tool, the barrier between imagination and artifact collapses. This is the workflow compression that changes industries.",
-      "zh-CN": "一条提示词完成建模、绑定和部署。当 Agent 能\"说\"工具的语言，想象与成品之间的壁垒就崩塌了。这就是改变行业的工作流压缩。"
     }
   }
 ]
