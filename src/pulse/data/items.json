@@ -750,6 +750,35 @@
     }
   },
   {
+    "id": "2025038812897010134",
+    "date": "2026-02-21",
+    "author": "@shao__meng",
+    "author_url": "https://x.com/shao__meng",
+    "tweet_url": "https://x.com/shao__meng/status/2025038812897010134",
+    "title": {
+      "en-US": "pi_agent_rust: OpenClaw Pi framework in Rust, 100ms startup, 8-13x lower memory",
+      "zh-CN": "pi_agent_rust：OpenClaw Pi 框架 Rust 版，启动仅100ms，内存降低8-13倍"
+    },
+    "summary": {
+      "en-US": "OpenClaw 性能优化 + Rust 重构 + 基础设施",
+      "zh-CN": "OpenClaw 底层性能优化：Rust 重构带来的系统级提升"
+    },
+    "relevance": "OpenClaw 性能优化 + Rust 重构 + 基础设施",
+    "score": 0.85,
+    "engagement": {
+      "likes": 15,
+      "retweets": 5,
+      "replies": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这才是真正的系统复利：不是堆功能，而是底层优化带来的乘数效应",
+    "synced_at": "2026-02-21T08:02:53.887824+00:00",
+    "js_take": {
+      "en-US": "This is compound interest in action. Not feature bloat—foundation optimization. When your runtime gets 10x leaner, everything built on top multiplies. That's the difference between spectacle and system.",
+      "zh-CN": "这才是真正的系统复利。不是功能堆砌，而是底层优化。当运行时精简10倍，上层所有构建都能获得乘数效应。这就是奇观与系统的区别。"
+    }
+  },
+  {
     "id": "2024769540346065358",
     "date": "2026-02-21",
     "author": "@quanruzhuoxiu",
@@ -5522,37 +5551,6 @@
     "js_take": {
       "en-US": "This is the shift from surface to inner web.\n\nCloud agents call APIs — they're still browsing. Local agents *live* in your environment. Perception, decision, execution — the Jarvis loop closes locally.\n\nThat's why OpenClaw feels different. It moved into the inner world.",
       "zh-CN": "This is the shift from surface to inner web.\n\nCloud agents call APIs — they're still browsing. Local agents *live* in your environment. Perception, decision, execution — the Jarvis loop closes locally.\n\nThat's why OpenClaw feels different. It moved into the inner world."
-    }
-  },
-  {
-    "id": "2023793493349724183",
-    "date": "2026-02-18",
-    "author": "@turingbook",
-    "author_url": "https://x.com/turingbook",
-    "tweet_url": "https://x.com/turingbook/status/2023793493349724183",
-    "title": {
-      "en-US": "Software/SaaS moat collapses before AI. Natural interface advantage over GUI. OpenClaw is a preview.",
-      "zh-CN": "分析AI时代软件/SaaS护城河如何崩塌，大模型的自然界面对传统图形界面有巨大优势，OpenClaw是这种威力的牛刀小试。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、自然界面、表/里世界",
-      "zh-CN": "可用'表/里世界迁徙'框架深入回应——自然界面是里世界的入口，GUI正在退化为数据库"
-    },
-    "relevance": "OpenClaw、自然界面、表/里世界",
-    "score": 0.88,
-    "engagement": {
-      "likes": 30,
-      "replies": 0,
-      "retweets": 5,
-      "views": 7406,
-      "bookmarks": 30
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用'表/里世界'框架延伸：GUI是表世界的交互层，自然语言是里世界的操作系统；OpenClaw不是工具升级，是交互层的代际迁移",
-    "synced_at": "2026-02-17T18:01:51.020786+00:00",
-    "js_take": {
-      "en-US": "This is the migration from surface to inner web.\n\nGUI was the interface layer of the surface world — websites, apps, databases. Natural language is the OS of the inner world where agents live.\n\nOpenClaw isn't a tool upgrade. It's a generational shift in where computation happens.",
-      "zh-CN": "This is the migration from surface to inner web.\n\nGUI was the interface layer of the surface world — websites, apps, databases. Natural language is the OS of the inner world where agents live.\n\nOpenClaw isn't a tool upgrade. It's a generational shift in where computation happens."
     }
   }
 ]
