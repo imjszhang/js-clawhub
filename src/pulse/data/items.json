@@ -87,6 +87,35 @@
     }
   },
   {
+    "id": "2024999368982757509",
+    "date": "2026-02-21",
+    "author": "@simonw",
+    "author_url": "https://x.com/simonw",
+    "tweet_url": "https://x.com/simonw/status/2024999368982757509",
+    "title": {
+      "en-US": "\"Claw\" becoming term of art for OpenClaw-like agent systems",
+      "zh-CN": "Simon Willison：\"Claw\" 正在成为 OpenClaw 类代理系统的一个品类术语"
+    },
+    "summary": {
+      "en-US": "OpenClaw 品类化 + 行业术语 + Simon Willison",
+      "zh-CN": "顶级开发者确认 Claw 成为品类术语，印证表/里世界迁徙的行业共识"
+    },
+    "relevance": "OpenClaw 品类化 + 行业术语 + Simon Willison",
+    "score": 0.92,
+    "engagement": {
+      "likes": 299,
+      "retweets": 9,
+      "replies": 33
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "当品类术语形成时，表/里世界的迁徙已从边缘进入主流认知",
+    "synced_at": "2026-02-21T09:04:11.716478+00:00",
+    "js_take": {
+      "en-US": "When the category gets a name, the migration is no longer fringe. The inner world has crossed the chasm from hacker curiosity to industry vocabulary.",
+      "zh-CN": "When the category gets a name, the migration is no longer fringe. The inner world has crossed the chasm from hacker curiosity to industry vocabulary."
+    }
+  },
+  {
     "id": "2024886789933285829",
     "date": "2026-02-21",
     "author": "@AlexFinn",
@@ -1257,6 +1286,31 @@
     "synced_at": "2026-02-21T05:01:22.989136+00:00"
   },
   {
+    "id": "2024837440075153550",
+    "date": "2026-02-21",
+    "author": "@venelinkochev",
+    "author_url": "https://x.com/venelinkochev",
+    "tweet_url": "https://x.com/venelinkochev/status/2024837440075153550",
+    "title": {
+      "en-US": "OpenClaw pre-built configurations for developer, solopreneur, marketing",
+      "zh-CN": "OpenClaw 预构建配置：开发者、个体创业者、营销、客服等场景开箱即用"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 配置模板 + 降低门槛",
+      "zh-CN": "降低 OpenClaw 使用门槛的实用工具，契合系统搭建思维"
+    },
+    "relevance": "OpenClaw + 配置模板 + 降低门槛",
+    "score": 0.75,
+    "engagement": {
+      "likes": 53,
+      "retweets": 1,
+      "replies": 17
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "预配置模板让系统搭建从0到1，这是里世界的基础设施民主化",
+    "synced_at": "2026-02-21T09:04:11.716483+00:00"
+  },
+  {
     "id": "2025069983915737398",
     "date": "2026-02-21",
     "author": "@QingQ77",
@@ -1280,6 +1334,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "真正的系统复利：不是堆功能，而是极简基础设施的乘数效应",
     "synced_at": "2026-02-21T07:02:26.669874+00:00"
+  },
+  {
+    "id": "2024952834534625498",
+    "date": "2026-02-21",
+    "author": "@billtheinvestor",
+    "author_url": "https://x.com/billtheinvestor",
+    "tweet_url": "https://x.com/billtheinvestor/status/2024952834534625498",
+    "title": {
+      "en-US": "Alex Finn OpenClaw setup tips: brain dump全脑倾倒让Agent懂你",
+      "zh-CN": "Alex Finn 的 OpenClaw 经验：配置不对Agent就拉胯，5大步骤让AI变身24/7 AGI团队"
+    },
+    "summary": {
+      "en-US": "OpenClaw 配置优化 + 中文圈 + Agent调教",
+      "zh-CN": "中文圈的 OpenClaw 实战经验，展示 Agent 配置的系统思维"
+    },
+    "relevance": "OpenClaw 配置优化 + 中文圈 + Agent调教",
+    "score": 0.72,
+    "engagement": {
+      "likes": 118,
+      "retweets": 23,
+      "replies": 4
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "Brain dump 是里世界的初始化——让 Agent 理解你的 context，而非反复解释",
+    "synced_at": "2026-02-21T09:04:11.716486+00:00"
   },
   {
     "id": "2024867046463349246",
@@ -5458,97 +5537,6 @@
     "js_take": {
       "en-US": "100x in the agent era means systems architected, not code written. One person orchestrating an army of agents—multiplication happens at the coordination layer, not the keyboard.",
       "zh-CN": "100x in the agent era means systems architected, not code written. One person orchestrating an army of agents—multiplication happens at the coordination layer, not the keyboard."
-    }
-  },
-  {
-    "id": "2023419626030510465",
-    "date": "2026-02-18",
-    "author": "@paraschopra",
-    "author_url": "https://x.com/paraschopra",
-    "tweet_url": "https://x.com/paraschopra/status/2023419626030510465",
-    "title": {
-      "en-US": "OpenClaw went viral because of creator's number of attempts. Virality is function of shots taken.",
-      "zh-CN": "分析OpenClaw为何爆火：因为创作者尝试的项目数量多，病毒传播是尝试次数的函数。"
-    },
-    "summary": {
-      "en-US": "OpenClaw成功分析、病毒传播",
-      "zh-CN": "高曝光推文，可用'建系统vs造奇观'框架回应——OpenClaw的成功不是运气，是系统能力的积累"
-    },
-    "relevance": "OpenClaw成功分析、病毒传播",
-    "score": 0.9,
-    "engagement": {
-      "likes": 3664,
-      "replies": 213,
-      "retweets": 341,
-      "views": 361691,
-      "bookmarks": 2216
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "从道家'势'的角度：不是尝试次数多，是每次都在建系统；Civilization里新手造奇观，高手搞复利",
-    "synced_at": "2026-02-17T17:04:17.141042+00:00",
-    "js_take": {
-      "en-US": "It's not about taking more shots. It's about building systems that compound.\n\nIn Civilization, beginners chase wonders. Masters build infrastructure that generates value while they sleep.\n\nOpenClaw went viral because it's a system, not a stunt.",
-      "zh-CN": "It's not about taking more shots. It's about building systems that compound.\n\nIn Civilization, beginners chase wonders. Masters build infrastructure that generates value while they sleep.\n\nOpenClaw went viral because it's a system, not a stunt."
-    }
-  },
-  {
-    "id": "2023806825062449424",
-    "date": "2026-02-18",
-    "author": "@aidenybai",
-    "author_url": "https://x.com/aidenybai",
-    "tweet_url": "https://x.com/aidenybai/status/2023806825062449424",
-    "title": {
-      "en-US": "React Doctor - scan React codebase for anti-patterns. Run as CLI or agent skill. Open source.",
-      "zh-CN": "发布React Doctor工具，可以扫描React代码库中的反模式，可作为CLI或Agent技能运行，完全开源。"
-    },
-    "summary": {
-      "en-US": "OpenClaw技能生态、开发者工具",
-      "zh-CN": "高曝光技术推文，体现Agent技能向垂直开发工具延伸的趋势，可用Jarvis定律回应"
-    },
-    "relevance": "OpenClaw技能生态、开发者工具",
-    "score": 0.9,
-    "engagement": {
-      "likes": 1582,
-      "replies": 83,
-      "retweets": 111,
-      "views": 77258,
-      "bookmarks": 1838
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同并延伸：React Doctor是Jarvis定律的又一验证——感知(代码扫描)+决策(问题识别)+执行(修复建议)闭环越完整，工具越像Jarvis",
-    "synced_at": "2026-02-17T19:02:13.453842+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law in action.\n\nPerception (code scanning) + Decision (pattern recognition) + Execution (fix suggestions). The tighter the loop, the more Jarvis-like it becomes.\n\nAgent skills aren't add-ons. They're the new interface.",
-      "zh-CN": "Jarvis Law in action.\n\nPerception (code scanning) + Decision (pattern recognition) + Execution (fix suggestions). The tighter the loop, the more Jarvis-like it becomes.\n\nAgent skills aren't add-ons. They're the new interface."
-    }
-  },
-  {
-    "id": "2023834567984214502",
-    "date": "2026-02-18",
-    "author": "@AlicanKiraz0",
-    "author_url": "https://x.com/AlicanKiraz0",
-    "tweet_url": "https://x.com/AlicanKiraz0/status/2023834567984214502",
-    "title": {
-      "en-US": "Local Jarvis with Raspberry Pi 5 + Whisper + Minimax + OpenClaw",
-      "zh-CN": "展示用树莓派5 + Whisper + Minimax + OpenClaw搭建本地Jarvis的项目。"
-    },
-    "summary": {
-      "en-US": "OpenClaw硬件集成、Jarvis构建、边缘计算",
-      "zh-CN": "超高互动(689赞)展示OpenClaw在边缘设备上的应用，完美契合\"Jarvis定律\"——感知+决策+执行的完整闭环。"
-    },
-    "relevance": "OpenClaw硬件集成、Jarvis构建、边缘计算",
-    "score": 0.9,
-    "engagement": {
-      "likes": 689,
-      "replies": 52,
-      "retweets": 24
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Jarvis on a Pi. When you can run the full stack locally—perception, reasoning, execution—you're not just using AI, you're hosting intelligence. This is the infrastructure of the inner world.",
-    "synced_at": "2026-02-18T12:02:36.187052+00:00",
-    "js_take": {
-      "en-US": "Jarvis on a Pi. When you can run the full stack locally—perception, reasoning, execution—you're not just using AI, you're hosting intelligence. This is the infrastructure of the inner world.",
-      "zh-CN": "Jarvis on a Pi. When you can run the full stack locally—perception, reasoning, execution—you're not just using AI, you're hosting intelligence. This is the infrastructure of the inner world."
     }
   }
 ]
