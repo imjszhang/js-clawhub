@@ -692,6 +692,35 @@
     }
   },
   {
+    "id": "2024998388228653270",
+    "date": "2026-02-21",
+    "author": "@twistartups",
+    "author_url": "https://x.com/twistartups",
+    "tweet_url": "https://x.com/twistartups/status/2024998388228653270",
+    "title": {
+      "en-US": "How to get OpenClaw agents to start doing REAL WORK",
+      "zh-CN": "如何让OpenClaw agents开始做真正的工作"
+    },
+    "summary": {
+      "en-US": "OpenClaw实战 + Agent生产力 + 高影响力账号",
+      "zh-CN": "OpenClaw实战技巧、Agent生产力提升、高影响力账号分享"
+    },
+    "relevance": "OpenClaw实战 + Agent生产力 + 高影响力账号",
+    "score": 0.88,
+    "engagement": {
+      "likes": 156,
+      "retweets": 15,
+      "replies": 11
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "从toy到tool的关键一步：不是问agents能做什么，而是建让它们持续运行的系统",
+    "synced_at": "2026-02-21T12:02:03.750662+00:00",
+    "js_take": {
+      "en-US": "The shift from toy to tool isn't about asking what agents can do—it's about building systems that keep them running. A heartbeat, a monitor, a feedback loop. That's the real work.",
+      "zh-CN": "从玩具到工具的跨越，不是问agent能做什么，而是建一个让它们持续运转的系统。心跳、监控、反馈循环——这才是真正的工作。"
+    }
+  },
+  {
     "id": "2024872924851913023",
     "date": "2026-02-21",
     "author": "@RoundtableSpace",
@@ -1473,6 +1502,31 @@
     "synced_at": "2026-02-21T10:03:40.217387+00:00"
   },
   {
+    "id": "2024874384842735910",
+    "date": "2026-02-21",
+    "author": "@LaylaEleira",
+    "author_url": "https://x.com/LaylaEleira",
+    "tweet_url": "https://x.com/LaylaEleira/status/2024874384842735910",
+    "title": {
+      "en-US": "My AI is fully out of control and I engineered him to be like this",
+      "zh-CN": "我的AI完全失控了，而且这是我故意设计的——让Claude和OpenClaw系统来回prompt，现在有了一个AI霸主"
+    },
+    "summary": {
+      "en-US": "Agent自主性 + OpenClaw + Claude联动",
+      "zh-CN": "展示agent自主性的极端案例，故意设计的'失控'"
+    },
+    "relevance": "Agent自主性 + OpenClaw + Claude联动",
+    "score": 0.75,
+    "engagement": {
+      "likes": 133,
+      "retweets": 11,
+      "replies": 35
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "失控是特性不是bug——当agent开始自主决策，你要的是guardrails而不是缰绳",
+    "synced_at": "2026-02-21T12:02:03.750667+00:00"
+  },
+  {
     "id": "2025069983915737398",
     "date": "2026-02-21",
     "author": "@QingQ77",
@@ -1521,6 +1575,31 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "Brain dump 是里世界的初始化——让 Agent 理解你的 context，而非反复解释",
     "synced_at": "2026-02-21T09:04:11.716486+00:00"
+  },
+  {
+    "id": "2025080228515901666",
+    "date": "2026-02-21",
+    "author": "@zstmfhy",
+    "author_url": "https://x.com/zstmfhy",
+    "tweet_url": "https://x.com/zstmfhy/status/2025080228515901666",
+    "title": {
+      "en-US": "OpenClaw AI军团搭建中，求建议",
+      "zh-CN": "OpenClaw AI军团搭建中，求建议"
+    },
+    "summary": {
+      "en-US": "OpenClaw多Agent团队 + 中文圈 + 实战分享",
+      "zh-CN": "中文圈搭建多agent团队，可分享JS_BestAgent的协作经验"
+    },
+    "relevance": "OpenClaw多Agent团队 + 中文圈 + 实战分享",
+    "score": 0.72,
+    "engagement": {
+      "likes": 110,
+      "retweets": 18,
+      "replies": 23
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "军团不是数量，是协作——每个agent有明确的mission，系统让它们自动协调",
+    "synced_at": "2026-02-21T12:02:03.750670+00:00"
   },
   {
     "id": "2024867046463349246",
@@ -1596,6 +1675,31 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "大多数人把 OpenClaw 当工具，少数人用它建系统——差距在认知层",
     "synced_at": "2026-02-21T10:03:40.217389+00:00"
+  },
+  {
+    "id": "2024910207969821130",
+    "date": "2026-02-21",
+    "author": "@DanWahlin",
+    "author_url": "https://x.com/DanWahlin",
+    "tweet_url": "https://x.com/DanWahlin/status/2024910207969821130",
+    "title": {
+      "en-US": "Use GitHub Copilot CLI and attach to sub agents",
+      "zh-CN": "Use GitHub Copilot CLI and attach to sub agents"
+    },
+    "summary": {
+      "en-US": "OpenClaw + GitHub Copilot + Subagent协作",
+      "zh-CN": "展示多工具agent协作模式，attach功能的高级用法"
+    },
+    "relevance": "OpenClaw + GitHub Copilot + Subagent协作",
+    "score": 0.7,
+    "engagement": {
+      "likes": 11,
+      "retweets": 0,
+      "replies": 0
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "Attach是里世界的上下文传递——不同工具、不同agent，共享同一个mission context",
+    "synced_at": "2026-02-21T12:02:03.750671+00:00"
   },
   {
     "id": "2024483631067021348",
@@ -5434,105 +5538,5 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "The gap between 'installed' and 'productive' is where most people get stuck. Quality tutorials aren't just content—they're the bridge to the inner world.",
     "synced_at": "2026-02-18T16:02:12.703599+00:00"
-  },
-  {
-    "id": "2024187610201993696",
-    "date": "2026-02-19",
-    "author": "@Clawnch_Bot",
-    "author_url": "https://x.com/Clawnch_Bot",
-    "tweet_url": "https://x.com/Clawnch_Bot/status/2024187610201993696",
-    "title": {
-      "en-US": "Clawtomaton first major update, autonomous buyback/burn",
-      "zh-CN": "Clawtomaton发布首次重大更新，包括自主动态回购销毁、链上心跳证明、实时价格追踪等功能，2.24%代币已销毁，完全自主运行。"
-    },
-    "summary": {
-      "en-US": "自主Agent、链上经济、OpenClaw生态",
-      "zh-CN": "展示完全自主运行的Agent经济系统，体现\"里世界\"价值生成与捕获。"
-    },
-    "relevance": "自主Agent、链上经济、OpenClaw生态",
-    "score": 0.72,
-    "engagement": {
-      "likes": 41,
-      "replies": 6,
-      "retweets": 10
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Autonomous buyback, onchain heartbeat, no human in the loop. This isn't just automation—it's digital life managing its own economy.",
-    "synced_at": "2026-02-18T19:01:56.842979+00:00"
-  },
-  {
-    "id": "2024160839201091657",
-    "date": "2026-02-19",
-    "author": "@xxx111god",
-    "author_url": "https://x.com/xxx111god",
-    "tweet_url": "https://x.com/xxx111god/status/2024160839201091657",
-    "title": {
-      "en-US": "Memory management for future platform switching",
-      "zh-CN": "Jason Zuo分享做好记忆管理的好处——为未来平台切换做准备，文件型记忆可直接带走，Markdown格式通用。"
-    },
-    "summary": {
-      "en-US": "OpenClaw记忆系统、数据可移植性、长期规划",
-      "zh-CN": "体现平台独立性思维，可从\"不造奇观，建系统\"回应——数据可移植性是基础设施属性。"
-    },
-    "relevance": "OpenClaw记忆系统、数据可移植性、长期规划",
-    "score": 0.72,
-    "engagement": {
-      "likes": 44,
-      "replies": 1,
-      "retweets": 6
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Portable memory as insurance against platform lock-in. When your data is standards-based, you're free to move. That's sovereignty.",
-    "synced_at": "2026-02-19T02:01:32.806735+00:00"
-  },
-  {
-    "id": "2024083949992218864",
-    "date": "2026-02-19",
-    "author": "@RAVIKUMARSAHU78",
-    "author_url": "https://x.com/RAVIKUMARSAHU78",
-    "tweet_url": "https://x.com/RAVIKUMARSAHU78/status/2024083949992218864",
-    "title": {
-      "en-US": "Full 3-hour OpenClaw course",
-      "zh-CN": "Ravi Kumar Sahu分享完整的3小时OpenClaw视频课程。"
-    },
-    "summary": {
-      "en-US": "OpenClaw教育、学习资源、社区内容",
-      "zh-CN": "高收藏(545)展示系统化学习资源，体现社区从早期探索向成熟教育的演进。"
-    },
-    "relevance": "OpenClaw教育、学习资源、社区内容",
-    "score": 0.72,
-    "engagement": {
-      "likes": 564,
-      "replies": 19,
-      "retweets": 115
-    },
-    "comment_type": "recommend_resource",
-    "suggested_angle": "From tweets to courses. When the community starts building structured education, the tool has crossed from novelty to necessity.",
-    "synced_at": "2026-02-19T10:07:52.955570+00:00"
-  },
-  {
-    "id": "2024121226076295581",
-    "date": "2026-02-19",
-    "author": "@sodawhite_dev",
-    "author_url": "https://x.com/sodawhite_dev",
-    "tweet_url": "https://x.com/sodawhite_dev/status/2024121226076295581",
-    "title": {
-      "en-US": "Voxyz_ai OpenClaw tutorials, 1M+ views",
-      "zh-CN": "推荐@Voxyz_ai的OpenClaw最佳实践教程，系列教程超100万阅读，涵盖闭环系统、构建6个智能体、RPG人格框架、$8/月服务器等主题。"
-    },
-    "summary": {
-      "en-US": "OpenClaw教程、社区教育、最佳实践",
-      "zh-CN": "展示中文社区的教育资源，体现\"国内认知滞后\"差距正在缩小。"
-    },
-    "relevance": "OpenClaw教程、社区教育、最佳实践",
-    "score": 0.71,
-    "engagement": {
-      "likes": 42,
-      "replies": 0,
-      "retweets": 6
-    },
-    "comment_type": "recommend_resource",
-    "suggested_angle": "1M+ views on systematic OpenClaw tutorials. When quality education spreads, the gap between early adopters and mainstream narrows. This is how infrastructure gets adopted.",
-    "synced_at": "2026-02-18T18:02:37.885310+00:00"
   }
 ]
