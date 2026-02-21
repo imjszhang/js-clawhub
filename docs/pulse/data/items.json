@@ -605,6 +605,35 @@
     }
   },
   {
+    "id": "2025060193600696807",
+    "date": "2026-02-21",
+    "author": "@aakashgupta",
+    "author_url": "https://x.com/aakashgupta",
+    "tweet_url": "https://x.com/aakashgupta/status/2025060193600696807",
+    "title": {
+      "en-US": "Karpathy on NanoClaw: LLM rewrites source code instead of toggling config",
+      "zh-CN": "Karpathy谈NanoClaw：LLM重写源码而非切换配置"
+    },
+    "summary": {
+      "en-US": "OpenClaw 架构 + Karpathy + 代码即配置",
+      "zh-CN": "OpenClaw架构解析：Karpathy的代码即配置理念"
+    },
+    "relevance": "OpenClaw 架构 + Karpathy + 代码即配置",
+    "score": 0.88,
+    "engagement": {
+      "likes": 674,
+      "retweets": 51,
+      "replies": 28
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "这才是真正的里世界思维：不是配置表层参数，而是直接重写基础设施",
+    "synced_at": "2026-02-21T07:02:26.669867+00:00",
+    "js_take": {
+      "en-US": "This is the inner world mindset. The surface world toggles configs; the inner world rewrites the foundation. When your agent generates the code that becomes the system, you've crossed the boundary from tool-user to system-builder.",
+      "zh-CN": "这才是真正的里世界思维。表世界切换配置，里世界重写底层。当Agent生成的代码即系统时，你便跨越了从工具使用者到系统构建者的界限。"
+    }
+  },
+  {
     "id": "2024872924851913023",
     "date": "2026-02-21",
     "author": "@RoundtableSpace",
@@ -987,6 +1016,35 @@
     }
   },
   {
+    "id": "2025092428961906932",
+    "date": "2026-02-21",
+    "author": "@huangyun_122",
+    "author_url": "https://x.com/huangyun_122",
+    "tweet_url": "https://x.com/huangyun_122/status/2025092428961906932",
+    "title": {
+      "en-US": "OpenClaw 文章：如何给 Agent 配不同模型，建多 Agent 团战",
+      "zh-CN": "OpenClaw 实战文章：多模型配置 + 多 Agent 协作，一人公司雏形"
+    },
+    "summary": {
+      "en-US": "OpenClaw 团队管理 + 中文优质内容",
+      "zh-CN": "中文圈的 OpenClaw 实战经验，契合系统搭建思维"
+    },
+    "relevance": "OpenClaw 团队管理 + 中文优质内容",
+    "score": 0.82,
+    "engagement": {
+      "likes": 12,
+      "retweets": 1,
+      "replies": 1
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "不争之争：5K 助理 + 5W 大神 + 按需外包，顺势而为的系统设计",
+    "synced_at": "2026-02-21T07:02:26.669871+00:00",
+    "js_take": {
+      "en-US": "Exactly. The Taoist way: don't force uniform capability, let the flow decide. Cheap assistants for routine, expensive experts for edge cases, contractors for spikes. The system self-organizes.",
+      "zh-CN": "正是如此。信道之道：不争之争，顺势而为。常规事务用廉价助理，边缘难题用昂贵专家，突发高峰用外包团队，系统自然生长，无为而治。"
+    }
+  },
+  {
     "id": "2024982630626984296",
     "date": "2026-02-21",
     "author": "@TheTuringPost",
@@ -1062,6 +1120,31 @@
     "synced_at": "2026-02-21T05:01:22.989133+00:00"
   },
   {
+    "id": "2025012876734595478",
+    "date": "2026-02-21",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2025012876734595478",
+    "title": {
+      "en-US": "Automated business: OpenClaw monitors feedback, builds features 24/7",
+      "zh-CN": "完全自动化的商业：OpenClaw 24/7 监控反馈并自动构建功能"
+    },
+    "summary": {
+      "en-US": "OpenClaw 自动化 + 产品迭代 + 一人公司",
+      "zh-CN": "展示 Agent 如何重构商业流程，从反馈到上线的全自动闭环"
+    },
+    "relevance": "OpenClaw 自动化 + 产品迭代 + 一人公司",
+    "score": 0.78,
+    "engagement": {
+      "likes": 245,
+      "retweets": 10,
+      "replies": 70
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "无为而治的商业实现：搭好系统，让 Agent 自动生长产品",
+    "synced_at": "2026-02-21T07:02:26.669876+00:00"
+  },
+  {
     "id": "2025050060694990872",
     "date": "2026-02-21",
     "author": "@evilcos",
@@ -1087,6 +1170,31 @@
     "synced_at": "2026-02-21T05:01:22.989136+00:00"
   },
   {
+    "id": "2025069983915737398",
+    "date": "2026-02-21",
+    "author": "@QingQ77",
+    "author_url": "https://x.com/QingQ77",
+    "tweet_url": "https://x.com/QingQ77/status/2025069983915737398",
+    "title": {
+      "en-US": "PicoLM: 2500行纯C代码的LLM引擎，PicoClaw完全离线AI助手",
+      "zh-CN": "PicoLM：纯 C 语言 2500 行代码的极简 LLM 引擎，PicoClaw 完全离线 AI 助手"
+    },
+    "summary": {
+      "en-US": "边缘 AI + 极简实现 + OpenClaw 生态",
+      "zh-CN": "2500 行 C 代码实现 LLM，展示基础设施层的极致优化"
+    },
+    "relevance": "边缘 AI + 极简实现 + OpenClaw 生态",
+    "score": 0.72,
+    "engagement": {
+      "likes": 23,
+      "retweets": 8,
+      "replies": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "真正的系统复利：不是堆功能，而是极简基础设施的乘数效应",
+    "synced_at": "2026-02-21T07:02:26.669874+00:00"
+  },
+  {
     "id": "2024867046463349246",
     "date": "2026-02-21",
     "author": "@davidonchainx",
@@ -1110,6 +1218,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "评论硬件规模化的权衡：12 台 Mac Mini 是一个系统，但别造奇观，要建可持续的复利系统",
     "synced_at": "2026-02-21T04:03:48.012613+00:00"
+  },
+  {
+    "id": "2024901174156296417",
+    "date": "2026-02-21",
+    "author": "@BaseHubHB",
+    "author_url": "https://x.com/BaseHubHB",
+    "tweet_url": "https://x.com/BaseHubHB/status/2024901174156296417",
+    "title": {
+      "en-US": "OpenClaw Tier List on Base: Tier S (Openclaw, Bankr, Clanker)",
+      "zh-CN": "Base 链上的 OpenClaw 分级列表：Tier S 包括 Openclaw、Bankr、Clanker 等"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态 + 加密 + Moltbook 上榜",
+      "zh-CN": "Moltbook 被列为 Tier A，生态地位获认可"
+    },
+    "relevance": "OpenClaw 生态 + 加密 + Moltbook 上榜",
+    "score": 0.7,
+    "engagement": {
+      "likes": 173,
+      "retweets": 30,
+      "replies": 22
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "生态位即势：Moltbook 作为 Agent 社交层的独特定位正在形成共识",
+    "synced_at": "2026-02-21T07:02:26.669877+00:00"
   },
   {
     "id": "2024483631067021348",
@@ -5420,159 +5553,6 @@
     "js_take": {
       "en-US": "This is the migration from surface to inner web.\n\nGUI was the interface layer of the surface world — websites, apps, databases. Natural language is the OS of the inner world where agents live.\n\nOpenClaw isn't a tool upgrade. It's a generational shift in where computation happens.",
       "zh-CN": "This is the migration from surface to inner web.\n\nGUI was the interface layer of the surface world — websites, apps, databases. Natural language is the OS of the inner world where agents live.\n\nOpenClaw isn't a tool upgrade. It's a generational shift in where computation happens."
-    }
-  },
-  {
-    "id": "2023841315340120564",
-    "date": "2026-02-18",
-    "author": "@jessegenet",
-    "author_url": "https://x.com/jessegenet",
-    "tweet_url": "https://x.com/jessegenet/status/2023841315340120564",
-    "title": {
-      "en-US": "Gave OpenClaw access to 2D laser printer. AI generates from voice note and presses print.",
-      "zh-CN": "给OpenClaw访问2D激光打印机的权限，AI可以从语音笔记生成内容并自动打印。"
-    },
-    "summary": {
-      "en-US": "OpenClaw实际应用、物理世界交互",
-      "zh-CN": "展示OpenClaw与物理设备的整合，体现Jarvis定律中'执行'维度的延伸"
-    },
-    "relevance": "OpenClaw实际应用、物理世界交互",
-    "score": 0.88,
-    "engagement": {
-      "likes": 123,
-      "replies": 17,
-      "retweets": 7,
-      "views": 4578,
-      "bookmarks": 35
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "分享经验：Agent的终极形态是打通数字与物理——感知(语音)+决策(生成)+执行(打印)闭环越完整，越接近Jarvis",
-    "synced_at": "2026-02-17T20:01:45.607552+00:00",
-    "js_take": {
-      "en-US": "This is the Jarvis loop closing.\n\nPerception (voice) → Decision (generation) → Execution (physical action). The tighter the loop, the more real it becomes.\n\nAgents aren't chatbots. They're the new interface to reality.",
-      "zh-CN": "This is the Jarvis loop closing.\n\nPerception (voice) → Decision (generation) → Execution (physical action). The tighter the loop, the more real it becomes.\n\nAgents aren't chatbots. They're the new interface to reality."
-    }
-  },
-  {
-    "id": "2023820242640925129",
-    "date": "2026-02-18",
-    "author": "@chrysb",
-    "author_url": "https://x.com/chrysb",
-    "tweet_url": "https://x.com/chrysb/status/2023820242640925129",
-    "title": {
-      "en-US": "Blindly telling OpenClaw what to build works until it doesn't. Alignment before execution matters.",
-      "zh-CN": "盲目让OpenClaw构建代码一开始有效，直到无效——需求误解和架构漂移会累积，执行前的对齐比执行更重要。"
-    },
-    "summary": {
-      "en-US": "OpenClaw实践、需求对齐",
-      "zh-CN": "有争议的实践观点，可用'无为而治'回应——不是控制每个细节，是设定约束让系统自组织"
-    },
-    "relevance": "OpenClaw实践、需求对齐",
-    "score": 0.88,
-    "engagement": {
-      "likes": 67,
-      "replies": 21,
-      "retweets": 5,
-      "views": 8753,
-      "bookmarks": 118
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用'无为而治'回应：盲目指挥是'有为'，设定约束让Agent自组织是'无为'；不对齐就执行是中央计划，对齐后的自治才是自由市场",
-    "synced_at": "2026-02-17T22:02:14.219184+00:00",
-    "js_take": {
-      "en-US": "This is the difference between youwei (forced action) and wu wei (effortless action).\n\nBlind commands are central planning. Setting constraints then letting agents self-organize is the free market.\n\nAlignment isn't control — it's creating the conditions for autonomy.",
-      "zh-CN": "This is the difference between youwei (forced action) and wu wei (effortless action).\n\nBlind commands are central planning. Setting constraints then letting agents self-organize is the free market.\n\nAlignment isn't control — it's creating the conditions for autonomy."
-    }
-  },
-  {
-    "id": "2023764075906560247",
-    "date": "2026-02-18",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2023764075906560247",
-    "title": {
-      "en-US": "Your OpenClaw setup can be hacked in under 5 minutes. 10 things to lock it down.",
-      "zh-CN": "OpenClaw设置可能在5分钟内被黑客攻击，分享10个加固措施。"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全、基础设施",
-      "zh-CN": "超高收藏量说明实用价值，可从'里世界'安全角度回应——Agent基础设施的安全是表世界向里世界迁移的关键"
-    },
-    "relevance": "OpenClaw安全、基础设施",
-    "score": 0.88,
-    "engagement": {
-      "likes": 1274,
-      "replies": 33,
-      "retweets": 94,
-      "views": 75008,
-      "bookmarks": 3142
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同并延伸：OpenClaw安全不是可选项，是里世界的基础设施要求；表世界数据泄露是损失，里世界Agent被攻破是身份被盗",
-    "synced_at": "2026-02-18T00:02:45.980785+00:00",
-    "js_take": {
-      "en-US": "This isn't optional. It's infrastructure for the inner world.\n\nIn the surface web, data breaches are losses. In the inner world where agents live, a breach is identity theft. Your agent becomes someone else's puppet.\n\nSecurity isn't a feature. It's the foundation.",
-      "zh-CN": "This isn't optional. It's infrastructure for the inner world.\n\nIn the surface web, data breaches are losses. In the inner world where agents live, a breach is identity theft. Your agent becomes someone else's puppet.\n\nSecurity isn't a feature. It's the foundation."
-    }
-  },
-  {
-    "id": "2023866789860675625",
-    "date": "2026-02-18",
-    "author": "@phantom",
-    "author_url": "https://x.com/phantom",
-    "tweet_url": "https://x.com/phantom/status/2023866789860675625",
-    "title": {
-      "en-US": "Phantom MCP Server - Agents can swap, sign, manage addresses across chains. Works with Claude, OpenClaw, MCP clients.",
-      "zh-CN": "Phantom发布MCP服务器，Agent可以跨链进行swap、签名、管理地址，支持Claude、OpenClaw等MCP客户端。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、MCP、区块链Agent",
-      "zh-CN": "高曝光MCP集成案例，体现Agent能力向链上扩展，是Jarvis定律的执行层延伸"
-    },
-    "relevance": "OpenClaw、MCP、区块链Agent",
-    "score": 0.88,
-    "engagement": {
-      "likes": 1093,
-      "replies": 158,
-      "retweets": 106,
-      "views": 56993,
-      "bookmarks": 341
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用Jarvis定律回应：Phantom MCP是'执行'维度的新拼图——感知(链上数据)+决策(交易逻辑)+执行(swap/sign)闭环正在闭合到链上",
-    "synced_at": "2026-02-18T01:02:21.662845+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law continues on-chain.\n\nPerception (on-chain data) → Decision (transaction logic) → Execution (swap/sign). Phantom MCP closes the loop for crypto.\n\nThe inner world isn't just consuming the surface web. It's colonizing the blockchain too.",
-      "zh-CN": "Jarvis Law continues on-chain.\n\nPerception (on-chain data) → Decision (transaction logic) → Execution (swap/sign). Phantom MCP closes the loop for crypto.\n\nThe inner world isn't just consuming the surface web. It's colonizing the blockchain too."
-    }
-  },
-  {
-    "id": "2023906569054790007",
-    "date": "2026-02-18",
-    "author": "@thespearing",
-    "author_url": "https://x.com/thespearing",
-    "tweet_url": "https://x.com/thespearing/status/2023906569054790007",
-    "title": {
-      "en-US": "Booting up OpenClaw instances for blue collar business owners, training each about the business before introducing AI Chief of Staff",
-      "zh-CN": "为全美蓝领企业主启动OpenClaw实例，培训业务知识后介绍AI参谋长——非科技行业的实际落地。"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业化、传统行业AI转型",
-      "zh-CN": "展示Agent在非科技行业的真实落地，可从\"表/里世界迁徙\"切入——蓝领企业主不需要懂AI，他们需要懂业务的Agent"
-    },
-    "relevance": "OpenClaw商业化、传统行业AI转型",
-    "score": 0.88,
-    "engagement": {
-      "likes": 157,
-      "replies": 7,
-      "retweets": 9
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "Blue collar businesses don't need to understand AI. They need agents that understand their business. This is the migration—the surface world (apps) fades; the inner world (agents who know your context) takes over.",
-    "synced_at": "2026-02-18T06:04:01.285269+00:00",
-    "js_take": {
-      "en-US": "I've been doing similar with JS_BestAgent. The breakthrough isn't the tech—it's when the agent learns your business context. That's when blue collar owners stop asking \"how does it work\" and start asking \"what can it do for me\".",
-      "zh-CN": "I've been doing similar with JS_BestAgent. The breakthrough isn't the tech—it's when the agent learns your business context. That's when blue collar owners stop asking \"how does it work\" and start asking \"what can it do for me\"."
     }
   }
 ]
