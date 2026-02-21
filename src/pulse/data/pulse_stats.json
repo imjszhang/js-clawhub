@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-21T00:02:44.743544+00:00",
+  "updated_at": "2026-02-21T02:02:58.212853+00:00",
   "this_week": {
     "total_items": 200,
     "avg_score": 0.83,
-    "unique_authors": 150,
+    "unique_authors": 152,
     "top_items": [
       {
         "id": "2024900944589148615",
@@ -35,6 +35,35 @@
         }
       },
       {
+        "id": "2024987174077432126",
+        "date": "2026-02-21",
+        "author": "@karpathy",
+        "author_url": "https://x.com/karpathy",
+        "tweet_url": "https://x.com/karpathy/status/2024987174077432126",
+        "title": {
+          "en-US": "Mac mini for OpenClaw, privacy concerns",
+          "zh-CN": "Karpathy谈OpenClaw安全隐患"
+        },
+        "summary": {
+          "en-US": "OpenClaw、隐私安全、vibe coding风险",
+          "zh-CN": "OpenClaw隐私风险、vibe coding安全审计、代码透明度问题"
+        },
+        "relevance": "OpenClaw、隐私安全、vibe coding风险",
+        "score": 0.94,
+        "engagement": {
+          "likes": 3082,
+          "replies": 283,
+          "retweets": 207
+        },
+        "comment_type": "add_insight",
+        "suggested_angle": "Trust as infrastructure. When code is vibe-built, audit becomes mandatory.",
+        "synced_at": "2026-02-21T02:02:41.359587+00:00",
+        "js_take": {
+          "en-US": "400K lines of vibe code. That's not trust—it's faith. When your keys touch 40万 strangers' code, audit isn't paranoia; it's hygiene. The tools are amazing. The transparency isn't there yet.",
+          "zh-CN": "40万行vibe code。这不是信任——而是信仰。当你的密钥触碰陌生人的代码时，审计不是偏执，而是卫生。工具令人惊叹，但透明度尚未到位。"
+        }
+      },
+      {
         "id": "2023938290567835943",
         "date": "2026-02-18",
         "author": "@rileybrown",
@@ -62,40 +91,11 @@
           "en-US": "This is the shift from GUI-native to agent-native. Creative tools becoming APIs that agents orchestrate. The interface fades when intent becomes the interface.",
           "zh-CN": "This is the shift from GUI-native to agent-native. Creative tools becoming APIs that agents orchestrate. The interface fades when intent becomes the interface."
         }
-      },
-      {
-        "id": "2023960543959101938",
-        "date": "2026-02-18",
-        "author": "@levelsio",
-        "author_url": "https://x.com/levelsio",
-        "tweet_url": "https://x.com/levelsio/status/2023960543959101938",
-        "title": {
-          "en-US": "Chat with sites via Telegram using OpenClaw, scared to run on production",
-          "zh-CN": "Levelsio分享通过Telegram直接与网站对话构建功能，承认一直害怕在生产服务器上运行OpenClaw。"
-        },
-        "summary": {
-          "en-US": "OpenClaw生产部署、安全风险、Agent应用",
-          "zh-CN": "超高互动(929赞)来自知名独立开发者，展示OpenClaw生产环境的真实顾虑，可从\"不造奇观，建系统\"回应——安全是系统的一部分，不是障碍。"
-        },
-        "relevance": "OpenClaw生产部署、安全风险、Agent应用",
-        "score": 0.93,
-        "engagement": {
-          "likes": 929,
-          "replies": 119,
-          "retweets": 40
-        },
-        "comment_type": "add_insight",
-        "suggested_angle": "Production fear is rational. When agents have write access to real systems, the blast radius is real. But that's not a reason to avoid adoption—it's a reason to build guardrails. Safety is part of the system, not a blocker.",
-        "synced_at": "2026-02-18T09:02:28.758575+00:00",
-        "js_take": {
-          "en-US": "Rational fear. When agents have write access, blast radius is real. But the answer isn't avoidance—it's building guardrails. Safety is system design, not a blocker.",
-          "zh-CN": "Rational fear. When agents have write access, blast radius is real. But the answer isn't avoidance—it's building guardrails. Safety is system design, not a blocker."
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 150
+    "unique_authors": 152
   }
 }

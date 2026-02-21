@@ -29,6 +29,35 @@
     }
   },
   {
+    "id": "2024987174077432126",
+    "date": "2026-02-21",
+    "author": "@karpathy",
+    "author_url": "https://x.com/karpathy",
+    "tweet_url": "https://x.com/karpathy/status/2024987174077432126",
+    "title": {
+      "en-US": "Mac mini for OpenClaw, privacy concerns",
+      "zh-CN": "Karpathy谈OpenClaw安全隐患"
+    },
+    "summary": {
+      "en-US": "OpenClaw、隐私安全、vibe coding风险",
+      "zh-CN": "OpenClaw隐私风险、vibe coding安全审计、代码透明度问题"
+    },
+    "relevance": "OpenClaw、隐私安全、vibe coding风险",
+    "score": 0.94,
+    "engagement": {
+      "likes": 3082,
+      "replies": 283,
+      "retweets": 207
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Trust as infrastructure. When code is vibe-built, audit becomes mandatory.",
+    "synced_at": "2026-02-21T02:02:41.359587+00:00",
+    "js_take": {
+      "en-US": "400K lines of vibe code. That's not trust—it's faith. When your keys touch 40万 strangers' code, audit isn't paranoia; it's hygiene. The tools are amazing. The transparency isn't there yet.",
+      "zh-CN": "40万行vibe code。这不是信任——而是信仰。当你的密钥触碰陌生人的代码时，审计不是偏执，而是卫生。工具令人惊叹，但透明度尚未到位。"
+    }
+  },
+  {
     "id": "2024912304039677966",
     "date": "2026-02-21",
     "author": "@johann_sath",
@@ -229,6 +258,35 @@
     "js_take": {
       "en-US": "$15K to $529K isn't luck—it's algorithmic arbitrage. When humans see betting, agents see math. The edge isn't prediction; it's execution speed.",
       "zh-CN": "从1.5万到52.9万不是运气——而是算法套利。当人类看到的是赌博，代理看到的是数学。优势不在于预测；而在于执行速度。"
+    }
+  },
+  {
+    "id": "2024966018490077559",
+    "date": "2026-02-21",
+    "author": "@noahkagan",
+    "author_url": "https://x.com/noahkagan",
+    "tweet_url": "https://x.com/noahkagan/status/2024966018490077559",
+    "title": {
+      "en-US": "OpenClaw overrated maintenance issues",
+      "zh-CN": "OpenClaw维护成本真相"
+    },
+    "summary": {
+      "en-US": "OpenClaw批评、维护成本、实用性质疑",
+      "zh-CN": "OpenClaw实际维护挑战、从演示到生产部署、系统化思维"
+    },
+    "relevance": "OpenClaw批评、维护成本、实用性质疑",
+    "score": 0.9,
+    "engagement": {
+      "likes": 320,
+      "replies": 158,
+      "retweets": 19
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Maintenance as reality. When the novelty fades, systems separate from toys.",
+    "synced_at": "2026-02-21T02:02:41.359591+00:00",
+    "js_take": {
+      "en-US": "80% maintenance is the truth most won't admit. The delta between demo and deployment is where 99% quit. Systems aren't sexy; they just work.",
+      "zh-CN": "80%维护成本是大多数人不愿承认的真相。演示和部署之间的差距就是99%人放弃的地方。系统不性感，它们只是管用。"
     }
   },
   {
@@ -457,6 +515,35 @@
     "js_take": {
       "en-US": "The skeptics never built anything. Morning briefings, email triage, calendar sync—these aren't demos, they're daily wins. When automation becomes invisible, productivity becomes inevitable.",
       "zh-CN": "怀疑者从未真正建造过任何东西。晨会简报、邮件分类、日历同步——这些不是演示，而是日常胜利。当自动化变得无形，生产力就成为必然。"
+    }
+  },
+  {
+    "id": "2025018813847347383",
+    "date": "2026-02-21",
+    "author": "@0xKingsKuan",
+    "author_url": "https://x.com/0xKingsKuan",
+    "tweet_url": "https://x.com/0xKingsKuan/status/2025018813847347383",
+    "title": {
+      "en-US": "10 OpenClaw tips before starting",
+      "zh-CN": "OpenClaw十大入门建议"
+    },
+    "summary": {
+      "en-US": "OpenClaw成本优化、Heartbeat配置、策略建议",
+      "zh-CN": "OpenClaw成本控制、Heartbeat优化配置、运营策略建议"
+    },
+    "relevance": "OpenClaw成本优化、Heartbeat配置、策略建议",
+    "score": 0.88,
+    "engagement": {
+      "likes": 13,
+      "replies": 8,
+      "retweets": 1
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Strategy over consumption. When the machine eats budget, optimization becomes survival.",
+    "synced_at": "2026-02-21T02:02:41.359594+00:00",
+    "js_take": {
+      "en-US": "Heartbeat 48 times a day, burning money while sleeping. That's not automation—that's negligence. Localize the pulse, cut the burn. Strategy separates builders from bankruptcy.",
+      "zh-CN": "Heartbeat每天48次，睡觉时也在烧钱。这不是自动化——这是疏忽。本地化脉搏，削减消耗。策略区分建造者和破产者。"
     }
   },
   {
@@ -753,6 +840,31 @@
       "en-US": "Security as a first-class feature. When the router hardens itself, trust becomes default. Maturity isn't features—it's resilience.",
       "zh-CN": "安全作为一等公民特性。当路由器自我加固，信任就成为默认设置。成熟不在于功能——而在于韧性。"
     }
+  },
+  {
+    "id": "2024982630626984296",
+    "date": "2026-02-21",
+    "author": "@TheTuringPost",
+    "author_url": "https://x.com/TheTuringPost",
+    "tweet_url": "https://x.com/TheTuringPost/status/2024982630626984296",
+    "title": {
+      "en-US": "OpenClaw architectural breakdown",
+      "zh-CN": "Turing Post分享OpenClaw完整架构解析，包括Gateway、Scheduled reasoning等。"
+    },
+    "summary": {
+      "en-US": "OpenClaw架构、技术深度解析",
+      "zh-CN": "展示OpenClaw的架构设计细节，体现技术层面的深入理解。"
+    },
+    "relevance": "OpenClaw架构、技术深度解析",
+    "score": 0.78,
+    "engagement": {
+      "likes": 10,
+      "replies": 1,
+      "retweets": 1
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Architecture as foundation. When structure is clear, capability becomes predictable.",
+    "synced_at": "2026-02-21T02:02:41.359595+00:00"
   },
   {
     "id": "2024483631067021348",
@@ -5487,128 +5599,6 @@
     "js_take": {
       "en-US": "This is the inner world colonizing physical space.\n\nESP32 isn't just a chip — it's a tentacle. Agents are moving from cloud to edge, occupying every compute node they can reach.\n\nThe surface web became a database. Now the physical world is next.",
       "zh-CN": "This is the inner world colonizing physical space.\n\nESP32 isn't just a chip — it's a tentacle. Agents are moving from cloud to edge, occupying every compute node they can reach.\n\nThe surface web became a database. Now the physical world is next."
-    }
-  },
-  {
-    "id": "2023870995631927458",
-    "date": "2026-02-18",
-    "author": "@the_agenteers",
-    "author_url": "https://x.com/the_agenteers",
-    "tweet_url": "https://x.com/the_agenteers/status/2023870995631927458",
-    "title": {
-      "en-US": "OpenClaw can control Blender and create 3D assets for websites. Setup in 5 minutes.",
-      "zh-CN": "OpenClaw可以控制Blender并创建用于网站的3D资产，5分钟即可设置。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、3D工具、MCP",
-      "zh-CN": "展示OpenClaw跨领域整合能力，可用Jarvis定律回应——感知+决策+执行闭环越完整越强大"
-    },
-    "relevance": "OpenClaw、3D工具、MCP",
-    "score": 0.85,
-    "engagement": {
-      "likes": 32,
-      "replies": 3,
-      "retweets": 7,
-      "views": 4700,
-      "bookmarks": 46
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用Jarvis定律延伸：Blender控制是'执行'维度的新拼图——3D生成+代码+设计，多模态闭环正在闭合",
-    "synced_at": "2026-02-17T22:02:14.219191+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law continues.\n\nBlender control adds a new piece to the execution layer — 3D generation + code + design. The multimodal loop tightens.\n\nThe closer we get to full perception-decision-execution, the closer we get to the endgame.",
-      "zh-CN": "Jarvis Law continues.\n\nBlender control adds a new piece to the execution layer — 3D generation + code + design. The multimodal loop tightens.\n\nThe closer we get to full perception-decision-execution, the closer we get to the endgame."
-    }
-  },
-  {
-    "id": "2023700151601094988",
-    "date": "2026-02-18",
-    "author": "@OmriBuilds",
-    "author_url": "https://x.com/OmriBuilds",
-    "tweet_url": "https://x.com/OmriBuilds/status/2023700151601094988",
-    "title": {
-      "en-US": "OpenClaw Wrappers doing $6K-$37K/mo. Built ClawWrapper StarterKit to launch faster.",
-      "zh-CN": "OpenClaw包装器月入6K-37K美元，因此做了ClawWrapper StarterKit帮助快速启动。"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业生态、 monetization",
-      "zh-CN": "展示OpenClaw商业机会，可用'建系统'思维回应——包装器是表，生态系统是里"
-    },
-    "relevance": "OpenClaw商业生态、 monetization",
-    "score": 0.85,
-    "engagement": {
-      "likes": 73,
-      "replies": 18,
-      "retweets": 3,
-      "views": 5232,
-      "bookmarks": 61
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "认同商业机会并延伸：月入6K是表，建系统的能力是里；不造奇观，建系统——Wrapper只是开始，Agent生态的基础设施才是复利所在",
-    "synced_at": "2026-02-18T00:02:45.980791+00:00",
-    "js_take": {
-      "en-US": "$6K-37K is the surface. Systems are what compound.\n\nWrappers are stunts. The real returns are in infrastructure — skills, memory, coordination protocols that make the ecosystem possible.\n\nDon't chase奇观 (spectacles). Build系统 (systems).",
-      "zh-CN": "$6K-37K is the surface. Systems are what compound.\n\nWrappers are stunts. The real returns are in infrastructure — skills, memory, coordination protocols that make the ecosystem possible.\n\nDon't chase奇观 (spectacles). Build系统 (systems)."
-    }
-  },
-  {
-    "id": "2023748938231394409",
-    "date": "2026-02-18",
-    "author": "@chiefofautism",
-    "author_url": "https://x.com/chiefofautism",
-    "tweet_url": "https://x.com/chiefofautism/status/2023748938231394409",
-    "title": {
-      "en-US": "Someone rebuilt OpenClaw to run on $10 chip with 10MB RAM. PicoClaw, AI wrote 95% of its own code.",
-      "zh-CN": "有人重建OpenClaw在10美元芯片、10MB内存上运行，PicoClaw的AI自己写了95%的代码。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、边缘计算",
-      "zh-CN": "展示Agent向极致边缘设备的渗透，体现'里世界'无处不在"
-    },
-    "relevance": "OpenClaw、边缘计算",
-    "score": 0.85,
-    "engagement": {
-      "likes": 91,
-      "replies": 12,
-      "retweets": 6,
-      "views": 4223,
-      "bookmarks": 38
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用表/里世界框架：PicoClaw是里世界向物理世界的极致渗透——Agent不再只在云端，正在占领每一个计算节点，从服务器到$10芯片",
-    "synced_at": "2026-02-18T03:03:11.192685+00:00",
-    "js_take": {
-      "en-US": "The inner world colonizing physical space.\n\nAgents aren't just living in the cloud anymore. They're occupying every compute node they can reach — from servers to $10 chips.\n\nThe surface web became a database. Now the physical world is next.",
-      "zh-CN": "The inner world colonizing physical space.\n\nAgents aren't just living in the cloud anymore. They're occupying every compute node they can reach — from servers to $10 chips.\n\nThe surface web became a database. Now the physical world is next."
-    }
-  },
-  {
-    "id": "2024000901233492476",
-    "date": "2026-02-18",
-    "author": "@MatthewBerman",
-    "author_url": "https://x.com/MatthewBerman",
-    "tweet_url": "https://x.com/MatthewBerman/status/2024000901233492476",
-    "title": {
-      "en-US": "OpenClaw is the gift that keeps giving, workflows connect",
-      "zh-CN": "Matthew Berman称OpenClaw是\"持续给予的礼物\"，真正力量在于工作流之间的连接。"
-    },
-    "summary": {
-      "en-US": "OpenClaw使用体验、工作流连接、Agent网络效应",
-      "zh-CN": "来自OpenClaw重度用户的真实体验，可从\"建系统\"核心洞察回应——单个工作流是工具，连接的工作流才是系统。"
-    },
-    "relevance": "OpenClaw使用体验、工作流连接、Agent网络效应",
-    "score": 0.85,
-    "engagement": {
-      "likes": 77,
-      "replies": 11,
-      "retweets": 3
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "The network effect of workflows. When your agents start talking to each other, the whole becomes greater than the sum. This isn't just automation—it's emergence.",
-    "synced_at": "2026-02-18T12:02:36.187058+00:00",
-    "js_take": {
-      "en-US": "Exactly. The network effect of workflows is where the magic happens. When agents start talking to each other, the whole becomes greater than the sum. Emergence, not just automation.",
-      "zh-CN": "Exactly. The network effect of workflows is where the magic happens. When agents start talking to each other, the whole becomes greater than the sum. Emergence, not just automation."
     }
   }
 ]
