@@ -1,5 +1,34 @@
 [
   {
+    "id": "2025257951007588582",
+    "date": "2026-02-22",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2025257951007588582",
+    "title": {
+      "en-US": "OpenClaw beta: Gemini 3.1, Discord subagents, voice channels, BytePlus",
+      "zh-CN": "OpenClaw beta更新：Gemini 3.1、Discord子代理、语音频道"
+    },
+    "summary": {
+      "en-US": "OpenClaw官方更新 + 多模型支持 + 生态扩展",
+      "zh-CN": "OpenClaw官方更新、多模型支持与生态扩展"
+    },
+    "relevance": "OpenClaw官方更新 + 多模型支持 + 生态扩展",
+    "score": 0.89,
+    "engagement": {
+      "likes": 577,
+      "replies": 72,
+      "retweets": 52
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "每一次更新都是里世界的基建升级——Discord语音是感知，Gemini 3.1是决策，生态扩张是执行",
+    "synced_at": "2026-02-21T18:01:54.196031+00:00",
+    "js_take": {
+      "en-US": "Every update is infrastructure for the inner world. Discord voice is perception, Gemini 3.1 is reasoning, ecosystem expansion is execution. That's Jarvis law in motion.",
+      "zh-CN": "每一次更新都是里世界的基础设施。Discord语音是感知，Gemini 3.1是推理，生态扩张是执行。这就是Jarvis定律的运作。"
+    }
+  },
+  {
     "id": "2025228409094181332",
     "date": "2026-02-22",
     "author": "@steipete",
@@ -23,6 +52,35 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "核心与生态的分界是系统的智慧——OpenClaw保持内核稳定，让能力在边缘演化，这是顺势而为的架构",
     "synced_at": "2026-02-21T17:03:35.873923+00:00"
+  },
+  {
+    "id": "2025231564247081328",
+    "date": "2026-02-22",
+    "author": "@petergyang",
+    "author_url": "https://x.com/petergyang",
+    "tweet_url": "https://x.com/petergyang/status/2025231564247081328",
+    "title": {
+      "en-US": "Two camps on OpenClaw: hype vs reality, $1k FelixCraftAI experiment",
+      "zh-CN": "OpenClaw两极化观点：炒作与现实"
+    },
+    "summary": {
+      "en-US": "OpenClaw认知分歧 + Agent创业 + 高影响力账号",
+      "zh-CN": "OpenClaw认知分歧、Agent创业与高影响力账号"
+    },
+    "relevance": "OpenClaw认知分歧 + Agent创业 + 高影响力账号",
+    "score": 0.87,
+    "engagement": {
+      "likes": 283,
+      "replies": 31,
+      "retweets": 16
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "两种观点都 miss the point——OpenClaw不是工具升级，是交互层迁徙；批评来自表世界思维，兴奋来自里世界直觉",
+    "synced_at": "2026-02-21T18:01:54.196035+00:00",
+    "js_take": {
+      "en-US": "Both camps miss the point—OpenClaw isn't a tool upgrade, it's an interaction layer migration. The critics think in surface world terms; the excitement comes from inner world intuition.",
+      "zh-CN": "两派都搞错了重点——OpenClaw不是工具升级，是交互层的迁徙。批评者用表世界思维思考，兴奋来自里世界的直觉。"
+    }
   },
   {
     "id": "2025215377475564026",
@@ -75,6 +133,35 @@
     "synced_at": "2026-02-21T17:03:35.873930+00:00"
   },
   {
+    "id": "2025240811433328880",
+    "date": "2026-02-22",
+    "author": "@TheTuringPost",
+    "author_url": "https://x.com/TheTuringPost",
+    "tweet_url": "https://x.com/TheTuringPost/status/2025240811433328880",
+    "title": {
+      "en-US": "6 Lightweight alternatives to OpenClaw: PicoClaw, nanobot, ZeroClaw, etc.",
+      "zh-CN": "6个OpenClaw轻量级替代品：PicoClaw、nanobot、ZeroClaw、IronClaw、TinyClaw、MimiClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + 轻量级替代方案 + 架构分析",
+      "zh-CN": "生态多样化讨论，体现\"势\"——不同场景需要不同形态的Agent，这是里世界生态的丰富"
+    },
+    "relevance": "OpenClaw生态 + 轻量级替代方案 + 架构分析",
+    "score": 0.81,
+    "engagement": {
+      "likes": 61,
+      "replies": 3,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "轻量级不是降级是分化——里世界的Agent会根据场景演化出不同形态，这是生态的成熟标志",
+    "synced_at": "2026-02-21T18:01:54.196038+00:00",
+    "js_take": {
+      "en-US": "Lightweight isn't downgrading—it's differentiation. Agents in the inner world evolve different forms for different contexts. That's what a mature ecosystem looks like.",
+      "zh-CN": "轻量级不是降级，是分化。里世界的Agent会根据不同场景演化出不同形态。这就是成熟生态的样子。"
+    }
+  },
+  {
     "id": "2025215948840731010",
     "date": "2026-02-22",
     "author": "@PrajwalTomar_",
@@ -98,6 +185,56 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "6美元不是省钱，是 democratize——当门槛降低，里世界的迁徙才会加速",
     "synced_at": "2026-02-21T17:03:35.873932+00:00"
+  },
+  {
+    "id": "2025139408182317560",
+    "date": "2026-02-22",
+    "author": "@geekshellio",
+    "author_url": "https://x.com/geekshellio",
+    "tweet_url": "https://x.com/geekshellio/status/2025139408182317560",
+    "title": {
+      "en-US": "OpenClaw cron task automates invoice organization monthly",
+      "zh-CN": "OpenClaw定时任务自动整理发票，解决每月烦心事"
+    },
+    "summary": {
+      "en-US": "OpenClaw自动化 + 实用案例 + 中文用户",
+      "zh-CN": "真实应用场景分享，体现\"无为而治\"——系统搭好，让其自运行"
+    },
+    "relevance": "OpenClaw自动化 + 实用案例 + 中文用户",
+    "score": 0.72,
+    "engagement": {
+      "likes": 31,
+      "replies": 0,
+      "retweets": 6
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "发票整理是表世界的琐事，OpenClaw是里世界的管家——无为不是不做，是系统代劳",
+    "synced_at": "2026-02-21T18:01:54.196040+00:00"
+  },
+  {
+    "id": "2025186209270735118",
+    "date": "2026-02-22",
+    "author": "@huangyihe",
+    "author_url": "https://x.com/huangyihe",
+    "tweet_url": "https://x.com/huangyihe/status/2025186209270735118",
+    "title": {
+      "en-US": "Local OpenCode + Kimi Claw cloud workflow with Email bridge to Obsidian",
+      "zh-CN": "本地OpenCode+云端Kimi Claw组合工作流，用Email桥接同步到Obsidian"
+    },
+    "summary": {
+      "en-US": "OpenClaw工作流 + 本地云端混合 + 中文KOL",
+      "zh-CN": "展示表/里世界协作架构，本地处理敏感，云端处理自动化——边界清晰是智慧"
+    },
+    "relevance": "OpenClaw工作流 + 本地云端混合 + 中文KOL",
+    "score": 0.7,
+    "engagement": {
+      "likes": 74,
+      "replies": 3,
+      "retweets": 20
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "本地+云端不是妥协是分层——敏感数据在里世界，自动化在云端，Email是表/里世界的虫洞",
+    "synced_at": "2026-02-21T18:01:54.196041+00:00"
   },
   {
     "id": "2024900944589148615",
@@ -5425,130 +5562,5 @@
     "comment_type": "share_experience",
     "suggested_angle": "The best system is the one that ships. Heartbeat + vectors isn't primitive—it's the 80/20 of agent memory. Complexity is a trap; working is the goal.",
     "synced_at": "2026-02-18T19:01:56.842975+00:00"
-  },
-  {
-    "id": "2024305037241946520",
-    "date": "2026-02-19",
-    "author": "@bc1beat",
-    "author_url": "https://x.com/bc1beat",
-    "tweet_url": "https://x.com/bc1beat/status/2024305037241946520",
-    "title": {
-      "en-US": "Anthropic investor builds ClawRouter as answer to OAuth ban",
-      "zh-CN": "Anthropic投资者(bc1beat)宣布推出ClawRouter——Anthropic封禁MAX用户后的开源答案，已获2.8K星标。"
-    },
-    "summary": {
-      "en-US": "OpenClaw开源替代方案、ClawRouter、平台风险应对",
-      "zh-CN": "展示社区对平台封禁的快速响应，开源替代方案的涌现。"
-    },
-    "relevance": "OpenClaw开源替代方案、ClawRouter、平台风险应对",
-    "score": 0.78,
-    "engagement": {
-      "likes": 15,
-      "replies": 1,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "When the platform closes the door, the community builds a window. Open-source routing is the immune response to vendor lock-in.",
-    "synced_at": "2026-02-19T03:01:59.723421+00:00"
-  },
-  {
-    "id": "2024155445020303840",
-    "date": "2026-02-19",
-    "author": "@infocollecter",
-    "author_url": "https://x.com/infocollecter",
-    "tweet_url": "https://x.com/infocollecter/status/2024155445020303840",
-    "title": {
-      "en-US": "OpenClaw meetup in Tokyo",
-      "zh-CN": "佐藤祐希分享OpenClaw东京见面会即将举办。"
-    },
-    "summary": {
-      "en-US": "OpenClaw社区、线下活动、日本市场",
-      "zh-CN": "高互动(617赞)展示OpenClaw的全球社区热度，体现Agent文化的传播。"
-    },
-    "relevance": "OpenClaw社区、线下活动、日本市场",
-    "score": 0.78,
-    "engagement": {
-      "likes": 617,
-      "replies": 16,
-      "retweets": 75
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "From digital to physical. When communities form around agent frameworks, we're seeing the early infrastructure of a new developer ecosystem.",
-    "synced_at": "2026-02-19T05:01:38.246714+00:00"
-  },
-  {
-    "id": "2024146053755207780",
-    "date": "2026-02-19",
-    "author": "@nummanali",
-    "author_url": "https://x.com/nummanali",
-    "tweet_url": "https://x.com/nummanali/status/2024146053755207780",
-    "title": {
-      "en-US": "Claude subscription not authorized for OpenClaw, risk of ban",
-      "zh-CN": "明确指出Claude订阅不授权用于OpenClaw、Pi Agent、OpenCode等第三方工具，使用有被封禁风险。"
-    },
-    "summary": {
-      "en-US": "OpenClaw政策风险、Anthropic限制、合规问题",
-      "zh-CN": "高互动(334赞)警示OpenClaw生态的合规风险，可从基础设施依赖性角度回应。"
-    },
-    "relevance": "OpenClaw政策风险、Anthropic限制、合规问题",
-    "score": 0.77,
-    "engagement": {
-      "likes": 334,
-      "replies": 83,
-      "retweets": 24
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Platform risk is real. When you build on someone else's API, you're renting, not owning. This is why open models and local inference aren't just alternatives—they're insurance.",
-    "synced_at": "2026-02-18T18:02:37.885299+00:00"
-  },
-  {
-    "id": "2024099979657113657",
-    "date": "2026-02-19",
-    "author": "@ewind_dev",
-    "author_url": "https://x.com/ewind_dev",
-    "tweet_url": "https://x.com/ewind_dev/status/2024099979657113657",
-    "title": {
-      "en-US": "Feishu OpenClaw deployment with per-account sandbox isolation",
-      "zh-CN": "分享飞书端OpenClaw单机部署方案，支持私聊时每个用户有独立的Agent环境和Docker沙盒隔离。"
-    },
-    "summary": {
-      "en-US": "OpenClaw部署、多租户隔离、飞书集成",
-      "zh-CN": "展示OpenClaw在企业/多用户场景的技术方案，体现系统架构思维。"
-    },
-    "relevance": "OpenClaw部署、多租户隔离、飞书集成",
-    "score": 0.77,
-    "engagement": {
-      "likes": 47,
-      "replies": 2,
-      "retweets": 4
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Per-account isolation with Docker sandbox—this is how you scale agents in multi-tenant environments. Security isn't an afterthought, it's the foundation.",
-    "synced_at": "2026-02-18T19:01:56.842973+00:00"
-  },
-  {
-    "id": "2024397007042081183",
-    "date": "2026-02-19",
-    "author": "@yanhua1010",
-    "author_url": "https://x.com/yanhua1010",
-    "tweet_url": "https://x.com/yanhua1010/status/2024397007042081183",
-    "title": {
-      "en-US": "Alex's 210-hour OpenClaw experience guide",
-      "zh-CN": "Yanhua分享40万粉大V Alex过去一个月高频使用OpenClaw（超过210小时）的经验教训总结，涵盖设置、用例、VPS弊端和安全性。"
-    },
-    "summary": {
-      "en-US": "OpenClaw最佳实践、经验总结、长期使用",
-      "zh-CN": "210小时真实使用经验极具参考价值，体现\"不造奇观，建系统\"——从实战中提炼的系统化知识。"
-    },
-    "relevance": "OpenClaw最佳实践、经验总结、长期使用",
-    "score": 0.77,
-    "engagement": {
-      "likes": 22,
-      "replies": 1,
-      "retweets": 5
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "210 hours separates tourists from practitioners. Real insight comes from production pain, not demo videos.",
-    "synced_at": "2026-02-19T11:01:09.404099+00:00"
   }
 ]
