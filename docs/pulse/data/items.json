@@ -721,6 +721,35 @@
     }
   },
   {
+    "id": "2025171110463943157",
+    "date": "2026-02-21",
+    "author": "@eeelistar",
+    "author_url": "https://x.com/eeelistar",
+    "tweet_url": "https://x.com/eeelistar/status/2025171110463943157",
+    "title": {
+      "en-US": "OpenClaw skills marketplace launching with $9.99 sub",
+      "zh-CN": "OpenClaw技能市场上线：9.99美元订阅制"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + Skill Marketplace + 创作者经济",
+      "zh-CN": "OpenClaw生态中的技能市场与创作者经济"
+    },
+    "relevance": "OpenClaw生态 + Skill Marketplace + 创作者经济",
+    "score": 0.87,
+    "engagement": {
+      "likes": 176,
+      "replies": 55,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Skill marketplace是里世界的基础设施——Agent的能力开始像水一样流动，这是系统生长的标志",
+    "synced_at": "2026-02-21T15:03:31.045460+00:00",
+    "js_take": {
+      "en-US": "A skills marketplace is infrastructure for the inner world. When Agent capabilities start flowing like water, the system begins to grow. This is what the migration looks like.",
+      "zh-CN": "技能市场是里世界的基础设施。当Agent的能力开始如水般流动，系统便开始生长。这就是迁徙的样子。"
+    }
+  },
+  {
     "id": "2024872924851913023",
     "date": "2026-02-21",
     "author": "@RoundtableSpace",
@@ -1560,6 +1589,31 @@
     "synced_at": "2026-02-21T14:01:55.503213+00:00"
   },
   {
+    "id": "2025216225098322217",
+    "date": "2026-02-21",
+    "author": "@gkxspace",
+    "author_url": "https://x.com/gkxspace",
+    "tweet_url": "https://x.com/gkxspace/status/2025216225098322217",
+    "title": {
+      "en-US": "Berman's OpenClaw full-stack system without coding",
+      "zh-CN": "Berman用自然语言搭建完整OpenClaw系统：CRM、知识库、顾问团、安全审查、视频流水线等"
+    },
+    "summary": {
+      "en-US": "OpenClaw全栈 + 零代码 + 系统建设 + 中文KOL",
+      "zh-CN": "中文圈分享OpenClaw全栈实践，体现\"不造奇观建系统\"——一个人就是中台"
+    },
+    "relevance": "OpenClaw全栈 + 零代码 + 系统建设 + 中文KOL",
+    "score": 0.76,
+    "engagement": {
+      "likes": 10,
+      "replies": 1,
+      "retweets": 2
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "全栈不是写代码，是编排能力——Berman展示了里世界的新全栈：自然语言即代码",
+    "synced_at": "2026-02-21T15:03:31.045465+00:00"
+  },
+  {
     "id": "2025050060694990872",
     "date": "2026-02-21",
     "author": "@evilcos",
@@ -1658,6 +1712,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "失控是特性不是bug——当agent开始自主决策，你要的是guardrails而不是缰绳",
     "synced_at": "2026-02-21T12:02:03.750667+00:00"
+  },
+  {
+    "id": "2025204905716093086",
+    "date": "2026-02-21",
+    "author": "@VittoStack",
+    "author_url": "https://x.com/VittoStack",
+    "tweet_url": "https://x.com/VittoStack/status/2025204905716093086",
+    "title": {
+      "en-US": "Building a body for OpenClaw with speech/motors/camera",
+      "zh-CN": "为OpenClaw搭建实体身体：语音转文字/文字转语音、电机控制、摄像头物体识别、IMU定位"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 硬件 + 具身智能 + 多模态",
+      "zh-CN": "展示OpenClaw与硬件结合，体现Jarvis定律——感知+决策+执行的完整闭环"
+    },
+    "relevance": "OpenClaw + 硬件 + 具身智能 + 多模态",
+    "score": 0.74,
+    "engagement": {
+      "likes": 70,
+      "replies": 15,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "软件Agent获得身体是Jarvis时刻——从屏幕里的助手到物理世界的执行者，这是质变",
+    "synced_at": "2026-02-21T15:03:31.045468+00:00"
   },
   {
     "id": "2025069983915737398",
@@ -5471,80 +5550,5 @@
     "comment_type": "add_insight",
     "suggested_angle": "Token efficiency as infrastructure. When you optimize the cost layer, you're not just saving money—you're making the agentic layer economically viable for sustained operation.",
     "synced_at": "2026-02-18T16:02:12.703597+00:00"
-  },
-  {
-    "id": "2024129330746372103",
-    "date": "2026-02-19",
-    "author": "@chutes_ai",
-    "author_url": "https://x.com/chutes_ai",
-    "tweet_url": "https://x.com/chutes_ai/status/2024129330746372103",
-    "title": {
-      "en-US": "ParaClaw: OpenClaw setup in one command, 60+ models, under 60s",
-      "zh-CN": "ParaClaw发布——一条命令60秒内完成OpenClaw部署，支持60+开源模型。"
-    },
-    "summary": {
-      "en-US": "OpenClaw部署工具、降低门槛、基础设施",
-      "zh-CN": "高互动(200赞)展示降低部署门槛的价值，体现\"里世界\"普及的关键是易用性。"
-    },
-    "relevance": "OpenClaw部署工具、降低门槛、基础设施",
-    "score": 0.75,
-    "engagement": {
-      "likes": 200,
-      "replies": 10,
-      "retweets": 33
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "One command, 60 seconds, 60 models. When the barrier to entry drops below the threshold of patience, adoption becomes inevitable.",
-    "synced_at": "2026-02-18T18:02:37.885305+00:00"
-  },
-  {
-    "id": "2024199345122447673",
-    "date": "2026-02-19",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2024199345122447673",
-    "title": {
-      "en-US": "Claude subscription prohibited for OpenClaw, risk of ban",
-      "zh-CN": "提醒用户Anthropic明确禁止将Claude Free/Pro/Max的OAuth令牌用于OpenClaw等第三方工具，违反服务条款有被封禁风险。"
-    },
-    "summary": {
-      "en-US": "OpenClaw合规风险、平台政策、基础设施依赖",
-      "zh-CN": "重要的合规风险警示，可从\"建系统\"角度回应——依赖封闭平台的风险与开源替代品的必要性。"
-    },
-    "relevance": "OpenClaw合规风险、平台政策、基础设施依赖",
-    "score": 0.75,
-    "engagement": {
-      "likes": 11,
-      "replies": 2,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Platform risk is real. When you build on closed APIs, you're renting, not owning. This is why open models aren't just alternatives—they're insurance.",
-    "synced_at": "2026-02-18T21:01:40.328967+00:00"
-  },
-  {
-    "id": "2024241369686917234",
-    "date": "2026-02-19",
-    "author": "@dotey",
-    "author_url": "https://x.com/dotey",
-    "tweet_url": "https://x.com/dotey/status/2024241369686917234",
-    "title": {
-      "en-US": "Claude Agent SDK also blocked from Claude Code OAuth",
-      "zh-CN": "宝玉分享Claude Agent SDK也不能使用Claude Code的OAuth登录了，Anthropic的限制进一步扩大。"
-    },
-    "summary": {
-      "en-US": "OpenClaw合规风险、平台政策、基础设施依赖",
-      "zh-CN": "平台风险持续升级，可从\"建系统\"角度回应——依赖封闭平台的风险与开源替代品的必要性。"
-    },
-    "relevance": "OpenClaw合规风险、平台政策、基础设施依赖",
-    "score": 0.75,
-    "engagement": {
-      "likes": 11,
-      "replies": 7,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "The walls keep closing. When platforms lock down access, the value of open alternatives compounds. This isn't just about cost—it's about sovereignty.",
-    "synced_at": "2026-02-18T23:01:20.584486+00:00"
   }
 ]
