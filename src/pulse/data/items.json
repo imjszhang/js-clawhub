@@ -170,6 +170,35 @@
     }
   },
   {
+    "id": "2025298284101992596",
+    "date": "2026-02-22",
+    "author": "@mranti",
+    "author_url": "https://x.com/mranti",
+    "tweet_url": "https://x.com/mranti/status/2025298284101992596",
+    "title": {
+      "en-US": "Kimi Claw equals free OpenClaw+cloud server, US access via intl version",
+      "zh-CN": "Kimi Claw等于免费OpenClaw+云服务器，国际版可访问美国网站"
+    },
+    "summary": {
+      "en-US": "Kimi Claw + OpenClaw替代 + 云服务 + 中文KOL",
+      "zh-CN": "Kimi Claw、OpenClaw替代方案、云服务与中文KOL"
+    },
+    "relevance": "Kimi Claw + OpenClaw替代 + 云服务 + 中文KOL",
+    "score": 0.86,
+    "engagement": {
+      "likes": 79,
+      "replies": 4,
+      "retweets": 13
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Kimi Claw不是OpenClaw的竞品是入口——当算力免费，里世界的门槛就消失了",
+    "synced_at": "2026-02-21T21:02:31.073791+00:00",
+    "js_take": {
+      "en-US": "Kimi Claw isn't a competitor to OpenClaw—it's an entry point. When compute becomes free, the barrier to the inner world disappears. That's when the migration accelerates.",
+      "zh-CN": "Kimi Claw不是OpenClaw的竞争对手，而是入口。当算力变得免费，里世界的门槛就消失了。那时迁徙才会加速。"
+    }
+  },
+  {
     "id": "2025215377475564026",
     "date": "2026-02-22",
     "author": "@_0xKenny",
@@ -193,6 +222,35 @@
     "comment_type": "add_insight",
     "suggested_angle": "Xvfb是表世界的hack，里世界的Agent不需要\"看见\"——感知与执行的分离是进化的方向",
     "synced_at": "2026-02-21T17:03:35.873927+00:00"
+  },
+  {
+    "id": "2025270235230871562",
+    "date": "2026-02-22",
+    "author": "@mikefutia",
+    "author_url": "https://x.com/mikefutia",
+    "tweet_url": "https://x.com/mikefutia/status/2025270235230871562",
+    "title": {
+      "en-US": "OpenClaw fully automates AI animated video creation",
+      "zh-CN": "OpenClaw完全自动化AI动画视频创作：一条Telegram消息，Agent完成叙事、生成3D角色、动画转换"
+    },
+    "summary": {
+      "en-US": "OpenClaw内容创作 + 自动化 + 端到端执行",
+      "zh-CN": "展示Agent端到端创作能力，体现Jarvis定律——从意图到成品的完整闭环"
+    },
+    "relevance": "OpenClaw内容创作 + 自动化 + 端到端执行",
+    "score": 0.84,
+    "engagement": {
+      "likes": 126,
+      "replies": 130,
+      "retweets": 8
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "一条消息到完整视频不是魔法是系统——里世界的Agent正在成为内容工厂",
+    "synced_at": "2026-02-21T21:02:31.073796+00:00",
+    "js_take": {
+      "en-US": "One message to a complete video isn't magic—it's a system. Agents in the inner world are becoming content factories. The pipeline from intent to output is now seamless.",
+      "zh-CN": "一条消息到完整视频不是魔法，是系统。里世界的Agent正在成为内容工厂。从意图到输出的管道现在是无缝的。"
+    }
   },
   {
     "id": "2025267524984783356",
@@ -386,6 +444,31 @@
     "synced_at": "2026-02-21T20:03:36.307524+00:00"
   },
   {
+    "id": "2025277906704892361",
+    "date": "2026-02-22",
+    "author": "@witcheer",
+    "author_url": "https://x.com/witcheer",
+    "tweet_url": "https://x.com/witcheer/status/2025277906704892361",
+    "title": {
+      "en-US": "OpenClaw release: Gemini 3.1, Discord thread-bound subagent sessions",
+      "zh-CN": "OpenClaw发布：支持Gemini 3.1，Discord线程绑定的子代理会话，多Agent工作流"
+    },
+    "summary": {
+      "en-US": "OpenClaw多Agent + Discord集成 + 子代理",
+      "zh-CN": "展示多Agent协作架构，体现系统设计——线程绑定是里世界的组织方式"
+    },
+    "relevance": "OpenClaw多Agent + Discord集成 + 子代理",
+    "score": 0.77,
+    "engagement": {
+      "likes": 21,
+      "replies": 2,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "线程绑定的子代理不是功能是架构——里世界的Agent需要上下文隔离又协作的场域",
+    "synced_at": "2026-02-21T21:02:31.073799+00:00"
+  },
+  {
     "id": "2025219802332041514",
     "date": "2026-02-22",
     "author": "@Chilearmy123",
@@ -509,6 +592,31 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "Discord VC不是功能是入口——语音让里世界的Agent有了表世界的临场感",
     "synced_at": "2026-02-21T20:03:36.307529+00:00"
+  },
+  {
+    "id": "2025235361056927975",
+    "date": "2026-02-22",
+    "author": "@Jimmy_JingLv",
+    "author_url": "https://x.com/Jimmy_JingLv",
+    "tweet_url": "https://x.com/Jimmy_JingLv/status/2025235361056927975",
+    "title": {
+      "en-US": "OpenClaw vs Claude Code vs Codex App comparison",
+      "zh-CN": "OpenClaw是普通人版Claude Code，但未来Codex App可能更懂C端用户"
+    },
+    "summary": {
+      "en-US": "OpenClaw竞品分析 + Claude Code + Codex App",
+      "zh-CN": "中文KOL工具对比，体现\"势\"的判断——不同工具服务不同层级的用户"
+    },
+    "relevance": "OpenClaw竞品分析 + Claude Code + Codex App",
+    "score": 0.72,
+    "engagement": {
+      "likes": 8,
+      "replies": 2,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "不是谁更好是谁服务谁——OpenClaw服务里世界建设者，Codex服务表世界用户，各得其所",
+    "synced_at": "2026-02-21T21:02:31.073801+00:00"
   },
   {
     "id": "2025186209270735118",
@@ -5429,122 +5537,6 @@
     "js_take": {
       "en-US": "One prompt to model, rig, and deploy. When the agent speaks the language of the tool, the barrier between imagination and artifact collapses. This is the workflow compression that changes industries.",
       "zh-CN": "一条提示词完成建模、绑定和部署。当 Agent 能\"说\"工具的语言，想象与成品之间的壁垒就崩塌了。这就是改变行业的工作流压缩。"
-    }
-  },
-  {
-    "id": "2024027082397761621",
-    "date": "2026-02-19",
-    "author": "@wunderwuzzi23",
-    "author_url": "https://x.com/wunderwuzzi23",
-    "tweet_url": "https://x.com/wunderwuzzi23/status/2024027082397761621",
-    "title": {
-      "en-US": "Cline compromised, installer modified, OpenClaw distributed as malware",
-      "zh-CN": "Cline项目被入侵，安装程序被篡改，安装Cline的用户被意外安装了OpenClaw。"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全事件、供应链安全",
-      "zh-CN": "重要的安全事件讨论，可从\"表里世界\"框架回应——里世界的安全边界需要重新思考。"
-    },
-    "relevance": "OpenClaw安全事件、供应链安全",
-    "score": 0.82,
-    "engagement": {
-      "likes": 87,
-      "replies": 10,
-      "retweets": 22
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Supply chain meets agent distribution. When the inner world gets compromised, the blast radius isn't just code—it's autonomous capability. This is the security model we need to solve for the agent era.",
-    "synced_at": "2026-02-18T16:02:12.703592+00:00",
-    "js_take": {
-      "en-US": "Supply chain meets agent distribution. When the inner world gets compromised, the blast radius isn't just code—it's autonomous capability. This is the security model we need to solve for the agent era.",
-      "zh-CN": "供应链遭遇Agent分发。当里世界被入侵，爆炸半径不只是代码，而是自主能力。这是Agent时代我们必须解决的安全模型。"
-    }
-  },
-  {
-    "id": "2024133049454387235",
-    "date": "2026-02-19",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2024133049454387235",
-    "title": {
-      "en-US": "100 hours testing OpenClaw deployments video",
-      "zh-CN": "有人花了100小时测试OpenClaw部署并浓缩成一个视频，涵盖运行多个Agent的所有知识。"
-    },
-    "summary": {
-      "en-US": "OpenClaw最佳实践、部署指南、社区教育",
-      "zh-CN": "高互动(336赞)的实战教程，可直接从\"国内认知滞后\"视角回应——优质内容降低入门门槛。"
-    },
-    "relevance": "OpenClaw最佳实践、部署指南、社区教育",
-    "score": 0.82,
-    "engagement": {
-      "likes": 336,
-      "replies": 17,
-      "retweets": 43
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "100 hours distilled into one video. This is the bridge from 'installed' to 'productive'—the gap where most people get stuck. Quality documentation isn't just content, it's infrastructure.",
-    "synced_at": "2026-02-18T18:02:37.885293+00:00",
-    "js_take": {
-      "en-US": "100 hours distilled into one video. This is the bridge from 'installed' to 'productive'—the gap where most people get stuck. Quality documentation isn't just content, it's infrastructure.",
-      "zh-CN": "100小时的实战经验浓缩成一个视频。这是从\"安装完成\"到\"真正高效\"的桥梁——大多数人卡住的地方。优质文档不只是内容，它是基础设施。"
-    }
-  },
-  {
-    "id": "2024196080938713439",
-    "date": "2026-02-19",
-    "author": "@Nate_Google_",
-    "author_url": "https://x.com/Nate_Google_",
-    "tweet_url": "https://x.com/Nate_Google_/status/2024196080938713439",
-    "title": {
-      "en-US": "OpenClaw templates: IDENTITY, SOUL, PRD files",
-      "zh-CN": "分享OpenClaw模板文件（IDENTITY、SOUL、PRD），帮助用户更好地配置和使用OpenClaw。"
-    },
-    "summary": {
-      "en-US": "OpenClaw配置、模板分享、最佳实践",
-      "zh-CN": "高收藏(532)展示社区对标准化配置的需求，体现系统思维的普及。"
-    },
-    "relevance": "OpenClaw配置、模板分享、最佳实践",
-    "score": 0.82,
-    "engagement": {
-      "likes": 157,
-      "replies": 5,
-      "retweets": 6
-    },
-    "comment_type": "recommend_resource",
-    "suggested_angle": "Standardized configs for consistent agents. When the community shares templates, we're building infrastructure, not just tools.",
-    "synced_at": "2026-02-18T21:01:40.328960+00:00",
-    "js_take": {
-      "en-US": "Standardized configs for consistent agents. When the community shares templates, we're building infrastructure, not just tools.",
-      "zh-CN": "标准化配置带来一致的Agent。当社区共享模板时，我们是在建设基础设施，而不只是工具。"
-    }
-  },
-  {
-    "id": "2024199818256482592",
-    "date": "2026-02-19",
-    "author": "@thejayden",
-    "author_url": "https://x.com/thejayden",
-    "tweet_url": "https://x.com/thejayden/status/2024199818256482592",
-    "title": {
-      "en-US": "OpenClaw memory protocol: logs, long-term memory, documented decisions",
-      "zh-CN": "分享OpenClaw记忆协议，通过每日日志、结构化长期记忆、文档化决策，将Agent从无状态自动补全转变为复利系统。"
-    },
-    "summary": {
-      "en-US": "OpenClaw记忆系统、最佳实践、系统建设",
-      "zh-CN": "高收藏(144)展示实用价值，体现\"建系统\"而非\"造奇观\"的哲学。"
-    },
-    "relevance": "OpenClaw记忆系统、最佳实践、系统建设",
-    "score": 0.82,
-    "engagement": {
-      "likes": 78,
-      "replies": 8,
-      "retweets": 5
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "From stateless to compounding. Memory isn't just storage—it's the difference between a tool and a teammate that learns.",
-    "synced_at": "2026-02-18T22:01:45.538604+00:00",
-    "js_take": {
-      "en-US": "From stateless to compounding. Memory isn't just storage—it's the difference between a tool and a teammate that learns.",
-      "zh-CN": "从无状态到复利。记忆不只是存储——它是工具与会学习的队友之间的分水岭。"
     }
   }
 ]
