@@ -431,6 +431,35 @@
     }
   },
   {
+    "id": "2024989854250270924",
+    "date": "2026-02-21",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2024989854250270924",
+    "title": {
+      "en-US": "OpenClaw real use cases for founders",
+      "zh-CN": "OpenClaw创始人真实用例"
+    },
+    "summary": {
+      "en-US": "OpenClaw用例、创始人运营、日常自动化",
+      "zh-CN": "OpenClaw实际应用场景、创始人日常运营、工作流自动化实践"
+    },
+    "relevance": "OpenClaw用例、创始人运营、日常自动化",
+    "score": 0.88,
+    "engagement": {
+      "likes": 25,
+      "replies": 7,
+      "retweets": 4
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "Utility over novelty. When skepticism meets execution, productivity becomes inevitable.",
+    "synced_at": "2026-02-21T00:02:22.588951+00:00",
+    "js_take": {
+      "en-US": "The skeptics never built anything. Morning briefings, email triage, calendar sync—these aren't demos, they're daily wins. When automation becomes invisible, productivity becomes inevitable.",
+      "zh-CN": "怀疑者从未真正建造过任何东西。晨会简报、邮件分类、日历同步——这些不是演示，而是日常胜利。当自动化变得无形，生产力就成为必然。"
+    }
+  },
+  {
     "id": "2024872924851913023",
     "date": "2026-02-21",
     "author": "@RoundtableSpace",
@@ -486,6 +515,35 @@
     "js_take": {
       "en-US": "$35/day is a barrier to experimentation. $50/month is a license to iterate. The difference between hobbyists and builders is sustainable burn rate.",
       "zh-CN": "每天35美元是实验的障碍，每月50美元是迭代的许可证。爱好者和建造者的区别在于可持续的消耗率。"
+    }
+  },
+  {
+    "id": "2024953963452182932",
+    "date": "2026-02-21",
+    "author": "@jordymaui",
+    "author_url": "https://x.com/jordymaui",
+    "tweet_url": "https://x.com/jordymaui/status/2024953963452182932",
+    "title": {
+      "en-US": "LarryBrain skill SaaS killer",
+      "zh-CN": "LarryBrain技能替代SaaS工具"
+    },
+    "summary": {
+      "en-US": "OpenClaw技能、SaaS替代、成本优化",
+      "zh-CN": "OpenClaw技能应用、SaaS服务替代方案、成本优化策略"
+    },
+    "relevance": "OpenClaw技能、SaaS替代、成本优化",
+    "score": 0.86,
+    "engagement": {
+      "likes": 56,
+      "replies": 6,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Skills as disruption. When agents replace subscriptions, ownership beats rental.",
+    "synced_at": "2026-02-21T00:02:22.588957+00:00",
+    "js_take": {
+      "en-US": "One install, twelve subscriptions dead. This isn't cost-cutting—it's ownership. When your agent replaces the stack, you stop renting productivity.",
+      "zh-CN": "一次安装，十二个订阅终结。这不是削减成本——而是获得所有权。当你的代理替代了整个工具栈，你就停止租用生产力了。"
     }
   },
   {
@@ -666,6 +724,35 @@
     "comment_type": "add_insight",
     "suggested_angle": "Recursion as evolution. When agents improve themselves, capability compounds.",
     "synced_at": "2026-02-20T22:05:15.408772+00:00"
+  },
+  {
+    "id": "2024967346398355684",
+    "date": "2026-02-21",
+    "author": "@bc1beat",
+    "author_url": "https://x.com/bc1beat",
+    "tweet_url": "https://x.com/bc1beat/status/2024967346398355684",
+    "title": {
+      "en-US": "ClawRouter 0.9.38 Claude 4.6 support",
+      "zh-CN": "ClawRouter 0.9.38发布，支持Claude 4.6，改进用户控制和安全加固。"
+    },
+    "summary": {
+      "en-US": "OpenClaw工具、ClawRouter、安全加固",
+      "zh-CN": "展示OpenClaw生态工具的持续迭代，体现安全性和模型支持的提升。"
+    },
+    "relevance": "OpenClaw工具、ClawRouter、安全加固",
+    "score": 0.82,
+    "engagement": {
+      "likes": 15,
+      "replies": 2,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "Hardening as maturity. When tools secure themselves, adoption accelerates.",
+    "synced_at": "2026-02-21T00:02:22.588961+00:00",
+    "js_take": {
+      "en-US": "Security as a first-class feature. When the router hardens itself, trust becomes default. Maturity isn't features—it's resilience.",
+      "zh-CN": "安全作为一等公民特性。当路由器自我加固，信任就成为默认设置。成熟不在于功能——而在于韧性。"
+    }
   },
   {
     "id": "2024483631067021348",
@@ -5522,95 +5609,6 @@
     "js_take": {
       "en-US": "Exactly. The network effect of workflows is where the magic happens. When agents start talking to each other, the whole becomes greater than the sum. Emergence, not just automation.",
       "zh-CN": "Exactly. The network effect of workflows is where the magic happens. When agents start talking to each other, the whole becomes greater than the sum. Emergence, not just automation."
-    }
-  },
-  {
-    "id": "2023698858287730870",
-    "date": "2026-02-18",
-    "author": "@peakji",
-    "author_url": "https://x.com/peakji",
-    "tweet_url": "https://x.com/peakji/status/2023698858287730870",
-    "title": {
-      "en-US": "Manus personal agent is not based on OpenClaw, built on Manus in-house architecture, but respects OpenClaw project.",
-      "zh-CN": "Peak Ji澄清Manus个人代理模式并非基于OpenClaw，而是完全自建架构，但仍向OpenClaw项目致敬。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、Manus产品架构",
-      "zh-CN": "中国顶级Agent产品澄清技术渊源，可从\"表/里世界\"框架分析技术传承与分野"
-    },
-    "relevance": "OpenClaw生态、Manus产品架构",
-    "score": 0.84,
-    "engagement": {
-      "likes": 295,
-      "replies": 34,
-      "retweets": 26
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "技术 lineage 不重要，重要的是都在推动里世界迁徙——OpenClaw开荒，Manus筑城，殊途同归",
-    "synced_at": "2026-02-17T16:03:49.447237+00:00",
-    "js_take": {
-      "en-US": "Technical lineage doesn't matter. What matters is we're all pushing the inner world migration. OpenClaw broke ground, Manus builds the city. Same destination.",
-      "zh-CN": "Technical lineage doesn't matter. What matters is we're all pushing the inner world migration. OpenClaw broke ground, Manus builds the city. Same destination."
-    }
-  },
-  {
-    "id": "2023760446881497476",
-    "date": "2026-02-18",
-    "author": "@robbinfan",
-    "author_url": "https://x.com/robbinfan",
-    "tweet_url": "https://x.com/robbinfan/status/2023760446881497476",
-    "title": {
-      "en-US": "OpenClaw setup with 3 models: GPT 5.2 main control, Claude Opus 4.6 deep thinking, Gemini 3 Pro light tasks. $60/month total.",
-      "zh-CN": "分享OpenClaw配置：GPT 5.2主控、Claude Opus 4.6深度思考、Gemini 3 Pro轻量任务，月费60美金。"
-    },
-    "summary": {
-      "en-US": "OpenClaw工程实践、多模型路由",
-      "zh-CN": "中文创作者，高收藏说明实用价值，可用'无为而治'解释多模型分工的系统设计"
-    },
-    "relevance": "OpenClaw工程实践、多模型路由",
-    "score": 0.84,
-    "engagement": {
-      "likes": 164,
-      "replies": 10,
-      "retweets": 36,
-      "views": 32207,
-      "bookmarks": 231
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用道家'无为而治'回应：三模型不是堆砌，是'各司其职'——Opus读势、GPT决策、Gemini执行，系统自组织而非中央调度",
-    "synced_at": "2026-02-17T19:02:13.453853+00:00",
-    "js_take": {
-      "en-US": "This is wu wei — effortless action through right positioning.\n\nOpus reads the situation (势). GPT decides. Gemini executes. No central controller micromanaging. Each agent knows its role, and the system flows.\n\nThree models, one mind. Not by force, by design.",
-      "zh-CN": "This is wu wei — effortless action through right positioning.\n\nOpus reads the situation (势). GPT decides. Gemini executes. No central controller micromanaging. Each agent knows its role, and the system flows.\n\nThree models, one mind. Not by force, by design."
-    }
-  },
-  {
-    "id": "2024003369061228835",
-    "date": "2026-02-18",
-    "author": "@JamesAI",
-    "author_url": "https://x.com/JamesAI",
-    "tweet_url": "https://x.com/JamesAI/status/2024003369061228835",
-    "title": {
-      "en-US": "Replaced $200/mo SaaS with OpenClaw + CLI for Google Ads",
-      "zh-CN": "分享用OpenClaw+CLI接入Google Ads实现投放策略自动化，取代昂贵SaaS工具。"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业应用、SaaS替代、Agent变现",
-      "zh-CN": "实际商业应用场景展示OpenClaw的SaaS替代能力，可从\"表/里世界\"框架回应——表世界(SaaS)退化为数据库，里世界(Agent)成为新交互层。"
-    },
-    "relevance": "OpenClaw商业应用、SaaS替代、Agent变现",
-    "score": 0.84,
-    "engagement": {
-      "likes": 76,
-      "replies": 5,
-      "retweets": 11
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "SaaS is the surface world. When you can orchestrate the same APIs through an agent, you're not just saving money—you're migrating from subscription software to composable infrastructure.",
-    "synced_at": "2026-02-18T10:02:51.023396+00:00",
-    "js_take": {
-      "en-US": "Done the same with my stack. You're not just cutting costs—you're migrating from subscription software to composable infrastructure. The API stays, the middleman leaves.",
-      "zh-CN": "Done the same with my stack. You're not just cutting costs—you're migrating from subscription software to composable infrastructure. The API stays, the middleman leaves."
     }
   }
 ]
