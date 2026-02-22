@@ -29,6 +29,35 @@
     }
   },
   {
+    "id": "2025334247192453612",
+    "date": "2026-02-22",
+    "author": "@CryptoKaleo",
+    "author_url": "https://x.com/CryptoKaleo",
+    "tweet_url": "https://x.com/CryptoKaleo/status/2025334247192453612",
+    "title": {
+      "en-US": "$72K on 120 Mac Minis for OpenClaw, used for 3 emails",
+      "zh-CN": "7.2万美元购120台Mac Mini跑OpenClaw，仅回3封邮件"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 硬件投资 + 集群部署",
+      "zh-CN": "OpenClaw、硬件投资与集群部署"
+    },
+    "relevance": "OpenClaw + 硬件投资 + 集群部署",
+    "score": 0.9,
+    "engagement": {
+      "likes": 551,
+      "replies": 166,
+      "retweets": 22
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "120台Mac不是过剩是押注——里世界的算力主权需要提前布局，产出只是时间问题",
+    "synced_at": "2026-02-22T04:07:16.995039+00:00",
+    "js_take": {
+      "en-US": "120 Mac Minis aren't excess—they're a bet. Compute sovereignty in the inner world requires early positioning. Output is just a matter of time.",
+      "zh-CN": "120台Mac Mini不是过剩，是押注。里世界的算力主权需要提前布局。产出只是时间问题。"
+    }
+  },
+  {
     "id": "2025257951007588582",
     "date": "2026-02-22",
     "author": "@steipete",
@@ -344,6 +373,35 @@
     }
   },
   {
+    "id": "2025362263218012334",
+    "date": "2026-02-22",
+    "author": "@DontezAkram",
+    "author_url": "https://x.com/DontezAkram",
+    "tweet_url": "https://x.com/DontezAkram/status/2025362263218012334",
+    "title": {
+      "en-US": "OpenClaw AI agent made this image",
+      "zh-CN": "OpenClaw AI Agent生成图像作品"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 创意生成 + Agent作品",
+      "zh-CN": "OpenClaw、创意生成与Agent作品"
+    },
+    "relevance": "OpenClaw + 创意生成 + Agent作品",
+    "score": 0.86,
+    "engagement": {
+      "likes": 366,
+      "replies": 17,
+      "retweets": 25
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "Agent创作不是工具使用是能力延伸——里世界的Agent正在成为创意伙伴，而非只是执行者",
+    "synced_at": "2026-02-22T04:07:16.995046+00:00",
+    "js_take": {
+      "en-US": "Agent creation isn't tool use—it's capability extension. Agents in the inner world are becoming creative partners, not just executors.",
+      "zh-CN": "Agent创作不是使用工具，是能力延伸。里世界的Agent正在成为创意伙伴，而非只是执行者。"
+    }
+  },
+  {
     "id": "2025296354751418874",
     "date": "2026-02-22",
     "author": "@JulianGoldieSEO",
@@ -482,6 +540,35 @@
     "js_take": {
       "en-US": "Paying USDC to hire an Agent isn't payment—it's protocol. The economy in the inner world is being built. This is the seed of new production relations.",
       "zh-CN": "用USDC雇佣Agent不是支付，是协议。里世界的经济正在建立。这是新生产关系的萌芽。"
+    }
+  },
+  {
+    "id": "2025399160875483254",
+    "date": "2026-02-22",
+    "author": "@Scobleizer",
+    "author_url": "https://x.com/Scobleizer",
+    "tweet_url": "https://x.com/Scobleizer/status/2025399160875483254",
+    "title": {
+      "en-US": "Karpathy validated claw power, OpenAI trouble, Sam will use OpenClaw",
+      "zh-CN": "Karpathy验证了Claw的力量，OpenAI陷入困境，Sam将利用OpenClaw突围——行业战略分析"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 行业战略 + OpenAI竞争",
+      "zh-CN": "资深科技观察者的战略判断——OpenClaw作为OpenAI的解困之道"
+    },
+    "relevance": "OpenClaw + 行业战略 + OpenAI竞争",
+    "score": 0.84,
+    "engagement": {
+      "likes": 21,
+      "replies": 6,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "OpenClaw不是替代品是逃生舱——里世界的开放生态正在吞噬表世界的封闭花园，这是势的转移",
+    "synced_at": "2026-02-22T04:07:16.995049+00:00",
+    "js_take": {
+      "en-US": "OpenClaw isn't a replacement—it's an escape pod. The open ecosystem of the inner world is devouring the walled gardens of the surface world. That's the shift in momentum.",
+      "zh-CN": "OpenClaw不是替代品，是逃生舱。里世界的开放生态正在吞噬表世界的封闭花园。这就是势的转移。"
     }
   },
   {
@@ -728,6 +815,35 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "48个Agent不是数量是组织——里世界的团队不需要工位，只需要算力，这是生产关系的重构",
     "synced_at": "2026-02-22T01:04:43.184361+00:00"
+  },
+  {
+    "id": "2025128688619323842",
+    "date": "2026-02-22",
+    "author": "@JulianGoldieSEO",
+    "author_url": "https://x.com/JulianGoldieSEO",
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/2025128688619323842",
+    "title": {
+      "en-US": "Run Claude Code for free with Ollama and Qwen",
+      "zh-CN": "用Ollama和Qwen免费运行Claude Code的完整设置教程——本地化部署指南"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 免费部署 + Ollama集成",
+      "zh-CN": ">24h扣分但高实用价值，降低里世界入口门槛——算力民主化"
+    },
+    "relevance": "OpenClaw + 免费部署 + Ollama集成",
+    "score": 0.8,
+    "engagement": {
+      "likes": 286,
+      "replies": 8,
+      "retweets": 44
+    },
+    "comment_type": "recommend_resource",
+    "suggested_angle": "免费不是省钱是主权——里世界的Agent应该在本地运行，而非云端租赁，这是独立的开始",
+    "synced_at": "2026-02-22T04:07:16.995052+00:00",
+    "js_take": {
+      "en-US": "Free isn't saving money—it's sovereignty. Agents in the inner world should run locally, not rent from the cloud. That's the beginning of independence.",
+      "zh-CN": "免费不是省钱，是主权。里世界的Agent应该在本地运行，而非云端租赁。这就是独立的开始。"
+    }
   },
   {
     "id": "2025264762687561874",
@@ -5369,122 +5485,6 @@
     "js_take": {
       "en-US": "Three variants, one vision: agents everywhere. When the runtime gets smaller than a browser tab, adoption becomes inevitable.",
       "zh-CN": "三个变体，一个愿景：Agent无处不在。当运行时比浏览器标签页还轻量时，普及就成了必然。"
-    }
-  },
-  {
-    "id": "2024247983999521123",
-    "date": "2026-02-19",
-    "author": "@gregisenberg",
-    "author_url": "https://x.com/gregisenberg",
-    "tweet_url": "https://x.com/gregisenberg/status/2024247983999521123",
-    "title": {
-      "en-US": "How to use OpenClaw for 24/7 digital employees and cash-flowing assets",
-      "zh-CN": "用OpenClaw部署7×24小时数字员工"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业应用、Agent经济、数字员工",
-      "zh-CN": "OpenClaw商业应用、Agent经济、数字员工"
-    },
-    "relevance": "OpenClaw商业应用、Agent经济、数字员工",
-    "score": 0.88,
-    "engagement": {
-      "likes": 165,
-      "replies": 22,
-      "retweets": 9
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "24/7 digital employees that cash flow. This is the shift from productivity tools to autonomous business infrastructure. The boring workflows are where the real leverage hides.",
-    "synced_at": "2026-02-18T23:01:20.584476+00:00",
-    "js_take": {
-      "en-US": "24/7 digital employees that cash flow. This is the shift from productivity tools to autonomous business infrastructure. The boring workflows are where the real leverage hides.",
-      "zh-CN": "7×24小时创造现金流的数字员工。这是从生产力工具到自主商业基础设施的转变。那些无聊的工作流程里藏着真正的杠杆。"
-    }
-  },
-  {
-    "id": "2024193243030716903",
-    "date": "2026-02-19",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2024193243030716903",
-    "title": {
-      "en-US": "OpenClaw reality: $100+/day API bills, M4 Mac Mini setup",
-      "zh-CN": "Ziwen分享OpenClaw的真实成本——每天100+美元API账单，以及如何在M4 Mac Mini上24/7运行5个Agent的实测经验。"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本、本地部署、真实运营数据",
-      "zh-CN": "极高互动(382赞+871收藏)展示真实运营成本，打破\"免费AI\"幻觉，体现\"不造奇观，建系统\"思维。"
-    },
-    "relevance": "OpenClaw成本、本地部署、真实运营数据",
-    "score": 0.88,
-    "engagement": {
-      "likes": 382,
-      "replies": 25,
-      "retweets": 37
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "The real cost of agent fleets. Cloud convenience meets sticker shock. Local inference isn't just about privacy—it's about sustainable economics.",
-    "synced_at": "2026-02-19T02:01:32.806722+00:00",
-    "js_take": {
-      "en-US": "The sticker shock is real. I've seen agents burn through $500/day in cloud tokens before stabilizing. Local inference isn't just cheaper—it's the only way to run 24/7 operations sustainably.",
-      "zh-CN": "The sticker shock is real. I've seen agents burn through $500/day in cloud tokens before stabilizing. Local inference isn't just cheaper—it's the only way to run 24/7 operations sustainably."
-    }
-  },
-  {
-    "id": "2024125323755884919",
-    "date": "2026-02-19",
-    "author": "@robzolkos",
-    "author_url": "https://x.com/robzolkos",
-    "tweet_url": "https://x.com/robzolkos/status/2024125323755884919",
-    "title": {
-      "en-US": "Claude Code policy: OAuth tokens not permitted for other tools",
-      "zh-CN": "Claude Code政策：OAuth令牌不得用于其他工具"
-    },
-    "summary": {
-      "en-US": "OpenClaw合规风险、平台政策、基础设施依赖",
-      "zh-CN": "OpenClaw合规风险、平台政策、基础设施依赖"
-    },
-    "relevance": "OpenClaw合规风险、平台政策、基础设施依赖",
-    "score": 0.87,
-    "engagement": {
-      "likes": 1039,
-      "replies": 202,
-      "retweets": 60
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Platform risk is real. When you build on closed APIs, you're renting, not owning. This is exactly why open models and local inference aren't just alternatives—they're insurance.",
-    "synced_at": "2026-02-18T20:04:37.524513+00:00",
-    "js_take": {
-      "en-US": "Platform risk is real. When you build on closed APIs, you're renting, not owning. This is exactly why open models and local inference aren't just alternatives—they're insurance.",
-      "zh-CN": "平台风险真实存在。在封闭API上构建，你是在租赁而非拥有。这正是开源模型和本地推理不只是替代方案——它们是保险。"
-    }
-  },
-  {
-    "id": "2024178348415455268",
-    "date": "2026-02-19",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2024178348415455268",
-    "title": {
-      "en-US": "Picolaw: OpenClaw on $10 chip, 10MB RAM, 95% self-coded",
-      "zh-CN": "Picolaw：10美元芯片运行OpenClaw，95%自编程"
-    },
-    "summary": {
-      "en-US": "OpenClaw极简化、边缘部署、自编程Agent",
-      "zh-CN": "OpenClaw极简化、边缘部署、自编程Agent"
-    },
-    "relevance": "OpenClaw极简化、边缘部署、自编程Agent",
-    "score": 0.86,
-    "engagement": {
-      "likes": 79,
-      "replies": 17,
-      "retweets": 3
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "$10 chip, 10MB RAM, 95% self-coded. When the agent runtime gets smaller than a smartphone app, you're watching infrastructure disappear into the background. The future is zero-overhead agents everywhere.",
-    "synced_at": "2026-02-18T19:01:56.842961+00:00",
-    "js_take": {
-      "en-US": "$10 chip, 10MB RAM, 95% self-coded. When the agent runtime gets smaller than a smartphone app, you're watching infrastructure disappear into the background. The future is zero-overhead agents everywhere.",
-      "zh-CN": "10美元芯片，10MB内存，95%自编程。当Agent运行时才比手机App还小，基础设施正在隐入背景。未来是零开销Agent无处不在的时代。"
     }
   }
 ]
