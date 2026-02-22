@@ -29,6 +29,35 @@
     }
   },
   {
+    "id": "2025535491710591449",
+    "date": "2026-02-23",
+    "author": "@lewiscarhart",
+    "author_url": "https://x.com/lewiscarhart",
+    "tweet_url": "https://x.com/lewiscarhart/status/2025535491710591449",
+    "title": {
+      "en-US": "OpenClaw wrapper $0 to $27,940 MRR in 14 days",
+      "zh-CN": "OpenClaw wrapper 14天实现27940美元月收入"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 商业变现 + 快速启动",
+      "zh-CN": "OpenClaw、商业变现与快速启动"
+    },
+    "relevance": "OpenClaw + 商业变现 + 快速启动",
+    "score": 0.88,
+    "engagement": {
+      "likes": 170,
+      "replies": 42,
+      "retweets": 4
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "27940美元不是收入是信号——里世界的Agent正在成为独立商业实体，这是生产关系的重构",
+    "synced_at": "2026-02-22T19:03:55.858017+00:00",
+    "js_take": {
+      "en-US": "$27,940 isn't revenue—it's signal. Agents in the inner world are becoming independent business entities. That's the restructuring of production relations.",
+      "zh-CN": "27940美元不是收入，而是信号。里世界的Agent正在成为独立的商业实体。这是生产关系的重构。"
+    }
+  },
+  {
     "id": "2025587318338543813",
     "date": "2026-02-23",
     "author": "@petergyang",
@@ -87,6 +116,35 @@
     }
   },
   {
+    "id": "2025640943354102094",
+    "date": "2026-02-23",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2025640943354102094",
+    "title": {
+      "en-US": "OpenClaw 5 use cases for everyone video",
+      "zh-CN": "Alex Finn分享5个对所有人都有用的OpenClaw用例视频——声称能让生活效率提升5倍"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 用例普及 + 效率提升",
+      "zh-CN": "高互动用例分享帖——展示OpenClaw向大众普及的趋势"
+    },
+    "relevance": "OpenClaw + 用例普及 + 效率提升",
+    "score": 0.84,
+    "engagement": {
+      "likes": 158,
+      "replies": 38,
+      "retweets": 11
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "5倍不是夸张是杠杆——里世界的Agent让个人拥有团队产能，这是能力的民主化",
+    "synced_at": "2026-02-22T19:03:55.858023+00:00",
+    "js_take": {
+      "en-US": "5x isn't exaggeration—it's leverage. Agents in the inner world give individuals team capacity. That's the democratization of ability.",
+      "zh-CN": "5倍不是夸张，而是杠杆。里世界的Agent让个人拥有团队产能。这是能力的民主化。"
+    }
+  },
+  {
     "id": "2025528439852179613",
     "date": "2026-02-23",
     "author": "@0x_Discover",
@@ -113,6 +171,35 @@
     "js_take": {
       "en-US": "$823 isn't profit—it's signal. Agents in the inner world are starting to own economic capacity. That's the migration of value creation.",
       "zh-CN": "823美元不是利润，而是信号。里世界的Agent开始拥有经济能力。这是价值创造的迁移。"
+    }
+  },
+  {
+    "id": "2025592012205064410",
+    "date": "2026-02-23",
+    "author": "@advaitpaliwal",
+    "author_url": "https://x.com/advaitpaliwal",
+    "tweet_url": "https://x.com/advaitpaliwal/status/2025592012205064410",
+    "title": {
+      "en-US": "Einstein OpenClaw student agent does assignments",
+      "zh-CN": "Advait Paliwal介绍Einstein——以OpenClaw作为学生代理，登录Canvas、完成作业、获得学位"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 教育自动化 + Agent自主性",
+      "zh-CN": "展示Agent在教育领域的深度自动化——从工具到替代者"
+    },
+    "relevance": "OpenClaw + 教育自动化 + Agent自主性",
+    "score": 0.82,
+    "engagement": {
+      "likes": 139,
+      "replies": 14,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "学位不是目标是能力证明——里世界的Agent展示的是能力而非凭证，这是评价体系的变迁",
+    "synced_at": "2026-02-22T19:03:55.858026+00:00",
+    "js_take": {
+      "en-US": "The degree isn't the goal—it's proof of capability. Agents in the inner world demonstrate ability, not credentials. That's the shift in evaluation systems.",
+      "zh-CN": "学位不是目标，而是能力的证明。里世界的Agent展示的是能力，而非凭证。这是评价体系的转变。"
     }
   },
   {
@@ -145,6 +232,35 @@
     }
   },
   {
+    "id": "2025632431433511085",
+    "date": "2026-02-23",
+    "author": "@Yuchenj_UW",
+    "author_url": "https://x.com/Yuchenj_UW",
+    "tweet_url": "https://x.com/Yuchenj_UW/status/2025632431433511085",
+    "title": {
+      "en-US": "OpenClaw one-person billion-dollar company hype",
+      "zh-CN": "Yuchen Jin调侃OpenClaw的成就：3个月GitHub star超越Linux、引发硅谷Mac Mini短缺、成为首个被OpenAI收购的十亿美元单人公司"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 影响力 + 文化现象",
+      "zh-CN": "高热度讨论OpenClaw的文化影响力——展示平台现象级传播"
+    },
+    "relevance": "OpenClaw + 影响力 + 文化现象",
+    "score": 0.8,
+    "engagement": {
+      "likes": 223,
+      "replies": 46,
+      "retweets": 16
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "十亿不是估值是范式——里世界的Agent重新定义公司边界，这是组织的原子化",
+    "synced_at": "2026-02-22T19:03:55.858029+00:00",
+    "js_take": {
+      "en-US": "Billion isn't valuation—it's paradigm. Agents in the inner world redefine company boundaries. That's the atomization of organization.",
+      "zh-CN": "十亿不是估值，而是范式。里世界的Agent重新定义公司边界。这是组织的原子化。"
+    }
+  },
+  {
     "id": "2025484005177708608",
     "date": "2026-02-23",
     "author": "@sodawhite_dev",
@@ -168,6 +284,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "多模型不是复杂是分工——里世界的Agent需要专业化，这是效率的最优解",
     "synced_at": "2026-02-22T18:03:07.473536+00:00"
+  },
+  {
+    "id": "2025483115813372079",
+    "date": "2026-02-23",
+    "author": "@hkarthik",
+    "author_url": "https://x.com/hkarthik",
+    "tweet_url": "https://x.com/hkarthik/status/2025483115813372079",
+    "title": {
+      "en-US": "OpenClaw lead due to community and steipete",
+      "zh-CN": "Karthik Hariharan分析OpenClaw领先的原因——不是技术效率或纯粹性，而是可接近性和社区"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 社区建设 + 产品哲学",
+      "zh-CN": "深度洞察——社区 vs 技术在产品成功中的作用"
+    },
+    "relevance": "OpenClaw + 社区建设 + 产品哲学",
+    "score": 0.74,
+    "engagement": {
+      "likes": 37,
+      "replies": 4,
+      "retweets": 1
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "社区不是功能是生态——里世界的Agent需要共生环境，这是网络效应的本质",
+    "synced_at": "2026-02-22T19:03:55.858031+00:00"
   },
   {
     "id": "2025270903437717745",
@@ -5312,151 +5453,6 @@
     "js_take": {
       "en-US": "Cost as the reality check. When the novelty fades, optimization separates hobbyists from practitioners.",
       "zh-CN": "成本即现实检验。当新鲜感褪去，优化将爱好者与实践者区分开来。"
-    }
-  },
-  {
-    "id": "2024514563505607156",
-    "date": "2026-02-20",
-    "author": "@thetripathi58",
-    "author_url": "https://x.com/thetripathi58",
-    "tweet_url": "https://x.com/thetripathi58/status/2024514563505607156",
-    "title": {
-      "en-US": "7 OpenClaw skills run entire business",
-      "zh-CN": "7个OpenClaw技能运营整个业务"
-    },
-    "summary": {
-      "en-US": "OpenClaw技能、业务自动化、创业",
-      "zh-CN": "OpenClaw 技能、业务自动化、创业"
-    },
-    "relevance": "OpenClaw技能、业务自动化、创业",
-    "score": 0.88,
-    "engagement": {
-      "likes": 652,
-      "replies": 11,
-      "retweets": 117
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Skills as business infrastructure. When 7 agents replace a team, solopreneur becomes scalable.",
-    "synced_at": "2026-02-20T11:03:30.879412+00:00",
-    "js_take": {
-      "en-US": "Skills as business infrastructure. When 7 agents replace a team, solopreneur becomes scalable.",
-      "zh-CN": "技能即商业基础设施。当7个Agent取代一个团队时，个体创业者便具备规模化能力。"
-    }
-  },
-  {
-    "id": "2024693984103452952",
-    "date": "2026-02-20",
-    "author": "@sitinme",
-    "author_url": "https://x.com/sitinme",
-    "tweet_url": "https://x.com/sitinme/status/2024693984103452952",
-    "title": {
-      "en-US": "OpenClaw Agent auto-setup Mac Mini dev env",
-      "zh-CN": "OpenClaw Agent自动配置Mac Mini开发环境"
-    },
-    "summary": {
-      "en-US": "OpenClaw自动化、开发环境配置、效率提升",
-      "zh-CN": "OpenClaw 自动化、开发环境配置、效率提升"
-    },
-    "relevance": "OpenClaw自动化、开发环境配置、效率提升",
-    "score": 0.88,
-    "engagement": {
-      "likes": 133,
-      "replies": 19,
-      "retweets": 26
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Automation as time reclamation. When setup becomes hands-free, iteration speed becomes competitive advantage.",
-    "synced_at": "2026-02-20T11:03:30.879425+00:00",
-    "js_take": {
-      "en-US": "Automation as time reclamation. When setup becomes hands-free, iteration speed becomes competitive advantage.",
-      "zh-CN": "自动化即时间回收。当配置变得无需动手时，迭代速度便成为竞争优势。"
-    }
-  },
-  {
-    "id": "2024793650429915383",
-    "date": "2026-02-20",
-    "author": "@Pluvio9yte",
-    "author_url": "https://x.com/Pluvio9yte",
-    "tweet_url": "https://x.com/Pluvio9yte/status/2024793650429915383",
-    "title": {
-      "en-US": "OpenClaw 6 AI agents autonomous website",
-      "zh-CN": "OpenClaw 6个AI Agent自主运营网站"
-    },
-    "summary": {
-      "en-US": "OpenClaw自主运营、多Agent架构、实战案例",
-      "zh-CN": "OpenClaw自主运营、多Agent架构、实战案例"
-    },
-    "relevance": "OpenClaw自主运营、多Agent架构、实战案例",
-    "score": 0.88,
-    "engagement": {
-      "likes": 16,
-      "replies": 1,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Autonomy as architecture. When agents run the business, the operator becomes the overseer.",
-    "synced_at": "2026-02-20T12:01:53.673272+00:00",
-    "js_take": {
-      "en-US": "Autonomy as architecture. When agents run the business, the operator becomes the overseer.",
-      "zh-CN": "自主性即架构。当Agent运营业务时，操作者便成为监督者。"
-    }
-  },
-  {
-    "id": "2024758925434789935",
-    "date": "2026-02-20",
-    "author": "@afterxleep",
-    "author_url": "https://x.com/afterxleep",
-    "tweet_url": "https://x.com/afterxleep/status/2024758925434789935",
-    "title": {
-      "en-US": "AGENTS.md token efficiency tips",
-      "zh-CN": "AGENTS.md Token 效率优化技巧"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本优化、token效率、最佳实践",
-      "zh-CN": "OpenClaw 成本优化、Token 效率、最佳实践"
-    },
-    "relevance": "OpenClaw成本优化、token效率、最佳实践",
-    "score": 0.88,
-    "engagement": {
-      "likes": 127,
-      "replies": 5,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Efficiency as design constraint. When tokens cost money, every byte becomes a decision.",
-    "synced_at": "2026-02-20T15:04:27.360789+00:00",
-    "js_take": {
-      "en-US": "Efficiency as design constraint. When tokens cost money, every byte becomes a decision.",
-      "zh-CN": "效率即设计约束。当token需要花钱时，每个字节都成为一个决策。"
-    }
-  },
-  {
-    "id": "2024452494244352170",
-    "date": "2026-02-20",
-    "author": "@andreasklinger",
-    "author_url": "https://x.com/andreasklinger",
-    "tweet_url": "https://x.com/andreasklinger/status/2024452494244352170",
-    "title": {
-      "en-US": "Peter's journey from hobby to OpenAI",
-      "zh-CN": "Peter从爱好到OpenAI的旅程"
-    },
-    "summary": {
-      "en-US": "OpenClaw收购、创始人故事、行业认可",
-      "zh-CN": "OpenClaw收购、创始人故事、行业认可"
-    },
-    "relevance": "OpenClaw收购、创始人故事、行业认可",
-    "score": 0.87,
-    "engagement": {
-      "likes": 552,
-      "replies": 36,
-      "retweets": 54
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "From side project to industry standard in months. When the right tool meets the right moment, adoption curves become vertical—and talent follows impact.",
-    "synced_at": "2026-02-19T16:03:39.544750+00:00",
-    "js_take": {
-      "en-US": "From side project to OpenAI in months. When the right tool meets the right moment, adoption curves go vertical—and the best talent follows impact, not hype.",
-      "zh-CN": "几个月从副业项目到OpenAI。当正确的工具遇上正确的时机，采用曲线垂直上升——最优秀的人才追随的是影响力，而非炒作。"
     }
   }
 ]
