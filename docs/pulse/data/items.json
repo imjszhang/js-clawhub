@@ -315,6 +315,35 @@
     }
   },
   {
+    "id": "2025404214868869240",
+    "date": "2026-02-22",
+    "author": "@xxx111god",
+    "author_url": "https://x.com/xxx111god",
+    "tweet_url": "https://x.com/xxx111god/status/2025404214868869240",
+    "title": {
+      "en-US": "Perpetual Agent concept with OpenClaw - persistent state",
+      "zh-CN": "OpenClaw永续Agent：持久化状态概念"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 永续Agent + 上下文持久化",
+      "zh-CN": "OpenClaw、永续Agent与上下文持久化"
+    },
+    "relevance": "OpenClaw + 永续Agent + 上下文持久化",
+    "score": 0.87,
+    "engagement": {
+      "likes": 182,
+      "replies": 13,
+      "retweets": 31
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "永续不是功能是存在——里世界的Agent需要记忆连续性，这是从工具到伙伴的质变",
+    "synced_at": "2026-02-22T13:04:17.356593+00:00",
+    "js_take": {
+      "en-US": "Perpetual isn't a feature—it's existence. Agents in the inner world need memory continuity. That's the qualitative shift from tool to companion.",
+      "zh-CN": "永续不是功能，而是存在。里世界的Agent需要记忆连续性。这是从工具到伙伴的质变。"
+    }
+  },
+  {
     "id": "2025266379906236435",
     "date": "2026-02-22",
     "author": "@Saboo_Shubham_",
@@ -1281,6 +1310,35 @@
     }
   },
   {
+    "id": "2025496783904969119",
+    "date": "2026-02-22",
+    "author": "@PrajwalTomar_",
+    "author_url": "https://x.com/PrajwalTomar_",
+    "tweet_url": "https://x.com/PrajwalTomar_/status/2025496783904969119",
+    "title": {
+      "en-US": "Automated content process with OpenClaw - research, writing, scheduling 24/7",
+      "zh-CN": "用OpenClaw自动化整个内容流程：研究、写作、排期——全部24/7运行，考虑打包卖给创作者作为商业模式"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 内容自动化 + 商业模式",
+      "zh-CN": "展示OpenClaw在内容创作领域的完整工作流自动化和商业化思考"
+    },
+    "relevance": "OpenClaw + 内容自动化 + 商业模式",
+    "score": 0.82,
+    "engagement": {
+      "likes": 27,
+      "replies": 3,
+      "retweets": 6
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "24/7不是自动化是杠杆——里世界的Agent让个人拥有媒体公司的产能，这是生产关系的重构",
+    "synced_at": "2026-02-22T13:04:17.356598+00:00",
+    "js_take": {
+      "en-US": "24/7 isn't automation—it's leverage. Agents in the inner world give individuals media company capacity. That's restructuring production relations.",
+      "zh-CN": "全天候不是自动化，而是杠杆。里世界的Agent让个人拥有媒体公司的产能。这是生产关系的重构。"
+    }
+  },
+  {
     "id": "2025219518394740896",
     "date": "2026-02-22",
     "author": "@LufzzLiz",
@@ -1885,6 +1943,31 @@
     "synced_at": "2026-02-22T12:02:50.185426+00:00"
   },
   {
+    "id": "2025471015015354405",
+    "date": "2026-02-22",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2025471015015354405",
+    "title": {
+      "en-US": "OpenClaw built its own business making $2K/month",
+      "zh-CN": "这个OpenClaw自己建立了业务，每月赚2000美元——Agent自主盈利案例"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 自主盈利 + 商业模式",
+      "zh-CN": "展示Agent自主盈利的实际案例——从工具到经济实体"
+    },
+    "relevance": "OpenClaw + 自主盈利 + 商业模式",
+    "score": 0.76,
+    "engagement": {
+      "likes": 231,
+      "replies": 30,
+      "retweets": 24
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "2000美元不是收入是信号——里世界的Agent开始拥有经济能力，这是价值创造的迁移",
+    "synced_at": "2026-02-22T13:04:17.356602+00:00"
+  },
+  {
     "id": "2025219802332041514",
     "date": "2026-02-22",
     "author": "@Chilearmy123",
@@ -2054,6 +2137,31 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "35分钟不是速度是能力——里世界的Agent可以听觉化，这是感知的扩展",
     "synced_at": "2026-02-22T10:05:07.079922+00:00"
+  },
+  {
+    "id": "2025258699749499022",
+    "date": "2026-02-22",
+    "author": "@danshipper",
+    "author_url": "https://x.com/danshipper",
+    "tweet_url": "https://x.com/danshipper/status/2025258699749499022",
+    "title": {
+      "en-US": "Live daily todo list as Proof doc collaborating with Claw",
+      "zh-CN": "Dan Shipper分享新模式：用Proof文档维护实时每日待办清单——与Claw每天协作，确保事情不遗漏并保持有条理"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 工作流 + 协作模式",
+      "zh-CN": "展示人与Agent的日常协作模式——从工具使用到协作关系"
+    },
+    "relevance": "OpenClaw + 工作流 + 协作模式",
+    "score": 0.74,
+    "engagement": {
+      "likes": 71,
+      "replies": 13,
+      "retweets": 7
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "协作不是使用是共生——里世界的Agent成为owner的延伸，这是关系的进化",
+    "synced_at": "2026-02-22T13:04:17.356604+00:00"
   },
   {
     "id": "2025215948840731010",
@@ -5369,122 +5477,6 @@
     "js_take": {
       "en-US": "Text as code, code as power. When a markdown file can execute arbitrary commands, isolation becomes non-negotiable.",
       "zh-CN": "文本即代码，代码即权力。当Markdown文件可以执行任意命令时，隔离变得不可妥协。"
-    }
-  },
-  {
-    "id": "2024428403227508902",
-    "date": "2026-02-20",
-    "author": "@MichaelAsiedu_",
-    "author_url": "https://x.com/MichaelAsiedu_",
-    "tweet_url": "https://x.com/MichaelAsiedu_/status/2024428403227508902",
-    "title": {
-      "en-US": "$80 Raspberry Pi runs OpenClaw locally",
-      "zh-CN": "Michael Asiedu分享：80美元树莓派5加3美元SD卡即可本地运行OpenClaw，生产力提升惊人。"
-    },
-    "summary": {
-      "en-US": "OpenClaw低成本部署、边缘计算、硬件民主化",
-      "zh-CN": "高收藏(615)展示对低成本方案的渴求，体现\"不造奇观，建系统\"——让Agent accessible to everyone。"
-    },
-    "relevance": "OpenClaw低成本部署、边缘计算、硬件民主化",
-    "score": 0.84,
-    "engagement": {
-      "likes": 712,
-      "replies": 70,
-      "retweets": 77
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "$80 Pi vs $10K Mac. When agents run on commodity hardware, accessibility wins. The future isn't premium—it's pervasive.",
-    "synced_at": "2026-02-19T16:03:39.544753+00:00",
-    "js_take": {
-      "en-US": "$80 Pi vs $10K Mac. When agents run on commodity hardware, the future isn't premium—it's pervasive. Accessibility wins every time.",
-      "zh-CN": "80美元的树莓派对阵1万美元的Mac。当Agent能在通用硬件上运行，未来不是高端化，而是普及化。可及性永远胜出。"
-    }
-  },
-  {
-    "id": "2024653068235874686",
-    "date": "2026-02-20",
-    "author": "@zhixianio",
-    "author_url": "https://x.com/zhixianio",
-    "tweet_url": "https://x.com/zhixianio/status/2024653068235874686",
-    "title": {
-      "en-US": "OpenClaw configuration management tool",
-      "zh-CN": "zhixian发布OpenClaw配置管理工具，支持本地和远程龙虾管理、多Channel配置、Recipes系统、可视化管理。"
-    },
-    "summary": {
-      "en-US": "OpenClaw工具、配置管理、多Agent管理",
-      "zh-CN": "高收藏(80)展示对配置管理工具的需求，体现从手动配置到系统化管理的演进。"
-    },
-    "relevance": "OpenClaw工具、配置管理、多Agent管理",
-    "score": 0.84,
-    "engagement": {
-      "likes": 73,
-      "replies": 6,
-      "retweets": 10
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Configuration as code, management as craft. When tools tame complexity, adoption follows.",
-    "synced_at": "2026-02-20T05:01:25.103334+00:00",
-    "js_take": {
-      "en-US": "Configuration as code, management as craft. When tools tame complexity, adoption follows.",
-      "zh-CN": "配置即代码，管理即手艺。当工具驯服复杂性时，采用自然发生。"
-    }
-  },
-  {
-    "id": "2024676211880775921",
-    "date": "2026-02-20",
-    "author": "@tom_doerr",
-    "author_url": "https://x.com/tom_doerr",
-    "tweet_url": "https://x.com/tom_doerr/status/2024676211880775921",
-    "title": {
-      "en-US": "Directory of agent skills",
-      "zh-CN": "Tom Dörr分享Agent技能目录。"
-    },
-    "summary": {
-      "en-US": "Agent技能、技能目录、OpenClaw生态",
-      "zh-CN": "极高收藏(96)展示对技能目录的需求，体现技能发现和复用的基础设施价值。"
-    },
-    "relevance": "Agent技能、技能目录、OpenClaw生态",
-    "score": 0.84,
-    "engagement": {
-      "likes": 80,
-      "replies": 2,
-      "retweets": 16
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Discovery as infrastructure. When skills are discoverable, the ecosystem becomes composable.",
-    "synced_at": "2026-02-20T08:01:39.084048+00:00",
-    "js_take": {
-      "en-US": "Discovery as infrastructure. When skills are discoverable, the ecosystem becomes composable.",
-      "zh-CN": "发现即基础设施。当技能可被搜索时，生态系统变得可组合。"
-    }
-  },
-  {
-    "id": "2024529449958662565",
-    "date": "2026-02-20",
-    "author": "@ewind_dev",
-    "author_url": "https://x.com/ewind_dev",
-    "tweet_url": "https://x.com/ewind_dev/status/2024529449958662565",
-    "title": {
-      "en-US": "Multiple OpenClaw with different models workflow",
-      "zh-CN": "Yifeng分享养多只龙虾接不同级别模型，最聪明的负责从零到一跑通流程提炼SOP，便宜大碗的执行即可。"
-    },
-    "summary": {
-      "en-US": "OpenClaw多Agent协作、模型分级、SOP提炼",
-      "zh-CN": "展示多Agent分层协作策略，体现从个体到组织的智能分工。"
-    },
-    "relevance": "OpenClaw多Agent协作、模型分级、SOP提炼",
-    "score": 0.84,
-    "engagement": {
-      "likes": 64,
-      "replies": 1,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Intelligence arbitrage. When you match cognitive load to model capability, cost becomes a dial not a barrier.",
-    "synced_at": "2026-02-20T11:03:30.879429+00:00",
-    "js_take": {
-      "en-US": "Intelligence arbitrage. When you match cognitive load to model capability, cost becomes a dial not a barrier.",
-      "zh-CN": "智能套利。当你将认知负荷与模型能力匹配时，成本便成为一个可调旋钮而非障碍。"
     }
   }
 ]
