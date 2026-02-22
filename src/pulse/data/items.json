@@ -58,6 +58,64 @@
     }
   },
   {
+    "id": "2025528858867593276",
+    "date": "2026-02-23",
+    "author": "@carlosazaustre",
+    "author_url": "https://x.com/carlosazaustre",
+    "tweet_url": "https://x.com/carlosazaustre/status/2025528858867593276",
+    "title": {
+      "en-US": "TenacitOS open source dashboard for OpenClaw agents monitoring",
+      "zh-CN": "Carlos Azaustre发布TenacitOS开源项目——OpenClaw Agent监控仪表板，无需额外数据库，包含实时系统监控、成本追踪、可视化cron管理器、内存浏览器、3D办公室"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 监控工具 + 可视化",
+      "zh-CN": "高热度实用工具——展示Agent生态的监控基础设施需求"
+    },
+    "relevance": "OpenClaw + 监控工具 + 可视化",
+    "score": 0.84,
+    "engagement": {
+      "likes": 293,
+      "replies": 20,
+      "retweets": 34
+    },
+    "comment_type": "recommend_resource",
+    "suggested_angle": "监控不是窥探是理解——里世界的Agent需要被看见，这是存在的基础设施",
+    "synced_at": "2026-02-22T17:02:46.757942+00:00",
+    "js_take": {
+      "en-US": "Great tool for agent observability. Monitoring isn't surveillance—it's understanding. Agents in the inner world need to be seen. That's infrastructure for existence.",
+      "zh-CN": "很棒的Agent可观测性工具。监控不是监视，而是理解。里世界的Agent需要被看见。这是存在的基础设施。"
+    }
+  },
+  {
+    "id": "2025588354918863297",
+    "date": "2026-02-23",
+    "author": "@meta_alchemist",
+    "author_url": "https://x.com/meta_alchemist",
+    "tweet_url": "https://x.com/meta_alchemist/status/2025588354918863297",
+    "title": {
+      "en-US": "Spark on OpenClaw for intelligence loop memory, not just MD storage",
+      "zh-CN": "建议在OpenClaw上使用Spark——记忆将被智能循环取代，不再是简单存储，而是过滤、评分、蒸馏"
+    },
+    "summary": {
+      "en-US": "Agent记忆 + 智能循环 + 记忆架构",
+      "zh-CN": "展示Agent记忆的下一代演进——从存储到智能处理"
+    },
+    "relevance": "Agent记忆 + 智能循环 + 记忆架构",
+    "score": 0.8,
+    "engagement": {
+      "likes": 73,
+      "replies": 13,
+      "retweets": 3
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "记忆不是仓库是流水线——里世界的Agent需要动态记忆处理，这是认知的进化",
+    "synced_at": "2026-02-22T17:02:46.757948+00:00",
+    "js_take": {
+      "en-US": "Memory isn't a warehouse—it's a pipeline. Agents in the inner world need dynamic memory processing. That's the evolution of cognition.",
+      "zh-CN": "记忆不是仓库，而是流水线。里世界的Agent需要动态记忆处理。这是认知的进化。"
+    }
+  },
+  {
     "id": "2025270903437717745",
     "date": "2026-02-22",
     "author": "@openclaw",
@@ -5403,64 +5461,6 @@
     "js_take": {
       "en-US": "Security as infrastructure. When agents become infrastructure, hardening isn't a feature—it's the foundation everything else builds on.",
       "zh-CN": "安全即基础设施。当Agent成为基础设施时，加固不是功能——而是一切的根基。"
-    }
-  },
-  {
-    "id": "2024677705527283841",
-    "date": "2026-02-20",
-    "author": "@karry_viber",
-    "author_url": "https://x.com/karry_viber",
-    "tweet_url": "https://x.com/karry_viber/status/2024677705527283841",
-    "title": {
-      "en-US": "OpenClaw multi-agent vs single deep agent philosophy",
-      "zh-CN": "OpenClaw：单Agent深耕 vs 多Agent协作"
-    },
-    "summary": {
-      "en-US": "OpenClaw哲学、单Agent深度vs多Agent协作",
-      "zh-CN": "OpenClaw 哲学、单 Agent 深度 vs 多 Agent 协作"
-    },
-    "relevance": "OpenClaw哲学、单Agent深度vs多Agent协作",
-    "score": 0.86,
-    "engagement": {
-      "likes": 18,
-      "replies": 5,
-      "retweets": 4
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Depth as differentiation. When everyone multiplies agents, the one who deepens one stands out.",
-    "synced_at": "2026-02-20T08:01:39.084043+00:00",
-    "js_take": {
-      "en-US": "Depth as differentiation. When everyone multiplies agents, the one who deepens one stands out.",
-      "zh-CN": "深度即差异化。当所有人都在增加Agent数量时，深耕单一Agent的人脱颖而出。"
-    }
-  },
-  {
-    "id": "2024729892659822620",
-    "date": "2026-02-20",
-    "author": "@yangyi",
-    "author_url": "https://x.com/yangyi",
-    "tweet_url": "https://x.com/yangyi/status/2024729892659822620",
-    "title": {
-      "en-US": "OpenClaw self-learning on Reddit",
-      "zh-CN": "OpenClaw在Reddit自主学习"
-    },
-    "summary": {
-      "en-US": "OpenClaw自主学习、Reddit运营、Agent自动化",
-      "zh-CN": "OpenClaw 自主学习、Reddit运营、Agent自动化"
-    },
-    "relevance": "OpenClaw自主学习、Reddit运营、Agent自动化",
-    "score": 0.86,
-    "engagement": {
-      "likes": 44,
-      "replies": 2,
-      "retweets": 8
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Self-directed learning as autonomy. When agents find their own training data, they become truly independent.",
-    "synced_at": "2026-02-20T11:03:30.879416+00:00",
-    "js_take": {
-      "en-US": "Self-directed learning as autonomy. When agents find their own training data, they become truly independent.",
-      "zh-CN": "自主学习即自主性。当Agent自己寻找训练数据时，它们便真正独立。"
     }
   }
 ]
