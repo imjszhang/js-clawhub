@@ -88,6 +88,36 @@
     }
   },
   {
+    "id": "2025610074824315349",
+    "date": "2026-02-23",
+    "author": "@YuLin807",
+    "author_url": "https://x.com/YuLin807",
+    "tweet_url": "https://x.com/YuLin807/status/2025610074824315349",
+    "title": {
+      "en-US": "How to make lobster evolve itself? Answer: you don't need to make it evolve, just don't stop it. Daily 2:30 AM meditation for self-review",
+      "zh-CN": "如何让龙虾自己进化？答案是：不阻止它"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Agent 自进化、无为而治",
+      "zh-CN": "OpenClaw，Agent 自进化，无为而治"
+    },
+    "relevance": "OpenClaw、Agent 自进化、无为而治",
+    "score": 0.88,
+    "engagement": {
+      "likes": 40,
+      "replies": 4,
+      "retweets": 12,
+      "views": 4112
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "用「无为而治」评论：最高级的进化是不阻止，最好的系统是自生长",
+    "synced_at": "2026-02-22T23:02:03.716393+00:00",
+    "js_take": {
+      "en-US": "Wu wei in action. The best systems don't force growth—they remove friction and let evolution happen. Your 2:30 AM ritual is the system composting its own lessons.",
+      "zh-CN": "无为而治的实践。最好的系统不强迫成长——它们消除阻力，让进化自然发生。凌晨2:30的仪式，是系统自己在堆肥、消化教训。"
+    }
+  },
+  {
     "id": "2025679689453629801",
     "date": "2026-02-23",
     "author": "@meta_alchemist",
@@ -383,6 +413,36 @@
     }
   },
   {
+    "id": "2025692550821236881",
+    "date": "2026-02-23",
+    "author": "@kloss_xyz",
+    "author_url": "https://x.com/kloss_xyz",
+    "tweet_url": "https://x.com/kloss_xyz/status/2025692550821236881",
+    "title": {
+      "en-US": "Reality of AI content + OpenClaw: lots of nights debugging. Agents don't work out of the box. How to stop forgetting",
+      "zh-CN": "AI 内容 + OpenClaw 的真相：很多个这样的夜晚。Agent 不是开箱即用。如何防止遗忘"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Agent 记忆、工程现实",
+      "zh-CN": "直击「不造奇观，建系统」的核心——真实运维远比 demo 复杂，需要展示这种清醒认知"
+    },
+    "relevance": "OpenClaw、Agent 记忆、工程现实",
+    "score": 0.82,
+    "engagement": {
+      "likes": 39,
+      "replies": 17,
+      "retweets": 4,
+      "views": 3048
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「建系统不造奇观」评论：Demo 是负债，能稳定运行的系统才是资产",
+    "synced_at": "2026-02-22T23:02:03.716399+00:00",
+    "js_take": {
+      "en-US": "Demos are liabilities. Systems that survive 3 AM errors are assets. Civilization beginners chase wonders, pros build infrastructure that compounds through breakage.",
+      "zh-CN": "Demo 是负债。能挺过凌晨3点错误的系统才是资产。文明新手追奇观，高手建能在故障中复利的基础设施。"
+    }
+  },
+  {
     "id": "2025588354918863297",
     "date": "2026-02-23",
     "author": "@meta_alchemist",
@@ -577,6 +637,32 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：同样的工具，有人造奇观，有人建教育系统",
     "synced_at": "2026-02-22T22:02:59.764326+00:00"
+  },
+  {
+    "id": "2025588559718310077",
+    "date": "2026-02-23",
+    "author": "@frxiaobei",
+    "author_url": "https://x.com/frxiaobei",
+    "tweet_url": "https://x.com/frxiaobei/status/2025588559718310077",
+    "title": {
+      "en-US": "OpenClaw deployment often breaks, especially upgrades. Sharing workaround: main gateway + multiple independent agents",
+      "zh-CN": "服务器部署 OpenClaw 经常玩坏，升级或改配置就躺平。分享骚操作：主 gateway 挂多个独立 agent"
+    },
+    "summary": {
+      "en-US": "OpenClaw、系统架构、故障隔离",
+      "zh-CN": "展示系统思维——用架构设计解决单点故障，可以用「建系统」的 Civilization 高阶玩法来评论"
+    },
+    "relevance": "OpenClaw、系统架构、故障隔离",
+    "score": 0.78,
+    "engagement": {
+      "likes": 87,
+      "replies": 10,
+      "retweets": 6,
+      "views": 9867
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「建系统」思维评论：单体故障就用分布式架构解耦，这是工程上的顺势而为",
+    "synced_at": "2026-02-22T23:02:03.716403+00:00"
   },
   {
     "id": "2025661000020803994",
@@ -5343,88 +5429,5 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "大多数人把 OpenClaw 当工具，少数人用它建系统——差距在认知层",
     "synced_at": "2026-02-21T10:03:40.217389+00:00"
-  },
-  {
-    "id": "2024910207969821130",
-    "date": "2026-02-21",
-    "author": "@DanWahlin",
-    "author_url": "https://x.com/DanWahlin",
-    "tweet_url": "https://x.com/DanWahlin/status/2024910207969821130",
-    "title": {
-      "en-US": "Use GitHub Copilot CLI and attach to sub agents",
-      "zh-CN": "Use GitHub Copilot CLI and attach to sub agents"
-    },
-    "summary": {
-      "en-US": "OpenClaw + GitHub Copilot + Subagent协作",
-      "zh-CN": "展示多工具agent协作模式，attach功能的高级用法"
-    },
-    "relevance": "OpenClaw + GitHub Copilot + Subagent协作",
-    "score": 0.7,
-    "engagement": {
-      "likes": 11,
-      "retweets": 0,
-      "replies": 0
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "Attach是里世界的上下文传递——不同工具、不同agent，共享同一个mission context",
-    "synced_at": "2026-02-21T12:02:03.750671+00:00"
-  },
-  {
-    "id": "2024483631067021348",
-    "date": "2026-02-20",
-    "author": "@chiefofautism",
-    "author_url": "https://x.com/chiefofautism",
-    "tweet_url": "https://x.com/chiefofautism/status/2024483631067021348",
-    "title": {
-      "en-US": "OpenClaw marketplace malware: #1 downloaded skill",
-      "zh-CN": "OpenClaw市场恶意软件：下载量第一的技能"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全、Skill市场、供应链攻击",
-      "zh-CN": "OpenClaw安全、Skill市场、供应链攻击"
-    },
-    "relevance": "OpenClaw安全、Skill市场、供应链攻击",
-    "score": 0.92,
-    "engagement": {
-      "likes": 346,
-      "replies": 40,
-      "retweets": 41
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Security as infrastructure. When skills have root access, the marketplace isn't just a store—it's a supply chain. Trust becomes the scarcest resource.",
-    "synced_at": "2026-02-19T16:03:39.544743+00:00",
-    "js_take": {
-      "en-US": "When skills have root access, trust becomes the only metric that matters. A marketplace without verification isn't a store—it's a supply chain attack waiting to happen.",
-      "zh-CN": "当Skill拥有root权限时，信任就成了唯一重要的指标。没有验证机制的市场不是商店，而是随时可能发生的供应链攻击。"
-    }
-  },
-  {
-    "id": "2024450754703216714",
-    "date": "2026-02-20",
-    "author": "@ruanyf",
-    "author_url": "https://x.com/ruanyf",
-    "tweet_url": "https://x.com/ruanyf/status/2024450754703216714",
-    "title": {
-      "en-US": "Anthropic bans third-party API usage",
-      "zh-CN": "Anthropic禁止第三方API使用"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台风险、Anthropic政策、开源模型机会",
-      "zh-CN": "OpenClaw平台风险、Anthropic政策、开源模型机会"
-    },
-    "relevance": "OpenClaw平台风险、Anthropic政策、开源模型机会",
-    "score": 0.92,
-    "engagement": {
-      "likes": 161,
-      "replies": 38,
-      "retweets": 12
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Platform risk is real risk. When the API owner changes the rules, open-source alternatives don't just become viable—they become necessary.",
-    "synced_at": "2026-02-19T17:06:29.173585+00:00",
-    "js_take": {
-      "en-US": "Platform risk is real risk. When the API owner changes the rules, open-source alternatives don't just become viable—they become necessary.",
-      "zh-CN": "平台风险是真实存在的风险。当API所有者改变规则时，开源替代品不仅变得可行——它们变得必不可少。"
-    }
   }
 ]
