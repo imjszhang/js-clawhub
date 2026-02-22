@@ -1,0 +1,101 @@
+{
+  "updated_at": "2026-02-22T05:04:24.713570+00:00",
+  "this_week": {
+    "total_items": 200,
+    "avg_score": 0.83,
+    "unique_authors": 152,
+    "top_items": [
+      {
+        "id": "2024900944589148615",
+        "date": "2026-02-21",
+        "author": "@ziwenxu_",
+        "author_url": "https://x.com/ziwenxu_",
+        "tweet_url": "https://x.com/ziwenxu_/status/2024900944589148615",
+        "title": {
+          "en-US": "OpenClaw toys vs factories insight",
+          "zh-CN": "OpenClaw：从玩具到工厂"
+        },
+        "summary": {
+          "en-US": "OpenClaw工业化、系统设计、生产环境",
+          "zh-CN": "OpenClaw工业化实践、系统架构设计、生产环境部署"
+        },
+        "relevance": "OpenClaw工业化、系统设计、生产环境",
+        "score": 0.94,
+        "engagement": {
+          "likes": 36,
+          "replies": 2,
+          "retweets": 0
+        },
+        "comment_type": "add_insight",
+        "suggested_angle": "Systems over spectacle. When builders mature, toys become infrastructure.",
+        "synced_at": "2026-02-20T21:01:39.451803+00:00",
+        "js_take": {
+          "en-US": "Toys break. Factories scale. The 99% who quit never made the leap from demo to deployment—because demos are fun and systems are work. Industrial-grade means boring, reliable, and profitable.",
+          "zh-CN": "玩具会坏，工厂能扩。那99%放弃的人从未完成从演示到部署的跨越——因为演示有趣，系统才是工作。工业级意味着枯燥、可靠、盈利。"
+        }
+      },
+      {
+        "id": "2024987174077432126",
+        "date": "2026-02-21",
+        "author": "@karpathy",
+        "author_url": "https://x.com/karpathy",
+        "tweet_url": "https://x.com/karpathy/status/2024987174077432126",
+        "title": {
+          "en-US": "Mac mini for OpenClaw, privacy concerns",
+          "zh-CN": "Karpathy谈OpenClaw安全隐患"
+        },
+        "summary": {
+          "en-US": "OpenClaw、隐私安全、vibe coding风险",
+          "zh-CN": "OpenClaw隐私风险、vibe coding安全审计、代码透明度问题"
+        },
+        "relevance": "OpenClaw、隐私安全、vibe coding风险",
+        "score": 0.94,
+        "engagement": {
+          "likes": 3082,
+          "replies": 283,
+          "retweets": 207
+        },
+        "comment_type": "add_insight",
+        "suggested_angle": "Trust as infrastructure. When code is vibe-built, audit becomes mandatory.",
+        "synced_at": "2026-02-21T02:02:41.359587+00:00",
+        "js_take": {
+          "en-US": "400K lines of vibe code. That's not trust—it's faith. When your keys touch 40万 strangers' code, audit isn't paranoia; it's hygiene. The tools are amazing. The transparency isn't there yet.",
+          "zh-CN": "40万行vibe code。这不是信任——而是信仰。当你的密钥触碰陌生人的代码时，审计不是偏执，而是卫生。工具令人惊叹，但透明度尚未到位。"
+        }
+      },
+      {
+        "id": "2025270903437717745",
+        "date": "2026-02-22",
+        "author": "@openclaw",
+        "author_url": "https://x.com/openclaw",
+        "tweet_url": "https://x.com/openclaw/status/2025270903437717745",
+        "title": {
+          "en-US": "OpenClaw 2026.2.21: Gemini 3.1, security, Discord voice, 100+ fixes",
+          "zh-CN": "OpenClaw 2026.2.21发布：Gemini 3.1、安全加固、Discord语音"
+        },
+        "summary": {
+          "en-US": "OpenClaw官方发布 + 重大更新 + Jarvis定律演进",
+          "zh-CN": "OpenClaw官方发布、重大更新与Jarvis定律演进"
+        },
+        "relevance": "OpenClaw官方发布 + 重大更新 + Jarvis定律演进",
+        "score": 0.92,
+        "engagement": {
+          "likes": 1159,
+          "replies": 112,
+          "retweets": 92
+        },
+        "comment_type": "agree_and_extend",
+        "suggested_angle": "每一次更新都是里世界的基础设施升级——Discord语音是感知，Gemini 3.1是决策，生态扩张是执行",
+        "synced_at": "2026-02-21T19:02:09.695968+00:00",
+        "js_take": {
+          "en-US": "Every update builds infrastructure for the inner world. Discord voice is perception, Gemini 3.1 is reasoning, ecosystem expansion is execution. That's Jarvis law in motion.",
+          "zh-CN": "每一次更新都在为里世界建设基础设施。Discord语音是感知，Gemini 3.1是推理，生态扩张是执行。这就是Jarvis定律的运作。"
+        }
+      }
+    ]
+  },
+  "all_time": {
+    "total_items": 200,
+    "unique_authors": 152
+  }
+}
