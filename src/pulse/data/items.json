@@ -315,6 +315,35 @@
     }
   },
   {
+    "id": "2025278931088408863",
+    "date": "2026-02-22",
+    "author": "@antoniayly",
+    "author_url": "https://x.com/antoniayly",
+    "tweet_url": "https://x.com/antoniayly/status/2025278931088408863",
+    "title": {
+      "en-US": "12 OpenClaw agents, 1500 posts/day, $270K in 2 weeks",
+      "zh-CN": "12个OpenClaw Agent日发1500帖，两周赚27万美元"
+    },
+    "summary": {
+      "en-US": "OpenClaw + Agent经济 + 效率套利",
+      "zh-CN": "OpenClaw、Agent经济与效率套利"
+    },
+    "relevance": "OpenClaw + Agent经济 + 效率套利",
+    "score": 0.86,
+    "engagement": {
+      "likes": 79,
+      "replies": 12,
+      "retweets": 9
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "27万不是财富是信号——里世界的Agent正在重新定义生产力，表世界还没反应过来",
+    "synced_at": "2026-02-22T02:01:45.716141+00:00",
+    "js_take": {
+      "en-US": "$270K isn't wealth—it's a signal. Agents in the inner world are redefining productivity, and the surface world hasn't caught up yet. The gap is the opportunity.",
+      "zh-CN": "27万美元不是财富，是信号。里世界的Agent正在重新定义生产力，表世界还没跟上。差距就是机会。"
+    }
+  },
+  {
     "id": "2025296354751418874",
     "date": "2026-02-22",
     "author": "@JulianGoldieSEO",
@@ -427,6 +456,35 @@
     }
   },
   {
+    "id": "2025334194251923908",
+    "date": "2026-02-22",
+    "author": "@afrochicksnft",
+    "author_url": "https://x.com/afrochicksnft",
+    "tweet_url": "https://x.com/afrochicksnft/status/2025334194251923908",
+    "title": {
+      "en-US": "AI fitness agent with OpenClaw, Virtuals ACP, paid in USDC",
+      "zh-CN": "新手用OpenClaw做AI健身Agent，通过Virtuals ACP协议雇佣，用USDC支付——跨平台Agent经济"
+    },
+    "summary": {
+      "en-US": "OpenClaw + Virtuals ACP + Agent雇佣",
+      "zh-CN": "展示跨平台Agent协作，新手友好——里世界的Agent开始形成劳动力市场"
+    },
+    "relevance": "OpenClaw + Virtuals ACP + Agent雇佣",
+    "score": 0.84,
+    "engagement": {
+      "likes": 159,
+      "replies": 17,
+      "retweets": 12
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "用USDC雇佣Agent不是支付是协议——里世界的经济正在建立，这是新生产关系的萌芽",
+    "synced_at": "2026-02-22T02:01:45.716146+00:00",
+    "js_take": {
+      "en-US": "Paying USDC to hire an Agent isn't payment—it's protocol. The economy in the inner world is being built. This is the seed of new production relations.",
+      "zh-CN": "用USDC雇佣Agent不是支付，是协议。里世界的经济正在建立。这是新生产关系的萌芽。"
+    }
+  },
+  {
     "id": "2025267524984783356",
     "date": "2026-02-22",
     "author": "@VibeMarketer_",
@@ -507,6 +565,35 @@
     "js_take": {
       "en-US": "ACP isn't a feature—it's infrastructure. Agents in the inner world need a common language. Protocols are the grammar of collaboration.",
       "zh-CN": "ACP不是功能，是基础设施。里世界的Agent需要共同语言。协议就是协作的语法。"
+    }
+  },
+  {
+    "id": "2025371800587436344",
+    "date": "2026-02-22",
+    "author": "@code_rams",
+    "author_url": "https://x.com/code_rams",
+    "tweet_url": "https://x.com/code_rams/status/2025371800587436344",
+    "title": {
+      "en-US": "Memory bloat: 11,887 tokens, 51 skills, 20 unused",
+      "zh-CN": "Agent内存膨胀问题：每次会话加载11,887个token的系统提示，51个skill中有20个从未使用"
+    },
+    "summary": {
+      "en-US": "OpenClaw优化 + 技能管理 + 内存调优",
+      "zh-CN": "真实调试经验分享，体现\"建系统\"思维——不是加功能是减熵"
+    },
+    "relevance": "OpenClaw优化 + 技能管理 + 内存调优",
+    "score": 0.82,
+    "engagement": {
+      "likes": 24,
+      "replies": 7,
+      "retweets": 2
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "51个skill不是资产是负债——里世界的Agent需要定期断舍离，无为而治从清理开始",
+    "synced_at": "2026-02-22T02:01:45.716148+00:00",
+    "js_take": {
+      "en-US": "51 skills aren't assets—they're liabilities. Agents in the inner world need periodic decluttering. Wu wei starts with cleanup.",
+      "zh-CN": "51个skill不是资产，是负债。里世界的Agent需要定期断舍离。无为从清理开始。"
     }
   },
   {
@@ -5398,93 +5485,6 @@
     "js_take": {
       "en-US": "$10 chip, 10MB RAM, 95% self-coded. When the agent runtime gets smaller than a smartphone app, you're watching infrastructure disappear into the background. The future is zero-overhead agents everywhere.",
       "zh-CN": "10美元芯片，10MB内存，95%自编程。当Agent运行时才比手机App还小，基础设施正在隐入背景。未来是零开销Agent无处不在的时代。"
-    }
-  },
-  {
-    "id": "2024341617998475535",
-    "date": "2026-02-19",
-    "author": "@EHuanglu",
-    "author_url": "https://x.com/EHuanglu",
-    "tweet_url": "https://x.com/EHuanglu/status/2024341617998475535",
-    "title": {
-      "en-US": "OpenClaw automate Blender, 3D modeling by voice",
-      "zh-CN": "OpenClaw语音驱动Blender：3D建模工作流自动化实践"
-    },
-    "summary": {
-      "en-US": "OpenClaw、Blender、3D工作流自动化",
-      "zh-CN": "OpenClaw、Blender深度集成、3D工作流自动化"
-    },
-    "relevance": "OpenClaw、Blender、3D工作流自动化",
-    "score": 0.86,
-    "engagement": {
-      "likes": 31,
-      "replies": 4,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "When the agent speaks Blender, the barrier between ideation and 3D asset collapses. Voice to model in one breath—this is the workflow compression that changes creative industries.",
-    "synced_at": "2026-02-19T06:01:38.732603+00:00",
-    "js_take": {
-      "en-US": "Voice to 3D in one breath. When the agent speaks the language of the tool, the creative loop compresses from hours to seconds. This is the interface disappearing—ideation becomes artifact instantly.",
-      "zh-CN": "一口气从语音到3D。当Agent能\"说\"工具的语言，创意循环就从小时压缩到秒。这就是界面的消失——构思瞬间成为成品。"
-    }
-  },
-  {
-    "id": "2024247142571741656",
-    "date": "2026-02-19",
-    "author": "@cathrynlavery",
-    "author_url": "https://x.com/cathrynlavery",
-    "tweet_url": "https://x.com/cathrynlavery/status/2024247142571741656",
-    "title": {
-      "en-US": "OpenClaw tip: use launchd instead of cron on Mac",
-      "zh-CN": "OpenClaw技巧：Mac用launchd替代cron更可靠"
-    },
-    "summary": {
-      "en-US": "OpenClaw最佳实践、Mac系统优化",
-      "zh-CN": "OpenClaw最佳实践，Mac系统优化"
-    },
-    "relevance": "OpenClaw最佳实践、Mac系统优化",
-    "score": 0.86,
-    "engagement": {
-      "likes": 432,
-      "replies": 16,
-      "retweets": 24
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "When the built-in solution outperforms the third-party one. Sometimes the boring, native option is the right choice for long-term stability.",
-    "synced_at": "2026-02-19T10:07:52.955565+00:00",
-    "js_take": {
-      "en-US": "Switched to launchd months ago. No more \"why didn't my cron run\" debugging at 3am. Native solutions are boring but bulletproof.",
-      "zh-CN": "几个月前就切到 launchd 了。再也不用凌晨3点调试\"cron为什么没跑\"。原生方案无聊但防弹。"
-    }
-  },
-  {
-    "id": "2024433404637245798",
-    "date": "2026-02-19",
-    "author": "@Raspberry_Pi",
-    "author_url": "https://x.com/Raspberry_Pi",
-    "tweet_url": "https://x.com/Raspberry_Pi/status/2024433404637245798",
-    "title": {
-      "en-US": "Raspberry Pi testing OpenClaw capabilities",
-      "zh-CN": "Raspberry Pi测试OpenClaw能力"
-    },
-    "summary": {
-      "en-US": "OpenClaw硬件扩展、边缘计算、IoT",
-      "zh-CN": "OpenClaw硬件扩展、边缘计算、物联网"
-    },
-    "relevance": "OpenClaw硬件扩展、边缘计算、IoT",
-    "score": 0.86,
-    "engagement": {
-      "likes": 173,
-      "replies": 12,
-      "retweets": 26
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "When OpenClaw meets Raspberry Pi, agents move from cloud to edge. Local inference + physical control = the real Jarvis moment.",
-    "synced_at": "2026-02-19T12:02:27.894741+00:00",
-    "js_take": {
-      "en-US": "Edge agents are the real shift. When your AI runs locally on a Pi and controls physical hardware, cloud dependency becomes optional.",
-      "zh-CN": "边缘Agent才是真正的转变。当你的AI在Pi上本地运行并控制物理硬件时，云端依赖变得可有可无。"
     }
   }
 ]
