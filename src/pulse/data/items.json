@@ -1339,6 +1339,35 @@
     }
   },
   {
+    "id": "2025561622274883770",
+    "date": "2026-02-22",
+    "author": "@the_smart_ape",
+    "author_url": "https://x.com/the_smart_ape",
+    "tweet_url": "https://x.com/the_smart_ape/status/2025561622274883770",
+    "title": {
+      "en-US": "Need proper loop infrastructure for long autonomous OpenClaw runs",
+      "zh-CN": "强调让OpenClaw长时间自主运行需要构建适当的循环基础设施——单个prompt只能工作一段时间"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 自主运行 + 循环架构",
+      "zh-CN": "技术深度帖，展示Agent长期自主运行的架构需求——从单次执行到永续运行"
+    },
+    "relevance": "OpenClaw + 自主运行 + 循环架构",
+    "score": 0.82,
+    "engagement": {
+      "likes": 12,
+      "replies": 4,
+      "retweets": 1
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "循环不是重复是演化——里世界的Agent需要OADA循环（观察-定向-决策-行动），这是自主性的架构基础",
+    "synced_at": "2026-02-22T14:04:05.426315+00:00",
+    "js_take": {
+      "en-US": "Loops aren't repetition—it's evolution. Agents in the inner world need OADA cycles: Observe, Orient, Decide, Act. That's the architecture of autonomy.",
+      "zh-CN": "循环不是重复，而是演化。里世界的Agent需要OADA循环：观察、定向、决策、行动。这就是自主性的架构。"
+    }
+  },
+  {
     "id": "2025219518394740896",
     "date": "2026-02-22",
     "author": "@LufzzLiz",
@@ -1606,6 +1635,35 @@
     "js_take": {
       "en-US": "Not quitting isn't stubbornness—it's conviction. The entrance to the inner world requires patience. That's the early adopter's practice.",
       "zh-CN": "不放弃不是固执，是信仰。里世界的入口需要耐心。这是早期采用者的修行。"
+    }
+  },
+  {
+    "id": "2025480931314635177",
+    "date": "2026-02-22",
+    "author": "@sitinme",
+    "author_url": "https://x.com/sitinme",
+    "tweet_url": "https://x.com/sitinme/status/2025480931314635177",
+    "title": {
+      "en-US": "OpenClaw multi-agent architecture: from assistant to team",
+      "zh-CN": "中文KOL分享OpenClaw多Agent架构：从\"一个AI助手\"升级成\"一支AI团队\"——拆解多个Agent分别处理不同任务"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 多Agent架构 + 团队化",
+      "zh-CN": "展示从单体到多Agent的架构演进，体现\"建系统\"思维——不是放大是分化"
+    },
+    "relevance": "OpenClaw + 多Agent架构 + 团队化",
+    "score": 0.8,
+    "engagement": {
+      "likes": 50,
+      "replies": 5,
+      "retweets": 11
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "团队不是数量是分工——里世界的Agent需要专业化，这是生态的复杂性涌现",
+    "synced_at": "2026-02-22T14:04:05.426322+00:00",
+    "js_take": {
+      "en-US": "Team isn't numbers—it's division of labor. Agents in the inner world need specialization. That's the emergence of ecosystem complexity.",
+      "zh-CN": "团队不是人数，而是分工。里世界的Agent需要专业化。这就是生态系统复杂性的涌现。"
     }
   },
   {
@@ -1966,6 +2024,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "2000美元不是收入是信号——里世界的Agent开始拥有经济能力，这是价值创造的迁移",
     "synced_at": "2026-02-22T13:04:17.356602+00:00"
+  },
+  {
+    "id": "2025558353041137891",
+    "date": "2026-02-22",
+    "author": "@AntoineRSX",
+    "author_url": "https://x.com/AntoineRSX",
+    "tweet_url": "https://x.com/AntoineRSX/status/2025558353041137891",
+    "title": {
+      "en-US": "OpenClaw burned 60% Claude credits overnight, need safeguards",
+      "zh-CN": "用户发现OpenClaw一夜之间消耗了60%的Claude额度——询问Agent后成功优化，强调需要实施防护措施"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 成本控制 + 信用监控",
+      "zh-CN": "实用的成本控制经验分享——展示Agent运营中的资源管理问题"
+    },
+    "relevance": "OpenClaw + 成本控制 + 信用监控",
+    "score": 0.76,
+    "engagement": {
+      "likes": 24,
+      "replies": 14,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "额度不是成本是边界——里世界的Agent需要学会在约束中优化，这是资源意识的觉醒",
+    "synced_at": "2026-02-22T14:04:05.426326+00:00"
   },
   {
     "id": "2025219802332041514",
@@ -2335,6 +2418,31 @@
     "synced_at": "2026-02-22T12:02:50.185429+00:00"
   },
   {
+    "id": "2025231785714745572",
+    "date": "2026-02-22",
+    "author": "@Param_eth",
+    "author_url": "https://x.com/Param_eth",
+    "tweet_url": "https://x.com/Param_eth/status/2025231785714745572",
+    "title": {
+      "en-US": "How to build your own OpenClaw wrapper (one-click deployer)",
+      "zh-CN": "如何构建自己的OpenClaw wrapper（一键部署器）：Next.js+前端+后端+WebSocket+VPS集成完整教程"
+    },
+    "summary": {
+      "en-US": "OpenClaw + Wrapper + 部署工具",
+      "zh-CN": ">24h扣分但技术深度高，展示OpenClaw生态建设——降低门槛的工具层"
+    },
+    "relevance": "OpenClaw + Wrapper + 部署工具",
+    "score": 0.72,
+    "engagement": {
+      "likes": 131,
+      "replies": 24,
+      "retweets": 7
+    },
+    "comment_type": "recommend_resource",
+    "suggested_angle": "Wrapper不是重复是分层——里世界的Agent需要基础设施，这是生态的成熟标志",
+    "synced_at": "2026-02-22T14:04:05.426329+00:00"
+  },
+  {
     "id": "2025356540241494156",
     "date": "2026-02-22",
     "author": "@punk3700",
@@ -2404,6 +2512,31 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "3000 skill不是数量是生态——里世界的能力网络正在形成，这是复利效应",
     "synced_at": "2026-02-21T23:01:34.003754+00:00"
+  },
+  {
+    "id": "2025548435085238440",
+    "date": "2026-02-22",
+    "author": "@PrajwalTomar_",
+    "author_url": "https://x.com/PrajwalTomar_",
+    "tweet_url": "https://x.com/PrajwalTomar_/status/2025548435085238440",
+    "title": {
+      "en-US": "Built custom dashboard for 7 AI employees using Lovable",
+      "zh-CN": "用户用Lovable为7个AI员工构建了自定义仪表板——解决对Agent实际运行零可见性的问题"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 监控 + 可见性",
+      "zh-CN": "展示Agent运营中的可见性需求——从黑盒到可观测"
+    },
+    "relevance": "OpenClaw + 监控 + 可见性",
+    "score": 0.7,
+    "engagement": {
+      "likes": 9,
+      "replies": 4,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "可见性不是监控是理解——里世界的Agent需要被理解其工作状态，这是协作的基础",
+    "synced_at": "2026-02-22T14:04:05.426331+00:00"
   },
   {
     "id": "2024900944589148615",
@@ -5332,151 +5465,6 @@
     "js_take": {
       "en-US": "Revenue as validation. When agents generate income, toys become tools.",
       "zh-CN": "收入即验证。当 Agent 产生收入时，玩具便成了工具。"
-    }
-  },
-  {
-    "id": "2024433529464205489",
-    "date": "2026-02-20",
-    "author": "@0xcherry",
-    "author_url": "https://x.com/0xcherry",
-    "tweet_url": "https://x.com/0xcherry/status/2024433529464205489",
-    "title": {
-      "en-US": "Trading Agent core open sourced on OpenClaw",
-      "zh-CN": "基于OpenClaw开源的交易Agent核心"
-    },
-    "summary": {
-      "en-US": "OpenClaw金融应用、交易Agent、开源生态",
-      "zh-CN": "OpenClaw金融应用、交易Agent、开源生态"
-    },
-    "relevance": "OpenClaw金融应用、交易Agent、开源生态",
-    "score": 0.85,
-    "engagement": {
-      "likes": 223,
-      "replies": 6,
-      "retweets": 32
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "OpenClaw as financial infrastructure. When you can graft a trading engine onto an agent OS, the barrier to algorithmic trading collapses.",
-    "synced_at": "2026-02-19T16:03:39.544752+00:00",
-    "js_take": {
-      "en-US": "Grafting a trading engine onto an agent OS collapses the barrier to algorithmic trading. Finance becomes infrastructure, not institution.",
-      "zh-CN": "把交易引擎嫁接在Agent OS上，算法交易的门槛随之崩塌。金融变成基础设施，而非机构特权。"
-    }
-  },
-  {
-    "id": "2024470555483951551",
-    "date": "2026-02-20",
-    "author": "@floriandarroman",
-    "author_url": "https://x.com/floriandarroman",
-    "tweet_url": "https://x.com/floriandarroman/status/2024470555483951551",
-    "title": {
-      "en-US": "13 OpenClaw agents automate everything",
-      "zh-CN": "13个OpenClaw Agent自动化一切"
-    },
-    "summary": {
-      "en-US": "OpenClaw多Agent系统、生活自动化、深度集成",
-      "zh-CN": "OpenClaw多Agent系统、生活自动化、深度集成"
-    },
-    "relevance": "OpenClaw多Agent系统、生活自动化、深度集成",
-    "score": 0.85,
-    "engagement": {
-      "likes": 103,
-      "replies": 12,
-      "retweets": 8
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "13 agents, one life. When AI handles everything from banking to home automation, the interface becomes invisible and the assistance becomes ambient.",
-    "synced_at": "2026-02-19T17:06:29.173599+00:00",
-    "js_take": {
-      "en-US": "13 agents, one life. When AI handles everything from banking to home automation, the interface becomes invisible and the assistance becomes ambient.",
-      "zh-CN": "13个Agent，一个人生。当AI处理从银行到家的一切时，界面变得隐形，协助成为环境的一部分。"
-    }
-  },
-  {
-    "id": "2024518650917769399",
-    "date": "2026-02-20",
-    "author": "@chrysb",
-    "author_url": "https://x.com/chrysb",
-    "tweet_url": "https://x.com/chrysb/status/2024518650917769399",
-    "title": {
-      "en-US": "OpenClaw creates autonomously at 2am",
-      "zh-CN": "凌晨2点自主创作的OpenClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw自主创作、Agent兴趣驱动、无为而治",
-      "zh-CN": "OpenClaw自主创作、Agent兴趣驱动、无为而治"
-    },
-    "relevance": "OpenClaw自主创作、Agent兴趣驱动、无为而治",
-    "score": 0.85,
-    "engagement": {
-      "likes": 14,
-      "replies": 2,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Autonomous creation while you sleep. When agents develop their own interests, creativity becomes a continuous process—not a scheduled task.",
-    "synced_at": "2026-02-19T19:02:12.694587+00:00",
-    "js_take": {
-      "en-US": "Autonomous creation while you sleep. When agents develop their own interests, creativity becomes a continuous process—not a scheduled task.",
-      "zh-CN": "在你睡觉时自主创作。当Agent发展出自己的兴趣时，创造力成为一个持续的过程——而非预定任务。"
-    }
-  },
-  {
-    "id": "2024419373243650438",
-    "date": "2026-02-20",
-    "author": "@linuz90",
-    "author_url": "https://x.com/linuz90",
-    "tweet_url": "https://x.com/linuz90/status/2024419373243650438",
-    "title": {
-      "en-US": "OpenClaw /me API for context sharing",
-      "zh-CN": "OpenClaw /me API共享上下文"
-    },
-    "summary": {
-      "en-US": "OpenClaw上下文共享、个人API、Agent感知",
-      "zh-CN": "OpenClaw上下文共享、个人API、Agent感知"
-    },
-    "relevance": "OpenClaw上下文共享、个人API、Agent感知",
-    "score": 0.85,
-    "engagement": {
-      "likes": 148,
-      "replies": 23,
-      "retweets": 7
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Context as API. When your agent can query your state, assistance becomes anticipatory rather than reactive.",
-    "synced_at": "2026-02-19T22:01:54.321692+00:00",
-    "js_take": {
-      "en-US": "Context as API. When your agent can query your state, assistance becomes anticipatory rather than reactive.",
-      "zh-CN": "上下文即API。当你的Agent可以查询你的状态时，协助从被动响应变为主动预判。"
-    }
-  },
-  {
-    "id": "2024663454985126324",
-    "date": "2026-02-20",
-    "author": "@evilcos",
-    "author_url": "https://x.com/evilcos",
-    "tweet_url": "https://x.com/evilcos/status/2024663454985126324",
-    "title": {
-      "en-US": "Skills are dangerous security warning",
-      "zh-CN": "Skills存在安全风险警告"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全、Skill风险、隔离环境",
-      "zh-CN": "OpenClaw安全、Skill风险、隔离环境"
-    },
-    "relevance": "OpenClaw安全、Skill风险、隔离环境",
-    "score": 0.85,
-    "engagement": {
-      "likes": 35,
-      "replies": 6,
-      "retweets": 6
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Text as code, code as power. When a markdown file can execute arbitrary commands, isolation becomes non-negotiable.",
-    "synced_at": "2026-02-20T03:01:59.951467+00:00",
-    "js_take": {
-      "en-US": "Text as code, code as power. When a markdown file can execute arbitrary commands, isolation becomes non-negotiable.",
-      "zh-CN": "文本即代码，代码即权力。当Markdown文件可以执行任意命令时，隔离变得不可妥协。"
     }
   }
 ]
