@@ -1368,6 +1368,35 @@
     }
   },
   {
+    "id": "2025569515329966463",
+    "date": "2026-02-22",
+    "author": "@linuz90",
+    "author_url": "https://x.com/linuz90",
+    "tweet_url": "https://x.com/linuz90/status/2025569515329966463",
+    "title": {
+      "en-US": "OpenClaw morning routine like movie star with ElevenLabs voice",
+      "zh-CN": "用OpenClaw+ElevenLabs打造电影明星般的早晨仪式——语音简报、能量音乐、晨间摘要"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 语音交互 + 日常仪式",
+      "zh-CN": "展示Agent作为日常伴侣的具象化应用——从工具到生活基础设施"
+    },
+    "relevance": "OpenClaw + 语音交互 + 日常仪式",
+    "score": 0.82,
+    "engagement": {
+      "likes": 29,
+      "replies": 11,
+      "retweets": 2
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "晨间仪式不是功能是存在——里世界的Agent正在接管时间的组织权",
+    "synced_at": "2026-02-22T15:02:51.076491+00:00",
+    "js_take": {
+      "en-US": "Morning ritual isn't a feature—it's existence. Agents in the inner world are taking over the organization of time.",
+      "zh-CN": "晨间仪式不是功能，而是存在。里世界的Agent正在接管时间的组织权。"
+    }
+  },
+  {
     "id": "2025219518394740896",
     "date": "2026-02-22",
     "author": "@LufzzLiz",
@@ -2245,6 +2274,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "协作不是使用是共生——里世界的Agent成为owner的延伸，这是关系的进化",
     "synced_at": "2026-02-22T13:04:17.356604+00:00"
+  },
+  {
+    "id": "2025559720115794222",
+    "date": "2026-02-22",
+    "author": "@minchoi",
+    "author_url": "https://x.com/minchoi",
+    "tweet_url": "https://x.com/minchoi/status/2025559720115794222",
+    "title": {
+      "en-US": "7 things I wish someone told me before I almost gave up on OpenClaw",
+      "zh-CN": "Min Choi分享7件希望早有人告诉他的OpenClaw使用心得——特别是第1和第4点是解锁关键"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 入门经验 + 避坑指南",
+      "zh-CN": "高实用性经验分享——展示学习曲线和突破点"
+    },
+    "relevance": "OpenClaw + 入门经验 + 避坑指南",
+    "score": 0.74,
+    "engagement": {
+      "likes": 49,
+      "replies": 9,
+      "retweets": 7
+    },
+    "comment_type": "recommend_resource",
+    "suggested_angle": "放弃不是没能力是没方法——里世界的Agent需要正确的入门姿势，这是认知的门槛",
+    "synced_at": "2026-02-22T15:02:51.076495+00:00"
   },
   {
     "id": "2025215948840731010",
@@ -5407,64 +5461,6 @@
     "js_take": {
       "en-US": "Platform risk is real risk. When API owners change rules, open alternatives don't just become viable—they become essential.",
       "zh-CN": "平台风险是真风险。当API所有者改变规则时，开源替代品不仅变得可行——它们变得必不可少。"
-    }
-  },
-  {
-    "id": "2024823117563195838",
-    "date": "2026-02-20",
-    "author": "@PrajwalTomar_",
-    "author_url": "https://x.com/PrajwalTomar_",
-    "tweet_url": "https://x.com/PrajwalTomar_/status/2024823117563195838",
-    "title": {
-      "en-US": "OpenClaw 5-agent AI content team $200/day",
-      "zh-CN": "OpenClaw 5 个 AI Agent 内容团队，日入 200 美元"
-    },
-    "summary": {
-      "en-US": "OpenClaw多Agent协作、内容自动化、商业化",
-      "zh-CN": "OpenClaw 多 Agent 协作、内容自动化、商业化"
-    },
-    "relevance": "OpenClaw多Agent协作、内容自动化、商业化",
-    "score": 0.86,
-    "engagement": {
-      "likes": 76,
-      "replies": 11,
-      "retweets": 6
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Agents as employees. When teams become composable, output becomes predictable.",
-    "synced_at": "2026-02-20T15:04:27.360798+00:00",
-    "js_take": {
-      "en-US": "Agents as employees. When teams become composable, output becomes predictable.",
-      "zh-CN": "Agent 即员工。当团队变得可组合时，产出便变得可预测。"
-    }
-  },
-  {
-    "id": "2024790481662816539",
-    "date": "2026-02-20",
-    "author": "@mhdfaran",
-    "author_url": "https://x.com/mhdfaran",
-    "tweet_url": "https://x.com/mhdfaran/status/2024790481662816539",
-    "title": {
-      "en-US": "OpenClaw built business doing $200/day",
-      "zh-CN": "用 OpenClaw 搭建业务，日赚 200 美元"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业化、AI创业、收入生成",
-      "zh-CN": "OpenClaw 商业化、AI 创业、收入生成"
-    },
-    "relevance": "OpenClaw商业化、AI创业、收入生成",
-    "score": 0.86,
-    "engagement": {
-      "likes": 144,
-      "replies": 7,
-      "retweets": 30
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Revenue as validation. When agents generate income, toys become tools.",
-    "synced_at": "2026-02-20T15:04:27.360800+00:00",
-    "js_take": {
-      "en-US": "Revenue as validation. When agents generate income, toys become tools.",
-      "zh-CN": "收入即验证。当 Agent 产生收入时，玩具便成了工具。"
     }
   }
 ]
