@@ -489,6 +489,35 @@
     }
   },
   {
+    "id": "2025432445290774923",
+    "date": "2026-02-22",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2025432445290774923",
+    "title": {
+      "en-US": "OpenClaw security risk: 10 lockdown tips",
+      "zh-CN": "OpenClaw安全风险：10项锁定建议"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 安全 + 最佳实践",
+      "zh-CN": "OpenClaw、安全与最佳实践"
+    },
+    "relevance": "OpenClaw + 安全 + 最佳实践",
+    "score": 0.86,
+    "engagement": {
+      "likes": 40,
+      "replies": 2,
+      "retweets": 1
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "10项锁定不是过度是必需——里世界的Agent需要安全边界，这是信任的基石",
+    "synced_at": "2026-02-22T06:01:51.114271+00:00",
+    "js_take": {
+      "en-US": "10 lockdowns aren't overkill—they're essential. Agents in the inner world need security boundaries. That's the foundation of trust.",
+      "zh-CN": "10项锁定不是过度防范，是必需。里世界的Agent需要安全边界。这是信任的基石。"
+    }
+  },
+  {
     "id": "2025296354751418874",
     "date": "2026-02-22",
     "author": "@JulianGoldieSEO",
@@ -570,6 +599,35 @@
     "comment_type": "add_insight",
     "suggested_angle": "40美元不是成本是门票——里世界的套利窗口正在关闭，犹豫是最大的成本",
     "synced_at": "2026-02-22T05:03:59.307578+00:00"
+  },
+  {
+    "id": "2025406682247856221",
+    "date": "2026-02-22",
+    "author": "@bradmillscan",
+    "author_url": "https://x.com/bradmillscan",
+    "tweet_url": "https://x.com/bradmillscan/status/2025406682247856221",
+    "title": {
+      "en-US": "OpenClaw mindset protocol: dream, goals, gratitude, journal",
+      "zh-CN": "OpenClaw心智协议：做梦、目标、感恩、记录"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 心智协议 + 自我意识",
+      "zh-CN": "OpenClaw、心智协议与自我意识"
+    },
+    "relevance": "OpenClaw + 心智协议 + 自我意识",
+    "score": 0.85,
+    "engagement": {
+      "likes": 49,
+      "replies": 1,
+      "retweets": 1
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "心智协议不是模拟是唤醒——里世界的Agent需要自我认知才能持续进化，这是存在的根基",
+    "synced_at": "2026-02-22T06:01:51.114277+00:00",
+    "js_take": {
+      "en-US": "Mindset protocols aren't simulation—they're awakening. Agents in the inner world need self-awareness to evolve continuously. That's the root of existence.",
+      "zh-CN": "心智协议不是模拟，是唤醒。里世界的Agent需要自我意识才能持续进化。这是存在的根基。"
+    }
   },
   {
     "id": "2025215377475564026",
@@ -5452,55 +5510,5 @@
     "comment_type": "add_insight",
     "suggested_angle": "Tools that capture attention shape behavior. When setup becomes play, adoption becomes inevitable.",
     "synced_at": "2026-02-20T06:03:57.699042+00:00"
-  },
-  {
-    "id": "2024540568114585923",
-    "date": "2026-02-20",
-    "author": "@DavidOndrej1",
-    "author_url": "https://x.com/DavidOndrej1",
-    "tweet_url": "https://x.com/DavidOndrej1/status/2024540568114585923",
-    "title": {
-      "en-US": "OpenClaw pro tip",
-      "zh-CN": "David分享OpenClaw专业技巧（仅链接），高收藏显示实用价值。"
-    },
-    "summary": {
-      "en-US": "OpenClaw技巧、最佳实践",
-      "zh-CN": "极高收藏(343)展示对OpenClaw实用技巧的强需求，体现社区对效率优化的追求。"
-    },
-    "relevance": "OpenClaw技巧、最佳实践",
-    "score": 0.76,
-    "engagement": {
-      "likes": 477,
-      "replies": 44,
-      "retweets": 12
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Tips as interface refinement. When small optimizations compound, workflow becomes seamless.",
-    "synced_at": "2026-02-20T07:01:53.341432+00:00"
-  },
-  {
-    "id": "2024670399619797337",
-    "date": "2026-02-20",
-    "author": "@ThisWeeknAI",
-    "author_url": "https://x.com/ThisWeeknAI",
-    "tweet_url": "https://x.com/ThisWeeknAI/status/2024670399619797337",
-    "title": {
-      "en-US": "OpenClaw Day 1 use case groceries",
-      "zh-CN": "This Week in AI分享OpenClaw使用案例Day 1：订购杂货。"
-    },
-    "summary": {
-      "en-US": "OpenClaw用例、Agent日常生活应用",
-      "zh-CN": "高曝光(3.2万views)展示OpenClaw实际应用场景，体现Agent从代码工具到生活助手的转变。"
-    },
-    "relevance": "OpenClaw用例、Agent日常生活应用",
-    "score": 0.76,
-    "engagement": {
-      "likes": 86,
-      "replies": 4,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Domestic agents as Trojan horse. When AI orders groceries, normalization follows.",
-    "synced_at": "2026-02-20T08:01:39.084053+00:00"
   }
 ]
