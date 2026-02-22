@@ -267,7 +267,7 @@
                         statsData = await statsResp.json();
                         const week = statsData.this_week || {};
                         if (week.top_items && week.top_items.length > 0) {
-                            topItems = week.top_items.slice(0, 3);
+                            topItems = week.top_items.slice(0, 36);
                         }
                         // Render stats bar
                         if (week.total_items > 0) {
@@ -294,7 +294,7 @@
                         document.getElementById('latest-pulse').style.display = 'none';
                         return;
                     }
-                    topItems = items.slice(0, 3);
+                    topItems = items.slice(0, 36);
                 }
 
                 grid.innerHTML = topItems.map(item => {
@@ -304,6 +304,7 @@
                         : `https://ui-avatars.com/api/?name=X&background=FCD228&color=000&bold=true&size=48`;
 
                     const title = this._l(item, 'title');
+                    const jsTake = this._l(item, 'js_take');
                     const engHTML = this.formatPulseEngagement(item.engagement);
 
                     return `
@@ -316,9 +317,10 @@
                                 <span class="font-mono font-bold text-xs">${this.escapeHtml(item.author)}</span>
                                 <span class="ml-auto font-mono text-[10px] text-black/40">${this.escapeHtml(item.date)}</span>
                             </div>
-                            <h3 class="font-bold text-sm mb-2 group-hover:bg-black group-hover:text-brand-yellow group-hover:px-1 transition-all leading-snug flex-grow">
+                            <h3 class="font-bold text-sm mb-2 group-hover:bg-black group-hover:text-brand-yellow group-hover:px-1 transition-all leading-snug">
                                 ${this.escapeHtml(title)}
                             </h3>
+                            ${jsTake ? `<div class="mt-1 mb-2 flex-grow"><p class="font-mono text-xs text-black/60 leading-relaxed"><span class="font-bold text-black/40">// JS: </span>${this.escapeHtml(jsTake)}</p></div>` : '<div class="flex-grow"></div>'}
                             <div class="flex items-center gap-3 mt-auto pt-2 border-t border-black/10 font-mono text-[11px] text-black/40">
                                 ${engHTML}
                             </div>
