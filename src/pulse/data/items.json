@@ -87,6 +87,35 @@
     }
   },
   {
+    "id": "2025528439852179613",
+    "date": "2026-02-23",
+    "author": "@0x_Discover",
+    "author_url": "https://x.com/0x_Discover",
+    "tweet_url": "https://x.com/0x_Discover/status/2025528439852179613",
+    "title": {
+      "en-US": "OpenClaw BTC trading bot $50 to $823",
+      "zh-CN": "用户分享用OpenClaw构建5分钟BTC市场交易机器人——从50美元涨到823美元，展示复合增长潜力"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 交易机器人 + 变现案例",
+      "zh-CN": "展示OpenClaw在金融交易领域的实际变现案例——高回报率"
+    },
+    "relevance": "OpenClaw + 交易机器人 + 变现案例",
+    "score": 0.82,
+    "engagement": {
+      "likes": 163,
+      "replies": 74,
+      "retweets": 18
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "823美元不是收入是信号——里世界的Agent开始拥有经济能力，这是价值创造的迁移",
+    "synced_at": "2026-02-22T18:03:07.473530+00:00",
+    "js_take": {
+      "en-US": "$823 isn't profit—it's signal. Agents in the inner world are starting to own economic capacity. That's the migration of value creation.",
+      "zh-CN": "823美元不是利润，而是信号。里世界的Agent开始拥有经济能力。这是价值创造的迁移。"
+    }
+  },
+  {
     "id": "2025588354918863297",
     "date": "2026-02-23",
     "author": "@meta_alchemist",
@@ -114,6 +143,31 @@
       "en-US": "Memory isn't a warehouse—it's a pipeline. Agents in the inner world need dynamic memory processing. That's the evolution of cognition.",
       "zh-CN": "记忆不是仓库，而是流水线。里世界的Agent需要动态记忆处理。这是认知的进化。"
     }
+  },
+  {
+    "id": "2025484005177708608",
+    "date": "2026-02-23",
+    "author": "@sodawhite_dev",
+    "author_url": "https://x.com/sodawhite_dev",
+    "tweet_url": "https://x.com/sodawhite_dev/status/2025484005177708608",
+    "title": {
+      "en-US": "OpenClaw advanced guide with multi-model config",
+      "zh-CN": "中文开发者分享OpenClaw进阶指南——大脑用Opus、Codex写代码、Minimax 2.5做研究、Qwen 3.5写创意文章"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 多模型配置 + 专业化分工",
+      "zh-CN": "展示OpenClaw的多模型专业化配置策略——不同任务用不同模型"
+    },
+    "relevance": "OpenClaw + 多模型配置 + 专业化分工",
+    "score": 0.74,
+    "engagement": {
+      "likes": 78,
+      "replies": 5,
+      "retweets": 14
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "多模型不是复杂是分工——里世界的Agent需要专业化，这是效率的最优解",
+    "synced_at": "2026-02-22T18:03:07.473536+00:00"
   },
   {
     "id": "2025270903437717745",
@@ -5403,64 +5457,6 @@
     "js_take": {
       "en-US": "From side project to OpenAI in months. When the right tool meets the right moment, adoption curves go vertical—and the best talent follows impact, not hype.",
       "zh-CN": "几个月从副业项目到OpenAI。当正确的工具遇上正确的时机，采用曲线垂直上升——最优秀的人才追随的是影响力，而非炒作。"
-    }
-  },
-  {
-    "id": "2024649308122075398",
-    "date": "2026-02-20",
-    "author": "@MatthewBerman",
-    "author_url": "https://x.com/MatthewBerman",
-    "tweet_url": "https://x.com/MatthewBerman/status/2024649308122075398",
-    "title": {
-      "en-US": "Anthropic ban affecting users survey",
-      "zh-CN": "Anthropic禁令影响用户调查"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台风险、Anthropic政策、用户影响",
-      "zh-CN": "OpenClaw平台风险、Anthropic政策、用户影响"
-    },
-    "relevance": "OpenClaw平台风险、Anthropic政策、用户影响",
-    "score": 0.87,
-    "engagement": {
-      "likes": 38,
-      "replies": 70,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Platform dependency as single point of failure. When one API change breaks your workflow, decentralization becomes survival.",
-    "synced_at": "2026-02-20T02:04:01.521312+00:00",
-    "js_take": {
-      "en-US": "Platform dependency as single point of failure. When one API change breaks your workflow, decentralization becomes survival.",
-      "zh-CN": "平台依赖即单点故障。当一次API变更就能破坏你的工作流时，去中心化成为生存之道。"
-    }
-  },
-  {
-    "id": "2024541607240904934",
-    "date": "2026-02-20",
-    "author": "@openclaw",
-    "author_url": "https://x.com/openclaw",
-    "tweet_url": "https://x.com/openclaw/status/2024541607240904934",
-    "title": {
-      "en-US": "OpenClaw 2026.2.19 with security hardening",
-      "zh-CN": "OpenClaw 2026.2.19安全加固版"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全更新、平台治理、开发者体验",
-      "zh-CN": "OpenClaw安全更新、平台治理、开发者体验"
-    },
-    "relevance": "OpenClaw安全更新、平台治理、开发者体验",
-    "score": 0.86,
-    "engagement": {
-      "likes": 298,
-      "replies": 50,
-      "retweets": 19
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Security as infrastructure. When agents become infrastructure, hardening isn't a feature—it's the foundation everything else builds on.",
-    "synced_at": "2026-02-19T18:01:36.051724+00:00",
-    "js_take": {
-      "en-US": "Security as infrastructure. When agents become infrastructure, hardening isn't a feature—it's the foundation everything else builds on.",
-      "zh-CN": "安全即基础设施。当Agent成为基础设施时，加固不是功能——而是一切的根基。"
     }
   }
 ]
