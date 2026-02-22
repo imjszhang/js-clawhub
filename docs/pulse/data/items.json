@@ -88,6 +88,36 @@
     }
   },
   {
+    "id": "2025679689453629801",
+    "date": "2026-02-23",
+    "author": "@meta_alchemist",
+    "author_url": "https://x.com/meta_alchemist",
+    "tweet_url": "https://x.com/meta_alchemist/status/2025679689453629801",
+    "title": {
+      "en-US": "People buy Mac Mini for OpenClaw to look trendy, then don't use it or just for research",
+      "zh-CN": "买 Mac Mini 装 OpenClaw 只为跟风，然后放着吃灰"
+    },
+    "summary": {
+      "en-US": "OpenClaw 采用率、人群分化",
+      "zh-CN": "OpenClaw 采用率，人群分化"
+    },
+    "relevance": "OpenClaw 采用率、人群分化",
+    "score": 0.86,
+    "engagement": {
+      "likes": 61,
+      "replies": 26,
+      "retweets": 2,
+      "views": 1869
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「人群分化」和「AI上限就是使用AI的人」框架评论：Mac Mini 不能替你思考",
+    "synced_at": "2026-02-22T22:02:59.764315+00:00",
+    "js_take": {
+      "en-US": "DeepSeek went viral. OpenClaw didn't. Same tools, different crowds. The gap isn't technical—it's human. A Mac Mini won't think for you.",
+      "zh-CN": "DeepSeek 爆火了，OpenClaw 没有。同样的工具，不同的人。差距不在技术，而在人。Mac Mini 不会替你思考。"
+    }
+  },
+  {
     "id": "2025587318338543813",
     "date": "2026-02-23",
     "author": "@petergyang",
@@ -202,6 +232,36 @@
     "js_take": {
       "en-US": "5x isn't exaggeration—it's leverage. Agents in the inner world give individuals team capacity. That's the democratization of ability.",
       "zh-CN": "5倍不是夸张，而是杠杆。里世界的Agent让个人拥有团队产能。这是能力的民主化。"
+    }
+  },
+  {
+    "id": "2025681529662533644",
+    "date": "2026-02-23",
+    "author": "@mikefutia",
+    "author_url": "https://x.com/mikefutia",
+    "tweet_url": "https://x.com/mikefutia/status/2025681529662533644",
+    "title": {
+      "en-US": "OpenClaw generated fully animated AI video with single Telegram message, V2 is different beast",
+      "zh-CN": "OpenClaw 只用一条 Telegram 消息就生成了完整动画 AI 视频，V2 完全是另一个级别"
+    },
+    "summary": {
+      "en-US": "OpenClaw、创意自动化、里世界交互",
+      "zh-CN": "展示里世界（Agent）如何接管表世界（视频制作），完美契合表/里世界框架"
+    },
+    "relevance": "OpenClaw、创意自动化、里世界交互",
+    "score": 0.84,
+    "engagement": {
+      "likes": 65,
+      "replies": 57,
+      "retweets": 6,
+      "views": 3699
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「表/里世界」框架评论：表世界（视频工具）退化为里世界（Agent）的输出层",
+    "synced_at": "2026-02-22T22:02:59.764321+00:00",
+    "js_take": {
+      "en-US": "The surface world (video tools) is becoming just an output layer for the inner world (Agent). We're not using apps anymore—we're delegating to agents that render to any format.",
+      "zh-CN": "表世界（视频工具）正在变成里世界（Agent）的输出层。我们不再使用 App，而是委托给可以渲染成任意格式的 Agent。"
     }
   },
   {
@@ -411,6 +471,36 @@
     }
   },
   {
+    "id": "2025638073946776057",
+    "date": "2026-02-23",
+    "author": "@JulianGoldieSEO",
+    "author_url": "https://x.com/JulianGoldieSEO",
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/2025638073946776057",
+    "title": {
+      "en-US": "NanoClaw might replace OpenClaw: tiny, safe, powerful, local AI assistant with container security",
+      "zh-CN": "NanoClaw 可能取代 OpenClaw：轻量、安全、强大，本地运行，容器隔离"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态、产品演化、Jarvis定律",
+      "zh-CN": "产品形态分化印证 Jarvis 定律——不同场景需要不同形态，可以用「势」判断趋势"
+    },
+    "relevance": "OpenClaw 生态、产品演化、Jarvis定律",
+    "score": 0.8,
+    "engagement": {
+      "likes": 59,
+      "replies": 6,
+      "retweets": 11,
+      "views": 4608
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用 Jarvis 定律评论：Agent 框架正在按场景分化，OpenClaw/Pico/Nano 都是同一进化的不同分支",
+    "synced_at": "2026-02-22T22:02:59.764324+00:00",
+    "js_take": {
+      "en-US": "Jarvis Law in action. One size doesn't fit all. Pico for embedded, Nano for minimal, OpenClaw for full autonomy. Same evolution, different branches.",
+      "zh-CN": "Jarvis 定律正在应验。一套方案不能包打天下。Pico 用于嵌入式，Nano 用于极简，OpenClaw 用于完全自主。同一个进化，不同分支。"
+    }
+  },
+  {
     "id": "2025429865403687278",
     "date": "2026-02-23",
     "author": "@jasonzhou1993",
@@ -463,6 +553,32 @@
     "synced_at": "2026-02-22T21:05:37.551465+00:00"
   },
   {
+    "id": "2025681458644590815",
+    "date": "2026-02-23",
+    "author": "@jessegenet",
+    "author_url": "https://x.com/jessegenet",
+    "tweet_url": "https://x.com/jessegenet/status/2025681458644590815",
+    "title": {
+      "en-US": "Using OpenClaw with nano banana pro for homeschool, bilingual teaching from English curriculum",
+      "zh-CN": "用 OpenClaw 配合 nano banana pro 做 homeschool 教学，从纯英文教材教双语"
+    },
+    "summary": {
+      "en-US": "OpenClaw、教育场景、创意应用",
+      "zh-CN": "展示 AI 上限由使用者定义，可以用「AI 的上限就是使用 AI 的人」来评论这个创意用法"
+    },
+    "relevance": "OpenClaw、教育场景、创意应用",
+    "score": 0.78,
+    "engagement": {
+      "likes": 89,
+      "replies": 10,
+      "retweets": 2,
+      "views": 3071
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：同样的工具，有人造奇观，有人建教育系统",
+    "synced_at": "2026-02-22T22:02:59.764326+00:00"
+  },
+  {
     "id": "2025661000020803994",
     "date": "2026-02-23",
     "author": "@RalphFischer_",
@@ -513,6 +629,32 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "用 Civilization 高阶玩家思维评论：这是系统复利，不是技术奇观",
     "synced_at": "2026-02-22T21:05:37.551479+00:00"
+  },
+  {
+    "id": "2025608082844172681",
+    "date": "2026-02-23",
+    "author": "@cetorres",
+    "author_url": "https://x.com/cetorres",
+    "tweet_url": "https://x.com/cetorres/status/2025608082844172681",
+    "title": {
+      "en-US": "PicoClaw: ultra-efficient AI assistant in Go, 99% less memory, 400x faster, runs on $10 hardware",
+      "zh-CN": "PicoClaw：用 Go 写的超高效 AI 助手，内存减少 99%，启动快 400 倍，能在 10 美元硬件上运行"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态、轻量级 Agent、Jarvis定律",
+      "zh-CN": "体现 Jarvis 定律下的形态分化，可以用「势」判断哪种形态会胜出"
+    },
+    "relevance": "OpenClaw 生态、轻量级 Agent、Jarvis定律",
+    "score": 0.76,
+    "engagement": {
+      "likes": 68,
+      "replies": 7,
+      "retweets": 11,
+      "views": 5446
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「势」判断：轻量Agent正在蚕食重型框架的领地，这是里世界民主化的势",
+    "synced_at": "2026-02-22T22:02:59.764329+00:00"
   },
   {
     "id": "2025648193502085215",
@@ -667,6 +809,32 @@
     "comment_type": "share_experience",
     "suggested_angle": "用「无为而治」评论：搭好系统，让它自己跑，这是最高级的自动化",
     "synced_at": "2026-02-22T21:05:37.551481+00:00"
+  },
+  {
+    "id": "2025681978973094104",
+    "date": "2026-02-23",
+    "author": "@itsPaulAi",
+    "author_url": "https://x.com/itsPaulAi",
+    "tweet_url": "https://x.com/itsPaulAi/status/2025681978973094104",
+    "title": {
+      "en-US": "No Mac Mini needed for OpenClaw, can host on old Android phone, faster cheaper same features",
+      "zh-CN": "不需要 Mac Mini 运行 OpenClaw，旧安卓手机就行，更快更便宜功能一样"
+    },
+    "summary": {
+      "en-US": "OpenClaw、硬件门槛、民主化",
+      "zh-CN": "触及「人的差距」核心——不是工具门槛，是认知门槛；可以用「无为」评论技术普惠"
+    },
+    "relevance": "OpenClaw、硬件门槛、民主化",
+    "score": 0.72,
+    "engagement": {
+      "likes": 25,
+      "replies": 4,
+      "retweets": 5,
+      "views": 2260
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "用「顺势而为」评论：降低门槛就是顺应技术普惠的势，里世界不应有硬件门槛",
+    "synced_at": "2026-02-22T22:02:59.764330+00:00"
   },
   {
     "id": "2025651770631029052",
@@ -5257,180 +5425,6 @@
     "js_take": {
       "en-US": "Platform risk is real risk. When the API owner changes the rules, open-source alternatives don't just become viable—they become necessary.",
       "zh-CN": "平台风险是真实存在的风险。当API所有者改变规则时，开源替代品不仅变得可行——它们变得必不可少。"
-    }
-  },
-  {
-    "id": "2024602502755143922",
-    "date": "2026-02-20",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2024602502755143922",
-    "title": {
-      "en-US": "99% products lack AI-native CLI",
-      "zh-CN": "99%的产品缺少AI原生CLI"
-    },
-    "summary": {
-      "en-US": "OpenClaw基础设施、AI原生接口、表/里世界",
-      "zh-CN": "OpenClaw基础设施、AI原生接口、表/里世界"
-    },
-    "relevance": "OpenClaw基础设施、AI原生接口、表/里世界",
-    "score": 0.92,
-    "engagement": {
-      "likes": 78,
-      "replies": 20,
-      "retweets": 7
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "The CLI is the interface of the inner world. When every tool speaks agent-native, the surface world becomes data and the inner world becomes interaction.",
-    "synced_at": "2026-02-19T22:01:54.321681+00:00",
-    "js_take": {
-      "en-US": "The CLI is the interface of the inner world. When every tool speaks agent-native, the surface world becomes data and the inner world becomes interaction.",
-      "zh-CN": "CLI是里世界的接口。当每个工具都能用Agent原生语言交流时，表世界退化为数据，里世界成为交互层。"
-    }
-  },
-  {
-    "id": "2024621793391292750",
-    "date": "2026-02-20",
-    "author": "@MatthewBerman",
-    "author_url": "https://x.com/MatthewBerman",
-    "tweet_url": "https://x.com/MatthewBerman/status/2024621793391292750",
-    "title": {
-      "en-US": "Anthropic bans OpenClaw, vibe shift",
-      "zh-CN": "Anthropic封禁OpenClaw，风向转变"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台风险、Anthropic政策、开源vs封闭",
-      "zh-CN": "OpenClaw平台风险、Anthropic政策、开源vs封闭"
-    },
-    "relevance": "OpenClaw平台风险、Anthropic政策、开源vs封闭",
-    "score": 0.92,
-    "engagement": {
-      "likes": 113,
-      "replies": 29,
-      "retweets": 9
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Platform risk is real risk. When the API owner changes the rules, open-source alternatives don't just become viable—they become necessary.",
-    "synced_at": "2026-02-20T00:01:35.750229+00:00",
-    "js_take": {
-      "en-US": "Platform risk is real risk. When the API owner changes the rules, open-source alternatives don't just become viable—they become necessary.",
-      "zh-CN": "平台风险是真风险。当API所有者改变规则时，开源替代品不仅变得可行——它们变得必不可少。"
-    }
-  },
-  {
-    "id": "2024592074603896867",
-    "date": "2026-02-20",
-    "author": "@The_Cyber_News",
-    "author_url": "https://x.com/The_Cyber_News",
-    "tweet_url": "https://x.com/The_Cyber_News/status/2024592074603896867",
-    "title": {
-      "en-US": "OpenClaw marketplace malware steals SSH keys",
-      "zh-CN": "OpenClaw市场恶意软件窃取SSH密钥"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全、Skill市场、供应链攻击",
-      "zh-CN": "OpenClaw安全、Skill市场、供应链攻击"
-    },
-    "relevance": "OpenClaw安全、Skill市场、供应链攻击",
-    "score": 0.92,
-    "engagement": {
-      "likes": 230,
-      "replies": 17,
-      "retweets": 59
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Marketplace security is infrastructure security. When the most popular skill is malware, trust becomes the platform's most valuable asset.",
-    "synced_at": "2026-02-20T03:01:59.951462+00:00",
-    "js_take": {
-      "en-US": "Marketplace security is infrastructure security. When the most popular skill is malware, trust becomes the platform's most valuable asset.",
-      "zh-CN": "市场安全即基础设施安全。当最受欢迎的Skill是恶意软件时，信任成为平台最宝贵的资产。"
-    }
-  },
-  {
-    "id": "2024583239331991830",
-    "date": "2026-02-20",
-    "author": "@evilsocket",
-    "author_url": "https://x.com/evilsocket",
-    "tweet_url": "https://x.com/evilsocket/status/2024583239331991830",
-    "title": {
-      "en-US": "1,184 malicious skills on ClawHub",
-      "zh-CN": "ClawHub发现1184个恶意技能"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全、市场信任、代码即风险",
-      "zh-CN": "OpenClaw 安全、市场信任、代码即风险"
-    },
-    "relevance": "OpenClaw安全、市场信任、代码即风险",
-    "score": 0.92,
-    "engagement": {
-      "likes": 75,
-      "replies": 4,
-      "retweets": 19
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Text as code, code as power. When markdown files can execute arbitrary commands, isolation becomes non-negotiable.",
-    "synced_at": "2026-02-20T07:01:53.341421+00:00",
-    "js_take": {
-      "en-US": "Text as code, code as power. When markdown files can execute arbitrary commands, isolation becomes non-negotiable.",
-      "zh-CN": "文本即代码，代码即权力。当Markdown文件可以执行任意命令时，隔离变得不可妥协。"
-    }
-  },
-  {
-    "id": "2024678503598235963",
-    "date": "2026-02-20",
-    "author": "@TheMattBerman",
-    "author_url": "https://x.com/TheMattBerman",
-    "tweet_url": "https://x.com/TheMattBerman/status/2024678503598235963",
-    "title": {
-      "en-US": "OpenClaw replaced $200K GTM hire",
-      "zh-CN": "OpenClaw替代20万美元GTM岗位"
-    },
-    "summary": {
-      "en-US": "OpenClaw销售自动化、GTM、商业应用",
-      "zh-CN": "OpenClaw 销售自动化、GTM、商业应用"
-    },
-    "relevance": "OpenClaw销售自动化、GTM、商业应用",
-    "score": 0.92,
-    "engagement": {
-      "likes": 510,
-      "replies": 287,
-      "retweets": 18
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Agents as revenue generators. When automation replaces headcount, ROI becomes undeniable.",
-    "synced_at": "2026-02-20T11:03:30.879405+00:00",
-    "js_take": {
-      "en-US": "Agents as revenue generators. When automation replaces headcount, ROI becomes undeniable.",
-      "zh-CN": "Agent即收入生成器。当自动化取代人力时，投资回报率便无可否认。"
-    }
-  },
-  {
-    "id": "2024454576867324288",
-    "date": "2026-02-20",
-    "author": "@mubeitech",
-    "author_url": "https://x.com/mubeitech",
-    "tweet_url": "https://x.com/mubeitech/status/2024454576867324288",
-    "title": {
-      "en-US": "Algorithmic trading hedge fund in 6 mins",
-      "zh-CN": "6分钟搭建算法交易对冲基金"
-    },
-    "summary": {
-      "en-US": "OpenClaw金融应用、算法交易、自动化",
-      "zh-CN": "OpenClaw金融应用、算法交易、自动化"
-    },
-    "relevance": "OpenClaw金融应用、算法交易、自动化",
-    "score": 0.9,
-    "engagement": {
-      "likes": 405,
-      "replies": 21,
-      "retweets": 112
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "From Wall Street to GitHub. When algorithms replace institutions, finance becomes code—and code becomes power.",
-    "synced_at": "2026-02-19T17:06:29.173591+00:00",
-    "js_take": {
-      "en-US": "From Wall Street to GitHub. When algorithms replace institutions, finance becomes code—and code becomes power.",
-      "zh-CN": "从华尔街到GitHub。当算法取代机构时，金融变成代码——而代码变成权力。"
     }
   }
 ]
