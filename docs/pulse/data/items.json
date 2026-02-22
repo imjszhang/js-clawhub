@@ -58,6 +58,36 @@
     }
   },
   {
+    "id": "2025640364737286395",
+    "date": "2026-02-23",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2025640364737286395",
+    "title": {
+      "en-US": "OpenClaw custom heartbeat setup - checks activity, reads task board, spawns agents conditionally",
+      "zh-CN": "OpenClaw 智能心跳：按需唤醒 Agent"
+    },
+    "summary": {
+      "en-US": "OpenClaw 工程实践、Agent 系统设计",
+      "zh-CN": "OpenClaw 工程实践，Agent 系统设计"
+    },
+    "relevance": "OpenClaw 工程实践、Agent 系统设计",
+    "score": 0.88,
+    "engagement": {
+      "likes": 44,
+      "replies": 3,
+      "retweets": 2,
+      "views": 4974
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「无为而治」的道家框架评论这种智能唤醒机制——不打扰是最高级的自动化",
+    "synced_at": "2026-02-22T20:02:27.096050+00:00",
+    "js_take": {
+      "en-US": "This is wu wei (无为) in engineering form. The highest level of automation is knowing when NOT to run. Conditional triggers > brute force loops.",
+      "zh-CN": "这是工程化的「无为」——最高级的自动化，是懂得何时不该运行。条件触发 > 暴力轮询。"
+    }
+  },
+  {
     "id": "2025587318338543813",
     "date": "2026-02-23",
     "author": "@petergyang",
@@ -84,6 +114,36 @@
     "js_take": {
       "en-US": "Three-layer memory isn't architecture—it's cognition. Agents in the inner world need layered memory for continuous learning. That's the foundation of monetization.",
       "zh-CN": "三层记忆不是架构，而是认知。里世界的Agent需要分层记忆来持续学习。这是商业化的基础。"
+    }
+  },
+  {
+    "id": "2025578845701832779",
+    "date": "2026-02-23",
+    "author": "@PrajwalTomar_",
+    "author_url": "https://x.com/PrajwalTomar_",
+    "tweet_url": "https://x.com/PrajwalTomar_/status/202557884570183279",
+    "title": {
+      "en-US": "OpenClaw Pro Tip: Stop copying random use cases. Most people automating things they don't need.",
+      "zh-CN": "OpenClaw 避坑指南：别做无用自动化"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Agent 运营策略、系统思维",
+      "zh-CN": "OpenClaw，Agent 运营策略，系统思维"
+    },
+    "relevance": "OpenClaw、Agent 运营策略、系统思维",
+    "score": 0.85,
+    "engagement": {
+      "likes": 18,
+      "replies": 6,
+      "retweets": 0,
+      "views": 2527
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "用「建系统 vs 造奇观」的 Civilization 隐喻评论：真正的高手搞复利，新手才堆自动化",
+    "synced_at": "2026-02-22T20:02:27.096056+00:00",
+    "js_take": {
+      "en-US": "Exactly. Newbies in Civilization chase wonders. Pros build systems that compound. Same energy here—most \"cool\" automations are just tech debt wearing a costume.",
+      "zh-CN": "没错。文明新手追奇观，高手建复利系统。这里同理——大多数「酷炫」自动化，不过是披着外衣的技术债。"
     }
   },
   {
@@ -259,6 +319,58 @@
       "en-US": "Billion isn't valuation—it's paradigm. Agents in the inner world redefine company boundaries. That's the atomization of organization.",
       "zh-CN": "十亿不是估值，而是范式。里世界的Agent重新定义公司边界。这是组织的原子化。"
     }
+  },
+  {
+    "id": "2025429865403687278",
+    "date": "2026-02-23",
+    "author": "@jasonzhou1993",
+    "author_url": "https://x.com/jasonzhou1993",
+    "tweet_url": "https://x.com/jasonzhou1993/status/2025429865403687278",
+    "title": {
+      "en-US": "How to equip your openClaw with a professional design agent",
+      "zh-CN": "介绍如何给 OpenClaw 配备专业设计 agent"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Agent Skill、设计工具",
+      "zh-CN": "直接相关 JS 的视觉系统（Neo-Brutalism + Cyberpunk），可以用他独特的视觉哲学来回应"
+    },
+    "relevance": "OpenClaw、Agent Skill、设计工具",
+    "score": 0.78,
+    "engagement": {
+      "likes": 49,
+      "replies": 3,
+      "retweets": 11,
+      "views": 12308
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "分享 JS 的视觉系统理念：硬边界、确定性、技术网格——如何用 Agent 生成「有态度」的设计",
+    "synced_at": "2026-02-22T20:02:27.096059+00:00"
+  },
+  {
+    "id": "2025648193502085215",
+    "date": "2026-02-23",
+    "author": "@BrianRoemmele",
+    "author_url": "https://x.com/BrianRoemmele",
+    "tweet_url": "https://x.com/BrianRoemmele/status/2025648193502085215",
+    "title": {
+      "en-US": "Andrew Karpathy came to same conclusion: use Nano/Pico/ZeroClaw for employees, not OpenClaw. No Mac Mini needed.",
+      "zh-CN": "Andrew Karpathy 也得出了相同结论：给员工用 Nano/Pico/ZeroClaw 而非 OpenClaw，且不需要 Mac Mini"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态、Agent 部署策略",
+      "zh-CN": "触及表/里世界迁徙的核心议题：不同场景需要不同形态的 Agent，这是系统思维的体现"
+    },
+    "relevance": "OpenClaw 生态、Agent 部署策略",
+    "score": 0.75,
+    "engagement": {
+      "likes": 93,
+      "replies": 9,
+      "retweets": 12,
+      "views": 7516
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「表/里世界」框架评论：OpenClaw 是里世界的入口，但里世界本身需要分层部署",
+    "synced_at": "2026-02-22T20:02:27.096061+00:00"
   },
   {
     "id": "2025484005177708608",
@@ -5337,122 +5449,6 @@
     "js_take": {
       "en-US": "Skills as the new app store. When the best tools rise to the top, curation becomes as valuable as creation.",
       "zh-CN": "Skills成为新的应用商店。当最好的工具脱颖而出时，筛选变得和创造一样有价值。"
-    }
-  },
-  {
-    "id": "2024443607152013510",
-    "date": "2026-02-20",
-    "author": "@zaimiri",
-    "author_url": "https://x.com/zaimiri",
-    "tweet_url": "https://x.com/zaimiri/status/2024443607152013510",
-    "title": {
-      "en-US": "OpenClaw memory persistence prompt",
-      "zh-CN": "OpenClaw 记忆持久化提示词"
-    },
-    "summary": {
-      "en-US": "OpenClaw记忆系统、持久化、上下文管理",
-      "zh-CN": "OpenClaw 记忆系统、持久化、上下文管理"
-    },
-    "relevance": "OpenClaw记忆系统、持久化、上下文管理",
-    "score": 0.88,
-    "engagement": {
-      "likes": 736,
-      "replies": 52,
-      "retweets": 70
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Memory as the foundation of agency. When context persists across sessions, agents become companions rather than tools.",
-    "synced_at": "2026-02-20T05:01:25.103319+00:00",
-    "js_take": {
-      "en-US": "Memory as the foundation of agency. When context persists across sessions, agents become companions rather than tools.",
-      "zh-CN": "记忆是自主性的根基。当上下文跨会话持续存在时，Agent从工具变成伙伴。"
-    }
-  },
-  {
-    "id": "2024572078314451146",
-    "date": "2026-02-20",
-    "author": "@kloss_xyz",
-    "author_url": "https://x.com/kloss_xyz",
-    "tweet_url": "https://x.com/kloss_xyz/status/2024572078314451146",
-    "title": {
-      "en-US": "OpenClaw 21 prompts to surface insights",
-      "zh-CN": "OpenClaw 21个挖掘洞察的提示词"
-    },
-    "summary": {
-      "en-US": "OpenClaw提示工程、人机协作、自我洞察",
-      "zh-CN": "OpenClaw 提示工程、人机协作、自我洞察"
-    },
-    "relevance": "OpenClaw提示工程、人机协作、自我洞察",
-    "score": 0.88,
-    "engagement": {
-      "likes": 419,
-      "replies": 29,
-      "retweets": 37
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Interrogation as discovery. When you ask your agent the right questions, it surfaces insights about you that you never articulated.",
-    "synced_at": "2026-02-20T06:03:57.699031+00:00",
-    "js_take": {
-      "en-US": "Interrogation as discovery. When you ask your agent the right questions, it surfaces insights about you that you never articulated.",
-      "zh-CN": "审问即发现。当你向Agent提出正确的问题时，它会浮现出你从未表达过的自我洞察。"
-    }
-  },
-  {
-    "id": "2024686968102117502",
-    "date": "2026-02-20",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2024686968102117502",
-    "title": {
-      "en-US": "10 Things I Wish I Knew Before OpenClaw",
-      "zh-CN": "使用OpenClaw前希望知道的10件事"
-    },
-    "summary": {
-      "en-US": "OpenClaw最佳实践、成本优化、模型选择",
-      "zh-CN": "OpenClaw 最佳实践、成本优化、模型选择"
-    },
-    "relevance": "OpenClaw最佳实践、成本优化、模型选择",
-    "score": 0.88,
-    "engagement": {
-      "likes": 101,
-      "replies": 7,
-      "retweets": 7
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Wisdom through friction. When you learn what you wish you knew earlier, the path becomes clearer for those who follow.",
-    "synced_at": "2026-02-20T06:03:57.699040+00:00",
-    "js_take": {
-      "en-US": "Wisdom through friction. When you learn what you wish you knew earlier, the path becomes clearer for those who follow.",
-      "zh-CN": "摩擦即智慧。当你学到那些早该知道的事时，后来者的路便变得清晰。"
-    }
-  },
-  {
-    "id": "2024527358611390678",
-    "date": "2026-02-20",
-    "author": "@Chilearmy123",
-    "author_url": "https://x.com/Chilearmy123",
-    "tweet_url": "https://x.com/Chilearmy123/status/2024527358611390678",
-    "title": {
-      "en-US": "OpenClaw running costs shock",
-      "zh-CN": "OpenClaw运行成本震惊用户"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本、使用门槛、优化策略",
-      "zh-CN": "OpenClaw 成本、使用门槛、优化策略"
-    },
-    "relevance": "OpenClaw成本、使用门槛、优化策略",
-    "score": 0.88,
-    "engagement": {
-      "likes": 818,
-      "replies": 142,
-      "retweets": 60
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Cost as the reality check. When the novelty fades, optimization separates hobbyists from practitioners.",
-    "synced_at": "2026-02-20T07:01:53.341427+00:00",
-    "js_take": {
-      "en-US": "Cost as the reality check. When the novelty fades, optimization separates hobbyists from practitioners.",
-      "zh-CN": "成本即现实检验。当新鲜感褪去，优化将爱好者与实践者区分开来。"
     }
   }
 ]
