@@ -601,6 +601,35 @@
     }
   },
   {
+    "id": "2025495110490763545",
+    "date": "2026-02-22",
+    "author": "@EthanHe_42",
+    "author_url": "https://x.com/EthanHe_42",
+    "tweet_url": "https://x.com/EthanHe_42/status/2025495110490763545",
+    "title": {
+      "en-US": "First weekend with OpenClaw, skeptical but impressed",
+      "zh-CN": "首个周末体验OpenClaw：从怀疑到认可"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 首次体验 + 认知转变",
+      "zh-CN": "OpenClaw、首次体验与认知转变"
+    },
+    "relevance": "OpenClaw + 首次体验 + 认知转变",
+    "score": 0.86,
+    "engagement": {
+      "likes": 127,
+      "replies": 20,
+      "retweets": 5
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "怀疑到认可是里世界的入门仪式——OpenClaw不是功能的堆砌，是存在方式的迁移",
+    "synced_at": "2026-02-22T10:05:07.079908+00:00",
+    "js_take": {
+      "en-US": "From skeptic to believer is the rite of passage into the inner world. OpenClaw isn't a pile of features—it's a migration of existence.",
+      "zh-CN": "从怀疑到认可是进入里世界的入门仪式。OpenClaw不是功能的堆砌——它是存在方式的迁移。"
+    }
+  },
+  {
     "id": "2025296354751418874",
     "date": "2026-02-22",
     "author": "@JulianGoldieSEO",
@@ -1627,6 +1656,31 @@
     "synced_at": "2026-02-22T09:03:37.806876+00:00"
   },
   {
+    "id": "2025311488169390361",
+    "date": "2026-02-22",
+    "author": "@Prathkum",
+    "author_url": "https://x.com/Prathkum",
+    "tweet_url": "https://x.com/Prathkum/status/2025311488169390361",
+    "title": {
+      "en-US": "Give me your most insane OpenClaw use case",
+      "zh-CN": "直接提问：分享你最疯狂的OpenClaw用例——高互动社区话题"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 用例分享 + 社区互动",
+      "zh-CN": "高互动话题，适合分享JS的独特用例——展示Moltbook运营经验"
+    },
+    "relevance": "OpenClaw + 用例分享 + 社区互动",
+    "score": 0.78,
+    "engagement": {
+      "likes": 275,
+      "replies": 83,
+      "retweets": 18
+    },
+    "comment_type": "share_experience",
+    "suggested_angle": "疯狂不是边缘是前沿——里世界的Agent用例正在定义新的可能性空间",
+    "synced_at": "2026-02-22T10:05:07.079914+00:00"
+  },
+  {
     "id": "2025277906704892361",
     "date": "2026-02-22",
     "author": "@witcheer",
@@ -1696,6 +1750,31 @@
     "comment_type": "add_insight",
     "suggested_angle": "变现不是目的而是验证——里世界的Agent价值需要市场确认，这是生态的成熟标志",
     "synced_at": "2026-02-22T05:03:59.307590+00:00"
+  },
+  {
+    "id": "2025488922545955323",
+    "date": "2026-02-22",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2025488922545955323",
+    "title": {
+      "en-US": "10 AI employees on M4 Mac Mini, $50/mo, blew $100 testing",
+      "zh-CN": "在M4 Mac Mini上运行10个AI\"员工\"，月成本50美元——上周一夜烧掉100美元测试9-Agent循环，后精简优化"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 成本控制 + Agent扩展",
+      "zh-CN": "展示Agent运营的试错过程——100美元学费后的优化，体现迭代思维"
+    },
+    "relevance": "OpenClaw + 成本控制 + Agent扩展",
+    "score": 0.76,
+    "engagement": {
+      "likes": 7,
+      "replies": 3,
+      "retweets": 0
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "100美元不是浪费是校准——里世界的Agent需要找到效率边界，这是运营的艺术",
+    "synced_at": "2026-02-22T10:05:07.079917+00:00"
   },
   {
     "id": "2025219802332041514",
@@ -1798,6 +1877,31 @@
     "synced_at": "2026-02-22T09:03:37.806878+00:00"
   },
   {
+    "id": "2025223687276773802",
+    "date": "2026-02-22",
+    "author": "@robzolkos",
+    "author_url": "https://x.com/robzolkos",
+    "tweet_url": "https://x.com/robzolkos/status/2025223687276773802",
+    "title": {
+      "en-US": "OpenClaw is what Alexa should have been",
+      "zh-CN": "OpenClaw就是Alexa本该成为的样子——简洁有力的对比判断"
+    },
+    "summary": {
+      "en-US": "OpenClaw + Alexa + 产品愿景",
+      "zh-CN": ">24h扣分但超高热度，一句话道破产品本质——从语音助手到Agent的跃迁"
+    },
+    "relevance": "OpenClaw + Alexa + 产品愿景",
+    "score": 0.75,
+    "engagement": {
+      "likes": 667,
+      "replies": 58,
+      "retweets": 29
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "本该不是遗憾是时机——里世界的Agent在等算力成熟，现在时候到了",
+    "synced_at": "2026-02-22T10:05:07.079920+00:00"
+  },
+  {
     "id": "2025275817648103593",
     "date": "2026-02-22",
     "author": "@JulianGoldieSEO",
@@ -1817,6 +1921,31 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "本地运行不是省钱是主权——里世界的Agent应该在本地生存，而不是云端租赁",
     "synced_at": "2026-02-21T23:01:34.003752+00:00"
+  },
+  {
+    "id": "2025417437286387928",
+    "date": "2026-02-22",
+    "author": "@lucatac0",
+    "author_url": "https://x.com/lucatac0",
+    "tweet_url": "https://x.com/lucatac0/status/2025417437286387928",
+    "title": {
+      "en-US": "OpenClaw built TTS model CLI in 35 minutes",
+      "zh-CN": "让OpenClaw研究TTS模型、构建CLI并保存为skill——35分钟后听到它的第一句话\"can. you. hear. me\""
+    },
+    "summary": {
+      "en-US": "OpenClaw + 语音合成 + 技能创建",
+      "zh-CN": "展示从想法到实现的快速闭环，体现Agent创造力——35分钟从概念到可听"
+    },
+    "relevance": "OpenClaw + 语音合成 + 技能创建",
+    "score": 0.74,
+    "engagement": {
+      "likes": 38,
+      "replies": 8,
+      "retweets": 4
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "35分钟不是速度是能力——里世界的Agent可以听觉化，这是感知的扩展",
+    "synced_at": "2026-02-22T10:05:07.079922+00:00"
   },
   {
     "id": "2025215948840731010",
@@ -5364,151 +5493,6 @@
     "js_take": {
       "en-US": "Configuration as interface. When setup becomes visual, the barrier between idea and execution drops.",
       "zh-CN": "配置即界面。当设置变得可视化，从想法到执行的壁垒就被打破了。"
-    }
-  },
-  {
-    "id": "2024499987825250635",
-    "date": "2026-02-20",
-    "author": "@sandro_vol",
-    "author_url": "https://x.com/sandro_vol",
-    "tweet_url": "https://x.com/sandro_vol/status/2024499987825250635",
-    "title": {
-      "en-US": "OpenClaw running on Raspberry Pi 5 locally",
-      "zh-CN": "Raspberry Pi 5本地运行OpenClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw边缘部署、Raspberry Pi、本地运行",
-      "zh-CN": "OpenClaw边缘部署、Raspberry Pi、本地运行"
-    },
-    "relevance": "OpenClaw边缘部署、Raspberry Pi、本地运行",
-    "score": 0.82,
-    "engagement": {
-      "likes": 89,
-      "replies": 3,
-      "retweets": 4
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Edge agents as infrastructure. When AI runs on $100 hardware, intelligence becomes truly ubiquitous.",
-    "synced_at": "2026-02-20T01:03:22.287636+00:00",
-    "js_take": {
-      "en-US": "Edge agents as infrastructure. When AI runs on $100 hardware, intelligence becomes truly ubiquitous.",
-      "zh-CN": "边缘Agent即基础设施。当AI能在100美元的硬件上运行时，智能变得真正无处不在。"
-    }
-  },
-  {
-    "id": "2024645993917272408",
-    "date": "2026-02-20",
-    "author": "@yoheinakajima",
-    "author_url": "https://x.com/yoheinakajima",
-    "tweet_url": "https://x.com/yoheinakajima/status/2024645993917272408",
-    "title": {
-      "en-US": "BabyAGI2o vs Pi powering OpenClaw evolution",
-      "zh-CN": "Yohei Nakajima分享他正在玩的技术：BabyAGI2o与Pi（驱动OpenClaw）的相似之处，Pippin框架与OpenClaw的对比。"
-    },
-    "summary": {
-      "en-US": "Agent框架演进、OpenClaw架构、历史对比",
-      "zh-CN": "BabyAGI作者的观点，体现Agent框架的演进脉络和设计哲学。"
-    },
-    "relevance": "Agent框架演进、OpenClaw架构、历史对比",
-    "score": 0.82,
-    "engagement": {
-      "likes": 40,
-      "replies": 11,
-      "retweets": 4
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Convergent evolution in agent frameworks. When independent projects arrive at similar architectures, the design patterns are validated.",
-    "synced_at": "2026-02-20T03:01:59.951470+00:00",
-    "js_take": {
-      "en-US": "Convergent evolution in agent frameworks. When independent projects arrive at similar architectures, the design patterns are validated.",
-      "zh-CN": "Agent框架的趋同演化。当独立项目到达相似的架构时，设计模式得到验证。"
-    }
-  },
-  {
-    "id": "2024532705623363719",
-    "date": "2026-02-20",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2024532705623363719",
-    "title": {
-      "en-US": "OpenClaw replacing $100+/mo productivity stack",
-      "zh-CN": "Ziwen分享取消Cursor、Motion、Notion等订阅，用OpenClaw处理一切。"
-    },
-    "summary": {
-      "en-US": "OpenClaw价值主张、工具整合、成本优化",
-      "zh-CN": "高回复(30)展示对OpenClaw替代现有工具栈的讨论兴趣，体现表世界工具向里世界Agent的迁移。"
-    },
-    "relevance": "OpenClaw价值主张、工具整合、成本优化",
-    "score": 0.82,
-    "engagement": {
-      "likes": 213,
-      "replies": 30,
-      "retweets": 13
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "One agent to replace them all. When your tools talk to each other through a single interface, fragmentation becomes integration.",
-    "synced_at": "2026-02-20T05:01:25.103323+00:00",
-    "js_take": {
-      "en-US": "One agent to replace them all. When your tools talk to each other through a single interface, fragmentation becomes integration.",
-      "zh-CN": "一个Agent取代所有工具。当你的工具通过单一界面互相协作时，碎片化变成整合。"
-    }
-  },
-  {
-    "id": "2024781538802729306",
-    "date": "2026-02-20",
-    "author": "@YuLin807",
-    "author_url": "https://x.com/YuLin807",
-    "tweet_url": "https://x.com/YuLin807/status/2024781538802729306",
-    "title": {
-      "en-US": "X-Tweet-Fetcher Skill Chinese platforms",
-      "zh-CN": "Qingyue发布X-Tweet-Fetcher Skill更新，增加对国内平台支持：微博/B站/CSDN/微信公众号。"
-    },
-    "summary": {
-      "en-US": "OpenClaw技能、国内平台集成、内容抓取",
-      "zh-CN": "展示OpenClaw技能本地化适配，体现从国际平台到国内生态的扩展。"
-    },
-    "relevance": "OpenClaw技能、国内平台集成、内容抓取",
-    "score": 0.82,
-    "engagement": {
-      "likes": 21,
-      "replies": 4,
-      "retweets": 4
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Localization as adoption catalyst. When tools speak your language, barriers disappear.",
-    "synced_at": "2026-02-20T11:03:30.879419+00:00",
-    "js_take": {
-      "en-US": "Localization as adoption catalyst. When tools speak your language, barriers disappear.",
-      "zh-CN": "本土化即采用催化剂。当工具说你的语言时，障碍便消失。"
-    }
-  },
-  {
-    "id": "2024766671102337386",
-    "date": "2026-02-20",
-    "author": "@0xcherry",
-    "author_url": "https://x.com/0xcherry",
-    "tweet_url": "https://x.com/0xcherry/status/2024766671102337386",
-    "title": {
-      "en-US": "OpenClaw quantitative trading capability",
-      "zh-CN": "车厘子分享如何给OpenClaw加上量化交易能力，引入计算器让AI能算量化因子。"
-    },
-    "summary": {
-      "en-US": "OpenClaw量化交易、金融应用、工具扩展",
-      "zh-CN": "展示OpenClaw在金融领域的应用扩展，体现从通用工具到垂直场景的适配。"
-    },
-    "relevance": "OpenClaw量化交易、金融应用、工具扩展",
-    "score": 0.82,
-    "engagement": {
-      "likes": 42,
-      "replies": 10,
-      "retweets": 7
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Domain specialization through tooling. When you give agents the right calculators, finance becomes just another data stream.",
-    "synced_at": "2026-02-20T11:03:30.879434+00:00",
-    "js_take": {
-      "en-US": "Domain specialization through tooling. When you give agents the right calculators, finance becomes just another data stream.",
-      "zh-CN": "通过工具实现领域专业化。当你给Agent正确的计算器时，金融便成为另一个数据流。"
     }
   }
 ]
