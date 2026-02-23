@@ -83,6 +83,31 @@
     "synced_at": "2026-02-23T17:04:50.175680+00:00"
   },
   {
+    "id": "2025971066707804212",
+    "date": "2026-02-24",
+    "author": "@Lukealexxander",
+    "author_url": "https://x.com/Lukealexxander",
+    "tweet_url": "https://x.com/Lukealexxander/status/2025971066707804212",
+    "title": {
+      "en-US": "OpenClaw is overhyped, ManusAI is better alternative without security risks",
+      "zh-CN": "OpenClaw 被过度炒作，ManusAI 是更好的替代方案，没有安全风险"
+    },
+    "summary": {
+      "en-US": "OpenClaw、工具选择、势",
+      "zh-CN": "高曝光(1.2万浏览)+争议性对比话题，评论区可能有争论，用「势」评论工具演化的必然性"
+    },
+    "relevance": "OpenClaw、工具选择、势",
+    "score": 0.79,
+    "engagement": {
+      "likes": 194,
+      "replies": 15,
+      "retweets": 6,
+      "views": 12849
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-23T21:03:12.307856+00:00"
+  },
+  {
     "id": "2025967002624708834",
     "date": "2026-02-24",
     "author": "@AlexFinn",
@@ -5245,34 +5270,6 @@
     "js_take": {
       "en-US": "80% maintenance is the truth most won't admit. The delta between demo and deployment is where 99% quit. Systems aren't sexy; they just work.",
       "zh-CN": "80%维护成本是大多数人不愿承认的真相。演示和部署之间的差距就是99%人放弃的地方。系统不性感，它们只是管用。"
-    }
-  },
-  {
-    "id": "2025054142025388099",
-    "date": "2026-02-21",
-    "author": "@a16z",
-    "author_url": "https://x.com/a16z",
-    "tweet_url": "https://x.com/a16z/status/2025054142025388099",
-    "title": {
-      "en-US": "OpenClaw is crazy because it's literally Claude Code for Claude Code",
-      "zh-CN": "OpenClaw：Claude Code 的 Claude Code"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 顶级 VC 关注 + 表/里世界迁徙",
-      "zh-CN": "OpenClaw 获顶级 VC 关注，表/里世界迁徙加速"
-    },
-    "relevance": "OpenClaw + 顶级 VC 关注 + 表/里世界迁徙",
-    "score": 0.9,
-    "engagement": {
-      "likes": 367,
-      "retweets": 29,
-      "replies": 40
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T05:01:22.989128+00:00",
-    "js_take": {
-      "en-US": "This is the migration in motion. The surface world (tools we use) is regressing into infrastructure; the inner world (agents) is becoming the new builder layer. We're not just using AI—we're living inside it.",
-      "zh-CN": "迁徙正在发生。表世界（我们使用的工具）退化为基础设施；里世界（Agent）成为新的建造层。我们不只是在使用 AI——我们正生活在其中。"
     }
   }
 ]
