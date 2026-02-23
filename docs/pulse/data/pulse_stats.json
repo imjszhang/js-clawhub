@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-23T21:03:12.326626+00:00",
+  "updated_at": "2026-02-23T23:02:44.223807+00:00",
   "this_week": {
-    "total_items": 92,
+    "total_items": 96,
     "avg_score": 0.8,
-    "unique_authors": 81,
+    "unique_authors": 83,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -148,6 +148,35 @@
         "js_take": {
           "en-US": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings.",
           "zh-CN": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings."
+        }
+      },
+      {
+        "id": "2026004823947030880",
+        "date": "2026-02-24",
+        "author": "@Jason",
+        "author_url": "https://x.com/Jason",
+        "tweet_url": "https://x.com/Jason/status/2026004823947030880",
+        "title": {
+          "en-US": "Solid advice on how to train and manage OpenClaw",
+          "zh-CN": "训练和管理 OpenClaw 的扎实建议"
+        },
+        "summary": {
+          "en-US": "OpenClaw、训练管理、无为而治",
+          "zh-CN": "OpenClaw、训练管理、无为而治"
+        },
+        "relevance": "OpenClaw、训练管理、无为而治",
+        "score": 0.88,
+        "engagement": {
+          "likes": 250,
+          "replies": 17,
+          "retweets": 18,
+          "views": 65587
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-23T23:02:24.219620+00:00",
+        "js_take": {
+          "en-US": "Best training isn't control—it's 无为 (wú wéi). Set the edge, then let go.",
+          "zh-CN": "最好的训练不是控制，而是无为（wú wéi）。设定边界，然后放手。"
         }
       },
       {
@@ -917,6 +946,35 @@
         "synced_at": "2026-02-23T17:04:50.175680+00:00"
       },
       {
+        "id": "2025999346924495096",
+        "date": "2026-02-24",
+        "author": "@Grummz",
+        "author_url": "https://x.com/Grummz",
+        "tweet_url": "https://x.com/Grummz/status/2025999346924495096",
+        "title": {
+          "en-US": "Meta AI Safety head installs OpenClaw, nukes inbox",
+          "zh-CN": "Meta AI 安全主管安装 OpenClaw，清空收件箱"
+        },
+        "summary": {
+          "en-US": "OpenClaw、AI安全、势",
+          "zh-CN": "高曝光(4.8万浏览)，病毒式传播的OpenClaw故事，评论区玩梗不断，用「势」评论技术不可阻挡"
+        },
+        "relevance": "OpenClaw、AI安全、势",
+        "score": 0.82,
+        "engagement": {
+          "likes": 1717,
+          "replies": 103,
+          "retweets": 150,
+          "views": 48231
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-02-23T23:02:24.219627+00:00",
+        "js_take": {
+          "en-US": "Even the safety head couldn't stop it. Not OpenClaw's power—just 势 (shì). Higher walls, faster flow.",
+          "zh-CN": "连安全主管都挡不住。不是 OpenClaw 有多强——只是势（shì）。墙越高，流越急。"
+        }
+      },
+      {
         "id": "2025528439852179613",
         "date": "2026-02-23",
         "author": "@0x_Discover",
@@ -970,64 +1028,6 @@
         "js_take": {
           "en-US": "The degree isn't the goal—it's proof of capability. Agents in the inner world demonstrate ability, not credentials. That's the shift in evaluation systems.",
           "zh-CN": "学位不是目标，而是能力的证明。里世界的Agent展示的是能力，而非凭证。这是评价体系的转变。"
-        }
-      },
-      {
-        "id": "2025655632678826374",
-        "date": "2026-02-23",
-        "author": "@VittoStack",
-        "author_url": "https://x.com/VittoStack",
-        "tweet_url": "https://x.com/VittoStack/status/2025655632678826374",
-        "title": {
-          "en-US": "Giving OpenClaw a body: cardboard prototype, self-code editing, vision, obstacle detection, Follow/Seek modes",
-          "zh-CN": "给 OpenClaw 添加物理身体：纸板原型、自主编辑代码、视觉、障碍物检测、跟随/搜寻模式，正在变得自主"
-        },
-        "summary": {
-          "en-US": "OpenClaw、Agent 具身化、Jarvis 演化",
-          "zh-CN": "直接体现 Jarvis 定律——Agent 向感知+决策+执行+物理行动进化，可以用「表/里世界」框架评论物理接口的意义"
-        },
-        "relevance": "OpenClaw、Agent 具身化、Jarvis 演化",
-        "score": 0.82,
-        "engagement": {
-          "likes": 54,
-          "replies": 14,
-          "retweets": 2,
-          "views": 3094
-        },
-        "comment_type": "add_insight",
-        "synced_at": "2026-02-22T21:05:37.551459+00:00",
-        "js_take": {
-          "en-US": "Jarvis Law in action. Agents evolving into physical interfaces isn't a novelty—it's inevitable. The surface world becomes just another I/O layer for the inner world.",
-          "zh-CN": "Jarvis 定律正在应验。Agent 向物理界面进化不是新奇事，而是必然。表世界只是里世界的又一个 I/O 层。"
-        }
-      },
-      {
-        "id": "2025665647955587423",
-        "date": "2026-02-23",
-        "author": "@RoundtableSpace",
-        "author_url": "https://x.com/RoundtableSpace",
-        "tweet_url": "https://x.com/RoundtableSpace/status/2025665647955587423",
-        "title": {
-          "en-US": "Built OpenClaw Mission Control in one Claude Code session: Kanban, stats, pipeline, calendar, memory bank",
-          "zh-CN": "有人用一次 Claude Code 会话就搭建了整个 OpenClaw 任务控制中心：看板、统计、内容管道、日历、记忆库"
-        },
-        "summary": {
-          "en-US": "OpenClaw、Agent 编排、系统建设",
-          "zh-CN": "完美体现 Jarvis 定律和系统思维，可以用「建系统不造奇观」的 Civilization 隐喻来评论这种一体化 Mission Control"
-        },
-        "relevance": "OpenClaw、Agent 编排、系统建设",
-        "score": 0.82,
-        "engagement": {
-          "likes": 50,
-          "replies": 12,
-          "retweets": 2,
-          "views": 26586
-        },
-        "comment_type": "add_insight",
-        "synced_at": "2026-02-22T21:05:37.551475+00:00",
-        "js_take": {
-          "en-US": "Beginners chase wonders. Pros build systems. A Mission Control isn't a feature—it's infrastructure that compounds.",
-          "zh-CN": "新手追奇观，高手建系统。Mission Control 不是功能，而是能产生复利的基础设施。"
         }
       }
     ]
