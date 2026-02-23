@@ -156,6 +156,35 @@ function validateI18n() {
     return warnings;
 }
 
+// ── Pulse data sanitization ──────────────────────────────────────────
+
+const PULSE_INTERNAL_FIELDS = ['suggested_angle'];
+
+function stripInternalFields(item) {
+    const clean = { ...item };
+    for (const f of PULSE_INTERNAL_FIELDS) delete clean[f];
+    return clean;
+}
+
+function sanitizePulseDataInDocs() {
+    const paths = [
+        join(DOCS, 'pulse', 'data', 'items.json'),
+        join(DOCS, 'pulse', 'data', 'pulse_stats.json'),
+    ];
+
+    for (const p of paths) {
+        if (!existsSync(p)) continue;
+        const raw = JSON.parse(readFileSync(p, 'utf-8'));
+
+        if (Array.isArray(raw)) {
+            writeFileSync(p, JSON.stringify(raw.map(stripInternalFields), null, 2), 'utf-8');
+        } else if (raw.this_week?.top_items) {
+            raw.this_week.top_items = raw.this_week.top_items.map(stripInternalFields);
+            writeFileSync(p, JSON.stringify(raw, null, 2), 'utf-8');
+        }
+    }
+}
+
 // ── API layer generation ─────────────────────────────────────────────
 
 function copyMdFiles(srcDir, destDir) {
@@ -213,18 +242,21 @@ function generateApiLayer() {
     fileCount++;
     fileCount += copyMdFiles(join(SRC, 'guide', 'data'), join(apiDir, 'guide'));
 
-    // pulse/latest.json — compact stats
-    cpSync(join(SRC, 'pulse', 'data', 'pulse_stats.json'), join(apiDir, 'pulse', 'latest.json'));
+    // pulse/latest.json — compact stats (strip internal fields from top_items)
+    const statsRaw = JSON.parse(readFileSync(join(SRC, 'pulse', 'data', 'pulse_stats.json'), 'utf-8'));
+    if (statsRaw.this_week?.top_items) {
+        statsRaw.this_week.top_items = statsRaw.this_week.top_items.map(stripInternalFields);
+    }
+    writeFileSync(join(apiDir, 'pulse', 'latest.json'), JSON.stringify(statsRaw, null, 2), 'utf-8');
     fileCount++;
 
-    // pulse/week.json — this week's items only (controls payload size)
+    // pulse/week.json — this week's items only (strip internal fields)
     const allItems = JSON.parse(readFileSync(join(SRC, 'pulse', 'data', 'items.json'), 'utf-8'));
     const now = new Date();
     const weekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
-    const weekItems = allItems.filter(item => {
-        const d = new Date(item.date);
-        return d >= weekAgo;
-    });
+    const weekItems = allItems
+        .filter(item => new Date(item.date) >= weekAgo)
+        .map(stripInternalFields);
     writeFileSync(join(apiDir, 'pulse', 'week.json'), JSON.stringify(weekItems, null, 2), 'utf-8');
     fileCount++;
 
@@ -264,69 +296,77 @@ export function build(options = {}) {
 
     // Step 1: Clean (maxRetries handles IDE file-watcher race conditions)
     if (clean && !dryRun) {
-        toStderr('[1/6] Cleaning docs/ ...');
+        toStderr('[1/7] Cleaning docs/ ...');
         if (existsSync(DOCS)) {
             rmSync(DOCS, { recursive: true, force: true, maxRetries: 3, retryDelay: 100 });
         }
         mkdirSync(DOCS, { recursive: true });
     } else if (dryRun) {
-        toStderr('[1/6] Cleaning docs/ ... (skipped: dry-run)');
+        toStderr('[1/7] Cleaning docs/ ... (skipped: dry-run)');
     } else {
-        toStderr('[1/6] Cleaning docs/ ... (skipped: --no-clean)');
+        toStderr('[1/7] Cleaning docs/ ... (skipped: --no-clean)');
     }
 
     // Step 2: Copy
     let filesCopied = 0;
     if (!dryRun) {
-        toStderr('[2/6] Copying src/ → docs/ ...');
+        toStderr('[2/7] Copying src/ → docs/ ...');
         if (!existsSync(DOCS)) {
             mkdirSync(DOCS, { recursive: true });
         }
         cpSync(SRC, DOCS, { recursive: true });
         filesCopied = countFiles(DOCS);
     } else {
-        toStderr('[2/6] Copying src/ → docs/ ... (skipped: dry-run)');
+        toStderr('[2/7] Copying src/ → docs/ ... (skipped: dry-run)');
         filesCopied = countFiles(SRC);
     }
 
     // Step 3: .nojekyll
     if (!dryRun) {
-        toStderr('[3/6] Creating .nojekyll ...');
+        toStderr('[3/7] Creating .nojekyll ...');
         writeFileSync(join(DOCS, '.nojekyll'), '');
     } else {
-        toStderr('[3/6] Creating .nojekyll ... (skipped: dry-run)');
+        toStderr('[3/7] Creating .nojekyll ... (skipped: dry-run)');
     }
 
     // Step 4: GA injection
     let gaInjected = 0;
     if (!skipGa && !dryRun) {
-        toStderr('[4/6] Injecting Google Analytics ...');
+        toStderr('[4/7] Injecting Google Analytics ...');
         gaInjected = injectGA(DOCS);
         toStderr(`     Injected into ${gaInjected} HTML file(s)`);
     } else {
-        toStderr(`[4/6] Injecting Google Analytics ... (skipped${skipGa ? ': --skip-ga' : ': dry-run'})`);
+        toStderr(`[4/7] Injecting Google Analytics ... (skipped${skipGa ? ': --skip-ga' : ': dry-run'})`);
     }
 
     // Step 5: i18n validation
     let i18nWarnings = [];
     if (!skipI18n) {
-        toStderr('[5/6] Validating i18n translations ...');
+        toStderr('[5/7] Validating i18n translations ...');
         i18nWarnings = validateI18n();
         for (const w of i18nWarnings) {
             toStderr(`  ⚠️  Missing "${w.locale}" in ${w.file} → ${w.field}`);
         }
     } else {
-        toStderr('[5/6] Validating i18n translations ... (skipped: --skip-i18n)');
+        toStderr('[5/7] Validating i18n translations ... (skipped: --skip-i18n)');
     }
 
-    // Step 6: Generate API layer for agent skills
+    // Step 6: Sanitize pulse data (strip internal fields from public output)
+    if (!dryRun) {
+        toStderr('[6/7] Sanitizing pulse data ...');
+        sanitizePulseDataInDocs();
+    } else {
+        toStderr('[6/7] Sanitizing pulse data ... (skipped: dry-run)');
+    }
+
+    // Step 7: Generate API layer for agent skills
     let apiFiles = 0;
     if (!dryRun) {
-        toStderr('[6/6] Generating API layer (api/v1/) ...');
+        toStderr('[7/7] Generating API layer (api/v1/) ...');
         apiFiles = generateApiLayer();
         toStderr(`      Generated ${apiFiles} file(s) in api/v1/`);
     } else {
-        toStderr('[6/6] Generating API layer ... (skipped: dry-run)');
+        toStderr('[7/7] Generating API layer ... (skipped: dry-run)');
     }
 
     // Summary
