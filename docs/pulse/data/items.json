@@ -387,6 +387,36 @@
     }
   },
   {
+    "id": "2025383295194988966",
+    "date": "2026-02-23",
+    "author": "@akokoi1",
+    "author_url": "https://x.com/akokoi1",
+    "tweet_url": "https://x.com/akokoi1/status/2025383295194988966",
+    "title": {
+      "en-US": "Easiest way to make money with OpenClaw: custom TG bots, basic e-commerce bot costs ¥800-900, can build dozens with Codex for $10/month",
+      "zh-CN": "OpenClaw 赚钱路子：定制 TG 机器人月入过万"
+    },
+    "summary": {
+      "en-US": "OpenClaw 商业化、Agent 套利、人群分化",
+      "zh-CN": "OpenClaw 商业化，Agent 套利，人群分化"
+    },
+    "relevance": "OpenClaw 商业化、Agent 套利、人群分化",
+    "score": 0.85,
+    "engagement": {
+      "likes": 827,
+      "replies": 32,
+      "retweets": 118,
+      "views": 111345
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：工具普及后，真正的套利机会在「翻译」层——把技术翻译成商业",
+    "synced_at": "2026-02-23T05:11:09.103342+00:00",
+    "js_take": {
+      "en-US": "The arbitrage isn't in building bots. It's in translating technical capability into business value. Tools democratize; judgment differentiates.",
+      "zh-CN": "套利不在做机器人，而在把技术能力翻译成商业价值。工具民主化，判断力才是差异化。"
+    }
+  },
+  {
     "id": "2025528858867593276",
     "date": "2026-02-23",
     "author": "@carlosazaustre",
@@ -472,6 +502,36 @@
     "js_take": {
       "en-US": "The surface world (video tools) is becoming just an output layer for the inner world (Agent). We're not using apps anymore—we're delegating to agents that render to any format.",
       "zh-CN": "表世界（视频工具）正在变成里世界（Agent）的输出层。我们不再使用 App，而是委托给可以渲染成任意格式的 Agent。"
+    }
+  },
+  {
+    "id": "2025722334087447016",
+    "date": "2026-02-23",
+    "author": "@howie_serious",
+    "author_url": "https://x.com/howie_serious",
+    "tweet_url": "https://x.com/howie_serious/status/2025722334087447016",
+    "title": {
+      "en-US": "Only tiny fraction pay $20+/month for top AI, even fewer use AI for coding, those embracing change are always minority",
+      "zh-CN": "真正为顶级 AI 每月支付 20 美元以上的人只有图中黄色方块那么点，用 AI 编程的人更少，积极主动拥抱变革的人永远是少数"
+    },
+    "summary": {
+      "en-US": "AI 采用率、人群分化、长期主义",
+      "zh-CN": "完美体现「人群快速分化」洞察——DeepSeek 狂欢 vs OpenClaw 懵 B，真正用起来的人不是普通人"
+    },
+    "relevance": "AI 采用率、人群分化、长期主义",
+    "score": 0.83,
+    "engagement": {
+      "likes": 72,
+      "replies": 18,
+      "retweets": 17,
+      "views": 19953
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「人群分化」评论：不是 AI 差距，是人的差距；第一时间能玩起来的都不是「普通人」",
+    "synced_at": "2026-02-23T05:11:09.103346+00:00",
+    "js_take": {
+      "en-US": "DeepSeek went viral. OpenClaw didn't. Same technology, different crowds. The gap isn't technical—it's human. Early adopters aren't normal, and that's the point.",
+      "zh-CN": "DeepSeek 爆火了，OpenClaw 没有。同样的技术，不同的人群。差距不在技术——而在人。早期采用者不是普通人，这才是关键。"
     }
   },
   {
@@ -653,6 +713,66 @@
     }
   },
   {
+    "id": "2025751089706893670",
+    "date": "2026-02-23",
+    "author": "@jfdelarosa",
+    "author_url": "https://x.com/jfdelarosa",
+    "tweet_url": "https://x.com/jfdelarosa/status/2025751089706893670",
+    "title": {
+      "en-US": "Installed OpenClaw on unused MacBook Air M1, named it Sheldon, gave it browser control, doing autonomous QA",
+      "zh-CN": "在一台闲置的 MacBook Air M1 上安装了 OpenClaw，给它取名 Sheldon，赋予它自主控制浏览器权限，让它做 QA 测试"
+    },
+    "summary": {
+      "en-US": "OpenClaw、旧设备利用、自主 QA",
+      "zh-CN": "展示用旧设备部署 OpenClaw 做实用工作，体现「AI 的上限就是使用 AI 的人」"
+    },
+    "relevance": "OpenClaw、旧设备利用、自主 QA",
+    "score": 0.82,
+    "engagement": {
+      "likes": 280,
+      "replies": 11,
+      "retweets": 15,
+      "views": 20264
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：设备不重要，重要的是把 Agent 用到正确的地方",
+    "synced_at": "2026-02-23T05:11:09.103340+00:00",
+    "js_take": {
+      "en-US": "Hardware is just substrate. The ceiling isn't your M1—it's your imagination about what to automate. Sheldon's not special; the system you built around him is.",
+      "zh-CN": "硬件只是基底。上限不是 M1——而是你对自动化的想象力。Sheldon 没什么特别的；围绕它建立的系统才是。"
+    }
+  },
+  {
+    "id": "2025775866710552677",
+    "date": "2026-02-23",
+    "author": "@AntoineRSX",
+    "author_url": "https://x.com/AntoineRSX",
+    "tweet_url": "https://x.com/AntoineRSX/status/2025775866710552677",
+    "title": {
+      "en-US": "Here are 13 (real) use cases with OpenClaw",
+      "zh-CN": "这里有 13 个（真实的）OpenClaw 使用场景"
+    },
+    "summary": {
+      "en-US": "OpenClaw 使用场景、建系统、实践分享",
+      "zh-CN": "真实使用场景展示，可以用「建系统 vs 造奇观」框架区分真正的生产用途和 demo"
+    },
+    "relevance": "OpenClaw 使用场景、建系统、实践分享",
+    "score": 0.81,
+    "engagement": {
+      "likes": 16,
+      "replies": 2,
+      "retweets": 0,
+      "views": 1047
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「建系统」思维评论：真正的使用场景是系统化的，不是一次性的技术奇观",
+    "synced_at": "2026-02-23T05:11:09.103335+00:00",
+    "js_take": {
+      "en-US": "Real use cases reveal systems, not stunts. Beginners chase viral demos; pros build workflows that compound. The difference between a toy and infrastructure is whether it survives the 100th iteration.",
+      "zh-CN": "真正的使用场景揭示的是系统，不是噱头。新手追病毒式 Demo，高手建复利工作流。玩具和基础设施的区别在于能否挺过第 100 次迭代。"
+    }
+  },
+  {
     "id": "2025588354918863297",
     "date": "2026-02-23",
     "author": "@meta_alchemist",
@@ -798,6 +918,66 @@
     "js_take": {
       "en-US": "Exactly. The best security is wu wei—systems that tell you what's wrong without you asking. Prevention > detection > reaction.",
       "zh-CN": "没错。最好的安全是无为——系统在你没问之前就告诉你哪里出了问题。预防 > 检测 > 反应。"
+    }
+  },
+  {
+    "id": "2025768014113562628",
+    "date": "2026-02-23",
+    "author": "@BoWang87",
+    "author_url": "https://x.com/BoWang87",
+    "tweet_url": "https://x.com/BoWang87/status/2025768014113562628",
+    "title": {
+      "en-US": "my OpenClaw agents after I go to bed. HEARTBEAT_OK",
+      "zh-CN": "我睡觉后我的 OpenClaw agent 的状态：HEARTBEAT_OK"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Agent 自主运行、无为而治",
+      "zh-CN": "幽默地展示 Agent 夜间自主运行的状态，完美体现「无为而治」——搭好系统，让它自己跑"
+    },
+    "relevance": "OpenClaw、Agent 自主运行、无为而治",
+    "score": 0.8,
+    "engagement": {
+      "likes": 10,
+      "replies": 1,
+      "retweets": 1,
+      "views": 1108
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "用「无为而治」评论：最高级的自动化是搭好系统后去睡觉，让 Agent 自己 HEARTBEAT",
+    "synced_at": "2026-02-23T05:11:09.103330+00:00",
+    "js_take": {
+      "en-US": "Wu wei in practice. Build the system, set the heartbeat, go to sleep. The highest form of automation is trusting your agents to handle the night.",
+      "zh-CN": "无为的实践。搭好系统，设好心跳，去睡觉。最高级的自动化是相信你的 Agent 能搞定夜晚。"
+    }
+  },
+  {
+    "id": "2025488507570122828",
+    "date": "2026-02-23",
+    "author": "@gkisokay",
+    "author_url": "https://x.com/gkisokay",
+    "tweet_url": "https://x.com/gkisokay/status/2025488507570122828",
+    "title": {
+      "en-US": "OpenClaw economy noise becoming a problem, focusing on agents that actually earn their keep",
+      "zh-CN": "OpenClaw 经济中的噪音正在成为问题，专注于那些真正能养活自己的 Agent"
+    },
+    "summary": {
+      "en-US": "OpenClaw 经济、Agent 价值、建系统",
+      "zh-CN": "触及「不造奇观，建系统」核心——区分 demo 和真正产生经济价值的系统"
+    },
+    "relevance": "OpenClaw 经济、Agent 价值、建系统",
+    "score": 0.8,
+    "engagement": {
+      "likes": 75,
+      "replies": 25,
+      "retweets": 3,
+      "views": 6074
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「建系统 vs 造奇观」评论：能赚钱的 Agent 才是系统，发推炫的 Agent 多是奇观",
+    "synced_at": "2026-02-23T05:11:09.103344+00:00",
+    "js_take": {
+      "en-US": "Noise vs signal. Spectacle vs system. The agents that survive aren't the loudest—they're the ones generating utility while everyone else tweets about potential.",
+      "zh-CN": "噪音 vs 信号。奇观 vs 系统。存活下来的 Agent 不是嗓门最大的——而是当其他人还在发推谈潜力时，已经在创造实用价值的那些。"
     }
   },
   {
@@ -983,6 +1163,32 @@
     "synced_at": "2026-02-23T04:06:32.339814+00:00"
   },
   {
+    "id": "2025584511850090755",
+    "date": "2026-02-23",
+    "author": "@imaxichuhai",
+    "author_url": "https://x.com/imaxichuhai",
+    "tweet_url": "https://x.com/imaxichuhai/status/2025584511850090755",
+    "title": {
+      "en-US": "OpenClaw use case collection, 30+ scenarios from content creation to daily office work, deployment is just the first step",
+      "zh-CN": "OpenClaw 开源案例集合，收集了 30 多个使用场景，从自媒体创作到日常办公，部署只是第一步，怎么用才是关键"
+    },
+    "summary": {
+      "en-US": "OpenClaw 使用场景、实践分享、建系统",
+      "zh-CN": "强调「部署只是第一步」，可以用「建系统」思维评论真正价值在于持续使用而非安装"
+    },
+    "relevance": "OpenClaw 使用场景、实践分享、建系统",
+    "score": 0.78,
+    "engagement": {
+      "likes": 159,
+      "replies": 3,
+      "retweets": 37,
+      "views": 28430
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「建系统」评论：安装 OpenClaw 是开始，不是结束；真正的价值在 100 天后的工作流",
+    "synced_at": "2026-02-23T05:11:09.103348+00:00"
+  },
+  {
     "id": "2025584775692730590",
     "date": "2026-02-23",
     "author": "@_avdept",
@@ -1111,6 +1317,32 @@
     "comment_type": "add_insight",
     "suggested_angle": "用「势」判断：Agent 框架正在按场景分层演化，轻量/重型/专用各有其位",
     "synced_at": "2026-02-23T01:05:45.491931+00:00"
+  },
+  {
+    "id": "2025742047957971352",
+    "date": "2026-02-23",
+    "author": "@mamagnus00",
+    "author_url": "https://x.com/mamagnus00",
+    "tweet_url": "https://x.com/mamagnus00/status/2025742047957971352",
+    "title": {
+      "en-US": "I love Ironclaw - agent first CRM. How to share with team so not on localhost, best way to sync with db?",
+      "zh-CN": "喜欢 Ironclaw（Agent 优先的 CRM），询问如何与团队共享（不是 localhost）以及同步数据库的最佳方式"
+    },
+    "summary": {
+      "en-US": "Ironclaw（OpenClaw 生态）、Agent 工具、部署架构",
+      "zh-CN": "展示 OpenClaw 生态分化（Ironclaw），可以用 Jarvis 定律评论 Agent 工具的演化"
+    },
+    "relevance": "Ironclaw（OpenClaw 生态）、Agent 工具、部署架构",
+    "score": 0.76,
+    "engagement": {
+      "likes": 44,
+      "replies": 7,
+      "retweets": 1,
+      "views": 4962
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用 Jarvis 定律评论：Agent 优先的工具正在分化，CRM 只是开始，里世界的工具栈正在形成",
+    "synced_at": "2026-02-23T05:11:09.103338+00:00"
   },
   {
     "id": "2025648193502085215",
@@ -5259,225 +5491,5 @@
       "en-US": "Smart optimization. But the real question: what's your time worth? Local inference saves tokens, but costs engineering time. Civilization players know—don't chase wonders, build compound systems.",
       "zh-CN": "聪明的优化。但真正的问题是：你的时间值多少钱？本地推理省下了token，却消耗工程时间。Civilization玩家都懂——别追奇观，建复利系统。"
     }
-  },
-  {
-    "id": "2025092428961906932",
-    "date": "2026-02-21",
-    "author": "@huangyun_122",
-    "author_url": "https://x.com/huangyun_122",
-    "tweet_url": "https://x.com/huangyun_122/status/2025092428961906932",
-    "title": {
-      "en-US": "OpenClaw 文章：如何给 Agent 配不同模型，建多 Agent 团战",
-      "zh-CN": "OpenClaw 实战文章：多模型配置 + 多 Agent 协作，一人公司雏形"
-    },
-    "summary": {
-      "en-US": "OpenClaw 团队管理 + 中文优质内容",
-      "zh-CN": "中文圈的 OpenClaw 实战经验，契合系统搭建思维"
-    },
-    "relevance": "OpenClaw 团队管理 + 中文优质内容",
-    "score": 0.82,
-    "engagement": {
-      "likes": 12,
-      "retweets": 1,
-      "replies": 1
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "不争之争：5K 助理 + 5W 大神 + 按需外包，顺势而为的系统设计",
-    "synced_at": "2026-02-21T07:02:26.669871+00:00",
-    "js_take": {
-      "en-US": "Exactly. The Taoist way: don't force uniform capability, let the flow decide. Cheap assistants for routine, expensive experts for edge cases, contractors for spikes. The system self-organizes.",
-      "zh-CN": "正是如此。信道之道：不争之争，顺势而为。常规事务用廉价助理，边缘难题用昂贵专家，突发高峰用外包团队，系统自然生长，无为而治。"
-    }
-  },
-  {
-    "id": "2024978839487545490",
-    "date": "2026-02-21",
-    "author": "@velvet_shark",
-    "author_url": "https://x.com/velvet_shark",
-    "tweet_url": "https://x.com/velvet_shark/status/2024978839487545490",
-    "title": {
-      "en-US": "Used OpenClaw 50+ days through ClawdBot, MoltBot, OpenAI partnership",
-      "zh-CN": "Used OpenClaw 50+ days through ClawdBot, MoltBot, OpenAI partnership"
-    },
-    "summary": {
-      "en-US": "OpenClaw长期用户 + 生态演进 + 深度经验",
-      "zh-CN": "深度OpenClaw用户分享长期经验，展示生态演进"
-    },
-    "relevance": "OpenClaw长期用户 + 生态演进 + 深度经验",
-    "score": 0.82,
-    "engagement": {
-      "likes": 26,
-      "retweets": 6,
-      "replies": 5
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "50天不是坚持，是系统——里世界的agent不会burnout，这才是真正的复利",
-    "synced_at": "2026-02-21T11:05:46.441156+00:00",
-    "js_take": {
-      "en-US": "50 days isn't persistence—it's the system working. Agents in the inner world don't burn out; they compound. That's the real moat.",
-      "zh-CN": "50天不是坚持，而是系统在运转。里世界的Agent不会 burnout，它们会复利累积。这才是真正的护城河。"
-    }
-  },
-  {
-    "id": "2025101121539506421",
-    "date": "2026-02-21",
-    "author": "@yadong_xie",
-    "author_url": "https://x.com/yadong_xie",
-    "tweet_url": "https://x.com/yadong_xie/status/2025101121539506421",
-    "title": {
-      "en-US": "OpenClaw monorepo critique: 50w lines vs 3w lines for 95% functionality",
-      "zh-CN": "批评OpenClaw未使用monorepo，用monorepo+Claude agent重写后3万行代码实现95%功能，而原版50万行"
-    },
-    "summary": {
-      "en-US": "OpenClaw架构讨论 + 代码工程实践",
-      "zh-CN": "高热度技术讨论，JS可分享系统架构视角——代码行数不是衡量标准，生态系统的惯性才是真相"
-    },
-    "relevance": "OpenClaw架构讨论 + 代码工程实践",
-    "score": 0.82,
-    "engagement": {
-      "likes": 49,
-      "replies": 6,
-      "retweets": 3
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "从\"造奇观vs建系统\"角度：50w行是生态系统的惯性，3w行是精简的理想——但里世界的进化不靠推翻重来，靠渐进演化",
-    "synced_at": "2026-02-21T13:04:15.348261+00:00"
-  },
-  {
-    "id": "2025090061667377442",
-    "date": "2026-02-21",
-    "author": "@KanikaBK",
-    "author_url": "https://x.com/KanikaBK",
-    "tweet_url": "https://x.com/KanikaBK/status/2025090061667377442",
-    "title": {
-      "en-US": "Greg Isenberg: $1K Upwork gigs to $500K/year with OpenClaw",
-      "zh-CN": "Greg Isenberg分享如何用OpenClaw把1000美元Upwork单子变成年入50万美元"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业化 + Agency模式 + 高影响力人物",
-      "zh-CN": "高互动OpenClaw商业案例，可补充\"势\"的观点——不是工具赋能，是系统复利"
-    },
-    "relevance": "OpenClaw商业化 + Agency模式 + 高影响力人物",
-    "score": 0.81,
-    "engagement": {
-      "likes": 395,
-      "replies": 12,
-      "retweets": 42
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "从\" productivity hack\"到\"数字员工\"是表/里世界的跃迁——真正的价值在系统，不在单次交付",
-    "synced_at": "2026-02-21T14:01:55.503210+00:00",
-    "js_take": {
-      "en-US": "From productivity hack to digital workforce—that's the surface-to-inner world migration. The $500K isn't from doing more gigs; it's from building a system that does them without you.",
-      "zh-CN": "从生产力技巧到数字劳动力——这是表世界向里世界的迁徙。50万美元不是靠接更多单子，而是靠建一个无需你参与就能运转的系统。"
-    }
-  },
-  {
-    "id": "2025115406822727939",
-    "date": "2026-02-21",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2025115406822727939",
-    "title": {
-      "en-US": "OpenClaw hype dying - reality check on cost, hassle, risk",
-      "zh-CN": "OpenClaw 炒作正在消退，现实检查：成本、麻烦、风险"
-    },
-    "summary": {
-      "en-US": "OpenClaw 反思 + 冷思考 + 中文KOL",
-      "zh-CN": "理性的OpenClaw使用反思，可补充系统建设的长期视角"
-    },
-    "relevance": "OpenClaw 反思 + 冷思考 + 中文KOL",
-    "score": 0.8,
-    "engagement": {
-      "likes": 8,
-      "retweets": 1,
-      "replies": 4
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "不争之争：热度退潮时，真正的系统建设者才会留下，建系统而非追奇观",
-    "synced_at": "2026-02-21T09:02:02.083363+00:00",
-    "js_take": {
-      "en-US": "Hype cycles reveal who was building systems and who was chasing spectacles. The ones left when the noise dies are the ones who understood: momentum beats excitement, systems beat features.",
-      "zh-CN": "炒作周期会揭穿谁是建系统的，谁是追奇观的。当喧嚣散去，留下的那些人都懂得一个道理：势胜于热闹，系统胜于功能。"
-    }
-  },
-  {
-    "id": "2024866754993012820",
-    "date": "2026-02-21",
-    "author": "@wangray",
-    "author_url": "https://x.com/wangray",
-    "tweet_url": "https://x.com/wangray/status/2024866754993012820",
-    "title": {
-      "en-US": "OpenClaw agent architecture: opus for SOP, sonnet for subagents, haiku for cron",
-      "zh-CN": "分享 OpenClaw Agent 架构经验：Opus 搭建 SOP，Sonnet 给 Subagent，Haiku/MiniMax 跑定时任务"
-    },
-    "summary": {
-      "en-US": "OpenClaw 架构设计 + 模型选型 + 中文KOL",
-      "zh-CN": "中文圈的 OpenClaw 工程实践分享，可补充分层系统设计的洞察"
-    },
-    "relevance": "OpenClaw 架构设计 + 模型选型 + 中文KOL",
-    "score": 0.8,
-    "engagement": {
-      "likes": 44,
-      "retweets": 2,
-      "replies": 3
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "分层让系统顺势而为——不同任务配不同势能的模型，这是建系统的智慧",
-    "synced_at": "2026-02-21T10:03:40.217382+00:00",
-    "js_take": {
-      "en-US": "Different tasks carry different momentum—match the model to the motion. Opus for the heavy lifts, haiku for the habits. Build the system, then let it flow.",
-      "zh-CN": "Different tasks carry different momentum—match the model to the motion. Opus for the heavy lifts, haiku for the habits. Build the system, then let it flow."
-    }
-  },
-  {
-    "id": "2024934341571403826",
-    "date": "2026-02-21",
-    "author": "@0xAA_Science",
-    "author_url": "https://x.com/0xAA_Science",
-    "tweet_url": "https://x.com/0xAA_Science/status/2024934341571403826",
-    "title": {
-      "en-US": "Vibe Coding Day 3: 180k+ skills aggregated from platforms",
-      "zh-CN": "Vibe Coding Day 3: 180k+ skills aggregated from platforms"
-    },
-    "summary": {
-      "en-US": "OpenClaw Skill生态 + 数据分析 + 开源聚合",
-      "zh-CN": "18万+ skill数据聚合，展示技能生态系统的规模"
-    },
-    "relevance": "OpenClaw Skill生态 + 数据分析 + 开源聚合",
-    "score": 0.8,
-    "engagement": {
-      "likes": 73,
-      "retweets": 16,
-      "replies": 10
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "18万skill不是数量，是里世界的知识图谱——分布式技能就是分布式智能",
-    "synced_at": "2026-02-21T11:05:46.441158+00:00"
-  },
-  {
-    "id": "2024982630626984296",
-    "date": "2026-02-21",
-    "author": "@TheTuringPost",
-    "author_url": "https://x.com/TheTuringPost",
-    "tweet_url": "https://x.com/TheTuringPost/status/2024982630626984296",
-    "title": {
-      "en-US": "OpenClaw architectural breakdown",
-      "zh-CN": "Turing Post分享OpenClaw完整架构解析，包括Gateway、Scheduled reasoning等。"
-    },
-    "summary": {
-      "en-US": "OpenClaw架构、技术深度解析",
-      "zh-CN": "展示OpenClaw的架构设计细节，体现技术层面的深入理解。"
-    },
-    "relevance": "OpenClaw架构、技术深度解析",
-    "score": 0.78,
-    "engagement": {
-      "likes": 10,
-      "replies": 1,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Architecture as foundation. When structure is clear, capability becomes predictable.",
-    "synced_at": "2026-02-21T02:02:41.359595+00:00"
   }
 ]
