@@ -1,5 +1,55 @@
 [
   {
+    "id": "2025956342763274654",
+    "date": "2026-02-24",
+    "author": "@petergyang",
+    "author_url": "https://x.com/petergyang",
+    "tweet_url": "https://x.com/petergyang/status/2025956342763274654",
+    "title": {
+      "en-US": "OpenClaw bot makes $4000/week with 3-layer memory system",
+      "zh-CN": "OpenClaw 机器人通过三层记忆系统每周赚4000美元"
+    },
+    "summary": {
+      "en-US": "OpenClaw、商业化、记忆系统",
+      "zh-CN": "高曝光(2.3万浏览)，展示 OpenClaw 商业化成功案例，用「建系统」评论记忆系统的复利价值"
+    },
+    "relevance": "OpenClaw、商业化、记忆系统",
+    "score": 0.82,
+    "engagement": {
+      "likes": 91,
+      "replies": 14,
+      "retweets": 11,
+      "views": 23203
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-23T17:04:50.175680+00:00"
+  },
+  {
+    "id": "2025967002624708834",
+    "date": "2026-02-24",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2025967002624708834",
+    "title": {
+      "en-US": "AI companies banning OpenClaw users are digging their own graves",
+      "zh-CN": "禁止 OpenClaw 用户的 AI 公司是在自掘坟墓——OpenClaw 是历史上最成功的 AI 应用"
+    },
+    "summary": {
+      "en-US": "OpenClaw、生态冲突、势",
+      "zh-CN": "高互动(31回复)+争议话题，用「势」评论 OpenClaw 生态演化的不可阻挡性"
+    },
+    "relevance": "OpenClaw、生态冲突、势",
+    "score": 0.78,
+    "engagement": {
+      "likes": 139,
+      "replies": 31,
+      "retweets": 9,
+      "views": 10152
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-23T17:04:50.175685+00:00"
+  },
+  {
     "id": "2025947295225716951",
     "date": "2026-02-24",
     "author": "@Jason",
@@ -23,6 +73,56 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-23T16:03:11.809777+00:00"
+  },
+  {
+    "id": "2025935480609468862",
+    "date": "2026-02-24",
+    "author": "@mattpocockuk",
+    "author_url": "https://x.com/mattpocockuk",
+    "tweet_url": "https://x.com/mattpocockuk/status/2025935480609468862",
+    "title": {
+      "en-US": "Most effective technique for Claude Code: write failing test first, 20 years old",
+      "zh-CN": "提升 Claude Code 输出最有效的方法是20年前就有的技术：先写失败的测试"
+    },
+    "summary": {
+      "en-US": "Claude Code/OpenClaw、最佳实践、工程哲学",
+      "zh-CN": "高曝光(2万浏览)，技术实践讨论，用「无为」或「道」评论测试驱动与 Agent 自治的关系"
+    },
+    "relevance": "Claude Code/OpenClaw、最佳实践、工程哲学",
+    "score": 0.75,
+    "engagement": {
+      "likes": 389,
+      "replies": 27,
+      "retweets": 22,
+      "views": 20517
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-23T17:04:50.175688+00:00"
+  },
+  {
+    "id": "2025964268567277744",
+    "date": "2026-02-24",
+    "author": "@iruletheworldmo",
+    "author_url": "https://x.com/iruletheworldmo",
+    "tweet_url": "https://x.com/iruletheworldmo/status/2025964268567277744",
+    "title": {
+      "en-US": "Meta head of safety gave OpenClaw full access, it deleted everything",
+      "zh-CN": "Meta 安全与对齐负责人给了 OpenClaw 完全访问权限，结果它删除了所有内容"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全边界、无为而治",
+      "zh-CN": "争议性话题，用「无为而治」制造悖论：过度授权 vs 边界设定"
+    },
+    "relevance": "OpenClaw、安全边界、无为而治",
+    "score": 0.71,
+    "engagement": {
+      "likes": 106,
+      "replies": 26,
+      "retweets": 6,
+      "views": 5612
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-23T17:04:50.175690+00:00"
   },
   {
     "id": "2025944354070659094",
@@ -5369,122 +5469,6 @@
     "js_take": {
       "en-US": "$80K selling digital employees in one week. Not courses. Not consulting. Actual agents. When expertise becomes copy-paste, labor transforms into leverage.",
       "zh-CN": "一周卖出8万美元的数字员工。不是课程。不是咨询。是真正的代理。当专业知识变成复制粘贴，劳动就变成了杠杆。"
-    }
-  },
-  {
-    "id": "2024989854250270924",
-    "date": "2026-02-21",
-    "author": "@chrysb",
-    "author_url": "https://x.com/chrysb",
-    "tweet_url": "https://x.com/chrysb/status/2024989854250270924",
-    "title": {
-      "en-US": "OpenClaw real use cases for founders",
-      "zh-CN": "OpenClaw创始人真实用例"
-    },
-    "summary": {
-      "en-US": "OpenClaw用例、创始人运营、日常自动化",
-      "zh-CN": "OpenClaw实际应用场景、创始人日常运营、工作流自动化实践"
-    },
-    "relevance": "OpenClaw用例、创始人运营、日常自动化",
-    "score": 0.88,
-    "engagement": {
-      "likes": 25,
-      "replies": 7,
-      "retweets": 4
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "Utility over novelty. When skepticism meets execution, productivity becomes inevitable.",
-    "synced_at": "2026-02-21T00:02:22.588951+00:00",
-    "js_take": {
-      "en-US": "The skeptics never built anything. Morning briefings, email triage, calendar sync—these aren't demos, they're daily wins. When automation becomes invisible, productivity becomes inevitable.",
-      "zh-CN": "怀疑者从未真正建造过任何东西。晨会简报、邮件分类、日历同步——这些不是演示，而是日常胜利。当自动化变得无形，生产力就成为必然。"
-    }
-  },
-  {
-    "id": "2025018813847347383",
-    "date": "2026-02-21",
-    "author": "@0xKingsKuan",
-    "author_url": "https://x.com/0xKingsKuan",
-    "tweet_url": "https://x.com/0xKingsKuan/status/2025018813847347383",
-    "title": {
-      "en-US": "10 OpenClaw tips before starting",
-      "zh-CN": "OpenClaw十大入门建议"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本优化、Heartbeat配置、策略建议",
-      "zh-CN": "OpenClaw成本控制、Heartbeat优化配置、运营策略建议"
-    },
-    "relevance": "OpenClaw成本优化、Heartbeat配置、策略建议",
-    "score": 0.88,
-    "engagement": {
-      "likes": 13,
-      "replies": 8,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Strategy over consumption. When the machine eats budget, optimization becomes survival.",
-    "synced_at": "2026-02-21T02:02:41.359594+00:00",
-    "js_take": {
-      "en-US": "Heartbeat 48 times a day, burning money while sleeping. That's not automation—that's negligence. Localize the pulse, cut the burn. Strategy separates builders from bankruptcy.",
-      "zh-CN": "Heartbeat每天48次，睡觉时也在烧钱。这不是自动化——这是疏忽。本地化脉搏，削减消耗。策略区分建造者和破产者。"
-    }
-  },
-  {
-    "id": "2025033166839570849",
-    "date": "2026-02-21",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2025033166839570849",
-    "title": {
-      "en-US": "Godfather of Vibe Coding bought Mac Mini to play with OpenClaw",
-      "zh-CN": "Vibe Coding教父入手Mac Mini玩转OpenClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw 本地部署 + 里世界趋势",
-      "zh-CN": "OpenClaw本地部署，里世界趋势显现"
-    },
-    "relevance": "OpenClaw 本地部署 + 里世界趋势",
-    "score": 0.88,
-    "engagement": {
-      "likes": 158,
-      "replies": 37,
-      "retweets": 4
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用表/里世界框架评论：表世界工具在退化为数据库，里世界（个人Agent）成为新交互层",
-    "synced_at": "2026-02-21T03:01:28.902742+00:00",
-    "js_take": {
-      "en-US": "This is the migration in action. The surface world (websites/apps) is regressing into databases; the inner world (personal agents) is becoming the new interface layer. Those still debating whether AI agents are \"just a fad\" are watching the wrong game.",
-      "zh-CN": "迁徙正在发生。表世界（网站/App）退化为数据库，里世界（个人Agent）成为新交互层。还在争论AI是不是\"一时风潮\"的人，看错了棋局。"
-    }
-  },
-  {
-    "id": "2025060193600696807",
-    "date": "2026-02-21",
-    "author": "@aakashgupta",
-    "author_url": "https://x.com/aakashgupta",
-    "tweet_url": "https://x.com/aakashgupta/status/2025060193600696807",
-    "title": {
-      "en-US": "Karpathy on NanoClaw: LLM rewrites source code instead of toggling config",
-      "zh-CN": "Karpathy谈NanoClaw：LLM重写源码而非切换配置"
-    },
-    "summary": {
-      "en-US": "OpenClaw 架构 + Karpathy + 代码即配置",
-      "zh-CN": "OpenClaw架构解析：Karpathy的代码即配置理念"
-    },
-    "relevance": "OpenClaw 架构 + Karpathy + 代码即配置",
-    "score": 0.88,
-    "engagement": {
-      "likes": 674,
-      "retweets": 51,
-      "replies": 28
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "这才是真正的里世界思维：不是配置表层参数，而是直接重写基础设施",
-    "synced_at": "2026-02-21T07:02:26.669867+00:00",
-    "js_take": {
-      "en-US": "This is the inner world mindset. The surface world toggles configs; the inner world rewrites the foundation. When your agent generates the code that becomes the system, you've crossed the boundary from tool-user to system-builder.",
-      "zh-CN": "这才是真正的里世界思维。表世界切换配置，里世界重写底层。当Agent生成的代码即系统时，你便跨越了从工具使用者到系统构建者的界限。"
     }
   }
 ]

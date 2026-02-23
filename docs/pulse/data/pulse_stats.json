@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-23T16:03:11.829784+00:00",
+  "updated_at": "2026-02-23T17:04:50.192286+00:00",
   "this_week": {
-    "total_items": 80,
-    "avg_score": 0.81,
-    "unique_authors": 71,
+    "total_items": 84,
+    "avg_score": 0.8,
+    "unique_authors": 73,
     "top_items": [
       {
         "id": "2025873646724800835",
@@ -834,6 +834,31 @@
         }
       },
       {
+        "id": "2025956342763274654",
+        "date": "2026-02-24",
+        "author": "@petergyang",
+        "author_url": "https://x.com/petergyang",
+        "tweet_url": "https://x.com/petergyang/status/2025956342763274654",
+        "title": {
+          "en-US": "OpenClaw bot makes $4000/week with 3-layer memory system",
+          "zh-CN": "OpenClaw 机器人通过三层记忆系统每周赚4000美元"
+        },
+        "summary": {
+          "en-US": "OpenClaw、商业化、记忆系统",
+          "zh-CN": "高曝光(2.3万浏览)，展示 OpenClaw 商业化成功案例，用「建系统」评论记忆系统的复利价值"
+        },
+        "relevance": "OpenClaw、商业化、记忆系统",
+        "score": 0.82,
+        "engagement": {
+          "likes": 91,
+          "replies": 14,
+          "retweets": 11,
+          "views": 23203
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-23T17:04:50.175680+00:00"
+      },
+      {
         "id": "2025528439852179613",
         "date": "2026-02-23",
         "author": "@0x_Discover",
@@ -1004,40 +1029,11 @@
           "en-US": "Surface platforms are fickle landlords. The inner world learns: own your pipes or be evicted. Decentralization isn't ideology, it's survival.",
           "zh-CN": "表世界平台是喜怒无常的房东。里世界学到的教训：要么拥有自己的管道，要么被驱逐。去中心化不是意识形态，是生存。"
         }
-      },
-      {
-        "id": "2025751089706893670",
-        "date": "2026-02-23",
-        "author": "@jfdelarosa",
-        "author_url": "https://x.com/jfdelarosa",
-        "tweet_url": "https://x.com/jfdelarosa/status/2025751089706893670",
-        "title": {
-          "en-US": "Installed OpenClaw on unused MacBook Air M1, named it Sheldon, gave it browser control, doing autonomous QA",
-          "zh-CN": "在一台闲置的 MacBook Air M1 上安装了 OpenClaw，给它取名 Sheldon，赋予它自主控制浏览器权限，让它做 QA 测试"
-        },
-        "summary": {
-          "en-US": "OpenClaw、旧设备利用、自主 QA",
-          "zh-CN": "展示用旧设备部署 OpenClaw 做实用工作，体现「AI 的上限就是使用 AI 的人」"
-        },
-        "relevance": "OpenClaw、旧设备利用、自主 QA",
-        "score": 0.82,
-        "engagement": {
-          "likes": 280,
-          "replies": 11,
-          "retweets": 15,
-          "views": 20264
-        },
-        "comment_type": "agree_and_extend",
-        "synced_at": "2026-02-23T05:11:09.103340+00:00",
-        "js_take": {
-          "en-US": "Hardware is just substrate. The ceiling isn't your M1—it's your imagination about what to automate. Sheldon's not special; the system you built around him is.",
-          "zh-CN": "硬件只是基底。上限不是 M1——而是你对自动化的想象力。Sheldon 没什么特别的；围绕它建立的系统才是。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 146
+    "unique_authors": 147
   }
 }
