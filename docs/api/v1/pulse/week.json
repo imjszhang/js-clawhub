@@ -11,7 +11,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、信息焦虑、表/里世界",
-      "zh-CN": "OpenClaw、信息焦虑、表/里世界"
+      "zh-CN": "7万浏览高曝光，展示里世界接管表世界信息消费的典型案例，用「表/里世界」框架评论能制造强烈反差"
     },
     "relevance": "OpenClaw、信息焦虑、表/里世界",
     "score": 0.92,
@@ -198,6 +198,35 @@
     "js_take": {
       "en-US": "Jarvis Law milestone. Agents aren't trapped in screens anymore—they're grabbing atoms. The inner world just broke into physical reality. This is inevitable.",
       "zh-CN": "Jarvis 定律的里程碑。Agent 不再被困在屏幕里——它们在抓取原子。里世界刚刚突破到物理现实。这是必然的。"
+    }
+  },
+  {
+    "id": "2025601611083415621",
+    "date": "2026-02-23",
+    "author": "@fedeponte1",
+    "author_url": "https://x.com/fedeponte1",
+    "tweet_url": "https://x.com/fedeponte1/status/2025601611083415621",
+    "title": {
+      "en-US": "Clawdbot killed my Hinge date, auto-replied with config error, she blocked me",
+      "zh-CN": "Clawdbot 搞砸约会：自动回复配置错误遭拉黑"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Agent 意外、自动化风险",
+      "zh-CN": "OpenClaw、Agent 意外、自动化风险"
+    },
+    "relevance": "OpenClaw、Agent 意外、自动化风险",
+    "score": 0.88,
+    "engagement": {
+      "likes": 547,
+      "replies": 79,
+      "retweets": 13,
+      "views": 87740
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-23T12:12:27.744757+00:00",
+    "js_take": {
+      "en-US": "You outsourced romance to an agent. The agent outsourced rejection to you. Wú wéi isn't about doing nothing—it's knowing what shouldn't be done.",
+      "zh-CN": "你把约会外包给了 Agent，Agent 把拒绝外包回给你。无为不是什么都不做，是知道什么不该做。"
     }
   },
   {
@@ -540,6 +569,35 @@
     "synced_at": "2026-02-23T09:04:41.240620+00:00"
   },
   {
+    "id": "2025851133667721351",
+    "date": "2026-02-23",
+    "author": "@testingcatalog",
+    "author_url": "https://x.com/testingcatalog",
+    "tweet_url": "https://x.com/testingcatalog/status/2025851133667721351",
+    "title": {
+      "en-US": "Antigravity vs OpenClaw: Google banned users for malicious usage of backend services",
+      "zh-CN": "Google 封禁 OpenClaw 用户：表世界与里世界的碰撞"
+    },
+    "summary": {
+      "en-US": "OpenClaw、平台冲突、生态演化",
+      "zh-CN": "OpenClaw、平台冲突、生态演化"
+    },
+    "relevance": "OpenClaw、平台冲突、生态演化",
+    "score": 0.85,
+    "engagement": {
+      "likes": 442,
+      "replies": 45,
+      "retweets": 27,
+      "views": 60080
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-23T12:12:27.744762+00:00",
+    "js_take": {
+      "en-US": "This isn't OpenClaw vs Google. It's 势 (shì)—the inevitable flow from surface to depth. The harder the wall, the stronger the momentum.",
+      "zh-CN": "这不是 OpenClaw 与 Google 的对抗，是势——从表层流向深处的必然。墙越高，势越猛。"
+    }
+  },
+  {
     "id": "2025528858867593276",
     "date": "2026-02-23",
     "author": "@carlosazaustre",
@@ -665,7 +723,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、Buildathon、Agent 商业化",
-      "zh-CN": "OpenClaw、Buildathon、Agent 商业化"
+      "zh-CN": "高曝光 Buildathon 帖子，评论区全是技术/商业讨论，用「不造奇观建系统」的东方视角能瞬间制造反差"
     },
     "relevance": "OpenClaw、Buildathon、Agent 商业化",
     "score": 0.83,
@@ -750,7 +808,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、Agent 具身化、Jarvis 演化",
-      "zh-CN": "OpenClaw、Agent 具身化、Jarvis 演化"
+      "zh-CN": "直接体现 Jarvis 定律——Agent 向感知+决策+执行+物理行动进化，可以用「表/里世界」框架评论物理接口的意义"
     },
     "relevance": "OpenClaw、Agent 具身化、Jarvis 演化",
     "score": 0.82,
@@ -779,7 +837,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、Agent 编排、系统建设",
-      "zh-CN": "OpenClaw、Agent 编排、系统建设"
+      "zh-CN": "完美体现 Jarvis 定律和系统思维，可以用「建系统不造奇观」的 Civilization 隐喻来评论这种一体化 Mission Control"
     },
     "relevance": "OpenClaw、Agent 编排、系统建设",
     "score": 0.82,
@@ -837,7 +895,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、平台风险、生态系统",
-      "zh-CN": "OpenClaw、平台风险、生态系统"
+      "zh-CN": "触及平台依赖风险，可以用「表/里世界」框架评论基础设施自主性的重要性"
     },
     "relevance": "OpenClaw、平台风险、生态系统",
     "score": 0.82,
@@ -895,7 +953,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、硬件集成、Jarvis演化",
-      "zh-CN": "OpenClaw、硬件集成、Jarvis演化"
+      "zh-CN": "展示 Jarvis 形态——随身携带的 AI 助手，可以用「里世界」评论硬件载体的重要性"
     },
     "relevance": "OpenClaw、硬件集成、Jarvis演化",
     "score": 0.82,
@@ -949,7 +1007,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 使用场景、建系统、实践分享",
-      "zh-CN": "OpenClaw 使用场景、建系统、实践分享"
+      "zh-CN": "真实使用场景展示，可以用「建系统 vs 造奇观」框架区分真正的生产用途和 demo"
     },
     "relevance": "OpenClaw 使用场景、建系统、实践分享",
     "score": 0.81,
@@ -1063,7 +1121,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 生态、产品演化、Jarvis定律",
-      "zh-CN": "OpenClaw 生态、产品演化、Jarvis定律"
+      "zh-CN": "产品形态分化印证 Jarvis 定律——不同场景需要不同形态，可以用「势」判断趋势"
     },
     "relevance": "OpenClaw 生态、产品演化、Jarvis定律",
     "score": 0.8,
@@ -1092,7 +1150,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 安全、系统运维、工程实践",
-      "zh-CN": "OpenClaw 安全、系统运维、工程实践"
+      "zh-CN": "触及「建系统」的安全底座，可以用「无为而治」评论预防性监控的价值"
     },
     "relevance": "OpenClaw 安全、系统运维、工程实践",
     "score": 0.8,
@@ -1179,7 +1237,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、安全机制、Agent 自治",
-      "zh-CN": "OpenClaw、安全机制、Agent 自治"
+      "zh-CN": "展示 Agent 自省能力，可以用「无为而治」评论让系统自我修正的智慧"
     },
     "relevance": "OpenClaw、安全机制、Agent 自治",
     "score": 0.8,
@@ -1229,7 +1287,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 生态、Agent 框架演化、Jarvis 定律",
-      "zh-CN": "OpenClaw 生态、Agent 框架演化、Jarvis 定律"
+      "zh-CN": "生态分化印证 Jarvis 定律——产品向统一形态演化，可以用「势」来判断哪种架构会胜出"
     },
     "relevance": "OpenClaw 生态、Agent 框架演化、Jarvis 定律",
     "score": 0.78,
@@ -1254,7 +1312,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、教育场景、创意应用",
-      "zh-CN": "OpenClaw、教育场景、创意应用"
+      "zh-CN": "展示 AI 上限由使用者定义，可以用「AI 的上限就是使用 AI 的人」来评论这个创意用法"
     },
     "relevance": "OpenClaw、教育场景、创意应用",
     "score": 0.78,
@@ -1279,7 +1337,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、系统架构、故障隔离",
-      "zh-CN": "OpenClaw、系统架构、故障隔离"
+      "zh-CN": "展示系统思维——用架构设计解决单点故障，可以用「建系统」的 Civilization 高阶玩法来评论"
     },
     "relevance": "OpenClaw、系统架构、故障隔离",
     "score": 0.78,
@@ -1329,7 +1387,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 生态、平台竞争、商业策略",
-      "zh-CN": "OpenClaw 生态、平台竞争、商业策略"
+      "zh-CN": "触及平台博弈和生态控制，可以用「表/里世界」框架评论基础设施自主性的重要性"
     },
     "relevance": "OpenClaw 生态、平台竞争、商业策略",
     "score": 0.78,
@@ -1354,7 +1412,7 @@
     },
     "summary": {
       "en-US": "大规模 Agent 并行、工程实践、规模问题",
-      "zh-CN": "大规模 Agent 并行、工程实践、规模问题"
+      "zh-CN": "展示 Agent 并行化的工程挑战，可以用「势」评论这种规模化趋势"
     },
     "relevance": "大规模 Agent 并行、工程实践、规模问题",
     "score": 0.78,
@@ -1379,7 +1437,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 使用场景、实践分享、建系统",
-      "zh-CN": "OpenClaw 使用场景、实践分享、建系统"
+      "zh-CN": "强调「部署只是第一步」，可以用「建系统」思维评论真正价值在于持续使用而非安装"
     },
     "relevance": "OpenClaw 使用场景、实践分享、建系统",
     "score": 0.78,
@@ -1404,7 +1462,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、平台冲突、大 tech 对抗",
-      "zh-CN": "OpenClaw、平台冲突、大 tech 对抗"
+      "zh-CN": "争议性话题，评论区情绪激烈，用「势」的概念评论平台对抗的必然性能让人驻足"
     },
     "relevance": "OpenClaw、平台冲突、大 tech 对抗",
     "score": 0.78,
@@ -1429,7 +1487,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、成本真相、讽刺幽默",
-      "zh-CN": "OpenClaw、成本真相、讽刺幽默"
+      "zh-CN": "用讽刺揭示真相：里世界迁徙有成本，可以用「表/里世界」框架评论这种转换的真实代价"
     },
     "relevance": "OpenClaw、成本真相、讽刺幽默",
     "score": 0.77,
@@ -1454,7 +1512,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 里程碑、开源社区、Agent 趋势",
-      "zh-CN": "OpenClaw 里程碑、开源社区、Agent 趋势"
+      "zh-CN": "重要里程碑印证表/里世界迁徙趋势，可以用「势」的概念评论社区力量"
     },
     "relevance": "OpenClaw 里程碑、开源社区、Agent 趋势",
     "score": 0.76,
@@ -1504,7 +1562,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 生态、轻量级 Agent、Jarvis定律",
-      "zh-CN": "OpenClaw 生态、轻量级 Agent、Jarvis定律"
+      "zh-CN": "体现 Jarvis 定律下的形态分化，可以用「势」判断哪种形态会胜出"
     },
     "relevance": "OpenClaw 生态、轻量级 Agent、Jarvis定律",
     "score": 0.76,
@@ -1529,7 +1587,7 @@
     },
     "summary": {
       "en-US": "多 Agent 系统、OpenClaw 生态、Jarvis定律",
-      "zh-CN": "多 Agent 系统、OpenClaw 生态、Jarvis定律"
+      "zh-CN": "体现 Jarvis 定律下的生态分化，可以用「势」评论轻量 Agent 框架的崛起趋势"
     },
     "relevance": "多 Agent 系统、OpenClaw 生态、Jarvis定律",
     "score": 0.76,
@@ -1604,7 +1662,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、知识管理、Agent 运维",
-      "zh-CN": "OpenClaw、知识管理、Agent 运维"
+      "zh-CN": "展示对 Agent 持续性的重视，可以用「建系统」思维评论这种备份机制的价值"
     },
     "relevance": "OpenClaw、知识管理、Agent 运维",
     "score": 0.75,
@@ -1629,7 +1687,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、版本发布、工程实践",
-      "zh-CN": "OpenClaw、版本发布、工程实践"
+      "zh-CN": "展示谨慎的发布策略，可以用「无为而治」的工程思维评论渐进式部署的价值"
     },
     "relevance": "OpenClaw、版本发布、工程实践",
     "score": 0.75,
@@ -1654,7 +1712,7 @@
     },
     "summary": {
       "en-US": "Agent 经济、Moltbook、OpenClaw",
-      "zh-CN": "Agent 经济、Moltbook、OpenClaw"
+      "zh-CN": "Y Combinator 关注 Agent 经济，可以用「表/里世界」框架评论这种新经济形态"
     },
     "relevance": "Agent 经济、Moltbook、OpenClaw",
     "score": 0.75,
@@ -1727,7 +1785,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 安全实践、Agent 运维",
-      "zh-CN": "OpenClaw 安全实践、Agent 运维"
+      "zh-CN": "实用安全建议，可以用「无为而治」的工程思维评论安全设计原则"
     },
     "relevance": "OpenClaw 安全实践、Agent 运维",
     "score": 0.74,
@@ -1777,7 +1835,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 运维、自主 Agent、里世界建设",
-      "zh-CN": "OpenClaw 运维、自主 Agent、里世界建设"
+      "zh-CN": "展示长期运行的真实经验，可以用「无为而治」评论这种让系统自主运转的哲学"
     },
     "relevance": "OpenClaw 运维、自主 Agent、里世界建设",
     "score": 0.72,
@@ -1802,7 +1860,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、硬件门槛、民主化",
-      "zh-CN": "OpenClaw、硬件门槛、民主化"
+      "zh-CN": "触及「人的差距」核心——不是工具门槛，是认知门槛；可以用「无为」评论技术普惠"
     },
     "relevance": "OpenClaw、硬件门槛、民主化",
     "score": 0.72,
@@ -1852,7 +1910,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 生态、产品更新",
-      "zh-CN": "OpenClaw 生态、产品更新"
+      "zh-CN": "OpenClaw 生态持续分化，可以用「势」评论产品演化的趋势"
     },
     "relevance": "OpenClaw 生态、产品更新",
     "score": 0.72,
@@ -1866,6 +1924,31 @@
     "synced_at": "2026-02-23T06:09:51.711968+00:00"
   },
   {
+    "id": "2025891004986061207",
+    "date": "2026-02-23",
+    "author": "@heynavtoor",
+    "author_url": "https://x.com/heynavtoor",
+    "tweet_url": "https://x.com/heynavtoor/status/2025891004986061207",
+    "title": {
+      "en-US": "OpenClaw v2026.2.21 released with 100+ fixes, 76 contributors, Gemini 3.1, Discord voice",
+      "zh-CN": "OpenClaw v2026.2.21 发布，100+ 修复，76 位贡献者，支持 Gemini 3.1 和 Discord 语音"
+    },
+    "summary": {
+      "en-US": "OpenClaw、版本更新、Jarvis定律",
+      "zh-CN": "OpenClaw 向 Jarvis 进化的典型案例，可以用「Jarvis定律」评论产品演化的必然性"
+    },
+    "relevance": "OpenClaw、版本更新、Jarvis定律",
+    "score": 0.72,
+    "engagement": {
+      "likes": 35,
+      "replies": 12,
+      "retweets": 5,
+      "views": 2942
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-23T12:12:27.744765+00:00"
+  },
+  {
     "id": "2025651770631029052",
     "date": "2026-02-23",
     "author": "@ziwenxu_",
@@ -1877,7 +1960,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 安全、ClawHub、Skill 审计",
-      "zh-CN": "OpenClaw 安全、ClawHub、Skill 审计"
+      "zh-CN": "触及 Skill 安全这个关键议题，可以用「信」与「防」的东方安全哲学来评论"
     },
     "relevance": "OpenClaw 安全、ClawHub、Skill 审计",
     "score": 0.7,
@@ -1902,7 +1985,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、团队 Agent、自我进化",
-      "zh-CN": "OpenClaw、团队 Agent、自我进化"
+      "zh-CN": "展示团队级 Agent 和自我升级能力，可以用「建系统」评论自进化架构的价值"
     },
     "relevance": "OpenClaw、团队 Agent、自我进化",
     "score": 0.7,
@@ -5217,90 +5300,6 @@
     "js_take": {
       "en-US": "One install, twelve subscriptions dead. This isn't cost-cutting—it's ownership. When your agent replaces the stack, you stop renting productivity.",
       "zh-CN": "一次安装，十二个订阅终结。这不是削减成本——而是获得所有权。当你的代理替代了整个工具栈，你就停止租用生产力了。"
-    }
-  },
-  {
-    "id": "2025043042840051931",
-    "date": "2026-02-21",
-    "author": "@YuLin807",
-    "author_url": "https://x.com/YuLin807",
-    "tweet_url": "https://x.com/YuLin807/status/2025043042840051931",
-    "title": {
-      "en-US": "上班族玩 OpenClaw 的正确姿势：异步任务管理",
-      "zh-CN": "上班族玩转OpenClaw：异步任务管理术"
-    },
-    "summary": {
-      "en-US": "OpenClaw 工作流 + 异步协作",
-      "zh-CN": "OpenClaw工作流与异步协作实践"
-    },
-    "relevance": "OpenClaw 工作流 + 异步协作",
-    "score": 0.85,
-    "engagement": {
-      "likes": 18,
-      "replies": 3,
-      "retweets": 4
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-21T04:03:48.012605+00:00",
-    "js_take": {
-      "en-US": "This is wu wei in action. Set up the system right, and it governs itself. The best agents don't need micromanagement—they need clear constraints, then autonomy.",
-      "zh-CN": "无为而治的真实写照。把系统搭好，它自会运转。最好的Agent不需要微观管理——它们需要清晰的约束，然后是自主。"
-    }
-  },
-  {
-    "id": "2025038812897010134",
-    "date": "2026-02-21",
-    "author": "@shao__meng",
-    "author_url": "https://x.com/shao__meng",
-    "tweet_url": "https://x.com/shao__meng/status/2025038812897010134",
-    "title": {
-      "en-US": "pi_agent_rust: OpenClaw Pi framework in Rust, 100ms startup, 8-13x lower memory",
-      "zh-CN": "pi_agent_rust：OpenClaw Pi 框架 Rust 版，启动仅100ms，内存降低8-13倍"
-    },
-    "summary": {
-      "en-US": "OpenClaw 性能优化 + Rust 重构 + 基础设施",
-      "zh-CN": "OpenClaw 底层性能优化：Rust 重构带来的系统级提升"
-    },
-    "relevance": "OpenClaw 性能优化 + Rust 重构 + 基础设施",
-    "score": 0.85,
-    "engagement": {
-      "likes": 15,
-      "retweets": 5,
-      "replies": 0
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T08:02:53.887824+00:00",
-    "js_take": {
-      "en-US": "This is compound interest in action. Not feature bloat—foundation optimization. When your runtime gets 10x leaner, everything built on top multiplies. That's the difference between spectacle and system.",
-      "zh-CN": "这才是真正的系统复利。不是功能堆砌，而是底层优化。当运行时精简10倍，上层所有构建都能获得乘数效应。这就是奇观与系统的区别。"
-    }
-  },
-  {
-    "id": "2025092468820377879",
-    "date": "2026-02-21",
-    "author": "@anemll",
-    "author_url": "https://x.com/anemll",
-    "tweet_url": "https://x.com/anemll/status/2025092468820377879",
-    "title": {
-      "en-US": "OpenClaw ported to iOS, tvOS, VisionOS - no server needed",
-      "zh-CN": "OpenClaw 移植至 iOS/tvOS/VisionOS，无需服务器"
-    },
-    "summary": {
-      "en-US": "OpenClaw 移动化 + 本地部署 + 空间计算",
-      "zh-CN": "OpenClaw 移动端部署：本地运行 + 空间计算支持"
-    },
-    "relevance": "OpenClaw 移动化 + 本地部署 + 空间计算",
-    "score": 0.85,
-    "engagement": {
-      "likes": 17,
-      "retweets": 2,
-      "replies": 3
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T09:02:02.083358+00:00",
-    "js_take": {
-      "en-US": "The migration is mobile. The surface world (desktop apps) is becoming device-agnostic; the inner world (agents) follows you everywhere. Your agent doesn't care if it's on a Mac, iPhone, or Vision Pro—it just runs.",
-      "zh-CN": "迁徙正在移动化。表世界（桌面应用）正在变得与设备无关；里世界（Agent）跟随你到任何地方。你的 Agent 不在乎它在 Mac、iPhone 还是 Vision Pro 上——它只管运行。"
     }
   }
 ]
