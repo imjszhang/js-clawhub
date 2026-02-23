@@ -17,6 +17,7 @@
  *   build  [--skip-ga] [--skip-i18n] [--dry-run] [--no-clean]
  *   commit [--message "..."] [--all] [--scope <area>]
  *   sync   [--no-build] [--no-push] [--message "..."] [--dry-run]
+ *   pull   [--source <path>] [--type pulse|weekly|all] [--no-build] [--no-push] [--dry-run]
  *   setup-cloudflare   Set up Cloudflare DNS for GitHub Pages
  *   setup-github-pages Configure GitHub Pages custom domain + HTTPS
  *   stats
@@ -35,6 +36,7 @@ import { search } from './lib/search.js';
 import { build } from './lib/builder.js';
 import { gitStatus, gitAdd, gitAddAll, gitCommit, gitPush, gitDiffStat, generateCommitMessage } from './lib/git.js';
 import { toJson, toStderr } from './lib/formatters.js';
+import { pull } from './lib/puller.js';
 
 // ── Arg parser ───────────────────────────────────────────────────────
 
@@ -409,6 +411,71 @@ function cmdSync(flags) {
     }
 }
 
+// ── Pull command ─────────────────────────────────────────────────────
+
+function cmdPull(flags) {
+    try {
+        const dryRun = !!flags['dry-run'];
+        const noBuild = !!flags['no-build'];
+        const noPush = !!flags['no-push'];
+        const type = flags.type || 'all';
+        const source = flags.source || undefined;
+
+        const pullResult = pull({ source, type, dryRun });
+
+        if (dryRun) {
+            toJson({ ...pullResult, dryRun: true });
+            return;
+        }
+
+        const hasChanges = (pullResult.pulse?.items > 0) || (pullResult.weekly?.files > 0);
+
+        if (!hasChanges) {
+            toStderr('\nNo new data pulled.');
+            toJson({ ...pullResult, build: null, commit: null, push: null });
+            return;
+        }
+
+        const result = { ...pullResult, build: null, commit: null, push: null };
+
+        if (!noBuild) {
+            toStderr('\n── Build ──');
+            result.build = build({ clean: true });
+        }
+
+        toStderr('\n── Stage ──');
+        gitAddAll();
+
+        const { files } = gitDiffStat();
+        if (files.length === 0) {
+            toStderr('Nothing to commit after pull + build.');
+            toJson({ ...result, commit: { committed: false, reason: 'clean' } });
+            return;
+        }
+
+        const message = flags.message || flags.m || generateCommitMessage(files);
+        toStderr(`\n── Commit ──`);
+        toStderr(`Message: ${message}`);
+        const { hash } = gitCommit(message);
+        result.commit = { committed: true, hash, message, files };
+
+        if (!noPush) {
+            toStderr('\n── Push ──');
+            const status = gitStatus();
+            const pushResult = gitPush('origin', status.branch);
+            result.push = pushResult;
+            toStderr('Push complete.');
+        } else {
+            toStderr('\nPush skipped (--no-push)');
+        }
+
+        toJson(result);
+    } catch (err) {
+        toStderr(`Error: ${err.message}`);
+        process.exit(1);
+    }
+}
+
 // ── Usage ────────────────────────────────────────────────────────────
 
 function printUsage() {
@@ -471,6 +538,14 @@ Commands:
     --message "msg"    Use custom commit message
     --dry-run          Show what would happen without making changes
 
+  pull               Pull data from js-moltbook, build + commit + push
+    --source <path>    Path to js-moltbook publisher output (default: ../js-moltbook/...)
+    --type <type>      What to pull: pulse|weekly|all (default: all)
+    --no-build         Skip build step after pull
+    --no-push          Skip push step (pull + build + commit only)
+    --message "msg"    Use custom commit message
+    --dry-run          Preview what would be pulled without writing
+
   setup-cloudflare   Set up Cloudflare DNS records for GitHub Pages
                      Requires CLOUDFARE_API_KEY (or CLOUDFLARE_API_TOKEN) in .env
 
@@ -500,6 +575,9 @@ Examples:
   clawhub commit --message "pulse: add new items"
   clawhub sync
   clawhub sync --no-push --message "update pulse data"
+  clawhub pull
+  clawhub pull --type pulse --no-push
+  clawhub pull --dry-run
   clawhub setup-cloudflare
   clawhub setup-github-pages
   clawhub featured
@@ -566,6 +644,9 @@ async function main() {
             break;
         case 'sync':
             cmdSync(flags);
+            break;
+        case 'pull':
+            cmdPull(flags);
             break;
         case 'help':
         case '--help':

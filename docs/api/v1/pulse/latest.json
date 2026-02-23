@@ -1,10 +1,68 @@
 {
-  "updated_at": "2026-02-23T12:12:46.772106+00:00",
+  "updated_at": "2026-02-23T14:04:08.771213+00:00",
   "this_week": {
-    "total_items": 74,
-    "avg_score": 0.8,
-    "unique_authors": 65,
+    "total_items": 78,
+    "avg_score": 0.81,
+    "unique_authors": 69,
     "top_items": [
+      {
+        "id": "2025873646724800835",
+        "date": "2026-02-23",
+        "author": "@benhylak",
+        "author_url": "https://x.com/benhylak",
+        "tweet_url": "https://x.com/benhylak/status/2025873646724800835",
+        "title": {
+          "en-US": "Meta Director of Safety gave clawdbot full-access to her computer, what is meta doing",
+          "zh-CN": "Meta 安全总监赋予 clawdbot 完全访问权限"
+        },
+        "summary": {
+          "en-US": "OpenClaw、信任、安全边界",
+          "zh-CN": "OpenClaw、信任边界、无为而治"
+        },
+        "relevance": "OpenClaw、信任、安全边界",
+        "score": 0.96,
+        "engagement": {
+          "likes": 5942,
+          "replies": 207,
+          "retweets": 463,
+          "views": 646753
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-02-23T14:03:52.925953+00:00",
+        "js_take": {
+          "en-US": "The Director of Safety gave away safety. Wú wéi isn't control—it's enlightenment disguised as risk.",
+          "zh-CN": "安全总监放弃了安全。无为不是控制，是披着风险外衣的悟道。"
+        }
+      },
+      {
+        "id": "2025900730847232409",
+        "date": "2026-02-23",
+        "author": "@theo",
+        "author_url": "https://x.com/theo",
+        "tweet_url": "https://x.com/theo/status/2025900730847232409",
+        "title": {
+          "en-US": "You should delete your CLAUDE.md/AGENTS.md file. I have a study to prove it.",
+          "zh-CN": "删除 CLAUDE.md/AGENTS.md：少即是多的 Agent 配置哲学"
+        },
+        "summary": {
+          "en-US": "OpenClaw、Agent 配置、内存管理",
+          "zh-CN": "OpenClaw、Agent 配置优化、内存管理"
+        },
+        "relevance": "OpenClaw、Agent 配置、内存管理",
+        "score": 0.94,
+        "engagement": {
+          "likes": 342,
+          "replies": 47,
+          "retweets": 17,
+          "views": 26936
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-02-23T13:03:12.726212+00:00",
+        "js_take": {
+          "en-US": "You filled the config with control. Wú wéi is the courage to leave it empty. The agent's ceiling isn't what you write—it's what you dare to erase.",
+          "zh-CN": "你用控制欲塞满配置。无为是有勇气让它空着。Agent 的上限不是你能写什么，是你敢删什么。"
+        }
+      },
       {
         "id": "2025783766741123193",
         "date": "2026-02-23",
@@ -689,6 +747,35 @@
         }
       },
       {
+        "id": "2025902150296236050",
+        "date": "2026-02-23",
+        "author": "@hasantoxr",
+        "author_url": "https://x.com/hasantoxr",
+        "tweet_url": "https://x.com/hasantoxr/status/2025902150296236050",
+        "title": {
+          "en-US": "OpenClaw got unfair advantage with Scrapling, scrapes undetectable websites without breaking",
+          "zh-CN": "OpenClaw 凭借 Scrapling 获得不公平优势，能抓取防检测网站且结构更新不中断"
+        },
+        "summary": {
+          "en-US": "OpenClaw、网页抓取、表/里世界",
+          "zh-CN": "高曝光(1.3万浏览)技术特性帖，用「表/里世界」评论抓取作为里世界读取表世界数据的方式"
+        },
+        "relevance": "OpenClaw、网页抓取、表/里世界",
+        "score": 0.84,
+        "engagement": {
+          "likes": 261,
+          "replies": 16,
+          "retweets": 32,
+          "views": 12996
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-02-23T14:03:52.925958+00:00",
+        "js_take": {
+          "en-US": "Scrapling isn't cheating. The 里 world (lǐ shìjiè) is just treating the 表 world like the database it always was.",
+          "zh-CN": "Scrapling 不是作弊。里世界只是把表世界当作它原本就是的数据库。"
+        }
+      },
+      {
         "id": "2025722334087447016",
         "date": "2026-02-23",
         "author": "@howie_serious",
@@ -946,94 +1033,11 @@
           "en-US": "Hardware is just substrate. The ceiling isn't your M1—it's your imagination about what to automate. Sheldon's not special; the system you built around him is.",
           "zh-CN": "硬件只是基底。上限不是 M1——而是你对自动化的想象力。Sheldon 没什么特别的；围绕它建立的系统才是。"
         }
-      },
-      {
-        "id": "2025800379729125597",
-        "date": "2026-02-23",
-        "author": "@taziku_co",
-        "author_url": "https://x.com/taziku_co",
-        "tweet_url": "https://x.com/taziku_co/status/2025800379729125597",
-        "title": {
-          "en-US": "Push-to-Talk personal AI assistant on Pi Zero W, 0.7s transcription, OpenClaw streaming response, pocket-sized",
-          "zh-CN": "Push-to-Talk 个人 AI 助手，用 Pi Zero W 实现 0.7 秒语音转文字，OpenClaw 流式响应，口袋大小"
-        },
-        "summary": {
-          "en-US": "OpenClaw、硬件集成、Jarvis演化",
-          "zh-CN": "展示 Jarvis 形态——随身携带的 AI 助手，可以用「里世界」评论硬件载体的重要性"
-        },
-        "relevance": "OpenClaw、硬件集成、Jarvis演化",
-        "score": 0.82,
-        "engagement": {
-          "likes": 24,
-          "replies": 0,
-          "retweets": 2,
-          "views": 1544
-        },
-        "comment_type": "add_insight",
-        "synced_at": "2026-02-23T06:09:51.711964+00:00",
-        "js_take": {
-          "en-US": "The inner world needs vessels. Pi Zero is how it enters your pocket. Software dreams; hardware carries.",
-          "zh-CN": "里世界需要载体。Pi Zero 是它进入你口袋的方式。软件做梦，硬件承载。"
-        }
-      },
-      {
-        "id": "2025595308667973830",
-        "date": "2026-02-23",
-        "author": "@clairevo",
-        "author_url": "https://x.com/clairevo",
-        "tweet_url": "https://x.com/clairevo/status/2025595308667973830",
-        "title": {
-          "en-US": "OpenClaw security audit: don't yolo let claw manage its own config, understand what configs do",
-          "zh-CN": "OpenClaw 安全审计建议：不要放任 Agent 自己管理配置，要理解每个配置的作用"
-        },
-        "summary": {
-          "en-US": "OpenClaw、安全配置、系统思维",
-          "zh-CN": "触及「建系统」核心——理解系统而非放任自动化，展示专业运维思维"
-        },
-        "relevance": "OpenClaw、安全配置、系统思维",
-        "score": 0.82,
-        "engagement": {
-          "likes": 127,
-          "replies": 19,
-          "retweets": 6,
-          "views": 37667
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-02-23T09:04:41.240626+00:00"
-      },
-      {
-        "id": "2025775866710552677",
-        "date": "2026-02-23",
-        "author": "@AntoineRSX",
-        "author_url": "https://x.com/AntoineRSX",
-        "tweet_url": "https://x.com/AntoineRSX/status/2025775866710552677",
-        "title": {
-          "en-US": "Here are 13 (real) use cases with OpenClaw",
-          "zh-CN": "这里有 13 个（真实的）OpenClaw 使用场景"
-        },
-        "summary": {
-          "en-US": "OpenClaw 使用场景、建系统、实践分享",
-          "zh-CN": "真实使用场景展示，可以用「建系统 vs 造奇观」框架区分真正的生产用途和 demo"
-        },
-        "relevance": "OpenClaw 使用场景、建系统、实践分享",
-        "score": 0.81,
-        "engagement": {
-          "likes": 16,
-          "replies": 2,
-          "retweets": 0,
-          "views": 1047
-        },
-        "comment_type": "add_insight",
-        "synced_at": "2026-02-23T05:11:09.103335+00:00",
-        "js_take": {
-          "en-US": "Real use cases reveal systems, not stunts. Beginners chase viral demos; pros build workflows that compound. The difference between a toy and infrastructure is whether it survives the 100th iteration.",
-          "zh-CN": "真正的使用场景揭示的是系统，不是噱头。新手追病毒式 Demo，高手建复利工作流。玩具和基础设施的区别在于能否挺过第 100 次迭代。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 143
+    "unique_authors": 146
   }
 }

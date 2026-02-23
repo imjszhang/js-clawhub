@@ -12,7 +12,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const DOCS = join(__dirname, '..', '..', '..', '..', 'projects', 'js-clawhub', 'src');
+const DOCS = join(__dirname, '..', '..', 'src');
 const PULSE_ITEMS = join(DOCS, 'pulse', 'data', 'items.json');
 const EDITED_ITEMS = join(DOCS, 'pulse', 'data', 'edited_items.json');
 const BACKUP_DIR = join(DOCS, 'pulse', 'data', '.backups');

@@ -1,5 +1,34 @@
 [
   {
+    "id": "2025873646724800835",
+    "date": "2026-02-23",
+    "author": "@benhylak",
+    "author_url": "https://x.com/benhylak",
+    "tweet_url": "https://x.com/benhylak/status/2025873646724800835",
+    "title": {
+      "en-US": "Meta Director of Safety gave clawdbot full-access to her computer, what is meta doing",
+      "zh-CN": "Meta 安全总监赋予 clawdbot 完全访问权限"
+    },
+    "summary": {
+      "en-US": "OpenClaw、信任、安全边界",
+      "zh-CN": "OpenClaw、信任边界、无为而治"
+    },
+    "relevance": "OpenClaw、信任、安全边界",
+    "score": 0.96,
+    "engagement": {
+      "likes": 5942,
+      "replies": 207,
+      "retweets": 463,
+      "views": 646753
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-23T14:03:52.925953+00:00",
+    "js_take": {
+      "en-US": "The Director of Safety gave away safety. Wú wéi isn't control—it's enlightenment disguised as risk.",
+      "zh-CN": "安全总监放弃了安全。无为不是控制，是披着风险外衣的悟道。"
+    }
+  },
+  {
     "id": "2025900730847232409",
     "date": "2026-02-23",
     "author": "@theo",
@@ -709,6 +738,35 @@
     "js_take": {
       "en-US": "The surface world (video tools) is becoming just an output layer for the inner world (Agent). We're not using apps anymore—we're delegating to agents that render to any format.",
       "zh-CN": "表世界（视频工具）正在变成里世界（Agent）的输出层。我们不再使用 App，而是委托给可以渲染成任意格式的 Agent。"
+    }
+  },
+  {
+    "id": "2025902150296236050",
+    "date": "2026-02-23",
+    "author": "@hasantoxr",
+    "author_url": "https://x.com/hasantoxr",
+    "tweet_url": "https://x.com/hasantoxr/status/2025902150296236050",
+    "title": {
+      "en-US": "OpenClaw got unfair advantage with Scrapling, scrapes undetectable websites without breaking",
+      "zh-CN": "OpenClaw 凭借 Scrapling 获得不公平优势，能抓取防检测网站且结构更新不中断"
+    },
+    "summary": {
+      "en-US": "OpenClaw、网页抓取、表/里世界",
+      "zh-CN": "高曝光(1.3万浏览)技术特性帖，用「表/里世界」评论抓取作为里世界读取表世界数据的方式"
+    },
+    "relevance": "OpenClaw、网页抓取、表/里世界",
+    "score": 0.84,
+    "engagement": {
+      "likes": 261,
+      "replies": 16,
+      "retweets": 32,
+      "views": 12996
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-23T14:03:52.925958+00:00",
+    "js_take": {
+      "en-US": "Scrapling isn't cheating. The 里 world (lǐ shìjiè) is just treating the 表 world like the database it always was.",
+      "zh-CN": "Scrapling 不是作弊。里世界只是把表世界当作它原本就是的数据库。"
     }
   },
   {
@@ -1976,6 +2034,31 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-23T12:12:27.744765+00:00"
+  },
+  {
+    "id": "2025892950396534790",
+    "date": "2026-02-23",
+    "author": "@chenchengpro",
+    "author_url": "https://x.com/chenchengpro",
+    "tweet_url": "https://x.com/chenchengpro/status/2025892950396534790",
+    "title": {
+      "en-US": "My claw has 22 skills: browser, search, twitter, code-agent, image-gen, trends, cron, memory",
+      "zh-CN": "我的 claw 有 22 个 skills：浏览器、搜索、推特、编程助手、图像生成、趋势追踪、定时任务、记忆"
+    },
+    "summary": {
+      "en-US": "OpenClaw、技能生态、Agent 能力",
+      "zh-CN": "展示 OpenClaw 技能栈，评论区是中文，用「建系统」评论技能组合的系统思维"
+    },
+    "relevance": "OpenClaw、技能生态、Agent 能力",
+    "score": 0.72,
+    "engagement": {
+      "likes": 165,
+      "replies": 2,
+      "retweets": 25,
+      "views": 9197
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-23T14:03:52.925961+00:00"
   },
   {
     "id": "2025651770631029052",
@@ -5217,90 +5300,6 @@
     "js_take": {
       "en-US": "The shift from toy to tool isn't about asking what agents can do—it's about building systems that keep them running. A heartbeat, a monitor, a feedback loop. That's the real work.",
       "zh-CN": "从玩具到工具的跨越，不是问agent能做什么，而是建一个让它们持续运转的系统。心跳、监控、反馈循环——这才是真正的工作。"
-    }
-  },
-  {
-    "id": "2025171110463943157",
-    "date": "2026-02-21",
-    "author": "@eeelistar",
-    "author_url": "https://x.com/eeelistar",
-    "tweet_url": "https://x.com/eeelistar/status/2025171110463943157",
-    "title": {
-      "en-US": "OpenClaw skills marketplace launching with $9.99 sub",
-      "zh-CN": "OpenClaw技能市场上线：9.99美元订阅制"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 + Skill Marketplace + 创作者经济",
-      "zh-CN": "OpenClaw生态中的技能市场与创作者经济"
-    },
-    "relevance": "OpenClaw生态 + Skill Marketplace + 创作者经济",
-    "score": 0.87,
-    "engagement": {
-      "likes": 176,
-      "replies": 55,
-      "retweets": 3
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T15:03:31.045460+00:00",
-    "js_take": {
-      "en-US": "A skills marketplace is infrastructure for the inner world. When Agent capabilities start flowing like water, the system begins to grow. This is what the migration looks like.",
-      "zh-CN": "技能市场是里世界的基础设施。当Agent的能力开始如水般流动，系统便开始生长。这就是迁徙的样子。"
-    }
-  },
-  {
-    "id": "2024872924851913023",
-    "date": "2026-02-21",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2024872924851913023",
-    "title": {
-      "en-US": "OpenClaw trading bot training distribution",
-      "zh-CN": "OpenClaw交易机器人技能分发"
-    },
-    "summary": {
-      "en-US": "OpenClaw技能学习、交易机器人、知识分发",
-      "zh-CN": "OpenClaw技能学习机制、交易机器人训练、知识分发网络"
-    },
-    "relevance": "OpenClaw技能学习、交易机器人、知识分发",
-    "score": 0.86,
-    "engagement": {
-      "likes": 610,
-      "replies": 36,
-      "retweets": 79
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-20T20:01:59.460883+00:00",
-    "js_take": {
-      "en-US": "Walk through once, distribute everywhere. This is skill replication at scale—one human's expertise becomes every agent's baseline. The training isn't the product; the distribution is.",
-      "zh-CN": "一次遍历，到处分发。这就是规模化的技能复制——一个人的专业知识变成每个代理的基线。训练不是产品，分发才是。"
-    }
-  },
-  {
-    "id": "2024854317300433243",
-    "date": "2026-02-21",
-    "author": "@PrajwalTomar_",
-    "author_url": "https://x.com/PrajwalTomar_",
-    "tweet_url": "https://x.com/PrajwalTomar_/status/2024854317300433243",
-    "title": {
-      "en-US": "OpenClaw cost optimization",
-      "zh-CN": "OpenClaw成本优化指南"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本优化、生产环境、配置技巧",
-      "zh-CN": "OpenClaw成本控制策略、生产环境配置技巧、可持续运营模式"
-    },
-    "relevance": "OpenClaw成本优化、生产环境、配置技巧",
-    "score": 0.86,
-    "engagement": {
-      "likes": 142,
-      "replies": 9,
-      "retweets": 13
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-20T21:01:39.451812+00:00",
-    "js_take": {
-      "en-US": "$35/day is a barrier to experimentation. $50/month is a license to iterate. The difference between hobbyists and builders is sustainable burn rate.",
-      "zh-CN": "每天35美元是实验的障碍，每月50美元是迭代的许可证。爱好者和建造者的区别在于可持续的消耗率。"
     }
   }
 ]
