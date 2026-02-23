@@ -503,6 +503,32 @@
     }
   },
   {
+    "id": "2025644338881982884",
+    "date": "2026-02-23",
+    "author": "@DJohnstonEC",
+    "author_url": "https://x.com/DJohnstonEC",
+    "tweet_url": "https://x.com/DJohnstonEC/status/2025644338881982884",
+    "title": {
+      "en-US": "Memory bug in OpenClaw: non-Google/OpenAI/Voyage APIs may have broken memory search serving empty results",
+      "zh-CN": "OpenClaw 内存 Bug：非官方 API 或致记忆搜索失效"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Memory、Bug 披露",
+      "zh-CN": "OpenClaw 内存 Bug 披露（使用非官方 API 可能导致记忆搜索功能失效）"
+    },
+    "relevance": "OpenClaw、Memory、Bug 披露",
+    "score": 0.85,
+    "engagement": {
+      "likes": 38,
+      "replies": 2,
+      "retweets": 4,
+      "views": 3329
+    },
+    "comment_type": "reframe",
+    "suggested_angle": "内存是 Agent 的灵魂，基础设施的可靠性决定系统的上限，Bug 是负债，预防是资产",
+    "synced_at": "2026-02-23T09:04:41.240620+00:00"
+  },
+  {
     "id": "2025528858867593276",
     "date": "2026-02-23",
     "author": "@carlosazaustre",
@@ -618,6 +644,36 @@
     "js_take": {
       "en-US": "DeepSeek went viral. OpenClaw didn't. Same technology, different crowds. The gap isn't technical—it's human. Early adopters aren't normal, and that's the point.",
       "zh-CN": "DeepSeek 爆火了，OpenClaw 没有。同样的技术，不同的人群。差距不在技术——而在人。早期采用者不是普通人，这才是关键。"
+    }
+  },
+  {
+    "id": "2025831453402214626",
+    "date": "2026-02-23",
+    "author": "@udayan_w",
+    "author_url": "https://x.com/udayan_w",
+    "tweet_url": "https://x.com/udayan_w/status/2025831453402214626",
+    "title": {
+      "en-US": "India's first OpenClaw Buildathon, 5 cities, 10-agent system generated $15K in 3 days",
+      "zh-CN": "印度首届 OpenClaw Buildathon，5 个城市，有人用 10-agent 系统在 3 天内赚了 $15K"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Buildathon、Agent 商业化",
+      "zh-CN": "高曝光 Buildathon 帖子，评论区全是技术/商业讨论，用「不造奇观建系统」的东方视角能瞬间制造反差"
+    },
+    "relevance": "OpenClaw、Buildathon、Agent 商业化",
+    "score": 0.83,
+    "engagement": {
+      "likes": 237,
+      "replies": 29,
+      "retweets": 19,
+      "views": 16246
+    },
+    "comment_type": "reframe",
+    "suggested_angle": "用「建系统」视角重新解读：$15K 不是奇观，是系统复利的第一次利息。Civilization 玩家懂：奇观负债，系统资产。",
+    "synced_at": "2026-02-23T09:04:41.240633+00:00",
+    "js_take": {
+      "en-US": "$15K in 3 days. Bù zào qí guān—it's compound interest, not a wonder. The wonder would be if it stopped.",
+      "zh-CN": "三天赚了一万五。不造奇观——这是复利，不是奇观。它要是停下来，那才叫奇观。"
     }
   },
   {
@@ -859,6 +915,32 @@
     }
   },
   {
+    "id": "2025595308667973830",
+    "date": "2026-02-23",
+    "author": "@clairevo",
+    "author_url": "https://x.com/clairevo",
+    "tweet_url": "https://x.com/clairevo/status/2025595308667973830",
+    "title": {
+      "en-US": "OpenClaw security audit: don't yolo let claw manage its own config, understand what configs do",
+      "zh-CN": "OpenClaw 安全审计建议：不要放任 Agent 自己管理配置，要理解每个配置的作用"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全配置、系统思维",
+      "zh-CN": "触及「建系统」核心——理解系统而非放任自动化，展示专业运维思维"
+    },
+    "relevance": "OpenClaw、安全配置、系统思维",
+    "score": 0.82,
+    "engagement": {
+      "likes": 127,
+      "replies": 19,
+      "retweets": 6,
+      "views": 37667
+    },
+    "comment_type": "reframe",
+    "suggested_angle": "用「建系统」和「无为而治」的平衡评论：无为不是放任，是理解后设边界，让系统在约束内自治",
+    "synced_at": "2026-02-23T09:04:41.240626+00:00"
+  },
+  {
     "id": "2025775866710552677",
     "date": "2026-02-23",
     "author": "@AntoineRSX",
@@ -1095,6 +1177,32 @@
       "en-US": "Noise vs signal. Spectacle vs system. The agents that survive aren't the loudest—they're the ones generating utility while everyone else tweets about potential.",
       "zh-CN": "噪音 vs 信号。奇观 vs 系统。存活下来的 Agent 不是嗓门最大的——而是当其他人还在发推谈潜力时，已经在创造实用价值的那些。"
     }
+  },
+  {
+    "id": "2025821925654647004",
+    "date": "2026-02-23",
+    "author": "@Legendaryy",
+    "author_url": "https://x.com/Legendaryy",
+    "tweet_url": "https://x.com/Legendaryy/status/2025821925654647004",
+    "title": {
+      "en-US": "OpenClaw dry run feature lets agent preview actions and adjust for potential issues",
+      "zh-CN": "OpenClaw 新功能 dry run：Agent 可以预览即将执行的操作并调整潜在问题，让 Agent 自我更新更安全"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全机制、Agent 自治",
+      "zh-CN": "展示 Agent 自省能力，可以用「无为而治」评论让系统自我修正的智慧"
+    },
+    "relevance": "OpenClaw、安全机制、Agent 自治",
+    "score": 0.8,
+    "engagement": {
+      "likes": 31,
+      "replies": 14,
+      "retweets": 1,
+      "views": 3711
+    },
+    "comment_type": "reframe",
+    "suggested_angle": "最高级的控制是系统自己预判风险，dry run 是无为的工程化体现",
+    "synced_at": "2026-02-23T09:04:41.240629+00:00"
   },
   {
     "id": "2025429865403687278",
@@ -5392,109 +5500,5 @@
       "en-US": "Mission Control isn't a dashboard—it's a command center. One prompt to see the battlefield: active agents, pending tasks, system health. You can't manage what you can't see.",
       "zh-CN": "任务控制中心不是仪表盘——它是指挥中心。一个提示词就能看到战场：活跃代理、待处理任务、系统健康。看不见的东西就无法管理。"
     }
-  },
-  {
-    "id": "2024901720057250123",
-    "date": "2026-02-21",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2024901720057250123",
-    "title": {
-      "en-US": "5 tips 10000x OpenClaw power",
-      "zh-CN": "Ziwen分享5个让OpenClaw强大10000倍的方法，从聊天机器人变成第二大脑。"
-    },
-    "summary": {
-      "en-US": "OpenClaw配置、生产力提升、系统化使用",
-      "zh-CN": "展示OpenClaw从玩具到生产工具的转变，体现配置和集成的力量。"
-    },
-    "relevance": "OpenClaw配置、生产力提升、系统化使用",
-    "score": 0.84,
-    "engagement": {
-      "likes": 46,
-      "replies": 1,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Configuration as capability. When setup is right, potential unlocks.",
-    "synced_at": "2026-02-20T22:05:15.408770+00:00"
-  },
-  {
-    "id": "2024958747475673586",
-    "date": "2026-02-21",
-    "author": "@PrajwalTomar_",
-    "author_url": "https://x.com/PrajwalTomar_",
-    "tweet_url": "https://x.com/PrajwalTomar_/status/2024958747475673586",
-    "title": {
-      "en-US": "OpenClaw cost cut 80% thread",
-      "zh-CN": "Prajwal分享完整的OpenClaw成本优化教程，声称可削减80%成本。"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本优化、配置技巧",
-      "zh-CN": "高收藏(93)展示对OpenClaw成本控制的持续需求，体现生产环境可持续运营的关键。"
-    },
-    "relevance": "OpenClaw成本优化、配置技巧",
-    "score": 0.84,
-    "engagement": {
-      "likes": 33,
-      "replies": 0,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Cost as leverage. When burn drops, experimentation becomes sustainable.",
-    "synced_at": "2026-02-20T23:02:50.130118+00:00"
-  },
-  {
-    "id": "2025191277759733857",
-    "date": "2026-02-21",
-    "author": "@VadimStrizheus",
-    "author_url": "https://x.com/VadimStrizheus",
-    "tweet_url": "https://x.com/VadimStrizheus/status/2025191277759733857",
-    "title": {
-      "en-US": "18-year-old runs company with 15 AI employees using OpenClaw",
-      "zh-CN": "18岁创业者用15个AI员工(OpenClaw)运营公司，花费15亿token，零代码"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业应用 + Agent团队 + 零代码创业",
-      "zh-CN": "极端案例展示\"AI员工\"概念，可分享Jarvis定律视角——这是里世界组织形态的预演"
-    },
-    "relevance": "OpenClaw商业应用 + Agent团队 + 零代码创业",
-    "score": 0.84,
-    "engagement": {
-      "likes": 68,
-      "replies": 33,
-      "retweets": 4
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "15个Agent不是替代人力，是新组织形态——里世界的公司不需要表世界的办公室",
-    "synced_at": "2026-02-21T14:01:55.503205+00:00",
-    "js_take": {
-      "en-US": "15 agents isn't headcount replacement—it's organizational mutation. The inner world doesn't need offices; it needs orchestration. This is what the migration looks like.",
-      "zh-CN": "15个Agent不是替代人力，是组织形态的突变。里世界不需要办公室，只需要编排。这就是迁徙的样子。"
-    }
-  },
-  {
-    "id": "2024652237986033815",
-    "date": "2026-02-21",
-    "author": "@DanWahlin",
-    "author_url": "https://x.com/DanWahlin",
-    "tweet_url": "https://x.com/DanWahlin/status/2024652237986033815",
-    "title": {
-      "en-US": "OpenClaw claw-monitor dashboard",
-      "zh-CN": "Dan Wahlin构建claw-monitor仪表盘监控OpenClaw编码子Agent、CPU/内存/磁盘等资源。"
-    },
-    "summary": {
-      "en-US": "OpenClaw监控、资源管理、多Agent",
-      "zh-CN": "高收藏(148)展示对OpenClaw资源监控的需求，体现生产环境运营的必要性。"
-    },
-    "relevance": "OpenClaw监控、资源管理、多Agent",
-    "score": 0.82,
-    "engagement": {
-      "likes": 127,
-      "replies": 9,
-      "retweets": 20
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Monitoring as hygiene. When agents scale, visibility becomes critical.",
-    "synced_at": "2026-02-20T19:02:04.804312+00:00"
   }
 ]
