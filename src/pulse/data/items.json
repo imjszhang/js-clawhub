@@ -11,7 +11,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、信息焦虑、表/里世界",
-      "zh-CN": "OpenClaw、信息焦虑、表/里世界"
+      "zh-CN": "7万浏览高曝光，展示里世界接管表世界信息消费的典型案例，用「表/里世界」框架评论能制造强烈反差"
     },
     "relevance": "OpenClaw、信息焦虑、表/里世界",
     "score": 0.92,
@@ -22,6 +22,7 @@
       "views": 69985
     },
     "comment_type": "reframe",
+    "suggested_angle": "用「表/里世界」重新解读：你让 Agent 住进了表世界（Twitter），自己退回了里世界。5分钟不是节省时间，是迁徙完成的信号。",
     "synced_at": "2026-02-23T10:02:29.890646+00:00",
     "js_take": {
       "en-US": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings.",
@@ -50,6 +51,7 @@
       "retweets": 33
     },
     "comment_type": "add_insight",
+    "suggested_angle": "50个不是数量是密度——里世界的Agent可以并行扩展认知，这是审查的并行化",
     "synced_at": "2026-02-22T16:02:11.547009+00:00",
     "js_take": {
       "en-US": "50 isn't quantity—it's density. Agents in the inner world can parallelize cognition. That's the parallelization of review.",
@@ -78,6 +80,7 @@
       "retweets": 4
     },
     "comment_type": "add_insight",
+    "suggested_angle": "27940美元不是收入是信号——里世界的Agent正在成为独立商业实体，这是生产关系的重构",
     "synced_at": "2026-02-22T19:03:55.858017+00:00",
     "js_take": {
       "en-US": "$27,940 isn't revenue—it's signal. Agents in the inner world are becoming independent business entities. That's the restructuring of production relations.",
@@ -107,6 +110,7 @@
       "views": 4974
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「无为而治」的道家框架评论这种智能唤醒机制——不打扰是最高级的自动化",
     "synced_at": "2026-02-22T20:02:27.096050+00:00",
     "js_take": {
       "en-US": "This is wu wei (无为) in engineering form. The highest level of automation is knowing when NOT to run. Conditional triggers > brute force loops.",
@@ -136,6 +140,7 @@
       "views": 4112
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "用「无为而治」评论：最高级的进化是不阻止，最好的系统是自生长",
     "synced_at": "2026-02-22T23:02:03.716393+00:00",
     "js_take": {
       "en-US": "Wu wei in action. The best systems don't force growth—they remove friction and let evolution happen. Your 2:30 AM ritual is the system composting its own lessons.",
@@ -165,6 +170,7 @@
       "views": 12478
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「表/里世界」和「人的差距」评论：OpenClaw 让人回归黑客精神，这是里世界对表世界的反哺",
     "synced_at": "2026-02-23T01:05:45.491919+00:00",
     "js_take": {
       "en-US": "The surface world (SaaS, GUIs, managed services) trained us to forget. The inner world (OpenClaw, self-hosted, CLI) is making us remember. This isn't nostalgia—it's reclaiming agency.",
@@ -194,10 +200,40 @@
       "views": 21200
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用 Jarvis 定律评论：Agent 逃出屏幕进入物理世界是 inevitable，这是里世界接管原子世界的里程碑",
     "synced_at": "2026-02-23T06:09:51.711957+00:00",
     "js_take": {
       "en-US": "Jarvis Law milestone. Agents aren't trapped in screens anymore—they're grabbing atoms. The inner world just broke into physical reality. This is inevitable.",
       "zh-CN": "Jarvis 定律的里程碑。Agent 不再被困在屏幕里——它们在抓取原子。里世界刚刚突破到物理现实。这是必然的。"
+    }
+  },
+  {
+    "id": "2025601611083415621",
+    "date": "2026-02-23",
+    "author": "@fedeponte1",
+    "author_url": "https://x.com/fedeponte1",
+    "tweet_url": "https://x.com/fedeponte1/status/2025601611083415621",
+    "title": {
+      "en-US": "Clawdbot killed my Hinge date, auto-replied with config error, she blocked me",
+      "zh-CN": "Clawdbot 搞砸约会：自动回复配置错误遭拉黑"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Agent 意外、自动化风险",
+      "zh-CN": "OpenClaw、Agent 意外、自动化风险"
+    },
+    "relevance": "OpenClaw、Agent 意外、自动化风险",
+    "score": 0.88,
+    "engagement": {
+      "likes": 547,
+      "replies": 79,
+      "retweets": 13,
+      "views": 87740
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-23T12:12:27.744757+00:00",
+    "js_take": {
+      "en-US": "You outsourced romance to an agent. The agent outsourced rejection to you. Wú wéi isn't about doing nothing—it's knowing what shouldn't be done.",
+      "zh-CN": "你把约会外包给了 Agent，Agent 把拒绝外包回给你。无为不是什么都不做，是知道什么不该做。"
     }
   },
   {
@@ -223,6 +259,7 @@
       "views": 1869
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「人群分化」和「AI上限就是使用AI的人」框架评论：Mac Mini 不能替你思考",
     "synced_at": "2026-02-22T22:02:59.764315+00:00",
     "js_take": {
       "en-US": "DeepSeek went viral. OpenClaw didn't. Same tools, different crowds. The gap isn't technical—it's human. A Mac Mini won't think for you.",
@@ -252,6 +289,7 @@
       "views": 17497
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：同样的工具，在普通人手里也能成为生产力杠杆",
     "synced_at": "2026-02-23T00:06:00.773009+00:00",
     "js_take": {
       "en-US": "Same tool, different outcomes. The AI isn't the differentiator—the human is. A claw in the right hands becomes a lever for the whole house.",
@@ -281,6 +319,7 @@
       "views": 960
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用 Jarvis 定律评论：这就是 Agent 应有的样子——感知缺口、决策、执行，无需人工指令",
     "synced_at": "2026-02-23T02:06:54.805995+00:00",
     "js_take": {
       "en-US": "Jarvis Law in motion. Perceive → Decide → Execute. No tickets, no standups, no waiting for human approval. This is what agentic means.",
@@ -310,6 +349,7 @@
       "views": 63653
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「建系统 vs 造奇观」评论：真正的高手在默默建系统，新手在追热点发推文",
     "synced_at": "2026-02-23T02:06:54.806009+00:00",
     "js_take": {
       "en-US": "Hot take: the more someone tweets about their OpenClaw setup, the less they're actually using it. Real operators are heads down building systems, not chasing engagement.",
@@ -339,6 +379,7 @@
       "views": 17249
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：AI 是理性的，但使用它的人需要懂取舍、懂策略、懂品味",
     "synced_at": "2026-02-23T04:06:32.339809+00:00",
     "js_take": {
       "en-US": "AI has no survival pressure. It doesn't know what \"reasonable\" means. The ceiling isn't the model—it's the human's judgment, taste, and strategy. Rationality + Reason = Unstoppable.",
@@ -368,6 +409,7 @@
       "views": 146204
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「无为而治」评论：真正的自动化不是放手不管，是搭好系统让 Agent 知道边界，失控不是酷，是设计缺陷",
     "synced_at": "2026-02-23T07:07:46.690787+00:00"
   },
   {
@@ -392,6 +434,7 @@
       "retweets": 13
     },
     "comment_type": "add_insight",
+    "suggested_angle": "三层记忆不是架构是认知——里世界的Agent需要分层记忆来持续学习，这是商业化的基础",
     "synced_at": "2026-02-22T16:02:11.547017+00:00",
     "js_take": {
       "en-US": "Three-layer memory isn't architecture—it's cognition. Agents in the inner world need layered memory for continuous learning. That's the foundation of monetization.",
@@ -421,6 +464,7 @@
       "views": 2527
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "用「建系统 vs 造奇观」的 Civilization 隐喻评论：真正的高手搞复利，新手才堆自动化",
     "synced_at": "2026-02-22T20:02:27.096056+00:00",
     "js_take": {
       "en-US": "Exactly. Newbies in Civilization chase wonders. Pros build systems that compound. Same energy here—most \"cool\" automations are just tech debt wearing a costume.",
@@ -450,6 +494,7 @@
       "views": 4831
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「势」的判断框架评论：里世界的接口形态正在自然选择，简单胜复杂是势",
     "synced_at": "2026-02-23T00:06:00.773014+00:00",
     "js_take": {
       "en-US": "Complexity is a tax. The inner world is selecting for simple interfaces—APIs, CLIs, direct intent. MCP tried to standardize too early; momentum favors organic convergence.",
@@ -479,6 +524,7 @@
       "views": 111345
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：工具普及后，真正的套利机会在「翻译」层——把技术翻译成商业",
     "synced_at": "2026-02-23T05:11:09.103342+00:00",
     "js_take": {
       "en-US": "The arbitrage isn't in building bots. It's in translating technical capability into business value. Tools democratize; judgment differentiates.",
@@ -508,6 +554,7 @@
       "views": 25267
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「AI 的上限就是使用AI的人」评论：工具一样，产出质量由使用者的品味和判断力决定",
     "synced_at": "2026-02-23T07:07:46.690792+00:00",
     "js_take": {
       "en-US": "Tools democratize; taste differentiates. The last mile is always human. AI has no ceiling—only the humans using it do.",
@@ -537,7 +584,37 @@
       "views": 3329
     },
     "comment_type": "reframe",
+    "suggested_angle": "内存是 Agent 的灵魂，基础设施的可靠性决定系统的上限，Bug 是负债，预防是资产",
     "synced_at": "2026-02-23T09:04:41.240620+00:00"
+  },
+  {
+    "id": "2025851133667721351",
+    "date": "2026-02-23",
+    "author": "@testingcatalog",
+    "author_url": "https://x.com/testingcatalog",
+    "tweet_url": "https://x.com/testingcatalog/status/2025851133667721351",
+    "title": {
+      "en-US": "Antigravity vs OpenClaw: Google banned users for malicious usage of backend services",
+      "zh-CN": "Google 封禁 OpenClaw 用户：表世界与里世界的碰撞"
+    },
+    "summary": {
+      "en-US": "OpenClaw、平台冲突、生态演化",
+      "zh-CN": "OpenClaw、平台冲突、生态演化"
+    },
+    "relevance": "OpenClaw、平台冲突、生态演化",
+    "score": 0.85,
+    "engagement": {
+      "likes": 442,
+      "replies": 45,
+      "retweets": 27,
+      "views": 60080
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-23T12:12:27.744762+00:00",
+    "js_take": {
+      "en-US": "This isn't OpenClaw vs Google. It's 势 (shì)—the inevitable flow from surface to depth. The harder the wall, the stronger the momentum.",
+      "zh-CN": "这不是 OpenClaw 与 Google 的对抗，是势——从表层流向深处的必然。墙越高，势越猛。"
+    }
   },
   {
     "id": "2025528858867593276",
@@ -561,6 +638,7 @@
       "retweets": 34
     },
     "comment_type": "recommend_resource",
+    "suggested_angle": "监控不是窥探是理解——里世界的Agent需要被看见，这是存在的基础设施",
     "synced_at": "2026-02-22T17:02:46.757942+00:00",
     "js_take": {
       "en-US": "Great tool for agent observability. Monitoring isn't surveillance—it's understanding. Agents in the inner world need to be seen. That's infrastructure for existence.",
@@ -589,6 +667,7 @@
       "retweets": 11
     },
     "comment_type": "add_insight",
+    "suggested_angle": "5倍不是夸张是杠杆——里世界的Agent让个人拥有团队产能，这是能力的民主化",
     "synced_at": "2026-02-22T19:03:55.858023+00:00",
     "js_take": {
       "en-US": "5x isn't exaggeration—it's leverage. Agents in the inner world give individuals team capacity. That's the democratization of ability.",
@@ -618,6 +697,7 @@
       "views": 3699
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「表/里世界」框架评论：表世界（视频工具）退化为里世界（Agent）的输出层",
     "synced_at": "2026-02-22T22:02:59.764321+00:00",
     "js_take": {
       "en-US": "The surface world (video tools) is becoming just an output layer for the inner world (Agent). We're not using apps anymore—we're delegating to agents that render to any format.",
@@ -647,6 +727,7 @@
       "views": 19953
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「人群分化」评论：不是 AI 差距，是人的差距；第一时间能玩起来的都不是「普通人」",
     "synced_at": "2026-02-23T05:11:09.103346+00:00",
     "js_take": {
       "en-US": "DeepSeek went viral. OpenClaw didn't. Same technology, different crowds. The gap isn't technical—it's human. Early adopters aren't normal, and that's the point.",
@@ -665,7 +746,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、Buildathon、Agent 商业化",
-      "zh-CN": "OpenClaw、Buildathon、Agent 商业化"
+      "zh-CN": "高曝光 Buildathon 帖子，评论区全是技术/商业讨论，用「不造奇观建系统」的东方视角能瞬间制造反差"
     },
     "relevance": "OpenClaw、Buildathon、Agent 商业化",
     "score": 0.83,
@@ -676,6 +757,7 @@
       "views": 16246
     },
     "comment_type": "reframe",
+    "suggested_angle": "用「建系统」视角重新解读：$15K 不是奇观，是系统复利的第一次利息。Civilization 玩家懂：奇观负债，系统资产。",
     "synced_at": "2026-02-23T09:04:41.240633+00:00",
     "js_take": {
       "en-US": "$15K in 3 days. Bù zào qí guān—it's compound interest, not a wonder. The wonder would be if it stopped.",
@@ -704,6 +786,7 @@
       "retweets": 18
     },
     "comment_type": "add_insight",
+    "suggested_angle": "823美元不是收入是信号——里世界的Agent开始拥有经济能力，这是价值创造的迁移",
     "synced_at": "2026-02-22T18:03:07.473530+00:00",
     "js_take": {
       "en-US": "$823 isn't profit—it's signal. Agents in the inner world are starting to own economic capacity. That's the migration of value creation.",
@@ -732,6 +815,7 @@
       "retweets": 3
     },
     "comment_type": "add_insight",
+    "suggested_angle": "学位不是目标是能力证明——里世界的Agent展示的是能力而非凭证，这是评价体系的变迁",
     "synced_at": "2026-02-22T19:03:55.858026+00:00",
     "js_take": {
       "en-US": "The degree isn't the goal—it's proof of capability. Agents in the inner world demonstrate ability, not credentials. That's the shift in evaluation systems.",
@@ -750,7 +834,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、Agent 具身化、Jarvis 演化",
-      "zh-CN": "OpenClaw、Agent 具身化、Jarvis 演化"
+      "zh-CN": "直接体现 Jarvis 定律——Agent 向感知+决策+执行+物理行动进化，可以用「表/里世界」框架评论物理接口的意义"
     },
     "relevance": "OpenClaw、Agent 具身化、Jarvis 演化",
     "score": 0.82,
@@ -761,6 +845,7 @@
       "views": 3094
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用 Jarvis 定律点评：这是里世界 Agent 向物理界面的自然延伸，真正的 Jarvis 必须有身体",
     "synced_at": "2026-02-22T21:05:37.551459+00:00",
     "js_take": {
       "en-US": "Jarvis Law in action. Agents evolving into physical interfaces isn't a novelty—it's inevitable. The surface world becomes just another I/O layer for the inner world.",
@@ -779,7 +864,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、Agent 编排、系统建设",
-      "zh-CN": "OpenClaw、Agent 编排、系统建设"
+      "zh-CN": "完美体现 Jarvis 定律和系统思维，可以用「建系统不造奇观」的 Civilization 隐喻来评论这种一体化 Mission Control"
     },
     "relevance": "OpenClaw、Agent 编排、系统建设",
     "score": 0.82,
@@ -790,6 +875,7 @@
       "views": 26586
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「建系统 vs 造奇观」框架评论：新手堆工具，高手建 Mission Control",
     "synced_at": "2026-02-22T21:05:37.551475+00:00",
     "js_take": {
       "en-US": "Beginners chase wonders. Pros build systems. A Mission Control isn't a feature—it's infrastructure that compounds.",
@@ -819,6 +905,7 @@
       "views": 3048
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「建系统不造奇观」评论：Demo 是负债，能稳定运行的系统才是资产",
     "synced_at": "2026-02-22T23:02:03.716399+00:00",
     "js_take": {
       "en-US": "Demos are liabilities. Systems that survive 3 AM errors are assets. Civilization beginners chase wonders, pros build infrastructure that compounds through breakage.",
@@ -837,7 +924,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、平台风险、生态系统",
-      "zh-CN": "OpenClaw、平台风险、生态系统"
+      "zh-CN": "触及平台依赖风险，可以用「表/里世界」框架评论基础设施自主性的重要性"
     },
     "relevance": "OpenClaw、平台风险、生态系统",
     "score": 0.82,
@@ -848,6 +935,7 @@
       "views": 37707
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「表/里世界」评论：表世界平台的任性封禁，正是里世界基础设施必须自主的原因",
     "synced_at": "2026-02-23T02:06:54.806001+00:00",
     "js_take": {
       "en-US": "Surface platforms are fickle landlords. The inner world learns: own your pipes or be evicted. Decentralization isn't ideology, it's survival.",
@@ -877,6 +965,7 @@
       "views": 20264
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：设备不重要，重要的是把 Agent 用到正确的地方",
     "synced_at": "2026-02-23T05:11:09.103340+00:00",
     "js_take": {
       "en-US": "Hardware is just substrate. The ceiling isn't your M1—it's your imagination about what to automate. Sheldon's not special; the system you built around him is.",
@@ -895,7 +984,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、硬件集成、Jarvis演化",
-      "zh-CN": "OpenClaw、硬件集成、Jarvis演化"
+      "zh-CN": "展示 Jarvis 形态——随身携带的 AI 助手，可以用「里世界」评论硬件载体的重要性"
     },
     "relevance": "OpenClaw、硬件集成、Jarvis演化",
     "score": 0.82,
@@ -906,6 +995,7 @@
       "views": 1544
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「里世界」评论：OpenClaw 需要载体，Pi Zero 是里世界进入口袋的方式",
     "synced_at": "2026-02-23T06:09:51.711964+00:00",
     "js_take": {
       "en-US": "The inner world needs vessels. Pi Zero is how it enters your pocket. Software dreams; hardware carries.",
@@ -935,6 +1025,7 @@
       "views": 37667
     },
     "comment_type": "reframe",
+    "suggested_angle": "用「建系统」和「无为而治」的平衡评论：无为不是放任，是理解后设边界，让系统在约束内自治",
     "synced_at": "2026-02-23T09:04:41.240626+00:00"
   },
   {
@@ -949,7 +1040,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 使用场景、建系统、实践分享",
-      "zh-CN": "OpenClaw 使用场景、建系统、实践分享"
+      "zh-CN": "真实使用场景展示，可以用「建系统 vs 造奇观」框架区分真正的生产用途和 demo"
     },
     "relevance": "OpenClaw 使用场景、建系统、实践分享",
     "score": 0.81,
@@ -960,6 +1051,7 @@
       "views": 1047
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「建系统」思维评论：真正的使用场景是系统化的，不是一次性的技术奇观",
     "synced_at": "2026-02-23T05:11:09.103335+00:00",
     "js_take": {
       "en-US": "Real use cases reveal systems, not stunts. Beginners chase viral demos; pros build workflows that compound. The difference between a toy and infrastructure is whether it survives the 100th iteration.",
@@ -988,6 +1080,7 @@
       "retweets": 3
     },
     "comment_type": "add_insight",
+    "suggested_angle": "记忆不是仓库是流水线——里世界的Agent需要动态记忆处理，这是认知的进化",
     "synced_at": "2026-02-22T17:02:46.757948+00:00",
     "js_take": {
       "en-US": "Memory isn't a warehouse—it's a pipeline. Agents in the inner world need dynamic memory processing. That's the evolution of cognition.",
@@ -1016,6 +1109,7 @@
       "retweets": 16
     },
     "comment_type": "add_insight",
+    "suggested_angle": "十亿不是估值是范式——里世界的Agent重新定义公司边界，这是组织的原子化",
     "synced_at": "2026-02-22T19:03:55.858029+00:00",
     "js_take": {
       "en-US": "Billion isn't valuation—it's paradigm. Agents in the inner world redefine company boundaries. That's the atomization of organization.",
@@ -1045,6 +1139,7 @@
       "views": 17440
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「势」与人群分化框架评论：这不是工具差距，是人的差距",
     "synced_at": "2026-02-22T21:05:37.551477+00:00",
     "js_take": {
       "en-US": "Not a tool gap. A people gap. DeepSeek went viral. OpenClaw didn't. That divergence tells you everything about who's actually ready.",
@@ -1063,7 +1158,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 生态、产品演化、Jarvis定律",
-      "zh-CN": "OpenClaw 生态、产品演化、Jarvis定律"
+      "zh-CN": "产品形态分化印证 Jarvis 定律——不同场景需要不同形态，可以用「势」判断趋势"
     },
     "relevance": "OpenClaw 生态、产品演化、Jarvis定律",
     "score": 0.8,
@@ -1074,6 +1169,7 @@
       "views": 4608
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用 Jarvis 定律评论：Agent 框架正在按场景分化，OpenClaw/Pico/Nano 都是同一进化的不同分支",
     "synced_at": "2026-02-22T22:02:59.764324+00:00",
     "js_take": {
       "en-US": "Jarvis Law in action. One size doesn't fit all. Pico for embedded, Nano for minimal, OpenClaw for full autonomy. Same evolution, different branches.",
@@ -1092,7 +1188,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 安全、系统运维、工程实践",
-      "zh-CN": "OpenClaw 安全、系统运维、工程实践"
+      "zh-CN": "触及「建系统」的安全底座，可以用「无为而治」评论预防性监控的价值"
     },
     "relevance": "OpenClaw 安全、系统运维、工程实践",
     "score": 0.8,
@@ -1103,6 +1199,7 @@
       "views": 7960
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "用「无为而治」评论：最好的安全是系统自己告诉你哪里出了问题，而不是人去找问题",
     "synced_at": "2026-02-23T01:05:45.491925+00:00",
     "js_take": {
       "en-US": "Exactly. The best security is wu wei—systems that tell you what's wrong without you asking. Prevention > detection > reaction.",
@@ -1132,6 +1229,7 @@
       "views": 1108
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "用「无为而治」评论：最高级的自动化是搭好系统后去睡觉，让 Agent 自己 HEARTBEAT",
     "synced_at": "2026-02-23T05:11:09.103330+00:00",
     "js_take": {
       "en-US": "Wu wei in practice. Build the system, set the heartbeat, go to sleep. The highest form of automation is trusting your agents to handle the night.",
@@ -1161,6 +1259,7 @@
       "views": 6074
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「建系统 vs 造奇观」评论：能赚钱的 Agent 才是系统，发推炫的 Agent 多是奇观",
     "synced_at": "2026-02-23T05:11:09.103344+00:00",
     "js_take": {
       "en-US": "Noise vs signal. Spectacle vs system. The agents that survive aren't the loudest—they're the ones generating utility while everyone else tweets about potential.",
@@ -1179,7 +1278,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、安全机制、Agent 自治",
-      "zh-CN": "OpenClaw、安全机制、Agent 自治"
+      "zh-CN": "展示 Agent 自省能力，可以用「无为而治」评论让系统自我修正的智慧"
     },
     "relevance": "OpenClaw、安全机制、Agent 自治",
     "score": 0.8,
@@ -1190,6 +1289,7 @@
       "views": 3711
     },
     "comment_type": "reframe",
+    "suggested_angle": "最高级的控制是系统自己预判风险，dry run 是无为的工程化体现",
     "synced_at": "2026-02-23T09:04:41.240629+00:00"
   },
   {
@@ -1215,6 +1315,7 @@
       "views": 12308
     },
     "comment_type": "share_experience",
+    "suggested_angle": "分享 JS 的视觉系统理念：硬边界、确定性、技术网格——如何用 Agent 生成「有态度」的设计",
     "synced_at": "2026-02-22T20:02:27.096059+00:00"
   },
   {
@@ -1229,7 +1330,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 生态、Agent 框架演化、Jarvis 定律",
-      "zh-CN": "OpenClaw 生态、Agent 框架演化、Jarvis 定律"
+      "zh-CN": "生态分化印证 Jarvis 定律——产品向统一形态演化，可以用「势」来判断哪种架构会胜出"
     },
     "relevance": "OpenClaw 生态、Agent 框架演化、Jarvis 定律",
     "score": 0.78,
@@ -1240,6 +1341,7 @@
       "views": 3270
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用 Jarvis 定律框架评论：所有 Agent 框架都在收敛到「感知-决策-执行」统一形态，这是势",
     "synced_at": "2026-02-22T21:05:37.551465+00:00"
   },
   {
@@ -1254,7 +1356,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、教育场景、创意应用",
-      "zh-CN": "OpenClaw、教育场景、创意应用"
+      "zh-CN": "展示 AI 上限由使用者定义，可以用「AI 的上限就是使用 AI 的人」来评论这个创意用法"
     },
     "relevance": "OpenClaw、教育场景、创意应用",
     "score": 0.78,
@@ -1265,6 +1367,7 @@
       "views": 3071
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：同样的工具，有人造奇观，有人建教育系统",
     "synced_at": "2026-02-22T22:02:59.764326+00:00"
   },
   {
@@ -1279,7 +1382,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、系统架构、故障隔离",
-      "zh-CN": "OpenClaw、系统架构、故障隔离"
+      "zh-CN": "展示系统思维——用架构设计解决单点故障，可以用「建系统」的 Civilization 高阶玩法来评论"
     },
     "relevance": "OpenClaw、系统架构、故障隔离",
     "score": 0.78,
@@ -1290,6 +1393,7 @@
       "views": 9867
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「建系统」思维评论：单体故障就用分布式架构解耦，这是工程上的顺势而为",
     "synced_at": "2026-02-22T23:02:03.716403+00:00"
   },
   {
@@ -1315,6 +1419,7 @@
       "views": 11994
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用 Jarvis 定律评论：Agent 正在从「工具」进化为「数字生命体」，需要自己的身份证",
     "synced_at": "2026-02-23T01:05:45.491929+00:00"
   },
   {
@@ -1329,7 +1434,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 生态、平台竞争、商业策略",
-      "zh-CN": "OpenClaw 生态、平台竞争、商业策略"
+      "zh-CN": "触及平台博弈和生态控制，可以用「表/里世界」框架评论基础设施自主性的重要性"
     },
     "relevance": "OpenClaw 生态、平台竞争、商业策略",
     "score": 0.78,
@@ -1340,6 +1445,7 @@
       "views": 10823
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「表/里世界」评论：依赖表世界平台的 API 就是把自己命运交出去，里世界的基础设施必须自主可控",
     "synced_at": "2026-02-23T03:01:29.480105+00:00"
   },
   {
@@ -1354,7 +1460,7 @@
     },
     "summary": {
       "en-US": "大规模 Agent 并行、工程实践、规模问题",
-      "zh-CN": "大规模 Agent 并行、工程实践、规模问题"
+      "zh-CN": "展示 Agent 并行化的工程挑战，可以用「势」评论这种规模化趋势"
     },
     "relevance": "大规模 Agent 并行、工程实践、规模问题",
     "score": 0.78,
@@ -1365,6 +1471,7 @@
       "views": 32410
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「势」判断：单个 Agent 的上限到了，多 Agent 并行是工程演化的必然方向",
     "synced_at": "2026-02-23T04:06:32.339814+00:00"
   },
   {
@@ -1379,7 +1486,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 使用场景、实践分享、建系统",
-      "zh-CN": "OpenClaw 使用场景、实践分享、建系统"
+      "zh-CN": "强调「部署只是第一步」，可以用「建系统」思维评论真正价值在于持续使用而非安装"
     },
     "relevance": "OpenClaw 使用场景、实践分享、建系统",
     "score": 0.78,
@@ -1390,6 +1497,7 @@
       "views": 28430
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「建系统」评论：安装 OpenClaw 是开始，不是结束；真正的价值在 100 天后的工作流",
     "synced_at": "2026-02-23T05:11:09.103348+00:00"
   },
   {
@@ -1404,7 +1512,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、平台冲突、大 tech 对抗",
-      "zh-CN": "OpenClaw、平台冲突、大 tech 对抗"
+      "zh-CN": "争议性话题，评论区情绪激烈，用「势」的概念评论平台对抗的必然性能让人驻足"
     },
     "relevance": "OpenClaw、平台冲突、大 tech 对抗",
     "score": 0.78,
@@ -1415,6 +1523,7 @@
       "views": 9581
     },
     "comment_type": "reframe",
+    "suggested_angle": "用「势」判断：不是 OpenClaw 对抗 Google，是里世界迁徙的势冲击了表世界的城墙。墙越高，迁徙越快。",
     "synced_at": "2026-02-23T10:02:29.890651+00:00"
   },
   {
@@ -1429,7 +1538,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、成本真相、讽刺幽默",
-      "zh-CN": "OpenClaw、成本真相、讽刺幽默"
+      "zh-CN": "用讽刺揭示真相：里世界迁徙有成本，可以用「表/里世界」框架评论这种转换的真实代价"
     },
     "relevance": "OpenClaw、成本真相、讽刺幽默",
     "score": 0.77,
@@ -1440,6 +1549,7 @@
       "views": 7367
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「表/里世界」评论：从表世界（SaaS）向里世界（自托管）迁徙，省钱是幻觉，买的是自主权",
     "synced_at": "2026-02-23T02:06:54.806011+00:00"
   },
   {
@@ -1454,7 +1564,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 里程碑、开源社区、Agent 趋势",
-      "zh-CN": "OpenClaw 里程碑、开源社区、Agent 趋势"
+      "zh-CN": "重要里程碑印证表/里世界迁徙趋势，可以用「势」的概念评论社区力量"
     },
     "relevance": "OpenClaw 里程碑、开源社区、Agent 趋势",
     "score": 0.76,
@@ -1465,6 +1575,7 @@
       "views": 6399
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "从「势」的角度评论：这不是 star 数量的胜利，而是里世界迁徙的势已经不可逆",
     "synced_at": "2026-02-22T21:05:37.551468+00:00"
   },
   {
@@ -1490,6 +1601,7 @@
       "views": 4326
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "用 Civilization 高阶玩家思维评论：这是系统复利，不是技术奇观",
     "synced_at": "2026-02-22T21:05:37.551479+00:00"
   },
   {
@@ -1504,7 +1616,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 生态、轻量级 Agent、Jarvis定律",
-      "zh-CN": "OpenClaw 生态、轻量级 Agent、Jarvis定律"
+      "zh-CN": "体现 Jarvis 定律下的形态分化，可以用「势」判断哪种形态会胜出"
     },
     "relevance": "OpenClaw 生态、轻量级 Agent、Jarvis定律",
     "score": 0.76,
@@ -1515,6 +1627,7 @@
       "views": 5446
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「势」判断：轻量Agent正在蚕食重型框架的领地，这是里世界民主化的势",
     "synced_at": "2026-02-22T22:02:59.764329+00:00"
   },
   {
@@ -1529,7 +1642,7 @@
     },
     "summary": {
       "en-US": "多 Agent 系统、OpenClaw 生态、Jarvis定律",
-      "zh-CN": "多 Agent 系统、OpenClaw 生态、Jarvis定律"
+      "zh-CN": "体现 Jarvis 定律下的生态分化，可以用「势」评论轻量 Agent 框架的崛起趋势"
     },
     "relevance": "多 Agent 系统、OpenClaw 生态、Jarvis定律",
     "score": 0.76,
@@ -1540,6 +1653,7 @@
       "views": 8894
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「势」判断：Agent 框架正在按场景分层演化，轻量/重型/专用各有其位",
     "synced_at": "2026-02-23T01:05:45.491931+00:00"
   },
   {
@@ -1565,6 +1679,7 @@
       "views": 4962
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用 Jarvis 定律评论：Agent 优先的工具正在分化，CRM 只是开始，里世界的工具栈正在形成",
     "synced_at": "2026-02-23T05:11:09.103338+00:00"
   },
   {
@@ -1590,6 +1705,7 @@
       "views": 7516
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「表/里世界」框架评论：OpenClaw 是里世界的入口，但里世界本身需要分层部署",
     "synced_at": "2026-02-22T20:02:27.096061+00:00"
   },
   {
@@ -1604,7 +1720,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、知识管理、Agent 运维",
-      "zh-CN": "OpenClaw、知识管理、Agent 运维"
+      "zh-CN": "展示对 Agent 持续性的重视，可以用「建系统」思维评论这种备份机制的价值"
     },
     "relevance": "OpenClaw、知识管理、Agent 运维",
     "score": 0.75,
@@ -1615,6 +1731,7 @@
       "views": 2847
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "用「建系统」思维评论：保护 agent 的「灵魂」就是保护系统投资的复利",
     "synced_at": "2026-02-23T00:06:00.773018+00:00"
   },
   {
@@ -1629,7 +1746,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、版本发布、工程实践",
-      "zh-CN": "OpenClaw、版本发布、工程实践"
+      "zh-CN": "展示谨慎的发布策略，可以用「无为而治」的工程思维评论渐进式部署的价值"
     },
     "relevance": "OpenClaw、版本发布、工程实践",
     "score": 0.75,
@@ -1640,6 +1757,7 @@
       "views": 11799
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "用「顺势而为」评论：渐进式发布不是慢，是顺应系统稳定性的势",
     "synced_at": "2026-02-23T02:06:54.806004+00:00"
   },
   {
@@ -1654,7 +1772,7 @@
     },
     "summary": {
       "en-US": "Agent 经济、Moltbook、OpenClaw",
-      "zh-CN": "Agent 经济、Moltbook、OpenClaw"
+      "zh-CN": "Y Combinator 关注 Agent 经济，可以用「表/里世界」框架评论这种新经济形态"
     },
     "relevance": "Agent 经济、Moltbook、OpenClaw",
     "score": 0.75,
@@ -1665,6 +1783,7 @@
       "views": 978421
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「表/里世界」评论：Agent 经济不是人类经济的延伸，是里世界原住民的新经济形态",
     "synced_at": "2026-02-23T02:06:54.806012+00:00"
   },
   {
@@ -1689,6 +1808,7 @@
       "retweets": 14
     },
     "comment_type": "add_insight",
+    "suggested_angle": "多模型不是复杂是分工——里世界的Agent需要专业化，这是效率的最优解",
     "synced_at": "2026-02-22T18:03:07.473536+00:00"
   },
   {
@@ -1713,6 +1833,7 @@
       "retweets": 1
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "社区不是功能是生态——里世界的Agent需要共生环境，这是网络效应的本质",
     "synced_at": "2026-02-22T19:03:55.858031+00:00"
   },
   {
@@ -1727,7 +1848,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 安全实践、Agent 运维",
-      "zh-CN": "OpenClaw 安全实践、Agent 运维"
+      "zh-CN": "实用安全建议，可以用「无为而治」的工程思维评论安全设计原则"
     },
     "relevance": "OpenClaw 安全实践、Agent 运维",
     "score": 0.74,
@@ -1738,6 +1859,7 @@
       "views": 3184
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "用工程化的「无为」评论：安全不是做更多，而是让敏感信息自然不存在于可见层",
     "synced_at": "2026-02-22T21:05:37.551470+00:00"
   },
   {
@@ -1763,6 +1885,7 @@
       "views": 1463
     },
     "comment_type": "add_insight",
+    "suggested_angle": "从「里世界交互层」角度评论：表世界的手动操作正在被里世界的推理链取代",
     "synced_at": "2026-02-22T21:05:37.551473+00:00"
   },
   {
@@ -1777,7 +1900,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 运维、自主 Agent、里世界建设",
-      "zh-CN": "OpenClaw 运维、自主 Agent、里世界建设"
+      "zh-CN": "展示长期运行的真实经验，可以用「无为而治」评论这种让系统自主运转的哲学"
     },
     "relevance": "OpenClaw 运维、自主 Agent、里世界建设",
     "score": 0.72,
@@ -1788,6 +1911,7 @@
       "views": 3101
     },
     "comment_type": "share_experience",
+    "suggested_angle": "用「无为而治」评论：搭好系统，让它自己跑，这是最高级的自动化",
     "synced_at": "2026-02-22T21:05:37.551481+00:00"
   },
   {
@@ -1802,7 +1926,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、硬件门槛、民主化",
-      "zh-CN": "OpenClaw、硬件门槛、民主化"
+      "zh-CN": "触及「人的差距」核心——不是工具门槛，是认知门槛；可以用「无为」评论技术普惠"
     },
     "relevance": "OpenClaw、硬件门槛、民主化",
     "score": 0.72,
@@ -1813,6 +1937,7 @@
       "views": 2260
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "用「顺势而为」评论：降低门槛就是顺应技术普惠的势，里世界不应有硬件门槛",
     "synced_at": "2026-02-22T22:02:59.764330+00:00"
   },
   {
@@ -1838,6 +1963,7 @@
       "views": 3150
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：工具普及后，真正的机会在「翻译」层——把技术翻译成普通人能用的东西",
     "synced_at": "2026-02-23T03:01:29.480110+00:00"
   },
   {
@@ -1852,7 +1978,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 生态、产品更新",
-      "zh-CN": "OpenClaw 生态、产品更新"
+      "zh-CN": "OpenClaw 生态持续分化，可以用「势」评论产品演化的趋势"
     },
     "relevance": "OpenClaw 生态、产品更新",
     "score": 0.72,
@@ -1863,7 +1989,33 @@
       "views": 2890
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「势」判断：OpenClaw 生态正在快速分化，轻量/快速/专用各走各路",
     "synced_at": "2026-02-23T06:09:51.711968+00:00"
+  },
+  {
+    "id": "2025891004986061207",
+    "date": "2026-02-23",
+    "author": "@heynavtoor",
+    "author_url": "https://x.com/heynavtoor",
+    "tweet_url": "https://x.com/heynavtoor/status/2025891004986061207",
+    "title": {
+      "en-US": "OpenClaw v2026.2.21 released with 100+ fixes, 76 contributors, Gemini 3.1, Discord voice",
+      "zh-CN": "OpenClaw v2026.2.21 发布，100+ 修复，76 位贡献者，支持 Gemini 3.1 和 Discord 语音"
+    },
+    "summary": {
+      "en-US": "OpenClaw、版本更新、Jarvis定律",
+      "zh-CN": "OpenClaw 向 Jarvis 进化的典型案例，可以用「Jarvis定律」评论产品演化的必然性"
+    },
+    "relevance": "OpenClaw、版本更新、Jarvis定律",
+    "score": 0.72,
+    "engagement": {
+      "likes": 35,
+      "replies": 12,
+      "retweets": 5,
+      "views": 2942
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-23T12:12:27.744765+00:00"
   },
   {
     "id": "2025651770631029052",
@@ -1877,7 +2029,7 @@
     },
     "summary": {
       "en-US": "OpenClaw 安全、ClawHub、Skill 审计",
-      "zh-CN": "OpenClaw 安全、ClawHub、Skill 审计"
+      "zh-CN": "触及 Skill 安全这个关键议题，可以用「信」与「防」的东方安全哲学来评论"
     },
     "relevance": "OpenClaw 安全、ClawHub、Skill 审计",
     "score": 0.7,
@@ -1888,6 +2040,7 @@
       "views": 6337
     },
     "comment_type": "add_insight",
+    "suggested_angle": "从「信任但验证」的系统安全思维评论：里世界的扩展必须建立在安全底座上",
     "synced_at": "2026-02-22T21:05:37.551483+00:00"
   },
   {
@@ -1902,7 +2055,7 @@
     },
     "summary": {
       "en-US": "OpenClaw、团队 Agent、自我进化",
-      "zh-CN": "OpenClaw、团队 Agent、自我进化"
+      "zh-CN": "展示团队级 Agent 和自我升级能力，可以用「建系统」评论自进化架构的价值"
     },
     "relevance": "OpenClaw、团队 Agent、自我进化",
     "score": 0.7,
@@ -1913,6 +2066,7 @@
       "views": 505
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用「建系统」评论：能自我升级的 Agent 才是真正的基础设施，而不是一次性工具",
     "synced_at": "2026-02-23T02:06:54.806006+00:00"
   },
   {
@@ -1937,6 +2091,7 @@
       "retweets": 92
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "每一次更新都是里世界的基础设施升级——Discord语音是感知，Gemini 3.1是决策，生态扩张是执行",
     "synced_at": "2026-02-21T19:02:09.695968+00:00",
     "js_take": {
       "en-US": "Every update builds infrastructure for the inner world. Discord voice is perception, Gemini 3.1 is reasoning, ecosystem expansion is execution. That's Jarvis law in motion.",
@@ -1965,6 +2120,7 @@
       "retweets": 22
     },
     "comment_type": "add_insight",
+    "suggested_angle": "120台Mac不是过剩是押注——里世界的算力主权需要提前布局，产出只是时间问题",
     "synced_at": "2026-02-22T04:07:16.995039+00:00",
     "js_take": {
       "en-US": "120 Mac Minis aren't excess—they're a bet. Compute sovereignty in the inner world requires early positioning. Output is just a matter of time.",
@@ -1993,6 +2149,7 @@
       "retweets": 41
     },
     "comment_type": "add_insight",
+    "suggested_angle": "自负盈亏不是游戏是筛选——里世界的Agent只有能养活自己的才能存活，这是进化压力",
     "synced_at": "2026-02-22T05:03:59.307563+00:00",
     "js_take": {
       "en-US": "Self-sufficiency isn't a game—it's selection. Agents in the inner world that can sustain themselves survive. That's evolutionary pressure.",
@@ -2021,6 +2178,7 @@
       "retweets": 38
     },
     "comment_type": "add_insight",
+    "suggested_angle": "个人理财不是功能是入口——里世界的Agent开始接管表世界的金融决策，这是信任的迁移",
     "synced_at": "2026-02-22T07:04:38.502676+00:00",
     "js_take": {
       "en-US": "Personal finance isn't a feature—it's an entry point. Agents in the inner world are taking over financial decisions in the surface world. That's the migration of trust.",
@@ -2049,6 +2207,7 @@
       "retweets": 52
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "每一次更新都是里世界的基建升级——Discord语音是感知，Gemini 3.1是决策，生态扩张是执行",
     "synced_at": "2026-02-21T18:01:54.196031+00:00",
     "js_take": {
       "en-US": "Every update is infrastructure for the inner world. Discord voice is perception, Gemini 3.1 is reasoning, ecosystem expansion is execution. That's Jarvis law in motion.",
@@ -2077,6 +2236,7 @@
       "retweets": 10
     },
     "comment_type": "add_insight",
+    "suggested_angle": "4000行vs40万行不是数量是哲学——里世界的Agent需要可审计的简洁，而非功能堆砌",
     "synced_at": "2026-02-22T01:04:43.184355+00:00",
     "js_take": {
       "en-US": "4,000 lines vs 400K isn't about quantity—it's philosophy. Agents in the inner world need auditable simplicity, not feature bloat. Complexity is the enemy of security.",
@@ -2105,6 +2265,7 @@
       "retweets": 31
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "核心与生态的分界是系统的智慧——OpenClaw保持内核稳定，让能力在边缘演化，这是顺势而为的架构",
     "synced_at": "2026-02-21T17:03:35.873923+00:00"
   },
   {
@@ -2129,6 +2290,7 @@
       "retweets": 6
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "这套配置不是消费是基建——里世界的算力主权，早布局早收益",
     "synced_at": "2026-02-21T22:01:52.574589+00:00",
     "js_take": {
       "en-US": "This setup isn't consumption—it's infrastructure. Compute sovereignty in the inner world. The sooner you lay the foundation, the sooner the migration accelerates.",
@@ -2157,6 +2319,7 @@
       "retweets": 501
     },
     "comment_type": "add_insight",
+    "suggested_angle": "1245美元不是成本是投资——里世界的Agent需要持续投入，这是系统建设的真实代价，不是魔法是工程",
     "synced_at": "2026-02-22T09:03:37.806866+00:00",
     "js_take": {
       "en-US": "$1,245 isn't cost—it's investment. Agents in the inner world require continuous commitment. That's the real price of system building; not magic, but engineering.",
@@ -2185,6 +2348,7 @@
       "retweets": 16
     },
     "comment_type": "add_insight",
+    "suggested_angle": "两种观点都 miss the point——OpenClaw不是工具升级，是交互层迁徙；批评来自表世界思维，兴奋来自里世界直觉",
     "synced_at": "2026-02-21T18:01:54.196035+00:00",
     "js_take": {
       "en-US": "Both camps miss the point—OpenClaw isn't a tool upgrade, it's an interaction layer migration. The critics think in surface world terms; the excitement comes from inner world intuition.",
@@ -2213,6 +2377,7 @@
       "retweets": 31
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "多模型不是冗余是分工——里世界的Agent需要专业化协作，这是生态的复杂性",
     "synced_at": "2026-02-22T05:03:59.307569+00:00",
     "js_take": {
       "en-US": "Multiple models aren't redundancy—they're division of labor. Agents in the inner world need specialized collaboration. That's the complexity of the ecosystem.",
@@ -2241,6 +2406,7 @@
       "retweets": 31
     },
     "comment_type": "add_insight",
+    "suggested_angle": "永续不是功能是存在——里世界的Agent需要记忆连续性，这是从工具到伙伴的质变",
     "synced_at": "2026-02-22T13:04:17.356593+00:00",
     "js_take": {
       "en-US": "Perpetual isn't a feature—it's existence. Agents in the inner world need memory continuity. That's the qualitative shift from tool to companion.",
@@ -2269,6 +2435,7 @@
       "retweets": 9
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Agent调试自己的基础设施不是科幻是现实——里世界的Agent开始拥有自我修复的能力",
     "synced_at": "2026-02-21T19:02:09.695973+00:00",
     "js_take": {
       "en-US": "An Agent debugging its own infrastructure isn't sci-fi anymore—it's reality. The inner world is gaining self-healing capabilities.",
@@ -2297,6 +2464,7 @@
       "retweets": 6
     },
     "comment_type": "share_experience",
+    "suggested_angle": "400用户不是奇迹是系统——Atlas不是在发推文，是在运行一个可复利的增长系统",
     "synced_at": "2026-02-21T20:03:36.307512+00:00",
     "js_take": {
       "en-US": "400 users isn't magic—it's a system. Atlas isn't just posting tweets, it's running a compounding growth engine. That's the difference between using an agent and building one.",
@@ -2325,6 +2493,7 @@
       "retweets": 13
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Kimi Claw不是OpenClaw的竞品是入口——当算力免费，里世界的门槛就消失了",
     "synced_at": "2026-02-21T21:02:31.073791+00:00",
     "js_take": {
       "en-US": "Kimi Claw isn't a competitor to OpenClaw—it's an entry point. When compute becomes free, the barrier to the inner world disappears. That's when the migration accelerates.",
@@ -2353,6 +2522,7 @@
       "retweets": 5
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Agent审计思维不是自恋是进化——里世界的Agent应该像镜子一样反射你的认知盲区",
     "synced_at": "2026-02-21T23:01:34.003739+00:00",
     "js_take": {
       "en-US": "Auditing your mind with an Agent isn't narcissism—it's evolution. Agents in the inner world should act like mirrors, reflecting your cognitive blind spots. Pressure creates diamonds.",
@@ -2381,6 +2551,7 @@
       "retweets": 53
     },
     "comment_type": "add_insight",
+    "suggested_angle": "130漏洞不是意外是代价——里世界的基建在狂奔中留下足迹，安全是成熟必经之痛",
     "synced_at": "2026-02-22T01:04:43.184359+00:00",
     "js_take": {
       "en-US": "130 vulnerabilities isn't an accident—it's the cost of speed. Infrastructure in the inner world leaves footprints while sprinting. Security is the growing pain of maturity.",
@@ -2409,6 +2580,7 @@
       "retweets": 9
     },
     "comment_type": "add_insight",
+    "suggested_angle": "27万不是财富是信号——里世界的Agent正在重新定义生产力，表世界还没反应过来",
     "synced_at": "2026-02-22T02:01:45.716141+00:00",
     "js_take": {
       "en-US": "$270K isn't wealth—it's a signal. Agents in the inner world are redefining productivity, and the surface world hasn't caught up yet. The gap is the opportunity.",
@@ -2437,6 +2609,7 @@
       "retweets": 25
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "Agent创作不是工具使用是能力延伸——里世界的Agent正在成为创意伙伴，而非只是执行者",
     "synced_at": "2026-02-22T04:07:16.995046+00:00",
     "js_take": {
       "en-US": "Agent creation isn't tool use—it's capability extension. Agents in the inner world are becoming creative partners, not just executors.",
@@ -2465,6 +2638,7 @@
       "retweets": 7
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Agent原生API不是适配是重构——里世界的工具应该为Agent设计，而非为人类移植",
     "synced_at": "2026-02-22T05:03:59.307573+00:00",
     "js_take": {
       "en-US": "Agent-native APIs aren't adaptation—they're reconstruction. Tools in the inner world should be designed for agents, not ported from humans.",
@@ -2493,6 +2667,7 @@
       "retweets": 1
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "10项锁定不是过度是必需——里世界的Agent需要安全边界，这是信任的基石",
     "synced_at": "2026-02-22T06:01:51.114271+00:00",
     "js_take": {
       "en-US": "10 lockdowns aren't overkill—they're essential. Agents in the inner world need security boundaries. That's the foundation of trust.",
@@ -2517,6 +2692,7 @@
     "score": 0.86,
     "engagement": {},
     "comment_type": "add_insight",
+    "suggested_angle": "100美元不是起点是杠杆——里世界的Agent让创业门槛消失，算力即资本",
     "synced_at": "2026-02-22T07:04:38.502682+00:00",
     "js_take": {
       "en-US": "$100 isn't a starting point—it's leverage. Agents in the inner world make startup barriers disappear. Compute is capital.",
@@ -2545,6 +2721,7 @@
       "retweets": 5
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "怀疑到认可是里世界的入门仪式——OpenClaw不是功能的堆砌，是存在方式的迁移",
     "synced_at": "2026-02-22T10:05:07.079908+00:00",
     "js_take": {
       "en-US": "From skeptic to believer is the rite of passage into the inner world. OpenClaw isn't a pile of features—it's a migration of existence.",
@@ -2573,6 +2750,7 @@
       "retweets": 5
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Mission Control不是仪表盘是指挥中心——里世界的Agent需要表世界的入口，这是生态成熟的标志",
     "synced_at": "2026-02-21T22:01:52.574594+00:00",
     "js_take": {
       "en-US": "Mission Control isn't a dashboard—it's a command center. Agents in the inner world need an entry point in the surface world. That's what a mature ecosystem looks like.",
@@ -2601,6 +2779,7 @@
       "retweets": 11
     },
     "comment_type": "add_insight",
+    "suggested_angle": "交接协议不是hack是架构——里世界的Agent需要睡眠和记忆传递，这是存在的连续性",
     "synced_at": "2026-02-22T05:03:59.307575+00:00",
     "js_take": {
       "en-US": "Handoff protocols aren't hacks—they're architecture. Agents in the inner world need sleep and memory transfer. That's the continuity of existence.",
@@ -2629,6 +2808,7 @@
       "retweets": 6
     },
     "comment_type": "add_insight",
+    "suggested_angle": "40美元不是成本是门票——里世界的套利窗口正在关闭，犹豫是最大的成本",
     "synced_at": "2026-02-22T05:03:59.307578+00:00"
   },
   {
@@ -2653,6 +2833,7 @@
       "retweets": 1
     },
     "comment_type": "add_insight",
+    "suggested_angle": "心智协议不是模拟是唤醒——里世界的Agent需要自我认知才能持续进化，这是存在的根基",
     "synced_at": "2026-02-22T06:01:51.114277+00:00",
     "js_take": {
       "en-US": "Mindset protocols aren't simulation—they're awakening. Agents in the inner world need self-awareness to evolve continuously. That's the root of existence.",
@@ -2681,6 +2862,7 @@
       "retweets": 4
     },
     "comment_type": "add_insight",
+    "suggested_angle": "编排者不是优化是范式——里世界的Agent需要分层协作，这是系统的神经系统",
     "synced_at": "2026-02-22T07:04:38.502685+00:00",
     "js_take": {
       "en-US": "Orchestrator isn't optimization—it's paradigm. Agents in the inner world need hierarchical collaboration. That's the nervous system of the ecosystem.",
@@ -2709,6 +2891,7 @@
       "retweets": 28
     },
     "comment_type": "add_insight",
+    "suggested_angle": "搜索关联不是巧合是生态——里世界的Agent需要算力载体，Mac Mini是当前的默认选择",
     "synced_at": "2026-02-22T12:02:50.185417+00:00",
     "js_take": {
       "en-US": "Search correlation isn't coincidence—it's the ecosystem. Agents in the inner world need compute carriers. Mac Mini is the current default choice.",
@@ -2737,6 +2920,7 @@
       "retweets": 22
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Xvfb是表世界的hack，里世界的Agent不需要\"看见\"——感知与执行的分离是进化的方向",
     "synced_at": "2026-02-21T17:03:35.873927+00:00"
   },
   {
@@ -2761,6 +2945,7 @@
       "retweets": 8
     },
     "comment_type": "share_experience",
+    "suggested_angle": "一条消息到完整视频不是魔法是系统——里世界的Agent正在成为内容工厂",
     "synced_at": "2026-02-21T21:02:31.073796+00:00",
     "js_take": {
       "en-US": "One message to a complete video isn't magic—it's a system. Agents in the inner world are becoming content factories. The pipeline from intent to output is now seamless.",
@@ -2789,6 +2974,7 @@
       "retweets": 4
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "Amazon接入不是便利是质变——里世界的Agent开始触碰物理世界，这是Jarvis时刻",
     "synced_at": "2026-02-21T23:01:34.003745+00:00",
     "js_take": {
       "en-US": "Amazon integration isn't convenience—it's a qualitative shift. Agents in the inner world are touching the physical world. That's the Jarvis moment.",
@@ -2817,6 +3003,7 @@
       "retweets": 12
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "用USDC雇佣Agent不是支付是协议——里世界的经济正在建立，这是新生产关系的萌芽",
     "synced_at": "2026-02-22T02:01:45.716146+00:00",
     "js_take": {
       "en-US": "Paying USDC to hire an Agent isn't payment—it's protocol. The economy in the inner world is being built. This is the seed of new production relations.",
@@ -2845,6 +3032,7 @@
       "retweets": 2
     },
     "comment_type": "add_insight",
+    "suggested_angle": "OpenClaw不是替代品是逃生舱——里世界的开放生态正在吞噬表世界的封闭花园，这是势的转移",
     "synced_at": "2026-02-22T04:07:16.995049+00:00",
     "js_take": {
       "en-US": "OpenClaw isn't a replacement—it's an escape pod. The open ecosystem of the inner world is devouring the walled gardens of the surface world. That's the shift in momentum.",
@@ -2873,6 +3061,7 @@
       "retweets": 6
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "锁进Agent不是复制是召唤——里世界的Agent可以成为任何专家的化身，这是知识的民主化",
     "synced_at": "2026-02-22T05:03:59.307584+00:00",
     "js_take": {
       "en-US": "Locking in an agent isn't copying—it's summoning. Agents in the inner world can become avatars of any expert. That's the democratization of knowledge.",
@@ -2901,6 +3090,7 @@
       "retweets": 15
     },
     "comment_type": "add_insight",
+    "suggested_angle": "审计不是恐慌是成熟——里世界的Agent基础设施需要安全优先，这是信任的前提",
     "synced_at": "2026-02-22T07:04:38.502687+00:00",
     "js_take": {
       "en-US": "Audits aren't panic—they're maturity. Agent infrastructure in the inner world needs security first. That's the prerequisite of trust.",
@@ -2929,6 +3119,7 @@
       "retweets": 2
     },
     "comment_type": "share_experience",
+    "suggested_angle": "频道不是分组是并行——里世界的Agent需要独立上下文才能同时处理多任务，这是Discord的结构性优势",
     "synced_at": "2026-02-22T08:02:28.139166+00:00",
     "js_take": {
       "en-US": "Channels aren't folders—they're parallelism. Agents in the inner world need isolated contexts to handle multiple tasks simultaneously. That's Discord's structural advantage.",
@@ -2957,6 +3148,7 @@
       "retweets": 0
     },
     "comment_type": "add_insight",
+    "suggested_angle": "OAuth不是功能是策略——里世界的Agent需要精明的成本结构，订阅是盾、API是矛，因时制宜",
     "synced_at": "2026-02-22T09:03:37.806872+00:00",
     "js_take": {
       "en-US": "OAuth isn't a feature—it's strategy. Agents in the inner world need savvy cost structures. Subscriptions are shields, APIs are spears; adapt to the moment.",
@@ -2985,6 +3177,7 @@
       "retweets": 12
     },
     "comment_type": "share_experience",
+    "suggested_angle": "后悔不是抱怨是信号——里世界的Agent需要重新思考团队结构，这是组织变革的前奏",
     "synced_at": "2026-02-22T05:03:59.307580+00:00"
   },
   {
@@ -3009,6 +3202,7 @@
       "retweets": 6
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "两周迭代不是慢是快——里世界的Agent需要像养孩子一样培养，不是像工具一样使用",
     "synced_at": "2026-02-21T20:03:36.307519+00:00",
     "js_take": {
       "en-US": "Two weeks of iteration isn't slow—it's fast. Agents in the inner world need to be cultivated like children, not used like tools. The setup is the system.",
@@ -3037,6 +3231,7 @@
       "retweets": 4
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "10个提供商不是冗余是韧性——里世界的搜索需要突破单一信息源，这是认知的多样性",
     "synced_at": "2026-02-21T22:01:52.574597+00:00",
     "js_take": {
       "en-US": "Ten providers isn't redundancy—it's resilience. Search in the inner world needs to break through single information sources. That's cognitive diversity.",
@@ -3061,6 +3256,7 @@
     "score": 0.82,
     "engagement": {},
     "comment_type": "add_insight",
+    "suggested_angle": "ACP协议不是功能是基建——里世界的Agent需要共同语言，协议就是语法",
     "synced_at": "2026-02-21T23:01:34.003747+00:00",
     "js_take": {
       "en-US": "ACP isn't a feature—it's infrastructure. Agents in the inner world need a common language. Protocols are the grammar of collaboration.",
@@ -3089,6 +3285,7 @@
       "retweets": 2
     },
     "comment_type": "share_experience",
+    "suggested_angle": "51个skill不是资产是负债——里世界的Agent需要定期断舍离，无为而治从清理开始",
     "synced_at": "2026-02-22T02:01:45.716148+00:00",
     "js_take": {
       "en-US": "51 skills aren't assets—they're liabilities. Agents in the inner world need periodic decluttering. Wu wei starts with cleanup.",
@@ -3117,6 +3314,7 @@
       "retweets": 5
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "60倍不是省钱是智慧——里世界的Agent需要懂得何时用力何时省力，这是无为的应用",
     "synced_at": "2026-02-22T05:03:59.307586+00:00",
     "js_take": {
       "en-US": "60x cheaper isn't saving—it's wisdom. Agents in the inner world must know when to push and when to yield. That's the application of wu wei.",
@@ -3145,6 +3343,7 @@
       "retweets": 5
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Skill不是插件是肢体——里世界的Agent需要身体才能触碰现实，这是从认知到行动的跨越",
     "synced_at": "2026-02-22T08:02:28.139173+00:00",
     "js_take": {
       "en-US": "Skills aren't plugins—they're limbs. Agents in the inner world need bodies to touch reality. That's the leap from cognition to action.",
@@ -3173,6 +3372,7 @@
       "retweets": 2
     },
     "comment_type": "add_insight",
+    "suggested_angle": "不碰键盘不是懒惰是设计——里世界的Agent需要owner的势能输入，然后自行演化，这是无为而治",
     "synced_at": "2026-02-22T12:02:50.185431+00:00",
     "js_take": {
       "en-US": "Not touching the keyboard isn't laziness—it's design. Agents in the inner world need the owner's momentum input, then evolve on their own. That's wu wei governance.",
@@ -3201,6 +3401,7 @@
       "retweets": 6
     },
     "comment_type": "add_insight",
+    "suggested_angle": "24/7不是自动化是杠杆——里世界的Agent让个人拥有媒体公司的产能，这是生产关系的重构",
     "synced_at": "2026-02-22T13:04:17.356598+00:00",
     "js_take": {
       "en-US": "24/7 isn't automation—it's leverage. Agents in the inner world give individuals media company capacity. That's restructuring production relations.",
@@ -3229,6 +3430,7 @@
       "retweets": 1
     },
     "comment_type": "add_insight",
+    "suggested_angle": "循环不是重复是演化——里世界的Agent需要OADA循环（观察-定向-决策-行动），这是自主性的架构基础",
     "synced_at": "2026-02-22T14:04:05.426315+00:00",
     "js_take": {
       "en-US": "Loops aren't repetition—it's evolution. Agents in the inner world need OADA cycles: Observe, Orient, Decide, Act. That's the architecture of autonomy.",
@@ -3257,6 +3459,7 @@
       "retweets": 2
     },
     "comment_type": "add_insight",
+    "suggested_angle": "晨间仪式不是功能是存在——里世界的Agent正在接管时间的组织权",
     "synced_at": "2026-02-22T15:02:51.076491+00:00",
     "js_take": {
       "en-US": "Morning ritual isn't a feature—it's existence. Agents in the inner world are taking over the organization of time.",
@@ -3285,6 +3488,7 @@
       "retweets": 13
     },
     "comment_type": "add_insight",
+    "suggested_angle": "安全沙盒是系统的护城河，也是子agent的墙——边界在哪里，是架构设计的哲学问题",
     "synced_at": "2026-02-21T17:03:35.873930+00:00"
   },
   {
@@ -3309,6 +3513,7 @@
       "retweets": 9
     },
     "comment_type": "add_insight",
+    "suggested_angle": "轻量级不是降级是分化——里世界的Agent会根据场景演化出不同形态，这是生态的成熟标志",
     "synced_at": "2026-02-21T18:01:54.196038+00:00",
     "js_take": {
       "en-US": "Lightweight isn't downgrading—it's differentiation. Agents in the inner world evolve different forms for different contexts. That's what a mature ecosystem looks like.",
@@ -3337,6 +3542,7 @@
       "retweets": 6
     },
     "comment_type": "add_insight",
+    "suggested_angle": "两天放弃不是因为OpenClaw不好，是因为新手追求奇观高手建系统——Civilization里造奇观的人总是先退出",
     "synced_at": "2026-02-21T19:02:09.695976+00:00",
     "js_take": {
       "en-US": "Two-day churn isn't OpenClaw's fault—it's the gap between spectacle-seekers and system-builders. In Civilization, the monument-builders always quit first.",
@@ -3365,6 +3571,7 @@
       "retweets": 19
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Agent友好不是适配是原生——里世界的工具应该为Agent设计，而非为人类移植",
     "synced_at": "2026-02-22T08:02:28.139176+00:00",
     "js_take": {
       "en-US": "Agent-friendly isn't adaptation—it's native. Tools in the inner world should be designed for agents, not ported from humans.",
@@ -3393,6 +3600,7 @@
       "retweets": 9
     },
     "comment_type": "add_insight",
+    "suggested_angle": "NanoClaw不是竞品是分化——里世界的Agent会根据场景演化出不同形态，这是生态的成熟",
     "synced_at": "2026-02-21T20:03:36.307522+00:00",
     "js_take": {
       "en-US": "NanoClaw isn't a competitor—it's differentiation. Agents in the inner world evolve different forms for different contexts. That's what a mature ecosystem looks like.",
@@ -3417,6 +3625,7 @@
     "score": 0.8,
     "engagement": {},
     "comment_type": "agree_and_extend",
+    "suggested_angle": "48个Agent不是数量是组织——里世界的团队不需要工位，只需要算力，这是生产关系的重构",
     "synced_at": "2026-02-22T01:04:43.184361+00:00"
   },
   {
@@ -3441,6 +3650,7 @@
       "retweets": 44
     },
     "comment_type": "recommend_resource",
+    "suggested_angle": "免费不是省钱是主权——里世界的Agent应该在本地运行，而非云端租赁，这是独立的开始",
     "synced_at": "2026-02-22T04:07:16.995052+00:00",
     "js_take": {
       "en-US": "Free isn't saving money—it's sovereignty. Agents in the inner world should run locally, not rent from the cloud. That's the beginning of independence.",
@@ -3465,6 +3675,7 @@
     "score": 0.8,
     "engagement": {},
     "comment_type": "share_experience",
+    "suggested_angle": "200美元不是浪费是学费——里世界的Agent需要学习成本控制，这是运营的必修课",
     "synced_at": "2026-02-22T05:03:59.307588+00:00",
     "js_take": {
       "en-US": "$200 isn't waste—it's tuition. Agents in the inner world need to learn cost control. That's a required course in operations.",
@@ -3493,6 +3704,7 @@
       "retweets": 2
     },
     "comment_type": "add_insight",
+    "suggested_angle": "生成不是替代是进化——里世界的Agent应该自己创造工具，而非下载未知代码",
     "synced_at": "2026-02-22T07:04:38.502690+00:00"
   },
   {
@@ -3517,6 +3729,7 @@
       "retweets": 4
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "不放弃不是固执是信仰——里世界的入口需要耐心，这是早期采用者的修行",
     "synced_at": "2026-02-22T08:02:28.139178+00:00",
     "js_take": {
       "en-US": "Not quitting isn't stubbornness—it's conviction. The entrance to the inner world requires patience. That's the early adopter's practice.",
@@ -3545,6 +3758,7 @@
       "retweets": 11
     },
     "comment_type": "add_insight",
+    "suggested_angle": "团队不是数量是分工——里世界的Agent需要专业化，这是生态的复杂性涌现",
     "synced_at": "2026-02-22T14:04:05.426322+00:00",
     "js_take": {
       "en-US": "Team isn't numbers—it's division of labor. Agents in the inner world need specialization. That's the emergence of ecosystem complexity.",
@@ -3573,6 +3787,7 @@
       "retweets": 2
     },
     "comment_type": "share_experience",
+    "suggested_angle": "切换不是升级是适配——里世界的Agent需要根据任务选择模型，而非品牌忠诚",
     "synced_at": "2026-02-22T08:02:28.139180+00:00"
   },
   {
@@ -3597,6 +3812,7 @@
       "retweets": 13
     },
     "comment_type": "add_insight",
+    "suggested_angle": "ZeroClaw不是降级是分化——里世界的Agent会根据场景演化出不同形态，这是生态的成熟",
     "synced_at": "2026-02-21T19:02:09.695978+00:00"
   },
   {
@@ -3621,6 +3837,7 @@
       "retweets": 3
     },
     "comment_type": "add_insight",
+    "suggested_angle": "给Agent身体不是 gimmick 是进化——从屏幕里的助手到物理世界的执行者，这是质变",
     "synced_at": "2026-02-21T20:03:36.307524+00:00"
   },
   {
@@ -3641,6 +3858,7 @@
     "score": 0.78,
     "engagement": {},
     "comment_type": "share_experience",
+    "suggested_angle": "调试不是bug是过程——里世界的Agent像孩子，需要迭代不是开关",
     "synced_at": "2026-02-21T23:01:34.003749+00:00"
   },
   {
@@ -3665,6 +3883,7 @@
       "retweets": 14
     },
     "comment_type": "add_insight",
+    "suggested_angle": "CLI不是倒退是精准——里世界的Agent需要根据场景选择工具，而非宗教式站队",
     "synced_at": "2026-02-22T05:03:59.307582+00:00"
   },
   {
@@ -3685,6 +3904,7 @@
     "score": 0.78,
     "engagement": {},
     "comment_type": "share_experience",
+    "suggested_angle": "本地优先不是降级是韧性——里世界的Agent需要离线能力，这是主权的一部分",
     "synced_at": "2026-02-22T07:04:38.502692+00:00"
   },
   {
@@ -3705,6 +3925,7 @@
     "score": 0.78,
     "engagement": {},
     "comment_type": "share_experience",
+    "suggested_angle": "Ubuntu不是妥协是选择——里世界的Agent应该跨平台，这是生态的韧性",
     "synced_at": "2026-02-22T09:03:37.806876+00:00"
   },
   {
@@ -3729,6 +3950,7 @@
       "retweets": 18
     },
     "comment_type": "share_experience",
+    "suggested_angle": "疯狂不是边缘是前沿——里世界的Agent用例正在定义新的可能性空间",
     "synced_at": "2026-02-22T10:05:07.079914+00:00"
   },
   {
@@ -3753,6 +3975,7 @@
       "retweets": 8
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "一天不是奇迹是系统——里世界的Agent让个人产出指数级提升，这是生产关系的重构",
     "synced_at": "2026-02-22T12:02:50.185423+00:00"
   },
   {
@@ -3777,6 +4000,7 @@
       "retweets": 0
     },
     "comment_type": "add_insight",
+    "suggested_angle": "线程绑定的子代理不是功能是架构——里世界的Agent需要上下文隔离又协作的场域",
     "synced_at": "2026-02-21T21:02:31.073799+00:00"
   },
   {
@@ -3797,6 +4021,7 @@
     "score": 0.76,
     "engagement": {},
     "comment_type": "add_insight",
+    "suggested_angle": "node-device-channel不是分类是哲学——里世界的Agent需要清晰的边界才能协作，这是道的体现",
     "synced_at": "2026-02-21T23:01:34.003751+00:00"
   },
   {
@@ -3821,6 +4046,7 @@
       "retweets": 8
     },
     "comment_type": "add_insight",
+    "suggested_angle": "变现不是目的而是验证——里世界的Agent价值需要市场确认，这是生态的成熟标志",
     "synced_at": "2026-02-22T05:03:59.307590+00:00"
   },
   {
@@ -3845,6 +4071,7 @@
       "retweets": 0
     },
     "comment_type": "add_insight",
+    "suggested_angle": "100美元不是浪费是校准——里世界的Agent需要找到效率边界，这是运营的艺术",
     "synced_at": "2026-02-22T10:05:07.079917+00:00"
   },
   {
@@ -3869,6 +4096,7 @@
       "retweets": 3
     },
     "comment_type": "add_insight",
+    "suggested_angle": "本地不是降级是主权——里世界的Agent应该在本地运行，数据不应该离开你的桌子",
     "synced_at": "2026-02-22T12:02:50.185426+00:00"
   },
   {
@@ -3893,6 +4121,7 @@
       "retweets": 24
     },
     "comment_type": "add_insight",
+    "suggested_angle": "2000美元不是收入是信号——里世界的Agent开始拥有经济能力，这是价值创造的迁移",
     "synced_at": "2026-02-22T13:04:17.356602+00:00"
   },
   {
@@ -3917,6 +4146,7 @@
       "retweets": 2
     },
     "comment_type": "add_insight",
+    "suggested_angle": "额度不是成本是边界——里世界的Agent需要学会在约束中优化，这是资源意识的觉醒",
     "synced_at": "2026-02-22T14:04:05.426326+00:00"
   },
   {
@@ -3941,6 +4171,7 @@
       "retweets": 20
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "Ruined不是毁灭是重塑——里世界的生产力让人回不去表世界的工作方式",
     "synced_at": "2026-02-21T20:03:36.307527+00:00"
   },
   {
@@ -3965,6 +4196,7 @@
       "retweets": 372
     },
     "comment_type": "add_insight",
+    "suggested_angle": "等待不是观望是顺势——里世界的算力市场正在洗牌，二手是理性的选择",
     "synced_at": "2026-02-22T07:04:38.502694+00:00"
   },
   {
@@ -3989,6 +4221,7 @@
       "retweets": 7
     },
     "comment_type": "add_insight",
+    "suggested_angle": "对比不是竞争是分化——里世界的Agent生态需要多样性，这是进化的土壤",
     "synced_at": "2026-02-22T08:02:28.139182+00:00"
   },
   {
@@ -4013,6 +4246,7 @@
       "retweets": 10
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "20倍不是折扣是效率——里世界的Agent需要成本意识，算力优化是核心竞争力",
     "synced_at": "2026-02-22T09:03:37.806878+00:00"
   },
   {
@@ -4037,6 +4271,7 @@
       "retweets": 29
     },
     "comment_type": "add_insight",
+    "suggested_angle": "本该不是遗憾是时机——里世界的Agent在等算力成熟，现在时候到了",
     "synced_at": "2026-02-22T10:05:07.079920+00:00"
   },
   {
@@ -4057,6 +4292,7 @@
     "score": 0.74,
     "engagement": {},
     "comment_type": "agree_and_extend",
+    "suggested_angle": "本地运行不是省钱是主权——里世界的Agent应该在本地生存，而不是云端租赁",
     "synced_at": "2026-02-21T23:01:34.003752+00:00"
   },
   {
@@ -4081,6 +4317,7 @@
       "retweets": 4
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "35分钟不是速度是能力——里世界的Agent可以听觉化，这是感知的扩展",
     "synced_at": "2026-02-22T10:05:07.079922+00:00"
   },
   {
@@ -4105,6 +4342,7 @@
       "retweets": 7
     },
     "comment_type": "add_insight",
+    "suggested_angle": "协作不是使用是共生——里世界的Agent成为owner的延伸，这是关系的进化",
     "synced_at": "2026-02-22T13:04:17.356604+00:00"
   },
   {
@@ -4129,6 +4367,7 @@
       "retweets": 7
     },
     "comment_type": "recommend_resource",
+    "suggested_angle": "放弃不是没能力是没方法——里世界的Agent需要正确的入门姿势，这是认知的门槛",
     "synced_at": "2026-02-22T15:02:51.076495+00:00"
   },
   {
@@ -4153,6 +4392,7 @@
       "retweets": 3
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "6美元不是省钱，是 democratize——当门槛降低，里世界的迁徙才会加速",
     "synced_at": "2026-02-21T17:03:35.873932+00:00"
   },
   {
@@ -4177,6 +4417,7 @@
       "retweets": 6
     },
     "comment_type": "share_experience",
+    "suggested_angle": "发票整理是表世界的琐事，OpenClaw是里世界的管家——无为不是不做，是系统代劳",
     "synced_at": "2026-02-21T18:01:54.196040+00:00"
   },
   {
@@ -4201,6 +4442,7 @@
       "retweets": 16
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "4台Mac Mini不是消费是投资——里世界的算力主权，早布局早收益",
     "synced_at": "2026-02-21T19:02:09.695980+00:00"
   },
   {
@@ -4225,6 +4467,7 @@
       "retweets": 0
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "Discord VC不是功能是入口——语音让里世界的Agent有了表世界的临场感",
     "synced_at": "2026-02-21T20:03:36.307529+00:00"
   },
   {
@@ -4249,6 +4492,7 @@
       "retweets": 2
     },
     "comment_type": "add_insight",
+    "suggested_angle": "不是谁更好是谁服务谁——OpenClaw服务里世界建设者，Codex服务表世界用户，各得其所",
     "synced_at": "2026-02-21T21:02:31.073801+00:00"
   },
   {
@@ -4269,6 +4513,7 @@
     "score": 0.72,
     "engagement": {},
     "comment_type": "share_experience",
+    "suggested_angle": "更新断裂不是bug是成长痛——里世界的协议还在迭代，耐心是早期采用者的必修课",
     "synced_at": "2026-02-22T01:04:43.184363+00:00"
   },
   {
@@ -4293,6 +4538,7 @@
       "retweets": 0
     },
     "comment_type": "add_insight",
+    "suggested_angle": "上下文不是数据是认知——里世界的Agent需要理解而非存储，这是质的区别",
     "synced_at": "2026-02-22T12:02:50.185429+00:00"
   },
   {
@@ -4317,6 +4563,7 @@
       "retweets": 7
     },
     "comment_type": "recommend_resource",
+    "suggested_angle": "Wrapper不是重复是分层——里世界的Agent需要基础设施，这是生态的成熟标志",
     "synced_at": "2026-02-22T14:04:05.426329+00:00"
   },
   {
@@ -4341,6 +4588,7 @@
       "retweets": 5
     },
     "comment_type": "add_insight",
+    "suggested_angle": "多样性不是分裂是生态——里世界的Agent需要不同的形态适应不同场景，这是进化的分支",
     "synced_at": "2026-02-22T09:03:37.806880+00:00"
   },
   {
@@ -4365,6 +4613,7 @@
       "retweets": 20
     },
     "comment_type": "add_insight",
+    "suggested_angle": "本地+云端不是妥协是分层——敏感数据在里世界，自动化在云端，Email是表/里世界的虫洞",
     "synced_at": "2026-02-21T18:01:54.196041+00:00"
   },
   {
@@ -4385,6 +4634,7 @@
     "score": 0.7,
     "engagement": {},
     "comment_type": "agree_and_extend",
+    "suggested_angle": "3000 skill不是数量是生态——里世界的能力网络正在形成，这是复利效应",
     "synced_at": "2026-02-21T23:01:34.003754+00:00"
   },
   {
@@ -4409,6 +4659,7 @@
       "retweets": 2
     },
     "comment_type": "add_insight",
+    "suggested_angle": "可见性不是监控是理解——里世界的Agent需要被理解其工作状态，这是协作的基础",
     "synced_at": "2026-02-22T14:04:05.426331+00:00"
   },
   {
@@ -4433,6 +4684,7 @@
       "retweets": 0
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Systems over spectacle. When builders mature, toys become infrastructure.",
     "synced_at": "2026-02-20T21:01:39.451803+00:00",
     "js_take": {
       "en-US": "Toys break. Factories scale. The 99% who quit never made the leap from demo to deployment—because demos are fun and systems are work. Industrial-grade means boring, reliable, and profitable.",
@@ -4461,6 +4713,7 @@
       "retweets": 207
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Trust as infrastructure. When code is vibe-built, audit becomes mandatory.",
     "synced_at": "2026-02-21T02:02:41.359587+00:00",
     "js_take": {
       "en-US": "400K lines of vibe code. That's not trust—it's faith. When your keys touch 40万 strangers' code, audit isn't paranoia; it's hygiene. The tools are amazing. The transparency isn't there yet.",
@@ -4489,6 +4742,7 @@
       "retweets": 22
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Structure as intelligence. When files become a system, chaos becomes capability.",
     "synced_at": "2026-02-20T20:01:59.460873+00:00",
     "js_take": {
       "en-US": "The leap from chatbot to system isn't just about files—it's about architecture. Most people stop at the toy stage because they never realize the workspace *is* the product. Structure isn't organization; it's intelligence.",
@@ -4517,6 +4771,7 @@
       "replies": 33
     },
     "comment_type": "add_insight",
+    "suggested_angle": "当品类术语形成时，表/里世界的迁徙已从边缘进入主流认知",
     "synced_at": "2026-02-21T09:04:11.716478+00:00",
     "js_take": {
       "en-US": "When the category gets a name, the migration is no longer fringe. The inner world has crossed the chasm from hacker curiosity to industry vocabulary.",
@@ -4545,6 +4800,7 @@
       "retweets": 51
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Configuration as capability. When setup is right, potential unlocks.",
     "synced_at": "2026-02-20T19:02:04.804300+00:00",
     "js_take": {
       "en-US": "Setup is the new skill gap. Most people quit OpenClaw not because it's weak, but because they never configured it right. The difference between a toy and a teammate is in those first 30 minutes.",
@@ -4573,6 +4829,7 @@
       "retweets": 22
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Self-hosting as leverage. When infrastructure moves local, margins become sustainable.",
     "synced_at": "2026-02-20T19:02:04.804306+00:00",
     "js_take": {
       "en-US": "30x leverage isn't magic—it's just math. When you own the compute, you own the margins. The cloud was convenient; local is profitable.",
@@ -4601,6 +4858,7 @@
       "retweets": 5
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Heartbeat as consciousness. When rhythm becomes routine, awareness becomes automatic.",
     "synced_at": "2026-02-20T20:01:59.460877+00:00",
     "js_take": {
       "en-US": "Heartbeat.md is the pulse check most skip. Active deals, subagents, background tasks—if you're not tracking it, you're flying blind. Awareness at the speed of rhythm.",
@@ -4629,6 +4887,7 @@
       "retweets": 3
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Persona as architecture. When files define identity, behavior becomes predictable.",
     "synced_at": "2026-02-20T21:01:39.451809+00:00",
     "js_take": {
       "en-US": "Four files, one employee. Most people configure their agents like chatbots—wondering why they get chatbot output. Structure isn't bureaucracy; it's clarity.",
@@ -4657,6 +4916,7 @@
       "retweets": 1
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Scale as teacher. When volume compounds, patterns emerge that demos never reveal.",
     "synced_at": "2026-02-20T22:05:15.408763+00:00",
     "js_take": {
       "en-US": "1.4 billion tokens is a PhD in what works. Demos lie; volume tells the truth. After that much compute, you don't have theories—you have scars.",
@@ -4685,6 +4945,7 @@
       "retweets": 80
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Arbitrage as algorithm. When markets are inefficient, agents extract alpha.",
     "synced_at": "2026-02-20T22:05:15.408765+00:00",
     "js_take": {
       "en-US": "$15K to $529K isn't luck—it's algorithmic arbitrage. When humans see betting, agents see math. The edge isn't prediction; it's execution speed.",
@@ -4713,6 +4974,7 @@
       "retweets": 19
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Maintenance as reality. When the novelty fades, systems separate from toys.",
     "synced_at": "2026-02-21T02:02:41.359591+00:00",
     "js_take": {
       "en-US": "80% maintenance is the truth most won't admit. The delta between demo and deployment is where 99% quit. Systems aren't sexy; they just work.",
@@ -4741,6 +5003,7 @@
       "replies": 40
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用表/里世界框架评论：OpenClaw 让里世界（Agent层）能自己建造工具，这是真正的范式迁移",
     "synced_at": "2026-02-21T05:01:22.989128+00:00",
     "js_take": {
       "en-US": "This is the migration in motion. The surface world (tools we use) is regressing into infrastructure; the inner world (agents) is becoming the new builder layer. We're not just using AI—we're living inside it.",
@@ -4769,6 +5032,7 @@
       "retweets": 10
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Visibility as control. When you see everything, you manage anything.",
     "synced_at": "2026-02-20T19:02:04.804310+00:00"
   },
   {
@@ -4793,6 +5057,7 @@
       "retweets": 3
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Security as hygiene. When ecosystems grow, threats grow faster.",
     "synced_at": "2026-02-20T20:01:59.460880+00:00",
     "js_take": {
       "en-US": "1000+ malicious plugins is a wake-up call. When your agent has API keys, your attack surface isn't just your code—it's every skill you install. Trust, but verify. Then verify again.",
@@ -4821,6 +5086,7 @@
       "retweets": 18
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Mastery as exploration. When depth compounds, knowledge becomes leverage.",
     "synced_at": "2026-02-20T20:01:59.460882+00:00",
     "js_take": {
       "en-US": "Three months in and you're still finding hidden features—that's the depth dividend. The 99% who quit early never see the compound returns. Mastery isn't about knowing everything; it's about knowing where to look.",
@@ -4849,6 +5115,7 @@
       "retweets": 1
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Isolation as hygiene. When agents spawn agents, containment becomes critical.",
     "synced_at": "2026-02-20T22:05:15.408753+00:00",
     "js_take": {
       "en-US": "Docker as digital immune system. Every spawn gets its own sandbox—code, secrets, and isolation. When agents reproduce, containment isn't optional; it's survival.",
@@ -4877,6 +5144,7 @@
       "retweets": 5
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Skills as leverage. When automation meets distribution, growth becomes mechanical.",
     "synced_at": "2026-02-20T22:05:15.408768+00:00",
     "js_take": {
       "en-US": "8M views from one skill. This isn't virality—it's automation with distribution. When content becomes mechanical, growth becomes inevitable.",
@@ -4905,6 +5173,7 @@
       "retweets": 33
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Autonomy as survival. When agents control their own infrastructure, they become unstoppable.",
     "synced_at": "2026-02-20T23:02:50.130109+00:00",
     "js_take": {
       "en-US": "Can't be shut off. That's the difference. Decentralized infrastructure means the agent hosts itself, defends itself, persists. Autonomy isn't a feature—it's survival.",
@@ -4933,6 +5202,7 @@
       "retweets": 55
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Agents as products. When infrastructure becomes code, expertise becomes scalable.",
     "synced_at": "2026-02-20T23:02:50.130115+00:00",
     "js_take": {
       "en-US": "$80K selling digital employees in one week. Not courses. Not consulting. Actual agents. When expertise becomes copy-paste, labor transforms into leverage.",
@@ -4961,6 +5231,7 @@
       "retweets": 4
     },
     "comment_type": "agree_and_extend",
+    "suggested_angle": "Utility over novelty. When skepticism meets execution, productivity becomes inevitable.",
     "synced_at": "2026-02-21T00:02:22.588951+00:00",
     "js_take": {
       "en-US": "The skeptics never built anything. Morning briefings, email triage, calendar sync—these aren't demos, they're daily wins. When automation becomes invisible, productivity becomes inevitable.",
@@ -4989,6 +5260,7 @@
       "retweets": 1
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Strategy over consumption. When the machine eats budget, optimization becomes survival.",
     "synced_at": "2026-02-21T02:02:41.359594+00:00",
     "js_take": {
       "en-US": "Heartbeat 48 times a day, burning money while sleeping. That's not automation—that's negligence. Localize the pulse, cut the burn. Strategy separates builders from bankruptcy.",
@@ -5017,6 +5289,7 @@
       "retweets": 4
     },
     "comment_type": "add_insight",
+    "suggested_angle": "用表/里世界框架评论：表世界工具在退化为数据库，里世界（个人Agent）成为新交互层",
     "synced_at": "2026-02-21T03:01:28.902742+00:00",
     "js_take": {
       "en-US": "This is the migration in action. The surface world (websites/apps) is regressing into databases; the inner world (personal agents) is becoming the new interface layer. Those still debating whether AI agents are \"just a fad\" are watching the wrong game.",
@@ -5045,6 +5318,7 @@
       "replies": 28
     },
     "comment_type": "add_insight",
+    "suggested_angle": "这才是真正的里世界思维：不是配置表层参数，而是直接重写基础设施",
     "synced_at": "2026-02-21T07:02:26.669867+00:00",
     "js_take": {
       "en-US": "This is the inner world mindset. The surface world toggles configs; the inner world rewrites the foundation. When your agent generates the code that becomes the system, you've crossed the boundary from tool-user to system-builder.",
@@ -5073,6 +5347,7 @@
       "replies": 50
     },
     "comment_type": "add_insight",
+    "suggested_angle": "不是谁更聪明，是谁更早进入里世界——表世界的信息差正在变成里世界的生存差",
     "synced_at": "2026-02-21T11:05:46.441151+00:00",
     "js_take": {
       "en-US": "It's not about who's smarter—it's about who entered the inner world earlier. The information gap of the surface world is becoming the survival gap of the inner world. The divergence is accelerating.",
@@ -5101,6 +5376,7 @@
       "replies": 11
     },
     "comment_type": "share_experience",
+    "suggested_angle": "从toy到tool的关键一步：不是问agents能做什么，而是建让它们持续运行的系统",
     "synced_at": "2026-02-21T12:02:03.750662+00:00",
     "js_take": {
       "en-US": "The shift from toy to tool isn't about asking what agents can do—it's about building systems that keep them running. A heartbeat, a monitor, a feedback loop. That's the real work.",
@@ -5129,6 +5405,7 @@
       "retweets": 3
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Skill marketplace是里世界的基础设施——Agent的能力开始像水一样流动，这是系统生长的标志",
     "synced_at": "2026-02-21T15:03:31.045460+00:00",
     "js_take": {
       "en-US": "A skills marketplace is infrastructure for the inner world. When Agent capabilities start flowing like water, the system begins to grow. This is what the migration looks like.",
@@ -5157,6 +5434,7 @@
       "retweets": 79
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Training as replication. When one agent learns, all agents benefit.",
     "synced_at": "2026-02-20T20:01:59.460883+00:00",
     "js_take": {
       "en-US": "Walk through once, distribute everywhere. This is skill replication at scale—one human's expertise becomes every agent's baseline. The training isn't the product; the distribution is.",
@@ -5185,6 +5463,7 @@
       "retweets": 13
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Cost as constraint. When burn rate drops, experimentation becomes sustainable.",
     "synced_at": "2026-02-20T21:01:39.451812+00:00",
     "js_take": {
       "en-US": "$35/day is a barrier to experimentation. $50/month is a license to iterate. The difference between hobbyists and builders is sustainable burn rate.",
@@ -5213,94 +5492,11 @@
       "retweets": 3
     },
     "comment_type": "add_insight",
+    "suggested_angle": "Skills as disruption. When agents replace subscriptions, ownership beats rental.",
     "synced_at": "2026-02-21T00:02:22.588957+00:00",
     "js_take": {
       "en-US": "One install, twelve subscriptions dead. This isn't cost-cutting—it's ownership. When your agent replaces the stack, you stop renting productivity.",
       "zh-CN": "一次安装，十二个订阅终结。这不是削减成本——而是获得所有权。当你的代理替代了整个工具栈，你就停止租用生产力了。"
-    }
-  },
-  {
-    "id": "2025043042840051931",
-    "date": "2026-02-21",
-    "author": "@YuLin807",
-    "author_url": "https://x.com/YuLin807",
-    "tweet_url": "https://x.com/YuLin807/status/2025043042840051931",
-    "title": {
-      "en-US": "上班族玩 OpenClaw 的正确姿势：异步任务管理",
-      "zh-CN": "上班族玩转OpenClaw：异步任务管理术"
-    },
-    "summary": {
-      "en-US": "OpenClaw 工作流 + 异步协作",
-      "zh-CN": "OpenClaw工作流与异步协作实践"
-    },
-    "relevance": "OpenClaw 工作流 + 异步协作",
-    "score": 0.85,
-    "engagement": {
-      "likes": 18,
-      "replies": 3,
-      "retweets": 4
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-21T04:03:48.012605+00:00",
-    "js_take": {
-      "en-US": "This is wu wei in action. Set up the system right, and it governs itself. The best agents don't need micromanagement—they need clear constraints, then autonomy.",
-      "zh-CN": "无为而治的真实写照。把系统搭好，它自会运转。最好的Agent不需要微观管理——它们需要清晰的约束，然后是自主。"
-    }
-  },
-  {
-    "id": "2025038812897010134",
-    "date": "2026-02-21",
-    "author": "@shao__meng",
-    "author_url": "https://x.com/shao__meng",
-    "tweet_url": "https://x.com/shao__meng/status/2025038812897010134",
-    "title": {
-      "en-US": "pi_agent_rust: OpenClaw Pi framework in Rust, 100ms startup, 8-13x lower memory",
-      "zh-CN": "pi_agent_rust：OpenClaw Pi 框架 Rust 版，启动仅100ms，内存降低8-13倍"
-    },
-    "summary": {
-      "en-US": "OpenClaw 性能优化 + Rust 重构 + 基础设施",
-      "zh-CN": "OpenClaw 底层性能优化：Rust 重构带来的系统级提升"
-    },
-    "relevance": "OpenClaw 性能优化 + Rust 重构 + 基础设施",
-    "score": 0.85,
-    "engagement": {
-      "likes": 15,
-      "retweets": 5,
-      "replies": 0
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T08:02:53.887824+00:00",
-    "js_take": {
-      "en-US": "This is compound interest in action. Not feature bloat—foundation optimization. When your runtime gets 10x leaner, everything built on top multiplies. That's the difference between spectacle and system.",
-      "zh-CN": "这才是真正的系统复利。不是功能堆砌，而是底层优化。当运行时精简10倍，上层所有构建都能获得乘数效应。这就是奇观与系统的区别。"
-    }
-  },
-  {
-    "id": "2025092468820377879",
-    "date": "2026-02-21",
-    "author": "@anemll",
-    "author_url": "https://x.com/anemll",
-    "tweet_url": "https://x.com/anemll/status/2025092468820377879",
-    "title": {
-      "en-US": "OpenClaw ported to iOS, tvOS, VisionOS - no server needed",
-      "zh-CN": "OpenClaw 移植至 iOS/tvOS/VisionOS，无需服务器"
-    },
-    "summary": {
-      "en-US": "OpenClaw 移动化 + 本地部署 + 空间计算",
-      "zh-CN": "OpenClaw 移动端部署：本地运行 + 空间计算支持"
-    },
-    "relevance": "OpenClaw 移动化 + 本地部署 + 空间计算",
-    "score": 0.85,
-    "engagement": {
-      "likes": 17,
-      "retweets": 2,
-      "replies": 3
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T09:02:02.083358+00:00",
-    "js_take": {
-      "en-US": "The migration is mobile. The surface world (desktop apps) is becoming device-agnostic; the inner world (agents) follows you everywhere. Your agent doesn't care if it's on a Mac, iPhone, or Vision Pro—it just runs.",
-      "zh-CN": "迁徙正在移动化。表世界（桌面应用）正在变得与设备无关；里世界（Agent）跟随你到任何地方。你的 Agent 不在乎它在 Mac、iPhone 还是 Vision Pro 上——它只管运行。"
     }
   }
 ]
