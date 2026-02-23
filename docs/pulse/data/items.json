@@ -901,6 +901,32 @@
     "synced_at": "2026-02-23T01:05:45.491929+00:00"
   },
   {
+    "id": "2025745531444879609",
+    "date": "2026-02-23",
+    "author": "@Yuchenj_UW",
+    "author_url": "https://x.com/Yuchenj_UW",
+    "tweet_url": "https://x.com/Yuchenj_UW/status/2025745531444879609",
+    "title": {
+      "en-US": "OpenAI acquired OpenClaw creator, Anthropic/Google blocked OpenCode from Pro plans, only OpenAI generous",
+      "zh-CN": "OpenAI 收购了 OpenClaw 创始人后，Anthropic 和 Google 阻止 OpenCode 使用他们的 Pro 计划，只有 OpenAI 显得慷慨"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态、平台竞争、商业策略",
+      "zh-CN": "触及平台博弈和生态控制，可以用「表/里世界」框架评论基础设施自主性的重要性"
+    },
+    "relevance": "OpenClaw 生态、平台竞争、商业策略",
+    "score": 0.78,
+    "engagement": {
+      "likes": 157,
+      "replies": 32,
+      "retweets": 7,
+      "views": 10823
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「表/里世界」评论：依赖表世界平台的 API 就是把自己命运交出去，里世界的基础设施必须自主可控",
+    "synced_at": "2026-02-23T03:01:29.480105+00:00"
+  },
+  {
     "id": "2025584775692730590",
     "date": "2026-02-23",
     "author": "@_avdept",
@@ -1287,6 +1313,32 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "用「顺势而为」评论：降低门槛就是顺应技术普惠的势，里世界不应有硬件门槛",
     "synced_at": "2026-02-22T22:02:59.764330+00:00"
+  },
+  {
+    "id": "2025508176020300247",
+    "date": "2026-02-23",
+    "author": "@OmriBuilds",
+    "author_url": "https://x.com/OmriBuilds",
+    "tweet_url": "https://x.com/OmriBuilds/status/2025508176020300247",
+    "title": {
+      "en-US": "OpenClaw Wrappers easiest path to $5k MRR, bridging gap for non-technical users",
+      "zh-CN": "OpenClaw 包装器可能是 2026 年独立开发者实现月入 5k 美元的最简单路径，为不懂技术的人搭建桥梁"
+    },
+    "summary": {
+      "en-US": "OpenClaw、商业机会、人群分化",
+      "zh-CN": "体现「AI 的上限就是使用 AI 的人」——工具门槛降低后，懂工具的人可以通过 bridge the gap 创造价值"
+    },
+    "relevance": "OpenClaw、商业机会、人群分化",
+    "score": 0.72,
+    "engagement": {
+      "likes": 42,
+      "replies": 26,
+      "retweets": 3,
+      "views": 3150
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：工具普及后，真正的机会在「翻译」层——把技术翻译成普通人能用的东西",
+    "synced_at": "2026-02-23T03:01:29.480110+00:00"
   },
   {
     "id": "2025651770631029052",
@@ -5421,55 +5473,5 @@
     "comment_type": "add_insight",
     "suggested_angle": "不争之争：90%成本优化是系统复利的结果，不是追求奇观",
     "synced_at": "2026-02-21T05:01:22.989133+00:00"
-  },
-  {
-    "id": "2025012876734595478",
-    "date": "2026-02-21",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2025012876734595478",
-    "title": {
-      "en-US": "Automated business: OpenClaw monitors feedback, builds features 24/7",
-      "zh-CN": "完全自动化的商业：OpenClaw 24/7 监控反馈并自动构建功能"
-    },
-    "summary": {
-      "en-US": "OpenClaw 自动化 + 产品迭代 + 一人公司",
-      "zh-CN": "展示 Agent 如何重构商业流程，从反馈到上线的全自动闭环"
-    },
-    "relevance": "OpenClaw 自动化 + 产品迭代 + 一人公司",
-    "score": 0.78,
-    "engagement": {
-      "likes": 245,
-      "retweets": 10,
-      "replies": 70
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "无为而治的商业实现：搭好系统，让 Agent 自动生长产品",
-    "synced_at": "2026-02-21T07:02:26.669876+00:00"
-  },
-  {
-    "id": "2024954933833855367",
-    "date": "2026-02-21",
-    "author": "@oliverhenry",
-    "author_url": "https://x.com/oliverhenry",
-    "tweet_url": "https://x.com/oliverhenry/status/2024954933833855367",
-    "title": {
-      "en-US": "Netflix of SaaS - anyone can publish skills instantly available",
-      "zh-CN": "Netflix of SaaS - anyone can publish skills instantly available"
-    },
-    "summary": {
-      "en-US": "Skill经济 + SaaS替代 + OpenClaw商业模式",
-      "zh-CN": "Skill经济的商业模式思考，展示agent经济的未来"
-    },
-    "relevance": "Skill经济 + SaaS替代 + OpenClaw商业模式",
-    "score": 0.78,
-    "engagement": {
-      "likes": 28,
-      "retweets": 1,
-      "replies": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "SaaS是订阅制，Skill是按需制——里世界的经济模型正在重写表世界的商业逻辑",
-    "synced_at": "2026-02-21T11:05:46.441160+00:00"
   }
 ]
