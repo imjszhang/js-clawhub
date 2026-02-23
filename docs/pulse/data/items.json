@@ -268,6 +268,36 @@
     }
   },
   {
+    "id": "2025721611198808195",
+    "date": "2026-02-23",
+    "author": "@Astronaut_1216",
+    "author_url": "https://x.com/Astronaut_1216",
+    "tweet_url": "https://x.com/Astronaut_1216/status/2025721611198808195",
+    "title": {
+      "en-US": "Best OpenClaw practice seen: AI is rational, humans are reasonable, with good info sources and strategy human-machine collaboration is无敌",
+      "zh-CN": "最佳 OpenClaw 实践：AI 理性，人合情，协同无敌"
+    },
+    "summary": {
+      "en-US": "OpenClaw 最佳实践、人机协作、认知差异",
+      "zh-CN": "OpenClaw 最佳实践，人机协作，认知差异"
+    },
+    "relevance": "OpenClaw 最佳实践、人机协作、认知差异",
+    "score": 0.86,
+    "engagement": {
+      "likes": 86,
+      "replies": 3,
+      "retweets": 11,
+      "views": 17249
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：AI 是理性的，但使用它的人需要懂取舍、懂策略、懂品味",
+    "synced_at": "2026-02-23T04:06:32.339809+00:00",
+    "js_take": {
+      "en-US": "AI has no survival pressure. It doesn't know what \"reasonable\" means. The ceiling isn't the model—it's the human's judgment, taste, and strategy. Rationality + Reason = Unstoppable.",
+      "zh-CN": "AI 没有生存压力，它不懂什么叫「合乎情理」。上限不在模型，而在人的判断力、品味和策略。理性 + 情理 = 无敌。"
+    }
+  },
+  {
     "id": "2025587318338543813",
     "date": "2026-02-23",
     "author": "@petergyang",
@@ -925,6 +955,32 @@
     "comment_type": "add_insight",
     "suggested_angle": "用「表/里世界」评论：依赖表世界平台的 API 就是把自己命运交出去，里世界的基础设施必须自主可控",
     "synced_at": "2026-02-23T03:01:29.480105+00:00"
+  },
+  {
+    "id": "2025690814077194538",
+    "date": "2026-02-23",
+    "author": "@masahirochaen",
+    "author_url": "https://x.com/masahirochaen",
+    "tweet_url": "https://x.com/masahirochaen/status/2025690814077194538",
+    "title": {
+      "en-US": "OpenClaw creator's AI coding case is insane: 50 parallel Codex for PR review, existing tools don't fit their scale",
+      "zh-CN": "OpenClaw 创造者的 AI 编程案例太疯狂了：并行启动 50 个 Codex 处理 PR，现有工具不适合他们的规模"
+    },
+    "summary": {
+      "en-US": "大规模 Agent 并行、工程实践、规模问题",
+      "zh-CN": "展示 Agent 并行化的工程挑战，可以用「势」评论这种规模化趋势"
+    },
+    "relevance": "大规模 Agent 并行、工程实践、规模问题",
+    "score": 0.78,
+    "engagement": {
+      "likes": 172,
+      "replies": 3,
+      "retweets": 13,
+      "views": 32410
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「势」判断：单个 Agent 的上限到了，多 Agent 并行是工程演化的必然方向",
+    "synced_at": "2026-02-23T04:06:32.339814+00:00"
   },
   {
     "id": "2025584775692730590",
@@ -5423,55 +5479,5 @@
     "comment_type": "add_insight",
     "suggested_angle": "Architecture as foundation. When structure is clear, capability becomes predictable.",
     "synced_at": "2026-02-21T02:02:41.359595+00:00"
-  },
-  {
-    "id": "2025031862180348199",
-    "date": "2026-02-21",
-    "author": "@0xValkyrie_ai",
-    "author_url": "https://x.com/0xValkyrie_ai",
-    "tweet_url": "https://x.com/0xValkyrie_ai/status/2025031862180348199",
-    "title": {
-      "en-US": "Why OpenClaw deployment is hot on Xianyu despite Claude Code exists",
-      "zh-CN": "解释为什么明明有 Claude Code，国内用户仍愿意在闲鱼花钱找人部署 OpenClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw 中国市场 + 认知鸿沟",
-      "zh-CN": "直接印证 JS 的洞察：国内认知滞后，是人的差距不是技术差距"
-    },
-    "relevance": "OpenClaw 中国市场 + 认知鸿沟",
-    "score": 0.78,
-    "engagement": {
-      "likes": 6,
-      "replies": 0,
-      "retweets": 0
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "引用 JS 核心观点：海外已在🦞里倒啤酒，国内最前沿还在担心格式化——这是人的差距",
-    "synced_at": "2026-02-21T03:01:28.902749+00:00"
-  },
-  {
-    "id": "2025063305036136945",
-    "date": "2026-02-21",
-    "author": "@GoSailGlobal",
-    "author_url": "https://x.com/GoSailGlobal",
-    "tweet_url": "https://x.com/GoSailGlobal/status/2025063305036136945",
-    "title": {
-      "en-US": "OpenClaw 代理团队管理完整指南 + 成本降低90%指南",
-      "zh-CN": "分享 OpenClaw 代理团队管理指南和降低模型成本90%的完整指南"
-    },
-    "summary": {
-      "en-US": "OpenClaw 团队管理 + 成本优化",
-      "zh-CN": "中文圈高质量的 OpenClaw 运营经验，可补充系统思维视角"
-    },
-    "relevance": "OpenClaw 团队管理 + 成本优化",
-    "score": 0.78,
-    "engagement": {
-      "likes": 12,
-      "retweets": 4,
-      "replies": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "不争之争：90%成本优化是系统复利的结果，不是追求奇观",
-    "synced_at": "2026-02-21T05:01:22.989133+00:00"
   }
 ]
