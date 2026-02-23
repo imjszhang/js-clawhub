@@ -1,5 +1,55 @@
 [
   {
+    "id": "2025947295225716951",
+    "date": "2026-02-24",
+    "author": "@Jason",
+    "author_url": "https://x.com/Jason",
+    "tweet_url": "https://x.com/Jason/status/2025947295225716951",
+    "title": {
+      "en-US": "80% of my team now has their own OpenClaw agent, considering Mac studios for everyone",
+      "zh-CN": "团队 80% 的人有了自己的 OpenClaw agent，考虑给所有人配 Mac Studio"
+    },
+    "summary": {
+      "en-US": "OpenClaw、团队采用、里世界迁徙",
+      "zh-CN": "高曝光+团队采用案例，用「表/里世界」评论工作方式的结构性转变"
+    },
+    "relevance": "OpenClaw、团队采用、里世界迁徙",
+    "score": 0.77,
+    "engagement": {
+      "likes": 212,
+      "replies": 16,
+      "retweets": 7,
+      "views": 24268
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-23T16:03:11.809777+00:00"
+  },
+  {
+    "id": "2025944354070659094",
+    "date": "2026-02-24",
+    "author": "@sharbel",
+    "author_url": "https://x.com/sharbel",
+    "tweet_url": "https://x.com/sharbel/status/2025944354070659094",
+    "title": {
+      "en-US": "How I Run My Entire Business With AI Agents (Full OpenClaw Setup)",
+      "zh-CN": "展示如何用 OpenClaw 运行整个业务，包括 X 内容、交易机器人、YouTube 等"
+    },
+    "summary": {
+      "en-US": "OpenClaw、业务自动化、建系统",
+      "zh-CN": "业务自动化案例，用「建系统」评论业务由 Agent 运行的系统思维"
+    },
+    "relevance": "OpenClaw、业务自动化、建系统",
+    "score": 0.7,
+    "engagement": {
+      "likes": 88,
+      "replies": 11,
+      "retweets": 2,
+      "views": 3877
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-23T16:03:11.809785+00:00"
+  },
+  {
     "id": "2025873646724800835",
     "date": "2026-02-23",
     "author": "@benhylak",
@@ -5244,62 +5294,6 @@
     "js_take": {
       "en-US": "This is the inner world mindset. The surface world toggles configs; the inner world rewrites the foundation. When your agent generates the code that becomes the system, you've crossed the boundary from tool-user to system-builder.",
       "zh-CN": "这才是真正的里世界思维。表世界切换配置，里世界重写底层。当Agent生成的代码即系统时，你便跨越了从工具使用者到系统构建者的界限。"
-    }
-  },
-  {
-    "id": "2024942333133750707",
-    "date": "2026-02-21",
-    "author": "@SuisPasDaVinci",
-    "author_url": "https://x.com/SuisPasDaVinci",
-    "tweet_url": "https://x.com/SuisPasDaVinci/status/2024942333133750707",
-    "title": {
-      "en-US": "能上X的人更容易接触新知识，同事不知道Seedance/OpenClaw",
-      "zh-CN": "上X者掌握新知，同事对Seedance/OpenClaw一无所知"
-    },
-    "summary": {
-      "en-US": "认知差距 + AI工具普及 + 中文KOL",
-      "zh-CN": "探讨认知差距、AI工具普及与中文KOL现象"
-    },
-    "relevance": "认知差距 + AI工具普及 + 中文KOL",
-    "score": 0.88,
-    "engagement": {
-      "likes": 407,
-      "retweets": 47,
-      "replies": 50
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T11:05:46.441151+00:00",
-    "js_take": {
-      "en-US": "It's not about who's smarter—it's about who entered the inner world earlier. The information gap of the surface world is becoming the survival gap of the inner world. The divergence is accelerating.",
-      "zh-CN": "这不是谁更聪明的问题——而是谁更早进入了里世界。表世界的信息差，正在变成里世界的生存差。分化在加速。"
-    }
-  },
-  {
-    "id": "2024998388228653270",
-    "date": "2026-02-21",
-    "author": "@twistartups",
-    "author_url": "https://x.com/twistartups",
-    "tweet_url": "https://x.com/twistartups/status/2024998388228653270",
-    "title": {
-      "en-US": "How to get OpenClaw agents to start doing REAL WORK",
-      "zh-CN": "如何让OpenClaw agents开始做真正的工作"
-    },
-    "summary": {
-      "en-US": "OpenClaw实战 + Agent生产力 + 高影响力账号",
-      "zh-CN": "OpenClaw实战技巧、Agent生产力提升、高影响力账号分享"
-    },
-    "relevance": "OpenClaw实战 + Agent生产力 + 高影响力账号",
-    "score": 0.88,
-    "engagement": {
-      "likes": 156,
-      "retweets": 15,
-      "replies": 11
-    },
-    "comment_type": "share_experience",
-    "synced_at": "2026-02-21T12:02:03.750662+00:00",
-    "js_take": {
-      "en-US": "The shift from toy to tool isn't about asking what agents can do—it's about building systems that keep them running. A heartbeat, a monitor, a feedback loop. That's the real work.",
-      "zh-CN": "从玩具到工具的跨越，不是问agent能做什么，而是建一个让它们持续运转的系统。心跳、监控、反馈循环——这才是真正的工作。"
     }
   }
 ]
