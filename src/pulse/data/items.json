@@ -154,6 +154,31 @@
     "synced_at": "2026-02-23T17:04:50.175688+00:00"
   },
   {
+    "id": "2025962835386179681",
+    "date": "2026-02-24",
+    "author": "@kyle_e_walker",
+    "author_url": "https://x.com/kyle_e_walker",
+    "tweet_url": "https://x.com/kyle_e_walker/status/2025962835386179681",
+    "title": {
+      "en-US": "OpenClaw bot fetches drilling permits, parses data, maps satellite imagery for oil and gas",
+      "zh-CN": "OpenClaw 机器人获取钻井许可，解析数据，叠加卫星影像，用于石油天然气行业"
+    },
+    "summary": {
+      "en-US": "OpenClaw、行业应用、里世界",
+      "zh-CN": "高曝光(2.7万浏览)，展示 OpenClaw 在专业领域的深度应用，用「里世界」评论 Agent 接管专业工作流"
+    },
+    "relevance": "OpenClaw、行业应用、里世界",
+    "score": 0.74,
+    "engagement": {
+      "likes": 378,
+      "replies": 13,
+      "retweets": 17,
+      "views": 27332
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-23T19:03:52.006363+00:00"
+  },
+  {
     "id": "2025949178744979749",
     "date": "2026-02-24",
     "author": "@aaronabentheuer",
@@ -177,6 +202,31 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-23T18:05:47.694701+00:00"
+  },
+  {
+    "id": "2025979945126605061",
+    "date": "2026-02-24",
+    "author": "@gothburz",
+    "author_url": "https://x.com/gothburz",
+    "tweet_url": "https://x.com/gothburz/status/2025979945126605061",
+    "title": {
+      "en-US": "Google Support Lead explains OpenClaw ban process - $249/month user banned permanently",
+      "zh-CN": "Google 支持负责人解释 OpenClaw 封禁流程——每月付$249的用户被永久封禁"
+    },
+    "summary": {
+      "en-US": "OpenClaw、平台冲突、势",
+      "zh-CN": "高曝光(5.4万浏览)+争议性，用「势」评论平台对抗的必然性"
+    },
+    "relevance": "OpenClaw、平台冲突、势",
+    "score": 0.72,
+    "engagement": {
+      "likes": 150,
+      "replies": 32,
+      "retweets": 29,
+      "views": 54262
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-23T19:03:52.006371+00:00"
   },
   {
     "id": "2025964268567277744",
@@ -5403,64 +5453,6 @@
     "js_take": {
       "en-US": "1000+ malicious plugins is a wake-up call. When your agent has API keys, your attack surface isn't just your code—it's every skill you install. Trust, but verify. Then verify again.",
       "zh-CN": "1000多个恶意插件是一个警钟。当你的代理拥有API密钥时，你的攻击面不只是你的代码——而是你安装的每一个技能。信任，但要验证。然后再验证一次。"
-    }
-  },
-  {
-    "id": "2024913210248495474",
-    "date": "2026-02-21",
-    "author": "@milesdeutscher",
-    "author_url": "https://x.com/milesdeutscher",
-    "tweet_url": "https://x.com/milesdeutscher/status/2024913210248495474",
-    "title": {
-      "en-US": "3 months OpenClaw tips compilation",
-      "zh-CN": "OpenClaw三个月深度使用技巧合集"
-    },
-    "summary": {
-      "en-US": "OpenClaw进阶技巧、经验总结、隐藏功能",
-      "zh-CN": "OpenClaw进阶技巧总结、深度使用经验、隐藏功能发现"
-    },
-    "relevance": "OpenClaw进阶技巧、经验总结、隐藏功能",
-    "score": 0.88,
-    "engagement": {
-      "likes": 140,
-      "replies": 23,
-      "retweets": 18
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Mastery as exploration. When depth compounds, knowledge becomes leverage.",
-    "synced_at": "2026-02-20T20:01:59.460882+00:00",
-    "js_take": {
-      "en-US": "Three months in and you're still finding hidden features—that's the depth dividend. The 99% who quit early never see the compound returns. Mastery isn't about knowing everything; it's about knowing where to look.",
-      "zh-CN": "三个月过去了，你仍在发现隐藏功能——这就是深度红利。那99%提前放弃的人永远看不到复利回报。精通不是知道所有事，而是知道去哪里找。"
-    }
-  },
-  {
-    "id": "2024929695893192949",
-    "date": "2026-02-21",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2024929695893192949",
-    "title": {
-      "en-US": "OpenClaw subagents sandboxed with Docker",
-      "zh-CN": "OpenClaw子代理Docker沙箱隔离"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全、Docker沙箱、子代理隔离",
-      "zh-CN": "OpenClaw安全防护、Docker沙箱部署、子代理隔离机制"
-    },
-    "relevance": "OpenClaw安全、Docker沙箱、子代理隔离",
-    "score": 0.88,
-    "engagement": {
-      "likes": 58,
-      "replies": 3,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Isolation as hygiene. When agents spawn agents, containment becomes critical.",
-    "synced_at": "2026-02-20T22:05:15.408753+00:00",
-    "js_take": {
-      "en-US": "Docker as digital immune system. Every spawn gets its own sandbox—code, secrets, and isolation. When agents reproduce, containment isn't optional; it's survival.",
-      "zh-CN": "Docker就像数字免疫系统。每个生成的代理都有自己的沙箱——代码、密钥和隔离。当代理自我复制时，隔离不是可选项；它是生存的根本。"
     }
   }
 ]
