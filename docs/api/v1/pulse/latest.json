@@ -1,10 +1,39 @@
 {
-  "updated_at": "2026-02-23T19:03:52.026095+00:00",
+  "updated_at": "2026-02-23T20:03:03.007301+00:00",
   "this_week": {
-    "total_items": 89,
+    "total_items": 91,
     "avg_score": 0.8,
-    "unique_authors": 78,
+    "unique_authors": 80,
     "top_items": [
+      {
+        "id": "2026019344602288166",
+        "date": "2026-02-24",
+        "author": "@elonmusk",
+        "author_url": "https://x.com/elonmusk",
+        "tweet_url": "https://x.com/elonmusk/status/2026019344602288166",
+        "title": {
+          "en-US": "People giving OpenClaw root access to their entire life",
+          "zh-CN": "人们将整个人生的 root 权限交给 OpenClaw"
+        },
+        "summary": {
+          "en-US": "OpenClaw、root权限、安全边界、无为",
+          "zh-CN": "OpenClaw、root 权限、安全边界、无为而治"
+        },
+        "relevance": "OpenClaw、root权限、安全边界、无为",
+        "score": 0.98,
+        "engagement": {
+          "likes": 17184,
+          "replies": 2303,
+          "retweets": 1279,
+          "views": 577082
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-02-23T20:02:21.446837+00:00",
+        "js_take": {
+          "en-US": "Root access to your whole life. Everyone calls it trust—道 calls it flood without walls.",
+          "zh-CN": "把你整个人生的 root 权限交出去。所有人说这是信任——道说这就是没有堤坝的洪水。"
+        }
+      },
       {
         "id": "2025873646724800835",
         "date": "2026-02-23",
@@ -1000,40 +1029,11 @@
           "en-US": "Beginners chase wonders. Pros build systems. A Mission Control isn't a feature—it's infrastructure that compounds.",
           "zh-CN": "新手追奇观，高手建系统。Mission Control 不是功能，而是能产生复利的基础设施。"
         }
-      },
-      {
-        "id": "2025692550821236881",
-        "date": "2026-02-23",
-        "author": "@kloss_xyz",
-        "author_url": "https://x.com/kloss_xyz",
-        "tweet_url": "https://x.com/kloss_xyz/status/2025692550821236881",
-        "title": {
-          "en-US": "Reality of AI content + OpenClaw: lots of nights debugging. Agents don't work out of the box. How to stop forgetting",
-          "zh-CN": "AI 内容 + OpenClaw 的真相：很多个这样的夜晚。Agent 不是开箱即用。如何防止遗忘"
-        },
-        "summary": {
-          "en-US": "OpenClaw、Agent 记忆、工程现实",
-          "zh-CN": "直击「不造奇观，建系统」的核心——真实运维远比 demo 复杂，需要展示这种清醒认知"
-        },
-        "relevance": "OpenClaw、Agent 记忆、工程现实",
-        "score": 0.82,
-        "engagement": {
-          "likes": 39,
-          "replies": 17,
-          "retweets": 4,
-          "views": 3048
-        },
-        "comment_type": "add_insight",
-        "synced_at": "2026-02-22T23:02:03.716399+00:00",
-        "js_take": {
-          "en-US": "Demos are liabilities. Systems that survive 3 AM errors are assets. Civilization beginners chase wonders, pros build infrastructure that compounds through breakage.",
-          "zh-CN": "Demo 是负债。能挺过凌晨3点错误的系统才是资产。文明新手追奇观，高手建能在故障中复利的基础设施。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 150
+    "unique_authors": 151
   }
 }
