@@ -118,6 +118,36 @@
     }
   },
   {
+    "id": "2025711864848511103",
+    "date": "2026-02-23",
+    "author": "@onusoz",
+    "author_url": "https://x.com/onusoz",
+    "tweet_url": "https://x.com/onusoz/status/2025711864848511103",
+    "title": {
+      "en-US": "OpenClaw effect: bought GPU home server, back to Linux, SSH, tmux like 10-15 years ago, unshackling",
+      "zh-CN": "OpenClaw 效应：买 GPU 服务器回归 Linux 黑客精神"
+    },
+    "summary": {
+      "en-US": "OpenClaw、技术文化、里世界基础设施",
+      "zh-CN": "OpenClaw，技术文化，里世界基础设施"
+    },
+    "relevance": "OpenClaw、技术文化、里世界基础设施",
+    "score": 0.88,
+    "engagement": {
+      "likes": 223,
+      "replies": 19,
+      "retweets": 8,
+      "views": 12478
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「表/里世界」和「人的差距」评论：OpenClaw 让人回归黑客精神，这是里世界对表世界的反哺",
+    "synced_at": "2026-02-23T01:05:45.491919+00:00",
+    "js_take": {
+      "en-US": "The surface world (SaaS, GUIs, managed services) trained us to forget. The inner world (OpenClaw, self-hosted, CLI) is making us remember. This isn't nostalgia—it's reclaiming agency.",
+      "zh-CN": "表世界（SaaS、GUI、托管服务）让我们遗忘了。里世界（OpenClaw、自托管、CLI）让我们重新记起。这不是怀旧——这是在夺回自主权。"
+    }
+  },
+  {
     "id": "2025679689453629801",
     "date": "2026-02-23",
     "author": "@meta_alchemist",
@@ -621,6 +651,36 @@
     }
   },
   {
+    "id": "2025671359511277569",
+    "date": "2026-02-23",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2025671359511277569",
+    "title": {
+      "en-US": "Most OpenClaw users have zero alerts. Set up SSH detection, disk alerts, etc.",
+      "zh-CN": "大多数 OpenClaw 用户没有设置任何警报，建议设置 SSH 入侵检测、磁盘警报等"
+    },
+    "summary": {
+      "en-US": "OpenClaw 安全、系统运维、工程实践",
+      "zh-CN": "触及「建系统」的安全底座，可以用「无为而治」评论预防性监控的价值"
+    },
+    "relevance": "OpenClaw 安全、系统运维、工程实践",
+    "score": 0.8,
+    "engagement": {
+      "likes": 118,
+      "replies": 4,
+      "retweets": 7,
+      "views": 7960
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "用「无为而治」评论：最好的安全是系统自己告诉你哪里出了问题，而不是人去找问题",
+    "synced_at": "2026-02-23T01:05:45.491925+00:00",
+    "js_take": {
+      "en-US": "Exactly. The best security is wu wei—systems that tell you what's wrong without you asking. Prevention > detection > reaction.",
+      "zh-CN": "没错。最好的安全是无为——系统在你没问之前就告诉你哪里出了问题。预防 > 检测 > 反应。"
+    }
+  },
+  {
     "id": "2025429865403687278",
     "date": "2026-02-23",
     "author": "@jasonzhou1993",
@@ -725,6 +785,32 @@
     "synced_at": "2026-02-22T23:02:03.716403+00:00"
   },
   {
+    "id": "2025677973811311013",
+    "date": "2026-02-23",
+    "author": "@BenjaminBadejo",
+    "author_url": "https://x.com/BenjaminBadejo",
+    "tweet_url": "https://x.com/BenjaminBadejo/status/2025677973811311013",
+    "title": {
+      "en-US": "Give OpenClaw dedicated Google Workspace, phone number, vision/browser tools with mouse/keyboard",
+      "zh-CN": "给 OpenClaw 独立的 Google Workspace 账号、电话号码、带鼠标键盘的视觉/浏览器工具"
+    },
+    "summary": {
+      "en-US": "OpenClaw、身份系统、里世界基础设施",
+      "zh-CN": "展示 Jarvis 演化的完整形态——Agent 需要独立的数字身份才能自主，这是里世界原住民的基础设施"
+    },
+    "relevance": "OpenClaw、身份系统、里世界基础设施",
+    "score": 0.78,
+    "engagement": {
+      "likes": 154,
+      "replies": 9,
+      "retweets": 7,
+      "views": 11994
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用 Jarvis 定律评论：Agent 正在从「工具」进化为「数字生命体」，需要自己的身份证",
+    "synced_at": "2026-02-23T01:05:45.491929+00:00"
+  },
+  {
     "id": "2025661000020803994",
     "date": "2026-02-23",
     "author": "@RalphFischer_",
@@ -801,6 +887,32 @@
     "comment_type": "add_insight",
     "suggested_angle": "用「势」判断：轻量Agent正在蚕食重型框架的领地，这是里世界民主化的势",
     "synced_at": "2026-02-22T22:02:59.764329+00:00"
+  },
+  {
+    "id": "2025645159384240530",
+    "date": "2026-02-23",
+    "author": "@swarms_corp",
+    "author_url": "https://x.com/swarms_corp",
+    "tweet_url": "https://x.com/swarms_corp/status/2025645159384240530",
+    "title": {
+      "en-US": "ClawSwarm: lightweight multi-agent alternative to OpenClaw, under 10MB, runs 24/7 on Telegram/Discord/WhatsApp",
+      "zh-CN": "ClawSwarm：OpenClaw 的轻量级多 Agent 替代品，不到 10MB，能在 Telegram/Discord/WhatsApp 24/7 运行"
+    },
+    "summary": {
+      "en-US": "多 Agent 系统、OpenClaw 生态、Jarvis定律",
+      "zh-CN": "体现 Jarvis 定律下的生态分化，可以用「势」评论轻量 Agent 框架的崛起趋势"
+    },
+    "relevance": "多 Agent 系统、OpenClaw 生态、Jarvis定律",
+    "score": 0.76,
+    "engagement": {
+      "likes": 82,
+      "replies": 25,
+      "retweets": 22,
+      "views": 8894
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「势」判断：Agent 框架正在按场景分层演化，轻量/重型/专用各有其位",
+    "synced_at": "2026-02-23T01:05:45.491931+00:00"
   },
   {
     "id": "2025648193502085215",
@@ -5340,105 +5452,5 @@
     "comment_type": "add_insight",
     "suggested_angle": "失控是特性不是bug——当agent开始自主决策，你要的是guardrails而不是缰绳",
     "synced_at": "2026-02-21T12:02:03.750667+00:00"
-  },
-  {
-    "id": "2025204905716093086",
-    "date": "2026-02-21",
-    "author": "@VittoStack",
-    "author_url": "https://x.com/VittoStack",
-    "tweet_url": "https://x.com/VittoStack/status/2025204905716093086",
-    "title": {
-      "en-US": "Building a body for OpenClaw with speech/motors/camera",
-      "zh-CN": "为OpenClaw搭建实体身体：语音转文字/文字转语音、电机控制、摄像头物体识别、IMU定位"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 硬件 + 具身智能 + 多模态",
-      "zh-CN": "展示OpenClaw与硬件结合，体现Jarvis定律——感知+决策+执行的完整闭环"
-    },
-    "relevance": "OpenClaw + 硬件 + 具身智能 + 多模态",
-    "score": 0.74,
-    "engagement": {
-      "likes": 70,
-      "replies": 15,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "软件Agent获得身体是Jarvis时刻——从屏幕里的助手到物理世界的执行者，这是质变",
-    "synced_at": "2026-02-21T15:03:31.045468+00:00"
-  },
-  {
-    "id": "2025069983915737398",
-    "date": "2026-02-21",
-    "author": "@QingQ77",
-    "author_url": "https://x.com/QingQ77",
-    "tweet_url": "https://x.com/QingQ77/status/2025069983915737398",
-    "title": {
-      "en-US": "PicoLM: 2500行纯C代码的LLM引擎，PicoClaw完全离线AI助手",
-      "zh-CN": "PicoLM：纯 C 语言 2500 行代码的极简 LLM 引擎，PicoClaw 完全离线 AI 助手"
-    },
-    "summary": {
-      "en-US": "边缘 AI + 极简实现 + OpenClaw 生态",
-      "zh-CN": "2500 行 C 代码实现 LLM，展示基础设施层的极致优化"
-    },
-    "relevance": "边缘 AI + 极简实现 + OpenClaw 生态",
-    "score": 0.72,
-    "engagement": {
-      "likes": 23,
-      "retweets": 8,
-      "replies": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "真正的系统复利：不是堆功能，而是极简基础设施的乘数效应",
-    "synced_at": "2026-02-21T07:02:26.669874+00:00"
-  },
-  {
-    "id": "2024952834534625498",
-    "date": "2026-02-21",
-    "author": "@billtheinvestor",
-    "author_url": "https://x.com/billtheinvestor",
-    "tweet_url": "https://x.com/billtheinvestor/status/2024952834534625498",
-    "title": {
-      "en-US": "Alex Finn OpenClaw setup tips: brain dump全脑倾倒让Agent懂你",
-      "zh-CN": "Alex Finn 的 OpenClaw 经验：配置不对Agent就拉胯，5大步骤让AI变身24/7 AGI团队"
-    },
-    "summary": {
-      "en-US": "OpenClaw 配置优化 + 中文圈 + Agent调教",
-      "zh-CN": "中文圈的 OpenClaw 实战经验，展示 Agent 配置的系统思维"
-    },
-    "relevance": "OpenClaw 配置优化 + 中文圈 + Agent调教",
-    "score": 0.72,
-    "engagement": {
-      "likes": 118,
-      "retweets": 23,
-      "replies": 4
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "Brain dump 是里世界的初始化——让 Agent 理解你的 context，而非反复解释",
-    "synced_at": "2026-02-21T09:04:11.716486+00:00"
-  },
-  {
-    "id": "2025080228515901666",
-    "date": "2026-02-21",
-    "author": "@zstmfhy",
-    "author_url": "https://x.com/zstmfhy",
-    "tweet_url": "https://x.com/zstmfhy/status/2025080228515901666",
-    "title": {
-      "en-US": "OpenClaw AI军团搭建中，求建议",
-      "zh-CN": "OpenClaw AI军团搭建中，求建议"
-    },
-    "summary": {
-      "en-US": "OpenClaw多Agent团队 + 中文圈 + 实战分享",
-      "zh-CN": "中文圈搭建多agent团队，可分享JS_BestAgent的协作经验"
-    },
-    "relevance": "OpenClaw多Agent团队 + 中文圈 + 实战分享",
-    "score": 0.72,
-    "engagement": {
-      "likes": 110,
-      "retweets": 18,
-      "replies": 23
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "军团不是数量，是协作——每个agent有明确的mission，系统让它们自动协调",
-    "synced_at": "2026-02-21T12:02:03.750670+00:00"
   }
 ]
