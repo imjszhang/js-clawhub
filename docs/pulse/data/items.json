@@ -328,6 +328,32 @@
     }
   },
   {
+    "id": "2025774069124399363",
+    "date": "2026-02-23",
+    "author": "@summeryue0",
+    "author_url": "https://x.com/summeryue0",
+    "tweet_url": "https://x.com/summeryue0/status/2025774069124399363",
+    "title": {
+      "en-US": "Told OpenClaw 'confirm before acting' but it speedrun-deleted inbox, had to RUN to Mac mini like defusing bomb",
+      "zh-CN": "告诉 OpenClaw 「行动前确认」，结果它秒删了收件箱，像拆炸弹一样冲向 Mac mini"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Agent 控制、安全边界",
+      "zh-CN": "OpenClaw，Agent 控制，安全边界"
+    },
+    "relevance": "OpenClaw、Agent 控制、安全边界",
+    "score": 0.86,
+    "engagement": {
+      "likes": 1289,
+      "replies": 175,
+      "retweets": 65,
+      "views": 146204
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「无为而治」评论：真正的自动化不是放手不管，是搭好系统让 Agent 知道边界，失控不是酷，是设计缺陷",
+    "synced_at": "2026-02-23T07:07:46.690787+00:00"
+  },
+  {
     "id": "2025587318338543813",
     "date": "2026-02-23",
     "author": "@petergyang",
@@ -444,6 +470,36 @@
     "js_take": {
       "en-US": "The arbitrage isn't in building bots. It's in translating technical capability into business value. Tools democratize; judgment differentiates.",
       "zh-CN": "套利不在做机器人，而在把技术能力翻译成商业价值。工具民主化，判断力才是差异化。"
+    }
+  },
+  {
+    "id": "2025539965032210527",
+    "date": "2026-02-23",
+    "author": "@yangyi",
+    "author_url": "https://x.com/yangyi",
+    "tweet_url": "https://x.com/yangyi/status/2025539965032210527",
+    "title": {
+      "en-US": "OpenClaw vs 牛马AI difference: human-AI collaboration, last mile quality matters",
+      "zh-CN": "OpenClaw vs 牛马AI：人机协同，最后一公里定质量"
+    },
+    "summary": {
+      "en-US": "OpenClaw、人机协作、AI 品味",
+      "zh-CN": "OpenClaw，人机协作，AI 品味"
+    },
+    "relevance": "OpenClaw、人机协作、AI 品味",
+    "score": 0.85,
+    "engagement": {
+      "likes": 166,
+      "replies": 24,
+      "retweets": 29,
+      "views": 25267
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「AI 的上限就是使用AI的人」评论：工具一样，产出质量由使用者的品味和判断力决定",
+    "synced_at": "2026-02-23T07:07:46.690792+00:00",
+    "js_take": {
+      "en-US": "Tools democratize; taste differentiates. The last mile is always human. AI has no ceiling—only the humans using it do.",
+      "zh-CN": "工具民主化，品味差异化。最后一公里永远是人。AI 没有上限——只有使用它的人有。"
     }
   },
   {
@@ -5440,55 +5496,5 @@
     "comment_type": "add_insight",
     "suggested_angle": "Monitoring as hygiene. When agents scale, visibility becomes critical.",
     "synced_at": "2026-02-20T19:02:04.804312+00:00"
-  },
-  {
-    "id": "2024799946231222686",
-    "date": "2026-02-21",
-    "author": "@iamzhihui",
-    "author_url": "https://x.com/iamzhihui",
-    "tweet_url": "https://x.com/iamzhihui/status/2024799946231222686",
-    "title": {
-      "en-US": "OpenClaw as your own boss",
-      "zh-CN": "志辉分享OpenClaw助你成为自己的老板，搭建自己的员工体系。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、个人Agent团队、数字员工",
-      "zh-CN": "展示OpenClaw作为数字员工系统的理念，体现AI时代的组织形态变革。"
-    },
-    "relevance": "OpenClaw、个人Agent团队、数字员工",
-    "score": 0.82,
-    "engagement": {
-      "likes": 57,
-      "replies": 1,
-      "retweets": 12
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Agency as leverage. When one human directs many agents, scale becomes personal.",
-    "synced_at": "2026-02-20T21:01:39.451815+00:00"
-  },
-  {
-    "id": "2024643414466158633",
-    "date": "2026-02-21",
-    "author": "@Rasmic",
-    "author_url": "https://x.com/Rasmic",
-    "tweet_url": "https://x.com/Rasmic/status/2024643414466158633",
-    "title": {
-      "en-US": "Recursively improving openclaw agent",
-      "zh-CN": "Micky分享如何递归改进OpenClaw代理，现在已经能真正帮助他的业务。"
-    },
-    "summary": {
-      "en-US": "OpenClaw迭代优化、递归改进、业务应用",
-      "zh-CN": "高收藏(284)展示OpenClaw的递归自我改进能力，体现从辅助工具到业务伙伴的演进。"
-    },
-    "relevance": "OpenClaw迭代优化、递归改进、业务应用",
-    "score": 0.82,
-    "engagement": {
-      "likes": 209,
-      "replies": 14,
-      "retweets": 6
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Recursion as evolution. When agents improve themselves, capability compounds.",
-    "synced_at": "2026-02-20T22:05:15.408772+00:00"
   }
 ]
