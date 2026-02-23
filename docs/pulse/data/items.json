@@ -1,5 +1,35 @@
 [
   {
+    "id": "2025783766741123193",
+    "date": "2026-02-23",
+    "author": "@0xkevinhe",
+    "author_url": "https://x.com/0xkevinhe",
+    "tweet_url": "https://x.com/0xkevinhe/status/2025783766741123193",
+    "title": {
+      "en-US": "Built ClawFeed with OpenClaw - agent reads 5000 followings' tweets, user spends 5 min instead of 2 hours",
+      "zh-CN": "用 OpenClaw 做了 ClawFeed——Agent 替用户读完 5000 个关注者的推文，每天只需 5 分钟而非 2 小时"
+    },
+    "summary": {
+      "en-US": "OpenClaw、信息焦虑、表/里世界",
+      "zh-CN": "7万浏览高曝光，展示里世界接管表世界信息消费的典型案例，用「表/里世界」框架评论能制造强烈反差"
+    },
+    "relevance": "OpenClaw、信息焦虑、表/里世界",
+    "score": 0.92,
+    "engagement": {
+      "likes": 388,
+      "replies": 28,
+      "retweets": 88,
+      "views": 69985
+    },
+    "comment_type": "reframe",
+    "suggested_angle": "用「表/里世界」重新解读：你让 Agent 住进了表世界（Twitter），自己退回了里世界。5分钟不是节省时间，是迁徙完成的信号。",
+    "synced_at": "2026-02-23T10:02:29.890646+00:00",
+    "js_take": {
+      "en-US": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings.",
+      "zh-CN": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings."
+    }
+  },
+  {
     "id": "2025591780595429385",
     "date": "2026-02-23",
     "author": "@steipete",
@@ -1411,6 +1441,32 @@
     "comment_type": "add_insight",
     "suggested_angle": "用「建系统」评论：安装 OpenClaw 是开始，不是结束；真正的价值在 100 天后的工作流",
     "synced_at": "2026-02-23T05:11:09.103348+00:00"
+  },
+  {
+    "id": "2025839340832850277",
+    "date": "2026-02-23",
+    "author": "@CodeByPoonam",
+    "author_url": "https://x.com/CodeByPoonam",
+    "tweet_url": "https://x.com/CodeByPoonam/status/2025839340832850277",
+    "title": {
+      "en-US": "Google suspended OpenClaw users from Antigravity AI Platform, called it malicious usage",
+      "zh-CN": "Google 封禁 OpenClaw 用户，称其为「恶意使用」，开源社区愤怒"
+    },
+    "summary": {
+      "en-US": "OpenClaw、平台冲突、大 tech 对抗",
+      "zh-CN": "争议性话题，评论区情绪激烈，用「势」的概念评论平台对抗的必然性能让人驻足"
+    },
+    "relevance": "OpenClaw、平台冲突、大 tech 对抗",
+    "score": 0.78,
+    "engagement": {
+      "likes": 88,
+      "replies": 32,
+      "retweets": 12,
+      "views": 9581
+    },
+    "comment_type": "reframe",
+    "suggested_angle": "用「势」判断：不是 OpenClaw 对抗 Google，是里世界迁徙的势冲击了表世界的城墙。墙越高，迁徙越快。",
+    "synced_at": "2026-02-23T10:02:29.890651+00:00"
   },
   {
     "id": "2025584775692730590",
@@ -5445,60 +5501,6 @@
     "js_take": {
       "en-US": "The migration is mobile. The surface world (desktop apps) is becoming device-agnostic; the inner world (agents) follows you everywhere. Your agent doesn't care if it's on a Mac, iPhone, or Vision Pro—it just runs.",
       "zh-CN": "迁徙正在移动化。表世界（桌面应用）正在变得与设备无关；里世界（Agent）跟随你到任何地方。你的 Agent 不在乎它在 Mac、iPhone 还是 Vision Pro 上——它只管运行。"
-    }
-  },
-  {
-    "id": "2024769540346065358",
-    "date": "2026-02-21",
-    "author": "@quanruzhuoxiu",
-    "author_url": "https://x.com/quanruzhuoxiu",
-    "tweet_url": "https://x.com/quanruzhuoxiu/status/2024769540346065358",
-    "title": {
-      "en-US": "Midscene cross-platform control skills",
-      "zh-CN": "Leyang分享Midscene全平台操控Skills上线，支持iOS/Android/Web/Mac/Linux/Windows纯视觉操作。"
-    },
-    "summary": {
-      "en-US": "OpenClaw Skills、跨平台自动化、视觉操作",
-      "zh-CN": "展示Midscene与OpenClaw的集成，体现Agent跨平台操控能力的扩展。"
-    },
-    "relevance": "OpenClaw Skills、跨平台自动化、视觉操作",
-    "score": 0.84,
-    "engagement": {
-      "likes": 107,
-      "replies": 4,
-      "retweets": 10
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Vision as interface. When agents see like humans, platforms become unified.",
-    "synced_at": "2026-02-20T20:01:59.460884+00:00"
-  },
-  {
-    "id": "2024798839815782560",
-    "date": "2026-02-21",
-    "author": "@sharbel",
-    "author_url": "https://x.com/sharbel",
-    "tweet_url": "https://x.com/sharbel/status/2024798839815782560",
-    "title": {
-      "en-US": "OpenClaw mission control prompt",
-      "zh-CN": "Sharbel分享用于构建OpenClaw Mission Control仪表盘的提示词，几分钟内获得完整仪表板。"
-    },
-    "summary": {
-      "en-US": "OpenClaw监控、Mission Control、提示词工程",
-      "zh-CN": "高收藏(257)展示对OpenClaw监控仪表盘的强需求，体现多Agent管理的可视化需求。"
-    },
-    "relevance": "OpenClaw监控、Mission Control、提示词工程",
-    "score": 0.84,
-    "engagement": {
-      "likes": 161,
-      "replies": 26,
-      "retweets": 6
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Visibility as control. When you see everything, you manage anything.",
-    "synced_at": "2026-02-20T22:05:15.408759+00:00",
-    "js_take": {
-      "en-US": "Mission Control isn't a dashboard—it's a command center. One prompt to see the battlefield: active agents, pending tasks, system health. You can't manage what you can't see.",
-      "zh-CN": "任务控制中心不是仪表盘——它是指挥中心。一个提示词就能看到战场：活跃代理、待处理任务、系统健康。看不见的东西就无法管理。"
     }
   }
 ]

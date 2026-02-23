@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-02-23T09:05:02.004560+00:00",
+  "updated_at": "2026-02-23T10:03:38.765940+00:00",
   "this_week": {
-    "total_items": 69,
+    "total_items": 71,
     "avg_score": 0.8,
-    "unique_authors": 60,
+    "unique_authors": 62,
     "top_items": [
+      {
+        "id": "2025783766741123193",
+        "date": "2026-02-23",
+        "author": "@0xkevinhe",
+        "author_url": "https://x.com/0xkevinhe",
+        "tweet_url": "https://x.com/0xkevinhe/status/2025783766741123193",
+        "title": {
+          "en-US": "Built ClawFeed with OpenClaw - agent reads 5000 followings' tweets, user spends 5 min instead of 2 hours",
+          "zh-CN": "用 OpenClaw 做了 ClawFeed——Agent 替用户读完 5000 个关注者的推文，每天只需 5 分钟而非 2 小时"
+        },
+        "summary": {
+          "en-US": "OpenClaw、信息焦虑、表/里世界",
+          "zh-CN": "7万浏览高曝光，展示里世界接管表世界信息消费的典型案例，用「表/里世界」框架评论能制造强烈反差"
+        },
+        "relevance": "OpenClaw、信息焦虑、表/里世界",
+        "score": 0.92,
+        "engagement": {
+          "likes": 388,
+          "replies": 28,
+          "retweets": 88,
+          "views": 69985
+        },
+        "comment_type": "reframe",
+        "suggested_angle": "用「表/里世界」重新解读：你让 Agent 住进了表世界（Twitter），自己退回了里世界。5分钟不是节省时间，是迁徙完成的信号。",
+        "synced_at": "2026-02-23T10:02:29.890646+00:00",
+        "js_take": {
+          "en-US": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings.",
+          "zh-CN": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings."
+        }
+      },
       {
         "id": "2025591780595429385",
         "date": "2026-02-23",
@@ -61,36 +91,6 @@
         "js_take": {
           "en-US": "$27,940 isn't revenue—it's signal. Agents in the inner world are becoming independent business entities. That's the restructuring of production relations.",
           "zh-CN": "27940美元不是收入，而是信号。里世界的Agent正在成为独立的商业实体。这是生产关系的重构。"
-        }
-      },
-      {
-        "id": "2025640364737286395",
-        "date": "2026-02-23",
-        "author": "@johann_sath",
-        "author_url": "https://x.com/johann_sath",
-        "tweet_url": "https://x.com/johann_sath/status/2025640364737286395",
-        "title": {
-          "en-US": "OpenClaw custom heartbeat setup - checks activity, reads task board, spawns agents conditionally",
-          "zh-CN": "OpenClaw 智能心跳：按需唤醒 Agent"
-        },
-        "summary": {
-          "en-US": "OpenClaw 工程实践、Agent 系统设计",
-          "zh-CN": "OpenClaw 工程实践，Agent 系统设计"
-        },
-        "relevance": "OpenClaw 工程实践、Agent 系统设计",
-        "score": 0.88,
-        "engagement": {
-          "likes": 44,
-          "replies": 3,
-          "retweets": 2,
-          "views": 4974
-        },
-        "comment_type": "add_insight",
-        "suggested_angle": "用「无为而治」的道家框架评论这种智能唤醒机制——不打扰是最高级的自动化",
-        "synced_at": "2026-02-22T20:02:27.096050+00:00",
-        "js_take": {
-          "en-US": "This is wu wei (无为) in engineering form. The highest level of automation is knowing when NOT to run. Conditional triggers > brute force loops.",
-          "zh-CN": "这是工程化的「无为」——最高级的自动化，是懂得何时不该运行。条件触发 > 暴力轮询。"
         }
       }
     ]
