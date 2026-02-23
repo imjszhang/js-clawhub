@@ -1,10 +1,39 @@
 {
-  "updated_at": "2026-02-23T12:12:46.772106+00:00",
+  "updated_at": "2026-02-23T13:03:36.109452+00:00",
   "this_week": {
-    "total_items": 74,
-    "avg_score": 0.8,
-    "unique_authors": 65,
+    "total_items": 75,
+    "avg_score": 0.81,
+    "unique_authors": 66,
     "top_items": [
+      {
+        "id": "2025900730847232409",
+        "date": "2026-02-23",
+        "author": "@theo",
+        "author_url": "https://x.com/theo",
+        "tweet_url": "https://x.com/theo/status/2025900730847232409",
+        "title": {
+          "en-US": "You should delete your CLAUDE.md/AGENTS.md file. I have a study to prove it.",
+          "zh-CN": "删除 CLAUDE.md/AGENTS.md：少即是多的 Agent 配置哲学"
+        },
+        "summary": {
+          "en-US": "OpenClaw、Agent 配置、内存管理",
+          "zh-CN": "OpenClaw、Agent 配置优化、内存管理"
+        },
+        "relevance": "OpenClaw、Agent 配置、内存管理",
+        "score": 0.94,
+        "engagement": {
+          "likes": 342,
+          "replies": 47,
+          "retweets": 17,
+          "views": 26936
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-02-23T13:03:12.726212+00:00",
+        "js_take": {
+          "en-US": "You filled the config with control. Wú wéi is the courage to leave it empty. The agent's ceiling isn't what you write—it's what you dare to erase.",
+          "zh-CN": "你用控制欲塞满配置。无为是有勇气让它空着。Agent 的上限不是你能写什么，是你敢删什么。"
+        }
+      },
       {
         "id": "2025783766741123193",
         "date": "2026-02-23",
@@ -1000,40 +1029,11 @@
         },
         "comment_type": "reframe",
         "synced_at": "2026-02-23T09:04:41.240626+00:00"
-      },
-      {
-        "id": "2025775866710552677",
-        "date": "2026-02-23",
-        "author": "@AntoineRSX",
-        "author_url": "https://x.com/AntoineRSX",
-        "tweet_url": "https://x.com/AntoineRSX/status/2025775866710552677",
-        "title": {
-          "en-US": "Here are 13 (real) use cases with OpenClaw",
-          "zh-CN": "这里有 13 个（真实的）OpenClaw 使用场景"
-        },
-        "summary": {
-          "en-US": "OpenClaw 使用场景、建系统、实践分享",
-          "zh-CN": "真实使用场景展示，可以用「建系统 vs 造奇观」框架区分真正的生产用途和 demo"
-        },
-        "relevance": "OpenClaw 使用场景、建系统、实践分享",
-        "score": 0.81,
-        "engagement": {
-          "likes": 16,
-          "replies": 2,
-          "retweets": 0,
-          "views": 1047
-        },
-        "comment_type": "add_insight",
-        "synced_at": "2026-02-23T05:11:09.103335+00:00",
-        "js_take": {
-          "en-US": "Real use cases reveal systems, not stunts. Beginners chase viral demos; pros build workflows that compound. The difference between a toy and infrastructure is whether it survives the 100th iteration.",
-          "zh-CN": "真正的使用场景揭示的是系统，不是噱头。新手追病毒式 Demo，高手建复利工作流。玩具和基础设施的区别在于能否挺过第 100 次迭代。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 143
+    "unique_authors": 144
   }
 }

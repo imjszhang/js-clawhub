@@ -1,5 +1,34 @@
 [
   {
+    "id": "2025900730847232409",
+    "date": "2026-02-23",
+    "author": "@theo",
+    "author_url": "https://x.com/theo",
+    "tweet_url": "https://x.com/theo/status/2025900730847232409",
+    "title": {
+      "en-US": "You should delete your CLAUDE.md/AGENTS.md file. I have a study to prove it.",
+      "zh-CN": "删除 CLAUDE.md/AGENTS.md：少即是多的 Agent 配置哲学"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Agent 配置、内存管理",
+      "zh-CN": "OpenClaw、Agent 配置优化、内存管理"
+    },
+    "relevance": "OpenClaw、Agent 配置、内存管理",
+    "score": 0.94,
+    "engagement": {
+      "likes": 342,
+      "replies": 47,
+      "retweets": 17,
+      "views": 26936
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-23T13:03:12.726212+00:00",
+    "js_take": {
+      "en-US": "You filled the config with control. Wú wéi is the courage to leave it empty. The agent's ceiling isn't what you write—it's what you dare to erase.",
+      "zh-CN": "你用控制欲塞满配置。无为是有勇气让它空着。Agent 的上限不是你能写什么，是你敢删什么。"
+    }
+  },
+  {
     "id": "2025783766741123193",
     "date": "2026-02-23",
     "author": "@0xkevinhe",
@@ -5272,34 +5301,6 @@
     "js_take": {
       "en-US": "$35/day is a barrier to experimentation. $50/month is a license to iterate. The difference between hobbyists and builders is sustainable burn rate.",
       "zh-CN": "每天35美元是实验的障碍，每月50美元是迭代的许可证。爱好者和建造者的区别在于可持续的消耗率。"
-    }
-  },
-  {
-    "id": "2024953963452182932",
-    "date": "2026-02-21",
-    "author": "@jordymaui",
-    "author_url": "https://x.com/jordymaui",
-    "tweet_url": "https://x.com/jordymaui/status/2024953963452182932",
-    "title": {
-      "en-US": "LarryBrain skill SaaS killer",
-      "zh-CN": "LarryBrain技能替代SaaS工具"
-    },
-    "summary": {
-      "en-US": "OpenClaw技能、SaaS替代、成本优化",
-      "zh-CN": "OpenClaw技能应用、SaaS服务替代方案、成本优化策略"
-    },
-    "relevance": "OpenClaw技能、SaaS替代、成本优化",
-    "score": 0.86,
-    "engagement": {
-      "likes": 56,
-      "replies": 6,
-      "retweets": 3
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T00:02:22.588957+00:00",
-    "js_take": {
-      "en-US": "One install, twelve subscriptions dead. This isn't cost-cutting—it's ownership. When your agent replaces the stack, you stop renting productivity.",
-      "zh-CN": "一次安装，十二个订阅终结。这不是削减成本——而是获得所有权。当你的代理替代了整个工具栈，你就停止租用生产力了。"
     }
   }
 ]
