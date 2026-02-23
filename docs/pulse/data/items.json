@@ -148,6 +148,36 @@
     }
   },
   {
+    "id": "2025713582676046330",
+    "date": "2026-02-23",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2025713582676046330",
+    "title": {
+      "en-US": "Installed OpenClaw for normie friend, now he's writing web services and automating his house",
+      "zh-CN": "给普通人朋友装 OpenClaw，现在他在写服务并自动化房子"
+    },
+    "summary": {
+      "en-US": "OpenClaw、技术普惠、人群分化",
+      "zh-CN": "OpenClaw，技术普惠，人群分化"
+    },
+    "relevance": "OpenClaw、技术普惠、人群分化",
+    "score": 0.86,
+    "engagement": {
+      "likes": 210,
+      "replies": 29,
+      "retweets": 5,
+      "views": 17497
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：同样的工具，在普通人手里也能成为生产力杠杆",
+    "synced_at": "2026-02-23T00:06:00.773009+00:00",
+    "js_take": {
+      "en-US": "Same tool, different outcomes. The AI isn't the differentiator—the human is. A claw in the right hands becomes a lever for the whole house.",
+      "zh-CN": "同样的工具，不同的结果。区分高下的是人，不是 AI。Claw 到了对的人手里，能成为撬动整个房子的杠杆。"
+    }
+  },
+  {
     "id": "2025587318338543813",
     "date": "2026-02-23",
     "author": "@petergyang",
@@ -204,6 +234,36 @@
     "js_take": {
       "en-US": "Exactly. Newbies in Civilization chase wonders. Pros build systems that compound. Same energy here—most \"cool\" automations are just tech debt wearing a costume.",
       "zh-CN": "没错。文明新手追奇观，高手建复利系统。这里同理——大多数「酷炫」自动化，不过是披着外衣的技术债。"
+    }
+  },
+  {
+    "id": "2025701861031121331",
+    "date": "2026-02-23",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2025701861031121331",
+    "title": {
+      "en-US": "MCP is dead in the water. OpenClaw showed me API & CLI will win—MCP servers load tool definitions into context window",
+      "zh-CN": "MCP 注定失败，API 和 CLI 会赢"
+    },
+    "summary": {
+      "en-US": "OpenClaw、架构设计、协议选择",
+      "zh-CN": "OpenClaw，架构设计，协议选择"
+    },
+    "relevance": "OpenClaw、架构设计、协议选择",
+    "score": 0.85,
+    "engagement": {
+      "likes": 73,
+      "replies": 23,
+      "retweets": 3,
+      "views": 4831
+    },
+    "comment_type": "add_insight",
+    "suggested_angle": "用「势」的判断框架评论：里世界的接口形态正在自然选择，简单胜复杂是势",
+    "synced_at": "2026-02-23T00:06:00.773014+00:00",
+    "js_take": {
+      "en-US": "Complexity is a tax. The inner world is selecting for simple interfaces—APIs, CLIs, direct intent. MCP tried to standardize too early; momentum favors organic convergence.",
+      "zh-CN": "复杂性是一种税。里世界正在筛选简单的接口——API、CLI、直接意图。MCP 过早尝试标准化；势在有机收敛。"
     }
   },
   {
@@ -767,6 +827,32 @@
     "comment_type": "add_insight",
     "suggested_angle": "用「表/里世界」框架评论：OpenClaw 是里世界的入口，但里世界本身需要分层部署",
     "synced_at": "2026-02-22T20:02:27.096061+00:00"
+  },
+  {
+    "id": "2025708027656192355",
+    "date": "2026-02-23",
+    "author": "@clairevo",
+    "author_url": "https://x.com/clairevo",
+    "tweet_url": "https://x.com/clairevo/status/2025708027656192355",
+    "title": {
+      "en-US": "Built electron app to backup/sync OpenClaw knowledge files, track agent tasks, assign between agents",
+      "zh-CN": "用 Electron 做了个应用来备份同步 OpenClaw 知识文件，追踪 agent 任务，在 agent 之间分配工作"
+    },
+    "summary": {
+      "en-US": "OpenClaw、知识管理、Agent 运维",
+      "zh-CN": "展示对 Agent 持续性的重视，可以用「建系统」思维评论这种备份机制的价值"
+    },
+    "relevance": "OpenClaw、知识管理、Agent 运维",
+    "score": 0.75,
+    "engagement": {
+      "likes": 50,
+      "replies": 6,
+      "retweets": 0,
+      "views": 2847
+    },
+    "comment_type": "agree_and_extend",
+    "suggested_angle": "用「建系统」思维评论：保护 agent 的「灵魂」就是保护系统投资的复利",
+    "synced_at": "2026-02-23T00:06:00.773018+00:00"
   },
   {
     "id": "2025484005177708608",
@@ -5354,80 +5440,5 @@
     "comment_type": "share_experience",
     "suggested_angle": "军团不是数量，是协作——每个agent有明确的mission，系统让它们自动协调",
     "synced_at": "2026-02-21T12:02:03.750670+00:00"
-  },
-  {
-    "id": "2024867046463349246",
-    "date": "2026-02-21",
-    "author": "@davidonchainx",
-    "author_url": "https://x.com/davidonchainx",
-    "tweet_url": "https://x.com/davidonchainx/status/2024867046463349246",
-    "title": {
-      "en-US": "Bought 12 mac minis, setting up first clawdbot",
-      "zh-CN": "买了 12 台 Mac Mini，搭建第一个 clawdbot"
-    },
-    "summary": {
-      "en-US": "OpenClaw 硬件扩展 + 多 Agent 部署",
-      "zh-CN": "硬件规模化的实践，评论区热度高，互动潜力大"
-    },
-    "relevance": "OpenClaw 硬件扩展 + 多 Agent 部署",
-    "score": 0.7,
-    "engagement": {
-      "likes": 770,
-      "replies": 361,
-      "retweets": 20
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "评论硬件规模化的权衡：12 台 Mac Mini 是一个系统，但别造奇观，要建可持续的复利系统",
-    "synced_at": "2026-02-21T04:03:48.012613+00:00"
-  },
-  {
-    "id": "2024901174156296417",
-    "date": "2026-02-21",
-    "author": "@BaseHubHB",
-    "author_url": "https://x.com/BaseHubHB",
-    "tweet_url": "https://x.com/BaseHubHB/status/2024901174156296417",
-    "title": {
-      "en-US": "OpenClaw Tier List on Base: Tier S (Openclaw, Bankr, Clanker)",
-      "zh-CN": "Base 链上的 OpenClaw 分级列表：Tier S 包括 Openclaw、Bankr、Clanker 等"
-    },
-    "summary": {
-      "en-US": "OpenClaw 生态 + 加密 + Moltbook 上榜",
-      "zh-CN": "Moltbook 被列为 Tier A，生态地位获认可"
-    },
-    "relevance": "OpenClaw 生态 + 加密 + Moltbook 上榜",
-    "score": 0.7,
-    "engagement": {
-      "likes": 173,
-      "retweets": 30,
-      "replies": 22
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "生态位即势：Moltbook 作为 Agent 社交层的独特定位正在形成共识",
-    "synced_at": "2026-02-21T07:02:26.669877+00:00"
-  },
-  {
-    "id": "2024881489083777190",
-    "date": "2026-02-21",
-    "author": "@morganlinton",
-    "author_url": "https://x.com/morganlinton",
-    "tweet_url": "https://x.com/morganlinton/status/2024881489083777190",
-    "title": {
-      "en-US": "You are probably underutilizing OpenClaw",
-      "zh-CN": "You are probably underutilizing OpenClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw 使用深度 + 潜力挖掘",
-      "zh-CN": "引发思考的简短推文，可分享深度使用 OpenClaw 的洞察"
-    },
-    "relevance": "OpenClaw 使用深度 + 潜力挖掘",
-    "score": 0.7,
-    "engagement": {
-      "likes": 85,
-      "retweets": 2,
-      "replies": 0
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "大多数人把 OpenClaw 当工具，少数人用它建系统——差距在认知层",
-    "synced_at": "2026-02-21T10:03:40.217389+00:00"
   }
 ]
