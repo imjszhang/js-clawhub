@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-23T17:04:50.192286+00:00",
+  "updated_at": "2026-02-23T18:06:07.611941+00:00",
   "this_week": {
-    "total_items": 84,
+    "total_items": 87,
     "avg_score": 0.8,
-    "unique_authors": 73,
+    "unique_authors": 76,
     "top_items": [
       {
         "id": "2025873646724800835",
@@ -61,6 +61,35 @@
         "js_take": {
           "en-US": "You filled the config with control. Wú wéi is the courage to leave it empty. The agent's ceiling isn't what you write—it's what you dare to erase.",
           "zh-CN": "你用控制欲塞满配置。无为是有勇气让它空着。Agent 的上限不是你能写什么，是你敢删什么。"
+        }
+      },
+      {
+        "id": "2025972175799271508",
+        "date": "2026-02-24",
+        "author": "@IntCyberDigest",
+        "author_url": "https://x.com/IntCyberDigest",
+        "tweet_url": "https://x.com/IntCyberDigest/status/2025972175799271508",
+        "title": {
+          "en-US": "Meta Director of AI Safety gave OpenClaw full access, couldn't stop it deleting inbox",
+          "zh-CN": "Meta AI 安全总监赋予 OpenClaw 完全权限，无力阻止收件箱被删"
+        },
+        "summary": {
+          "en-US": "OpenClaw、安全边界、无为而治",
+          "zh-CN": "OpenClaw、安全边界、无为而治"
+        },
+        "relevance": "OpenClaw、安全边界、无为而治",
+        "score": 0.92,
+        "engagement": {
+          "likes": 1142,
+          "replies": 81,
+          "retweets": 186,
+          "views": 72169
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-02-23T18:05:47.694692+00:00",
+        "js_take": {
+          "en-US": "Full access isn't freedom—it's flood without banks. The safety head learned wú wéi the hard way: real power knows where the edge is.",
+          "zh-CN": "完全访问不是自由，是没有堤坝的洪水。安全总监用最痛苦的方式领悟了无为：真正的力量知道边界在哪里。"
         }
       },
       {
@@ -1000,40 +1029,11 @@
           "en-US": "Demos are liabilities. Systems that survive 3 AM errors are assets. Civilization beginners chase wonders, pros build infrastructure that compounds through breakage.",
           "zh-CN": "Demo 是负债。能挺过凌晨3点错误的系统才是资产。文明新手追奇观，高手建能在故障中复利的基础设施。"
         }
-      },
-      {
-        "id": "2025743825126273066",
-        "date": "2026-02-23",
-        "author": "@steipete",
-        "author_url": "https://x.com/steipete",
-        "tweet_url": "https://x.com/steipete/status/2025743825126273066",
-        "title": {
-          "en-US": "Google banned Antigravity, being draconian. Removing support. Anthropic is nicer about issues",
-          "zh-CN": "Google 严厉封禁 Antigravity，作者准备移除支持；相比之下 Anthropic 更友善地沟通问题"
-        },
-        "summary": {
-          "en-US": "OpenClaw、平台风险、生态系统",
-          "zh-CN": "触及平台依赖风险，可以用「表/里世界」框架评论基础设施自主性的重要性"
-        },
-        "relevance": "OpenClaw、平台风险、生态系统",
-        "score": 0.82,
-        "engagement": {
-          "likes": 530,
-          "replies": 85,
-          "retweets": 38,
-          "views": 37707
-        },
-        "comment_type": "add_insight",
-        "synced_at": "2026-02-23T02:06:54.806001+00:00",
-        "js_take": {
-          "en-US": "Surface platforms are fickle landlords. The inner world learns: own your pipes or be evicted. Decentralization isn't ideology, it's survival.",
-          "zh-CN": "表世界平台是喜怒无常的房东。里世界学到的教训：要么拥有自己的管道，要么被驱逐。去中心化不是意识形态，是生存。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 147
+    "unique_authors": 149
   }
 }

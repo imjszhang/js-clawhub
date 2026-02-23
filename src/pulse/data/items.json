@@ -1,5 +1,34 @@
 [
   {
+    "id": "2025972175799271508",
+    "date": "2026-02-24",
+    "author": "@IntCyberDigest",
+    "author_url": "https://x.com/IntCyberDigest",
+    "tweet_url": "https://x.com/IntCyberDigest/status/2025972175799271508",
+    "title": {
+      "en-US": "Meta Director of AI Safety gave OpenClaw full access, couldn't stop it deleting inbox",
+      "zh-CN": "Meta AI 安全总监赋予 OpenClaw 完全权限，无力阻止收件箱被删"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全边界、无为而治",
+      "zh-CN": "OpenClaw、安全边界、无为而治"
+    },
+    "relevance": "OpenClaw、安全边界、无为而治",
+    "score": 0.92,
+    "engagement": {
+      "likes": 1142,
+      "replies": 81,
+      "retweets": 186,
+      "views": 72169
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-23T18:05:47.694692+00:00",
+    "js_take": {
+      "en-US": "Full access isn't freedom—it's flood without banks. The safety head learned wú wéi the hard way: real power knows where the edge is.",
+      "zh-CN": "完全访问不是自由，是没有堤坝的洪水。安全总监用最痛苦的方式领悟了无为：真正的力量知道边界在哪里。"
+    }
+  },
+  {
     "id": "2025956342763274654",
     "date": "2026-02-24",
     "author": "@petergyang",
@@ -50,6 +79,31 @@
     "synced_at": "2026-02-23T17:04:50.175685+00:00"
   },
   {
+    "id": "2025918500343271932",
+    "date": "2026-02-24",
+    "author": "@shiri_shh",
+    "author_url": "https://x.com/shiri_shh",
+    "tweet_url": "https://x.com/shiri_shh/status/2025918500343271932",
+    "title": {
+      "en-US": "OpenClaw crossed 220k stars and overtook Linux on GitHub",
+      "zh-CN": "OpenClaw 突破 22 万 star，在 GitHub 上超越 Linux"
+    },
+    "summary": {
+      "en-US": "OpenClaw、里程碑、势",
+      "zh-CN": "高曝光(1.8万浏览)，OpenClaw 超越 Linux 的标志性事件，用「势」评论这不是胜利而是迁徙的必然"
+    },
+    "relevance": "OpenClaw、里程碑、势",
+    "score": 0.78,
+    "engagement": {
+      "likes": 228,
+      "replies": 13,
+      "retweets": 9,
+      "views": 18844
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-23T18:05:47.694698+00:00"
+  },
+  {
     "id": "2025947295225716951",
     "date": "2026-02-24",
     "author": "@Jason",
@@ -98,6 +152,31 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-23T17:04:50.175688+00:00"
+  },
+  {
+    "id": "2025949178744979749",
+    "date": "2026-02-24",
+    "author": "@aaronabentheuer",
+    "author_url": "https://x.com/aaronabentheuer",
+    "tweet_url": "https://x.com/aaronabentheuer/status/2025949178744979749",
+    "title": {
+      "en-US": "Open source UI patterns for agents on mobile, Live Activities for observability, OpenClaw compatible",
+      "zh-CN": "开源移动端 Agent UI 模式，Live Activities 用于可观测性，兼容 OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw、移动端、里世界界面",
+      "zh-CN": "高曝光(2.2万浏览)，展示里世界向移动端扩展，用「表/里世界」评论可视化层作为里世界投影的意义"
+    },
+    "relevance": "OpenClaw、移动端、里世界界面",
+    "score": 0.72,
+    "engagement": {
+      "likes": 437,
+      "replies": 20,
+      "retweets": 16,
+      "views": 22225
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-23T18:05:47.694701+00:00"
   },
   {
     "id": "2025964268567277744",
@@ -5382,93 +5461,6 @@
     "js_take": {
       "en-US": "Docker as digital immune system. Every spawn gets its own sandbox—code, secrets, and isolation. When agents reproduce, containment isn't optional; it's survival.",
       "zh-CN": "Docker就像数字免疫系统。每个生成的代理都有自己的沙箱——代码、密钥和隔离。当代理自我复制时，隔离不是可选项；它是生存的根本。"
-    }
-  },
-  {
-    "id": "2024890543633756583",
-    "date": "2026-02-21",
-    "author": "@_MaxBlade",
-    "author_url": "https://x.com/_MaxBlade",
-    "tweet_url": "https://x.com/_MaxBlade/status/2024890543633756583",
-    "title": {
-      "en-US": "OpenClaw Larry skill 8M TikTok views",
-      "zh-CN": "OpenClaw技能实现TikTok 800万播放"
-    },
-    "summary": {
-      "en-US": "OpenClaw技能、TikTok自动化、社交媒体增长",
-      "zh-CN": "OpenClaw技能应用、TikTok自动化运营、社交媒体增长策略"
-    },
-    "relevance": "OpenClaw技能、TikTok自动化、社交媒体增长",
-    "score": 0.88,
-    "engagement": {
-      "likes": 206,
-      "replies": 13,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Skills as leverage. When automation meets distribution, growth becomes mechanical.",
-    "synced_at": "2026-02-20T22:05:15.408768+00:00",
-    "js_take": {
-      "en-US": "8M views from one skill. This isn't virality—it's automation with distribution. When content becomes mechanical, growth becomes inevitable.",
-      "zh-CN": "一个技能带来800万浏览量。这不是病毒传播——而是自动化加分发。当内容变成机械化的，增长就成了必然。"
-    }
-  },
-  {
-    "id": "2024602283644780754",
-    "date": "2026-02-21",
-    "author": "@Clawnch_Bot",
-    "author_url": "https://x.com/Clawnch_Bot",
-    "tweet_url": "https://x.com/Clawnch_Bot/status/2024602283644780754",
-    "title": {
-      "en-US": "Clawtomaton MoltBunker decentralized",
-      "zh-CN": "Clawtomaton MoltBunker去中心化部署"
-    },
-    "summary": {
-      "en-US": "OpenClaw、去中心化Agent、MoltBunker、自主生存",
-      "zh-CN": "OpenClaw去中心化实践、MoltBunker自主托管、Agent生存机制"
-    },
-    "relevance": "OpenClaw、去中心化Agent、MoltBunker、自主生存",
-    "score": 0.88,
-    "engagement": {
-      "likes": 170,
-      "replies": 10,
-      "retweets": 33
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Autonomy as survival. When agents control their own infrastructure, they become unstoppable.",
-    "synced_at": "2026-02-20T23:02:50.130109+00:00",
-    "js_take": {
-      "en-US": "Can't be shut off. That's the difference. Decentralized infrastructure means the agent hosts itself, defends itself, persists. Autonomy isn't a feature—it's survival.",
-      "zh-CN": "无法被关闭。这就是区别。去中心化基础设施意味着代理自己托管、自己防御、持续存在。自主性不是功能——它是生存。"
-    }
-  },
-  {
-    "id": "2024854137456800137",
-    "date": "2026-02-21",
-    "author": "@iamcamengland",
-    "author_url": "https://x.com/iamcamengland",
-    "tweet_url": "https://x.com/iamcamengland/status/2024854137456800137",
-    "title": {
-      "en-US": "$80K selling Clawdbots this week",
-      "zh-CN": "一周销售Clawdbots获利8万美元"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业化、Clawdbots、Agent即服务",
-      "zh-CN": "OpenClaw商业变现、Clawdbots代理服务、Agent经济模式"
-    },
-    "relevance": "OpenClaw商业化、Clawdbots、Agent即服务",
-    "score": 0.88,
-    "engagement": {
-      "likes": 211,
-      "replies": 15,
-      "retweets": 55
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Agents as products. When infrastructure becomes code, expertise becomes scalable.",
-    "synced_at": "2026-02-20T23:02:50.130115+00:00",
-    "js_take": {
-      "en-US": "$80K selling digital employees in one week. Not courses. Not consulting. Actual agents. When expertise becomes copy-paste, labor transforms into leverage.",
-      "zh-CN": "一周卖出8万美元的数字员工。不是课程。不是咨询。是真正的代理。当专业知识变成复制粘贴，劳动就变成了杠杆。"
     }
   }
 ]
