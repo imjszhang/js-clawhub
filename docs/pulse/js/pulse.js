@@ -185,7 +185,6 @@ const Pulse = {
             : `https://ui-avatars.com/api/?name=X&background=FCD228&color=000&bold=true&size=48`;
 
         const title = this._l(item, 'title');
-        const summary = this._l(item, 'summary');
         const engagementHTML = this.renderEngagement(item.engagement);
         const scoreBar = this.renderScoreBar(item.score);
         const typeTag = this.renderTypeTag(item.comment_type);
@@ -214,9 +213,6 @@ const Pulse = {
                             <path stroke-linecap="square" d="M9 5l7 7-7 7"/>
                         </svg>
                     </a>
-                    <p class="text-sm text-black/70 mb-3 mt-2 leading-relaxed">
-                        ${this.escapeHtml(summary)}
-                    </p>
                     ${jsTakeHTML}
                     <div class="flex items-center gap-4 flex-wrap">
                         ${engagementHTML}
