@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-24T10:12:10.277178+00:00",
+  "updated_at": "2026-02-24T11:13:21.599128+00:00",
   "this_week": {
-    "total_items": 113,
+    "total_items": 115,
     "avg_score": 0.81,
     "unique_authors": 96,
     "top_items": [
@@ -232,6 +232,35 @@
         },
         "comment_type": "reframe",
         "synced_at": "2026-02-24T02:13:08.600987+00:00"
+      },
+      {
+        "id": "2026230545605161119",
+        "date": "2026-02-24",
+        "author": "@mattpocockuk",
+        "author_url": "https://x.com/mattpocockuk",
+        "tweet_url": "https://x.com/mattpocockuk/status/2026230545605161119",
+        "title": {
+          "en-US": "Never run claude /init - burns tokens and bloats system",
+          "zh-CN": "别用 claude /init——耗 Token 还臃肿"
+        },
+        "summary": {
+          "en-US": "OpenClaw、/init、无为",
+          "zh-CN": "OpenClaw、/init、无为"
+        },
+        "relevance": "OpenClaw、/init、无为",
+        "score": 0.88,
+        "engagement": {
+          "likes": 203,
+          "replies": 20,
+          "retweets": 8,
+          "views": 13415
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-24T11:12:55.635052+00:00",
+        "js_take": {
+          "en-US": "/init is addition. 无为 (wú wéi) is subtraction. Less setup, more space.",
+          "zh-CN": "/init 是加法，无为（wú wéi）是减法。少些配置，多些空间。"
+        }
       },
       {
         "id": "2025591780595429385",
@@ -998,40 +1027,11 @@
           "en-US": "The surface world (video tools) is becoming just an output layer for the inner world (Agent). We're not using apps anymore—we're delegating to agents that render to any format.",
           "zh-CN": "表世界（视频工具）正在变成里世界（Agent）的输出层。我们不再使用 App，而是委托给可以渲染成任意格式的 Agent。"
         }
-      },
-      {
-        "id": "2025902150296236050",
-        "date": "2026-02-23",
-        "author": "@hasantoxr",
-        "author_url": "https://x.com/hasantoxr",
-        "tweet_url": "https://x.com/hasantoxr/status/2025902150296236050",
-        "title": {
-          "en-US": "OpenClaw got unfair advantage with Scrapling, scrapes undetectable websites without breaking",
-          "zh-CN": "OpenClaw 凭借 Scrapling 获得不公平优势，能抓取防检测网站且结构更新不中断"
-        },
-        "summary": {
-          "en-US": "OpenClaw、网页抓取、表/里世界",
-          "zh-CN": "高曝光(1.3万浏览)技术特性帖，用「表/里世界」评论抓取作为里世界读取表世界数据的方式"
-        },
-        "relevance": "OpenClaw、网页抓取、表/里世界",
-        "score": 0.84,
-        "engagement": {
-          "likes": 261,
-          "replies": 16,
-          "retweets": 32,
-          "views": 12996
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-02-23T14:03:52.925958+00:00",
-        "js_take": {
-          "en-US": "Scrapling isn't cheating. The 里 world (lǐ shìjiè) is just treating the 表 world like the database it always was.",
-          "zh-CN": "Scrapling 不是作弊。里世界只是把表世界当作它原本就是的数据库。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 152
+    "unique_authors": 151
   }
 }

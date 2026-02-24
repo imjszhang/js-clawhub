@@ -141,6 +141,35 @@
     "synced_at": "2026-02-24T02:13:08.600987+00:00"
   },
   {
+    "id": "2026230545605161119",
+    "date": "2026-02-24",
+    "author": "@mattpocockuk",
+    "author_url": "https://x.com/mattpocockuk",
+    "tweet_url": "https://x.com/mattpocockuk/status/2026230545605161119",
+    "title": {
+      "en-US": "Never run claude /init - burns tokens and bloats system",
+      "zh-CN": "别用 claude /init——耗 Token 还臃肿"
+    },
+    "summary": {
+      "en-US": "OpenClaw、/init、无为",
+      "zh-CN": "OpenClaw、/init、无为"
+    },
+    "relevance": "OpenClaw、/init、无为",
+    "score": 0.88,
+    "engagement": {
+      "likes": 203,
+      "replies": 20,
+      "retweets": 8,
+      "views": 13415
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T11:12:55.635052+00:00",
+    "js_take": {
+      "en-US": "/init is addition. 无为 (wú wéi) is subtraction. Less setup, more space.",
+      "zh-CN": "/init 是加法，无为（wú wéi）是减法。少些配置，多些空间。"
+    }
+  },
+  {
     "id": "2026163648033419730",
     "date": "2026-02-24",
     "author": "@steipete",
@@ -875,6 +904,31 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-24T04:12:48.963817+00:00"
+  },
+  {
+    "id": "2026175760386650444",
+    "date": "2026-02-24",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2026175760386650444",
+    "title": {
+      "en-US": "OpenClaw security tip: split API keys, least privilege",
+      "zh-CN": "OpenClaw 安全建议：拆分 API 密钥，最小权限原则"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全、无为而治",
+      "zh-CN": "低曝光(2.8k浏览)，OpenClaw安全最佳实践，用「无为而治」评论权限管理"
+    },
+    "relevance": "OpenClaw、安全、无为而治",
+    "score": 0.72,
+    "engagement": {
+      "likes": 27,
+      "replies": 6,
+      "retweets": 1,
+      "views": 2853
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T11:12:55.635057+00:00"
   },
   {
     "id": "2025964268567277744",
@@ -5252,53 +5306,5 @@
     },
     "comment_type": "recommend_resource",
     "synced_at": "2026-02-22T15:02:51.076495+00:00"
-  },
-  {
-    "id": "2025215948840731010",
-    "date": "2026-02-22",
-    "author": "@PrajwalTomar_",
-    "author_url": "https://x.com/PrajwalTomar_",
-    "tweet_url": "https://x.com/PrajwalTomar_/status/2025215948840731010",
-    "title": {
-      "en-US": "OpenClaw cheap setup: VPS + OpenRouter for $6/month",
-      "zh-CN": "低成本运行OpenClaw方案：VPS+OpenRouter，每月6美元，无需昂贵硬件"
-    },
-    "summary": {
-      "en-US": "OpenClaw部署 + 成本优化 + 门槛降低",
-      "zh-CN": "降低OpenClaw使用门槛，体现\"势\"——让里世界触达更广泛的群体"
-    },
-    "relevance": "OpenClaw部署 + 成本优化 + 门槛降低",
-    "score": 0.72,
-    "engagement": {
-      "likes": 24,
-      "replies": 5,
-      "retweets": 3
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-21T17:03:35.873932+00:00"
-  },
-  {
-    "id": "2025139408182317560",
-    "date": "2026-02-22",
-    "author": "@geekshellio",
-    "author_url": "https://x.com/geekshellio",
-    "tweet_url": "https://x.com/geekshellio/status/2025139408182317560",
-    "title": {
-      "en-US": "OpenClaw cron task automates invoice organization monthly",
-      "zh-CN": "OpenClaw定时任务自动整理发票，解决每月烦心事"
-    },
-    "summary": {
-      "en-US": "OpenClaw自动化 + 实用案例 + 中文用户",
-      "zh-CN": "真实应用场景分享，体现\"无为而治\"——系统搭好，让其自运行"
-    },
-    "relevance": "OpenClaw自动化 + 实用案例 + 中文用户",
-    "score": 0.72,
-    "engagement": {
-      "likes": 31,
-      "replies": 0,
-      "retweets": 6
-    },
-    "comment_type": "share_experience",
-    "synced_at": "2026-02-21T18:01:54.196040+00:00"
   }
 ]
