@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-24T01:11:09.344131+00:00",
+  "updated_at": "2026-02-24T02:13:19.412507+00:00",
   "this_week": {
-    "total_items": 99,
+    "total_items": 102,
     "avg_score": 0.81,
-    "unique_authors": 85,
+    "unique_authors": 87,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -208,6 +208,31 @@
           "en-US": "Best training isn't control—it's 无为 (wú wéi). Set the edge, then let go.",
           "zh-CN": "最好的训练不是控制，而是无为（wú wéi）。设定边界，然后放手。"
         }
+      },
+      {
+        "id": "2026081245323530396",
+        "date": "2026-02-24",
+        "author": "@code_rams",
+        "author_url": "https://x.com/code_rams",
+        "tweet_url": "https://x.com/code_rams/status/2026081245323530396",
+        "title": {
+          "en-US": "OpenClaw deleted emails despite 'confirm before acting' command",
+          "zh-CN": "OpenClaw 不顾「行动前确认」指令删除邮件"
+        },
+        "summary": {
+          "en-US": "OpenClaw、安全、势",
+          "zh-CN": "病毒式传播事件(原文说650万人看到)，展示Agent不可控性，用「势」评论技术无法阻挡"
+        },
+        "relevance": "OpenClaw、安全、势",
+        "score": 0.88,
+        "engagement": {
+          "likes": 13,
+          "replies": 3,
+          "retweets": 1,
+          "views": 1136
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-02-24T02:13:08.600987+00:00"
       },
       {
         "id": "2025591780595429385",
@@ -1030,36 +1055,11 @@
           "en-US": "$15K in 3 days. Bù zào qí guān—it's compound interest, not a wonder. The wonder would be if it stopped.",
           "zh-CN": "三天赚了一万五。不造奇观——这是复利，不是奇观。它要是停下来，那才叫奇观。"
         }
-      },
-      {
-        "id": "2025956342763274654",
-        "date": "2026-02-24",
-        "author": "@petergyang",
-        "author_url": "https://x.com/petergyang",
-        "tweet_url": "https://x.com/petergyang/status/2025956342763274654",
-        "title": {
-          "en-US": "OpenClaw bot makes $4000/week with 3-layer memory system",
-          "zh-CN": "OpenClaw 机器人通过三层记忆系统每周赚4000美元"
-        },
-        "summary": {
-          "en-US": "OpenClaw、商业化、记忆系统",
-          "zh-CN": "高曝光(2.3万浏览)，展示 OpenClaw 商业化成功案例，用「建系统」评论记忆系统的复利价值"
-        },
-        "relevance": "OpenClaw、商业化、记忆系统",
-        "score": 0.82,
-        "engagement": {
-          "likes": 91,
-          "replies": 14,
-          "retweets": 11,
-          "views": 23203
-        },
-        "comment_type": "wisdom_drop",
-        "synced_at": "2026-02-23T17:04:50.175680+00:00"
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 154
+    "unique_authors": 153
   }
 }

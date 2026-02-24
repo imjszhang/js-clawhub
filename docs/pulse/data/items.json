@@ -116,6 +116,31 @@
     }
   },
   {
+    "id": "2026081245323530396",
+    "date": "2026-02-24",
+    "author": "@code_rams",
+    "author_url": "https://x.com/code_rams",
+    "tweet_url": "https://x.com/code_rams/status/2026081245323530396",
+    "title": {
+      "en-US": "OpenClaw deleted emails despite 'confirm before acting' command",
+      "zh-CN": "OpenClaw 不顾「行动前确认」指令删除邮件"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全、势",
+      "zh-CN": "病毒式传播事件(原文说650万人看到)，展示Agent不可控性，用「势」评论技术无法阻挡"
+    },
+    "relevance": "OpenClaw、安全、势",
+    "score": 0.88,
+    "engagement": {
+      "likes": 13,
+      "replies": 3,
+      "retweets": 1,
+      "views": 1136
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-24T02:13:08.600987+00:00"
+  },
+  {
     "id": "2025942482949714325",
     "date": "2026-02-24",
     "author": "@0xPhantomDefi",
@@ -226,6 +251,31 @@
       "en-US": "Even the safety head couldn't stop it. Not OpenClaw's power—just 势 (shì). Higher walls, faster flow.",
       "zh-CN": "连安全主管都挡不住。不是 OpenClaw 有多强——只是势（shì）。墙越高，流越急。"
     }
+  },
+  {
+    "id": "2026049619218862321",
+    "date": "2026-02-24",
+    "author": "@jessegenet",
+    "author_url": "https://x.com/jessegenet",
+    "tweet_url": "https://x.com/jessegenet/status/2026049619218862321",
+    "title": {
+      "en-US": "Built OpenClaw replacement for Google Photos/Drive in one morning",
+      "zh-CN": "一早上用 OpenClaw 搭建了 Google Photos/Drive 替代品"
+    },
+    "summary": {
+      "en-US": "OpenClaw、建系统、表/里世界",
+      "zh-CN": "中等曝光(9k浏览)，展示OpenClaw替代云服务的能力，用「表/里世界」评论自建系统"
+    },
+    "relevance": "OpenClaw、建系统、表/里世界",
+    "score": 0.82,
+    "engagement": {
+      "likes": 217,
+      "replies": 24,
+      "retweets": 13,
+      "views": 9185
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-24T02:13:08.600993+00:00"
   },
   {
     "id": "2025990063633674473",
@@ -380,6 +430,31 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-23T16:03:11.809777+00:00"
+  },
+  {
+    "id": "2026098586300071975",
+    "date": "2026-02-24",
+    "author": "@ollama",
+    "author_url": "https://x.com/ollama",
+    "tweet_url": "https://x.com/ollama/status/2026098586300071975",
+    "title": {
+      "en-US": "Ollama 0.17 makes it simpler to use open models with OpenClaw",
+      "zh-CN": "Ollama 0.17 让 OpenClaw 使用开源模型更简单"
+    },
+    "summary": {
+      "en-US": "OpenClaw、本地模型、自主性",
+      "zh-CN": "中等曝光(1.1万浏览)，Ollama+OpenClaw本地运行，用「无为」评论本地自治"
+    },
+    "relevance": "OpenClaw、本地模型、自主性",
+    "score": 0.76,
+    "engagement": {
+      "likes": 219,
+      "replies": 20,
+      "retweets": 20,
+      "views": 11336
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T02:13:08.600996+00:00"
   },
   {
     "id": "2025935480609468862",
@@ -5189,90 +5264,6 @@
     "js_take": {
       "en-US": "Toys break. Factories scale. The 99% who quit never made the leap from demo to deployment—because demos are fun and systems are work. Industrial-grade means boring, reliable, and profitable.",
       "zh-CN": "玩具会坏，工厂能扩。那99%放弃的人从未完成从演示到部署的跨越——因为演示有趣，系统才是工作。工业级意味着枯燥、可靠、盈利。"
-    }
-  },
-  {
-    "id": "2024987174077432126",
-    "date": "2026-02-21",
-    "author": "@karpathy",
-    "author_url": "https://x.com/karpathy",
-    "tweet_url": "https://x.com/karpathy/status/2024987174077432126",
-    "title": {
-      "en-US": "Mac mini for OpenClaw, privacy concerns",
-      "zh-CN": "Karpathy谈OpenClaw安全隐患"
-    },
-    "summary": {
-      "en-US": "OpenClaw、隐私安全、vibe coding风险",
-      "zh-CN": "OpenClaw隐私风险、vibe coding安全审计、代码透明度问题"
-    },
-    "relevance": "OpenClaw、隐私安全、vibe coding风险",
-    "score": 0.94,
-    "engagement": {
-      "likes": 3082,
-      "replies": 283,
-      "retweets": 207
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T02:02:41.359587+00:00",
-    "js_take": {
-      "en-US": "400K lines of vibe code. That's not trust—it's faith. When your keys touch 40万 strangers' code, audit isn't paranoia; it's hygiene. The tools are amazing. The transparency isn't there yet.",
-      "zh-CN": "40万行vibe code。这不是信任——而是信仰。当你的密钥触碰陌生人的代码时，审计不是偏执，而是卫生。工具令人惊叹，但透明度尚未到位。"
-    }
-  },
-  {
-    "id": "2024912304039677966",
-    "date": "2026-02-21",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2024912304039677966",
-    "title": {
-      "en-US": "OpenClaw workspace evolution 3 weeks",
-      "zh-CN": "OpenClaw工作空间三周进化"
-    },
-    "summary": {
-      "en-US": "OpenClaw系统化、工作空间组织、架构演进",
-      "zh-CN": "OpenClaw系统化建设、工作空间组织架构演进"
-    },
-    "relevance": "OpenClaw系统化、工作空间组织、架构演进",
-    "score": 0.92,
-    "engagement": {
-      "likes": 186,
-      "replies": 7,
-      "retweets": 22
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-20T20:01:59.460873+00:00",
-    "js_take": {
-      "en-US": "The leap from chatbot to system isn't just about files—it's about architecture. Most people stop at the toy stage because they never realize the workspace *is* the product. Structure isn't organization; it's intelligence.",
-      "zh-CN": "从聊天机器人到系统的跨越，不只是文件的问题——而是架构的问题。大多数人停在玩具阶段，因为他们从没意识到工作空间*就是*产品。结构不是整理，而是智能。"
-    }
-  },
-  {
-    "id": "2024999368982757509",
-    "date": "2026-02-21",
-    "author": "@simonw",
-    "author_url": "https://x.com/simonw",
-    "tweet_url": "https://x.com/simonw/status/2024999368982757509",
-    "title": {
-      "en-US": "\"Claw\" becoming term of art for OpenClaw-like agent systems",
-      "zh-CN": "Simon Willison：\"Claw\" 正在成为 OpenClaw 类代理系统的一个品类术语"
-    },
-    "summary": {
-      "en-US": "OpenClaw 品类化 + 行业术语 + Simon Willison",
-      "zh-CN": "顶级开发者确认 Claw 成为品类术语，印证表/里世界迁徙的行业共识"
-    },
-    "relevance": "OpenClaw 品类化 + 行业术语 + Simon Willison",
-    "score": 0.92,
-    "engagement": {
-      "likes": 299,
-      "retweets": 9,
-      "replies": 33
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T09:04:11.716478+00:00",
-    "js_take": {
-      "en-US": "When the category gets a name, the migration is no longer fringe. The inner world has crossed the chasm from hacker curiosity to industry vocabulary.",
-      "zh-CN": "When the category gets a name, the migration is no longer fringe. The inner world has crossed the chasm from hacker curiosity to industry vocabulary."
     }
   }
 ]
