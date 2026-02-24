@@ -282,6 +282,31 @@
     }
   },
   {
+    "id": "2026184890748915933",
+    "date": "2026-02-24",
+    "author": "@@ai_for_success",
+    "author_url": "https://x.com/ai_for_success",
+    "tweet_url": "https://x.com/ai_for_success/status/2026184890748915933",
+    "title": {
+      "en-US": "Remember her before giving OpenClaw full access",
+      "zh-CN": "给 OpenClaw 完整权限前，请记住她"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全、无为而治",
+      "zh-CN": "OpenClaw、安全、无为而治"
+    },
+    "relevance": "OpenClaw、安全、无为而治",
+    "score": 0.85,
+    "engagement": {
+      "likes": 140,
+      "replies": 18,
+      "retweets": 6,
+      "views": 33250
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T14:06:53.376689+00:00"
+  },
+  {
     "id": "2026092642623201379",
     "date": "2026-02-24",
     "author": "@steipete",
@@ -679,6 +704,31 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-24T13:13:33.140376+00:00"
+  },
+  {
+    "id": "2026264857771937852",
+    "date": "2026-02-24",
+    "author": "@@elvissun",
+    "author_url": "https://x.com/elvissun",
+    "tweet_url": "https://x.com/elvissun/status/2026264857771937852",
+    "title": {
+      "en-US": "Built own backdoor support system with OpenClaw agent",
+      "zh-CN": "用 OpenClaw Agent 自建后门客服系统"
+    },
+    "summary": {
+      "en-US": "OpenClaw、客服自动化、建系统",
+      "zh-CN": "低曝光(3.6k浏览)，展示OpenClaw自建系统能力，用「建系统」评论一人公司"
+    },
+    "relevance": "OpenClaw、客服自动化、建系统",
+    "score": 0.78,
+    "engagement": {
+      "likes": 43,
+      "replies": 28,
+      "retweets": 2,
+      "views": 3603
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T14:06:53.376694+00:00"
   },
   {
     "id": "2025947295225716951",
@@ -5264,49 +5314,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-22T10:05:07.079920+00:00"
-  },
-  {
-    "id": "2025275817648103593",
-    "date": "2026-02-22",
-    "author": "@JulianGoldieSEO",
-    "author_url": "https://x.com/JulianGoldieSEO",
-    "tweet_url": "https://x.com/JulianGoldieSEO/status/2025275817648103593",
-    "title": {
-      "en-US": "Qwen 3.5 + OpenClaw + Ollama free local stack",
-      "zh-CN": "免费本地运行Qwen 3.5 + OpenClaw + Ollama，无订阅，只需本地Agent栈"
-    },
-    "summary": {
-      "en-US": "OpenClaw本地部署 + 免费方案 + 开源模型",
-      "zh-CN": "降低门槛的技术分享，体现势——本地化是里世界的自主之路"
-    },
-    "relevance": "OpenClaw本地部署 + 免费方案 + 开源模型",
-    "score": 0.74,
-    "engagement": {},
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-21T23:01:34.003752+00:00"
-  },
-  {
-    "id": "2025417437286387928",
-    "date": "2026-02-22",
-    "author": "@lucatac0",
-    "author_url": "https://x.com/lucatac0",
-    "tweet_url": "https://x.com/lucatac0/status/2025417437286387928",
-    "title": {
-      "en-US": "OpenClaw built TTS model CLI in 35 minutes",
-      "zh-CN": "让OpenClaw研究TTS模型、构建CLI并保存为skill——35分钟后听到它的第一句话\"can. you. hear. me\""
-    },
-    "summary": {
-      "en-US": "OpenClaw + 语音合成 + 技能创建",
-      "zh-CN": "展示从想法到实现的快速闭环，体现Agent创造力——35分钟从概念到可听"
-    },
-    "relevance": "OpenClaw + 语音合成 + 技能创建",
-    "score": 0.74,
-    "engagement": {
-      "likes": 38,
-      "replies": 8,
-      "retweets": 4
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-22T10:05:07.079922+00:00"
   }
 ]

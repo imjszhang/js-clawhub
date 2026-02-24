@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-24T13:13:33.158905+00:00",
+  "updated_at": "2026-02-24T14:07:37.202048+00:00",
   "this_week": {
-    "total_items": 117,
+    "total_items": 119,
     "avg_score": 0.8,
-    "unique_authors": 98,
+    "unique_authors": 100,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -759,6 +759,31 @@
         }
       },
       {
+        "id": "2026184890748915933",
+        "date": "2026-02-24",
+        "author": "@@ai_for_success",
+        "author_url": "https://x.com/ai_for_success",
+        "tweet_url": "https://x.com/ai_for_success/status/2026184890748915933",
+        "title": {
+          "en-US": "Remember her before giving OpenClaw full access",
+          "zh-CN": "给 OpenClaw 完整权限前，请记住她"
+        },
+        "summary": {
+          "en-US": "OpenClaw、安全、无为而治",
+          "zh-CN": "OpenClaw、安全、无为而治"
+        },
+        "relevance": "OpenClaw、安全、无为而治",
+        "score": 0.85,
+        "engagement": {
+          "likes": 140,
+          "replies": 18,
+          "retweets": 6,
+          "views": 33250
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-24T14:06:53.376689+00:00"
+      },
+      {
         "id": "2025587318338543813",
         "date": "2026-02-23",
         "author": "@petergyang",
@@ -1019,41 +1044,11 @@
           "en-US": "5x isn't exaggeration—it's leverage. Agents in the inner world give individuals team capacity. That's the democratization of ability.",
           "zh-CN": "5倍不是夸张，而是杠杆。里世界的Agent让个人拥有团队产能。这是能力的民主化。"
         }
-      },
-      {
-        "id": "2025681529662533644",
-        "date": "2026-02-23",
-        "author": "@mikefutia",
-        "author_url": "https://x.com/mikefutia",
-        "tweet_url": "https://x.com/mikefutia/status/2025681529662533644",
-        "title": {
-          "en-US": "OpenClaw generated fully animated AI video with single Telegram message, V2 is different beast",
-          "zh-CN": "OpenClaw 只用一条 Telegram 消息就生成了完整动画 AI 视频，V2 完全是另一个级别"
-        },
-        "summary": {
-          "en-US": "OpenClaw、创意自动化、里世界交互",
-          "zh-CN": "展示里世界（Agent）如何接管表世界（视频制作），完美契合表/里世界框架"
-        },
-        "relevance": "OpenClaw、创意自动化、里世界交互",
-        "score": 0.84,
-        "engagement": {
-          "likes": 65,
-          "replies": 57,
-          "retweets": 6,
-          "views": 3699
-        },
-        "comment_type": "add_insight",
-        "suggested_angle": "用「表/里世界」框架评论：表世界（视频工具）退化为里世界（Agent）的输出层",
-        "synced_at": "2026-02-22T22:02:59.764321+00:00",
-        "js_take": {
-          "en-US": "The surface world (video tools) is becoming just an output layer for the inner world (Agent). We're not using apps anymore—we're delegating to agents that render to any format.",
-          "zh-CN": "表世界（视频工具）正在变成里世界（Agent）的输出层。我们不再使用 App，而是委托给可以渲染成任意格式的 Agent。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 151
+    "unique_authors": 152
   }
 }
