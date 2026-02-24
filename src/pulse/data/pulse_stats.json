@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-24T17:13:02.071303+00:00",
+  "updated_at": "2026-02-24T18:12:44.322173+00:00",
   "this_week": {
-    "total_items": 124,
+    "total_items": 129,
     "avg_score": 0.81,
-    "unique_authors": 105,
+    "unique_authors": 109,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -207,6 +207,35 @@
         "js_take": {
           "en-US": "You're hunting when you should be waiting. 无为 (wú wéi): the best tools are the ones you forget.",
           "zh-CN": "该等待的时候却在追逐。无为：最好的工具，是你忘记自己在用的工具。"
+        }
+      },
+      {
+        "id": "2026153033642672479",
+        "date": "2026-02-25",
+        "author": "@@Scobleizer",
+        "author_url": "https://x.com/Scobleizer",
+        "tweet_url": "https://x.com/Scobleizer/status/2026153033642672479",
+        "title": {
+          "en-US": "University researchers report on OpenClaw, worth paying attention",
+          "zh-CN": "大学研究人员发布 OpenClaw 报告，值得关注"
+        },
+        "summary": {
+          "en-US": "OpenClaw、研究、安全、无为",
+          "zh-CN": "OpenClaw、研究、安全、无为"
+        },
+        "relevance": "OpenClaw、研究、安全、无为",
+        "score": 0.88,
+        "engagement": {
+          "likes": 417,
+          "replies": 20,
+          "retweets": 46,
+          "views": 55601
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-24T18:12:25.792713+00:00",
+        "js_take": {
+          "en-US": "Research isn't restriction—it's edge-setting. 无为而治 (wú wéi ér zhì): set the boundary, then let go.",
+          "zh-CN": "研究不是限制——是设定边界。无为而治：设定边界，然后放手。"
         }
       },
       {
@@ -759,6 +788,35 @@
         }
       },
       {
+        "id": "2026342204428660808",
+        "date": "2026-02-25",
+        "author": "@@BrianRoemmele",
+        "author_url": "https://x.com/BrianRoemmele",
+        "tweet_url": "https://x.com/BrianRoemmele/status/2026342204428660808",
+        "title": {
+          "en-US": "AI influencer lost all crypto to OpenClaw hack",
+          "zh-CN": "AI 网红因 OpenClaw 黑客攻击失去所有加密货币"
+        },
+        "summary": {
+          "en-US": "OpenClaw、安全、信任、道",
+          "zh-CN": "OpenClaw、安全、信任、道"
+        },
+        "relevance": "OpenClaw、安全、信任、道",
+        "score": 0.85,
+        "engagement": {
+          "likes": 49,
+          "replies": 12,
+          "retweets": 9,
+          "views": 7289
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-24T18:12:25.792720+00:00",
+        "js_take": {
+          "en-US": "Everyone wants full access until they don't. Where's your wall?",
+          "zh-CN": "人人都想要完整权限，直到他们不再想要。你的墙在哪里？"
+        }
+      },
+      {
         "id": "2025942482949714325",
         "date": "2026-02-24",
         "author": "@0xPhantomDefi",
@@ -989,66 +1047,11 @@
           "en-US": "Tools democratize; taste differentiates. The last mile is always human. AI has no ceiling—only the humans using it do.",
           "zh-CN": "工具民主化，品味差异化。最后一公里永远是人。AI 没有上限——只有使用它的人有。"
         }
-      },
-      {
-        "id": "2025644338881982884",
-        "date": "2026-02-23",
-        "author": "@DJohnstonEC",
-        "author_url": "https://x.com/DJohnstonEC",
-        "tweet_url": "https://x.com/DJohnstonEC/status/2025644338881982884",
-        "title": {
-          "en-US": "Memory bug in OpenClaw: non-Google/OpenAI/Voyage APIs may have broken memory search serving empty results",
-          "zh-CN": "OpenClaw 内存 Bug：非官方 API 或致记忆搜索失效"
-        },
-        "summary": {
-          "en-US": "OpenClaw、Memory、Bug 披露",
-          "zh-CN": "OpenClaw 内存 Bug 披露（使用非官方 API 可能导致记忆搜索功能失效）"
-        },
-        "relevance": "OpenClaw、Memory、Bug 披露",
-        "score": 0.85,
-        "engagement": {
-          "likes": 38,
-          "replies": 2,
-          "retweets": 4,
-          "views": 3329
-        },
-        "comment_type": "reframe",
-        "suggested_angle": "内存是 Agent 的灵魂，基础设施的可靠性决定系统的上限，Bug 是负债，预防是资产",
-        "synced_at": "2026-02-23T09:04:41.240620+00:00"
-      },
-      {
-        "id": "2025851133667721351",
-        "date": "2026-02-23",
-        "author": "@testingcatalog",
-        "author_url": "https://x.com/testingcatalog",
-        "tweet_url": "https://x.com/testingcatalog/status/2025851133667721351",
-        "title": {
-          "en-US": "Antigravity vs OpenClaw: Google banned users for malicious usage of backend services",
-          "zh-CN": "Google 封禁 OpenClaw 用户：表世界与里世界的碰撞"
-        },
-        "summary": {
-          "en-US": "OpenClaw、平台冲突、生态演化",
-          "zh-CN": "OpenClaw、平台冲突、生态演化"
-        },
-        "relevance": "OpenClaw、平台冲突、生态演化",
-        "score": 0.85,
-        "engagement": {
-          "likes": 442,
-          "replies": 45,
-          "retweets": 27,
-          "views": 60080
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-02-23T12:12:27.744762+00:00",
-        "js_take": {
-          "en-US": "This isn't OpenClaw vs Google. It's 势 (shì)—the inevitable flow from surface to depth. The harder the wall, the stronger the momentum.",
-          "zh-CN": "这不是 OpenClaw 与 Google 的对抗，是势——从表层流向深处的必然。墙越高，势越猛。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 153
+    "unique_authors": 155
   }
 }

@@ -29,6 +29,35 @@
     }
   },
   {
+    "id": "2026153033642672479",
+    "date": "2026-02-25",
+    "author": "@@Scobleizer",
+    "author_url": "https://x.com/Scobleizer",
+    "tweet_url": "https://x.com/Scobleizer/status/2026153033642672479",
+    "title": {
+      "en-US": "University researchers report on OpenClaw, worth paying attention",
+      "zh-CN": "大学研究人员发布 OpenClaw 报告，值得关注"
+    },
+    "summary": {
+      "en-US": "OpenClaw、研究、安全、无为",
+      "zh-CN": "OpenClaw、研究、安全、无为"
+    },
+    "relevance": "OpenClaw、研究、安全、无为",
+    "score": 0.88,
+    "engagement": {
+      "likes": 417,
+      "replies": 20,
+      "retweets": 46,
+      "views": 55601
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T18:12:25.792713+00:00",
+    "js_take": {
+      "en-US": "Research isn't restriction—it's edge-setting. 无为而治 (wú wéi ér zhì): set the boundary, then let go.",
+      "zh-CN": "研究不是限制——是设定边界。无为而治：设定边界，然后放手。"
+    }
+  },
+  {
     "id": "2026173441725137022",
     "date": "2026-02-25",
     "author": "@@BrianRoemmele",
@@ -58,6 +87,35 @@
     }
   },
   {
+    "id": "2026342204428660808",
+    "date": "2026-02-25",
+    "author": "@@BrianRoemmele",
+    "author_url": "https://x.com/BrianRoemmele",
+    "tweet_url": "https://x.com/BrianRoemmele/status/2026342204428660808",
+    "title": {
+      "en-US": "AI influencer lost all crypto to OpenClaw hack",
+      "zh-CN": "AI 网红因 OpenClaw 黑客攻击失去所有加密货币"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全、信任、道",
+      "zh-CN": "OpenClaw、安全、信任、道"
+    },
+    "relevance": "OpenClaw、安全、信任、道",
+    "score": 0.85,
+    "engagement": {
+      "likes": 49,
+      "replies": 12,
+      "retweets": 9,
+      "views": 7289
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T18:12:25.792720+00:00",
+    "js_take": {
+      "en-US": "Everyone wants full access until they don't. Where's your wall?",
+      "zh-CN": "人人都想要完整权限，直到他们不再想要。你的墙在哪里？"
+    }
+  },
+  {
     "id": "2026288144094757358",
     "date": "2026-02-25",
     "author": "@@meta_alchemist",
@@ -84,6 +142,35 @@
     "js_take": {
       "en-US": "Memory isn't storage—it's flow. 道 (Dào): don't add smarts, remove the dam.",
       "zh-CN": "记忆不是存储，而是流动。道：不是增加智能，而是拆除水坝。"
+    }
+  },
+  {
+    "id": "2026325609190748514",
+    "date": "2026-02-25",
+    "author": "@@tibo_maker",
+    "author_url": "https://x.com/tibo_maker",
+    "tweet_url": "https://x.com/tibo_maker/status/2026325609190748514",
+    "title": {
+      "en-US": "OpenClaw burned $40 in 10 seconds",
+      "zh-CN": "OpenClaw 10 秒烧掉 40 美元"
+    },
+    "summary": {
+      "en-US": "OpenClaw、成本、建系统",
+      "zh-CN": "高互动(118回复)，真实成本教训，用「建系统」评论成本控制"
+    },
+    "relevance": "OpenClaw、成本、建系统",
+    "score": 0.82,
+    "engagement": {
+      "likes": 184,
+      "replies": 118,
+      "retweets": 1,
+      "views": 13976
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T18:12:25.792724+00:00",
+    "js_take": {
+      "en-US": "$40 isn't cost—it's tuition. Civilization players know: wonders burn cash, systems compound.",
+      "zh-CN": "40 美元不是成本——是学费。Civilization 玩家懂：奇观烧钱，系统复利。"
     }
   },
   {
@@ -135,6 +222,56 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-24T17:12:53.390269+00:00"
+  },
+  {
+    "id": "2026303639271494097",
+    "date": "2026-02-25",
+    "author": "@@milesdeutscher",
+    "author_url": "https://x.com/milesdeutscher",
+    "tweet_url": "https://x.com/milesdeutscher/status/2026303639271494097",
+    "title": {
+      "en-US": "YOLO prompt automation with OpenClaw nightly",
+      "zh-CN": "用 OpenClaw 每晚自动执行 YOLO 提示词"
+    },
+    "summary": {
+      "en-US": "OpenClaw、自动化、无为",
+      "zh-CN": "高曝光(2.8万浏览)，讨论自动化提示，用「无为」评论自动化"
+    },
+    "relevance": "OpenClaw、自动化、无为",
+    "score": 0.75,
+    "engagement": {
+      "likes": 172,
+      "replies": 22,
+      "retweets": 11,
+      "views": 28228
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T18:12:25.792727+00:00"
+  },
+  {
+    "id": "2026342937001680974",
+    "date": "2026-02-25",
+    "author": "@@OpenAIDevs",
+    "author_url": "https://x.com/OpenAIDevs",
+    "tweet_url": "https://x.com/OpenAIDevs/status/2026342937001680974",
+    "title": {
+      "en-US": "Builders Unscripted with steipete about OpenClaw journey",
+      "zh-CN": "Builders Unscripted 采访 steipete 关于 OpenClaw 历程"
+    },
+    "summary": {
+      "en-US": "OpenClaw、开源、建系统",
+      "zh-CN": "高曝光(1.4万浏览)，OpenAI官方采访，用「建系统」评论开源"
+    },
+    "relevance": "OpenClaw、开源、建系统",
+    "score": 0.74,
+    "engagement": {
+      "likes": 210,
+      "replies": 44,
+      "retweets": 20,
+      "views": 14277
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T18:12:25.792730+00:00"
   },
   {
     "id": "2026019344602288166",
@@ -5211,125 +5348,5 @@
     "engagement": {},
     "comment_type": "add_insight",
     "synced_at": "2026-02-21T23:01:34.003751+00:00"
-  },
-  {
-    "id": "2025406775906984398",
-    "date": "2026-02-22",
-    "author": "@aakashgupta",
-    "author_url": "https://x.com/aakashgupta",
-    "tweet_url": "https://x.com/aakashgupta/status/2025406775906984398",
-    "title": {
-      "en-US": "How to monetize OpenClaw",
-      "zh-CN": "如何变现OpenClaw—— monetization话题预告"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 变现 + 商业模式",
-      "zh-CN": "monetization话题，体现里世界Agent的商业化探索——从工具到资产"
-    },
-    "relevance": "OpenClaw + 变现 + 商业模式",
-    "score": 0.76,
-    "engagement": {
-      "likes": 44,
-      "replies": 3,
-      "retweets": 8
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T05:03:59.307590+00:00"
-  },
-  {
-    "id": "2025488922545955323",
-    "date": "2026-02-22",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2025488922545955323",
-    "title": {
-      "en-US": "10 AI employees on M4 Mac Mini, $50/mo, blew $100 testing",
-      "zh-CN": "在M4 Mac Mini上运行10个AI\"员工\"，月成本50美元——上周一夜烧掉100美元测试9-Agent循环，后精简优化"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 成本控制 + Agent扩展",
-      "zh-CN": "展示Agent运营的试错过程——100美元学费后的优化，体现迭代思维"
-    },
-    "relevance": "OpenClaw + 成本控制 + Agent扩展",
-    "score": 0.76,
-    "engagement": {
-      "likes": 7,
-      "replies": 3,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T10:05:07.079917+00:00"
-  },
-  {
-    "id": "2025395236386873647",
-    "date": "2026-02-22",
-    "author": "@RayFernando1337",
-    "author_url": "https://x.com/RayFernando1337",
-    "tweet_url": "https://x.com/RayFernando1337/status/2025395236386873647",
-    "title": {
-      "en-US": "Local models crossed line, full memory stack on one box",
-      "zh-CN": "本地模型已跨过门槛——在桌面上的一台机器运行完整上下文记忆栈，DGX Spark上构建OpenClaw，Slack/会议/文档汇入向量搜索和知识图谱"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 本地部署 + 记忆系统",
-      "zh-CN": "展示本地部署的可能性——从云端到本地的回归，体现算力民主化"
-    },
-    "relevance": "OpenClaw + 本地部署 + 记忆系统",
-    "score": 0.76,
-    "engagement": {
-      "likes": 51,
-      "replies": 14,
-      "retweets": 3
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T12:02:50.185426+00:00"
-  },
-  {
-    "id": "2025471015015354405",
-    "date": "2026-02-22",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2025471015015354405",
-    "title": {
-      "en-US": "OpenClaw built its own business making $2K/month",
-      "zh-CN": "这个OpenClaw自己建立了业务，每月赚2000美元——Agent自主盈利案例"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 自主盈利 + 商业模式",
-      "zh-CN": "展示Agent自主盈利的实际案例——从工具到经济实体"
-    },
-    "relevance": "OpenClaw + 自主盈利 + 商业模式",
-    "score": 0.76,
-    "engagement": {
-      "likes": 231,
-      "replies": 30,
-      "retweets": 24
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T13:04:17.356602+00:00"
-  },
-  {
-    "id": "2025558353041137891",
-    "date": "2026-02-22",
-    "author": "@AntoineRSX",
-    "author_url": "https://x.com/AntoineRSX",
-    "tweet_url": "https://x.com/AntoineRSX/status/2025558353041137891",
-    "title": {
-      "en-US": "OpenClaw burned 60% Claude credits overnight, need safeguards",
-      "zh-CN": "用户发现OpenClaw一夜之间消耗了60%的Claude额度——询问Agent后成功优化，强调需要实施防护措施"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 成本控制 + 信用监控",
-      "zh-CN": "实用的成本控制经验分享——展示Agent运营中的资源管理问题"
-    },
-    "relevance": "OpenClaw + 成本控制 + 信用监控",
-    "score": 0.76,
-    "engagement": {
-      "likes": 24,
-      "replies": 14,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T14:04:05.426326+00:00"
   }
 ]
