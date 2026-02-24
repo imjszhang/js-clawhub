@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-24T09:10:23.044880+00:00",
+  "updated_at": "2026-02-24T10:12:10.277178+00:00",
   "this_week": {
-    "total_items": 110,
-    "avg_score": 0.8,
-    "unique_authors": 94,
+    "total_items": 113,
+    "avg_score": 0.81,
+    "unique_authors": 96,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -465,6 +465,35 @@
         },
         "comment_type": "wisdom_drop",
         "synced_at": "2026-02-24T06:14:11.523832+00:00"
+      },
+      {
+        "id": "2026172457233829922",
+        "date": "2026-02-24",
+        "author": "@addyosmani",
+        "author_url": "https://x.com/addyosmani",
+        "tweet_url": "https://x.com/addyosmani/status/2026172457233829922",
+        "title": {
+          "en-US": "AGENTS.md as living list of codebase smells not permanent config",
+          "zh-CN": "AGENTS.md 应该是动态问题清单而非固定配置"
+        },
+        "summary": {
+          "en-US": "OpenClaw、AGENTS.md、无为",
+          "zh-CN": "OpenClaw、AGENTS.md、无为"
+        },
+        "relevance": "OpenClaw、AGENTS.md、无为",
+        "score": 0.86,
+        "engagement": {
+          "likes": 336,
+          "replies": 10,
+          "retweets": 26,
+          "views": 42160
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-24T10:11:54.995868+00:00",
+        "js_take": {
+          "en-US": "Not a plan—a flow. 无为 (wú wéi): mark what needs work, then let go.",
+          "zh-CN": "不是蓝图——是流。无为（wú wéi）：标记待办之事，然后放手。"
+        }
       },
       {
         "id": "2025679689453629801",
@@ -1020,40 +1049,11 @@
           "en-US": "Scrapling isn't cheating. The 里 world (lǐ shìjiè) is just treating the 表 world like the database it always was.",
           "zh-CN": "Scrapling 不是作弊。里世界只是把表世界当作它原本就是的数据库。"
         }
-      },
-      {
-        "id": "2026092642623201379",
-        "date": "2026-02-24",
-        "author": "@steipete",
-        "author_url": "https://x.com/steipete",
-        "tweet_url": "https://x.com/steipete/status/2026092642623201379",
-        "title": {
-          "en-US": "OpenClaw security model is personal assistant (one user - many agents)",
-          "zh-CN": "OpenClaw 的安全模型是个人助手（一个用户 - 多个 Agent）"
-        },
-        "summary": {
-          "en-US": "OpenClaw、安全、无为而治",
-          "zh-CN": "高曝光(1.9万浏览)，讨论OpenClaw安全模型，用「无为而治」评论安全与自主的平衡"
-        },
-        "relevance": "OpenClaw、安全、无为而治",
-        "score": 0.83,
-        "engagement": {
-          "likes": 534,
-          "replies": 48,
-          "retweets": 32,
-          "views": 19267
-        },
-        "comment_type": "wisdom_drop",
-        "synced_at": "2026-02-24T01:10:27.553472+00:00",
-        "js_take": {
-          "en-US": "Security isn't control—it's 无为 (wú wéi). Set the edge, then let go.",
-          "zh-CN": "安全不是控制，而是无为（wú wéi）。设定边界，然后放手。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 153
+    "unique_authors": 152
   }
 }

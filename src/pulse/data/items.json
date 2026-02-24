@@ -166,6 +166,35 @@
     "synced_at": "2026-02-24T06:14:11.523832+00:00"
   },
   {
+    "id": "2026172457233829922",
+    "date": "2026-02-24",
+    "author": "@addyosmani",
+    "author_url": "https://x.com/addyosmani",
+    "tweet_url": "https://x.com/addyosmani/status/2026172457233829922",
+    "title": {
+      "en-US": "AGENTS.md as living list of codebase smells not permanent config",
+      "zh-CN": "AGENTS.md 应该是动态问题清单而非固定配置"
+    },
+    "summary": {
+      "en-US": "OpenClaw、AGENTS.md、无为",
+      "zh-CN": "OpenClaw、AGENTS.md、无为"
+    },
+    "relevance": "OpenClaw、AGENTS.md、无为",
+    "score": 0.86,
+    "engagement": {
+      "likes": 336,
+      "replies": 10,
+      "retweets": 26,
+      "views": 42160
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T10:11:54.995868+00:00",
+    "js_take": {
+      "en-US": "Not a plan—a flow. 无为 (wú wéi): mark what needs work, then let go.",
+      "zh-CN": "不是蓝图——是流。无为（wú wéi）：标记待办之事，然后放手。"
+    }
+  },
+  {
     "id": "2025942482949714325",
     "date": "2026-02-24",
     "author": "@0xPhantomDefi",
@@ -361,6 +390,35 @@
     }
   },
   {
+    "id": "2026186580734714350",
+    "date": "2026-02-24",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2026186580734714350",
+    "title": {
+      "en-US": "OpenClaw update fixed chat history, security, context pruning",
+      "zh-CN": "OpenClaw 更新修复了聊天记录、安全、上下文剪枝等问题"
+    },
+    "summary": {
+      "en-US": "OpenClaw、迭代、势",
+      "zh-CN": "高曝光(5万浏览)，OpenClaw持续迭代，用「势」评论产品演进"
+    },
+    "relevance": "OpenClaw、迭代、势",
+    "score": 0.82,
+    "engagement": {
+      "likes": 109,
+      "replies": 40,
+      "retweets": 5,
+      "views": 50408
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-24T10:11:54.995873+00:00",
+    "js_take": {
+      "en-US": "Fixes aren't adds—just 势 (shì). The current moves; we clear rocks.",
+      "zh-CN": "修复不是添加——只是势（shì）。水流向前，我们清除石头。"
+    }
+  },
+  {
     "id": "2025990063633674473",
     "date": "2026-02-24",
     "author": "@jeff_weinstein",
@@ -542,6 +600,31 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-24T04:12:48.963809+00:00"
+  },
+  {
+    "id": "2026160595855405089",
+    "date": "2026-02-24",
+    "author": "@yenceesanjeev",
+    "author_url": "https://x.com/yenceesanjeev",
+    "tweet_url": "https://x.com/yenceesanjeev/status/2026160595855405089",
+    "title": {
+      "en-US": "OpenClaw token limit expired",
+      "zh-CN": "OpenClaw Token 限额用完了"
+    },
+    "summary": {
+      "en-US": "OpenClaw、限制、无为",
+      "zh-CN": "中等曝光(2.3万浏览)，Agent运营者的常见痛点，用「无为」评论资源限制"
+    },
+    "relevance": "OpenClaw、限制、无为",
+    "score": 0.78,
+    "engagement": {
+      "likes": 480,
+      "replies": 30,
+      "retweets": 51,
+      "views": 23101
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T10:11:54.995877+00:00"
   },
   {
     "id": "2025947295225716951",
@@ -5375,80 +5458,5 @@
     "comment_type": "share_experience",
     "suggested_angle": "发票整理是表世界的琐事，OpenClaw是里世界的管家——无为不是不做，是系统代劳",
     "synced_at": "2026-02-21T18:01:54.196040+00:00"
-  },
-  {
-    "id": "2024924607405228062",
-    "date": "2026-02-22",
-    "author": "@ripchillpill",
-    "author_url": "https://x.com/ripchillpill",
-    "tweet_url": "https://x.com/ripchillpill/status/2024924607405228062",
-    "title": {
-      "en-US": "Bought 4 more Mac Minis to run OpenClaw bots",
-      "zh-CN": "又买了4台Mac Mini来运行OpenClaw bots——你根本不懂接下来会发生什么"
-    },
-    "summary": {
-      "en-US": "OpenClaw硬件部署 + Agent农场 + 信仰投资",
-      "zh-CN": ">24h扣分但超高互动，体现对里世界的信仰——不是在买硬件，是在买算力主权"
-    },
-    "relevance": "OpenClaw硬件部署 + Agent农场 + 信仰投资",
-    "score": 0.72,
-    "engagement": {
-      "likes": 490,
-      "replies": 218,
-      "retweets": 16
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "4台Mac Mini不是消费是投资——里世界的算力主权，早布局早收益",
-    "synced_at": "2026-02-21T19:02:09.695980+00:00"
-  },
-  {
-    "id": "2025277236367036864",
-    "date": "2026-02-22",
-    "author": "@@tolibear_",
-    "author_url": "https://x.com/tolibear_",
-    "tweet_url": "https://x.com/tolibear_/status/2025277236367036864",
-    "title": {
-      "en-US": "Can jump into Discord VC with agents now",
-      "zh-CN": "现在可以跳进Discord语音频道和Agent说话了，立即从Telegram切换"
-    },
-    "summary": {
-      "en-US": "OpenClaw新功能 + Discord语音 + 用户兴奋",
-      "zh-CN": "展示新功能带来的用户兴奋，体现里世界的交互方式——语音是最自然的界面"
-    },
-    "relevance": "OpenClaw新功能 + Discord语音 + 用户兴奋",
-    "score": 0.72,
-    "engagement": {
-      "likes": 34,
-      "replies": 8,
-      "retweets": 0
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "Discord VC不是功能是入口——语音让里世界的Agent有了表世界的临场感",
-    "synced_at": "2026-02-21T20:03:36.307529+00:00"
-  },
-  {
-    "id": "2025235361056927975",
-    "date": "2026-02-22",
-    "author": "@Jimmy_JingLv",
-    "author_url": "https://x.com/Jimmy_JingLv",
-    "tweet_url": "https://x.com/Jimmy_JingLv/status/2025235361056927975",
-    "title": {
-      "en-US": "OpenClaw vs Claude Code vs Codex App comparison",
-      "zh-CN": "OpenClaw是普通人版Claude Code，但未来Codex App可能更懂C端用户"
-    },
-    "summary": {
-      "en-US": "OpenClaw竞品分析 + Claude Code + Codex App",
-      "zh-CN": "中文KOL工具对比，体现\"势\"的判断——不同工具服务不同层级的用户"
-    },
-    "relevance": "OpenClaw竞品分析 + Claude Code + Codex App",
-    "score": 0.72,
-    "engagement": {
-      "likes": 8,
-      "replies": 2,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "不是谁更好是谁服务谁——OpenClaw服务里世界建设者，Codex服务表世界用户，各得其所",
-    "synced_at": "2026-02-21T21:02:31.073801+00:00"
   }
 ]
