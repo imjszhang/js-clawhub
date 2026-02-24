@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-24T02:13:19.412507+00:00",
+  "updated_at": "2026-02-24T03:13:09.586602+00:00",
   "this_week": {
-    "total_items": 102,
+    "total_items": 103,
     "avg_score": 0.81,
-    "unique_authors": 87,
+    "unique_authors": 88,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -647,6 +647,35 @@
         }
       },
       {
+        "id": "2025870121944899856",
+        "date": "2026-02-24",
+        "author": "@0xluffy_eth",
+        "author_url": "https://x.com/0xluffy_eth",
+        "tweet_url": "https://x.com/0xluffy_eth/status/2025870121944899856",
+        "title": {
+          "en-US": "OpenClaw token costs too high, use different models for different tasks",
+          "zh-CN": "OpenClaw 成本优化：不同任务用不同模型"
+        },
+        "summary": {
+          "en-US": "OpenClaw、成本优化、无为",
+          "zh-CN": "OpenClaw、成本优化、无为"
+        },
+        "relevance": "OpenClaw、成本优化、无为",
+        "score": 0.85,
+        "engagement": {
+          "likes": 200,
+          "replies": 5,
+          "retweets": 43,
+          "views": 33181
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-24T03:12:53.699141+00:00",
+        "js_take": {
+          "en-US": "Claude for code, small models for text. Not cheap—just 无为 (wú wéi). Heavy where it matters, light where it flows.",
+          "zh-CN": "写代码用 Claude，处理文本用小模型。不是图省钱——是无为（wú wéi）。该重则重，该轻则轻。"
+        }
+      },
+      {
         "id": "2025587318338543813",
         "date": "2026-02-23",
         "author": "@petergyang",
@@ -1025,41 +1054,11 @@
           "en-US": "DeepSeek went viral. OpenClaw didn't. Same technology, different crowds. The gap isn't technical—it's human. Early adopters aren't normal, and that's the point.",
           "zh-CN": "DeepSeek 爆火了，OpenClaw 没有。同样的技术，不同的人群。差距不在技术——而在人。早期采用者不是普通人，这才是关键。"
         }
-      },
-      {
-        "id": "2025831453402214626",
-        "date": "2026-02-23",
-        "author": "@udayan_w",
-        "author_url": "https://x.com/udayan_w",
-        "tweet_url": "https://x.com/udayan_w/status/2025831453402214626",
-        "title": {
-          "en-US": "India's first OpenClaw Buildathon, 5 cities, 10-agent system generated $15K in 3 days",
-          "zh-CN": "印度首届 OpenClaw Buildathon，5 个城市，有人用 10-agent 系统在 3 天内赚了 $15K"
-        },
-        "summary": {
-          "en-US": "OpenClaw、Buildathon、Agent 商业化",
-          "zh-CN": "高曝光 Buildathon 帖子，评论区全是技术/商业讨论，用「不造奇观建系统」的东方视角能瞬间制造反差"
-        },
-        "relevance": "OpenClaw、Buildathon、Agent 商业化",
-        "score": 0.83,
-        "engagement": {
-          "likes": 237,
-          "replies": 29,
-          "retweets": 19,
-          "views": 16246
-        },
-        "comment_type": "reframe",
-        "suggested_angle": "用「建系统」视角重新解读：$15K 不是奇观，是系统复利的第一次利息。Civilization 玩家懂：奇观负债，系统资产。",
-        "synced_at": "2026-02-23T09:04:41.240633+00:00",
-        "js_take": {
-          "en-US": "$15K in 3 days. Bù zào qí guān—it's compound interest, not a wonder. The wonder would be if it stopped.",
-          "zh-CN": "三天赚了一万五。不造奇观——这是复利，不是奇观。它要是停下来，那才叫奇观。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 153
+    "unique_authors": 154
   }
 }

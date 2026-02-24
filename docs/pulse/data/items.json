@@ -170,6 +170,35 @@
     }
   },
   {
+    "id": "2025870121944899856",
+    "date": "2026-02-24",
+    "author": "@0xluffy_eth",
+    "author_url": "https://x.com/0xluffy_eth",
+    "tweet_url": "https://x.com/0xluffy_eth/status/2025870121944899856",
+    "title": {
+      "en-US": "OpenClaw token costs too high, use different models for different tasks",
+      "zh-CN": "OpenClaw 成本优化：不同任务用不同模型"
+    },
+    "summary": {
+      "en-US": "OpenClaw、成本优化、无为",
+      "zh-CN": "OpenClaw、成本优化、无为"
+    },
+    "relevance": "OpenClaw、成本优化、无为",
+    "score": 0.85,
+    "engagement": {
+      "likes": 200,
+      "replies": 5,
+      "retweets": 43,
+      "views": 33181
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T03:12:53.699141+00:00",
+    "js_take": {
+      "en-US": "Claude for code, small models for text. Not cheap—just 无为 (wú wéi). Heavy where it matters, light where it flows.",
+      "zh-CN": "写代码用 Claude，处理文本用小模型。不是图省钱——是无为（wú wéi）。该重则重，该轻则轻。"
+    }
+  },
+  {
     "id": "2026092642623201379",
     "date": "2026-02-24",
     "author": "@steipete",
@@ -5237,33 +5266,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-22T14:04:05.426331+00:00"
-  },
-  {
-    "id": "2024900944589148615",
-    "date": "2026-02-21",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2024900944589148615",
-    "title": {
-      "en-US": "OpenClaw toys vs factories insight",
-      "zh-CN": "OpenClaw：从玩具到工厂"
-    },
-    "summary": {
-      "en-US": "OpenClaw工业化、系统设计、生产环境",
-      "zh-CN": "OpenClaw工业化实践、系统架构设计、生产环境部署"
-    },
-    "relevance": "OpenClaw工业化、系统设计、生产环境",
-    "score": 0.94,
-    "engagement": {
-      "likes": 36,
-      "replies": 2,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-20T21:01:39.451803+00:00",
-    "js_take": {
-      "en-US": "Toys break. Factories scale. The 99% who quit never made the leap from demo to deployment—because demos are fun and systems are work. Industrial-grade means boring, reliable, and profitable.",
-      "zh-CN": "玩具会坏，工厂能扩。那99%放弃的人从未完成从演示到部署的跨越——因为演示有趣，系统才是工作。工业级意味着枯燥、可靠、盈利。"
-    }
   }
 ]
