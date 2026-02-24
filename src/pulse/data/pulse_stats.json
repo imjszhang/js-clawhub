@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-24T04:12:48.985638+00:00",
+  "updated_at": "2026-02-24T06:15:12.445286+00:00",
   "this_week": {
-    "total_items": 105,
+    "total_items": 106,
     "avg_score": 0.81,
     "unique_authors": 90,
     "top_items": [
@@ -440,6 +440,31 @@
           "en-US": "You outsourced romance to an agent. The agent outsourced rejection to you. Wú wéi isn't about doing nothing—it's knowing what shouldn't be done.",
           "zh-CN": "你把约会外包给了 Agent，Agent 把拒绝外包回给你。无为不是什么都不做，是知道什么不该做。"
         }
+      },
+      {
+        "id": "2026163648033419730",
+        "date": "2026-02-24",
+        "author": "@steipete",
+        "author_url": "https://x.com/steipete",
+        "tweet_url": "https://x.com/steipete/status/2026163648033419730",
+        "title": {
+          "en-US": "New OpenClaw beta focuses on security and bugfixes",
+          "zh-CN": "新版 OpenClaw Beta 专注于安全和 Bug 修复"
+        },
+        "summary": {
+          "en-US": "OpenClaw、安全、无为而治",
+          "zh-CN": "高曝光(1.1万浏览)，OpenClaw安全更新，用「无为而治」评论安全边界的设计"
+        },
+        "relevance": "OpenClaw、安全、无为而治",
+        "score": 0.86,
+        "engagement": {
+          "likes": 369,
+          "replies": 55,
+          "retweets": 29,
+          "views": 11224
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-24T06:14:11.523832+00:00"
       },
       {
         "id": "2025679689453629801",
@@ -1024,41 +1049,11 @@
           "en-US": "Security isn't control—it's 无为 (wú wéi). Set the edge, then let go.",
           "zh-CN": "安全不是控制，而是无为（wú wéi）。设定边界，然后放手。"
         }
-      },
-      {
-        "id": "2025722334087447016",
-        "date": "2026-02-23",
-        "author": "@howie_serious",
-        "author_url": "https://x.com/howie_serious",
-        "tweet_url": "https://x.com/howie_serious/status/2025722334087447016",
-        "title": {
-          "en-US": "Only tiny fraction pay $20+/month for top AI, even fewer use AI for coding, those embracing change are always minority",
-          "zh-CN": "真正为顶级 AI 每月支付 20 美元以上的人只有图中黄色方块那么点，用 AI 编程的人更少，积极主动拥抱变革的人永远是少数"
-        },
-        "summary": {
-          "en-US": "AI 采用率、人群分化、长期主义",
-          "zh-CN": "完美体现「人群快速分化」洞察——DeepSeek 狂欢 vs OpenClaw 懵 B，真正用起来的人不是普通人"
-        },
-        "relevance": "AI 采用率、人群分化、长期主义",
-        "score": 0.83,
-        "engagement": {
-          "likes": 72,
-          "replies": 18,
-          "retweets": 17,
-          "views": 19953
-        },
-        "comment_type": "add_insight",
-        "suggested_angle": "用「人群分化」评论：不是 AI 差距，是人的差距；第一时间能玩起来的都不是「普通人」",
-        "synced_at": "2026-02-23T05:11:09.103346+00:00",
-        "js_take": {
-          "en-US": "DeepSeek went viral. OpenClaw didn't. Same technology, different crowds. The gap isn't technical—it's human. Early adopters aren't normal, and that's the point.",
-          "zh-CN": "DeepSeek 爆火了，OpenClaw 没有。同样的技术，不同的人群。差距不在技术——而在人。早期采用者不是普通人，这才是关键。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 154
+    "unique_authors": 153
   }
 }

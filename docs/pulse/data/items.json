@@ -141,6 +141,31 @@
     "synced_at": "2026-02-24T02:13:08.600987+00:00"
   },
   {
+    "id": "2026163648033419730",
+    "date": "2026-02-24",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2026163648033419730",
+    "title": {
+      "en-US": "New OpenClaw beta focuses on security and bugfixes",
+      "zh-CN": "新版 OpenClaw Beta 专注于安全和 Bug 修复"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全、无为而治",
+      "zh-CN": "高曝光(1.1万浏览)，OpenClaw安全更新，用「无为而治」评论安全边界的设计"
+    },
+    "relevance": "OpenClaw、安全、无为而治",
+    "score": 0.86,
+    "engagement": {
+      "likes": 369,
+      "replies": 55,
+      "retweets": 29,
+      "views": 11224
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T06:14:11.523832+00:00"
+  },
+  {
     "id": "2025942482949714325",
     "date": "2026-02-24",
     "author": "@0xPhantomDefi",
@@ -5248,29 +5273,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-22T09:03:37.806880+00:00"
-  },
-  {
-    "id": "2025186209270735118",
-    "date": "2026-02-22",
-    "author": "@huangyihe",
-    "author_url": "https://x.com/huangyihe",
-    "tweet_url": "https://x.com/huangyihe/status/2025186209270735118",
-    "title": {
-      "en-US": "Local OpenCode + Kimi Claw cloud workflow with Email bridge to Obsidian",
-      "zh-CN": "本地OpenCode+云端Kimi Claw组合工作流，用Email桥接同步到Obsidian"
-    },
-    "summary": {
-      "en-US": "OpenClaw工作流 + 本地云端混合 + 中文KOL",
-      "zh-CN": "展示表/里世界协作架构，本地处理敏感，云端处理自动化——边界清晰是智慧"
-    },
-    "relevance": "OpenClaw工作流 + 本地云端混合 + 中文KOL",
-    "score": 0.7,
-    "engagement": {
-      "likes": 74,
-      "replies": 3,
-      "retweets": 20
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T18:01:54.196041+00:00"
   }
 ]
