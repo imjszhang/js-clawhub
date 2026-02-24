@@ -594,6 +594,31 @@
     "synced_at": "2026-02-24T02:13:08.600996+00:00"
   },
   {
+    "id": "2026108119429128325",
+    "date": "2026-02-24",
+    "author": "@indexsy",
+    "author_url": "https://x.com/indexsy",
+    "tweet_url": "https://x.com/indexsy/status/2026108119429128325",
+    "title": {
+      "en-US": "OpenClaw builds Reddit traffic on autopilot",
+      "zh-CN": "OpenClaw 自动建设 Reddit 流量"
+    },
+    "summary": {
+      "en-US": "OpenClaw、自动化、无为",
+      "zh-CN": "中等曝光(2万浏览)，展示OpenClaw自动化能力，用「无为」评论自动化的最高境界"
+    },
+    "relevance": "OpenClaw、自动化、无为",
+    "score": 0.76,
+    "engagement": {
+      "likes": 201,
+      "replies": 220,
+      "retweets": 8,
+      "views": 19626
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T09:10:23.024480+00:00"
+  },
+  {
     "id": "2025935480609468862",
     "date": "2026-02-24",
     "author": "@mattpocockuk",
@@ -642,6 +667,31 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-23T19:03:52.006363+00:00"
+  },
+  {
+    "id": "2026191701874811268",
+    "date": "2026-02-24",
+    "author": "@mark_k",
+    "author_url": "https://x.com/mark_k",
+    "tweet_url": "https://x.com/mark_k/status/2026191701874811268",
+    "title": {
+      "en-US": "Google disabling accounts for OpenClaw automation",
+      "zh-CN": "Google 因 OpenClaw 自动化禁用账户"
+    },
+    "summary": {
+      "en-US": "OpenClaw、表/里世界、势",
+      "zh-CN": "中等曝光(1.1万浏览)，平台封禁与Agent自动化的冲突，用「表/里世界」评论新旧交互层冲突"
+    },
+    "relevance": "OpenClaw、表/里世界、势",
+    "score": 0.74,
+    "engagement": {
+      "likes": 74,
+      "replies": 32,
+      "retweets": 9,
+      "views": 11247
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-24T09:10:23.024486+00:00"
   },
   {
     "id": "2025949178744979749",
@@ -5239,49 +5289,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-21T21:02:31.073801+00:00"
-  },
-  {
-    "id": "2025340142345748929",
-    "date": "2026-02-22",
-    "author": "@bilbeny",
-    "author_url": "https://x.com/bilbeny",
-    "tweet_url": "https://x.com/bilbeny/status/2025340142345748929",
-    "title": {
-      "en-US": "OpenClaw 2026.2.19/21 update breaks agent tools, infinite pairing loop",
-      "zh-CN": "OpenClaw更新后工具失效，设备丢失权限导致无限配对循环"
-    },
-    "summary": {
-      "en-US": "OpenClaw更新 + Bug修复 + 权限问题",
-      "zh-CN": "技术问题与解决方案分享，体现社区互助精神"
-    },
-    "relevance": "OpenClaw更新 + Bug修复 + 权限问题",
-    "score": 0.72,
-    "engagement": {},
-    "comment_type": "share_experience",
-    "synced_at": "2026-02-22T01:04:43.184363+00:00"
-  },
-  {
-    "id": "2025493217458925639",
-    "date": "2026-02-22",
-    "author": "@aryanXmahajan",
-    "author_url": "https://x.com/aryanXmahajan",
-    "tweet_url": "https://x.com/aryanXmahajan/status/2025493217458925639",
-    "title": {
-      "en-US": "Buying Mac Minis is solving wrong problem, it's CONTEXT",
-      "zh-CN": "买Mac Mini解决的是错误问题——这不是基础设施问题，是上下文问题——模型和硬件不重要，重要的是AI知道什么"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 上下文 + 认知",
-      "zh-CN": "深度洞察——区分表象（硬件）与本质（上下文），体现系统思维"
-    },
-    "relevance": "OpenClaw + 上下文 + 认知",
-    "score": 0.72,
-    "engagement": {
-      "likes": 5,
-      "replies": 2,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T12:02:50.185429+00:00"
   }
 ]
