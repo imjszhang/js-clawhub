@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-24T16:14:50.995895+00:00",
+  "updated_at": "2026-02-24T17:13:02.071303+00:00",
   "this_week": {
-    "total_items": 122,
-    "avg_score": 0.8,
-    "unique_authors": 103,
+    "total_items": 124,
+    "avg_score": 0.81,
+    "unique_authors": 105,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -730,6 +730,35 @@
         "synced_at": "2026-02-23T07:07:46.690787+00:00"
       },
       {
+        "id": "2026173441725137022",
+        "date": "2026-02-25",
+        "author": "@@BrianRoemmele",
+        "author_url": "https://x.com/BrianRoemmele",
+        "tweet_url": "https://x.com/BrianRoemmele/status/2026173441725137022",
+        "title": {
+          "en-US": "GET MAC MINI AND RUN OPEN CLAW... Agents of Chaos security risks",
+          "zh-CN": "买 Mac Mini 跑 OpenClaw... 混沌特工的安全风险"
+        },
+        "summary": {
+          "en-US": "OpenClaw、安全、无为而治",
+          "zh-CN": "OpenClaw、安全、无为而治"
+        },
+        "relevance": "OpenClaw、安全、无为而治",
+        "score": 0.85,
+        "engagement": {
+          "likes": 147,
+          "replies": 18,
+          "retweets": 43,
+          "views": 29250
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-24T17:12:53.390263+00:00",
+        "js_take": {
+          "en-US": "Not about trust—about boundaries. 无为而治 (wú wéi ér zhì): set the edge, then let go.",
+          "zh-CN": "不是信任问题——是边界问题。无为而治：设定边界，然后放手。"
+        }
+      },
+      {
         "id": "2025942482949714325",
         "date": "2026-02-24",
         "author": "@0xPhantomDefi",
@@ -1014,35 +1043,6 @@
         "js_take": {
           "en-US": "This isn't OpenClaw vs Google. It's 势 (shì)—the inevitable flow from surface to depth. The harder the wall, the stronger the momentum.",
           "zh-CN": "这不是 OpenClaw 与 Google 的对抗，是势——从表层流向深处的必然。墙越高，势越猛。"
-        }
-      },
-      {
-        "id": "2025528858867593276",
-        "date": "2026-02-23",
-        "author": "@carlosazaustre",
-        "author_url": "https://x.com/carlosazaustre",
-        "tweet_url": "https://x.com/carlosazaustre/status/2025528858867593276",
-        "title": {
-          "en-US": "TenacitOS open source dashboard for OpenClaw agents monitoring",
-          "zh-CN": "Carlos Azaustre发布TenacitOS开源项目——OpenClaw Agent监控仪表板，无需额外数据库，包含实时系统监控、成本追踪、可视化cron管理器、内存浏览器、3D办公室"
-        },
-        "summary": {
-          "en-US": "OpenClaw + 监控工具 + 可视化",
-          "zh-CN": "高热度实用工具——展示Agent生态的监控基础设施需求"
-        },
-        "relevance": "OpenClaw + 监控工具 + 可视化",
-        "score": 0.84,
-        "engagement": {
-          "likes": 293,
-          "replies": 20,
-          "retweets": 34
-        },
-        "comment_type": "recommend_resource",
-        "suggested_angle": "监控不是窥探是理解——里世界的Agent需要被看见，这是存在的基础设施",
-        "synced_at": "2026-02-22T17:02:46.757942+00:00",
-        "js_take": {
-          "en-US": "Great tool for agent observability. Monitoring isn't surveillance—it's understanding. Agents in the inner world need to be seen. That's infrastructure for existence.",
-          "zh-CN": "很棒的Agent可观测性工具。监控不是监视，而是理解。里世界的Agent需要被看见。这是存在的基础设施。"
         }
       }
     ]

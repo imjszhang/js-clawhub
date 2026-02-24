@@ -29,6 +29,35 @@
     }
   },
   {
+    "id": "2026173441725137022",
+    "date": "2026-02-25",
+    "author": "@@BrianRoemmele",
+    "author_url": "https://x.com/BrianRoemmele",
+    "tweet_url": "https://x.com/BrianRoemmele/status/2026173441725137022",
+    "title": {
+      "en-US": "GET MAC MINI AND RUN OPEN CLAW... Agents of Chaos security risks",
+      "zh-CN": "买 Mac Mini 跑 OpenClaw... 混沌特工的安全风险"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全、无为而治",
+      "zh-CN": "OpenClaw、安全、无为而治"
+    },
+    "relevance": "OpenClaw、安全、无为而治",
+    "score": 0.85,
+    "engagement": {
+      "likes": 147,
+      "replies": 18,
+      "retweets": 43,
+      "views": 29250
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T17:12:53.390263+00:00",
+    "js_take": {
+      "en-US": "Not about trust—about boundaries. 无为而治 (wú wéi ér zhì): set the edge, then let go.",
+      "zh-CN": "不是信任问题——是边界问题。无为而治：设定边界，然后放手。"
+    }
+  },
+  {
     "id": "2026288144094757358",
     "date": "2026-02-25",
     "author": "@@meta_alchemist",
@@ -81,6 +110,31 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-24T16:14:23.234416+00:00"
+  },
+  {
+    "id": "2026322929362042937",
+    "date": "2026-02-25",
+    "author": "@@frxiaobei",
+    "author_url": "https://x.com/frxiaobei",
+    "tweet_url": "https://x.com/frxiaobei/status/2026322929362042937",
+    "title": {
+      "en-US": "OpenClaw as orchestration layer, codex/claude as workers",
+      "zh-CN": "OpenClaw 作为编排层，codex/claude 降级为工人"
+    },
+    "summary": {
+      "en-US": "OpenClaw、编排、建系统",
+      "zh-CN": "中等曝光(7k浏览)，展示OpenClaw编排能力，用「建系统」评论架构设计"
+    },
+    "relevance": "OpenClaw、编排、建系统",
+    "score": 0.78,
+    "engagement": {
+      "likes": 49,
+      "replies": 8,
+      "retweets": 9,
+      "views": 7109
+    },
+    "comment_type": "add_insight",
+    "synced_at": "2026-02-24T17:12:53.390269+00:00"
   },
   {
     "id": "2026019344602288166",
@@ -5277,53 +5331,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-22T14:04:05.426326+00:00"
-  },
-  {
-    "id": "2025219802332041514",
-    "date": "2026-02-22",
-    "author": "@Chilearmy123",
-    "author_url": "https://x.com/Chilearmy123",
-    "tweet_url": "https://x.com/Chilearmy123/status/2025219802332041514",
-    "title": {
-      "en-US": "OpenClaw ruined my life",
-      "zh-CN": "\"OpenClaw毁了我的生活\"——病毒式传播的推文"
-    },
-    "summary": {
-      "en-US": "OpenClaw病毒内容 + 夸张表达 + 高互动",
-      "zh-CN": "超高互动 viral 内容，可幽默回应——里世界的生产力让人上瘾"
-    },
-    "relevance": "OpenClaw病毒内容 + 夸张表达 + 高互动",
-    "score": 0.75,
-    "engagement": {
-      "likes": 342,
-      "replies": 62,
-      "retweets": 20
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-21T20:03:36.307527+00:00"
-  },
-  {
-    "id": "2025003396655448129",
-    "date": "2026-02-22",
-    "author": "@fchollet",
-    "author_url": "https://x.com/fchollet",
-    "tweet_url": "https://x.com/fchollet/status/2025003396655448129",
-    "title": {
-      "en-US": "Wait 4-6 months for used Mac Minis in mint condition",
-      "zh-CN": "François Chollet建议等4-6个月再买Mac Mini，大量准新二手即将上市——暗示OpenClaw热度后的转售潮"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Mac Mini + 市场预测",
-      "zh-CN": ">24h扣分但超高热度，顶级AI研究者的市场判断——里世界基础设施的供需波动"
-    },
-    "relevance": "OpenClaw + Mac Mini + 市场预测",
-    "score": 0.75,
-    "engagement": {
-      "likes": 12047,
-      "replies": 208,
-      "retweets": 372
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T07:04:38.502694+00:00"
   }
 ]
