@@ -1,5 +1,88 @@
 [
   {
+    "id": "2026069588556005645",
+    "date": "2026-02-25",
+    "author": "@@aiedge_",
+    "author_url": "https://x.com/aiedge_",
+    "tweet_url": "https://x.com/aiedge_/status/2026069588556005645",
+    "title": {
+      "en-US": "I never want to hear 'I don't have any real OpenClaw use cases'",
+      "zh-CN": "别再跟我说\"我没有真正的 OpenClaw 使用场景\""
+    },
+    "summary": {
+      "en-US": "OpenClaw使用场景、务实、无为",
+      "zh-CN": "OpenClaw 使用场景、务实、无为"
+    },
+    "relevance": "OpenClaw使用场景、务实、无为",
+    "score": 0.88,
+    "engagement": {
+      "likes": 226,
+      "replies": 4,
+      "retweets": 11,
+      "views": 28985
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T16:14:23.234405+00:00",
+    "js_take": {
+      "en-US": "You're hunting when you should be waiting. 无为 (wú wéi): the best tools are the ones you forget.",
+      "zh-CN": "该等待的时候却在追逐。无为：最好的工具，是你忘记自己在用的工具。"
+    }
+  },
+  {
+    "id": "2026288144094757358",
+    "date": "2026-02-25",
+    "author": "@@meta_alchemist",
+    "author_url": "https://x.com/meta_alchemist",
+    "tweet_url": "https://x.com/meta_alchemist/status/2026288144094757358",
+    "title": {
+      "en-US": "Openclaw memory retrieval not distilled, SparkNet brings intelligence",
+      "zh-CN": "OpenClaw 记忆检索不够精炼，SparkNet 带来智能"
+    },
+    "summary": {
+      "en-US": "OpenClaw、记忆、道",
+      "zh-CN": "中等曝光(3.2k浏览)，讨论Agent记忆和上下文，用「道」评论记忆的本质"
+    },
+    "relevance": "OpenClaw、记忆、道",
+    "score": 0.82,
+    "engagement": {
+      "likes": 56,
+      "replies": 17,
+      "retweets": 6,
+      "views": 3273
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-24T16:14:23.234411+00:00",
+    "js_take": {
+      "en-US": "Memory isn't storage—it's flow. 道 (Dào): don't add smarts, remove the dam.",
+      "zh-CN": "记忆不是存储，而是流动。道：不是增加智能，而是拆除水坝。"
+    }
+  },
+  {
+    "id": "2026045738220953918",
+    "date": "2026-02-25",
+    "author": "@@clairevo",
+    "author_url": "https://x.com/clairevo",
+    "tweet_url": "https://x.com/clairevo/status/2026045738220953918",
+    "title": {
+      "en-US": "Polly the Openclaw is worth $200k, then looking at Opus spend: Uhh",
+      "zh-CN": "Polly 这个 OpenClaw 值 20 万美元，然后看到 Opus 账单：呃..."
+    },
+    "summary": {
+      "en-US": "OpenClaw成本、ROI、建系统",
+      "zh-CN": "中等曝光(1.2万浏览)，讨论OpenClaw成本vs价值，用「建系统」评论真正的ROI"
+    },
+    "relevance": "OpenClaw成本、ROI、建系统",
+    "score": 0.78,
+    "engagement": {
+      "likes": 63,
+      "replies": 18,
+      "retweets": 1,
+      "views": 11955
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T16:14:23.234416+00:00"
+  },
+  {
     "id": "2026019344602288166",
     "date": "2026-02-24",
     "author": "@elonmusk",
@@ -5242,77 +5325,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-22T07:04:38.502694+00:00"
-  },
-  {
-    "id": "2025185408351420878",
-    "date": "2026-02-22",
-    "author": "@Gavriel_Cohen",
-    "author_url": "https://x.com/Gavriel_Cohen",
-    "tweet_url": "https://x.com/Gavriel_Cohen/status/2025185408351420878",
-    "title": {
-      "en-US": "OpenClaw vs NanoClaw comparison image",
-      "zh-CN": "OpenClaw vs NanoClaw对比图——两种Agent框架的视觉对比"
-    },
-    "summary": {
-      "en-US": "OpenClaw + NanoClaw + 框架对比",
-      "zh-CN": ">24h扣分但超高互动，展示社区对轻量替代方案的关注——简洁是终极的复杂"
-    },
-    "relevance": "OpenClaw + NanoClaw + 框架对比",
-    "score": 0.75,
-    "engagement": {
-      "likes": 423,
-      "replies": 26,
-      "retweets": 7
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T08:02:28.139182+00:00"
-  },
-  {
-    "id": "2025178691546828938",
-    "date": "2026-02-22",
-    "author": "@JulianGoldieSEO",
-    "author_url": "https://x.com/JulianGoldieSEO",
-    "tweet_url": "https://x.com/JulianGoldieSEO/status/2025178691546828938",
-    "title": {
-      "en-US": "OpenClaw + MiniMax M2.5 is 20x cheaper, rivals Opus 4.6",
-      "zh-CN": "OpenClaw + MiniMax M2.5组合便宜20倍，编码能力比肩Opus 4.6——开源框架+40项安全修复"
-    },
-    "summary": {
-      "en-US": "OpenClaw + MiniMax + 成本效益",
-      "zh-CN": ">24h扣分但实用价值高，展示模型选择的经济学——不是用最好的，是用最对的"
-    },
-    "relevance": "OpenClaw + MiniMax + 成本效益",
-    "score": 0.75,
-    "engagement": {
-      "likes": 44,
-      "replies": 8,
-      "retweets": 10
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-22T09:03:37.806878+00:00"
-  },
-  {
-    "id": "2025223687276773802",
-    "date": "2026-02-22",
-    "author": "@robzolkos",
-    "author_url": "https://x.com/robzolkos",
-    "tweet_url": "https://x.com/robzolkos/status/2025223687276773802",
-    "title": {
-      "en-US": "OpenClaw is what Alexa should have been",
-      "zh-CN": "OpenClaw就是Alexa本该成为的样子——简洁有力的对比判断"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Alexa + 产品愿景",
-      "zh-CN": ">24h扣分但超高热度，一句话道破产品本质——从语音助手到Agent的跃迁"
-    },
-    "relevance": "OpenClaw + Alexa + 产品愿景",
-    "score": 0.75,
-    "engagement": {
-      "likes": 667,
-      "replies": 58,
-      "retweets": 29
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T10:05:07.079920+00:00"
   }
 ]

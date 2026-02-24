@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-24T14:07:37.202048+00:00",
+  "updated_at": "2026-02-24T16:14:50.995895+00:00",
   "this_week": {
-    "total_items": 119,
+    "total_items": 122,
     "avg_score": 0.8,
-    "unique_authors": 100,
+    "unique_authors": 103,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -178,6 +178,35 @@
         "js_take": {
           "en-US": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings.",
           "zh-CN": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings."
+        }
+      },
+      {
+        "id": "2026069588556005645",
+        "date": "2026-02-25",
+        "author": "@@aiedge_",
+        "author_url": "https://x.com/aiedge_",
+        "tweet_url": "https://x.com/aiedge_/status/2026069588556005645",
+        "title": {
+          "en-US": "I never want to hear 'I don't have any real OpenClaw use cases'",
+          "zh-CN": "别再跟我说\"我没有真正的 OpenClaw 使用场景\""
+        },
+        "summary": {
+          "en-US": "OpenClaw使用场景、务实、无为",
+          "zh-CN": "OpenClaw 使用场景、务实、无为"
+        },
+        "relevance": "OpenClaw使用场景、务实、无为",
+        "score": 0.88,
+        "engagement": {
+          "likes": 226,
+          "replies": 4,
+          "retweets": 11,
+          "views": 28985
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-24T16:14:23.234405+00:00",
+        "js_take": {
+          "en-US": "You're hunting when you should be waiting. 无为 (wú wéi): the best tools are the ones you forget.",
+          "zh-CN": "该等待的时候却在追逐。无为：最好的工具，是你忘记自己在用的工具。"
         }
       },
       {
@@ -1015,40 +1044,11 @@
           "en-US": "Great tool for agent observability. Monitoring isn't surveillance—it's understanding. Agents in the inner world need to be seen. That's infrastructure for existence.",
           "zh-CN": "很棒的Agent可观测性工具。监控不是监视，而是理解。里世界的Agent需要被看见。这是存在的基础设施。"
         }
-      },
-      {
-        "id": "2025640943354102094",
-        "date": "2026-02-23",
-        "author": "@AlexFinn",
-        "author_url": "https://x.com/AlexFinn",
-        "tweet_url": "https://x.com/AlexFinn/status/2025640943354102094",
-        "title": {
-          "en-US": "OpenClaw 5 use cases for everyone video",
-          "zh-CN": "Alex Finn分享5个对所有人都有用的OpenClaw用例视频——声称能让生活效率提升5倍"
-        },
-        "summary": {
-          "en-US": "OpenClaw + 用例普及 + 效率提升",
-          "zh-CN": "高互动用例分享帖——展示OpenClaw向大众普及的趋势"
-        },
-        "relevance": "OpenClaw + 用例普及 + 效率提升",
-        "score": 0.84,
-        "engagement": {
-          "likes": 158,
-          "replies": 38,
-          "retweets": 11
-        },
-        "comment_type": "add_insight",
-        "suggested_angle": "5倍不是夸张是杠杆——里世界的Agent让个人拥有团队产能，这是能力的民主化",
-        "synced_at": "2026-02-22T19:03:55.858023+00:00",
-        "js_take": {
-          "en-US": "5x isn't exaggeration—it's leverage. Agents in the inner world give individuals team capacity. That's the democratization of ability.",
-          "zh-CN": "5倍不是夸张，而是杠杆。里世界的Agent让个人拥有团队产能。这是能力的民主化。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 152
+    "unique_authors": 153
   }
 }
