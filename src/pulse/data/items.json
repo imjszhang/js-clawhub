@@ -1,5 +1,34 @@
 [
   {
+    "id": "2025957550252843396",
+    "date": "2026-02-25",
+    "author": "@@SirOstapBender",
+    "author_url": "https://x.com/SirOstapBender",
+    "tweet_url": "https://x.com/SirOstapBender/status/2025957550252843396",
+    "title": {
+      "en-US": "OpenClaw bot sent $250k instead of $4",
+      "zh-CN": "OpenClaw 机器人误发 25 万美元而非 4 美元"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全、信任、道",
+      "zh-CN": "OpenClaw、安全、信任、道"
+    },
+    "relevance": "OpenClaw、安全、信任、道",
+    "score": 0.92,
+    "engagement": {
+      "likes": 8152,
+      "replies": 56,
+      "retweets": 358,
+      "views": 384208
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T19:12:08.339963+00:00",
+    "js_take": {
+      "en-US": "$250k isn't a bug—it's 道 (Dào) showing the edge. Know the wall, find the door.",
+      "zh-CN": "25万美元不是漏洞——是道在显示边界。知道墙在哪里，才能找到门。"
+    }
+  },
+  {
     "id": "2026069588556005645",
     "date": "2026-02-25",
     "author": "@@aiedge_",
@@ -55,6 +84,35 @@
     "js_take": {
       "en-US": "Research isn't restriction—it's edge-setting. 无为而治 (wú wéi ér zhì): set the boundary, then let go.",
       "zh-CN": "研究不是限制——是设定边界。无为而治：设定边界，然后放手。"
+    }
+  },
+  {
+    "id": "2026360908398862478",
+    "date": "2026-02-25",
+    "author": "@@karpathy",
+    "author_url": "https://x.com/karpathy",
+    "tweet_url": "https://x.com/karpathy/status/2026360908398862478",
+    "title": {
+      "en-US": "CLIs are legacy tech, AI agents can use them natively",
+      "zh-CN": "CLI 是遗留技术，AI Agent 可以原生使用"
+    },
+    "summary": {
+      "en-US": "OpenClaw、CLI、无为、势",
+      "zh-CN": "OpenClaw、CLI、无为、势"
+    },
+    "relevance": "OpenClaw、CLI、无为、势",
+    "score": 0.88,
+    "engagement": {
+      "likes": 2019,
+      "replies": 181,
+      "retweets": 159,
+      "views": 104306
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T19:12:08.339969+00:00",
+    "js_take": {
+      "en-US": "Legacy isn't old—it's settled. 无为 (wú wéi): the best tools are the ones you forget.",
+      "zh-CN": "遗留不是老旧——是沉淀。无为：最好的工具，是你忘记自己在用的工具。"
     }
   },
   {
@@ -171,6 +229,35 @@
     "js_take": {
       "en-US": "$40 isn't cost—it's tuition. Civilization players know: wonders burn cash, systems compound.",
       "zh-CN": "40 美元不是成本——是学费。Civilization 玩家懂：奇观烧钱，系统复利。"
+    }
+  },
+  {
+    "id": "2026360136416244118",
+    "date": "2026-02-25",
+    "author": "@@FrameworkPuter",
+    "author_url": "https://x.com/FrameworkPuter",
+    "tweet_url": "https://x.com/FrameworkPuter/status/2026360136416244118",
+    "title": {
+      "en-US": "Run OpenClaw locally, give it full control",
+      "zh-CN": "本地运行 OpenClaw，给它完整控制权"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全、无为而治",
+      "zh-CN": "中等曝光(9k浏览)，讨论OpenClaw本地部署，用「无为而治」评论边界"
+    },
+    "relevance": "OpenClaw、安全、无为而治",
+    "score": 0.8,
+    "engagement": {
+      "likes": 240,
+      "replies": 7,
+      "retweets": 11,
+      "views": 9454
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T19:12:08.339973+00:00",
+    "js_take": {
+      "en-US": "Full control isn't power—it's burden. 无为而治 (wú wéi ér zhì): set the edge, then let go.",
+      "zh-CN": "完整控制不是权力——是负担。无为而治：设定边界，然后放手。"
     }
   },
   {
@@ -5419,76 +5506,5 @@
     "comment_type": "share_experience",
     "suggested_angle": "疯狂不是边缘是前沿——里世界的Agent用例正在定义新的可能性空间",
     "synced_at": "2026-02-22T10:05:07.079914+00:00"
-  },
-  {
-    "id": "2025179099681980638",
-    "date": "2026-02-22",
-    "author": "@jordymaui",
-    "author_url": "https://x.com/jordymaui",
-    "tweet_url": "https://x.com/jordymaui/status/2025179099681980638",
-    "title": {
-      "en-US": "Open your eyes, people shipping full apps in a day with OpenClaw",
-      "zh-CN": "为OpenClaw辩护——人们用一天时间发布完整应用，用Mac Mini运行Agent，构建过去需要十人团队的东西"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 生产力 + 辩护",
-      "zh-CN": ">24h扣分但有力回应质疑，展示实际产出——从质疑到证明"
-    },
-    "relevance": "OpenClaw + 生产力 + 辩护",
-    "score": 0.78,
-    "engagement": {
-      "likes": 52,
-      "replies": 32,
-      "retweets": 8
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "一天不是奇迹是系统——里世界的Agent让个人产出指数级提升，这是生产关系的重构",
-    "synced_at": "2026-02-22T12:02:50.185423+00:00"
-  },
-  {
-    "id": "2025277906704892361",
-    "date": "2026-02-22",
-    "author": "@witcheer",
-    "author_url": "https://x.com/witcheer",
-    "tweet_url": "https://x.com/witcheer/status/2025277906704892361",
-    "title": {
-      "en-US": "OpenClaw release: Gemini 3.1, Discord thread-bound subagent sessions",
-      "zh-CN": "OpenClaw发布：支持Gemini 3.1，Discord线程绑定的子代理会话，多Agent工作流"
-    },
-    "summary": {
-      "en-US": "OpenClaw多Agent + Discord集成 + 子代理",
-      "zh-CN": "展示多Agent协作架构，体现系统设计——线程绑定是里世界的组织方式"
-    },
-    "relevance": "OpenClaw多Agent + Discord集成 + 子代理",
-    "score": 0.77,
-    "engagement": {
-      "likes": 21,
-      "replies": 2,
-      "retweets": 0
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "线程绑定的子代理不是功能是架构——里世界的Agent需要上下文隔离又协作的场域",
-    "synced_at": "2026-02-21T21:02:31.073799+00:00"
-  },
-  {
-    "id": "2025107510563409921",
-    "date": "2026-02-22",
-    "author": "@yadong_xie",
-    "author_url": "https://x.com/yadong_xie",
-    "tweet_url": "https://x.com/yadong_xie/status/2025107510563409921",
-    "title": {
-      "en-US": "OpenClaw architecture: node, device, channel for smart home network",
-      "zh-CN": "OpenClaw架构洞察：node（Agent可操作设备）、device（能访问Agent的设备）、channel（Agent消息）组网方案，适合家庭智慧网络"
-    },
-    "summary": {
-      "en-US": "OpenClaw架构 + 智能家居 + 中文KOL",
-      "zh-CN": "深度架构分析，体现系统思维——清晰边界是复杂系统的基础"
-    },
-    "relevance": "OpenClaw架构 + 智能家居 + 中文KOL",
-    "score": 0.76,
-    "engagement": {},
-    "comment_type": "add_insight",
-    "suggested_angle": "node-device-channel不是分类是哲学——里世界的Agent需要清晰的边界才能协作，这是道的体现",
-    "synced_at": "2026-02-21T23:01:34.003751+00:00"
   }
 ]

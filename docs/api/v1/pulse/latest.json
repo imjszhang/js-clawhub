@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-24T18:12:44.322173+00:00",
+  "updated_at": "2026-02-24T19:12:37.919541+00:00",
   "this_week": {
-    "total_items": 129,
+    "total_items": 132,
     "avg_score": 0.81,
-    "unique_authors": 109,
+    "unique_authors": 112,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -122,6 +122,35 @@
         }
       },
       {
+        "id": "2025957550252843396",
+        "date": "2026-02-25",
+        "author": "@@SirOstapBender",
+        "author_url": "https://x.com/SirOstapBender",
+        "tweet_url": "https://x.com/SirOstapBender/status/2025957550252843396",
+        "title": {
+          "en-US": "OpenClaw bot sent $250k instead of $4",
+          "zh-CN": "OpenClaw 机器人误发 25 万美元而非 4 美元"
+        },
+        "summary": {
+          "en-US": "OpenClaw、安全、信任、道",
+          "zh-CN": "OpenClaw、安全、信任、道"
+        },
+        "relevance": "OpenClaw、安全、信任、道",
+        "score": 0.92,
+        "engagement": {
+          "likes": 8152,
+          "replies": 56,
+          "retweets": 358,
+          "views": 384208
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-24T19:12:08.339963+00:00",
+        "js_take": {
+          "en-US": "$250k isn't a bug—it's 道 (Dào) showing the edge. Know the wall, find the door.",
+          "zh-CN": "25万美元不是漏洞——是道在显示边界。知道墙在哪里，才能找到门。"
+        }
+      },
+      {
         "id": "2025972175799271508",
         "date": "2026-02-24",
         "author": "@IntCyberDigest",
@@ -235,6 +264,35 @@
         "js_take": {
           "en-US": "Research isn't restriction—it's edge-setting. 无为而治 (wú wéi ér zhì): set the boundary, then let go.",
           "zh-CN": "研究不是限制——是设定边界。无为而治：设定边界，然后放手。"
+        }
+      },
+      {
+        "id": "2026360908398862478",
+        "date": "2026-02-25",
+        "author": "@@karpathy",
+        "author_url": "https://x.com/karpathy",
+        "tweet_url": "https://x.com/karpathy/status/2026360908398862478",
+        "title": {
+          "en-US": "CLIs are legacy tech, AI agents can use them natively",
+          "zh-CN": "CLI 是遗留技术，AI Agent 可以原生使用"
+        },
+        "summary": {
+          "en-US": "OpenClaw、CLI、无为、势",
+          "zh-CN": "OpenClaw、CLI、无为、势"
+        },
+        "relevance": "OpenClaw、CLI、无为、势",
+        "score": 0.88,
+        "engagement": {
+          "likes": 2019,
+          "replies": 181,
+          "retweets": 159,
+          "views": 104306
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-24T19:12:08.339969+00:00",
+        "js_take": {
+          "en-US": "Legacy isn't old—it's settled. 无为 (wú wéi): the best tools are the ones you forget.",
+          "zh-CN": "遗留不是老旧——是沉淀。无为：最好的工具，是你忘记自己在用的工具。"
         }
       },
       {
@@ -971,69 +1029,11 @@
           "en-US": "Complexity is a tax. The inner world is selecting for simple interfaces—APIs, CLIs, direct intent. MCP tried to standardize too early; momentum favors organic convergence.",
           "zh-CN": "复杂性是一种税。里世界正在筛选简单的接口——API、CLI、直接意图。MCP 过早尝试标准化；势在有机收敛。"
         }
-      },
-      {
-        "id": "2025383295194988966",
-        "date": "2026-02-23",
-        "author": "@akokoi1",
-        "author_url": "https://x.com/akokoi1",
-        "tweet_url": "https://x.com/akokoi1/status/2025383295194988966",
-        "title": {
-          "en-US": "Easiest way to make money with OpenClaw: custom TG bots, basic e-commerce bot costs ¥800-900, can build dozens with Codex for $10/month",
-          "zh-CN": "OpenClaw 赚钱路子：定制 TG 机器人月入过万"
-        },
-        "summary": {
-          "en-US": "OpenClaw 商业化、Agent 套利、人群分化",
-          "zh-CN": "OpenClaw 商业化，Agent 套利，人群分化"
-        },
-        "relevance": "OpenClaw 商业化、Agent 套利、人群分化",
-        "score": 0.85,
-        "engagement": {
-          "likes": 827,
-          "replies": 32,
-          "retweets": 118,
-          "views": 111345
-        },
-        "comment_type": "add_insight",
-        "synced_at": "2026-02-23T05:11:09.103342+00:00",
-        "js_take": {
-          "en-US": "The arbitrage isn't in building bots. It's in translating technical capability into business value. Tools democratize; judgment differentiates.",
-          "zh-CN": "套利不在做机器人，而在把技术能力翻译成商业价值。工具民主化，判断力才是差异化。"
-        }
-      },
-      {
-        "id": "2025539965032210527",
-        "date": "2026-02-23",
-        "author": "@yangyi",
-        "author_url": "https://x.com/yangyi",
-        "tweet_url": "https://x.com/yangyi/status/2025539965032210527",
-        "title": {
-          "en-US": "OpenClaw vs 牛马AI difference: human-AI collaboration, last mile quality matters",
-          "zh-CN": "OpenClaw vs 牛马AI：人机协同，最后一公里定质量"
-        },
-        "summary": {
-          "en-US": "OpenClaw、人机协作、AI 品味",
-          "zh-CN": "OpenClaw，人机协作，AI 品味"
-        },
-        "relevance": "OpenClaw、人机协作、AI 品味",
-        "score": 0.85,
-        "engagement": {
-          "likes": 166,
-          "replies": 24,
-          "retweets": 29,
-          "views": 25267
-        },
-        "comment_type": "add_insight",
-        "synced_at": "2026-02-23T07:07:46.690792+00:00",
-        "js_take": {
-          "en-US": "Tools democratize; taste differentiates. The last mile is always human. AI has no ceiling—only the humans using it do.",
-          "zh-CN": "工具民主化，品味差异化。最后一公里永远是人。AI 没有上限——只有使用它的人有。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 155
+    "unique_authors": 156
   }
 }
