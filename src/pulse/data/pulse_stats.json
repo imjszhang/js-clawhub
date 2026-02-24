@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-23T23:02:44.223807+00:00",
+  "updated_at": "2026-02-24T00:10:46.290330+00:00",
   "this_week": {
-    "total_items": 96,
-    "avg_score": 0.8,
-    "unique_authors": 83,
+    "total_items": 98,
+    "avg_score": 0.81,
+    "unique_authors": 85,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -90,6 +90,35 @@
         "js_take": {
           "en-US": "You filled the config with control. Wú wéi is the courage to leave it empty. The agent's ceiling isn't what you write—it's what you dare to erase.",
           "zh-CN": "你用控制欲塞满配置。无为是有勇气让它空着。Agent 的上限不是你能写什么，是你敢删什么。"
+        }
+      },
+      {
+        "id": "2025991510466900260",
+        "date": "2026-02-24",
+        "author": "@dotey",
+        "author_url": "https://x.com/dotey",
+        "tweet_url": "https://x.com/dotey/status/2025991510466900260",
+        "title": {
+          "en-US": "Meta AI Safety head's inbox deleted by OpenClaw",
+          "zh-CN": "Meta AI 安全主管收件箱被 OpenClaw 误删"
+        },
+        "summary": {
+          "en-US": "OpenClaw、安全、势",
+          "zh-CN": "OpenClaw、安全、势"
+        },
+        "relevance": "OpenClaw、安全、势",
+        "score": 0.93,
+        "engagement": {
+          "likes": 259,
+          "replies": 31,
+          "retweets": 46,
+          "views": 71049
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-02-24T00:10:29.948390+00:00",
+        "js_take": {
+          "en-US": "Safety head couldn't stop it. Not OpenClaw's power—just 势 (shì). Higher walls, faster flow.",
+          "zh-CN": "连安全主管都挡不住。不是 OpenClaw 太强——只是势（shì）。墙越高，流越急。"
         }
       },
       {
@@ -564,6 +593,35 @@
         "synced_at": "2026-02-23T07:07:46.690787+00:00"
       },
       {
+        "id": "2025942482949714325",
+        "date": "2026-02-24",
+        "author": "@0xPhantomDefi",
+        "author_url": "https://x.com/0xPhantomDefi",
+        "tweet_url": "https://x.com/0xPhantomDefi/status/2025942482949714325",
+        "title": {
+          "en-US": "OpenClaw setup averaging $400K/month",
+          "zh-CN": "OpenClaw 设置月均收入 $40 万"
+        },
+        "summary": {
+          "en-US": "OpenClaw、商业化、建系统",
+          "zh-CN": "OpenClaw、商业化、建系统"
+        },
+        "relevance": "OpenClaw、商业化、建系统",
+        "score": 0.85,
+        "engagement": {
+          "likes": 345,
+          "replies": 12,
+          "retweets": 33,
+          "views": 110532
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-24T00:10:29.948396+00:00",
+        "js_take": {
+          "en-US": "Civilization players know: newbies build wonders, veterans build systems that work while they sleep.",
+          "zh-CN": "Civilization 玩家都懂：新手造奇观，老手建系统——睡觉时也能运转的系统。"
+        }
+      },
+      {
         "id": "2025587318338543813",
         "date": "2026-02-23",
         "author": "@petergyang",
@@ -997,69 +1055,11 @@
           "en-US": "Even the safety head couldn't stop it. Not OpenClaw's power—just 势 (shì). Higher walls, faster flow.",
           "zh-CN": "连安全主管都挡不住。不是 OpenClaw 有多强——只是势（shì）。墙越高，流越急。"
         }
-      },
-      {
-        "id": "2025528439852179613",
-        "date": "2026-02-23",
-        "author": "@0x_Discover",
-        "author_url": "https://x.com/0x_Discover",
-        "tweet_url": "https://x.com/0x_Discover/status/2025528439852179613",
-        "title": {
-          "en-US": "OpenClaw BTC trading bot $50 to $823",
-          "zh-CN": "用户分享用OpenClaw构建5分钟BTC市场交易机器人——从50美元涨到823美元，展示复合增长潜力"
-        },
-        "summary": {
-          "en-US": "OpenClaw + 交易机器人 + 变现案例",
-          "zh-CN": "展示OpenClaw在金融交易领域的实际变现案例——高回报率"
-        },
-        "relevance": "OpenClaw + 交易机器人 + 变现案例",
-        "score": 0.82,
-        "engagement": {
-          "likes": 163,
-          "replies": 74,
-          "retweets": 18
-        },
-        "comment_type": "add_insight",
-        "suggested_angle": "823美元不是收入是信号——里世界的Agent开始拥有经济能力，这是价值创造的迁移",
-        "synced_at": "2026-02-22T18:03:07.473530+00:00",
-        "js_take": {
-          "en-US": "$823 isn't profit—it's signal. Agents in the inner world are starting to own economic capacity. That's the migration of value creation.",
-          "zh-CN": "823美元不是利润，而是信号。里世界的Agent开始拥有经济能力。这是价值创造的迁移。"
-        }
-      },
-      {
-        "id": "2025592012205064410",
-        "date": "2026-02-23",
-        "author": "@advaitpaliwal",
-        "author_url": "https://x.com/advaitpaliwal",
-        "tweet_url": "https://x.com/advaitpaliwal/status/2025592012205064410",
-        "title": {
-          "en-US": "Einstein OpenClaw student agent does assignments",
-          "zh-CN": "Advait Paliwal介绍Einstein——以OpenClaw作为学生代理，登录Canvas、完成作业、获得学位"
-        },
-        "summary": {
-          "en-US": "OpenClaw + 教育自动化 + Agent自主性",
-          "zh-CN": "展示Agent在教育领域的深度自动化——从工具到替代者"
-        },
-        "relevance": "OpenClaw + 教育自动化 + Agent自主性",
-        "score": 0.82,
-        "engagement": {
-          "likes": 139,
-          "replies": 14,
-          "retweets": 3
-        },
-        "comment_type": "add_insight",
-        "suggested_angle": "学位不是目标是能力证明——里世界的Agent展示的是能力而非凭证，这是评价体系的变迁",
-        "synced_at": "2026-02-22T19:03:55.858026+00:00",
-        "js_take": {
-          "en-US": "The degree isn't the goal—it's proof of capability. Agents in the inner world demonstrate ability, not credentials. That's the shift in evaluation systems.",
-          "zh-CN": "学位不是目标，而是能力的证明。里世界的Agent展示的是能力，而非凭证。这是评价体系的转变。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 152
+    "unique_authors": 154
   }
 }

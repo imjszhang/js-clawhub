@@ -29,6 +29,35 @@
     }
   },
   {
+    "id": "2025991510466900260",
+    "date": "2026-02-24",
+    "author": "@dotey",
+    "author_url": "https://x.com/dotey",
+    "tweet_url": "https://x.com/dotey/status/2025991510466900260",
+    "title": {
+      "en-US": "Meta AI Safety head's inbox deleted by OpenClaw",
+      "zh-CN": "Meta AI 安全主管收件箱被 OpenClaw 误删"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全、势",
+      "zh-CN": "OpenClaw、安全、势"
+    },
+    "relevance": "OpenClaw、安全、势",
+    "score": 0.93,
+    "engagement": {
+      "likes": 259,
+      "replies": 31,
+      "retweets": 46,
+      "views": 71049
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-24T00:10:29.948390+00:00",
+    "js_take": {
+      "en-US": "Safety head couldn't stop it. Not OpenClaw's power—just 势 (shì). Higher walls, faster flow.",
+      "zh-CN": "连安全主管都挡不住。不是 OpenClaw 太强——只是势（shì）。墙越高，流越急。"
+    }
+  },
+  {
     "id": "2025972175799271508",
     "date": "2026-02-24",
     "author": "@IntCyberDigest",
@@ -84,6 +113,35 @@
     "js_take": {
       "en-US": "Best training isn't control—it's 无为 (wú wéi). Set the edge, then let go.",
       "zh-CN": "最好的训练不是控制，而是无为（wú wéi）。设定边界，然后放手。"
+    }
+  },
+  {
+    "id": "2025942482949714325",
+    "date": "2026-02-24",
+    "author": "@0xPhantomDefi",
+    "author_url": "https://x.com/0xPhantomDefi",
+    "tweet_url": "https://x.com/0xPhantomDefi/status/2025942482949714325",
+    "title": {
+      "en-US": "OpenClaw setup averaging $400K/month",
+      "zh-CN": "OpenClaw 设置月均收入 $40 万"
+    },
+    "summary": {
+      "en-US": "OpenClaw、商业化、建系统",
+      "zh-CN": "OpenClaw、商业化、建系统"
+    },
+    "relevance": "OpenClaw、商业化、建系统",
+    "score": 0.85,
+    "engagement": {
+      "likes": 345,
+      "replies": 12,
+      "retweets": 33,
+      "views": 110532
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T00:10:29.948396+00:00",
+    "js_take": {
+      "en-US": "Civilization players know: newbies build wonders, veterans build systems that work while they sleep.",
+      "zh-CN": "Civilization 玩家都懂：新手造奇观，老手建系统——睡觉时也能运转的系统。"
     }
   },
   {
@@ -5214,62 +5272,6 @@
     "js_take": {
       "en-US": "Setup is the new skill gap. Most people quit OpenClaw not because it's weak, but because they never configured it right. The difference between a toy and a teammate is in those first 30 minutes.",
       "zh-CN": "配置能力就是新的分水岭。多数人放弃OpenClaw不是因为平台弱，而是因为他们从没正确配置过。玩具和队友的区别，就在最开始的30分钟。"
-    }
-  },
-  {
-    "id": "2024881546365112590",
-    "date": "2026-02-21",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2024881546365112590",
-    "title": {
-      "en-US": "Self-hosted OpenClaw 30x savings",
-      "zh-CN": "自托管OpenClaw：30倍成本节省"
-    },
-    "summary": {
-      "en-US": "OpenClaw成本优化、自托管、生产环境",
-      "zh-CN": "OpenClaw成本控制、自托管部署、生产级应用"
-    },
-    "relevance": "OpenClaw成本优化、自托管、生产环境",
-    "score": 0.9,
-    "engagement": {
-      "likes": 254,
-      "replies": 21,
-      "retweets": 22
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-20T19:02:04.804306+00:00",
-    "js_take": {
-      "en-US": "30x leverage isn't magic—it's just math. When you own the compute, you own the margins. The cloud was convenient; local is profitable.",
-      "zh-CN": "30倍杠杆不是魔法，只是数学。当你拥有算力，你就拥有了利润空间。云端方便，本地赚钱。"
-    }
-  },
-  {
-    "id": "2024909183452332407",
-    "date": "2026-02-21",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2024909183452332407",
-    "title": {
-      "en-US": "OpenClaw HEARTBEAT.md tip",
-      "zh-CN": "OpenClaw HEARTBEAT.md使用技巧"
-    },
-    "summary": {
-      "en-US": "OpenClaw技巧、HEARTBEAT.md、状态追踪",
-      "zh-CN": "OpenClaw进阶技巧、HEARTBEAT.md状态监控、任务追踪"
-    },
-    "relevance": "OpenClaw技巧、HEARTBEAT.md、状态追踪",
-    "score": 0.9,
-    "engagement": {
-      "likes": 117,
-      "replies": 7,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-20T20:01:59.460877+00:00",
-    "js_take": {
-      "en-US": "Heartbeat.md is the pulse check most skip. Active deals, subagents, background tasks—if you're not tracking it, you're flying blind. Awareness at the speed of rhythm.",
-      "zh-CN": "HEARTBEAT.md是大多数人都忽略的脉搏检查。活跃交易、子代理、后台任务——如果你不去追踪，就是在盲飞。以节奏的速度保持觉知。"
     }
   }
 ]
