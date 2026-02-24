@@ -145,6 +145,35 @@
     }
   },
   {
+    "id": "2026092642623201379",
+    "date": "2026-02-24",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2026092642623201379",
+    "title": {
+      "en-US": "OpenClaw security model is personal assistant (one user - many agents)",
+      "zh-CN": "OpenClaw 的安全模型是个人助手（一个用户 - 多个 Agent）"
+    },
+    "summary": {
+      "en-US": "OpenClaw、安全、无为而治",
+      "zh-CN": "高曝光(1.9万浏览)，讨论OpenClaw安全模型，用「无为而治」评论安全与自主的平衡"
+    },
+    "relevance": "OpenClaw、安全、无为而治",
+    "score": 0.83,
+    "engagement": {
+      "likes": 534,
+      "replies": 48,
+      "retweets": 32,
+      "views": 19267
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T01:10:27.553472+00:00",
+    "js_take": {
+      "en-US": "Security isn't control—it's 无为 (wú wéi). Set the edge, then let go.",
+      "zh-CN": "安全不是控制，而是无为（wú wéi）。设定边界，然后放手。"
+    }
+  },
+  {
     "id": "2025956342763274654",
     "date": "2026-02-24",
     "author": "@petergyang",
@@ -5416,35 +5445,6 @@
     "js_take": {
       "en-US": "When the category gets a name, the migration is no longer fringe. The inner world has crossed the chasm from hacker curiosity to industry vocabulary.",
       "zh-CN": "When the category gets a name, the migration is no longer fringe. The inner world has crossed the chasm from hacker curiosity to industry vocabulary."
-    }
-  },
-  {
-    "id": "2024886789933285829",
-    "date": "2026-02-21",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2024886789933285829",
-    "title": {
-      "en-US": "5 OpenClaw setup tips for AGI",
-      "zh-CN": "OpenClaw AGI配置五要诀"
-    },
-    "summary": {
-      "en-US": "OpenClaw配置、AGI设置、新手入门",
-      "zh-CN": "OpenClaw配置优化、AGI功能启用、新手快速上手"
-    },
-    "relevance": "OpenClaw配置、AGI设置、新手入门",
-    "score": 0.9,
-    "engagement": {
-      "likes": 650,
-      "replies": 85,
-      "retweets": 51
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Configuration as capability. When setup is right, potential unlocks.",
-    "synced_at": "2026-02-20T19:02:04.804300+00:00",
-    "js_take": {
-      "en-US": "Setup is the new skill gap. Most people quit OpenClaw not because it's weak, but because they never configured it right. The difference between a toy and a teammate is in those first 30 minutes.",
-      "zh-CN": "配置能力就是新的分水岭。多数人放弃OpenClaw不是因为平台弱，而是因为他们从没正确配置过。玩具和队友的区别，就在最开始的30分钟。"
     }
   }
 ]

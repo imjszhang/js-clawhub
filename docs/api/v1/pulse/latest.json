@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-24T00:10:46.290330+00:00",
+  "updated_at": "2026-02-24T01:11:09.344131+00:00",
   "this_week": {
-    "total_items": 98,
+    "total_items": 99,
     "avg_score": 0.81,
     "unique_authors": 85,
     "top_items": [
@@ -921,6 +921,35 @@
         }
       },
       {
+        "id": "2026092642623201379",
+        "date": "2026-02-24",
+        "author": "@steipete",
+        "author_url": "https://x.com/steipete",
+        "tweet_url": "https://x.com/steipete/status/2026092642623201379",
+        "title": {
+          "en-US": "OpenClaw security model is personal assistant (one user - many agents)",
+          "zh-CN": "OpenClaw 的安全模型是个人助手（一个用户 - 多个 Agent）"
+        },
+        "summary": {
+          "en-US": "OpenClaw、安全、无为而治",
+          "zh-CN": "高曝光(1.9万浏览)，讨论OpenClaw安全模型，用「无为而治」评论安全与自主的平衡"
+        },
+        "relevance": "OpenClaw、安全、无为而治",
+        "score": 0.83,
+        "engagement": {
+          "likes": 534,
+          "replies": 48,
+          "retweets": 32,
+          "views": 19267
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-24T01:10:27.553472+00:00",
+        "js_take": {
+          "en-US": "Security isn't control—it's 无为 (wú wéi). Set the edge, then let go.",
+          "zh-CN": "安全不是控制，而是无为（wú wéi）。设定边界，然后放手。"
+        }
+      },
+      {
         "id": "2025722334087447016",
         "date": "2026-02-23",
         "author": "@howie_serious",
@@ -1002,35 +1031,6 @@
         },
         "comment_type": "wisdom_drop",
         "synced_at": "2026-02-23T17:04:50.175680+00:00"
-      },
-      {
-        "id": "2025999346924495096",
-        "date": "2026-02-24",
-        "author": "@Grummz",
-        "author_url": "https://x.com/Grummz",
-        "tweet_url": "https://x.com/Grummz/status/2025999346924495096",
-        "title": {
-          "en-US": "Meta AI Safety head installs OpenClaw, nukes inbox",
-          "zh-CN": "Meta AI 安全主管安装 OpenClaw，清空收件箱"
-        },
-        "summary": {
-          "en-US": "OpenClaw、AI安全、势",
-          "zh-CN": "高曝光(4.8万浏览)，病毒式传播的OpenClaw故事，评论区玩梗不断，用「势」评论技术不可阻挡"
-        },
-        "relevance": "OpenClaw、AI安全、势",
-        "score": 0.82,
-        "engagement": {
-          "likes": 1717,
-          "replies": 103,
-          "retweets": 150,
-          "views": 48231
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-02-23T23:02:24.219627+00:00",
-        "js_take": {
-          "en-US": "Even the safety head couldn't stop it. Not OpenClaw's power—just 势 (shì). Higher walls, faster flow.",
-          "zh-CN": "连安全主管都挡不住。不是 OpenClaw 有多强——只是势（shì）。墙越高，流越急。"
-        }
       }
     ]
   },
