@@ -332,6 +332,35 @@
     "synced_at": "2026-02-24T02:13:08.600993+00:00"
   },
   {
+    "id": "2026069153161810110",
+    "date": "2026-02-24",
+    "author": "@IanAndrewsDC",
+    "author_url": "https://x.com/IanAndrewsDC",
+    "tweet_url": "https://x.com/IanAndrewsDC/status/2026069153161810110",
+    "title": {
+      "en-US": "First rational explanation for deploying OpenClaw",
+      "zh-CN": "首次看到部署 OpenClaw 的理性解释"
+    },
+    "summary": {
+      "en-US": "OpenClaw、无为、理性",
+      "zh-CN": "高曝光(7.3万浏览)，讨论OpenClaw部署理由，用「无为」评论技术采用的理性"
+    },
+    "relevance": "OpenClaw、无为、理性",
+    "score": 0.82,
+    "engagement": {
+      "likes": 483,
+      "replies": 6,
+      "retweets": 27,
+      "views": 73720
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-24T07:13:55.857443+00:00",
+    "js_take": {
+      "en-US": "Rational deployment isn't chasing hype—it's 无为 (wú wéi). Find where to push, then let the current do the rest.",
+      "zh-CN": "理性部署不是追逐炒作——是无为（wú wéi）。找到该发力的地方，然后让势完成其余。"
+    }
+  },
+  {
     "id": "2025990063633674473",
     "date": "2026-02-24",
     "author": "@jeff_weinstein",
@@ -358,6 +387,35 @@
     "js_take": {
       "en-US": "50k knocks per hour. The inner world is knocking. The surface world still wants tolls. Who moves first?",
       "zh-CN": "每小时五万次敲门。里世界在敲门，表世界还在收过路费。谁先动？"
+    }
+  },
+  {
+    "id": "2025975741503135842",
+    "date": "2026-02-24",
+    "author": "@sanyi_eth_",
+    "author_url": "https://x.com/sanyi_eth_",
+    "tweet_url": "https://x.com/sanyi_eth_/status/2025975741503135842",
+    "title": {
+      "en-US": "OpenClaw can call local Claude client to bypass auth ban",
+      "zh-CN": "OpenClaw 可以调用本地 Claude 客户端绕过认证封禁"
+    },
+    "summary": {
+      "en-US": "OpenClaw、里世界、势",
+      "zh-CN": "高曝光(6.1万浏览)，展示OpenClaw绕过限制的能力，用「里世界」评论表世界限制的无效性"
+    },
+    "relevance": "OpenClaw、里世界、势",
+    "score": 0.8,
+    "engagement": {
+      "likes": 244,
+      "replies": 40,
+      "retweets": 18,
+      "views": 61281
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-24T07:13:55.857448+00:00",
+    "js_take": {
+      "en-US": "Surface world blocks, inner world flows. 势 (shì)—higher walls, faster water.",
+      "zh-CN": "表世界筑墙，里世界流动。势（shì）——墙越高，流越急。"
     }
   },
   {
@@ -5388,55 +5446,5 @@
     "comment_type": "add_insight",
     "suggested_angle": "上下文不是数据是认知——里世界的Agent需要理解而非存储，这是质的区别",
     "synced_at": "2026-02-22T12:02:50.185429+00:00"
-  },
-  {
-    "id": "2025231785714745572",
-    "date": "2026-02-22",
-    "author": "@Param_eth",
-    "author_url": "https://x.com/Param_eth",
-    "tweet_url": "https://x.com/Param_eth/status/2025231785714745572",
-    "title": {
-      "en-US": "How to build your own OpenClaw wrapper (one-click deployer)",
-      "zh-CN": "如何构建自己的OpenClaw wrapper（一键部署器）：Next.js+前端+后端+WebSocket+VPS集成完整教程"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Wrapper + 部署工具",
-      "zh-CN": ">24h扣分但技术深度高，展示OpenClaw生态建设——降低门槛的工具层"
-    },
-    "relevance": "OpenClaw + Wrapper + 部署工具",
-    "score": 0.72,
-    "engagement": {
-      "likes": 131,
-      "replies": 24,
-      "retweets": 7
-    },
-    "comment_type": "recommend_resource",
-    "suggested_angle": "Wrapper不是重复是分层——里世界的Agent需要基础设施，这是生态的成熟标志",
-    "synced_at": "2026-02-22T14:04:05.426329+00:00"
-  },
-  {
-    "id": "2025356540241494156",
-    "date": "2026-02-22",
-    "author": "@punk3700",
-    "author_url": "https://x.com/punk3700",
-    "tweet_url": "https://x.com/punk3700/status/2025356540241494156",
-    "title": {
-      "en-US": "Lobster is Agentic Computer, OpenClaw runs on it, add more?",
-      "zh-CN": "Lobster是Agentic Computer，OpenClaw是第一个运行其上的Agent——应该添加PicoClaw、IronClaw、TinyClaw和nanobot吗？"
-    },
-    "summary": {
-      "en-US": "Lobster + OpenClaw + Agent生态",
-      "zh-CN": "展示Agent运行环境的多样性，体现生态扩张——从单一到多元"
-    },
-    "relevance": "Lobster + OpenClaw + Agent生态",
-    "score": 0.71,
-    "engagement": {
-      "likes": 25,
-      "replies": 17,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "多样性不是分裂是生态——里世界的Agent需要不同的形态适应不同场景，这是进化的分支",
-    "synced_at": "2026-02-22T09:03:37.806880+00:00"
   }
 ]
