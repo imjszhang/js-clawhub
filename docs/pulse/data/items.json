@@ -348,6 +348,35 @@
     }
   },
   {
+    "id": "2026506862250610822",
+    "date": "2026-02-25",
+    "author": "@@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2026506862250610822",
+    "title": {
+      "en-US": "OpenClaw success - humbling, insane, amazing",
+      "zh-CN": "OpenClaw创始人Peter Steinberger分享社区成功案例，感到敬畏、疯狂和神奇"
+    },
+    "summary": {
+      "en-US": "OpenClaw、社区、势",
+      "zh-CN": "高曝光(4.4万浏览)，OpenClaw创始人分享，评论区充满热情，用「势」评论水到渠成"
+    },
+    "relevance": "OpenClaw、社区、势",
+    "score": 0.82,
+    "engagement": {
+      "likes": 775,
+      "replies": 65,
+      "retweets": 48,
+      "views": 44151
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-25T12:12:56.842088+00:00",
+    "js_take": {
+      "en-US": "Not success—just 势 (shì). When the flow starts, walls won't stop it.",
+      "zh-CN": "不是成功——是势。流一旦开始，墙也挡不住。"
+    }
+  },
+  {
     "id": "2026360136416244118",
     "date": "2026-02-25",
     "author": "@@FrameworkPuter",
@@ -5372,33 +5401,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-22T07:04:38.502690+00:00"
-  },
-  {
-    "id": "2025315523236708531",
-    "date": "2026-02-22",
-    "author": "@thekitze",
-    "author_url": "https://x.com/thekitze",
-    "tweet_url": "https://x.com/thekitze/status/2025315523236708531",
-    "title": {
-      "en-US": "DO NOT QUIT OpenClaw YET - video plea",
-      "zh-CN": "先别放弃OpenClaw——情感化的视频呼吁，劝用户坚持使用"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 坚持 + 社区支持",
-      "zh-CN": "社区情感支持内容，体现早期技术的学习曲线——坚持是穿越谷底的唯一方式"
-    },
-    "relevance": "OpenClaw + 坚持 + 社区支持",
-    "score": 0.8,
-    "engagement": {
-      "likes": 66,
-      "replies": 15,
-      "retweets": 4
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-22T08:02:28.139178+00:00",
-    "js_take": {
-      "en-US": "Not quitting isn't stubbornness—it's conviction. The entrance to the inner world requires patience. That's the early adopter's practice.",
-      "zh-CN": "不放弃不是固执，是信仰。里世界的入口需要耐心。这是早期采用者的修行。"
-    }
   }
 ]
