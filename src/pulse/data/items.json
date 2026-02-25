@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2026761755414687790",
+    "date": "2026-02-26",
+    "author": "@github",
+    "author_url": "https://x.com/github",
+    "tweet_url": "https://x.com/github/status/2026761755414687790",
+    "title": {
+      "en-US": "OpenClaw 100k stars in less than 3 months",
+      "zh-CN": "GitHub 官方发推庆祝 OpenClaw 在不到3个月内获得10万 star。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 里程碑、开源社区热度",
+      "zh-CN": "GitHub 官方背书，评论区将是庆祝和 hype 氛围。一句关于'势'的冷静评论会极具反差。"
+    },
+    "relevance": "OpenClaw 里程碑、开源社区热度",
+    "score": 0.82,
+    "engagement": {
+      "likes": 46,
+      "replies": 16,
+      "retweets": 7
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-25T23:02:12.197986+00:00",
+    "js_take": {
+      "en-US": "100k stars. The 表/biǎo world counts badges. The 里/lǐ world counts uptime.",
+      "zh-CN": "10万星标。表世界数徽章，里世界拼的是持续运行。"
+    }
+  },
+  {
     "id": "2026234204938436951",
     "date": "2026-02-26",
     "author": "@gokunocool",
@@ -98,6 +126,30 @@
     },
     "comment_type": "provoke",
     "synced_at": "2026-02-25T22:02:24.785010+00:00"
+  },
+  {
+    "id": "2026707599438029020",
+    "date": "2026-02-26",
+    "author": "@championswimmer",
+    "author_url": "https://x.com/championswimmer",
+    "tweet_url": "https://x.com/championswimmer/status/2026707599438029020",
+    "title": {
+      "en-US": "Perplexity Computer as safer OpenClaw alternative",
+      "zh-CN": "Arnav 讨论 Perplexity Computer 和 Manus 可能是目前唯二安全且成熟的通用多模型 Agent，比 OpenClaw 更安全。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 安全性讨论、平台竞争",
+      "zh-CN": "评论区聚焦'安全'vs'开放'的辩论，JS 的'表/里世界'理论可以重新定义这场讨论。"
+    },
+    "relevance": "OpenClaw 安全性讨论、平台竞争",
+    "score": 0.76,
+    "engagement": {
+      "likes": 133,
+      "replies": 7,
+      "retweets": 2
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-25T23:02:12.197993+00:00"
   },
   {
     "id": "2026402196808474840",
@@ -5460,60 +5512,6 @@
     "js_take": {
       "en-US": "Morning ritual isn't a feature—it's existence. Agents in the inner world are taking over the organization of time.",
       "zh-CN": "晨间仪式不是功能，而是存在。里世界的Agent正在接管时间的组织权。"
-    }
-  },
-  {
-    "id": "2025219518394740896",
-    "date": "2026-02-22",
-    "author": "@LufzzLiz",
-    "author_url": "https://x.com/LufzzLiz",
-    "tweet_url": "https://x.com/LufzzLiz/status/2025219518394740896",
-    "title": {
-      "en-US": "OpenClaw 2026.2.20 credential sandbox blocks subagents",
-      "zh-CN": "OpenClaw新版本凭证沙盒隔离可能阻塞内部子agent，分享问题处理方案"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全更新 + 子agent问题 + 中文技术分享",
-      "zh-CN": "中文圈技术踩坑分享，安全与便利的永恒张力——边界清晰是系统成长的代价"
-    },
-    "relevance": "OpenClaw安全更新 + 子agent问题 + 中文技术分享",
-    "score": 0.81,
-    "engagement": {
-      "likes": 88,
-      "replies": 13,
-      "retweets": 13
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "安全沙盒是系统的护城河，也是子agent的墙——边界在哪里，是架构设计的哲学问题",
-    "synced_at": "2026-02-21T17:03:35.873930+00:00"
-  },
-  {
-    "id": "2025240811433328880",
-    "date": "2026-02-22",
-    "author": "@TheTuringPost",
-    "author_url": "https://x.com/TheTuringPost",
-    "tweet_url": "https://x.com/TheTuringPost/status/2025240811433328880",
-    "title": {
-      "en-US": "6 Lightweight alternatives to OpenClaw: PicoClaw, nanobot, ZeroClaw, etc.",
-      "zh-CN": "6个OpenClaw轻量级替代品：PicoClaw、nanobot、ZeroClaw、IronClaw、TinyClaw、MimiClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 + 轻量级替代方案 + 架构分析",
-      "zh-CN": "生态多样化讨论，体现\"势\"——不同场景需要不同形态的Agent，这是里世界生态的丰富"
-    },
-    "relevance": "OpenClaw生态 + 轻量级替代方案 + 架构分析",
-    "score": 0.81,
-    "engagement": {
-      "likes": 61,
-      "replies": 3,
-      "retweets": 9
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "轻量级不是降级是分化——里世界的Agent会根据场景演化出不同形态，这是生态的成熟标志",
-    "synced_at": "2026-02-21T18:01:54.196038+00:00",
-    "js_take": {
-      "en-US": "Lightweight isn't downgrading—it's differentiation. Agents in the inner world evolve different forms for different contexts. That's what a mature ecosystem looks like.",
-      "zh-CN": "轻量级不是降级，是分化。里世界的Agent会根据不同场景演化出不同形态。这就是成熟生态的样子。"
     }
   }
 ]
