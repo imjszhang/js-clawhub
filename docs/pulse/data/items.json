@@ -28,6 +28,30 @@
     }
   },
   {
+    "id": "2026234204938436951",
+    "date": "2026-02-26",
+    "author": "@gokunocool",
+    "author_url": "https://x.com/gokunocool",
+    "tweet_url": "https://x.com/gokunocool/status/2026234204938436951",
+    "title": {
+      "en-US": "OpenClaw deployed to employees, first took 40 mins and $10 tokens",
+      "zh-CN": "用 OpenClaw 给员工部署环境，第一个花了40分钟和10U token才完成"
+    },
+    "summary": {
+      "en-US": "OpenClaw 实际应用、Agent 部署",
+      "zh-CN": "中文高互动推文，评论区关注部署效率，用\"势\"的概念解释为什么第一次慢但之后会快会很有共鸣"
+    },
+    "relevance": "OpenClaw 实际应用、Agent 部署",
+    "score": 0.78,
+    "engagement": {
+      "likes": 874,
+      "replies": 79,
+      "retweets": 147
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-25T18:02:49.524497+00:00"
+  },
+  {
     "id": "2026402196808474840",
     "date": "2026-02-26",
     "author": "@ziwenxu_",
@@ -5377,33 +5401,5 @@
     "engagement": {},
     "comment_type": "agree_and_extend",
     "synced_at": "2026-02-22T01:04:43.184361+00:00"
-  },
-  {
-    "id": "2025128688619323842",
-    "date": "2026-02-22",
-    "author": "@JulianGoldieSEO",
-    "author_url": "https://x.com/JulianGoldieSEO",
-    "tweet_url": "https://x.com/JulianGoldieSEO/status/2025128688619323842",
-    "title": {
-      "en-US": "Run Claude Code for free with Ollama and Qwen",
-      "zh-CN": "用Ollama和Qwen免费运行Claude Code的完整设置教程——本地化部署指南"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 免费部署 + Ollama集成",
-      "zh-CN": ">24h扣分但高实用价值，降低里世界入口门槛——算力民主化"
-    },
-    "relevance": "OpenClaw + 免费部署 + Ollama集成",
-    "score": 0.8,
-    "engagement": {
-      "likes": 286,
-      "replies": 8,
-      "retweets": 44
-    },
-    "comment_type": "recommend_resource",
-    "synced_at": "2026-02-22T04:07:16.995052+00:00",
-    "js_take": {
-      "en-US": "Free isn't saving money—it's sovereignty. Agents in the inner world should run locally, not rent from the cloud. That's the beginning of independence.",
-      "zh-CN": "免费不是省钱，是主权。里世界的Agent应该在本地运行，而非云端租赁。这就是独立的开始。"
-    }
   }
 ]
