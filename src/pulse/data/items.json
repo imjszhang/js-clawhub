@@ -76,6 +76,30 @@
     "synced_at": "2026-02-25T20:01:58.565780+00:00"
   },
   {
+    "id": "2026726864325328961",
+    "date": "2026-02-26",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2026726864325328961",
+    "title": {
+      "en-US": "they're building openclaw",
+      "zh-CN": "Matthew Berman 发了一条简短的推文'他们正在造 OpenClaw'，暗示某大公司正在开发类似产品。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、大厂入场、平台竞争",
+      "zh-CN": "简短推文引发大量猜测，评论区热议谁在建 OpenClaw。JS 的'表/里世界'理论可以完美解释这一现象。"
+    },
+    "relevance": "OpenClaw、大厂入场、平台竞争",
+    "score": 0.77,
+    "engagement": {
+      "likes": 2054,
+      "replies": 159,
+      "retweets": 70
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-25T22:02:24.785010+00:00"
+  },
+  {
     "id": "2026402196808474840",
     "date": "2026-02-26",
     "author": "@ziwenxu_",
@@ -122,6 +146,30 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-25T20:01:58.565786+00:00"
+  },
+  {
+    "id": "2026447612187168878",
+    "date": "2026-02-26",
+    "author": "@@python_xxt",
+    "author_url": "https://x.com/python_xxt",
+    "tweet_url": "https://x.com/python_xxt/status/2026447612187168878",
+    "title": {
+      "en-US": "Prediction: First person to offer '9.9 yuan OpenClaw setup' will make first million",
+      "zh-CN": "鲁棒逊大胆预测：第一个推出'9块9 OpenClaw代装'服务的人，会先于大多数AI创业者赚到第一个100万。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 商业机会、服务化、低门槛入口",
+      "zh-CN": "评论区讨论'卖铲子'的商业模式。用'建系统'vs'造奇观'的理论回应'9块9代装'这种短期机会，反差强烈。"
+    },
+    "relevance": "OpenClaw 商业机会、服务化、低门槛入口",
+    "score": 0.71,
+    "engagement": {
+      "likes": 786,
+      "replies": 96,
+      "retweets": 58
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-25T22:02:24.785016+00:00"
   },
   {
     "id": "2025957550252843396",
@@ -5466,64 +5514,6 @@
     "js_take": {
       "en-US": "Lightweight isn't downgrading—it's differentiation. Agents in the inner world evolve different forms for different contexts. That's what a mature ecosystem looks like.",
       "zh-CN": "轻量级不是降级，是分化。里世界的Agent会根据不同场景演化出不同形态。这就是成熟生态的样子。"
-    }
-  },
-  {
-    "id": "2025231673340924077",
-    "date": "2026-02-22",
-    "author": "@heyshrutimishra",
-    "author_url": "https://x.com/heyshrutimishra",
-    "tweet_url": "https://x.com/heyshrutimishra/status/2025231673340924077",
-    "title": {
-      "en-US": "OpenClaw 215k stars but 2-day churn problem",
-      "zh-CN": "OpenClaw一个月获得21.5万GitHub star，但大多数开发者玩两天就放弃"
-    },
-    "summary": {
-      "en-US": "OpenClaw留存问题 + 用户流失 + 产品洞察",
-      "zh-CN": "直击OpenClaw核心痛点——高关注度低留存，可用\"系统vs奇观\"框架解释"
-    },
-    "relevance": "OpenClaw留存问题 + 用户流失 + 产品洞察",
-    "score": 0.81,
-    "engagement": {
-      "likes": 36,
-      "replies": 19,
-      "retweets": 6
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "两天放弃不是因为OpenClaw不好，是因为新手追求奇观高手建系统——Civilization里造奇观的人总是先退出",
-    "synced_at": "2026-02-21T19:02:09.695976+00:00",
-    "js_take": {
-      "en-US": "Two-day churn isn't OpenClaw's fault—it's the gap between spectacle-seekers and system-builders. In Civilization, the monument-builders always quit first.",
-      "zh-CN": "两天流失不是OpenClaw的错，而是追求奇观者与建设系统者之间的差距。在Civilization里，造奇观的人总是最先退出。"
-    }
-  },
-  {
-    "id": "2025313381402480953",
-    "date": "2026-02-22",
-    "author": "@santiagomed",
-    "author_url": "https://x.com/santiagomed",
-    "tweet_url": "https://x.com/santiagomed/status/2025313381402480953",
-    "title": {
-      "en-US": "xurl 1.0.3 X API CLI tool with agent-friendly shortcuts",
-      "zh-CN": "xurl 1.0.3发布：X API CLI工具新增Agent友好快捷方式、应用和用户管理改进，已集成到OpenClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw + X API + 工具集成",
-      "zh-CN": "高热度工具更新，展示Agent基础设施的完善——API工具正在Agent化"
-    },
-    "relevance": "OpenClaw + X API + 工具集成",
-    "score": 0.81,
-    "engagement": {
-      "likes": 162,
-      "replies": 13,
-      "retweets": 19
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Agent友好不是适配是原生——里世界的工具应该为Agent设计，而非为人类移植",
-    "synced_at": "2026-02-22T08:02:28.139176+00:00",
-    "js_take": {
-      "en-US": "Agent-friendly isn't adaptation—it's native. Tools in the inner world should be designed for agents, not ported from humans.",
-      "zh-CN": "Agent友好不是适配，是原生。里世界的工具应该为Agent设计，而非从人类移植。"
     }
   }
 ]
