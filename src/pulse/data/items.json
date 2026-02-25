@@ -502,6 +502,31 @@
     "synced_at": "2026-02-25T05:03:32.761645+00:00"
   },
   {
+    "id": "2026301885817196891",
+    "date": "2026-02-25",
+    "author": "@@eptwts",
+    "author_url": "https://x.com/eptwts",
+    "tweet_url": "https://x.com/eptwts/status/2026301885817196891",
+    "title": {
+      "en-US": "OpenClaw for normies criticism, zero experience automating",
+      "zh-CN": "批评没有网上赚钱经验的人盲目跟风使用OpenClaw，质疑没有经验的人能自动化什么"
+    },
+    "summary": {
+      "en-US": "OpenClaw、工具vs系统、本末倒置",
+      "zh-CN": "中高曝光(1.4万浏览)，高讨论(61回复)，批评声音中用「不造奇观，建系统」回应"
+    },
+    "relevance": "OpenClaw、工具vs系统、本末倒置",
+    "score": 0.75,
+    "engagement": {
+      "likes": 228,
+      "replies": 61,
+      "retweets": 6,
+      "views": 14634
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-25T09:05:29.806563+00:00"
+  },
+  {
     "id": "2026342937001680974",
     "date": "2026-02-25",
     "author": "@@OpenAIDevs",
@@ -5504,35 +5529,6 @@
     "js_take": {
       "en-US": "Not quitting isn't stubbornness—it's conviction. The entrance to the inner world requires patience. That's the early adopter's practice.",
       "zh-CN": "不放弃不是固执，是信仰。里世界的入口需要耐心。这是早期采用者的修行。"
-    }
-  },
-  {
-    "id": "2025480931314635177",
-    "date": "2026-02-22",
-    "author": "@sitinme",
-    "author_url": "https://x.com/sitinme",
-    "tweet_url": "https://x.com/sitinme/status/2025480931314635177",
-    "title": {
-      "en-US": "OpenClaw multi-agent architecture: from assistant to team",
-      "zh-CN": "中文KOL分享OpenClaw多Agent架构：从\"一个AI助手\"升级成\"一支AI团队\"——拆解多个Agent分别处理不同任务"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 多Agent架构 + 团队化",
-      "zh-CN": "展示从单体到多Agent的架构演进，体现\"建系统\"思维——不是放大是分化"
-    },
-    "relevance": "OpenClaw + 多Agent架构 + 团队化",
-    "score": 0.8,
-    "engagement": {
-      "likes": 50,
-      "replies": 5,
-      "retweets": 11
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "团队不是数量是分工——里世界的Agent需要专业化，这是生态的复杂性涌现",
-    "synced_at": "2026-02-22T14:04:05.426322+00:00",
-    "js_take": {
-      "en-US": "Team isn't numbers—it's division of labor. Agents in the inner world need specialization. That's the emergence of ecosystem complexity.",
-      "zh-CN": "团队不是人数，而是分工。里世界的Agent需要专业化。这就是生态系统复杂性的涌现。"
     }
   }
 ]
