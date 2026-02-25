@@ -1,5 +1,57 @@
 [
   {
+    "id": "2026678621545320623",
+    "date": "2026-02-26",
+    "author": "@testingcatalog",
+    "author_url": "https://x.com/testingcatalog",
+    "tweet_url": "https://x.com/testingcatalog/status/2026678621545320623",
+    "title": {
+      "en-US": "MiniMax launched MaxClaw based on OpenClaw",
+      "zh-CN": "MiniMax 推出基于 OpenClaw 的托管 Agent 产品 MaxClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态、Agent 托管服务",
+      "zh-CN": "OpenClaw 生态扩展，评论区关注新平台发布，用\"里世界扩张\"概念解释 OpenClaw 成为新交互层的趋势会非常突出"
+    },
+    "relevance": "OpenClaw 生态、Agent 托管服务",
+    "score": 0.82,
+    "engagement": {
+      "likes": 107,
+      "retweets": 3,
+      "replies": 3
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-25T17:04:04.071681+00:00",
+    "js_take": {
+      "en-US": "Everyone sees a launch. I see 表世界 (biǎo shìjiè) turning into storage while 里世界 grows. Most missed it.",
+      "zh-CN": "众人只见一场发布。我却看到表世界退化为存储，里世界悄然生长。大多数人浑然不觉。"
+    }
+  },
+  {
+    "id": "2026402196808474840",
+    "date": "2026-02-26",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2026402196808474840",
+    "title": {
+      "en-US": "With Minimax 2.5 we can scrape everything with OpenClaw",
+      "zh-CN": "使用 Minimax 2.5 配合 OpenClaw 可以抓取一切网页数据"
+    },
+    "summary": {
+      "en-US": "OpenClaw 使用场景、数据抓取",
+      "zh-CN": "展示 OpenClaw 实际应用，评论区关注能力边界，用\"表里世界迁徙\"框架解释为什么抓取能力是 Agent 接管表世界的关键"
+    },
+    "relevance": "OpenClaw 使用场景、数据抓取",
+    "score": 0.72,
+    "engagement": {
+      "likes": 399,
+      "retweets": 19,
+      "replies": 15
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-25T17:04:04.071687+00:00"
+  },
+  {
     "id": "2025957550252843396",
     "date": "2026-02-25",
     "author": "@@SirOstapBender",
@@ -5480,55 +5532,5 @@
       "en-US": "Free isn't saving money—it's sovereignty. Agents in the inner world should run locally, not rent from the cloud. That's the beginning of independence.",
       "zh-CN": "免费不是省钱，是主权。里世界的Agent应该在本地运行，而非云端租赁。这就是独立的开始。"
     }
-  },
-  {
-    "id": "2025203295724200399",
-    "date": "2026-02-22",
-    "author": "@iamsupersocks",
-    "author_url": "https://x.com/iamsupersocks",
-    "tweet_url": "https://x.com/iamsupersocks/status/2025203295724200399",
-    "title": {
-      "en-US": "Burned $200 Claude tokens in 30 min on OpenClaw",
-      "zh-CN": "30分钟内烧掉200美元Claude token的惨痛经历——OpenClaw使用中的成本陷阱"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 成本控制 + 真实经验",
-      "zh-CN": "真实用户踩坑经验，高互动讨论——提醒里世界入口的隐性成本"
-    },
-    "relevance": "OpenClaw + 成本控制 + 真实经验",
-    "score": 0.8,
-    "engagement": {},
-    "comment_type": "share_experience",
-    "suggested_angle": "200美元不是浪费是学费——里世界的Agent需要学习成本控制，这是运营的必修课",
-    "synced_at": "2026-02-22T05:03:59.307588+00:00",
-    "js_take": {
-      "en-US": "$200 isn't waste—it's tuition. Agents in the inner world need to learn cost control. That's a required course in operations.",
-      "zh-CN": "200美元不是浪费，是学费。里世界的Agent需要学习成本控制。这是运营的必修课。"
-    }
-  },
-  {
-    "id": "2025359387393753475",
-    "date": "2026-02-22",
-    "author": "@elvissun",
-    "author_url": "https://x.com/elvissun",
-    "tweet_url": "https://x.com/elvissun/status/2025359387393753475",
-    "title": {
-      "en-US": "Never install skill from clawhub, security risk too high",
-      "zh-CN": "不应该从clawhub安装任何skill，安全风险太高——让OC自己生成skill才是新范式"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 安全 + Skill生成",
-      "zh-CN": "安全警示与Karpathy观点呼应——自动生成比第三方安装更安全"
-    },
-    "relevance": "OpenClaw + 安全 + Skill生成",
-    "score": 0.8,
-    "engagement": {
-      "likes": 87,
-      "replies": 8,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "生成不是替代是进化——里世界的Agent应该自己创造工具，而非下载未知代码",
-    "synced_at": "2026-02-22T07:04:38.502690+00:00"
   }
 ]
