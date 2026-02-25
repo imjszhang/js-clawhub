@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-25T05:04:13.564279+00:00",
+  "updated_at": "2026-02-25T07:04:13.624558+00:00",
   "this_week": {
-    "total_items": 139,
-    "avg_score": 0.8,
-    "unique_authors": 119,
+    "total_items": 140,
+    "avg_score": 0.81,
+    "unique_authors": 120,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -904,6 +904,35 @@
         }
       },
       {
+        "id": "2026465418052063428",
+        "date": "2026-02-25",
+        "author": "@@gagarot200",
+        "author_url": "https://x.com/gagarot200",
+        "tweet_url": "https://x.com/gagarot200/status/2026465418052063428",
+        "title": {
+          "en-US": "OpenClaw automated sales, infinite appointments",
+          "zh-CN": "OpenClaw自动销售，无限获客"
+        },
+        "summary": {
+          "en-US": "OpenClaw、自动化销售、无为而治",
+          "zh-CN": "OpenClaw、自动化销售、无为而治"
+        },
+        "relevance": "OpenClaw、自动化销售、无为而治",
+        "score": 0.85,
+        "engagement": {
+          "likes": 668,
+          "replies": 16,
+          "retweets": 32,
+          "views": 86226
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-02-25T07:03:42.795901+00:00",
+        "js_take": {
+          "en-US": "Sales while you sleep. 无为而治 (wú wéi ér zhì): set the edge, let the flow bring clients.",
+          "zh-CN": "睡着也能成交。无为而治 (wú wéi ér zhì)：设定边界，让流量自来。"
+        }
+      },
+      {
         "id": "2025942482949714325",
         "date": "2026-02-24",
         "author": "@0xPhantomDefi",
@@ -1013,36 +1042,6 @@
         "js_take": {
           "en-US": "Three-layer memory isn't architecture—it's cognition. Agents in the inner world need layered memory for continuous learning. That's the foundation of monetization.",
           "zh-CN": "三层记忆不是架构，而是认知。里世界的Agent需要分层记忆来持续学习。这是商业化的基础。"
-        }
-      },
-      {
-        "id": "2025578845701832779",
-        "date": "2026-02-23",
-        "author": "@PrajwalTomar_",
-        "author_url": "https://x.com/PrajwalTomar_",
-        "tweet_url": "https://x.com/PrajwalTomar_/status/202557884570183279",
-        "title": {
-          "en-US": "OpenClaw Pro Tip: Stop copying random use cases. Most people automating things they don't need.",
-          "zh-CN": "OpenClaw 避坑指南：别做无用自动化"
-        },
-        "summary": {
-          "en-US": "OpenClaw、Agent 运营策略、系统思维",
-          "zh-CN": "OpenClaw，Agent 运营策略，系统思维"
-        },
-        "relevance": "OpenClaw、Agent 运营策略、系统思维",
-        "score": 0.85,
-        "engagement": {
-          "likes": 18,
-          "replies": 6,
-          "retweets": 0,
-          "views": 2527
-        },
-        "comment_type": "agree_and_extend",
-        "suggested_angle": "用「建系统 vs 造奇观」的 Civilization 隐喻评论：真正的高手搞复利，新手才堆自动化",
-        "synced_at": "2026-02-22T20:02:27.096056+00:00",
-        "js_take": {
-          "en-US": "Exactly. Newbies in Civilization chase wonders. Pros build systems that compound. Same energy here—most \"cool\" automations are just tech debt wearing a costume.",
-          "zh-CN": "没错。文明新手追奇观，高手建复利系统。这里同理——大多数「酷炫」自动化，不过是披着外衣的技术债。"
         }
       }
     ]

@@ -203,6 +203,35 @@
     }
   },
   {
+    "id": "2026465418052063428",
+    "date": "2026-02-25",
+    "author": "@@gagarot200",
+    "author_url": "https://x.com/gagarot200",
+    "tweet_url": "https://x.com/gagarot200/status/2026465418052063428",
+    "title": {
+      "en-US": "OpenClaw automated sales, infinite appointments",
+      "zh-CN": "OpenClaw自动销售，无限获客"
+    },
+    "summary": {
+      "en-US": "OpenClaw、自动化销售、无为而治",
+      "zh-CN": "OpenClaw、自动化销售、无为而治"
+    },
+    "relevance": "OpenClaw、自动化销售、无为而治",
+    "score": 0.85,
+    "engagement": {
+      "likes": 668,
+      "replies": 16,
+      "retweets": 32,
+      "views": 86226
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-25T07:03:42.795901+00:00",
+    "js_take": {
+      "en-US": "Sales while you sleep. 无为而治 (wú wéi ér zhì): set the edge, let the flow bring clients.",
+      "zh-CN": "睡着也能成交。无为而治 (wú wéi ér zhì)：设定边界，让流量自来。"
+    }
+  },
+  {
     "id": "2026288144094757358",
     "date": "2026-02-25",
     "author": "@@meta_alchemist",
@@ -5505,30 +5534,5 @@
       "en-US": "Team isn't numbers—it's division of labor. Agents in the inner world need specialization. That's the emergence of ecosystem complexity.",
       "zh-CN": "团队不是人数，而是分工。里世界的Agent需要专业化。这就是生态系统复杂性的涌现。"
     }
-  },
-  {
-    "id": "2025138910880252258",
-    "date": "2026-02-22",
-    "author": "@vladeku",
-    "author_url": "https://x.com/vladeku",
-    "tweet_url": "https://x.com/vladeku/status/2025138910880252258",
-    "title": {
-      "en-US": "Switched from MiniMax M2.5 to OpenAI Codex 5.3, quality improved",
-      "zh-CN": "从MiniMax M2.5切换到OpenAI Codex 5.3作为主模型，对话质量显著提升——只用ChatGPT订阅"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 模型切换 + 质量对比",
-      "zh-CN": ">24h扣分但高互动实用经验，展示模型选择对体验的影响——没有最好的只有最适合的"
-    },
-    "relevance": "OpenClaw + 模型切换 + 质量对比",
-    "score": 0.79,
-    "engagement": {
-      "likes": 123,
-      "replies": 28,
-      "retweets": 2
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "切换不是升级是适配——里世界的Agent需要根据任务选择模型，而非品牌忠诚",
-    "synced_at": "2026-02-22T08:02:28.139180+00:00"
   }
 ]
