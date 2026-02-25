@@ -174,6 +174,35 @@
     }
   },
   {
+    "id": "2025920587172909163",
+    "date": "2026-02-25",
+    "author": "@@Jiaxi_Cui",
+    "author_url": "https://x.com/Jiaxi_Cui",
+    "tweet_url": "https://x.com/Jiaxi_Cui/status/2025920587172909163",
+    "title": {
+      "en-US": "OpenClaw evolution: from skepticism to admiration",
+      "zh-CN": "OpenClaw 的进化：从怀疑到钦佩"
+    },
+    "summary": {
+      "en-US": "OpenClaw、势、迭代",
+      "zh-CN": "OpenClaw、势、迭代"
+    },
+    "relevance": "OpenClaw、势、迭代",
+    "score": 0.85,
+    "engagement": {
+      "likes": 730,
+      "replies": 39,
+      "retweets": 81,
+      "views": 111625
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-25T05:03:32.761639+00:00",
+    "js_take": {
+      "en-US": "Not code elegance—it's 势 (shì). OpenClaw isn't a product, it's flowing momentum.",
+      "zh-CN": "不是代码优雅——是势。OpenClaw 不是产品，是流动的势。"
+    }
+  },
+  {
     "id": "2026288144094757358",
     "date": "2026-02-25",
     "author": "@@meta_alchemist",
@@ -417,6 +446,31 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-25T04:04:56.246088+00:00"
+  },
+  {
+    "id": "2026515546695754195",
+    "date": "2026-02-25",
+    "author": "@@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2026515546695754195",
+    "title": {
+      "en-US": "Cursor feature replicated by OpenClaw in 5 minutes",
+      "zh-CN": "Cursor 新功能被 OpenClaw 5 分钟复刻"
+    },
+    "summary": {
+      "en-US": "OpenClaw、复制速度、势",
+      "zh-CN": "中等曝光(7k浏览)，展示OpenClaw快速复制能力，用「势」评论"
+    },
+    "relevance": "OpenClaw、复制速度、势",
+    "score": 0.75,
+    "engagement": {
+      "likes": 98,
+      "replies": 24,
+      "retweets": 7,
+      "views": 7003
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-25T05:03:32.761645+00:00"
   },
   {
     "id": "2026342937001680974",
@@ -5344,53 +5398,5 @@
     },
     "comment_type": "share_experience",
     "synced_at": "2026-02-22T08:02:28.139180+00:00"
-  },
-  {
-    "id": "2025264762687561874",
-    "date": "2026-02-22",
-    "author": "@akshay_pachaar",
-    "author_url": "https://x.com/akshay_pachaar",
-    "tweet_url": "https://x.com/akshay_pachaar/status/2025264762687561874",
-    "title": {
-      "en-US": "ZeroClaw: $10 hardware, <5MB RAM, 100% Rust, 16k stars",
-      "zh-CN": "ZeroClaw——10美元硬件、小于5MB内存、100% Rust编写，GitHub 16k star"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 + 轻量级替代 + 嵌入式Agent",
-      "zh-CN": "展示Agent生态的多样化——从轻量级到全功能，这是里世界的生态分化"
-    },
-    "relevance": "OpenClaw生态 + 轻量级替代 + 嵌入式Agent",
-    "score": 0.78,
-    "engagement": {
-      "likes": 48,
-      "replies": 9,
-      "retweets": 13
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T19:02:09.695978+00:00"
-  },
-  {
-    "id": "2025287644561727558",
-    "date": "2026-02-22",
-    "author": "@VittoStack",
-    "author_url": "https://x.com/VittoStack",
-    "tweet_url": "https://x.com/VittoStack/status/2025287644561727558",
-    "title": {
-      "en-US": "Giving OpenClaw a body, voice conversation <700ms latency",
-      "zh-CN": "为OpenClaw搭建实体身体，语音对话延迟低于700毫秒，正在处理打断逻辑"
-    },
-    "summary": {
-      "en-US": "OpenClaw具身化 + 语音交互 + 低延迟",
-      "zh-CN": "展示OpenClaw与硬件结合，体现Jarvis定律——感知+决策+执行的完整闭环"
-    },
-    "relevance": "OpenClaw具身化 + 语音交互 + 低延迟",
-    "score": 0.78,
-    "engagement": {
-      "likes": 34,
-      "replies": 16,
-      "retweets": 3
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T20:03:36.307524+00:00"
   }
 ]

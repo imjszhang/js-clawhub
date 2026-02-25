@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-25T04:05:09.744400+00:00",
+  "updated_at": "2026-02-25T05:04:13.564279+00:00",
   "this_week": {
-    "total_items": 137,
-    "avg_score": 0.81,
-    "unique_authors": 117,
+    "total_items": 139,
+    "avg_score": 0.8,
+    "unique_authors": 119,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -875,6 +875,35 @@
         }
       },
       {
+        "id": "2025920587172909163",
+        "date": "2026-02-25",
+        "author": "@@Jiaxi_Cui",
+        "author_url": "https://x.com/Jiaxi_Cui",
+        "tweet_url": "https://x.com/Jiaxi_Cui/status/2025920587172909163",
+        "title": {
+          "en-US": "OpenClaw evolution: from skepticism to admiration",
+          "zh-CN": "OpenClaw 的进化：从怀疑到钦佩"
+        },
+        "summary": {
+          "en-US": "OpenClaw、势、迭代",
+          "zh-CN": "OpenClaw、势、迭代"
+        },
+        "relevance": "OpenClaw、势、迭代",
+        "score": 0.85,
+        "engagement": {
+          "likes": 730,
+          "replies": 39,
+          "retweets": 81,
+          "views": 111625
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-02-25T05:03:32.761639+00:00",
+        "js_take": {
+          "en-US": "Not code elegance—it's 势 (shì). OpenClaw isn't a product, it's flowing momentum.",
+          "zh-CN": "不是代码优雅——是势。OpenClaw 不是产品，是流动的势。"
+        }
+      },
+      {
         "id": "2025942482949714325",
         "date": "2026-02-24",
         "author": "@0xPhantomDefi",
@@ -1015,41 +1044,11 @@
           "en-US": "Exactly. Newbies in Civilization chase wonders. Pros build systems that compound. Same energy here—most \"cool\" automations are just tech debt wearing a costume.",
           "zh-CN": "没错。文明新手追奇观，高手建复利系统。这里同理——大多数「酷炫」自动化，不过是披着外衣的技术债。"
         }
-      },
-      {
-        "id": "2025701861031121331",
-        "date": "2026-02-23",
-        "author": "@chrysb",
-        "author_url": "https://x.com/chrysb",
-        "tweet_url": "https://x.com/chrysb/status/2025701861031121331",
-        "title": {
-          "en-US": "MCP is dead in the water. OpenClaw showed me API & CLI will win—MCP servers load tool definitions into context window",
-          "zh-CN": "MCP 注定失败，API 和 CLI 会赢"
-        },
-        "summary": {
-          "en-US": "OpenClaw、架构设计、协议选择",
-          "zh-CN": "OpenClaw，架构设计，协议选择"
-        },
-        "relevance": "OpenClaw、架构设计、协议选择",
-        "score": 0.85,
-        "engagement": {
-          "likes": 73,
-          "replies": 23,
-          "retweets": 3,
-          "views": 4831
-        },
-        "comment_type": "add_insight",
-        "suggested_angle": "用「势」的判断框架评论：里世界的接口形态正在自然选择，简单胜复杂是势",
-        "synced_at": "2026-02-23T00:06:00.773014+00:00",
-        "js_take": {
-          "en-US": "Complexity is a tax. The inner world is selecting for simple interfaces—APIs, CLIs, direct intent. MCP tried to standardize too early; momentum favors organic convergence.",
-          "zh-CN": "复杂性是一种税。里世界正在筛选简单的接口——API、CLI、直接意图。MCP 过早尝试标准化；势在有机收敛。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 157
+    "unique_authors": 158
   }
 }
