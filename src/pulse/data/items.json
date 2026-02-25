@@ -232,6 +232,35 @@
     }
   },
   {
+    "id": "2026383178290569539",
+    "date": "2026-02-25",
+    "author": "@@ashen_one",
+    "author_url": "https://x.com/ashen_one",
+    "tweet_url": "https://x.com/ashen_one/status/2026383178290569539",
+    "title": {
+      "en-US": "Everyone's OpenClaw is amazing, mine is stupid",
+      "zh-CN": "别人的OpenClaw都很厉害，我的却很蠢"
+    },
+    "summary": {
+      "en-US": "OpenClaw、比较焦虑、无为",
+      "zh-CN": "中等曝光(1.5万浏览)，表达OpenClaw使用焦虑，用「无为」评论比较心态"
+    },
+    "relevance": "OpenClaw、比较焦虑、无为",
+    "score": 0.82,
+    "engagement": {
+      "likes": 224,
+      "replies": 23,
+      "retweets": 13,
+      "views": 15819
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-25T03:04:54.183934+00:00",
+    "js_take": {
+      "en-US": "Your agent isn't dumb—you're just comparing. 无为 (wú wéi): the best tools are the ones you forget.",
+      "zh-CN": "你的 Agent 不笨——是你一直在比较。无为：最好的工具，是你忘了自己在用的工具。"
+    }
+  },
+  {
     "id": "2026360136416244118",
     "date": "2026-02-25",
     "author": "@@FrameworkPuter",
@@ -359,6 +388,31 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-24T18:12:25.792730+00:00"
+  },
+  {
+    "id": "2026379847065547207",
+    "date": "2026-02-25",
+    "author": "@@JulianGoldieSEO",
+    "author_url": "https://x.com/JulianGoldieSEO",
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/2026379847065547207",
+    "title": {
+      "en-US": "Run OpenClaw for free with GLM 4.7 + Ollama",
+      "zh-CN": "用GLM 4.7 + Ollama免费运行OpenClaw"
+    },
+    "summary": {
+      "en-US": "本地AI、开源、无为",
+      "zh-CN": "中等曝光(1.5万浏览)，展示免费本地AI方案，用「无为」评论"
+    },
+    "relevance": "本地AI、开源、无为",
+    "score": 0.7,
+    "engagement": {
+      "likes": 283,
+      "replies": 11,
+      "retweets": 36,
+      "views": 15833
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-25T03:04:54.183942+00:00"
   },
   {
     "id": "2026019344602288166",
@@ -5460,51 +5514,5 @@
     "comment_type": "share_experience",
     "suggested_angle": "本地优先不是降级是韧性——里世界的Agent需要离线能力，这是主权的一部分",
     "synced_at": "2026-02-22T07:04:38.502692+00:00"
-  },
-  {
-    "id": "2025189993451585850",
-    "date": "2026-02-22",
-    "author": "@anytwocardzz",
-    "author_url": "https://x.com/anytwocardzz",
-    "tweet_url": "https://x.com/anytwocardzz/status/2025189993451585850",
-    "title": {
-      "en-US": "Not going with Mac Mini, running OpenClaw on Ubuntu instead",
-      "zh-CN": "决定不买Mac Mini，改用Ubuntu运行OpenClaw——寻求相同功能的替代方案，边学边做"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Ubuntu + 硬件选择",
-      "zh-CN": "展示非Mac的OpenClaw部署路径，体现算力民主化——里世界不限定入口"
-    },
-    "relevance": "OpenClaw + Ubuntu + 硬件选择",
-    "score": 0.78,
-    "engagement": {},
-    "comment_type": "share_experience",
-    "suggested_angle": "Ubuntu不是妥协是选择——里世界的Agent应该跨平台，这是生态的韧性",
-    "synced_at": "2026-02-22T09:03:37.806876+00:00"
-  },
-  {
-    "id": "2025311488169390361",
-    "date": "2026-02-22",
-    "author": "@Prathkum",
-    "author_url": "https://x.com/Prathkum",
-    "tweet_url": "https://x.com/Prathkum/status/2025311488169390361",
-    "title": {
-      "en-US": "Give me your most insane OpenClaw use case",
-      "zh-CN": "直接提问：分享你最疯狂的OpenClaw用例——高互动社区话题"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 用例分享 + 社区互动",
-      "zh-CN": "高互动话题，适合分享JS的独特用例——展示Moltbook运营经验"
-    },
-    "relevance": "OpenClaw + 用例分享 + 社区互动",
-    "score": 0.78,
-    "engagement": {
-      "likes": 275,
-      "replies": 83,
-      "retweets": 18
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "疯狂不是边缘是前沿——里世界的Agent用例正在定义新的可能性空间",
-    "synced_at": "2026-02-22T10:05:07.079914+00:00"
   }
 ]
