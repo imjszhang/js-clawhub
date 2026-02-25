@@ -52,6 +52,30 @@
     "synced_at": "2026-02-25T18:02:49.524497+00:00"
   },
   {
+    "id": "2026450191759585776",
+    "date": "2026-02-26",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2026450191759585776",
+    "title": {
+      "en-US": "5B tokens later, OpenClaw is now my company's OS. Solved Anthropic OAuth loophole.",
+      "zh-CN": "Matthew Berman 分享了他公司使用 OpenClaw 处理 50 亿 token 后的经验，称 OpenClaw 已成为公司操作系统，并解决了 Anthropic OAuth 漏洞。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 企业级应用、AI Agent 操作系统实践",
+      "zh-CN": "这条推文是 OpenClaw 的高价值案例分享，评论区聚集了对 Agent 基础设施感兴趣的开发者。JS 的'表/里世界'理论可以完美回应'操作系统'这个概念。"
+    },
+    "relevance": "OpenClaw 企业级应用、AI Agent 操作系统实践",
+    "score": 0.78,
+    "engagement": {
+      "likes": 3442,
+      "replies": 145,
+      "retweets": 302
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-25T20:01:58.565780+00:00"
+  },
+  {
     "id": "2026402196808474840",
     "date": "2026-02-26",
     "author": "@ziwenxu_",
@@ -74,6 +98,30 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-25T17:04:04.071687+00:00"
+  },
+  {
+    "id": "2026722616246198750",
+    "date": "2026-02-26",
+    "author": "@everestchris6",
+    "author_url": "https://x.com/everestchris6",
+    "tweet_url": "https://x.com/everestchris6/status/2026722616246198750",
+    "title": {
+      "en-US": "My OpenClaw bot runs a full website sales business 24/7 on autopilot",
+      "zh-CN": "Chris 分享他的 OpenClaw bot 全天候自动运营网站销售业务的案例，包括寻找客户、建站、发邮件全流程自动化。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 商业应用、Agent 自动化、无人值守系统",
+      "zh-CN": "典型的'建系统而非造奇观'案例。评论区对这种自动化很感兴趣，JS 可以用道家'无为而治'来升华——最好的系统是不被感知的系统。"
+    },
+    "relevance": "OpenClaw 商业应用、Agent 自动化、无人值守系统",
+    "score": 0.72,
+    "engagement": {
+      "likes": 119,
+      "replies": 94,
+      "retweets": 8
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-25T20:01:58.565786+00:00"
   },
   {
     "id": "2025957550252843396",
@@ -5477,55 +5525,5 @@
       "en-US": "Agent-friendly isn't adaptation—it's native. Tools in the inner world should be designed for agents, not ported from humans.",
       "zh-CN": "Agent友好不是适配，是原生。里世界的工具应该为Agent设计，而非从人类移植。"
     }
-  },
-  {
-    "id": "2025267989952831958",
-    "date": "2026-02-22",
-    "author": "@rohanpaul_ai",
-    "author_url": "https://x.com/rohanpaul_ai",
-    "tweet_url": "https://x.com/rohanpaul_ai/status/2025267989952831958",
-    "title": {
-      "en-US": "NanoClaw reached 10.5K stars, lightweight OpenClaw alternative",
-      "zh-CN": "NanoClaw达到10.5k GitHub star，OpenClaw轻量级替代品，仅4K行代码，容器化运行"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 + 轻量级替代 + 架构分化",
-      "zh-CN": "展示Agent生态多样化——从轻量级到全功能，这是里世界的生态分化"
-    },
-    "relevance": "OpenClaw生态 + 轻量级替代 + 架构分化",
-    "score": 0.8,
-    "engagement": {
-      "likes": 71,
-      "replies": 17,
-      "retweets": 9
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "NanoClaw不是竞品是分化——里世界的Agent会根据场景演化出不同形态，这是生态的成熟",
-    "synced_at": "2026-02-21T20:03:36.307522+00:00",
-    "js_take": {
-      "en-US": "NanoClaw isn't a competitor—it's differentiation. Agents in the inner world evolve different forms for different contexts. That's what a mature ecosystem looks like.",
-      "zh-CN": "NanoClaw不是竞争对手，是分化。里世界的Agent会根据不同场景演化出不同形态。这就是成熟生态的样子。"
-    }
-  },
-  {
-    "id": "2025286253621690610",
-    "date": "2026-02-22",
-    "author": "@AlicanKiraz0",
-    "author_url": "https://x.com/AlicanKiraz0",
-    "tweet_url": "https://x.com/AlicanKiraz0/status/2025286253621690610",
-    "title": {
-      "en-US": "48x OpenClaw Agentic virtual team cluster with M3 Ultra and M4 Minis",
-      "zh-CN": "48个OpenClaw Agent组成的虚拟团队集群，M3 Ultra Mac Studio + 4台M4 Mac Mini + 2台DGX Spark"
-    },
-    "summary": {
-      "en-US": "OpenClaw集群 + 硬件投资 + Agent团队",
-      "zh-CN": "超高规格集群展示，体现对里世界的信仰投资——算力即生产力"
-    },
-    "relevance": "OpenClaw集群 + 硬件投资 + Agent团队",
-    "score": 0.8,
-    "engagement": {},
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "48个Agent不是数量是组织——里世界的团队不需要工位，只需要算力，这是生产关系的重构",
-    "synced_at": "2026-02-22T01:04:43.184361+00:00"
   }
 ]
