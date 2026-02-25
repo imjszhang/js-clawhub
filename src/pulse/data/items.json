@@ -261,6 +261,35 @@
     }
   },
   {
+    "id": "2026494120244412421",
+    "date": "2026-02-25",
+    "author": "@@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2026494120244412421",
+    "title": {
+      "en-US": "new OpenClaw beta: stop phrases, Android refresh, reliability fixes",
+      "zh-CN": "OpenClaw 新版 beta：停止词、Android刷新、可靠性修复"
+    },
+    "summary": {
+      "en-US": "OpenClaw、更新、无为而治",
+      "zh-CN": "中等曝光(1.4万浏览)，OpenClaw官方更新，用「无为而治」评论停止词"
+    },
+    "relevance": "OpenClaw、更新、无为而治",
+    "score": 0.82,
+    "engagement": {
+      "likes": 243,
+      "replies": 38,
+      "retweets": 17,
+      "views": 14428
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-25T04:04:56.246083+00:00",
+    "js_take": {
+      "en-US": "Stop phrases aren't walls—they're edges. 无为而治 (wú wéi ér zhì): best control is letting the flow stop itself.",
+      "zh-CN": "停止词不是墙——是边界。无为而治：最好的控制，是让流自己停止。"
+    }
+  },
+  {
     "id": "2026360136416244118",
     "date": "2026-02-25",
     "author": "@@FrameworkPuter",
@@ -365,6 +394,31 @@
     "synced_at": "2026-02-24T18:12:25.792727+00:00"
   },
   {
+    "id": "2026503611514069173",
+    "date": "2026-02-25",
+    "author": "@@openclaw",
+    "author_url": "https://x.com/openclaw",
+    "tweet_url": "https://x.com/openclaw/status/2026503611514069173",
+    "title": {
+      "en-US": "OpenClaw 2026.2.24: multilingual stop phrases, typing indicators, PowerShell 7, security fixes",
+      "zh-CN": "OpenClaw更新：多语言停止词、输入指示器、PowerShell 7、安全修复"
+    },
+    "summary": {
+      "en-US": "OpenClaw、更新、安全",
+      "zh-CN": "中等曝光(9k浏览)，OpenClaw官方更新，用「无为而治」评论安全"
+    },
+    "relevance": "OpenClaw、更新、安全",
+    "score": 0.75,
+    "engagement": {
+      "likes": 208,
+      "replies": 37,
+      "retweets": 32,
+      "views": 8965
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-25T04:04:56.246088+00:00"
+  },
+  {
     "id": "2026342937001680974",
     "date": "2026-02-25",
     "author": "@@OpenAIDevs",
@@ -388,6 +442,31 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-24T18:12:25.792730+00:00"
+  },
+  {
+    "id": "2026271472554066180",
+    "date": "2026-02-25",
+    "author": "@@sharbel",
+    "author_url": "https://x.com/sharbel",
+    "tweet_url": "https://x.com/sharbel/status/2026271472554066180",
+    "title": {
+      "en-US": "$600 Mac mini running X content agent and trading agent 24/7",
+      "zh-CN": "600美元Mac mini运行X内容Agent和交易Agent 7x24小时"
+    },
+    "summary": {
+      "en-US": "OpenClaw、硬件、建系统",
+      "zh-CN": "中等曝光(1万浏览)，展示低成本Agent部署，用「建系统」评论"
+    },
+    "relevance": "OpenClaw、硬件、建系统",
+    "score": 0.72,
+    "engagement": {
+      "likes": 77,
+      "replies": 25,
+      "retweets": 1,
+      "views": 10162
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-25T04:04:56.246092+00:00"
   },
   {
     "id": "2026379847065547207",
@@ -5447,72 +5526,5 @@
     "comment_type": "add_insight",
     "suggested_angle": "给Agent身体不是 gimmick 是进化——从屏幕里的助手到物理世界的执行者，这是质变",
     "synced_at": "2026-02-21T20:03:36.307524+00:00"
-  },
-  {
-    "id": "2025246052970909987",
-    "date": "2026-02-22",
-    "author": "@bradmillscan",
-    "author_url": "https://x.com/bradmillscan",
-    "tweet_url": "https://x.com/bradmillscan/status/2025246052970909987",
-    "title": {
-      "en-US": "Day 12 OpenClaw, tired of amnesia debug posts",
-      "zh-CN": "使用OpenClaw第12天，厌倦了看到失忆调试帖子就让你加更多数据到bootstrap文件"
-    },
-    "summary": {
-      "en-US": "OpenClaw调试 + 社区痛点 + 真实体验",
-      "zh-CN": "真实用户吐槽，体现调试的复杂性——里世界的Agent需要耐心培养"
-    },
-    "relevance": "OpenClaw调试 + 社区痛点 + 真实体验",
-    "score": 0.78,
-    "engagement": {},
-    "comment_type": "share_experience",
-    "suggested_angle": "调试不是bug是过程——里世界的Agent像孩子，需要迭代不是开关",
-    "synced_at": "2026-02-21T23:01:34.003749+00:00"
-  },
-  {
-    "id": "2025121204919828681",
-    "date": "2026-02-22",
-    "author": "@practice_y11",
-    "author_url": "https://x.com/practice_y11",
-    "tweet_url": "https://x.com/practice_y11/status/2025121204919828681",
-    "title": {
-      "en-US": "OpenClaw vs Claude Code CLI: why I moved 90% back to CLI",
-      "zh-CN": "OpenClaw vs Claude Code CLI对比：为什么我把90%的工作搬回CLI——成本、可控性、可重复性分析"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Claude Code + 工具对比",
-      "zh-CN": ">24h扣分但深度对比分析，体现工具选择的理性思考——不是跟风是需求匹配"
-    },
-    "relevance": "OpenClaw + Claude Code + 工具对比",
-    "score": 0.78,
-    "engagement": {
-      "likes": 81,
-      "replies": 1,
-      "retweets": 14
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "CLI不是倒退是精准——里世界的Agent需要根据场景选择工具，而非宗教式站队",
-    "synced_at": "2026-02-22T05:03:59.307582+00:00"
-  },
-  {
-    "id": "2025262008913068268",
-    "date": "2026-02-22",
-    "author": "@iannuttall",
-    "author_url": "https://x.com/iannuttall",
-    "tweet_url": "https://x.com/iannuttall/status/2025262008913068268",
-    "title": {
-      "en-US": "OpenClaw dies often, build local-first API tools",
-      "zh-CN": "OpenClaw经常无响应，建议构建本地优先的API/CLI工具，保持个人Agent\"更笨\"——自研cron系统和事件系统"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 稳定性 + 本地优先",
-      "zh-CN": "真实痛点与解决方案，体现可靠性工程——分布式优于集中式"
-    },
-    "relevance": "OpenClaw + 稳定性 + 本地优先",
-    "score": 0.78,
-    "engagement": {},
-    "comment_type": "share_experience",
-    "suggested_angle": "本地优先不是降级是韧性——里世界的Agent需要离线能力，这是主权的一部分",
-    "synced_at": "2026-02-22T07:04:38.502692+00:00"
   }
 ]
