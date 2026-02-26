@@ -192,6 +192,35 @@
     }
   },
   {
+    "id": "2026591576903004385",
+    "date": "2026-02-26",
+    "author": "@FuSheng_0306",
+    "author_url": "https://x.com/FuSheng_0306",
+    "tweet_url": "https://x.com/FuSheng_0306/status/2026591576903004385",
+    "title": {
+      "en-US": "傅盛：APP时代要翻篇了，OpenClaw才是进化大脑",
+      "zh-CN": "傅盛宣称APP时代即将结束，认为OpenClaw代表的自主进化能力才是真正的降维打击。"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs App时代的范式转移，直接命中JS的核心洞察",
+      "zh-CN": "评论区必然充斥技术讨论和质疑声，一句道家\"无为而治\"的东方智慧回应\"进化大脑\"，反差极大。"
+    },
+    "relevance": "OpenClaw vs App时代的范式转移，直接命中JS的核心洞察",
+    "score": 0.82,
+    "engagement": {
+      "likes": 213,
+      "replies": 18,
+      "retweets": 46,
+      "views": 28744
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-26T04:03:09.647706+00:00",
+    "js_take": {
+      "en-US": "Fu Sheng says new brain. The Dao says new room. 表/里—you can't see the inside from the surface.",
+      "zh-CN": "傅盛说新脑，道家说新境。表/里——站在表面，看不见里面。"
+    }
+  },
+  {
     "id": "2026234204938436951",
     "date": "2026-02-26",
     "author": "@gokunocool",
@@ -262,6 +291,31 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-26T02:03:00.374414+00:00"
+  },
+  {
+    "id": "2026845606887538990",
+    "date": "2026-02-26",
+    "author": "@cryptopunk7213",
+    "author_url": "https://x.com/cryptopunk7213",
+    "tweet_url": "https://x.com/cryptopunk7213/status/2026845606887538990",
+    "title": {
+      "en-US": "OpenClaw生态爆发：perplexity/anthropic/picoclaw...",
+      "zh-CN": "盘点当前OpenClaw生态的各种变体：perplexity版、anthropic版、mini版、安全版、中文版、企业版。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态爆发，直接相关",
+      "zh-CN": "大家都在列举产品形态，一句\" Jarvis Law \"的东方版本会让技术从业者驻足。"
+    },
+    "relevance": "OpenClaw生态爆发，直接相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 250,
+      "replies": 18,
+      "retweets": 16,
+      "views": 20671
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-26T04:03:09.647712+00:00"
   },
   {
     "id": "2026726864325328961",
@@ -5325,61 +5379,5 @@
     },
     "comment_type": "share_experience",
     "synced_at": "2026-02-22T05:03:59.307580+00:00"
-  },
-  {
-    "id": "2025267524984783356",
-    "date": "2026-02-22",
-    "author": "@VibeMarketer_",
-    "author_url": "https://x.com/VibeMarketer_",
-    "tweet_url": "https://x.com/VibeMarketer_/status/2025267524984783356",
-    "title": {
-      "en-US": "My OpenClaw setup after 2 weeks iteration",
-      "zh-CN": "作者分享两周迭代后的OpenClaw配置：人格边界、身份定义、记忆系统、自主检查"
-    },
-    "summary": {
-      "en-US": "OpenClaw配置 + 系统搭建 + 最佳实践",
-      "zh-CN": "展示系统建设思维——不是装完即用，是持续迭代优化"
-    },
-    "relevance": "OpenClaw配置 + 系统搭建 + 最佳实践",
-    "score": 0.82,
-    "engagement": {
-      "likes": 76,
-      "replies": 2,
-      "retweets": 6
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-21T20:03:36.307519+00:00",
-    "js_take": {
-      "en-US": "Two weeks of iteration isn't slow—it's fast. Agents in the inner world need to be cultivated like children, not used like tools. The setup is the system.",
-      "zh-CN": "两周迭代不是慢，是快。里世界的Agent需要像养孩子一样培养，不是像工具一样使用。配置就是系统。"
-    }
-  },
-  {
-    "id": "2025224778878157232",
-    "date": "2026-02-22",
-    "author": "@thekitze",
-    "author_url": "https://x.com/thekitze",
-    "tweet_url": "https://x.com/thekitze/status/2025224778878157232",
-    "title": {
-      "en-US": "OpenClaw web search skill with 10 providers, consolidated output",
-      "zh-CN": "Tinkerer.club成员制作的OpenClaw网页搜索skill，使用10个不同搜索提供商，结构化输出结果"
-    },
-    "summary": {
-      "en-US": "OpenClaw Skill + 搜索聚合 + 社区贡献",
-      "zh-CN": "展示社区Skill生态，体现系统思维——不是单一来源是多元聚合"
-    },
-    "relevance": "OpenClaw Skill + 搜索聚合 + 社区贡献",
-    "score": 0.82,
-    "engagement": {
-      "likes": 82,
-      "replies": 10,
-      "retweets": 4
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-21T22:01:52.574597+00:00",
-    "js_take": {
-      "en-US": "Ten providers isn't redundancy—it's resilience. Search in the inner world needs to break through single information sources. That's cognitive diversity.",
-      "zh-CN": "十个提供商不是冗余，是韧性。里世界的搜索需要突破单一信息源。这就是认知的多样性。"
-    }
   }
 ]
