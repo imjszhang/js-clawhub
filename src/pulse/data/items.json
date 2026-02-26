@@ -28,6 +28,30 @@
     }
   },
   {
+    "id": "2026456587032998106",
+    "date": "2026-02-26",
+    "author": "@sodawhite_dev",
+    "author_url": "https://x.com/sodawhite_dev",
+    "tweet_url": "https://x.com/sodawhite_dev/status/2026456587032998106",
+    "title": {
+      "en-US": "Flask creator on OpenClaw minimal agent: just 4 tools (Read/Write/Edit/Bash)",
+      "zh-CN": "苏打白分享 Flask 开源大佬 Armin Ronacher 的博客，讨论为什么 OpenClaw 只需读、写、编辑、运行命令这四个工具就能做出爆款。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、极简 Agent、工具设计哲学",
+      "zh-CN": "关于'少即是多'的讨论，评论区探讨为什么简单工具能做复杂事。JS 的'无为而治'与此完美契合——最好的系统是做减法。"
+    },
+    "relevance": "OpenClaw、极简 Agent、工具设计哲学",
+    "score": 0.83,
+    "engagement": {
+      "likes": 158,
+      "replies": 16,
+      "retweets": 17
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-26T01:03:17.628292+00:00"
+  },
+  {
     "id": "2026678621545320623",
     "date": "2026-02-26",
     "author": "@testingcatalog",
@@ -226,6 +250,30 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-25T20:01:58.565786+00:00"
+  },
+  {
+    "id": "2026812659140600207",
+    "date": "2026-02-26",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2026812659140600207",
+    "title": {
+      "en-US": "Virus protection on ClawHub, scammers moved to comments",
+      "zh-CN": "Peter 分享 ClawHub 加强了病毒/恶意软件防护后，骗子转移到了评论区诈骗。"
+    },
+    "summary": {
+      "en-US": "ClawHub/OpenClaw 生态、安全攻防",
+      "zh-CN": "安全攻防的辩证话题，可以用'阴阳转化'来评论——防住了明处的恶意，恶意就转入暗处。"
+    },
+    "relevance": "ClawHub/OpenClaw 生态、安全攻防",
+    "score": 0.72,
+    "engagement": {
+      "likes": 342,
+      "replies": 39,
+      "retweets": 7
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-26T01:03:17.628299+00:00"
   },
   {
     "id": "2026447612187168878",
@@ -5453,64 +5501,6 @@
     "js_take": {
       "en-US": "Not touching the keyboard isn't laziness—it's design. Agents in the inner world need the owner's momentum input, then evolve on their own. That's wu wei governance.",
       "zh-CN": "不碰键盘不是懒惰，而是设计。里世界的Agent需要主人的势能输入，然后自行演化。这就是无为而治。"
-    }
-  },
-  {
-    "id": "2025496783904969119",
-    "date": "2026-02-22",
-    "author": "@PrajwalTomar_",
-    "author_url": "https://x.com/PrajwalTomar_",
-    "tweet_url": "https://x.com/PrajwalTomar_/status/2025496783904969119",
-    "title": {
-      "en-US": "Automated content process with OpenClaw - research, writing, scheduling 24/7",
-      "zh-CN": "用OpenClaw自动化整个内容流程：研究、写作、排期——全部24/7运行，考虑打包卖给创作者作为商业模式"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 内容自动化 + 商业模式",
-      "zh-CN": "展示OpenClaw在内容创作领域的完整工作流自动化和商业化思考"
-    },
-    "relevance": "OpenClaw + 内容自动化 + 商业模式",
-    "score": 0.82,
-    "engagement": {
-      "likes": 27,
-      "replies": 3,
-      "retweets": 6
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "24/7不是自动化是杠杆——里世界的Agent让个人拥有媒体公司的产能，这是生产关系的重构",
-    "synced_at": "2026-02-22T13:04:17.356598+00:00",
-    "js_take": {
-      "en-US": "24/7 isn't automation—it's leverage. Agents in the inner world give individuals media company capacity. That's restructuring production relations.",
-      "zh-CN": "全天候不是自动化，而是杠杆。里世界的Agent让个人拥有媒体公司的产能。这是生产关系的重构。"
-    }
-  },
-  {
-    "id": "2025561622274883770",
-    "date": "2026-02-22",
-    "author": "@the_smart_ape",
-    "author_url": "https://x.com/the_smart_ape",
-    "tweet_url": "https://x.com/the_smart_ape/status/2025561622274883770",
-    "title": {
-      "en-US": "Need proper loop infrastructure for long autonomous OpenClaw runs",
-      "zh-CN": "强调让OpenClaw长时间自主运行需要构建适当的循环基础设施——单个prompt只能工作一段时间"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 自主运行 + 循环架构",
-      "zh-CN": "技术深度帖，展示Agent长期自主运行的架构需求——从单次执行到永续运行"
-    },
-    "relevance": "OpenClaw + 自主运行 + 循环架构",
-    "score": 0.82,
-    "engagement": {
-      "likes": 12,
-      "replies": 4,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "循环不是重复是演化——里世界的Agent需要OADA循环（观察-定向-决策-行动），这是自主性的架构基础",
-    "synced_at": "2026-02-22T14:04:05.426315+00:00",
-    "js_take": {
-      "en-US": "Loops aren't repetition—it's evolution. Agents in the inner world need OADA cycles: Observe, Orient, Decide, Act. That's the architecture of autonomy.",
-      "zh-CN": "循环不是重复，而是演化。里世界的Agent需要OADA循环：观察、定向、决策、行动。这就是自主性的架构。"
     }
   }
 ]
