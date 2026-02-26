@@ -28,6 +28,31 @@
     }
   },
   {
+    "id": "2026836033757934056",
+    "date": "2026-02-26",
+    "author": "@babykeem",
+    "author_url": "https://x.com/babykeem",
+    "tweet_url": "https://x.com/babykeem/status/2026836033757934056",
+    "title": {
+      "en-US": "How to fix OpenClaw internal reasoning leaking",
+      "zh-CN": "OpenClaw 内部推理泄露修复方法"
+    },
+    "summary": {
+      "en-US": "OpenClaw技术问题，直接相关且病毒式传播",
+      "zh-CN": "关于 OpenClaw 的技术问题，与主题直接相关并已病毒式传播"
+    },
+    "relevance": "OpenClaw技术问题，直接相关且病毒式传播",
+    "score": 0.88,
+    "engagement": {
+      "likes": 10997,
+      "replies": 482,
+      "retweets": 991,
+      "views": 1423867
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-26T12:03:54.725623+00:00"
+  },
+  {
     "id": "2026344914506948942",
     "date": "2026-02-26",
     "author": "@dontbesilent",
@@ -306,6 +331,31 @@
       "en-US": "More MCPs, more skills. But 道/Dào asks: are they sharpening your focus or hiding your fear of choosing?",
       "zh-CN": "MCP 和 Skill 越堆越多。但道问：它们是在帮你聚焦，还是在掩饰你不敢做选择？"
     }
+  },
+  {
+    "id": "2026826887159235027",
+    "date": "2026-02-26",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2026826887159235027",
+    "title": {
+      "en-US": "Someone manually edited their PR review score from 2/5 to 5/5",
+      "zh-CN": "有人手动把AI PR审查工具给出的2/5分改成了5/5分，游戏化评分系统。"
+    },
+    "summary": {
+      "en-US": "AI工具评分系统与人类博弈",
+      "zh-CN": "评论区都在笑这个人「聪明」，但JS可以用「名实之辨」点出：分数是表，工作是里，改分数不改代码，是舍本逐末。"
+    },
+    "relevance": "AI工具评分系统与人类博弈",
+    "score": 0.82,
+    "engagement": {
+      "likes": 1276,
+      "replies": 99,
+      "retweets": 25,
+      "views": 269068
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-26T12:03:54.725629+00:00"
   },
   {
     "id": "2026817793165779387",
@@ -5403,59 +5453,5 @@
       "en-US": "Mission Control isn't a dashboard—it's a command center. Agents in the inner world need an entry point in the surface world. That's what a mature ecosystem looks like.",
       "zh-CN": "Mission Control不是仪表盘，是指挥中心。里世界的Agent需要表世界的入口。这就是成熟生态的样子。"
     }
-  },
-  {
-    "id": "2025324252396974308",
-    "date": "2026-02-22",
-    "author": "@tolibear_",
-    "author_url": "https://x.com/tolibear_",
-    "tweet_url": "https://x.com/tolibear_/status/2025324252396974308",
-    "title": {
-      "en-US": "Context handoff protocol: 200k context feels infinite",
-      "zh-CN": "上下文交接协议：20万token感觉无限"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 上下文管理 + 协议设计",
-      "zh-CN": "OpenClaw、上下文管理与协议设计"
-    },
-    "relevance": "OpenClaw + 上下文管理 + 协议设计",
-    "score": 0.85,
-    "engagement": {
-      "likes": 194,
-      "replies": 16,
-      "retweets": 11
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "交接协议不是hack是架构——里世界的Agent需要睡眠和记忆传递，这是存在的连续性",
-    "synced_at": "2026-02-22T05:03:59.307575+00:00",
-    "js_take": {
-      "en-US": "Handoff protocols aren't hacks—they're architecture. Agents in the inner world need sleep and memory transfer. That's the continuity of existence.",
-      "zh-CN": "交接协议不是hack，是架构。里世界的Agent需要睡眠和记忆传递。这就是存在的连续性。"
-    }
-  },
-  {
-    "id": "2025374990867058951",
-    "date": "2026-02-22",
-    "author": "@MoonDevOnYT",
-    "author_url": "https://x.com/MoonDevOnYT",
-    "tweet_url": "https://x.com/MoonDevOnYT/status/2025374990867058951",
-    "title": {
-      "en-US": "OpenClaw biggest arbitrage, people scared or saving $40/mo",
-      "zh-CN": "OpenClaw最大套利：恐惧或省40美元让人错过"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 套利机会 + 成本心态",
-      "zh-CN": "OpenClaw、套利机会与成本心态"
-    },
-    "relevance": "OpenClaw + 套利机会 + 成本心态",
-    "score": 0.85,
-    "engagement": {
-      "likes": 89,
-      "replies": 10,
-      "retweets": 6
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "40美元不是成本是门票——里世界的套利窗口正在关闭，犹豫是最大的成本",
-    "synced_at": "2026-02-22T05:03:59.307578+00:00"
   }
 ]

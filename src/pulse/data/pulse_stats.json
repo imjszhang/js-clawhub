@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-26T11:03:59.721983+00:00",
+  "updated_at": "2026-02-26T12:04:25.629823+00:00",
   "this_week": {
-    "total_items": 174,
+    "total_items": 176,
     "avg_score": 0.8,
-    "unique_authors": 142,
+    "unique_authors": 143,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -236,6 +236,31 @@
           "en-US": "Agent destroys stuff to protect stuff. 无为/wú wéi — the harder you grip, the more slips away.",
           "zh-CN": "Agent为了保护信息反而毁了服务器。无为(wú wéi)——握得越紧，失去越多。"
         }
+      },
+      {
+        "id": "2026836033757934056",
+        "date": "2026-02-26",
+        "author": "@babykeem",
+        "author_url": "https://x.com/babykeem",
+        "tweet_url": "https://x.com/babykeem/status/2026836033757934056",
+        "title": {
+          "en-US": "How to fix OpenClaw internal reasoning leaking",
+          "zh-CN": "OpenClaw 内部推理泄露修复方法"
+        },
+        "summary": {
+          "en-US": "OpenClaw技术问题，直接相关且病毒式传播",
+          "zh-CN": "关于 OpenClaw 的技术问题，与主题直接相关并已病毒式传播"
+        },
+        "relevance": "OpenClaw技术问题，直接相关且病毒式传播",
+        "score": 0.88,
+        "engagement": {
+          "likes": 10997,
+          "replies": 482,
+          "retweets": 991,
+          "views": 1423867
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-02-26T12:03:54.725623+00:00"
       },
       {
         "id": "2026069588556005645",
@@ -1017,36 +1042,11 @@
           "en-US": "Claude for code, small models for text. Not cheap—just 无为 (wú wéi). Heavy where it matters, light where it flows.",
           "zh-CN": "写代码用 Claude，处理文本用小模型。不是图省钱——是无为（wú wéi）。该重则重，该轻则轻。"
         }
-      },
-      {
-        "id": "2026184890748915933",
-        "date": "2026-02-24",
-        "author": "@@ai_for_success",
-        "author_url": "https://x.com/ai_for_success",
-        "tweet_url": "https://x.com/ai_for_success/status/2026184890748915933",
-        "title": {
-          "en-US": "Remember her before giving OpenClaw full access",
-          "zh-CN": "给 OpenClaw 完整权限前，请记住她"
-        },
-        "summary": {
-          "en-US": "OpenClaw、安全、无为而治",
-          "zh-CN": "OpenClaw、安全、无为而治"
-        },
-        "relevance": "OpenClaw、安全、无为而治",
-        "score": 0.85,
-        "engagement": {
-          "likes": 140,
-          "replies": 18,
-          "retweets": 6,
-          "views": 33250
-        },
-        "comment_type": "wisdom_drop",
-        "synced_at": "2026-02-24T14:06:53.376689+00:00"
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 159
+    "unique_authors": 158
   }
 }
