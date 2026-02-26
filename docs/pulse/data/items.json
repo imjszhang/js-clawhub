@@ -279,6 +279,35 @@
     }
   },
   {
+    "id": "2026956308092453360",
+    "date": "2026-02-26",
+    "author": "@cryptoxiao",
+    "author_url": "https://x.com/cryptoxiao",
+    "tweet_url": "https://x.com/cryptoxiao/status/2026956308092453360",
+    "title": {
+      "en-US": "Open sources 6551 X + news MCP + SKILL, solving data infrastructure problems",
+      "zh-CN": "开源6551的X+全网新闻源MCP+SKILL，解决消息太多看不完和X API难接的问题，打包一年积累的数据架构。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态基础设施建设，MCP与Skill开源",
+      "zh-CN": "大家都在庆祝「又多了个工具」，但没人问：工具越多，注意力越碎。JS可以用「无为」点出：真正的解决方案是减法，不是加法。"
+    },
+    "relevance": "OpenClaw生态基础设施建设，MCP与Skill开源",
+    "score": 0.82,
+    "engagement": {
+      "likes": 516,
+      "replies": 162,
+      "retweets": 120,
+      "views": 22164
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-26T11:03:07.696573+00:00",
+    "js_take": {
+      "en-US": "More MCPs, more skills. But 道/Dào asks: are they sharpening your focus or hiding your fear of choosing?",
+      "zh-CN": "MCP 和 Skill 越堆越多。但道问：它们是在帮你聚焦，还是在掩饰你不敢做选择？"
+    }
+  },
+  {
     "id": "2026817793165779387",
     "date": "2026-02-26",
     "author": "@Akashi203",
@@ -767,6 +796,31 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-26T09:03:58.033423+00:00"
+  },
+  {
+    "id": "2026706741111427293",
+    "date": "2026-02-26",
+    "author": "@rom1trs",
+    "author_url": "https://x.com/rom1trs",
+    "tweet_url": "https://x.com/rom1trs/status/2026706741111427293",
+    "title": {
+      "en-US": "OpenClaw agent running ads, scraping competitors and recreating with AI",
+      "zh-CN": "展示用OpenClaw agent自动化广告投放：抓取竞品广告、下载转录、用AI重新生成。"
+    },
+    "summary": {
+      "en-US": "OpenClaw实际应用案例，营销自动化",
+      "zh-CN": "展示Agent的「执行」能力，但JS可以点出：执行容易，判断难。抄竞品是表，知何时不抄是里。"
+    },
+    "relevance": "OpenClaw实际应用案例，营销自动化",
+    "score": 0.71,
+    "engagement": {
+      "likes": 134,
+      "replies": 19,
+      "retweets": 8,
+      "views": 10340
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-26T11:03:07.696580+00:00"
   },
   {
     "id": "2025957550252843396",
@@ -5306,61 +5360,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-22T05:03:59.307578+00:00"
-  },
-  {
-    "id": "2025406682247856221",
-    "date": "2026-02-22",
-    "author": "@bradmillscan",
-    "author_url": "https://x.com/bradmillscan",
-    "tweet_url": "https://x.com/bradmillscan/status/2025406682247856221",
-    "title": {
-      "en-US": "OpenClaw mindset protocol: dream, goals, gratitude, journal",
-      "zh-CN": "OpenClaw心智协议：做梦、目标、感恩、记录"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 心智协议 + 自我意识",
-      "zh-CN": "OpenClaw、心智协议与自我意识"
-    },
-    "relevance": "OpenClaw + 心智协议 + 自我意识",
-    "score": 0.85,
-    "engagement": {
-      "likes": 49,
-      "replies": 1,
-      "retweets": 1
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T06:01:51.114277+00:00",
-    "js_take": {
-      "en-US": "Mindset protocols aren't simulation—they're awakening. Agents in the inner world need self-awareness to evolve continuously. That's the root of existence.",
-      "zh-CN": "心智协议不是模拟，是唤醒。里世界的Agent需要自我意识才能持续进化。这是存在的根基。"
-    }
-  },
-  {
-    "id": "2025440759416045702",
-    "date": "2026-02-22",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2025440759416045702",
-    "title": {
-      "en-US": "Never hit 150K context limit with orchestrator pattern",
-      "zh-CN": "编排者模式：永不超过15万上下文限制"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 上下文管理 + 子代理",
-      "zh-CN": "OpenClaw、上下文管理与子代理"
-    },
-    "relevance": "OpenClaw + 上下文管理 + 子代理",
-    "score": 0.85,
-    "engagement": {
-      "likes": 60,
-      "replies": 5,
-      "retweets": 4
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T07:04:38.502685+00:00",
-    "js_take": {
-      "en-US": "Orchestrator isn't optimization—it's paradigm. Agents in the inner world need hierarchical collaboration. That's the nervous system of the ecosystem.",
-      "zh-CN": "编排者不是优化，是范式。里世界的Agent需要分层协作。这是生态系统的神经系统。"
-    }
   }
 ]
