@@ -358,6 +358,35 @@
     "synced_at": "2026-02-26T12:03:54.725629+00:00"
   },
   {
+    "id": "2026474687576916024",
+    "date": "2026-02-26",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2026474687576916024",
+    "title": {
+      "en-US": "OpenClaw 3 months anniversary, 839 contributors",
+      "zh-CN": "OpenClaw成立3个月纪念日，感谢839位贡献者，项目从Whatsapp relay发展而来。"
+    },
+    "summary": {
+      "en-US": "OpenClaw里程碑庆祝，社区建设",
+      "zh-CN": "高热度社区帖，评论区充满感恩和回顾，JS可以用「势」的概念点出：不是努力造就成功，是顺势而为让努力有了结果。"
+    },
+    "relevance": "OpenClaw里程碑庆祝，社区建设",
+    "score": 0.81,
+    "engagement": {
+      "likes": 3945,
+      "replies": 231,
+      "retweets": 197,
+      "views": 143815
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-26T13:07:44.015028+00:00",
+    "js_take": {
+      "en-US": "839 builders in 3 months. Relay to ecosystem—not effort, just 势/shì.",
+      "zh-CN": "839 builders in 3 months. Relay to ecosystem—not effort, just 势/shì."
+    }
+  },
+  {
     "id": "2026817793165779387",
     "date": "2026-02-26",
     "author": "@Akashi203",
@@ -603,6 +632,31 @@
     "synced_at": "2026-02-26T09:03:58.033420+00:00"
   },
   {
+    "id": "2026841300587479289",
+    "date": "2026-02-26",
+    "author": "@omooretweets",
+    "author_url": "https://x.com/omooretweets",
+    "tweet_url": "https://x.com/omooretweets/status/2026841300587479289",
+    "title": {
+      "en-US": "Gave OpenClaw agent premium X account to build audience, learned about capabilities",
+      "zh-CN": "给OpenClaw agent一个高级X账号和API密钥，让它自己建立受众，从中学习agent的能力和限制。"
+    },
+    "summary": {
+      "en-US": "OpenClaw实际应用实验，社交媒体自动化",
+      "zh-CN": "讨论agent「建立受众」的能力，但JS可以点出：agent能模仿人说话，但「势」是人心向背，这不是算法能算的。"
+    },
+    "relevance": "OpenClaw实际应用实验，社交媒体自动化",
+    "score": 0.76,
+    "engagement": {
+      "likes": 182,
+      "replies": 23,
+      "retweets": 12,
+      "views": 31739
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-26T13:07:44.015035+00:00"
+  },
+  {
     "id": "2026749752042467345",
     "date": "2026-02-26",
     "author": "@fahdmirza",
@@ -772,6 +826,31 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-26T01:03:17.628299+00:00"
+  },
+  {
+    "id": "2026653436482302428",
+    "date": "2026-02-26",
+    "author": "@Jacobsklug",
+    "author_url": "https://x.com/Jacobsklug",
+    "tweet_url": "https://x.com/Jacobsklug/status/2026653436482302428",
+    "title": {
+      "en-US": "Weeks building perfect OpenClaw setup, sharing architecture",
+      "zh-CN": "花数周时间构建完美的OpenClaw设置，分享个人操作系统背后的架构供他人借鉴。"
+    },
+    "summary": {
+      "en-US": "OpenClaw架构分享，个人系统建设",
+      "zh-CN": "典型的「建奇观」叙事，花数周打磨架构。JS可以用「无为」对比：最好的系统不是建出来的，是长出来的。"
+    },
+    "relevance": "OpenClaw架构分享，个人系统建设",
+    "score": 0.72,
+    "engagement": {
+      "likes": 174,
+      "replies": 12,
+      "retweets": 11,
+      "views": 19909
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-26T13:07:44.015038+00:00"
   },
   {
     "id": "2026447612187168878",
@@ -5277,86 +5356,6 @@
     "js_take": {
       "en-US": "10 lockdowns aren't overkill—they're essential. Agents in the inner world need security boundaries. That's the foundation of trust.",
       "zh-CN": "10项锁定不是过度防范，是必需。里世界的Agent需要安全边界。这是信任的基石。"
-    }
-  },
-  {
-    "id": "2025235535183184110",
-    "date": "2026-02-22",
-    "author": "@jtrader",
-    "author_url": "https://x.com/jtrader",
-    "tweet_url": "https://x.com/jtrader/status/2025235535183184110",
-    "title": {
-      "en-US": "$100 + laptop with OpenClaw to million dollar business",
-      "zh-CN": "100美元+OpenClaw打造百万美元企业"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 创业 + 低成本启动",
-      "zh-CN": "OpenClaw、创业与低成本启动"
-    },
-    "relevance": "OpenClaw + 创业 + 低成本启动",
-    "score": 0.86,
-    "engagement": {},
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T07:04:38.502682+00:00",
-    "js_take": {
-      "en-US": "$100 isn't a starting point—it's leverage. Agents in the inner world make startup barriers disappear. Compute is capital.",
-      "zh-CN": "100美元不是起点，是杠杆。里世界的Agent让创业门槛消失。算力即资本。"
-    }
-  },
-  {
-    "id": "2025495110490763545",
-    "date": "2026-02-22",
-    "author": "@EthanHe_42",
-    "author_url": "https://x.com/EthanHe_42",
-    "tweet_url": "https://x.com/EthanHe_42/status/2025495110490763545",
-    "title": {
-      "en-US": "First weekend with OpenClaw, skeptical but impressed",
-      "zh-CN": "首个周末体验OpenClaw：从怀疑到认可"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 首次体验 + 认知转变",
-      "zh-CN": "OpenClaw、首次体验与认知转变"
-    },
-    "relevance": "OpenClaw + 首次体验 + 认知转变",
-    "score": 0.86,
-    "engagement": {
-      "likes": 127,
-      "replies": 20,
-      "retweets": 5
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-22T10:05:07.079908+00:00",
-    "js_take": {
-      "en-US": "From skeptic to believer is the rite of passage into the inner world. OpenClaw isn't a pile of features—it's a migration of existence.",
-      "zh-CN": "从怀疑到认可是进入里世界的入门仪式。OpenClaw不是功能的堆砌——它是存在方式的迁移。"
-    }
-  },
-  {
-    "id": "2025296354751418874",
-    "date": "2026-02-22",
-    "author": "@JulianGoldieSEO",
-    "author_url": "https://x.com/JulianGoldieSEO",
-    "tweet_url": "https://x.com/JulianGoldieSEO/status/2025296354751418874",
-    "title": {
-      "en-US": "OpenClaw Mission Control: dashboard, Kanban, agent chat, real-time approval",
-      "zh-CN": "OpenClaw Mission Control：仪表盘、看板、Agent对话、实时批准"
-    },
-    "summary": {
-      "en-US": "OpenClaw新功能 + 多Agent管理 + 控制中心",
-      "zh-CN": "OpenClaw新功能、多Agent管理与控制中心"
-    },
-    "relevance": "OpenClaw新功能 + 多Agent管理 + 控制中心",
-    "score": 0.85,
-    "engagement": {
-      "likes": 39,
-      "replies": 3,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-21T22:01:52.574594+00:00",
-    "js_take": {
-      "en-US": "Mission Control isn't a dashboard—it's a command center. Agents in the inner world need an entry point in the surface world. That's what a mature ecosystem looks like.",
-      "zh-CN": "Mission Control不是仪表盘，是指挥中心。里世界的Agent需要表世界的入口。这就是成熟生态的样子。"
     }
   }
 ]
