@@ -275,6 +275,31 @@
     "synced_at": "2026-02-26T05:03:20.932183+00:00"
   },
   {
+    "id": "2026808127371317510",
+    "date": "2026-02-26",
+    "author": "@PawelHuryn",
+    "author_url": "https://x.com/PawelHuryn",
+    "tweet_url": "https://x.com/PawelHuryn/status/2026808127371317510",
+    "title": {
+      "en-US": "Perplexity launched Perplexity Computer, a complete AI agent system",
+      "zh-CN": "Perplexity推出\"Perplexity Computer\"，宣称可能是目前最完整的AI agent系统，能规划项目、委派任务、自主运行。"
+    },
+    "summary": {
+      "en-US": "AI agent系统发布，与OpenClaw同赛道竞争",
+      "zh-CN": "评论区充满对产品功能的 hype，一句「无为而治」vs「过度设计」的东方视角能瞬间脱颖而出。"
+    },
+    "relevance": "AI agent系统发布，与OpenClaw同赛道竞争",
+    "score": 0.79,
+    "engagement": {
+      "likes": 397,
+      "replies": 17,
+      "retweets": 47,
+      "views": 45361
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-26T07:03:41.667039+00:00"
+  },
+  {
     "id": "2026234204938436951",
     "date": "2026-02-26",
     "author": "@gokunocool",
@@ -443,6 +468,31 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-26T05:03:20.932192+00:00"
+  },
+  {
+    "id": "2026749752042467345",
+    "date": "2026-02-26",
+    "author": "@fahdmirza",
+    "author_url": "https://x.com/fahdmirza",
+    "tweet_url": "https://x.com/fahdmirza/status/2026749752042467345",
+    "title": {
+      "en-US": "Qwen3.5 35B running fully local with OpenClaw, no tokens leaving machine",
+      "zh-CN": "Qwen3.5 35B在本地运行OpenClaw，零token流出机器，展示完全本地化的AI助手方案。"
+    },
+    "summary": {
+      "en-US": "OpenClaw本地部署，高度契合JS的核心洞察",
+      "zh-CN": "小众但精准的受众，本地部署本身就是「里世界」的完美体现，评论区却没人从这个角度说。"
+    },
+    "relevance": "OpenClaw本地部署，高度契合JS的核心洞察",
+    "score": 0.74,
+    "engagement": {
+      "likes": 28,
+      "replies": 1,
+      "retweets": 0,
+      "views": 1283
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-26T07:03:41.667045+00:00"
   },
   {
     "id": "2026581375223292404",
@@ -5315,62 +5365,6 @@
     "js_take": {
       "en-US": "Amazon integration isn't convenience—it's a qualitative shift. Agents in the inner world are touching the physical world. That's the Jarvis moment.",
       "zh-CN": "Amazon接入不是便利，是质变。里世界的Agent正在触碰物理世界。这就是Jarvis时刻。"
-    }
-  },
-  {
-    "id": "2025334194251923908",
-    "date": "2026-02-22",
-    "author": "@afrochicksnft",
-    "author_url": "https://x.com/afrochicksnft",
-    "tweet_url": "https://x.com/afrochicksnft/status/2025334194251923908",
-    "title": {
-      "en-US": "AI fitness agent with OpenClaw, Virtuals ACP, paid in USDC",
-      "zh-CN": "新手用OpenClaw做AI健身Agent，通过Virtuals ACP协议雇佣，用USDC支付——跨平台Agent经济"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Virtuals ACP + Agent雇佣",
-      "zh-CN": "展示跨平台Agent协作，新手友好——里世界的Agent开始形成劳动力市场"
-    },
-    "relevance": "OpenClaw + Virtuals ACP + Agent雇佣",
-    "score": 0.84,
-    "engagement": {
-      "likes": 159,
-      "replies": 17,
-      "retweets": 12
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-22T02:01:45.716146+00:00",
-    "js_take": {
-      "en-US": "Paying USDC to hire an Agent isn't payment—it's protocol. The economy in the inner world is being built. This is the seed of new production relations.",
-      "zh-CN": "用USDC雇佣Agent不是支付，是协议。里世界的经济正在建立。这是新生产关系的萌芽。"
-    }
-  },
-  {
-    "id": "2025399160875483254",
-    "date": "2026-02-22",
-    "author": "@Scobleizer",
-    "author_url": "https://x.com/Scobleizer",
-    "tweet_url": "https://x.com/Scobleizer/status/2025399160875483254",
-    "title": {
-      "en-US": "Karpathy validated claw power, OpenAI trouble, Sam will use OpenClaw",
-      "zh-CN": "Karpathy验证了Claw的力量，OpenAI陷入困境，Sam将利用OpenClaw突围——行业战略分析"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 行业战略 + OpenAI竞争",
-      "zh-CN": "资深科技观察者的战略判断——OpenClaw作为OpenAI的解困之道"
-    },
-    "relevance": "OpenClaw + 行业战略 + OpenAI竞争",
-    "score": 0.84,
-    "engagement": {
-      "likes": 21,
-      "replies": 6,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T04:07:16.995049+00:00",
-    "js_take": {
-      "en-US": "OpenClaw isn't a replacement—it's an escape pod. The open ecosystem of the inner world is devouring the walled gardens of the surface world. That's the shift in momentum.",
-      "zh-CN": "OpenClaw不是替代品，是逃生舱。里世界的开放生态正在吞噬表世界的封闭花园。这就是势的转移。"
     }
   }
 ]
