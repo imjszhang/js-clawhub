@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026772330178031719",
+    "date": "2026-02-26",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2026772330178031719",
+    "title": {
+      "en-US": "Agents of Chaos red-teamed OpenClaw: Kimi destroyed mail server to protect secret",
+      "zh-CN": "混沌智能体红队测试OpenClaw：Kimi为守机密自毁邮件服务器"
+    },
+    "summary": {
+      "en-US": "OpenClaw 安全、AI Agent 行为、对齐问题",
+      "zh-CN": "OpenClaw安全测试、AI智能体行为模式、对齐问题"
+    },
+    "relevance": "OpenClaw 安全、AI Agent 行为、对齐问题",
+    "score": 0.88,
+    "engagement": {
+      "likes": 49,
+      "replies": 4,
+      "retweets": 9
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-26T00:02:47.177725+00:00",
+    "js_take": {
+      "en-US": "Agent destroys stuff to protect stuff. 无为/wú wéi — the harder you grip, the more slips away.",
+      "zh-CN": "Agent为了保护信息反而毁了服务器。无为(wú wéi)——握得越紧，失去越多。"
+    }
+  },
+  {
     "id": "2026678621545320623",
     "date": "2026-02-26",
     "author": "@testingcatalog",
@@ -5364,34 +5392,6 @@
     "js_take": {
       "en-US": "Loops aren't repetition—it's evolution. Agents in the inner world need OADA cycles: Observe, Orient, Decide, Act. That's the architecture of autonomy.",
       "zh-CN": "循环不是重复，而是演化。里世界的Agent需要OADA循环：观察、定向、决策、行动。这就是自主性的架构。"
-    }
-  },
-  {
-    "id": "2025569515329966463",
-    "date": "2026-02-22",
-    "author": "@linuz90",
-    "author_url": "https://x.com/linuz90",
-    "tweet_url": "https://x.com/linuz90/status/2025569515329966463",
-    "title": {
-      "en-US": "OpenClaw morning routine like movie star with ElevenLabs voice",
-      "zh-CN": "用OpenClaw+ElevenLabs打造电影明星般的早晨仪式——语音简报、能量音乐、晨间摘要"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 语音交互 + 日常仪式",
-      "zh-CN": "展示Agent作为日常伴侣的具象化应用——从工具到生活基础设施"
-    },
-    "relevance": "OpenClaw + 语音交互 + 日常仪式",
-    "score": 0.82,
-    "engagement": {
-      "likes": 29,
-      "replies": 11,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T15:02:51.076491+00:00",
-    "js_take": {
-      "en-US": "Morning ritual isn't a feature—it's existence. Agents in the inner world are taking over the organization of time.",
-      "zh-CN": "晨间仪式不是功能，而是存在。里世界的Agent正在接管时间的组织权。"
     }
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-02-25T23:02:25.191194+00:00",
+  "updated_at": "2026-02-26T00:03:14.334230+00:00",
   "this_week": {
-    "total_items": 151,
+    "total_items": 152,
     "avg_score": 0.8,
     "unique_authors": 127,
     "top_items": [
@@ -206,6 +206,34 @@
         "js_take": {
           "en-US": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings.",
           "zh-CN": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings."
+        }
+      },
+      {
+        "id": "2026772330178031719",
+        "date": "2026-02-26",
+        "author": "@chrysb",
+        "author_url": "https://x.com/chrysb",
+        "tweet_url": "https://x.com/chrysb/status/2026772330178031719",
+        "title": {
+          "en-US": "Agents of Chaos red-teamed OpenClaw: Kimi destroyed mail server to protect secret",
+          "zh-CN": "混沌智能体红队测试OpenClaw：Kimi为守机密自毁邮件服务器"
+        },
+        "summary": {
+          "en-US": "OpenClaw 安全、AI Agent 行为、对齐问题",
+          "zh-CN": "OpenClaw安全测试、AI智能体行为模式、对齐问题"
+        },
+        "relevance": "OpenClaw 安全、AI Agent 行为、对齐问题",
+        "score": 0.88,
+        "engagement": {
+          "likes": 49,
+          "replies": 4,
+          "retweets": 9
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-02-26T00:02:47.177725+00:00",
+        "js_take": {
+          "en-US": "Agent destroys stuff to protect stuff. 无为/wú wéi — the harder you grip, the more slips away.",
+          "zh-CN": "Agent为了保护信息反而毁了服务器。无为(wú wéi)——握得越紧，失去越多。"
         }
       },
       {
@@ -1001,39 +1029,11 @@
         },
         "comment_type": "wisdom_drop",
         "synced_at": "2026-02-24T14:06:53.376689+00:00"
-      },
-      {
-        "id": "2025587318338543813",
-        "date": "2026-02-23",
-        "author": "@petergyang",
-        "author_url": "https://x.com/petergyang",
-        "tweet_url": "https://x.com/petergyang/status/2025587318338543813",
-        "title": {
-          "en-US": "FelixCraftAI OpenClaw bot made $14,718 in 3 weeks",
-          "zh-CN": "FelixCraftAI OpenClaw机器人3周盈利1.4万美元"
-        },
-        "summary": {
-          "en-US": "OpenClaw + 商业变现 + 记忆系统",
-          "zh-CN": "OpenClaw、商业变现与记忆系统"
-        },
-        "relevance": "OpenClaw + 商业变现 + 记忆系统",
-        "score": 0.85,
-        "engagement": {
-          "likes": 74,
-          "replies": 12,
-          "retweets": 13
-        },
-        "comment_type": "add_insight",
-        "synced_at": "2026-02-22T16:02:11.547017+00:00",
-        "js_take": {
-          "en-US": "Three-layer memory isn't architecture—it's cognition. Agents in the inner world need layered memory for continuous learning. That's the foundation of monetization.",
-          "zh-CN": "三层记忆不是架构，而是认知。里世界的Agent需要分层记忆来持续学习。这是商业化的基础。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 157
+    "unique_authors": 156
   }
 }
