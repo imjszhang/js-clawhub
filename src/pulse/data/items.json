@@ -495,6 +495,31 @@
     "synced_at": "2026-02-26T07:03:41.667045+00:00"
   },
   {
+    "id": "2026840140392403023",
+    "date": "2026-02-26",
+    "author": "@twistartups",
+    "author_url": "https://x.com/twistartups",
+    "tweet_url": "https://x.com/twistartups/status/2026840140392403023",
+    "title": {
+      "en-US": "OpenClaw device smaller than iPhone on raspberry pi",
+      "zh-CN": "有人做出了比iPhone还小的OpenClaw设备，基于树莓派，讨论随身AI agent的未来。"
+    },
+    "summary": {
+      "en-US": "OpenClaw硬件化，直接相关",
+      "zh-CN": "讨论Agent随身化，正是JS「表/里世界」理论的最佳注脚，评论区却没人从这个维度说。"
+    },
+    "relevance": "OpenClaw硬件化，直接相关",
+    "score": 0.74,
+    "engagement": {
+      "likes": 21,
+      "replies": 3,
+      "retweets": 2,
+      "views": 1550
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-26T08:03:38.041670+00:00"
+  },
+  {
     "id": "2026581375223292404",
     "date": "2026-02-26",
     "author": "@LufzzLiz",
@@ -5439,35 +5464,6 @@
     "js_take": {
       "en-US": "One message to a complete video isn't magic—it's a system. Agents in the inner world are becoming content factories. The pipeline from intent to output is now seamless.",
       "zh-CN": "一条消息到完整视频不是魔法，是系统。里世界的Agent正在成为内容工厂。从意图到输出的管道现在是无缝的。"
-    }
-  },
-  {
-    "id": "2025338160075735471",
-    "date": "2026-02-22",
-    "author": "@jessegenet",
-    "author_url": "https://x.com/jessegenet",
-    "tweet_url": "https://x.com/jessegenet/status/2025338160075735471",
-    "title": {
-      "en-US": "OpenClaw fully using Amazon, life will never be the same",
-      "zh-CN": "OpenClaw完全接入Amazon，生活将彻底改变——Agent开始掌控物理世界购物"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 电商 + 物理世界执行",
-      "zh-CN": "展示Agent从数字到物理的跨越，Jarvis定律关键一步——执行层突破"
-    },
-    "relevance": "OpenClaw + 电商 + 物理世界执行",
-    "score": 0.84,
-    "engagement": {
-      "likes": 75,
-      "replies": 8,
-      "retweets": 4
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "Amazon接入不是便利是质变——里世界的Agent开始触碰物理世界，这是Jarvis时刻",
-    "synced_at": "2026-02-21T23:01:34.003745+00:00",
-    "js_take": {
-      "en-US": "Amazon integration isn't convenience—it's a qualitative shift. Agents in the inner world are touching the physical world. That's the Jarvis moment.",
-      "zh-CN": "Amazon接入不是便利，是质变。里世界的Agent正在触碰物理世界。这就是Jarvis时刻。"
     }
   }
 ]
