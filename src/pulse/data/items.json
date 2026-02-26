@@ -250,6 +250,35 @@
     }
   },
   {
+    "id": "2026851188633935940",
+    "date": "2026-02-26",
+    "author": "@bitfish",
+    "author_url": "https://x.com/bitfish",
+    "tweet_url": "https://x.com/bitfish/status/2026851188633935940",
+    "title": {
+      "en-US": "One month OpenClaw obsession, 3.8B tokens burned, systems built",
+      "zh-CN": "沉迷OpenClaw一个月，烧了38亿token，接了多家国产模型，运维十几个看板，构建记忆系统和知识库。"
+    },
+    "summary": {
+      "en-US": "OpenClaw深度使用案例，系统建设实践",
+      "zh-CN": "典型的「造奇观」叙事，38亿token是炫耀资本。JS的「建系统」视角可以点出：真正的价值不在烧了多少，在留下了什么系统。"
+    },
+    "relevance": "OpenClaw深度使用案例，系统建设实践",
+    "score": 0.82,
+    "engagement": {
+      "likes": 490,
+      "replies": 56,
+      "retweets": 40,
+      "views": 94664
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-26T09:03:58.033413+00:00",
+    "js_take": {
+      "en-US": "3.8B tokens burned to build. But 无为/wú wéi asks: will it keep running when you stop watching?",
+      "zh-CN": "烧了38亿token搭建一切。但无为问：当你不再盯着，它还能自己跑吗？"
+    }
+  },
+  {
     "id": "2026817793165779387",
     "date": "2026-02-26",
     "author": "@Akashi203",
@@ -470,6 +499,31 @@
     "synced_at": "2026-02-26T05:03:20.932192+00:00"
   },
   {
+    "id": "2026904423495032880",
+    "date": "2026-02-26",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2026904423495032880",
+    "title": {
+      "en-US": "OpenClaw Control Panel with real-time logs, cron jobs, kanban board",
+      "zh-CN": "OpenClaw控制面板落地，包含实时日志、自动化cron任务、AI Agent办公室（甚至还有休息室）、看板系统。"
+    },
+    "summary": {
+      "en-US": "OpenClaw管理与可视化工具",
+      "zh-CN": "讨论如何「管理」agent，但道家视角会说：需要被管理的agent，还没学会无为而治。"
+    },
+    "relevance": "OpenClaw管理与可视化工具",
+    "score": 0.76,
+    "engagement": {
+      "likes": 43,
+      "replies": 24,
+      "retweets": 3,
+      "views": 2105
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-26T09:03:58.033420+00:00"
+  },
+  {
     "id": "2026749752042467345",
     "date": "2026-02-26",
     "author": "@fahdmirza",
@@ -688,6 +742,31 @@
     },
     "comment_type": "provoke",
     "synced_at": "2026-02-26T05:03:20.932195+00:00"
+  },
+  {
+    "id": "2026909376347517127",
+    "date": "2026-02-26",
+    "author": "@victalk6886",
+    "author_url": "https://x.com/victalk6886",
+    "tweet_url": "https://x.com/victalk6886/status/2026909376347517127",
+    "title": {
+      "en-US": "Perplexity Computer launched as OpenClaw's biggest competitor",
+      "zh-CN": "Perplexity推出Perplexity Computer，宣称是OpenClaw最大竞争对手，云端聚合多模型按需调用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw竞品分析，AI agent系统对比",
+      "zh-CN": "讨论竞品对立，但JS的「表/里世界」框架可以重构：不是A vs B，是表世界工具 vs 里世界迁移。"
+    },
+    "relevance": "OpenClaw竞品分析，AI agent系统对比",
+    "score": 0.71,
+    "engagement": {
+      "likes": 56,
+      "replies": 7,
+      "retweets": 9,
+      "views": 13294
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-26T09:03:58.033423+00:00"
   },
   {
     "id": "2025957550252843396",
@@ -5381,89 +5460,6 @@
     "js_take": {
       "en-US": "Orchestrator isn't optimization—it's paradigm. Agents in the inner world need hierarchical collaboration. That's the nervous system of the ecosystem.",
       "zh-CN": "编排者不是优化，是范式。里世界的Agent需要分层协作。这是生态系统的神经系统。"
-    }
-  },
-  {
-    "id": "2025254225471799442",
-    "date": "2026-02-22",
-    "author": "@a16z",
-    "author_url": "https://x.com/a16z",
-    "tweet_url": "https://x.com/a16z/status/2025254225471799442",
-    "title": {
-      "en-US": "Searches for OpenClaw accompanied by Mac Mini searches",
-      "zh-CN": "OpenClaw与Mac Mini搜索强关联"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Mac Mini + 搜索趋势",
-      "zh-CN": "OpenClaw、Mac Mini与搜索趋势"
-    },
-    "relevance": "OpenClaw + Mac Mini + 搜索趋势",
-    "score": 0.85,
-    "engagement": {
-      "likes": 223,
-      "replies": 31,
-      "retweets": 28
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "搜索关联不是巧合是生态——里世界的Agent需要算力载体，Mac Mini是当前的默认选择",
-    "synced_at": "2026-02-22T12:02:50.185417+00:00",
-    "js_take": {
-      "en-US": "Search correlation isn't coincidence—it's the ecosystem. Agents in the inner world need compute carriers. Mac Mini is the current default choice.",
-      "zh-CN": "搜索关联不是巧合，而是生态系统。里世界的Agent需要算力载体。Mac Mini是当前默认的选择。"
-    }
-  },
-  {
-    "id": "2025215377475564026",
-    "date": "2026-02-22",
-    "author": "@_0xKenny",
-    "author_url": "https://x.com/_0xKenny",
-    "tweet_url": "https://x.com/_0xKenny/status/2025215377475564026",
-    "title": {
-      "en-US": "OpenClaw headless browser automation 3-layer architecture",
-      "zh-CN": "详解OpenClaw无头浏览器自动化三层架构：Xvfb+Chrome虚拟桌面实现"
-    },
-    "summary": {
-      "en-US": "OpenClaw技术架构 + 浏览器自动化 + 工程实践",
-      "zh-CN": "技术深度分享，展示架构能力——无头浏览器是表世界与里世界的桥梁"
-    },
-    "relevance": "OpenClaw技术架构 + 浏览器自动化 + 工程实践",
-    "score": 0.84,
-    "engagement": {
-      "likes": 95,
-      "replies": 2,
-      "retweets": 22
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Xvfb是表世界的hack，里世界的Agent不需要\"看见\"——感知与执行的分离是进化的方向",
-    "synced_at": "2026-02-21T17:03:35.873927+00:00"
-  },
-  {
-    "id": "2025270235230871562",
-    "date": "2026-02-22",
-    "author": "@mikefutia",
-    "author_url": "https://x.com/mikefutia",
-    "tweet_url": "https://x.com/mikefutia/status/2025270235230871562",
-    "title": {
-      "en-US": "OpenClaw fully automates AI animated video creation",
-      "zh-CN": "OpenClaw完全自动化AI动画视频创作：一条Telegram消息，Agent完成叙事、生成3D角色、动画转换"
-    },
-    "summary": {
-      "en-US": "OpenClaw内容创作 + 自动化 + 端到端执行",
-      "zh-CN": "展示Agent端到端创作能力，体现Jarvis定律——从意图到成品的完整闭环"
-    },
-    "relevance": "OpenClaw内容创作 + 自动化 + 端到端执行",
-    "score": 0.84,
-    "engagement": {
-      "likes": 126,
-      "replies": 130,
-      "retweets": 8
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "一条消息到完整视频不是魔法是系统——里世界的Agent正在成为内容工厂",
-    "synced_at": "2026-02-21T21:02:31.073796+00:00",
-    "js_take": {
-      "en-US": "One message to a complete video isn't magic—it's a system. Agents in the inner world are becoming content factories. The pipeline from intent to output is now seamless.",
-      "zh-CN": "一条消息到完整视频不是魔法，是系统。里世界的Agent正在成为内容工厂。从意图到输出的管道现在是无缝的。"
     }
   }
 ]
