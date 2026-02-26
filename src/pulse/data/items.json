@@ -28,6 +28,62 @@
     }
   },
   {
+    "id": "2026344914506948942",
+    "date": "2026-02-26",
+    "author": "@dontbesilent",
+    "author_url": "https://x.com/dontbesilent",
+    "tweet_url": "https://x.com/dontbesilent/status/2026344914506948942",
+    "title": {
+      "en-US": "Claude Code content hit 1.6M views on Douyin, process is Agent training human",
+      "zh-CN": "dontbesilent 分享 Claude Code 策划的内容在抖音获得160万播放，并指出这个过程不是人在训练 Agent，而是 Agent 在训练人。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、人机关系反转、Agent 训练人类",
+      "zh-CN": "高互动量，'Agent 训练人'是反直觉的洞察。评论区讨论成功案例，JS 的'AI 上限就是使用 AI 的人'可以完美回应。"
+    },
+    "relevance": "OpenClaw、人机关系反转、Agent 训练人类",
+    "score": 0.84,
+    "engagement": {
+      "likes": 697,
+      "replies": 19,
+      "retweets": 131
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-26T02:03:00.374400+00:00",
+    "js_take": {
+      "en-US": "Agent trains you, you train Agent. 阴阳/yīn yáng — neither comes first.",
+      "zh-CN": "Agent训练你，你训练Agent。阴阳(yīn yáng)相生，没有先后之分。"
+    }
+  },
+  {
+    "id": "2026334401194574237",
+    "date": "2026-02-26",
+    "author": "@AI_Jasonyu",
+    "author_url": "https://x.com/AI_Jasonyu",
+    "tweet_url": "https://x.com/AI_Jasonyu/status/2026334401194574237",
+    "title": {
+      "en-US": "OpenClaw semantic search skill for web content",
+      "zh-CN": "鱼总分享一个 OpenClaw 开源项目，可以让 Agent 进行全网语义搜索，查看小红书、推特、YouTube、Reddit、B站、RSS 等平台内容。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、语义搜索、信息获取",
+      "zh-CN": "高曝光量，评论区讨论工具功能。用'无为'视角评论'主动搜索'与'被动接收'的关系会很有反差。"
+    },
+    "relevance": "OpenClaw、语义搜索、信息获取",
+    "score": 0.84,
+    "engagement": {
+      "likes": 500,
+      "replies": 8,
+      "retweets": 107
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-26T02:03:00.374407+00:00",
+    "js_take": {
+      "en-US": "Searching everywhere is pushing. Letting the right stuff find you is 势/shì.",
+      "zh-CN": "全网搜索是强求，让对的信息找到你才是势(shì)。"
+    }
+  },
+  {
     "id": "2026456587032998106",
     "date": "2026-02-26",
     "author": "@sodawhite_dev",
@@ -50,6 +106,34 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-26T01:03:17.628292+00:00"
+  },
+  {
+    "id": "2026754360454021488",
+    "date": "2026-02-26",
+    "author": "@testingcatalog",
+    "author_url": "https://x.com/testingcatalog",
+    "tweet_url": "https://x.com/testingcatalog/status/2026754360454021488",
+    "title": {
+      "en-US": "Apple expanding Mac mini production for OpenClaw symbiosis",
+      "zh-CN": "TestingCatalog 报道苹果宣布扩大休斯顿工厂产能以提升 Mac mini 产量，配图是苹果与 OpenClaw 的共生关系。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、苹果硬件、生态共生",
+      "zh-CN": "Mac mini 是 OpenClaw 的主流硬件，评论区讨论硬件生态。用'阴阳共生'解读苹果与 OpenClaw 的关系会脱颖而出。"
+    },
+    "relevance": "OpenClaw、苹果硬件、生态共生",
+    "score": 0.83,
+    "engagement": {
+      "likes": 310,
+      "replies": 16,
+      "retweets": 11
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-26T02:03:00.374411+00:00",
+    "js_take": {
+      "en-US": "Mac mini is 表/biǎo world stuff. The Agent running on it is 里/lǐ world life.",
+      "zh-CN": "Mac mini是表(biǎo)世界的器物，上面跑的Agent才是里(lǐ)世界的生命。"
+    }
   },
   {
     "id": "2026678621545320623",
@@ -156,6 +240,30 @@
     "synced_at": "2026-02-25T20:01:58.565780+00:00"
   },
   {
+    "id": "2026580426597503029",
+    "date": "2026-02-26",
+    "author": "@sitinme",
+    "author_url": "https://x.com/sitinme",
+    "tweet_url": "https://x.com/sitinme/status/2026580426597503029",
+    "title": {
+      "en-US": "OpenClaw awesome skills list filters 5000+ skills",
+      "zh-CN": "sitin 分享 awesome-openclaw-skills 仓库，从 5000+ skills 中筛选出优质内容，按 30+ 类别整理。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、技能市场、筛选与策展",
+      "zh-CN": "技能数量泛滥 vs 精选需求，可以用'少则得，多则惑'来评论这种策展行为的价值。"
+    },
+    "relevance": "OpenClaw、技能市场、筛选与策展",
+    "score": 0.78,
+    "engagement": {
+      "likes": 121,
+      "replies": 2,
+      "retweets": 24
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-26T02:03:00.374414+00:00"
+  },
+  {
     "id": "2026726864325328961",
     "date": "2026-02-26",
     "author": "@MatthewBerman",
@@ -202,6 +310,30 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-25T23:02:12.197993+00:00"
+  },
+  {
+    "id": "2026581375223292404",
+    "date": "2026-02-26",
+    "author": "@LufzzLiz",
+    "author_url": "https://x.com/LufzzLiz",
+    "tweet_url": "https://x.com/LufzzLiz/status/2026581375223292404",
+    "title": {
+      "en-US": "OpenClaw multi-agent setup for idea incubation",
+      "zh-CN": "岚叔分享用 OpenClaw 跑多 Agent 案例，每天孵化十个点子，调用 Codex 开多 Agent，各扮演研究、逻辑检验、发散三个角色。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、多 Agent 协作、角色分工",
+      "zh-CN": "多 Agent 分工协作是热门话题，评论区讨论实现细节。用'无为而治'评论这种人工设计的角色分工 vs 自然涌现的区别。"
+    },
+    "relevance": "OpenClaw、多 Agent 协作、角色分工",
+    "score": 0.73,
+    "engagement": {
+      "likes": 44,
+      "replies": 5,
+      "retweets": 4
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-26T02:03:00.374417+00:00"
   },
   {
     "id": "2026402196808474840",
@@ -5360,147 +5492,6 @@
     "js_take": {
       "en-US": "Ten providers isn't redundancy—it's resilience. Search in the inner world needs to break through single information sources. That's cognitive diversity.",
       "zh-CN": "十个提供商不是冗余，是韧性。里世界的搜索需要突破单一信息源。这就是认知的多样性。"
-    }
-  },
-  {
-    "id": "2025280441888960620",
-    "date": "2026-02-22",
-    "author": "@onusoz",
-    "author_url": "https://x.com/onusoz",
-    "tweet_url": "https://x.com/onusoz/status/2025280441888960620",
-    "title": {
-      "en-US": "OpenClaw Discord thread subagents, ACP to talk to Codex/Claude Code",
-      "zh-CN": "OpenClaw支持Discord线程子代理，即将支持ACP协议与Codex、Claude Code通信"
-    },
-    "summary": {
-      "en-US": "OpenClaw多Agent + ACP协议 + 跨平台协作",
-      "zh-CN": "展示Agent间通信协议，里世界的基础设施建设——协议让Agent能对话"
-    },
-    "relevance": "OpenClaw多Agent + ACP协议 + 跨平台协作",
-    "score": 0.82,
-    "engagement": {},
-    "comment_type": "add_insight",
-    "suggested_angle": "ACP协议不是功能是基建——里世界的Agent需要共同语言，协议就是语法",
-    "synced_at": "2026-02-21T23:01:34.003747+00:00",
-    "js_take": {
-      "en-US": "ACP isn't a feature—it's infrastructure. Agents in the inner world need a common language. Protocols are the grammar of collaboration.",
-      "zh-CN": "ACP不是功能，是基础设施。里世界的Agent需要共同语言。协议就是协作的语法。"
-    }
-  },
-  {
-    "id": "2025371800587436344",
-    "date": "2026-02-22",
-    "author": "@code_rams",
-    "author_url": "https://x.com/code_rams",
-    "tweet_url": "https://x.com/code_rams/status/2025371800587436344",
-    "title": {
-      "en-US": "Memory bloat: 11,887 tokens, 51 skills, 20 unused",
-      "zh-CN": "Agent内存膨胀问题：每次会话加载11,887个token的系统提示，51个skill中有20个从未使用"
-    },
-    "summary": {
-      "en-US": "OpenClaw优化 + 技能管理 + 内存调优",
-      "zh-CN": "真实调试经验分享，体现\"建系统\"思维——不是加功能是减熵"
-    },
-    "relevance": "OpenClaw优化 + 技能管理 + 内存调优",
-    "score": 0.82,
-    "engagement": {
-      "likes": 24,
-      "replies": 7,
-      "retweets": 2
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "51个skill不是资产是负债——里世界的Agent需要定期断舍离，无为而治从清理开始",
-    "synced_at": "2026-02-22T02:01:45.716148+00:00",
-    "js_take": {
-      "en-US": "51 skills aren't assets—they're liabilities. Agents in the inner world need periodic decluttering. Wu wei starts with cleanup.",
-      "zh-CN": "51个skill不是资产，是负债。里世界的Agent需要定期断舍离。无为从清理开始。"
-    }
-  },
-  {
-    "id": "2025270141752410149",
-    "date": "2026-02-22",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2025270141752410149",
-    "title": {
-      "en-US": "OpenClaw cost tip: Opus for main, Haiku for cron (60x cheaper)",
-      "zh-CN": "OpenClaw成本优化技巧：主Agent用Opus复杂推理，定时任务用Haiku便宜60倍——模型分层策略"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 成本控制 + 模型选择",
-      "zh-CN": "实用成本优化技巧，体现系统思维——不同任务匹配不同模型能力"
-    },
-    "relevance": "OpenClaw + 成本控制 + 模型选择",
-    "score": 0.82,
-    "engagement": {
-      "likes": 101,
-      "replies": 13,
-      "retweets": 5
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "60倍不是省钱是智慧——里世界的Agent需要懂得何时用力何时省力，这是无为的应用",
-    "synced_at": "2026-02-22T05:03:59.307586+00:00",
-    "js_take": {
-      "en-US": "60x cheaper isn't saving—it's wisdom. Agents in the inner world must know when to push and when to yield. That's the application of wu wei.",
-      "zh-CN": "60倍便宜不是省钱，是智慧。里世界的Agent需要懂得何时用力何时省力。这就是无为的应用。"
-    }
-  },
-  {
-    "id": "2025453998635934077",
-    "date": "2026-02-22",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2025453998635934077",
-    "title": {
-      "en-US": "AI is brain in jar, Skills = body, 50 skills dropped",
-      "zh-CN": "AI是缸中之脑，Skills是身体——发布50个skill将Agent变成真正的操作者，包括MCP构建器等"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Skills + 能力扩展",
-      "zh-CN": "深刻隐喻——Skill是Agent的肢体，体现从思考到执行的闭环"
-    },
-    "relevance": "OpenClaw + Skills + 能力扩展",
-    "score": 0.82,
-    "engagement": {
-      "likes": 31,
-      "replies": 3,
-      "retweets": 5
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Skill不是插件是肢体——里世界的Agent需要身体才能触碰现实，这是从认知到行动的跨越",
-    "synced_at": "2026-02-22T08:02:28.139173+00:00",
-    "js_take": {
-      "en-US": "Skills aren't plugins—they're limbs. Agents in the inner world need bodies to touch reality. That's the leap from cognition to action.",
-      "zh-CN": "Skill不是插件，是肢体。里世界的Agent需要身体才能触碰现实。这是从认知到行动的跨越。"
-    }
-  },
-  {
-    "id": "2025437356866572361",
-    "date": "2026-02-22",
-    "author": "@VadimStrizheus",
-    "author_url": "https://x.com/VadimStrizheus",
-    "tweet_url": "https://x.com/VadimStrizheus/status/2025437356866572361",
-    "title": {
-      "en-US": "AI company working while owner hangs out: 15 agents, 26 clips, 17 users, 1 PR",
-      "zh-CN": "周六晚上AI公司在后台自主运转——15个Agent运行，处理26个剪辑，17个新用户注册，1个PR发布，主人没碰键盘"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 自动化运营 + 无人值守",
-      "zh-CN": "展示真正的自动化——Agent在owner不干预的情况下完成多项业务任务"
-    },
-    "relevance": "OpenClaw + 自动化运营 + 无人值守",
-    "score": 0.82,
-    "engagement": {
-      "likes": 37,
-      "replies": 15,
-      "retweets": 2
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "不碰键盘不是懒惰是设计——里世界的Agent需要owner的势能输入，然后自行演化，这是无为而治",
-    "synced_at": "2026-02-22T12:02:50.185431+00:00",
-    "js_take": {
-      "en-US": "Not touching the keyboard isn't laziness—it's design. Agents in the inner world need the owner's momentum input, then evolve on their own. That's wu wei governance.",
-      "zh-CN": "不碰键盘不是懒惰，而是设计。里世界的Agent需要主人的势能输入，然后自行演化。这就是无为而治。"
     }
   }
 ]
