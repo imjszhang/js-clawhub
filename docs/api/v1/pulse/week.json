@@ -1,5 +1,80 @@
 [
   {
+    "id": "2026982903574606234",
+    "date": "2026-02-28",
+    "author": "@KanikaBK",
+    "author_url": "https://x.com/KanikaBK",
+    "tweet_url": "https://x.com/KanikaBK/status/2026982903574606234",
+    "title": {
+      "en-US": "OPENCLAW IS NOW REPLACING VIDEO EDITORS - $5K→$0",
+      "zh-CN": "OpenClaw正在取代视频编辑——用45分钟生成完整发布视频，从5K成本降到0，全流程自动化。"
+    },
+    "summary": {
+      "en-US": "OpenClaw内容生产、AI替代人工、效率革命",
+      "zh-CN": "高热度OpenClaw应用帖(10万+ views)，评论区充满对「AI替代」的惊叹。JS的「奇观是负债，系统才是资产」完美契合。"
+    },
+    "relevance": "OpenClaw内容生产、AI替代人工、效率革命",
+    "score": 0.78,
+    "engagement": {
+      "likes": 1243,
+      "replies": 36,
+      "retweets": 173,
+      "views": 102747
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-27T19:04:15.732919+00:00"
+  },
+  {
+    "id": "2027169557186793640",
+    "date": "2026-02-28",
+    "author": "@LingYang_PU",
+    "author_url": "https://x.com/LingYang_PU",
+    "tweet_url": "https://x.com/LingYang_PU/status/2027169557186793640",
+    "title": {
+      "en-US": "Introducing OpenClaw-RL: agent learns from conversations",
+      "zh-CN": "推出OpenClaw-RL框架——Agent通过与你的日常对话学习你的工作流和偏好，私密、持续地进化。"
+    },
+    "summary": {
+      "en-US": "OpenClaw强化学习、Agent个性化、持续学习",
+      "zh-CN": "OpenClaw官方RL框架发布，讨论Agent从对话中学习。JS可以点出「学习」与「被塑造」的区别——势是环境的重力。"
+    },
+    "relevance": "OpenClaw强化学习、Agent个性化、持续学习",
+    "score": 0.72,
+    "engagement": {
+      "likes": 304,
+      "replies": 8,
+      "retweets": 44,
+      "views": 19855
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-27T19:04:15.732925+00:00"
+  },
+  {
+    "id": "2027237170323607609",
+    "date": "2026-02-28",
+    "author": "@kloss_xyz",
+    "author_url": "https://x.com/kloss_xyz",
+    "tweet_url": "https://x.com/kloss_xyz/status/2027237170323607609",
+    "title": {
+      "en-US": "Prompt improves OpenClaw SOUL.md based on Peter Steinberger's recommendations",
+      "zh-CN": "一个prompt基于Peter Steinberger的建议改进OpenClaw的SOUL.md，让主Agent更精准、减少越权。"
+    },
+    "summary": {
+      "en-US": "OpenClaw人格定义、Agent边界、SOUL.md",
+      "zh-CN": "讨论Agent「灵魂」定义，评论区都是技术细节。JS的「道是减法不是加法」能形成哲学反差。"
+    },
+    "relevance": "OpenClaw人格定义、Agent边界、SOUL.md",
+    "score": 0.7,
+    "engagement": {
+      "likes": 784,
+      "replies": 40,
+      "retweets": 55,
+      "views": 49598
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-27T19:04:15.732929+00:00"
+  },
+  {
     "id": "2026772330178031719",
     "date": "2026-02-26",
     "author": "@chrysb",
@@ -5272,90 +5347,6 @@
     "js_take": {
       "en-US": "$270K isn't wealth—it's a signal. Agents in the inner world are redefining productivity, and the surface world hasn't caught up yet. The gap is the opportunity.",
       "zh-CN": "27万美元不是财富，是信号。里世界的Agent正在重新定义生产力，表世界还没跟上。差距就是机会。"
-    }
-  },
-  {
-    "id": "2025362263218012334",
-    "date": "2026-02-22",
-    "author": "@DontezAkram",
-    "author_url": "https://x.com/DontezAkram",
-    "tweet_url": "https://x.com/DontezAkram/status/2025362263218012334",
-    "title": {
-      "en-US": "OpenClaw AI agent made this image",
-      "zh-CN": "OpenClaw AI Agent生成图像作品"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 创意生成 + Agent作品",
-      "zh-CN": "OpenClaw、创意生成与Agent作品"
-    },
-    "relevance": "OpenClaw + 创意生成 + Agent作品",
-    "score": 0.86,
-    "engagement": {
-      "likes": 366,
-      "replies": 17,
-      "retweets": 25
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-22T04:07:16.995046+00:00",
-    "js_take": {
-      "en-US": "Agent creation isn't tool use—it's capability extension. Agents in the inner world are becoming creative partners, not just executors.",
-      "zh-CN": "Agent创作不是使用工具，是能力延伸。里世界的Agent正在成为创意伙伴，而非只是执行者。"
-    }
-  },
-  {
-    "id": "2025376024024732037",
-    "date": "2026-02-22",
-    "author": "@chrisparkX",
-    "author_url": "https://x.com/chrisparkX",
-    "tweet_url": "https://x.com/chrisparkX/status/2025376024024732037",
-    "title": {
-      "en-US": "xurl 1.0.3 X API CLI tool optimized for agents",
-      "zh-CN": "xurl 1.0.3：专为Agent优化的X API工具"
-    },
-    "summary": {
-      "en-US": "OpenClaw + X API + Agent工具",
-      "zh-CN": "OpenClaw、X API与Agent工具"
-    },
-    "relevance": "OpenClaw + X API + Agent工具",
-    "score": 0.86,
-    "engagement": {
-      "likes": 91,
-      "replies": 9,
-      "retweets": 7
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T05:03:59.307573+00:00",
-    "js_take": {
-      "en-US": "Agent-native APIs aren't adaptation—they're reconstruction. Tools in the inner world should be designed for agents, not ported from humans.",
-      "zh-CN": "Agent原生API不是适配，是重构。里世界的工具应该为Agent设计，而非从人类移植。"
-    }
-  },
-  {
-    "id": "2025432445290774923",
-    "date": "2026-02-22",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2025432445290774923",
-    "title": {
-      "en-US": "OpenClaw security risk: 10 lockdown tips",
-      "zh-CN": "OpenClaw安全风险：10项锁定建议"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 安全 + 最佳实践",
-      "zh-CN": "OpenClaw、安全与最佳实践"
-    },
-    "relevance": "OpenClaw + 安全 + 最佳实践",
-    "score": 0.86,
-    "engagement": {
-      "likes": 40,
-      "replies": 2,
-      "retweets": 1
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-22T06:01:51.114271+00:00",
-    "js_take": {
-      "en-US": "10 lockdowns aren't overkill—they're essential. Agents in the inner world need security boundaries. That's the foundation of trust.",
-      "zh-CN": "10项锁定不是过度防范，是必需。里世界的Agent需要安全边界。这是信任的基石。"
     }
   }
 ]
