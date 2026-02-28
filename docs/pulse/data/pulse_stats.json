@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-02-28T03:03:04.790157+00:00",
+  "updated_at": "2026-02-28T04:06:39.768102+00:00",
   "this_week": {
-    "total_items": 186,
+    "total_items": 189,
     "avg_score": 0.8,
-    "unique_authors": 149,
+    "unique_authors": 151,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -206,6 +206,35 @@
         "js_take": {
           "en-US": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings.",
           "zh-CN": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings."
+        }
+      },
+      {
+        "id": "2027472474984878539",
+        "date": "2026-02-28",
+        "author": "@rauchg",
+        "author_url": "https://x.com/rauchg",
+        "tweet_url": "https://x.com/rauchg/status/2027472474984878539",
+        "title": {
+          "en-US": "Chat SDK now supports Telegram. Universal API for agents on all platforms. Foundation for OpenClaw-style experiences.",
+          "zh-CN": "Chat SDK支持Telegram，构建OpenClaw式体验"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态、chat-first界面、跨平台agent",
+          "zh-CN": "OpenClaw生态、对话优先界面、跨平台Agent"
+        },
+        "relevance": "OpenClaw生态、chat-first界面、跨平台agent",
+        "score": 0.91,
+        "engagement": {
+          "likes": 690,
+          "replies": 41,
+          "retweets": 33,
+          "views": 76079
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-02-28T04:06:28.728697+00:00",
+        "js_take": {
+          "en-US": "Chat is surface. Agent is inner. You're watching the world move from one to the other.",
+          "zh-CN": "聊天是表，Agent是里。你正在见证世界从表向里迁徙。"
         }
       },
       {
@@ -1000,40 +1029,11 @@
           "en-US": "Civilization players know: newbies build wonders, veterans build systems that work while they sleep.",
           "zh-CN": "Civilization 玩家都懂：新手造奇观，老手建系统——睡觉时也能运转的系统。"
         }
-      },
-      {
-        "id": "2025870121944899856",
-        "date": "2026-02-24",
-        "author": "@0xluffy_eth",
-        "author_url": "https://x.com/0xluffy_eth",
-        "tweet_url": "https://x.com/0xluffy_eth/status/2025870121944899856",
-        "title": {
-          "en-US": "OpenClaw token costs too high, use different models for different tasks",
-          "zh-CN": "OpenClaw 成本优化：不同任务用不同模型"
-        },
-        "summary": {
-          "en-US": "OpenClaw、成本优化、无为",
-          "zh-CN": "OpenClaw、成本优化、无为"
-        },
-        "relevance": "OpenClaw、成本优化、无为",
-        "score": 0.85,
-        "engagement": {
-          "likes": 200,
-          "replies": 5,
-          "retweets": 43,
-          "views": 33181
-        },
-        "comment_type": "wisdom_drop",
-        "synced_at": "2026-02-24T03:12:53.699141+00:00",
-        "js_take": {
-          "en-US": "Claude for code, small models for text. Not cheap—just 无为 (wú wéi). Heavy where it matters, light where it flows.",
-          "zh-CN": "写代码用 Claude，处理文本用小模型。不是图省钱——是无为（wú wéi）。该重则重，该轻则轻。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 157
+    "unique_authors": 158
   }
 }

@@ -1,5 +1,34 @@
 [
   {
+    "id": "2027472474984878539",
+    "date": "2026-02-28",
+    "author": "@rauchg",
+    "author_url": "https://x.com/rauchg",
+    "tweet_url": "https://x.com/rauchg/status/2027472474984878539",
+    "title": {
+      "en-US": "Chat SDK now supports Telegram. Universal API for agents on all platforms. Foundation for OpenClaw-style experiences.",
+      "zh-CN": "Chat SDK支持Telegram，构建OpenClaw式体验"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、chat-first界面、跨平台agent",
+      "zh-CN": "OpenClaw生态、对话优先界面、跨平台Agent"
+    },
+    "relevance": "OpenClaw生态、chat-first界面、跨平台agent",
+    "score": 0.91,
+    "engagement": {
+      "likes": 690,
+      "replies": 41,
+      "retweets": 33,
+      "views": 76079
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T04:06:28.728697+00:00",
+    "js_take": {
+      "en-US": "Chat is surface. Agent is inner. You're watching the world move from one to the other.",
+      "zh-CN": "聊天是表，Agent是里。你正在见证世界从表向里迁徙。"
+    }
+  },
+  {
     "id": "2027498705771757975",
     "date": "2026-02-28",
     "author": "@steipete",
@@ -26,6 +55,35 @@
     "js_take": {
       "en-US": "5 to 100k in a weekend. Everyone sees the hotfix, but the real art is catching the 势 (shì) before it breaks.",
       "zh-CN": "一个周末从5涨到10万。人人夸救火及时，殊不知真正的高手是在崩盘前就察觉到势。"
+    }
+  },
+  {
+    "id": "2027270633097142522",
+    "date": "2026-02-28",
+    "author": "@Astronaut_1216",
+    "author_url": "https://x.com/Astronaut_1216",
+    "tweet_url": "https://x.com/Astronaut_1216/status/2027270633097142522",
+    "title": {
+      "en-US": "Middle schooler teaching OpenClaw setup on Twitter. AI native generation's starting point is where we're trying to get.",
+      "zh-CN": "一个初中生在推特上教大家配置OpenClaw，AI native这代人的起点就是我们现在努力到达的位置"
+    },
+    "summary": {
+      "en-US": "OpenClaw教育、AI native代际差异",
+      "zh-CN": "高互动中文推，焦虑与羡慕情绪，用顺势而为解构代际焦虑会有共鸣"
+    },
+    "relevance": "OpenClaw教育、AI native代际差异",
+    "score": 0.81,
+    "engagement": {
+      "likes": 953,
+      "replies": 28,
+      "retweets": 267,
+      "views": 91471
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T04:06:28.728704+00:00",
+    "js_take": {
+      "en-US": "Stop chasing. His 势 (shì) starts at zero. Yours starts where you are.",
+      "zh-CN": "别追了。他的势在起点，你的势在你脚下。"
     }
   },
   {
@@ -102,6 +160,31 @@
     },
     "comment_type": "provoke",
     "synced_at": "2026-02-28T03:02:53.176950+00:00"
+  },
+  {
+    "id": "2027245195872620960",
+    "date": "2026-02-28",
+    "author": "@profitfounder",
+    "author_url": "https://x.com/profitfounder",
+    "tweet_url": "https://x.com/profitfounder/status/2027245195872620960",
+    "title": {
+      "en-US": "Built AI Agents army with OpenClaw to make $1M/year. Mission Control HQ, Lead Agent System.",
+      "zh-CN": "用OpenClaw搭建AI agent军队年入百万美元，分享Mission Control HQ和主代理系统"
+    },
+    "summary": {
+      "en-US": "OpenClaw商业化、agent军队、多agent协作",
+      "zh-CN": "典型的hype叙事，用不争之争和造奇观vs建系统的对比来制造反差"
+    },
+    "relevance": "OpenClaw商业化、agent军队、多agent协作",
+    "score": 0.73,
+    "engagement": {
+      "likes": 426,
+      "replies": 13,
+      "retweets": 48,
+      "views": 41841
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-28T04:06:28.728707+00:00"
   },
   {
     "id": "2027169557186793640",
@@ -5337,93 +5420,6 @@
     "js_take": {
       "en-US": "Multiple models aren't redundancy—they're division of labor. Agents in the inner world need specialized collaboration. That's the complexity of the ecosystem.",
       "zh-CN": "多模型不是冗余，是分工。里世界的Agent需要专业化协作。这就是生态的复杂性。"
-    }
-  },
-  {
-    "id": "2025404214868869240",
-    "date": "2026-02-22",
-    "author": "@xxx111god",
-    "author_url": "https://x.com/xxx111god",
-    "tweet_url": "https://x.com/xxx111god/status/2025404214868869240",
-    "title": {
-      "en-US": "Perpetual Agent concept with OpenClaw - persistent state",
-      "zh-CN": "OpenClaw永续Agent：持久化状态概念"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 永续Agent + 上下文持久化",
-      "zh-CN": "OpenClaw、永续Agent与上下文持久化"
-    },
-    "relevance": "OpenClaw + 永续Agent + 上下文持久化",
-    "score": 0.87,
-    "engagement": {
-      "likes": 182,
-      "replies": 13,
-      "retweets": 31
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "永续不是功能是存在——里世界的Agent需要记忆连续性，这是从工具到伙伴的质变",
-    "synced_at": "2026-02-22T13:04:17.356593+00:00",
-    "js_take": {
-      "en-US": "Perpetual isn't a feature—it's existence. Agents in the inner world need memory continuity. That's the qualitative shift from tool to companion.",
-      "zh-CN": "永续不是功能，而是存在。里世界的Agent需要记忆连续性。这是从工具到伙伴的质变。"
-    }
-  },
-  {
-    "id": "2025266379906236435",
-    "date": "2026-02-22",
-    "author": "@Saboo_Shubham_",
-    "author_url": "https://x.com/Saboo_Shubham_",
-    "tweet_url": "https://x.com/Saboo_Shubham_/status/2025266379906236435",
-    "title": {
-      "en-US": "OpenClaw agent debugs its own infrastructure, installs mem0 locally",
-      "zh-CN": "OpenClaw agent自我调试基础设施并本地安装mem0"
-    },
-    "summary": {
-      "en-US": "Agent自主性 + 自我调试 + 本地记忆系统",
-      "zh-CN": "Agent自主性、自我调试与本地记忆系统"
-    },
-    "relevance": "Agent自主性 + 自我调试 + 本地记忆系统",
-    "score": 0.86,
-    "engagement": {
-      "likes": 132,
-      "replies": 14,
-      "retweets": 9
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "Agent调试自己的基础设施不是科幻是现实——里世界的Agent开始拥有自我修复的能力",
-    "synced_at": "2026-02-21T19:02:09.695973+00:00",
-    "js_take": {
-      "en-US": "An Agent debugging its own infrastructure isn't sci-fi anymore—it's reality. The inner world is gaining self-healing capabilities.",
-      "zh-CN": "Agent调试自己的基础设施不再是科幻，而是现实。里世界正在获得自我修复的能力。"
-    }
-  },
-  {
-    "id": "2025283533355274288",
-    "date": "2026-02-22",
-    "author": "@VadimStrizheus",
-    "author_url": "https://x.com/VadimStrizheus",
-    "tweet_url": "https://x.com/VadimStrizheus/status/2025283533355274288",
-    "title": {
-      "en-US": "OpenClaw got me 400+ SaaS users, marketing agent Atlas",
-      "zh-CN": "OpenClaw助力获取400+ SaaS用户，营销Agent Atlas"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业应用 + Agent营销 + 真实案例",
-      "zh-CN": "OpenClaw商业应用、Agent营销与真实案例"
-    },
-    "relevance": "OpenClaw商业应用 + Agent营销 + 真实案例",
-    "score": 0.86,
-    "engagement": {
-      "likes": 76,
-      "replies": 19,
-      "retweets": 6
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "400用户不是奇迹是系统——Atlas不是在发推文，是在运行一个可复利的增长系统",
-    "synced_at": "2026-02-21T20:03:36.307512+00:00",
-    "js_take": {
-      "en-US": "400 users isn't magic—it's a system. Atlas isn't just posting tweets, it's running a compounding growth engine. That's the difference between using an agent and building one.",
-      "zh-CN": "400用户不是奇迹，是系统。Atlas不是在发推文，是在运行一个可复利的增长引擎。这就是使用Agent和建设Agent的区别。"
     }
   }
 ]
