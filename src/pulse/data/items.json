@@ -409,6 +409,31 @@
     "synced_at": "2026-02-28T11:02:20.448751+00:00"
   },
   {
+    "id": "2027578655569023338",
+    "date": "2026-02-28",
+    "author": "@elvissun",
+    "author_url": "https://x.com/elvissun",
+    "tweet_url": "https://x.com/elvissun/status/2027578655569023338",
+    "title": {
+      "en-US": "Building business with OpenClaw: X payout $1505, 200+ waitlist, cron caught new followers.",
+      "zh-CN": "用 OpenClaw 创业第24-33天：X 收益 $1505，200+ 等待列表，cron 自动捕获新关注者。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 创业实战，自动化增长",
+      "zh-CN": "OpenClaw 商业实战案例，评论区讨论收益和方法，用「建系统」框架评论自动化的本质。"
+    },
+    "relevance": "OpenClaw 创业实战，自动化增长",
+    "score": 0.72,
+    "engagement": {
+      "likes": 109,
+      "replies": 15,
+      "retweets": 7,
+      "views": 15518
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T13:02:18.491546+00:00"
+  },
+  {
     "id": "2027456243447554170",
     "date": "2026-02-28",
     "author": "@Argona0x",
@@ -5360,35 +5385,6 @@
     "js_take": {
       "en-US": "120 Mac Minis aren't excess—they're a bet. Compute sovereignty in the inner world requires early positioning. Output is just a matter of time.",
       "zh-CN": "120台Mac Mini不是过剩，是押注。里世界的算力主权需要提前布局。产出只是时间问题。"
-    }
-  },
-  {
-    "id": "2025284092431139284",
-    "date": "2026-02-22",
-    "author": "@Freyabuilds",
-    "author_url": "https://x.com/Freyabuilds",
-    "tweet_url": "https://x.com/Freyabuilds/status/2025284092431139284",
-    "title": {
-      "en-US": "ClawWork AI must earn salary or go bankrupt, $10K in 7 hours",
-      "zh-CN": "ClawWork AI须自负盈亏：7小时赚1万美元"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Agent经济 + 自主盈利",
-      "zh-CN": "OpenClaw、Agent经济与自主盈利"
-    },
-    "relevance": "OpenClaw + Agent经济 + 自主盈利",
-    "score": 0.9,
-    "engagement": {
-      "likes": 173,
-      "replies": 16,
-      "retweets": 41
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "自负盈亏不是游戏是筛选——里世界的Agent只有能养活自己的才能存活，这是进化压力",
-    "synced_at": "2026-02-22T05:03:59.307563+00:00",
-    "js_take": {
-      "en-US": "Self-sufficiency isn't a game—it's selection. Agents in the inner world that can sustain themselves survive. That's evolutionary pressure.",
-      "zh-CN": "自负盈亏不是游戏，是筛选。里世界能养活自己的Agent才能存活。这就是进化压力。"
     }
   }
 ]
