@@ -309,6 +309,31 @@
     "synced_at": "2026-02-28T03:02:53.176952+00:00"
   },
   {
+    "id": "2027458651536166933",
+    "date": "2026-02-28",
+    "author": "@code_rams",
+    "author_url": "https://x.com/code_rams",
+    "tweet_url": "https://x.com/code_rams/status/2027458651536166933",
+    "title": {
+      "en-US": "Comparing Claude Code, Codex, and OpenClaw. Each has different strengths: OpenClaw for mobile connectivity, Codex for coding tasks, Claude for brainstorming.",
+      "zh-CN": "同时用 Claude Code、Codex 和 OpenClaw 三个工具，发现各有特点：OpenClaw 手机端方便随时连接，Codex 编程能力强且当前限速宽松，Claude Code 适合深度工作和头脑风暴。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 与其他 AI 工具的对比使用",
+      "zh-CN": "评论区满是技术对比，一条「道家的无为选择」视角能瞬间跳脱出来——三个工具不是竞争，是顺势而为的互补。"
+    },
+    "relevance": "OpenClaw 与其他 AI 工具的对比使用",
+    "score": 0.72,
+    "engagement": {
+      "likes": 75,
+      "replies": 16,
+      "retweets": 3,
+      "views": 4358
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T07:03:51.096913+00:00"
+  },
+  {
     "id": "2027237170323607609",
     "date": "2026-02-28",
     "author": "@kloss_xyz",
@@ -5299,33 +5324,5 @@
     },
     "comment_type": "agree_and_extend",
     "synced_at": "2026-02-21T17:03:35.873923+00:00"
-  },
-  {
-    "id": "2025297498206531697",
-    "date": "2026-02-22",
-    "author": "@icobeast",
-    "author_url": "https://x.com/icobeast",
-    "tweet_url": "https://x.com/icobeast/status/2025297498206531697",
-    "title": {
-      "en-US": "Set up local cluster for OpenClaw: 2x DGX Spark, M3 Ultra, 4x M4 Mini, 2x RasPi 5",
-      "zh-CN": "搭建OpenClaw本地集群：DGX Spark、M3 Ultra、M4 Mini、树莓派"
-    },
-    "summary": {
-      "en-US": "OpenClaw硬件集群 + 本地部署 + 算力投资",
-      "zh-CN": "OpenClaw硬件集群、本地部署与算力投资"
-    },
-    "relevance": "OpenClaw硬件集群 + 本地部署 + 算力投资",
-    "score": 0.88,
-    "engagement": {
-      "likes": 248,
-      "replies": 164,
-      "retweets": 6
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-21T22:01:52.574589+00:00",
-    "js_take": {
-      "en-US": "This setup isn't consumption—it's infrastructure. Compute sovereignty in the inner world. The sooner you lay the foundation, the sooner the migration accelerates.",
-      "zh-CN": "这套配置不是消费，是基础设施。里世界的算力主权。越早打好基础，迁徙就越快加速。"
-    }
   }
 ]
