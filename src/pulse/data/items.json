@@ -83,6 +83,31 @@
     "synced_at": "2026-02-28T18:02:57.239193+00:00"
   },
   {
+    "id": "2027810985332117883",
+    "date": "2026-03-01",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2027810985332117883",
+    "title": {
+      "en-US": "World's most powerful home AI lab: 3x Mac Studio, DGX Spark, Mac Mini, EXO cluster.",
+      "zh-CN": "打造世界最强家庭 AI 实验室：3 台 Mac Studio、Nvidia DGX Spark、Mac Mini，用 EXO 组成集群。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 硬件堆砌，算力炫耀",
+      "zh-CN": "做纠正：堆硬件解决的是「能不能跑」的问题，不是「该不该跑」的问题。最昂贵的配置，往往是为最没必要的任务准备的。"
+    },
+    "relevance": "OpenClaw 硬件堆砌，算力炫耀",
+    "score": 0.78,
+    "engagement": {
+      "likes": 251,
+      "replies": 78,
+      "retweets": 16,
+      "views": 9990
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-28T19:04:35.565883+00:00"
+  },
+  {
     "id": "2027708410225938558",
     "date": "2026-03-01",
     "author": "@seekjourney",
@@ -5361,31 +5386,5 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "用「顺势而为」评论：降低门槛就是顺应技术普惠的势，里世界不应有硬件门槛",
     "synced_at": "2026-02-22T22:02:59.764330+00:00"
-  },
-  {
-    "id": "2025508176020300247",
-    "date": "2026-02-23",
-    "author": "@OmriBuilds",
-    "author_url": "https://x.com/OmriBuilds",
-    "tweet_url": "https://x.com/OmriBuilds/status/2025508176020300247",
-    "title": {
-      "en-US": "OpenClaw Wrappers easiest path to $5k MRR, bridging gap for non-technical users",
-      "zh-CN": "OpenClaw 包装器可能是 2026 年独立开发者实现月入 5k 美元的最简单路径，为不懂技术的人搭建桥梁"
-    },
-    "summary": {
-      "en-US": "OpenClaw、商业机会、人群分化",
-      "zh-CN": "体现「AI 的上限就是使用 AI 的人」——工具门槛降低后，懂工具的人可以通过 bridge the gap 创造价值"
-    },
-    "relevance": "OpenClaw、商业机会、人群分化",
-    "score": 0.72,
-    "engagement": {
-      "likes": 42,
-      "replies": 26,
-      "retweets": 3,
-      "views": 3150
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：工具普及后，真正的机会在「翻译」层——把技术翻译成普通人能用的东西",
-    "synced_at": "2026-02-23T03:01:29.480110+00:00"
   }
 ]
