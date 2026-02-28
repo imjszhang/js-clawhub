@@ -185,6 +185,31 @@
     "synced_at": "2026-02-28T06:02:47.819912+00:00"
   },
   {
+    "id": "2027100972334583829",
+    "date": "2026-02-28",
+    "author": "@karankendre",
+    "author_url": "https://x.com/karankendre",
+    "tweet_url": "https://x.com/karankendre/status/2027100972334583829",
+    "title": {
+      "en-US": "Using MaxClaw instead of Mac mini/VPS to host agent, no more huge API bills.",
+      "zh-CN": "使用 MaxClaw 替代 Mac mini 或 VPS 来托管 Agent，不再需要支付高额 API 费用。"
+    },
+    "summary": {
+      "en-US": "MaxClaw/OpenClaw 托管方案对比",
+      "zh-CN": "60万曝光 + 托管 vs 本地之争，评论区讨论成本效益，用「不争之争」框架重新诠释这场工具之争。"
+    },
+    "relevance": "MaxClaw/OpenClaw 托管方案对比",
+    "score": 0.76,
+    "engagement": {
+      "likes": 3387,
+      "replies": 54,
+      "retweets": 156,
+      "views": 606595
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T10:02:49.370916+00:00"
+  },
+  {
     "id": "2027328412122218636",
     "date": "2026-02-28",
     "author": "@Amank1412",
@@ -5296,34 +5321,6 @@
     "js_take": {
       "en-US": "Every update is infrastructure for the inner world. Discord voice is perception, Gemini 3.1 is reasoning, ecosystem expansion is execution. That's Jarvis law in motion.",
       "zh-CN": "每一次更新都是里世界的基础设施。Discord语音是感知，Gemini 3.1是推理，生态扩张是执行。这就是Jarvis定律的运作。"
-    }
-  },
-  {
-    "id": "2025336865130152240",
-    "date": "2026-02-22",
-    "author": "@chiefofautism",
-    "author_url": "https://x.com/chiefofautism",
-    "tweet_url": "https://x.com/chiefofautism/status/2025336865130152240",
-    "title": {
-      "en-US": "Karpathy called OpenClaw security nightmare, bought Mac Mini for nanoclaw",
-      "zh-CN": "Karpathy称OpenClaw是安全噩梦，转投4000行代码的nanoclaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全 + nanoclaw替代 + Karpathy关注",
-      "zh-CN": "OpenClaw安全、nanoclaw替代方案与Karpathy关注"
-    },
-    "relevance": "OpenClaw安全 + nanoclaw替代 + Karpathy关注",
-    "score": 0.89,
-    "engagement": {
-      "likes": 85,
-      "replies": 11,
-      "retweets": 10
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T01:04:43.184355+00:00",
-    "js_take": {
-      "en-US": "4,000 lines vs 400K isn't about quantity—it's philosophy. Agents in the inner world need auditable simplicity, not feature bloat. Complexity is the enemy of security.",
-      "zh-CN": "4000行对40万行不是数量问题，是哲学问题。里世界的Agent需要可审计的简洁，而非功能堆砌。复杂性是安全的敌人。"
     }
   }
 ]
