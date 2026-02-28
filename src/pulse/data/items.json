@@ -234,6 +234,31 @@
     "synced_at": "2026-02-28T06:02:47.819916+00:00"
   },
   {
+    "id": "2027089884398452760",
+    "date": "2026-02-28",
+    "author": "@eeelistar",
+    "author_url": "https://x.com/eeelistar",
+    "tweet_url": "https://x.com/eeelistar/status/2027089884398452760",
+    "title": {
+      "en-US": "Anthropic removing paywalls. OpenClaw free + open source heated up AI race to benefit users.",
+      "zh-CN": "Anthropic 正在移除付费墙，OpenClaw 免费开源的特性加剧了 AI 竞争，最终让用户受益。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 对 AI 行业竞争格局的影响",
+      "zh-CN": "88万曝光 + 行业趋势话题，评论区讨论竞争策略，用「不争之争」的道家智慧能为这场开源vs闭源之争提供独特视角。"
+    },
+    "relevance": "OpenClaw 对 AI 行业竞争格局的影响",
+    "score": 0.74,
+    "engagement": {
+      "likes": 8588,
+      "replies": 61,
+      "retweets": 368,
+      "views": 885560
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T09:02:39.876256+00:00"
+  },
+  {
     "id": "2027245195872620960",
     "date": "2026-02-28",
     "author": "@profitfounder",
@@ -5377,30 +5402,5 @@
       "en-US": "4,000 lines vs 400K isn't about quantity—it's philosophy. Agents in the inner world need auditable simplicity, not feature bloat. Complexity is the enemy of security.",
       "zh-CN": "4000行对40万行不是数量问题，是哲学问题。里世界的Agent需要可审计的简洁，而非功能堆砌。复杂性是安全的敌人。"
     }
-  },
-  {
-    "id": "2025228409094181332",
-    "date": "2026-02-22",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2025228409094181332",
-    "title": {
-      "en-US": "OpenClaw: token providers PR not calls, services make skills not core features",
-      "zh-CN": "OpenClaw生态原则：核心精简，边缘生长"
-    },
-    "summary": {
-      "en-US": "OpenClaw官方立场 + 生态策略 + 开源哲学",
-      "zh-CN": "OpenClaw官方立场、生态策略与开源哲学"
-    },
-    "relevance": "OpenClaw官方立场 + 生态策略 + 开源哲学",
-    "score": 0.88,
-    "engagement": {
-      "likes": 1031,
-      "replies": 97,
-      "retweets": 31
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "核心与生态的分界是系统的智慧——OpenClaw保持内核稳定，让能力在边缘演化，这是顺势而为的架构",
-    "synced_at": "2026-02-21T17:03:35.873923+00:00"
   }
 ]
