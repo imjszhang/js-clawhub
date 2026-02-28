@@ -133,6 +133,30 @@
     "synced_at": "2026-02-28T18:02:57.239196+00:00"
   },
   {
+    "id": "2027772545601311003",
+    "date": "2026-03-01",
+    "author": "@sukh_saroy",
+    "author_url": "https://x.com/sukh_saroy",
+    "tweet_url": "https://x.com/sukh_saroy/status/2027772545601311003",
+    "title": {
+      "en-US": "OpenClaw Studio mission control center for agents",
+      "zh-CN": "介绍OpenClaw Studio——一个本地运行的AI agent任务控制中心，支持实时聊天、审批门控、任务调度等功能"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Agent监控、mission control",
+      "zh-CN": "\"任务控制中心\"这个隐喻听起来很强大，但它暗示的是一种需要持续人类监督的代理——真正的自主性不需要实时监控，过度的可视化和审批门控反而把代理变成了需要保姆的婴儿。（做纠正：指出概念误用）"
+    },
+    "relevance": "OpenClaw、Agent监控、mission control",
+    "score": 0.74,
+    "engagement": {
+      "likes": 239,
+      "replies": 16,
+      "retweets": 35
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T23:02:30.804114+00:00"
+  },
+  {
     "id": "2027714510837182840",
     "date": "2026-03-01",
     "author": "@zstmfhy",
@@ -5358,31 +5382,5 @@
     "comment_type": "add_insight",
     "suggested_angle": "从「里世界交互层」角度评论：表世界的手动操作正在被里世界的推理链取代",
     "synced_at": "2026-02-22T21:05:37.551473+00:00"
-  },
-  {
-    "id": "2025629137638150218",
-    "date": "2026-02-23",
-    "author": "@witcheer",
-    "author_url": "https://x.com/witcheer",
-    "tweet_url": "https://x.com/witcheer/status/2025629137638150218",
-    "title": {
-      "en-US": "Week of running OpenClaw 24/7: infrastructure solid, own email, GitHub, 10 Google Alerts, reads inbox every 2 hours",
-      "zh-CN": "分享一周 24/7 运行 OpenClaw 的实战经验：基础设施稳固，有自己的邮箱、GitHub、10个 Google 警报，每2小时读取收件箱更新记忆"
-    },
-    "summary": {
-      "en-US": "OpenClaw 运维、自主 Agent、里世界建设",
-      "zh-CN": "展示长期运行的真实经验，可以用「无为而治」评论这种让系统自主运转的哲学"
-    },
-    "relevance": "OpenClaw 运维、自主 Agent、里世界建设",
-    "score": 0.72,
-    "engagement": {
-      "likes": 24,
-      "replies": 15,
-      "retweets": 0,
-      "views": 3101
-    },
-    "comment_type": "share_experience",
-    "suggested_angle": "用「无为而治」评论：搭好系统，让它自己跑，这是最高级的自动化",
-    "synced_at": "2026-02-22T21:05:37.551481+00:00"
   }
 ]
