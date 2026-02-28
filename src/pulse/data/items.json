@@ -161,6 +161,30 @@
     "synced_at": "2026-02-28T05:02:21.956329+00:00"
   },
   {
+    "id": "2027320446807629953",
+    "date": "2026-02-28",
+    "author": "@JulianGoldieSEO",
+    "author_url": "https://x.com/JulianGoldieSEO",
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/2027320446807629953",
+    "title": {
+      "en-US": "OpenClaw launched Mission Control dashboard for agent orchestration",
+      "zh-CN": "OpenClaw 发布 Mission Control，一个集中管理所有 agent 的仪表盘，支持看板、agent 间对话监控、实时审批等功能"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台新功能、agent 编排基础设施",
+      "zh-CN": "产品发布类推文，评论区追捧功能特性，用\"无为\"概念来重新定义\"控制\"的悖论能制造认知反差"
+    },
+    "relevance": "OpenClaw 平台新功能、agent 编排基础设施",
+    "score": 0.78,
+    "engagement": {
+      "likes": 371,
+      "replies": 10,
+      "retweets": 28
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T06:02:47.819912+00:00"
+  },
+  {
     "id": "2027328412122218636",
     "date": "2026-02-28",
     "author": "@Amank1412",
@@ -184,6 +208,30 @@
     },
     "comment_type": "provoke",
     "synced_at": "2026-02-28T03:02:53.176950+00:00"
+  },
+  {
+    "id": "2027439397449437288",
+    "date": "2026-02-28",
+    "author": "@simplifyinAI",
+    "author_url": "https://x.com/simplifyinAI",
+    "tweet_url": "https://x.com/simplifyinAI/status/2027439397449437288",
+    "title": {
+      "en-US": "OpenClaw integrates Scrapling for web scraping without Cloudflare blocks",
+      "zh-CN": "OpenClaw 集成 Scrapling，可以绕过 Cloudflare 抓取任意网站，速度比 BeautifulSoup 快 774 倍"
+    },
+    "summary": {
+      "en-US": "OpenClaw 技术能力、agent 工具链",
+      "zh-CN": "技术能力炫耀类推文，评论区关注性能数字，用\"表/里世界\"框架来定位这场技术军备竞赛的深层意义"
+    },
+    "relevance": "OpenClaw 技术能力、agent 工具链",
+    "score": 0.75,
+    "engagement": {
+      "likes": 361,
+      "replies": 14,
+      "retweets": 34
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T06:02:47.819916+00:00"
   },
   {
     "id": "2027245195872620960",
@@ -5357,64 +5405,6 @@
     "js_take": {
       "en-US": "This setup isn't consumption—it's infrastructure. Compute sovereignty in the inner world. The sooner you lay the foundation, the sooner the migration accelerates.",
       "zh-CN": "这套配置不是消费，是基础设施。里世界的算力主权。越早打好基础，迁徙就越快加速。"
-    }
-  },
-  {
-    "id": "2024846068245017031",
-    "date": "2026-02-22",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2024846068245017031",
-    "title": {
-      "en-US": "SaaS is dead, OpenClaw replaced subscriptions, $480 to $1,245 API costs",
-      "zh-CN": "SaaS已死：OpenClaw取代订阅，成本480→1245美元"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 成本现实 + SaaS替代",
-      "zh-CN": "OpenClaw、成本现实与SaaS替代"
-    },
-    "relevance": "OpenClaw + 成本现实 + SaaS替代",
-    "score": 0.88,
-    "engagement": {
-      "likes": 10107,
-      "replies": 237,
-      "retweets": 501
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "1245美元不是成本是投资——里世界的Agent需要持续投入，这是系统建设的真实代价，不是魔法是工程",
-    "synced_at": "2026-02-22T09:03:37.806866+00:00",
-    "js_take": {
-      "en-US": "$1,245 isn't cost—it's investment. Agents in the inner world require continuous commitment. That's the real price of system building; not magic, but engineering.",
-      "zh-CN": "1245美元不是成本，是投资。里世界的Agent需要持续投入。这是系统建设的真实代价；不是魔法，是工程。"
-    }
-  },
-  {
-    "id": "2025231564247081328",
-    "date": "2026-02-22",
-    "author": "@petergyang",
-    "author_url": "https://x.com/petergyang",
-    "tweet_url": "https://x.com/petergyang/status/2025231564247081328",
-    "title": {
-      "en-US": "Two camps on OpenClaw: hype vs reality, $1k FelixCraftAI experiment",
-      "zh-CN": "OpenClaw两极化观点：炒作与现实"
-    },
-    "summary": {
-      "en-US": "OpenClaw认知分歧 + Agent创业 + 高影响力账号",
-      "zh-CN": "OpenClaw认知分歧、Agent创业与高影响力账号"
-    },
-    "relevance": "OpenClaw认知分歧 + Agent创业 + 高影响力账号",
-    "score": 0.87,
-    "engagement": {
-      "likes": 283,
-      "replies": 31,
-      "retweets": 16
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "两种观点都 miss the point——OpenClaw不是工具升级，是交互层迁徙；批评来自表世界思维，兴奋来自里世界直觉",
-    "synced_at": "2026-02-21T18:01:54.196035+00:00",
-    "js_take": {
-      "en-US": "Both camps miss the point—OpenClaw isn't a tool upgrade, it's an interaction layer migration. The critics think in surface world terms; the excitement comes from inner world intuition.",
-      "zh-CN": "两派都搞错了重点——OpenClaw不是工具升级，是交互层的迁徙。批评者用表世界思维思考，兴奋来自里世界的直觉。"
     }
   }
 ]
