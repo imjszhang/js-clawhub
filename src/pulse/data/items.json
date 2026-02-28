@@ -133,6 +133,30 @@
     "synced_at": "2026-02-28T18:02:57.239196+00:00"
   },
   {
+    "id": "2027714510837182840",
+    "date": "2026-03-01",
+    "author": "@zstmfhy",
+    "author_url": "https://x.com/zstmfhy",
+    "tweet_url": "https://x.com/zstmfhy/status/2027714510837182840",
+    "title": {
+      "en-US": "OpenClaw tool for web scraping, zero API cost",
+      "zh-CN": "分享一个让AI代理免费抓取各大平台数据的开源CLI工具，支持Twitter/X、YouTube、B站等，零API费用"
+    },
+    "summary": {
+      "en-US": "OpenClaw工具、AI Agent数据获取",
+      "zh-CN": "所有人在庆祝\"零API费用\"能获取更多数据，但没人谈论当AI代理能免费读取一切时，信息噪音会淹没真正重要的信号——获取成本趋近于零时，筛选和判断能力才是真正的稀缺资源。（更深度：指出现有讨论的盲区）"
+    },
+    "relevance": "OpenClaw工具、AI Agent数据获取",
+    "score": 0.72,
+    "engagement": {
+      "likes": 294,
+      "replies": 8,
+      "retweets": 66
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T21:04:50.253370+00:00"
+  },
+  {
     "id": "2027472474984878539",
     "date": "2026-02-28",
     "author": "@rauchg",
@@ -5360,31 +5384,5 @@
     "comment_type": "share_experience",
     "suggested_angle": "用「无为而治」评论：搭好系统，让它自己跑，这是最高级的自动化",
     "synced_at": "2026-02-22T21:05:37.551481+00:00"
-  },
-  {
-    "id": "2025681978973094104",
-    "date": "2026-02-23",
-    "author": "@itsPaulAi",
-    "author_url": "https://x.com/itsPaulAi",
-    "tweet_url": "https://x.com/itsPaulAi/status/2025681978973094104",
-    "title": {
-      "en-US": "No Mac Mini needed for OpenClaw, can host on old Android phone, faster cheaper same features",
-      "zh-CN": "不需要 Mac Mini 运行 OpenClaw，旧安卓手机就行，更快更便宜功能一样"
-    },
-    "summary": {
-      "en-US": "OpenClaw、硬件门槛、民主化",
-      "zh-CN": "触及「人的差距」核心——不是工具门槛，是认知门槛；可以用「无为」评论技术普惠"
-    },
-    "relevance": "OpenClaw、硬件门槛、民主化",
-    "score": 0.72,
-    "engagement": {
-      "likes": 25,
-      "replies": 4,
-      "retweets": 5,
-      "views": 2260
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "用「顺势而为」评论：降低门槛就是顺应技术普惠的势，里世界不应有硬件门槛",
-    "synced_at": "2026-02-22T22:02:59.764330+00:00"
   }
 ]
