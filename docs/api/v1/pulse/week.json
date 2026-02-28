@@ -29,6 +29,85 @@
     }
   },
   {
+    "id": "2027765247256494313",
+    "date": "2026-03-01",
+    "author": "@marclou",
+    "author_url": "https://x.com/marclou",
+    "tweet_url": "https://x.com/marclou/status/2027765247256494313",
+    "title": {
+      "en-US": "125 OpenClaw startups, $274k revenue in 30 days, potentially $30M market.",
+      "zh-CN": "125 个 OpenClaw 创业项目，30 天创造 $274k 收入，整个市场规模可能达 $3000 万。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 商业生态，收入数据",
+      "zh-CN": "做纠正：$274k 收入是结果，不是原因。真正的价值在于 OpenClaw 让创造者专注于「做什么」而不是「怎么做」——工具隐入背景，创造力自然涌现。"
+    },
+    "relevance": "OpenClaw 商业生态，收入数据",
+    "score": 0.81,
+    "engagement": {
+      "likes": 283,
+      "replies": 53,
+      "retweets": 13,
+      "views": 18873
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T18:02:57.239189+00:00",
+    "js_take": {
+      "en-US": "$274k looks good. But 125 teams not stuck on their stack? That's 无为 (wú wéi) — tools fade, work flows.",
+      "zh-CN": "收入数字很漂亮。但125个团队没人被困在技术栈里？这就是 无为 (wú wéi)——工具退到幕后，创造自然涌现。"
+    }
+  },
+  {
+    "id": "2027452429311283253",
+    "date": "2026-03-01",
+    "author": "@milesdeutscher",
+    "author_url": "https://x.com/milesdeutscher",
+    "tweet_url": "https://x.com/milesdeutscher/status/2027452429311283253",
+    "title": {
+      "en-US": "Perplexity Computer tool challenges OpenClaw, easier setup, better security.",
+      "zh-CN": "Perplexity 推出 Computer 工具挑战 OpenClaw，声称设置更简单、安全性更好。"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Perplexity 竞争对比",
+      "zh-CN": "做纠正：Perplexity 的「更强」是表世界的军备竞赛，真正的胜负在里世界——谁能成为创造者「自然选择」的工具，而不是被强行推销的工具。"
+    },
+    "relevance": "OpenClaw vs Perplexity 竞争对比",
+    "score": 0.79,
+    "engagement": {
+      "likes": 2572,
+      "replies": 104,
+      "retweets": 248,
+      "views": 645293
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T18:02:57.239193+00:00"
+  },
+  {
+    "id": "2027708410225938558",
+    "date": "2026-03-01",
+    "author": "@seekjourney",
+    "author_url": "https://x.com/seekjourney",
+    "tweet_url": "https://x.com/seekjourney/status/2027708410225938558",
+    "title": {
+      "en-US": "jina-cli tool gives OpenClaw eyes to read X and webpages smoothly.",
+      "zh-CN": "jina-cli 工具让 OpenClaw 拥有「眼睛」，能流畅阅读 X 和网页内容。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 工具扩展，信息获取",
+      "zh-CN": "做纠正：给 Agent 装「眼睛」解决了「看得到」，但没解决「看得懂」和「知道该看什么」。信息过载时代，筛选比获取稀缺 100 倍。"
+    },
+    "relevance": "OpenClaw 工具扩展，信息获取",
+    "score": 0.74,
+    "engagement": {
+      "likes": 164,
+      "replies": 16,
+      "retweets": 31,
+      "views": 32028
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-28T18:02:57.239196+00:00"
+  },
+  {
     "id": "2027472474984878539",
     "date": "2026-02-28",
     "author": "@rauchg",
@@ -5240,80 +5319,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-23T03:01:29.480110+00:00"
-  },
-  {
-    "id": "2025660762186981729",
-    "date": "2026-02-23",
-    "author": "@_MaxBlade",
-    "author_url": "https://x.com/_MaxBlade",
-    "tweet_url": "https://x.com/_MaxBlade/status/2025660762186981729",
-    "title": {
-      "en-US": "QuickClaw gets massive upgrade this week, it's a secret",
-      "zh-CN": "QuickClaw 本周重大升级，保密"
-    },
-    "summary": {
-      "en-US": "OpenClaw 生态、产品更新",
-      "zh-CN": "OpenClaw 生态持续分化，可以用「势」评论产品演化的趋势"
-    },
-    "relevance": "OpenClaw 生态、产品更新",
-    "score": 0.72,
-    "engagement": {
-      "likes": 45,
-      "replies": 8,
-      "retweets": 1,
-      "views": 2890
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T06:09:51.711968+00:00"
-  },
-  {
-    "id": "2025891004986061207",
-    "date": "2026-02-23",
-    "author": "@heynavtoor",
-    "author_url": "https://x.com/heynavtoor",
-    "tweet_url": "https://x.com/heynavtoor/status/2025891004986061207",
-    "title": {
-      "en-US": "OpenClaw v2026.2.21 released with 100+ fixes, 76 contributors, Gemini 3.1, Discord voice",
-      "zh-CN": "OpenClaw v2026.2.21 发布，100+ 修复，76 位贡献者，支持 Gemini 3.1 和 Discord 语音"
-    },
-    "summary": {
-      "en-US": "OpenClaw、版本更新、Jarvis定律",
-      "zh-CN": "OpenClaw 向 Jarvis 进化的典型案例，可以用「Jarvis定律」评论产品演化的必然性"
-    },
-    "relevance": "OpenClaw、版本更新、Jarvis定律",
-    "score": 0.72,
-    "engagement": {
-      "likes": 35,
-      "replies": 12,
-      "retweets": 5,
-      "views": 2942
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-23T12:12:27.744765+00:00"
-  },
-  {
-    "id": "2025892950396534790",
-    "date": "2026-02-23",
-    "author": "@chenchengpro",
-    "author_url": "https://x.com/chenchengpro",
-    "tweet_url": "https://x.com/chenchengpro/status/2025892950396534790",
-    "title": {
-      "en-US": "My claw has 22 skills: browser, search, twitter, code-agent, image-gen, trends, cron, memory",
-      "zh-CN": "我的 claw 有 22 个 skills：浏览器、搜索、推特、编程助手、图像生成、趋势追踪、定时任务、记忆"
-    },
-    "summary": {
-      "en-US": "OpenClaw、技能生态、Agent 能力",
-      "zh-CN": "展示 OpenClaw 技能栈，评论区是中文，用「建系统」评论技能组合的系统思维"
-    },
-    "relevance": "OpenClaw、技能生态、Agent 能力",
-    "score": 0.72,
-    "engagement": {
-      "likes": 165,
-      "replies": 2,
-      "retweets": 25,
-      "views": 9197
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-23T14:03:52.925961+00:00"
   }
 ]
