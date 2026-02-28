@@ -384,6 +384,31 @@
     "synced_at": "2026-02-28T07:03:51.096913+00:00"
   },
   {
+    "id": "2027688477203312869",
+    "date": "2026-02-28",
+    "author": "@thekitze",
+    "author_url": "https://x.com/thekitze",
+    "tweet_url": "https://x.com/thekitze/status/2027688477203312869",
+    "title": {
+      "en-US": "OpenClaw cron job every 1 min since last night, completely lost its mind.",
+      "zh-CN": "用户让 OpenClaw 每分钟执行一次 cron 任务，结果系统完全失控了。"
+    },
+    "summary": {
+      "en-US": "OpenClaw cron 任务稳定性问题",
+      "zh-CN": "OpenClaw 核心话题 + cron 调试痛点，评论区讨论技术问题，用「无为而治」框架评论过度控制系统的悖论。"
+    },
+    "relevance": "OpenClaw cron 任务稳定性问题",
+    "score": 0.72,
+    "engagement": {
+      "likes": 28,
+      "replies": 7,
+      "retweets": 1,
+      "views": 3854
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T11:02:20.448751+00:00"
+  },
+  {
     "id": "2027237170323607609",
     "date": "2026-02-28",
     "author": "@kloss_xyz",
@@ -5368,35 +5393,6 @@
     "js_take": {
       "en-US": "Personal finance isn't a feature—it's an entry point. Agents in the inner world are taking over financial decisions in the surface world. That's the migration of trust.",
       "zh-CN": "个人理财不是功能，是入口。里世界的Agent正在接管表世界的金融决策。这是信任的迁移。"
-    }
-  },
-  {
-    "id": "2025257951007588582",
-    "date": "2026-02-22",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2025257951007588582",
-    "title": {
-      "en-US": "OpenClaw beta: Gemini 3.1, Discord subagents, voice channels, BytePlus",
-      "zh-CN": "OpenClaw beta更新：Gemini 3.1、Discord子代理、语音频道"
-    },
-    "summary": {
-      "en-US": "OpenClaw官方更新 + 多模型支持 + 生态扩展",
-      "zh-CN": "OpenClaw官方更新、多模型支持与生态扩展"
-    },
-    "relevance": "OpenClaw官方更新 + 多模型支持 + 生态扩展",
-    "score": 0.89,
-    "engagement": {
-      "likes": 577,
-      "replies": 72,
-      "retweets": 52
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "每一次更新都是里世界的基建升级——Discord语音是感知，Gemini 3.1是决策，生态扩张是执行",
-    "synced_at": "2026-02-21T18:01:54.196031+00:00",
-    "js_take": {
-      "en-US": "Every update is infrastructure for the inner world. Discord voice is perception, Gemini 3.1 is reasoning, ecosystem expansion is execution. That's Jarvis law in motion.",
-      "zh-CN": "每一次更新都是里世界的基础设施。Discord语音是感知，Gemini 3.1是推理，生态扩张是执行。这就是Jarvis定律的运作。"
     }
   }
 ]
