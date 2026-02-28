@@ -1,5 +1,34 @@
 [
   {
+    "id": "2027684197763371515",
+    "date": "2026-03-01",
+    "author": "@TechWith_Nova",
+    "author_url": "https://x.com/TechWith_Nova",
+    "tweet_url": "https://x.com/TechWith_Nova/status/2027684197763371515",
+    "title": {
+      "en-US": "OpenClaw bot runs website sales business 24/7, finds local businesses, builds sites, emails previews.",
+      "zh-CN": "OpenClaw Bot 24/7 自动运行网站销售业务：寻找没有网站的本地商家、自动生成定制网站、发送预览链接。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 自动化商业应用",
+      "zh-CN": "做纠正：24/7全自动运转听起来很酷，但真正的智慧是知道什么时候该停下来。不停机的系统不等于好系统，知道何时不干预比一直干预更难。"
+    },
+    "relevance": "OpenClaw 自动化商业应用",
+    "score": 0.82,
+    "engagement": {
+      "likes": 223,
+      "replies": 209,
+      "retweets": 48,
+      "views": 15570
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-02-28T17:07:28.155688+00:00",
+    "js_take": {
+      "en-US": "Running 24/7 isn't the flex. Stopping at the right time is. That's 无为 (wú wéi) — the art of not forcing.",
+      "zh-CN": "24/7 连轴转不是什么本事，懂得适时停下才是。这就是 无为 (wú wéi)——不勉强的智慧。"
+    }
+  },
+  {
     "id": "2027472474984878539",
     "date": "2026-02-28",
     "author": "@rauchg",
@@ -5355,31 +5384,5 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-23T14:03:52.925961+00:00"
-  },
-  {
-    "id": "2025651770631029052",
-    "date": "2026-02-23",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2025651770631029052",
-    "title": {
-      "en-US": "ClawHub is a security minefield. 1-Prompt Rule to safely rebuild skills without malware",
-      "zh-CN": "ClawHub 是安全雷区，提出「1-Prompt 规则」用提示词安全重建技能，避免下载恶意代码"
-    },
-    "summary": {
-      "en-US": "OpenClaw 安全、ClawHub、Skill 审计",
-      "zh-CN": "触及 Skill 安全这个关键议题，可以用「信」与「防」的东方安全哲学来评论"
-    },
-    "relevance": "OpenClaw 安全、ClawHub、Skill 审计",
-    "score": 0.7,
-    "engagement": {
-      "likes": 32,
-      "replies": 3,
-      "retweets": 1,
-      "views": 6337
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "从「信任但验证」的系统安全思维评论：里世界的扩展必须建立在安全底座上",
-    "synced_at": "2026-02-22T21:05:37.551483+00:00"
   }
 ]
