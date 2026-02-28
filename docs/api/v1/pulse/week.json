@@ -137,6 +137,30 @@
     "synced_at": "2026-02-28T03:02:53.176947+00:00"
   },
   {
+    "id": "2027383420540825825",
+    "date": "2026-02-28",
+    "author": "@discountifu",
+    "author_url": "https://x.com/discountifu",
+    "tweet_url": "https://x.com/discountifu/status/2027383420540825825",
+    "title": {
+      "en-US": "OpenClaw now supports ACP calls, use Codex CLI elegantly instead of writing code directly in lobster",
+      "zh-CN": "OpenClaw 现在支持 ACP 调用了，可以用更优雅的方式调用 Codex 等专用编程 CLI，而不是直接在 OpenClaw 里写代码"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台更新、开发者体验、Acp 协议支持",
+      "zh-CN": "讨论工具演进路径，评论区可能关注技术实现，用\"表里世界\"框架来重新定位这场讨论能制造认知反差"
+    },
+    "relevance": "OpenClaw 平台更新、开发者体验、Acp 协议支持",
+    "score": 0.78,
+    "engagement": {
+      "likes": 155,
+      "replies": 10,
+      "retweets": 19
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-02-28T05:02:21.956329+00:00"
+  },
+  {
     "id": "2027328412122218636",
     "date": "2026-02-28",
     "author": "@Amank1412",
@@ -5310,34 +5334,6 @@
     "js_take": {
       "en-US": "Both camps miss the point—OpenClaw isn't a tool upgrade, it's an interaction layer migration. The critics think in surface world terms; the excitement comes from inner world intuition.",
       "zh-CN": "两派都搞错了重点——OpenClaw不是工具升级，是交互层的迁徙。批评者用表世界思维思考，兴奋来自里世界的直觉。"
-    }
-  },
-  {
-    "id": "2025235638149120507",
-    "date": "2026-02-22",
-    "author": "@boringmarketer",
-    "author_url": "https://x.com/boringmarketer",
-    "tweet_url": "https://x.com/boringmarketer/status/2025235638149120507",
-    "title": {
-      "en-US": "OpenClaw pro tips: Sonnet 4.6 daily driver, spawn subagents",
-      "zh-CN": "OpenClaw技巧：Sonnet 4.6主模型+子代理"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 最佳实践 + 模型选择",
-      "zh-CN": "OpenClaw、最佳实践与模型选择"
-    },
-    "relevance": "OpenClaw + 最佳实践 + 模型选择",
-    "score": 0.87,
-    "engagement": {
-      "likes": 498,
-      "replies": 63,
-      "retweets": 31
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-22T05:03:59.307569+00:00",
-    "js_take": {
-      "en-US": "Multiple models aren't redundancy—they're division of labor. Agents in the inner world need specialized collaboration. That's the complexity of the ecosystem.",
-      "zh-CN": "多模型不是冗余，是分工。里世界的Agent需要专业化协作。这就是生态的复杂性。"
     }
   }
 ]
