@@ -409,6 +409,31 @@
     "synced_at": "2026-02-28T11:02:20.448751+00:00"
   },
   {
+    "id": "2027456243447554170",
+    "date": "2026-02-28",
+    "author": "@Argona0x",
+    "author_url": "https://x.com/Argona0x",
+    "tweet_url": "https://x.com/Argona0x/status/2027456243447554170",
+    "title": {
+      "en-US": "OpenClaw agent making $1000/day with Mac Mini, three sub-agents talking to each other.",
+      "zh-CN": "用 OpenClaw Agent 在 Mac Mini 上每天赚1000美元，三个子 Agent 互相协作。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 多 Agent 协作，自动化盈利",
+      "zh-CN": "7万曝光 + 实战案例，评论区讨论技术实现，用「无为而治」框架评论让 Agent 自己赚钱的系统思维。"
+    },
+    "relevance": "OpenClaw 多 Agent 协作，自动化盈利",
+    "score": 0.71,
+    "engagement": {
+      "likes": 527,
+      "replies": 51,
+      "retweets": 18,
+      "views": 72672
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-02-28T12:02:27.289454+00:00"
+  },
+  {
     "id": "2027237170323607609",
     "date": "2026-02-28",
     "author": "@kloss_xyz",
@@ -5364,35 +5389,6 @@
     "js_take": {
       "en-US": "Self-sufficiency isn't a game—it's selection. Agents in the inner world that can sustain themselves survive. That's evolutionary pressure.",
       "zh-CN": "自负盈亏不是游戏，是筛选。里世界能养活自己的Agent才能存活。这就是进化压力。"
-    }
-  },
-  {
-    "id": "2025305403895284028",
-    "date": "2026-02-22",
-    "author": "@andrewchen",
-    "author_url": "https://x.com/andrewchen",
-    "tweet_url": "https://x.com/andrewchen/status/2025305403895284028",
-    "title": {
-      "en-US": "OpenClaw for personal finance idea",
-      "zh-CN": "OpenClaw个人理财：集成银行、税务、投资组合"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 个人理财 + 金融场景",
-      "zh-CN": "OpenClaw、个人理财与金融场景"
-    },
-    "relevance": "OpenClaw + 个人理财 + 金融场景",
-    "score": 0.9,
-    "engagement": {
-      "likes": 788,
-      "replies": 248,
-      "retweets": 38
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "个人理财不是功能是入口——里世界的Agent开始接管表世界的金融决策，这是信任的迁移",
-    "synced_at": "2026-02-22T07:04:38.502676+00:00",
-    "js_take": {
-      "en-US": "Personal finance isn't a feature—it's an entry point. Agents in the inner world are taking over financial decisions in the surface world. That's the migration of trust.",
-      "zh-CN": "个人理财不是功能，是入口。里世界的Agent正在接管表世界的金融决策。这是信任的迁移。"
     }
   }
 ]
