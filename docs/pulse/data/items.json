@@ -160,6 +160,30 @@
     "synced_at": "2026-03-01T03:04:17.540586+00:00"
   },
   {
+    "id": "2027897105784967648",
+    "date": "2026-03-01",
+    "author": "@petergyang",
+    "author_url": "https://x.com/petergyang",
+    "tweet_url": "https://x.com/petergyang/status/2027897105784967648",
+    "title": {
+      "en-US": "Claude/OpenClaw can hook up to any API, making separate AI websites/apps hard to succeed.",
+      "zh-CN": "指出Claude和OpenClaw可以连接任何API、MCP、插件，使得其他独立的AI网站和应用很难成功——用户更倾向于让AI代理完成所有事，而不是访问不同的网站。"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent 生态整合",
+      "zh-CN": "「一个Agent取代所有App」听起来是效率的终极形态，但真正的盲区在于：当所有交互都被一个接口吞噬时，多样性也就消失了——单一入口意味着单一样式，而最终所有Agent都会趋同。"
+    },
+    "relevance": "OpenClaw / Agent 生态整合",
+    "score": 0.78,
+    "engagement": {
+      "likes": 164,
+      "replies": 47,
+      "retweets": 9
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-01T10:09:41.980599+00:00"
+  },
+  {
     "id": "2027910038820417873",
     "date": "2026-03-01",
     "author": "@VadimStrizheus",
@@ -379,6 +403,30 @@
     },
     "comment_type": "provoke",
     "synced_at": "2026-03-01T06:03:37.946628+00:00"
+  },
+  {
+    "id": "2027881834579927428",
+    "date": "2026-03-01",
+    "author": "@kloss_xyz",
+    "author_url": "https://x.com/kloss_xyz",
+    "tweet_url": "https://x.com/kloss_xyz/status/2027881834579927428",
+    "title": {
+      "en-US": "Coming home to your OpenClaw setup after being gone for a work trip.",
+      "zh-CN": "展示出差回家后看到OpenClaw设置的场景——Agent一直在运行，像宠物或室友一样在等待。"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent 存在感",
+      "zh-CN": "「回家看到Agent在等你」很温馨，但真正的悖论在于：Agent不需要休息，也从不「离开」，所以它的「在场」是没有重量的——真正的陪伴需要缺席的可能性。"
+    },
+    "relevance": "OpenClaw / Agent 存在感",
+    "score": 0.71,
+    "engagement": {
+      "likes": 134,
+      "replies": 13,
+      "retweets": 2
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-01T10:09:41.980603+00:00"
   },
   {
     "id": "2027472474984878539",
@@ -5269,55 +5317,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-22T22:02:59.764329+00:00"
-  },
-  {
-    "id": "2025645159384240530",
-    "date": "2026-02-23",
-    "author": "@swarms_corp",
-    "author_url": "https://x.com/swarms_corp",
-    "tweet_url": "https://x.com/swarms_corp/status/2025645159384240530",
-    "title": {
-      "en-US": "ClawSwarm: lightweight multi-agent alternative to OpenClaw, under 10MB, runs 24/7 on Telegram/Discord/WhatsApp",
-      "zh-CN": "ClawSwarm：OpenClaw 的轻量级多 Agent 替代品，不到 10MB，能在 Telegram/Discord/WhatsApp 24/7 运行"
-    },
-    "summary": {
-      "en-US": "多 Agent 系统、OpenClaw 生态、Jarvis定律",
-      "zh-CN": "体现 Jarvis 定律下的生态分化，可以用「势」评论轻量 Agent 框架的崛起趋势"
-    },
-    "relevance": "多 Agent 系统、OpenClaw 生态、Jarvis定律",
-    "score": 0.76,
-    "engagement": {
-      "likes": 82,
-      "replies": 25,
-      "retweets": 22,
-      "views": 8894
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T01:05:45.491931+00:00"
-  },
-  {
-    "id": "2025742047957971352",
-    "date": "2026-02-23",
-    "author": "@mamagnus00",
-    "author_url": "https://x.com/mamagnus00",
-    "tweet_url": "https://x.com/mamagnus00/status/2025742047957971352",
-    "title": {
-      "en-US": "I love Ironclaw - agent first CRM. How to share with team so not on localhost, best way to sync with db?",
-      "zh-CN": "喜欢 Ironclaw（Agent 优先的 CRM），询问如何与团队共享（不是 localhost）以及同步数据库的最佳方式"
-    },
-    "summary": {
-      "en-US": "Ironclaw（OpenClaw 生态）、Agent 工具、部署架构",
-      "zh-CN": "展示 OpenClaw 生态分化（Ironclaw），可以用 Jarvis 定律评论 Agent 工具的演化"
-    },
-    "relevance": "Ironclaw（OpenClaw 生态）、Agent 工具、部署架构",
-    "score": 0.76,
-    "engagement": {
-      "likes": 44,
-      "replies": 7,
-      "retweets": 1,
-      "views": 4962
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T05:11:09.103338+00:00"
   }
 ]
