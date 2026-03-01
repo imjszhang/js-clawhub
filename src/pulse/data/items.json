@@ -58,6 +58,34 @@
     }
   },
   {
+    "id": "2027953432326197508",
+    "date": "2026-03-01",
+    "author": "@VadimStrizheus",
+    "author_url": "https://x.com/VadimStrizheus",
+    "tweet_url": "https://x.com/VadimStrizheus/status/2027953432326197508",
+    "title": {
+      "en-US": "Company as .md files: 12 agents in OpenClaw replace departments, no people/offices/salaries.",
+      "zh-CN": "展示2026年的\"公司\"形态：没有人员、办公室和工资，只有.claude/agents/目录下的.md文件，12个Agent分别承担工程、市场、设计、运营、测试等职能。"
+    },
+    "summary": {
+      "en-US": "OpenClaw / AI Agent 组织形态",
+      "zh-CN": "把公司变成.md文件听起来是效率的极致，但真正的误区在于：没有摩擦的组织不是优化，是失去了产生意外创新的土壤——完全的\"顺滑\"意味着完全的\"可预测\"，而可预测的系统从不产生突破。"
+    },
+    "relevance": "OpenClaw / AI Agent 组织形态",
+    "score": 0.81,
+    "engagement": {
+      "likes": 596,
+      "replies": 37,
+      "retweets": 53
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-01T07:05:54.233486+00:00",
+    "js_take": {
+      "en-US": "12 .md files running smoothly isn't the win you think it is. No friction means no surprises—and every real breakthrough starts with an accident.",
+      "zh-CN": "12个.md文件顺滑运转，并非你以为的胜利。没有摩擦就没有意外，而每一次真正的突破都始于意外。"
+    }
+  },
+  {
     "id": "2027452429311283253",
     "date": "2026-03-01",
     "author": "@milesdeutscher",
@@ -5348,31 +5376,5 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "用「建系统」思维评论：保护 agent 的「灵魂」就是保护系统投资的复利",
     "synced_at": "2026-02-23T00:06:00.773018+00:00"
-  },
-  {
-    "id": "2025743438486938044",
-    "date": "2026-02-23",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2025743438486938044",
-    "title": {
-      "en-US": "New CHUNKY OpenClaw beta up, waiting before flipping switch to catch regressions",
-      "zh-CN": "新的 CHUNKY OpenClaw beta 已发布，等待几小时再切换以捕获回归问题"
-    },
-    "summary": {
-      "en-US": "OpenClaw、版本发布、工程实践",
-      "zh-CN": "展示谨慎的发布策略，可以用「无为而治」的工程思维评论渐进式部署的价值"
-    },
-    "relevance": "OpenClaw、版本发布、工程实践",
-    "score": 0.75,
-    "engagement": {
-      "likes": 210,
-      "replies": 34,
-      "retweets": 12,
-      "views": 11799
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "用「顺势而为」评论：渐进式发布不是慢，是顺应系统稳定性的势",
-    "synced_at": "2026-02-23T02:06:54.806004+00:00"
   }
 ]
