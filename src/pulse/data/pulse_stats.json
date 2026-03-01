@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-01T19:03:53.630734+00:00",
+  "updated_at": "2026-03-01T21:08:53.658629+00:00",
   "this_week": {
     "total_items": 200,
     "avg_score": 0.8,
-    "unique_authors": 151,
+    "unique_authors": 150,
     "top_items": [
       {
         "id": "2026019344602288166",
@@ -208,6 +208,30 @@
           "en-US": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings.",
           "zh-CN": "You've outsourced the 表 world (biǎo shìjiè) to your agent. The 里 world isn't an escape—it's what remains when the surface is automated. Five minutes is the signal, not the savings."
         }
+      },
+      {
+        "id": "2028189467782369287",
+        "date": "2026-03-02",
+        "author": "@AlexFinn",
+        "author_url": "https://x.com/AlexFinn",
+        "tweet_url": "https://x.com/AlexFinn/status/2028189467782369287",
+        "title": {
+          "en-US": "Download OpenClaw and have autonomous revenue-generating AI employee tonight",
+          "zh-CN": "下载 OpenClaw，今晚获得自主盈利的 AI 员工"
+        },
+        "summary": {
+          "en-US": "OpenClaw + AI自动化 + 收入生成",
+          "zh-CN": "OpenClaw + AI 自动化 + 创收应用"
+        },
+        "relevance": "OpenClaw + AI自动化 + 收入生成",
+        "score": 0.91,
+        "engagement": {
+          "likes": 283,
+          "replies": 102,
+          "retweets": 7
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-03-01T21:08:30.502028+00:00"
       },
       {
         "id": "2027472474984878539",
@@ -695,6 +719,30 @@
         "synced_at": "2026-03-01T14:04:10.496980+00:00"
       },
       {
+        "id": "2028138200024199314",
+        "date": "2026-03-02",
+        "author": "@zachlloydtweets",
+        "author_url": "https://x.com/zachlloydtweets",
+        "tweet_url": "https://x.com/zachlloydtweets/status/2028138200024199314",
+        "title": {
+          "en-US": "New /orchestrate skill to automatically spawn and manage subagents",
+          "zh-CN": "全新 /orchestrate 技能：自动创建并管理子代理"
+        },
+        "summary": {
+          "en-US": "OpenClaw + 多Agent协调 + 开发者工具",
+          "zh-CN": "OpenClaw + 多 Agent 协调 + 开发者工具"
+        },
+        "relevance": "OpenClaw + 多Agent协调 + 开发者工具",
+        "score": 0.86,
+        "engagement": {
+          "likes": 88,
+          "replies": 14,
+          "retweets": 8
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-03-01T21:08:30.502032+00:00"
+      },
+      {
         "id": "2026163648033419730",
         "date": "2026-02-24",
         "author": "@steipete",
@@ -981,69 +1029,11 @@
           "en-US": "Everyone wants full access until they don't. Where's your wall?",
           "zh-CN": "人人都想要完整权限，直到他们不再想要。你的墙在哪里？"
         }
-      },
-      {
-        "id": "2025920587172909163",
-        "date": "2026-02-25",
-        "author": "@@Jiaxi_Cui",
-        "author_url": "https://x.com/Jiaxi_Cui",
-        "tweet_url": "https://x.com/Jiaxi_Cui/status/2025920587172909163",
-        "title": {
-          "en-US": "OpenClaw evolution: from skepticism to admiration",
-          "zh-CN": "OpenClaw 的进化：从怀疑到钦佩"
-        },
-        "summary": {
-          "en-US": "OpenClaw、势、迭代",
-          "zh-CN": "OpenClaw、势、迭代"
-        },
-        "relevance": "OpenClaw、势、迭代",
-        "score": 0.85,
-        "engagement": {
-          "likes": 730,
-          "replies": 39,
-          "retweets": 81,
-          "views": 111625
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-02-25T05:03:32.761639+00:00",
-        "js_take": {
-          "en-US": "Not code elegance—it's 势 (shì). OpenClaw isn't a product, it's flowing momentum.",
-          "zh-CN": "不是代码优雅——是势。OpenClaw 不是产品，是流动的势。"
-        }
-      },
-      {
-        "id": "2026465418052063428",
-        "date": "2026-02-25",
-        "author": "@@gagarot200",
-        "author_url": "https://x.com/gagarot200",
-        "tweet_url": "https://x.com/gagarot200/status/2026465418052063428",
-        "title": {
-          "en-US": "OpenClaw automated sales, infinite appointments",
-          "zh-CN": "OpenClaw自动销售，无限获客"
-        },
-        "summary": {
-          "en-US": "OpenClaw、自动化销售、无为而治",
-          "zh-CN": "OpenClaw、自动化销售、无为而治"
-        },
-        "relevance": "OpenClaw、自动化销售、无为而治",
-        "score": 0.85,
-        "engagement": {
-          "likes": 668,
-          "replies": 16,
-          "retweets": 32,
-          "views": 86226
-        },
-        "comment_type": "wisdom_drop",
-        "synced_at": "2026-02-25T07:03:42.795901+00:00",
-        "js_take": {
-          "en-US": "Sales while you sleep. 无为而治 (wú wéi ér zhì): set the edge, let the flow bring clients.",
-          "zh-CN": "睡着也能成交。无为而治 (wú wéi ér zhì)：设定边界，让流量自来。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 151
+    "unique_authors": 150
   }
 }
