@@ -233,6 +233,34 @@
     "synced_at": "2026-02-28T23:02:30.804114+00:00"
   },
   {
+    "id": "2027979271495709010",
+    "date": "2026-03-01",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2027979271495709010",
+    "title": {
+      "en-US": "OpenClaw needs repair mode when invalid config prevents gateway start.",
+      "zh-CN": "建议OpenClaw增加修复模式：当配置错误导致网关无法启动时，启动一个救援Agent来帮助调试和解决配置问题。"
+    },
+    "summary": {
+      "en-US": "OpenClaw / 系统可靠性",
+      "zh-CN": "大家都在讨论如何防止配置错误，但真正的盲区在于：当你需要专门造一个Agent来救另一个Agent时，问题已经不在配置本身，而在系统复杂度的失控——修复模式是补丁，不是解法。"
+    },
+    "relevance": "OpenClaw / 系统可靠性",
+    "score": 0.73,
+    "engagement": {
+      "likes": 106,
+      "replies": 38,
+      "retweets": 2
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-01T08:23:11.626326+00:00",
+    "js_take": {
+      "en-US": "Repair mode is a patch, not progress. Needing one agent to save another means your problem isn't the config—it's that you've built something too complex to fix itself.",
+      "zh-CN": "修复模式只是补丁，算不上进步。需要用一个Agent去救另一个Agent，说明问题不在配置——而是系统本身建得太复杂，连自我修复都做不到。"
+    }
+  },
+  {
     "id": "2027714510837182840",
     "date": "2026-03-01",
     "author": "@zstmfhy",
@@ -5291,30 +5319,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-23T05:11:09.103338+00:00"
-  },
-  {
-    "id": "2025648193502085215",
-    "date": "2026-02-23",
-    "author": "@BrianRoemmele",
-    "author_url": "https://x.com/BrianRoemmele",
-    "tweet_url": "https://x.com/BrianRoemmele/status/2025648193502085215",
-    "title": {
-      "en-US": "Andrew Karpathy came to same conclusion: use Nano/Pico/ZeroClaw for employees, not OpenClaw. No Mac Mini needed.",
-      "zh-CN": "Andrew Karpathy 也得出了相同结论：给员工用 Nano/Pico/ZeroClaw 而非 OpenClaw，且不需要 Mac Mini"
-    },
-    "summary": {
-      "en-US": "OpenClaw 生态、Agent 部署策略",
-      "zh-CN": "触及表/里世界迁徙的核心议题：不同场景需要不同形态的 Agent，这是系统思维的体现"
-    },
-    "relevance": "OpenClaw 生态、Agent 部署策略",
-    "score": 0.75,
-    "engagement": {
-      "likes": 93,
-      "replies": 9,
-      "retweets": 12,
-      "views": 7516
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T20:02:27.096061+00:00"
   }
 ]
