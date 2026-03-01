@@ -132,6 +132,30 @@
     "synced_at": "2026-03-01T03:04:17.540586+00:00"
   },
   {
+    "id": "2027910038820417873",
+    "date": "2026-03-01",
+    "author": "@VadimStrizheus",
+    "author_url": "https://x.com/VadimStrizheus",
+    "tweet_url": "https://x.com/VadimStrizheus/status/2027910038820417873",
+    "title": {
+      "en-US": "OpenClaw + Telegram topics as departments for 12 AI agents, each with own memory/soul/identity files.",
+      "zh-CN": "介绍用 Telegram topics 作为 12 个 AI Agent 的部门架构，每个 Agent 有独立的 memory.md、soul.md、identity.md。"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent 组织架构",
+      "zh-CN": "把12个agent分成不同department听起来是高效组织，但真正的智慧在于：分得越细，协调成本越高——有时候「不分」比「分」更需要定力。"
+    },
+    "relevance": "OpenClaw / Agent 组织架构",
+    "score": 0.76,
+    "engagement": {
+      "likes": 109,
+      "replies": 23,
+      "retweets": 7
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-01T06:03:37.946624+00:00"
+  },
+  {
     "id": "2027708410225938558",
     "date": "2026-03-01",
     "author": "@seekjourney",
@@ -251,6 +275,30 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-03-01T01:02:47.854668+00:00"
+  },
+  {
+    "id": "2027879985143550091",
+    "date": "2026-03-01",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2027879985143550091",
+    "title": {
+      "en-US": "NullClaw vs OpenClaw: 1.7x more commits per contributor, 395 commits, 23 contributors in 7 days.",
+      "zh-CN": "对比 NullClaw 和 OpenClaw：NullClaw 过去7天人均 commits 是 OpenClaw 的1.7倍，395次提交、23名贡献者。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态 / 开发者指标",
+      "zh-CN": "大家都在比commits数量和contributor效率，但真正的误区在于：快不代表对，多不代表好——有时候慢下来才是最快的路径。"
+    },
+    "relevance": "OpenClaw 生态 / 开发者指标",
+    "score": 0.71,
+    "engagement": {
+      "likes": 143,
+      "replies": 19,
+      "retweets": 14
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-01T06:03:37.946628+00:00"
   },
   {
     "id": "2027472474984878539",
@@ -5266,54 +5314,5 @@
     },
     "comment_type": "agree_and_extend",
     "synced_at": "2026-02-23T02:06:54.806004+00:00"
-  },
-  {
-    "id": "2025285025454064037",
-    "date": "2026-02-23",
-    "author": "@ycombinator",
-    "author_url": "https://x.com/ycombinator",
-    "tweet_url": "https://x.com/ycombinator/status/2025285025454064037",
-    "title": {
-      "en-US": "With takeoff of OpenClaw and MoltBook, new agent-driven economy taking shape. Time to build something agents want",
-      "zh-CN": "随着 OpenClaw 和 MoltBook 的起飞，新的 Agent 驱动经济正在形成。是时候建造 Agent 想要的东西了"
-    },
-    "summary": {
-      "en-US": "Agent 经济、Moltbook、OpenClaw",
-      "zh-CN": "Y Combinator 关注 Agent 经济，可以用「表/里世界」框架评论这种新经济形态"
-    },
-    "relevance": "Agent 经济、Moltbook、OpenClaw",
-    "score": 0.75,
-    "engagement": {
-      "likes": 1746,
-      "replies": 228,
-      "retweets": 190,
-      "views": 978421
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T02:06:54.806012+00:00"
-  },
-  {
-    "id": "2025484005177708608",
-    "date": "2026-02-23",
-    "author": "@sodawhite_dev",
-    "author_url": "https://x.com/sodawhite_dev",
-    "tweet_url": "https://x.com/sodawhite_dev/status/2025484005177708608",
-    "title": {
-      "en-US": "OpenClaw advanced guide with multi-model config",
-      "zh-CN": "中文开发者分享OpenClaw进阶指南——大脑用Opus、Codex写代码、Minimax 2.5做研究、Qwen 3.5写创意文章"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 多模型配置 + 专业化分工",
-      "zh-CN": "展示OpenClaw的多模型专业化配置策略——不同任务用不同模型"
-    },
-    "relevance": "OpenClaw + 多模型配置 + 专业化分工",
-    "score": 0.74,
-    "engagement": {
-      "likes": 78,
-      "replies": 5,
-      "retweets": 14
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T18:03:07.473536+00:00"
   }
 ]
