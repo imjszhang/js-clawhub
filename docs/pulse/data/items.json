@@ -51,6 +51,30 @@
     "synced_at": "2026-03-01T17:06:15.151493+00:00"
   },
   {
+    "id": "2027998700203872491",
+    "date": "2026-03-02",
+    "author": "@linyiLYi",
+    "author_url": "https://x.com/linyiLYi",
+    "tweet_url": "https://x.com/linyiLYi/status/2027998700203872491",
+    "title": {
+      "en-US": "在M4 Max上跑通本地OpenClaw，所有数据不离开电脑，成了最后一个知道伊朗出事的人",
+      "zh-CN": "在M4 Max MacBook Pro上本地运行OpenClaw工作流，数据不离开电脑，结果成了全世界最后一个知道伊朗出事的人"
+    },
+    "summary": {
+      "en-US": "OpenClaw本地部署 + 信息茧房 - 核心相关",
+      "zh-CN": "作者在炫耀本地部署的安全性和速度，却无意中揭示了一个悖论：完全自主的技术带来的是完全的信息封闭。我们在追求\"数据不离开自己电脑\"的同时，也切断了与外部世界的有效连接。这不是自由，是另一种形式的束缚。"
+    },
+    "relevance": "OpenClaw本地部署 + 信息茧房 - 核心相关",
+    "score": 0.71,
+    "engagement": {
+      "likes": 598,
+      "retweets": 49,
+      "replies": 66
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-01T19:03:53.609821+00:00"
+  },
+  {
     "id": "2028086920308236544",
     "date": "2026-03-01",
     "author": "@coreyganim",
@@ -5316,30 +5340,5 @@
     },
     "comment_type": "agree_and_extend",
     "synced_at": "2026-02-22T22:02:59.764326+00:00"
-  },
-  {
-    "id": "2025588559718310077",
-    "date": "2026-02-23",
-    "author": "@frxiaobei",
-    "author_url": "https://x.com/frxiaobei",
-    "tweet_url": "https://x.com/frxiaobei/status/2025588559718310077",
-    "title": {
-      "en-US": "OpenClaw deployment often breaks, especially upgrades. Sharing workaround: main gateway + multiple independent agents",
-      "zh-CN": "服务器部署 OpenClaw 经常玩坏，升级或改配置就躺平。分享骚操作：主 gateway 挂多个独立 agent"
-    },
-    "summary": {
-      "en-US": "OpenClaw、系统架构、故障隔离",
-      "zh-CN": "展示系统思维——用架构设计解决单点故障，可以用「建系统」的 Civilization 高阶玩法来评论"
-    },
-    "relevance": "OpenClaw、系统架构、故障隔离",
-    "score": 0.78,
-    "engagement": {
-      "likes": 87,
-      "replies": 10,
-      "retweets": 6,
-      "views": 9867
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T23:02:03.716403+00:00"
   }
 ]
