@@ -1,5 +1,35 @@
 [
   {
+    "id": "2027700333997433272",
+    "date": "2026-03-01",
+    "author": "@aiedge_",
+    "author_url": "https://x.com/aiedge_",
+    "tweet_url": "https://x.com/aiedge_/status/2027700333997433272",
+    "title": {
+      "en-US": "Perplexity Computer is BETTER than OpenClaw. Top 10 mega prompts inside.",
+      "zh-CN": "声称Perplexity Computer比OpenClaw更好，并附带了10个强大的prompt。"
+    },
+    "summary": {
+      "en-US": "AI agent平台对比（OpenClaw vs Perplexity），技术选型讨论",
+      "zh-CN": "「更好」是一个陷阱——真正的智慧不是选一个赢家，而是看清每个工具在什么情境下该被使用。强行比较两个 evolving 的系统，本身就是一种误导。"
+    },
+    "relevance": "AI agent平台对比（OpenClaw vs Perplexity），技术选型讨论",
+    "score": 0.84,
+    "engagement": {
+      "likes": 786,
+      "retweets": 68,
+      "replies": 39,
+      "views": 144478,
+      "bookmarks": 1376
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-01T13:08:55.486054+00:00",
+    "js_take": {
+      "en-US": "The obsession with \"BETTER\" is the trap. You don't need a winner—you need to know if you're looking for a co-thinker or a button-pusher. Two completely different beasts.",
+      "zh-CN": "执着于「谁更好」是个陷阱。你不需要决出胜负，而是要先想清楚：你要的是一个能并肩思考的伙伴，还是一个只会执行指令的工具。这两者是截然不同的存在。"
+    }
+  },
+  {
     "id": "2027684197763371515",
     "date": "2026-03-01",
     "author": "@TechWith_Nova",
@@ -357,6 +387,62 @@
     "synced_at": "2026-03-01T08:20:01.919563+00:00"
   },
   {
+    "id": "2028023940636094475",
+    "date": "2026-03-01",
+    "author": "@discountifu",
+    "author_url": "https://x.com/discountifu",
+    "tweet_url": "https://x.com/discountifu/status/2028023940636094475",
+    "title": {
+      "en-US": "OpenClaw daily push: Readhub, Karpathy RSS, GitHub Trending, HN, V2EX, Douban, airdrops.",
+      "zh-CN": "分享自己配置的OpenClaw每日推送：Readhub早报、Karpathy RSS、GitHub Trending、HN、V2EX、豆瓣、空投项目。"
+    },
+    "summary": {
+      "en-US": "OpenClaw / 信息消费",
+      "zh-CN": "用Agent聚合7个信息源听起来很高效，但真正的悖论在于：信息越多，注意力越分散——被筛选过的信息再被Agent筛选一次，剩下的可能只有噪音。"
+    },
+    "relevance": "OpenClaw / 信息消费",
+    "score": 0.72,
+    "engagement": {
+      "likes": 76,
+      "replies": 6,
+      "retweets": 8
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-01T13:08:55.486047+00:00",
+    "js_take": {
+      "en-US": "Seven feeds filtered twice doesn't give you insight—it gives you faster noise. More input isn't understanding, it's just organized distraction.",
+      "zh-CN": "过滤两遍七个信息流不会让你有洞察，只会让你更快地接触到噪音。输入再多也不是理解，只是换种方式分散注意力。"
+    }
+  },
+  {
+    "id": "2027730505651638676",
+    "date": "2026-03-01",
+    "author": "@JulianGoldieSEO",
+    "author_url": "https://x.com/JulianGoldieSEO",
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/2027730505651638676",
+    "title": {
+      "en-US": "You don't need Mac Mini or $200/month cloud. OpenClaw runs 24/7 AI worker locally, encrypted, scheduled tasks.",
+      "zh-CN": "宣传OpenClaw不需要Mac Mini或昂贵云服务，本地运行24/7 AI worker，数据加密，支持定时任务。"
+    },
+    "summary": {
+      "en-US": "OpenClaw / 本地优先",
+      "zh-CN": "「本地运行、数据加密」是技术卖点，但更深层的张力在于：把AI从云端搬到本地，你获得的是控制感，还是把维护负担从服务商转移给了自己？"
+    },
+    "relevance": "OpenClaw / 本地优先",
+    "score": 0.72,
+    "engagement": {
+      "likes": 513,
+      "replies": 22,
+      "retweets": 53
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-01T13:08:55.486051+00:00",
+    "js_take": {
+      "en-US": "\"No $200 cloud stack\" ignores the cost of your time debugging at 2am. You didn't eliminate the cloud—you just became the on-call engineer.",
+      "zh-CN": "「省下200美元云费用」却忽略了凌晨两点 debug 的时间代价。你不是摆脱了云服务商，只是把自己变成了随时待命的运维。"
+    }
+  },
+  {
     "id": "2027896153342435795",
     "date": "2026-03-01",
     "author": "@ollama",
@@ -427,6 +513,66 @@
     },
     "comment_type": "provoke",
     "synced_at": "2026-03-01T10:09:41.980603+00:00"
+  },
+  {
+    "id": "2028062088175013930",
+    "date": "2026-03-01",
+    "author": "@kloss_xyz",
+    "author_url": "https://x.com/kloss_xyz",
+    "tweet_url": "https://x.com/kloss_xyz/status/2028062088175013930",
+    "title": {
+      "en-US": "Rules without reinforcement? Simply decoration. Ask OpenClaw this prompt...",
+      "zh-CN": "指出没有强化的规则只是装饰，并建议向OpenClaw询问特定prompt。"
+    },
+    "summary": {
+      "en-US": "OpenClaw使用策略，规则与执行机制的设计哲学",
+      "zh-CN": "「规则需要强化才能生效」听起来合理，但这句话本身就暴露了问题：如果你需要不断加固，说明系统设计的出发点错了——好的系统应该让正确的行为成为阻力最小的路径，而不是靠惩罚来约束。"
+    },
+    "relevance": "OpenClaw使用策略，规则与执行机制的设计哲学",
+    "score": 0.71,
+    "engagement": {
+      "likes": 32,
+      "retweets": 2,
+      "replies": 12,
+      "views": 2446,
+      "bookmarks": 22
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-01T13:08:55.486056+00:00",
+    "js_take": {
+      "en-US": "If your rules need reinforcement, you've already lost. Good systems make the right choice the lazy choice—not the obedient one.",
+      "zh-CN": "如果你的规则需要反复强调才能执行，那已经失败了。优秀的系统会让「做对的事」成为最省力的选项，而不是靠人乖乖听话。"
+    }
+  },
+  {
+    "id": "2027922756441112759",
+    "date": "2026-03-01",
+    "author": "@FFEE_2025",
+    "author_url": "https://x.com/FFEE_2025",
+    "tweet_url": "https://x.com/FFEE_2025/status/2027922756441112759",
+    "title": {
+      "en-US": "OpenClaw一键部署工具+桌面版Manager推荐",
+      "zh-CN": "分享OpenClaw一键部署工具和桌面版Manager，面向非技术用户降低使用门槛。"
+    },
+    "summary": {
+      "en-US": "OpenClaw部署与用户体验，技术门槛与普及",
+      "zh-CN": "「一键部署」解决的是表层问题——真正卡住人的不是安装步骤，而是安装之后「该让agent做什么」的认知空白。工具越简单，使用者的思维负担反而越重。"
+    },
+    "relevance": "OpenClaw部署与用户体验，技术门槛与普及",
+    "score": 0.7,
+    "engagement": {
+      "likes": 333,
+      "retweets": 103,
+      "replies": 3,
+      "views": 37208,
+      "bookmarks": 518
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-01T13:08:55.486059+00:00",
+    "js_take": {
+      "en-US": "One-click install fixes the wrong problem. The hard part isn't getting it running—it's knowing what to ask when you have it. Most people freeze at that step.",
+      "zh-CN": "一键安装解决的是假问题。真正难的不是把东西跑起来，而是拿到工具后不知道该问什么。大多数人就卡在这一步。"
+    }
   },
   {
     "id": "2027472474984878539",
@@ -5192,130 +5338,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-23T05:11:09.103348+00:00"
-  },
-  {
-    "id": "2025839340832850277",
-    "date": "2026-02-23",
-    "author": "@CodeByPoonam",
-    "author_url": "https://x.com/CodeByPoonam",
-    "tweet_url": "https://x.com/CodeByPoonam/status/2025839340832850277",
-    "title": {
-      "en-US": "Google suspended OpenClaw users from Antigravity AI Platform, called it malicious usage",
-      "zh-CN": "Google 封禁 OpenClaw 用户，称其为「恶意使用」，开源社区愤怒"
-    },
-    "summary": {
-      "en-US": "OpenClaw、平台冲突、大 tech 对抗",
-      "zh-CN": "争议性话题，评论区情绪激烈，用「势」的概念评论平台对抗的必然性能让人驻足"
-    },
-    "relevance": "OpenClaw、平台冲突、大 tech 对抗",
-    "score": 0.78,
-    "engagement": {
-      "likes": 88,
-      "replies": 32,
-      "retweets": 12,
-      "views": 9581
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-23T10:02:29.890651+00:00"
-  },
-  {
-    "id": "2025584775692730590",
-    "date": "2026-02-23",
-    "author": "@_avdept",
-    "author_url": "https://x.com/_avdept",
-    "tweet_url": "https://x.com/_avdept/status/2025584775692730590",
-    "title": {
-      "en-US": "SaaS is dead, OpenClaw replaced subscriptions. $480/month to $1,245/month API costs + 15 hours fixing yaml",
-      "zh-CN": "SaaS 已死，OpenClaw 取代了所有订阅。从每月 480 美元订阅费变成 1245 美元 API 费 + 每周 15 小时修 yaml"
-    },
-    "summary": {
-      "en-US": "OpenClaw、成本真相、讽刺幽默",
-      "zh-CN": "用讽刺揭示真相：里世界迁徙有成本，可以用「表/里世界」框架评论这种转换的真实代价"
-    },
-    "relevance": "OpenClaw、成本真相、讽刺幽默",
-    "score": 0.77,
-    "engagement": {
-      "likes": 145,
-      "replies": 38,
-      "retweets": 6,
-      "views": 7367
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T02:06:54.806011+00:00"
-  },
-  {
-    "id": "2025661000020803994",
-    "date": "2026-02-23",
-    "author": "@RalphFischer_",
-    "author_url": "https://x.com/RalphFischer_",
-    "tweet_url": "https://x.com/RalphFischer_/status/2025661000020803994",
-    "title": {
-      "en-US": "OpenClaw hit #2 OSS on GitHub stars, passed Linux and Python, only React left at #1",
-      "zh-CN": "OpenClaw 在 GitHub star 数上达到开源项目第2名，超越了 Linux 和 Python，只剩 React 在第1"
-    },
-    "summary": {
-      "en-US": "OpenClaw 里程碑、开源社区、Agent 趋势",
-      "zh-CN": "重要里程碑印证表/里世界迁徙趋势，可以用「势」的概念评论社区力量"
-    },
-    "relevance": "OpenClaw 里程碑、开源社区、Agent 趋势",
-    "score": 0.76,
-    "engagement": {
-      "likes": 116,
-      "replies": 8,
-      "retweets": 13,
-      "views": 6399
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-22T21:05:37.551468+00:00"
-  },
-  {
-    "id": "2025653286070849854",
-    "date": "2026-02-23",
-    "author": "@Saboo_Shubham_",
-    "author_url": "https://x.com/Saboo_Shubham_",
-    "tweet_url": "https://x.com/Saboo_Shubham_/status/2025653286070849854",
-    "title": {
-      "en-US": "First OpenClaw wrapper was my management team: six agents, 24/7 on Mac Mini",
-      "zh-CN": "第一个 OpenClaw 包装器就是他自己的管理团队：六个 agent，在 Mac Mini 上 24/7 运行"
-    },
-    "summary": {
-      "en-US": "OpenClaw、多 Agent 系统、个人管理",
-      "zh-CN": "完美体现「建系统不造奇观」理念——用 Agent 建管理系统而非追求单个酷炫功能"
-    },
-    "relevance": "OpenClaw、多 Agent 系统、个人管理",
-    "score": 0.76,
-    "engagement": {
-      "likes": 22,
-      "replies": 6,
-      "retweets": 4,
-      "views": 4326
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-22T21:05:37.551479+00:00"
-  },
-  {
-    "id": "2025608082844172681",
-    "date": "2026-02-23",
-    "author": "@cetorres",
-    "author_url": "https://x.com/cetorres",
-    "tweet_url": "https://x.com/cetorres/status/2025608082844172681",
-    "title": {
-      "en-US": "PicoClaw: ultra-efficient AI assistant in Go, 99% less memory, 400x faster, runs on $10 hardware",
-      "zh-CN": "PicoClaw：用 Go 写的超高效 AI 助手，内存减少 99%，启动快 400 倍，能在 10 美元硬件上运行"
-    },
-    "summary": {
-      "en-US": "OpenClaw 生态、轻量级 Agent、Jarvis定律",
-      "zh-CN": "体现 Jarvis 定律下的形态分化，可以用「势」判断哪种形态会胜出"
-    },
-    "relevance": "OpenClaw 生态、轻量级 Agent、Jarvis定律",
-    "score": 0.76,
-    "engagement": {
-      "likes": 68,
-      "replies": 7,
-      "retweets": 11,
-      "views": 5446
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T22:02:59.764329+00:00"
   }
 ]
