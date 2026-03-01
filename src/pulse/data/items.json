@@ -108,6 +108,30 @@
     "synced_at": "2026-02-28T19:04:35.565883+00:00"
   },
   {
+    "id": "2027919829794251037",
+    "date": "2026-03-01",
+    "author": "@aigclink",
+    "author_url": "https://x.com/aigclink",
+    "tweet_url": "https://x.com/aigclink/status/2027919829794251037",
+    "title": {
+      "en-US": "128 OpenClaw startups generated $280k revenue in 30 days. Top one: $50k/month.",
+      "zh-CN": "分享数据：过去30天，128家基于 OpenClaw 的初创公司共产生28万美元营收，平均每家月收入约2200美元，第一名月营收5万美元。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态 / Agent 创业",
+      "zh-CN": "平均数总是骗人的——2200美元的平均值掩盖了第一名5万美元的事实。真正的信号不是\"大家都能赚钱\"，而是\"赢家通吃的结构已经形成\"。"
+    },
+    "relevance": "OpenClaw 生态 / Agent 创业",
+    "score": 0.78,
+    "engagement": {
+      "likes": 102,
+      "replies": 5,
+      "retweets": 25
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-01T03:04:17.540586+00:00"
+  },
+  {
     "id": "2027708410225938558",
     "date": "2026-03-01",
     "author": "@seekjourney",
@@ -5354,31 +5378,5 @@
     "comment_type": "agree_and_extend",
     "suggested_angle": "社区不是功能是生态——里世界的Agent需要共生环境，这是网络效应的本质",
     "synced_at": "2026-02-22T19:03:55.858031+00:00"
-  },
-  {
-    "id": "2025663141758263348",
-    "date": "2026-02-23",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2025663141758263348",
-    "title": {
-      "en-US": "OpenClaw security PSA: check .env file, API keys in system prompt are visible to group chat members",
-      "zh-CN": "OpenClaw 安全提醒：检查 .env 文件，如果 API key 在系统提示词里，群聊里所有人都能看到"
-    },
-    "summary": {
-      "en-US": "OpenClaw 安全实践、Agent 运维",
-      "zh-CN": "实用安全建议，可以用「无为而治」的工程思维评论安全设计原则"
-    },
-    "relevance": "OpenClaw 安全实践、Agent 运维",
-    "score": 0.74,
-    "engagement": {
-      "likes": 38,
-      "replies": 1,
-      "retweets": 3,
-      "views": 3184
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "用工程化的「无为」评论：安全不是做更多，而是让敏感信息自然不存在于可见层",
-    "synced_at": "2026-02-22T21:05:37.551470+00:00"
   }
 ]
