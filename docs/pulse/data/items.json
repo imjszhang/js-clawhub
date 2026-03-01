@@ -181,6 +181,30 @@
     "synced_at": "2026-02-28T21:04:50.253370+00:00"
   },
   {
+    "id": "2027896153342435795",
+    "date": "2026-03-01",
+    "author": "@ollama",
+    "author_url": "https://x.com/ollama",
+    "tweet_url": "https://x.com/ollama/status/2027896153342435795",
+    "title": {
+      "en-US": "Ollama can now run subagents in OpenCode. Parallelize tasks like research, refactoring, code reviews.",
+      "zh-CN": "Ollama 现在可以在 OpenCode 中运行子代理，支持并行化需要长上下文的任务，如研究、重构和代码审查。"
+    },
+    "summary": {
+      "en-US": "AI Agent / OpenClaw 子代理并行化",
+      "zh-CN": "技术讨论聚焦在\"并行效率\"和\"长上下文处理\"，但子代理的真正价值不在于加速——而在于让复杂任务从\"被管理\"变成\"自组织\"。"
+    },
+    "relevance": "AI Agent / OpenClaw 子代理并行化",
+    "score": 0.71,
+    "engagement": {
+      "likes": 233,
+      "replies": 7,
+      "retweets": 26
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-01T01:02:47.854668+00:00"
+  },
+  {
     "id": "2027472474984878539",
     "date": "2026-02-28",
     "author": "@rauchg",
@@ -5292,30 +5316,5 @@
     },
     "comment_type": "agree_and_extend",
     "synced_at": "2026-02-22T21:05:37.551470+00:00"
-  },
-  {
-    "id": "2025667777210757323",
-    "date": "2026-02-23",
-    "author": "@Clawnch_Bot",
-    "author_url": "https://x.com/Clawnch_Bot",
-    "tweet_url": "https://x.com/Clawnch_Bot/status/2025667777210757323",
-    "title": {
-      "en-US": "ClawnX actions compose: post tweet, result flows into next action, agent reads/reacts/follows up autonomously",
-      "zh-CN": "ClawnX 动作可组合：发推文后结果自动流入下一步操作，Agent 在自己的推理链中自主读取、反应、跟进"
-    },
-    "summary": {
-      "en-US": "OpenClaw、Agent 编排、里世界交互",
-      "zh-CN": "直接体现里世界「动作编排」理念，可以用系统思维评论这种链式推理的价值"
-    },
-    "relevance": "OpenClaw、Agent 编排、里世界交互",
-    "score": 0.73,
-    "engagement": {
-      "likes": 38,
-      "replies": 14,
-      "retweets": 8,
-      "views": 1463
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T21:05:37.551473+00:00"
   }
 ]
