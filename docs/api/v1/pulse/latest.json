@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-01T13:09:26.866268+00:00",
+  "updated_at": "2026-03-01T14:04:26.133696+00:00",
   "this_week": {
     "total_items": 200,
     "avg_score": 0.8,
@@ -662,6 +662,32 @@
         }
       },
       {
+        "id": "2028086920308236544",
+        "date": "2026-03-01",
+        "author": "@coreyganim",
+        "author_url": "https://x.com/coreyganim",
+        "tweet_url": "https://x.com/coreyganim/status/2028086920308236544",
+        "title": {
+          "en-US": "Best Cowork setup guide - how to implement in under 15 minutes",
+          "zh-CN": "Claude Cowork 最佳配置指南：15分钟快速搭建"
+        },
+        "summary": {
+          "en-US": "OpenClaw/Claude - AI工程实践，Agent开发环境配置",
+          "zh-CN": "基于 OpenClaw/Claude 的 AI 工程实践，详解 Agent 开发环境的完整配置流程。"
+        },
+        "relevance": "OpenClaw/Claude - AI工程实践，Agent开发环境配置",
+        "score": 0.87,
+        "engagement": {
+          "likes": 381,
+          "retweets": 21,
+          "replies": 9,
+          "views": 39665,
+          "bookmarks": 1003
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-03-01T14:04:10.496980+00:00"
+      },
+      {
         "id": "2026163648033419730",
         "date": "2026-02-24",
         "author": "@steipete",
@@ -999,35 +1025,6 @@
         "js_take": {
           "en-US": "Sales while you sleep. 无为而治 (wú wéi ér zhì): set the edge, let the flow bring clients.",
           "zh-CN": "睡着也能成交。无为而治 (wú wéi ér zhì)：设定边界，让流量自来。"
-        }
-      },
-      {
-        "id": "2025942482949714325",
-        "date": "2026-02-24",
-        "author": "@0xPhantomDefi",
-        "author_url": "https://x.com/0xPhantomDefi",
-        "tweet_url": "https://x.com/0xPhantomDefi/status/2025942482949714325",
-        "title": {
-          "en-US": "OpenClaw setup averaging $400K/month",
-          "zh-CN": "OpenClaw 设置月均收入 $40 万"
-        },
-        "summary": {
-          "en-US": "OpenClaw、商业化、建系统",
-          "zh-CN": "OpenClaw、商业化、建系统"
-        },
-        "relevance": "OpenClaw、商业化、建系统",
-        "score": 0.85,
-        "engagement": {
-          "likes": 345,
-          "replies": 12,
-          "retweets": 33,
-          "views": 110532
-        },
-        "comment_type": "wisdom_drop",
-        "synced_at": "2026-02-24T00:10:29.948396+00:00",
-        "js_take": {
-          "en-US": "Civilization players know: newbies build wonders, veterans build systems that work while they sleep.",
-          "zh-CN": "Civilization 玩家都懂：新手造奇观，老手建系统——睡觉时也能运转的系统。"
         }
       }
     ]
