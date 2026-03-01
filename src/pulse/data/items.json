@@ -281,6 +281,30 @@
     "synced_at": "2026-03-01T05:02:25.252852+00:00"
   },
   {
+    "id": "2028014479540174972",
+    "date": "2026-03-01",
+    "author": "@VadimStrizheus",
+    "author_url": "https://x.com/VadimStrizheus",
+    "tweet_url": "https://x.com/VadimStrizheus/status/2028014479540174972",
+    "title": {
+      "en-US": "AI agents with persistent memory: 8 SQLite DBs, 19 memory dirs, 21 shared brain files.",
+      "zh-CN": "展示AI Agent的持久化记忆架构：8个SQLite数据库、19个记忆目录、21个共享大脑文件，确保会话间不遗忘。"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent 记忆架构",
+      "zh-CN": "大家都在追求记忆的完整性——更多数据库、更多文件、更多目录——但真正的盲区在于：记忆「存储」不等于记忆「理解」，一个记得一切但不懂取舍的Agent比一个会遗忘但懂重点的Agent更危险。"
+    },
+    "relevance": "OpenClaw / Agent 记忆架构",
+    "score": 0.72,
+    "engagement": {
+      "likes": 25,
+      "replies": 2,
+      "retweets": 1
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-01T08:20:01.919563+00:00"
+  },
+  {
     "id": "2027896153342435795",
     "date": "2026-03-01",
     "author": "@ollama",
@@ -5350,31 +5374,5 @@
     "comment_type": "add_insight",
     "suggested_angle": "用「表/里世界」框架评论：OpenClaw 是里世界的入口，但里世界本身需要分层部署",
     "synced_at": "2026-02-22T20:02:27.096061+00:00"
-  },
-  {
-    "id": "2025708027656192355",
-    "date": "2026-02-23",
-    "author": "@clairevo",
-    "author_url": "https://x.com/clairevo",
-    "tweet_url": "https://x.com/clairevo/status/2025708027656192355",
-    "title": {
-      "en-US": "Built electron app to backup/sync OpenClaw knowledge files, track agent tasks, assign between agents",
-      "zh-CN": "用 Electron 做了个应用来备份同步 OpenClaw 知识文件，追踪 agent 任务，在 agent 之间分配工作"
-    },
-    "summary": {
-      "en-US": "OpenClaw、知识管理、Agent 运维",
-      "zh-CN": "展示对 Agent 持续性的重视，可以用「建系统」思维评论这种备份机制的价值"
-    },
-    "relevance": "OpenClaw、知识管理、Agent 运维",
-    "score": 0.75,
-    "engagement": {
-      "likes": 50,
-      "replies": 6,
-      "retweets": 0,
-      "views": 2847
-    },
-    "comment_type": "agree_and_extend",
-    "suggested_angle": "用「建系统」思维评论：保护 agent 的「灵魂」就是保护系统投资的复利",
-    "synced_at": "2026-02-23T00:06:00.773018+00:00"
   }
 ]
