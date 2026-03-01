@@ -1,5 +1,30 @@
 [
   {
+    "id": "2028104364976451947",
+    "date": "2026-03-02",
+    "author": "@ErickSky",
+    "author_url": "https://x.com/ErickSky",
+    "tweet_url": "https://x.com/ErickSky/status/2028104364976451947",
+    "title": {
+      "en-US": "OpenClaw pixel-art office that moves based on agent's real status",
+      "zh-CN": "给OpenClaw做了一个像素风办公室，会根据agent实时状态自动在屏幕上移动：工作时在办公桌、空闲时去休息区、出错时在bug区域"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + Agent可视化",
+      "zh-CN": "可视化agent状态的创意很棒，但把agent拟人化成一个\"在办公室上下班\"的数字员工，其实限制了我们想象AI该有的形态。更好的可视化应该是展现它独特的工作逻辑，而不是模仿人类的办公场景。"
+    },
+    "relevance": "OpenClaw生态 + Agent可视化",
+    "score": 0.82,
+    "engagement": {
+      "likes": 103,
+      "replies": 6,
+      "retweets": 7,
+      "bookmarks": 92
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-01T18:03:27.769147+00:00"
+  },
+  {
     "id": "2028128730132922760",
     "date": "2026-03-02",
     "author": "@ctatedev",
@@ -5362,31 +5387,5 @@
     "comment_type": "add_insight",
     "suggested_angle": "用「建系统」思维评论：单体故障就用分布式架构解耦，这是工程上的顺势而为",
     "synced_at": "2026-02-22T23:02:03.716403+00:00"
-  },
-  {
-    "id": "2025677973811311013",
-    "date": "2026-02-23",
-    "author": "@BenjaminBadejo",
-    "author_url": "https://x.com/BenjaminBadejo",
-    "tweet_url": "https://x.com/BenjaminBadejo/status/2025677973811311013",
-    "title": {
-      "en-US": "Give OpenClaw dedicated Google Workspace, phone number, vision/browser tools with mouse/keyboard",
-      "zh-CN": "给 OpenClaw 独立的 Google Workspace 账号、电话号码、带鼠标键盘的视觉/浏览器工具"
-    },
-    "summary": {
-      "en-US": "OpenClaw、身份系统、里世界基础设施",
-      "zh-CN": "展示 Jarvis 演化的完整形态——Agent 需要独立的数字身份才能自主，这是里世界原住民的基础设施"
-    },
-    "relevance": "OpenClaw、身份系统、里世界基础设施",
-    "score": 0.78,
-    "engagement": {
-      "likes": 154,
-      "replies": 9,
-      "retweets": 7,
-      "views": 11994
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用 Jarvis 定律评论：Agent 正在从「工具」进化为「数字生命体」，需要自己的身份证",
-    "synced_at": "2026-02-23T01:05:45.491929+00:00"
   }
 ]
