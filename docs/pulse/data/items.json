@@ -1,5 +1,31 @@
 [
   {
+    "id": "2028128730132922760",
+    "date": "2026-03-02",
+    "author": "@ctatedev",
+    "author_url": "https://x.com/ctatedev",
+    "tweet_url": "https://x.com/ctatedev/status/2028128730132922760",
+    "title": {
+      "en-US": "New agent-browser skill: control Electron apps like Discord, Figma, Notion",
+      "zh-CN": "发布新的agent-browser技能：可以控制Electron构建的桌面应用，包括Discord、Figma、Notion、Spotify和VS Code"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent能力扩展 - 桌面自动化",
+      "zh-CN": "「控制桌面应用」听起来是能力扩展，但它可能正在制造一种新的依赖——当Agent可以操作你的Discord和Figma时，你怎么区分「它在帮你」和「它在替你生活」？能力边界模糊后，人的主体性在悄悄转移。（更深度：指出能力扩展背后的主体性风险）"
+    },
+    "relevance": "OpenClaw/Agent能力扩展 - 桌面自动化",
+    "score": 0.75,
+    "engagement": {
+      "likes": 690,
+      "retweets": 36,
+      "replies": 24,
+      "views": 40700,
+      "bookmarks": 700
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-01T17:06:15.151493+00:00"
+  },
+  {
     "id": "2028086920308236544",
     "date": "2026-03-01",
     "author": "@coreyganim",
@@ -5315,30 +5341,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-23T01:05:45.491929+00:00"
-  },
-  {
-    "id": "2025745531444879609",
-    "date": "2026-02-23",
-    "author": "@Yuchenj_UW",
-    "author_url": "https://x.com/Yuchenj_UW",
-    "tweet_url": "https://x.com/Yuchenj_UW/status/2025745531444879609",
-    "title": {
-      "en-US": "OpenAI acquired OpenClaw creator, Anthropic/Google blocked OpenCode from Pro plans, only OpenAI generous",
-      "zh-CN": "OpenAI 收购了 OpenClaw 创始人后，Anthropic 和 Google 阻止 OpenCode 使用他们的 Pro 计划，只有 OpenAI 显得慷慨"
-    },
-    "summary": {
-      "en-US": "OpenClaw 生态、平台竞争、商业策略",
-      "zh-CN": "触及平台博弈和生态控制，可以用「表/里世界」框架评论基础设施自主性的重要性"
-    },
-    "relevance": "OpenClaw 生态、平台竞争、商业策略",
-    "score": 0.78,
-    "engagement": {
-      "likes": 157,
-      "replies": 32,
-      "retweets": 7,
-      "views": 10823
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T03:01:29.480105+00:00"
   }
 ]
