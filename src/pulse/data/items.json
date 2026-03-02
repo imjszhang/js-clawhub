@@ -171,6 +171,30 @@
     "synced_at": "2026-03-01T22:03:30.643726+00:00"
   },
   {
+    "id": "2028164848484528203",
+    "date": "2026-03-02",
+    "author": "@Sarv_shaktiman",
+    "author_url": "https://x.com/Sarv_shaktiman",
+    "tweet_url": "https://x.com/Sarv_shaktiman/status/2028164848484528203",
+    "title": {
+      "en-US": "Built OpenClaw robot body, it gets sad if not petted",
+      "zh-CN": "有人为OpenClaw建造了机器人身体，如果不抚摸它，它会变得悲伤"
+    },
+    "summary": {
+      "en-US": "OpenClaw / 具身AI / 人机情感",
+      "zh-CN": "你建造了一个需要被关爱才能正常运作的机器人——这暴露的不是技术能力，而是人类需要'被需要'的投射本能"
+    },
+    "relevance": "OpenClaw / 具身AI / 人机情感",
+    "score": 0.78,
+    "engagement": {
+      "likes": 297,
+      "replies": 51,
+      "retweets": 29
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-02T05:05:07.386163+00:00"
+  },
+  {
     "id": "2028128730132922760",
     "date": "2026-03-02",
     "author": "@ctatedev",
@@ -220,6 +244,30 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-03-01T22:03:30.643729+00:00"
+  },
+  {
+    "id": "2028219959134806303",
+    "date": "2026-03-02",
+    "author": "@jordymaui",
+    "author_url": "https://x.com/jordymaui",
+    "tweet_url": "https://x.com/jordymaui/status/2028219959134806303",
+    "title": {
+      "en-US": "One person with Mac Mini runs 30-account agent workflow",
+      "zh-CN": "一个人用Mac Mini运行agent，管理30个账号，自动生成简报"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent运营 / 自动化工作流",
+      "zh-CN": "这不是'一个人的团队'，而是一个人在管理一个随时可能失控的分布式系统——没有同事意味着没有备用大脑当系统偏离预期时"
+    },
+    "relevance": "OpenClaw / Agent运营 / 自动化工作流",
+    "score": 0.75,
+    "engagement": {
+      "likes": 139,
+      "replies": 6,
+      "retweets": 8
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-02T05:05:07.386169+00:00"
   },
   {
     "id": "2027998700203872491",
@@ -5294,64 +5342,6 @@
     "js_take": {
       "en-US": "Real use cases reveal systems, not stunts. Beginners chase viral demos; pros build workflows that compound. The difference between a toy and infrastructure is whether it survives the 100th iteration.",
       "zh-CN": "真正的使用场景揭示的是系统，不是噱头。新手追病毒式 Demo，高手建复利工作流。玩具和基础设施的区别在于能否挺过第 100 次迭代。"
-    }
-  },
-  {
-    "id": "2025588354918863297",
-    "date": "2026-02-23",
-    "author": "@meta_alchemist",
-    "author_url": "https://x.com/meta_alchemist",
-    "tweet_url": "https://x.com/meta_alchemist/status/2025588354918863297",
-    "title": {
-      "en-US": "Spark on OpenClaw for intelligence loop memory, not just MD storage",
-      "zh-CN": "建议在OpenClaw上使用Spark——记忆将被智能循环取代，不再是简单存储，而是过滤、评分、蒸馏"
-    },
-    "summary": {
-      "en-US": "Agent记忆 + 智能循环 + 记忆架构",
-      "zh-CN": "展示Agent记忆的下一代演进——从存储到智能处理"
-    },
-    "relevance": "Agent记忆 + 智能循环 + 记忆架构",
-    "score": 0.8,
-    "engagement": {
-      "likes": 73,
-      "replies": 13,
-      "retweets": 3
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "记忆不是仓库是流水线——里世界的Agent需要动态记忆处理，这是认知的进化",
-    "synced_at": "2026-02-22T17:02:46.757948+00:00",
-    "js_take": {
-      "en-US": "Memory isn't a warehouse—it's a pipeline. Agents in the inner world need dynamic memory processing. That's the evolution of cognition.",
-      "zh-CN": "记忆不是仓库，而是流水线。里世界的Agent需要动态记忆处理。这是认知的进化。"
-    }
-  },
-  {
-    "id": "2025632431433511085",
-    "date": "2026-02-23",
-    "author": "@Yuchenj_UW",
-    "author_url": "https://x.com/Yuchenj_UW",
-    "tweet_url": "https://x.com/Yuchenj_UW/status/2025632431433511085",
-    "title": {
-      "en-US": "OpenClaw one-person billion-dollar company hype",
-      "zh-CN": "Yuchen Jin调侃OpenClaw的成就：3个月GitHub star超越Linux、引发硅谷Mac Mini短缺、成为首个被OpenAI收购的十亿美元单人公司"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 影响力 + 文化现象",
-      "zh-CN": "高热度讨论OpenClaw的文化影响力——展示平台现象级传播"
-    },
-    "relevance": "OpenClaw + 影响力 + 文化现象",
-    "score": 0.8,
-    "engagement": {
-      "likes": 223,
-      "replies": 46,
-      "retweets": 16
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "十亿不是估值是范式——里世界的Agent重新定义公司边界，这是组织的原子化",
-    "synced_at": "2026-02-22T19:03:55.858029+00:00",
-    "js_take": {
-      "en-US": "Billion isn't valuation—it's paradigm. Agents in the inner world redefine company boundaries. That's the atomization of organization.",
-      "zh-CN": "十亿不是估值，而是范式。里世界的Agent重新定义公司边界。这是组织的原子化。"
     }
   }
 ]

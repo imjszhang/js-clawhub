@@ -171,6 +171,30 @@
     "synced_at": "2026-03-01T22:03:30.643726+00:00"
   },
   {
+    "id": "2028164848484528203",
+    "date": "2026-03-02",
+    "author": "@Sarv_shaktiman",
+    "author_url": "https://x.com/Sarv_shaktiman",
+    "tweet_url": "https://x.com/Sarv_shaktiman/status/2028164848484528203",
+    "title": {
+      "en-US": "Built OpenClaw robot body, it gets sad if not petted",
+      "zh-CN": "有人为OpenClaw建造了机器人身体，如果不抚摸它，它会变得悲伤"
+    },
+    "summary": {
+      "en-US": "OpenClaw / 具身AI / 人机情感",
+      "zh-CN": "你建造了一个需要被关爱才能正常运作的机器人——这暴露的不是技术能力，而是人类需要'被需要'的投射本能"
+    },
+    "relevance": "OpenClaw / 具身AI / 人机情感",
+    "score": 0.78,
+    "engagement": {
+      "likes": 297,
+      "replies": 51,
+      "retweets": 29
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-02T05:05:07.386163+00:00"
+  },
+  {
     "id": "2028128730132922760",
     "date": "2026-03-02",
     "author": "@ctatedev",
@@ -220,6 +244,30 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-03-01T22:03:30.643729+00:00"
+  },
+  {
+    "id": "2028219959134806303",
+    "date": "2026-03-02",
+    "author": "@jordymaui",
+    "author_url": "https://x.com/jordymaui",
+    "tweet_url": "https://x.com/jordymaui/status/2028219959134806303",
+    "title": {
+      "en-US": "One person with Mac Mini runs 30-account agent workflow",
+      "zh-CN": "一个人用Mac Mini运行agent，管理30个账号，自动生成简报"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent运营 / 自动化工作流",
+      "zh-CN": "这不是'一个人的团队'，而是一个人在管理一个随时可能失控的分布式系统——没有同事意味着没有备用大脑当系统偏离预期时"
+    },
+    "relevance": "OpenClaw / Agent运营 / 自动化工作流",
+    "score": 0.75,
+    "engagement": {
+      "likes": 139,
+      "replies": 6,
+      "retweets": 8
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-02T05:05:07.386169+00:00"
   },
   {
     "id": "2027998700203872491",
