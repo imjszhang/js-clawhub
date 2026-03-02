@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-02T16:04:28.261540+00:00",
+  "updated_at": "2026-03-02T19:02:34.733381+00:00",
   "this_week": {
-    "total_items": 21,
+    "total_items": 24,
     "avg_score": 0.8,
-    "unique_authors": 20,
+    "unique_authors": 22,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -114,6 +114,30 @@
         "synced_at": "2026-03-02T06:09:50.703079+00:00"
       },
       {
+        "id": "2028422557662117915",
+        "date": "2026-03-03",
+        "author": "@dev_manoj_shah",
+        "author_url": "https://x.com/dev_manoj_shah",
+        "tweet_url": "https://x.com/dev_manoj_shah/status/2028422557662117915",
+        "title": {
+          "en-US": "OpenClaw bot runs website sales business 24/7 autonomously",
+          "zh-CN": "OpenClaw 7×24 小时自动销售网站服务"
+        },
+        "summary": {
+          "en-US": "OpenClaw / Agent自动化 / 商业应用",
+          "zh-CN": "OpenClaw Agent 自动化商业销售应用"
+        },
+        "relevance": "OpenClaw / Agent自动化 / 商业应用",
+        "score": 0.86,
+        "engagement": {
+          "likes": 150,
+          "replies": 163,
+          "retweets": 27
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-03-02T19:02:25.976217+00:00"
+      },
+      {
         "id": "2028138200024199314",
         "date": "2026-03-02",
         "author": "@zachlloydtweets",
@@ -164,6 +188,30 @@
         },
         "comment_type": "provoke",
         "synced_at": "2026-03-02T16:04:18.208850+00:00"
+      },
+      {
+        "id": "2028527003813437690",
+        "date": "2026-03-03",
+        "author": "@RoundtableSpace",
+        "author_url": "https://x.com/RoundtableSpace",
+        "tweet_url": "https://x.com/RoundtableSpace/status/2028527003813437690",
+        "title": {
+          "en-US": "6-agent Polymarket trading system built in 6 hours while sleeping",
+          "zh-CN": "让ClawdBot在睡觉时构建6个agent的Polymarket交易系统，6小时完成，无人工干预"
+        },
+        "summary": {
+          "en-US": "多Agent系统 / 自主交易 / OpenClaw应用",
+          "zh-CN": "6个agent在无人监督下做交易决策听起来很酷，但谁来为亏损负责？自动化盈利是新闻，自动化亏损是诉讼。"
+        },
+        "relevance": "多Agent系统 / 自主交易 / OpenClaw应用",
+        "score": 0.84,
+        "engagement": {
+          "likes": 103,
+          "replies": 31,
+          "retweets": 7
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-03-02T19:02:25.976222+00:00"
       },
       {
         "id": "2028104364976451947",
@@ -421,6 +469,30 @@
         }
       },
       {
+        "id": "2028533746073321919",
+        "date": "2026-03-03",
+        "author": "@gregisenberg",
+        "author_url": "https://x.com/gregisenberg",
+        "tweet_url": "https://x.com/gregisenberg/status/2028533746073321919",
+        "title": {
+          "en-US": "Digital employees running marketing 24/7 with API keys",
+          "zh-CN": "用Claude Code、Railway、Meta等工具搭建24/7运行的数字员工来做营销自动化"
+        },
+        "summary": {
+          "en-US": "AI Agent营销 / 自动化 / OpenClaw",
+          "zh-CN": "把API密钥交给agent并让它自主运行是便利与风险的交易——你可以睡觉，但你的信用额度可能也在\"睡觉\"时被刷爆。"
+        },
+        "relevance": "AI Agent营销 / 自动化 / OpenClaw",
+        "score": 0.76,
+        "engagement": {
+          "likes": 215,
+          "replies": 34,
+          "retweets": 11
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-03-02T19:02:25.976224+00:00"
+      },
+      {
         "id": "2028128730132922760",
         "date": "2026-03-02",
         "author": "@ctatedev",
@@ -598,6 +670,6 @@
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 155
+    "unique_authors": 154
   }
 }

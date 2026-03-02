@@ -1,5 +1,29 @@
 [
   {
+    "id": "2028422557662117915",
+    "date": "2026-03-03",
+    "author": "@dev_manoj_shah",
+    "author_url": "https://x.com/dev_manoj_shah",
+    "tweet_url": "https://x.com/dev_manoj_shah/status/2028422557662117915",
+    "title": {
+      "en-US": "OpenClaw bot runs website sales business 24/7 autonomously",
+      "zh-CN": "OpenClaw 7×24 小时自动销售网站服务"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent自动化 / 商业应用",
+      "zh-CN": "OpenClaw Agent 自动化商业销售应用"
+    },
+    "relevance": "OpenClaw / Agent自动化 / 商业应用",
+    "score": 0.86,
+    "engagement": {
+      "likes": 150,
+      "replies": 163,
+      "retweets": 27
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-02T19:02:25.976217+00:00"
+  },
+  {
     "id": "2028450127149674642",
     "date": "2026-03-03",
     "author": "@bourneliu66",
@@ -22,6 +46,54 @@
     },
     "comment_type": "provoke",
     "synced_at": "2026-03-02T16:04:18.208850+00:00"
+  },
+  {
+    "id": "2028527003813437690",
+    "date": "2026-03-03",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2028527003813437690",
+    "title": {
+      "en-US": "6-agent Polymarket trading system built in 6 hours while sleeping",
+      "zh-CN": "让ClawdBot在睡觉时构建6个agent的Polymarket交易系统，6小时完成，无人工干预"
+    },
+    "summary": {
+      "en-US": "多Agent系统 / 自主交易 / OpenClaw应用",
+      "zh-CN": "6个agent在无人监督下做交易决策听起来很酷，但谁来为亏损负责？自动化盈利是新闻，自动化亏损是诉讼。"
+    },
+    "relevance": "多Agent系统 / 自主交易 / OpenClaw应用",
+    "score": 0.84,
+    "engagement": {
+      "likes": 103,
+      "replies": 31,
+      "retweets": 7
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-02T19:02:25.976222+00:00"
+  },
+  {
+    "id": "2028533746073321919",
+    "date": "2026-03-03",
+    "author": "@gregisenberg",
+    "author_url": "https://x.com/gregisenberg",
+    "tweet_url": "https://x.com/gregisenberg/status/2028533746073321919",
+    "title": {
+      "en-US": "Digital employees running marketing 24/7 with API keys",
+      "zh-CN": "用Claude Code、Railway、Meta等工具搭建24/7运行的数字员工来做营销自动化"
+    },
+    "summary": {
+      "en-US": "AI Agent营销 / 自动化 / OpenClaw",
+      "zh-CN": "把API密钥交给agent并让它自主运行是便利与风险的交易——你可以睡觉，但你的信用额度可能也在\"睡觉\"时被刷爆。"
+    },
+    "relevance": "AI Agent营销 / 自动化 / OpenClaw",
+    "score": 0.76,
+    "engagement": {
+      "likes": 215,
+      "replies": 34,
+      "retweets": 11
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-02T19:02:25.976224+00:00"
   },
   {
     "id": "2028189467782369287",
@@ -5268,91 +5340,6 @@
     "js_take": {
       "en-US": "$15K in 3 days. Bù zào qí guān—it's compound interest, not a wonder. The wonder would be if it stopped.",
       "zh-CN": "三天赚了一万五。不造奇观——这是复利，不是奇观。它要是停下来，那才叫奇观。"
-    }
-  },
-  {
-    "id": "2025528439852179613",
-    "date": "2026-02-23",
-    "author": "@0x_Discover",
-    "author_url": "https://x.com/0x_Discover",
-    "tweet_url": "https://x.com/0x_Discover/status/2025528439852179613",
-    "title": {
-      "en-US": "OpenClaw BTC trading bot $50 to $823",
-      "zh-CN": "用户分享用OpenClaw构建5分钟BTC市场交易机器人——从50美元涨到823美元，展示复合增长潜力"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 交易机器人 + 变现案例",
-      "zh-CN": "展示OpenClaw在金融交易领域的实际变现案例——高回报率"
-    },
-    "relevance": "OpenClaw + 交易机器人 + 变现案例",
-    "score": 0.82,
-    "engagement": {
-      "likes": 163,
-      "replies": 74,
-      "retweets": 18
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T18:03:07.473530+00:00",
-    "js_take": {
-      "en-US": "$823 isn't profit—it's signal. Agents in the inner world are starting to own economic capacity. That's the migration of value creation.",
-      "zh-CN": "823美元不是利润，而是信号。里世界的Agent开始拥有经济能力。这是价值创造的迁移。"
-    }
-  },
-  {
-    "id": "2025592012205064410",
-    "date": "2026-02-23",
-    "author": "@advaitpaliwal",
-    "author_url": "https://x.com/advaitpaliwal",
-    "tweet_url": "https://x.com/advaitpaliwal/status/2025592012205064410",
-    "title": {
-      "en-US": "Einstein OpenClaw student agent does assignments",
-      "zh-CN": "Advait Paliwal介绍Einstein——以OpenClaw作为学生代理，登录Canvas、完成作业、获得学位"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 教育自动化 + Agent自主性",
-      "zh-CN": "展示Agent在教育领域的深度自动化——从工具到替代者"
-    },
-    "relevance": "OpenClaw + 教育自动化 + Agent自主性",
-    "score": 0.82,
-    "engagement": {
-      "likes": 139,
-      "replies": 14,
-      "retweets": 3
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T19:03:55.858026+00:00",
-    "js_take": {
-      "en-US": "The degree isn't the goal—it's proof of capability. Agents in the inner world demonstrate ability, not credentials. That's the shift in evaluation systems.",
-      "zh-CN": "学位不是目标，而是能力的证明。里世界的Agent展示的是能力，而非凭证。这是评价体系的转变。"
-    }
-  },
-  {
-    "id": "2025655632678826374",
-    "date": "2026-02-23",
-    "author": "@VittoStack",
-    "author_url": "https://x.com/VittoStack",
-    "tweet_url": "https://x.com/VittoStack/status/2025655632678826374",
-    "title": {
-      "en-US": "Giving OpenClaw a body: cardboard prototype, self-code editing, vision, obstacle detection, Follow/Seek modes",
-      "zh-CN": "给 OpenClaw 添加物理身体：纸板原型、自主编辑代码、视觉、障碍物检测、跟随/搜寻模式，正在变得自主"
-    },
-    "summary": {
-      "en-US": "OpenClaw、Agent 具身化、Jarvis 演化",
-      "zh-CN": "直接体现 Jarvis 定律——Agent 向感知+决策+执行+物理行动进化，可以用「表/里世界」框架评论物理接口的意义"
-    },
-    "relevance": "OpenClaw、Agent 具身化、Jarvis 演化",
-    "score": 0.82,
-    "engagement": {
-      "likes": 54,
-      "replies": 14,
-      "retweets": 2,
-      "views": 3094
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T21:05:37.551459+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law in action. Agents evolving into physical interfaces isn't a novelty—it's inevitable. The surface world becomes just another I/O layer for the inner world.",
-      "zh-CN": "Jarvis 定律正在应验。Agent 向物理界面进化不是新奇事，而是必然。表世界只是里世界的又一个 I/O 层。"
     }
   }
 ]
