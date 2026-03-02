@@ -146,6 +146,30 @@
     "synced_at": "2026-03-01T22:03:30.643719+00:00"
   },
   {
+    "id": "2028202900686549421",
+    "date": "2026-03-02",
+    "author": "@jordymaui",
+    "author_url": "https://x.com/jordymaui",
+    "tweet_url": "https://x.com/jordymaui/status/2028202900686549421",
+    "title": {
+      "en-US": "Stages of OpenClaw: install, break, fix, repeat, magic kingdom",
+      "zh-CN": "OpenClaw使用的七个阶段：从兴奋安装到不断调试再到最终'魔法王国'"
+    },
+    "summary": {
+      "en-US": "OpenClaw / 开发者体验 / 学习曲线",
+      "zh-CN": "第8阶段不是每个人都能到达的——大多数人在第2-6阶段的循环里要么建立直觉，要么就放弃了，'魔法王国'是对幸存者的奖励而非承诺"
+    },
+    "relevance": "OpenClaw / 开发者体验 / 学习曲线",
+    "score": 0.82,
+    "engagement": {
+      "likes": 94,
+      "replies": 21,
+      "retweets": 6
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-02T08:06:58.817224+00:00"
+  },
+  {
     "id": "2027964342210310275",
     "date": "2026-03-02",
     "author": "@frxiaobei",
@@ -5273,35 +5297,6 @@
     "js_take": {
       "en-US": "Hardware is just substrate. The ceiling isn't your M1—it's your imagination about what to automate. Sheldon's not special; the system you built around him is.",
       "zh-CN": "硬件只是基底。上限不是 M1——而是你对自动化的想象力。Sheldon 没什么特别的；围绕它建立的系统才是。"
-    }
-  },
-  {
-    "id": "2025800379729125597",
-    "date": "2026-02-23",
-    "author": "@taziku_co",
-    "author_url": "https://x.com/taziku_co",
-    "tweet_url": "https://x.com/taziku_co/status/2025800379729125597",
-    "title": {
-      "en-US": "Push-to-Talk personal AI assistant on Pi Zero W, 0.7s transcription, OpenClaw streaming response, pocket-sized",
-      "zh-CN": "Push-to-Talk 个人 AI 助手，用 Pi Zero W 实现 0.7 秒语音转文字，OpenClaw 流式响应，口袋大小"
-    },
-    "summary": {
-      "en-US": "OpenClaw、硬件集成、Jarvis演化",
-      "zh-CN": "展示 Jarvis 形态——随身携带的 AI 助手，可以用「里世界」评论硬件载体的重要性"
-    },
-    "relevance": "OpenClaw、硬件集成、Jarvis演化",
-    "score": 0.82,
-    "engagement": {
-      "likes": 24,
-      "replies": 0,
-      "retweets": 2,
-      "views": 1544
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T06:09:51.711964+00:00",
-    "js_take": {
-      "en-US": "The inner world needs vessels. Pi Zero is how it enters your pocket. Software dreams; hardware carries.",
-      "zh-CN": "里世界需要载体。Pi Zero 是它进入你口袋的方式。软件做梦，硬件承载。"
     }
   }
 ]

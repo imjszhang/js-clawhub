@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-02T07:04:26.906001+00:00",
+  "updated_at": "2026-03-02T08:06:58.835283+00:00",
   "this_week": {
-    "total_items": 16,
+    "total_items": 17,
     "avg_score": 0.79,
     "unique_authors": 16,
     "top_items": [
@@ -150,6 +150,30 @@
         },
         "comment_type": "provoke",
         "synced_at": "2026-03-01T22:03:30.643719+00:00"
+      },
+      {
+        "id": "2028202900686549421",
+        "date": "2026-03-02",
+        "author": "@jordymaui",
+        "author_url": "https://x.com/jordymaui",
+        "tweet_url": "https://x.com/jordymaui/status/2028202900686549421",
+        "title": {
+          "en-US": "Stages of OpenClaw: install, break, fix, repeat, magic kingdom",
+          "zh-CN": "OpenClaw使用的七个阶段：从兴奋安装到不断调试再到最终'魔法王国'"
+        },
+        "summary": {
+          "en-US": "OpenClaw / 开发者体验 / 学习曲线",
+          "zh-CN": "第8阶段不是每个人都能到达的——大多数人在第2-6阶段的循环里要么建立直觉，要么就放弃了，'魔法王国'是对幸存者的奖励而非承诺"
+        },
+        "relevance": "OpenClaw / 开发者体验 / 学习曲线",
+        "score": 0.82,
+        "engagement": {
+          "likes": 94,
+          "replies": 21,
+          "retweets": 6
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-03-02T08:06:58.817224+00:00"
       },
       {
         "id": "2027964342210310275",
@@ -402,6 +426,6 @@
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 154
+    "unique_authors": 153
   }
 }
