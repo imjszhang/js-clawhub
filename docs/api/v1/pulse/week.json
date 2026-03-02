@@ -48,6 +48,30 @@
     "synced_at": "2026-03-02T00:04:28.494302+00:00"
   },
   {
+    "id": "2028337080959426953",
+    "date": "2026-03-02",
+    "author": "@openclaw",
+    "author_url": "https://x.com/openclaw",
+    "tweet_url": "https://x.com/openclaw/status/2028337080959426953",
+    "title": {
+      "en-US": "OpenClaw 2026.3.1 release, reports of death exaggerated",
+      "zh-CN": "OpenClaw发布2026.3.1版本，并回应'死亡传闻被大大夸大了'"
+    },
+    "summary": {
+      "en-US": "OpenClaw / 平台韧性 / 社区信心",
+      "zh-CN": "韧性不是关于抵御攻击，而是关于比怀疑更持久——项目很少死于攻击，而是死于冷漠"
+    },
+    "relevance": "OpenClaw / 平台韧性 / 社区信心",
+    "score": 0.87,
+    "engagement": {
+      "likes": 684,
+      "replies": 91,
+      "retweets": 86
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-02T06:09:50.703079+00:00"
+  },
+  {
     "id": "2028138200024199314",
     "date": "2026-03-02",
     "author": "@zachlloydtweets",
