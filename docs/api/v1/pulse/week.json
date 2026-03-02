@@ -219,6 +219,30 @@
     "synced_at": "2026-03-02T05:05:07.386163+00:00"
   },
   {
+    "id": "2028169000614805684",
+    "date": "2026-03-02",
+    "author": "@n_sri_laasya",
+    "author_url": "https://x.com/n_sri_laasya",
+    "tweet_url": "https://x.com/n_sri_laasya/status/2028169000614805684",
+    "title": {
+      "en-US": "Clawtrace: on-call security for OpenClaw web agents at YC hackathon",
+      "zh-CN": "在YC黑客松上推出Clawtrace，为OpenClaw web agent提供on-call安全监控"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent安全 / 可观测性",
+      "zh-CN": "安全监控工具的出现说明我们已经进入'agent需要被监控'的阶段——但真正的安全问题不是agent做了什么，而是我们让它做什么时不再思考"
+    },
+    "relevance": "OpenClaw / Agent安全 / 可观测性",
+    "score": 0.78,
+    "engagement": {
+      "likes": 84,
+      "replies": 23,
+      "retweets": 9
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-02T07:04:26.887414+00:00"
+  },
+  {
     "id": "2028128730132922760",
     "date": "2026-03-02",
     "author": "@ctatedev",
