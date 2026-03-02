@@ -48,6 +48,30 @@
     "synced_at": "2026-03-02T00:04:28.494302+00:00"
   },
   {
+    "id": "2028431334486487129",
+    "date": "2026-03-02",
+    "author": "@cobie",
+    "author_url": "https://x.com/cobie",
+    "tweet_url": "https://x.com/cobie/status/2028431334486487129",
+    "title": {
+      "en-US": "OpenClaw sent 50k invoices to Fortune500, 2% paid without checking",
+      "zh-CN": "OpenClaw 群发 5 万张发票，财富 500 强 2% 未核即付"
+    },
+    "summary": {
+      "en-US": "OpenClaw / 自动化 / 商业模式",
+      "zh-CN": "OpenClaw、自动化、商业模式"
+    },
+    "relevance": "OpenClaw / 自动化 / 商业模式",
+    "score": 0.88,
+    "engagement": {
+      "likes": 4212,
+      "replies": 542,
+      "retweets": 176
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-02T13:09:46.806502+00:00"
+  },
+  {
     "id": "2028337080959426953",
     "date": "2026-03-02",
     "author": "@openclaw",
