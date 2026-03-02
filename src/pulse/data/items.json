@@ -24,6 +24,30 @@
     "synced_at": "2026-03-01T21:08:30.502028+00:00"
   },
   {
+    "id": "2028232768962843026",
+    "date": "2026-03-02",
+    "author": "@mattshumer_",
+    "author_url": "https://x.com/mattshumer_",
+    "tweet_url": "https://x.com/mattshumer_/status/2028232768962843026",
+    "title": {
+      "en-US": "Mac Mini sold out in NYC for OpenClaw, staff knew what it was for",
+      "zh-CN": "Mac Mini 纽约断货，店员秒懂 OpenClaw 用途"
+    },
+    "summary": {
+      "en-US": "OpenClaw 硬件需求爆发，AI Agent 本地部署趋势",
+      "zh-CN": "OpenClaw 引爆硬件抢购潮，AI Agent 本地部署成新趋势"
+    },
+    "relevance": "OpenClaw 硬件需求爆发，AI Agent 本地部署趋势",
+    "score": 0.88,
+    "engagement": {
+      "likes": 739,
+      "replies": 98,
+      "retweets": 20
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-02T00:04:28.494302+00:00"
+  },
+  {
     "id": "2028138200024199314",
     "date": "2026-03-02",
     "author": "@zachlloydtweets",
@@ -96,6 +120,30 @@
     },
     "comment_type": "provoke",
     "synced_at": "2026-03-01T22:03:30.643719+00:00"
+  },
+  {
+    "id": "2027964342210310275",
+    "date": "2026-03-02",
+    "author": "@frxiaobei",
+    "author_url": "https://x.com/frxiaobei",
+    "tweet_url": "https://x.com/frxiaobei/status/2027964342210310275",
+    "title": {
+      "en-US": "OpenClaw Memory Anxiety: spending week on memory system, AI does nothing",
+      "zh-CN": "凡人小北指出 OpenClaw 新手的\"Memory 焦虑症\"——先花一周折腾记忆架构，结果 AI 还是什么都没帮你做。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 新手误区、Memory 系统设计、过早优化",
+      "zh-CN": "花一周设计记忆系统却不用 AI 做事，就像装修房子十年却从不搬进去住——你以为在准备，其实是在逃避开始。（做纠正：完善的前置准备往往是拖延的精致包装）"
+    },
+    "relevance": "OpenClaw 新手误区、Memory 系统设计、过早优化",
+    "score": 0.79,
+    "engagement": {
+      "likes": 162,
+      "replies": 7,
+      "retweets": 25
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-02T00:04:28.494307+00:00"
   },
   {
     "id": "2028192731915547013",
@@ -5304,66 +5352,6 @@
     "js_take": {
       "en-US": "Billion isn't valuation—it's paradigm. Agents in the inner world redefine company boundaries. That's the atomization of organization.",
       "zh-CN": "十亿不是估值，而是范式。里世界的Agent重新定义公司边界。这是组织的原子化。"
-    }
-  },
-  {
-    "id": "2025525460516712864",
-    "date": "2026-02-23",
-    "author": "@kloss_xyz",
-    "author_url": "https://x.com/kloss_xyz",
-    "tweet_url": "https://x.com/kloss_xyz/status/2025525460516712864",
-    "title": {
-      "en-US": "Less than 1% using OpenClaw. You're disgustingly early. Most will fumble it.",
-      "zh-CN": "不到1%的人在使用 OpenClaw，你现在入场极早，但大多数人还是会搞砸"
-    },
-    "summary": {
-      "en-US": "OpenClaw 采用率、人群分化",
-      "zh-CN": "完美契合 JS 的「人群快速分化」洞察——DeepSeek 狂欢到 OpenClaw 懵B，第一时间玩起来的都不是普通人"
-    },
-    "relevance": "OpenClaw 采用率、人群分化",
-    "score": 0.8,
-    "engagement": {
-      "likes": 169,
-      "replies": 76,
-      "retweets": 7,
-      "views": 17440
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用「势」与人群分化框架评论：这不是工具差距，是人的差距",
-    "synced_at": "2026-02-22T21:05:37.551477+00:00",
-    "js_take": {
-      "en-US": "Not a tool gap. A people gap. DeepSeek went viral. OpenClaw didn't. That divergence tells you everything about who's actually ready.",
-      "zh-CN": "不是工具的差距，是人的差距。DeepSeek 爆火，OpenClaw 没有。这种分化说明了一切——谁才真正准备好了。"
-    }
-  },
-  {
-    "id": "2025638073946776057",
-    "date": "2026-02-23",
-    "author": "@JulianGoldieSEO",
-    "author_url": "https://x.com/JulianGoldieSEO",
-    "tweet_url": "https://x.com/JulianGoldieSEO/status/2025638073946776057",
-    "title": {
-      "en-US": "NanoClaw might replace OpenClaw: tiny, safe, powerful, local AI assistant with container security",
-      "zh-CN": "NanoClaw 可能取代 OpenClaw：轻量、安全、强大，本地运行，容器隔离"
-    },
-    "summary": {
-      "en-US": "OpenClaw 生态、产品演化、Jarvis定律",
-      "zh-CN": "产品形态分化印证 Jarvis 定律——不同场景需要不同形态，可以用「势」判断趋势"
-    },
-    "relevance": "OpenClaw 生态、产品演化、Jarvis定律",
-    "score": 0.8,
-    "engagement": {
-      "likes": 59,
-      "replies": 6,
-      "retweets": 11,
-      "views": 4608
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用 Jarvis 定律评论：Agent 框架正在按场景分化，OpenClaw/Pico/Nano 都是同一进化的不同分支",
-    "synced_at": "2026-02-22T22:02:59.764324+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law in action. One size doesn't fit all. Pico for embedded, Nano for minimal, OpenClaw for full autonomy. Same evolution, different branches.",
-      "zh-CN": "Jarvis 定律正在应验。一套方案不能包打天下。Pico 用于嵌入式，Nano 用于极简，OpenClaw 用于完全自主。同一个进化，不同分支。"
     }
   }
 ]
