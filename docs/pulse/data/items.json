@@ -170,6 +170,30 @@
     "synced_at": "2026-03-02T08:06:58.817224+00:00"
   },
   {
+    "id": "2028302673624318151",
+    "date": "2026-03-02",
+    "author": "@Fujin_Metaverse",
+    "author_url": "https://x.com/Fujin_Metaverse",
+    "tweet_url": "https://x.com/Fujin_Metaverse/status/2028302673624318151",
+    "title": {
+      "en-US": "OpenClaw pixel-game style dashboard for agent status",
+      "zh-CN": "OpenClaw的像素游戏风格可视化仪表板，可以查看多agent状态、手机远程监控"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent可视化 / 人机交互",
+      "zh-CN": "把agent监控做得像游戏不是娱乐化，而是让复杂系统变得可读。最好的界面让你忘记背后是技术，只记得自己在操控什么。"
+    },
+    "relevance": "OpenClaw / Agent可视化 / 人机交互",
+    "score": 0.82,
+    "engagement": {
+      "likes": 670,
+      "retweets": 55,
+      "replies": 11
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-02T10:06:43.006701+00:00"
+  },
+  {
     "id": "2027964342210310275",
     "date": "2026-03-02",
     "author": "@frxiaobei",
@@ -265,6 +289,30 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-03-02T07:04:26.887414+00:00"
+  },
+  {
+    "id": "2028388619287748870",
+    "date": "2026-03-02",
+    "author": "@sharbel",
+    "author_url": "https://x.com/sharbel",
+    "tweet_url": "https://x.com/sharbel/status/2028388619287748870",
+    "title": {
+      "en-US": "5 files turn OpenClaw from chatbot to AI employee",
+      "zh-CN": "5个配置文件将OpenClaw从聊天机器人变成真正的AI员工：SOUL.md、USER.md、MEMORY.md、TOOLS.md、HEARTBEAT.md"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent配置 / 最佳实践",
+      "zh-CN": "五个文件框架很清晰，但顺序错了。应该先写HEARTBEAT——如果不知道agent该检查什么，给它记忆和工具也没有方向。"
+    },
+    "relevance": "OpenClaw / Agent配置 / 最佳实践",
+    "score": 0.78,
+    "engagement": {
+      "likes": 48,
+      "retweets": 0,
+      "replies": 19
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-02T10:06:43.006707+00:00"
   },
   {
     "id": "2028128730132922760",
@@ -5239,64 +5287,6 @@
     "js_take": {
       "en-US": "Demos are liabilities. Systems that survive 3 AM errors are assets. Civilization beginners chase wonders, pros build infrastructure that compounds through breakage.",
       "zh-CN": "Demo 是负债。能挺过凌晨3点错误的系统才是资产。文明新手追奇观，高手建能在故障中复利的基础设施。"
-    }
-  },
-  {
-    "id": "2025743825126273066",
-    "date": "2026-02-23",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2025743825126273066",
-    "title": {
-      "en-US": "Google banned Antigravity, being draconian. Removing support. Anthropic is nicer about issues",
-      "zh-CN": "Google 严厉封禁 Antigravity，作者准备移除支持；相比之下 Anthropic 更友善地沟通问题"
-    },
-    "summary": {
-      "en-US": "OpenClaw、平台风险、生态系统",
-      "zh-CN": "触及平台依赖风险，可以用「表/里世界」框架评论基础设施自主性的重要性"
-    },
-    "relevance": "OpenClaw、平台风险、生态系统",
-    "score": 0.82,
-    "engagement": {
-      "likes": 530,
-      "replies": 85,
-      "retweets": 38,
-      "views": 37707
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T02:06:54.806001+00:00",
-    "js_take": {
-      "en-US": "Surface platforms are fickle landlords. The inner world learns: own your pipes or be evicted. Decentralization isn't ideology, it's survival.",
-      "zh-CN": "表世界平台是喜怒无常的房东。里世界学到的教训：要么拥有自己的管道，要么被驱逐。去中心化不是意识形态，是生存。"
-    }
-  },
-  {
-    "id": "2025751089706893670",
-    "date": "2026-02-23",
-    "author": "@jfdelarosa",
-    "author_url": "https://x.com/jfdelarosa",
-    "tweet_url": "https://x.com/jfdelarosa/status/2025751089706893670",
-    "title": {
-      "en-US": "Installed OpenClaw on unused MacBook Air M1, named it Sheldon, gave it browser control, doing autonomous QA",
-      "zh-CN": "在一台闲置的 MacBook Air M1 上安装了 OpenClaw，给它取名 Sheldon，赋予它自主控制浏览器权限，让它做 QA 测试"
-    },
-    "summary": {
-      "en-US": "OpenClaw、旧设备利用、自主 QA",
-      "zh-CN": "展示用旧设备部署 OpenClaw 做实用工作，体现「AI 的上限就是使用 AI 的人」"
-    },
-    "relevance": "OpenClaw、旧设备利用、自主 QA",
-    "score": 0.82,
-    "engagement": {
-      "likes": 280,
-      "replies": 11,
-      "retweets": 15,
-      "views": 20264
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-23T05:11:09.103340+00:00",
-    "js_take": {
-      "en-US": "Hardware is just substrate. The ceiling isn't your M1—it's your imagination about what to automate. Sheldon's not special; the system you built around him is.",
-      "zh-CN": "硬件只是基底。上限不是 M1——而是你对自动化的想象力。Sheldon 没什么特别的；围绕它建立的系统才是。"
     }
   }
 ]
