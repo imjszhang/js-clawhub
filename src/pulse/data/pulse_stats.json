@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-03T17:09:39.187068+00:00",
+  "updated_at": "2026-03-03T19:04:04.404904+00:00",
   "this_week": {
-    "total_items": 55,
+    "total_items": 57,
     "avg_score": 0.77,
-    "unique_authors": 45,
+    "unique_authors": 47,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -223,6 +223,36 @@
         "js_take": {
           "en-US": "Six agents trading while you sleep sounds liberating until you check your balance. Who's liable when your 'team' loses your money—while unconscious?",
           "zh-CN": "六个代理在你睡觉时交易听起来很爽，直到你看余额。你的'团队'在你昏迷时亏钱——谁负责？"
+        }
+      },
+      {
+        "id": "2028874549413179566",
+        "date": "2026-03-04",
+        "author": "@danshipper",
+        "author_url": "https://x.com/danshipper",
+        "tweet_url": "https://x.com/danshipper/status/2028874549413179566",
+        "title": {
+          "en-US": "Ultimate beginner's guide to OpenClaw",
+          "zh-CN": "刚刚发布了终极OpenClaw入门指南，介绍如何用OpenClaw构建产品、客服、预订餐厅等"
+        },
+        "summary": {
+          "en-US": "OpenClaw入门与使用场景",
+          "zh-CN": "「入门指南」的悖论在于：当你需要指南时，你还没准备好；当你准备好时，你不再需要指南。真正的学习发生在指南失效的边缘地带。"
+        },
+        "relevance": "OpenClaw入门与使用场景",
+        "score": 0.82,
+        "engagement": {
+          "likes": 331,
+          "retweets": 24,
+          "replies": 10,
+          "views": 35622,
+          "bookmarks": 848
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T19:03:54.396959+00:00",
+        "js_take": {
+          "en-US": "\"Ultimate beginner's guide\" is false comfort. You'll only learn OpenClaw when this guide runs out and you're staring at an error alone.",
+          "zh-CN": "所谓「终极入门指南」不过是虚假的安全感。真正的学习从指南失效、你独自面对报错那一刻才开始。"
         }
       },
       {
@@ -1013,36 +1043,6 @@
         "js_take": {
           "en-US": "30 accounts, full auto reporting—sounds like a one-person team. Actually it's one human managing a distributed system that can drift off-course any moment. No coworkers means no backup brains.",
           "zh-CN": "30个账号全自动运营，听着像一人军团。实际上是一个人守着随时可能跑偏的分布式系统。没有同事=没有备用大脑。"
-        }
-      },
-      {
-        "id": "2028860158101934311",
-        "date": "2026-03-04",
-        "author": "@boxmining",
-        "author_url": "https://x.com/boxmining",
-        "tweet_url": "https://x.com/boxmining/status/2028860158101934311",
-        "title": {
-          "en-US": "MaxClaw $0 to start, Google login only",
-          "zh-CN": "Minimax 推出 MaxClaw，0 美元起步，只需 Google 登录即可使用 OpenClaw"
-        },
-        "summary": {
-          "en-US": "OpenClaw 竞品与替代品",
-          "zh-CN": "「0 美元起步」是获客陷阱——免费让你入门，但迁移成本和数据锁定才是后期的真实账单。"
-        },
-        "relevance": "OpenClaw 竞品与替代品",
-        "score": 0.74,
-        "engagement": {
-          "likes": 14,
-          "retweets": 0,
-          "replies": 6,
-          "views": 2086,
-          "bookmarks": 23
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T17:09:17.376582+00:00",
-        "js_take": {
-          "en-US": "Free is the most expensive price. By month 3 you're paying in migration pain and data lock-in.",
-          "zh-CN": "免费是最贵的价格。到第三个月，你会用迁移痛苦和数据锁定来买单。"
         }
       }
     ]
