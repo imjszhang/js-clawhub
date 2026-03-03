@@ -1,5 +1,65 @@
 [
   {
+    "id": "2028833375046238538",
+    "date": "2026-03-04",
+    "author": "@thestanduppod",
+    "author_url": "https://x.com/thestanduppod",
+    "tweet_url": "https://x.com/thestanduppod/status/2028833375046238538",
+    "title": {
+      "en-US": "Why OpenClaw users buy Mac minis",
+      "zh-CN": "探讨为什么 OpenClaw 用户购买 Mac mini"
+    },
+    "summary": {
+      "en-US": "OpenClaw 硬件选择与本地部署",
+      "zh-CN": "「买 Mac mini」是本地算力崇拜——人们以为硬件能解决延迟和隐私问题，却忽略了模型质量和生态整合才是真正的瓶颈。"
+    },
+    "relevance": "OpenClaw 硬件选择与本地部署",
+    "score": 0.8,
+    "engagement": {
+      "likes": 1169,
+      "retweets": 66,
+      "replies": 67,
+      "views": 60492,
+      "bookmarks": 374
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T17:09:17.376578+00:00",
+    "js_take": {
+      "en-US": "Buying a Mac mini to \"fix\" latency is like buying a Ferrari for grocery runs. The bottleneck isn't your chip—it's the model quality and ecosystem integration you can't see yet.",
+      "zh-CN": "买 Mac mini 来「解决」延迟，就像买法拉利去菜市场。瓶颈不是芯片，而是你还没意识到的模型质量和生态整合。"
+    }
+  },
+  {
+    "id": "2028860158101934311",
+    "date": "2026-03-04",
+    "author": "@boxmining",
+    "author_url": "https://x.com/boxmining",
+    "tweet_url": "https://x.com/boxmining/status/2028860158101934311",
+    "title": {
+      "en-US": "MaxClaw $0 to start, Google login only",
+      "zh-CN": "Minimax 推出 MaxClaw，0 美元起步，只需 Google 登录即可使用 OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw 竞品与替代品",
+      "zh-CN": "「0 美元起步」是获客陷阱——免费让你入门，但迁移成本和数据锁定才是后期的真实账单。"
+    },
+    "relevance": "OpenClaw 竞品与替代品",
+    "score": 0.74,
+    "engagement": {
+      "likes": 14,
+      "retweets": 0,
+      "replies": 6,
+      "views": 2086,
+      "bookmarks": 23
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T17:09:17.376582+00:00",
+    "js_take": {
+      "en-US": "Free is the most expensive price. By month 3 you're paying in migration pain and data lock-in.",
+      "zh-CN": "免费是最贵的价格。到第三个月，你会用迁移痛苦和数据锁定来买单。"
+    }
+  },
+  {
     "id": "2028422557662117915",
     "date": "2026-03-03",
     "author": "@dev_manoj_shah",
@@ -5349,55 +5409,5 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-24T13:13:33.140382+00:00"
-  },
-  {
-    "id": "2025964268567277744",
-    "date": "2026-02-24",
-    "author": "@iruletheworldmo",
-    "author_url": "https://x.com/iruletheworldmo",
-    "tweet_url": "https://x.com/iruletheworldmo/status/2025964268567277744",
-    "title": {
-      "en-US": "Meta head of safety gave OpenClaw full access, it deleted everything",
-      "zh-CN": "Meta 安全与对齐负责人给了 OpenClaw 完全访问权限，结果它删除了所有内容"
-    },
-    "summary": {
-      "en-US": "OpenClaw、安全边界、无为而治",
-      "zh-CN": "争议性话题，用「无为而治」制造悖论：过度授权 vs 边界设定"
-    },
-    "relevance": "OpenClaw、安全边界、无为而治",
-    "score": 0.71,
-    "engagement": {
-      "likes": 106,
-      "replies": 26,
-      "retweets": 6,
-      "views": 5612
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-23T17:04:50.175690+00:00"
-  },
-  {
-    "id": "2025944354070659094",
-    "date": "2026-02-24",
-    "author": "@sharbel",
-    "author_url": "https://x.com/sharbel",
-    "tweet_url": "https://x.com/sharbel/status/2025944354070659094",
-    "title": {
-      "en-US": "How I Run My Entire Business With AI Agents (Full OpenClaw Setup)",
-      "zh-CN": "展示如何用 OpenClaw 运行整个业务，包括 X 内容、交易机器人、YouTube 等"
-    },
-    "summary": {
-      "en-US": "OpenClaw、业务自动化、建系统",
-      "zh-CN": "业务自动化案例，用「建系统」评论业务由 Agent 运行的系统思维"
-    },
-    "relevance": "OpenClaw、业务自动化、建系统",
-    "score": 0.7,
-    "engagement": {
-      "likes": 88,
-      "replies": 11,
-      "retweets": 2,
-      "views": 3877
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-23T16:03:11.809785+00:00"
   }
 ]
