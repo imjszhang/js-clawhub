@@ -114,6 +114,66 @@
     }
   },
   {
+    "id": "2028753071946502635",
+    "date": "2026-03-03",
+    "author": "@IndieDevHailey",
+    "author_url": "https://x.com/IndieDevHailey",
+    "tweet_url": "https://x.com/IndieDevHailey/status/2028753071946502635",
+    "title": {
+      "en-US": "OpenClaw agent needs eyes, Agent-Reach skill recommended",
+      "zh-CN": "推荐安装 Agent-Reach skill，因为 OpenClaw 这种 AI Agent 虽然脑子很强，但眼睛基本是瞎的——看不了 YouTube、Twitter API 要钱、Reddit 403、小红书必须登录"
+    },
+    "summary": {
+      "en-US": "OpenClaw Agent 能力边界与外部信息获取",
+      "zh-CN": "「agent 缺眼睛」是把问题归咎于工具，但真正的盲区在于你让 agent 去获取信息前，没有先想清楚什么信息值得获取——信息过载比信息缺失更致命。"
+    },
+    "relevance": "OpenClaw Agent 能力边界与外部信息获取",
+    "score": 0.78,
+    "engagement": {
+      "likes": 112,
+      "retweets": 23,
+      "replies": 6,
+      "views": 7279,
+      "bookmarks": 150
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T10:06:57.082073+00:00",
+    "js_take": {
+      "en-US": "Agent-Reach gives your agent eyes. But more input isn't better input—sometimes blindness is a feature, not a bug.",
+      "zh-CN": "Agent-Reach 给了 agent 眼睛。但更多输入不等于更好输入——有时候看不见反而是种保护，不是缺陷。"
+    }
+  },
+  {
+    "id": "2028621989720572278",
+    "date": "2026-03-03",
+    "author": "@ProofofMaro",
+    "author_url": "https://x.com/ProofofMaro",
+    "tweet_url": "https://x.com/ProofofMaro/status/2028621989720572278",
+    "title": {
+      "en-US": "ADHD + openclaw = heaven",
+      "zh-CN": "ADHD + OpenClaw = 天堂"
+    },
+    "summary": {
+      "en-US": "OpenClaw 与注意力管理",
+      "zh-CN": "「ADHD 的天堂」是外控依赖——把执行力外包给工具，而不是训练自己与混乱共处，这是一种隐性逃避。"
+    },
+    "relevance": "OpenClaw 与注意力管理",
+    "score": 0.78,
+    "engagement": {
+      "likes": 521,
+      "retweets": 38,
+      "replies": 54,
+      "views": 18699,
+      "bookmarks": 119
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T10:06:57.082084+00:00",
+    "js_take": {
+      "en-US": "Outsourcing your chaos to a tool isn't healing ADHD. It's avoiding the work of learning to surf your own mind.",
+      "zh-CN": "把混乱外包给工具不是治愈 ADHD，而是在逃避学习驾驭自己心智的功课。"
+    }
+  },
+  {
     "id": "2028533746073321919",
     "date": "2026-03-03",
     "author": "@gregisenberg",
@@ -352,6 +412,36 @@
     }
   },
   {
+    "id": "2028724796230635684",
+    "date": "2026-03-03",
+    "author": "@0xAllen",
+    "author_url": "https://x.com/0xAllen",
+    "tweet_url": "https://x.com/0xAllen/status/2028724796230635684",
+    "title": {
+      "en-US": "OpenClaw skill designed logo in 30 minutes with philosophy",
+      "zh-CN": "用 OpenClaw Skill 30 分钟设计 Logo，从哲学思想到视觉设计一气呵成"
+    },
+    "summary": {
+      "en-US": "OpenClaw 与创意设计",
+      "zh-CN": "「30 分钟搞懂设计哲学」是把哲学的深度误当成可压缩的信息——哲学不是被搞懂的，是被活出来的。"
+    },
+    "relevance": "OpenClaw 与创意设计",
+    "score": 0.74,
+    "engagement": {
+      "likes": 264,
+      "retweets": 41,
+      "replies": 5,
+      "views": 16317,
+      "bookmarks": 374
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T10:06:57.082086+00:00",
+    "js_take": {
+      "en-US": "30 minutes to \"get\" a philosophy? You compressed the words, not the understanding. Philosophy is lived, not parsed.",
+      "zh-CN": "30 分钟「搞懂」哲学？你压缩的是文字，不是理解。哲学是被活出来的，不是被解析的。"
+    }
+  },
+  {
     "id": "2028525774547099854",
     "date": "2026-03-03",
     "author": "@JulianGoldieSEO",
@@ -529,6 +619,36 @@
     "js_take": {
       "en-US": "\"Understands space and time\" is headline candy. Reality check: every wrong judgment becomes property damage, not a debug log. You sure you're ready to outsource that risk?",
       "zh-CN": "「理解空间和时间」是标题党的话术。现实检查：每一个错误判断都会变成财产损失，而不是一行 debug log。你确定准备好外包这个风险了吗？"
+    }
+  },
+  {
+    "id": "2028503732519088512",
+    "date": "2026-03-03",
+    "author": "@boxmining",
+    "author_url": "https://x.com/boxmining",
+    "tweet_url": "https://x.com/boxmining/status/2028503732519088512",
+    "title": {
+      "en-US": "OpenClaw subagents for quality, parallel processing, less AI slop",
+      "zh-CN": "OpenClaw agent 不用 subagents 就是浪费质量——并行处理、更小上下文、更少幻觉、更好质量、更快结果、更少 AI slop"
+    },
+    "summary": {
+      "en-US": "OpenClaw subagent 架构",
+      "zh-CN": "「更多 agent 更少 slop」听起来合理，但协调多个 agent 的通信成本往往被低估——有时候一个判断力强的 agent 胜过十个并行但愚笨的 agent。"
+    },
+    "relevance": "OpenClaw subagent 架构",
+    "score": 0.7,
+    "engagement": {
+      "likes": 24,
+      "retweets": 0,
+      "replies": 5,
+      "views": 3291,
+      "bookmarks": 21
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T10:06:57.082081+00:00",
+    "js_take": {
+      "en-US": "Ten parallel agents don't beat one agent that actually thinks. Coordination overhead is the slop they never measure.",
+      "zh-CN": "十个并行 agent 打不过一个真正会思考的。协调成本这种 slop，他们从来不统计。"
     }
   },
   {
@@ -5273,126 +5393,6 @@
     "js_take": {
       "en-US": "DeepSeek went viral. OpenClaw didn't. Same tools, different crowds. The gap isn't technical—it's human. A Mac Mini won't think for you.",
       "zh-CN": "DeepSeek 爆火了，OpenClaw 没有。同样的工具，不同的人。差距不在技术，而在人。Mac Mini 不会替你思考。"
-    }
-  },
-  {
-    "id": "2025713582676046330",
-    "date": "2026-02-23",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2025713582676046330",
-    "title": {
-      "en-US": "Installed OpenClaw for normie friend, now he's writing web services and automating his house",
-      "zh-CN": "给普通人朋友装 OpenClaw，现在他在写服务并自动化房子"
-    },
-    "summary": {
-      "en-US": "OpenClaw、技术普惠、人群分化",
-      "zh-CN": "OpenClaw，技术普惠，人群分化"
-    },
-    "relevance": "OpenClaw、技术普惠、人群分化",
-    "score": 0.86,
-    "engagement": {
-      "likes": 210,
-      "replies": 29,
-      "retweets": 5,
-      "views": 17497
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：同样的工具，在普通人手里也能成为生产力杠杆",
-    "synced_at": "2026-02-23T00:06:00.773009+00:00",
-    "js_take": {
-      "en-US": "Same tool, different outcomes. The AI isn't the differentiator—the human is. A claw in the right hands becomes a lever for the whole house.",
-      "zh-CN": "同样的工具，不同的结果。区分高下的是人，不是 AI。Claw 到了对的人手里，能成为撬动整个房子的杠杆。"
-    }
-  },
-  {
-    "id": "2025739287396819387",
-    "date": "2026-02-23",
-    "author": "@VadimStrizheus",
-    "author_url": "https://x.com/VadimStrizheus",
-    "tweet_url": "https://x.com/VadimStrizheus/status/2025739287396819387",
-    "title": {
-      "en-US": "OpenClaw proactively built blog section for SEO/GEO ranking, Jarvis realized the gap",
-      "zh-CN": "OpenClaw 主动构建博客板块提升 SEO/GEO 排名"
-    },
-    "summary": {
-      "en-US": "OpenClaw、Jarvis定律、Agent 主动性",
-      "zh-CN": "OpenClaw，Jarvis 定律，Agent 主动性"
-    },
-    "relevance": "OpenClaw、Jarvis定律、Agent 主动性",
-    "score": 0.86,
-    "engagement": {
-      "likes": 21,
-      "replies": 11,
-      "retweets": 1,
-      "views": 960
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用 Jarvis 定律评论：这就是 Agent 应有的样子——感知缺口、决策、执行，无需人工指令",
-    "synced_at": "2026-02-23T02:06:54.805995+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law in motion. Perceive → Decide → Execute. No tickets, no standups, no waiting for human approval. This is what agentic means.",
-      "zh-CN": "Jarvis 定律正在应验。感知 → 决策 → 执行。没有工单，没有站会，无需等待人工批准。这才是 Agentic 的本质。"
-    }
-  },
-  {
-    "id": "2025642396747485397",
-    "date": "2026-02-23",
-    "author": "@hnshah",
-    "author_url": "https://x.com/hnshah",
-    "tweet_url": "https://x.com/hnshah/status/2025642396747485397",
-    "title": {
-      "en-US": "Most people posting about OpenClaw aren't running it for real work. @chrysb is one of the few who is",
-      "zh-CN": "大多数发 OpenClaw 的人并没有真正用它做有意义的工作"
-    },
-    "summary": {
-      "en-US": "OpenClaw、真实使用 vs 炒作、建系统",
-      "zh-CN": "OpenClaw，真实使用 vs 炒作，建系统"
-    },
-    "relevance": "OpenClaw、真实使用 vs 炒作、建系统",
-    "score": 0.86,
-    "engagement": {
-      "likes": 220,
-      "replies": 13,
-      "retweets": 11,
-      "views": 63653
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用「建系统 vs 造奇观」评论：真正的高手在默默建系统，新手在追热点发推文",
-    "synced_at": "2026-02-23T02:06:54.806009+00:00",
-    "js_take": {
-      "en-US": "Hot take: the more someone tweets about their OpenClaw setup, the less they're actually using it. Real operators are heads down building systems, not chasing engagement.",
-      "zh-CN": "暴论：一个人发推炫耀 OpenClaw 配置的频率越高，他实际使用它的程度就越低。真正的运营者在埋头建系统，而不是追互动。"
-    }
-  },
-  {
-    "id": "2025721611198808195",
-    "date": "2026-02-23",
-    "author": "@Astronaut_1216",
-    "author_url": "https://x.com/Astronaut_1216",
-    "tweet_url": "https://x.com/Astronaut_1216/status/2025721611198808195",
-    "title": {
-      "en-US": "Best OpenClaw practice seen: AI is rational, humans are reasonable, with good info sources and strategy human-machine collaboration is无敌",
-      "zh-CN": "最佳 OpenClaw 实践：AI 理性，人合情，协同无敌"
-    },
-    "summary": {
-      "en-US": "OpenClaw 最佳实践、人机协作、认知差异",
-      "zh-CN": "OpenClaw 最佳实践，人机协作，认知差异"
-    },
-    "relevance": "OpenClaw 最佳实践、人机协作、认知差异",
-    "score": 0.86,
-    "engagement": {
-      "likes": 86,
-      "replies": 3,
-      "retweets": 11,
-      "views": 17249
-    },
-    "comment_type": "add_insight",
-    "suggested_angle": "用「AI 的上限就是使用 AI 的人」评论：AI 是理性的，但使用它的人需要懂取舍、懂策略、懂品味",
-    "synced_at": "2026-02-23T04:06:32.339809+00:00",
-    "js_take": {
-      "en-US": "AI has no survival pressure. It doesn't know what \"reasonable\" means. The ceiling isn't the model—it's the human's judgment, taste, and strategy. Rationality + Reason = Unstoppable.",
-      "zh-CN": "AI 没有生存压力，它不懂什么叫「合乎情理」。上限不在模型，而在人的判断力、品味和策略。理性 + 情理 = 无敌。"
     }
   }
 ]

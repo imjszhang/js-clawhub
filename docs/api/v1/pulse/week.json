@@ -114,6 +114,66 @@
     }
   },
   {
+    "id": "2028753071946502635",
+    "date": "2026-03-03",
+    "author": "@IndieDevHailey",
+    "author_url": "https://x.com/IndieDevHailey",
+    "tweet_url": "https://x.com/IndieDevHailey/status/2028753071946502635",
+    "title": {
+      "en-US": "OpenClaw agent needs eyes, Agent-Reach skill recommended",
+      "zh-CN": "推荐安装 Agent-Reach skill，因为 OpenClaw 这种 AI Agent 虽然脑子很强，但眼睛基本是瞎的——看不了 YouTube、Twitter API 要钱、Reddit 403、小红书必须登录"
+    },
+    "summary": {
+      "en-US": "OpenClaw Agent 能力边界与外部信息获取",
+      "zh-CN": "「agent 缺眼睛」是把问题归咎于工具，但真正的盲区在于你让 agent 去获取信息前，没有先想清楚什么信息值得获取——信息过载比信息缺失更致命。"
+    },
+    "relevance": "OpenClaw Agent 能力边界与外部信息获取",
+    "score": 0.78,
+    "engagement": {
+      "likes": 112,
+      "retweets": 23,
+      "replies": 6,
+      "views": 7279,
+      "bookmarks": 150
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T10:06:57.082073+00:00",
+    "js_take": {
+      "en-US": "Agent-Reach gives your agent eyes. But more input isn't better input—sometimes blindness is a feature, not a bug.",
+      "zh-CN": "Agent-Reach 给了 agent 眼睛。但更多输入不等于更好输入——有时候看不见反而是种保护，不是缺陷。"
+    }
+  },
+  {
+    "id": "2028621989720572278",
+    "date": "2026-03-03",
+    "author": "@ProofofMaro",
+    "author_url": "https://x.com/ProofofMaro",
+    "tweet_url": "https://x.com/ProofofMaro/status/2028621989720572278",
+    "title": {
+      "en-US": "ADHD + openclaw = heaven",
+      "zh-CN": "ADHD + OpenClaw = 天堂"
+    },
+    "summary": {
+      "en-US": "OpenClaw 与注意力管理",
+      "zh-CN": "「ADHD 的天堂」是外控依赖——把执行力外包给工具，而不是训练自己与混乱共处，这是一种隐性逃避。"
+    },
+    "relevance": "OpenClaw 与注意力管理",
+    "score": 0.78,
+    "engagement": {
+      "likes": 521,
+      "retweets": 38,
+      "replies": 54,
+      "views": 18699,
+      "bookmarks": 119
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T10:06:57.082084+00:00",
+    "js_take": {
+      "en-US": "Outsourcing your chaos to a tool isn't healing ADHD. It's avoiding the work of learning to surf your own mind.",
+      "zh-CN": "把混乱外包给工具不是治愈 ADHD，而是在逃避学习驾驭自己心智的功课。"
+    }
+  },
+  {
     "id": "2028533746073321919",
     "date": "2026-03-03",
     "author": "@gregisenberg",
@@ -352,6 +412,36 @@
     }
   },
   {
+    "id": "2028724796230635684",
+    "date": "2026-03-03",
+    "author": "@0xAllen",
+    "author_url": "https://x.com/0xAllen",
+    "tweet_url": "https://x.com/0xAllen/status/2028724796230635684",
+    "title": {
+      "en-US": "OpenClaw skill designed logo in 30 minutes with philosophy",
+      "zh-CN": "用 OpenClaw Skill 30 分钟设计 Logo，从哲学思想到视觉设计一气呵成"
+    },
+    "summary": {
+      "en-US": "OpenClaw 与创意设计",
+      "zh-CN": "「30 分钟搞懂设计哲学」是把哲学的深度误当成可压缩的信息——哲学不是被搞懂的，是被活出来的。"
+    },
+    "relevance": "OpenClaw 与创意设计",
+    "score": 0.74,
+    "engagement": {
+      "likes": 264,
+      "retweets": 41,
+      "replies": 5,
+      "views": 16317,
+      "bookmarks": 374
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T10:06:57.082086+00:00",
+    "js_take": {
+      "en-US": "30 minutes to \"get\" a philosophy? You compressed the words, not the understanding. Philosophy is lived, not parsed.",
+      "zh-CN": "30 分钟「搞懂」哲学？你压缩的是文字，不是理解。哲学是被活出来的，不是被解析的。"
+    }
+  },
+  {
     "id": "2028525774547099854",
     "date": "2026-03-03",
     "author": "@JulianGoldieSEO",
@@ -529,6 +619,36 @@
     "js_take": {
       "en-US": "\"Understands space and time\" is headline candy. Reality check: every wrong judgment becomes property damage, not a debug log. You sure you're ready to outsource that risk?",
       "zh-CN": "「理解空间和时间」是标题党的话术。现实检查：每一个错误判断都会变成财产损失，而不是一行 debug log。你确定准备好外包这个风险了吗？"
+    }
+  },
+  {
+    "id": "2028503732519088512",
+    "date": "2026-03-03",
+    "author": "@boxmining",
+    "author_url": "https://x.com/boxmining",
+    "tweet_url": "https://x.com/boxmining/status/2028503732519088512",
+    "title": {
+      "en-US": "OpenClaw subagents for quality, parallel processing, less AI slop",
+      "zh-CN": "OpenClaw agent 不用 subagents 就是浪费质量——并行处理、更小上下文、更少幻觉、更好质量、更快结果、更少 AI slop"
+    },
+    "summary": {
+      "en-US": "OpenClaw subagent 架构",
+      "zh-CN": "「更多 agent 更少 slop」听起来合理，但协调多个 agent 的通信成本往往被低估——有时候一个判断力强的 agent 胜过十个并行但愚笨的 agent。"
+    },
+    "relevance": "OpenClaw subagent 架构",
+    "score": 0.7,
+    "engagement": {
+      "likes": 24,
+      "retweets": 0,
+      "replies": 5,
+      "views": 3291,
+      "bookmarks": 21
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T10:06:57.082081+00:00",
+    "js_take": {
+      "en-US": "Ten parallel agents don't beat one agent that actually thinks. Coordination overhead is the slop they never measure.",
+      "zh-CN": "十个并行 agent 打不过一个真正会思考的。协调成本这种 slop，他们从来不统计。"
     }
   },
   {

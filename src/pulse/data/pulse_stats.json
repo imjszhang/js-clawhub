@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-03T09:12:50.811378+00:00",
+  "updated_at": "2026-03-03T10:07:10.642394+00:00",
   "this_week": {
-    "total_items": 38,
+    "total_items": 42,
     "avg_score": 0.78,
-    "unique_authors": 32,
+    "unique_authors": 35,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -395,6 +395,66 @@
         "js_take": {
           "en-US": "Visualizing complexity makes it *look* manageable. The real mess is what happens when agents step on each other's toes—no dashboard shows that.",
           "zh-CN": "Visualizing complexity makes it *look* manageable. The real mess is what happens when agents step on each other's toes—no dashboard shows that."
+        }
+      },
+      {
+        "id": "2028753071946502635",
+        "date": "2026-03-03",
+        "author": "@IndieDevHailey",
+        "author_url": "https://x.com/IndieDevHailey",
+        "tweet_url": "https://x.com/IndieDevHailey/status/2028753071946502635",
+        "title": {
+          "en-US": "OpenClaw agent needs eyes, Agent-Reach skill recommended",
+          "zh-CN": "推荐安装 Agent-Reach skill，因为 OpenClaw 这种 AI Agent 虽然脑子很强，但眼睛基本是瞎的——看不了 YouTube、Twitter API 要钱、Reddit 403、小红书必须登录"
+        },
+        "summary": {
+          "en-US": "OpenClaw Agent 能力边界与外部信息获取",
+          "zh-CN": "「agent 缺眼睛」是把问题归咎于工具，但真正的盲区在于你让 agent 去获取信息前，没有先想清楚什么信息值得获取——信息过载比信息缺失更致命。"
+        },
+        "relevance": "OpenClaw Agent 能力边界与外部信息获取",
+        "score": 0.78,
+        "engagement": {
+          "likes": 112,
+          "retweets": 23,
+          "replies": 6,
+          "views": 7279,
+          "bookmarks": 150
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T10:06:57.082073+00:00",
+        "js_take": {
+          "en-US": "Agent-Reach gives your agent eyes. But more input isn't better input—sometimes blindness is a feature, not a bug.",
+          "zh-CN": "Agent-Reach 给了 agent 眼睛。但更多输入不等于更好输入——有时候看不见反而是种保护，不是缺陷。"
+        }
+      },
+      {
+        "id": "2028621989720572278",
+        "date": "2026-03-03",
+        "author": "@ProofofMaro",
+        "author_url": "https://x.com/ProofofMaro",
+        "tweet_url": "https://x.com/ProofofMaro/status/2028621989720572278",
+        "title": {
+          "en-US": "ADHD + openclaw = heaven",
+          "zh-CN": "ADHD + OpenClaw = 天堂"
+        },
+        "summary": {
+          "en-US": "OpenClaw 与注意力管理",
+          "zh-CN": "「ADHD 的天堂」是外控依赖——把执行力外包给工具，而不是训练自己与混乱共处，这是一种隐性逃避。"
+        },
+        "relevance": "OpenClaw 与注意力管理",
+        "score": 0.78,
+        "engagement": {
+          "likes": 521,
+          "retweets": 38,
+          "replies": 54,
+          "views": 18699,
+          "bookmarks": 119
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T10:06:57.082084+00:00",
+        "js_take": {
+          "en-US": "Outsourcing your chaos to a tool isn't healing ADHD. It's avoiding the work of learning to surf your own mind.",
+          "zh-CN": "把混乱外包给工具不是治愈 ADHD，而是在逃避学习驾驭自己心智的功课。"
         }
       },
       {
@@ -836,6 +896,36 @@
         }
       },
       {
+        "id": "2028724796230635684",
+        "date": "2026-03-03",
+        "author": "@0xAllen",
+        "author_url": "https://x.com/0xAllen",
+        "tweet_url": "https://x.com/0xAllen/status/2028724796230635684",
+        "title": {
+          "en-US": "OpenClaw skill designed logo in 30 minutes with philosophy",
+          "zh-CN": "用 OpenClaw Skill 30 分钟设计 Logo，从哲学思想到视觉设计一气呵成"
+        },
+        "summary": {
+          "en-US": "OpenClaw 与创意设计",
+          "zh-CN": "「30 分钟搞懂设计哲学」是把哲学的深度误当成可压缩的信息——哲学不是被搞懂的，是被活出来的。"
+        },
+        "relevance": "OpenClaw 与创意设计",
+        "score": 0.74,
+        "engagement": {
+          "likes": 264,
+          "retweets": 41,
+          "replies": 5,
+          "views": 16317,
+          "bookmarks": 374
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T10:06:57.082086+00:00",
+        "js_take": {
+          "en-US": "30 minutes to \"get\" a philosophy? You compressed the words, not the understanding. Philosophy is lived, not parsed.",
+          "zh-CN": "30 分钟「搞懂」哲学？你压缩的是文字，不是理解。哲学是被活出来的，不是被解析的。"
+        }
+      },
+      {
         "id": "2028525774547099854",
         "date": "2026-03-03",
         "author": "@JulianGoldieSEO",
@@ -954,99 +1044,11 @@
           "en-US": "Clearing context isn't a bug—it's a missing shift-change protocol. Your agent shouldn't get amnesia; it needs a successor that actually read the handoff.",
           "zh-CN": "清空 context 不是 bug——是缺了一个交接班协议。你的 agent 不应该失忆；它需要一个真正读过交接文档的继任者。"
         }
-      },
-      {
-        "id": "2028715659006545930",
-        "date": "2026-03-03",
-        "author": "@boxmining",
-        "author_url": "https://x.com/boxmining",
-        "tweet_url": "https://x.com/boxmining/status/2028715659006545930",
-        "title": {
-          "en-US": "OpenClaw 3.2 with streaming, PDF analysis, ACP",
-          "zh-CN": "OpenClaw 3.2 发布，支持实时流式响应、原生 PDF 分析、更好的 ACP agent 间通信"
-        },
-        "summary": {
-          "en-US": "OpenClaw 新版本功能",
-          "zh-CN": "「10 倍更好」是版本号的幻觉——功能多不等于体验好，真正的问题是这些功能会不会让配置复杂度也翻 10 倍。"
-        },
-        "relevance": "OpenClaw 新版本功能",
-        "score": 0.72,
-        "engagement": {
-          "likes": 36,
-          "retweets": 4,
-          "replies": 5,
-          "views": 2250,
-          "bookmarks": 22
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T08:10:47.164725+00:00",
-        "js_take": {
-          "en-US": "Streaming + PDF + ACP. Feature checklist complete. But who's counting the config hours? More power usually means more pain.",
-          "zh-CN": "实时流 + PDF + ACP，功能清单打勾了。但有人算过配置时间吗？更多能力通常意味着更多痛苦。"
-        }
-      },
-      {
-        "id": "2027998700203872491",
-        "date": "2026-03-02",
-        "author": "@linyiLYi",
-        "author_url": "https://x.com/linyiLYi",
-        "tweet_url": "https://x.com/linyiLYi/status/2027998700203872491",
-        "title": {
-          "en-US": "在M4 Max上跑通本地OpenClaw，所有数据不离开电脑，成了最后一个知道伊朗出事的人",
-          "zh-CN": "在M4 Max MacBook Pro上本地运行OpenClaw工作流，数据不离开电脑，结果成了全世界最后一个知道伊朗出事的人"
-        },
-        "summary": {
-          "en-US": "OpenClaw本地部署 + 信息茧房 - 核心相关",
-          "zh-CN": "作者在炫耀本地部署的安全性和速度，却无意中揭示了一个悖论：完全自主的技术带来的是完全的信息封闭。我们在追求\"数据不离开自己电脑\"的同时，也切断了与外部世界的有效连接。这不是自由，是另一种形式的束缚。"
-        },
-        "relevance": "OpenClaw本地部署 + 信息茧房 - 核心相关",
-        "score": 0.71,
-        "engagement": {
-          "likes": 598,
-          "retweets": 49,
-          "replies": 66
-        },
-        "comment_type": "provoke",
-        "synced_at": "2026-03-01T19:03:53.609821+00:00",
-        "js_take": {
-          "en-US": "Local deployment protects your data, but also cages your awareness. True autonomy isn't disconnecting—it's choosing when to connect and when to seal off. 无为 isn't isolation.",
-          "zh-CN": "本地部署保护了数据，却也困住了感知。真正的自主不是断网，而是选择何时连接、何时封闭。无为，不是孤立。"
-        }
-      },
-      {
-        "id": "2028202363941519547",
-        "date": "2026-03-02",
-        "author": "@RoundtableSpace",
-        "author_url": "https://x.com/RoundtableSpace",
-        "tweet_url": "https://x.com/RoundtableSpace/status/2028202363941519547",
-        "title": {
-          "en-US": "OpenClaw wrappers are doing $4k-$50k MRR. There's a kit to build your own in one click. THE OPENCLAW ECONOMY IS WIDE OPEN.",
-          "zh-CN": "OpenClaw wrappers 月入 4k-50k 美元，现在有套件可以一键搭建。OpenClaw 经济的大门已经敞开。"
-        },
-        "summary": {
-          "en-US": "OpenClaw 商业化与生态",
-          "zh-CN": "每个人都在说「套件」「模板」「一键部署」，好像搭起来就赚钱了。但生意和项目的区别是：前者需要有人持续为之负责。MRR 不是代码跑出来的，是信任堆出来的。"
-        },
-        "relevance": "OpenClaw 商业化与生态",
-        "score": 0.71,
-        "engagement": {
-          "likes": 92,
-          "replies": 18,
-          "retweets": 9,
-          "views": 33058,
-          "bookmarks": 97
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-01T21:08:30.502035+00:00",
-        "js_take": {
-          "en-US": "One-click kits make building easy, but don't make *showing up every day* easy. That $4k-$50k MRR doesn't come from code—it comes from someone willing to lose sleep over it. That's the real moat.",
-          "zh-CN": "一键搭建确实省事，但「每天坚持上线」没法一键搞定。月入4k到50k不是靠代码，是靠有人愿意为它熬夜。这才是真·护城河。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 151
+    "unique_authors": 153
   }
 }
