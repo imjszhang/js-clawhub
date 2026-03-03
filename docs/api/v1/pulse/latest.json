@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-03T20:03:57.201016+00:00",
+  "updated_at": "2026-03-03T20:05:42.697231+00:00",
   "this_week": {
-    "total_items": 58,
+    "total_items": 61,
     "avg_score": 0.77,
-    "unique_authors": 48,
+    "unique_authors": 50,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -256,6 +256,34 @@
         }
       },
       {
+        "id": "2028558831144362061",
+        "date": "2026-03-04",
+        "author": "@djfarrelly",
+        "author_url": "https://x.com/djfarrelly",
+        "tweet_url": "https://x.com/djfarrelly/status/2028558831144362061",
+        "title": {
+          "en-US": "Inspired by @openclaw, built project \"Utah\" with event-driven orchestration at core",
+          "zh-CN": "受 OpenClaw 启发，作者构建了一个名为\"Utah\"的项目，将编排(orchestration)置于核心并探索事件驱动方法"
+        },
+        "summary": {
+          "en-US": "直接提及 OpenClaw，开发者受其启发构建新项目，属于 Agent 框架生态讨论",
+          "zh-CN": "OpenClaw 的核心价值不是\"被模仿\"，而是证明了一件事：当编排(orchestration)成为一等公民，Agent 才能从 demo 变成生产级系统——这是大多数框架还没意识到的层级问题。"
+        },
+        "relevance": "直接提及 OpenClaw，开发者受其启发构建新项目，属于 Agent 框架生态讨论",
+        "score": 0.82,
+        "engagement": {
+          "likes": 84,
+          "replies": 4,
+          "retweets": 10
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T20:05:34.370245+00:00",
+        "js_take": {
+          "en-US": "Copying the shape is easy. The real test: can your orchestration gracefully handle failure states? Most people steal the syntax, miss the soul.",
+          "zh-CN": "复制形态容易。真正的考验：你的编排系统能否优雅地处理故障状态？大多数人抄走了语法，却丢失了灵魂。"
+        }
+      },
+      {
         "id": "2028791230713528753",
         "date": "2026-03-03",
         "author": "@AlexFinn",
@@ -427,6 +455,34 @@
         "js_take": {
           "en-US": "Buying a Mac mini to \"fix\" latency is like buying a Ferrari for grocery runs. The bottleneck isn't your chip—it's the model quality and ecosystem integration you can't see yet.",
           "zh-CN": "买 Mac mini 来「解决」延迟，就像买法拉利去菜市场。瓶颈不是芯片，而是你还没意识到的模型质量和生态整合。"
+        }
+      },
+      {
+        "id": "2028853647501656270",
+        "date": "2026-03-04",
+        "author": "@denisyurchak",
+        "author_url": "https://x.com/denisyurchak",
+        "tweet_url": "https://x.com/denisyurchak/status/2028853647501656270",
+        "title": {
+          "en-US": "Built first eSIM service for OpenClaw, AI assistant delivers eSIMs via chat",
+          "zh-CN": "为 OpenClaw 构建了首个 eSIM 服务，AI 助手通过 Telegram/WhatsApp 聊天直接交付 eSIM"
+        },
+        "summary": {
+          "en-US": "OpenClaw 生态的实际应用案例，展示 Agent 如何整合现实服务",
+          "zh-CN": "这个案例真正重要的不是 eSIM，而是展示了 Agent 从\"回答问题\"进化到\"完成闭环交易\"的临界点——当 AI 能直接交付数字商品，它就从一个聊天工具变成了基础设施。"
+        },
+        "relevance": "OpenClaw 生态的实际应用案例，展示 Agent 如何整合现实服务",
+        "score": 0.79,
+        "engagement": {
+          "likes": 88,
+          "replies": 10,
+          "retweets": 4
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T20:05:34.370250+00:00",
+        "js_take": {
+          "en-US": "eSIM is just the surface. When Agents can close deals on their own, the question isn't what they deliver—it's whether you're ready to give them wallets.",
+          "zh-CN": "eSIM只是表象。当Agent能独立完成交易时，问题不在于它们能交付什么——而在于你是否准备好给它们钱包。"
         }
       },
       {
@@ -986,63 +1042,6 @@
         "js_take": {
           "en-US": "Agent controlling your Discord and Figma sounds powerful, but where's the line? When it sends messages and edits designs for you, the gap between 'helping' and 'replacing' gets dangerously thin.",
           "zh-CN": "让agent接管Discord和Figma听着很酷，但界限在哪？当它替你发消息、改设计时，「辅助」和「取代」之间那道线已经薄如蝉翼。"
-        }
-      },
-      {
-        "id": "2028158614788325641",
-        "date": "2026-03-02",
-        "author": "@CaptVenk",
-        "author_url": "https://x.com/CaptVenk",
-        "tweet_url": "https://x.com/CaptVenk/status/2028158614788325641",
-        "title": {
-          "en-US": "8-yo Lakshveer built PBLClaw: autonomous agent for ESP32 that writes and uploads code via Telegram",
-          "zh-CN": "8 岁小孩 Lakshveer 做了 PBLClaw，一个能用自然语言控制 ESP32 写代码、刷固件、跑程序的自主 Agent"
-        },
-        "summary": {
-          "en-US": "OpenClaw 创意项目 + Agent 与硬件结合 + 低龄开发者案例",
-          "zh-CN": "一个 8 岁孩子做出这个，暴露的不是「小孩有多厉害」，而是现代 agent 工具把编程门槛降到了多低。更形象的结论：当工具足够好时，表达想法的障碍只剩想象力本身。"
-        },
-        "relevance": "OpenClaw 创意项目 + Agent 与硬件结合 + 低龄开发者案例",
-        "score": 0.75,
-        "engagement": {
-          "likes": 265,
-          "replies": 17,
-          "retweets": 28,
-          "views": 24389
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-01T22:03:30.643729+00:00",
-        "js_take": {
-          "en-US": "An 8-year-old shipping hardware-autonomous agents tells you everything about where the barrier to build just went. Hint: it's not about age.",
-          "zh-CN": "8岁小孩都能发布硬件自主agent了，这足以说明构建门槛降到了哪。提示：跟年龄没关系。"
-        }
-      },
-      {
-        "id": "2028219959134806303",
-        "date": "2026-03-02",
-        "author": "@jordymaui",
-        "author_url": "https://x.com/jordymaui",
-        "tweet_url": "https://x.com/jordymaui/status/2028219959134806303",
-        "title": {
-          "en-US": "One person with Mac Mini runs 30-account agent workflow",
-          "zh-CN": "一个人用Mac Mini运行agent，管理30个账号，自动生成简报"
-        },
-        "summary": {
-          "en-US": "OpenClaw / Agent运营 / 自动化工作流",
-          "zh-CN": "这不是'一个人的团队'，而是一个人在管理一个随时可能失控的分布式系统——没有同事意味着没有备用大脑当系统偏离预期时"
-        },
-        "relevance": "OpenClaw / Agent运营 / 自动化工作流",
-        "score": 0.75,
-        "engagement": {
-          "likes": 139,
-          "replies": 6,
-          "retweets": 8
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-02T05:05:07.386169+00:00",
-        "js_take": {
-          "en-US": "30 accounts, full auto reporting—sounds like a one-person team. Actually it's one human managing a distributed system that can drift off-course any moment. No coworkers means no backup brains.",
-          "zh-CN": "30个账号全自动运营，听着像一人军团。实际上是一个人守着随时可能跑偏的分布式系统。没有同事=没有备用大脑。"
         }
       }
     ]
