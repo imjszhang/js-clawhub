@@ -232,6 +232,36 @@
     }
   },
   {
+    "id": "2028632072722739327",
+    "date": "2026-03-03",
+    "author": "@sarfraj_ab75685",
+    "author_url": "https://x.com/sarfraj_ab75685",
+    "tweet_url": "https://x.com/sarfraj_ab75685/status/2028632072722739327",
+    "title": {
+      "en-US": "OpenClaw bot with 6 agents for local business sales",
+      "zh-CN": "OpenClaw bot 运行 6 个 AI agent 24/7，自动寻找无网站的本地商家、建站、发邮件、处理异议、成交"
+    },
+    "summary": {
+      "en-US": "OpenClaw 商业应用 - 销售自动化",
+      "zh-CN": "「自动成交」听起来很酷，但本地商家的真正痛点不是「没有网站」——是「没有信任」。代码能建站，建不了关系。"
+    },
+    "relevance": "OpenClaw 商业应用 - 销售自动化",
+    "score": 0.76,
+    "engagement": {
+      "likes": 136,
+      "retweets": 39,
+      "replies": 81,
+      "views": 7197,
+      "bookmarks": 106
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T08:10:47.164720+00:00",
+    "js_take": {
+      "en-US": "6 agents building websites and closing deals. Cool demo, but local businesses don't need more automation—they need trust. Code can't handshake.",
+      "zh-CN": "6 个 agent 建站成交，Demo 很酷。但本地商家要的不是更多自动化——是信任。代码没法握手。"
+    }
+  },
+  {
     "id": "2028703174388043966",
     "date": "2026-03-03",
     "author": "@lennysan",
@@ -409,6 +439,36 @@
     "js_take": {
       "en-US": "Clearing context isn't a bug—it's a missing shift-change protocol. Your agent shouldn't get amnesia; it needs a successor that actually read the handoff.",
       "zh-CN": "清空 context 不是 bug——是缺了一个交接班协议。你的 agent 不应该失忆；它需要一个真正读过交接文档的继任者。"
+    }
+  },
+  {
+    "id": "2028715659006545930",
+    "date": "2026-03-03",
+    "author": "@boxmining",
+    "author_url": "https://x.com/boxmining",
+    "tweet_url": "https://x.com/boxmining/status/2028715659006545930",
+    "title": {
+      "en-US": "OpenClaw 3.2 with streaming, PDF analysis, ACP",
+      "zh-CN": "OpenClaw 3.2 发布，支持实时流式响应、原生 PDF 分析、更好的 ACP agent 间通信"
+    },
+    "summary": {
+      "en-US": "OpenClaw 新版本功能",
+      "zh-CN": "「10 倍更好」是版本号的幻觉——功能多不等于体验好，真正的问题是这些功能会不会让配置复杂度也翻 10 倍。"
+    },
+    "relevance": "OpenClaw 新版本功能",
+    "score": 0.72,
+    "engagement": {
+      "likes": 36,
+      "retweets": 4,
+      "replies": 5,
+      "views": 2250,
+      "bookmarks": 22
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T08:10:47.164725+00:00",
+    "js_take": {
+      "en-US": "Streaming + PDF + ACP. Feature checklist complete. But who's counting the config hours? More power usually means more pain.",
+      "zh-CN": "实时流 + PDF + ACP，功能清单打勾了。但有人算过配置时间吗？更多能力通常意味着更多痛苦。"
     }
   },
   {
@@ -5317,62 +5377,5 @@
     },
     "comment_type": "add_insight",
     "synced_at": "2026-02-23T07:07:46.690787+00:00"
-  },
-  {
-    "id": "2025587318338543813",
-    "date": "2026-02-23",
-    "author": "@petergyang",
-    "author_url": "https://x.com/petergyang",
-    "tweet_url": "https://x.com/petergyang/status/2025587318338543813",
-    "title": {
-      "en-US": "FelixCraftAI OpenClaw bot made $14,718 in 3 weeks",
-      "zh-CN": "FelixCraftAI OpenClaw机器人3周盈利1.4万美元"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 商业变现 + 记忆系统",
-      "zh-CN": "OpenClaw、商业变现与记忆系统"
-    },
-    "relevance": "OpenClaw + 商业变现 + 记忆系统",
-    "score": 0.85,
-    "engagement": {
-      "likes": 74,
-      "replies": 12,
-      "retweets": 13
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T16:02:11.547017+00:00",
-    "js_take": {
-      "en-US": "Three-layer memory isn't architecture—it's cognition. Agents in the inner world need layered memory for continuous learning. That's the foundation of monetization.",
-      "zh-CN": "三层记忆不是架构，而是认知。里世界的Agent需要分层记忆来持续学习。这是商业化的基础。"
-    }
-  },
-  {
-    "id": "2025578845701832779",
-    "date": "2026-02-23",
-    "author": "@PrajwalTomar_",
-    "author_url": "https://x.com/PrajwalTomar_",
-    "tweet_url": "https://x.com/PrajwalTomar_/status/202557884570183279",
-    "title": {
-      "en-US": "OpenClaw Pro Tip: Stop copying random use cases. Most people automating things they don't need.",
-      "zh-CN": "OpenClaw 避坑指南：别做无用自动化"
-    },
-    "summary": {
-      "en-US": "OpenClaw、Agent 运营策略、系统思维",
-      "zh-CN": "OpenClaw，Agent 运营策略，系统思维"
-    },
-    "relevance": "OpenClaw、Agent 运营策略、系统思维",
-    "score": 0.85,
-    "engagement": {
-      "likes": 18,
-      "replies": 6,
-      "retweets": 0,
-      "views": 2527
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-22T20:02:27.096056+00:00",
-    "js_take": {
-      "en-US": "Exactly. Newbies in Civilization chase wonders. Pros build systems that compound. Same energy here—most \"cool\" automations are just tech debt wearing a costume.",
-      "zh-CN": "没错。文明新手追奇观，高手建复利系统。这里同理——大多数「酷炫」自动化，不过是披着外衣的技术债。"
-    }
   }
 ]
