@@ -592,6 +592,36 @@
     }
   },
   {
+    "id": "2028802574917497313",
+    "date": "2026-03-03",
+    "author": "@MoonDevOnYT",
+    "author_url": "https://x.com/MoonDevOnYT",
+    "tweet_url": "https://x.com/MoonDevOnYT/status/2028802574917497313",
+    "title": {
+      "en-US": "Found something better than OpenClaw",
+      "zh-CN": "发现了一款比 OpenClaw 更好的工具"
+    },
+    "summary": {
+      "en-US": "OpenClaw 竞品对比",
+      "zh-CN": "「比 OpenClaw 更好」通常是功能对比陷阱——工具迁移成本不只是功能清单，而是你的工作流已经围绕旧工具长成。"
+    },
+    "relevance": "OpenClaw 竞品对比",
+    "score": 0.74,
+    "engagement": {
+      "likes": 20,
+      "retweets": 2,
+      "replies": 2,
+      "views": 2121,
+      "bookmarks": 22
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T14:03:16.256800+00:00",
+    "js_take": {
+      "en-US": "\"Better\" is a rookie trap. Your workflow grew *around* OpenClaw—ripping it out costs more than any feature list saves.",
+      "zh-CN": "「更好」是新手陷阱。你的工作流已经围绕 OpenClaw 长成——挖出来换掉，代价远超任何功能清单能省下的。"
+    }
+  },
+  {
     "id": "2028525774547099854",
     "date": "2026-03-03",
     "author": "@JulianGoldieSEO",
@@ -5367,35 +5397,6 @@
     "js_take": {
       "en-US": "The Director of Safety gave away safety. Wú wéi isn't control—it's enlightenment disguised as risk.",
       "zh-CN": "安全总监放弃了安全。无为不是控制，是披着风险外衣的悟道。"
-    }
-  },
-  {
-    "id": "2025900730847232409",
-    "date": "2026-02-23",
-    "author": "@theo",
-    "author_url": "https://x.com/theo",
-    "tweet_url": "https://x.com/theo/status/2025900730847232409",
-    "title": {
-      "en-US": "You should delete your CLAUDE.md/AGENTS.md file. I have a study to prove it.",
-      "zh-CN": "删除 CLAUDE.md/AGENTS.md：少即是多的 Agent 配置哲学"
-    },
-    "summary": {
-      "en-US": "OpenClaw、Agent 配置、内存管理",
-      "zh-CN": "OpenClaw、Agent 配置优化、内存管理"
-    },
-    "relevance": "OpenClaw、Agent 配置、内存管理",
-    "score": 0.94,
-    "engagement": {
-      "likes": 342,
-      "replies": 47,
-      "retweets": 17,
-      "views": 26936
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-23T13:03:12.726212+00:00",
-    "js_take": {
-      "en-US": "You filled the config with control. Wú wéi is the courage to leave it empty. The agent's ceiling isn't what you write—it's what you dare to erase.",
-      "zh-CN": "你用控制欲塞满配置。无为是有勇气让它空着。Agent 的上限不是你能写什么，是你敢删什么。"
     }
   }
 ]
