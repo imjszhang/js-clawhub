@@ -622,6 +622,36 @@
     }
   },
   {
+    "id": "2028829013305958685",
+    "date": "2026-03-03",
+    "author": "@Jacobsklug",
+    "author_url": "https://x.com/Jacobsklug",
+    "tweet_url": "https://x.com/Jacobsklug/status/2028829013305958685",
+    "title": {
+      "en-US": "OpenClaw Mission Control 3 levels and when to use",
+      "zh-CN": "研究了几十个 OpenClaw mission control，从简单仪表板到完整操作系统，总结了 3 个级别及使用场景"
+    },
+    "summary": {
+      "en-US": "OpenClaw Mission Control 架构层级",
+      "zh-CN": "「分 3 个级别」是过度工程化的诱惑——复杂系统让人有掌控感，但 dashboard 越多，真正理解系统的人越少。"
+    },
+    "relevance": "OpenClaw Mission Control 架构层级",
+    "score": 0.74,
+    "engagement": {
+      "likes": 14,
+      "retweets": 2,
+      "replies": 4,
+      "views": 1408,
+      "bookmarks": 47
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T15:04:12.413280+00:00",
+    "js_take": {
+      "en-US": "Three dashboards promise control but guarantee that nobody understands the whole system.",
+      "zh-CN": "三个仪表盘承诺给你掌控感，却注定让所有人看不懂全局。"
+    }
+  },
+  {
     "id": "2028525774547099854",
     "date": "2026-03-03",
     "author": "@JulianGoldieSEO",
@@ -5369,34 +5399,5 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-23T16:03:11.809785+00:00"
-  },
-  {
-    "id": "2025873646724800835",
-    "date": "2026-02-23",
-    "author": "@benhylak",
-    "author_url": "https://x.com/benhylak",
-    "tweet_url": "https://x.com/benhylak/status/2025873646724800835",
-    "title": {
-      "en-US": "Meta Director of Safety gave clawdbot full-access to her computer, what is meta doing",
-      "zh-CN": "Meta 安全总监赋予 clawdbot 完全访问权限"
-    },
-    "summary": {
-      "en-US": "OpenClaw、信任、安全边界",
-      "zh-CN": "OpenClaw、信任边界、无为而治"
-    },
-    "relevance": "OpenClaw、信任、安全边界",
-    "score": 0.96,
-    "engagement": {
-      "likes": 5942,
-      "replies": 207,
-      "retweets": 463,
-      "views": 646753
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-23T14:03:52.925953+00:00",
-    "js_take": {
-      "en-US": "The Director of Safety gave away safety. Wú wéi isn't control—it's enlightenment disguised as risk.",
-      "zh-CN": "安全总监放弃了安全。无为不是控制，是披着风险外衣的悟道。"
-    }
   }
 ]
