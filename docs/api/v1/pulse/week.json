@@ -204,6 +204,66 @@
     }
   },
   {
+    "id": "2028789962150211710",
+    "date": "2026-03-03",
+    "author": "@polydao",
+    "author_url": "https://x.com/polydao",
+    "tweet_url": "https://x.com/polydao/status/2028789962150211710",
+    "title": {
+      "en-US": "Using OpenClaw wrong - running like chatbot not architecture",
+      "zh-CN": "大多数人用错了 OpenClaw——像聊天机器人一样使用，而不是像架构一样使用，导致 token 浪费 2-3 倍"
+    },
+    "summary": {
+      "en-US": "OpenClaw 架构设计与使用模式",
+      "zh-CN": "「像架构一样使用」是把手段当目的——追求 token 效率反而让系统复杂化，有时候「浪费」token 换取简单性才是更聪明的选择。"
+    },
+    "relevance": "OpenClaw 架构设计与使用模式",
+    "score": 0.78,
+    "engagement": {
+      "likes": 67,
+      "retweets": 5,
+      "replies": 6,
+      "views": 6807,
+      "bookmarks": 97
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T13:06:57.128263+00:00",
+    "js_take": {
+      "en-US": "You built a cathedral to save tokens. Now debug it. Sometimes 'wasted' tokens are cheaper than your sanity.",
+      "zh-CN": "为了省 token 搭了座大教堂，现在却要花时间去调试。有时候「浪费」点 token 反而比折腾更划算。"
+    }
+  },
+  {
+    "id": "2028720329817006397",
+    "date": "2026-03-03",
+    "author": "@stuffyokodraws",
+    "author_url": "https://x.com/stuffyokodraws",
+    "tweet_url": "https://x.com/stuffyokodraws/status/2028720329817006397",
+    "title": {
+      "en-US": "OpenClaw integration problem, API keys hell",
+      "zh-CN": "以为要用 OpenClaw 自动化和编程，结果 10 小时后只是在复制粘贴 API 密钥、创建第 11 个账户——集成问题没解决"
+    },
+    "summary": {
+      "en-US": "OpenClaw 集成与配置复杂性",
+      "zh-CN": "「集成问题」是基础设施缺失的信号——工具链成熟度比单个工具的能力更重要，但这在选型时往往被忽略。"
+    },
+    "relevance": "OpenClaw 集成与配置复杂性",
+    "score": 0.78,
+    "engagement": {
+      "likes": 148,
+      "retweets": 2,
+      "replies": 69,
+      "views": 14295,
+      "bookmarks": 40
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T13:06:57.128271+00:00",
+    "js_take": {
+      "en-US": "You picked OpenClaw for features, not for how it plays with others. That's not an integration problem—it's buying the engine without checking if it fits your chassis.",
+      "zh-CN": "选 OpenClaw 是看中了功能，却没考虑兼容性。这不是集成问题——是买了引擎才发现装不进车架。"
+    }
+  },
+  {
     "id": "2028533746073321919",
     "date": "2026-03-03",
     "author": "@gregisenberg",
@@ -799,6 +859,66 @@
     "js_take": {
       "en-US": "Ten parallel agents don't beat one agent that actually thinks. Coordination overhead is the slop they never measure.",
       "zh-CN": "十个并行 agent 打不过一个真正会思考的。协调成本这种 slop，他们从来不统计。"
+    }
+  },
+  {
+    "id": "2028612122519757141",
+    "date": "2026-03-03",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2028612122519757141",
+    "title": {
+      "en-US": "Stopped paying for API with 0.8B model on Mac mini",
+      "zh-CN": "在 Mac mini 上运行 0.8B 模型后停止支付 API 费用，分享了 .openclaw.json 配置"
+    },
+    "summary": {
+      "en-US": "OpenClaw 本地模型与成本优化",
+      "zh-CN": "「停止支付 API」是短期算账，忽略了维护和调试的隐性成本——免费的东西往往需要你付出时间。"
+    },
+    "relevance": "OpenClaw 本地模型与成本优化",
+    "score": 0.7,
+    "engagement": {
+      "likes": 112,
+      "retweets": 10,
+      "replies": 5,
+      "views": 16810,
+      "bookmarks": 154
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T13:06:57.128269+00:00",
+    "js_take": {
+      "en-US": "You traded API bills for weekend debugging. 0.8B models don't break loudly—they break weird.",
+      "zh-CN": "省了 API 费用，却换来了周末调试。0.8B 模型不会大声报错，而是会诡异出错。"
+    }
+  },
+  {
+    "id": "2028719398534459579",
+    "date": "2026-03-03",
+    "author": "@karry_viber",
+    "author_url": "https://x.com/karry_viber",
+    "tweet_url": "https://x.com/karry_viber/status/2028719398534459579",
+    "title": {
+      "en-US": "OpenClaw 3.2 upgrade, 43MB backup of 3 weeks training",
+      "zh-CN": "OpenClaw 3.2 升级前备份了 43MB 数据——8 个注入文件、53 个记忆文件、28 个脚本、10 个手册、1 个语义索引，这是三周训练的全部"
+    },
+    "summary": {
+      "en-US": "OpenClaw 升级与数据迁移",
+      "zh-CN": "「43MB 是训练的全部」揭示了一个幻觉——你以为在培养智能，其实只是在积累配置；真正的学习无法被备份。"
+    },
+    "relevance": "OpenClaw 升级与数据迁移",
+    "score": 0.7,
+    "engagement": {
+      "likes": 25,
+      "retweets": 1,
+      "replies": 6,
+      "views": 9543,
+      "bookmarks": 29
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T13:06:57.128273+00:00",
+    "js_take": {
+      "en-US": "43MB backed up three weeks of \"training\"—but you didn't save any intelligence, just settings. Real learning can't be exported. It lives in the doing, not the files.",
+      "zh-CN": "43MB 备份了三周的「训练」，但存下的只是配置，不是智能。真正的学习无法导出——它存在于实践中，而非文件里。"
     }
   },
   {

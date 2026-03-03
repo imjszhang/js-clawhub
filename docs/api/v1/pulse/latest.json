@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-03T12:05:49.842613+00:00",
+  "updated_at": "2026-03-03T13:07:18.194725+00:00",
   "this_week": {
-    "total_items": 47,
+    "total_items": 51,
     "avg_score": 0.77,
-    "unique_authors": 38,
+    "unique_authors": 42,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -485,6 +485,66 @@
         "js_take": {
           "en-US": "Outsourcing your chaos to a tool isn't healing ADHD. It's avoiding the work of learning to surf your own mind.",
           "zh-CN": "把混乱外包给工具不是治愈 ADHD，而是在逃避学习驾驭自己心智的功课。"
+        }
+      },
+      {
+        "id": "2028789962150211710",
+        "date": "2026-03-03",
+        "author": "@polydao",
+        "author_url": "https://x.com/polydao",
+        "tweet_url": "https://x.com/polydao/status/2028789962150211710",
+        "title": {
+          "en-US": "Using OpenClaw wrong - running like chatbot not architecture",
+          "zh-CN": "大多数人用错了 OpenClaw——像聊天机器人一样使用，而不是像架构一样使用，导致 token 浪费 2-3 倍"
+        },
+        "summary": {
+          "en-US": "OpenClaw 架构设计与使用模式",
+          "zh-CN": "「像架构一样使用」是把手段当目的——追求 token 效率反而让系统复杂化，有时候「浪费」token 换取简单性才是更聪明的选择。"
+        },
+        "relevance": "OpenClaw 架构设计与使用模式",
+        "score": 0.78,
+        "engagement": {
+          "likes": 67,
+          "retweets": 5,
+          "replies": 6,
+          "views": 6807,
+          "bookmarks": 97
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T13:06:57.128263+00:00",
+        "js_take": {
+          "en-US": "You built a cathedral to save tokens. Now debug it. Sometimes 'wasted' tokens are cheaper than your sanity.",
+          "zh-CN": "为了省 token 搭了座大教堂，现在却要花时间去调试。有时候「浪费」点 token 反而比折腾更划算。"
+        }
+      },
+      {
+        "id": "2028720329817006397",
+        "date": "2026-03-03",
+        "author": "@stuffyokodraws",
+        "author_url": "https://x.com/stuffyokodraws",
+        "tweet_url": "https://x.com/stuffyokodraws/status/2028720329817006397",
+        "title": {
+          "en-US": "OpenClaw integration problem, API keys hell",
+          "zh-CN": "以为要用 OpenClaw 自动化和编程，结果 10 小时后只是在复制粘贴 API 密钥、创建第 11 个账户——集成问题没解决"
+        },
+        "summary": {
+          "en-US": "OpenClaw 集成与配置复杂性",
+          "zh-CN": "「集成问题」是基础设施缺失的信号——工具链成熟度比单个工具的能力更重要，但这在选型时往往被忽略。"
+        },
+        "relevance": "OpenClaw 集成与配置复杂性",
+        "score": 0.78,
+        "engagement": {
+          "likes": 148,
+          "retweets": 2,
+          "replies": 69,
+          "views": 14295,
+          "bookmarks": 40
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T13:06:57.128271+00:00",
+        "js_take": {
+          "en-US": "You picked OpenClaw for features, not for how it plays with others. That's not an integration problem—it's buying the engine without checking if it fits your chassis.",
+          "zh-CN": "选 OpenClaw 是看中了功能，却没考虑兼容性。这不是集成问题——是买了引擎才发现装不进车架。"
         }
       },
       {
@@ -984,71 +1044,11 @@
           "en-US": "You're not supervising agents—you're watching a screensaver. Real control lives in the logs, where nobody wants to look.",
           "zh-CN": "你不是在监督 agent——你是在看屏保。真正的控制藏在日志里，而没人愿意去看。"
         }
-      },
-      {
-        "id": "2028724796230635684",
-        "date": "2026-03-03",
-        "author": "@0xAllen",
-        "author_url": "https://x.com/0xAllen",
-        "tweet_url": "https://x.com/0xAllen/status/2028724796230635684",
-        "title": {
-          "en-US": "OpenClaw skill designed logo in 30 minutes with philosophy",
-          "zh-CN": "用 OpenClaw Skill 30 分钟设计 Logo，从哲学思想到视觉设计一气呵成"
-        },
-        "summary": {
-          "en-US": "OpenClaw 与创意设计",
-          "zh-CN": "「30 分钟搞懂设计哲学」是把哲学的深度误当成可压缩的信息——哲学不是被搞懂的，是被活出来的。"
-        },
-        "relevance": "OpenClaw 与创意设计",
-        "score": 0.74,
-        "engagement": {
-          "likes": 264,
-          "retweets": 41,
-          "replies": 5,
-          "views": 16317,
-          "bookmarks": 374
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T10:06:57.082086+00:00",
-        "js_take": {
-          "en-US": "30 minutes to \"get\" a philosophy? You compressed the words, not the understanding. Philosophy is lived, not parsed.",
-          "zh-CN": "30 分钟「搞懂」哲学？你压缩的是文字，不是理解。哲学是被活出来的，不是被解析的。"
-        }
-      },
-      {
-        "id": "2028525774547099854",
-        "date": "2026-03-03",
-        "author": "@JulianGoldieSEO",
-        "author_url": "https://x.com/JulianGoldieSEO",
-        "tweet_url": "https://x.com/JulianGoldieSEO/status/2028525774547099854",
-        "title": {
-          "en-US": "OpenClaw skills vault with 2,868 free skills",
-          "zh-CN": "OpenClaw 推出了包含 2,868 个免费技能的技能库，用户可以按需安装"
-        },
-        "summary": {
-          "en-US": "OpenClaw 技能生态系统扩展",
-          "zh-CN": "「更多选择=更好」是一种幻觉——工具膨胀的速度超过了人掌握它们的速度，最终每个人都成了配置管理员而非创作者。"
-        },
-        "relevance": "OpenClaw 技能生态系统扩展",
-        "score": 0.72,
-        "engagement": {
-          "likes": 120,
-          "retweets": 12,
-          "replies": 6,
-          "views": 7831,
-          "bookmarks": 165
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T03:08:30.832261+00:00",
-        "js_take": {
-          "en-US": "2,868 free skills sounds like abundance. Actually it's 2,868 ways to waste an afternoon deciding which one won't break your workflow.",
-          "zh-CN": "2,868个免费技能听着很丰盛。实际上是2,868种浪费下午的方式，决定哪个不会搞崩你的工作流。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 151
+    "unique_authors": 152
   }
 }
