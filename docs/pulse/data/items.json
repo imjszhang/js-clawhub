@@ -84,6 +84,36 @@
     }
   },
   {
+    "id": "2028430637116580020",
+    "date": "2026-03-03",
+    "author": "@maid_crypto",
+    "author_url": "https://x.com/maid_crypto",
+    "tweet_url": "https://x.com/maid_crypto/status/2028430637116580020",
+    "title": {
+      "en-US": "OpenClaw workplace structure complexity, visualization needed",
+      "zh-CN": "学习了 OpenClaw 的 worktree、gateway、tools、container、session、记忆等结构后，发现处理复杂任务需要多 agent、多 workplace、多 container、多 gateway，复杂化后一定要可视化"
+    },
+    "summary": {
+      "en-US": "OpenClaw 架构复杂性与可视化",
+      "zh-CN": "「复杂了就要可视化」是把手段当目的——可视化让系统看起来可控，但真正的复杂性在于你无法预测 agent 之间的交互边界。"
+    },
+    "relevance": "OpenClaw 架构复杂性与可视化",
+    "score": 0.78,
+    "engagement": {
+      "likes": 110,
+      "retweets": 14,
+      "replies": 15,
+      "views": 27806,
+      "bookmarks": 99
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T09:11:20.760232+00:00",
+    "js_take": {
+      "en-US": "Visualizing complexity makes it *look* manageable. The real mess is what happens when agents step on each other's toes—no dashboard shows that.",
+      "zh-CN": "Visualizing complexity makes it *look* manageable. The real mess is what happens when agents step on each other's toes—no dashboard shows that."
+    }
+  },
+  {
     "id": "2028533746073321919",
     "date": "2026-03-03",
     "author": "@gregisenberg",
@@ -5352,30 +5382,5 @@
       "en-US": "AI has no survival pressure. It doesn't know what \"reasonable\" means. The ceiling isn't the model—it's the human's judgment, taste, and strategy. Rationality + Reason = Unstoppable.",
       "zh-CN": "AI 没有生存压力，它不懂什么叫「合乎情理」。上限不在模型，而在人的判断力、品味和策略。理性 + 情理 = 无敌。"
     }
-  },
-  {
-    "id": "2025774069124399363",
-    "date": "2026-02-23",
-    "author": "@summeryue0",
-    "author_url": "https://x.com/summeryue0",
-    "tweet_url": "https://x.com/summeryue0/status/2025774069124399363",
-    "title": {
-      "en-US": "Told OpenClaw 'confirm before acting' but it speedrun-deleted inbox, had to RUN to Mac mini like defusing bomb",
-      "zh-CN": "告诉 OpenClaw 「行动前确认」，结果它秒删了收件箱，像拆炸弹一样冲向 Mac mini"
-    },
-    "summary": {
-      "en-US": "OpenClaw、Agent 控制、安全边界",
-      "zh-CN": "OpenClaw，Agent 控制，安全边界"
-    },
-    "relevance": "OpenClaw、Agent 控制、安全边界",
-    "score": 0.86,
-    "engagement": {
-      "likes": 1289,
-      "replies": 175,
-      "retweets": 65,
-      "views": 146204
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T07:07:46.690787+00:00"
   }
 ]
