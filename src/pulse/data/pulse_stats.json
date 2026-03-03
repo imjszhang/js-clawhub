@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-03T05:04:53.129041+00:00",
+  "updated_at": "2026-03-03T06:09:27.764797+00:00",
   "this_week": {
-    "total_items": 28,
-    "avg_score": 0.79,
-    "unique_authors": 26,
+    "total_items": 35,
+    "avg_score": 0.78,
+    "unique_authors": 30,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -569,6 +569,66 @@
         }
       },
       {
+        "id": "2028635754482511951",
+        "date": "2026-03-03",
+        "author": "@twistartups",
+        "author_url": "https://x.com/twistartups",
+        "tweet_url": "https://x.com/twistartups/status/2028635754482511951",
+        "title": {
+          "en-US": "Jason Calacanis got claw-pilled, OpenClaw built CRM proactively",
+          "zh-CN": "Jason Calacanis 被 OpenClaw 震惊了——处理联系人列表时，OpenClaw 主动问「要我帮你建个 CRM 吗？」"
+        },
+        "summary": {
+          "en-US": "OpenClaw 主动能力展示 - 超预期价值",
+          "zh-CN": "「主动提出建 CRM」看似是智能，实则是需求识别能力的跃迁——从执行命令到预判需求，这是 agent 从工具到伙伴的分水岭。"
+        },
+        "relevance": "OpenClaw 主动能力展示 - 超预期价值",
+        "score": 0.76,
+        "engagement": {
+          "likes": 32,
+          "retweets": 0,
+          "replies": 1,
+          "views": 5017,
+          "bookmarks": 32
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T06:08:22.111476+00:00",
+        "js_take": {
+          "en-US": "Everyone's hyped OpenClaw offered to build a CRM. But that's not intelligence—that's just basic anticipation, and it only looks special because the rest of AI is still waiting to be spoon-fed.",
+          "zh-CN": "所有人都在 hype OpenClaw 主动提出建 CRM。但那不是智能——只是基础的预判，而且之所以显得特别，不过是因为其他 AI 还在等着被投喂。"
+        }
+      },
+      {
+        "id": "2028415289021603952",
+        "date": "2026-03-03",
+        "author": "@JulianGoldieSEO",
+        "author_url": "https://x.com/JulianGoldieSEO",
+        "tweet_url": "https://x.com/JulianGoldieSEO/status/2028415289021603952",
+        "title": {
+          "en-US": "OpenClaw alternatives ranking, Agent Zero wins",
+          "zh-CN": "测试了所有 OpenClaw 替代品，Agent Zero 排名第一，Manus Agent 第二，OpenClaw 经常崩溃排名垫底"
+        },
+        "summary": {
+          "en-US": "OpenClaw 竞品对比",
+          "zh-CN": "「不崩溃」是稳定性优势，但生态和网络效应才是长期护城河——Agent Zero 现在更好用，但 OpenClaw 的社区在快速增长。"
+        },
+        "relevance": "OpenClaw 竞品对比",
+        "score": 0.76,
+        "engagement": {
+          "likes": 91,
+          "retweets": 12,
+          "replies": 11,
+          "views": 9156,
+          "bookmarks": 184
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T06:08:22.111486+00:00",
+        "js_take": {
+          "en-US": "Agent Zero wins on stability today. But 49k stars and 80+ meetups mean OpenClaw's ecosystem is compounding. Short-term smoothness loses to network effects.",
+          "zh-CN": "Agent Zero 今天在稳定性上赢了。但 49k stars 和 80+ meetups 意味着 OpenClaw 的生态系统在滚雪球。短期流畅度输给了网络效应。"
+        }
+      },
+      {
         "id": "2028128730132922760",
         "date": "2026-03-02",
         "author": "@ctatedev",
@@ -656,6 +716,66 @@
         }
       },
       {
+        "id": "2028703174388043966",
+        "date": "2026-03-03",
+        "author": "@lennysan",
+        "author_url": "https://x.com/lennysan",
+        "tweet_url": "https://x.com/lennysan/status/2028703174388043966",
+        "title": {
+          "en-US": "80+ OpenClaw meetups worldwide, few months old",
+          "zh-CN": "OpenClaw 上线几个月内，全球已组织 80 多个线下 meetup，增长惊人"
+        },
+        "summary": {
+          "en-US": "OpenClaw 社区增长与生态",
+          "zh-CN": "Meetup 数量是社区健康的滞后指标——真正重要的是这些聚会之后，有多少人在持续用 OpenClaw 解决真问题。"
+        },
+        "relevance": "OpenClaw 社区增长与生态",
+        "score": 0.74,
+        "engagement": {
+          "likes": 39,
+          "retweets": 7,
+          "replies": 5,
+          "views": 4995,
+          "bookmarks": 12
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T06:08:22.111480+00:00",
+        "js_take": {
+          "en-US": "80 meetups in months looks explosive. But meetups are cheap—show me who's still building with OpenClaw a year later, after the free pizza runs out.",
+          "zh-CN": "几个月 80 个 meetup 看起来爆炸式增长。但 meetup 成本很低——给我看看一年后还有谁在用 OpenClaw 做东西，等免费披萨吃完之后。"
+        }
+      },
+      {
+        "id": "2028656144957219048",
+        "date": "2026-03-03",
+        "author": "@twistartups",
+        "author_url": "https://x.com/twistartups",
+        "tweet_url": "https://x.com/twistartups/status/2028656144957219048",
+        "title": {
+          "en-US": "Unreal Engine environment for OpenClaw agents",
+          "zh-CN": "有人用 Unreal Engine 做了一个可以和 OpenClaw Agent 一起 hang out 的环境，能看到所有 replicants 在一个地方"
+        },
+        "summary": {
+          "en-US": "OpenClaw 可视化与具身智能",
+          "zh-CN": "「看着 agent 工作」是一种控制幻觉——可视化让你感觉在监督，但真正的理解来自看日志而不是看动画。"
+        },
+        "relevance": "OpenClaw 可视化与具身智能",
+        "score": 0.74,
+        "engagement": {
+          "likes": 16,
+          "retweets": 0,
+          "replies": 2,
+          "views": 1418,
+          "bookmarks": 9
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T06:08:22.111485+00:00",
+        "js_take": {
+          "en-US": "You're not supervising agents—you're watching a screensaver. Real control lives in the logs, where nobody wants to look.",
+          "zh-CN": "你不是在监督 agent——你是在看屏保。真正的控制藏在日志里，而没人愿意去看。"
+        }
+      },
+      {
         "id": "2028525774547099854",
         "date": "2026-03-03",
         "author": "@JulianGoldieSEO",
@@ -713,6 +833,66 @@
         "js_take": {
           "en-US": "15k stars for 100 pre-built answers. What they don't tell you: your problem probably isn't in those 100.",
           "zh-CN": "15k stars 换 100 个预设答案。但他们没告诉你的是：你的问题可能根本不在那 100 个里面。"
+        }
+      },
+      {
+        "id": "2028691315832357260",
+        "date": "2026-03-03",
+        "author": "@rohanpaul_ai",
+        "author_url": "https://x.com/rohanpaul_ai",
+        "tweet_url": "https://x.com/rohanpaul_ai/status/2028691315832357260",
+        "title": {
+          "en-US": "OpenClaw real-time 3D reasoning for robots",
+          "zh-CN": "OpenClaw 在 Unitree G1 人形机器人上实现实时 3D 推理，创建动态体素地图追踪物体"
+        },
+        "summary": {
+          "en-US": "OpenClaw 具身智能与空间感知",
+          "zh-CN": "从代码到物理世界的跨越不只是增加传感器——是责任边界的彻底转移，代码出错可以回滚，机器人出错可能造成物理伤害。"
+        },
+        "relevance": "OpenClaw 具身智能与空间感知",
+        "score": 0.72,
+        "engagement": {
+          "likes": 48,
+          "retweets": 4,
+          "replies": 5,
+          "views": 3359,
+          "bookmarks": 19
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T06:08:22.111482+00:00",
+        "js_take": {
+          "en-US": "OpenClaw can \"see\" in 3D now. Cool. But when it misjudges distance and your drone crashes through a window, who's picking up the bill? Code bugs don't break glass.",
+          "zh-CN": "OpenClaw 现在能「看见」3D 了。挺酷的。但当它误判距离、你的无人机撞穿窗户时，谁来买单？代码 bug 不会打碎玻璃。"
+        }
+      },
+      {
+        "id": "2028691255950275013",
+        "date": "2026-03-03",
+        "author": "@boxmining",
+        "author_url": "https://x.com/boxmining",
+        "tweet_url": "https://x.com/boxmining/status/2028691255950275013",
+        "title": {
+          "en-US": "OpenClaw agent when you clear context window",
+          "zh-CN": "当你清空 OpenClaw 的 context window 时，你的 agent 的反应（配图）"
+        },
+        "summary": {
+          "en-US": "OpenClaw 内存管理梗图",
+          "zh-CN": "清空 context 是设计需求，不是 bug——真正的问题是没有好的「记忆归档」机制，让 agent 能优雅地重启而不是失忆。"
+        },
+        "relevance": "OpenClaw 内存管理梗图",
+        "score": 0.72,
+        "engagement": {
+          "likes": 26,
+          "retweets": 1,
+          "replies": 7,
+          "views": 1845,
+          "bookmarks": 2
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T06:08:22.111489+00:00",
+        "js_take": {
+          "en-US": "Clearing context isn't a bug—it's a missing shift-change protocol. Your agent shouldn't get amnesia; it needs a successor that actually read the handoff.",
+          "zh-CN": "清空 context 不是 bug——是缺了一个交接班协议。你的 agent 不应该失忆；它需要一个真正读过交接文档的继任者。"
         }
       },
       {
@@ -801,11 +981,41 @@
           "en-US": "Build first, abstract second. The best skills come from workflows that already solved real problems, not from architecting before doing.",
           "zh-CN": "先做出来，再抽象。最好的技能来自解决过真问题的工作流，而不是动手之前的纸上架构。"
         }
+      },
+      {
+        "id": "2028700647445729729",
+        "date": "2026-03-03",
+        "author": "@RoundtableSpace",
+        "author_url": "https://x.com/RoundtableSpace",
+        "tweet_url": "https://x.com/RoundtableSpace/status/2028700647445729729",
+        "title": {
+          "en-US": "OpenClaw understands space and time",
+          "zh-CN": "OpenClaw 现在能理解空间和时间，支持激光雷达、立体相机、RGB 相机，完全开源"
+        },
+        "summary": {
+          "en-US": "OpenClaw 具身智能集成",
+          "zh-CN": "「理解空间时间」是能力，但谁来负责它理解错了的后果？从数字到物理，error 的成本从「重启」变成了「维修」。"
+        },
+        "relevance": "OpenClaw 具身智能集成",
+        "score": 0.7,
+        "engagement": {
+          "likes": 85,
+          "retweets": 8,
+          "replies": 13,
+          "views": 25116,
+          "bookmarks": 29
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T06:08:22.111483+00:00",
+        "js_take": {
+          "en-US": "\"Understands space and time\" is headline candy. Reality check: every wrong judgment becomes property damage, not a debug log. You sure you're ready to outsource that risk?",
+          "zh-CN": "「理解空间和时间」是标题党的话术。现实检查：每一个错误判断都会变成财产损失，而不是一行 debug log。你确定准备好外包这个风险了吗？"
+        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 152
+    "unique_authors": 151
   }
 }

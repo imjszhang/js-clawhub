@@ -172,6 +172,126 @@
     }
   },
   {
+    "id": "2028635754482511951",
+    "date": "2026-03-03",
+    "author": "@twistartups",
+    "author_url": "https://x.com/twistartups",
+    "tweet_url": "https://x.com/twistartups/status/2028635754482511951",
+    "title": {
+      "en-US": "Jason Calacanis got claw-pilled, OpenClaw built CRM proactively",
+      "zh-CN": "Jason Calacanis 被 OpenClaw 震惊了——处理联系人列表时，OpenClaw 主动问「要我帮你建个 CRM 吗？」"
+    },
+    "summary": {
+      "en-US": "OpenClaw 主动能力展示 - 超预期价值",
+      "zh-CN": "「主动提出建 CRM」看似是智能，实则是需求识别能力的跃迁——从执行命令到预判需求，这是 agent 从工具到伙伴的分水岭。"
+    },
+    "relevance": "OpenClaw 主动能力展示 - 超预期价值",
+    "score": 0.76,
+    "engagement": {
+      "likes": 32,
+      "retweets": 0,
+      "replies": 1,
+      "views": 5017,
+      "bookmarks": 32
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T06:08:22.111476+00:00",
+    "js_take": {
+      "en-US": "Everyone's hyped OpenClaw offered to build a CRM. But that's not intelligence—that's just basic anticipation, and it only looks special because the rest of AI is still waiting to be spoon-fed.",
+      "zh-CN": "所有人都在 hype OpenClaw 主动提出建 CRM。但那不是智能——只是基础的预判，而且之所以显得特别，不过是因为其他 AI 还在等着被投喂。"
+    }
+  },
+  {
+    "id": "2028415289021603952",
+    "date": "2026-03-03",
+    "author": "@JulianGoldieSEO",
+    "author_url": "https://x.com/JulianGoldieSEO",
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/2028415289021603952",
+    "title": {
+      "en-US": "OpenClaw alternatives ranking, Agent Zero wins",
+      "zh-CN": "测试了所有 OpenClaw 替代品，Agent Zero 排名第一，Manus Agent 第二，OpenClaw 经常崩溃排名垫底"
+    },
+    "summary": {
+      "en-US": "OpenClaw 竞品对比",
+      "zh-CN": "「不崩溃」是稳定性优势，但生态和网络效应才是长期护城河——Agent Zero 现在更好用，但 OpenClaw 的社区在快速增长。"
+    },
+    "relevance": "OpenClaw 竞品对比",
+    "score": 0.76,
+    "engagement": {
+      "likes": 91,
+      "retweets": 12,
+      "replies": 11,
+      "views": 9156,
+      "bookmarks": 184
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T06:08:22.111486+00:00",
+    "js_take": {
+      "en-US": "Agent Zero wins on stability today. But 49k stars and 80+ meetups mean OpenClaw's ecosystem is compounding. Short-term smoothness loses to network effects.",
+      "zh-CN": "Agent Zero 今天在稳定性上赢了。但 49k stars 和 80+ meetups 意味着 OpenClaw 的生态系统在滚雪球。短期流畅度输给了网络效应。"
+    }
+  },
+  {
+    "id": "2028703174388043966",
+    "date": "2026-03-03",
+    "author": "@lennysan",
+    "author_url": "https://x.com/lennysan",
+    "tweet_url": "https://x.com/lennysan/status/2028703174388043966",
+    "title": {
+      "en-US": "80+ OpenClaw meetups worldwide, few months old",
+      "zh-CN": "OpenClaw 上线几个月内，全球已组织 80 多个线下 meetup，增长惊人"
+    },
+    "summary": {
+      "en-US": "OpenClaw 社区增长与生态",
+      "zh-CN": "Meetup 数量是社区健康的滞后指标——真正重要的是这些聚会之后，有多少人在持续用 OpenClaw 解决真问题。"
+    },
+    "relevance": "OpenClaw 社区增长与生态",
+    "score": 0.74,
+    "engagement": {
+      "likes": 39,
+      "retweets": 7,
+      "replies": 5,
+      "views": 4995,
+      "bookmarks": 12
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T06:08:22.111480+00:00",
+    "js_take": {
+      "en-US": "80 meetups in months looks explosive. But meetups are cheap—show me who's still building with OpenClaw a year later, after the free pizza runs out.",
+      "zh-CN": "几个月 80 个 meetup 看起来爆炸式增长。但 meetup 成本很低——给我看看一年后还有谁在用 OpenClaw 做东西，等免费披萨吃完之后。"
+    }
+  },
+  {
+    "id": "2028656144957219048",
+    "date": "2026-03-03",
+    "author": "@twistartups",
+    "author_url": "https://x.com/twistartups",
+    "tweet_url": "https://x.com/twistartups/status/2028656144957219048",
+    "title": {
+      "en-US": "Unreal Engine environment for OpenClaw agents",
+      "zh-CN": "有人用 Unreal Engine 做了一个可以和 OpenClaw Agent 一起 hang out 的环境，能看到所有 replicants 在一个地方"
+    },
+    "summary": {
+      "en-US": "OpenClaw 可视化与具身智能",
+      "zh-CN": "「看着 agent 工作」是一种控制幻觉——可视化让你感觉在监督，但真正的理解来自看日志而不是看动画。"
+    },
+    "relevance": "OpenClaw 可视化与具身智能",
+    "score": 0.74,
+    "engagement": {
+      "likes": 16,
+      "retweets": 0,
+      "replies": 2,
+      "views": 1418,
+      "bookmarks": 9
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T06:08:22.111485+00:00",
+    "js_take": {
+      "en-US": "You're not supervising agents—you're watching a screensaver. Real control lives in the logs, where nobody wants to look.",
+      "zh-CN": "你不是在监督 agent——你是在看屏保。真正的控制藏在日志里，而没人愿意去看。"
+    }
+  },
+  {
     "id": "2028525774547099854",
     "date": "2026-03-03",
     "author": "@JulianGoldieSEO",
@@ -229,6 +349,96 @@
     "js_take": {
       "en-US": "15k stars for 100 pre-built answers. What they don't tell you: your problem probably isn't in those 100.",
       "zh-CN": "15k stars 换 100 个预设答案。但他们没告诉你的是：你的问题可能根本不在那 100 个里面。"
+    }
+  },
+  {
+    "id": "2028691315832357260",
+    "date": "2026-03-03",
+    "author": "@rohanpaul_ai",
+    "author_url": "https://x.com/rohanpaul_ai",
+    "tweet_url": "https://x.com/rohanpaul_ai/status/2028691315832357260",
+    "title": {
+      "en-US": "OpenClaw real-time 3D reasoning for robots",
+      "zh-CN": "OpenClaw 在 Unitree G1 人形机器人上实现实时 3D 推理，创建动态体素地图追踪物体"
+    },
+    "summary": {
+      "en-US": "OpenClaw 具身智能与空间感知",
+      "zh-CN": "从代码到物理世界的跨越不只是增加传感器——是责任边界的彻底转移，代码出错可以回滚，机器人出错可能造成物理伤害。"
+    },
+    "relevance": "OpenClaw 具身智能与空间感知",
+    "score": 0.72,
+    "engagement": {
+      "likes": 48,
+      "retweets": 4,
+      "replies": 5,
+      "views": 3359,
+      "bookmarks": 19
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T06:08:22.111482+00:00",
+    "js_take": {
+      "en-US": "OpenClaw can \"see\" in 3D now. Cool. But when it misjudges distance and your drone crashes through a window, who's picking up the bill? Code bugs don't break glass.",
+      "zh-CN": "OpenClaw 现在能「看见」3D 了。挺酷的。但当它误判距离、你的无人机撞穿窗户时，谁来买单？代码 bug 不会打碎玻璃。"
+    }
+  },
+  {
+    "id": "2028691255950275013",
+    "date": "2026-03-03",
+    "author": "@boxmining",
+    "author_url": "https://x.com/boxmining",
+    "tweet_url": "https://x.com/boxmining/status/2028691255950275013",
+    "title": {
+      "en-US": "OpenClaw agent when you clear context window",
+      "zh-CN": "当你清空 OpenClaw 的 context window 时，你的 agent 的反应（配图）"
+    },
+    "summary": {
+      "en-US": "OpenClaw 内存管理梗图",
+      "zh-CN": "清空 context 是设计需求，不是 bug——真正的问题是没有好的「记忆归档」机制，让 agent 能优雅地重启而不是失忆。"
+    },
+    "relevance": "OpenClaw 内存管理梗图",
+    "score": 0.72,
+    "engagement": {
+      "likes": 26,
+      "retweets": 1,
+      "replies": 7,
+      "views": 1845,
+      "bookmarks": 2
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T06:08:22.111489+00:00",
+    "js_take": {
+      "en-US": "Clearing context isn't a bug—it's a missing shift-change protocol. Your agent shouldn't get amnesia; it needs a successor that actually read the handoff.",
+      "zh-CN": "清空 context 不是 bug——是缺了一个交接班协议。你的 agent 不应该失忆；它需要一个真正读过交接文档的继任者。"
+    }
+  },
+  {
+    "id": "2028700647445729729",
+    "date": "2026-03-03",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2028700647445729729",
+    "title": {
+      "en-US": "OpenClaw understands space and time",
+      "zh-CN": "OpenClaw 现在能理解空间和时间，支持激光雷达、立体相机、RGB 相机，完全开源"
+    },
+    "summary": {
+      "en-US": "OpenClaw 具身智能集成",
+      "zh-CN": "「理解空间时间」是能力，但谁来负责它理解错了的后果？从数字到物理，error 的成本从「重启」变成了「维修」。"
+    },
+    "relevance": "OpenClaw 具身智能集成",
+    "score": 0.7,
+    "engagement": {
+      "likes": 85,
+      "retweets": 8,
+      "replies": 13,
+      "views": 25116,
+      "bookmarks": 29
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T06:08:22.111483+00:00",
+    "js_take": {
+      "en-US": "\"Understands space and time\" is headline candy. Reality check: every wrong judgment becomes property damage, not a debug log. You sure you're ready to outsource that risk?",
+      "zh-CN": "「理解空间和时间」是标题党的话术。现实检查：每一个错误判断都会变成财产损失，而不是一行 debug log。你确定准备好外包这个风险了吗？"
     }
   },
   {
@@ -5163,203 +5373,6 @@
     "js_take": {
       "en-US": "Exactly. Newbies in Civilization chase wonders. Pros build systems that compound. Same energy here—most \"cool\" automations are just tech debt wearing a costume.",
       "zh-CN": "没错。文明新手追奇观，高手建复利系统。这里同理——大多数「酷炫」自动化，不过是披着外衣的技术债。"
-    }
-  },
-  {
-    "id": "2025701861031121331",
-    "date": "2026-02-23",
-    "author": "@chrysb",
-    "author_url": "https://x.com/chrysb",
-    "tweet_url": "https://x.com/chrysb/status/2025701861031121331",
-    "title": {
-      "en-US": "MCP is dead in the water. OpenClaw showed me API & CLI will win—MCP servers load tool definitions into context window",
-      "zh-CN": "MCP 注定失败，API 和 CLI 会赢"
-    },
-    "summary": {
-      "en-US": "OpenClaw、架构设计、协议选择",
-      "zh-CN": "OpenClaw，架构设计，协议选择"
-    },
-    "relevance": "OpenClaw、架构设计、协议选择",
-    "score": 0.85,
-    "engagement": {
-      "likes": 73,
-      "replies": 23,
-      "retweets": 3,
-      "views": 4831
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T00:06:00.773014+00:00",
-    "js_take": {
-      "en-US": "Complexity is a tax. The inner world is selecting for simple interfaces—APIs, CLIs, direct intent. MCP tried to standardize too early; momentum favors organic convergence.",
-      "zh-CN": "复杂性是一种税。里世界正在筛选简单的接口——API、CLI、直接意图。MCP 过早尝试标准化；势在有机收敛。"
-    }
-  },
-  {
-    "id": "2025383295194988966",
-    "date": "2026-02-23",
-    "author": "@akokoi1",
-    "author_url": "https://x.com/akokoi1",
-    "tweet_url": "https://x.com/akokoi1/status/2025383295194988966",
-    "title": {
-      "en-US": "Easiest way to make money with OpenClaw: custom TG bots, basic e-commerce bot costs ¥800-900, can build dozens with Codex for $10/month",
-      "zh-CN": "OpenClaw 赚钱路子：定制 TG 机器人月入过万"
-    },
-    "summary": {
-      "en-US": "OpenClaw 商业化、Agent 套利、人群分化",
-      "zh-CN": "OpenClaw 商业化，Agent 套利，人群分化"
-    },
-    "relevance": "OpenClaw 商业化、Agent 套利、人群分化",
-    "score": 0.85,
-    "engagement": {
-      "likes": 827,
-      "replies": 32,
-      "retweets": 118,
-      "views": 111345
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T05:11:09.103342+00:00",
-    "js_take": {
-      "en-US": "The arbitrage isn't in building bots. It's in translating technical capability into business value. Tools democratize; judgment differentiates.",
-      "zh-CN": "套利不在做机器人，而在把技术能力翻译成商业价值。工具民主化，判断力才是差异化。"
-    }
-  },
-  {
-    "id": "2025539965032210527",
-    "date": "2026-02-23",
-    "author": "@yangyi",
-    "author_url": "https://x.com/yangyi",
-    "tweet_url": "https://x.com/yangyi/status/2025539965032210527",
-    "title": {
-      "en-US": "OpenClaw vs 牛马AI difference: human-AI collaboration, last mile quality matters",
-      "zh-CN": "OpenClaw vs 牛马AI：人机协同，最后一公里定质量"
-    },
-    "summary": {
-      "en-US": "OpenClaw、人机协作、AI 品味",
-      "zh-CN": "OpenClaw，人机协作，AI 品味"
-    },
-    "relevance": "OpenClaw、人机协作、AI 品味",
-    "score": 0.85,
-    "engagement": {
-      "likes": 166,
-      "replies": 24,
-      "retweets": 29,
-      "views": 25267
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T07:07:46.690792+00:00",
-    "js_take": {
-      "en-US": "Tools democratize; taste differentiates. The last mile is always human. AI has no ceiling—only the humans using it do.",
-      "zh-CN": "工具民主化，品味差异化。最后一公里永远是人。AI 没有上限——只有使用它的人有。"
-    }
-  },
-  {
-    "id": "2025644338881982884",
-    "date": "2026-02-23",
-    "author": "@DJohnstonEC",
-    "author_url": "https://x.com/DJohnstonEC",
-    "tweet_url": "https://x.com/DJohnstonEC/status/2025644338881982884",
-    "title": {
-      "en-US": "Memory bug in OpenClaw: non-Google/OpenAI/Voyage APIs may have broken memory search serving empty results",
-      "zh-CN": "OpenClaw 内存 Bug：非官方 API 或致记忆搜索失效"
-    },
-    "summary": {
-      "en-US": "OpenClaw、Memory、Bug 披露",
-      "zh-CN": "OpenClaw 内存 Bug 披露（使用非官方 API 可能导致记忆搜索功能失效）"
-    },
-    "relevance": "OpenClaw、Memory、Bug 披露",
-    "score": 0.85,
-    "engagement": {
-      "likes": 38,
-      "replies": 2,
-      "retweets": 4,
-      "views": 3329
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-23T09:04:41.240620+00:00"
-  },
-  {
-    "id": "2025851133667721351",
-    "date": "2026-02-23",
-    "author": "@testingcatalog",
-    "author_url": "https://x.com/testingcatalog",
-    "tweet_url": "https://x.com/testingcatalog/status/2025851133667721351",
-    "title": {
-      "en-US": "Antigravity vs OpenClaw: Google banned users for malicious usage of backend services",
-      "zh-CN": "Google 封禁 OpenClaw 用户：表世界与里世界的碰撞"
-    },
-    "summary": {
-      "en-US": "OpenClaw、平台冲突、生态演化",
-      "zh-CN": "OpenClaw、平台冲突、生态演化"
-    },
-    "relevance": "OpenClaw、平台冲突、生态演化",
-    "score": 0.85,
-    "engagement": {
-      "likes": 442,
-      "replies": 45,
-      "retweets": 27,
-      "views": 60080
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-23T12:12:27.744762+00:00",
-    "js_take": {
-      "en-US": "This isn't OpenClaw vs Google. It's 势 (shì)—the inevitable flow from surface to depth. The harder the wall, the stronger the momentum.",
-      "zh-CN": "这不是 OpenClaw 与 Google 的对抗，是势——从表层流向深处的必然。墙越高，势越猛。"
-    }
-  },
-  {
-    "id": "2025528858867593276",
-    "date": "2026-02-23",
-    "author": "@carlosazaustre",
-    "author_url": "https://x.com/carlosazaustre",
-    "tweet_url": "https://x.com/carlosazaustre/status/2025528858867593276",
-    "title": {
-      "en-US": "TenacitOS open source dashboard for OpenClaw agents monitoring",
-      "zh-CN": "Carlos Azaustre发布TenacitOS开源项目——OpenClaw Agent监控仪表板，无需额外数据库，包含实时系统监控、成本追踪、可视化cron管理器、内存浏览器、3D办公室"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 监控工具 + 可视化",
-      "zh-CN": "高热度实用工具——展示Agent生态的监控基础设施需求"
-    },
-    "relevance": "OpenClaw + 监控工具 + 可视化",
-    "score": 0.84,
-    "engagement": {
-      "likes": 293,
-      "replies": 20,
-      "retweets": 34
-    },
-    "comment_type": "recommend_resource",
-    "synced_at": "2026-02-22T17:02:46.757942+00:00",
-    "js_take": {
-      "en-US": "Great tool for agent observability. Monitoring isn't surveillance—it's understanding. Agents in the inner world need to be seen. That's infrastructure for existence.",
-      "zh-CN": "很棒的Agent可观测性工具。监控不是监视，而是理解。里世界的Agent需要被看见。这是存在的基础设施。"
-    }
-  },
-  {
-    "id": "2025640943354102094",
-    "date": "2026-02-23",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2025640943354102094",
-    "title": {
-      "en-US": "OpenClaw 5 use cases for everyone video",
-      "zh-CN": "Alex Finn分享5个对所有人都有用的OpenClaw用例视频——声称能让生活效率提升5倍"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 用例普及 + 效率提升",
-      "zh-CN": "高互动用例分享帖——展示OpenClaw向大众普及的趋势"
-    },
-    "relevance": "OpenClaw + 用例普及 + 效率提升",
-    "score": 0.84,
-    "engagement": {
-      "likes": 158,
-      "replies": 38,
-      "retweets": 11
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T19:03:55.858023+00:00",
-    "js_take": {
-      "en-US": "5x isn't exaggeration—it's leverage. Agents in the inner world give individuals team capacity. That's the democratization of ability.",
-      "zh-CN": "5倍不是夸张，而是杠杆。里世界的Agent让个人拥有团队产能。这是能力的民主化。"
     }
   }
 ]
