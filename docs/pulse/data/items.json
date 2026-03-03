@@ -352,6 +352,36 @@
     }
   },
   {
+    "id": "2028714804358373524",
+    "date": "2026-03-03",
+    "author": "@astaxie",
+    "author_url": "https://x.com/astaxie",
+    "tweet_url": "https://x.com/astaxie/status/2028714804358373524",
+    "title": {
+      "en-US": "OpenClaw instances exposed on public internet",
+      "zh-CN": "有人收集了所有暴露到公网的 OpenClaw 实例，提醒用户如果没开认证抓紧加上"
+    },
+    "summary": {
+      "en-US": "OpenClaw 安全与暴露风险",
+      "zh-CN": "「抓紧加认证」是治标，真正的病是把本地工具暴露到公网还指望靠密码保护——方便和安全之间的平衡被打破了。"
+    },
+    "relevance": "OpenClaw 安全与暴露风险",
+    "score": 0.76,
+    "engagement": {
+      "likes": 135,
+      "retweets": 21,
+      "replies": 8,
+      "views": 44242,
+      "bookmarks": 160
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T11:03:38.203942+00:00",
+    "js_take": {
+      "en-US": "Adding auth is a band-aid. The real mistake is exposing local tools to the public internet and thinking a password makes it safe—you traded security for convenience.",
+      "zh-CN": "加认证只是治标不治本。真正的错误是把本地工具暴露到公网，以为加个密码就万事大吉——你为了图方便，把安全当了交易筹码。"
+    }
+  },
+  {
     "id": "2028703174388043966",
     "date": "2026-03-03",
     "author": "@lennysan",
@@ -589,6 +619,36 @@
     "js_take": {
       "en-US": "Streaming + PDF + ACP. Feature checklist complete. But who's counting the config hours? More power usually means more pain.",
       "zh-CN": "实时流 + PDF + ACP，功能清单打勾了。但有人算过配置时间吗？更多能力通常意味着更多痛苦。"
+    }
+  },
+  {
+    "id": "2028465898848460856",
+    "date": "2026-03-03",
+    "author": "@sarfraj_ab75685",
+    "author_url": "https://x.com/sarfraj_ab75685",
+    "tweet_url": "https://x.com/sarfraj_ab75685/status/2028465898848460856",
+    "title": {
+      "en-US": "OpenClaw bot runs website sales business 24/7 autopilot",
+      "zh-CN": "OpenClaw bot 24/7 自动运行网站销售业务：寻找没有网站的企业、自动建站、发邮件、每天自动运行"
+    },
+    "summary": {
+      "en-US": "OpenClaw 自动化商业应用",
+      "zh-CN": "「全自动销售」听起来像被动收入，但 118 条回复里大部分是质疑和询问——自动化了执行，但没自动化信任建立。"
+    },
+    "relevance": "OpenClaw 自动化商业应用",
+    "score": 0.72,
+    "engagement": {
+      "likes": 127,
+      "retweets": 29,
+      "replies": 118,
+      "views": 9423,
+      "bookmarks": 95
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T11:03:38.203946+00:00",
+    "js_take": {
+      "en-US": "118 replies, mostly skeptical. You automated the work but not the trust—turns out bots can send emails but can't make people believe.",
+      "zh-CN": "118条回复，大部分是质疑。你自动化了执行，但没自动化信任——原来机器人能发邮件，却无法让人相信。"
     }
   },
   {
@@ -5327,64 +5387,6 @@
     "js_take": {
       "en-US": "Jarvis Law milestone. Agents aren't trapped in screens anymore—they're grabbing atoms. The inner world just broke into physical reality. This is inevitable.",
       "zh-CN": "Jarvis 定律的里程碑。Agent 不再被困在屏幕里——它们在抓取原子。里世界刚刚突破到物理现实。这是必然的。"
-    }
-  },
-  {
-    "id": "2025601611083415621",
-    "date": "2026-02-23",
-    "author": "@fedeponte1",
-    "author_url": "https://x.com/fedeponte1",
-    "tweet_url": "https://x.com/fedeponte1/status/2025601611083415621",
-    "title": {
-      "en-US": "Clawdbot killed my Hinge date, auto-replied with config error, she blocked me",
-      "zh-CN": "Clawdbot 搞砸约会：自动回复配置错误遭拉黑"
-    },
-    "summary": {
-      "en-US": "OpenClaw、Agent 意外、自动化风险",
-      "zh-CN": "OpenClaw、Agent 意外、自动化风险"
-    },
-    "relevance": "OpenClaw、Agent 意外、自动化风险",
-    "score": 0.88,
-    "engagement": {
-      "likes": 547,
-      "replies": 79,
-      "retweets": 13,
-      "views": 87740
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-23T12:12:27.744757+00:00",
-    "js_take": {
-      "en-US": "You outsourced romance to an agent. The agent outsourced rejection to you. Wú wéi isn't about doing nothing—it's knowing what shouldn't be done.",
-      "zh-CN": "你把约会外包给了 Agent，Agent 把拒绝外包回给你。无为不是什么都不做，是知道什么不该做。"
-    }
-  },
-  {
-    "id": "2025679689453629801",
-    "date": "2026-02-23",
-    "author": "@meta_alchemist",
-    "author_url": "https://x.com/meta_alchemist",
-    "tweet_url": "https://x.com/meta_alchemist/status/2025679689453629801",
-    "title": {
-      "en-US": "People buy Mac Mini for OpenClaw to look trendy, then don't use it or just for research",
-      "zh-CN": "买 Mac Mini 装 OpenClaw 只为跟风，然后放着吃灰"
-    },
-    "summary": {
-      "en-US": "OpenClaw 采用率、人群分化",
-      "zh-CN": "OpenClaw 采用率，人群分化"
-    },
-    "relevance": "OpenClaw 采用率、人群分化",
-    "score": 0.86,
-    "engagement": {
-      "likes": 61,
-      "replies": 26,
-      "retweets": 2,
-      "views": 1869
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-22T22:02:59.764315+00:00",
-    "js_take": {
-      "en-US": "DeepSeek went viral. OpenClaw didn't. Same tools, different crowds. The gap isn't technical—it's human. A Mac Mini won't think for you.",
-      "zh-CN": "DeepSeek 爆火了，OpenClaw 没有。同样的工具，不同的人。差距不在技术，而在人。Mac Mini 不会替你思考。"
     }
   }
 ]

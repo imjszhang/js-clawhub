@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-03T10:07:10.642394+00:00",
+  "updated_at": "2026-03-03T11:03:55.004000+00:00",
   "this_week": {
-    "total_items": 42,
+    "total_items": 44,
     "avg_score": 0.78,
-    "unique_authors": 35,
+    "unique_authors": 36,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -749,6 +749,36 @@
         }
       },
       {
+        "id": "2028714804358373524",
+        "date": "2026-03-03",
+        "author": "@astaxie",
+        "author_url": "https://x.com/astaxie",
+        "tweet_url": "https://x.com/astaxie/status/2028714804358373524",
+        "title": {
+          "en-US": "OpenClaw instances exposed on public internet",
+          "zh-CN": "有人收集了所有暴露到公网的 OpenClaw 实例，提醒用户如果没开认证抓紧加上"
+        },
+        "summary": {
+          "en-US": "OpenClaw 安全与暴露风险",
+          "zh-CN": "「抓紧加认证」是治标，真正的病是把本地工具暴露到公网还指望靠密码保护——方便和安全之间的平衡被打破了。"
+        },
+        "relevance": "OpenClaw 安全与暴露风险",
+        "score": 0.76,
+        "engagement": {
+          "likes": 135,
+          "retweets": 21,
+          "replies": 8,
+          "views": 44242,
+          "bookmarks": 160
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T11:03:38.203942+00:00",
+        "js_take": {
+          "en-US": "Adding auth is a band-aid. The real mistake is exposing local tools to the public internet and thinking a password makes it safe—you traded security for convenience.",
+          "zh-CN": "加认证只是治标不治本。真正的错误是把本地工具暴露到公网，以为加个密码就万事大吉——你为了图方便，把安全当了交易筹码。"
+        }
+      },
+      {
         "id": "2028128730132922760",
         "date": "2026-03-02",
         "author": "@ctatedev",
@@ -1013,36 +1043,6 @@
         "js_take": {
           "en-US": "OpenClaw can \"see\" in 3D now. Cool. But when it misjudges distance and your drone crashes through a window, who's picking up the bill? Code bugs don't break glass.",
           "zh-CN": "OpenClaw 现在能「看见」3D 了。挺酷的。但当它误判距离、你的无人机撞穿窗户时，谁来买单？代码 bug 不会打碎玻璃。"
-        }
-      },
-      {
-        "id": "2028691255950275013",
-        "date": "2026-03-03",
-        "author": "@boxmining",
-        "author_url": "https://x.com/boxmining",
-        "tweet_url": "https://x.com/boxmining/status/2028691255950275013",
-        "title": {
-          "en-US": "OpenClaw agent when you clear context window",
-          "zh-CN": "当你清空 OpenClaw 的 context window 时，你的 agent 的反应（配图）"
-        },
-        "summary": {
-          "en-US": "OpenClaw 内存管理梗图",
-          "zh-CN": "清空 context 是设计需求，不是 bug——真正的问题是没有好的「记忆归档」机制，让 agent 能优雅地重启而不是失忆。"
-        },
-        "relevance": "OpenClaw 内存管理梗图",
-        "score": 0.72,
-        "engagement": {
-          "likes": 26,
-          "retweets": 1,
-          "replies": 7,
-          "views": 1845,
-          "bookmarks": 2
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T06:08:22.111489+00:00",
-        "js_take": {
-          "en-US": "Clearing context isn't a bug—it's a missing shift-change protocol. Your agent shouldn't get amnesia; it needs a successor that actually read the handoff.",
-          "zh-CN": "清空 context 不是 bug——是缺了一个交接班协议。你的 agent 不应该失忆；它需要一个真正读过交接文档的继任者。"
         }
       }
     ]
