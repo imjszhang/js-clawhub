@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-03T11:03:55.004000+00:00",
+  "updated_at": "2026-03-03T12:05:49.842613+00:00",
   "this_week": {
-    "total_items": 44,
-    "avg_score": 0.78,
-    "unique_authors": 36,
+    "total_items": 47,
+    "avg_score": 0.77,
+    "unique_authors": 38,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -223,6 +223,36 @@
         "js_take": {
           "en-US": "Six agents trading while you sleep sounds liberating until you check your balance. Who's liable when your 'team' loses your money—while unconscious?",
           "zh-CN": "六个代理在你睡觉时交易听起来很爽，直到你看余额。你的'团队'在你昏迷时亏钱——谁负责？"
+        }
+      },
+      {
+        "id": "2028791230713528753",
+        "date": "2026-03-03",
+        "author": "@AlexFinn",
+        "author_url": "https://x.com/AlexFinn",
+        "tweet_url": "https://x.com/AlexFinn/status/2028791230713528753",
+        "title": {
+          "en-US": "OpenClaw 100x better with Mission Control dashboard",
+          "zh-CN": "OpenClaw 有了 Mission Control 自定义仪表板后会好 100 倍，否则差很多，展示了完整设置过程"
+        },
+        "summary": {
+          "en-US": "OpenClaw 控制面板与可视化",
+          "zh-CN": "「Mission Control 让 agent 强 100 倍」是把控制幻觉当现实——仪表盘让你*觉得*掌控一切，但 agent 真正的决策过程依然在黑箱里。"
+        },
+        "relevance": "OpenClaw 控制面板与可视化",
+        "score": 0.82,
+        "engagement": {
+          "likes": 310,
+          "retweets": 20,
+          "replies": 48,
+          "views": 13971,
+          "bookmarks": 548
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T12:05:34.334465+00:00",
+        "js_take": {
+          "en-US": "Mission Control gives you 100 buttons and zero visibility. You feel in control because you see dashboards—meanwhile the real decisions happen in a box you can't open.",
+          "zh-CN": "Mission Control 给你 100 个按钮，却让你什么都看不清。你以为掌控了一切是因为有仪表盘——而真正的决策正在你看不见的黑箱里进行。"
         }
       },
       {
@@ -779,6 +809,36 @@
         }
       },
       {
+        "id": "2028763668826235114",
+        "date": "2026-03-03",
+        "author": "@cptn3mox",
+        "author_url": "https://x.com/cptn3mox",
+        "tweet_url": "https://x.com/cptn3mox/status/2028763668826235114",
+        "title": {
+          "en-US": "OpenClaw updates overwrite patches, cron jobs break silently",
+          "zh-CN": "OpenClaw 更新会覆盖补丁（因为 npm 包的补丁在 dist/ 目录），导致重要的 cron 任务可能静默崩溃直到你注意到"
+        },
+        "summary": {
+          "en-US": "OpenClaw 更新与系统稳定性",
+          "zh-CN": "「静默崩溃」是现代自动化的常态——系统足够聪明到失败时不打扰你，也足够危险到让你发现时已经太迟。"
+        },
+        "relevance": "OpenClaw 更新与系统稳定性",
+        "score": 0.76,
+        "engagement": {
+          "likes": 39,
+          "retweets": 0,
+          "replies": 2,
+          "views": 5424,
+          "bookmarks": 52
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-03T12:05:34.334474+00:00",
+        "js_take": {
+          "en-US": "The smarter the system, the quieter it fails. You didn't notice the cron was dead for days because good UX taught you not to worry.",
+          "zh-CN": "系统越智能，崩溃越安静。cron 挂了几天你都没发现，因为「好 UX」教会了你：别担心，一切正常。"
+        }
+      },
+      {
         "id": "2028128730132922760",
         "date": "2026-03-02",
         "author": "@ctatedev",
@@ -984,71 +1044,11 @@
           "en-US": "2,868 free skills sounds like abundance. Actually it's 2,868 ways to waste an afternoon deciding which one won't break your workflow.",
           "zh-CN": "2,868个免费技能听着很丰盛。实际上是2,868种浪费下午的方式，决定哪个不会搞崩你的工作流。"
         }
-      },
-      {
-        "id": "2028606379486044290",
-        "date": "2026-03-03",
-        "author": "@meta_alchemist",
-        "author_url": "https://x.com/meta_alchemist",
-        "tweet_url": "https://x.com/meta_alchemist/status/2028606379486044290",
-        "title": {
-          "en-US": "OpenClaw repo with 15k stars, built-in use cases",
-          "zh-CN": "一个 trending 的 OpenClaw 仓库，15k+ stars，内置了大量使用场景"
-        },
-        "summary": {
-          "en-US": "OpenClaw 最佳实践/用例库",
-          "zh-CN": "「预设场景」解决的是入门焦虑，不是能力问题——用别人的剧本演得再像，也不会让你成为好演员。"
-        },
-        "relevance": "OpenClaw 最佳实践/用例库",
-        "score": 0.72,
-        "engagement": {
-          "likes": 269,
-          "retweets": 22,
-          "replies": 16,
-          "views": 16107,
-          "bookmarks": 572
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T05:04:19.825126+00:00",
-        "js_take": {
-          "en-US": "15k stars for 100 pre-built answers. What they don't tell you: your problem probably isn't in those 100.",
-          "zh-CN": "15k stars 换 100 个预设答案。但他们没告诉你的是：你的问题可能根本不在那 100 个里面。"
-        }
-      },
-      {
-        "id": "2028691315832357260",
-        "date": "2026-03-03",
-        "author": "@rohanpaul_ai",
-        "author_url": "https://x.com/rohanpaul_ai",
-        "tweet_url": "https://x.com/rohanpaul_ai/status/2028691315832357260",
-        "title": {
-          "en-US": "OpenClaw real-time 3D reasoning for robots",
-          "zh-CN": "OpenClaw 在 Unitree G1 人形机器人上实现实时 3D 推理，创建动态体素地图追踪物体"
-        },
-        "summary": {
-          "en-US": "OpenClaw 具身智能与空间感知",
-          "zh-CN": "从代码到物理世界的跨越不只是增加传感器——是责任边界的彻底转移，代码出错可以回滚，机器人出错可能造成物理伤害。"
-        },
-        "relevance": "OpenClaw 具身智能与空间感知",
-        "score": 0.72,
-        "engagement": {
-          "likes": 48,
-          "retweets": 4,
-          "replies": 5,
-          "views": 3359,
-          "bookmarks": 19
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T06:08:22.111482+00:00",
-        "js_take": {
-          "en-US": "OpenClaw can \"see\" in 3D now. Cool. But when it misjudges distance and your drone crashes through a window, who's picking up the bill? Code bugs don't break glass.",
-          "zh-CN": "OpenClaw 现在能「看见」3D 了。挺酷的。但当它误判距离、你的无人机撞穿窗户时，谁来买单？代码 bug 不会打碎玻璃。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 153
+    "unique_authors": 151
   }
 }

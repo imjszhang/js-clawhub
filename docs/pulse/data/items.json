@@ -84,6 +84,36 @@
     }
   },
   {
+    "id": "2028791230713528753",
+    "date": "2026-03-03",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2028791230713528753",
+    "title": {
+      "en-US": "OpenClaw 100x better with Mission Control dashboard",
+      "zh-CN": "OpenClaw 有了 Mission Control 自定义仪表板后会好 100 倍，否则差很多，展示了完整设置过程"
+    },
+    "summary": {
+      "en-US": "OpenClaw 控制面板与可视化",
+      "zh-CN": "「Mission Control 让 agent 强 100 倍」是把控制幻觉当现实——仪表盘让你*觉得*掌控一切，但 agent 真正的决策过程依然在黑箱里。"
+    },
+    "relevance": "OpenClaw 控制面板与可视化",
+    "score": 0.82,
+    "engagement": {
+      "likes": 310,
+      "retweets": 20,
+      "replies": 48,
+      "views": 13971,
+      "bookmarks": 548
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T12:05:34.334465+00:00",
+    "js_take": {
+      "en-US": "Mission Control gives you 100 buttons and zero visibility. You feel in control because you see dashboards—meanwhile the real decisions happen in a box you can't open.",
+      "zh-CN": "Mission Control 给你 100 个按钮，却让你什么都看不清。你以为掌控了一切是因为有仪表盘——而真正的决策正在你看不见的黑箱里进行。"
+    }
+  },
+  {
     "id": "2028430637116580020",
     "date": "2026-03-03",
     "author": "@maid_crypto",
@@ -382,6 +412,36 @@
     }
   },
   {
+    "id": "2028763668826235114",
+    "date": "2026-03-03",
+    "author": "@cptn3mox",
+    "author_url": "https://x.com/cptn3mox",
+    "tweet_url": "https://x.com/cptn3mox/status/2028763668826235114",
+    "title": {
+      "en-US": "OpenClaw updates overwrite patches, cron jobs break silently",
+      "zh-CN": "OpenClaw 更新会覆盖补丁（因为 npm 包的补丁在 dist/ 目录），导致重要的 cron 任务可能静默崩溃直到你注意到"
+    },
+    "summary": {
+      "en-US": "OpenClaw 更新与系统稳定性",
+      "zh-CN": "「静默崩溃」是现代自动化的常态——系统足够聪明到失败时不打扰你，也足够危险到让你发现时已经太迟。"
+    },
+    "relevance": "OpenClaw 更新与系统稳定性",
+    "score": 0.76,
+    "engagement": {
+      "likes": 39,
+      "retweets": 0,
+      "replies": 2,
+      "views": 5424,
+      "bookmarks": 52
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T12:05:34.334474+00:00",
+    "js_take": {
+      "en-US": "The smarter the system, the quieter it fails. You didn't notice the cron was dead for days because good UX taught you not to worry.",
+      "zh-CN": "系统越智能，崩溃越安静。cron 挂了几天你都没发现，因为「好 UX」教会了你：别担心，一切正常。"
+    }
+  },
+  {
     "id": "2028703174388043966",
     "date": "2026-03-03",
     "author": "@lennysan",
@@ -649,6 +709,36 @@
     "js_take": {
       "en-US": "118 replies, mostly skeptical. You automated the work but not the trust—turns out bots can send emails but can't make people believe.",
       "zh-CN": "118条回复，大部分是质疑。你自动化了执行，但没自动化信任——原来机器人能发邮件，却无法让人相信。"
+    }
+  },
+  {
+    "id": "2028787495362834715",
+    "date": "2026-03-03",
+    "author": "@aiedge_",
+    "author_url": "https://x.com/aiedge_",
+    "tweet_url": "https://x.com/aiedge_/status/2028787495362834715",
+    "title": {
+      "en-US": "Perplexity Computer better than OpenClaw after 20+ hours testing",
+      "zh-CN": "花了 20 多小时测试后确认 Perplexity Computer 比 OpenClaw 更好，分享了完整使用指南"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Perplexity 对比",
+      "zh-CN": "「20 小时测试确认 A 比 B 好」是分析瘫痪——工具比较没有终点，真正的瓶颈是你用工具做什么，而不是工具本身。"
+    },
+    "relevance": "OpenClaw vs Perplexity 对比",
+    "score": 0.72,
+    "engagement": {
+      "likes": 39,
+      "retweets": 2,
+      "replies": 3,
+      "views": 4749,
+      "bookmarks": 56
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T12:05:34.334476+00:00",
+    "js_take": {
+      "en-US": "20 hours testing which car drives faster—meanwhile you still haven't left the garage.",
+      "zh-CN": "花 20 小时测试哪辆车更快—— meanwhile 你连车库都没开出。"
     }
   },
   {
@@ -5300,93 +5390,6 @@
     "js_take": {
       "en-US": "This is wu wei (无为) in engineering form. The highest level of automation is knowing when NOT to run. Conditional triggers > brute force loops.",
       "zh-CN": "这是工程化的「无为」——最高级的自动化，是懂得何时不该运行。条件触发 > 暴力轮询。"
-    }
-  },
-  {
-    "id": "2025610074824315349",
-    "date": "2026-02-23",
-    "author": "@YuLin807",
-    "author_url": "https://x.com/YuLin807",
-    "tweet_url": "https://x.com/YuLin807/status/2025610074824315349",
-    "title": {
-      "en-US": "How to make lobster evolve itself? Answer: you don't need to make it evolve, just don't stop it. Daily 2:30 AM meditation for self-review",
-      "zh-CN": "如何让龙虾自己进化？答案是：不阻止它"
-    },
-    "summary": {
-      "en-US": "OpenClaw、Agent 自进化、无为而治",
-      "zh-CN": "OpenClaw，Agent 自进化，无为而治"
-    },
-    "relevance": "OpenClaw、Agent 自进化、无为而治",
-    "score": 0.88,
-    "engagement": {
-      "likes": 40,
-      "replies": 4,
-      "retweets": 12,
-      "views": 4112
-    },
-    "comment_type": "agree_and_extend",
-    "synced_at": "2026-02-22T23:02:03.716393+00:00",
-    "js_take": {
-      "en-US": "Wu wei in action. The best systems don't force growth—they remove friction and let evolution happen. Your 2:30 AM ritual is the system composting its own lessons.",
-      "zh-CN": "无为而治的实践。最好的系统不强迫成长——它们消除阻力，让进化自然发生。凌晨2:30的仪式，是系统自己在堆肥、消化教训。"
-    }
-  },
-  {
-    "id": "2025711864848511103",
-    "date": "2026-02-23",
-    "author": "@onusoz",
-    "author_url": "https://x.com/onusoz",
-    "tweet_url": "https://x.com/onusoz/status/2025711864848511103",
-    "title": {
-      "en-US": "OpenClaw effect: bought GPU home server, back to Linux, SSH, tmux like 10-15 years ago, unshackling",
-      "zh-CN": "OpenClaw 效应：买 GPU 服务器回归 Linux 黑客精神"
-    },
-    "summary": {
-      "en-US": "OpenClaw、技术文化、里世界基础设施",
-      "zh-CN": "OpenClaw，技术文化，里世界基础设施"
-    },
-    "relevance": "OpenClaw、技术文化、里世界基础设施",
-    "score": 0.88,
-    "engagement": {
-      "likes": 223,
-      "replies": 19,
-      "retweets": 8,
-      "views": 12478
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T01:05:45.491919+00:00",
-    "js_take": {
-      "en-US": "The surface world (SaaS, GUIs, managed services) trained us to forget. The inner world (OpenClaw, self-hosted, CLI) is making us remember. This isn't nostalgia—it's reclaiming agency.",
-      "zh-CN": "表世界（SaaS、GUI、托管服务）让我们遗忘了。里世界（OpenClaw、自托管、CLI）让我们重新记起。这不是怀旧——这是在夺回自主权。"
-    }
-  },
-  {
-    "id": "2025784961773846548",
-    "date": "2026-02-23",
-    "author": "@irvinxyz",
-    "author_url": "https://x.com/irvinxyz",
-    "tweet_url": "https://x.com/irvinxyz/status/2025784961773846548",
-    "title": {
-      "en-US": "Won SF OpenClaw Hackathon, open-sourcing ROSClaw - connects ROS robots to OpenClaw agents, real-world grasping",
-      "zh-CN": "赢得 SF OpenClaw 黑客松，开源 ROSClaw 连接机器人"
-    },
-    "summary": {
-      "en-US": "OpenClaw、机器人、Jarvis定律",
-      "zh-CN": "OpenClaw，机器人，Jarvis 定律"
-    },
-    "relevance": "OpenClaw、机器人、Jarvis定律",
-    "score": 0.88,
-    "engagement": {
-      "likes": 112,
-      "replies": 41,
-      "retweets": 12,
-      "views": 21200
-    },
-    "comment_type": "add_insight",
-    "synced_at": "2026-02-23T06:09:51.711957+00:00",
-    "js_take": {
-      "en-US": "Jarvis Law milestone. Agents aren't trapped in screens anymore—they're grabbing atoms. The inner world just broke into physical reality. This is inevitable.",
-      "zh-CN": "Jarvis 定律的里程碑。Agent 不再被困在屏幕里——它们在抓取原子。里世界刚刚突破到物理现实。这是必然的。"
     }
   }
 ]

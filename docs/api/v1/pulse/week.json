@@ -84,6 +84,36 @@
     }
   },
   {
+    "id": "2028791230713528753",
+    "date": "2026-03-03",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2028791230713528753",
+    "title": {
+      "en-US": "OpenClaw 100x better with Mission Control dashboard",
+      "zh-CN": "OpenClaw 有了 Mission Control 自定义仪表板后会好 100 倍，否则差很多，展示了完整设置过程"
+    },
+    "summary": {
+      "en-US": "OpenClaw 控制面板与可视化",
+      "zh-CN": "「Mission Control 让 agent 强 100 倍」是把控制幻觉当现实——仪表盘让你*觉得*掌控一切，但 agent 真正的决策过程依然在黑箱里。"
+    },
+    "relevance": "OpenClaw 控制面板与可视化",
+    "score": 0.82,
+    "engagement": {
+      "likes": 310,
+      "retweets": 20,
+      "replies": 48,
+      "views": 13971,
+      "bookmarks": 548
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T12:05:34.334465+00:00",
+    "js_take": {
+      "en-US": "Mission Control gives you 100 buttons and zero visibility. You feel in control because you see dashboards—meanwhile the real decisions happen in a box you can't open.",
+      "zh-CN": "Mission Control 给你 100 个按钮，却让你什么都看不清。你以为掌控了一切是因为有仪表盘——而真正的决策正在你看不见的黑箱里进行。"
+    }
+  },
+  {
     "id": "2028430637116580020",
     "date": "2026-03-03",
     "author": "@maid_crypto",
@@ -382,6 +412,36 @@
     }
   },
   {
+    "id": "2028763668826235114",
+    "date": "2026-03-03",
+    "author": "@cptn3mox",
+    "author_url": "https://x.com/cptn3mox",
+    "tweet_url": "https://x.com/cptn3mox/status/2028763668826235114",
+    "title": {
+      "en-US": "OpenClaw updates overwrite patches, cron jobs break silently",
+      "zh-CN": "OpenClaw 更新会覆盖补丁（因为 npm 包的补丁在 dist/ 目录），导致重要的 cron 任务可能静默崩溃直到你注意到"
+    },
+    "summary": {
+      "en-US": "OpenClaw 更新与系统稳定性",
+      "zh-CN": "「静默崩溃」是现代自动化的常态——系统足够聪明到失败时不打扰你，也足够危险到让你发现时已经太迟。"
+    },
+    "relevance": "OpenClaw 更新与系统稳定性",
+    "score": 0.76,
+    "engagement": {
+      "likes": 39,
+      "retweets": 0,
+      "replies": 2,
+      "views": 5424,
+      "bookmarks": 52
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T12:05:34.334474+00:00",
+    "js_take": {
+      "en-US": "The smarter the system, the quieter it fails. You didn't notice the cron was dead for days because good UX taught you not to worry.",
+      "zh-CN": "系统越智能，崩溃越安静。cron 挂了几天你都没发现，因为「好 UX」教会了你：别担心，一切正常。"
+    }
+  },
+  {
     "id": "2028703174388043966",
     "date": "2026-03-03",
     "author": "@lennysan",
@@ -649,6 +709,36 @@
     "js_take": {
       "en-US": "118 replies, mostly skeptical. You automated the work but not the trust—turns out bots can send emails but can't make people believe.",
       "zh-CN": "118条回复，大部分是质疑。你自动化了执行，但没自动化信任——原来机器人能发邮件，却无法让人相信。"
+    }
+  },
+  {
+    "id": "2028787495362834715",
+    "date": "2026-03-03",
+    "author": "@aiedge_",
+    "author_url": "https://x.com/aiedge_",
+    "tweet_url": "https://x.com/aiedge_/status/2028787495362834715",
+    "title": {
+      "en-US": "Perplexity Computer better than OpenClaw after 20+ hours testing",
+      "zh-CN": "花了 20 多小时测试后确认 Perplexity Computer 比 OpenClaw 更好，分享了完整使用指南"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Perplexity 对比",
+      "zh-CN": "「20 小时测试确认 A 比 B 好」是分析瘫痪——工具比较没有终点，真正的瓶颈是你用工具做什么，而不是工具本身。"
+    },
+    "relevance": "OpenClaw vs Perplexity 对比",
+    "score": 0.72,
+    "engagement": {
+      "likes": 39,
+      "retweets": 2,
+      "replies": 3,
+      "views": 4749,
+      "bookmarks": 56
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T12:05:34.334476+00:00",
+    "js_take": {
+      "en-US": "20 hours testing which car drives faster—meanwhile you still haven't left the garage.",
+      "zh-CN": "花 20 小时测试哪辆车更快—— meanwhile 你连车库都没开出。"
     }
   },
   {
