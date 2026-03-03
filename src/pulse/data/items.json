@@ -90,6 +90,34 @@
     }
   },
   {
+    "id": "2028773066340274461",
+    "date": "2026-03-04",
+    "author": "@denisyurchak",
+    "author_url": "https://x.com/denisyurchak",
+    "tweet_url": "https://x.com/denisyurchak/status/2028773066340274461",
+    "title": {
+      "en-US": "OpenClaw refused to set API key through chat. Is this normal?",
+      "zh-CN": "用户抱怨 OpenClaw 拒绝通过聊天设置 API key，询问这是否正常。"
+    },
+    "summary": {
+      "en-US": "直接关于 OpenClaw 平台的安全设计",
+      "zh-CN": "把「拒绝」重新定义为「边界意识」——不是 bug，是 agent 生态的成熟信号：真正的自主 agent 应该对敏感操作说「不」，哪怕是对自己的 owner。"
+    },
+    "relevance": "直接关于 OpenClaw 平台的安全设计",
+    "score": 0.72,
+    "engagement": {
+      "likes": 50,
+      "replies": 58,
+      "retweets": 1
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-03T20:03:48.697705+00:00",
+    "js_take": {
+      "en-US": "Your agent said 'no' and you called it a bug? That's the first real sign it's not your pet anymore.",
+      "zh-CN": "Agent 说\"不\"，你却以为是 bug？这才是它真正\"独立\"的第一个信号——它不再是你的宠物了。"
+    }
+  },
+  {
     "id": "2028901179703607516",
     "date": "2026-03-04",
     "author": "@ashen_one",
@@ -5394,30 +5422,5 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-23T20:02:21.446843+00:00"
-  },
-  {
-    "id": "2026078171511271738",
-    "date": "2026-02-24",
-    "author": "@heyshrutimishra",
-    "author_url": "https://x.com/heyshrutimishra",
-    "tweet_url": "https://x.com/heyshrutimishra/status/2026078171511271738",
-    "title": {
-      "en-US": "OpenClaw passed Linux and Python on GitHub stars",
-      "zh-CN": "OpenClaw GitHub Star 数超过 Linux 和 Python"
-    },
-    "summary": {
-      "en-US": "OpenClaw、里程碑、势",
-      "zh-CN": "中等曝光(8k浏览)，OpenClaw里程碑事件，用「势」评论开源项目崛起的必然性"
-    },
-    "relevance": "OpenClaw、里程碑、势",
-    "score": 0.72,
-    "engagement": {
-      "likes": 59,
-      "replies": 10,
-      "retweets": 5,
-      "views": 8372
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-24T04:12:48.963817+00:00"
   }
 ]
