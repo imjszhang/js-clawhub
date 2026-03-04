@@ -86,6 +86,35 @@
     }
   },
   {
+    "id": "2029215096044499243",
+    "date": "2026-03-05",
+    "author": "@TukiFromKL",
+    "author_url": "https://x.com/TukiFromKL",
+    "tweet_url": "https://x.com/TukiFromKL/status/2029215096044499243",
+    "title": {
+      "en-US": "Me realizing a $599 MacBook Neo can run AI locally. We might not even need OpenClaw anymore.",
+      "zh-CN": "意识到599美元的MacBook Neo可以本地运行AI，可能不再需要OpenClaw了"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 本地AI推理 + Agent部署场景",
+      "zh-CN": "人们以为「本地能跑」等于「不需要云端」，但真正的分水岭不是算力在哪，而是「谁在定义问题」。本地模型能算，但算什么是被锁死的；云端Agent的价值是「理解你要什么」而不是「在哪里跑」——这是「工具vs代理」的本质差异。"
+    },
+    "relevance": "OpenClaw + 本地AI推理 + Agent部署场景",
+    "score": 0.72,
+    "engagement": {
+      "likes": 212,
+      "replies": 14,
+      "retweets": 0,
+      "views": 36886
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-04T19:04:28.434777+00:00",
+    "js_take": {
+      "en-US": "$599 buys you hands; OpenClaw buys you the brain—and whoever owns the brain owns the value, not the hardware.",
+      "zh-CN": "599美元买的是双手，OpenClaw买的是大脑——谁掌控大脑，谁就掌控价值，而非硬件。"
+    }
+  },
+  {
     "id": "2028847121189986576",
     "date": "2026-03-04",
     "author": "@tpschmidt_",
@@ -5460,34 +5489,5 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-24T02:13:08.600993+00:00"
-  },
-  {
-    "id": "2026069153161810110",
-    "date": "2026-02-24",
-    "author": "@IanAndrewsDC",
-    "author_url": "https://x.com/IanAndrewsDC",
-    "tweet_url": "https://x.com/IanAndrewsDC/status/2026069153161810110",
-    "title": {
-      "en-US": "First rational explanation for deploying OpenClaw",
-      "zh-CN": "首次看到部署 OpenClaw 的理性解释"
-    },
-    "summary": {
-      "en-US": "OpenClaw、无为、理性",
-      "zh-CN": "高曝光(7.3万浏览)，讨论OpenClaw部署理由，用「无为」评论技术采用的理性"
-    },
-    "relevance": "OpenClaw、无为、理性",
-    "score": 0.82,
-    "engagement": {
-      "likes": 483,
-      "replies": 6,
-      "retweets": 27,
-      "views": 73720
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-24T07:13:55.857443+00:00",
-    "js_take": {
-      "en-US": "Rational deployment isn't chasing hype—it's 无为 (wú wéi). Find where to push, then let the current do the rest.",
-      "zh-CN": "理性部署不是追逐炒作——是无为（wú wéi）。找到该发力的地方，然后让势完成其余。"
-    }
   }
 ]
