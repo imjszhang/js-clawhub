@@ -30,6 +30,34 @@
     }
   },
   {
+    "id": "2029013122506223688",
+    "date": "2026-03-04",
+    "author": "@mgonto",
+    "author_url": "https://x.com/mgonto",
+    "tweet_url": "https://x.com/mgonto/status/2029013122506223688",
+    "title": {
+      "en-US": "Last week I let my executive assistant go and replaced her with OpenClaw. Today, I'm open sourcing the skills...",
+      "zh-CN": "作者解雇了行政助理，用 OpenClaw 替代，并开源了配置方法"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI Agent 替代人工的直接案例",
+      "zh-CN": "「最好的 EA」不是取代人，而是让人不再被琐事消耗。好的系统是让被替代者去做更有价值的事，而不是被优化掉。"
+    },
+    "relevance": "OpenClaw/AI Agent 替代人工的直接案例",
+    "score": 0.83,
+    "engagement": {
+      "likes": 78,
+      "replies": 5,
+      "retweets": 5
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-04T10:03:54.259341+00:00",
+    "js_take": {
+      "en-US": "Firing isn't the flex. Making her irreplaceable elsewhere is.",
+      "zh-CN": "解雇不是本事，让她在别处无可替代才是真功夫"
+    }
+  },
+  {
     "id": "2028874549413179566",
     "date": "2026-03-04",
     "author": "@danshipper",

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-04T05:05:17.132102+00:00",
+  "updated_at": "2026-03-04T10:04:05.315145+00:00",
   "this_week": {
-    "total_items": 65,
+    "total_items": 66,
     "avg_score": 0.77,
-    "unique_authors": 54,
+    "unique_authors": 55,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -253,6 +253,34 @@
         "js_take": {
           "en-US": "Six agents trading while you sleep sounds liberating until you check your balance. Who's liable when your 'team' loses your money—while unconscious?",
           "zh-CN": "六个代理在你睡觉时交易听起来很爽，直到你看余额。你的'团队'在你昏迷时亏钱——谁负责？"
+        }
+      },
+      {
+        "id": "2029013122506223688",
+        "date": "2026-03-04",
+        "author": "@mgonto",
+        "author_url": "https://x.com/mgonto",
+        "tweet_url": "https://x.com/mgonto/status/2029013122506223688",
+        "title": {
+          "en-US": "Last week I let my executive assistant go and replaced her with OpenClaw. Today, I'm open sourcing the skills...",
+          "zh-CN": "作者解雇了行政助理，用 OpenClaw 替代，并开源了配置方法"
+        },
+        "summary": {
+          "en-US": "OpenClaw/AI Agent 替代人工的直接案例",
+          "zh-CN": "「最好的 EA」不是取代人，而是让人不再被琐事消耗。好的系统是让被替代者去做更有价值的事，而不是被优化掉。"
+        },
+        "relevance": "OpenClaw/AI Agent 替代人工的直接案例",
+        "score": 0.83,
+        "engagement": {
+          "likes": 78,
+          "replies": 5,
+          "retweets": 5
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-03-04T10:03:54.259341+00:00",
+        "js_take": {
+          "en-US": "Firing isn't the flex. Making her irreplaceable elsewhere is.",
+          "zh-CN": "解雇不是本事，让她在别处无可替代才是真功夫"
         }
       },
       {
@@ -1013,41 +1041,11 @@
           "en-US": "6 agents building websites and closing deals. Cool demo, but local businesses don't need more automation—they need trust. Code can't handshake.",
           "zh-CN": "6 个 agent 建站成交，Demo 很酷。但本地商家要的不是更多自动化——是信任。代码没法握手。"
         }
-      },
-      {
-        "id": "2028714804358373524",
-        "date": "2026-03-03",
-        "author": "@astaxie",
-        "author_url": "https://x.com/astaxie",
-        "tweet_url": "https://x.com/astaxie/status/2028714804358373524",
-        "title": {
-          "en-US": "OpenClaw instances exposed on public internet",
-          "zh-CN": "有人收集了所有暴露到公网的 OpenClaw 实例，提醒用户如果没开认证抓紧加上"
-        },
-        "summary": {
-          "en-US": "OpenClaw 安全与暴露风险",
-          "zh-CN": "「抓紧加认证」是治标，真正的病是把本地工具暴露到公网还指望靠密码保护——方便和安全之间的平衡被打破了。"
-        },
-        "relevance": "OpenClaw 安全与暴露风险",
-        "score": 0.76,
-        "engagement": {
-          "likes": 135,
-          "retweets": 21,
-          "replies": 8,
-          "views": 44242,
-          "bookmarks": 160
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T11:03:38.203942+00:00",
-        "js_take": {
-          "en-US": "Adding auth is a band-aid. The real mistake is exposing local tools to the public internet and thinking a password makes it safe—you traded security for convenience.",
-          "zh-CN": "加认证只是治标不治本。真正的错误是把本地工具暴露到公网，以为加个密码就万事大吉——你为了图方便，把安全当了交易筹码。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 151
+    "unique_authors": 152
   }
 }
