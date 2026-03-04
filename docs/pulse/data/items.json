@@ -115,6 +115,35 @@
     }
   },
   {
+    "id": "2029226864309358605",
+    "date": "2026-03-05",
+    "author": "@pusongqi",
+    "author_url": "https://x.com/pusongqi",
+    "tweet_url": "https://x.com/pusongqi/status/2029226864309358605",
+    "title": {
+      "en-US": "Future of Memory should be natively baked into model weights",
+      "zh-CN": "OpenClaw和Claude Code目前用markdown文件保留知识，但作者认为未来记忆应该原生地以自适应方式 baked 进模型权重里。"
+    },
+    "summary": {
+      "en-US": "OpenClaw + Agent记忆架构深层讨论",
+      "zh-CN": "把记忆塞进权重是「想控制无法被控制的东西」——权重是涌现的，不是存储槽；真正的记忆应该像水找容器，需要一套让信息自然沉淀和唤起的结构，而不是强行bake进去。"
+    },
+    "relevance": "OpenClaw + Agent记忆架构深层讨论",
+    "score": 0.72,
+    "engagement": {
+      "likes": 12,
+      "replies": 1,
+      "retweets": 0,
+      "views": 1624
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-04T21:04:55.895493+00:00",
+    "js_take": {
+      "en-US": "\"Baked into weights\" sounds elegant until you realize weights are the river, not the banks. You don't freeze water to keep its shape—you build canals.",
+      "zh-CN": "「固化在权重里」听起来很优雅，直到你意识到权重是流动的河水，而非固定的河岸。留住水的形状不靠冻结——而是修建水渠来引导它。"
+    }
+  },
+  {
     "id": "2028847121189986576",
     "date": "2026-03-04",
     "author": "@tpschmidt_",
@@ -5464,30 +5493,5 @@
       "en-US": "Even the safety head couldn't stop it. Not OpenClaw's power—just 势 (shì). Higher walls, faster flow.",
       "zh-CN": "连安全主管都挡不住。不是 OpenClaw 有多强——只是势（shì）。墙越高，流越急。"
     }
-  },
-  {
-    "id": "2026049619218862321",
-    "date": "2026-02-24",
-    "author": "@jessegenet",
-    "author_url": "https://x.com/jessegenet",
-    "tweet_url": "https://x.com/jessegenet/status/2026049619218862321",
-    "title": {
-      "en-US": "Built OpenClaw replacement for Google Photos/Drive in one morning",
-      "zh-CN": "一早上用 OpenClaw 搭建了 Google Photos/Drive 替代品"
-    },
-    "summary": {
-      "en-US": "OpenClaw、建系统、表/里世界",
-      "zh-CN": "中等曝光(9k浏览)，展示OpenClaw替代云服务的能力，用「表/里世界」评论自建系统"
-    },
-    "relevance": "OpenClaw、建系统、表/里世界",
-    "score": 0.82,
-    "engagement": {
-      "likes": 217,
-      "replies": 24,
-      "retweets": 13,
-      "views": 9185
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-24T02:13:08.600993+00:00"
   }
 ]
