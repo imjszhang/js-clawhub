@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-04T15:03:47.627127+00:00",
+  "updated_at": "2026-03-04T17:04:25.853840+00:00",
   "this_week": {
-    "total_items": 75,
+    "total_items": 76,
     "avg_score": 0.77,
     "unique_authors": 62,
     "top_items": [
@@ -167,6 +167,34 @@
         "js_take": {
           "en-US": "Auto-orchestration is a trap: the more it runs on its own, the less you understand what's running. Seeing problems in split-screen doesn't mean you can stop them.",
           "zh-CN": "自动编排是个陷阱——越是自动，你越不懂它到底在干什么。分屏监控看见问题，不代表你能拦住问题。"
+        }
+      },
+      {
+        "id": "2029191380212257159",
+        "date": "2026-03-05",
+        "author": "@RoundtableSpace",
+        "author_url": "https://x.com/RoundtableSpace",
+        "tweet_url": "https://x.com/RoundtableSpace/status/2029191380212257159",
+        "title": {
+          "en-US": "OpenClaw scraper bypasses Cloudflare, 774x faster",
+          "zh-CN": "OpenClaw 绕过 Cloudflare，速度提升774倍"
+        },
+        "summary": {
+          "en-US": "OpenClaw 核心功能展示，技术突破话题",
+          "zh-CN": "OpenClaw 核心功能展示，聚焦技术突破话题"
+        },
+        "relevance": "OpenClaw 核心功能展示，技术突破话题",
+        "score": 0.85,
+        "engagement": {
+          "likes": 1289,
+          "replies": 56,
+          "retweets": 109
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-04T17:04:17.559381+00:00",
+        "js_take": {
+          "en-US": "774x faster through Cloudflare. Cool. Now you have 774x more data you don't know what to do with. Speed without judgment is just faster noise.",
+          "zh-CN": "774倍速突破 Cloudflare。很酷。现在你有774倍的数据，却不知道该怎么用了。没有判断力的速度，不过是更快的噪音。"
         }
       },
       {
@@ -1008,41 +1036,11 @@
           "en-US": "Handing API keys to agents trades sleep for liability. Your credit card works 24/7 too—right up until it doesn't.",
           "zh-CN": "把API密钥交给代理，是用责任换睡眠。你的信用卡也24/7工作——直到它用不了为止。"
         }
-      },
-      {
-        "id": "2028588309111546151",
-        "date": "2026-03-03",
-        "author": "@bradmillscan",
-        "author_url": "https://x.com/bradmillscan",
-        "tweet_url": "https://x.com/bradmillscan/status/2028588309111546151",
-        "title": {
-          "en-US": "OpenClaw agents terrible at complex multi-step delegation",
-          "zh-CN": "批评 OpenClaw Agent 在执行需要委派的多步骤复杂流程时表现糟糕"
-        },
-        "summary": {
-          "en-US": "OpenClaw 能力边界 - 复杂任务执行",
-          "zh-CN": "复杂流程的失败不是技术限制，是设计哲学的错位——OpenClaw 被设计成「助手」而非「系统」，你却想用它做「架构」。"
-        },
-        "relevance": "OpenClaw 能力边界 - 复杂任务执行",
-        "score": 0.76,
-        "engagement": {
-          "likes": 210,
-          "retweets": 9,
-          "replies": 63,
-          "views": 14140,
-          "bookmarks": 81
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T03:08:30.832265+00:00",
-        "js_take": {
-          "en-US": "OpenClaw struggles with complex delegation because you're treating an assistant like an architect. That's not its ceiling—it's your miscast.",
-          "zh-CN": "OpenClaw处理复杂委托吃力，是因为你把助理当架构师用。这不是它的天花板——是你的角色错配。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 151
+    "unique_authors": 150
   }
 }
