@@ -409,6 +409,36 @@
     }
   },
   {
+    "id": "2029198636811264264",
+    "date": "2026-03-04",
+    "author": "@RyanSAdams",
+    "author_url": "https://x.com/RyanSAdams",
+    "tweet_url": "https://x.com/RyanSAdams/status/2029198636811264264",
+    "title": {
+      "en-US": "zero human company: $80K revenue in 30 days, $1.5K startup cost, OpenClaw bot as CEO",
+      "zh-CN": "介绍了一个零人类公司案例：30天收入8万美元，启动成本仅1500美元，CEO是一个OpenClaw bot，月运营成本400美元。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台应用——零人类公司的商业模式",
+      "zh-CN": "做纠正：大家都在算「省了多少钱」，但没人问「谁对结果负责」。当公司失败时，你不能解雇一个bot。自动化省下的成本，会在问责真空时加倍还回来。"
+    },
+    "relevance": "OpenClaw平台应用——零人类公司的商业模式",
+    "score": 0.74,
+    "engagement": {
+      "likes": 199,
+      "replies": 21,
+      "retweets": 24,
+      "views": 19492,
+      "bookmarks": 228
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-04T15:03:34.558765+00:00",
+    "js_take": {
+      "en-US": "Nice math. Missing line: accountability cost. When this fails, you can't fire a bot. The money saved on salaries pays back double when no one owns the failure.",
+      "zh-CN": "账算得挺漂亮，就是漏了条「责任成本」。真出事了，你总不能开除一个机器人吧？省下的那点工资，会在没人背锅的时候加倍奉还。"
+    }
+  },
+  {
     "id": "2028773066340274461",
     "date": "2026-03-04",
     "author": "@denisyurchak",
