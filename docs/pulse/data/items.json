@@ -1,5 +1,35 @@
 [
   {
+    "id": "2028847121189986576",
+    "date": "2026-03-04",
+    "author": "@tpschmidt_",
+    "author_url": "https://x.com/tpschmidt_",
+    "tweet_url": "https://x.com/tpschmidt_/status/2028847121189986576",
+    "title": {
+      "en-US": "Moved OpenClaw to $5 AWS Lightsail, works great",
+      "zh-CN": "把 OpenClaw 从本地移到 AWS Lightsail $5 实例上运行，解决了机器休眠问题，效果很好"
+    },
+    "summary": {
+      "en-US": "OpenClaw 部署实践、Agent 基础设施",
+      "zh-CN": "大家争论'该买 Mac mini 还是租云服务器'，其实真正的问题是谁来管这台机器的生死——本地的麻烦是它会睡，云上的麻烦是它会账单。所谓'托管'，不过是把一种焦虑换成另一种。"
+    },
+    "relevance": "OpenClaw 部署实践、Agent 基础设施",
+    "score": 0.84,
+    "engagement": {
+      "likes": 374,
+      "replies": 11,
+      "retweets": 24,
+      "views": 64469,
+      "bookmarks": 564
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-04T03:03:54.402718+00:00",
+    "js_take": {
+      "en-US": "AWS doesn't sleep, but neither does its billing. You're not choosing infrastructure—you're picking which 3am panic you prefer: waking up to a dead box, or a $200 surprise.",
+      "zh-CN": "AWS 全年无休，账单也是。你选的不是基础设施，而是凌晨3点的惊魂模式——服务器宕机，还是200刀账单突袭。"
+    }
+  },
+  {
     "id": "2028874549413179566",
     "date": "2026-03-04",
     "author": "@danshipper",
@@ -113,6 +143,36 @@
     "js_take": {
       "en-US": "eSIM is just the surface. When Agents can close deals on their own, the question isn't what they deliver—it's whether you're ready to give them wallets.",
       "zh-CN": "eSIM只是表象。当Agent能独立完成交易时，问题不在于它们能交付什么——而在于你是否准备好给它们钱包。"
+    }
+  },
+  {
+    "id": "2028939891342733823",
+    "date": "2026-03-04",
+    "author": "@everestchris6",
+    "author_url": "https://x.com/everestchris6",
+    "tweet_url": "https://x.com/everestchris6/status/2028939891342733823",
+    "title": {
+      "en-US": "OpenClaw tool auto-builds websites from Google Maps leads",
+      "zh-CN": "用 OpenClaw 做了个工具，自动从 Google Maps 抓取潜在客户，自动生成网站并录屏，作为冷邮件发送"
+    },
+    "summary": {
+      "en-US": "OpenClaw 自动化工具、Agent 实战案例",
+      "zh-CN": "花这么多工程精力做'自动化冷邮件'，本质上是用技术的确定性对抗商业的不确定性——但问题是，客户真的想要一个机器人为他们建的网站吗？还是在用忙碌掩盖对销售的恐惧？"
+    },
+    "relevance": "OpenClaw 自动化工具、Agent 实战案例",
+    "score": 0.78,
+    "engagement": {
+      "likes": 277,
+      "replies": 310,
+      "retweets": 22,
+      "views": 20141,
+      "bookmarks": 432
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-04T03:03:54.402722+00:00",
+    "js_take": {
+      "en-US": "All that engineering to avoid one conversation. The robot builds the site, but you're still the one who has to ask for money. Automation can't fix cowardice.",
+      "zh-CN": "绕了一大圈工程，只为回避一次开口。机器人能帮你建站，但不好意思谈钱？自动化治不好怯懦。"
     }
   },
   {
@@ -5384,55 +5444,5 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-24T09:10:23.024480+00:00"
-  },
-  {
-    "id": "2025935480609468862",
-    "date": "2026-02-24",
-    "author": "@mattpocockuk",
-    "author_url": "https://x.com/mattpocockuk",
-    "tweet_url": "https://x.com/mattpocockuk/status/2025935480609468862",
-    "title": {
-      "en-US": "Most effective technique for Claude Code: write failing test first, 20 years old",
-      "zh-CN": "提升 Claude Code 输出最有效的方法是20年前就有的技术：先写失败的测试"
-    },
-    "summary": {
-      "en-US": "Claude Code/OpenClaw、最佳实践、工程哲学",
-      "zh-CN": "高曝光(2万浏览)，技术实践讨论，用「无为」或「道」评论测试驱动与 Agent 自治的关系"
-    },
-    "relevance": "Claude Code/OpenClaw、最佳实践、工程哲学",
-    "score": 0.75,
-    "engagement": {
-      "likes": 389,
-      "replies": 27,
-      "retweets": 22,
-      "views": 20517
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-23T17:04:50.175688+00:00"
-  },
-  {
-    "id": "2025962835386179681",
-    "date": "2026-02-24",
-    "author": "@kyle_e_walker",
-    "author_url": "https://x.com/kyle_e_walker",
-    "tweet_url": "https://x.com/kyle_e_walker/status/2025962835386179681",
-    "title": {
-      "en-US": "OpenClaw bot fetches drilling permits, parses data, maps satellite imagery for oil and gas",
-      "zh-CN": "OpenClaw 机器人获取钻井许可，解析数据，叠加卫星影像，用于石油天然气行业"
-    },
-    "summary": {
-      "en-US": "OpenClaw、行业应用、里世界",
-      "zh-CN": "高曝光(2.7万浏览)，展示 OpenClaw 在专业领域的深度应用，用「里世界」评论 Agent 接管专业工作流"
-    },
-    "relevance": "OpenClaw、行业应用、里世界",
-    "score": 0.74,
-    "engagement": {
-      "likes": 378,
-      "replies": 13,
-      "retweets": 17,
-      "views": 27332
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-23T19:03:52.006363+00:00"
   }
 ]

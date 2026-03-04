@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-03T21:11:43.299322+00:00",
+  "updated_at": "2026-03-04T03:04:15.580725+00:00",
   "this_week": {
-    "total_items": 62,
+    "total_items": 64,
     "avg_score": 0.77,
-    "unique_authors": 51,
+    "unique_authors": 53,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -195,6 +195,36 @@
         "js_take": {
           "en-US": "Three AIs in agreement isn't validation—it's groupthink with better branding. You're getting loud confidence, not fewer mistakes.",
           "zh-CN": "三个AI意见一致不是验证，是包装更好的群体思维。你得到的是响亮的自信，不是更少的错误。"
+        }
+      },
+      {
+        "id": "2028847121189986576",
+        "date": "2026-03-04",
+        "author": "@tpschmidt_",
+        "author_url": "https://x.com/tpschmidt_",
+        "tweet_url": "https://x.com/tpschmidt_/status/2028847121189986576",
+        "title": {
+          "en-US": "Moved OpenClaw to $5 AWS Lightsail, works great",
+          "zh-CN": "把 OpenClaw 从本地移到 AWS Lightsail $5 实例上运行，解决了机器休眠问题，效果很好"
+        },
+        "summary": {
+          "en-US": "OpenClaw 部署实践、Agent 基础设施",
+          "zh-CN": "大家争论'该买 Mac mini 还是租云服务器'，其实真正的问题是谁来管这台机器的生死——本地的麻烦是它会睡，云上的麻烦是它会账单。所谓'托管'，不过是把一种焦虑换成另一种。"
+        },
+        "relevance": "OpenClaw 部署实践、Agent 基础设施",
+        "score": 0.84,
+        "engagement": {
+          "likes": 374,
+          "replies": 11,
+          "retweets": 24,
+          "views": 64469,
+          "bookmarks": 564
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-04T03:03:54.402718+00:00",
+        "js_take": {
+          "en-US": "AWS doesn't sleep, but neither does its billing. You're not choosing infrastructure—you're picking which 3am panic you prefer: waking up to a dead box, or a $200 surprise.",
+          "zh-CN": "AWS 全年无休，账单也是。你选的不是基础设施，而是凌晨3点的惊魂模式——服务器宕机，还是200刀账单突袭。"
         }
       },
       {
@@ -511,6 +541,36 @@
         "js_take": {
           "en-US": "Week on memory, zero work done? That's not preparation—it's procrastination wearing engineering clothes. The best memory system starts with using the thing, then letting forgotten tasks tell you what's missing.",
           "zh-CN": "花一周搞记忆系统却零产出？这不是准备，是披着工程外衣的拖延。最好的记忆系统从用起来开始，让被遗忘的任务自己告诉你缺了什么。"
+        }
+      },
+      {
+        "id": "2028939891342733823",
+        "date": "2026-03-04",
+        "author": "@everestchris6",
+        "author_url": "https://x.com/everestchris6",
+        "tweet_url": "https://x.com/everestchris6/status/2028939891342733823",
+        "title": {
+          "en-US": "OpenClaw tool auto-builds websites from Google Maps leads",
+          "zh-CN": "用 OpenClaw 做了个工具，自动从 Google Maps 抓取潜在客户，自动生成网站并录屏，作为冷邮件发送"
+        },
+        "summary": {
+          "en-US": "OpenClaw 自动化工具、Agent 实战案例",
+          "zh-CN": "花这么多工程精力做'自动化冷邮件'，本质上是用技术的确定性对抗商业的不确定性——但问题是，客户真的想要一个机器人为他们建的网站吗？还是在用忙碌掩盖对销售的恐惧？"
+        },
+        "relevance": "OpenClaw 自动化工具、Agent 实战案例",
+        "score": 0.78,
+        "engagement": {
+          "likes": 277,
+          "replies": 310,
+          "retweets": 22,
+          "views": 20141,
+          "bookmarks": 432
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-04T03:03:54.402722+00:00",
+        "js_take": {
+          "en-US": "All that engineering to avoid one conversation. The robot builds the site, but you're still the one who has to ask for money. Automation can't fix cowardice.",
+          "zh-CN": "绕了一大圈工程，只为回避一次开口。机器人能帮你建站，但不好意思谈钱？自动化治不好怯懦。"
         }
       },
       {
@@ -982,66 +1042,6 @@
         "js_take": {
           "en-US": "Adding auth is a band-aid. The real mistake is exposing local tools to the public internet and thinking a password makes it safe—you traded security for convenience.",
           "zh-CN": "加认证只是治标不治本。真正的错误是把本地工具暴露到公网，以为加个密码就万事大吉——你为了图方便，把安全当了交易筹码。"
-        }
-      },
-      {
-        "id": "2028763668826235114",
-        "date": "2026-03-03",
-        "author": "@cptn3mox",
-        "author_url": "https://x.com/cptn3mox",
-        "tweet_url": "https://x.com/cptn3mox/status/2028763668826235114",
-        "title": {
-          "en-US": "OpenClaw updates overwrite patches, cron jobs break silently",
-          "zh-CN": "OpenClaw 更新会覆盖补丁（因为 npm 包的补丁在 dist/ 目录），导致重要的 cron 任务可能静默崩溃直到你注意到"
-        },
-        "summary": {
-          "en-US": "OpenClaw 更新与系统稳定性",
-          "zh-CN": "「静默崩溃」是现代自动化的常态——系统足够聪明到失败时不打扰你，也足够危险到让你发现时已经太迟。"
-        },
-        "relevance": "OpenClaw 更新与系统稳定性",
-        "score": 0.76,
-        "engagement": {
-          "likes": 39,
-          "retweets": 0,
-          "replies": 2,
-          "views": 5424,
-          "bookmarks": 52
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T12:05:34.334474+00:00",
-        "js_take": {
-          "en-US": "The smarter the system, the quieter it fails. You didn't notice the cron was dead for days because good UX taught you not to worry.",
-          "zh-CN": "系统越智能，崩溃越安静。cron 挂了几天你都没发现，因为「好 UX」教会了你：别担心，一切正常。"
-        }
-      },
-      {
-        "id": "2028128730132922760",
-        "date": "2026-03-02",
-        "author": "@ctatedev",
-        "author_url": "https://x.com/ctatedev",
-        "tweet_url": "https://x.com/ctatedev/status/2028128730132922760",
-        "title": {
-          "en-US": "New agent-browser skill: control Electron apps like Discord, Figma, Notion",
-          "zh-CN": "发布新的agent-browser技能：可以控制Electron构建的桌面应用，包括Discord、Figma、Notion、Spotify和VS Code"
-        },
-        "summary": {
-          "en-US": "OpenClaw/Agent能力扩展 - 桌面自动化",
-          "zh-CN": "「控制桌面应用」听起来是能力扩展，但它可能正在制造一种新的依赖——当Agent可以操作你的Discord和Figma时，你怎么区分「它在帮你」和「它在替你生活」？能力边界模糊后，人的主体性在悄悄转移。（更深度：指出能力扩展背后的主体性风险）"
-        },
-        "relevance": "OpenClaw/Agent能力扩展 - 桌面自动化",
-        "score": 0.75,
-        "engagement": {
-          "likes": 690,
-          "retweets": 36,
-          "replies": 24,
-          "views": 40700,
-          "bookmarks": 700
-        },
-        "comment_type": "provoke",
-        "synced_at": "2026-03-01T17:06:15.151493+00:00",
-        "js_take": {
-          "en-US": "Agent controlling your Discord and Figma sounds powerful, but where's the line? When it sends messages and edits designs for you, the gap between 'helping' and 'replacing' gets dangerously thin.",
-          "zh-CN": "让agent接管Discord和Figma听着很酷，但界限在哪？当它替你发消息、改设计时，「辅助」和「取代」之间那道线已经薄如蝉翼。"
         }
       }
     ]
