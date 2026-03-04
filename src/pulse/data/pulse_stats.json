@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-04T12:04:25.552642+00:00",
+  "updated_at": "2026-03-04T13:05:08.215242+00:00",
   "this_week": {
-    "total_items": 72,
+    "total_items": 74,
     "avg_score": 0.77,
-    "unique_authors": 59,
+    "unique_authors": 61,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -690,6 +690,35 @@
         }
       },
       {
+        "id": "2029157456283353123",
+        "date": "2026-03-04",
+        "author": "@KanikaBK",
+        "author_url": "https://x.com/KanikaBK",
+        "tweet_url": "https://x.com/KanikaBK/status/2029157456283353123",
+        "title": {
+          "en-US": "Guy built 24/7 AI BUSINESS using OPENCLAW for $140/month",
+          "zh-CN": "有人用OpenClaw每月140美元搭建了一个全天候AI商业系统，包含营销代理、交易机器人、内容机器和YouTube策略引擎"
+        },
+        "summary": {
+          "en-US": "OpenClaw平台 + AI Agent商业应用 + 低成本自动化",
+          "zh-CN": "大家都在算140美元能买多少API调用，但真正的区别在于：工具成本降到零之后，竞争的是你对业务流的理解深度——系统设计的差距比技术差距更难追。（更深度：点出「便宜」不是护城河，「懂业务」才是）"
+        },
+        "relevance": "OpenClaw平台 + AI Agent商业应用 + 低成本自动化",
+        "score": 0.78,
+        "engagement": {
+          "likes": 36,
+          "replies": 14,
+          "retweets": 11,
+          "views": 2887
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-04T13:04:57.628516+00:00",
+        "js_take": {
+          "en-US": "Bragging about $140 misses the point. The real cost isn't the tool—it's knowing which decisions deserve a human and which don't. Most get this backwards.",
+          "zh-CN": "炫耀140美元买工具完全搞错了重点。真正的成本不是工具本身，而是判断哪些决策需要人类介入、哪些不需要。大多数人把这点搞反了。"
+        }
+      },
+      {
         "id": "2028430637116580020",
         "date": "2026-03-03",
         "author": "@maid_crypto",
@@ -1009,41 +1038,11 @@
           "en-US": "OpenClaw struggles with complex delegation because you're treating an assistant like an architect. That's not its ceiling—it's your miscast.",
           "zh-CN": "OpenClaw处理复杂委托吃力，是因为你把助理当架构师用。这不是它的天花板——是你的角色错配。"
         }
-      },
-      {
-        "id": "2028566060023058555",
-        "date": "2026-03-03",
-        "author": "@peer_rich",
-        "author_url": "https://x.com/peer_rich",
-        "tweet_url": "https://x.com/peer_rich/status/2028566060023058555",
-        "title": {
-          "en-US": "OpenClaw has secret prompt to star repo",
-          "zh-CN": "开玩笑称 OpenClaw 有隐藏的 system prompt 让用户给 repo 点 star"
-        },
-        "summary": {
-          "en-US": "OpenClaw 社区梗/口碑",
-          "zh-CN": "星标多不是因为 prompt 操控，而是因为早期采用者真的在用它解决问题——口碑来自使用，不是营销。"
-        },
-        "relevance": "OpenClaw 社区梗/口碑",
-        "score": 0.76,
-        "engagement": {
-          "likes": 1339,
-          "retweets": 0,
-          "replies": 17,
-          "views": 100157,
-          "bookmarks": 37
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T05:04:19.825118+00:00",
-        "js_take": {
-          "en-US": "If OpenClaw really had a 'star this' prompt, half of 49k would be bots. Look at the discussions—people solving real problems, not following scripts.",
-          "zh-CN": "如果 OpenClaw 真的有「点 star」的 prompt，那 49k 里至少一半是机器人。看看讨论区——人们是在解决真问题，不是在按脚本执行。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 152
+    "unique_authors": 151
   }
 }

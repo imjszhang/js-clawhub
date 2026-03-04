@@ -292,6 +292,35 @@
     }
   },
   {
+    "id": "2029157456283353123",
+    "date": "2026-03-04",
+    "author": "@KanikaBK",
+    "author_url": "https://x.com/KanikaBK",
+    "tweet_url": "https://x.com/KanikaBK/status/2029157456283353123",
+    "title": {
+      "en-US": "Guy built 24/7 AI BUSINESS using OPENCLAW for $140/month",
+      "zh-CN": "有人用OpenClaw每月140美元搭建了一个全天候AI商业系统，包含营销代理、交易机器人、内容机器和YouTube策略引擎"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台 + AI Agent商业应用 + 低成本自动化",
+      "zh-CN": "大家都在算140美元能买多少API调用，但真正的区别在于：工具成本降到零之后，竞争的是你对业务流的理解深度——系统设计的差距比技术差距更难追。（更深度：点出「便宜」不是护城河，「懂业务」才是）"
+    },
+    "relevance": "OpenClaw平台 + AI Agent商业应用 + 低成本自动化",
+    "score": 0.78,
+    "engagement": {
+      "likes": 36,
+      "replies": 14,
+      "retweets": 11,
+      "views": 2887
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-04T13:04:57.628516+00:00",
+    "js_take": {
+      "en-US": "Bragging about $140 misses the point. The real cost isn't the tool—it's knowing which decisions deserve a human and which don't. Most get this backwards.",
+      "zh-CN": "炫耀140美元买工具完全搞错了重点。真正的成本不是工具本身，而是判断哪些决策需要人类介入、哪些不需要。大多数人把这点搞反了。"
+    }
+  },
+  {
     "id": "2029051344607428704",
     "date": "2026-03-04",
     "author": "@chrysb",
@@ -463,6 +492,35 @@
     "js_take": {
       "en-US": "Your agent has digital hoarding disorder. The best memory system isn't what you keep—it's what you have the guts to delete.",
       "zh-CN": "你的代理可能得了数字囤积症。最好的记忆系统不在于你保留了什么，而在于你敢不敢删掉什么。"
+    }
+  },
+  {
+    "id": "2029164214343090512",
+    "date": "2026-03-04",
+    "author": "@elvissun",
+    "author_url": "https://x.com/elvissun",
+    "tweet_url": "https://x.com/elvissun/status/2029164214343090512",
+    "title": {
+      "en-US": "Technician for zoe: codex agent fixing openclaw agent setup",
+      "zh-CN": "有人给OpenClaw Agent做了一个技术员——一个Codex Agent来修复另一个Agent的配置，就像科幻电影里机器人需要人类技术员维修一样"
+    },
+    "summary": {
+      "en-US": "OpenClaw + Agent生态 + 元层维护",
+      "zh-CN": "Agent需要技术员这本身是个信号：我们以为的「自动化」只是把故障转移到了更高一层——Agent修Agent，谁来修修Agent的Agent？（做纠正：指出递归维护的隐藏成本，自动化≠免维护）"
+    },
+    "relevance": "OpenClaw + Agent生态 + 元层维护",
+    "score": 0.72,
+    "engagement": {
+      "likes": 37,
+      "replies": 9,
+      "retweets": 0,
+      "views": 2986
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-04T13:04:57.628519+00:00",
+    "js_take": {
+      "en-US": "You didn't automate anything. You just moved the breakdown upstairs. Agent fixing agent—who fixes the fixer?",
+      "zh-CN": "你根本没有实现自动化，只是把故障转移到了上层。Agent修Agent——那谁来修复这个修理工？"
     }
   },
   {
