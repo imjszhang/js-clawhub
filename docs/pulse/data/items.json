@@ -86,6 +86,34 @@
     }
   },
   {
+    "id": "2029203769557413922",
+    "date": "2026-03-05",
+    "author": "@heynavtoor",
+    "author_url": "https://x.com/heynavtoor",
+    "tweet_url": "https://x.com/heynavtoor/status/2029203769557413922",
+    "title": {
+      "en-US": "Claw GTM - OpenClaw autonomous sales agent",
+      "zh-CN": "有人把 OpenClaw 做成了自主销售代理 Claw GTM，输入网站URL就能自动构建外呼管道，包括客户画像、找公司、写邮件等全流程自动化"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + Agent自动化应用场景",
+      "zh-CN": "做纠正：推文在展示「自动化可以替代销售」的能力，但这种「全自动」叙事忽略了真正顶尖销售的本质——不是流程执行，而是在不确定中判断时机、在复杂关系中创造信任。技术能替代的是「重复」，但替代不了「判断」。"
+    },
+    "relevance": "OpenClaw生态 + Agent自动化应用场景",
+    "score": 0.74,
+    "engagement": {
+      "likes": 1084,
+      "replies": 85,
+      "retweets": 84
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-04T22:03:23.288987+00:00",
+    "js_take": {
+      "en-US": "Claw GTM can find targets and blast messages. But the real sale happens in the silence—you know, that moment when a human decides *not* to push. You're automating noise, not judgment.",
+      "zh-CN": "Claw GTM 能找到目标、群发消息。但真正的成交发生在沉默里——你懂的，就是那种人类决定不再推销的瞬间。你自动化的是噪音，不是判断力。"
+    }
+  },
+  {
     "id": "2029215096044499243",
     "date": "2026-03-05",
     "author": "@TukiFromKL",
@@ -5464,34 +5492,5 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-23T17:04:50.175680+00:00"
-  },
-  {
-    "id": "2025999346924495096",
-    "date": "2026-02-24",
-    "author": "@Grummz",
-    "author_url": "https://x.com/Grummz",
-    "tweet_url": "https://x.com/Grummz/status/2025999346924495096",
-    "title": {
-      "en-US": "Meta AI Safety head installs OpenClaw, nukes inbox",
-      "zh-CN": "Meta AI 安全主管安装 OpenClaw，清空收件箱"
-    },
-    "summary": {
-      "en-US": "OpenClaw、AI安全、势",
-      "zh-CN": "高曝光(4.8万浏览)，病毒式传播的OpenClaw故事，评论区玩梗不断，用「势」评论技术不可阻挡"
-    },
-    "relevance": "OpenClaw、AI安全、势",
-    "score": 0.82,
-    "engagement": {
-      "likes": 1717,
-      "replies": 103,
-      "retweets": 150,
-      "views": 48231
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-23T23:02:24.219627+00:00",
-    "js_take": {
-      "en-US": "Even the safety head couldn't stop it. Not OpenClaw's power—just 势 (shì). Higher walls, faster flow.",
-      "zh-CN": "连安全主管都挡不住。不是 OpenClaw 有多强——只是势（shì）。墙越高，流越急。"
-    }
   }
 ]
