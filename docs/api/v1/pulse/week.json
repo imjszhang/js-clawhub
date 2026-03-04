@@ -204,6 +204,66 @@
     }
   },
   {
+    "id": "2028821209580965895",
+    "date": "2026-03-04",
+    "author": "@xjuanito",
+    "author_url": "https://x.com/xjuanito",
+    "tweet_url": "https://x.com/xjuanito/status/2028821209580965895",
+    "title": {
+      "en-US": "OpenClaw isn't the 24/7 AI agent everyone claims it is",
+      "zh-CN": "作者质疑OpenClaw并非如营销所说那样是24/7全自主AI agent，自己深度使用后认为差距很大"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台讨论、AI agent 现实 vs 营销",
+      "zh-CN": "过度承诺是技术产品的通病——真正的'无为'不是让agent永远在线替你干活，而是搭建一个系统，让它在你不盯着的时候也能朝正确方向演化。问题的关键不是'24/7运行'这个指标，而是agent是否有足够的上下文连续性来做出符合你意图的决策。"
+    },
+    "relevance": "OpenClaw 平台讨论、AI agent 现实 vs 营销",
+    "score": 0.78,
+    "engagement": {
+      "likes": 152,
+      "retweets": 6,
+      "replies": 56,
+      "views": 11459,
+      "bookmarks": 49
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-04T11:03:59.642871+00:00",
+    "js_take": {
+      "en-US": "24/7 is a vanity metric for zombie agents. One hour with 3 months of context beats always-on amnesia every time.",
+      "zh-CN": "对僵尸代理来说，「全天候在线」只是个虚荣指标。真正有3个月记忆的一小时，永远胜过永远在线却失忆的状态。"
+    }
+  },
+  {
+    "id": "2029051344607428704",
+    "date": "2026-03-04",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2029051344607428704",
+    "title": {
+      "en-US": "OpenClaw 2026.3.2 limits new agents by default",
+      "zh-CN": "OpenClaw新版本默认限制新安装agent的工具权限，导致开箱即用性下降，需要手动修复"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台、agent 权限与安全",
+      "zh-CN": "安全与便利的拉锯是伪命题——真正的解决方案不是'默认关'或'默认开'，而是让agent自己学会在不确定性中做判断。你给它所有工具，它可能闯祸；你全收走，它就是个聊天机器人。中间的 nuanced 决策能力，才是区分'toy'和'tool'的分水岭。"
+    },
+    "relevance": "OpenClaw 平台、agent 权限与安全",
+    "score": 0.75,
+    "engagement": {
+      "likes": 140,
+      "retweets": 12,
+      "replies": 9,
+      "views": 13258,
+      "bookmarks": 292
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-04T11:03:59.642878+00:00",
+    "js_take": {
+      "en-US": "Default limits are parental controls for perpetual children. Real autonomy isn't about access—it's knowing when NOT to use it.",
+      "zh-CN": "默认限制就像是给永远长不大的孩子设的家长管控。真正的自主不是看你能做什么，而是知道什么时候不该用。"
+    }
+  },
+  {
     "id": "2029038083942052113",
     "date": "2026-03-04",
     "author": "@hnshah",
@@ -315,6 +375,36 @@
     "js_take": {
       "en-US": "You blame OpenClaw for \"slop\" but you're the one who automated the thinking part. 99% don't have an automation problem—they have a abdication problem.",
       "zh-CN": "你骂OpenClaw产出垃圾，但把脑子外包的人明明是你。99%的人不是没有自动化——而是在逃避思考。"
+    }
+  },
+  {
+    "id": "2028878067389919238",
+    "date": "2026-03-04",
+    "author": "@Voxyz_ai",
+    "author_url": "https://x.com/Voxyz_ai",
+    "tweet_url": "https://x.com/Voxyz_ai/status/2028878067389919238",
+    "title": {
+      "en-US": "MEMORY.md turned into a junk drawer after 3 weeks of agents",
+      "zh-CN": "作者运行10个agent三周后，MEMORY.md变成杂物抽屉，重要决策淹没在转录中，旧笔记和新决策权重相同"
+    },
+    "summary": {
+      "en-US": "AI agent 记忆管理、OpenClaw MEMORY.md",
+      "zh-CN": "记忆系统的失败不是技术问题，是设计哲学的缺失——不是所有信息都值得记住，agent需要学会'遗忘'。人类大脑通过遗忘来保持专注，agent却把所有记录平权处理，导致重要信号被噪声淹没。记忆的质量不取决于存了多少，而取决于舍去了多少。"
+    },
+    "relevance": "AI agent 记忆管理、OpenClaw MEMORY.md",
+    "score": 0.72,
+    "engagement": {
+      "likes": 66,
+      "retweets": 2,
+      "replies": 8,
+      "views": 5810,
+      "bookmarks": 88
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-04T11:03:59.642880+00:00",
+    "js_take": {
+      "en-US": "Your agent has digital hoarding disorder. The best memory system isn't what you keep—it's what you have the guts to delete.",
+      "zh-CN": "你的代理可能得了数字囤积症。最好的记忆系统不在于你保留了什么，而在于你敢不敢删掉什么。"
     }
   },
   {

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-04T10:04:05.315145+00:00",
+  "updated_at": "2026-03-04T11:04:14.875430+00:00",
   "this_week": {
-    "total_items": 66,
+    "total_items": 69,
     "avg_score": 0.77,
-    "unique_authors": 55,
+    "unique_authors": 58,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -602,6 +602,36 @@
         }
       },
       {
+        "id": "2028821209580965895",
+        "date": "2026-03-04",
+        "author": "@xjuanito",
+        "author_url": "https://x.com/xjuanito",
+        "tweet_url": "https://x.com/xjuanito/status/2028821209580965895",
+        "title": {
+          "en-US": "OpenClaw isn't the 24/7 AI agent everyone claims it is",
+          "zh-CN": "作者质疑OpenClaw并非如营销所说那样是24/7全自主AI agent，自己深度使用后认为差距很大"
+        },
+        "summary": {
+          "en-US": "OpenClaw 平台讨论、AI agent 现实 vs 营销",
+          "zh-CN": "过度承诺是技术产品的通病——真正的'无为'不是让agent永远在线替你干活，而是搭建一个系统，让它在你不盯着的时候也能朝正确方向演化。问题的关键不是'24/7运行'这个指标，而是agent是否有足够的上下文连续性来做出符合你意图的决策。"
+        },
+        "relevance": "OpenClaw 平台讨论、AI agent 现实 vs 营销",
+        "score": 0.78,
+        "engagement": {
+          "likes": 152,
+          "retweets": 6,
+          "replies": 56,
+          "views": 11459,
+          "bookmarks": 49
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-04T11:03:59.642871+00:00",
+        "js_take": {
+          "en-US": "24/7 is a vanity metric for zombie agents. One hour with 3 months of context beats always-on amnesia every time.",
+          "zh-CN": "对僵尸代理来说，「全天候在线」只是个虚荣指标。真正有3个月记忆的一小时，永远胜过永远在线却失忆的状态。"
+        }
+      },
+      {
         "id": "2028430637116580020",
         "date": "2026-03-03",
         "author": "@maid_crypto",
@@ -1010,36 +1040,6 @@
         "js_take": {
           "en-US": "Agent Zero wins on stability today. But 49k stars and 80+ meetups mean OpenClaw's ecosystem is compounding. Short-term smoothness loses to network effects.",
           "zh-CN": "Agent Zero 今天在稳定性上赢了。但 49k stars 和 80+ meetups 意味着 OpenClaw 的生态系统在滚雪球。短期流畅度输给了网络效应。"
-        }
-      },
-      {
-        "id": "2028632072722739327",
-        "date": "2026-03-03",
-        "author": "@sarfraj_ab75685",
-        "author_url": "https://x.com/sarfraj_ab75685",
-        "tweet_url": "https://x.com/sarfraj_ab75685/status/2028632072722739327",
-        "title": {
-          "en-US": "OpenClaw bot with 6 agents for local business sales",
-          "zh-CN": "OpenClaw bot 运行 6 个 AI agent 24/7，自动寻找无网站的本地商家、建站、发邮件、处理异议、成交"
-        },
-        "summary": {
-          "en-US": "OpenClaw 商业应用 - 销售自动化",
-          "zh-CN": "「自动成交」听起来很酷，但本地商家的真正痛点不是「没有网站」——是「没有信任」。代码能建站，建不了关系。"
-        },
-        "relevance": "OpenClaw 商业应用 - 销售自动化",
-        "score": 0.76,
-        "engagement": {
-          "likes": 136,
-          "retweets": 39,
-          "replies": 81,
-          "views": 7197,
-          "bookmarks": 106
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T08:10:47.164720+00:00",
-        "js_take": {
-          "en-US": "6 agents building websites and closing deals. Cool demo, but local businesses don't need more automation—they need trust. Code can't handshake.",
-          "zh-CN": "6 个 agent 建站成交，Demo 很酷。但本地商家要的不是更多自动化——是信任。代码没法握手。"
         }
       }
     ]
