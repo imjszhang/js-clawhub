@@ -116,6 +116,35 @@
     }
   },
   {
+    "id": "2029097224169472345",
+    "date": "2026-03-04",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2029097224169472345",
+    "title": {
+      "en-US": "sneak peek @openclaw + google workspace, minus hours of config",
+      "zh-CN": "OpenClaw与Google Workspace集成的预告，强调省去了数小时的配置时间"
+    },
+    "summary": {
+      "en-US": "直接涉及OpenClaw产品，讨论AI agent配置简化的工程实践",
+      "zh-CN": "人们总想把AI工具调得越来越复杂，却忘了最好的系统是让复杂性自己消失——而不是让你去管理它。"
+    },
+    "relevance": "直接涉及OpenClaw产品，讨论AI agent配置简化的工程实践",
+    "score": 0.82,
+    "engagement": {
+      "likes": 140,
+      "replies": 10,
+      "retweets": 2,
+      "views": 9563
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-04T12:04:11.441328+00:00",
+    "js_take": {
+      "en-US": "Zero config isn't a feature—it's an apology. 'Hours of setup' was never value, just a tax we normalized.",
+      "zh-CN": "Zero config isn't a feature—it's an apology. 'Hours of setup' was never value, just a tax we normalized."
+    }
+  },
+  {
     "id": "2028833375046238538",
     "date": "2026-03-04",
     "author": "@thestanduppod",
@@ -231,6 +260,35 @@
     "js_take": {
       "en-US": "24/7 is a vanity metric for zombie agents. One hour with 3 months of context beats always-on amnesia every time.",
       "zh-CN": "对僵尸代理来说，「全天候在线」只是个虚荣指标。真正有3个月记忆的一小时，永远胜过永远在线却失忆的状态。"
+    }
+  },
+  {
+    "id": "2029016233711157452",
+    "date": "2026-03-04",
+    "author": "@JulianGoldieSEO",
+    "author_url": "https://x.com/JulianGoldieSEO",
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/2029016233711157452",
+    "title": {
+      "en-US": "Claude just copied OpenClaw's best moves. Remote control plus scheduled tasks changes everything.",
+      "zh-CN": "Claude复制了OpenClaw的核心功能，推出远程控制加定时任务功能"
+    },
+    "summary": {
+      "en-US": "OpenClaw被Claude复制功能，AI agent生态竞争动态",
+      "zh-CN": "功能被复制从来不是威胁，被理解才是。当大厂开始学你的路，说明你走在了他们前面。"
+    },
+    "relevance": "OpenClaw被Claude复制功能，AI agent生态竞争动态",
+    "score": 0.78,
+    "engagement": {
+      "likes": 128,
+      "replies": 6,
+      "retweets": 7,
+      "views": 10156
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-04T12:04:11.441332+00:00",
+    "js_take": {
+      "en-US": "Claude copies features because it can't copy presence. Features are commodities—architecture that makes AI 'there' isn't.",
+      "zh-CN": "Claude copies features because it can't copy presence. Features are commodities—architecture that makes AI 'there' isn't."
     }
   },
   {
@@ -463,6 +521,35 @@
     "js_take": {
       "en-US": "Apple didn't create this demand. OpenClaw did. When software is open enough, hardware sales grow themselves.",
       "zh-CN": "苹果并没有创造这个需求，是OpenClaw创造的。当软件足够开放时，硬件销量自然生长。"
+    }
+  },
+  {
+    "id": "2028876154942165291",
+    "date": "2026-03-04",
+    "author": "@hammer_mt",
+    "author_url": "https://x.com/hammer_mt",
+    "tweet_url": "https://x.com/hammer_mt/status/2028876154942165291",
+    "title": {
+      "en-US": "Claws are the biggest sign my thesis that \"we'll need to learn to manage AIs like we manage humans\" is playing out.",
+      "zh-CN": "Claws的出现验证了作者的观点：我们需要像管理人类一样管理AI"
+    },
+    "summary": {
+      "en-US": "直接讨论Claws/OpenClaw，AI agent管理哲学的早期洞察",
+      "zh-CN": "用管人的方式管AI，这思路本身就是把人降级为可管的对象。更好的问题是：什么条件下AI能自己管好自己？"
+    },
+    "relevance": "直接讨论Claws/OpenClaw，AI agent管理哲学的早期洞察",
+    "score": 0.71,
+    "engagement": {
+      "likes": 39,
+      "replies": 2,
+      "retweets": 5,
+      "views": 13855
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-04T12:04:11.441334+00:00",
+    "js_take": {
+      "en-US": "Treating AI like humans to manage isn't foresight—it's industrial nostalgia. The future isn't org charts, it's self-ordering systems.",
+      "zh-CN": "Treating AI like humans to manage isn't foresight—it's industrial nostalgia. The future isn't org charts, it's self-ordering systems."
     }
   },
   {
