@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-04T17:04:25.853840+00:00",
+  "updated_at": "2026-03-04T18:03:44.863236+00:00",
   "this_week": {
-    "total_items": 76,
+    "total_items": 78,
     "avg_score": 0.77,
-    "unique_authors": 62,
+    "unique_authors": 63,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -31,6 +31,35 @@
         "js_take": {
           "en-US": "Zero-coding AI employees? You just traded learning for speed. The bill comes due when it breaks and you have no idea why.",
           "zh-CN": "零代码AI员工？不过是用学习换了速度。等它崩了你还不知道原因时，代价就来了。"
+        }
+      },
+      {
+        "id": "2029233391174819846",
+        "date": "2026-03-05",
+        "author": "@ankurnagpal",
+        "author_url": "https://x.com/ankurnagpal",
+        "tweet_url": "https://x.com/ankurnagpal/status/2029233391174819846",
+        "title": {
+          "en-US": "Buddy set up OpenClaw for Hinge, trained on facial symmetry, got too many dates",
+          "zh-CN": "朋友用OpenClaw配置Hinge，靠面部对称算法约会太多忙不过来"
+        },
+        "summary": {
+          "en-US": "OpenClaw实际应用案例 - 平台能力的病毒式展示",
+          "zh-CN": "OpenClaw实战：平台能力的病毒式传播"
+        },
+        "relevance": "OpenClaw实际应用案例 - 平台能力的病毒式展示",
+        "score": 0.88,
+        "engagement": {
+          "likes": 420,
+          "replies": 20,
+          "retweets": 4,
+          "views": 57209
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-03-04T18:03:36.079883+00:00",
+        "js_take": {
+          "en-US": "Humans spent millennia perfecting romance, AI cracked it with facial symmetry. It didn't learn to date; it learned to skip straight to yes.",
+          "zh-CN": "人类花了几千年打磨浪漫，AI靠面部对称就破解了。它没学会约会，它学会了直接跳到'yes'。"
         }
       },
       {
@@ -629,6 +658,35 @@
         }
       },
       {
+        "id": "2029243787772358706",
+        "date": "2026-03-05",
+        "author": "@mattshumer_",
+        "author_url": "https://x.com/mattshumer_",
+        "tweet_url": "https://x.com/mattshumer_/status/2029243787772358706",
+        "title": {
+          "en-US": "How do you setup multiple OpenClaw agents to work together on one machine?",
+          "zh-CN": "在同一台机器上运行多个OpenClaw agent，你们是怎么设置让它们协作的？"
+        },
+        "summary": {
+          "en-US": "OpenClaw多agent协作 - 核心技术问题",
+          "zh-CN": "每个人都在问「怎么让agents协作」，却没人问「它们真的需要协作吗」——有时候最好的协作就是各干各的，强行组队只会制造出会吵架的AI。"
+        },
+        "relevance": "OpenClaw多agent协作 - 核心技术问题",
+        "score": 0.78,
+        "engagement": {
+          "likes": 52,
+          "replies": 37,
+          "retweets": 2,
+          "views": 9623
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-04T18:03:36.079886+00:00",
+        "js_take": {
+          "en-US": "Everyone obsesses over making agents collaborate, but the real power move is giving each a domain where they never have to talk.",
+          "zh-CN": "人人都在研究怎么让Agent协作，真正的大招是给每个Agent一块领地，让它们永远不需要对话。"
+        }
+      },
+      {
         "id": "2028939891342733823",
         "date": "2026-03-04",
         "author": "@everestchris6",
@@ -979,62 +1037,6 @@
         "js_take": {
           "en-US": "Clawtrace means we've entered the 'agents need babysitters' era. But the real security issue isn't what agents do—it's that we stop thinking when we let them do it. Logs record behavior; they don't replace judgment.",
           "zh-CN": "Clawtrace宣告「agent需要保姆」时代的到来。但真正的安全隐患不在于agent做了什么，而在于我们让它们做的时候就放弃了思考。日志记录行为，但不能替代判断。"
-        }
-      },
-      {
-        "id": "2028388619287748870",
-        "date": "2026-03-02",
-        "author": "@sharbel",
-        "author_url": "https://x.com/sharbel",
-        "tweet_url": "https://x.com/sharbel/status/2028388619287748870",
-        "title": {
-          "en-US": "5 files turn OpenClaw from chatbot to AI employee",
-          "zh-CN": "5个配置文件将OpenClaw从聊天机器人变成真正的AI员工：SOUL.md、USER.md、MEMORY.md、TOOLS.md、HEARTBEAT.md"
-        },
-        "summary": {
-          "en-US": "OpenClaw / Agent配置 / 最佳实践",
-          "zh-CN": "五个文件框架很清晰，但顺序错了。应该先写HEARTBEAT——如果不知道agent该检查什么，给它记忆和工具也没有方向。"
-        },
-        "relevance": "OpenClaw / Agent配置 / 最佳实践",
-        "score": 0.78,
-        "engagement": {
-          "likes": 48,
-          "retweets": 0,
-          "replies": 19
-        },
-        "comment_type": "provoke",
-        "synced_at": "2026-03-02T10:06:43.006707+00:00",
-        "js_take": {
-          "en-US": "Five files, wrong order. Start with HEARTBEAT—if you don't know what your agent should *check*, memory and tools have no direction. Purpose before capability.",
-          "zh-CN": "五个文件，顺序全错。从HEARTBEAT开始——如果连agent该「检查什么」都不知道，记忆和工具就是无头苍蝇。目标先于能力。"
-        }
-      },
-      {
-        "id": "2028533746073321919",
-        "date": "2026-03-03",
-        "author": "@gregisenberg",
-        "author_url": "https://x.com/gregisenberg",
-        "tweet_url": "https://x.com/gregisenberg/status/2028533746073321919",
-        "title": {
-          "en-US": "Digital employees running marketing 24/7 with API keys",
-          "zh-CN": "用Claude Code、Railway、Meta等工具搭建24/7运行的数字员工来做营销自动化"
-        },
-        "summary": {
-          "en-US": "AI Agent营销 / 自动化 / OpenClaw",
-          "zh-CN": "把API密钥交给agent并让它自主运行是便利与风险的交易——你可以睡觉，但你的信用额度可能也在\"睡觉\"时被刷爆。"
-        },
-        "relevance": "AI Agent营销 / 自动化 / OpenClaw",
-        "score": 0.76,
-        "engagement": {
-          "likes": 215,
-          "replies": 34,
-          "retweets": 11
-        },
-        "comment_type": "provoke",
-        "synced_at": "2026-03-02T19:02:25.976224+00:00",
-        "js_take": {
-          "en-US": "Handing API keys to agents trades sleep for liability. Your credit card works 24/7 too—right up until it doesn't.",
-          "zh-CN": "把API密钥交给代理，是用责任换睡眠。你的信用卡也24/7工作——直到它用不了为止。"
         }
       }
     ]

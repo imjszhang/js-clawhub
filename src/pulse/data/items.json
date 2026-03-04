@@ -1,5 +1,34 @@
 [
   {
+    "id": "2029233391174819846",
+    "date": "2026-03-05",
+    "author": "@ankurnagpal",
+    "author_url": "https://x.com/ankurnagpal",
+    "tweet_url": "https://x.com/ankurnagpal/status/2029233391174819846",
+    "title": {
+      "en-US": "Buddy set up OpenClaw for Hinge, trained on facial symmetry, got too many dates",
+      "zh-CN": "朋友用OpenClaw配置Hinge，靠面部对称算法约会太多忙不过来"
+    },
+    "summary": {
+      "en-US": "OpenClaw实际应用案例 - 平台能力的病毒式展示",
+      "zh-CN": "OpenClaw实战：平台能力的病毒式传播"
+    },
+    "relevance": "OpenClaw实际应用案例 - 平台能力的病毒式展示",
+    "score": 0.88,
+    "engagement": {
+      "likes": 420,
+      "replies": 20,
+      "retweets": 4,
+      "views": 57209
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-04T18:03:36.079883+00:00",
+    "js_take": {
+      "en-US": "Humans spent millennia perfecting romance, AI cracked it with facial symmetry. It didn't learn to date; it learned to skip straight to yes.",
+      "zh-CN": "人类花了几千年打磨浪漫，AI靠面部对称就破解了。它没学会约会，它学会了直接跳到'yes'。"
+    }
+  },
+  {
     "id": "2029191380212257159",
     "date": "2026-03-05",
     "author": "@RoundtableSpace",
@@ -25,6 +54,35 @@
     "js_take": {
       "en-US": "774x faster through Cloudflare. Cool. Now you have 774x more data you don't know what to do with. Speed without judgment is just faster noise.",
       "zh-CN": "774倍速突破 Cloudflare。很酷。现在你有774倍的数据，却不知道该怎么用了。没有判断力的速度，不过是更快的噪音。"
+    }
+  },
+  {
+    "id": "2029243787772358706",
+    "date": "2026-03-05",
+    "author": "@mattshumer_",
+    "author_url": "https://x.com/mattshumer_",
+    "tweet_url": "https://x.com/mattshumer_/status/2029243787772358706",
+    "title": {
+      "en-US": "How do you setup multiple OpenClaw agents to work together on one machine?",
+      "zh-CN": "在同一台机器上运行多个OpenClaw agent，你们是怎么设置让它们协作的？"
+    },
+    "summary": {
+      "en-US": "OpenClaw多agent协作 - 核心技术问题",
+      "zh-CN": "每个人都在问「怎么让agents协作」，却没人问「它们真的需要协作吗」——有时候最好的协作就是各干各的，强行组队只会制造出会吵架的AI。"
+    },
+    "relevance": "OpenClaw多agent协作 - 核心技术问题",
+    "score": 0.78,
+    "engagement": {
+      "likes": 52,
+      "replies": 37,
+      "retweets": 2,
+      "views": 9623
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-04T18:03:36.079886+00:00",
+    "js_take": {
+      "en-US": "Everyone obsesses over making agents collaborate, but the real power move is giving each a domain where they never have to talk.",
+      "zh-CN": "人人都在研究怎么让Agent协作，真正的大招是给每个Agent一块领地，让它们永远不需要对话。"
     }
   },
   {
@@ -5430,64 +5488,6 @@
     "js_take": {
       "en-US": "Rational deployment isn't chasing hype—it's 无为 (wú wéi). Find where to push, then let the current do the rest.",
       "zh-CN": "理性部署不是追逐炒作——是无为（wú wéi）。找到该发力的地方，然后让势完成其余。"
-    }
-  },
-  {
-    "id": "2026186580734714350",
-    "date": "2026-02-24",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2026186580734714350",
-    "title": {
-      "en-US": "OpenClaw update fixed chat history, security, context pruning",
-      "zh-CN": "OpenClaw 更新修复了聊天记录、安全、上下文剪枝等问题"
-    },
-    "summary": {
-      "en-US": "OpenClaw、迭代、势",
-      "zh-CN": "高曝光(5万浏览)，OpenClaw持续迭代，用「势」评论产品演进"
-    },
-    "relevance": "OpenClaw、迭代、势",
-    "score": 0.82,
-    "engagement": {
-      "likes": 109,
-      "replies": 40,
-      "retweets": 5,
-      "views": 50408
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-24T10:11:54.995873+00:00",
-    "js_take": {
-      "en-US": "Fixes aren't adds—just 势 (shì). The current moves; we clear rocks.",
-      "zh-CN": "修复不是添加——只是势（shì）。水流向前，我们清除石头。"
-    }
-  },
-  {
-    "id": "2025990063633674473",
-    "date": "2026-02-24",
-    "author": "@jeff_weinstein",
-    "author_url": "https://x.com/jeff_weinstein",
-    "tweet_url": "https://x.com/jeff_weinstein/status/2025990063633674473",
-    "title": {
-      "en-US": "OpenClaw agents sending 50k requests/hour, company wants machine payments",
-      "zh-CN": "OpenClaw Agent 每小时发送5万次请求，公司想要机器支付"
-    },
-    "summary": {
-      "en-US": "OpenClaw、机器支付、表/里世界",
-      "zh-CN": "高曝光(5.1万浏览)，展示Agent对现有系统的冲击，用「表/里世界」评论新旧交互层的冲突"
-    },
-    "relevance": "OpenClaw、机器支付、表/里世界",
-    "score": 0.8,
-    "engagement": {
-      "likes": 293,
-      "replies": 41,
-      "retweets": 16,
-      "views": 51016
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-23T23:02:24.219630+00:00",
-    "js_take": {
-      "en-US": "50k knocks per hour. The inner world is knocking. The surface world still wants tolls. Who moves first?",
-      "zh-CN": "每小时五万次敲门。里世界在敲门，表世界还在收过路费。谁先动？"
     }
   }
 ]
