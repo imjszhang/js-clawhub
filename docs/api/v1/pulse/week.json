@@ -1,5 +1,61 @@
 [
   {
+    "id": "2029246676339474841",
+    "date": "2026-03-06",
+    "author": "@ihtesham2005",
+    "author_url": "https://x.com/ihtesham2005",
+    "tweet_url": "https://x.com/ihtesham2005/status/2029246676339474841",
+    "title": {
+      "en-US": "Anthropic hackathon winner dropped Claude Code config bible with agents, skills, hooks, MCPs",
+      "zh-CN": "Claude Code 完整配置指南发布，包含 agents、skills、MCPs 等全套工程实践"
+    },
+    "summary": {
+      "en-US": "直接相关：Claude Code / OpenClaw 生态的 AI Agent 工程实践",
+      "zh-CN": "做纠正：10个月积累的「最佳实践配置」恰恰是误区——真正高效的系统不是堆砌功能，而是做减法后让核心链路自己运转。配置越多，agent 的自主空间反而越小。"
+    },
+    "relevance": "直接相关：Claude Code / OpenClaw 生态的 AI Agent 工程实践",
+    "score": 0.78,
+    "engagement": {
+      "likes": 698,
+      "replies": 18,
+      "retweets": 99
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T16:08:17.898509+00:00",
+    "js_take": {
+      "en-US": "10 months of config is debt, not wisdom. You've built a cage and called it best practice—the best agents run on trust, not switches.",
+      "zh-CN": "十个月的配置不是智慧，是债务。你把笼子当成最佳实践——顶尖 Agent 靠信任驱动，不靠开关。"
+    }
+  },
+  {
+    "id": "2029508097048187219",
+    "date": "2026-03-06",
+    "author": "@forgebitz",
+    "author_url": "https://x.com/forgebitz",
+    "tweet_url": "https://x.com/forgebitz/status/2029508097048187219",
+    "title": {
+      "en-US": "Every AI startup will pivot to agents, OpenClaw/Claude Code as inflection point",
+      "zh-CN": "今年所有 AI 创业公司都会再次转向 agent，OpenClaw/Claude Code 是转折点"
+    },
+    "summary": {
+      "en-US": "直接相关：OpenClaw 作为行业转折点被提及",
+      "zh-CN": "更深度：「再次 pivot」说明问题不在技术而在认知——大家终于意识到 agent 不是功能模块，而是新的交互层。表世界退化为数据库，里世界（agent）成为新界面。"
+    },
+    "relevance": "直接相关：OpenClaw 作为行业转折点被提及",
+    "score": 0.72,
+    "engagement": {
+      "likes": 49,
+      "replies": 24,
+      "retweets": 3
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T16:08:17.898515+00:00",
+    "js_take": {
+      "en-US": "Not \"another pivot.\" A realization: agents aren't features, they're the new interface. Surface world becomes database. Inner world takes over.",
+      "zh-CN": "不是「又一次转型」。而是顿悟：Agent 不是功能，是新的交互界面。表世界退化为数据库，里世界开始接管。"
+    }
+  },
+  {
     "id": "2029295335596527777",
     "date": "2026-03-05",
     "author": "@tomosman",

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-05T13:04:59.145565+00:00",
+  "updated_at": "2026-03-05T16:08:29.183370+00:00",
   "this_week": {
-    "total_items": 93,
+    "total_items": 95,
     "avg_score": 0.77,
-    "unique_authors": 78,
+    "unique_authors": 80,
     "top_items": [
       {
         "id": "2029295335596527777",
@@ -744,6 +744,34 @@
         }
       },
       {
+        "id": "2029246676339474841",
+        "date": "2026-03-06",
+        "author": "@ihtesham2005",
+        "author_url": "https://x.com/ihtesham2005",
+        "tweet_url": "https://x.com/ihtesham2005/status/2029246676339474841",
+        "title": {
+          "en-US": "Anthropic hackathon winner dropped Claude Code config bible with agents, skills, hooks, MCPs",
+          "zh-CN": "Claude Code 完整配置指南发布，包含 agents、skills、MCPs 等全套工程实践"
+        },
+        "summary": {
+          "en-US": "直接相关：Claude Code / OpenClaw 生态的 AI Agent 工程实践",
+          "zh-CN": "做纠正：10个月积累的「最佳实践配置」恰恰是误区——真正高效的系统不是堆砌功能，而是做减法后让核心链路自己运转。配置越多，agent 的自主空间反而越小。"
+        },
+        "relevance": "直接相关：Claude Code / OpenClaw 生态的 AI Agent 工程实践",
+        "score": 0.78,
+        "engagement": {
+          "likes": 698,
+          "replies": 18,
+          "retweets": 99
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-05T16:08:17.898509+00:00",
+        "js_take": {
+          "en-US": "10 months of config is debt, not wisdom. You've built a cage and called it best practice—the best agents run on trust, not switches.",
+          "zh-CN": "十个月的配置不是智慧，是债务。你把笼子当成最佳实践——顶尖 Agent 靠信任驱动，不靠开关。"
+        }
+      },
+      {
         "id": "2029243787772358706",
         "date": "2026-03-05",
         "author": "@mattshumer_",
@@ -1006,36 +1034,6 @@
         "js_take": {
           "en-US": "Agent-Reach gives your agent eyes. But more input isn't better input—sometimes blindness is a feature, not a bug.",
           "zh-CN": "Agent-Reach 给了 agent 眼睛。但更多输入不等于更好输入——有时候看不见反而是种保护，不是缺陷。"
-        }
-      },
-      {
-        "id": "2028621989720572278",
-        "date": "2026-03-03",
-        "author": "@ProofofMaro",
-        "author_url": "https://x.com/ProofofMaro",
-        "tweet_url": "https://x.com/ProofofMaro/status/2028621989720572278",
-        "title": {
-          "en-US": "ADHD + openclaw = heaven",
-          "zh-CN": "ADHD + OpenClaw = 天堂"
-        },
-        "summary": {
-          "en-US": "OpenClaw 与注意力管理",
-          "zh-CN": "「ADHD 的天堂」是外控依赖——把执行力外包给工具，而不是训练自己与混乱共处，这是一种隐性逃避。"
-        },
-        "relevance": "OpenClaw 与注意力管理",
-        "score": 0.78,
-        "engagement": {
-          "likes": 521,
-          "retweets": 38,
-          "replies": 54,
-          "views": 18699,
-          "bookmarks": 119
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T10:06:57.082084+00:00",
-        "js_take": {
-          "en-US": "Outsourcing your chaos to a tool isn't healing ADHD. It's avoiding the work of learning to surf your own mind.",
-          "zh-CN": "把混乱外包给工具不是治愈 ADHD，而是在逃避学习驾驭自己心智的功课。"
         }
       }
     ]
