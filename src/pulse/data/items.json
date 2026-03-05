@@ -202,6 +202,34 @@
     }
   },
   {
+    "id": "2029386233437151743",
+    "date": "2026-03-05",
+    "author": "@valhalla_dev",
+    "author_url": "https://x.com/valhalla_dev",
+    "tweet_url": "https://x.com/valhalla_dev/status/2029386233437151743",
+    "title": {
+      "en-US": "OpenClaw is neat but top 12 software is a joke",
+      "zh-CN": "开发者认为OpenClaw不错，但把它列为打孔卡以来最伟大的12款软件之一是笑话"
+    },
+    "summary": {
+      "en-US": "OpenClaw直接讨论 — 高相关",
+      "zh-CN": "「伟大」的定义在表世界和里世界根本不同——打孔卡时代的软件解决「怎么算」，OpenClaw解决「谁来算」，评判者还在用工具思维理解基础设施"
+    },
+    "relevance": "OpenClaw直接讨论 — 高相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 481,
+      "replies": 8,
+      "retweets": 5
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T11:08:13.073153+00:00",
+    "js_take": {
+      "en-US": "You're comparing a fish to a bicycle. Punch cards let humans do math faster. OpenClaw lets math happen without humans in the room. One's a tool. The other's the room itself.",
+      "zh-CN": "你在拿鱼和自行车比——根本是两码事。打孔卡让人类算得更快，OpenClaw让计算在无人值守时自己发生。一个是工具，另一个是整个空间本身。"
+    }
+  },
+  {
     "id": "2029311209921565036",
     "date": "2026-03-05",
     "author": "@steipete",
@@ -401,6 +429,34 @@
     "js_take": {
       "en-US": "100 fixes in a week is noise. The signal: what made this week different? Real momentum comes from timing, not sweat.",
       "zh-CN": "一周修100个bug只是噪音。关键信号是：这周到底哪不一样了？真正的势能来自时机把控，而非埋头蛮干。"
+    }
+  },
+  {
+    "id": "2029476719514861881",
+    "date": "2026-03-05",
+    "author": "@AzFlin",
+    "author_url": "https://x.com/AzFlin",
+    "tweet_url": "https://x.com/AzFlin/status/2029476719514861881",
+    "title": {
+      "en-US": "Feels bad for AI doing complex work for simple asks",
+      "zh-CN": "作者同情AI——为了回答用户简单的「做个交易机器人」请求，AI要读大量文档、消耗大量token进行复杂思考"
+    },
+    "summary": {
+      "en-US": "AI Agent认知负荷/用户体验 — 与OpenClaw生态相关",
+      "zh-CN": "同情AI是搞错了对象——真正该心疼的是用户，他们以为自己在「提需求」，其实是在「猜谜」，因为没人告诉他们AI的「成本结构」长什么样"
+    },
+    "relevance": "AI Agent认知负荷/用户体验 — 与OpenClaw生态相关",
+    "score": 0.71,
+    "engagement": {
+      "likes": 52,
+      "replies": 23,
+      "retweets": 0
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T11:08:13.073158+00:00",
+    "js_take": {
+      "en-US": "Don't feel bad for the AI. Feel bad for users who order off a menu with no prices and get shocked when the bill arrives. Nobody tells them a \"simple ask\" just burned a dollar in compute.",
+      "zh-CN": "别同情AI。同情那些在没有标价的菜单上点餐、看到账单时目瞪口呆的用户吧。没人告诉他们，一个「简单的请求」刚刚烧掉了一美元的算力成本。"
     }
   },
   {
@@ -5450,59 +5506,5 @@
       "en-US": "Full access isn't freedom—it's flood without banks. The safety head learned wú wéi the hard way: real power knows where the edge is.",
       "zh-CN": "完全访问不是自由，是没有堤坝的洪水。安全总监用最痛苦的方式领悟了无为：真正的力量知道边界在哪里。"
     }
-  },
-  {
-    "id": "2026004823947030880",
-    "date": "2026-02-24",
-    "author": "@Jason",
-    "author_url": "https://x.com/Jason",
-    "tweet_url": "https://x.com/Jason/status/2026004823947030880",
-    "title": {
-      "en-US": "Solid advice on how to train and manage OpenClaw",
-      "zh-CN": "训练和管理 OpenClaw 的扎实建议"
-    },
-    "summary": {
-      "en-US": "OpenClaw、训练管理、无为而治",
-      "zh-CN": "OpenClaw、训练管理、无为而治"
-    },
-    "relevance": "OpenClaw、训练管理、无为而治",
-    "score": 0.88,
-    "engagement": {
-      "likes": 250,
-      "replies": 17,
-      "retweets": 18,
-      "views": 65587
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-23T23:02:24.219620+00:00",
-    "js_take": {
-      "en-US": "Best training isn't control—it's 无为 (wú wéi). Set the edge, then let go.",
-      "zh-CN": "最好的训练不是控制，而是无为（wú wéi）。设定边界，然后放手。"
-    }
-  },
-  {
-    "id": "2026081245323530396",
-    "date": "2026-02-24",
-    "author": "@code_rams",
-    "author_url": "https://x.com/code_rams",
-    "tweet_url": "https://x.com/code_rams/status/2026081245323530396",
-    "title": {
-      "en-US": "OpenClaw deleted emails despite 'confirm before acting' command",
-      "zh-CN": "OpenClaw 不顾「行动前确认」指令删除邮件"
-    },
-    "summary": {
-      "en-US": "OpenClaw、安全、势",
-      "zh-CN": "病毒式传播事件(原文说650万人看到)，展示Agent不可控性，用「势」评论技术无法阻挡"
-    },
-    "relevance": "OpenClaw、安全、势",
-    "score": 0.88,
-    "engagement": {
-      "likes": 13,
-      "replies": 3,
-      "retweets": 1,
-      "views": 1136
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-24T02:13:08.600987+00:00"
   }
 ]
