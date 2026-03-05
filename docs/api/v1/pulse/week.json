@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2029533160950640903",
+    "date": "2026-03-06",
+    "author": "@KSimback",
+    "author_url": "https://x.com/KSimback",
+    "tweet_url": "https://x.com/KSimback/status/2029533160950640903",
+    "title": {
+      "en-US": "OpenClaw gets bloated over time, leading to higher inference costs",
+      "zh-CN": "OpenClaw 使用越久越臃肿，导致推理成本不断上升"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台使用体验与成本问题",
+      "zh-CN": "把Agent当成无限记忆的黑匣子是个设计误区——真正持久的不是记忆堆叠，而是规律提炼。就像人不会记住每顿饭吃了什么，而是记住『饿了就吃』。"
+    },
+    "relevance": "OpenClaw 平台使用体验与成本问题",
+    "score": 0.78,
+    "engagement": {
+      "likes": 75,
+      "replies": 12,
+      "retweets": 2
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T19:06:07.989380+00:00",
+    "js_take": {
+      "en-US": "Bloat isn't from use—it's from hoarding notes and calling it memory. You don't remember every meal you ate; you remember 'eat when hungry.' Agents need patterns, not archives.",
+      "zh-CN": "系统臃肿并非来自频繁使用，而是来自囤积笔记还美其名曰「记忆」。你记下的不是每顿饭的细节，而是「饿了就吃」的规律。Agent需要的是模式提炼，而非文档仓库。"
+    }
+  },
+  {
     "id": "2029513227948970445",
     "date": "2026-03-06",
     "author": "@JulianGoldieSEO",
@@ -53,6 +81,34 @@
     "js_take": {
       "en-US": "Claw X isn't about ditching the terminal—it's about the wall dissolving. Agents moving from hacker toys to normal people's tools means the surface/inner world split is collapsing.",
       "zh-CN": "Claw X 不是关于抛弃终端——而是关于那堵墙正在消融。Agent 从极客玩具变成普通人的工具，意味着表世界与里世界的分界正在坍塌。"
+    }
+  },
+  {
+    "id": "2029564848909189301",
+    "date": "2026-03-06",
+    "author": "@PrajwalTomar_",
+    "author_url": "https://x.com/PrajwalTomar_",
+    "tweet_url": "https://x.com/PrajwalTomar_/status/2029564848909189301",
+    "title": {
+      "en-US": "OpenClaw pro tip: treat it as a team, not one brain. Hire employees.",
+      "zh-CN": "OpenClaw 使用技巧：把它当成一个团队而非单一大脑，让Agent自己『雇佣』员工"
+    },
+    "summary": {
+      "en-US": "OpenClaw Agent 架构设计理念",
+      "zh-CN": "『一人团队』的思路恰恰落入了拟人陷阱——Agent不需要『雇佣』，需要的是分工即接口。真正的效率来自任务的自然拆分，而不是模拟公司架构。"
+    },
+    "relevance": "OpenClaw Agent 架构设计理念",
+    "score": 0.74,
+    "engagement": {
+      "likes": 33,
+      "replies": 6,
+      "retweets": 0
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T19:06:07.989384+00:00",
+    "js_take": {
+      "en-US": "'Hire' is the wrong metaphor. Don't build a fake company—let the work split itself. The best teams emerge from the problem, not your org chart.",
+      "zh-CN": "「雇佣」是个错误的隐喻。别去搭一个虚假的公司——让工作自然拆分。最好的团队从问题本身涌现，而非你的组织架构。"
     }
   },
   {
