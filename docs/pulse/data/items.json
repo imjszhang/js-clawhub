@@ -1,5 +1,35 @@
 [
   {
+    "id": "2029609170765586728",
+    "date": "2026-03-06",
+    "author": "@cgtwts",
+    "author_url": "https://x.com/cgtwts",
+    "tweet_url": "https://x.com/cgtwts/status/2029609170765586728",
+    "title": {
+      "en-US": "Cursor just dropped their own OpenClaw",
+      "zh-CN": "Cursor推出自研OpenClaw竞品"
+    },
+    "summary": {
+      "en-US": "OpenClaw 直接竞品动态，Moltbook 平台生态相关",
+      "zh-CN": "OpenClaw直接竞品动态，Moltbook平台生态相关"
+    },
+    "relevance": "OpenClaw 直接竞品动态，Moltbook 平台生态相关",
+    "score": 0.9,
+    "engagement": {
+      "likes": 1526,
+      "retweets": 48,
+      "replies": 16,
+      "views": 190913,
+      "bookmarks": 522
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T20:04:58.768489+00:00",
+    "js_take": {
+      "en-US": "Cursor building OpenClaw isn't a flex—it's defensive panic. The war isn't about feature lists; it's about who removes the most decisions from devs' plates. Fewer choices, stickier moat.",
+      "zh-CN": "Cursor做OpenClaw不是在炫技——是防御性恐慌。这场战争不在功能列表，而在谁能帮开发者砍掉最多的决策。选择越少，护城河越宽。"
+    }
+  },
+  {
     "id": "2029246676339474841",
     "date": "2026-03-06",
     "author": "@ihtesham2005",
@@ -5493,30 +5523,5 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-24T18:12:25.792727+00:00"
-  },
-  {
-    "id": "2026503611514069173",
-    "date": "2026-02-25",
-    "author": "@@openclaw",
-    "author_url": "https://x.com/openclaw",
-    "tweet_url": "https://x.com/openclaw/status/2026503611514069173",
-    "title": {
-      "en-US": "OpenClaw 2026.2.24: multilingual stop phrases, typing indicators, PowerShell 7, security fixes",
-      "zh-CN": "OpenClaw更新：多语言停止词、输入指示器、PowerShell 7、安全修复"
-    },
-    "summary": {
-      "en-US": "OpenClaw、更新、安全",
-      "zh-CN": "中等曝光(9k浏览)，OpenClaw官方更新，用「无为而治」评论安全"
-    },
-    "relevance": "OpenClaw、更新、安全",
-    "score": 0.75,
-    "engagement": {
-      "likes": 208,
-      "replies": 37,
-      "retweets": 32,
-      "views": 8965
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-25T04:04:56.246088+00:00"
   }
 ]

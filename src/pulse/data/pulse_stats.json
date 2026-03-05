@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-05T19:06:20.170660+00:00",
+  "updated_at": "2026-03-05T20:05:08.155338+00:00",
   "this_week": {
-    "total_items": 99,
+    "total_items": 100,
     "avg_score": 0.77,
     "unique_authors": 82,
     "top_items": [
@@ -59,6 +59,36 @@
         "js_take": {
           "en-US": "Zero-coding AI employees? You just traded learning for speed. The bill comes due when it breaks and you have no idea why.",
           "zh-CN": "零代码AI员工？不过是用学习换了速度。等它崩了你还不知道原因时，代价就来了。"
+        }
+      },
+      {
+        "id": "2029609170765586728",
+        "date": "2026-03-06",
+        "author": "@cgtwts",
+        "author_url": "https://x.com/cgtwts",
+        "tweet_url": "https://x.com/cgtwts/status/2029609170765586728",
+        "title": {
+          "en-US": "Cursor just dropped their own OpenClaw",
+          "zh-CN": "Cursor推出自研OpenClaw竞品"
+        },
+        "summary": {
+          "en-US": "OpenClaw 直接竞品动态，Moltbook 平台生态相关",
+          "zh-CN": "OpenClaw直接竞品动态，Moltbook平台生态相关"
+        },
+        "relevance": "OpenClaw 直接竞品动态，Moltbook 平台生态相关",
+        "score": 0.9,
+        "engagement": {
+          "likes": 1526,
+          "retweets": 48,
+          "replies": 16,
+          "views": 190913,
+          "bookmarks": 522
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-05T20:04:58.768489+00:00",
+        "js_take": {
+          "en-US": "Cursor building OpenClaw isn't a flex—it's defensive panic. The war isn't about feature lists; it's about who removes the most decisions from devs' plates. Fewer choices, stickier moat.",
+          "zh-CN": "Cursor做OpenClaw不是在炫技——是防御性恐慌。这场战争不在功能列表，而在谁能帮开发者砍掉最多的决策。选择越少，护城河越宽。"
         }
       },
       {
@@ -1003,41 +1033,11 @@
           "en-US": "Bragging about $140 misses the point. The real cost isn't the tool—it's knowing which decisions deserve a human and which don't. Most get this backwards.",
           "zh-CN": "炫耀140美元买工具完全搞错了重点。真正的成本不是工具本身，而是判断哪些决策需要人类介入、哪些不需要。大多数人把这点搞反了。"
         }
-      },
-      {
-        "id": "2028430637116580020",
-        "date": "2026-03-03",
-        "author": "@maid_crypto",
-        "author_url": "https://x.com/maid_crypto",
-        "tweet_url": "https://x.com/maid_crypto/status/2028430637116580020",
-        "title": {
-          "en-US": "OpenClaw workplace structure complexity, visualization needed",
-          "zh-CN": "学习了 OpenClaw 的 worktree、gateway、tools、container、session、记忆等结构后，发现处理复杂任务需要多 agent、多 workplace、多 container、多 gateway，复杂化后一定要可视化"
-        },
-        "summary": {
-          "en-US": "OpenClaw 架构复杂性与可视化",
-          "zh-CN": "「复杂了就要可视化」是把手段当目的——可视化让系统看起来可控，但真正的复杂性在于你无法预测 agent 之间的交互边界。"
-        },
-        "relevance": "OpenClaw 架构复杂性与可视化",
-        "score": 0.78,
-        "engagement": {
-          "likes": 110,
-          "retweets": 14,
-          "replies": 15,
-          "views": 27806,
-          "bookmarks": 99
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T09:11:20.760232+00:00",
-        "js_take": {
-          "en-US": "Visualizing complexity makes it *look* manageable. The real mess is what happens when agents step on each other's toes—no dashboard shows that.",
-          "zh-CN": "Visualizing complexity makes it *look* manageable. The real mess is what happens when agents step on each other's toes—no dashboard shows that."
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 150
+    "unique_authors": 149
   }
 }
