@@ -144,6 +144,36 @@
     }
   },
   {
+    "id": "2029311209921565036",
+    "date": "2026-03-05",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2029311209921565036",
+    "title": {
+      "en-US": "Unlimited tokens but OAI resets constantly",
+      "zh-CN": "作者吐槽：刚拿到OpenAI的无限token权限，结果系统却不断重置，讽刺了\"无限\"承诺与实际体验之间的落差。"
+    },
+    "summary": {
+      "en-US": "AI产品体验、技术边界、资源限制",
+      "zh-CN": "\"无限\"在技术产品里从来不是工程概念，而是营销概念——真正的限制从来不会消失，只是从\"额度\"变成了\"稳定性\"。"
+    },
+    "relevance": "AI产品体验、技术边界、资源限制",
+    "score": 0.76,
+    "engagement": {
+      "likes": 944,
+      "replies": 43,
+      "retweets": 12,
+      "views": 84062,
+      "bookmarks": 59
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-05T02:09:12.141096+00:00",
+    "js_take": {
+      "en-US": "\"Unlimited tokens\" means unlimited chances to see \"system resetting, please retry.\" Limits don't disappear—they just get rebranded.",
+      "zh-CN": "「无限 token」意味着你有无限次机会看到「系统重置中，请重试」。限制从未消失，只是换了个包装重新上市。"
+    }
+  },
+  {
     "id": "2029203769557413922",
     "date": "2026-03-05",
     "author": "@heynavtoor",
