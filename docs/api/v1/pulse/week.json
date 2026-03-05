@@ -1,5 +1,33 @@
 [
   {
+    "id": "2029295335596527777",
+    "date": "2026-03-05",
+    "author": "@tomosman",
+    "author_url": "https://x.com/tomosman",
+    "tweet_url": "https://x.com/tomosman/status/2029295335596527777",
+    "title": {
+      "en-US": "Everyone got to a good OpenClaw setup chewed glass for 4 weeks. It's a battle but worth it.",
+      "zh-CN": "OpenClaw 上岸真相：人人都要先啃4周玻璃"
+    },
+    "summary": {
+      "en-US": "OpenClaw开发者体验 - 直接相关",
+      "zh-CN": "OpenClaw 开发者体验——高度相关"
+    },
+    "relevance": "OpenClaw开发者体验 - 直接相关",
+    "score": 0.92,
+    "engagement": {
+      "likes": 146,
+      "replies": 43,
+      "retweets": 5
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T01:06:44.627255+00:00",
+    "js_take": {
+      "en-US": "'Chewing glass for 4 weeks' isn't grit—it's Stockholm syndrome with your stack. The tools that win won't demand suffering as cover charge.",
+      "zh-CN": "「啃玻璃啃了4周」不是毅力，是你对技术栈的斯德哥尔摩综合征。真正好用的工具不会把受苦当门票。"
+    }
+  },
+  {
     "id": "2029233391174819846",
     "date": "2026-03-05",
     "author": "@ankurnagpal",

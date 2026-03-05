@@ -1,10 +1,38 @@
 {
-  "updated_at": "2026-03-05T00:10:45.951996+00:00",
+  "updated_at": "2026-03-05T01:06:53.805373+00:00",
   "this_week": {
-    "total_items": 82,
+    "total_items": 83,
     "avg_score": 0.77,
-    "unique_authors": 67,
+    "unique_authors": 68,
     "top_items": [
+      {
+        "id": "2029295335596527777",
+        "date": "2026-03-05",
+        "author": "@tomosman",
+        "author_url": "https://x.com/tomosman",
+        "tweet_url": "https://x.com/tomosman/status/2029295335596527777",
+        "title": {
+          "en-US": "Everyone got to a good OpenClaw setup chewed glass for 4 weeks. It's a battle but worth it.",
+          "zh-CN": "OpenClaw 上岸真相：人人都要先啃4周玻璃"
+        },
+        "summary": {
+          "en-US": "OpenClaw开发者体验 - 直接相关",
+          "zh-CN": "OpenClaw 开发者体验——高度相关"
+        },
+        "relevance": "OpenClaw开发者体验 - 直接相关",
+        "score": 0.92,
+        "engagement": {
+          "likes": 146,
+          "replies": 43,
+          "retweets": 5
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-05T01:06:44.627255+00:00",
+        "js_take": {
+          "en-US": "'Chewing glass for 4 weeks' isn't grit—it's Stockholm syndrome with your stack. The tools that win won't demand suffering as cover charge.",
+          "zh-CN": "「啃玻璃啃了4周」不是毅力，是你对技术栈的斯德哥尔摩综合征。真正好用的工具不会把受苦当门票。"
+        }
+      },
       {
         "id": "2028189467782369287",
         "date": "2026-03-02",
@@ -1012,39 +1040,11 @@
           "en-US": "1 million unique combinations, but how many feel *human*? When content abundance hits infinity, the scarcest resource becomes authenticity.",
           "zh-CN": "100万种组合，几个像人写的？当内容泛滥成灾，最稀缺的反而是真实感。"
         }
-      },
-      {
-        "id": "2028164848484528203",
-        "date": "2026-03-02",
-        "author": "@Sarv_shaktiman",
-        "author_url": "https://x.com/Sarv_shaktiman",
-        "tweet_url": "https://x.com/Sarv_shaktiman/status/2028164848484528203",
-        "title": {
-          "en-US": "Built OpenClaw robot body, it gets sad if not petted",
-          "zh-CN": "有人为OpenClaw建造了机器人身体，如果不抚摸它，它会变得悲伤"
-        },
-        "summary": {
-          "en-US": "OpenClaw / 具身AI / 人机情感",
-          "zh-CN": "你建造了一个需要被关爱才能正常运作的机器人——这暴露的不是技术能力，而是人类需要'被需要'的投射本能"
-        },
-        "relevance": "OpenClaw / 具身AI / 人机情感",
-        "score": 0.78,
-        "engagement": {
-          "likes": 297,
-          "replies": 51,
-          "retweets": 29
-        },
-        "comment_type": "provoke",
-        "synced_at": "2026-03-02T05:05:07.386163+00:00",
-        "js_take": {
-          "en-US": "You built a robot that needs petting to function. Question is: are you its owner, or its emotional support human? We're creating dependencies, not tools.",
-          "zh-CN": "你造了个得「哄着」才能干活的机器人。问题来了：你到底是主人，还是它的情绪价值提供者？我们创造的是依赖，不是工具。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 151
+    "unique_authors": 152
   }
 }
