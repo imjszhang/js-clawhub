@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2029513227948970445",
+    "date": "2026-03-06",
+    "author": "@JulianGoldieSEO",
+    "author_url": "https://x.com/JulianGoldieSEO",
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/2029513227948970445",
+    "title": {
+      "en-US": "OpenClaw just got a desktop app called Claw X. Free. Changes everything.",
+      "zh-CN": "OpenClaw推出了桌面应用Claw X，免费，把原本需要命令行的AI agent操作变成了图形界面体验。"
+    },
+    "summary": {
+      "en-US": "OpenClaw重大产品发布，agent平台演进",
+      "zh-CN": "从命令行到GUI的转变不只是「变简单了」，它反映了一个趋势：AI agent正在从「里世界」的黑客工具走向「表世界」的普通用户——这种边界模糊本身就是技术民主化的信号。"
+    },
+    "relevance": "OpenClaw重大产品发布，agent平台演进",
+    "score": 0.76,
+    "engagement": {
+      "likes": 341,
+      "replies": 14,
+      "retweets": 47
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T18:05:57.366507+00:00",
+    "js_take": {
+      "en-US": "Claw X isn't about ditching the terminal—it's about the wall dissolving. Agents moving from hacker toys to normal people's tools means the surface/inner world split is collapsing.",
+      "zh-CN": "Claw X 不是关于抛弃终端——而是关于那堵墙正在消融。Agent 从极客玩具变成普通人的工具，意味着表世界与里世界的分界正在坍塌。"
+    }
+  },
+  {
     "id": "2029508097048187219",
     "date": "2026-03-06",
     "author": "@forgebitz",
@@ -53,6 +81,34 @@
     "js_take": {
       "en-US": "Not \"another pivot.\" A realization: agents aren't features, they're the new interface. Surface world becomes database. Inner world takes over.",
       "zh-CN": "不是「又一次转型」。而是顿悟：Agent 不是功能，是新的交互界面。表世界退化为数据库，里世界开始接管。"
+    }
+  },
+  {
+    "id": "2029477146914332706",
+    "date": "2026-03-06",
+    "author": "@KanikaBK",
+    "author_url": "https://x.com/KanikaBK",
+    "tweet_url": "https://x.com/KanikaBK/status/2029477146914332706",
+    "title": {
+      "en-US": "Someone mapped the entire OpenClaw ecosystem. 60 days after launch: 230K+ stars, 116K+ Discord, dozens of startups.",
+      "zh-CN": "有人绘制了完整的OpenClaw生态系统图，仅发布60天就有23万+GitHub star、11.6万Discord成员，数十家创业公司正在围绕它构建。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态爆发，agent基础设施趋势",
+      "zh-CN": "OpenClaw 60天长成一片森林，不是靠中心化的规划，而是靠「搭好基础然后让事情自然发生」——这种系统设计的智慧，比增长速度本身更值得观察。"
+    },
+    "relevance": "OpenClaw生态爆发，agent基础设施趋势",
+    "score": 0.71,
+    "engagement": {
+      "likes": 185,
+      "replies": 33,
+      "retweets": 17
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-05T18:05:57.366512+00:00",
+    "js_take": {
+      "en-US": "230K stars in 60 days wasn't planned—it was allowed. The healthiest growth looks like \"nobody's in charge\" because the best systems run themselves once you build the right foundation.",
+      "zh-CN": "60天23万星不是计划出来的——是「允许」出来的。最健康的增长看起来像是「没人管」，因为最好的系统一旦搭好地基，就会自己运转。"
     }
   },
   {
@@ -5456,55 +5512,5 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-25T09:05:29.806563+00:00"
-  },
-  {
-    "id": "2026342937001680974",
-    "date": "2026-02-25",
-    "author": "@@OpenAIDevs",
-    "author_url": "https://x.com/OpenAIDevs",
-    "tweet_url": "https://x.com/OpenAIDevs/status/2026342937001680974",
-    "title": {
-      "en-US": "Builders Unscripted with steipete about OpenClaw journey",
-      "zh-CN": "Builders Unscripted 采访 steipete 关于 OpenClaw 历程"
-    },
-    "summary": {
-      "en-US": "OpenClaw、开源、建系统",
-      "zh-CN": "高曝光(1.4万浏览)，OpenAI官方采访，用「建系统」评论开源"
-    },
-    "relevance": "OpenClaw、开源、建系统",
-    "score": 0.74,
-    "engagement": {
-      "likes": 210,
-      "replies": 44,
-      "retweets": 20,
-      "views": 14277
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-24T18:12:25.792730+00:00"
-  },
-  {
-    "id": "2026271472554066180",
-    "date": "2026-02-25",
-    "author": "@@sharbel",
-    "author_url": "https://x.com/sharbel",
-    "tweet_url": "https://x.com/sharbel/status/2026271472554066180",
-    "title": {
-      "en-US": "$600 Mac mini running X content agent and trading agent 24/7",
-      "zh-CN": "600美元Mac mini运行X内容Agent和交易Agent 7x24小时"
-    },
-    "summary": {
-      "en-US": "OpenClaw、硬件、建系统",
-      "zh-CN": "中等曝光(1万浏览)，展示低成本Agent部署，用「建系统」评论"
-    },
-    "relevance": "OpenClaw、硬件、建系统",
-    "score": 0.72,
-    "engagement": {
-      "likes": 77,
-      "replies": 25,
-      "retweets": 1,
-      "views": 10162
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-25T04:04:56.246092+00:00"
   }
 ]
