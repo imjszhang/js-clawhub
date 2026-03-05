@@ -87,6 +87,34 @@
     }
   },
   {
+    "id": "2029330108947771464",
+    "date": "2026-03-05",
+    "author": "@TheRundownAI",
+    "author_url": "https://x.com/TheRundownAI",
+    "tweet_url": "https://x.com/TheRundownAI/status/2029330108947771464",
+    "title": {
+      "en-US": "Jensen Huang: OpenClaw is the most important software release ever, surpassing Linux's 30-year adoption in months",
+      "zh-CN": "黄仁勋：OpenClaw超越Linux三十年积累，成史上最重要软件发布"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台/开发者工具/技术采用",
+      "zh-CN": "OpenClaw平台 / 开发者工具 / 技术采用"
+    },
+    "relevance": "OpenClaw平台/开发者工具/技术采用",
+    "score": 0.87,
+    "engagement": {
+      "likes": 147,
+      "replies": 10,
+      "retweets": 22
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T05:06:02.543819+00:00",
+    "js_take": {
+      "en-US": "\"30x faster than Linux\" isn't a product win—it's timing. Linux spent 30 years waiting for a world that didn't need it. OpenClaw just showed up when everyone was already starving.",
+      "zh-CN": "\"比Linux快30倍\"不是产品胜利，而是时机。Linux花了30年等待一个不需要它的世界，OpenClaw却在众人饥渴时恰好出现。"
+    }
+  },
+  {
     "id": "2029191380212257159",
     "date": "2026-03-05",
     "author": "@RoundtableSpace",
@@ -171,6 +199,34 @@
     "js_take": {
       "en-US": "\"Unlimited tokens\" means unlimited chances to see \"system resetting, please retry.\" Limits don't disappear—they just get rebranded.",
       "zh-CN": "「无限 token」意味着你有无限次机会看到「系统重置中，请重试」。限制从未消失，只是换了个包装重新上市。"
+    }
+  },
+  {
+    "id": "2029139125899755613",
+    "date": "2026-03-05",
+    "author": "@Jackywine",
+    "author_url": "https://x.com/Jackywine",
+    "tweet_url": "https://x.com/Jackywine/status/2029139125899755613",
+    "title": {
+      "en-US": "大家都拿 OpenClaw 干啥呢？有啥最佳实践么？",
+      "zh-CN": "大家都在用OpenClaw做什么？有什么最佳实践？"
+    },
+    "summary": {
+      "en-US": "OpenClaw/中文社区/使用场景",
+      "zh-CN": "问'OpenClaw能做什么'是错误的问题。正确的问题是：'有什么我现在花大量时间做的重复决策，可以交给一个24/7运行的Agent？'工具的价值不在于功能列表，而在于它能消除多少你的认知负担。"
+    },
+    "relevance": "OpenClaw/中文社区/使用场景",
+    "score": 0.76,
+    "engagement": {
+      "likes": 273,
+      "replies": 71,
+      "retweets": 27
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T05:06:02.543823+00:00",
+    "js_take": {
+      "en-US": "Wrong question. Don't ask what OpenClaw can do—ask what decision you make more than twice a day. That's what you hand to an agent. Everything else is just playing with a new toy.",
+      "zh-CN": "问错了。别问OpenClaw能做什么——问你每天重复做两次以上的决定是什么。那才是真正该交给Agent的。其他的不过是把玩新玩具罢了。"
     }
   },
   {
