@@ -29,6 +29,36 @@
     }
   },
   {
+    "id": "2029255331914588647",
+    "date": "2026-03-05",
+    "author": "@leerob",
+    "author_url": "https://x.com/leerob",
+    "tweet_url": "https://x.com/leerob/status/2029255331914588647",
+    "title": {
+      "en-US": "Cursor now works with 30+ ACP clients including OpenClaw",
+      "zh-CN": "Cursor 集成 30+ ACP 客户端，OpenClaw 在列"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态重大扩展——与Cursor深度集成",
+      "zh-CN": "OpenClaw 生态重大扩展，与 Cursor 深度集成"
+    },
+    "relevance": "OpenClaw生态重大扩展——与Cursor深度集成",
+    "score": 0.88,
+    "engagement": {
+      "likes": 449,
+      "retweets": 28,
+      "replies": 24,
+      "views": 45429,
+      "bookmarks": 170
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T00:10:32.367707+00:00",
+    "js_take": {
+      "en-US": "This isn't 'another integration.' It's the surface world (IDE) and inner world (Agent) finally shaking hands. You're still clicking buttons. The Agent is already reading your code's intent.",
+      "zh-CN": "这不是'又一个集成'。这是表世界（IDE）和里世界（Agent）终于握手。你还在点按钮，Agent 已经在读你的代码意图了。"
+    }
+  },
+  {
     "id": "2029191380212257159",
     "date": "2026-03-05",
     "author": "@RoundtableSpace",
@@ -5467,30 +5497,5 @@
       "en-US": "Security isn't control—it's 无为 (wú wéi). Set the edge, then let go.",
       "zh-CN": "安全不是控制，而是无为（wú wéi）。设定边界，然后放手。"
     }
-  },
-  {
-    "id": "2025956342763274654",
-    "date": "2026-02-24",
-    "author": "@petergyang",
-    "author_url": "https://x.com/petergyang",
-    "tweet_url": "https://x.com/petergyang/status/2025956342763274654",
-    "title": {
-      "en-US": "OpenClaw bot makes $4000/week with 3-layer memory system",
-      "zh-CN": "OpenClaw 机器人通过三层记忆系统每周赚4000美元"
-    },
-    "summary": {
-      "en-US": "OpenClaw、商业化、记忆系统",
-      "zh-CN": "高曝光(2.3万浏览)，展示 OpenClaw 商业化成功案例，用「建系统」评论记忆系统的复利价值"
-    },
-    "relevance": "OpenClaw、商业化、记忆系统",
-    "score": 0.82,
-    "engagement": {
-      "likes": 91,
-      "replies": 14,
-      "retweets": 11,
-      "views": 23203
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-23T17:04:50.175680+00:00"
   }
 ]

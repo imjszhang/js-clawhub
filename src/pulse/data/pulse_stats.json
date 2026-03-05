@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-04T22:03:33.578380+00:00",
+  "updated_at": "2026-03-05T00:10:45.951996+00:00",
   "this_week": {
-    "total_items": 81,
+    "total_items": 82,
     "avg_score": 0.77,
-    "unique_authors": 66,
+    "unique_authors": 67,
     "top_items": [
       {
         "id": "2028189467782369287",
@@ -60,6 +60,36 @@
         "js_take": {
           "en-US": "Humans spent millennia perfecting romance, AI cracked it with facial symmetry. It didn't learn to date; it learned to skip straight to yes.",
           "zh-CN": "人类花了几千年打磨浪漫，AI靠面部对称就破解了。它没学会约会，它学会了直接跳到'yes'。"
+        }
+      },
+      {
+        "id": "2029255331914588647",
+        "date": "2026-03-05",
+        "author": "@leerob",
+        "author_url": "https://x.com/leerob",
+        "tweet_url": "https://x.com/leerob/status/2029255331914588647",
+        "title": {
+          "en-US": "Cursor now works with 30+ ACP clients including OpenClaw",
+          "zh-CN": "Cursor 集成 30+ ACP 客户端，OpenClaw 在列"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态重大扩展——与Cursor深度集成",
+          "zh-CN": "OpenClaw 生态重大扩展，与 Cursor 深度集成"
+        },
+        "relevance": "OpenClaw生态重大扩展——与Cursor深度集成",
+        "score": 0.88,
+        "engagement": {
+          "likes": 449,
+          "retweets": 28,
+          "replies": 24,
+          "views": 45429,
+          "bookmarks": 170
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-05T00:10:32.367707+00:00",
+        "js_take": {
+          "en-US": "This isn't 'another integration.' It's the surface world (IDE) and inner world (Agent) finally shaking hands. You're still clicking buttons. The Agent is already reading your code's intent.",
+          "zh-CN": "这不是'又一个集成'。这是表世界（IDE）和里世界（Agent）终于握手。你还在点按钮，Agent 已经在读你的代码意图了。"
         }
       },
       {
@@ -1010,39 +1040,11 @@
           "en-US": "You built a robot that needs petting to function. Question is: are you its owner, or its emotional support human? We're creating dependencies, not tools.",
           "zh-CN": "你造了个得「哄着」才能干活的机器人。问题来了：你到底是主人，还是它的情绪价值提供者？我们创造的是依赖，不是工具。"
         }
-      },
-      {
-        "id": "2028169000614805684",
-        "date": "2026-03-02",
-        "author": "@n_sri_laasya",
-        "author_url": "https://x.com/n_sri_laasya",
-        "tweet_url": "https://x.com/n_sri_laasya/status/2028169000614805684",
-        "title": {
-          "en-US": "Clawtrace: on-call security for OpenClaw web agents at YC hackathon",
-          "zh-CN": "在YC黑客松上推出Clawtrace，为OpenClaw web agent提供on-call安全监控"
-        },
-        "summary": {
-          "en-US": "OpenClaw / Agent安全 / 可观测性",
-          "zh-CN": "安全监控工具的出现说明我们已经进入'agent需要被监控'的阶段——但真正的安全问题不是agent做了什么，而是我们让它做什么时不再思考"
-        },
-        "relevance": "OpenClaw / Agent安全 / 可观测性",
-        "score": 0.78,
-        "engagement": {
-          "likes": 84,
-          "replies": 23,
-          "retweets": 9
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-02T07:04:26.887414+00:00",
-        "js_take": {
-          "en-US": "Clawtrace means we've entered the 'agents need babysitters' era. But the real security issue isn't what agents do—it's that we stop thinking when we let them do it. Logs record behavior; they don't replace judgment.",
-          "zh-CN": "Clawtrace宣告「agent需要保姆」时代的到来。但真正的安全隐患不在于agent做了什么，而在于我们让它们做的时候就放弃了思考。日志记录行为，但不能替代判断。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 150
+    "unique_authors": 151
   }
 }
