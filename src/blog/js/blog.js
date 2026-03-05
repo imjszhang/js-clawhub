@@ -44,11 +44,17 @@ const Blog = {
                 return;
             }
 
-            // Sort by date (newest first)
             posts.sort((a, b) => new Date(b.date) - new Date(a.date));
 
-            // Render post cards
-            container.innerHTML = posts.map(post => this.renderPostCard(post)).join('');
+            const { seriesGroups, standalone } = this.groupBySeries(posts);
+            let html = '';
+
+            for (const group of seriesGroups) {
+                html += this.renderSeriesSection(group);
+            }
+
+            html += standalone.map(post => this.renderPostCard(post)).join('');
+            container.innerHTML = html;
 
         } catch (error) {
             console.error('Error loading posts:', error);
@@ -108,6 +114,61 @@ const Blog = {
     },
 
     /**
+     * Separate posts into series groups and standalone posts.
+     */
+    groupBySeries(posts) {
+        const seriesMap = new Map();
+        const standalone = [];
+
+        for (const post of posts) {
+            if (post.series && post.series.id) {
+                if (!seriesMap.has(post.series.id)) {
+                    seriesMap.set(post.series.id, { id: post.series.id, posts: [] });
+                }
+                seriesMap.get(post.series.id).posts.push(post);
+            } else {
+                standalone.push(post);
+            }
+        }
+
+        const seriesGroups = [];
+        for (const group of seriesMap.values()) {
+            group.posts.sort((a, b) => (a.series?.order || 0) - (b.series?.order || 0));
+            seriesGroups.push(group);
+        }
+
+        return { seriesGroups, standalone };
+    },
+
+    /**
+     * Render a collapsible series section with its posts.
+     */
+    renderSeriesSection(group) {
+        const first = group.posts[0];
+        const seriesTitle = first.series?.title
+            ? this._l({ title: first.series.title }, 'title')
+            : '';
+        const displayTitle = seriesTitle || group.id;
+        const count = group.posts.length;
+
+        const cardsHTML = group.posts.map(post => this.renderPostCard(post)).join('');
+
+        return `
+            <div class="col-span-full mb-2">
+                <details open>
+                    <summary class="cursor-pointer select-none brutal-card p-4 mb-4 flex items-center gap-3 font-black uppercase text-lg">
+                        <span class="brutal-tag bg-brand-yellow">${this.escapeHtml(displayTitle)}</span>
+                        <span class="text-sm font-mono font-normal text-black/60">${count} posts</span>
+                    </summary>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+                        ${cardsHTML}
+                    </div>
+                </details>
+            </div>
+        `;
+    },
+
+    /**
      * Load and render single post
      */
     async loadPost(slug) {
@@ -159,7 +220,13 @@ const Blog = {
             // 7. Apply code highlighting
             this.highlightCode();
 
-            // 8. Hide loading
+            // 8. Series navigation
+            if (postMeta.series && postMeta.series.id) {
+                const seriesNav = this.renderSeriesNav(posts, postMeta);
+                if (seriesNav) contentEl.insertAdjacentHTML('beforeend', seriesNav);
+            }
+
+            // 9. Hide loading
             if (loadingState) loadingState.remove();
 
         } catch (error) {
@@ -213,6 +280,52 @@ const Blog = {
                         ${this.formatDate(post.date)}
                     </time>
                     ${tagsHTML ? `<div class="flex flex-wrap gap-1">${tagsHTML}</div>` : ''}
+                </div>
+            </div>
+        `;
+    },
+
+    /**
+     * Render prev/next navigation for series posts.
+     */
+    renderSeriesNav(allPosts, currentPost) {
+        const seriesId = currentPost.series?.id;
+        if (!seriesId) return null;
+
+        const siblings = allPosts
+            .filter(p => p.series?.id === seriesId)
+            .sort((a, b) => (a.series?.order || 0) - (b.series?.order || 0));
+
+        const idx = siblings.findIndex(p => p.slug === currentPost.slug);
+        if (idx < 0) return null;
+
+        const prev = idx > 0 ? siblings[idx - 1] : null;
+        const next = idx < siblings.length - 1 ? siblings[idx + 1] : null;
+
+        if (!prev && !next) return null;
+
+        const seriesTitle = currentPost.series?.title
+            ? this._l({ title: currentPost.series.title }, 'title')
+            : seriesId;
+
+        const prevHTML = prev ? `
+            <a href="./post.html?slug=${encodeURIComponent(prev.slug)}" class="brutal-card p-4 no-underline text-black hover:bg-brand-yellow transition-colors">
+                <span class="text-xs font-mono text-black/50">← PREV</span>
+                <p class="font-bold text-sm mt-1">${this.escapeHtml(this._l(prev, 'title'))}</p>
+            </a>` : '<div></div>';
+
+        const nextHTML = next ? `
+            <a href="./post.html?slug=${encodeURIComponent(next.slug)}" class="brutal-card p-4 no-underline text-black text-right hover:bg-brand-yellow transition-colors">
+                <span class="text-xs font-mono text-black/50">NEXT →</span>
+                <p class="font-bold text-sm mt-1">${this.escapeHtml(this._l(next, 'title'))}</p>
+            </a>` : '<div></div>';
+
+        return `
+            <div class="mt-12 pt-6 border-t-3 border-black">
+                <p class="font-mono text-xs text-black/50 mb-3 uppercase">${this.escapeHtml(seriesTitle)} · ${idx + 1} / ${siblings.length}</p>
+                <div class="grid grid-cols-2 gap-4">
+                    ${prevHTML}
+                    ${nextHTML}
                 </div>
             </div>
         `;
