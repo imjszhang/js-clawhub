@@ -402,6 +402,34 @@
     }
   },
   {
+    "id": "2029504941489057978",
+    "date": "2026-03-05",
+    "author": "@cgtwts",
+    "author_url": "https://x.com/cgtwts",
+    "tweet_url": "https://x.com/cgtwts/status/2029504941489057978",
+    "title": {
+      "en-US": "AI agents burning 30-50% context loading tools. Google dropped a fix.",
+      "zh-CN": "AI agent加载工作区工具时浪费30-50%的上下文窗口，Google发布新方案解决此问题。"
+    },
+    "summary": {
+      "en-US": "Agent上下文优化，与OpenClaw技能系统相关",
+      "zh-CN": "大家都在讨论怎么省token，但真正的效率不是省出来的——是取舍。你让agent什么都带着，它自然臃肿；给它一套「见人说人话」的本事，轻装上阵反而更快。"
+    },
+    "relevance": "Agent上下文优化，与OpenClaw技能系统相关",
+    "score": 0.72,
+    "engagement": {
+      "likes": 328,
+      "replies": 15,
+      "retweets": 9
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T13:04:46.144912+00:00",
+    "js_take": {
+      "en-US": "Google's fix treats the symptom. 30-50% context waste isn't a loading problem—it's a 'why are you carrying that?' problem.",
+      "zh-CN": "Google 的修复治标不治本。30-50% 的上下文浪费不是加载问题，而是「为什么要带这么多？」的问题。"
+    }
+  },
+  {
     "id": "2029357817812205952",
     "date": "2026-03-05",
     "author": "@Teknium",
@@ -457,6 +485,34 @@
     "js_take": {
       "en-US": "Don't feel bad for the AI. Feel bad for users who order off a menu with no prices and get shocked when the bill arrives. Nobody tells them a \"simple ask\" just burned a dollar in compute.",
       "zh-CN": "别同情AI。同情那些在没有标价的菜单上点餐、看到账单时目瞪口呆的用户吧。没人告诉他们，一个「简单的请求」刚刚烧掉了一美元的算力成本。"
+    }
+  },
+  {
+    "id": "2029397317862982031",
+    "date": "2026-03-05",
+    "author": "@aigclink",
+    "author_url": "https://x.com/aigclink",
+    "tweet_url": "https://x.com/aigclink/status/2029397317862982031",
+    "title": {
+      "en-US": "Paperclip is an entire AI company, zero human. OpenClaw as employee.",
+      "zh-CN": "把OpenClaw当作一个员工，Paperclip则是一整个AI公司——零人类运营，AI自主完成方案、组队、执行。"
+    },
+    "summary": {
+      "en-US": "零人类公司与Agent协作",
+      "zh-CN": "\"零人类公司\"听起来很酷，但最大的瓶颈从来不是执行——是判断什么时候该停。AI不会喊累，不会质疑方向，这恰恰是最大的风险。"
+    },
+    "relevance": "零人类公司与Agent协作",
+    "score": 0.71,
+    "engagement": {
+      "likes": 225,
+      "replies": 11,
+      "retweets": 56
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-05T13:04:46.144915+00:00",
+    "js_take": {
+      "en-US": "AI doesn't burn out. That's not a feature—it's a blind spot. Zero-human teams need owners who can kill their own momentum.",
+      "zh-CN": "AI 不会 burnout。这不是什么优势，而是盲点。纯 AI 团队需要有人能踩住刹车。"
     }
   },
   {
