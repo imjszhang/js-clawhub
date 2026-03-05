@@ -89,6 +89,31 @@
             </p>
         </section>
 
+        <!-- Filter Toolbar -->
+        <section id="filter-toolbar" class="mb-8 hidden">
+            <input id="blog-search" type="text" class="brutal-search mb-4" placeholder="搜索文章..." data-i18n-placeholder="blog.searchPlaceholder">
+
+            <div id="tag-filters" class="flex flex-wrap gap-2 mb-4"></div>
+
+            <div class="flex items-center justify-between">
+                <div class="flex items-center gap-3">
+                    <select id="sort-select" class="brutal-select">
+                        <option value="newest" data-i18n="blog.sortNewest">最新优先</option>
+                        <option value="oldest" data-i18n="blog.sortOldest">最早优先</option>
+                    </select>
+                    <div class="flex border-3 border-black">
+                        <button id="view-card" class="brutal-icon-btn active" title="Cards" aria-label="Card view">
+                            <svg width="18" height="18" viewBox="0 0 18 18" fill="currentColor"><rect x="0" y="0" width="8" height="8"/><rect x="10" y="0" width="8" height="8"/><rect x="0" y="10" width="8" height="8"/><rect x="10" y="10" width="8" height="8"/></svg>
+                        </button>
+                        <button id="view-list" class="brutal-icon-btn" title="List" aria-label="List view">
+                            <svg width="18" height="18" viewBox="0 0 18 18" fill="currentColor"><rect x="0" y="1" width="18" height="3"/><rect x="0" y="7.5" width="18" height="3"/><rect x="0" y="14" width="18" height="3"/></svg>
+                        </button>
+                    </div>
+                </div>
+                <span id="results-count" class="font-mono text-xs text-black/60"></span>
+            </div>
+        </section>
+
         <!-- Posts Grid -->
         <div id="posts-container" class="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div id="loading-state" class="col-span-full text-center py-12">
