@@ -1,0 +1,23 @@
+{
+  "practice-diary": {
+    "path": "../../fork/openclaw/docs/prism/outputs/practice-diary",
+    "filePattern": "2026-*.md",
+    "slugPrefix": "practice-diary",
+    "defaultTags": ["OpenClaw", "Practice Diary"],
+    "defaultAuthor": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": { "zh-CN": "OpenClaw 实践日记", "en-US": "OpenClaw Practice Diary" }
+    },
+    "transform": {
+      "stripFrontmatter": true,
+      "stripInternalLinks": true,
+      "stripGroupsFooter": true,
+      "cleanSubtitleLine": true
+    }
+  }
+}

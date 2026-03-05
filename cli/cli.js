@@ -24,6 +24,10 @@
  *   projects [--category messaging] [--tag official]
  *   skills   [--category productivity]
  *   blog     [--tag Guide] [--latest N]
+ *   blog-import <sourceId> [--file <name>] [--all] [--dry-run] [--force] [--translate]
+ *   blog-sources
+ *   blog-translate <slug> [--force] [--dry-run]
+ *   blog-translate --all [--dry-run]
  *
  * All output is JSON to stdout. Logs go to stderr.
  */
@@ -37,6 +41,7 @@ import { build } from './lib/builder.js';
 import { gitStatus, gitAdd, gitAddAll, gitCommit, gitPush, gitDiffStat, generateCommitMessage } from './lib/git.js';
 import { toJson, toStderr } from './lib/formatters.js';
 import { pull } from './lib/puller.js';
+import { blogImport, blogSources, blogTranslate, blogTranslateUntranslated } from './lib/blog-importer.js';
 
 // ── Arg parser ───────────────────────────────────────────────────────
 
@@ -476,6 +481,83 @@ function cmdPull(flags) {
     }
 }
 
+// ── Blog Import commands ─────────────────────────────────────────────
+
+async function cmdBlogImport(positional, flags) {
+    const sourceId = positional[0];
+    if (!sourceId) {
+        toStderr('Error: blog-import requires a source ID.');
+        toStderr('Usage: clawhub blog-import <sourceId> [--file <name>] [--all] [--dry-run] [--force] [--translate]');
+        toStderr('Run "clawhub blog-sources" to list available sources.');
+        process.exit(1);
+    }
+
+    try {
+        const dryRun = !!flags['dry-run'];
+        const force = !!flags.force;
+
+        const importResult = blogImport(sourceId, {
+            file: flags.file || undefined,
+            all: !!flags.all,
+            dryRun,
+            force,
+        });
+
+        let translateResult = null;
+        if (flags.translate && !dryRun) {
+            const importedSlugs = importResult.results
+                .filter(r => r.status === 'imported' || r.status === 'reimported')
+                .map(r => r.slug);
+
+            if (importedSlugs.length > 0) {
+                translateResult = await blogTranslate(importedSlugs, { dryRun, force });
+            } else {
+                toStderr('\n  No new imports to translate.');
+            }
+        }
+
+        toJson({ ...importResult, translate: translateResult });
+    } catch (err) {
+        toStderr(`Error: ${err.message}`);
+        process.exit(1);
+    }
+}
+
+function cmdBlogSources() {
+    try {
+        toJson(blogSources());
+    } catch (err) {
+        toStderr(`Error: ${err.message}`);
+        process.exit(1);
+    }
+}
+
+async function cmdBlogTranslate(positional, flags) {
+    try {
+        const dryRun = !!flags['dry-run'];
+        const force = !!flags.force;
+
+        let result;
+        if (flags.all) {
+            result = await blogTranslateUntranslated({ dryRun, force });
+        } else {
+            const slugs = positional;
+            if (!slugs.length) {
+                toStderr('Error: blog-translate requires a slug (or multiple slugs) or --all.');
+                toStderr('Usage: clawhub blog-translate <slug> [<slug2> ...] [--force] [--dry-run]');
+                toStderr('       clawhub blog-translate --all [--dry-run]');
+                process.exit(1);
+            }
+            result = await blogTranslate(slugs, { dryRun, force });
+        }
+
+        toJson(result);
+    } catch (err) {
+        toStderr(`Error: ${err.message}`);
+        process.exit(1);
+    }
+}
+
 // ── Usage ────────────────────────────────────────────────────────────
 
 function printUsage() {
@@ -565,6 +647,20 @@ Commands:
     --tag <tag>        Filter by tag
     --latest <N>       Only N most recent posts
 
+  blog-import <sourceId>  Import posts from an external source
+    --file <name>      Import a single file only
+    --all              Import all files (including already-imported)
+    --dry-run          Preview what would be imported
+    --force            Overwrite already-imported files
+    --translate        Auto-translate imported posts to English via AI
+
+  blog-translate <slug> [<slug2> ...]  Translate blog post(s) to English via AI
+    --all              Translate all untranslated posts
+    --force            Overwrite existing translations
+    --dry-run          Preview what would be translated
+
+  blog-sources         List all registered blog content sources and import status
+
 Examples:
   clawhub search "memory"
   clawhub pulse --days 1 --min-score 0.8
@@ -588,7 +684,16 @@ Examples:
   clawhub stats
   clawhub projects --category messaging
   clawhub skills --category productivity
-  clawhub blog --latest 3`);
+  clawhub blog --latest 3
+  clawhub blog-sources
+  clawhub blog-import practice-diary --dry-run
+  clawhub blog-import practice-diary --all
+  clawhub blog-import practice-diary --file 2026-03-04.md
+  clawhub blog-import practice-diary --all --force
+  clawhub blog-import practice-diary --all --translate
+  clawhub blog-translate practice-diary-2026-03-04
+  clawhub blog-translate --all
+  clawhub blog-translate --all --dry-run`);
 }
 
 // ── Main ─────────────────────────────────────────────────────────────
@@ -647,6 +752,15 @@ async function main() {
             break;
         case 'pull':
             cmdPull(flags);
+            break;
+        case 'blog-import':
+            await cmdBlogImport(positional, flags);
+            break;
+        case 'blog-sources':
+            cmdBlogSources();
+            break;
+        case 'blog-translate':
+            await cmdBlogTranslate(positional, flags);
             break;
         case 'help':
         case '--help':

@@ -159,6 +159,114 @@ body {
 }
 
 /* ========================================
+   TAG FILTER (active state)
+   ======================================== */
+
+.brutal-tag-filter {
+    background: #FFFFFF;
+    color: #000000;
+    display: inline-block;
+    padding: 4px 12px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: 2px solid #000000;
+    cursor: pointer;
+    transition: all 0.1s;
+}
+
+.brutal-tag-filter:hover {
+    background: #000000;
+    color: #FCD228;
+}
+
+.brutal-tag-filter.active {
+    background: #000000;
+    color: #FCD228;
+}
+
+/* ========================================
+   SELECT DROPDOWN
+   ======================================== */
+
+.brutal-select {
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    box-shadow: 4px 4px 0px 0px #000000;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 8px 32px 8px 12px;
+    text-transform: uppercase;
+    outline: none;
+    cursor: pointer;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%23000'%3E%3Cpath d='M2 4l4 4 4-4'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    transition: all 0.1s;
+}
+
+.brutal-select:focus {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0px 0px #000000;
+}
+
+/* ========================================
+   ICON BUTTONS (view toggle)
+   ======================================== */
+
+.brutal-icon-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    background: #FFFFFF;
+    color: #000000;
+    cursor: pointer;
+    border: none;
+    transition: all 0.1s;
+}
+
+.brutal-icon-btn + .brutal-icon-btn {
+    border-left: 3px solid #000000;
+}
+
+.brutal-icon-btn:hover,
+.brutal-icon-btn.active {
+    background: #000000;
+    color: #FCD228;
+}
+
+/* ========================================
+   LIST VIEW ITEM
+   ======================================== */
+
+.brutal-list-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 16px;
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    box-shadow: 4px 4px 0px 0px #000000;
+    text-decoration: none;
+    color: #000000;
+    transition: all 0.2s ease-in-out;
+}
+
+.brutal-list-item:hover {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0px 0px #000000;
+}
+
+.brutal-list-item + .brutal-list-item {
+    margin-top: 8px;
+}
+
+/* ========================================
    TERMINAL CODE BLOCK
    ======================================== */
 

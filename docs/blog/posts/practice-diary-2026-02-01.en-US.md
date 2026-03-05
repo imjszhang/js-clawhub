@@ -1,0 +1,13 @@
+# Generate a Standard Skill with a Single Command: From Directory Structure to Packaging and Publishing
+
+> Day 2 · 2026-02-01
+
+This command is quite smart; it directly generated the standard directory structure: `SKILL.md`, `scripts/`, and `references/`.
+
+When writing the Frontmatter for `SKILL.md`, I specifically added the `metadata.openclaw` field to declare that it depends on Python and a specific environment variable, `LOCAL_API_KEY`. Here's a crucial detail: the `name` must be lowercase and use hyphens, otherwise the subsequent packaging script will throw an error.
+
+After finishing the content, I tried running the packaging command:
+
+```bash
+python3 skills/skill-creator/scripts/package_skill.py skills/my-local-search ./dist
+```
