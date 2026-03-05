@@ -220,12 +220,12 @@ const Blog = {
             posts.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
         }
 
-        this.renderPosts(posts);
+        this.renderPosts(posts, this.state.sortOrder);
         this.updateResultsCount(posts.length, this.state.allPosts.length);
         this.syncURL();
     },
 
-    renderPosts(posts) {
+    renderPosts(posts, sortOrder) {
         const container = document.getElementById('posts-container');
         const emptyState = document.getElementById('empty-state');
         if (!container) return;
@@ -239,7 +239,7 @@ const Blog = {
 
         if (this.state.viewMode === 'list') {
             container.className = 'flex flex-col gap-0';
-            const { seriesGroups, standalone } = this.groupBySeries(posts);
+            const { seriesGroups, standalone } = this.groupBySeries(posts, sortOrder);
             let html = '';
             for (const group of seriesGroups) {
                 html += this.renderSeriesListSection(group);
@@ -248,7 +248,7 @@ const Blog = {
             container.innerHTML = html;
         } else {
             container.className = 'grid grid-cols-1 md:grid-cols-2 gap-6';
-            const { seriesGroups, standalone } = this.groupBySeries(posts);
+            const { seriesGroups, standalone } = this.groupBySeries(posts, sortOrder);
             let html = '';
             for (const group of seriesGroups) {
                 html += this.renderSeriesSection(group);
@@ -318,7 +318,7 @@ const Blog = {
         `;
     },
 
-    groupBySeries(posts) {
+    groupBySeries(posts, sortOrder) {
         const seriesMap = new Map();
         const standalone = [];
 
@@ -333,9 +333,14 @@ const Blog = {
             }
         }
 
+        const desc = sortOrder === 'newest';
         const seriesGroups = [];
         for (const group of seriesMap.values()) {
-            group.posts.sort((a, b) => (a.series?.order || 0) - (b.series?.order || 0));
+            group.posts.sort((a, b) => {
+                const oa = a.series?.order || 0;
+                const ob = b.series?.order || 0;
+                return desc ? ob - oa : oa - ob;
+            });
             seriesGroups.push(group);
         }
         return { seriesGroups, standalone };
