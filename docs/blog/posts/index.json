@@ -62,13 +62,13 @@
   {
     "slug": "practice-diary-2026-02-27",
     "title": {
-      "zh-CN": "",
-      "en-US": "From 'Step-by-Step Approval' to 'Full Trust': Regaining Control After a Gateway Restart"
+      "zh-CN": "从\"步步请示\"到\"完全信任\"：网关重启后重夺掌控感",
+      "en-US": "From 'Asking for Permission at Every Step' to 'Full Trust': Regaining Control After a Gateway Restart"
     },
     "date": "2026-02-27",
     "summary": {
-      "zh-CN": "改完顺手跑了个 `pnpm openclaw gateway restart`。重启回来再试，那些之前卡住的 `curl | bash` 组合拳终于能一气呵成地执行了。这种从“步步请示”到“完全信任”的转变，虽然只在本地生效，但那种掌控感瞬间回来了。不过我也清楚，`full` 模式等同于裸奔，这配置...",
-      "en-US": "After tweaking the config, I casually ran `pnpm openclaw gateway restart`. Once it was back up, those previously stuck `curl | bash` pipelines finally executed smoothly in one go. That shift from constant 'permission requests' to 'full trust' might only apply locally, but the sense of control returned instantly. That said, I'm well aware that 'full' mode is basically running naked—this config is..."
+      "zh-CN": "改完配置顺手重启了网关，那些之前卡住的 curl | bash 组合拳终于能一气呵成执行了。这种从\"步步请示\"到\"完全信任\"的转变让掌控感瞬间回来，但 full 模式等同于裸奔，绝不敢带到生产环境。",
+      "en-US": "After tweaking the config and restarting the gateway, those previously stuck 'curl | bash' one-liners finally ran smoothly. This shift from constant hand-holding to full trust instantly restored my sense of control. That said, running in 'full' mode is basically leaving the doors wide open, so there's no way I'd dare deploy that to production."
     },
     "cover": "",
     "tags": [
@@ -345,13 +345,13 @@
   {
     "slug": "practice-diary-2026-02-08",
     "title": {
-      "zh-CN": "",
-      "en-US": "A Hidden Trap: Escaping Backslashes in JSON Paths"
+      "zh-CN": "路径反斜杠的坑与企微回调的\"生死 5 秒\"",
+      "en-US": "The Backslash Trap in Paths and WeCom's 'Critical 5 Seconds' for Callbacks"
     },
     "date": "2026-02-08",
     "summary": {
-      "zh-CN": "这里有个坑：路径里的反斜杠必须双写（`\\\\`），不然 JSON 解析会报错。我一开始直接复制了资源管理器里的路径，结果窗口重载后终端还是起不来，查了半天才发现是转义字符的问题。",
-      "en-US": "Here's a gotcha: backslashes in paths must be double-escaped (`\\`), or JSON parsing will fail. I initially copied the path directly from File Explorer, and the terminal wouldn't launch even after reloading the window. It took a while to realize the issue was caused by unescaped characters."
+      "zh-CN": "路径里的反斜杠必须双写才不会导致 JSON 解析报错。配好 Git Bash 终端后，接下来是重头戏：企微回调要求 5 秒内必须返回 HTTP 200，必须先 ACK 再异步处理，否则超时重试。",
+      "en-US": "You must double-escape backslashes in file paths to avoid JSON parsing errors. Once your Git Bash terminal is configured, here comes the real challenge: WeCom callbacks demand an HTTP 200 response within 5 seconds. You have to ACK immediately and handle the logic asynchronously, or you'll face timeout retries."
     },
     "cover": "",
     "tags": [
@@ -435,13 +435,13 @@
   {
     "slug": "practice-diary-2026-02-01",
     "title": {
-      "zh-CN": "",
-      "en-US": "Title"
+      "zh-CN": "用一条命令生成标准 Skill：从目录结构到打包发布",
+      "en-US": "Generate a Standard Skill with One Command: From Directory Structure to Packaging and Release"
     },
     "date": "2026-02-01",
     "summary": {
-      "zh-CN": "这个命令很智能，直接生成了标准的目录结构：`SKILL.md`、`scripts/` 和 `references/`。",
-      "en-US": "This command is smart enough to generate a standard directory structure right out of the box: `SKILL.md`, `scripts/`, and `references/`."
+      "zh-CN": "一条 openclaw 命令直接生成了标准目录结构：SKILL.md、scripts/ 和 references/。编写 Frontmatter 时 name 必须小写带连字符，否则打包脚本会报错。",
+      "en-US": "A single openclaw command instantly generates the standard directory structure, including SKILL.md, scripts/, and references/. When writing the Frontmatter, ensure the name is lowercase with hyphens; otherwise, the packaging script will throw an error."
     },
     "cover": "",
     "tags": [

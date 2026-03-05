@@ -541,14 +541,14 @@ async function cmdBlogTranslate(positional, flags) {
         if (flags.all) {
             result = await blogTranslateUntranslated({ dryRun, force });
         } else {
-            const slug = positional[0];
-            if (!slug) {
-                toStderr('Error: blog-translate requires a slug or --all.');
-                toStderr('Usage: clawhub blog-translate <slug> [--force] [--dry-run]');
+            const slugs = positional;
+            if (!slugs.length) {
+                toStderr('Error: blog-translate requires a slug (or multiple slugs) or --all.');
+                toStderr('Usage: clawhub blog-translate <slug> [<slug2> ...] [--force] [--dry-run]');
                 toStderr('       clawhub blog-translate --all [--dry-run]');
                 process.exit(1);
             }
-            result = await blogTranslate([slug], { dryRun, force });
+            result = await blogTranslate(slugs, { dryRun, force });
         }
 
         toJson(result);
@@ -654,7 +654,7 @@ Commands:
     --force            Overwrite already-imported files
     --translate        Auto-translate imported posts to English via AI
 
-  blog-translate <slug>  Translate a blog post to English via AI
+  blog-translate <slug> [<slug2> ...]  Translate blog post(s) to English via AI
     --all              Translate all untranslated posts
     --force            Overwrite existing translations
     --dry-run          Preview what would be translated
