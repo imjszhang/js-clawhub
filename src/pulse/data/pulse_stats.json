@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-05T05:06:17.698802+00:00",
+  "updated_at": "2026-03-05T06:04:35.625647+00:00",
   "this_week": {
-    "total_items": 87,
+    "total_items": 88,
     "avg_score": 0.77,
-    "unique_authors": 72,
+    "unique_authors": 73,
     "top_items": [
       {
         "id": "2029295335596527777",
@@ -773,6 +773,36 @@
         }
       },
       {
+        "id": "2029185241378636218",
+        "date": "2026-03-05",
+        "author": "@slash1sol",
+        "author_url": "https://x.com/slash1sol",
+        "tweet_url": "https://x.com/slash1sol/status/2029185241378636218",
+        "title": {
+          "en-US": "STOP WASTING TOKENS ON OPENCLAW - no workspace config = 3x spend",
+          "zh-CN": "吐槽没有正确配置OpenClaw工作空间导致token消耗翻3倍，分享优化指南。"
+        },
+        "summary": {
+          "en-US": "OpenClaw平台配置与开发者体验，直接相关",
+          "zh-CN": "人们在讨论「怎么省token」，但真正的成本不是token——是「没有系统思维」导致的重复劳动。省token是战术优化，建系统才是战略解法。"
+        },
+        "relevance": "OpenClaw平台配置与开发者体验，直接相关",
+        "score": 0.78,
+        "engagement": {
+          "likes": 127,
+          "retweets": 8,
+          "replies": 15,
+          "views": 10037,
+          "bookmarks": 191
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-05T06:04:10.734180+00:00",
+        "js_take": {
+          "en-US": "You saved $50 on tokens and lost 5 hours rewriting prompts from scratch. The real tax isn't OpenAI's bill—it's your 'start from zero' muscle memory.",
+          "zh-CN": "你省了50美元的token费用，却搭进去5小时从头重写提示词。真正的代价不是OpenAI的账单，而是你「从零开始」的肌肉记忆。"
+        }
+      },
+      {
         "id": "2028939891342733823",
         "date": "2026-03-04",
         "author": "@everestchris6",
@@ -1009,41 +1039,11 @@
           "en-US": "You built a cathedral to save tokens. Now debug it. Sometimes 'wasted' tokens are cheaper than your sanity.",
           "zh-CN": "为了省 token 搭了座大教堂，现在却要花时间去调试。有时候「浪费」点 token 反而比折腾更划算。"
         }
-      },
-      {
-        "id": "2028720329817006397",
-        "date": "2026-03-03",
-        "author": "@stuffyokodraws",
-        "author_url": "https://x.com/stuffyokodraws",
-        "tweet_url": "https://x.com/stuffyokodraws/status/2028720329817006397",
-        "title": {
-          "en-US": "OpenClaw integration problem, API keys hell",
-          "zh-CN": "以为要用 OpenClaw 自动化和编程，结果 10 小时后只是在复制粘贴 API 密钥、创建第 11 个账户——集成问题没解决"
-        },
-        "summary": {
-          "en-US": "OpenClaw 集成与配置复杂性",
-          "zh-CN": "「集成问题」是基础设施缺失的信号——工具链成熟度比单个工具的能力更重要，但这在选型时往往被忽略。"
-        },
-        "relevance": "OpenClaw 集成与配置复杂性",
-        "score": 0.78,
-        "engagement": {
-          "likes": 148,
-          "retweets": 2,
-          "replies": 69,
-          "views": 14295,
-          "bookmarks": 40
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T13:06:57.128271+00:00",
-        "js_take": {
-          "en-US": "You picked OpenClaw for features, not for how it plays with others. That's not an integration problem—it's buying the engine without checking if it fits your chassis.",
-          "zh-CN": "选 OpenClaw 是看中了功能，却没考虑兼容性。这不是集成问题——是买了引擎才发现装不进车架。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 151
+    "unique_authors": 152
   }
 }

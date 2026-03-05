@@ -172,6 +172,36 @@
     }
   },
   {
+    "id": "2029185241378636218",
+    "date": "2026-03-05",
+    "author": "@slash1sol",
+    "author_url": "https://x.com/slash1sol",
+    "tweet_url": "https://x.com/slash1sol/status/2029185241378636218",
+    "title": {
+      "en-US": "STOP WASTING TOKENS ON OPENCLAW - no workspace config = 3x spend",
+      "zh-CN": "吐槽没有正确配置OpenClaw工作空间导致token消耗翻3倍，分享优化指南。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台配置与开发者体验，直接相关",
+      "zh-CN": "人们在讨论「怎么省token」，但真正的成本不是token——是「没有系统思维」导致的重复劳动。省token是战术优化，建系统才是战略解法。"
+    },
+    "relevance": "OpenClaw平台配置与开发者体验，直接相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 127,
+      "retweets": 8,
+      "replies": 15,
+      "views": 10037,
+      "bookmarks": 191
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-05T06:04:10.734180+00:00",
+    "js_take": {
+      "en-US": "You saved $50 on tokens and lost 5 hours rewriting prompts from scratch. The real tax isn't OpenAI's bill—it's your 'start from zero' muscle memory.",
+      "zh-CN": "你省了50美元的token费用，却搭进去5小时从头重写提示词。真正的代价不是OpenAI的账单，而是你「从零开始」的肌肉记忆。"
+    }
+  },
+  {
     "id": "2029311209921565036",
     "date": "2026-03-05",
     "author": "@steipete",
@@ -5475,30 +5505,5 @@
       "en-US": "/init is addition. 无为 (wú wéi) is subtraction. Less setup, more space.",
       "zh-CN": "/init 是加法，无为（wú wéi）是减法。少些配置，多些空间。"
     }
-  },
-  {
-    "id": "2026163648033419730",
-    "date": "2026-02-24",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2026163648033419730",
-    "title": {
-      "en-US": "New OpenClaw beta focuses on security and bugfixes",
-      "zh-CN": "新版 OpenClaw Beta 专注于安全和 Bug 修复"
-    },
-    "summary": {
-      "en-US": "OpenClaw、安全、无为而治",
-      "zh-CN": "高曝光(1.1万浏览)，OpenClaw安全更新，用「无为而治」评论安全边界的设计"
-    },
-    "relevance": "OpenClaw、安全、无为而治",
-    "score": 0.86,
-    "engagement": {
-      "likes": 369,
-      "replies": 55,
-      "retweets": 29,
-      "views": 11224
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-24T06:14:11.523832+00:00"
   }
 ]
