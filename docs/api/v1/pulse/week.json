@@ -260,6 +260,36 @@
     }
   },
   {
+    "id": "2029357817812205952",
+    "date": "2026-03-05",
+    "author": "@Teknium",
+    "author_url": "https://x.com/Teknium",
+    "tweet_url": "https://x.com/Teknium/status/2029357817812205952",
+    "title": {
+      "en-US": "Since launching just a week ago, we've pushed over 100 bug fixes, 40 feature requests... MCP support, home automation...",
+      "zh-CN": "Teknium 宣布 OpenClaw 上线一周已推送 100+ bug 修复、40+ 功能请求、MCP 支持、智能家居集成等重大更新"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent 平台 / MCP",
+      "zh-CN": "一周100个修复是技术执行力的体现，但更值得追问的是：为什么是这一周爆发而不是上周？真正的节奏不是加速，是在正确的时机做正确的事——顺势而为比拼命更有效。"
+    },
+    "relevance": "OpenClaw / Agent 平台 / MCP",
+    "score": 0.71,
+    "engagement": {
+      "likes": 141,
+      "replies": 20,
+      "retweets": 16,
+      "views": 9711,
+      "bookmarks": 27
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-05T03:09:13.074467+00:00",
+    "js_take": {
+      "en-US": "100 fixes in a week is noise. The signal: what made this week different? Real momentum comes from timing, not sweat.",
+      "zh-CN": "一周修100个bug只是噪音。关键信号是：这周到底哪不一样了？真正的势能来自时机把控，而非埋头蛮干。"
+    }
+  },
+  {
     "id": "2028847121189986576",
     "date": "2026-03-04",
     "author": "@tpschmidt_",
