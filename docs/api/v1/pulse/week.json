@@ -310,6 +310,34 @@
     }
   },
   {
+    "id": "2029678796824318147",
+    "date": "2026-03-06",
+    "author": "@msfeldstein",
+    "author_url": "https://x.com/msfeldstein",
+    "tweet_url": "https://x.com/msfeldstein/status/2029678796824318147",
+    "title": {
+      "en-US": "I've got openclaw managing my self hosted media center",
+      "zh-CN": "用 OpenClaw 管理自托管媒体中心，可以通过简单对话让 Agent 自动处理媒体文件整理。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 实际应用场景，展示 Agent 如何接管个人基础设施",
+      "zh-CN": "这条推文展示的是「人对技术的驾驭」，评论区都在聊功能本身，却没人追问：当工具变得越来越智能，人该做什么、工具该做什么？边界模糊了。更深层的问题是——驾驭技术的最高境界不是控制它，而是让它自然生长。"
+    },
+    "relevance": "OpenClaw 实际应用场景，展示 Agent 如何接管个人基础设施",
+    "score": 0.78,
+    "engagement": {
+      "likes": 1299,
+      "retweets": 22,
+      "replies": 60
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T13:07:07.605164+00:00",
+    "js_take": {
+      "en-US": "Everyone's showing off what their agent runs. Nobody's showing what they shipped with the time it saved. That's the difference between demos and builders.",
+      "zh-CN": "人人都在晒自家Agent能跑什么，却无人展示用省下的时间交付了什么成果。这就是演示者与实干者的分水岭。"
+    }
+  },
+  {
     "id": "2029513227948970445",
     "date": "2026-03-06",
     "author": "@JulianGoldieSEO",

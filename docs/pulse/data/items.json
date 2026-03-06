@@ -310,6 +310,34 @@
     }
   },
   {
+    "id": "2029678796824318147",
+    "date": "2026-03-06",
+    "author": "@msfeldstein",
+    "author_url": "https://x.com/msfeldstein",
+    "tweet_url": "https://x.com/msfeldstein/status/2029678796824318147",
+    "title": {
+      "en-US": "I've got openclaw managing my self hosted media center",
+      "zh-CN": "用 OpenClaw 管理自托管媒体中心，可以通过简单对话让 Agent 自动处理媒体文件整理。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 实际应用场景，展示 Agent 如何接管个人基础设施",
+      "zh-CN": "这条推文展示的是「人对技术的驾驭」，评论区都在聊功能本身，却没人追问：当工具变得越来越智能，人该做什么、工具该做什么？边界模糊了。更深层的问题是——驾驭技术的最高境界不是控制它，而是让它自然生长。"
+    },
+    "relevance": "OpenClaw 实际应用场景，展示 Agent 如何接管个人基础设施",
+    "score": 0.78,
+    "engagement": {
+      "likes": 1299,
+      "retweets": 22,
+      "replies": 60
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T13:07:07.605164+00:00",
+    "js_take": {
+      "en-US": "Everyone's showing off what their agent runs. Nobody's showing what they shipped with the time it saved. That's the difference between demos and builders.",
+      "zh-CN": "人人都在晒自家Agent能跑什么，却无人展示用省下的时间交付了什么成果。这就是演示者与实干者的分水岭。"
+    }
+  },
+  {
     "id": "2029513227948970445",
     "date": "2026-03-06",
     "author": "@JulianGoldieSEO",
@@ -5493,35 +5521,6 @@
     "js_take": {
       "en-US": "You're hunting when you should be waiting. 无为 (wú wéi): the best tools are the ones you forget.",
       "zh-CN": "该等待的时候却在追逐。无为：最好的工具，是你忘记自己在用的工具。"
-    }
-  },
-  {
-    "id": "2026153033642672479",
-    "date": "2026-02-25",
-    "author": "@@Scobleizer",
-    "author_url": "https://x.com/Scobleizer",
-    "tweet_url": "https://x.com/Scobleizer/status/2026153033642672479",
-    "title": {
-      "en-US": "University researchers report on OpenClaw, worth paying attention",
-      "zh-CN": "大学研究人员发布 OpenClaw 报告，值得关注"
-    },
-    "summary": {
-      "en-US": "OpenClaw、研究、安全、无为",
-      "zh-CN": "OpenClaw、研究、安全、无为"
-    },
-    "relevance": "OpenClaw、研究、安全、无为",
-    "score": 0.88,
-    "engagement": {
-      "likes": 417,
-      "replies": 20,
-      "retweets": 46,
-      "views": 55601
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-24T18:12:25.792713+00:00",
-    "js_take": {
-      "en-US": "Research isn't restriction—it's edge-setting. 无为而治 (wú wéi ér zhì): set the boundary, then let go.",
-      "zh-CN": "研究不是限制——是设定边界。无为而治：设定边界，然后放手。"
     }
   }
 ]
