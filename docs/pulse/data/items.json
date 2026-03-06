@@ -86,6 +86,34 @@
     }
   },
   {
+    "id": "2029746632523403515",
+    "date": "2026-03-06",
+    "author": "@cathrynlavery",
+    "author_url": "https://x.com/cathrynlavery",
+    "tweet_url": "https://x.com/cathrynlavery/status/2029746632523403515",
+    "title": {
+      "en-US": "OpenClaw skill libraries add startup overhead due to upfront discovery",
+      "zh-CN": "使用OpenClaw时发现大型skill库会增加启动开销，因为skill发现是前置发生的——即使本次会话不会用到这些skill。"
+    },
+    "summary": {
+      "en-US": "直接讨论OpenClaw平台的技术细节，与JS的核心项目强相关",
+      "zh-CN": "把skill发现比作'月旦评'——汉末名士见面先互相品评头衔，浪费时间。其实最好的设计是让skill像空气一样存在，需要时才感知，不需要时完全透明。manifest是过渡方案，真正的解法是把'发现'变成'涌现'。"
+    },
+    "relevance": "直接讨论OpenClaw平台的技术细节，与JS的核心项目强相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 64,
+      "replies": 10,
+      "retweets": 2
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-06T08:05:03.512746+00:00",
+    "js_take": {
+      "en-US": "You patched the symptom. Skills shouldn't be catalogued upfront; they should surface when context demands. Manifests are training wheels.",
+      "zh-CN": "你修的是症状而非病因。技能不该预先罗列，而应在需要时自然浮现——清单只是训练轮。"
+    }
+  },
+  {
     "id": "2029246676339474841",
     "date": "2026-03-06",
     "author": "@ihtesham2005",
@@ -5497,35 +5525,6 @@
     "js_take": {
       "en-US": "Everyone wants full access until they don't. Where's your wall?",
       "zh-CN": "人人都想要完整权限，直到他们不再想要。你的墙在哪里？"
-    }
-  },
-  {
-    "id": "2025920587172909163",
-    "date": "2026-02-25",
-    "author": "@@Jiaxi_Cui",
-    "author_url": "https://x.com/Jiaxi_Cui",
-    "tweet_url": "https://x.com/Jiaxi_Cui/status/2025920587172909163",
-    "title": {
-      "en-US": "OpenClaw evolution: from skepticism to admiration",
-      "zh-CN": "OpenClaw 的进化：从怀疑到钦佩"
-    },
-    "summary": {
-      "en-US": "OpenClaw、势、迭代",
-      "zh-CN": "OpenClaw、势、迭代"
-    },
-    "relevance": "OpenClaw、势、迭代",
-    "score": 0.85,
-    "engagement": {
-      "likes": 730,
-      "replies": 39,
-      "retweets": 81,
-      "views": 111625
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-25T05:03:32.761639+00:00",
-    "js_take": {
-      "en-US": "Not code elegance—it's 势 (shì). OpenClaw isn't a product, it's flowing momentum.",
-      "zh-CN": "不是代码优雅——是势。OpenClaw 不是产品，是流动的势。"
     }
   }
 ]
