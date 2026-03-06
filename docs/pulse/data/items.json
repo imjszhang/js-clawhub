@@ -30,6 +30,62 @@
     }
   },
   {
+    "id": "2029761803769594232",
+    "date": "2026-03-06",
+    "author": "@levelsio",
+    "author_url": "https://x.com/levelsio",
+    "tweet_url": "https://x.com/levelsio/status/2029761803769594232",
+    "title": {
+      "en-US": "Ran OpenClaw for a month with 26 friends, made a self-improving game",
+      "zh-CN": "26人协作运行OpenClaw一月，打造自进化游戏"
+    },
+    "summary": {
+      "en-US": "OpenClaw 群体实验 + Agent 自主演化案例",
+      "zh-CN": "OpenClaw群体实验与Agent自主演化案例"
+    },
+    "relevance": "OpenClaw 群体实验 + Agent 自主演化案例",
+    "score": 0.87,
+    "engagement": {
+      "likes": 376,
+      "replies": 57,
+      "retweets": 8
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T06:06:36.360119+00:00",
+    "js_take": {
+      "en-US": "Everyone's dissecting the code. But 26 people shaping one agent? That's not a tech demo—it's a fight for whose instincts win. The real story isn't what it built. It's whose brain it ended up thinking like.",
+      "zh-CN": "所有人都在拆解代码分析技术。但26个人共同塑造一个agent？这不是技术演示——而是关于谁的直觉能胜出的博弈。真正的故事不是它造出了什么，而是它最终学会了像谁一样思考。"
+    }
+  },
+  {
+    "id": "2029752914382660090",
+    "date": "2026-03-06",
+    "author": "@ErickSky",
+    "author_url": "https://x.com/ErickSky",
+    "tweet_url": "https://x.com/ErickSky/status/2029752914382660090",
+    "title": {
+      "en-US": "Jordanian dev with GTX 1060 built Rust Agent OS that outperformed OpenClaw",
+      "zh-CN": "约旦开发者凭GTX 1060打造Rust Agent OS，性能超越OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw 对比讨论 + 技术路线之争",
+      "zh-CN": "OpenClaw技术对比与技术路线之争"
+    },
+    "relevance": "OpenClaw 对比讨论 + 技术路线之争",
+    "score": 0.86,
+    "engagement": {
+      "likes": 549,
+      "retweets": 36,
+      "replies": 11
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T06:06:36.360123+00:00",
+    "js_take": {
+      "en-US": "Arguing Rust vs OpenClaw misses the point. The real question: do you want to become the kind of builder who values raw precision, or the kind who ships fast and iterates? Your tool choice is your identity. Pick wisely.",
+      "zh-CN": "争论Rust还是OpenClaw其实没抓住重点。真正的问题在于：你想成为追求极致精确的builder，还是快速交付、持续迭代的builder？工具选择就是你的身份认同。慎重选择。"
+    }
+  },
+  {
     "id": "2029246676339474841",
     "date": "2026-03-06",
     "author": "@ihtesham2005",
@@ -309,6 +365,34 @@
     "js_take": {
       "en-US": "OpenClaw shrimp isn't 'AI help' for Xiaohongshu—it's eviction. Surface world still scrolls, but the inner world already replaced the human operator.",
       "zh-CN": "OpenClaw虾不是小红书的'AI助手'——是驱逐。表世界还在滑动屏幕，但里世界已经替换了人类操作员。"
+    }
+  },
+  {
+    "id": "2029779580702400824",
+    "date": "2026-03-06",
+    "author": "@Saboo_Shubham_",
+    "author_url": "https://x.com/Saboo_Shubham_",
+    "tweet_url": "https://x.com/Saboo_Shubham_/status/2029779580702400824",
+    "title": {
+      "en-US": "Cast OpenClaw agents as TV show characters (Monica, Dwight, etc.)",
+      "zh-CN": "作者不给 OpenClaw agent 写 prompt，而是像选角一样给它们赋予电视剧角色人格（Monica、Dwight 等）。"
+    },
+    "summary": {
+      "en-US": "OpenClaw + Agent 人格化设计",
+      "zh-CN": "用电视剧角色来设计agent人格是一种有趣的启发法，但这本质上是用已知标签限制未知可能——真正强大的agent应该超越任何单一角色原型，在与用户的交互中演化出独特的协作模式，而非被预设剧本框定。"
+    },
+    "relevance": "OpenClaw + Agent 人格化设计",
+    "score": 0.73,
+    "engagement": {
+      "likes": 30,
+      "retweets": 5,
+      "replies": 6
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-06T06:06:36.360126+00:00",
+    "js_take": {
+      "en-US": "Casting agents as TV characters is cute, but you're trapping them in someone else's script. The best agent doesn't play Monica—it becomes something new with you. Preset personas are shortcuts. Co-evolution is the real flex.",
+      "zh-CN": "把agent设定成电视剧角色固然有趣，但你其实是在用别人的剧本束缚它。最出色的agent不是在扮演Monica——而是和你一起进化出全新的形态。预设人设是捷径，共同成长才是真正的能力。"
     }
   },
   {
@@ -5443,93 +5527,6 @@
     "js_take": {
       "en-US": "Sales while you sleep. 无为而治 (wú wéi ér zhì): set the edge, let the flow bring clients.",
       "zh-CN": "睡着也能成交。无为而治 (wú wéi ér zhì)：设定边界，让流量自来。"
-    }
-  },
-  {
-    "id": "2026288144094757358",
-    "date": "2026-02-25",
-    "author": "@@meta_alchemist",
-    "author_url": "https://x.com/meta_alchemist",
-    "tweet_url": "https://x.com/meta_alchemist/status/2026288144094757358",
-    "title": {
-      "en-US": "Openclaw memory retrieval not distilled, SparkNet brings intelligence",
-      "zh-CN": "OpenClaw 记忆检索不够精炼，SparkNet 带来智能"
-    },
-    "summary": {
-      "en-US": "OpenClaw、记忆、道",
-      "zh-CN": "中等曝光(3.2k浏览)，讨论Agent记忆和上下文，用「道」评论记忆的本质"
-    },
-    "relevance": "OpenClaw、记忆、道",
-    "score": 0.82,
-    "engagement": {
-      "likes": 56,
-      "replies": 17,
-      "retweets": 6,
-      "views": 3273
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-24T16:14:23.234411+00:00",
-    "js_take": {
-      "en-US": "Memory isn't storage—it's flow. 道 (Dào): don't add smarts, remove the dam.",
-      "zh-CN": "记忆不是存储，而是流动。道：不是增加智能，而是拆除水坝。"
-    }
-  },
-  {
-    "id": "2026325609190748514",
-    "date": "2026-02-25",
-    "author": "@@tibo_maker",
-    "author_url": "https://x.com/tibo_maker",
-    "tweet_url": "https://x.com/tibo_maker/status/2026325609190748514",
-    "title": {
-      "en-US": "OpenClaw burned $40 in 10 seconds",
-      "zh-CN": "OpenClaw 10 秒烧掉 40 美元"
-    },
-    "summary": {
-      "en-US": "OpenClaw、成本、建系统",
-      "zh-CN": "高互动(118回复)，真实成本教训，用「建系统」评论成本控制"
-    },
-    "relevance": "OpenClaw、成本、建系统",
-    "score": 0.82,
-    "engagement": {
-      "likes": 184,
-      "replies": 118,
-      "retweets": 1,
-      "views": 13976
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-24T18:12:25.792724+00:00",
-    "js_take": {
-      "en-US": "$40 isn't cost—it's tuition. Civilization players know: wonders burn cash, systems compound.",
-      "zh-CN": "40 美元不是成本——是学费。Civilization 玩家懂：奇观烧钱，系统复利。"
-    }
-  },
-  {
-    "id": "2026383178290569539",
-    "date": "2026-02-25",
-    "author": "@@ashen_one",
-    "author_url": "https://x.com/ashen_one",
-    "tweet_url": "https://x.com/ashen_one/status/2026383178290569539",
-    "title": {
-      "en-US": "Everyone's OpenClaw is amazing, mine is stupid",
-      "zh-CN": "别人的OpenClaw都很厉害，我的却很蠢"
-    },
-    "summary": {
-      "en-US": "OpenClaw、比较焦虑、无为",
-      "zh-CN": "中等曝光(1.5万浏览)，表达OpenClaw使用焦虑，用「无为」评论比较心态"
-    },
-    "relevance": "OpenClaw、比较焦虑、无为",
-    "score": 0.82,
-    "engagement": {
-      "likes": 224,
-      "replies": 23,
-      "retweets": 13,
-      "views": 15819
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-25T03:04:54.183934+00:00",
-    "js_take": {
-      "en-US": "Your agent isn't dumb—you're just comparing. 无为 (wú wéi): the best tools are the ones you forget.",
-      "zh-CN": "你的 Agent 不笨——是你一直在比较。无为：最好的工具，是你忘了自己在用的工具。"
     }
   }
 ]
