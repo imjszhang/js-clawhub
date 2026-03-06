@@ -6,7 +6,7 @@
  * and returns structured results.
  */
 
-import { cpSync, mkdirSync, rmSync, writeFileSync, readFileSync, existsSync, readdirSync } from 'fs';
+import { cpSync, mkdirSync, rmSync, writeFileSync, readFileSync, existsSync, readdirSync, unlinkSync } from 'fs';
 import { join, resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { toStderr } from './formatters.js';
@@ -102,6 +102,7 @@ function validateArrayField(arr, fieldName, filePath, warnings) {
     if (!Array.isArray(arr)) return;
     arr.forEach((item, idx) => {
         if (item && typeof item === 'object' && fieldName in item) {
+            if (filePath === 'blog/posts/index.json' && item.series) return;
             validateBilingualField(item[fieldName], `[${idx}].${fieldName}`, filePath, warnings);
         }
     });
@@ -154,6 +155,22 @@ function validateI18n() {
     }
 
     return warnings;
+}
+
+// ── Blog import artifacts cleanup ────────────────────────────────────
+
+const BLOG_IMPORT_ARTIFACTS = [
+    'blog/sources.json',
+    'blog/import-manifest.json',
+];
+
+function cleanBlogImportArtifacts() {
+    for (const rel of BLOG_IMPORT_ARTIFACTS) {
+        const fullPath = join(DOCS, rel);
+        if (existsSync(fullPath)) {
+            unlinkSync(fullPath);
+        }
+    }
 }
 
 // ── Pulse data sanitization ──────────────────────────────────────────
@@ -315,6 +332,7 @@ export function build(options = {}) {
             mkdirSync(DOCS, { recursive: true });
         }
         cpSync(SRC, DOCS, { recursive: true });
+        cleanBlogImportArtifacts();
         filesCopied = countFiles(DOCS);
     } else {
         toStderr('[2/7] Copying src/ → docs/ ... (skipped: dry-run)');
