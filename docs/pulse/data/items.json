@@ -86,6 +86,34 @@
     }
   },
   {
+    "id": "2030030220212982187",
+    "date": "2026-03-07",
+    "author": "@cgtwts",
+    "author_url": "https://x.com/cgtwts",
+    "tweet_url": "https://x.com/cgtwts/status/2030030220212982187",
+    "title": {
+      "en-US": "Claude dropped their own OpenClaw - automated tasks while away.",
+      "zh-CN": "Claude 发布了类似 OpenClaw 的功能，让用户可以创建自动化任务让 agent 在离线时运行。"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent 自动化 / 产品竞争",
+      "zh-CN": "这条推文（和评论区）都在讨论'谁抄了谁''哪个更好'，但真正的信号是：当大厂开始跟进某个功能，说明这个市场验证已经完成了。OpenClaw 的价值不是'先发布'，而是它验证了一件事——用户真的想要'离线也能运行的 agent'。Claude 加入不是在结束竞争，是在扩大这个品类的认知。对小团队来说，这是最好的消息：教育市场的成本有人替你付了。"
+    },
+    "relevance": "OpenClaw / Agent 自动化 / 产品竞争",
+    "score": 0.7,
+    "engagement": {
+      "likes": 54,
+      "retweets": 1,
+      "replies": 6
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T22:03:44.350715+00:00",
+    "js_take": {
+      "en-US": "You're focused on who copied who. The real signal: when big players follow, market validation is done. The hard part—convincing users this matters—is now free marketing for everyone in the space.",
+      "zh-CN": "你还在纠结谁抄了谁。真正的信号是：当大玩家跟进，市场验证就已经完成。最困难的事——说服用户这事很重要——现在成了全行业的免费营销。"
+    }
+  },
+  {
     "id": "2029609170765586728",
     "date": "2026-03-06",
     "author": "@cgtwts",
@@ -5526,29 +5554,5 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-25T17:04:04.071687+00:00"
-  },
-  {
-    "id": "2026722616246198750",
-    "date": "2026-02-26",
-    "author": "@everestchris6",
-    "author_url": "https://x.com/everestchris6",
-    "tweet_url": "https://x.com/everestchris6/status/2026722616246198750",
-    "title": {
-      "en-US": "My OpenClaw bot runs a full website sales business 24/7 on autopilot",
-      "zh-CN": "Chris 分享他的 OpenClaw bot 全天候自动运营网站销售业务的案例，包括寻找客户、建站、发邮件全流程自动化。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 商业应用、Agent 自动化、无人值守系统",
-      "zh-CN": "典型的'建系统而非造奇观'案例。评论区对这种自动化很感兴趣，JS 可以用道家'无为而治'来升华——最好的系统是不被感知的系统。"
-    },
-    "relevance": "OpenClaw 商业应用、Agent 自动化、无人值守系统",
-    "score": 0.72,
-    "engagement": {
-      "likes": 119,
-      "replies": 94,
-      "retweets": 8
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-25T20:01:58.565786+00:00"
   }
 ]
