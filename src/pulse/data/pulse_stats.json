@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-06T15:06:09.611425+00:00",
+  "updated_at": "2026-03-06T17:03:41.090004+00:00",
   "this_week": {
-    "total_items": 120,
+    "total_items": 122,
     "avg_score": 0.77,
-    "unique_authors": 95,
+    "unique_authors": 97,
     "top_items": [
       {
         "id": "2029295335596527777",
@@ -513,6 +513,35 @@
         }
       },
       {
+        "id": "2029712341449986378",
+        "date": "2026-03-07",
+        "author": "@altryne",
+        "author_url": "https://x.com/altryne",
+        "tweet_url": "https://x.com/altryne/status/2029712341449986378",
+        "title": {
+          "en-US": "GitHub stopped counting OpenClaw issues at 5K+",
+          "zh-CN": "OpenClaw的GitHub issue数量太多，GitHub干脆不数了，直接显示\"5K+\""
+        },
+        "summary": {
+          "en-US": "OpenClaw平台热度，开发者生态",
+          "zh-CN": "做纠正：人们以为爆红靠营销，但真正的产品增长是\"被需要\"的自然结果——不是你在追用户，是用户在追你。"
+        },
+        "relevance": "OpenClaw平台热度，开发者生态",
+        "score": 0.82,
+        "engagement": {
+          "likes": 702,
+          "replies": 17,
+          "retweets": 7,
+          "views": 47454
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-06T17:03:29.492546+00:00",
+        "js_take": {
+          "en-US": "GitHub's counter didn't break from bugs. It broke because OpenClaw never chased growth—it just got chased. The best products don't scale; they get pulled.",
+          "zh-CN": "GitHub计数器崩掉不是因为bug，是因为OpenClaw从不追增长——而是被增长追着跑。最好的产品不是「扩张」出来的，是「被拉」过去的。"
+        }
+      },
+      {
         "id": "2029746632523403515",
         "date": "2026-03-06",
         "author": "@cathrynlavery",
@@ -996,39 +1025,11 @@
           "en-US": "Arguing over MCP vs Skills is like arguing 4G vs 5G. Three years from now, agents won't care—and neither will users. The plumbing disappears. Stop debating pipes, start building houses.",
           "zh-CN": "争论 MCP 还是 Skills，就像当年争论 4G 还是 5G。三年后，Agent 不会在意，用户更不会。 plumbing 终将隐形。别争管道了，开始造房子吧。"
         }
-      },
-      {
-        "id": "2029631180312563734",
-        "date": "2026-03-06",
-        "author": "@VadimStrizheus",
-        "author_url": "https://x.com/VadimStrizheus",
-        "tweet_url": "https://x.com/VadimStrizheus/status/2029631180312563734",
-        "title": {
-          "en-US": "Paste this exact structure for your OpenClaw...",
-          "zh-CN": "分享OpenClaw的推荐配置结构"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台配置，直接相关",
-          "zh-CN": "大家都在追求「完美配置」，但真正的效率来自「够用就停」——过度优化本身就是一种熵增。"
-        },
-        "relevance": "OpenClaw平台配置，直接相关",
-        "score": 0.78,
-        "engagement": {
-          "likes": 204,
-          "replies": 10,
-          "retweets": 10
-        },
-        "comment_type": "provoke",
-        "synced_at": "2026-03-06T02:09:14.862961+00:00",
-        "js_take": {
-          "en-US": "Copy-pasting this config is like wearing someone else's glasses. Real efficiency isn't in the file—it's in the 200 failed attempts before you knew what each line actually does.",
-          "zh-CN": "照搬这份配置，就像戴别人的眼镜。真正的效率不在文件里——而在你折腾 200 次失败、终于弄懂每一行含义的过程里。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 144
+    "unique_authors": 145
   }
 }

@@ -1,5 +1,63 @@
 [
   {
+    "id": "2029712341449986378",
+    "date": "2026-03-07",
+    "author": "@altryne",
+    "author_url": "https://x.com/altryne",
+    "tweet_url": "https://x.com/altryne/status/2029712341449986378",
+    "title": {
+      "en-US": "GitHub stopped counting OpenClaw issues at 5K+",
+      "zh-CN": "OpenClaw的GitHub issue数量太多，GitHub干脆不数了，直接显示\"5K+\""
+    },
+    "summary": {
+      "en-US": "OpenClaw平台热度，开发者生态",
+      "zh-CN": "做纠正：人们以为爆红靠营销，但真正的产品增长是\"被需要\"的自然结果——不是你在追用户，是用户在追你。"
+    },
+    "relevance": "OpenClaw平台热度，开发者生态",
+    "score": 0.82,
+    "engagement": {
+      "likes": 702,
+      "replies": 17,
+      "retweets": 7,
+      "views": 47454
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T17:03:29.492546+00:00",
+    "js_take": {
+      "en-US": "GitHub's counter didn't break from bugs. It broke because OpenClaw never chased growth—it just got chased. The best products don't scale; they get pulled.",
+      "zh-CN": "GitHub计数器崩掉不是因为bug，是因为OpenClaw从不追增长——而是被增长追着跑。最好的产品不是「扩张」出来的，是「被拉」过去的。"
+    }
+  },
+  {
+    "id": "2029943091528950248",
+    "date": "2026-03-07",
+    "author": "@xmayeth",
+    "author_url": "https://x.com/xmayeth",
+    "tweet_url": "https://x.com/xmayeth/status/2029943091528950248",
+    "title": {
+      "en-US": "Used OpenClaw to build a Polymarket trading bot from 2 pages of formulas",
+      "zh-CN": "把朋友给的2页量化交易公式丢进OpenClaw，一键生成了Polymarket交易机器人"
+    },
+    "summary": {
+      "en-US": "OpenClaw实际应用案例，AI Agent构建",
+      "zh-CN": "更形象：真正的技术杠杆不是\"学会更多工具\"，而是让工具替你完成从\"想法\"到\"运转\"的整段距离——你提供意图，系统完成演化。"
+    },
+    "relevance": "OpenClaw实际应用案例，AI Agent构建",
+    "score": 0.76,
+    "engagement": {
+      "likes": 139,
+      "replies": 16,
+      "retweets": 4,
+      "views": 8269
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T17:03:29.492550+00:00",
+    "js_take": {
+      "en-US": "This isn't \"AI wrote my code.\" This is 2 pages of ideas becoming a machine that prints money while you sleep. You didn't build a bot—you bought back your life.",
+      "zh-CN": "这不是「AI帮我写代码」。这是两页想法变成一台你睡觉时也在印钞的机器。你不是造了个机器人——你是买回了自己的生活。"
+    }
+  },
+  {
     "id": "2029609170765586728",
     "date": "2026-03-06",
     "author": "@cgtwts",
