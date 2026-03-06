@@ -117,6 +117,26 @@ export function gitPush(remote = 'origin', branch, force = false) {
 }
 
 /**
+ * Pull latest commits with rebase strategy.
+ * Uses --autostash to tolerate temporary local modifications.
+ *
+ * @param {string} [remote='origin']
+ * @param {string} [branch] - Defaults to current branch
+ * @param {boolean} [autostash=true]
+ * @returns {{ remote: string, branch: string, rebase: true, autostash: boolean }}
+ */
+export function gitPullRebase(remote = 'origin', branch, autostash = true) {
+    if (!branch) {
+        branch = git(['rev-parse', '--abbrev-ref', 'HEAD']);
+    }
+    const args = ['pull', '--rebase'];
+    if (autostash) args.push('--autostash');
+    args.push(remote, branch);
+    git(args);
+    return { remote, branch, rebase: true, autostash };
+}
+
+/**
  * Get diff stats for staged changes.
  * @returns {{ files: string[], summary: string }}
  */

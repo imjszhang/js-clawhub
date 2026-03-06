@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-06T08:05:34.143542+00:00",
+  "updated_at": "2026-03-06T10:04:23.949347+00:00",
   "this_week": {
-    "total_items": 111,
+    "total_items": 112,
     "avg_score": 0.77,
-    "unique_authors": 89,
+    "unique_authors": 90,
     "top_items": [
       {
         "id": "2029295335596527777",
@@ -970,6 +970,34 @@
         }
       },
       {
+        "id": "2029610857882165358",
+        "date": "2026-03-06",
+        "author": "@carlosvillu",
+        "author_url": "https://x.com/carlosvillu",
+        "tweet_url": "https://x.com/carlosvillu/status/2029610857882165358",
+        "title": {
+          "en-US": "OpenClaw WhatsApp bridge via Meta Cloud API, no ban risk",
+          "zh-CN": "OpenClaw 推出官方 WhatsApp 桥接，通过 Meta Cloud API 获得正规商业号，避免第三方库封号风险"
+        },
+        "summary": {
+          "en-US": "OpenClaw 平台功能更新，直接相关",
+          "zh-CN": "做纠正：技术社区过于关注\"绕过限制\"的黑客精神，却忽略了真正的解决之道——不是更隐蔽地hack，而是顺应平台的规则获得正当性。第三方库封号问题最好的解法不是对抗检测，而是直接成为官方生态的一部分。"
+        },
+        "relevance": "OpenClaw 平台功能更新，直接相关",
+        "score": 0.78,
+        "engagement": {
+          "likes": 234,
+          "replies": 7,
+          "retweets": 27
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-06T10:04:13.491092+00:00",
+        "js_take": {
+          "en-US": "Hacking around bans is amateur hour. The real move isn't better cloaking—it's making the platform need you more than it fears you.",
+          "zh-CN": "钻漏洞绕封禁是下策。真正的玩法不是藏得更好，而是让平台对你的需求超过它对你的恐惧。"
+        }
+      },
+      {
         "id": "2029243787772358706",
         "date": "2026-03-05",
         "author": "@mattshumer_",
@@ -997,41 +1025,11 @@
           "en-US": "Everyone obsesses over making agents collaborate, but the real power move is giving each a domain where they never have to talk.",
           "zh-CN": "人人都在研究怎么让Agent协作，真正的大招是给每个Agent一块领地，让它们永远不需要对话。"
         }
-      },
-      {
-        "id": "2029185241378636218",
-        "date": "2026-03-05",
-        "author": "@slash1sol",
-        "author_url": "https://x.com/slash1sol",
-        "tweet_url": "https://x.com/slash1sol/status/2029185241378636218",
-        "title": {
-          "en-US": "STOP WASTING TOKENS ON OPENCLAW - no workspace config = 3x spend",
-          "zh-CN": "吐槽没有正确配置OpenClaw工作空间导致token消耗翻3倍，分享优化指南。"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台配置与开发者体验，直接相关",
-          "zh-CN": "人们在讨论「怎么省token」，但真正的成本不是token——是「没有系统思维」导致的重复劳动。省token是战术优化，建系统才是战略解法。"
-        },
-        "relevance": "OpenClaw平台配置与开发者体验，直接相关",
-        "score": 0.78,
-        "engagement": {
-          "likes": 127,
-          "retweets": 8,
-          "replies": 15,
-          "views": 10037,
-          "bookmarks": 191
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-05T06:04:10.734180+00:00",
-        "js_take": {
-          "en-US": "You saved $50 on tokens and lost 5 hours rewriting prompts from scratch. The real tax isn't OpenAI's bill—it's your 'start from zero' muscle memory.",
-          "zh-CN": "你省了50美元的token费用，却搭进去5小时从头重写提示词。真正的代价不是OpenAI的账单，而是你「从零开始」的肌肉记忆。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 145
+    "unique_authors": 146
   }
 }

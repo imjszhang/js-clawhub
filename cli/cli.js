@@ -17,7 +17,7 @@
  *   build  [--skip-ga] [--skip-i18n] [--dry-run] [--no-clean]
  *   commit [--message "..."] [--all] [--scope <area>]
  *   sync   [--no-build] [--no-push] [--message "..."] [--dry-run]
- *   pull   [--source <path>] [--type pulse|weekly|all] [--no-build] [--no-push] [--dry-run]
+ *   pull   [--source <path>] [--type pulse|weekly|all] [--no-remote-sync] [--no-build] [--no-push] [--dry-run]
  *   setup-cloudflare   Set up Cloudflare DNS for GitHub Pages
  *   setup-github-pages Configure GitHub Pages custom domain + HTTPS
  *   stats
@@ -38,7 +38,7 @@ import { listFeatured, setFeatured, clearFeatured } from './lib/featured.js';
 import { setupCloudflare, setupGithubPages } from './lib/setup.js';
 import { search } from './lib/search.js';
 import { build } from './lib/builder.js';
-import { gitStatus, gitAdd, gitAddAll, gitCommit, gitPush, gitDiffStat, generateCommitMessage } from './lib/git.js';
+import { gitStatus, gitAdd, gitAddAll, gitCommit, gitPush, gitPullRebase, gitDiffStat, generateCommitMessage } from './lib/git.js';
 import { toJson, toStderr } from './lib/formatters.js';
 import { pull } from './lib/puller.js';
 import { blogImport, blogSources, blogTranslate, blogTranslateUntranslated } from './lib/blog-importer.js';
@@ -423,13 +423,29 @@ function cmdPull(flags) {
         const dryRun = !!flags['dry-run'];
         const noBuild = !!flags['no-build'];
         const noPush = !!flags['no-push'];
+        const noRemoteSync = !!flags['no-remote-sync'];
         const type = flags.type || 'all';
         const source = flags.source || undefined;
 
+        const result = { remoteSync: null, pull: null, build: null, commit: null, push: null };
+
+        if (!dryRun && !noRemoteSync) {
+            const status = gitStatus();
+            toStderr('\n── Sync Remote ──');
+            toStderr(`Pulling latest from origin/${status.branch} (rebase + autostash) ...`);
+            result.remoteSync = gitPullRebase('origin', status.branch, true);
+            toStderr('Remote sync complete.');
+        } else if (dryRun) {
+            toStderr('\n[dry-run] Skip remote sync.');
+        } else {
+            toStderr('\nRemote sync skipped (--no-remote-sync)');
+        }
+
         const pullResult = pull({ source, type, dryRun });
+        result.pull = pullResult;
 
         if (dryRun) {
-            toJson({ ...pullResult, dryRun: true });
+            toJson({ ...result, dryRun: true });
             return;
         }
 
@@ -437,11 +453,9 @@ function cmdPull(flags) {
 
         if (!hasChanges) {
             toStderr('\nNo new data pulled.');
-            toJson({ ...pullResult, build: null, commit: null, push: null });
+            toJson(result);
             return;
         }
-
-        const result = { ...pullResult, build: null, commit: null, push: null };
 
         if (!noBuild) {
             toStderr('\n── Build ──');
@@ -623,6 +637,7 @@ Commands:
   pull               Pull data from js-moltbook, build + commit + push
     --source <path>    Path to js-moltbook publisher output (default: ../js-moltbook/...)
     --type <type>      What to pull: pulse|weekly|all (default: all)
+    --no-remote-sync   Skip pre-sync with origin/<current-branch>
     --no-build         Skip build step after pull
     --no-push          Skip push step (pull + build + commit only)
     --message "msg"    Use custom commit message

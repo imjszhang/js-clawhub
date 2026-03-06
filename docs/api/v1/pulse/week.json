@@ -226,6 +226,34 @@
     }
   },
   {
+    "id": "2029610857882165358",
+    "date": "2026-03-06",
+    "author": "@carlosvillu",
+    "author_url": "https://x.com/carlosvillu",
+    "tweet_url": "https://x.com/carlosvillu/status/2029610857882165358",
+    "title": {
+      "en-US": "OpenClaw WhatsApp bridge via Meta Cloud API, no ban risk",
+      "zh-CN": "OpenClaw 推出官方 WhatsApp 桥接，通过 Meta Cloud API 获得正规商业号，避免第三方库封号风险"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台功能更新，直接相关",
+      "zh-CN": "做纠正：技术社区过于关注\"绕过限制\"的黑客精神，却忽略了真正的解决之道——不是更隐蔽地hack，而是顺应平台的规则获得正当性。第三方库封号问题最好的解法不是对抗检测，而是直接成为官方生态的一部分。"
+    },
+    "relevance": "OpenClaw 平台功能更新，直接相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 234,
+      "replies": 7,
+      "retweets": 27
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T10:04:13.491092+00:00",
+    "js_take": {
+      "en-US": "Hacking around bans is amateur hour. The real move isn't better cloaking—it's making the platform need you more than it fears you.",
+      "zh-CN": "钻漏洞绕封禁是下策。真正的玩法不是藏得更好，而是让平台对你的需求超过它对你的恐惧。"
+    }
+  },
+  {
     "id": "2029513227948970445",
     "date": "2026-03-06",
     "author": "@JulianGoldieSEO",
