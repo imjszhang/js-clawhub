@@ -1,5 +1,33 @@
 [
   {
+    "id": "2029979079315968131",
+    "date": "2026-03-07",
+    "author": "@BoWang87",
+    "author_url": "https://x.com/BoWang87",
+    "tweet_url": "https://x.com/BoWang87/status/2029979079315968131",
+    "title": {
+      "en-US": "Portable OpenClaw Agent 😂 🦞",
+      "zh-CN": "展示了一个便携版的OpenClaw Agent（龙虾图标）"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台、便携Agent硬件",
+      "zh-CN": "技术圈追求越来越强大的算力和复杂的部署，但\"便携\"意味着打破束缚——最好的工具是让你忘记它存在的工具，就像水随形而变，不执着于容器。"
+    },
+    "relevance": "OpenClaw平台、便携Agent硬件",
+    "score": 0.85,
+    "engagement": {
+      "likes": 909,
+      "replies": 95,
+      "retweets": 64
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T21:03:52.754252+00:00",
+    "js_take": {
+      "en-US": "You're celebrating portability when you should be demanding invisibility. The endpoint of tech isn't 'I can carry it'—it's 'I forgot I have it'.",
+      "zh-CN": "You're celebrating portability when you should be demanding invisibility. The endpoint of tech isn't 'I can carry it'—it's 'I forgot I have it'."
+    }
+  },
+  {
     "id": "2029712341449986378",
     "date": "2026-03-07",
     "author": "@altryne",
