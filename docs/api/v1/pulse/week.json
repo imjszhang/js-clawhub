@@ -424,6 +424,34 @@
     }
   },
   {
+    "id": "2029805195350147583",
+    "date": "2026-03-06",
+    "author": "@witcheer",
+    "author_url": "https://x.com/witcheer",
+    "tweet_url": "https://x.com/witcheer/status/2029805195350147583",
+    "title": {
+      "en-US": "OpenClaw on mac mini m4 for a month, doesn't feel fully autonomous. You tell it what to do or wait for cron jobs.",
+      "zh-CN": "用户在mac mini m4上运行OpenClaw一个月，认为它还不算完全自主的agent——要么手动下指令，要么等cron任务触发后再指示。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台实际使用体验，关于'自主'定义的哲学问题",
+      "zh-CN": "人们对'autonomous agent'的期待本身就有问题——真正的自主不是'不用管'，而是'管得更少但效果一样'。"
+    },
+    "relevance": "OpenClaw平台实际使用体验，关于'自主'定义的哲学问题",
+    "score": 0.72,
+    "engagement": {
+      "likes": 9,
+      "replies": 0,
+      "retweets": 0
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T07:09:43.503117+00:00",
+    "js_take": {
+      "en-US": "You don't want autonomous. You want magic. Real autonomy isn't 'set and forget'—it's making your intervention cheaper every week until it barely matters.",
+      "zh-CN": "你要的不是自动化，是魔法。真正的自主绝非'设完就忘'——而是让每次干预的成本逐周递减，直至轻若鸿毛。"
+    }
+  },
+  {
     "id": "2029477146914332706",
     "date": "2026-03-06",
     "author": "@KanikaBK",
