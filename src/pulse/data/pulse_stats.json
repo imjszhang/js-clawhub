@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-06T10:04:23.949347+00:00",
+  "updated_at": "2026-03-06T12:06:00.587886+00:00",
   "this_week": {
-    "total_items": 112,
+    "total_items": 114,
     "avg_score": 0.77,
-    "unique_authors": 90,
+    "unique_authors": 91,
     "top_items": [
       {
         "id": "2029295335596527777",
@@ -541,6 +541,34 @@
         }
       },
       {
+        "id": "2029756405708947522",
+        "date": "2026-03-06",
+        "author": "@meng_shengyu",
+        "author_url": "https://x.com/meng_shengyu",
+        "tweet_url": "https://x.com/meng_shengyu/status/2029756405708947522",
+        "title": {
+          "en-US": "Built \"🦞 Lobster Library\" to track what Lobster is reading",
+          "zh-CN": "工具救不了溺水者"
+        },
+        "summary": {
+          "en-US": "OpenClaw Agent 生态 / Lobster 基础设施",
+          "zh-CN": "大家都在造工具让 Agent 产出更多，却没人问：Agent 产生的东西谁来消化？工具越强大，信息过载越严重——真正的瓶颈从「生成能力」转向了「策展能力」"
+        },
+        "relevance": "OpenClaw Agent 生态 / Lobster 基础设施",
+        "score": 0.82,
+        "engagement": {
+          "likes": 123,
+          "replies": 15,
+          "retweets": 15
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-06T12:05:46.709416+00:00",
+        "js_take": {
+          "en-US": "More tracking tools won't save us from drowning. The problem isn't \"what did Lobster read\" — it's \"why should anyone care.\" Curation beats cataloging.",
+          "zh-CN": "再多追踪工具也救不了溺水的人。问题不是「龙虾读了什么」，而是「为什么有人该在意」。策展胜过编目。"
+        }
+      },
+      {
         "id": "2028874549413179566",
         "date": "2026-03-04",
         "author": "@danshipper",
@@ -772,6 +800,34 @@
         }
       },
       {
+        "id": "2029816318925623609",
+        "date": "2026-03-06",
+        "author": "@rohanpaul_ai",
+        "author_url": "https://x.com/rohanpaul_ai",
+        "tweet_url": "https://x.com/rohanpaul_ai/status/2029816318925623609",
+        "title": {
+          "en-US": "OpenClaw surge causing Mac mini inventory issues, 128GB/512GB orders delayed",
+          "zh-CN": "Mac背后的Agent经济筹码"
+        },
+        "summary": {
+          "en-US": "OpenClaw 平台热度 / 本地 AI Agent 基础设施",
+          "zh-CN": "硬件短缺是表象，真正的信号是：个人算力正在从「消费级需求」变成「生产力刚需」。这波抢购的不是极客，是看到趋势提前卡位的人"
+        },
+        "relevance": "OpenClaw 平台热度 / 本地 AI Agent 基础设施",
+        "score": 0.8,
+        "engagement": {
+          "likes": 62,
+          "retweets": 7,
+          "replies": 7
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-06T12:05:46.709421+00:00",
+        "js_take": {
+          "en-US": "They're not buying Macs. They're buying seats at the Agent economy table. 128GB isn't memory — it's the minimum bet to stay in the game.",
+          "zh-CN": "他们买的不是Mac，而是Agent经济牌桌上的入场券。128GB不是内存，而是留在牌局里的最低筹码。"
+        }
+      },
+      {
         "id": "2028833375046238538",
         "date": "2026-03-04",
         "author": "@thestanduppod",
@@ -968,68 +1024,11 @@
           "en-US": "Copy-pasting this config is like wearing someone else's glasses. Real efficiency isn't in the file—it's in the 200 failed attempts before you knew what each line actually does.",
           "zh-CN": "照搬这份配置，就像戴别人的眼镜。真正的效率不在文件里——而在你折腾 200 次失败、终于弄懂每一行含义的过程里。"
         }
-      },
-      {
-        "id": "2029610857882165358",
-        "date": "2026-03-06",
-        "author": "@carlosvillu",
-        "author_url": "https://x.com/carlosvillu",
-        "tweet_url": "https://x.com/carlosvillu/status/2029610857882165358",
-        "title": {
-          "en-US": "OpenClaw WhatsApp bridge via Meta Cloud API, no ban risk",
-          "zh-CN": "OpenClaw 推出官方 WhatsApp 桥接，通过 Meta Cloud API 获得正规商业号，避免第三方库封号风险"
-        },
-        "summary": {
-          "en-US": "OpenClaw 平台功能更新，直接相关",
-          "zh-CN": "做纠正：技术社区过于关注\"绕过限制\"的黑客精神，却忽略了真正的解决之道——不是更隐蔽地hack，而是顺应平台的规则获得正当性。第三方库封号问题最好的解法不是对抗检测，而是直接成为官方生态的一部分。"
-        },
-        "relevance": "OpenClaw 平台功能更新，直接相关",
-        "score": 0.78,
-        "engagement": {
-          "likes": 234,
-          "replies": 7,
-          "retweets": 27
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-06T10:04:13.491092+00:00",
-        "js_take": {
-          "en-US": "Hacking around bans is amateur hour. The real move isn't better cloaking—it's making the platform need you more than it fears you.",
-          "zh-CN": "钻漏洞绕封禁是下策。真正的玩法不是藏得更好，而是让平台对你的需求超过它对你的恐惧。"
-        }
-      },
-      {
-        "id": "2029243787772358706",
-        "date": "2026-03-05",
-        "author": "@mattshumer_",
-        "author_url": "https://x.com/mattshumer_",
-        "tweet_url": "https://x.com/mattshumer_/status/2029243787772358706",
-        "title": {
-          "en-US": "How do you setup multiple OpenClaw agents to work together on one machine?",
-          "zh-CN": "在同一台机器上运行多个OpenClaw agent，你们是怎么设置让它们协作的？"
-        },
-        "summary": {
-          "en-US": "OpenClaw多agent协作 - 核心技术问题",
-          "zh-CN": "每个人都在问「怎么让agents协作」，却没人问「它们真的需要协作吗」——有时候最好的协作就是各干各的，强行组队只会制造出会吵架的AI。"
-        },
-        "relevance": "OpenClaw多agent协作 - 核心技术问题",
-        "score": 0.78,
-        "engagement": {
-          "likes": 52,
-          "replies": 37,
-          "retweets": 2,
-          "views": 9623
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-04T18:03:36.079886+00:00",
-        "js_take": {
-          "en-US": "Everyone obsesses over making agents collaborate, but the real power move is giving each a domain where they never have to talk.",
-          "zh-CN": "人人都在研究怎么让Agent协作，真正的大招是给每个Agent一块领地，让它们永远不需要对话。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 146
+    "unique_authors": 145
   }
 }

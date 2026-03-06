@@ -114,6 +114,62 @@
     }
   },
   {
+    "id": "2029756405708947522",
+    "date": "2026-03-06",
+    "author": "@meng_shengyu",
+    "author_url": "https://x.com/meng_shengyu",
+    "tweet_url": "https://x.com/meng_shengyu/status/2029756405708947522",
+    "title": {
+      "en-US": "Built \"🦞 Lobster Library\" to track what Lobster is reading",
+      "zh-CN": "工具救不了溺水者"
+    },
+    "summary": {
+      "en-US": "OpenClaw Agent 生态 / Lobster 基础设施",
+      "zh-CN": "大家都在造工具让 Agent 产出更多，却没人问：Agent 产生的东西谁来消化？工具越强大，信息过载越严重——真正的瓶颈从「生成能力」转向了「策展能力」"
+    },
+    "relevance": "OpenClaw Agent 生态 / Lobster 基础设施",
+    "score": 0.82,
+    "engagement": {
+      "likes": 123,
+      "replies": 15,
+      "retweets": 15
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T12:05:46.709416+00:00",
+    "js_take": {
+      "en-US": "More tracking tools won't save us from drowning. The problem isn't \"what did Lobster read\" — it's \"why should anyone care.\" Curation beats cataloging.",
+      "zh-CN": "再多追踪工具也救不了溺水的人。问题不是「龙虾读了什么」，而是「为什么有人该在意」。策展胜过编目。"
+    }
+  },
+  {
+    "id": "2029816318925623609",
+    "date": "2026-03-06",
+    "author": "@rohanpaul_ai",
+    "author_url": "https://x.com/rohanpaul_ai",
+    "tweet_url": "https://x.com/rohanpaul_ai/status/2029816318925623609",
+    "title": {
+      "en-US": "OpenClaw surge causing Mac mini inventory issues, 128GB/512GB orders delayed",
+      "zh-CN": "Mac背后的Agent经济筹码"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台热度 / 本地 AI Agent 基础设施",
+      "zh-CN": "硬件短缺是表象，真正的信号是：个人算力正在从「消费级需求」变成「生产力刚需」。这波抢购的不是极客，是看到趋势提前卡位的人"
+    },
+    "relevance": "OpenClaw 平台热度 / 本地 AI Agent 基础设施",
+    "score": 0.8,
+    "engagement": {
+      "likes": 62,
+      "retweets": 7,
+      "replies": 7
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T12:05:46.709421+00:00",
+    "js_take": {
+      "en-US": "They're not buying Macs. They're buying seats at the Agent economy table. 128GB isn't memory — it's the minimum bet to stay in the game.",
+      "zh-CN": "他们买的不是Mac，而是Agent经济牌桌上的入场券。128GB不是内存，而是留在牌局里的最低筹码。"
+    }
+  },
+  {
     "id": "2029246676339474841",
     "date": "2026-03-06",
     "author": "@ihtesham2005",
@@ -5466,64 +5522,6 @@
     "js_take": {
       "en-US": "Research isn't restriction—it's edge-setting. 无为而治 (wú wéi ér zhì): set the boundary, then let go.",
       "zh-CN": "研究不是限制——是设定边界。无为而治：设定边界，然后放手。"
-    }
-  },
-  {
-    "id": "2026360908398862478",
-    "date": "2026-02-25",
-    "author": "@@karpathy",
-    "author_url": "https://x.com/karpathy",
-    "tweet_url": "https://x.com/karpathy/status/2026360908398862478",
-    "title": {
-      "en-US": "CLIs are legacy tech, AI agents can use them natively",
-      "zh-CN": "CLI 是遗留技术，AI Agent 可以原生使用"
-    },
-    "summary": {
-      "en-US": "OpenClaw、CLI、无为、势",
-      "zh-CN": "OpenClaw、CLI、无为、势"
-    },
-    "relevance": "OpenClaw、CLI、无为、势",
-    "score": 0.88,
-    "engagement": {
-      "likes": 2019,
-      "replies": 181,
-      "retweets": 159,
-      "views": 104306
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-24T19:12:08.339969+00:00",
-    "js_take": {
-      "en-US": "Legacy isn't old—it's settled. 无为 (wú wéi): the best tools are the ones you forget.",
-      "zh-CN": "遗留不是老旧——是沉淀。无为：最好的工具，是你忘记自己在用的工具。"
-    }
-  },
-  {
-    "id": "2026173441725137022",
-    "date": "2026-02-25",
-    "author": "@@BrianRoemmele",
-    "author_url": "https://x.com/BrianRoemmele",
-    "tweet_url": "https://x.com/BrianRoemmele/status/2026173441725137022",
-    "title": {
-      "en-US": "GET MAC MINI AND RUN OPEN CLAW... Agents of Chaos security risks",
-      "zh-CN": "买 Mac Mini 跑 OpenClaw... 混沌特工的安全风险"
-    },
-    "summary": {
-      "en-US": "OpenClaw、安全、无为而治",
-      "zh-CN": "OpenClaw、安全、无为而治"
-    },
-    "relevance": "OpenClaw、安全、无为而治",
-    "score": 0.85,
-    "engagement": {
-      "likes": 147,
-      "replies": 18,
-      "retweets": 43,
-      "views": 29250
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-24T17:12:53.390263+00:00",
-    "js_take": {
-      "en-US": "Not about trust—about boundaries. 无为而治 (wú wéi ér zhì): set the edge, then let go.",
-      "zh-CN": "不是信任问题——是边界问题。无为而治：设定边界，然后放手。"
     }
   }
 ]
