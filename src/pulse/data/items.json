@@ -226,6 +226,36 @@
     }
   },
   {
+    "id": "2029414612836503756",
+    "date": "2026-03-06",
+    "author": "@_vmlops",
+    "author_url": "https://x.com/_vmlops",
+    "tweet_url": "https://x.com/_vmlops/status/2029414612836503756",
+    "title": {
+      "en-US": "Claude Code GitHub repo cheat code playbook",
+      "zh-CN": "分享Claude Code的GitHub仓库使用指南，涵盖命令、子代理、技能、MCP服务器等"
+    },
+    "summary": {
+      "en-US": "与OpenClaw直接相关，Claude Code是同类Agent开发平台",
+      "zh-CN": "收集工具是加法思维，但真正的掌握是做减法——知道什么不该用，比知道什么可以用更难。这份清单越全，越凸显一个被忽略的问题：工具爆炸时代，判断力比工具量更稀缺。"
+    },
+    "relevance": "与OpenClaw直接相关，Claude Code是同类Agent开发平台",
+    "score": 0.75,
+    "engagement": {
+      "likes": 873,
+      "retweets": 143,
+      "replies": 16,
+      "views": 72458,
+      "bookmarks": 1562
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T04:07:58.190862+00:00",
+    "js_take": {
+      "en-US": "The longer this list gets, the more it proves we're addicted to tools and allergic to judgment. Real cheat code? Delete half these shortcuts and see if you can still ship.",
+      "zh-CN": "清单越冗长，越暴露一个真相：我们对工具成瘾，却对判断力过敏。真正的捷径？删掉一半快捷方式，看你是否依然能交付。"
+    }
+  },
+  {
     "id": "2029564848909189301",
     "date": "2026-03-06",
     "author": "@PrajwalTomar_",
@@ -5500,35 +5530,6 @@
     "js_take": {
       "en-US": "Your agent isn't dumb—you're just comparing. 无为 (wú wéi): the best tools are the ones you forget.",
       "zh-CN": "你的 Agent 不笨——是你一直在比较。无为：最好的工具，是你忘了自己在用的工具。"
-    }
-  },
-  {
-    "id": "2026494120244412421",
-    "date": "2026-02-25",
-    "author": "@@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2026494120244412421",
-    "title": {
-      "en-US": "new OpenClaw beta: stop phrases, Android refresh, reliability fixes",
-      "zh-CN": "OpenClaw 新版 beta：停止词、Android刷新、可靠性修复"
-    },
-    "summary": {
-      "en-US": "OpenClaw、更新、无为而治",
-      "zh-CN": "中等曝光(1.4万浏览)，OpenClaw官方更新，用「无为而治」评论停止词"
-    },
-    "relevance": "OpenClaw、更新、无为而治",
-    "score": 0.82,
-    "engagement": {
-      "likes": 243,
-      "replies": 38,
-      "retweets": 17,
-      "views": 14428
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-25T04:04:56.246083+00:00",
-    "js_take": {
-      "en-US": "Stop phrases aren't walls—they're edges. 无为而治 (wú wéi ér zhì): best control is letting the flow stop itself.",
-      "zh-CN": "停止词不是墙——是边界。无为而治：最好的控制，是让流自己停止。"
     }
   }
 ]
