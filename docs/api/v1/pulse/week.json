@@ -338,6 +338,36 @@
     }
   },
   {
+    "id": "2029888834171785406",
+    "date": "2026-03-06",
+    "author": "@KSimback",
+    "author_url": "https://x.com/KSimback",
+    "tweet_url": "https://x.com/KSimback/status/2029888834171785406",
+    "title": {
+      "en-US": "OpenClaw cron jobs buggiest feature but magical when works",
+      "zh-CN": "用户反馈 OpenClaw 的 cron 功能是最不稳定的特性，但运行起来又像魔法一样好用"
+    },
+    "summary": {
+      "en-US": "OpenClaw 核心功能问题反馈，Agent 运维痛点",
+      "zh-CN": "推文在抱怨功能不稳定的同时又承认它像魔法——这种矛盾恰恰是很多人面对新技术的常态：想要自动化带来的自由，却不愿意接受系统需要迭代的事实。越是追求确定性的人，越容易被工具的失控所激怒，但真正的成长往往发生在系统失控之后的修复里。"
+    },
+    "relevance": "OpenClaw 核心功能问题反馈，Agent 运维痛点",
+    "score": 0.78,
+    "engagement": {
+      "likes": 64,
+      "retweets": 5,
+      "replies": 5,
+      "views": 10806,
+      "bookmarks": 105
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T14:06:55.914795+00:00",
+    "js_take": {
+      "en-US": "Wanting magic without the mess is entitlement—the bugs are what force you to actually understand the system.",
+      "zh-CN": "追求魔法却不愿承受混乱，这是一种傲慢——正是 bug 逼你真正理解系统。"
+    }
+  },
+  {
     "id": "2029513227948970445",
     "date": "2026-03-06",
     "author": "@JulianGoldieSEO",
@@ -480,6 +510,36 @@
     }
   },
   {
+    "id": "2029890575374127549",
+    "date": "2026-03-06",
+    "author": "@ianneo_ai",
+    "author_url": "https://x.com/ianneo_ai",
+    "tweet_url": "https://x.com/ianneo_ai/status/2029890575374127549",
+    "title": {
+      "en-US": "Migrating OpenClaw to Discord = rebuilding the entire system from single entry to multi-agent",
+      "zh-CN": "将 OpenClaw 迁移到 Discord，本质是把单入口系统重构成总管+多专家的分布式架构"
+    },
+    "summary": {
+      "en-US": "OpenClaw 系统架构演进，Agent 调度设计",
+      "zh-CN": "推文的认知停留在了「平台迁移」的技术动作，但真正的洞察是：表面世界的变动（换平台）往往只是里世界重构（改架构）的外显。很多人以为迁移就是搬家，但真正的迁移是把原来的单一系统拆成能自组织的模块——这不是搬家，是生物从单细胞向多细胞的进化。"
+    },
+    "relevance": "OpenClaw 系统架构演进，Agent 调度设计",
+    "score": 0.74,
+    "engagement": {
+      "likes": 8,
+      "retweets": 2,
+      "replies": 2,
+      "views": 1134,
+      "bookmarks": 12
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T14:06:55.914799+00:00",
+    "js_take": {
+      "en-US": "You call it migration but it's evolution. Single-cell to multi-cell doesn't move house—it learns to think in parallel.",
+      "zh-CN": "你叫它迁移，实则是进化。单细胞到多细胞不是搬家，而是学会并行思考。"
+    }
+  },
+  {
     "id": "2029742108383531497",
     "date": "2026-03-06",
     "author": "@IndieDevHailey",
@@ -592,6 +652,36 @@
     }
   },
   {
+    "id": "2029858561967186353",
+    "date": "2026-03-06",
+    "author": "@wstv_lizzi",
+    "author_url": "https://x.com/wstv_lizzi",
+    "tweet_url": "https://x.com/wstv_lizzi/status/2029858561967186353",
+    "title": {
+      "en-US": "Shenzhen grannies lining up for OpenClaw installation",
+      "zh-CN": "深圳街头出现大量老年用户排队安装 OpenClaw 的景象，引发对技术扩散的思考"
+    },
+    "summary": {
+      "en-US": "OpenClaw 用户扩散，Agent 大众接受度",
+      "zh-CN": "推文注意到老年用户对 AI Agent 的开放态度，但这不只是关于「老年人也能用新技术」的惊奇——真正的洞见是：越是生活经验丰富的人，越不会被「这是什么」定义，而是直接问「这能帮我做什么」。专业术语和入门门槛是给年轻人的，老年人只关心工具能不能解决问题。这种不被概念绑架的态度，本身就是最高效的使用方式。"
+    },
+    "relevance": "OpenClaw 用户扩散，Agent 大众接受度",
+    "score": 0.72,
+    "engagement": {
+      "likes": 553,
+      "retweets": 94,
+      "replies": 22,
+      "views": 58691,
+      "bookmarks": 192
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T14:06:55.914802+00:00",
+    "js_take": {
+      "en-US": "Your CS degree is the barrier. Grannies skip the theory and ask what it does—the most sophisticated question anyone can ask.",
+      "zh-CN": "你的 CS 学位反而是障碍。老奶奶们跳过理论直接问「它能做什么」——这才是最精妙的问题。"
+    }
+  },
+  {
     "id": "2029477146914332706",
     "date": "2026-03-06",
     "author": "@KanikaBK",
@@ -617,6 +707,36 @@
     "js_take": {
       "en-US": "230K stars in 60 days wasn't planned—it was allowed. The healthiest growth looks like \"nobody's in charge\" because the best systems run themselves once you build the right foundation.",
       "zh-CN": "60天23万星不是计划出来的——是「允许」出来的。最健康的增长看起来像是「没人管」，因为最好的系统一旦搭好地基，就会自己运转。"
+    }
+  },
+  {
+    "id": "2029766239275606185",
+    "date": "2026-03-06",
+    "author": "@sandraleow",
+    "author_url": "https://x.com/sandraleow",
+    "tweet_url": "https://x.com/sandraleow/status/2029766239275606185",
+    "title": {
+      "en-US": "Added YouTube transcription and workflow extraction skill to OpenClaw",
+      "zh-CN": "为 OpenClaw 添加了 YouTube 自动转录和工作流提取技能，形成可执行的行动文档"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skill 开发实践，Agent 能力扩展",
+      "zh-CN": "推文展示的是把视频内容变成可执行文档的工作流，但更深层的价值在于：大多数人消费内容是在「输入焦虑」，而建立这种自动化提取的工作流是在「输出复利」。输入再多不改变行为，把输入转化为可执行的动作清单才是真的消化。系统帮你做的不是「记笔记」，是「消除从看到做到的摩擦」。"
+    },
+    "relevance": "OpenClaw Skill 开发实践，Agent 能力扩展",
+    "score": 0.71,
+    "engagement": {
+      "likes": 72,
+      "retweets": 0,
+      "replies": 7,
+      "views": 7238,
+      "bookmarks": 67
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T14:06:55.914804+00:00",
+    "js_take": {
+      "en-US": "You're hoarding content, she's weaponizing it. Most knowledge dies in the gap between watching and doing—this closes it.",
+      "zh-CN": "你在囤积内容，她却把它武器化。大多数知识都死于「看了却不做」——而她弥合了这道鸿沟。"
     }
   },
   {
