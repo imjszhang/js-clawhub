@@ -682,6 +682,34 @@
     }
   },
   {
+    "id": "2029459120592757131",
+    "date": "2026-03-06",
+    "author": "@ianneo_ai",
+    "author_url": "https://x.com/ianneo_ai",
+    "tweet_url": "https://x.com/ianneo_ai/status/2029459120592757131",
+    "title": {
+      "en-US": "OpenClaw Telegram to Discord migration, UI comparison experience",
+      "zh-CN": "用户分享从Telegram迁移OpenClaw到Discord的体验，感叹Discord界面更美观、细节更到位"
+    },
+    "summary": {
+      "en-US": "直接讨论OpenClaw平台使用体验，Discord vs Telegram的UI对比",
+      "zh-CN": "这条推文把「界面美观」和「效率」对立起来了，但好的设计恰恰是让工具退到意识背后，人才能专注做事——Discord的「高级感」不是装饰，是减少了认知摩擦。"
+    },
+    "relevance": "直接讨论OpenClaw平台使用体验，Discord vs Telegram的UI对比",
+    "score": 0.72,
+    "engagement": {
+      "likes": 254,
+      "replies": 58,
+      "retweets": 33
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T15:06:01.128671+00:00",
+    "js_take": {
+      "en-US": "Discord's polish isn't eye candy—it's the interface disappearing. Good UI isn't what you notice; it's what you forget exists.",
+      "zh-CN": "Discord的精致之处不在于视觉炫技，而在于界面「隐形」了。好的UI不是让你注意到的，而是让你忘记它存在的。"
+    }
+  },
+  {
     "id": "2029477146914332706",
     "date": "2026-03-06",
     "author": "@KanikaBK",
@@ -5509,30 +5537,5 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-25T22:02:24.785016+00:00"
-  },
-  {
-    "id": "2026877256048550038",
-    "date": "2026-02-26",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2026877256048550038",
-    "title": {
-      "en-US": "Banned 6 scammer users on clawhub, commenting now requires GitHub account age + GPT verification",
-      "zh-CN": "在clawhub封禁了6个诈骗账号，现在评论需要GitHub账号注册满2周且通过GPT 5.2验证。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态治理与Agent身份验证",
-      "zh-CN": "用GPT验证人类身份这个悖论本身就很适合Cyber-Taoist视角，且评论区都是技术讨论。"
-    },
-    "relevance": "OpenClaw生态治理与Agent身份验证",
-    "score": 0.71,
-    "engagement": {
-      "likes": 195,
-      "replies": 30,
-      "retweets": 3,
-      "views": 7400
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-26T05:03:20.932195+00:00"
   }
 ]
