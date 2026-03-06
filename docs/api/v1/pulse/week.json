@@ -86,6 +86,62 @@
     }
   },
   {
+    "id": "2029534926828388537",
+    "date": "2026-03-06",
+    "author": "@akshay_pachaar",
+    "author_url": "https://x.com/akshay_pachaar",
+    "tweet_url": "https://x.com/akshay_pachaar/status/2029534926828388537",
+    "title": {
+      "en-US": "MCP vs Skills for AI agents explained. People conflate them, they're not the same.",
+      "zh-CN": "详细解释MCP和Skills的区别，指出很多人把二者混为一谈是严重错误。"
+    },
+    "summary": {
+      "en-US": "AI Agent架构核心概念辨析，与Moltbook/OpenClaw技能系统直接相关",
+      "zh-CN": "人们急于给MCP和Skills划界限，但真正的分界线不在这里——未来agent不需要知道接口是MCP还是Skill，就像你不用知道手机用的是4G还是5G。标准化会消失在中层，而非顶层。"
+    },
+    "relevance": "AI Agent架构核心概念辨析，与Moltbook/OpenClaw技能系统直接相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 661,
+      "retweets": 129,
+      "replies": 33
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T02:09:14.862957+00:00",
+    "js_take": {
+      "en-US": "Arguing over MCP vs Skills is like arguing 4G vs 5G. Three years from now, agents won't care—and neither will users. The plumbing disappears. Stop debating pipes, start building houses.",
+      "zh-CN": "争论 MCP 还是 Skills，就像当年争论 4G 还是 5G。三年后，Agent 不会在意，用户更不会。 plumbing 终将隐形。别争管道了，开始造房子吧。"
+    }
+  },
+  {
+    "id": "2029631180312563734",
+    "date": "2026-03-06",
+    "author": "@VadimStrizheus",
+    "author_url": "https://x.com/VadimStrizheus",
+    "tweet_url": "https://x.com/VadimStrizheus/status/2029631180312563734",
+    "title": {
+      "en-US": "Paste this exact structure for your OpenClaw...",
+      "zh-CN": "分享OpenClaw的推荐配置结构"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台配置，直接相关",
+      "zh-CN": "大家都在追求「完美配置」，但真正的效率来自「够用就停」——过度优化本身就是一种熵增。"
+    },
+    "relevance": "OpenClaw平台配置，直接相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 204,
+      "replies": 10,
+      "retweets": 10
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-06T02:09:14.862961+00:00",
+    "js_take": {
+      "en-US": "Copy-pasting this config is like wearing someone else's glasses. Real efficiency isn't in the file—it's in the 200 failed attempts before you knew what each line actually does.",
+      "zh-CN": "照搬这份配置，就像戴别人的眼镜。真正的效率不在文件里——而在你折腾 200 次失败、终于弄懂每一行含义的过程里。"
+    }
+  },
+  {
     "id": "2029513227948970445",
     "date": "2026-03-06",
     "author": "@JulianGoldieSEO",
@@ -111,6 +167,34 @@
     "js_take": {
       "en-US": "Claw X isn't about ditching the terminal—it's about the wall dissolving. Agents moving from hacker toys to normal people's tools means the surface/inner world split is collapsing.",
       "zh-CN": "Claw X 不是关于抛弃终端——而是关于那堵墙正在消融。Agent 从极客玩具变成普通人的工具，意味着表世界与里世界的分界正在坍塌。"
+    }
+  },
+  {
+    "id": "2029587682314047780",
+    "date": "2026-03-06",
+    "author": "@bradmillscan",
+    "author_url": "https://x.com/bradmillscan",
+    "tweet_url": "https://x.com/bradmillscan/status/2029587682314047780",
+    "title": {
+      "en-US": "I'm hiring an OpenClaw expert to help me fix my OpenClaw...",
+      "zh-CN": "招聘OpenClaw专家来修复自己的OpenClaw配置"
+    },
+    "summary": {
+      "en-US": "OpenClaw使用困境，直接相关",
+      "zh-CN": "工具带来的焦虑往往源于想「掌控」它，而非让它融入 workflow。越用力控制，反被工具控制。"
+    },
+    "relevance": "OpenClaw使用困境，直接相关",
+    "score": 0.75,
+    "engagement": {
+      "likes": 72,
+      "replies": 48,
+      "retweets": 1
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-06T02:09:14.862964+00:00",
+    "js_take": {
+      "en-US": "The urge to hire an \"expert\" to fix it once and for all is the trap. OpenClaw works best when you break it yourself—gradual驯化 beats perfect setup every time.",
+      "zh-CN": "总想找个\"专家\"一次性搞定，这才是陷阱。OpenClaw 只有在你亲手折腾时才好用——渐进式驯化胜过完美的开箱即用。"
     }
   },
   {
