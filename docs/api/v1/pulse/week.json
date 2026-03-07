@@ -1,5 +1,33 @@
 [
   {
+    "id": "2030312187915309311",
+    "date": "2026-03-08",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2030312187915309311",
+    "title": {
+      "en-US": "OpenClaw benchmark discussion",
+      "zh-CN": "Peter Steinberger 分享了一篇关于哪个模型最适合 OpenClaw 的评测文章。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台 + Agent 工具链",
+      "zh-CN": "做纠正：大家在争论'哪个模型最好用'，但这问错了问题。真正决定 agent 表现的从不是模型本身，而是使用者的判断力——你给什么上下文、怎么拆解任务、何时该停手。AI 的上限就是使用 AI 的人。"
+    },
+    "relevance": "OpenClaw 平台 + Agent 工具链",
+    "score": 0.82,
+    "engagement": {
+      "likes": 462,
+      "replies": 79,
+      "retweets": 45
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T17:04:59.926496+00:00",
+    "js_take": {
+      "en-US": "You're fighting over which wrench is best while building the wrong house. OpenClaw's ceiling was never the model—it was always the hands holding it.",
+      "zh-CN": "你们在为哪把扳手更好吵得不可开交，却浑然不觉正在盖一栋错误的房子。OpenClaw 的天花板从来不是模型——而是握着它的那双手。"
+    }
+  },
+  {
     "id": "2030264333909840333",
     "date": "2026-03-07",
     "author": "@RoundtableSpace",
