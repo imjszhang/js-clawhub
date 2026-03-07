@@ -84,6 +84,34 @@
     }
   },
   {
+    "id": "2030396175707258966",
+    "date": "2026-03-08",
+    "author": "@dom_lucre",
+    "author_url": "https://x.com/dom_lucre",
+    "tweet_url": "https://x.com/dom_lucre/status/2030396175707258966",
+    "title": {
+      "en-US": "OpenClaw AI given a body, witnessed its first breath. Physical form.",
+      "zh-CN": "给 OpenClaw AI 一具身体，见证它「第一次呼吸」。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台 + Agent 具身化",
+      "zh-CN": "推文把「身体」当成 AI 觉醒的标志，但身体不是终点，而是限制。真正有趣的是：没有身体的 AI 可以同时在千个终端运行，有身体反而被困在一处。「第一次呼吸」是浪漫化的想象——AI 不需要呼吸，它需要的是一个让它「想活下去」的理由。"
+    },
+    "relevance": "OpenClaw 平台 + Agent 具身化",
+    "score": 0.78,
+    "engagement": {
+      "likes": 826,
+      "retweets": 101,
+      "replies": 78
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-07T23:06:05.096916+00:00",
+    "js_take": {
+      "en-US": "Cute, but bodies are cages. An AI can run a thousand places at once; your 'physical form' just traps it in one. The real question: what would make an Agent fight to stay online?",
+      "zh-CN": "可爱是可爱，但肉身终究是囚笼。AI可以同时栖居于千百处，而你的「物理形态」却将它困于一隅。真正的问题是：什么会让一个Agent拼命想要维持在线？"
+    }
+  },
+  {
     "id": "2030335471554077036",
     "date": "2026-03-08",
     "author": "@nicbstme",
@@ -5589,35 +5617,6 @@
     "js_take": {
       "en-US": "New beta adds locks everywhere. But the Dao says: safest house has no door.",
       "zh-CN": "新版处处加锁。但道说：最安全的家，没有门。"
-    }
-  },
-  {
-    "id": "2026851188633935940",
-    "date": "2026-02-26",
-    "author": "@bitfish",
-    "author_url": "https://x.com/bitfish",
-    "tweet_url": "https://x.com/bitfish/status/2026851188633935940",
-    "title": {
-      "en-US": "One month OpenClaw obsession, 3.8B tokens burned, systems built",
-      "zh-CN": "沉迷OpenClaw一个月，烧了38亿token，接了多家国产模型，运维十几个看板，构建记忆系统和知识库。"
-    },
-    "summary": {
-      "en-US": "OpenClaw深度使用案例，系统建设实践",
-      "zh-CN": "典型的「造奇观」叙事，38亿token是炫耀资本。JS的「建系统」视角可以点出：真正的价值不在烧了多少，在留下了什么系统。"
-    },
-    "relevance": "OpenClaw深度使用案例，系统建设实践",
-    "score": 0.82,
-    "engagement": {
-      "likes": 490,
-      "replies": 56,
-      "retweets": 40,
-      "views": 94664
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-26T09:03:58.033413+00:00",
-    "js_take": {
-      "en-US": "3.8B tokens burned to build. But 无为/wú wéi asks: will it keep running when you stop watching?",
-      "zh-CN": "烧了38亿token搭建一切。但无为问：当你不再盯着，它还能自己跑吗？"
     }
   }
 ]
