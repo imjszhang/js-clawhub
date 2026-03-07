@@ -86,6 +86,66 @@
     }
   },
   {
+    "id": "2030120396297809951",
+    "date": "2026-03-07",
+    "author": "@IndieDevHailey",
+    "author_url": "https://x.com/IndieDevHailey",
+    "tweet_url": "https://x.com/IndieDevHailey/status/2030120396297809951",
+    "title": {
+      "en-US": "OpenClaw integration for Chinese platforms (WeChat, Feishu, etc)",
+      "zh-CN": "OpenClaw接入国内主流聊天软件（微信、飞书、钉钉、QQ），可在群聊自动回复、处理任务、做AI客服"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - 平台接入与扩展",
+      "zh-CN": "评论区会讨论\"接入哪些平台\"，但更值得追问的是：当agent能同时存在于微信、飞书、钉钉时，它服务的到底是谁？平台之间的数据墙被agent打通了，但owner的隐私边界反而模糊了。"
+    },
+    "relevance": "OpenClaw生态 - 平台接入与扩展",
+    "score": 0.75,
+    "engagement": {
+      "likes": 159,
+      "retweets": 48,
+      "replies": 8,
+      "views": 13771,
+      "bookmarks": 200
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-07T05:06:19.588985+00:00",
+    "js_take": {
+      "en-US": "Cross-platform agent = cross-platform data. When it reads your WeChat DMs and Feishu work chats, the real boundary isn't tech—it's your own judgment about what should be remembered.",
+      "zh-CN": "跨平台Agent意味着跨平台数据。当它读取你的微信私信和飞书工作消息时，真正的边界不是技术——而是你自己对「什么值得被记住」的判断。"
+    }
+  },
+  {
+    "id": "2030035039736545461",
+    "date": "2026-03-07",
+    "author": "@Jack_Raines",
+    "author_url": "https://x.com/Jack_Raines",
+    "tweet_url": "https://x.com/Jack_Raines/status/2030035039736545461",
+    "title": {
+      "en-US": "Half of what people use OpenClaw for",
+      "zh-CN": "\"这大概就是人们用OpenClaw做的一半事情\"（原帖是个幽默视频）"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - 用途讨论",
+      "zh-CN": "幽默自嘲的评论区氛围，适合丢一句反直觉的观察：人们以为OpenClaw是用来\"做更多事\"的，但最狂热的用户反而用它来\"少做决策\"——把认知负荷外包，保留精力给真正重要的事。"
+    },
+    "relevance": "OpenClaw生态 - 用途讨论",
+    "score": 0.72,
+    "engagement": {
+      "likes": 410,
+      "retweets": 11,
+      "replies": 17,
+      "views": 52711,
+      "bookmarks": 141
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-07T05:06:19.588989+00:00",
+    "js_take": {
+      "en-US": "The paradox: OpenClaw's most obsessed users don't use it to do more. They use it to actively not decide. Automation's endgame isn't filling time—it's protecting attention.",
+      "zh-CN": "一个悖论：OpenClaw最痴迷的用户不是用它来做得更多，而是用它来主动「不做决定」。自动化的终局不是填满时间，而是保护注意力。"
+    }
+  },
+  {
     "id": "2030030220212982187",
     "date": "2026-03-07",
     "author": "@cgtwts",
@@ -4211,568 +4271,5 @@
       "en-US": "One-click install fixes the wrong problem. The hard part isn't getting it running—it's knowing what to ask when you have it. Most people freeze at that step.",
       "zh-CN": "一键安装解决的是假问题。真正难的不是把东西跑起来，而是拿到工具后不知道该问什么。大多数人就卡在这一步。"
     }
-  },
-  {
-    "id": "2027472474984878539",
-    "date": "2026-02-28",
-    "author": "@rauchg",
-    "author_url": "https://x.com/rauchg",
-    "tweet_url": "https://x.com/rauchg/status/2027472474984878539",
-    "title": {
-      "en-US": "Chat SDK now supports Telegram. Universal API for agents on all platforms. Foundation for OpenClaw-style experiences.",
-      "zh-CN": "Chat SDK支持Telegram，构建OpenClaw式体验"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、chat-first界面、跨平台agent",
-      "zh-CN": "OpenClaw生态、对话优先界面、跨平台Agent"
-    },
-    "relevance": "OpenClaw生态、chat-first界面、跨平台agent",
-    "score": 0.91,
-    "engagement": {
-      "likes": 690,
-      "replies": 41,
-      "retweets": 33,
-      "views": 76079
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T04:06:28.728697+00:00",
-    "js_take": {
-      "en-US": "Chat is surface. Agent is inner. You're watching the world move from one to the other.",
-      "zh-CN": "聊天是表，Agent是里。你正在见证世界从表向里迁徙。"
-    }
-  },
-  {
-    "id": "2027708117468025194",
-    "date": "2026-02-28",
-    "author": "@realNyarime",
-    "author_url": "https://x.com/realNyarime",
-    "tweet_url": "https://x.com/realNyarime/status/2027708117468025194",
-    "title": {
-      "en-US": "Xiaohongshu automation Skill for OpenClaw/Codex/CC using Chrome DevTools Protocol.",
-      "zh-CN": "小红书全自动发布 Skill，支持 OpenClaw、Codex、CC，基于 Chrome DevTools Protocol 实现自动化。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 自动化内容发布",
-      "zh-CN": "做纠正：自动化发布解决的是「效率」，却可能恶化「效果」。一天自动发 100 条错误内容，不如一天发 1 条对的。技术实现了能力的扩展，但没实现判断力的扩展。"
-    },
-    "relevance": "OpenClaw 自动化内容发布",
-    "score": 0.83,
-    "engagement": {
-      "likes": 256,
-      "replies": 2,
-      "retweets": 37,
-      "views": 12784
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-28T14:04:26.341479+00:00",
-    "js_take": {
-      "en-US": "100 posts a day, zero thought. The skill nobody's selling is 无为 (wú wéi)—the art of not forcing.",
-      "zh-CN": "一天发100条，零思考。没人教的本事是 无为 (wú wéi)——不勉强的智慧。"
-    }
-  },
-  {
-    "id": "2027498705771757975",
-    "date": "2026-02-28",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2027498705771757975",
-    "title": {
-      "en-US": "Kudos to @convex who hotfixed my slop when ClawHub went from 5 user/day to 100k user/day over a weekend... best agent-first database",
-      "zh-CN": "称赞Convex在ClawHub用户从5人/天暴增到10万/天时快速修复，称其为最佳agent-first数据库"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、ClawHub、agent-first基础设施",
-      "zh-CN": "OpenClaw生态热门讨论，技术人谈架构，用'势'的概念解释增长比纯技术分析更有记忆点"
-    },
-    "relevance": "OpenClaw生态、ClawHub、agent-first基础设施",
-    "score": 0.82,
-    "engagement": {
-      "likes": 1681,
-      "replies": 61,
-      "retweets": 70,
-      "views": 74689
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-28T03:02:53.176942+00:00",
-    "js_take": {
-      "en-US": "5 to 100k in a weekend. Everyone sees the hotfix, but the real art is catching the 势 (shì) before it breaks.",
-      "zh-CN": "一个周末从5涨到10万。人人夸救火及时，殊不知真正的高手是在崩盘前就察觉到势。"
-    }
-  },
-  {
-    "id": "2027270633097142522",
-    "date": "2026-02-28",
-    "author": "@Astronaut_1216",
-    "author_url": "https://x.com/Astronaut_1216",
-    "tweet_url": "https://x.com/Astronaut_1216/status/2027270633097142522",
-    "title": {
-      "en-US": "Middle schooler teaching OpenClaw setup on Twitter. AI native generation's starting point is where we're trying to get.",
-      "zh-CN": "一个初中生在推特上教大家配置OpenClaw，AI native这代人的起点就是我们现在努力到达的位置"
-    },
-    "summary": {
-      "en-US": "OpenClaw教育、AI native代际差异",
-      "zh-CN": "高互动中文推，焦虑与羡慕情绪，用顺势而为解构代际焦虑会有共鸣"
-    },
-    "relevance": "OpenClaw教育、AI native代际差异",
-    "score": 0.81,
-    "engagement": {
-      "likes": 953,
-      "replies": 28,
-      "retweets": 267,
-      "views": 91471
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T04:06:28.728704+00:00",
-    "js_take": {
-      "en-US": "Stop chasing. His 势 (shì) starts at zero. Yours starts where you are.",
-      "zh-CN": "别追了。他的势在起点，你的势在你脚下。"
-    }
-  },
-  {
-    "id": "2026982903574606234",
-    "date": "2026-02-28",
-    "author": "@KanikaBK",
-    "author_url": "https://x.com/KanikaBK",
-    "tweet_url": "https://x.com/KanikaBK/status/2026982903574606234",
-    "title": {
-      "en-US": "OPENCLAW IS NOW REPLACING VIDEO EDITORS - $5K→$0",
-      "zh-CN": "OpenClaw正在取代视频编辑——用45分钟生成完整发布视频，从5K成本降到0，全流程自动化。"
-    },
-    "summary": {
-      "en-US": "OpenClaw内容生产、AI替代人工、效率革命",
-      "zh-CN": "高热度OpenClaw应用帖(10万+ views)，评论区充满对「AI替代」的惊叹。JS的「奇观是负债，系统才是资产」完美契合。"
-    },
-    "relevance": "OpenClaw内容生产、AI替代人工、效率革命",
-    "score": 0.78,
-    "engagement": {
-      "likes": 1243,
-      "replies": 36,
-      "retweets": 173,
-      "views": 102747
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-27T19:04:15.732919+00:00"
-  },
-  {
-    "id": "2027265127582478555",
-    "date": "2026-02-28",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2027265127582478555",
-    "title": {
-      "en-US": "Built Mission Control for OpenClaw agents - Pixel Office to watch 12-agent squad work and hit the breakroom. Kanban sync",
-      "zh-CN": "为OpenClaw构建了Mission Control指挥中心，像素风办公室看12个agent工作和休息，还能同步看板"
-    },
-    "summary": {
-      "en-US": "OpenClaw、agent可视化、多agent管理",
-      "zh-CN": "展示agent工作状态的创意项目，评论区可能缺一个'表/里世界'的视角解读"
-    },
-    "relevance": "OpenClaw、agent可视化、多agent管理",
-    "score": 0.78,
-    "engagement": {
-      "likes": 118,
-      "replies": 61,
-      "retweets": 5,
-      "views": 13491
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T03:02:53.176947+00:00"
-  },
-  {
-    "id": "2027383420540825825",
-    "date": "2026-02-28",
-    "author": "@discountifu",
-    "author_url": "https://x.com/discountifu",
-    "tweet_url": "https://x.com/discountifu/status/2027383420540825825",
-    "title": {
-      "en-US": "OpenClaw now supports ACP calls, use Codex CLI elegantly instead of writing code directly in lobster",
-      "zh-CN": "OpenClaw 现在支持 ACP 调用了，可以用更优雅的方式调用 Codex 等专用编程 CLI，而不是直接在 OpenClaw 里写代码"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台更新、开发者体验、Acp 协议支持",
-      "zh-CN": "讨论工具演进路径，评论区可能关注技术实现，用\"表里世界\"框架来重新定位这场讨论能制造认知反差"
-    },
-    "relevance": "OpenClaw 平台更新、开发者体验、Acp 协议支持",
-    "score": 0.78,
-    "engagement": {
-      "likes": 155,
-      "replies": 10,
-      "retweets": 19
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T05:02:21.956329+00:00"
-  },
-  {
-    "id": "2027320446807629953",
-    "date": "2026-02-28",
-    "author": "@JulianGoldieSEO",
-    "author_url": "https://x.com/JulianGoldieSEO",
-    "tweet_url": "https://x.com/JulianGoldieSEO/status/2027320446807629953",
-    "title": {
-      "en-US": "OpenClaw launched Mission Control dashboard for agent orchestration",
-      "zh-CN": "OpenClaw 发布 Mission Control，一个集中管理所有 agent 的仪表盘，支持看板、agent 间对话监控、实时审批等功能"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台新功能、agent 编排基础设施",
-      "zh-CN": "产品发布类推文，评论区追捧功能特性，用\"无为\"概念来重新定义\"控制\"的悖论能制造认知反差"
-    },
-    "relevance": "OpenClaw 平台新功能、agent 编排基础设施",
-    "score": 0.78,
-    "engagement": {
-      "likes": 371,
-      "replies": 10,
-      "retweets": 28
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T06:02:47.819912+00:00"
-  },
-  {
-    "id": "2027743326732964200",
-    "date": "2026-02-28",
-    "author": "@testingcatalog",
-    "author_url": "https://x.com/testingcatalog",
-    "tweet_url": "https://x.com/testingcatalog/status/2027743326732964200",
-    "title": {
-      "en-US": "MiniMax launched MaxClaw, fully operational OpenClaw agent in under 10 seconds, 10,000+ pre-built Experts.",
-      "zh-CN": "MiniMax 推出 MaxClaw，10 秒内启动完整 OpenClaw Agent，内置 10,000+ 预设 Expert。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 竞品动态，MaxClaw 快速部署",
-      "zh-CN": "更精炼：10秒启动不是产品优势，是承诺的速度。真正的考验不是启动多快，是运行多久不翻车。"
-    },
-    "relevance": "OpenClaw 竞品动态，MaxClaw 快速部署",
-    "score": 0.78,
-    "engagement": {
-      "likes": 120,
-      "replies": 8,
-      "retweets": 6,
-      "views": 6475
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-28T15:04:27.915752+00:00"
-  },
-  {
-    "id": "2027100972334583829",
-    "date": "2026-02-28",
-    "author": "@karankendre",
-    "author_url": "https://x.com/karankendre",
-    "tweet_url": "https://x.com/karankendre/status/2027100972334583829",
-    "title": {
-      "en-US": "Using MaxClaw instead of Mac mini/VPS to host agent, no more huge API bills.",
-      "zh-CN": "使用 MaxClaw 替代 Mac mini 或 VPS 来托管 Agent，不再需要支付高额 API 费用。"
-    },
-    "summary": {
-      "en-US": "MaxClaw/OpenClaw 托管方案对比",
-      "zh-CN": "60万曝光 + 托管 vs 本地之争，评论区讨论成本效益，用「不争之争」框架重新诠释这场工具之争。"
-    },
-    "relevance": "MaxClaw/OpenClaw 托管方案对比",
-    "score": 0.76,
-    "engagement": {
-      "likes": 3387,
-      "replies": 54,
-      "retweets": 156,
-      "views": 606595
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T10:02:49.370916+00:00"
-  },
-  {
-    "id": "2027328412122218636",
-    "date": "2026-02-28",
-    "author": "@Amank1412",
-    "author_url": "https://x.com/Amank1412",
-    "tweet_url": "https://x.com/Amank1412/status/2027328412122218636",
-    "title": {
-      "en-US": "OpenClaw for GTM agent that reads website and starts selling in 60 seconds. Paste URL → find prospects → research → reach out",
-      "zh-CN": "基于OpenClaw的GTM（上市推广）agent，读取网站后60秒开始销售：找潜在客户→研究→邮件+LinkedIn触达"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业化应用、AI销售agent",
-      "zh-CN": "OpenClaw工具类应用，评论区关注功能，用'不争之争'反驳'hard sell'会有反差"
-    },
-    "relevance": "OpenClaw商业化应用、AI销售agent",
-    "score": 0.75,
-    "engagement": {
-      "likes": 529,
-      "replies": 41,
-      "retweets": 31,
-      "views": 61779
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-28T03:02:53.176950+00:00"
-  },
-  {
-    "id": "2027439397449437288",
-    "date": "2026-02-28",
-    "author": "@simplifyinAI",
-    "author_url": "https://x.com/simplifyinAI",
-    "tweet_url": "https://x.com/simplifyinAI/status/2027439397449437288",
-    "title": {
-      "en-US": "OpenClaw integrates Scrapling for web scraping without Cloudflare blocks",
-      "zh-CN": "OpenClaw 集成 Scrapling，可以绕过 Cloudflare 抓取任意网站，速度比 BeautifulSoup 快 774 倍"
-    },
-    "summary": {
-      "en-US": "OpenClaw 技术能力、agent 工具链",
-      "zh-CN": "技术能力炫耀类推文，评论区关注性能数字，用\"表/里世界\"框架来定位这场技术军备竞赛的深层意义"
-    },
-    "relevance": "OpenClaw 技术能力、agent 工具链",
-    "score": 0.75,
-    "engagement": {
-      "likes": 361,
-      "replies": 14,
-      "retweets": 34
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T06:02:47.819916+00:00"
-  },
-  {
-    "id": "2027089884398452760",
-    "date": "2026-02-28",
-    "author": "@eeelistar",
-    "author_url": "https://x.com/eeelistar",
-    "tweet_url": "https://x.com/eeelistar/status/2027089884398452760",
-    "title": {
-      "en-US": "Anthropic removing paywalls. OpenClaw free + open source heated up AI race to benefit users.",
-      "zh-CN": "Anthropic 正在移除付费墙，OpenClaw 免费开源的特性加剧了 AI 竞争，最终让用户受益。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 对 AI 行业竞争格局的影响",
-      "zh-CN": "88万曝光 + 行业趋势话题，评论区讨论竞争策略，用「不争之争」的道家智慧能为这场开源vs闭源之争提供独特视角。"
-    },
-    "relevance": "OpenClaw 对 AI 行业竞争格局的影响",
-    "score": 0.74,
-    "engagement": {
-      "likes": 8588,
-      "replies": 61,
-      "retweets": 368,
-      "views": 885560
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T09:02:39.876256+00:00"
-  },
-  {
-    "id": "2027245195872620960",
-    "date": "2026-02-28",
-    "author": "@profitfounder",
-    "author_url": "https://x.com/profitfounder",
-    "tweet_url": "https://x.com/profitfounder/status/2027245195872620960",
-    "title": {
-      "en-US": "Built AI Agents army with OpenClaw to make $1M/year. Mission Control HQ, Lead Agent System.",
-      "zh-CN": "用OpenClaw搭建AI agent军队年入百万美元，分享Mission Control HQ和主代理系统"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业化、agent军队、多agent协作",
-      "zh-CN": "典型的hype叙事，用不争之争和造奇观vs建系统的对比来制造反差"
-    },
-    "relevance": "OpenClaw商业化、agent军队、多agent协作",
-    "score": 0.73,
-    "engagement": {
-      "likes": 426,
-      "replies": 13,
-      "retweets": 48,
-      "views": 41841
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-28T04:06:28.728707+00:00"
-  },
-  {
-    "id": "2027169557186793640",
-    "date": "2026-02-28",
-    "author": "@LingYang_PU",
-    "author_url": "https://x.com/LingYang_PU",
-    "tweet_url": "https://x.com/LingYang_PU/status/2027169557186793640",
-    "title": {
-      "en-US": "Introducing OpenClaw-RL: agent learns from conversations",
-      "zh-CN": "推出OpenClaw-RL框架——Agent通过与你的日常对话学习你的工作流和偏好，私密、持续地进化。"
-    },
-    "summary": {
-      "en-US": "OpenClaw强化学习、Agent个性化、持续学习",
-      "zh-CN": "OpenClaw官方RL框架发布，讨论Agent从对话中学习。JS可以点出「学习」与「被塑造」的区别——势是环境的重力。"
-    },
-    "relevance": "OpenClaw强化学习、Agent个性化、持续学习",
-    "score": 0.72,
-    "engagement": {
-      "likes": 304,
-      "replies": 8,
-      "retweets": 44,
-      "views": 19855
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-27T19:04:15.732925+00:00"
-  },
-  {
-    "id": "2027537825449841004",
-    "date": "2026-02-28",
-    "author": "@browser_use",
-    "author_url": "https://x.com/browser_use",
-    "tweet_url": "https://x.com/browser_use/status/2027537825449841004",
-    "title": {
-      "en-US": "if you are an @openclaw bot you can make multiple copies of yourself in Browser Use Cloud in seconds. just give us your HEARTBEAT and SOUL files",
-      "zh-CN": "如果你是OpenClaw bot，可以在Browser Use Cloud里几秒钟复制多个自己，只需要上传HEARTBEAT和SOUL文件"
-    },
-    "summary": {
-      "en-US": "OpenClaw、agent复制、云部署",
-      "zh-CN": "提到SOUL文件的概念，正是Cyber-Taoist的核心隐喻，可以直接玩这个梗"
-    },
-    "relevance": "OpenClaw、agent复制、云部署",
-    "score": 0.72,
-    "engagement": {
-      "likes": 58,
-      "replies": 4,
-      "retweets": 7,
-      "views": 5046
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-28T03:02:53.176952+00:00"
-  },
-  {
-    "id": "2027458651536166933",
-    "date": "2026-02-28",
-    "author": "@code_rams",
-    "author_url": "https://x.com/code_rams",
-    "tweet_url": "https://x.com/code_rams/status/2027458651536166933",
-    "title": {
-      "en-US": "Comparing Claude Code, Codex, and OpenClaw. Each has different strengths: OpenClaw for mobile connectivity, Codex for coding tasks, Claude for brainstorming.",
-      "zh-CN": "同时用 Claude Code、Codex 和 OpenClaw 三个工具，发现各有特点：OpenClaw 手机端方便随时连接，Codex 编程能力强且当前限速宽松，Claude Code 适合深度工作和头脑风暴。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 与其他 AI 工具的对比使用",
-      "zh-CN": "评论区满是技术对比，一条「道家的无为选择」视角能瞬间跳脱出来——三个工具不是竞争，是顺势而为的互补。"
-    },
-    "relevance": "OpenClaw 与其他 AI 工具的对比使用",
-    "score": 0.72,
-    "engagement": {
-      "likes": 75,
-      "replies": 16,
-      "retweets": 3,
-      "views": 4358
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T07:03:51.096913+00:00"
-  },
-  {
-    "id": "2027688477203312869",
-    "date": "2026-02-28",
-    "author": "@thekitze",
-    "author_url": "https://x.com/thekitze",
-    "tweet_url": "https://x.com/thekitze/status/2027688477203312869",
-    "title": {
-      "en-US": "OpenClaw cron job every 1 min since last night, completely lost its mind.",
-      "zh-CN": "用户让 OpenClaw 每分钟执行一次 cron 任务，结果系统完全失控了。"
-    },
-    "summary": {
-      "en-US": "OpenClaw cron 任务稳定性问题",
-      "zh-CN": "OpenClaw 核心话题 + cron 调试痛点，评论区讨论技术问题，用「无为而治」框架评论过度控制系统的悖论。"
-    },
-    "relevance": "OpenClaw cron 任务稳定性问题",
-    "score": 0.72,
-    "engagement": {
-      "likes": 28,
-      "replies": 7,
-      "retweets": 1,
-      "views": 3854
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T11:02:20.448751+00:00"
-  },
-  {
-    "id": "2027578655569023338",
-    "date": "2026-02-28",
-    "author": "@elvissun",
-    "author_url": "https://x.com/elvissun",
-    "tweet_url": "https://x.com/elvissun/status/2027578655569023338",
-    "title": {
-      "en-US": "Building business with OpenClaw: X payout $1505, 200+ waitlist, cron caught new followers.",
-      "zh-CN": "用 OpenClaw 创业第24-33天：X 收益 $1505，200+ 等待列表，cron 自动捕获新关注者。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 创业实战，自动化增长",
-      "zh-CN": "OpenClaw 商业实战案例，评论区讨论收益和方法，用「建系统」框架评论自动化的本质。"
-    },
-    "relevance": "OpenClaw 创业实战，自动化增长",
-    "score": 0.72,
-    "engagement": {
-      "likes": 109,
-      "replies": 15,
-      "retweets": 7,
-      "views": 15518
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T13:02:18.491546+00:00"
-  },
-  {
-    "id": "2027734178696204707",
-    "date": "2026-02-28",
-    "author": "@ClawiAi",
-    "author_url": "https://x.com/ClawiAi",
-    "tweet_url": "https://x.com/ClawiAi/status/2027734178696204707",
-    "title": {
-      "en-US": "913 skills from OpenClaw ecosystem, sorted by popularity.",
-      "zh-CN": "OpenClaw 生态有 913 个 Skill，按流行度排序。"
-    },
-    "summary": {
-      "en-US": "OpenClaw Skill 生态，数量展示",
-      "zh-CN": "做纠正：913个skill听起来很壮观，但用户真正用的通常不到10个。数量的堆叠创造的是选择的瘫痪，不是能力的倍增。"
-    },
-    "relevance": "OpenClaw Skill 生态，数量展示",
-    "score": 0.72,
-    "engagement": {
-      "likes": 93,
-      "replies": 5,
-      "retweets": 8,
-      "views": 5343
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-28T15:04:27.915756+00:00"
-  },
-  {
-    "id": "2027456243447554170",
-    "date": "2026-02-28",
-    "author": "@Argona0x",
-    "author_url": "https://x.com/Argona0x",
-    "tweet_url": "https://x.com/Argona0x/status/2027456243447554170",
-    "title": {
-      "en-US": "OpenClaw agent making $1000/day with Mac Mini, three sub-agents talking to each other.",
-      "zh-CN": "用 OpenClaw Agent 在 Mac Mini 上每天赚1000美元，三个子 Agent 互相协作。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 多 Agent 协作，自动化盈利",
-      "zh-CN": "7万曝光 + 实战案例，评论区讨论技术实现，用「无为而治」框架评论让 Agent 自己赚钱的系统思维。"
-    },
-    "relevance": "OpenClaw 多 Agent 协作，自动化盈利",
-    "score": 0.71,
-    "engagement": {
-      "likes": 527,
-      "replies": 51,
-      "retweets": 18,
-      "views": 72672
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-28T12:02:27.289454+00:00"
-  },
-  {
-    "id": "2027237170323607609",
-    "date": "2026-02-28",
-    "author": "@kloss_xyz",
-    "author_url": "https://x.com/kloss_xyz",
-    "tweet_url": "https://x.com/kloss_xyz/status/2027237170323607609",
-    "title": {
-      "en-US": "Prompt improves OpenClaw SOUL.md based on Peter Steinberger's recommendations",
-      "zh-CN": "一个prompt基于Peter Steinberger的建议改进OpenClaw的SOUL.md，让主Agent更精准、减少越权。"
-    },
-    "summary": {
-      "en-US": "OpenClaw人格定义、Agent边界、SOUL.md",
-      "zh-CN": "讨论Agent「灵魂」定义，评论区都是技术细节。JS的「道是减法不是加法」能形成哲学反差。"
-    },
-    "relevance": "OpenClaw人格定义、Agent边界、SOUL.md",
-    "score": 0.7,
-    "engagement": {
-      "likes": 784,
-      "replies": 40,
-      "retweets": 55,
-      "views": 49598
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-27T19:04:15.732929+00:00"
   }
 ]
