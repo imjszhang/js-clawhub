@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" />
   </a>
   <a href="https://github.com/imjszhang/js-clawhub">
-    <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=flat-square" alt="Version" />
+    <img src="https://img.shields.io/badge/Version-1.1.0-blue.svg?style=flat-square" alt="Version" />
   </a>
   <a href="https://imjszhang.github.io/js-clawhub/">
     <img src="https://img.shields.io/badge/Demo-GitHub%20Pages-FCD228?style=flat-square" alt="Demo" />
@@ -109,7 +109,7 @@ npm run preview
 | Command | Description |
 |---------|-------------|
 | `npm run dev` | Start dev server (serves `src/`) |
-| `npm run build` | Build to `docs/` with i18n validation |
+| `npm run build` | Build to `docs/` with i18n validation + sitemap generation |
 | `npm run preview` | Preview build output on port 3000 |
 | `npm run setup` | Configure Cloudflare + GitHub Pages |
 | `npm run cli -- <cmd>` | Run CLI commands (see below) |
@@ -126,7 +126,7 @@ node cli/cli.js <command> [options]
 
 | Command | Description |
 |---------|-------------|
-| `clawhub build` | Build site: src/ → docs/, inject GA, validate i18n |
+| `clawhub build` | Build site: src/ → docs/, inject GA, validate i18n, generate sitemap |
 | `clawhub build --dry-run` | Validate only, don't write files |
 | `clawhub build --skip-ga` | Skip Google Analytics injection |
 | `clawhub commit` | Stage all changes and commit with auto-generated message |
@@ -181,6 +181,10 @@ GitHub Pages will automatically serve the updated content.
 PRs welcome! Fork → Change → Submit.
 
 To add a new project to the directory, create an issue or submit a PR with the project details.
+
+## Changelog
+
+See [CHANGELOG.md](./CHANGELOG.md) for release history and version details.
 
 ## License
 

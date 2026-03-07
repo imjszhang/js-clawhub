@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" />
   </a>
   <a href="https://github.com/imjszhang/js-clawhub">
-    <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=flat-square" alt="Version" />
+    <img src="https://img.shields.io/badge/Version-1.1.0-blue.svg?style=flat-square" alt="Version" />
   </a>
   <a href="https://imjszhang.github.io/js-clawhub/">
     <img src="https://img.shields.io/badge/Demo-GitHub%20Pages-FCD228?style=flat-square" alt="Demo" />
@@ -109,7 +109,7 @@ npm run preview
 | 命令 | 说明 |
 |-----|------|
 | `npm run dev` | 启动开发服务器（serve `src/`） |
-| `npm run build` | 构建到 `docs/`，含 i18n 翻译校验 |
+| `npm run build` | 构建到 `docs/`，含 i18n 翻译校验 + sitemap 自动生成 |
 | `npm run preview` | 在 3000 端口预览构建产物 |
 | `npm run setup` | 配置 Cloudflare + GitHub Pages |
 | `npm run cli -- <cmd>` | 运行 CLI 命令（见下方） |
@@ -126,7 +126,7 @@ node cli/cli.js <command> [options]
 
 | 命令 | 说明 |
 |-----|------|
-| `clawhub build` | 构建站点：src/ → docs/，注入 GA，校验 i18n |
+| `clawhub build` | 构建站点：src/ → docs/，注入 GA，校验 i18n，生成 sitemap |
 | `clawhub build --dry-run` | 仅校验，不写入文件 |
 | `clawhub build --skip-ga` | 跳过 Google Analytics 注入 |
 | `clawhub commit` | 暂存所有变更并自动生成 commit message 提交 |
@@ -181,6 +181,10 @@ GitHub Pages 会自动提供更新后的内容。
 欢迎 PR！Fork → 修改 → 提交。
 
 要添加新项目到导航站，请创建 issue 或提交包含项目信息的 PR。
+
+## 变更日志
+
+查看 [CHANGELOG.md](./CHANGELOG.md) 了解版本发布历史和变更详情。
 
 ## 许可证
 

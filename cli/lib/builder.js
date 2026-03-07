@@ -16,6 +16,7 @@ const __dirname = dirname(__filename);
 const ROOT = resolve(__dirname, '..', '..');
 const SRC = join(ROOT, 'src');
 const DOCS = join(ROOT, 'docs');
+const SITE_URL = 'https://js-clawhub.com';
 
 const GA_ID = 'G-DL14E140EC';
 const GA_SNIPPET = `<!-- Google tag (gtag.js) -->
@@ -289,6 +290,66 @@ function generateApiLayer() {
     return fileCount;
 }
 
+// ── Sitemap generation ───────────────────────────────────────────────
+
+function generateSitemap() {
+    const today = new Date().toISOString().split('T')[0];
+
+    const blogPosts = JSON.parse(readFileSync(join(SRC, 'blog', 'posts', 'index.json'), 'utf-8'));
+    const skills = JSON.parse(readFileSync(join(SRC, 'skills', 'data', 'index.json'), 'utf-8'));
+
+    const latestBlogDate = blogPosts.length ? blogPosts[0].date : today;
+    const latestSkillDate = skills.length
+        ? skills.reduce((max, s) => s.date > max ? s.date : max, skills[0].date)
+        : today;
+    const latestDate = [latestBlogDate, latestSkillDate].reduce((max, d) => d > max ? d : max);
+
+    const urls = [
+        { loc: '/', lastmod: latestDate, changefreq: 'weekly', priority: '1.0' },
+        { loc: '/blog/', lastmod: latestBlogDate, changefreq: 'weekly', priority: '0.8' },
+        { loc: '/skills/', lastmod: latestSkillDate, changefreq: 'weekly', priority: '0.8' },
+        { loc: '/guide/', lastmod: today, changefreq: 'monthly', priority: '0.8' },
+        { loc: '/pulse/', lastmod: today, changefreq: 'daily', priority: '0.7' },
+        { loc: '/projects/', lastmod: today, changefreq: 'monthly', priority: '0.7' },
+    ];
+
+    for (const post of blogPosts) {
+        urls.push({
+            loc: `/blog/post.html?slug=${post.slug}`,
+            lastmod: post.date,
+            changefreq: 'monthly',
+            priority: '0.6',
+        });
+    }
+
+    for (const skill of skills) {
+        urls.push({
+            loc: `/skills/detail.html?slug=${skill.slug}`,
+            lastmod: skill.date,
+            changefreq: 'monthly',
+            priority: '0.6',
+        });
+    }
+
+    const xml = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+        ...urls.map(u => [
+            '  <url>',
+            `    <loc>${SITE_URL}${u.loc}</loc>`,
+            `    <lastmod>${u.lastmod}</lastmod>`,
+            `    <changefreq>${u.changefreq}</changefreq>`,
+            `    <priority>${u.priority}</priority>`,
+            '  </url>',
+        ].join('\n')),
+        '</urlset>',
+        '',
+    ].join('\n');
+
+    writeFileSync(join(DOCS, 'sitemap.xml'), xml, 'utf-8');
+    return urls.length;
+}
+
 // ── Public API ───────────────────────────────────────────────────────
 
 /**
@@ -314,21 +375,21 @@ export function build(options = {}) {
 
     // Step 1: Clean (maxRetries handles IDE file-watcher race conditions)
     if (clean && !dryRun) {
-        toStderr('[1/7] Cleaning docs/ ...');
+        toStderr('[1/8] Cleaning docs/ ...');
         if (existsSync(DOCS)) {
             rmSync(DOCS, { recursive: true, force: true, maxRetries: 3, retryDelay: 100 });
         }
         mkdirSync(DOCS, { recursive: true });
     } else if (dryRun) {
-        toStderr('[1/7] Cleaning docs/ ... (skipped: dry-run)');
+        toStderr('[1/8] Cleaning docs/ ... (skipped: dry-run)');
     } else {
-        toStderr('[1/7] Cleaning docs/ ... (skipped: --no-clean)');
+        toStderr('[1/8] Cleaning docs/ ... (skipped: --no-clean)');
     }
 
     // Step 2: Copy
     let filesCopied = 0;
     if (!dryRun) {
-        toStderr('[2/7] Copying src/ → docs/ ...');
+        toStderr('[2/8] Copying src/ → docs/ ...');
         if (!existsSync(DOCS)) {
             mkdirSync(DOCS, { recursive: true });
         }
@@ -336,56 +397,66 @@ export function build(options = {}) {
         cleanBlogImportArtifacts();
         filesCopied = countFiles(DOCS);
     } else {
-        toStderr('[2/7] Copying src/ → docs/ ... (skipped: dry-run)');
+        toStderr('[2/8] Copying src/ → docs/ ... (skipped: dry-run)');
         filesCopied = countFiles(SRC);
     }
 
     // Step 3: .nojekyll
     if (!dryRun) {
-        toStderr('[3/7] Creating .nojekyll ...');
+        toStderr('[3/8] Creating .nojekyll ...');
         writeFileSync(join(DOCS, '.nojekyll'), '');
     } else {
-        toStderr('[3/7] Creating .nojekyll ... (skipped: dry-run)');
+        toStderr('[3/8] Creating .nojekyll ... (skipped: dry-run)');
     }
 
     // Step 4: GA injection
     let gaInjected = 0;
     if (!skipGa && !dryRun) {
-        toStderr('[4/7] Injecting Google Analytics ...');
+        toStderr('[4/8] Injecting Google Analytics ...');
         gaInjected = injectGA(DOCS);
         toStderr(`     Injected into ${gaInjected} HTML file(s)`);
     } else {
-        toStderr(`[4/7] Injecting Google Analytics ... (skipped${skipGa ? ': --skip-ga' : ': dry-run'})`);
+        toStderr(`[4/8] Injecting Google Analytics ... (skipped${skipGa ? ': --skip-ga' : ': dry-run'})`);
     }
 
     // Step 5: i18n validation
     let i18nWarnings = [];
     if (!skipI18n) {
-        toStderr('[5/7] Validating i18n translations ...');
+        toStderr('[5/8] Validating i18n translations ...');
         i18nWarnings = validateI18n();
         for (const w of i18nWarnings) {
             toStderr(`  ⚠️  Missing "${w.locale}" in ${w.file} → ${w.field}`);
         }
     } else {
-        toStderr('[5/7] Validating i18n translations ... (skipped: --skip-i18n)');
+        toStderr('[5/8] Validating i18n translations ... (skipped: --skip-i18n)');
     }
 
     // Step 6: Sanitize pulse data (strip internal fields from public output)
     if (!dryRun) {
-        toStderr('[6/7] Sanitizing pulse data ...');
+        toStderr('[6/8] Sanitizing pulse data ...');
         sanitizePulseDataInDocs();
     } else {
-        toStderr('[6/7] Sanitizing pulse data ... (skipped: dry-run)');
+        toStderr('[6/8] Sanitizing pulse data ... (skipped: dry-run)');
     }
 
     // Step 7: Generate API layer for agent skills
     let apiFiles = 0;
     if (!dryRun) {
-        toStderr('[7/7] Generating API layer (api/v1/) ...');
+        toStderr('[7/8] Generating API layer (api/v1/) ...');
         apiFiles = generateApiLayer();
         toStderr(`      Generated ${apiFiles} file(s) in api/v1/`);
     } else {
-        toStderr('[7/7] Generating API layer ... (skipped: dry-run)');
+        toStderr('[7/8] Generating API layer ... (skipped: dry-run)');
+    }
+
+    // Step 8: Generate sitemap.xml from content indexes
+    let sitemapUrls = 0;
+    if (!dryRun) {
+        toStderr('[8/8] Generating sitemap.xml ...');
+        sitemapUrls = generateSitemap();
+        toStderr(`      ${sitemapUrls} URL(s) in sitemap.xml`);
+    } else {
+        toStderr('[8/8] Generating sitemap.xml ... (skipped: dry-run)');
     }
 
     // Summary
@@ -399,5 +470,5 @@ export function build(options = {}) {
     toStderr(`📁 Output: docs/`);
     toStderr(`⏱  ${elapsed}ms\n`);
 
-    return { filesCopied, gaInjected, i18nWarnings, apiFiles, elapsed, dryRun };
+    return { filesCopied, gaInjected, i18nWarnings, apiFiles, sitemapUrls, elapsed, dryRun };
 }
