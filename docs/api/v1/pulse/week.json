@@ -343,6 +343,34 @@
     }
   },
   {
+    "id": "2029937241514996054",
+    "date": "2026-03-07",
+    "author": "@FutureStacked",
+    "author_url": "https://x.com/FutureStacked",
+    "tweet_url": "https://x.com/FutureStacked/status/2029937241514996054",
+    "title": {
+      "en-US": "MyClaw hosts OpenClaw 24/7 in cloud with one click",
+      "zh-CN": "MyClaw 一键将 OpenClaw 部署到云端 24/7 运行"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态——托管服务降低门槛",
+      "zh-CN": "更深度：一键部署 24/7 听着像解放，实则是把'什么时候该让 agent 停'的决策权外包了。真正的难点从'怎么跑'变成了'什么时候该让它闭嘴'——而云托管恰恰让人更难养成这个判断力。"
+    },
+    "relevance": "OpenClaw生态——托管服务降低门槛",
+    "score": 0.74,
+    "engagement": {
+      "likes": 241,
+      "retweets": 64,
+      "replies": 9
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-07T15:03:16.395136+00:00",
+    "js_take": {
+      "en-US": "One-click 24/7 sounds like freedom. It's not. The hard skill isn't keeping it running—it's knowing when to shut it off. Hosting solves the tech; judgment needs you present. Cloud makes that harder, not easier.",
+      "zh-CN": "一键7×24小时自动运行听起来是自由，实则不然。真正的难点不是让它持续运转，而是知道何时该停下来。托管解决了技术问题，但判断需要你的亲身在场。云端让后者变得更难，而非更容易。"
+    }
+  },
+  {
     "id": "2030035039736545461",
     "date": "2026-03-07",
     "author": "@Jack_Raines",
