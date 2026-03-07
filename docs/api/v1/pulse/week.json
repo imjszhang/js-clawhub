@@ -85,6 +85,36 @@
     }
   },
   {
+    "id": "2029939859239096483",
+    "date": "2026-03-07",
+    "author": "@Voxyz_ai",
+    "author_url": "https://x.com/Voxyz_ai",
+    "tweet_url": "https://x.com/Voxyz_ai/status/2029939859239096483",
+    "title": {
+      "en-US": "OpenClaw silently trims files over 20k chars, agents ignore rules they never saw",
+      "zh-CN": "OpenClaw文件超过2万字符会被静默截断，导致agent看不到你写的规则"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台技术细节，Agent工程实践",
+      "zh-CN": "写太多规则是一种幻觉控制——你以为字数=约束力，其实agent能消化的上下文就那么多；少即是多，限制倒逼精炼。"
+    },
+    "relevance": "OpenClaw平台技术细节，Agent工程实践",
+    "score": 0.78,
+    "engagement": {
+      "likes": 137,
+      "replies": 17,
+      "retweets": 15,
+      "views": 11461,
+      "bookmarks": 243
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T10:03:03.627831+00:00",
+    "js_take": {
+      "en-US": "20k limit isn't a bug. It's the platform calling your bluff—stop writing rules for your fantasy agent and start writing for the real one.",
+      "zh-CN": "两万token限制不是bug，是平台在逼你摊牌——别再给幻想中的Agent写规则了，为现实里的那个写。"
+    }
+  },
+  {
     "id": "2029943091528950248",
     "date": "2026-03-07",
     "author": "@xmayeth",
@@ -144,6 +174,35 @@
     }
   },
   {
+    "id": "2029987616389734454",
+    "date": "2026-03-07",
+    "author": "@amir",
+    "author_url": "https://x.com/amir",
+    "tweet_url": "https://x.com/amir/status/2029987616389734454",
+    "title": {
+      "en-US": "OpenClaw blowing up in China, Alibaba & Tencent embracing it faster than US",
+      "zh-CN": "OpenClaw在中国爆火，阿里腾讯等云厂商拥抱速度比美国还快"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态，中国AI市场动态",
+      "zh-CN": "美国讲规则、讲合规，中国讲落地、讲效率；这不是谁对谁错，是『顺势而为』——水往低处流，技术往阻力最小的方向扩散。"
+    },
+    "relevance": "OpenClaw生态，中国AI市场动态",
+    "score": 0.75,
+    "engagement": {
+      "likes": 237,
+      "retweets": 37,
+      "replies": 13,
+      "views": 20615
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T10:03:03.627837+00:00",
+    "js_take": {
+      "en-US": "US Cloud is still in the compliance meeting. China Cloud already shipped. Water flows downhill—tech flows where the walls are lowest.",
+      "zh-CN": "美国云还在合规审查，中国云已经落地。水往低处流，技术流向壁垒最低处。"
+    }
+  },
+  {
     "id": "2030035039736545461",
     "date": "2026-03-07",
     "author": "@Jack_Raines",
@@ -199,6 +258,36 @@
     "js_take": {
       "en-US": "You call it \"no intervention.\" Two millennia ago they called it wu wei. Smartest control makes the controlled forget they're being controlled.",
       "zh-CN": "你叫它「不干预」，两千年前人们叫它「无为」。最高明的控制，是让被控制者忘记自己正在被控制。"
+    }
+  },
+  {
+    "id": "2030095380772442173",
+    "date": "2026-03-07",
+    "author": "@NVIDIARobotics",
+    "author_url": "https://x.com/NVIDIARobotics",
+    "tweet_url": "https://x.com/NVIDIARobotics/status/2030095380772442173",
+    "title": {
+      "en-US": "Tutorial: run always-on personal assistant on Jetson with OpenClaw, zero cloud APIs",
+      "zh-CN": "教程：在NVIDIA Jetson上跑OpenClaw，零云端API的7x24个人助理"
+    },
+    "summary": {
+      "en-US": "OpenClaw本地部署，边缘AI",
+      "zh-CN": "云端是『租来的家』，本地是『自己的地』；当agent变成基础设施，依赖云端就像把脑子放在别人服务器上。"
+    },
+    "relevance": "OpenClaw本地部署，边缘AI",
+    "score": 0.71,
+    "engagement": {
+      "likes": 132,
+      "retweets": 22,
+      "replies": 6,
+      "views": 10678,
+      "bookmarks": 93
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T10:03:03.627840+00:00",
+    "js_take": {
+      "en-US": "Cloud agents are tenants—miss a payment, you're evicted. Jetson in your drawer is property. Small, slow, and actually yours.",
+      "zh-CN": "云Agent是租客，欠费即被清退；抽屉里的Jetson才是私有资产。虽小虽慢，但确实属于你。"
     }
   },
   {

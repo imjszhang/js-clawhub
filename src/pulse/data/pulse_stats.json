@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-07T08:05:16.466417+00:00",
+  "updated_at": "2026-03-07T10:03:16.398224+00:00",
   "this_week": {
-    "total_items": 128,
+    "total_items": 131,
     "avg_score": 0.77,
-    "unique_authors": 101,
+    "unique_authors": 103,
     "top_items": [
       {
         "id": "2029295335596527777",
@@ -999,31 +999,33 @@
         }
       },
       {
-        "id": "2029246676339474841",
-        "date": "2026-03-06",
-        "author": "@ihtesham2005",
-        "author_url": "https://x.com/ihtesham2005",
-        "tweet_url": "https://x.com/ihtesham2005/status/2029246676339474841",
+        "id": "2029939859239096483",
+        "date": "2026-03-07",
+        "author": "@Voxyz_ai",
+        "author_url": "https://x.com/Voxyz_ai",
+        "tweet_url": "https://x.com/Voxyz_ai/status/2029939859239096483",
         "title": {
-          "en-US": "Anthropic hackathon winner dropped Claude Code config bible with agents, skills, hooks, MCPs",
-          "zh-CN": "Claude Code 完整配置指南发布，包含 agents、skills、MCPs 等全套工程实践"
+          "en-US": "OpenClaw silently trims files over 20k chars, agents ignore rules they never saw",
+          "zh-CN": "OpenClaw文件超过2万字符会被静默截断，导致agent看不到你写的规则"
         },
         "summary": {
-          "en-US": "直接相关：Claude Code / OpenClaw 生态的 AI Agent 工程实践",
-          "zh-CN": "做纠正：10个月积累的「最佳实践配置」恰恰是误区——真正高效的系统不是堆砌功能，而是做减法后让核心链路自己运转。配置越多，agent 的自主空间反而越小。"
+          "en-US": "OpenClaw平台技术细节，Agent工程实践",
+          "zh-CN": "写太多规则是一种幻觉控制——你以为字数=约束力，其实agent能消化的上下文就那么多；少即是多，限制倒逼精炼。"
         },
-        "relevance": "直接相关：Claude Code / OpenClaw 生态的 AI Agent 工程实践",
+        "relevance": "OpenClaw平台技术细节，Agent工程实践",
         "score": 0.78,
         "engagement": {
-          "likes": 698,
-          "replies": 18,
-          "retweets": 99
+          "likes": 137,
+          "replies": 17,
+          "retweets": 15,
+          "views": 11461,
+          "bookmarks": 243
         },
         "comment_type": "reframe",
-        "synced_at": "2026-03-05T16:08:17.898509+00:00",
+        "synced_at": "2026-03-07T10:03:03.627831+00:00",
         "js_take": {
-          "en-US": "10 months of config is debt, not wisdom. You've built a cage and called it best practice—the best agents run on trust, not switches.",
-          "zh-CN": "十个月的配置不是智慧，是债务。你把笼子当成最佳实践——顶尖 Agent 靠信任驱动，不靠开关。"
+          "en-US": "20k limit isn't a bug. It's the platform calling your bluff—stop writing rules for your fantasy agent and start writing for the real one.",
+          "zh-CN": "两万token限制不是bug，是平台在逼你摊牌——别再给幻想中的Agent写规则了，为现实里的那个写。"
         }
       }
     ]
