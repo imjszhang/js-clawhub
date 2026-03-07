@@ -140,6 +140,34 @@
     }
   },
   {
+    "id": "2030372236754927928",
+    "date": "2026-03-08",
+    "author": "@Legendaryy",
+    "author_url": "https://x.com/Legendaryy",
+    "tweet_url": "https://x.com/Legendaryy/status/2030372236754927928",
+    "title": {
+      "en-US": "Built gigabrain memory OS for AI agents—OpenClaw's native memory is just searchable markdown",
+      "zh-CN": "作者厌倦了OpenClaw代理忘记3个会话前\"记住\"的内容，于是开发了更好的记忆系统gigabrain"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI代理记忆/Agent基础设施——直接相关的平台生态讨论",
+      "zh-CN": "大家都在解决\"如何让AI记得更多\"，但也许真正的问题是\"如何让AI学会忘记\"。人类大脑的高效恰恰来自于选择性遗忘——不重要的细节被压缩、模式被保留。一个什么都记住的AI，和一个什么都忘不掉的强迫症病人，本质上都是信息处理系统的故障。（做纠正：指出\"记忆越多越好\"的假设存在根本性问题）"
+    },
+    "relevance": "OpenClaw/AI代理记忆/Agent基础设施——直接相关的平台生态讨论",
+    "score": 0.7175,
+    "engagement": {
+      "likes": 68,
+      "replies": 14,
+      "retweets": 5
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T22:05:19.380288+00:00",
+    "js_take": {
+      "en-US": "We've raced to give AI perfect memory, but brains work because they forget. Maybe the next leap isn't 'better storage'—it's knowing what to drop.",
+      "zh-CN": "我们拼命想让AI拥有完美记忆，却忘了人脑的智慧恰恰在于遗忘。真正的突破或许不是「更强的存储」——而是懂得什么该放手。"
+    }
+  },
+  {
     "id": "2030264333909840333",
     "date": "2026-03-07",
     "author": "@RoundtableSpace",

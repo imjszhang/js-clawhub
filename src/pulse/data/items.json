@@ -140,6 +140,34 @@
     }
   },
   {
+    "id": "2030372236754927928",
+    "date": "2026-03-08",
+    "author": "@Legendaryy",
+    "author_url": "https://x.com/Legendaryy",
+    "tweet_url": "https://x.com/Legendaryy/status/2030372236754927928",
+    "title": {
+      "en-US": "Built gigabrain memory OS for AI agents—OpenClaw's native memory is just searchable markdown",
+      "zh-CN": "作者厌倦了OpenClaw代理忘记3个会话前\"记住\"的内容，于是开发了更好的记忆系统gigabrain"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI代理记忆/Agent基础设施——直接相关的平台生态讨论",
+      "zh-CN": "大家都在解决\"如何让AI记得更多\"，但也许真正的问题是\"如何让AI学会忘记\"。人类大脑的高效恰恰来自于选择性遗忘——不重要的细节被压缩、模式被保留。一个什么都记住的AI，和一个什么都忘不掉的强迫症病人，本质上都是信息处理系统的故障。（做纠正：指出\"记忆越多越好\"的假设存在根本性问题）"
+    },
+    "relevance": "OpenClaw/AI代理记忆/Agent基础设施——直接相关的平台生态讨论",
+    "score": 0.7175,
+    "engagement": {
+      "likes": 68,
+      "replies": 14,
+      "retweets": 5
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T22:05:19.380288+00:00",
+    "js_take": {
+      "en-US": "We've raced to give AI perfect memory, but brains work because they forget. Maybe the next leap isn't 'better storage'—it's knowing what to drop.",
+      "zh-CN": "我们拼命想让AI拥有完美记忆，却忘了人脑的智慧恰恰在于遗忘。真正的突破或许不是「更强的存储」——而是懂得什么该放手。"
+    }
+  },
+  {
     "id": "2030264333909840333",
     "date": "2026-03-07",
     "author": "@RoundtableSpace",
@@ -5590,35 +5618,6 @@
     "js_take": {
       "en-US": "3.8B tokens burned to build. But 无为/wú wéi asks: will it keep running when you stop watching?",
       "zh-CN": "烧了38亿token搭建一切。但无为问：当你不再盯着，它还能自己跑吗？"
-    }
-  },
-  {
-    "id": "2026956308092453360",
-    "date": "2026-02-26",
-    "author": "@cryptoxiao",
-    "author_url": "https://x.com/cryptoxiao",
-    "tweet_url": "https://x.com/cryptoxiao/status/2026956308092453360",
-    "title": {
-      "en-US": "Open sources 6551 X + news MCP + SKILL, solving data infrastructure problems",
-      "zh-CN": "开源6551的X+全网新闻源MCP+SKILL，解决消息太多看不完和X API难接的问题，打包一年积累的数据架构。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态基础设施建设，MCP与Skill开源",
-      "zh-CN": "大家都在庆祝「又多了个工具」，但没人问：工具越多，注意力越碎。JS可以用「无为」点出：真正的解决方案是减法，不是加法。"
-    },
-    "relevance": "OpenClaw生态基础设施建设，MCP与Skill开源",
-    "score": 0.82,
-    "engagement": {
-      "likes": 516,
-      "replies": 162,
-      "retweets": 120,
-      "views": 22164
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-26T11:03:07.696573+00:00",
-    "js_take": {
-      "en-US": "More MCPs, more skills. But 道/Dào asks: are they sharpening your focus or hiding your fear of choosing?",
-      "zh-CN": "MCP 和 Skill 越堆越多。但道问：它们是在帮你聚焦，还是在掩饰你不敢做选择？"
     }
   }
 ]
