@@ -1,5 +1,89 @@
 [
   {
+    "id": "2030264333909840333",
+    "date": "2026-03-07",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2030264333909840333",
+    "title": {
+      "en-US": "Companies paying $6k for OpenClaw setup - business opportunity",
+      "zh-CN": "有人花6000美元搭建OpenClaw，这是门好生意"
+    },
+    "summary": {
+      "en-US": "OpenClaw 商业机会讨论，高曝光技术变现话题",
+      "zh-CN": "OpenClaw商业机会，技术变现的高热度话题"
+    },
+    "relevance": "OpenClaw 商业机会讨论，高曝光技术变现话题",
+    "score": 0.92,
+    "engagement": {
+      "likes": 167,
+      "replies": 46,
+      "retweets": 12
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T14:04:12.124166+00:00",
+    "js_take": {
+      "en-US": "You’re not selling automation—you’re selling the job of babysitting it. Real money is in building systems that run while you sleep, not invoices for setup.",
+      "zh-CN": "你卖的不是自动化，而是'伺候自动化'的差事。真正赚钱的是能24小时自动运转的系统，而不是一次性的搭建服务费。"
+    }
+  },
+  {
+    "id": "2030053396552536397",
+    "date": "2026-03-07",
+    "author": "@Shpigford",
+    "author_url": "https://x.com/Shpigford",
+    "tweet_url": "https://x.com/Shpigford/status/2030053396552536397",
+    "title": {
+      "en-US": "What's the best low-cost model for OpenClaw?",
+      "zh-CN": "OpenClaw低成本模型怎么选？"
+    },
+    "summary": {
+      "en-US": "OpenClaw 模型选型，高互动技术讨论",
+      "zh-CN": "OpenClaw模型选型，技术圈热议"
+    },
+    "relevance": "OpenClaw 模型选型，高互动技术讨论",
+    "score": 0.89,
+    "engagement": {
+      "likes": 52,
+      "replies": 87,
+      "retweets": 0
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T14:04:12.124172+00:00",
+    "js_take": {
+      "en-US": "You’re optimizing the wrong bill. The cheapest model isn’t the one with the lowest price—it’s the one you don’t have to babysit.",
+      "zh-CN": "你优化错账单了。最便宜的模型不是价格最低的那个——而是你不用半夜起来伺候的那个。"
+    }
+  },
+  {
+    "id": "2030250143258153215",
+    "date": "2026-03-07",
+    "author": "@Hesamation",
+    "author_url": "https://x.com/Hesamation",
+    "tweet_url": "https://x.com/Hesamation/status/2030250143258153215",
+    "title": {
+      "en-US": "Gave OpenClaw a body and saw it take its first breath",
+      "zh-CN": "给OpenClaw装上身体，看着它第一次\"呼吸\""
+    },
+    "summary": {
+      "en-US": "OpenClaw 物理 embodiment，情感共鸣强的话题",
+      "zh-CN": "OpenClaw物理实体化，高情感共鸣话题"
+    },
+    "relevance": "OpenClaw 物理 embodiment，情感共鸣强的话题",
+    "score": 0.86,
+    "engagement": {
+      "likes": 70,
+      "replies": 6,
+      "retweets": 9
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T14:04:12.124175+00:00",
+    "js_take": {
+      "en-US": "Intelligence isn’t in the hardware or the code—it’s in the friction between them. We don’t build robots to mimic life; we build them to buy ourselves time to actually live.",
+      "zh-CN": "智能不在硬件里，也不在代码里——而在两者之间的摩擦中。我们造机器人不是为了模仿生命，而是为了给自己争取真正去生活的时间。"
+    }
+  },
+  {
     "id": "2029979079315968131",
     "date": "2026-03-07",
     "author": "@BoWang87",
@@ -25,6 +109,34 @@
     "js_take": {
       "en-US": "You're celebrating portability when you should be demanding invisibility. The endpoint of tech isn't 'I can carry it'—it's 'I forgot I have it'.",
       "zh-CN": "You're celebrating portability when you should be demanding invisibility. The endpoint of tech isn't 'I can carry it'—it's 'I forgot I have it'."
+    }
+  },
+  {
+    "id": "2030221468244775131",
+    "date": "2026-03-07",
+    "author": "@moritzkremb",
+    "author_url": "https://x.com/moritzkremb",
+    "tweet_url": "https://x.com/moritzkremb/status/2030221468244775131",
+    "title": {
+      "en-US": "OpenClaw model benchmark testing 23 real world tasks",
+      "zh-CN": "OpenClaw实测23个真实任务，考验模型硬实力"
+    },
+    "summary": {
+      "en-US": "OpenClaw 基准测试，技术社区关注话题",
+      "zh-CN": "OpenClaw基准测试，技术社区关注话题"
+    },
+    "relevance": "OpenClaw 基准测试，技术社区关注话题",
+    "score": 0.85,
+    "engagement": {
+      "likes": 117,
+      "replies": 28,
+      "retweets": 9
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T14:04:12.124177+00:00",
+    "js_take": {
+      "en-US": "Benchmarks reward models that can do 23 tasks. The real world rewards models that finish task #24 without waking you up at 3am.",
+      "zh-CN": "基准测试奖励能做23个任务的模型。现实世界奖励的是能独立完成第24个任务、且不会在凌晨3点把你吵醒的模型。"
     }
   },
   {
@@ -5492,102 +5604,5 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-25T20:01:58.565780+00:00"
-  },
-  {
-    "id": "2026580426597503029",
-    "date": "2026-02-26",
-    "author": "@sitinme",
-    "author_url": "https://x.com/sitinme",
-    "tweet_url": "https://x.com/sitinme/status/2026580426597503029",
-    "title": {
-      "en-US": "OpenClaw awesome skills list filters 5000+ skills",
-      "zh-CN": "sitin 分享 awesome-openclaw-skills 仓库，从 5000+ skills 中筛选出优质内容，按 30+ 类别整理。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、技能市场、筛选与策展",
-      "zh-CN": "技能数量泛滥 vs 精选需求，可以用'少则得，多则惑'来评论这种策展行为的价值。"
-    },
-    "relevance": "OpenClaw、技能市场、筛选与策展",
-    "score": 0.78,
-    "engagement": {
-      "likes": 121,
-      "replies": 2,
-      "retweets": 24
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-26T02:03:00.374414+00:00"
-  },
-  {
-    "id": "2026845606887538990",
-    "date": "2026-02-26",
-    "author": "@cryptopunk7213",
-    "author_url": "https://x.com/cryptopunk7213",
-    "tweet_url": "https://x.com/cryptopunk7213/status/2026845606887538990",
-    "title": {
-      "en-US": "OpenClaw生态爆发：perplexity/anthropic/picoclaw...",
-      "zh-CN": "盘点当前OpenClaw生态的各种变体：perplexity版、anthropic版、mini版、安全版、中文版、企业版。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态爆发，直接相关",
-      "zh-CN": "大家都在列举产品形态，一句\" Jarvis Law \"的东方版本会让技术从业者驻足。"
-    },
-    "relevance": "OpenClaw生态爆发，直接相关",
-    "score": 0.78,
-    "engagement": {
-      "likes": 250,
-      "replies": 18,
-      "retweets": 16,
-      "views": 20671
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-26T04:03:09.647712+00:00"
-  },
-  {
-    "id": "2026726864325328961",
-    "date": "2026-02-26",
-    "author": "@MatthewBerman",
-    "author_url": "https://x.com/MatthewBerman",
-    "tweet_url": "https://x.com/MatthewBerman/status/2026726864325328961",
-    "title": {
-      "en-US": "they're building openclaw",
-      "zh-CN": "Matthew Berman 发了一条简短的推文'他们正在造 OpenClaw'，暗示某大公司正在开发类似产品。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、大厂入场、平台竞争",
-      "zh-CN": "简短推文引发大量猜测，评论区热议谁在建 OpenClaw。JS 的'表/里世界'理论可以完美解释这一现象。"
-    },
-    "relevance": "OpenClaw、大厂入场、平台竞争",
-    "score": 0.77,
-    "engagement": {
-      "likes": 2054,
-      "replies": 159,
-      "retweets": 70
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-25T22:02:24.785010+00:00"
-  },
-  {
-    "id": "2026707599438029020",
-    "date": "2026-02-26",
-    "author": "@championswimmer",
-    "author_url": "https://x.com/championswimmer",
-    "tweet_url": "https://x.com/championswimmer/status/2026707599438029020",
-    "title": {
-      "en-US": "Perplexity Computer as safer OpenClaw alternative",
-      "zh-CN": "Arnav 讨论 Perplexity Computer 和 Manus 可能是目前唯二安全且成熟的通用多模型 Agent，比 OpenClaw 更安全。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 安全性讨论、平台竞争",
-      "zh-CN": "评论区聚焦'安全'vs'开放'的辩论，JS 的'表/里世界'理论可以重新定义这场讨论。"
-    },
-    "relevance": "OpenClaw 安全性讨论、平台竞争",
-    "score": 0.76,
-    "engagement": {
-      "likes": 133,
-      "replies": 7,
-      "retweets": 2
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-25T23:02:12.197993+00:00"
   }
 ]

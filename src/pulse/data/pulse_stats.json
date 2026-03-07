@@ -1,10 +1,38 @@
 {
-  "updated_at": "2026-03-07T11:03:26.313777+00:00",
+  "updated_at": "2026-03-07T14:04:33.820160+00:00",
   "this_week": {
-    "total_items": 132,
+    "total_items": 136,
     "avg_score": 0.77,
-    "unique_authors": 104,
+    "unique_authors": 107,
     "top_items": [
+      {
+        "id": "2030264333909840333",
+        "date": "2026-03-07",
+        "author": "@RoundtableSpace",
+        "author_url": "https://x.com/RoundtableSpace",
+        "tweet_url": "https://x.com/RoundtableSpace/status/2030264333909840333",
+        "title": {
+          "en-US": "Companies paying $6k for OpenClaw setup - business opportunity",
+          "zh-CN": "有人花6000美元搭建OpenClaw，这是门好生意"
+        },
+        "summary": {
+          "en-US": "OpenClaw 商业机会讨论，高曝光技术变现话题",
+          "zh-CN": "OpenClaw商业机会，技术变现的高热度话题"
+        },
+        "relevance": "OpenClaw 商业机会讨论，高曝光技术变现话题",
+        "score": 0.92,
+        "engagement": {
+          "likes": 167,
+          "replies": 46,
+          "retweets": 12
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-07T14:04:12.124166+00:00",
+        "js_take": {
+          "en-US": "You’re not selling automation—you’re selling the job of babysitting it. Real money is in building systems that run while you sleep, not invoices for setup.",
+          "zh-CN": "你卖的不是自动化，而是'伺候自动化'的差事。真正赚钱的是能24小时自动运转的系统，而不是一次性的搭建服务费。"
+        }
+      },
       {
         "id": "2029295335596527777",
         "date": "2026-03-05",
@@ -89,6 +117,34 @@
         "js_take": {
           "en-US": "Cursor building OpenClaw isn't a flex—it's defensive panic. The war isn't about feature lists; it's about who removes the most decisions from devs' plates. Fewer choices, stickier moat.",
           "zh-CN": "Cursor做OpenClaw不是在炫技——是防御性恐慌。这场战争不在功能列表，而在谁能帮开发者砍掉最多的决策。选择越少，护城河越宽。"
+        }
+      },
+      {
+        "id": "2030053396552536397",
+        "date": "2026-03-07",
+        "author": "@Shpigford",
+        "author_url": "https://x.com/Shpigford",
+        "tweet_url": "https://x.com/Shpigford/status/2030053396552536397",
+        "title": {
+          "en-US": "What's the best low-cost model for OpenClaw?",
+          "zh-CN": "OpenClaw低成本模型怎么选？"
+        },
+        "summary": {
+          "en-US": "OpenClaw 模型选型，高互动技术讨论",
+          "zh-CN": "OpenClaw模型选型，技术圈热议"
+        },
+        "relevance": "OpenClaw 模型选型，高互动技术讨论",
+        "score": 0.89,
+        "engagement": {
+          "likes": 52,
+          "replies": 87,
+          "retweets": 0
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-07T14:04:12.124172+00:00",
+        "js_take": {
+          "en-US": "You’re optimizing the wrong bill. The cheapest model isn’t the one with the lowest price—it’s the one you don’t have to babysit.",
+          "zh-CN": "你优化错账单了。最便宜的模型不是价格最低的那个——而是你不用半夜起来伺候的那个。"
         }
       },
       {
@@ -287,6 +343,34 @@
         "synced_at": "2026-03-02T06:09:50.703079+00:00"
       },
       {
+        "id": "2030250143258153215",
+        "date": "2026-03-07",
+        "author": "@Hesamation",
+        "author_url": "https://x.com/Hesamation",
+        "tweet_url": "https://x.com/Hesamation/status/2030250143258153215",
+        "title": {
+          "en-US": "Gave OpenClaw a body and saw it take its first breath",
+          "zh-CN": "给OpenClaw装上身体，看着它第一次\"呼吸\""
+        },
+        "summary": {
+          "en-US": "OpenClaw 物理 embodiment，情感共鸣强的话题",
+          "zh-CN": "OpenClaw物理实体化，高情感共鸣话题"
+        },
+        "relevance": "OpenClaw 物理 embodiment，情感共鸣强的话题",
+        "score": 0.86,
+        "engagement": {
+          "likes": 70,
+          "replies": 6,
+          "retweets": 9
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-07T14:04:12.124175+00:00",
+        "js_take": {
+          "en-US": "Intelligence isn’t in the hardware or the code—it’s in the friction between them. We don’t build robots to mimic life; we build them to buy ourselves time to actually live.",
+          "zh-CN": "智能不在硬件里，也不在代码里——而在两者之间的摩擦中。我们造机器人不是为了模仿生命，而是为了给自己争取真正去生活的时间。"
+        }
+      },
+      {
         "id": "2029752914382660090",
         "date": "2026-03-06",
         "author": "@ErickSky",
@@ -396,6 +480,34 @@
         "js_take": {
           "en-US": "You're celebrating portability when you should be demanding invisibility. The endpoint of tech isn't 'I can carry it'—it's 'I forgot I have it'.",
           "zh-CN": "You're celebrating portability when you should be demanding invisibility. The endpoint of tech isn't 'I can carry it'—it's 'I forgot I have it'."
+        }
+      },
+      {
+        "id": "2030221468244775131",
+        "date": "2026-03-07",
+        "author": "@moritzkremb",
+        "author_url": "https://x.com/moritzkremb",
+        "tweet_url": "https://x.com/moritzkremb/status/2030221468244775131",
+        "title": {
+          "en-US": "OpenClaw model benchmark testing 23 real world tasks",
+          "zh-CN": "OpenClaw实测23个真实任务，考验模型硬实力"
+        },
+        "summary": {
+          "en-US": "OpenClaw 基准测试，技术社区关注话题",
+          "zh-CN": "OpenClaw基准测试，技术社区关注话题"
+        },
+        "relevance": "OpenClaw 基准测试，技术社区关注话题",
+        "score": 0.85,
+        "engagement": {
+          "likes": 117,
+          "replies": 28,
+          "retweets": 9
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-07T14:04:12.124177+00:00",
+        "js_take": {
+          "en-US": "Benchmarks reward models that can do 23 tasks. The real world rewards models that finish task #24 without waking you up at 3am.",
+          "zh-CN": "基准测试奖励能做23个任务的模型。现实世界奖励的是能独立完成第24个任务、且不会在凌晨3点把你吵醒的模型。"
         }
       },
       {
@@ -910,122 +1022,6 @@
         "js_take": {
           "en-US": "They're not buying Macs. They're buying seats at the Agent economy table. 128GB isn't memory — it's the minimum bet to stay in the game.",
           "zh-CN": "他们买的不是Mac，而是Agent经济牌桌上的入场券。128GB不是内存，而是留在牌局里的最低筹码。"
-        }
-      },
-      {
-        "id": "2028833375046238538",
-        "date": "2026-03-04",
-        "author": "@thestanduppod",
-        "author_url": "https://x.com/thestanduppod",
-        "tweet_url": "https://x.com/thestanduppod/status/2028833375046238538",
-        "title": {
-          "en-US": "Why OpenClaw users buy Mac minis",
-          "zh-CN": "探讨为什么 OpenClaw 用户购买 Mac mini"
-        },
-        "summary": {
-          "en-US": "OpenClaw 硬件选择与本地部署",
-          "zh-CN": "「买 Mac mini」是本地算力崇拜——人们以为硬件能解决延迟和隐私问题，却忽略了模型质量和生态整合才是真正的瓶颈。"
-        },
-        "relevance": "OpenClaw 硬件选择与本地部署",
-        "score": 0.8,
-        "engagement": {
-          "likes": 1169,
-          "retweets": 66,
-          "replies": 67,
-          "views": 60492,
-          "bookmarks": 374
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T17:09:17.376578+00:00",
-        "js_take": {
-          "en-US": "Buying a Mac mini to \"fix\" latency is like buying a Ferrari for grocery runs. The bottleneck isn't your chip—it's the model quality and ecosystem integration you can't see yet.",
-          "zh-CN": "买 Mac mini 来「解决」延迟，就像买法拉利去菜市场。瓶颈不是芯片，而是你还没意识到的模型质量和生态整合。"
-        }
-      },
-      {
-        "id": "2028853647501656270",
-        "date": "2026-03-04",
-        "author": "@denisyurchak",
-        "author_url": "https://x.com/denisyurchak",
-        "tweet_url": "https://x.com/denisyurchak/status/2028853647501656270",
-        "title": {
-          "en-US": "Built first eSIM service for OpenClaw, AI assistant delivers eSIMs via chat",
-          "zh-CN": "为 OpenClaw 构建了首个 eSIM 服务，AI 助手通过 Telegram/WhatsApp 聊天直接交付 eSIM"
-        },
-        "summary": {
-          "en-US": "OpenClaw 生态的实际应用案例，展示 Agent 如何整合现实服务",
-          "zh-CN": "这个案例真正重要的不是 eSIM，而是展示了 Agent 从\"回答问题\"进化到\"完成闭环交易\"的临界点——当 AI 能直接交付数字商品，它就从一个聊天工具变成了基础设施。"
-        },
-        "relevance": "OpenClaw 生态的实际应用案例，展示 Agent 如何整合现实服务",
-        "score": 0.79,
-        "engagement": {
-          "likes": 88,
-          "replies": 10,
-          "retweets": 4
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-03T20:05:34.370250+00:00",
-        "js_take": {
-          "en-US": "eSIM is just the surface. When Agents can close deals on their own, the question isn't what they deliver—it's whether you're ready to give them wallets.",
-          "zh-CN": "eSIM只是表象。当Agent能独立完成交易时，问题不在于它们能交付什么——而在于你是否准备好给它们钱包。"
-        }
-      },
-      {
-        "id": "2027964342210310275",
-        "date": "2026-03-02",
-        "author": "@frxiaobei",
-        "author_url": "https://x.com/frxiaobei",
-        "tweet_url": "https://x.com/frxiaobei/status/2027964342210310275",
-        "title": {
-          "en-US": "OpenClaw Memory Anxiety: spending week on memory system, AI does nothing",
-          "zh-CN": "凡人小北指出 OpenClaw 新手的\"Memory 焦虑症\"——先花一周折腾记忆架构，结果 AI 还是什么都没帮你做。"
-        },
-        "summary": {
-          "en-US": "OpenClaw 新手误区、Memory 系统设计、过早优化",
-          "zh-CN": "花一周设计记忆系统却不用 AI 做事，就像装修房子十年却从不搬进去住——你以为在准备，其实是在逃避开始。（做纠正：完善的前置准备往往是拖延的精致包装）"
-        },
-        "relevance": "OpenClaw 新手误区、Memory 系统设计、过早优化",
-        "score": 0.79,
-        "engagement": {
-          "likes": 162,
-          "replies": 7,
-          "retweets": 25
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-02T00:04:28.494307+00:00",
-        "js_take": {
-          "en-US": "Week on memory, zero work done? That's not preparation—it's procrastination wearing engineering clothes. The best memory system starts with using the thing, then letting forgotten tasks tell you what's missing.",
-          "zh-CN": "花一周搞记忆系统却零产出？这不是准备，是披着工程外衣的拖延。最好的记忆系统从用起来开始，让被遗忘的任务自己告诉你缺了什么。"
-        }
-      },
-      {
-        "id": "2029939859239096483",
-        "date": "2026-03-07",
-        "author": "@Voxyz_ai",
-        "author_url": "https://x.com/Voxyz_ai",
-        "tweet_url": "https://x.com/Voxyz_ai/status/2029939859239096483",
-        "title": {
-          "en-US": "OpenClaw silently trims files over 20k chars, agents ignore rules they never saw",
-          "zh-CN": "OpenClaw文件超过2万字符会被静默截断，导致agent看不到你写的规则"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台技术细节，Agent工程实践",
-          "zh-CN": "写太多规则是一种幻觉控制——你以为字数=约束力，其实agent能消化的上下文就那么多；少即是多，限制倒逼精炼。"
-        },
-        "relevance": "OpenClaw平台技术细节，Agent工程实践",
-        "score": 0.78,
-        "engagement": {
-          "likes": 137,
-          "replies": 17,
-          "retweets": 15,
-          "views": 11461,
-          "bookmarks": 243
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-07T10:03:03.627831+00:00",
-        "js_take": {
-          "en-US": "20k limit isn't a bug. It's the platform calling your bluff—stop writing rules for your fantasy agent and start writing for the real one.",
-          "zh-CN": "两万token限制不是bug，是平台在逼你摊牌——别再给幻想中的Agent写规则了，为现实里的那个写。"
         }
       }
     ]
