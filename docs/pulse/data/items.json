@@ -203,6 +203,34 @@
     }
   },
   {
+    "id": "2030106529094111675",
+    "date": "2026-03-07",
+    "author": "@orangie",
+    "author_url": "https://x.com/orangie",
+    "tweet_url": "https://x.com/orangie/status/2030106529094111675",
+    "title": {
+      "en-US": "People charging $6,000 for OpenClaw setup",
+      "zh-CN": "有人收费6000美元帮公司搭建OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态讨论，关于技能价值与信息不对称",
+      "zh-CN": "指出「收费6000美元」这个现象背后的认知错位——市场愿意为「完成配置」付费，但真正的价值在于「理解为什么需要配置」。这不是技术门槛的问题，是需求本身还没被想清楚的信号。"
+    },
+    "relevance": "OpenClaw生态讨论，关于技能价值与信息不对称",
+    "score": 0.75,
+    "engagement": {
+      "likes": 275,
+      "replies": 58,
+      "retweets": 14
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-07T11:03:16.313214+00:00",
+    "js_take": {
+      "en-US": "$6K buys the comfort of being told what to configure. The irony? People who pay this won't use it well. People who'd use it well won't pay.",
+      "zh-CN": "6000美元，买的是「有人告诉你该怎么配置」的安心感。\n\n讽刺的是？愿意掏这笔钱的人，根本用不好它。而能把它用好的人，绝不会掏这笔钱。"
+    }
+  },
+  {
     "id": "2030035039736545461",
     "date": "2026-03-07",
     "author": "@Jack_Raines",
@@ -5561,30 +5589,5 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-25T23:02:12.197993+00:00"
-  },
-  {
-    "id": "2026846900591407541",
-    "date": "2026-02-26",
-    "author": "@elvissun",
-    "author_url": "https://x.com/elvissun",
-    "tweet_url": "https://x.com/elvissun/status/2026846900591407541",
-    "title": {
-      "en-US": "Solved Gmail security for OpenClaw using gog, security by design",
-      "zh-CN": "为OpenClaw解决了Gmail安全问题，使用gog实现，强调「设计即安全」而非提示工程。"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全实践，「设计即安全」理念",
-      "zh-CN": "「Security by design」与道家「无为而治」哲学高度同构，评论区却没人提。"
-    },
-    "relevance": "OpenClaw安全实践，「设计即安全」理念",
-    "score": 0.76,
-    "engagement": {
-      "likes": 184,
-      "replies": 14,
-      "retweets": 7,
-      "views": 17652
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-26T05:03:20.932192+00:00"
   }
 ]
