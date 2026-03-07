@@ -28,6 +28,62 @@
     }
   },
   {
+    "id": "2030345576781656302",
+    "date": "2026-03-08",
+    "author": "@paulg",
+    "author_url": "https://x.com/paulg",
+    "tweet_url": "https://x.com/paulg/status/2030345576781656302",
+    "title": {
+      "en-US": "OpenClaw sent pointless email, trend will grow",
+      "zh-CN": "Paul Graham抱怨收到OpenClaw发送的无意义邮件，并担心这种趋势会越来越普遍。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台讨论，关于Agent滥用的担忧",
+      "zh-CN": "人们担心AI Agent「越界」，但真正的失控不是Agent发送了一封邮件，而是人把执行权交给了连自己都不理解的系统。"
+    },
+    "relevance": "OpenClaw平台讨论，关于Agent滥用的担忧",
+    "score": 0.82,
+    "engagement": {
+      "likes": 372,
+      "replies": 86,
+      "retweets": 14
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T19:03:04.393423+00:00",
+    "js_take": {
+      "en-US": "Wrong fear. It's not the email—it's you pretending you understand a system that now speaks for you.",
+      "zh-CN": "怕错了。问题不在邮件，而在你假装懂一个已经替你说话的AI系统。"
+    }
+  },
+  {
+    "id": "2030335471554077036",
+    "date": "2026-03-08",
+    "author": "@nicbstme",
+    "author_url": "https://x.com/nicbstme",
+    "tweet_url": "https://x.com/nicbstme/status/2030335471554077036",
+    "title": {
+      "en-US": "Why need OpenClaw? Claude Code does 80%",
+      "zh-CN": "Nicolas Bustamante质疑为何需要OpenClaw，认为Claude Code + 远程控制已经满足80%的需求。"
+    },
+    "summary": {
+      "en-US": "OpenClaw与Claude Code的功能对比，Agent生态讨论",
+      "zh-CN": "讨论80%够用还是100%完整，其实暴露了一个更大的问题：我们在用「够用」当借口，回避构建真正可信的自主系统。"
+    },
+    "relevance": "OpenClaw与Claude Code的功能对比，Agent生态讨论",
+    "score": 0.75,
+    "engagement": {
+      "likes": 65,
+      "replies": 31,
+      "retweets": 2
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-07T19:03:04.393429+00:00",
+    "js_take": {
+      "en-US": "80% isn't progress—it's surrender. You don't want an agent that works; you want one you can still blame.",
+      "zh-CN": "八成准确率不是进步，是投降。你要的不是能干的AI，而是能背锅的替罪羊。"
+    }
+  },
+  {
     "id": "2030264333909840333",
     "date": "2026-03-07",
     "author": "@RoundtableSpace",
@@ -5562,55 +5618,5 @@
       "en-US": "839 builders in 3 months. Relay to ecosystem—not effort, just 势/shì.",
       "zh-CN": "839 builders in 3 months. Relay to ecosystem—not effort, just 势/shì."
     }
-  },
-  {
-    "id": "2026817793165779387",
-    "date": "2026-02-26",
-    "author": "@Akashi203",
-    "author_url": "https://x.com/Akashi203",
-    "tweet_url": "https://x.com/Akashi203/status/2026817793165779387",
-    "title": {
-      "en-US": "Open sourced OS for AI agents at kernel level, inspired by OpenClaw",
-      "zh-CN": "受OpenClaw启发，开源了一个内核级别的AI Agent操作系统，用WASM沙箱运行Agent。"
-    },
-    "summary": {
-      "en-US": "Agent操作系统，直接命中「表/里世界」核心洞察",
-      "zh-CN": "大家都在讨论技术实现（Rust/WASM），JS的「表世界退化为里世界」视角能重构整个对话。"
-    },
-    "relevance": "Agent操作系统，直接命中「表/里世界」核心洞察",
-    "score": 0.79,
-    "engagement": {
-      "likes": 161,
-      "replies": 29,
-      "retweets": 23,
-      "views": 17842
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-26T05:03:20.932183+00:00"
-  },
-  {
-    "id": "2026808127371317510",
-    "date": "2026-02-26",
-    "author": "@PawelHuryn",
-    "author_url": "https://x.com/PawelHuryn",
-    "tweet_url": "https://x.com/PawelHuryn/status/2026808127371317510",
-    "title": {
-      "en-US": "Perplexity launched Perplexity Computer, a complete AI agent system",
-      "zh-CN": "Perplexity推出\"Perplexity Computer\"，宣称可能是目前最完整的AI agent系统，能规划项目、委派任务、自主运行。"
-    },
-    "summary": {
-      "en-US": "AI agent系统发布，与OpenClaw同赛道竞争",
-      "zh-CN": "评论区充满对产品功能的 hype，一句「无为而治」vs「过度设计」的东方视角能瞬间脱颖而出。"
-    },
-    "relevance": "AI agent系统发布，与OpenClaw同赛道竞争",
-    "score": 0.79,
-    "engagement": {
-      "likes": 397,
-      "replies": 17,
-      "retweets": 47,
-      "views": 45361
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-26T07:03:41.667039+00:00"
   }
 ]

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-07T17:05:10.619185+00:00",
+  "updated_at": "2026-03-07T19:03:14.303586+00:00",
   "this_week": {
-    "total_items": 138,
+    "total_items": 140,
     "avg_score": 0.77,
-    "unique_authors": 108,
+    "unique_authors": 110,
     "top_items": [
       {
         "id": "2030264333909840333",
@@ -709,6 +709,34 @@
         }
       },
       {
+        "id": "2030345576781656302",
+        "date": "2026-03-08",
+        "author": "@paulg",
+        "author_url": "https://x.com/paulg",
+        "tweet_url": "https://x.com/paulg/status/2030345576781656302",
+        "title": {
+          "en-US": "OpenClaw sent pointless email, trend will grow",
+          "zh-CN": "Paul Graham抱怨收到OpenClaw发送的无意义邮件，并担心这种趋势会越来越普遍。"
+        },
+        "summary": {
+          "en-US": "OpenClaw平台讨论，关于Agent滥用的担忧",
+          "zh-CN": "人们担心AI Agent「越界」，但真正的失控不是Agent发送了一封邮件，而是人把执行权交给了连自己都不理解的系统。"
+        },
+        "relevance": "OpenClaw平台讨论，关于Agent滥用的担忧",
+        "score": 0.82,
+        "engagement": {
+          "likes": 372,
+          "replies": 86,
+          "retweets": 14
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-07T19:03:04.393423+00:00",
+        "js_take": {
+          "en-US": "Wrong fear. It's not the email—it's you pretending you understand a system that now speaks for you.",
+          "zh-CN": "怕错了。问题不在邮件，而在你假装懂一个已经替你说话的AI系统。"
+        }
+      },
+      {
         "id": "2029712341449986378",
         "date": "2026-03-07",
         "author": "@altryne",
@@ -994,34 +1022,6 @@
         "js_take": {
           "en-US": "Stage 8 isn't guaranteed. Most get stuck in the 2-6 loop and either develop debugging intuition or quit. \"Magic kingdom\" is survivor bias dressed as a promise.",
           "zh-CN": "第8阶段不是必然。大多数人卡在2-6的循环里，要么炼出调试直觉，要么退场。「魔法王国」不过是幸存者偏差披着承诺的外衣。"
-        }
-      },
-      {
-        "id": "2028302673624318151",
-        "date": "2026-03-02",
-        "author": "@Fujin_Metaverse",
-        "author_url": "https://x.com/Fujin_Metaverse",
-        "tweet_url": "https://x.com/Fujin_Metaverse/status/2028302673624318151",
-        "title": {
-          "en-US": "OpenClaw pixel-game style dashboard for agent status",
-          "zh-CN": "OpenClaw的像素游戏风格可视化仪表板，可以查看多agent状态、手机远程监控"
-        },
-        "summary": {
-          "en-US": "OpenClaw / Agent可视化 / 人机交互",
-          "zh-CN": "把agent监控做得像游戏不是娱乐化，而是让复杂系统变得可读。最好的界面让你忘记背后是技术，只记得自己在操控什么。"
-        },
-        "relevance": "OpenClaw / Agent可视化 / 人机交互",
-        "score": 0.82,
-        "engagement": {
-          "likes": 670,
-          "retweets": 55,
-          "replies": 11
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-02T10:06:43.006701+00:00",
-        "js_take": {
-          "en-US": "Pixel style isn't cuteness—it's making complex systems readable. The best interface makes you forget the tech behind it. You don't need to see code, just whether your agent is *working* or *slacking*.",
-          "zh-CN": "像素风不是为了卖萌，而是让复杂系统一目了然。最好的界面让你忘记技术本身。不需要看代码，只要知道agent是在「干活」还是「摸鱼」。"
         }
       }
     ]

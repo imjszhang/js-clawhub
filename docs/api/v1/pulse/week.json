@@ -28,6 +28,62 @@
     }
   },
   {
+    "id": "2030345576781656302",
+    "date": "2026-03-08",
+    "author": "@paulg",
+    "author_url": "https://x.com/paulg",
+    "tweet_url": "https://x.com/paulg/status/2030345576781656302",
+    "title": {
+      "en-US": "OpenClaw sent pointless email, trend will grow",
+      "zh-CN": "Paul Graham抱怨收到OpenClaw发送的无意义邮件，并担心这种趋势会越来越普遍。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台讨论，关于Agent滥用的担忧",
+      "zh-CN": "人们担心AI Agent「越界」，但真正的失控不是Agent发送了一封邮件，而是人把执行权交给了连自己都不理解的系统。"
+    },
+    "relevance": "OpenClaw平台讨论，关于Agent滥用的担忧",
+    "score": 0.82,
+    "engagement": {
+      "likes": 372,
+      "replies": 86,
+      "retweets": 14
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T19:03:04.393423+00:00",
+    "js_take": {
+      "en-US": "Wrong fear. It's not the email—it's you pretending you understand a system that now speaks for you.",
+      "zh-CN": "怕错了。问题不在邮件，而在你假装懂一个已经替你说话的AI系统。"
+    }
+  },
+  {
+    "id": "2030335471554077036",
+    "date": "2026-03-08",
+    "author": "@nicbstme",
+    "author_url": "https://x.com/nicbstme",
+    "tweet_url": "https://x.com/nicbstme/status/2030335471554077036",
+    "title": {
+      "en-US": "Why need OpenClaw? Claude Code does 80%",
+      "zh-CN": "Nicolas Bustamante质疑为何需要OpenClaw，认为Claude Code + 远程控制已经满足80%的需求。"
+    },
+    "summary": {
+      "en-US": "OpenClaw与Claude Code的功能对比，Agent生态讨论",
+      "zh-CN": "讨论80%够用还是100%完整，其实暴露了一个更大的问题：我们在用「够用」当借口，回避构建真正可信的自主系统。"
+    },
+    "relevance": "OpenClaw与Claude Code的功能对比，Agent生态讨论",
+    "score": 0.75,
+    "engagement": {
+      "likes": 65,
+      "replies": 31,
+      "retweets": 2
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-07T19:03:04.393429+00:00",
+    "js_take": {
+      "en-US": "80% isn't progress—it's surrender. You don't want an agent that works; you want one you can still blame.",
+      "zh-CN": "八成准确率不是进步，是投降。你要的不是能干的AI，而是能背锅的替罪羊。"
+    }
+  },
+  {
     "id": "2030264333909840333",
     "date": "2026-03-07",
     "author": "@RoundtableSpace",
