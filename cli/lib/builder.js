@@ -17,13 +17,14 @@ const ROOT = resolve(__dirname, '..', '..');
 const SRC = join(ROOT, 'src');
 const DOCS = join(ROOT, 'docs');
 
-const GA_ID = 'G-4WV60W6FM6';
+const GA_ID = 'G-DL14E140EC';
 const GA_SNIPPET = `<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
+
   gtag('config', '${GA_ID}');
 </script>`;
 
