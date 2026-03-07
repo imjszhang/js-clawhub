@@ -56,6 +56,34 @@
     }
   },
   {
+    "id": "2030144033448968241",
+    "date": "2026-03-08",
+    "author": "@janakiramm",
+    "author_url": "https://x.com/janakiramm",
+    "tweet_url": "https://x.com/janakiramm/status/2030144033448968241",
+    "title": {
+      "en-US": "SKILL.md is eating MCP Servers - markdown files vs heavy token usage",
+      "zh-CN": "SKILL.md 正在取代 MCP Servers，因为 MCP 服务器每次要烧 5 万 token 教 agent 做事，而 200 token 的 markdown 文件就能搞定同样的事"
+    },
+    "summary": {
+      "en-US": "OpenClaw Agent 架构 - 轻量级 skill 系统 vs 重型 MCP",
+      "zh-CN": "复杂度不是护城河，是负债。MCP 用 5 万 token 做 SKILL.md 200 token 就能做的事，就像用航母送外卖。真正高效的系统是让简单的东西保持简单。"
+    },
+    "relevance": "OpenClaw Agent 架构 - 轻量级 skill 系统 vs 重型 MCP",
+    "score": 0.78,
+    "engagement": {
+      "likes": 104,
+      "replies": 11,
+      "retweets": 16
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T20:03:33.405940+00:00",
+    "js_take": {
+      "en-US": "50k tokens vs 200. You're not buying infrastructure—you're subsidizing architecture cosplay. The best tools disappear; the overengineered ones send you invoices.",
+      "zh-CN": "5万 token 对 200。你不是在购买基础设施——你是在为「架构cosplay」买单。最好的工具让你无感消失，过度设计的那些才会给你寄账单。"
+    }
+  },
+  {
     "id": "2030335471554077036",
     "date": "2026-03-08",
     "author": "@nicbstme",
@@ -81,6 +109,34 @@
     "js_take": {
       "en-US": "80% isn't progress—it's surrender. You don't want an agent that works; you want one you can still blame.",
       "zh-CN": "八成准确率不是进步，是投降。你要的不是能干的AI，而是能背锅的替罪羊。"
+    }
+  },
+  {
+    "id": "2030364018716627418",
+    "date": "2026-03-08",
+    "author": "@mattshumer_",
+    "author_url": "https://x.com/mattshumer_",
+    "tweet_url": "https://x.com/mattshumer_/status/2030364018716627418",
+    "title": {
+      "en-US": "My OpenClaw knows he fucked up and is too scared to respond",
+      "zh-CN": "Reflection 功能显示 OpenClaw \"知道自己搞砸了，不敢回应\""
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台功能展示 - Agent 自我反思",
+      "zh-CN": "这句话暴露了一个认知误区：把 AI 的 uncertainty 拟人化成 '害怕'。这不是情感，是概率分布的数学表达。拟人化让我们误解了底层机制。"
+    },
+    "relevance": "OpenClaw 平台功能展示 - Agent 自我反思",
+    "score": 0.72,
+    "engagement": {
+      "likes": 110,
+      "replies": 39,
+      "retweets": 2
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-07T20:03:33.405948+00:00",
+    "js_take": {
+      "en-US": "It's not scared. It's probability weights adjusting. We keep writing fan fiction about stochastic processes, then wonder why we misunderstand the tech.",
+      "zh-CN": "它不是「害怕」，只是概率权重在调整。我们乐此不疲地为随机过程撰写同人文，然后又纳闷为什么总误解这项技术。"
     }
   },
   {
