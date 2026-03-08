@@ -512,19 +512,37 @@ export default function register(api) {
   // ---------------------------------------------------------------------------
 
   api.registerHttpRoute({
-    path: `${ROUTE_PREFIX}`,
-    auth: "plugin",
-    async handler(req, res) {
-      res.writeHead(301, { Location: `${ROUTE_PREFIX}/` });
-      res.end();
-    },
-  });
-
-  api.registerHttpRoute({
     path: `${ROUTE_PREFIX}/`,
     auth: "plugin",
-    async handler(_req, res) {
-      serveStaticFile(res, nodePath.join(SRC_DIR, "index.html"));
+    match: "prefix",
+    async handler(req, res) {
+      const parsed = new URL(req.url, `http://${req.headers.host || "localhost"}`);
+      const subPath = decodeURIComponent(
+        parsed.pathname.slice(ROUTE_PREFIX.length + 1),
+      );
+
+      if (subPath.startsWith("api/")) {
+        return false;
+      }
+
+      let filePath = nodePath.normalize(nodePath.join(SRC_DIR, subPath));
+      if (filePath !== SRC_DIR && !filePath.startsWith(SRC_DIR + nodePath.sep)) {
+        res.writeHead(403, { "Content-Type": "text/plain" });
+        res.end("Forbidden");
+        return true;
+      }
+
+      if (nodeFs.existsSync(filePath) && nodeFs.statSync(filePath).isDirectory()) {
+        filePath = nodePath.join(filePath, "index.html");
+      }
+
+      if (!nodeFs.existsSync(filePath)) {
+        res.writeHead(404, { "Content-Type": "text/plain" });
+        res.end("Not Found");
+        return true;
+      }
+      serveStaticFile(res, filePath);
+      return true;
     },
   });
 
@@ -629,33 +647,4 @@ export default function register(api) {
     },
   });
 
-  api.registerHttpRoute({
-    path: `${ROUTE_PREFIX}/{filePath}`,
-    auth: "plugin",
-    async handler(req, res) {
-      const parsed = new URL(req.url, `http://${req.headers.host || "localhost"}`);
-      const subPath = decodeURIComponent(
-        parsed.pathname.slice(ROUTE_PREFIX.length + 1),
-      );
-
-      if (subPath.startsWith("api/")) {
-        res.writeHead(404, { "Content-Type": "text/plain" });
-        res.end("Not Found");
-        return;
-      }
-
-      const filePath = nodePath.normalize(nodePath.join(SRC_DIR, subPath));
-      if (!filePath.startsWith(SRC_DIR)) {
-        res.writeHead(403, { "Content-Type": "text/plain" });
-        res.end("Forbidden");
-        return;
-      }
-      if (!nodeFs.existsSync(filePath)) {
-        res.writeHead(404, { "Content-Type": "text/plain" });
-        res.end("Not Found");
-        return;
-      }
-      serveStaticFile(res, filePath);
-    },
-  });
 }
