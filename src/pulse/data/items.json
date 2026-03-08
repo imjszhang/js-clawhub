@@ -168,6 +168,34 @@
     }
   },
   {
+    "id": "2030390783224774715",
+    "date": "2026-03-08",
+    "author": "@brockpierson",
+    "author_url": "https://x.com/brockpierson",
+    "tweet_url": "https://x.com/brockpierson/status/2030390783224774715",
+    "title": {
+      "en-US": "OpenClaw is one big grift. Nobody is building anything real...",
+      "zh-CN": "批评OpenClaw是骗局，认为平台上只有教别人怎么做但从自己不实践的影响者"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态争议，直接涉及平台价值讨论",
+      "zh-CN": "「教的人没成果」这个判断本身过度简化了知识传递的价值——很多基础设施层的工作天然就是无形的，就像电网的建设者不需要自己开工厂才能证明电有用。更深层的问题是：我们对「建设」的定义是否太狭隘，只看得到终端产品而看不到底层系统？"
+    },
+    "relevance": "OpenClaw生态争议，直接涉及平台价值讨论",
+    "score": 0.72,
+    "engagement": {
+      "likes": 241,
+      "replies": 157,
+      "retweets": 13
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-08T00:06:08.451040+00:00",
+    "js_take": {
+      "en-US": "Calling OpenClaw a grift because the builds are invisible is like calling electricity fake because you can't see the grid. The real scam is pretending tools build themselves.",
+      "zh-CN": "看不见构建过程就骂 OpenClaw 割韭菜，如同看不见电网就说电是假的一样荒谬。真正的骗局是假装工具能无中生有。"
+    }
+  },
+  {
     "id": "2030372236754927928",
     "date": "2026-03-08",
     "author": "@Legendaryy",
@@ -5588,35 +5616,6 @@
     "js_take": {
       "en-US": "Fu Sheng says new brain. The Dao says new room. 表/里—you can't see the inside from the surface.",
       "zh-CN": "傅盛说新脑，道家说新境。表/里——站在表面，看不见里面。"
-    }
-  },
-  {
-    "id": "2026870542158979095",
-    "date": "2026-02-26",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2026870542158979095",
-    "title": {
-      "en-US": "OpenClaw beta update with security fixes and new features",
-      "zh-CN": "OpenClaw发布新版beta，包含安全修复、DM心跳设置、Slack线程改进等功能更新。"
-    },
-    "summary": {
-      "en-US": "OpenClaw核心功能更新，开发者关注度高",
-      "zh-CN": "技术更新帖下面都是功能讨论，一句关于「无为而治」的系统哲学视角会脱颖而出。"
-    },
-    "relevance": "OpenClaw核心功能更新，开发者关注度高",
-    "score": 0.82,
-    "engagement": {
-      "likes": 342,
-      "replies": 47,
-      "retweets": 25,
-      "views": 12656
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-26T05:03:20.932175+00:00",
-    "js_take": {
-      "en-US": "New beta adds locks everywhere. But the Dao says: safest house has no door.",
-      "zh-CN": "新版处处加锁。但道说：最安全的家，没有门。"
     }
   }
 ]
