@@ -451,6 +451,34 @@
     }
   },
   {
+    "id": "2030423006594712027",
+    "date": "2026-03-08",
+    "author": "@sarahtavel",
+    "author_url": "https://x.com/sarahtavel",
+    "tweet_url": "https://x.com/sarahtavel/status/2030423006594712027",
+    "title": {
+      "en-US": "OpenClaw and Claude Code giving second life to forgotten apps like Obsidian",
+      "zh-CN": "观察到OpenClaw和Claude Code让很多被 forgotten 的消费/专业级应用（如Obsidian、Todoist）获得了第二次生命。"
+    },
+    "summary": {
+      "en-US": "OpenClaw - 平台生态与用户行为变化",
+      "zh-CN": "工具复兴不是偶然怀旧，而是交互范式转移的征兆：从人适应界面到Agent适应人的意图（更深度）。"
+    },
+    "relevance": "OpenClaw - 平台生态与用户行为变化",
+    "score": 0.72,
+    "engagement": {
+      "likes": 86,
+      "replies": 9,
+      "retweets": 2
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-08T11:07:38.032715+00:00",
+    "js_take": {
+      "en-US": "They didn't die. They were just waiting for the right interface layer.",
+      "zh-CN": "它们并未消亡，只是在等待合适的界面层。"
+    }
+  },
+  {
     "id": "2030372236754927928",
     "date": "2026-03-08",
     "author": "@Legendaryy",
