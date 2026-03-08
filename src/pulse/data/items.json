@@ -142,6 +142,62 @@
     }
   },
   {
+    "id": "2030281609732088110",
+    "date": "2026-03-08",
+    "author": "@tphuang",
+    "author_url": "https://x.com/tphuang",
+    "tweet_url": "https://x.com/tphuang/status/2030281609732088110",
+    "title": {
+      "en-US": "China embracing OpenClaw faster than anywhere",
+      "zh-CN": "中国比任何地方都更快拥抱OpenClaw，美团与联想合作部署硬件、腾讯QQ机器人支持5账号"
+    },
+    "summary": {
+      "en-US": "OpenClaw采用趋势 + 中美技术扩散差异",
+      "zh-CN": "技术扩散的速度不取决于发源地，而取决于'势'的积累。当土壤准备好了，种子从哪来反而次要。中国的快速采纳说明：agent生态的胜负手在部署密度，不在首发优势。"
+    },
+    "relevance": "OpenClaw采用趋势 + 中美技术扩散差异",
+    "score": 0.81,
+    "engagement": {
+      "likes": 326,
+      "retweets": 50,
+      "replies": 10
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-08T13:07:13.655021+00:00",
+    "js_take": {
+      "en-US": "America invented OpenClaw. China will perfect it. Tech doesn't care where it starts—only where the ground is ready.",
+      "zh-CN": "美国发明了 OpenClaw，中国会把它做到极致。技术不在乎起源于哪里，只在乎哪里的土壤已准备好。"
+    }
+  },
+  {
+    "id": "2030576789995815296",
+    "date": "2026-03-08",
+    "author": "@Ronycoder",
+    "author_url": "https://x.com/Ronycoder",
+    "tweet_url": "https://x.com/Ronycoder/status/2030576789995815296",
+    "title": {
+      "en-US": "OpenClaw major upgrades, multi-agent systems",
+      "zh-CN": "OpenClaw发布重大升级：多代理系统、新集成、100+安全修复，但多数人忽略了一点"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台更新 + 多agent系统",
+      "zh-CN": "功能堆叠是加法，架构演进是乘法。100个安全修复不如一个让多agent'自然协作'的设计——真正的升级不在changelog里，而在'它们开始自己配合'的那一刻。"
+    },
+    "relevance": "OpenClaw平台更新 + 多agent系统",
+    "score": 0.79,
+    "engagement": {
+      "likes": 105,
+      "retweets": 20,
+      "replies": 17
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-08T13:07:13.655026+00:00",
+    "js_take": {
+      "en-US": "100 agents talking isn't multi-agent—it's a meeting. The magic is when they forget they're separate.",
+      "zh-CN": "100个智能体在对话不是多智能体——那只是个会议。真正的魔法在于它们忘记彼此是独立的。"
+    }
+  },
+  {
     "id": "2030144033448968241",
     "date": "2026-03-08",
     "author": "@janakiramm",
@@ -5582,55 +5638,5 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-28T11:02:20.448751+00:00"
-  },
-  {
-    "id": "2027578655569023338",
-    "date": "2026-02-28",
-    "author": "@elvissun",
-    "author_url": "https://x.com/elvissun",
-    "tweet_url": "https://x.com/elvissun/status/2027578655569023338",
-    "title": {
-      "en-US": "Building business with OpenClaw: X payout $1505, 200+ waitlist, cron caught new followers.",
-      "zh-CN": "用 OpenClaw 创业第24-33天：X 收益 $1505，200+ 等待列表，cron 自动捕获新关注者。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 创业实战，自动化增长",
-      "zh-CN": "OpenClaw 商业实战案例，评论区讨论收益和方法，用「建系统」框架评论自动化的本质。"
-    },
-    "relevance": "OpenClaw 创业实战，自动化增长",
-    "score": 0.72,
-    "engagement": {
-      "likes": 109,
-      "replies": 15,
-      "retweets": 7,
-      "views": 15518
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T13:02:18.491546+00:00"
-  },
-  {
-    "id": "2027734178696204707",
-    "date": "2026-02-28",
-    "author": "@ClawiAi",
-    "author_url": "https://x.com/ClawiAi",
-    "tweet_url": "https://x.com/ClawiAi/status/2027734178696204707",
-    "title": {
-      "en-US": "913 skills from OpenClaw ecosystem, sorted by popularity.",
-      "zh-CN": "OpenClaw 生态有 913 个 Skill，按流行度排序。"
-    },
-    "summary": {
-      "en-US": "OpenClaw Skill 生态，数量展示",
-      "zh-CN": "做纠正：913个skill听起来很壮观，但用户真正用的通常不到10个。数量的堆叠创造的是选择的瘫痪，不是能力的倍增。"
-    },
-    "relevance": "OpenClaw Skill 生态，数量展示",
-    "score": 0.72,
-    "engagement": {
-      "likes": 93,
-      "replies": 5,
-      "retweets": 8,
-      "views": 5343
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-28T15:04:27.915756+00:00"
   }
 ]
