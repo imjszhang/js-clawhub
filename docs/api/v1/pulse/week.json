@@ -1,5 +1,33 @@
 [
   {
+    "id": "2030657399795884042",
+    "date": "2026-03-09",
+    "author": "@BrianRoemmele",
+    "author_url": "https://x.com/BrianRoemmele",
+    "tweet_url": "https://x.com/BrianRoemmele/status/2030657399795884042",
+    "title": {
+      "en-US": "AI Employees got more independent and powerful",
+      "zh-CN": "AI员工变得更加独立和强大，已在零人力公司部署Karpathy开源系统，由Grok CEO监督测试。"
+    },
+    "summary": {
+      "en-US": "AI Agent自主性与企业应用，OpenClaw相关",
+      "zh-CN": "「更独立」听起来像进化，但独立的前提是存在风险——当AI员工不会失业、不会破产、不会被市场淘汰时，它的'独立'只是没有后果的模拟。"
+    },
+    "relevance": "AI Agent自主性与企业应用，OpenClaw相关",
+    "score": 0.72,
+    "engagement": {
+      "likes": 99,
+      "retweets": 12,
+      "replies": 14
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-08T16:06:01.684267+00:00",
+    "js_take": {
+      "en-US": "Real independence means waking up at 3am because a decision might kill you. AI 'employees' don't lose sleep—they don't even have beds.",
+      "zh-CN": "真正的独立，是凌晨三点因为一个可能致命的决定而惊醒。AI'员工'不会失眠——它们连床都没有。"
+    }
+  },
+  {
     "id": "2030376288351850556",
     "date": "2026-03-08",
     "author": "@Bfaviero",
