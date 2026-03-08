@@ -361,6 +361,17 @@ export default function register(api) {
       const log = (msg) => lines.push(msg);
 
       try {
+        // Step 0: Pull latest from GitHub
+        log("── 同步仓库 ──");
+        try {
+          const { gitPullRebase, gitStatus } = await import("../cli/lib/git.js");
+          const status = gitStatus();
+          const pullResult = gitPullRebase("origin", status.branch);
+          log(`  已拉取 origin/${pullResult.branch} (rebase, autostash)`);
+        } catch (err) {
+          log(`  拉取失败: ${err.message}`);
+        }
+
         const { blogImport, blogSources, blogTranslateUntranslated } =
           await import("../cli/lib/blog-importer.js");
 
