@@ -226,6 +226,34 @@
     }
   },
   {
+    "id": "2030545760396128489",
+    "date": "2026-03-08",
+    "author": "@ChShersh",
+    "author_url": "https://x.com/ChShersh",
+    "tweet_url": "https://x.com/ChShersh/status/2030545760396128489",
+    "title": {
+      "en-US": "Unironically, I don't know anyone who achieved anything meaningful with OpenClaw",
+      "zh-CN": "作者直言不讳地表示不认识任何用OpenClaw做出有意义成就的人，带有质疑和批评的语气"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台质疑 - 直接针对agent平台价值的争议话题",
+      "zh-CN": "做纠正：大多数人把「没成就」归因于工具不行，其实问题在「把agent当高级搜索用」的认知偏差——工具只是放大器，方向错了跑得越快离目标越远。"
+    },
+    "relevance": "OpenClaw平台质疑 - 直接针对agent平台价值的争议话题",
+    "score": 0.78,
+    "engagement": {
+      "likes": 122,
+      "replies": 17,
+      "retweets": 6
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-08T08:06:49.433388+00:00",
+    "js_take": {
+      "en-US": "You didn't fail with OpenClaw. You failed because you use it like Google that talks back. Agents don't need better prompts—they need tasks worth running at 3am. Got any?",
+      "zh-CN": "你没在 OpenClaw 上栽跟头，你只是把它当成一个会回嘴的 Google 在用。Agent 不需要更完美的提示词——它们需要的是值得你凌晨3点爬起来执行的任务。你有吗？"
+    }
+  },
+  {
     "id": "2030335471554077036",
     "date": "2026-03-08",
     "author": "@nicbstme",
