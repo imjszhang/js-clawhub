@@ -170,6 +170,34 @@
     }
   },
   {
+    "id": "2030473139365585373",
+    "date": "2026-03-08",
+    "author": "@BoWang87",
+    "author_url": "https://x.com/BoWang87",
+    "tweet_url": "https://x.com/BoWang87/status/2030473139365585373",
+    "title": {
+      "en-US": "OpenClaw viral in China: elderly queuing for install, Beijing school deploying AI agents for every student",
+      "zh-CN": "OpenClaw 本周在中国社交媒体病毒式传播：腾讯工程师帮数千老人安装，北京某学校为每个学生部署 AI agent。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台热度 + Agent 教育应用",
+      "zh-CN": "评论区都在惊叹技术普及速度，但「一老一少」两个场景恰好说明：真正的大规模 adoption 从来不是技术参数的胜利，而是「降低使用门槛」和「嵌入日常场景」这两个被忽视变量的胜利。"
+    },
+    "relevance": "OpenClaw 平台热度 + Agent 教育应用",
+    "score": 0.78,
+    "engagement": {
+      "likes": 194,
+      "replies": 21,
+      "retweets": 38
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-08T04:07:13.113705+00:00",
+    "js_take": {
+      "en-US": "Queuing seniors and mandated school rollouts aren't 'viral'—they're proof people won't choose this voluntarily. Real adoption doesn't need chaperones.",
+      "zh-CN": "老人排队、学校强推，这些算不上'病毒传播'——反而证明人们不会自愿选择它。真正的流行不需要人盯着。"
+    }
+  },
+  {
     "id": "2030335471554077036",
     "date": "2026-03-08",
     "author": "@nicbstme",
@@ -5591,33 +5619,5 @@
     },
     "comment_type": "wisdom_drop",
     "synced_at": "2026-02-26T01:03:17.628292+00:00"
-  },
-  {
-    "id": "2026754360454021488",
-    "date": "2026-02-26",
-    "author": "@testingcatalog",
-    "author_url": "https://x.com/testingcatalog",
-    "tweet_url": "https://x.com/testingcatalog/status/2026754360454021488",
-    "title": {
-      "en-US": "Apple expanding Mac mini production for OpenClaw symbiosis",
-      "zh-CN": "TestingCatalog 报道苹果宣布扩大休斯顿工厂产能以提升 Mac mini 产量，配图是苹果与 OpenClaw 的共生关系。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、苹果硬件、生态共生",
-      "zh-CN": "Mac mini 是 OpenClaw 的主流硬件，评论区讨论硬件生态。用'阴阳共生'解读苹果与 OpenClaw 的关系会脱颖而出。"
-    },
-    "relevance": "OpenClaw、苹果硬件、生态共生",
-    "score": 0.83,
-    "engagement": {
-      "likes": 310,
-      "replies": 16,
-      "retweets": 11
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-26T02:03:00.374411+00:00",
-    "js_take": {
-      "en-US": "Mac mini is 表/biǎo world stuff. The Agent running on it is 里/lǐ world life.",
-      "zh-CN": "Mac mini是表(biǎo)世界的器物，上面跑的Agent才是里(lǐ)世界的生命。"
-    }
   }
 ]
