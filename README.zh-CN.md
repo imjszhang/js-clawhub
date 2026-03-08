@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" />
   </a>
   <a href="https://github.com/imjszhang/js-clawhub">
-    <img src="https://img.shields.io/badge/Version-1.1.0-blue.svg?style=flat-square" alt="Version" />
+    <img src="https://img.shields.io/badge/Version-1.2.0-blue.svg?style=flat-square" alt="Version" />
   </a>
   <a href="https://imjszhang.github.io/js-clawhub/">
     <img src="https://img.shields.io/badge/Demo-GitHub%20Pages-FCD228?style=flat-square" alt="Demo" />
@@ -35,6 +35,7 @@
 
 ## 特性
 
+- **OpenClaw 插件** — 作为 OpenClaw 插件运行，提供 Agent Tools、CLI 子命令、HTTP 路由和 Skills
 - **项目导航** — 分类浏览 OpenClaw 生态的精选项目和集成
 - **技能市场** — 发现和探索社区创建的技能，附详细文档
 - **博客系统** — 深度教程、架构分析与部署指南
@@ -72,7 +73,14 @@ js-clawhub/
 │   ├── skills/                   # 技能市场
 │   ├── guide/                    # 入门指南
 │   └── pulse/                    # 社区动态
-├── cli/                          # CLI 工具
+├── openclaw-plugin/              # OpenClaw 插件
+│   ├── index.mjs                 # 插件入口（register 函数）
+│   ├── openclaw.plugin.json      # 插件清单（configSchema + uiHints）
+│   ├── package.json              # ESM 入口 + openclaw.extensions
+│   └── skills/
+│       └── clawhub-navigator/    # 导航助手技能
+│           └── SKILL.md
+├── cli/                          # CLI 工具（独立运行）
 │   ├── cli.js                    # 入口（clawhub <command>）
 │   └── lib/                      # 功能模块
 │       ├── builder.js            # 构建逻辑
@@ -149,6 +157,48 @@ node cli/cli.js <command> [options]
 | `clawhub stats` | 显示汇总统计 |
 
 运行 `clawhub help` 查看完整命令参考。
+
+## OpenClaw 插件
+
+JS ClawHub 可作为 OpenClaw 插件运行，同时保留独立 CLI 的能力。
+
+### 两种运行模式
+
+| | 独立运行 | 作为 OpenClaw 插件 |
+|--|---------|-------------------|
+| **入口** | `node cli/cli.js <cmd>` | `openclaw hub <cmd>` |
+| **数据访问** | CLI 输出 JSON | Agent Tools + CLI + HTTP API |
+| **站点服务** | `npx serve src` | `/plugins/js-clawhub/` 路由 |
+| **配置方式** | `.env` 文件 | OpenClaw 插件设置 UI |
+| **部署管理** | 手动运行脚本 | `openclaw hub setup-cloudflare` / `setup-github-pages` |
+
+### Agent Tools
+
+插件注册了 8 个工具供 Agent 调用：
+
+| 工具 | 功能 |
+|-----|------|
+| `clawhub_search` | 跨源关键词搜索 |
+| `clawhub_projects` | 项目列表（支持分类/标签筛选） |
+| `clawhub_skills` | 技能列表 |
+| `clawhub_blog` | 博客列表或获取文章正文 |
+| `clawhub_guide` | 指南列表或获取文章正文 |
+| `clawhub_pulse` | Pulse 动态（支持天数/评分/作者筛选） |
+| `clawhub_stats` | 站点统计 |
+| `clawhub_featured` | 首页精选内容 |
+
+### 插件配置
+
+在 OpenClaw 设置中可配置以下选项（无需手动编辑 `.env`）：
+
+| 配置项 | 用途 |
+|-------|------|
+| `locale` | 默认语言 |
+| `moltbookPath` | Moltbook 数据源路径 |
+| `llmApiBaseUrl` / `llmApiKey` / `llmApiModel` | AI 翻译 |
+| `cloudflareApiToken` / `cloudflareEmail` | Cloudflare DNS 管理 |
+| `githubToken` | GitHub Pages 配置 |
+| `gaId` | Google Analytics |
 
 ## 国际化 (i18n)
 

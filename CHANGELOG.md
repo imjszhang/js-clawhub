@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.2.0] - 2026-03-08
+
+### Added
+
+- **OpenClaw Plugin** — New `openclaw-plugin/` directory turns ClawHub into a first-class OpenClaw plugin
+  - `index.mjs` — Plugin entry with `register(api)` exporting Tools, CLI, HTTP routes
+  - `openclaw.plugin.json` — Plugin manifest with configSchema (9 fields) and uiHints
+  - `package.json` — ESM entry with `openclaw.extensions` declaration
+- **8 Agent Tools** — `clawhub_search`, `clawhub_projects`, `clawhub_skills`, `clawhub_blog`, `clawhub_guide`, `clawhub_pulse`, `clawhub_stats`, `clawhub_featured`
+- **Plugin CLI** — All commands available under `openclaw hub` namespace (`search`, `stats`, `projects`, `skills`, `blog`, `pulse`, `build`, `pull`, `sync`, `setup-cloudflare`, `setup-github-pages`)
+- **Plugin HTTP Routes** — 10 routes under `/plugins/js-clawhub/` serving the static site and 7 dynamic API endpoints
+- **clawhub-navigator Skill** — `openclaw-plugin/skills/clawhub-navigator/SKILL.md` defines trigger conditions, available tools, and behavior guidelines for the navigation assistant
+- **Plugin Config for Deployment** — Cloudflare API Token, GitHub Token, and GA ID can now be configured through OpenClaw's plugin settings UI instead of manual `.env` editing
+- `readBlogPost(slug)` and `readGuideArticle(slug)` in `cli/lib/data-reader.js` for reading full Markdown content
+
 ## [1.1.0] - 2026-03-07
 
 ### Added
@@ -38,5 +53,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 - **Craft** — Methodology guide and project scaffold for building agent-friendly sites
 - **Deployment** — GitHub Pages from `docs/`, Cloudflare DNS setup scripts
 
+[1.2.0]: https://github.com/imjszhang/js-clawhub/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/imjszhang/js-clawhub/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/imjszhang/js-clawhub/releases/tag/v1.0.0

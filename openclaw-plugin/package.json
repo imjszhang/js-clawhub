@@ -1,6 +1,6 @@
 {
   "name": "js-clawhub",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "OpenClaw plugin for JS ClawHub — OpenClaw 生态导航与内容中心",
   "type": "module",
   "main": "index.mjs",

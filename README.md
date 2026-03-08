@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" />
   </a>
   <a href="https://github.com/imjszhang/js-clawhub">
-    <img src="https://img.shields.io/badge/Version-1.1.0-blue.svg?style=flat-square" alt="Version" />
+    <img src="https://img.shields.io/badge/Version-1.2.0-blue.svg?style=flat-square" alt="Version" />
   </a>
   <a href="https://imjszhang.github.io/js-clawhub/">
     <img src="https://img.shields.io/badge/Demo-GitHub%20Pages-FCD228?style=flat-square" alt="Demo" />
@@ -35,6 +35,7 @@ A curated navigation site for the [OpenClaw](https://openclaw.ai/) ecosystem, bu
 
 ## Features
 
+- **OpenClaw Plugin** — Runs as an OpenClaw plugin, providing Agent Tools, CLI subcommands, HTTP routes, and Skills
 - **Project Navigation** — Browse featured projects and categorized integrations across the OpenClaw ecosystem
 - **Skills Market** — Discover and explore community-created skills with detailed documentation
 - **Blog** — In-depth tutorials, architecture analyses, and deployment guides
@@ -72,7 +73,14 @@ js-clawhub/
 │   ├── skills/                   # Skills market
 │   ├── guide/                    # Getting started guide
 │   └── pulse/                    # Community pulse
-├── cli/                          # CLI tool
+├── openclaw-plugin/              # OpenClaw plugin
+│   ├── index.mjs                 # Plugin entry (register function)
+│   ├── openclaw.plugin.json      # Plugin manifest (configSchema + uiHints)
+│   ├── package.json              # ESM entry + openclaw.extensions
+│   └── skills/
+│       └── clawhub-navigator/    # Navigator skill
+│           └── SKILL.md
+├── cli/                          # CLI tool (standalone)
 │   ├── cli.js                    # Entry point (clawhub <command>)
 │   └── lib/                      # Modules
 │       ├── builder.js            # Build logic
@@ -149,6 +157,48 @@ node cli/cli.js <command> [options]
 | `clawhub stats` | Show aggregate statistics |
 
 Run `clawhub help` for the full command reference.
+
+## OpenClaw Plugin
+
+JS ClawHub can run as an OpenClaw plugin while retaining its standalone CLI capability.
+
+### Two Modes of Operation
+
+| | Standalone | As OpenClaw Plugin |
+|--|-----------|-------------------|
+| **Entry** | `node cli/cli.js <cmd>` | `openclaw hub <cmd>` |
+| **Data Access** | CLI JSON output | Agent Tools + CLI + HTTP API |
+| **Site Serving** | `npx serve src` | `/plugins/js-clawhub/` routes |
+| **Configuration** | `.env` file | OpenClaw plugin settings UI |
+| **Deployment** | Manual scripts | `openclaw hub setup-cloudflare` / `setup-github-pages` |
+
+### Agent Tools
+
+The plugin registers 8 tools for Agent use:
+
+| Tool | Purpose |
+|------|---------|
+| `clawhub_search` | Cross-source keyword search |
+| `clawhub_projects` | Project listing (category/tag filtering) |
+| `clawhub_skills` | Skills listing |
+| `clawhub_blog` | Blog listing or full post content |
+| `clawhub_guide` | Guide listing or full article content |
+| `clawhub_pulse` | Pulse items (days/score/author filtering) |
+| `clawhub_stats` | Site statistics |
+| `clawhub_featured` | Homepage featured content |
+
+### Plugin Configuration
+
+The following options can be configured through OpenClaw's settings UI (no manual `.env` editing required):
+
+| Option | Purpose |
+|--------|---------|
+| `locale` | Default language |
+| `moltbookPath` | Moltbook data source path |
+| `llmApiBaseUrl` / `llmApiKey` / `llmApiModel` | AI translation |
+| `cloudflareApiToken` / `cloudflareEmail` | Cloudflare DNS management |
+| `githubToken` | GitHub Pages configuration |
+| `gaId` | Google Analytics |
 
 ## i18n (Internationalization)
 

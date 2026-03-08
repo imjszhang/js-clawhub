@@ -27,6 +27,10 @@ function applyEnv(pluginCfg) {
   if (pluginCfg.llmApiBaseUrl) process.env.LLM_API_BASE_URL = pluginCfg.llmApiBaseUrl;
   if (pluginCfg.llmApiKey) process.env.LLM_API_KEY = pluginCfg.llmApiKey;
   if (pluginCfg.llmApiModel) process.env.LLM_API_MODEL = pluginCfg.llmApiModel;
+  if (pluginCfg.cloudflareApiToken) process.env.CLOUDFLARE_API_TOKEN = pluginCfg.cloudflareApiToken;
+  if (pluginCfg.cloudflareEmail) process.env.CLOUDFLARE_EMAIL = pluginCfg.cloudflareEmail;
+  if (pluginCfg.githubToken) process.env.GITHUB_TOKEN = pluginCfg.githubToken;
+  if (pluginCfg.gaId) process.env.GA_ID = pluginCfg.gaId;
 }
 
 function textResult(text) {
@@ -474,6 +478,30 @@ export default function register(api) {
             result.push = gitPush("origin", status.branch);
           }
           console.log(JSON.stringify(result, null, 2));
+        });
+
+      hub
+        .command("setup-cloudflare")
+        .description("配置 Cloudflare DNS 指向 GitHub Pages")
+        .action(async () => {
+          try {
+            const { setupCloudflare } = await import("../cli/lib/setup.js");
+            await setupCloudflare();
+          } catch (err) {
+            console.error(`配置失败: ${err.message}`);
+          }
+        });
+
+      hub
+        .command("setup-github-pages")
+        .description("配置 GitHub Pages 自定义域名 + HTTPS")
+        .action(async () => {
+          try {
+            const { setupGithubPages } = await import("../cli/lib/setup.js");
+            await setupGithubPages();
+          } catch (err) {
+            console.error(`配置失败: ${err.message}`);
+          }
         });
     },
     { commands: ["hub"] },

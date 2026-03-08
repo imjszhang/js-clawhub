@@ -2,7 +2,7 @@
   "id": "js-clawhub",
   "name": "JS ClawHub",
   "description": "OpenClaw 生态导航与内容中心 — 项目目录、技能市场、博客、指南、社区 Pulse，以及 Craft 建站方法论。",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "skills": ["./skills"],
   "configSchema": {
     "type": "object",
@@ -32,6 +32,26 @@
         "type": "string",
         "default": "gpt-4.1-mini",
         "description": "LLM 模型名称"
+      },
+      "cloudflareApiToken": {
+        "type": "string",
+        "default": "",
+        "description": "Cloudflare API Token（需 Zone:Read, Zone:Edit, DNS:Edit 权限）"
+      },
+      "cloudflareEmail": {
+        "type": "string",
+        "default": "",
+        "description": "Cloudflare 账户邮箱（仅 Global API Key 方式需要，API Token 方式留空）"
+      },
+      "githubToken": {
+        "type": "string",
+        "default": "",
+        "description": "GitHub Personal Access Token（需 repo 权限，用于配置 GitHub Pages）"
+      },
+      "gaId": {
+        "type": "string",
+        "default": "",
+        "description": "Google Analytics Measurement ID（构建时注入，留空则不注入）"
       }
     }
   },
@@ -63,6 +83,31 @@
       "label": "LLM 模型",
       "placeholder": "gpt-4.1-mini",
       "help": "用于博客翻译的 LLM 模型名称",
+      "advanced": true
+    },
+    "cloudflareApiToken": {
+      "label": "Cloudflare API Token",
+      "placeholder": "Bearer token...",
+      "help": "在 https://dash.cloudflare.com/profile/api-tokens 创建，需 Zone:Read, Zone:Edit, DNS:Edit 权限",
+      "secret": true,
+      "advanced": true
+    },
+    "cloudflareEmail": {
+      "label": "Cloudflare 邮箱",
+      "placeholder": "user@example.com",
+      "help": "仅使用 Global API Key 方式时需要，API Token 方式留空即可",
+      "advanced": true
+    },
+    "githubToken": {
+      "label": "GitHub Token",
+      "help": "GitHub Personal Access Token，在 https://github.com/settings/tokens 创建，需 repo 权限",
+      "secret": true,
+      "advanced": true
+    },
+    "gaId": {
+      "label": "Google Analytics ID",
+      "placeholder": "G-XXXXXXXXXX",
+      "help": "Google Analytics Measurement ID，构建时注入到页面中",
       "advanced": true
     }
   }
