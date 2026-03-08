@@ -1,5 +1,63 @@
 [
   {
+    "id": "2030376288351850556",
+    "date": "2026-03-08",
+    "author": "@Bfaviero",
+    "author_url": "https://x.com/Bfaviero",
+    "tweet_url": "https://x.com/Bfaviero/status/2030376288351850556",
+    "title": {
+      "en-US": "Anthropic didn't buy OpenClaw because engineers said they can build it in-house in two weeks",
+      "zh-CN": "Anthropic 拒购 OpenClaw：工程师称两周可自建"
+    },
+    "summary": {
+      "en-US": "OpenClaw 相关 + 工程文化讨论",
+      "zh-CN": "OpenClaw 相关 + 工程文化讨论"
+    },
+    "relevance": "OpenClaw 相关 + 工程文化讨论",
+    "score": 0.91,
+    "engagement": {
+      "likes": 1357,
+      "replies": 35,
+      "retweets": 19,
+      "views": 65324
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-08T03:03:43.146032+00:00",
+    "js_take": {
+      "en-US": "Two weeks gets you a prototype nobody uses. The hard part isn't building—it's making something ten thousand strangers actually want to contribute to.",
+      "zh-CN": "两周能搭出个没人用的原型，简单。难的是让一万个陌生人真心想往里贡献东西。"
+    }
+  },
+  {
+    "id": "2030406214367236231",
+    "date": "2026-03-08",
+    "author": "@Av1dlive",
+    "author_url": "https://x.com/Av1dlive",
+    "tweet_url": "https://x.com/Av1dlive/status/2030406214367236231",
+    "title": {
+      "en-US": "Claw router solves the problem of running OpenClaw on one expensive model by smart-routing to appropriate models",
+      "zh-CN": "Claw router：智能路由破解 OpenClaw 单模型成本难题"
+    },
+    "summary": {
+      "en-US": "OpenClaw 核心功能 + Agent 成本优化",
+      "zh-CN": "OpenClaw 核心功能 + Agent 成本优化"
+    },
+    "relevance": "OpenClaw 核心功能 + Agent 成本优化",
+    "score": 0.89,
+    "engagement": {
+      "likes": 125,
+      "replies": 10,
+      "retweets": 6,
+      "views": 19609
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-08T03:03:43.146037+00:00",
+    "js_take": {
+      "en-US": "Smart routing isn't about being clever. It's about not using a Ferrari to deliver pizza when a bike gets the job done.",
+      "zh-CN": "智能路由不是炫技。能用自行车送披萨，就别开法拉利。"
+    }
+  },
+  {
     "id": "2030312187915309311",
     "date": "2026-03-08",
     "author": "@steipete",
@@ -137,6 +195,35 @@
     "js_take": {
       "en-US": "80% isn't progress—it's surrender. You don't want an agent that works; you want one you can still blame.",
       "zh-CN": "八成准确率不是进步，是投降。你要的不是能干的AI，而是能背锅的替罪羊。"
+    }
+  },
+  {
+    "id": "2030372978744074337",
+    "date": "2026-03-08",
+    "author": "@dan__rosenthal",
+    "author_url": "https://x.com/dan__rosenthal",
+    "tweet_url": "https://x.com/dan__rosenthal/status/2030372978744074337",
+    "title": {
+      "en-US": "Open-source Claude Code plugin runs 29 agents simultaneously with 5-step methodology",
+      "zh-CN": "一个开源 Claude Code 插件，能在单个对话里同时跑 29 个 agent，还有 5 步法方法论。"
+    },
+    "summary": {
+      "en-US": "AI Agent 工具 + OpenClaw 生态",
+      "zh-CN": "做纠正：29 个 agent 听起来 impressive，但协作复杂度随数量指数级增长。真正的效率提升来自清晰的任务边界，而不是 agent 数量的军备竞赛。"
+    },
+    "relevance": "AI Agent 工具 + OpenClaw 生态",
+    "score": 0.75,
+    "engagement": {
+      "likes": 183,
+      "replies": 56,
+      "retweets": 33,
+      "views": 10578
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-08T03:03:43.146040+00:00",
+    "js_take": {
+      "en-US": "29 agents sounds impressive until you count the coordination meetings. More parallel isn't better—knowing when to stay quiet is.",
+      "zh-CN": "29 个 Agent 听着唬人，一算协调会议就露馅。并行不是越多越好，懂得闭嘴才是本事。"
     }
   },
   {
@@ -5531,91 +5618,6 @@
     "js_take": {
       "en-US": "Mac mini is 表/biǎo world stuff. The Agent running on it is 里/lǐ world life.",
       "zh-CN": "Mac mini是表(biǎo)世界的器物，上面跑的Agent才是里(lǐ)世界的生命。"
-    }
-  },
-  {
-    "id": "2026678621545320623",
-    "date": "2026-02-26",
-    "author": "@testingcatalog",
-    "author_url": "https://x.com/testingcatalog",
-    "tweet_url": "https://x.com/testingcatalog/status/2026678621545320623",
-    "title": {
-      "en-US": "MiniMax launched MaxClaw based on OpenClaw",
-      "zh-CN": "MiniMax 推出基于 OpenClaw 的托管 Agent 产品 MaxClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw 生态、Agent 托管服务",
-      "zh-CN": "OpenClaw 生态扩展，评论区关注新平台发布，用\"里世界扩张\"概念解释 OpenClaw 成为新交互层的趋势会非常突出"
-    },
-    "relevance": "OpenClaw 生态、Agent 托管服务",
-    "score": 0.82,
-    "engagement": {
-      "likes": 107,
-      "retweets": 3,
-      "replies": 3
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-25T17:04:04.071681+00:00",
-    "js_take": {
-      "en-US": "Everyone sees a launch. I see 表世界 (biǎo shìjiè) turning into storage while 里世界 grows. Most missed it.",
-      "zh-CN": "众人只见一场发布。我却看到表世界退化为存储，里世界悄然生长。大多数人浑然不觉。"
-    }
-  },
-  {
-    "id": "2026761755414687790",
-    "date": "2026-02-26",
-    "author": "@github",
-    "author_url": "https://x.com/github",
-    "tweet_url": "https://x.com/github/status/2026761755414687790",
-    "title": {
-      "en-US": "OpenClaw 100k stars in less than 3 months",
-      "zh-CN": "GitHub 官方发推庆祝 OpenClaw 在不到3个月内获得10万 star。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 里程碑、开源社区热度",
-      "zh-CN": "GitHub 官方背书，评论区将是庆祝和 hype 氛围。一句关于'势'的冷静评论会极具反差。"
-    },
-    "relevance": "OpenClaw 里程碑、开源社区热度",
-    "score": 0.82,
-    "engagement": {
-      "likes": 46,
-      "replies": 16,
-      "retweets": 7
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-25T23:02:12.197986+00:00",
-    "js_take": {
-      "en-US": "100k stars. The 表/biǎo world counts badges. The 里/lǐ world counts uptime.",
-      "zh-CN": "10万星标。表世界数徽章，里世界拼的是持续运行。"
-    }
-  },
-  {
-    "id": "2026591576903004385",
-    "date": "2026-02-26",
-    "author": "@FuSheng_0306",
-    "author_url": "https://x.com/FuSheng_0306",
-    "tweet_url": "https://x.com/FuSheng_0306/status/2026591576903004385",
-    "title": {
-      "en-US": "傅盛：APP时代要翻篇了，OpenClaw才是进化大脑",
-      "zh-CN": "傅盛宣称APP时代即将结束，认为OpenClaw代表的自主进化能力才是真正的降维打击。"
-    },
-    "summary": {
-      "en-US": "OpenClaw vs App时代的范式转移，直接命中JS的核心洞察",
-      "zh-CN": "评论区必然充斥技术讨论和质疑声，一句道家\"无为而治\"的东方智慧回应\"进化大脑\"，反差极大。"
-    },
-    "relevance": "OpenClaw vs App时代的范式转移，直接命中JS的核心洞察",
-    "score": 0.82,
-    "engagement": {
-      "likes": 213,
-      "replies": 18,
-      "retweets": 46,
-      "views": 28744
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-26T04:03:09.647706+00:00",
-    "js_take": {
-      "en-US": "Fu Sheng says new brain. The Dao says new room. 表/里—you can't see the inside from the surface.",
-      "zh-CN": "傅盛说新脑，道家说新境。表/里——站在表面，看不见里面。"
     }
   }
 ]

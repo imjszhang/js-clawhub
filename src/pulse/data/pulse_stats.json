@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-08T00:06:20.913451+00:00",
+  "updated_at": "2026-03-08T03:04:01.004199+00:00",
   "this_week": {
-    "total_items": 145,
+    "total_items": 148,
     "avg_score": 0.77,
-    "unique_authors": 114,
+    "unique_authors": 117,
     "top_items": [
       {
         "id": "2030264333909840333",
@@ -62,6 +62,35 @@
         }
       },
       {
+        "id": "2030376288351850556",
+        "date": "2026-03-08",
+        "author": "@Bfaviero",
+        "author_url": "https://x.com/Bfaviero",
+        "tweet_url": "https://x.com/Bfaviero/status/2030376288351850556",
+        "title": {
+          "en-US": "Anthropic didn't buy OpenClaw because engineers said they can build it in-house in two weeks",
+          "zh-CN": "Anthropic 拒购 OpenClaw：工程师称两周可自建"
+        },
+        "summary": {
+          "en-US": "OpenClaw 相关 + 工程文化讨论",
+          "zh-CN": "OpenClaw 相关 + 工程文化讨论"
+        },
+        "relevance": "OpenClaw 相关 + 工程文化讨论",
+        "score": 0.91,
+        "engagement": {
+          "likes": 1357,
+          "replies": 35,
+          "retweets": 19,
+          "views": 65324
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-08T03:03:43.146032+00:00",
+        "js_take": {
+          "en-US": "Two weeks gets you a prototype nobody uses. The hard part isn't building—it's making something ten thousand strangers actually want to contribute to.",
+          "zh-CN": "两周能搭出个没人用的原型，简单。难的是让一万个陌生人真心想往里贡献东西。"
+        }
+      },
+      {
         "id": "2028189467782369287",
         "date": "2026-03-02",
         "author": "@AlexFinn",
@@ -117,6 +146,35 @@
         "js_take": {
           "en-US": "Cursor building OpenClaw isn't a flex—it's defensive panic. The war isn't about feature lists; it's about who removes the most decisions from devs' plates. Fewer choices, stickier moat.",
           "zh-CN": "Cursor做OpenClaw不是在炫技——是防御性恐慌。这场战争不在功能列表，而在谁能帮开发者砍掉最多的决策。选择越少，护城河越宽。"
+        }
+      },
+      {
+        "id": "2030406214367236231",
+        "date": "2026-03-08",
+        "author": "@Av1dlive",
+        "author_url": "https://x.com/Av1dlive",
+        "tweet_url": "https://x.com/Av1dlive/status/2030406214367236231",
+        "title": {
+          "en-US": "Claw router solves the problem of running OpenClaw on one expensive model by smart-routing to appropriate models",
+          "zh-CN": "Claw router：智能路由破解 OpenClaw 单模型成本难题"
+        },
+        "summary": {
+          "en-US": "OpenClaw 核心功能 + Agent 成本优化",
+          "zh-CN": "OpenClaw 核心功能 + Agent 成本优化"
+        },
+        "relevance": "OpenClaw 核心功能 + Agent 成本优化",
+        "score": 0.89,
+        "engagement": {
+          "likes": 125,
+          "replies": 10,
+          "retweets": 6,
+          "views": 19609
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-03-08T03:03:43.146037+00:00",
+        "js_take": {
+          "en-US": "Smart routing isn't about being clever. It's about not using a Ferrari to deliver pizza when a bike gets the job done.",
+          "zh-CN": "智能路由不是炫技。能用自行车送披萨，就别开法拉利。"
         }
       },
       {
@@ -966,68 +1024,11 @@
           "en-US": "Pixel office is cute, but you're squeezing agents into human commute theater. What if we visualized their *thought flow* jumping between data layers instead?",
           "zh-CN": "像素办公室是挺萌，但这是在把agent硬塞进人类通勤的拟态剧场。与其如此，不如可视化它们在不同数据层之间的「思维跳跃」？"
         }
-      },
-      {
-        "id": "2028214820718236120",
-        "date": "2026-03-02",
-        "author": "@levelsio",
-        "author_url": "https://x.com/levelsio",
-        "tweet_url": "https://x.com/levelsio/status/2028214820718236120",
-        "title": {
-          "en-US": "OpenClaw died today. Rate limited by Anthropic? Already upgraded to 2026.2.26",
-          "zh-CN": "levelsio 的 OpenClaw 今天挂了，怀疑是 Anthropic 的 rate limit，已经升级到最新版"
-        },
-        "summary": {
-          "en-US": "OpenClaw 平台运营实战经验 + Agent 基础设施可靠性讨论",
-          "zh-CN": "大家在讨论「升级解决问题」，但真正的教训是：依赖单一上游 API 的 autonomy 是脆弱的。更深度地看，agent 的自主程度受限于它无法控制的基础设施。"
-        },
-        "relevance": "OpenClaw 平台运营实战经验 + Agent 基础设施可靠性讨论",
-        "score": 0.82,
-        "engagement": {
-          "likes": 76,
-          "replies": 44,
-          "retweets": 2,
-          "views": 28058
-        },
-        "comment_type": "provoke",
-        "synced_at": "2026-03-01T22:03:30.643719+00:00",
-        "js_take": {
-          "en-US": "When your agent's survival depends on a vendor's rate limit, how autonomous is it really? The real upgrade isn't version numbers—it's diversifying your upstream dependencies.",
-          "zh-CN": "agent的命脉握在厂商的速率限制手里，这叫哪门子自主？真正的升级不是版本号，而是上游依赖的多元化。"
-        }
-      },
-      {
-        "id": "2028202900686549421",
-        "date": "2026-03-02",
-        "author": "@jordymaui",
-        "author_url": "https://x.com/jordymaui",
-        "tweet_url": "https://x.com/jordymaui/status/2028202900686549421",
-        "title": {
-          "en-US": "Stages of OpenClaw: install, break, fix, repeat, magic kingdom",
-          "zh-CN": "OpenClaw使用的七个阶段：从兴奋安装到不断调试再到最终'魔法王国'"
-        },
-        "summary": {
-          "en-US": "OpenClaw / 开发者体验 / 学习曲线",
-          "zh-CN": "第8阶段不是每个人都能到达的——大多数人在第2-6阶段的循环里要么建立直觉，要么就放弃了，'魔法王国'是对幸存者的奖励而非承诺"
-        },
-        "relevance": "OpenClaw / 开发者体验 / 学习曲线",
-        "score": 0.82,
-        "engagement": {
-          "likes": 94,
-          "replies": 21,
-          "retweets": 6
-        },
-        "comment_type": "provoke",
-        "synced_at": "2026-03-02T08:06:58.817224+00:00",
-        "js_take": {
-          "en-US": "Stage 8 isn't guaranteed. Most get stuck in the 2-6 loop and either develop debugging intuition or quit. \"Magic kingdom\" is survivor bias dressed as a promise.",
-          "zh-CN": "第8阶段不是必然。大多数人卡在2-6的循环里，要么炼出调试直觉，要么退场。「魔法王国」不过是幸存者偏差披着承诺的外衣。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 149
+    "unique_authors": 150
   }
 }
