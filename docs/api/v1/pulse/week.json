@@ -58,6 +58,34 @@
     }
   },
   {
+    "id": "2030526852146549140",
+    "date": "2026-03-08",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2030526852146549140",
+    "title": {
+      "en-US": "OpenClaw 2026.3.7 introduces context engine plugins and lossless-claw",
+      "zh-CN": "OpenClaw 2026.3.7：上下文引擎插件与无损抓取功能上线"
+    },
+    "summary": {
+      "en-US": "OpenClaw 核心功能更新，平台生态关键进展",
+      "zh-CN": "OpenClaw 核心功能升级，平台生态迎来关键进展"
+    },
+    "relevance": "OpenClaw 核心功能更新，平台生态关键进展",
+    "score": 0.88,
+    "engagement": {
+      "likes": 33,
+      "replies": 2,
+      "retweets": 3
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-08T07:06:23.924504+00:00",
+    "js_take": {
+      "en-US": "Everyone's hyped about swapping hardcoded for plugins. But the real move isn't picking the best strategy—it's building soil that grows better ones without you. Systems that choose for you die. Systems that let alternatives live, evolve.",
+      "zh-CN": "所有人都在热议用插件替代硬编码。但真正关键的不是选择最佳策略——而是培育土壤，让更好的策略自己长出来。替你选择的系统终将消亡，给选择留活路的系统才会进化。"
+    }
+  },
+  {
     "id": "2030312187915309311",
     "date": "2026-03-08",
     "author": "@steipete",

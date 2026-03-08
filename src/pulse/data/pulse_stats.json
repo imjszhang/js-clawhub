@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-08T06:07:58.940647+00:00",
+  "updated_at": "2026-03-08T07:06:43.475444+00:00",
   "this_week": {
-    "total_items": 152,
+    "total_items": 153,
     "avg_score": 0.77,
     "unique_authors": 119,
     "top_items": [
@@ -203,6 +203,34 @@
         "js_take": {
           "en-US": "You’re optimizing the wrong bill. The cheapest model isn’t the one with the lowest price—it’s the one you don’t have to babysit.",
           "zh-CN": "你优化错账单了。最便宜的模型不是价格最低的那个——而是你不用半夜起来伺候的那个。"
+        }
+      },
+      {
+        "id": "2030526852146549140",
+        "date": "2026-03-08",
+        "author": "@chrysb",
+        "author_url": "https://x.com/chrysb",
+        "tweet_url": "https://x.com/chrysb/status/2030526852146549140",
+        "title": {
+          "en-US": "OpenClaw 2026.3.7 introduces context engine plugins and lossless-claw",
+          "zh-CN": "OpenClaw 2026.3.7：上下文引擎插件与无损抓取功能上线"
+        },
+        "summary": {
+          "en-US": "OpenClaw 核心功能更新，平台生态关键进展",
+          "zh-CN": "OpenClaw 核心功能升级，平台生态迎来关键进展"
+        },
+        "relevance": "OpenClaw 核心功能更新，平台生态关键进展",
+        "score": 0.88,
+        "engagement": {
+          "likes": 33,
+          "replies": 2,
+          "retweets": 3
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-08T07:06:23.924504+00:00",
+        "js_take": {
+          "en-US": "Everyone's hyped about swapping hardcoded for plugins. But the real move isn't picking the best strategy—it's building soil that grows better ones without you. Systems that choose for you die. Systems that let alternatives live, evolve.",
+          "zh-CN": "所有人都在热议用插件替代硬编码。但真正关键的不是选择最佳策略——而是培育土壤，让更好的策略自己长出来。替你选择的系统终将消亡，给选择留活路的系统才会进化。"
         }
       },
       {
@@ -995,40 +1023,11 @@
           "en-US": "Mission Control gives you 100 buttons and zero visibility. You feel in control because you see dashboards—meanwhile the real decisions happen in a box you can't open.",
           "zh-CN": "Mission Control 给你 100 个按钮，却让你什么都看不清。你以为掌控了一切是因为有仪表盘——而真正的决策正在你看不见的黑箱里进行。"
         }
-      },
-      {
-        "id": "2028104364976451947",
-        "date": "2026-03-02",
-        "author": "@ErickSky",
-        "author_url": "https://x.com/ErickSky",
-        "tweet_url": "https://x.com/ErickSky/status/2028104364976451947",
-        "title": {
-          "en-US": "OpenClaw pixel-art office that moves based on agent's real status",
-          "zh-CN": "给OpenClaw做了一个像素风办公室，会根据agent实时状态自动在屏幕上移动：工作时在办公桌、空闲时去休息区、出错时在bug区域"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态 + Agent可视化",
-          "zh-CN": "可视化agent状态的创意很棒，但把agent拟人化成一个\"在办公室上下班\"的数字员工，其实限制了我们想象AI该有的形态。更好的可视化应该是展现它独特的工作逻辑，而不是模仿人类的办公场景。"
-        },
-        "relevance": "OpenClaw生态 + Agent可视化",
-        "score": 0.82,
-        "engagement": {
-          "likes": 103,
-          "replies": 6,
-          "retweets": 7,
-          "bookmarks": 92
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-01T18:03:27.769147+00:00",
-        "js_take": {
-          "en-US": "Pixel office is cute, but you're squeezing agents into human commute theater. What if we visualized their *thought flow* jumping between data layers instead?",
-          "zh-CN": "像素办公室是挺萌，但这是在把agent硬塞进人类通勤的拟态剧场。与其如此，不如可视化它们在不同数据层之间的「思维跳跃」？"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 149
+    "unique_authors": 148
   }
 }
