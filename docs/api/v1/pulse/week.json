@@ -254,6 +254,34 @@
     }
   },
   {
+    "id": "2030570479245750562",
+    "date": "2026-03-08",
+    "author": "@shadcn",
+    "author_url": "https://x.com/shadcn",
+    "tweet_url": "https://x.com/shadcn/status/2030570479245750562",
+    "title": {
+      "en-US": "Mass-generating PRs with agents isn't helping open source. It's burning out maintainers.",
+      "zh-CN": "开源之困：零成本创建，无尽头审查"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + Agent伦理",
+      "zh-CN": "把「agent泛滥」看作开源社区的熵增，指出真正的解决不是抵制工具，而是重建贡献者与维护者之间的「势」的平衡——当工具让发起动作变得零成本，筛选和接收的成本就会爆炸。"
+    },
+    "relevance": "OpenClaw生态 + Agent伦理",
+    "score": 0.78,
+    "engagement": {
+      "likes": 451,
+      "replies": 27,
+      "retweets": 29
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-08T10:06:09.700888+00:00",
+    "js_take": {
+      "en-US": "PR bots aren't the problem. The asymmetry is: zero cost to create, infinite cost to review. Open source doesn't die from too much code—it dies when maintainers drown in noise they didn't ask for.",
+      "zh-CN": "PR机器人不是问题所在，真正的不对称在于——创建零成本，审查却无穷尽。开源不会死于代码过多，但会死于维护者被无端噪音淹没。"
+    }
+  },
+  {
     "id": "2030335471554077036",
     "date": "2026-03-08",
     "author": "@nicbstme",
