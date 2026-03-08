@@ -52,6 +52,20 @@
         "type": "string",
         "default": "",
         "description": "Google Analytics Measurement ID（构建时注入，留空则不注入）"
+      },
+      "cron": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "defaultInterval": {
+            "type": "number",
+            "description": "博客自动同步的间隔（分钟）"
+          },
+          "timezone": {
+            "type": "string",
+            "description": "cron 时区（IANA 格式）"
+          }
+        }
       }
     }
   },
@@ -109,6 +123,16 @@
       "placeholder": "G-XXXXXXXXXX",
       "help": "Google Analytics Measurement ID，构建时注入到页面中",
       "advanced": true
+    },
+    "cron.defaultInterval": {
+      "label": "自动同步间隔",
+      "help": "定时导入、翻译、构建、推送博客的间隔（分钟）",
+      "placeholder": "120"
+    },
+    "cron.timezone": {
+      "label": "Cron 时区",
+      "help": "IANA 时区标识，如 Asia/Shanghai",
+      "placeholder": "Asia/Shanghai"
     }
   }
 }
