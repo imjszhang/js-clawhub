@@ -221,6 +221,26 @@ export function readGuide({ slug } = {}) {
 }
 
 /**
+ * Read a single blog post's full Markdown content.
+ * @param {string} slug
+ * @returns {string|null}
+ */
+export function readBlogPost(slug) {
+    const mdPath = join(PATHS.blogDir, `${slug}.md`);
+    return existsSync(mdPath) ? readFileSync(mdPath, 'utf-8') : null;
+}
+
+/**
+ * Read a single guide article's full Markdown content.
+ * @param {string} slug
+ * @returns {string|null}
+ */
+export function readGuideArticle(slug) {
+    const mdPath = join(PATHS.guideDir, `${slug}.md`);
+    return existsSync(mdPath) ? readFileSync(mdPath, 'utf-8') : null;
+}
+
+/**
  * Aggregate stats across all data sources.
  * @returns {Object}
  */
