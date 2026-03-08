@@ -255,6 +255,62 @@
     }
   },
   {
+    "id": "2030422813795049632",
+    "date": "2026-03-08",
+    "author": "@onusoz",
+    "author_url": "https://x.com/onusoz",
+    "tweet_url": "https://x.com/onusoz/status/2030422813795049632",
+    "title": {
+      "en-US": "Warning about OpenClaw security - don't give it access to main email, credit cards, phone, SSN",
+      "zh-CN": "警告：不要给OpenClaw主邮箱、信用卡、手机号、社保号的访问权限，建议为agent创建独立只读账户"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全实践 - 直接相关平台话题",
+      "zh-CN": "表面上的「限制」其实是设计上的智慧——不为agent开放全部权限，反而能让它跑得更稳。问题不在于「能不能给」，而在于「给了之后谁来收拾残局」。"
+    },
+    "relevance": "OpenClaw安全实践 - 直接相关平台话题",
+    "score": 0.73,
+    "engagement": {
+      "likes": 43,
+      "retweets": 3,
+      "replies": 7
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-08T06:07:44.983413+00:00",
+    "js_take": {
+      "en-US": "You think you're building an agent. You're building a liability with WiFi. True autonomy runs on rails, not raw access.",
+      "zh-CN": "你以为自己在造Agent。其实是在造一个带WiFi的隐患。真正的自主需要约束，不是放任。"
+    }
+  },
+  {
+    "id": "2030520591087018078",
+    "date": "2026-03-08",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2030520591087018078",
+    "title": {
+      "en-US": "The ChatGPT comeback needs to be studied. ChatGPT 5.4 best coding model, OpenAI reseting limits, 2x usage over the next month...",
+      "zh-CN": "ChatGPT的逆袭值得研究：5.4成最佳编程模型、OpenAI重置限制、使用量将翻倍"
+    },
+    "summary": {
+      "en-US": "OpenClaw和AI编程工具",
+      "zh-CN": "所谓\"逆袭\"从来不是突然的转折，而是势能在暗中积累到临界点的必然释放——ChatGPT的回归不是\"打了一仗\"，而是等到了属于自己的时刻。（更形象：用\"势能积累\"这个物理隐喻，把商业竞争转化为可感知的画面）"
+    },
+    "relevance": "OpenClaw和AI编程工具",
+    "score": 0.725,
+    "engagement": {
+      "likes": 78,
+      "replies": 28,
+      "retweets": 5
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-08T06:07:44.983423+00:00",
+    "js_take": {
+      "en-US": "ChatGPT didn't \"come back.\" It positioned and waited. The best competitive move isn't attacking—it's being unavoidable when the moment tips.",
+      "zh-CN": "ChatGPT不是「杀回来」的。它是布好局，然后等。最好的竞争不是主动出击，而是在趋势反转时让你避无可避。"
+    }
+  },
+  {
     "id": "2030364018716627418",
     "date": "2026-03-08",
     "author": "@mattshumer_",
@@ -336,6 +392,34 @@
     "js_take": {
       "en-US": "We've raced to give AI perfect memory, but brains work because they forget. Maybe the next leap isn't 'better storage'—it's knowing what to drop.",
       "zh-CN": "我们拼命想让AI拥有完美记忆，却忘了人脑的智慧恰恰在于遗忘。真正的突破或许不是「更强的存储」——而是懂得什么该放手。"
+    }
+  },
+  {
+    "id": "2030326737117081662",
+    "date": "2026-03-08",
+    "author": "@oliviscusAI",
+    "author_url": "https://x.com/oliviscusAI",
+    "tweet_url": "https://x.com/oliviscusAI/status/2030326737117081662",
+    "title": {
+      "en-US": "Someone turned OpenClaw into autonomous sales agent - paste URL, builds outbound pipeline in 60s",
+      "zh-CN": "有人把OpenClaw做成自主销售agent，粘贴网站URL就能在60秒内构建整个外呼销售流程"
+    },
+    "summary": {
+      "en-US": "OpenClaw应用案例 - 销售自动化",
+      "zh-CN": "「60秒建销售流程」听起来很酷，但真正的瓶颈从来不是搭建，而是后续的迭代和失效处理。速度崇拜掩盖了一个事实：复杂的系统需要缓慢的信任积累。"
+    },
+    "relevance": "OpenClaw应用案例 - 销售自动化",
+    "score": 0.71,
+    "engagement": {
+      "likes": 55,
+      "retweets": 7,
+      "replies": 8
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-08T06:07:44.983419+00:00",
+    "js_take": {
+      "en-US": "60s to spin up, 6 months to untangle the mess. 'Autonomous' doesn't mean 'runs without thinking'—it means 'knows when to stop.'",
+      "zh-CN": "60秒启动，6个月收拾烂摊子。「自主」不是「无脑运行」，而是「懂得何时停下」。"
     }
   },
   {
