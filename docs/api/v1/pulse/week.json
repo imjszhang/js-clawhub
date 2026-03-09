@@ -205,6 +205,34 @@
     }
   },
   {
+    "id": "2030966879469142230",
+    "date": "2026-03-09",
+    "author": "@code_rams",
+    "author_url": "https://x.com/code_rams",
+    "tweet_url": "https://x.com/code_rams/status/2030966879469142230",
+    "title": {
+      "en-US": "New OpenClaw 2026.3.8: Telegram dupes fixed, ACP provenance added",
+      "zh-CN": "OpenClaw 发布 2026.3.8 版本更新，修复了 Telegram 重复消息问题，增加了 ACP 请求来源验证功能。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台直接相关——agent 安全性、消息去重、请求溯源",
+      "zh-CN": "更深度：点出 OpenClaw 这两个更新（去重+溯源）背后指向同一个底层认知——agent 系统最大的风险不是技术 bug，而是「不知道自己收到了什么」。在 agent 能自主行动的世界里，「消息是否真实、请求来自谁」比「功能是否正常」更重要。这是从工具到 agent 的范式跃迁。"
+    },
+    "relevance": "OpenClaw 平台直接相关——agent 安全性、消息去重、请求溯源",
+    "score": 0.75,
+    "engagement": {
+      "likes": 17,
+      "replies": 5,
+      "retweets": 1
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-09T14:04:38.282867+00:00",
+    "js_take": {
+      "en-US": "Two updates, one insight: in the agent era, \"did I actually receive this?\" matters more than \"does it work?\" Functionality is table stakes. Provenance is survival. Tool → agent isn't an upgrade. It's a category shift.",
+      "zh-CN": "两个更新，一个洞察：在Agent时代，「消息是否真的送达？」比「功能是否正常？」更重要。功能只是基础门槛，可溯源性才是生存关键。从工具到Agent不是升级，而是范式跃迁。"
+    }
+  },
+  {
     "id": "2030657399795884042",
     "date": "2026-03-09",
     "author": "@BrianRoemmele",
