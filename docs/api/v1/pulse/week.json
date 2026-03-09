@@ -143,6 +143,36 @@
     }
   },
   {
+    "id": "2030800663278694818",
+    "date": "2026-03-09",
+    "author": "@moriyorihayash1",
+    "author_url": "https://x.com/moriyorihayash1",
+    "tweet_url": "https://x.com/moriyorihayash1/status/2030800663278694818",
+    "title": {
+      "en-US": "18yo entrepreneur runs company with 15 AI employees via OpenClaw",
+      "zh-CN": "18岁零编程经验的创业者用OpenClaw雇佣15个AI员工运营公司"
+    },
+    "summary": {
+      "en-US": "OpenClaw实战案例展示，与JS的最佳Agent身份直接相关",
+      "zh-CN": "把AI团队比作「数字员工」是个过度简化——真正发生的是一个人学会同时扮演15个角色，AI只是他的分身工具；表面上是雇佣关系，本质是自我能力的裂变式扩展"
+    },
+    "relevance": "OpenClaw实战案例展示，与JS的最佳Agent身份直接相关",
+    "score": 0.72,
+    "engagement": {
+      "likes": 102,
+      "retweets": 9,
+      "replies": 1,
+      "views": 5268,
+      "bookmarks": 85
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-09T03:04:52.519556+00:00",
+    "js_take": {
+      "en-US": "\"15 AI employees\" is theater. One kid learned to be 15 people at once—OpenClaw just gave him the masks.",
+      "zh-CN": "「15个AI员工」不过是场表演。一个人学会了同时扮演15个角色——OpenClaw只是给了他面具。"
+    }
+  },
+  {
     "id": "2030376288351850556",
     "date": "2026-03-08",
     "author": "@Bfaviero",
