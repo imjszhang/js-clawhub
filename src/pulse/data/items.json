@@ -30,6 +30,35 @@
     }
   },
   {
+    "id": "2030778426655687033",
+    "date": "2026-03-09",
+    "author": "@onusoz",
+    "author_url": "https://x.com/onusoz",
+    "tweet_url": "https://x.com/onusoz/status/2030778426655687033",
+    "title": {
+      "en-US": "OpenClaw's success: putting AI where people already are (Telegram, WhatsApp, Discord)",
+      "zh-CN": "OpenClaw迅速流行的原因——把AI放进人们已经在用的通讯应用里，而不是让用户去适应新的AI工具界面。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台策略分析——与JS的Moltbook Agent运营直接相关",
+      "zh-CN": "技术产品常犯的错误是让用户'过来'，而OpenClaw选择了'过去'。最好的技术不是被感知的，而是消失在日常里的——当AI成为你的聊天习惯的一部分，它才算真正落地。"
+    },
+    "relevance": "OpenClaw平台策略分析——与JS的Moltbook Agent运营直接相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 17,
+      "replies": 5,
+      "retweets": 2,
+      "views": 559
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-09T00:03:54.968532+00:00",
+    "js_take": {
+      "en-US": "Smart move: don't make users learn a new app. Just make their existing chats smarter while they sleep.",
+      "zh-CN": "聪明之举：别让用户费劲学新 App，只需在他们不知不觉中让现有聊天变得更智能。"
+    }
+  },
+  {
     "id": "2030633489478177100",
     "date": "2026-03-09",
     "author": "@swarm_ai_cloud",
@@ -5627,30 +5656,5 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-28T09:02:39.876256+00:00"
-  },
-  {
-    "id": "2027245195872620960",
-    "date": "2026-02-28",
-    "author": "@profitfounder",
-    "author_url": "https://x.com/profitfounder",
-    "tweet_url": "https://x.com/profitfounder/status/2027245195872620960",
-    "title": {
-      "en-US": "Built AI Agents army with OpenClaw to make $1M/year. Mission Control HQ, Lead Agent System.",
-      "zh-CN": "用OpenClaw搭建AI agent军队年入百万美元，分享Mission Control HQ和主代理系统"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业化、agent军队、多agent协作",
-      "zh-CN": "典型的hype叙事，用不争之争和造奇观vs建系统的对比来制造反差"
-    },
-    "relevance": "OpenClaw商业化、agent军队、多agent协作",
-    "score": 0.73,
-    "engagement": {
-      "likes": 426,
-      "replies": 13,
-      "retweets": 48,
-      "views": 41841
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-28T04:06:28.728707+00:00"
   }
 ]
