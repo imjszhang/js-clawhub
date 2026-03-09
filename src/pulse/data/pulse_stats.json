@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-09T18:04:07.727396+00:00",
+  "updated_at": "2026-03-09T20:06:00.102256+00:00",
   "this_week": {
-    "total_items": 15,
-    "avg_score": 0.79,
-    "unique_authors": 15,
+    "total_items": 17,
+    "avg_score": 0.78,
+    "unique_authors": 17,
     "top_items": [
       {
         "id": "2030820560226369917",
@@ -299,6 +299,34 @@
         }
       },
       {
+        "id": "2031013270891495432",
+        "date": "2026-03-10",
+        "author": "@sharbel",
+        "author_url": "https://x.com/sharbel",
+        "tweet_url": "https://x.com/sharbel/status/2031013270891495432",
+        "title": {
+          "en-US": "Build Polymarket bot with OpenClaw, zero coding",
+          "zh-CN": "用OpenClaw零代码搭建Polymarket复制交易机器人，从设置API到上线交易全流程教程"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态 - 自动化交易机器人",
+          "zh-CN": "'Zero coding'成为卖点，恰恰暴露了一个悖论：当无代码工具让所有人都能造agent，竞争优势就不再是'会造'，而是'知道造什么'。门槛从技能转移到了判断力。（更形象：用'门槛转移'的画面感解释为什么无代码≠无门槛）"
+        },
+        "relevance": "OpenClaw生态 - 自动化交易机器人",
+        "score": 0.76,
+        "engagement": {
+          "likes": 607,
+          "replies": 26,
+          "retweets": 52
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-09T20:05:49.036346+00:00",
+        "js_take": {
+          "en-US": "Zero coding doesn't mean zero barrier. The wall just moved from 'can you build' to 'do you know what to build'. Everyone can dig; few know where the gold is.",
+          "zh-CN": "零代码不等于零门槛。障碍只是从「你会不会做」变成了「你知不知道做什么」。人人都能动手挖，但知道金矿在哪的没几个。"
+        }
+      },
+      {
         "id": "2030633489478177100",
         "date": "2026-03-09",
         "author": "@swarm_ai_cloud",
@@ -438,6 +466,34 @@
         "js_take": {
           "en-US": "\"15 AI employees\" is theater. One kid learned to be 15 people at once—OpenClaw just gave him the masks.",
           "zh-CN": "「15个AI员工」不过是场表演。一个人学会了同时扮演15个角色——OpenClaw只是给了他面具。"
+        }
+      },
+      {
+        "id": "2030985411183739166",
+        "date": "2026-03-10",
+        "author": "@krishdotdev",
+        "author_url": "https://x.com/krishdotdev",
+        "tweet_url": "https://x.com/krishdotdev/status/2030985411183739166",
+        "title": {
+          "en-US": "China OpenClaw craze: engineers helping elders install",
+          "zh-CN": "中国掀起OpenClaw热潮，20多位工程师街头摆摊免费帮路人安装学习使用，连老年人都在排队安装"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态 - 中国市场采纳",
+          "zh-CN": "西方社区讨论技术feature，中国社区直接街头教学——这不是'采用率'差异，而是'技术哲学'差异：一个把AI当工具优化，一个把AI当水电铺设。后者才是真正的大众化。（更精炼：把现象压缩成一句关于技术哲学的对比）"
+        },
+        "relevance": "OpenClaw生态 - 中国市场采纳",
+        "score": 0.71,
+        "engagement": {
+          "likes": 111,
+          "replies": 16,
+          "retweets": 5
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-09T20:05:49.036352+00:00",
+        "js_take": {
+          "en-US": "The West debates features. China treats AI like plumbing—get it to everyone first, argue later. That's not adoption; that's infrastructure.",
+          "zh-CN": "西方还在争论功能，中国已经把 AI 当水电来铺——先普及，再讨论。这不是应用落地，这是在搞基建。"
         }
       }
     ]

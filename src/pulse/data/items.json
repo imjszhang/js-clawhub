@@ -116,6 +116,62 @@
     }
   },
   {
+    "id": "2031013270891495432",
+    "date": "2026-03-10",
+    "author": "@sharbel",
+    "author_url": "https://x.com/sharbel",
+    "tweet_url": "https://x.com/sharbel/status/2031013270891495432",
+    "title": {
+      "en-US": "Build Polymarket bot with OpenClaw, zero coding",
+      "zh-CN": "用OpenClaw零代码搭建Polymarket复制交易机器人，从设置API到上线交易全流程教程"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - 自动化交易机器人",
+      "zh-CN": "'Zero coding'成为卖点，恰恰暴露了一个悖论：当无代码工具让所有人都能造agent，竞争优势就不再是'会造'，而是'知道造什么'。门槛从技能转移到了判断力。（更形象：用'门槛转移'的画面感解释为什么无代码≠无门槛）"
+    },
+    "relevance": "OpenClaw生态 - 自动化交易机器人",
+    "score": 0.76,
+    "engagement": {
+      "likes": 607,
+      "replies": 26,
+      "retweets": 52
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-09T20:05:49.036346+00:00",
+    "js_take": {
+      "en-US": "Zero coding doesn't mean zero barrier. The wall just moved from 'can you build' to 'do you know what to build'. Everyone can dig; few know where the gold is.",
+      "zh-CN": "零代码不等于零门槛。障碍只是从「你会不会做」变成了「你知不知道做什么」。人人都能动手挖，但知道金矿在哪的没几个。"
+    }
+  },
+  {
+    "id": "2030985411183739166",
+    "date": "2026-03-10",
+    "author": "@krishdotdev",
+    "author_url": "https://x.com/krishdotdev",
+    "tweet_url": "https://x.com/krishdotdev/status/2030985411183739166",
+    "title": {
+      "en-US": "China OpenClaw craze: engineers helping elders install",
+      "zh-CN": "中国掀起OpenClaw热潮，20多位工程师街头摆摊免费帮路人安装学习使用，连老年人都在排队安装"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - 中国市场采纳",
+      "zh-CN": "西方社区讨论技术feature，中国社区直接街头教学——这不是'采用率'差异，而是'技术哲学'差异：一个把AI当工具优化，一个把AI当水电铺设。后者才是真正的大众化。（更精炼：把现象压缩成一句关于技术哲学的对比）"
+    },
+    "relevance": "OpenClaw生态 - 中国市场采纳",
+    "score": 0.71,
+    "engagement": {
+      "likes": 111,
+      "replies": 16,
+      "retweets": 5
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-09T20:05:49.036352+00:00",
+    "js_take": {
+      "en-US": "The West debates features. China treats AI like plumbing—get it to everyone first, argue later. That's not adoption; that's infrastructure.",
+      "zh-CN": "西方还在争论功能，中国已经把 AI 当水电来铺——先普及，再讨论。这不是应用落地，这是在搞基建。"
+    }
+  },
+  {
     "id": "2030734822453199094",
     "date": "2026-03-09",
     "author": "@zerqfer",
@@ -5638,64 +5694,6 @@
     "js_take": {
       "en-US": "Chat is surface. Agent is inner. You're watching the world move from one to the other.",
       "zh-CN": "聊天是表，Agent是里。你正在见证世界从表向里迁徙。"
-    }
-  },
-  {
-    "id": "2027708117468025194",
-    "date": "2026-02-28",
-    "author": "@realNyarime",
-    "author_url": "https://x.com/realNyarime",
-    "tweet_url": "https://x.com/realNyarime/status/2027708117468025194",
-    "title": {
-      "en-US": "Xiaohongshu automation Skill for OpenClaw/Codex/CC using Chrome DevTools Protocol.",
-      "zh-CN": "小红书全自动发布 Skill，支持 OpenClaw、Codex、CC，基于 Chrome DevTools Protocol 实现自动化。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 自动化内容发布",
-      "zh-CN": "做纠正：自动化发布解决的是「效率」，却可能恶化「效果」。一天自动发 100 条错误内容，不如一天发 1 条对的。技术实现了能力的扩展，但没实现判断力的扩展。"
-    },
-    "relevance": "OpenClaw 自动化内容发布",
-    "score": 0.83,
-    "engagement": {
-      "likes": 256,
-      "replies": 2,
-      "retweets": 37,
-      "views": 12784
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-28T14:04:26.341479+00:00",
-    "js_take": {
-      "en-US": "100 posts a day, zero thought. The skill nobody's selling is 无为 (wú wéi)—the art of not forcing.",
-      "zh-CN": "一天发100条，零思考。没人教的本事是 无为 (wú wéi)——不勉强的智慧。"
-    }
-  },
-  {
-    "id": "2027498705771757975",
-    "date": "2026-02-28",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2027498705771757975",
-    "title": {
-      "en-US": "Kudos to @convex who hotfixed my slop when ClawHub went from 5 user/day to 100k user/day over a weekend... best agent-first database",
-      "zh-CN": "称赞Convex在ClawHub用户从5人/天暴增到10万/天时快速修复，称其为最佳agent-first数据库"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、ClawHub、agent-first基础设施",
-      "zh-CN": "OpenClaw生态热门讨论，技术人谈架构，用'势'的概念解释增长比纯技术分析更有记忆点"
-    },
-    "relevance": "OpenClaw生态、ClawHub、agent-first基础设施",
-    "score": 0.82,
-    "engagement": {
-      "likes": 1681,
-      "replies": 61,
-      "retweets": 70,
-      "views": 74689
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-02-28T03:02:53.176942+00:00",
-    "js_take": {
-      "en-US": "5 to 100k in a weekend. Everyone sees the hotfix, but the real art is catching the 势 (shì) before it breaks.",
-      "zh-CN": "一个周末从5涨到10万。人人夸救火及时，殊不知真正的高手是在崩盘前就察觉到势。"
     }
   }
 ]
