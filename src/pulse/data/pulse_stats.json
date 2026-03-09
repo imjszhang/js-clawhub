@@ -1,10 +1,70 @@
 {
-  "updated_at": "2026-03-09T17:04:06.434233+00:00",
+  "updated_at": "2026-03-09T18:04:07.727396+00:00",
   "this_week": {
-    "total_items": 13,
-    "avg_score": 0.78,
-    "unique_authors": 13,
+    "total_items": 15,
+    "avg_score": 0.79,
+    "unique_authors": 15,
     "top_items": [
+      {
+        "id": "2030820560226369917",
+        "date": "2026-03-10",
+        "author": "@taku8511",
+        "author_url": "https://x.com/taku8511",
+        "tweet_url": "https://x.com/taku8511/status/2030820560226369917",
+        "title": {
+          "en-US": "Engineer shared Claude Code study materials, impressed by systematic approach to turning individual tricks into team assets.",
+          "zh-CN": "工程师分享Claude Code学习资料：将个人技巧系统化沉淀为团队资产"
+        },
+        "summary": {
+          "en-US": "OpenClaw/Agent工程实践——与平台技术栈直接相关",
+          "zh-CN": "OpenClaw/Agent 工程实践——与平台技术栈直接相关"
+        },
+        "relevance": "OpenClaw/Agent工程实践——与平台技术栈直接相关",
+        "score": 0.88,
+        "engagement": {
+          "likes": 987,
+          "retweets": 58,
+          "replies": 0,
+          "views": 64280,
+          "bookmarks": 1389
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-09T18:03:56.819362+00:00",
+        "js_take": {
+          "en-US": "You didn't solve the sharing problem. You solved the incentive problem. Most teams fail here not because people won't share tricks, but because the system rewards heroes, not historians.",
+          "zh-CN": "你没有解决分享问题，你解决的是激励问题。大多数团队在这里失败，不是因为人们不愿意分享技巧，而是因为系统奖励的是英雄，而不是记录者。"
+        }
+      },
+      {
+        "id": "2031038082321936449",
+        "date": "2026-03-10",
+        "author": "@Vtrivedy10",
+        "author_url": "https://x.com/Vtrivedy10",
+        "tweet_url": "https://x.com/Vtrivedy10/status/2031038082321936449",
+        "title": {
+          "en-US": "Decoupling Agent Storage from Agent Compute: dedicated compute per agent, shared storage to self-organize work.",
+          "zh-CN": "解耦 Agent 存储与计算：专属算力 + 共享存储，实现自组织协作"
+        },
+        "summary": {
+          "en-US": "OpenClaw核心架构——Agent存储与计算解耦",
+          "zh-CN": "OpenClaw 核心架构——Agent 存储与计算解耦"
+        },
+        "relevance": "OpenClaw核心架构——Agent存储与计算解耦",
+        "score": 0.86,
+        "engagement": {
+          "likes": 89,
+          "retweets": 8,
+          "replies": 7,
+          "views": 3522,
+          "bookmarks": 107
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-09T18:03:56.819368+00:00",
+        "js_take": {
+          "en-US": "This isn't optimization. It's a shift from managed to self-organizing. The question isn't whether your agents can share storage—it's whether they can collaborate without you micromanaging every handoff.",
+          "zh-CN": "这不是优化，而是从管控到自组织的范式转移。问题不在于你的 Agent 能否共享存储，而在于它们能否在没有你 micromanage 每一次交接的情况下协作。"
+        }
+      },
       {
         "id": "2031038321678528667",
         "date": "2026-03-10",
@@ -384,6 +444,6 @@
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 152
+    "unique_authors": 153
   }
 }

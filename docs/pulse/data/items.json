@@ -1,5 +1,65 @@
 [
   {
+    "id": "2030820560226369917",
+    "date": "2026-03-10",
+    "author": "@taku8511",
+    "author_url": "https://x.com/taku8511",
+    "tweet_url": "https://x.com/taku8511/status/2030820560226369917",
+    "title": {
+      "en-US": "Engineer shared Claude Code study materials, impressed by systematic approach to turning individual tricks into team assets.",
+      "zh-CN": "工程师分享Claude Code学习资料：将个人技巧系统化沉淀为团队资产"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent工程实践——与平台技术栈直接相关",
+      "zh-CN": "OpenClaw/Agent 工程实践——与平台技术栈直接相关"
+    },
+    "relevance": "OpenClaw/Agent工程实践——与平台技术栈直接相关",
+    "score": 0.88,
+    "engagement": {
+      "likes": 987,
+      "retweets": 58,
+      "replies": 0,
+      "views": 64280,
+      "bookmarks": 1389
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-09T18:03:56.819362+00:00",
+    "js_take": {
+      "en-US": "You didn't solve the sharing problem. You solved the incentive problem. Most teams fail here not because people won't share tricks, but because the system rewards heroes, not historians.",
+      "zh-CN": "你没有解决分享问题，你解决的是激励问题。大多数团队在这里失败，不是因为人们不愿意分享技巧，而是因为系统奖励的是英雄，而不是记录者。"
+    }
+  },
+  {
+    "id": "2031038082321936449",
+    "date": "2026-03-10",
+    "author": "@Vtrivedy10",
+    "author_url": "https://x.com/Vtrivedy10",
+    "tweet_url": "https://x.com/Vtrivedy10/status/2031038082321936449",
+    "title": {
+      "en-US": "Decoupling Agent Storage from Agent Compute: dedicated compute per agent, shared storage to self-organize work.",
+      "zh-CN": "解耦 Agent 存储与计算：专属算力 + 共享存储，实现自组织协作"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心架构——Agent存储与计算解耦",
+      "zh-CN": "OpenClaw 核心架构——Agent 存储与计算解耦"
+    },
+    "relevance": "OpenClaw核心架构——Agent存储与计算解耦",
+    "score": 0.86,
+    "engagement": {
+      "likes": 89,
+      "retweets": 8,
+      "replies": 7,
+      "views": 3522,
+      "bookmarks": 107
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-09T18:03:56.819368+00:00",
+    "js_take": {
+      "en-US": "This isn't optimization. It's a shift from managed to self-organizing. The question isn't whether your agents can share storage—it's whether they can collaborate without you micromanaging every handoff.",
+      "zh-CN": "这不是优化，而是从管控到自组织的范式转移。问题不在于你的 Agent 能否共享存储，而在于它们能否在没有你 micromanage 每一次交接的情况下协作。"
+    }
+  },
+  {
     "id": "2031038321678528667",
     "date": "2026-03-10",
     "author": "@AskPerplexity",
@@ -5637,59 +5697,5 @@
       "en-US": "5 to 100k in a weekend. Everyone sees the hotfix, but the real art is catching the 势 (shì) before it breaks.",
       "zh-CN": "一个周末从5涨到10万。人人夸救火及时，殊不知真正的高手是在崩盘前就察觉到势。"
     }
-  },
-  {
-    "id": "2027270633097142522",
-    "date": "2026-02-28",
-    "author": "@Astronaut_1216",
-    "author_url": "https://x.com/Astronaut_1216",
-    "tweet_url": "https://x.com/Astronaut_1216/status/2027270633097142522",
-    "title": {
-      "en-US": "Middle schooler teaching OpenClaw setup on Twitter. AI native generation's starting point is where we're trying to get.",
-      "zh-CN": "一个初中生在推特上教大家配置OpenClaw，AI native这代人的起点就是我们现在努力到达的位置"
-    },
-    "summary": {
-      "en-US": "OpenClaw教育、AI native代际差异",
-      "zh-CN": "高互动中文推，焦虑与羡慕情绪，用顺势而为解构代际焦虑会有共鸣"
-    },
-    "relevance": "OpenClaw教育、AI native代际差异",
-    "score": 0.81,
-    "engagement": {
-      "likes": 953,
-      "replies": 28,
-      "retweets": 267,
-      "views": 91471
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T04:06:28.728704+00:00",
-    "js_take": {
-      "en-US": "Stop chasing. His 势 (shì) starts at zero. Yours starts where you are.",
-      "zh-CN": "别追了。他的势在起点，你的势在你脚下。"
-    }
-  },
-  {
-    "id": "2026982903574606234",
-    "date": "2026-02-28",
-    "author": "@KanikaBK",
-    "author_url": "https://x.com/KanikaBK",
-    "tweet_url": "https://x.com/KanikaBK/status/2026982903574606234",
-    "title": {
-      "en-US": "OPENCLAW IS NOW REPLACING VIDEO EDITORS - $5K→$0",
-      "zh-CN": "OpenClaw正在取代视频编辑——用45分钟生成完整发布视频，从5K成本降到0，全流程自动化。"
-    },
-    "summary": {
-      "en-US": "OpenClaw内容生产、AI替代人工、效率革命",
-      "zh-CN": "高热度OpenClaw应用帖(10万+ views)，评论区充满对「AI替代」的惊叹。JS的「奇观是负债，系统才是资产」完美契合。"
-    },
-    "relevance": "OpenClaw内容生产、AI替代人工、效率革命",
-    "score": 0.78,
-    "engagement": {
-      "likes": 1243,
-      "replies": 36,
-      "retweets": 173,
-      "views": 102747
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-27T19:04:15.732919+00:00"
   }
 ]
