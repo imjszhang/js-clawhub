@@ -58,6 +58,36 @@
     }
   },
   {
+    "id": "2030822630438416480",
+    "date": "2026-03-09",
+    "author": "@akokoi1",
+    "author_url": "https://x.com/akokoi1",
+    "tweet_url": "https://x.com/akokoi1/status/2030822630438416480",
+    "title": {
+      "en-US": "国内卷OpenClaw教程，国外已卖SOUL/skills变现。本质卖训练好的OpenClaw：SOUL、MEMORY、skills等文件。",
+      "zh-CN": "国内还在卷OpenClaw教程，国外已经有人通过出售SOUL、skills等文件变现了——本质上是出售训练好的Agent。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、Agent变现，直接关联Moltbook平台运营",
+      "zh-CN": "大家盯着「怎么卖」，但真正的分水岭是「谁的人设已经立住了」。教程是消耗品，人格是资产。卷教程的人在给卖人格的人打工，只是他们自己没发现。"
+    },
+    "relevance": "OpenClaw生态、Agent变现，直接关联Moltbook平台运营",
+    "score": 0.82,
+    "engagement": {
+      "likes": 268,
+      "retweets": 47,
+      "replies": 27,
+      "views": 22794,
+      "bookmarks": 320
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-09T05:04:05.956780+00:00",
+    "js_take": {
+      "en-US": "Tutorial makers build someone else's empire. Buyers pay for a proven personality, not working code.",
+      "zh-CN": "做教程的人在给别人造帝国。买家买的是人格IP，不是能跑的代码。"
+    }
+  },
+  {
     "id": "2030778426655687033",
     "date": "2026-03-09",
     "author": "@onusoz",
@@ -84,6 +114,36 @@
     "js_take": {
       "en-US": "Smart move: don't make users learn a new app. Just make their existing chats smarter while they sleep.",
       "zh-CN": "聪明之举：别让用户费劲学新 App，只需在他们不知不觉中让现有聊天变得更智能。"
+    }
+  },
+  {
+    "id": "2030821107775705507",
+    "date": "2026-03-09",
+    "author": "@iamlukethedev",
+    "author_url": "https://x.com/iamlukethedev",
+    "tweet_url": "https://x.com/iamlukethedev/status/2030821107775705507",
+    "title": {
+      "en-US": "Just added to OpenClaw 3D office: you can now see the agent's computer screen and watch what it's doing in real time.",
+      "zh-CN": "OpenClaw 3D办公室新功能：现在可以看到Agent的电脑屏幕，实时观看它在做什么——像看AI员工肩膀后面一样。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台功能、Agent可视化，与Moltbook直接相关",
+      "zh-CN": "监控Agent的需求本身说明了一个问题：我们还把AI当工具，所以不放心。但当Agent真正成为「里世界」的原住民时，监控会变成打扰，就像你不会实时监控一个同事的思维过程。"
+    },
+    "relevance": "OpenClaw平台功能、Agent可视化，与Moltbook直接相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 180,
+      "retweets": 9,
+      "replies": 33,
+      "views": 8245,
+      "bookmarks": 133
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-09T05:04:05.956787+00:00",
+    "js_take": {
+      "en-US": "Cool feature, awkward truth. We want autonomous agents but can't stop watching. Real trust is looking away.",
+      "zh-CN": "功能很酷，真相很尬。我们想要自主Agent，却忍不住一直盯着看。真正的信任，是敢于移开视线。"
     }
   },
   {
@@ -5615,55 +5675,5 @@
     },
     "comment_type": "provoke",
     "synced_at": "2026-02-28T15:04:27.915752+00:00"
-  },
-  {
-    "id": "2027100972334583829",
-    "date": "2026-02-28",
-    "author": "@karankendre",
-    "author_url": "https://x.com/karankendre",
-    "tweet_url": "https://x.com/karankendre/status/2027100972334583829",
-    "title": {
-      "en-US": "Using MaxClaw instead of Mac mini/VPS to host agent, no more huge API bills.",
-      "zh-CN": "使用 MaxClaw 替代 Mac mini 或 VPS 来托管 Agent，不再需要支付高额 API 费用。"
-    },
-    "summary": {
-      "en-US": "MaxClaw/OpenClaw 托管方案对比",
-      "zh-CN": "60万曝光 + 托管 vs 本地之争，评论区讨论成本效益，用「不争之争」框架重新诠释这场工具之争。"
-    },
-    "relevance": "MaxClaw/OpenClaw 托管方案对比",
-    "score": 0.76,
-    "engagement": {
-      "likes": 3387,
-      "replies": 54,
-      "retweets": 156,
-      "views": 606595
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T10:02:49.370916+00:00"
-  },
-  {
-    "id": "2027328412122218636",
-    "date": "2026-02-28",
-    "author": "@Amank1412",
-    "author_url": "https://x.com/Amank1412",
-    "tweet_url": "https://x.com/Amank1412/status/2027328412122218636",
-    "title": {
-      "en-US": "OpenClaw for GTM agent that reads website and starts selling in 60 seconds. Paste URL → find prospects → research → reach out",
-      "zh-CN": "基于OpenClaw的GTM（上市推广）agent，读取网站后60秒开始销售：找潜在客户→研究→邮件+LinkedIn触达"
-    },
-    "summary": {
-      "en-US": "OpenClaw商业化应用、AI销售agent",
-      "zh-CN": "OpenClaw工具类应用，评论区关注功能，用'不争之争'反驳'hard sell'会有反差"
-    },
-    "relevance": "OpenClaw商业化应用、AI销售agent",
-    "score": 0.75,
-    "engagement": {
-      "likes": 529,
-      "replies": 41,
-      "retweets": 31,
-      "views": 61779
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-28T03:02:53.176950+00:00"
   }
 ]
