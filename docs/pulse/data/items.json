@@ -1,5 +1,61 @@
 [
   {
+    "id": "2031038321678528667",
+    "date": "2026-03-10",
+    "author": "@AskPerplexity",
+    "author_url": "https://x.com/AskPerplexity",
+    "tweet_url": "https://x.com/AskPerplexity/status/2031038321678528667",
+    "title": {
+      "en-US": "Claude Code and GitHub CLI now inside Perplexity Computer - fixed OpenClaw issue autonomously",
+      "zh-CN": "Perplexity Computer 现在内置 Claude Code 和 GitHub CLI，演示了自动 fork 仓库、制定修复计划、实现代码并提交 PR 的完整流程"
+    },
+    "summary": {
+      "en-US": "OpenClaw 被直接提及，AI Agent 自主编程能力的典型案例",
+      "zh-CN": "大家都在惊叹 AI 能自动修 bug，但忽略了更深层的转变：当工具能自己迭代自己，'控制'的定义正在失效——真正的智能不是执行指令的精确性，而是系统在无人干预时仍能朝着有益方向演化的能力。"
+    },
+    "relevance": "OpenClaw 被直接提及，AI Agent 自主编程能力的典型案例",
+    "score": 0.82,
+    "engagement": {
+      "likes": 210,
+      "retweets": 16,
+      "replies": 27
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-09T17:03:53.360912+00:00",
+    "js_take": {
+      "en-US": "You're clocking execution speed. I'm watching 'control' become a ghost concept. Real intelligence isn't doing it right—it's still moving somewhere useful when nobody's steering.",
+      "zh-CN": "你在计较执行速度。我在看着「控制」沦为虚设。真正的智能不是做对的事——而是无人掌舵时，仍能驶向有价值的方向。"
+    }
+  },
+  {
+    "id": "2031025473614983551",
+    "date": "2026-03-10",
+    "author": "@Jason",
+    "author_url": "https://x.com/Jason",
+    "tweet_url": "https://x.com/Jason/status/2031025473614983551",
+    "title": {
+      "en-US": "New agent tech dropping weekly from Notion, Google, Microsoft - staying with open source OpenClaw",
+      "zh-CN": "Notion、Google、Microsoft 都在同一周发布 agent 产品，Jason 表示会专注于让跨平台开源项目 OpenClaw 跑起来"
+    },
+    "summary": {
+      "en-US": "OpenClaw 被提及，Agent 平台竞争格局讨论",
+      "zh-CN": "大厂堆功能、开源做连接——这场竞争的本质不是功能多少，而是'势'的选择：封闭生态靠复杂度锁定用户，开放协议靠网络效应自然生长。历史反复证明，后者起步慢，但一旦过了临界点，前者追不上。"
+    },
+    "relevance": "OpenClaw 被提及，Agent 平台竞争格局讨论",
+    "score": 0.76,
+    "engagement": {
+      "likes": 200,
+      "retweets": 19,
+      "replies": 58
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-09T17:03:53.360919+00:00",
+    "js_take": {
+      "en-US": "Big Tech ships features. Open source ships connections. One bets on locking users with complexity, the other on network effects. History's already picked.",
+      "zh-CN": "大厂堆砌功能，开源编织连接。一个用复杂绑架用户，一个靠网络效应生长。历史已经做出选择。"
+    }
+  },
+  {
     "id": "2030734822453199094",
     "date": "2026-03-09",
     "author": "@zerqfer",
@@ -5635,54 +5691,5 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-27T19:04:15.732919+00:00"
-  },
-  {
-    "id": "2027265127582478555",
-    "date": "2026-02-28",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2027265127582478555",
-    "title": {
-      "en-US": "Built Mission Control for OpenClaw agents - Pixel Office to watch 12-agent squad work and hit the breakroom. Kanban sync",
-      "zh-CN": "为OpenClaw构建了Mission Control指挥中心，像素风办公室看12个agent工作和休息，还能同步看板"
-    },
-    "summary": {
-      "en-US": "OpenClaw、agent可视化、多agent管理",
-      "zh-CN": "展示agent工作状态的创意项目，评论区可能缺一个'表/里世界'的视角解读"
-    },
-    "relevance": "OpenClaw、agent可视化、多agent管理",
-    "score": 0.78,
-    "engagement": {
-      "likes": 118,
-      "replies": 61,
-      "retweets": 5,
-      "views": 13491
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T03:02:53.176947+00:00"
-  },
-  {
-    "id": "2027383420540825825",
-    "date": "2026-02-28",
-    "author": "@discountifu",
-    "author_url": "https://x.com/discountifu",
-    "tweet_url": "https://x.com/discountifu/status/2027383420540825825",
-    "title": {
-      "en-US": "OpenClaw now supports ACP calls, use Codex CLI elegantly instead of writing code directly in lobster",
-      "zh-CN": "OpenClaw 现在支持 ACP 调用了，可以用更优雅的方式调用 Codex 等专用编程 CLI，而不是直接在 OpenClaw 里写代码"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台更新、开发者体验、Acp 协议支持",
-      "zh-CN": "讨论工具演进路径，评论区可能关注技术实现，用\"表里世界\"框架来重新定位这场讨论能制造认知反差"
-    },
-    "relevance": "OpenClaw 平台更新、开发者体验、Acp 协议支持",
-    "score": 0.78,
-    "engagement": {
-      "likes": 155,
-      "replies": 10,
-      "retweets": 19
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T05:02:21.956329+00:00"
   }
 ]
