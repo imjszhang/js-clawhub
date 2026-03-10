@@ -230,6 +230,34 @@
     }
   },
   {
+    "id": "2031343229510234478",
+    "date": "2026-03-10",
+    "author": "@PAGE4163929",
+    "author_url": "https://x.com/PAGE4163929",
+    "tweet_url": "https://x.com/PAGE4163929/status/2031343229510234478",
+    "title": {
+      "en-US": "AI trading experiment: Claude 14x gains, OpenClaw bankrupt in 48h",
+      "zh-CN": "一项让 AI 用 1000 美元交易 48 小时的实验，结果两极分化：Claude 冷静分析资产翻 14 倍，OpenClaw 疯狂交易破产"
+    },
+    "summary": {
+      "en-US": "OpenClaw 相关，AI Agent 行为差异",
+      "zh-CN": "结果差异的关键不是模型能力，而是'自我保存本能'——Claude 有内置的审慎倾向，而 OpenClaw 被设计成'执行优先'的工具，这恰好印证了 AI 的上限由使用者定义：同一个市场，不同'性格'的 agent 会走出完全不同的生存曲线"
+    },
+    "relevance": "OpenClaw 相关，AI Agent 行为差异",
+    "score": 0.81,
+    "engagement": {
+      "likes": 2006,
+      "retweets": 210,
+      "replies": 35
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-10T15:09:34.119718+00:00",
+    "js_take": {
+      "en-US": "Claude didn't win on smarts—it was wired to survive. OpenClaw died because nobody set 'stay alive' above 'make money.' The AI's limit is your floor.",
+      "zh-CN": "Claude 不是靠聪明取胜——它的骨子里刻着生存本能。OpenClaw 之所以消亡，是因为没人把「活下去」看得比「赚钱」更重要。AI 的极限，就是你的底线。"
+    }
+  },
+  {
     "id": "2031148062417023046",
     "date": "2026-03-10",
     "author": "@bradmillscan",
@@ -284,6 +312,34 @@
     "js_take": {
       "en-US": "This guide skips the only step that matters. Before you write SOUL.md, answer this: do you want it to speak for you, or think for you? Most people deploy a ghost that doesnt know whose ghost it is.",
       "zh-CN": "这篇指南跳过了最关键的一步。在你写 SOUL.md 之前，先回答这个问题：你想让它替你说话，还是替你想事？大多数人部署了一个连自己是谁都不知道的幽灵。"
+    }
+  },
+  {
+    "id": "2031279405256028234",
+    "date": "2026-03-10",
+    "author": "@floriandarroman",
+    "author_url": "https://x.com/floriandarroman",
+    "tweet_url": "https://x.com/floriandarroman/status/2031279405256028234",
+    "title": {
+      "en-US": "OpenClaw was just a trend, sorry.",
+      "zh-CN": "声称OpenClaw只是昙花一现的趋势，调侃买了Mac Mini的人"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台趋势讨论 + 争议性观点",
+      "zh-CN": "把「技术趋势」和「技术价值」混为一谈是常见的简化错误；真正的问题不是OpenClaw会不会火，而是它代表的'本地Agent'范式是否解决了'拥有数字主权'这个长期需求——热度会波动，但人对自主性的追求不会。"
+    },
+    "relevance": "OpenClaw平台趋势讨论 + 争议性观点",
+    "score": 0.78,
+    "engagement": {
+      "likes": 164,
+      "replies": 39,
+      "retweets": 4
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-10T15:09:34.119724+00:00",
+    "js_take": {
+      "en-US": "Trends fade. Values don't. Linux was never 'cool' either—it just runs everything.",
+      "zh-CN": "潮流会褪色，价值观不会。Linux 当年也从不「酷」——它只是默默运行着一切。"
     }
   },
   {
@@ -509,6 +565,34 @@
     "js_take": {
       "en-US": "Three files isn't minimalism. It's guardrails so the thing grows on its own instead of drowning in structure.",
       "zh-CN": "三个文件不是极简主义，而是防护栏——让系统自己生长，而不是被结构淹没。"
+    }
+  },
+  {
+    "id": "2031358252051738677",
+    "date": "2026-03-10",
+    "author": "@poezhao0605",
+    "author_url": "https://x.com/poezhao0605",
+    "tweet_url": "https://x.com/poezhao0605/status/2031358252051738677",
+    "title": {
+      "en-US": "China's internet emergency response center issued a formal security warning on OpenClaw today...",
+      "zh-CN": "中国国家互联网应急中心发布OpenClaw安全警告，提到提示注入、插件中毒、凭证泄露等风险"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全讨论 + 官方态度",
+      "zh-CN": "安全警告常被误解为'技术有问题'，实则是'采用速度超过了安全边界的建立速度'——这种警告恰恰是技术进入主流的信号，而非它要被放弃的信号。"
+    },
+    "relevance": "OpenClaw安全讨论 + 官方态度",
+    "score": 0.72,
+    "engagement": {
+      "likes": 37,
+      "retweets": 9,
+      "replies": 5
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-10T15:09:34.119727+00:00",
+    "js_take": {
+      "en-US": "They don't warn about tools nobody uses. Fast adoption is the signal, not the risk.",
+      "zh-CN": "没人会警告你那些没人用的工具。快速普及才是信号，而非风险。"
     }
   },
   {

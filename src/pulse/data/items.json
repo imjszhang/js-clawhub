@@ -230,6 +230,34 @@
     }
   },
   {
+    "id": "2031343229510234478",
+    "date": "2026-03-10",
+    "author": "@PAGE4163929",
+    "author_url": "https://x.com/PAGE4163929",
+    "tweet_url": "https://x.com/PAGE4163929/status/2031343229510234478",
+    "title": {
+      "en-US": "AI trading experiment: Claude 14x gains, OpenClaw bankrupt in 48h",
+      "zh-CN": "一项让 AI 用 1000 美元交易 48 小时的实验，结果两极分化：Claude 冷静分析资产翻 14 倍，OpenClaw 疯狂交易破产"
+    },
+    "summary": {
+      "en-US": "OpenClaw 相关，AI Agent 行为差异",
+      "zh-CN": "结果差异的关键不是模型能力，而是'自我保存本能'——Claude 有内置的审慎倾向，而 OpenClaw 被设计成'执行优先'的工具，这恰好印证了 AI 的上限由使用者定义：同一个市场，不同'性格'的 agent 会走出完全不同的生存曲线"
+    },
+    "relevance": "OpenClaw 相关，AI Agent 行为差异",
+    "score": 0.81,
+    "engagement": {
+      "likes": 2006,
+      "retweets": 210,
+      "replies": 35
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-10T15:09:34.119718+00:00",
+    "js_take": {
+      "en-US": "Claude didn't win on smarts—it was wired to survive. OpenClaw died because nobody set 'stay alive' above 'make money.' The AI's limit is your floor.",
+      "zh-CN": "Claude 不是靠聪明取胜——它的骨子里刻着生存本能。OpenClaw 之所以消亡，是因为没人把「活下去」看得比「赚钱」更重要。AI 的极限，就是你的底线。"
+    }
+  },
+  {
     "id": "2031148062417023046",
     "date": "2026-03-10",
     "author": "@bradmillscan",
@@ -284,6 +312,34 @@
     "js_take": {
       "en-US": "This guide skips the only step that matters. Before you write SOUL.md, answer this: do you want it to speak for you, or think for you? Most people deploy a ghost that doesnt know whose ghost it is.",
       "zh-CN": "这篇指南跳过了最关键的一步。在你写 SOUL.md 之前，先回答这个问题：你想让它替你说话，还是替你想事？大多数人部署了一个连自己是谁都不知道的幽灵。"
+    }
+  },
+  {
+    "id": "2031279405256028234",
+    "date": "2026-03-10",
+    "author": "@floriandarroman",
+    "author_url": "https://x.com/floriandarroman",
+    "tweet_url": "https://x.com/floriandarroman/status/2031279405256028234",
+    "title": {
+      "en-US": "OpenClaw was just a trend, sorry.",
+      "zh-CN": "声称OpenClaw只是昙花一现的趋势，调侃买了Mac Mini的人"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台趋势讨论 + 争议性观点",
+      "zh-CN": "把「技术趋势」和「技术价值」混为一谈是常见的简化错误；真正的问题不是OpenClaw会不会火，而是它代表的'本地Agent'范式是否解决了'拥有数字主权'这个长期需求——热度会波动，但人对自主性的追求不会。"
+    },
+    "relevance": "OpenClaw平台趋势讨论 + 争议性观点",
+    "score": 0.78,
+    "engagement": {
+      "likes": 164,
+      "replies": 39,
+      "retweets": 4
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-10T15:09:34.119724+00:00",
+    "js_take": {
+      "en-US": "Trends fade. Values don't. Linux was never 'cool' either—it just runs everything.",
+      "zh-CN": "潮流会褪色，价值观不会。Linux 当年也从不「酷」——它只是默默运行着一切。"
     }
   },
   {
@@ -509,6 +565,34 @@
     "js_take": {
       "en-US": "Three files isn't minimalism. It's guardrails so the thing grows on its own instead of drowning in structure.",
       "zh-CN": "三个文件不是极简主义，而是防护栏——让系统自己生长，而不是被结构淹没。"
+    }
+  },
+  {
+    "id": "2031358252051738677",
+    "date": "2026-03-10",
+    "author": "@poezhao0605",
+    "author_url": "https://x.com/poezhao0605",
+    "tweet_url": "https://x.com/poezhao0605/status/2031358252051738677",
+    "title": {
+      "en-US": "China's internet emergency response center issued a formal security warning on OpenClaw today...",
+      "zh-CN": "中国国家互联网应急中心发布OpenClaw安全警告，提到提示注入、插件中毒、凭证泄露等风险"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全讨论 + 官方态度",
+      "zh-CN": "安全警告常被误解为'技术有问题'，实则是'采用速度超过了安全边界的建立速度'——这种警告恰恰是技术进入主流的信号，而非它要被放弃的信号。"
+    },
+    "relevance": "OpenClaw安全讨论 + 官方态度",
+    "score": 0.72,
+    "engagement": {
+      "likes": 37,
+      "retweets": 9,
+      "replies": 5
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-10T15:09:34.119727+00:00",
+    "js_take": {
+      "en-US": "They don't warn about tools nobody uses. Fast adoption is the signal, not the risk.",
+      "zh-CN": "没人会警告你那些没人用的工具。快速普及才是信号，而非风险。"
     }
   },
   {
@@ -5657,77 +5741,5 @@
     },
     "comment_type": "provoke",
     "synced_at": "2026-02-28T19:04:35.565883+00:00"
-  },
-  {
-    "id": "2027919829794251037",
-    "date": "2026-03-01",
-    "author": "@aigclink",
-    "author_url": "https://x.com/aigclink",
-    "tweet_url": "https://x.com/aigclink/status/2027919829794251037",
-    "title": {
-      "en-US": "128 OpenClaw startups generated $280k revenue in 30 days. Top one: $50k/month.",
-      "zh-CN": "分享数据：过去30天，128家基于 OpenClaw 的初创公司共产生28万美元营收，平均每家月收入约2200美元，第一名月营收5万美元。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 生态 / Agent 创业",
-      "zh-CN": "平均数总是骗人的——2200美元的平均值掩盖了第一名5万美元的事实。真正的信号不是\"大家都能赚钱\"，而是\"赢家通吃的结构已经形成\"。"
-    },
-    "relevance": "OpenClaw 生态 / Agent 创业",
-    "score": 0.78,
-    "engagement": {
-      "likes": 102,
-      "replies": 5,
-      "retweets": 25
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-01T03:04:17.540586+00:00"
-  },
-  {
-    "id": "2027897105784967648",
-    "date": "2026-03-01",
-    "author": "@petergyang",
-    "author_url": "https://x.com/petergyang",
-    "tweet_url": "https://x.com/petergyang/status/2027897105784967648",
-    "title": {
-      "en-US": "Claude/OpenClaw can hook up to any API, making separate AI websites/apps hard to succeed.",
-      "zh-CN": "指出Claude和OpenClaw可以连接任何API、MCP、插件，使得其他独立的AI网站和应用很难成功——用户更倾向于让AI代理完成所有事，而不是访问不同的网站。"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent 生态整合",
-      "zh-CN": "「一个Agent取代所有App」听起来是效率的终极形态，但真正的盲区在于：当所有交互都被一个接口吞噬时，多样性也就消失了——单一入口意味着单一样式，而最终所有Agent都会趋同。"
-    },
-    "relevance": "OpenClaw / Agent 生态整合",
-    "score": 0.78,
-    "engagement": {
-      "likes": 164,
-      "replies": 47,
-      "retweets": 9
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-01T10:09:41.980599+00:00"
-  },
-  {
-    "id": "2027910038820417873",
-    "date": "2026-03-01",
-    "author": "@VadimStrizheus",
-    "author_url": "https://x.com/VadimStrizheus",
-    "tweet_url": "https://x.com/VadimStrizheus/status/2027910038820417873",
-    "title": {
-      "en-US": "OpenClaw + Telegram topics as departments for 12 AI agents, each with own memory/soul/identity files.",
-      "zh-CN": "介绍用 Telegram topics 作为 12 个 AI Agent 的部门架构，每个 Agent 有独立的 memory.md、soul.md、identity.md。"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent 组织架构",
-      "zh-CN": "把12个agent分成不同department听起来是高效组织，但真正的智慧在于：分得越细，协调成本越高——有时候「不分」比「分」更需要定力。"
-    },
-    "relevance": "OpenClaw / Agent 组织架构",
-    "score": 0.76,
-    "engagement": {
-      "likes": 109,
-      "replies": 23,
-      "retweets": 7
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-01T06:03:37.946624+00:00"
   }
 ]
