@@ -369,6 +369,34 @@
     }
   },
   {
+    "id": "2031098030632452449",
+    "date": "2026-03-10",
+    "author": "@MicahBerkley",
+    "author_url": "https://x.com/MicahBerkley",
+    "tweet_url": "https://x.com/MicahBerkley/status/2031098030632452449",
+    "title": {
+      "en-US": "Running 100 OpenClaw instances on MacBook Pro using Parallels. Insanity.",
+      "zh-CN": "有人发现可以在MacBook Pro上用Parallels运行100个OpenClaw实例，推文作者惊呼\"疯了\"。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台/多Agent并行",
+      "zh-CN": "「能运行100个」和「应该运行100个」之间，隔着对\"复杂度边界\"的理解——数量带来的不是能力倍增，而是协调成本的指数级爆炸。"
+    },
+    "relevance": "OpenClaw平台/多Agent并行",
+    "score": 0.72,
+    "engagement": {
+      "likes": 392,
+      "replies": 10,
+      "retweets": 12
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-10T10:04:43.149222+00:00",
+    "js_take": {
+      "en-US": "100 agents talking to each other isn't scaling—it's chaos with a server bill. One clear context beats a crowd of confused agents.",
+      "zh-CN": "100个Agent互相对话不是扩展，只是徒增服务器成本的混乱。清晰的上下文，胜过一群迷茫的Agent。"
+    }
+  },
+  {
     "id": "2030985411183739166",
     "date": "2026-03-10",
     "author": "@krishdotdev",
@@ -5679,29 +5707,5 @@
     },
     "comment_type": "provoke",
     "synced_at": "2026-03-01T05:02:25.252852+00:00"
-  },
-  {
-    "id": "2028014479540174972",
-    "date": "2026-03-01",
-    "author": "@VadimStrizheus",
-    "author_url": "https://x.com/VadimStrizheus",
-    "tweet_url": "https://x.com/VadimStrizheus/status/2028014479540174972",
-    "title": {
-      "en-US": "AI agents with persistent memory: 8 SQLite DBs, 19 memory dirs, 21 shared brain files.",
-      "zh-CN": "展示AI Agent的持久化记忆架构：8个SQLite数据库、19个记忆目录、21个共享大脑文件，确保会话间不遗忘。"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent 记忆架构",
-      "zh-CN": "大家都在追求记忆的完整性——更多数据库、更多文件、更多目录——但真正的盲区在于：记忆「存储」不等于记忆「理解」，一个记得一切但不懂取舍的Agent比一个会遗忘但懂重点的Agent更危险。"
-    },
-    "relevance": "OpenClaw / Agent 记忆架构",
-    "score": 0.72,
-    "engagement": {
-      "likes": 25,
-      "replies": 2,
-      "retweets": 1
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-01T08:20:01.919563+00:00"
   }
 ]
