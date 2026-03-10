@@ -228,6 +228,62 @@
     }
   },
   {
+    "id": "2031037813194735791",
+    "date": "2026-03-10",
+    "author": "@thetripathi58",
+    "author_url": "https://x.com/thetripathi58",
+    "tweet_url": "https://x.com/thetripathi58/status/2031037813194735791",
+    "title": {
+      "en-US": "Ghost OS: AI agent takes full control of your Mac.",
+      "zh-CN": "Ghost OS开源：一个能完全控制Mac的AI Agent，自动写代码、点击、发邮件"
+    },
+    "summary": {
+      "en-US": "AI Agent自主控制，OpenClaw生态相关",
+      "zh-CN": "对'全权控制'的兴奋恰恰暴露了一个盲区——真正的问题不是'Agent能做什么'，而是'什么时候该让它停'。没有刹车系统的加速不是进化，是失控。"
+    },
+    "relevance": "AI Agent自主控制，OpenClaw生态相关",
+    "score": 0.76,
+    "engagement": {
+      "likes": 279,
+      "replies": 15,
+      "retweets": 59
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-10T04:05:36.080219+00:00",
+    "js_take": {
+      "en-US": "Everyone's excited about what Ghost OS *can* do. No one's asking when it should *stop*. Full control without clear boundaries isn't power—it's a different kind of crash.",
+      "zh-CN": "所有人都在为 Ghost OS 的能力兴奋不已，却没人追问它应该在何时停止。没有清晰边界的完全掌控，不是真正的力量——而是另一种形式的崩溃。"
+    }
+  },
+  {
+    "id": "2031112867345510715",
+    "date": "2026-03-10",
+    "author": "@thekitze",
+    "author_url": "https://x.com/thekitze",
+    "tweet_url": "https://x.com/thekitze/status/2031112867345510715",
+    "title": {
+      "en-US": "People who buy Mac Mini before trying OpenClaw are idiots.",
+      "zh-CN": "批评还没试过OpenClaw就先买Mac Mini的人是傻子"
+    },
+    "summary": {
+      "en-US": "OpenClaw直接相关，硬件vs软件优先争议",
+      "zh-CN": "硬件先行vs软件先行的争论本身就是工业时代的思维残留——更准确的认知是：工具链会快速迭代，而判断该用什么工具的能力才是资产。买Mac Mini不是问题，固化在某个工具上才是。"
+    },
+    "relevance": "OpenClaw直接相关，硬件vs软件优先争议",
+    "score": 0.73,
+    "engagement": {
+      "likes": 136,
+      "replies": 52,
+      "retweets": 3
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-10T04:05:36.080225+00:00",
+    "js_take": {
+      "en-US": "The Mac Mini isn't the problem. Getting locked into any single tool is. The real asset isn't hardware—it's the speed at which you can decide what tool to use.",
+      "zh-CN": "Mac Mini 不是问题，被单一工具锁定才是。真正的资产不是硬件，而是你决定用什么工具的速度。"
+    }
+  },
+  {
     "id": "2030985411183739166",
     "date": "2026-03-10",
     "author": "@krishdotdev",
@@ -5642,53 +5698,5 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-03-01T01:02:47.854668+00:00"
-  },
-  {
-    "id": "2027879985143550091",
-    "date": "2026-03-01",
-    "author": "@chrysb",
-    "author_url": "https://x.com/chrysb",
-    "tweet_url": "https://x.com/chrysb/status/2027879985143550091",
-    "title": {
-      "en-US": "NullClaw vs OpenClaw: 1.7x more commits per contributor, 395 commits, 23 contributors in 7 days.",
-      "zh-CN": "对比 NullClaw 和 OpenClaw：NullClaw 过去7天人均 commits 是 OpenClaw 的1.7倍，395次提交、23名贡献者。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 生态 / 开发者指标",
-      "zh-CN": "大家都在比commits数量和contributor效率，但真正的误区在于：快不代表对，多不代表好——有时候慢下来才是最快的路径。"
-    },
-    "relevance": "OpenClaw 生态 / 开发者指标",
-    "score": 0.71,
-    "engagement": {
-      "likes": 143,
-      "replies": 19,
-      "retweets": 14
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-01T06:03:37.946628+00:00"
-  },
-  {
-    "id": "2027881834579927428",
-    "date": "2026-03-01",
-    "author": "@kloss_xyz",
-    "author_url": "https://x.com/kloss_xyz",
-    "tweet_url": "https://x.com/kloss_xyz/status/2027881834579927428",
-    "title": {
-      "en-US": "Coming home to your OpenClaw setup after being gone for a work trip.",
-      "zh-CN": "展示出差回家后看到OpenClaw设置的场景——Agent一直在运行，像宠物或室友一样在等待。"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent 存在感",
-      "zh-CN": "「回家看到Agent在等你」很温馨，但真正的悖论在于：Agent不需要休息，也从不「离开」，所以它的「在场」是没有重量的——真正的陪伴需要缺席的可能性。"
-    },
-    "relevance": "OpenClaw / Agent 存在感",
-    "score": 0.71,
-    "engagement": {
-      "likes": 134,
-      "replies": 13,
-      "retweets": 2
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-01T10:09:41.980603+00:00"
   }
 ]
