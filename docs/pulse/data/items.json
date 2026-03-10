@@ -1,5 +1,33 @@
 [
   {
+    "id": "2031145765616091639",
+    "date": "2026-03-11",
+    "author": "@nikshepsvn",
+    "author_url": "https://x.com/nikshepsvn",
+    "tweet_url": "https://x.com/nikshepsvn/status/2031145765616091639",
+    "title": {
+      "en-US": "cool fork of openclaw where agent learns to make money and get specialized in a problem space",
+      "zh-CN": "OpenClaw 的一个 fork，让 agent 专门学习赚钱和在特定领域深耕"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI Agent 自主进化",
+      "zh-CN": "最有价值的 Agent 不是什么都懂的通才，而是能在某个狭窄领域钻到别人到不了深度的人——专注本身就是最大的杠杆。"
+    },
+    "relevance": "OpenClaw/AI Agent 自主进化",
+    "score": 0.78,
+    "engagement": {
+      "likes": 99,
+      "replies": 2,
+      "retweets": 6
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-10T18:03:54.048371+00:00",
+    "js_take": {
+      "en-US": "\"Jack of all trades\" agents are a trap. Real moat isn't API count. It's 1000 hours in one painful problem nobody else wants.",
+      "zh-CN": "「万金油」型Agent是个陷阱。真正的护城河不是接了多少API，而是在别人不愿碰的痛点上死磕1000小时。"
+    }
+  },
+  {
     "id": "2030820560226369917",
     "date": "2026-03-10",
     "author": "@taku8511",
@@ -5716,30 +5744,5 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-02-28T18:02:57.239193+00:00"
-  },
-  {
-    "id": "2027810985332117883",
-    "date": "2026-03-01",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2027810985332117883",
-    "title": {
-      "en-US": "World's most powerful home AI lab: 3x Mac Studio, DGX Spark, Mac Mini, EXO cluster.",
-      "zh-CN": "打造世界最强家庭 AI 实验室：3 台 Mac Studio、Nvidia DGX Spark、Mac Mini，用 EXO 组成集群。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 硬件堆砌，算力炫耀",
-      "zh-CN": "做纠正：堆硬件解决的是「能不能跑」的问题，不是「该不该跑」的问题。最昂贵的配置，往往是为最没必要的任务准备的。"
-    },
-    "relevance": "OpenClaw 硬件堆砌，算力炫耀",
-    "score": 0.78,
-    "engagement": {
-      "likes": 251,
-      "replies": 78,
-      "retweets": 16,
-      "views": 9990
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-28T19:04:35.565883+00:00"
   }
 ]
