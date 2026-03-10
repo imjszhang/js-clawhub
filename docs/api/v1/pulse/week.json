@@ -397,6 +397,34 @@
     }
   },
   {
+    "id": "2031144940437385225",
+    "date": "2026-03-10",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2031144940437385225",
+    "title": {
+      "en-US": "OpenClaw only needs 3 files: SOUL, BRAIN, MEMORY",
+      "zh-CN": "推文建议OpenClaw只需要SOUL.md、BRAIN.md、MEMORY.md三个文件，而非10个不同的 personality 文件。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台讨论，直接相关",
+      "zh-CN": "从'做减法'到'做正确的事'——简化不是目的，让系统自然生长才是。三文件是给复杂度设边界，而非限制可能性。"
+    },
+    "relevance": "OpenClaw平台讨论，直接相关",
+    "score": 0.72,
+    "engagement": {
+      "likes": 111,
+      "replies": 10,
+      "retweets": 7
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-10T11:04:01.569618+00:00",
+    "js_take": {
+      "en-US": "Three files isn't minimalism. It's guardrails so the thing grows on its own instead of drowning in structure.",
+      "zh-CN": "三个文件不是极简主义，而是防护栏——让系统自己生长，而不是被结构淹没。"
+    }
+  },
+  {
     "id": "2030985411183739166",
     "date": "2026-03-10",
     "author": "@krishdotdev",
