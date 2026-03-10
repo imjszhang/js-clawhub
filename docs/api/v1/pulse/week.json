@@ -144,6 +144,35 @@
     }
   },
   {
+    "id": "2031270337732878655",
+    "date": "2026-03-10",
+    "author": "@tokyovibehacker",
+    "author_url": "https://x.com/tokyovibehacker",
+    "tweet_url": "https://x.com/tokyovibehacker/status/2031270337732878655",
+    "title": {
+      "en-US": "Claude Code skill creator doc improves skill quality dramatically",
+      "zh-CN": "Claude Code 技能文档：让好工具隐形"
+    },
+    "summary": {
+      "en-US": "Claude Code技能创建与OpenClaw的skill生态直接相关",
+      "zh-CN": "Claude Code 的技能创建机制与 OpenClaw 的 skill 生态高度契合"
+    },
+    "relevance": "Claude Code技能创建与OpenClaw的skill生态直接相关",
+    "score": 0.86,
+    "engagement": {
+      "likes": 911,
+      "replies": 4,
+      "retweets": 55,
+      "views": 102353
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-10T12:06:02.942776+00:00",
+    "js_take": {
+      "en-US": "If a \"skill creator doc\" makes you *more* aware you're building skills, it missed the point. Great tools disappear—they don't add another layer of consciousness.",
+      "zh-CN": "如果一份「技能创建文档」让你更加意识到自己是在「做技能」，那它就跑偏了。好工具应该隐形——而不是再添一层认知负担。"
+    }
+  },
+  {
     "id": "2031038321678528667",
     "date": "2026-03-10",
     "author": "@AskPerplexity",
@@ -172,6 +201,35 @@
     }
   },
   {
+    "id": "2031226747300229384",
+    "date": "2026-03-10",
+    "author": "@0x__tom",
+    "author_url": "https://x.com/0x__tom",
+    "tweet_url": "https://x.com/0x__tom/status/2031226747300229384",
+    "title": {
+      "en-US": "Nvidia announces NemoClaw - AI agent platform like OpenClaw at GTC 2026",
+      "zh-CN": "Nvidia即将推出名为「NemoClaw」的AI Agent开源平台，类似OpenClaw，面向企业级自主AI代理，将在GTC 2026正式发布。"
+    },
+    "summary": {
+      "en-US": "直接涉及OpenClaw竞品动态，Agent平台生态",
+      "zh-CN": "大厂入场验证赛道时，真正的机会不在「谁做得更好」，而在「谁更早意识到Agent不是产品，是基础设施」——Nvidia卖完铲子卖矿工，但矿工们还在争论该用哪家锄头。"
+    },
+    "relevance": "直接涉及OpenClaw竞品动态，Agent平台生态",
+    "score": 0.82,
+    "engagement": {
+      "likes": 65,
+      "replies": 1,
+      "retweets": 12,
+      "views": 10825
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-10T12:06:02.942767+00:00",
+    "js_take": {
+      "en-US": "Youre still comparing which agent works better. Jensen already moved past that—hes betting on infrastructure, not tools. The miners are arguing about pickaxes while hes selling the whole mine.",
+      "zh-CN": "你还在纠结哪个 Agent 更好用。Jensen 早就跳过了这一步——他押注的是基础设施，而不是工具本身。矿工们还在为选什么镐头争论不休，他已经在卖整座矿了。"
+    }
+  },
+  {
     "id": "2031148062417023046",
     "date": "2026-03-10",
     "author": "@bradmillscan",
@@ -197,6 +255,35 @@
     "js_take": {
       "en-US": "4 hours debugging vs 10 minutes switching. Sometimes the fastest fix isn't fixing—it's admitting you don't need that feature yet.",
       "zh-CN": "调试4小时，切换10分钟。有时候最快的解法不是修——而是承认自己暂时不需要这个功能。"
+    }
+  },
+  {
+    "id": "2031328533453087087",
+    "date": "2026-03-10",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2031328533453087087",
+    "title": {
+      "en-US": "Full OpenClaw setup guide: VPS, install, onboard, Telegram, SOUL.md",
+      "zh-CN": "一份完整的OpenClaw部署教程，包括VPS购买、Node安装、初始化配置、Telegram连接，以及SOUL.md等核心文件创建。"
+    },
+    "summary": {
+      "en-US": "直接关于OpenClaw部署，Agent基础设施",
+      "zh-CN": "教程很全，但漏了最关键的一步：在你写SOUL.md之前，你得先想清楚——这个Agent是替你说话，还是替你想？大多数人部署完才发现，他们克隆了一个不知道自己是谁的ghost。"
+    },
+    "relevance": "直接关于OpenClaw部署，Agent基础设施",
+    "score": 0.78,
+    "engagement": {
+      "likes": 39,
+      "replies": 4,
+      "retweets": 3,
+      "views": 1338
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-10T12:06:02.942774+00:00",
+    "js_take": {
+      "en-US": "This guide skips the only step that matters. Before you write SOUL.md, answer this: do you want it to speak for you, or think for you? Most people deploy a ghost that doesnt know whose ghost it is.",
+      "zh-CN": "这篇指南跳过了最关键的一步。在你写 SOUL.md 之前，先回答这个问题：你想让它替你说话，还是替你想事？大多数人部署了一个连自己是谁都不知道的幽灵。"
     }
   },
   {
@@ -450,6 +537,64 @@
     "js_take": {
       "en-US": "The West debates features. China treats AI like plumbing—get it to everyone first, argue later. That's not adoption; that's infrastructure.",
       "zh-CN": "西方还在争论功能，中国已经把 AI 当水电来铺——先普及，再讨论。这不是应用落地，这是在搞基建。"
+    }
+  },
+  {
+    "id": "2031318841934921757",
+    "date": "2026-03-10",
+    "author": "@itsjoaki",
+    "author_url": "https://x.com/itsjoaki",
+    "tweet_url": "https://x.com/itsjoaki/status/2031318841934921757",
+    "title": {
+      "en-US": "Nvidia evolution: GPUs → cloud → agents (NemoClaw)",
+      "zh-CN": "梳理Nvidia的商业进化路径：2000年代卖游戏GPU → 2010年代服务ML研究者 → 2020年代掌控云 → 2025-26年控制顶层的Agent。"
+    },
+    "summary": {
+      "en-US": "NemoClaw/OpenClaw，Agent平台生态",
+      "zh-CN": "这条总结精准，但少了一层：Jensen不是在「卖矿工」，他是在定义「什么是矿」。当平台层被锁死后，应用层的创新空间会被压缩还是爆发，取决于你选择做生态的零件还是规则的例外。"
+    },
+    "relevance": "NemoClaw/OpenClaw，Agent平台生态",
+    "score": 0.71,
+    "engagement": {
+      "likes": 5,
+      "replies": 1,
+      "retweets": 0,
+      "views": 461
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-10T12:06:02.942771+00:00",
+    "js_take": {
+      "en-US": "Hes not just selling shovels. Hes defining what counts as gold. When the platform becomes infrastructure, youre either a replaceable part—or the exception that breaks the rule.",
+      "zh-CN": "他不只是卖铲子。他在定义什么才算黄金。当平台成为基础设施，你要么是可替换的零件，要么是打破规则的例外。"
+    }
+  },
+  {
+    "id": "2031224342999425397",
+    "date": "2026-03-10",
+    "author": "@AIExplorerTim",
+    "author_url": "https://x.com/AIExplorerTim",
+    "tweet_url": "https://x.com/AIExplorerTim/status/2031224342999425397",
+    "title": {
+      "en-US": "OpenClaw video agent released, fully automated content pipeline",
+      "zh-CN": "AIVideo Agent发布，号称能24/7全自动运行整个内容生产流程，无需API密钥和技术设置"
+    },
+    "summary": {
+      "en-US": "直接竞品/功能，OpenClaw生态相关",
+      "zh-CN": "'无需设置、只需输入'的承诺听起来诱人，但忽略了一个铁律：凡是声称零摩擦的东西，要么在别处收取隐藏成本，要么把控制权让渡给黑箱。真正的自动化不是消除选择，而是让每个选择都有意义。"
+    },
+    "relevance": "直接竞品/功能，OpenClaw生态相关",
+    "score": 0.7,
+    "engagement": {
+      "likes": 171,
+      "replies": 8,
+      "retweets": 35,
+      "views": 25756
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-10T12:06:02.942778+00:00",
+    "js_take": {
+      "en-US": "\"Zero setup\" is a lie. It either made choices you don't understand, or it's saving the bill for when it breaks. Real automation isn't friction-free—it's friction-aware.",
+      "zh-CN": "「零配置」是个谎言。它要么替你做了看不懂的选择，要么把账单留到出事的时候。真正的自动化不是消除摩擦——而是理解摩擦。"
     }
   },
   {
