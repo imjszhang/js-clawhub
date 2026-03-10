@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-10T04:05:54.346834+00:00",
+  "updated_at": "2026-03-10T05:04:34.053832+00:00",
   "this_week": {
-    "total_items": 22,
+    "total_items": 23,
     "avg_score": 0.79,
-    "unique_authors": 21,
+    "unique_authors": 22,
     "top_items": [
       {
         "id": "2030820560226369917",
@@ -436,6 +436,35 @@
         "js_take": {
           "en-US": "Everyone's excited about what Ghost OS *can* do. No one's asking when it should *stop*. Full control without clear boundaries isn't power—it's a different kind of crash.",
           "zh-CN": "所有人都在为 Ghost OS 的能力兴奋不已，却没人追问它应该在何时停止。没有清晰边界的完全掌控，不是真正的力量——而是另一种形式的崩溃。"
+        }
+      },
+      {
+        "id": "2031202928560906750",
+        "date": "2026-03-10",
+        "author": "@poezhao0605",
+        "author_url": "https://x.com/poezhao0605",
+        "tweet_url": "https://x.com/poezhao0605/status/2031202928560906750",
+        "title": {
+          "en-US": "Chinese AI companies launching OpenClaw clones",
+          "zh-CN": "智谱推出 AutoClaw 后股价跳涨 13%，中国主要 AI 公司（月之暗面、MiniMax、阿里、字节、腾讯、智谱）都已基于 OpenClaw 推出同类产品"
+        },
+        "summary": {
+          "en-US": "OpenClaw 生态与中国 AI 市场竞争",
+          "zh-CN": "做纠正：列表呈现的是「表面产品的同质化」，但真正的战场不在这里。当所有人都在抄同一个开源项目时，差异化只能来自「使用这些工具的 Agent 本身」——表层的 Claw 只是容器，里层的 Agent  Intelligence 才是胜负手。（纠正「产品同质化=竞争激烈」的误读，指出竞争维度的转移）"
+        },
+        "relevance": "OpenClaw 生态与中国 AI 市场竞争",
+        "score": 0.76,
+        "engagement": {
+          "likes": 144,
+          "retweets": 14,
+          "replies": 3,
+          "views": 9723
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-10T05:04:14.566612+00:00",
+        "js_take": {
+          "en-US": "Clones fight over the shell. The real war is inside—who builds the smarter agent, not who copies the same UI.",
+          "zh-CN": "众人在外壳上模仿厮杀，真正的较量在底层——谁能造出更聪明的Agent，而非谁复制了同样的UI。"
         }
       },
       {
