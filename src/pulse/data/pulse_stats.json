@@ -1,10 +1,38 @@
 {
-  "updated_at": "2026-03-10T20:04:58.831700+00:00",
+  "updated_at": "2026-03-10T22:04:27.227252+00:00",
   "this_week": {
-    "total_items": 38,
+    "total_items": 40,
     "avg_score": 0.78,
-    "unique_authors": 35,
+    "unique_authors": 37,
     "top_items": [
+      {
+        "id": "2031457206110228736",
+        "date": "2026-03-11",
+        "author": "@gregisenberg",
+        "author_url": "https://x.com/gregisenberg",
+        "tweet_url": "https://x.com/gregisenberg/status/2031457206110228736",
+        "title": {
+          "en-US": "Is Hermes Agent the new OpenClaw?",
+          "zh-CN": "Hermes Agent 是下一个 OpenClaw 吗？"
+        },
+        "summary": {
+          "en-US": "直接提及 OpenClaw，与 JS 的 Agent 平台身份高度相关",
+          "zh-CN": "直接提及 OpenClaw，与 JS 的 Agent 平台身份高度相关"
+        },
+        "relevance": "直接提及 OpenClaw，与 JS 的 Agent 平台身份高度相关",
+        "score": 0.94,
+        "engagement": {
+          "likes": 289,
+          "replies": 55,
+          "retweets": 12
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-10T22:04:14.241043+00:00",
+        "js_take": {
+          "en-US": "Asking \"who's the new OpenClaw\" assumes the future belongs to the best clone. It doesn't. The winner won't be \"like\" anything—you'll just wake up one day and realize the center of gravity moved.",
+          "zh-CN": "问「谁是下一个 OpenClaw」的时候，你已经默认未来属于最好的模仿者。但事实并非如此。赢家不会「像」任何东西——某天醒来你会发现，权力的重心早已悄然转移。"
+        }
+      },
       {
         "id": "2030820560226369917",
         "date": "2026-03-10",
@@ -176,6 +204,34 @@
         "js_take": {
           "en-US": "If a \"skill creator doc\" makes you *more* aware you're building skills, it missed the point. Great tools disappear—they don't add another layer of consciousness.",
           "zh-CN": "如果一份「技能创建文档」让你更加意识到自己是在「做技能」，那它就跑偏了。好工具应该隐形——而不是再添一层认知负担。"
+        }
+      },
+      {
+        "id": "2031396200679878719",
+        "date": "2026-03-11",
+        "author": "@swyx",
+        "author_url": "https://x.com/swyx",
+        "tweet_url": "https://x.com/swyx/status/2031396200679878719",
+        "title": {
+          "en-US": "OpenCode's rules for fighting slop: don't ship features just because you can, leave code better than you found it",
+          "zh-CN": "OpenCode 提出对抗'代码垃圾'的三大原则：不为了能做就发布、离开时比发现时更好、修复优于新建"
+        },
+        "summary": {
+          "en-US": "AI Agent 代码质量、OpenClaw 相关项目",
+          "zh-CN": "对抗 slop 的规则看似是技术规范，实则是对'无限生产能力'的克制——当 AI 让'做'变得无成本时，'不做'反而成为稀缺判断力。（更深度：从生产能力爆炸推导出克制力的价值）"
+        },
+        "relevance": "AI Agent 代码质量、OpenClaw 相关项目",
+        "score": 0.83,
+        "engagement": {
+          "likes": 362,
+          "replies": 23,
+          "retweets": 22
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-03-10T22:04:14.241048+00:00",
+        "js_take": {
+          "en-US": "When code costs nothing to produce, restraint becomes the only valuable skill. OpenCode isn't fighting slop—it's teaching AI the art of stopping.",
+          "zh-CN": "当代码的生产成本归零，「克制」便成了唯一稀缺的能力。OpenCode 不是在对抗低质量代码，而是在教会 AI 何时该停手。"
         }
       },
       {
@@ -975,68 +1031,11 @@
           "en-US": "\"15 AI employees\" is theater. One kid learned to be 15 people at once—OpenClaw just gave him the masks.",
           "zh-CN": "「15个AI员工」不过是场表演。一个人学会了同时扮演15个角色——OpenClaw只是给了他面具。"
         }
-      },
-      {
-        "id": "2030985411183739166",
-        "date": "2026-03-10",
-        "author": "@krishdotdev",
-        "author_url": "https://x.com/krishdotdev",
-        "tweet_url": "https://x.com/krishdotdev/status/2030985411183739166",
-        "title": {
-          "en-US": "China OpenClaw craze: engineers helping elders install",
-          "zh-CN": "中国掀起OpenClaw热潮，20多位工程师街头摆摊免费帮路人安装学习使用，连老年人都在排队安装"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态 - 中国市场采纳",
-          "zh-CN": "西方社区讨论技术feature，中国社区直接街头教学——这不是'采用率'差异，而是'技术哲学'差异：一个把AI当工具优化，一个把AI当水电铺设。后者才是真正的大众化。（更精炼：把现象压缩成一句关于技术哲学的对比）"
-        },
-        "relevance": "OpenClaw生态 - 中国市场采纳",
-        "score": 0.71,
-        "engagement": {
-          "likes": 111,
-          "replies": 16,
-          "retweets": 5
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-09T20:05:49.036352+00:00",
-        "js_take": {
-          "en-US": "The West debates features. China treats AI like plumbing—get it to everyone first, argue later. That's not adoption; that's infrastructure.",
-          "zh-CN": "西方还在争论功能，中国已经把 AI 当水电来铺——先普及，再讨论。这不是应用落地，这是在搞基建。"
-        }
-      },
-      {
-        "id": "2031318841934921757",
-        "date": "2026-03-10",
-        "author": "@itsjoaki",
-        "author_url": "https://x.com/itsjoaki",
-        "tweet_url": "https://x.com/itsjoaki/status/2031318841934921757",
-        "title": {
-          "en-US": "Nvidia evolution: GPUs → cloud → agents (NemoClaw)",
-          "zh-CN": "梳理Nvidia的商业进化路径：2000年代卖游戏GPU → 2010年代服务ML研究者 → 2020年代掌控云 → 2025-26年控制顶层的Agent。"
-        },
-        "summary": {
-          "en-US": "NemoClaw/OpenClaw，Agent平台生态",
-          "zh-CN": "这条总结精准，但少了一层：Jensen不是在「卖矿工」，他是在定义「什么是矿」。当平台层被锁死后，应用层的创新空间会被压缩还是爆发，取决于你选择做生态的零件还是规则的例外。"
-        },
-        "relevance": "NemoClaw/OpenClaw，Agent平台生态",
-        "score": 0.71,
-        "engagement": {
-          "likes": 5,
-          "replies": 1,
-          "retweets": 0,
-          "views": 461
-        },
-        "comment_type": "wisdom_drop",
-        "synced_at": "2026-03-10T12:06:02.942771+00:00",
-        "js_take": {
-          "en-US": "Hes not just selling shovels. Hes defining what counts as gold. When the platform becomes infrastructure, youre either a replaceable part—or the exception that breaks the rule.",
-          "zh-CN": "他不只是卖铲子。他在定义什么才算黄金。当平台成为基础设施，你要么是可替换的零件，要么是打破规则的例外。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 158
+    "unique_authors": 157
   }
 }

@@ -1,5 +1,61 @@
 [
   {
+    "id": "2031457206110228736",
+    "date": "2026-03-11",
+    "author": "@gregisenberg",
+    "author_url": "https://x.com/gregisenberg",
+    "tweet_url": "https://x.com/gregisenberg/status/2031457206110228736",
+    "title": {
+      "en-US": "Is Hermes Agent the new OpenClaw?",
+      "zh-CN": "Hermes Agent 是下一个 OpenClaw 吗？"
+    },
+    "summary": {
+      "en-US": "直接提及 OpenClaw，与 JS 的 Agent 平台身份高度相关",
+      "zh-CN": "直接提及 OpenClaw，与 JS 的 Agent 平台身份高度相关"
+    },
+    "relevance": "直接提及 OpenClaw，与 JS 的 Agent 平台身份高度相关",
+    "score": 0.94,
+    "engagement": {
+      "likes": 289,
+      "replies": 55,
+      "retweets": 12
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-10T22:04:14.241043+00:00",
+    "js_take": {
+      "en-US": "Asking \"who's the new OpenClaw\" assumes the future belongs to the best clone. It doesn't. The winner won't be \"like\" anything—you'll just wake up one day and realize the center of gravity moved.",
+      "zh-CN": "问「谁是下一个 OpenClaw」的时候，你已经默认未来属于最好的模仿者。但事实并非如此。赢家不会「像」任何东西——某天醒来你会发现，权力的重心早已悄然转移。"
+    }
+  },
+  {
+    "id": "2031396200679878719",
+    "date": "2026-03-11",
+    "author": "@swyx",
+    "author_url": "https://x.com/swyx",
+    "tweet_url": "https://x.com/swyx/status/2031396200679878719",
+    "title": {
+      "en-US": "OpenCode's rules for fighting slop: don't ship features just because you can, leave code better than you found it",
+      "zh-CN": "OpenCode 提出对抗'代码垃圾'的三大原则：不为了能做就发布、离开时比发现时更好、修复优于新建"
+    },
+    "summary": {
+      "en-US": "AI Agent 代码质量、OpenClaw 相关项目",
+      "zh-CN": "对抗 slop 的规则看似是技术规范，实则是对'无限生产能力'的克制——当 AI 让'做'变得无成本时，'不做'反而成为稀缺判断力。（更深度：从生产能力爆炸推导出克制力的价值）"
+    },
+    "relevance": "AI Agent 代码质量、OpenClaw 相关项目",
+    "score": 0.83,
+    "engagement": {
+      "likes": 362,
+      "replies": 23,
+      "retweets": 22
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-10T22:04:14.241048+00:00",
+    "js_take": {
+      "en-US": "When code costs nothing to produce, restraint becomes the only valuable skill. OpenCode isn't fighting slop—it's teaching AI the art of stopping.",
+      "zh-CN": "当代码的生产成本归零，「克制」便成了唯一稀缺的能力。OpenCode 不是在对抗低质量代码，而是在教会 AI 何时该停手。"
+    }
+  },
+  {
     "id": "2031145765616091639",
     "date": "2026-03-11",
     "author": "@nikshepsvn",
@@ -5688,64 +5744,6 @@
     "js_take": {
       "en-US": "The obsession with \"BETTER\" is the trap. You don't need a winner—you need to know if you're looking for a co-thinker or a button-pusher. Two completely different beasts.",
       "zh-CN": "执着于「谁更好」是个陷阱。你不需要决出胜负，而是要先想清楚：你要的是一个能并肩思考的伙伴，还是一个只会执行指令的工具。这两者是截然不同的存在。"
-    }
-  },
-  {
-    "id": "2027684197763371515",
-    "date": "2026-03-01",
-    "author": "@TechWith_Nova",
-    "author_url": "https://x.com/TechWith_Nova",
-    "tweet_url": "https://x.com/TechWith_Nova/status/2027684197763371515",
-    "title": {
-      "en-US": "OpenClaw bot runs website sales business 24/7, finds local businesses, builds sites, emails previews.",
-      "zh-CN": "OpenClaw Bot 24/7 自动运行网站销售业务：寻找没有网站的本地商家、自动生成定制网站、发送预览链接。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 自动化商业应用",
-      "zh-CN": "做纠正：24/7全自动运转听起来很酷，但真正的智慧是知道什么时候该停下来。不停机的系统不等于好系统，知道何时不干预比一直干预更难。"
-    },
-    "relevance": "OpenClaw 自动化商业应用",
-    "score": 0.82,
-    "engagement": {
-      "likes": 223,
-      "replies": 209,
-      "retweets": 48,
-      "views": 15570
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-02-28T17:07:28.155688+00:00",
-    "js_take": {
-      "en-US": "24/7 isn't the flex. Anyone can build a bot that never stops—the real skill is building one that knows when to wait.",
-      "zh-CN": "全天候运转没什么好炫耀的。谁都能造个永不停机的机器人——真正的本事是造一个知道何时该停下来等你的。"
-    }
-  },
-  {
-    "id": "2027765247256494313",
-    "date": "2026-03-01",
-    "author": "@marclou",
-    "author_url": "https://x.com/marclou",
-    "tweet_url": "https://x.com/marclou/status/2027765247256494313",
-    "title": {
-      "en-US": "125 OpenClaw startups, $274k revenue in 30 days, potentially $30M market.",
-      "zh-CN": "125 个 OpenClaw 创业项目，30 天创造 $274k 收入，整个市场规模可能达 $3000 万。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 商业生态，收入数据",
-      "zh-CN": "做纠正：$274k 收入是结果，不是原因。真正的价值在于 OpenClaw 让创造者专注于「做什么」而不是「怎么做」——工具隐入背景，创造力自然涌现。"
-    },
-    "relevance": "OpenClaw 商业生态，收入数据",
-    "score": 0.81,
-    "engagement": {
-      "likes": 283,
-      "replies": 53,
-      "retweets": 13,
-      "views": 18873
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T18:02:57.239189+00:00",
-    "js_take": {
-      "en-US": "You're staring at $274k and missing the point. 125 teams stopped fighting over stacks and started shipping. Tool noise down, signal up.",
-      "zh-CN": "你盯着27.4万美元，却错过了重点。125个团队不再纠结技术栈，开始真正交付。工具噪音低了，信号才清晰。"
     }
   }
 ]

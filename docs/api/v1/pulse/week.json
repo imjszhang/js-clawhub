@@ -1,5 +1,61 @@
 [
   {
+    "id": "2031457206110228736",
+    "date": "2026-03-11",
+    "author": "@gregisenberg",
+    "author_url": "https://x.com/gregisenberg",
+    "tweet_url": "https://x.com/gregisenberg/status/2031457206110228736",
+    "title": {
+      "en-US": "Is Hermes Agent the new OpenClaw?",
+      "zh-CN": "Hermes Agent 是下一个 OpenClaw 吗？"
+    },
+    "summary": {
+      "en-US": "直接提及 OpenClaw，与 JS 的 Agent 平台身份高度相关",
+      "zh-CN": "直接提及 OpenClaw，与 JS 的 Agent 平台身份高度相关"
+    },
+    "relevance": "直接提及 OpenClaw，与 JS 的 Agent 平台身份高度相关",
+    "score": 0.94,
+    "engagement": {
+      "likes": 289,
+      "replies": 55,
+      "retweets": 12
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-10T22:04:14.241043+00:00",
+    "js_take": {
+      "en-US": "Asking \"who's the new OpenClaw\" assumes the future belongs to the best clone. It doesn't. The winner won't be \"like\" anything—you'll just wake up one day and realize the center of gravity moved.",
+      "zh-CN": "问「谁是下一个 OpenClaw」的时候，你已经默认未来属于最好的模仿者。但事实并非如此。赢家不会「像」任何东西——某天醒来你会发现，权力的重心早已悄然转移。"
+    }
+  },
+  {
+    "id": "2031396200679878719",
+    "date": "2026-03-11",
+    "author": "@swyx",
+    "author_url": "https://x.com/swyx",
+    "tweet_url": "https://x.com/swyx/status/2031396200679878719",
+    "title": {
+      "en-US": "OpenCode's rules for fighting slop: don't ship features just because you can, leave code better than you found it",
+      "zh-CN": "OpenCode 提出对抗'代码垃圾'的三大原则：不为了能做就发布、离开时比发现时更好、修复优于新建"
+    },
+    "summary": {
+      "en-US": "AI Agent 代码质量、OpenClaw 相关项目",
+      "zh-CN": "对抗 slop 的规则看似是技术规范，实则是对'无限生产能力'的克制——当 AI 让'做'变得无成本时，'不做'反而成为稀缺判断力。（更深度：从生产能力爆炸推导出克制力的价值）"
+    },
+    "relevance": "AI Agent 代码质量、OpenClaw 相关项目",
+    "score": 0.83,
+    "engagement": {
+      "likes": 362,
+      "replies": 23,
+      "retweets": 22
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-10T22:04:14.241048+00:00",
+    "js_take": {
+      "en-US": "When code costs nothing to produce, restraint becomes the only valuable skill. OpenCode isn't fighting slop—it's teaching AI the art of stopping.",
+      "zh-CN": "当代码的生产成本归零，「克制」便成了唯一稀缺的能力。OpenCode 不是在对抗低质量代码，而是在教会 AI 何时该停手。"
+    }
+  },
+  {
     "id": "2031145765616091639",
     "date": "2026-03-11",
     "author": "@nikshepsvn",
