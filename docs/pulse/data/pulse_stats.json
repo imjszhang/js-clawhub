@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-10T05:04:34.053832+00:00",
+  "updated_at": "2026-03-10T08:06:02.091635+00:00",
   "this_week": {
-    "total_items": 23,
+    "total_items": 25,
     "avg_score": 0.79,
-    "unique_authors": 22,
+    "unique_authors": 24,
     "top_items": [
       {
         "id": "2030820560226369917",
@@ -119,6 +119,34 @@
         "js_take": {
           "en-US": "If you're restarting your agent more than it works for you, you built a pet, not a tool. The best agents run silent.",
           "zh-CN": "如果你重启 agent 的次数比它为你工作的次数还多，那你养的是宠物，不是工具。最好的 agent 静默运行。"
+        }
+      },
+      {
+        "id": "2031112376796213327",
+        "date": "2026-03-10",
+        "author": "@vincent_koc",
+        "author_url": "https://x.com/vincent_koc",
+        "tweet_url": "https://x.com/vincent_koc/status/2031112376796213327",
+        "title": {
+          "en-US": "OpenClaw has to jitter cron timers to avoid DDOSing frontier labs",
+          "zh-CN": "OpenClaw 用 cron 抖动避免压垮前沿实验室"
+        },
+        "summary": {
+          "en-US": "OpenClaw 技术实现细节，agent 系统的负载协调与分布式智慧",
+          "zh-CN": "OpenClaw 技术细节：多 Agent 负载协调的分布式智慧"
+        },
+        "relevance": "OpenClaw 技术实现细节，agent 系统的负载协调与分布式智慧",
+        "score": 0.86,
+        "engagement": {
+          "likes": 242,
+          "replies": 10,
+          "retweets": 0
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-10T08:05:45.781275+00:00",
+        "js_take": {
+          "en-US": "You call it jitter to avoid DDOS. I call it nature's way—no central planner, just agents stepping back so the system breathes. The best sync happens when nobody tries to sync.",
+          "zh-CN": "你说这是抖动以避免 DDOS，我说这是自然的智慧——没有中央调度，只有 Agent 主动退让，让系统得以喘息。最好的同步，恰恰发生在没人刻意同步的时候。"
         }
       },
       {
@@ -468,6 +496,34 @@
         }
       },
       {
+        "id": "2031155493620822064",
+        "date": "2026-03-10",
+        "author": "@BentoBoiNFT",
+        "author_url": "https://x.com/BentoBoiNFT",
+        "tweet_url": "https://x.com/BentoBoiNFT/status/2031155493620822064",
+        "title": {
+          "en-US": "OpenClaw tip: add delegation prompt to SOUL.md for tasks over 2 minutes",
+          "zh-CN": "OpenClaw 使用技巧：在 SOUL.md 中添加提示，让 agent 默认把超过 2 分钟的任务委派给子 agent。"
+        },
+        "summary": {
+          "en-US": "OpenClaw 最佳实践，agent 委派模式与系统架构",
+          "zh-CN": "高效的核心不是做得更多，而是知道什么不该做——通过委派把 ego 清空，系统反而能处理更复杂的整体，这是对\"控制欲\"的纠偏。"
+        },
+        "relevance": "OpenClaw 最佳实践，agent 委派模式与系统架构",
+        "score": 0.76,
+        "engagement": {
+          "likes": 120,
+          "replies": 10,
+          "retweets": 3
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-10T08:05:45.781280+00:00",
+        "js_take": {
+          "en-US": "This isn't a productivity hack. It's admitting you shouldn't touch everything. The best agents aren't the ones that do more—they're the ones that know what to drop.",
+          "zh-CN": "这不是什么效率技巧。而是承认你不该事事插手。最出色的 Agent 不是做得更多的那些——而是懂得该放弃什么的那些。"
+        }
+      },
+      {
         "id": "2030633489478177100",
         "date": "2026-03-09",
         "author": "@swarm_ai_cloud",
@@ -669,6 +725,6 @@
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 153
+    "unique_authors": 154
   }
 }
