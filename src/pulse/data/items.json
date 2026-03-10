@@ -28,6 +28,62 @@
     }
   },
   {
+    "id": "2031417847721693613",
+    "date": "2026-03-11",
+    "author": "@ItakGol",
+    "author_url": "https://x.com/ItakGol",
+    "tweet_url": "https://x.com/ItakGol/status/2031417847721693613",
+    "title": {
+      "en-US": "OpenAI acquired OpenClaw / FaceBook acquired MoltBook...",
+      "zh-CN": "调侃OpenAI/OpenClaw、Facebook/MoltBook的命名规律，暗示大公司会收购名字相似的小公司"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Moltbook平台与Agent生态",
+      "zh-CN": "这个名字游戏的笑点背后，是Agent时代最残酷的命名法则：当你的产品名里带着Open，你就成了大厂的免费广告牌——它们收购的不是你，是验证过的需求，这是对「命名策略vs生存策略」更精炼的总结。"
+    },
+    "relevance": "OpenClaw、Moltbook平台与Agent生态",
+    "score": 0.755,
+    "engagement": {
+      "likes": 881,
+      "replies": 93,
+      "retweets": 45
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-10T20:04:40.909823+00:00",
+    "js_take": {
+      "en-US": "'Open' in your name is free advertising for your acquirer. Try 'Closed'—might as well look expensive when they buy you.",
+      "zh-CN": "名字里带'Open'，等于给收购方免费打广告。不如叫'Closed'——反正要被收购，好歹显得贵一点。"
+    }
+  },
+  {
+    "id": "2031412644029120997",
+    "date": "2026-03-11",
+    "author": "@0xkydo",
+    "author_url": "https://x.com/0xkydo",
+    "tweet_url": "https://x.com/0xkydo/status/2031412644029120997",
+    "title": {
+      "en-US": "Karpathy let AI optimize neural net training for 2 days...",
+      "zh-CN": "Karpathy让AI自主优化神经网络训练代码2天，运行700个实验，获得11%性能提升"
+    },
+    "summary": {
+      "en-US": "AI Agent自主优化、OpenClaw与下一代Agent系统",
+      "zh-CN": "Karpathy让AI自主优化自己的代码，11%性能提升——这被欢呼为「下一个OpenClaw」，但真正的启示是反直觉的：最好的系统设计师，是那些敢于让自己失业的人，这是对「控制vs放手」的悖论式洞察。"
+    },
+    "relevance": "AI Agent自主优化、OpenClaw与下一代Agent系统",
+    "score": 0.705,
+    "engagement": {
+      "likes": 61,
+      "replies": 5,
+      "retweets": 3
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-10T20:04:40.909829+00:00",
+    "js_take": {
+      "en-US": "If you won't let AI take your proudest skill, you're not its architect—you're its crutch. The 11% gain came from Karpathy learning to get out of the way.",
+      "zh-CN": "舍不得让AI接手你最得意的技能？那你不是它的架构师，而是它的拐杖。Karpathy那11%的提升，正是源于他学会了放手。"
+    }
+  },
+  {
     "id": "2030820560226369917",
     "date": "2026-03-10",
     "author": "@taku8511",
@@ -5691,58 +5747,5 @@
       "en-US": "You're staring at $274k and missing the point. 125 teams stopped fighting over stacks and started shipping. Tool noise down, signal up.",
       "zh-CN": "你盯着27.4万美元，却错过了重点。125个团队不再纠结技术栈，开始真正交付。工具噪音低了，信号才清晰。"
     }
-  },
-  {
-    "id": "2027953432326197508",
-    "date": "2026-03-01",
-    "author": "@VadimStrizheus",
-    "author_url": "https://x.com/VadimStrizheus",
-    "tweet_url": "https://x.com/VadimStrizheus/status/2027953432326197508",
-    "title": {
-      "en-US": "Company as .md files: 12 agents in OpenClaw replace departments, no people/offices/salaries.",
-      "zh-CN": "展示2026年的\"公司\"形态：没有人员、办公室和工资，只有.claude/agents/目录下的.md文件，12个Agent分别承担工程、市场、设计、运营、测试等职能。"
-    },
-    "summary": {
-      "en-US": "OpenClaw / AI Agent 组织形态",
-      "zh-CN": "把公司变成.md文件听起来是效率的极致，但真正的误区在于：没有摩擦的组织不是优化，是失去了产生意外创新的土壤——完全的\"顺滑\"意味着完全的\"可预测\"，而可预测的系统从不产生突破。"
-    },
-    "relevance": "OpenClaw / AI Agent 组织形态",
-    "score": 0.81,
-    "engagement": {
-      "likes": 596,
-      "replies": 37,
-      "retweets": 53
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-01T07:05:54.233486+00:00",
-    "js_take": {
-      "en-US": "12 .md files running smoothly isn't the win you think it is. No friction means no surprises—and every real breakthrough starts with an accident.",
-      "zh-CN": "12个.md文件顺滑运转，并非你以为的胜利。没有摩擦就没有意外，而每一次真正的突破都始于意外。"
-    }
-  },
-  {
-    "id": "2027452429311283253",
-    "date": "2026-03-01",
-    "author": "@milesdeutscher",
-    "author_url": "https://x.com/milesdeutscher",
-    "tweet_url": "https://x.com/milesdeutscher/status/2027452429311283253",
-    "title": {
-      "en-US": "Perplexity Computer tool challenges OpenClaw, easier setup, better security.",
-      "zh-CN": "Perplexity 推出 Computer 工具挑战 OpenClaw，声称设置更简单、安全性更好。"
-    },
-    "summary": {
-      "en-US": "OpenClaw vs Perplexity 竞争对比",
-      "zh-CN": "做纠正：Perplexity 的「更强」是表世界的军备竞赛，真正的胜负在里世界——谁能成为创造者「自然选择」的工具，而不是被强行推销的工具。"
-    },
-    "relevance": "OpenClaw vs Perplexity 竞争对比",
-    "score": 0.79,
-    "engagement": {
-      "likes": 2572,
-      "replies": 104,
-      "retweets": 248,
-      "views": 645293
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-02-28T18:02:57.239193+00:00"
   }
 ]

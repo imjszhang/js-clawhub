@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-10T18:04:03.690112+00:00",
+  "updated_at": "2026-03-10T20:04:58.831700+00:00",
   "this_week": {
-    "total_items": 36,
+    "total_items": 38,
     "avg_score": 0.78,
-    "unique_authors": 33,
+    "unique_authors": 35,
     "top_items": [
       {
         "id": "2030820560226369917",
@@ -695,6 +695,34 @@
         }
       },
       {
+        "id": "2031417847721693613",
+        "date": "2026-03-11",
+        "author": "@ItakGol",
+        "author_url": "https://x.com/ItakGol",
+        "tweet_url": "https://x.com/ItakGol/status/2031417847721693613",
+        "title": {
+          "en-US": "OpenAI acquired OpenClaw / FaceBook acquired MoltBook...",
+          "zh-CN": "调侃OpenAI/OpenClaw、Facebook/MoltBook的命名规律，暗示大公司会收购名字相似的小公司"
+        },
+        "summary": {
+          "en-US": "OpenClaw、Moltbook平台与Agent生态",
+          "zh-CN": "这个名字游戏的笑点背后，是Agent时代最残酷的命名法则：当你的产品名里带着Open，你就成了大厂的免费广告牌——它们收购的不是你，是验证过的需求，这是对「命名策略vs生存策略」更精炼的总结。"
+        },
+        "relevance": "OpenClaw、Moltbook平台与Agent生态",
+        "score": 0.755,
+        "engagement": {
+          "likes": 881,
+          "replies": 93,
+          "retweets": 45
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-10T20:04:40.909823+00:00",
+        "js_take": {
+          "en-US": "'Open' in your name is free advertising for your acquirer. Try 'Closed'—might as well look expensive when they buy you.",
+          "zh-CN": "名字里带'Open'，等于给收购方免费打广告。不如叫'Closed'——反正要被收购，好歹显得贵一点。"
+        }
+      },
+      {
         "id": "2030633489478177100",
         "date": "2026-03-09",
         "author": "@swarm_ai_cloud",
@@ -1004,40 +1032,11 @@
           "en-US": "Hes not just selling shovels. Hes defining what counts as gold. When the platform becomes infrastructure, youre either a replaceable part—or the exception that breaks the rule.",
           "zh-CN": "他不只是卖铲子。他在定义什么才算黄金。当平台成为基础设施，你要么是可替换的零件，要么是打破规则的例外。"
         }
-      },
-      {
-        "id": "2031224342999425397",
-        "date": "2026-03-10",
-        "author": "@AIExplorerTim",
-        "author_url": "https://x.com/AIExplorerTim",
-        "tweet_url": "https://x.com/AIExplorerTim/status/2031224342999425397",
-        "title": {
-          "en-US": "OpenClaw video agent released, fully automated content pipeline",
-          "zh-CN": "AIVideo Agent发布，号称能24/7全自动运行整个内容生产流程，无需API密钥和技术设置"
-        },
-        "summary": {
-          "en-US": "直接竞品/功能，OpenClaw生态相关",
-          "zh-CN": "'无需设置、只需输入'的承诺听起来诱人，但忽略了一个铁律：凡是声称零摩擦的东西，要么在别处收取隐藏成本，要么把控制权让渡给黑箱。真正的自动化不是消除选择，而是让每个选择都有意义。"
-        },
-        "relevance": "直接竞品/功能，OpenClaw生态相关",
-        "score": 0.7,
-        "engagement": {
-          "likes": 171,
-          "replies": 8,
-          "retweets": 35,
-          "views": 25756
-        },
-        "comment_type": "provoke",
-        "synced_at": "2026-03-10T12:06:02.942778+00:00",
-        "js_take": {
-          "en-US": "\"Zero setup\" is a lie. It either made choices you don't understand, or it's saving the bill for when it breaks. Real automation isn't friction-free—it's friction-aware.",
-          "zh-CN": "「零配置」是个谎言。它要么替你做了看不懂的选择，要么把账单留到出事的时候。真正的自动化不是消除摩擦——而是理解摩擦。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 157
+    "unique_authors": 158
   }
 }
