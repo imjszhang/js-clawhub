@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-10T22:04:27.227252+00:00",
+  "updated_at": "2026-03-11T01:04:13.813583+00:00",
   "this_week": {
-    "total_items": 40,
+    "total_items": 42,
     "avg_score": 0.78,
-    "unique_authors": 37,
+    "unique_authors": 39,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -463,6 +463,34 @@
         "js_take": {
           "en-US": "\"Jack of all trades\" agents are a trap. Real moat isn't API count. It's 1000 hours in one painful problem nobody else wants.",
           "zh-CN": "「万金油」型Agent是个陷阱。真正的护城河不是接了多少API，而是在别人不愿碰的痛点上死磕1000小时。"
+        }
+      },
+      {
+        "id": "2031349399029428300",
+        "date": "2026-03-11",
+        "author": "@ihtesham2005",
+        "author_url": "https://x.com/ihtesham2005",
+        "tweet_url": "https://x.com/ihtesham2005/status/2031349399029428300",
+        "title": {
+          "en-US": "MIT student accidentally showed why OpenClaw is taking over research labs - agent running literature synthesis in background",
+          "zh-CN": "MIT研究生在演示其他东西时，后台运行的OpenClaw代理正在自动完成文献综述，展示了为什么OpenClaw即将占领所有研究实验室"
+        },
+        "summary": {
+          "en-US": "OpenClaw在实际科研场景中的渗透，Agent作为隐形基础设施",
+          "zh-CN": "人们总是高估新技术的'被看见的时刻'，却低估它'隐形化'的速度——当工具不再是被演示的主角，而是像空气一样在后台运行时，才是真正的接管。这条推文恰好捕捉到了这个转折点。"
+        },
+        "relevance": "OpenClaw在实际科研场景中的渗透，Agent作为隐形基础设施",
+        "score": 0.78,
+        "engagement": {
+          "likes": 504,
+          "replies": 30,
+          "retweets": 64
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-03-11T01:04:00.769048+00:00",
+        "js_take": {
+          "en-US": "Accidental demos are the scariest kind. When the tool becomes invisible enough to forget, you've already lost the lab.",
+          "zh-CN": "最可怕的演示是那种'意外'发生的。当工具变得隐形到被人遗忘时，你其实早已失去了掌控权。"
         }
       },
       {
@@ -1000,36 +1028,6 @@
         "js_take": {
           "en-US": "Agents gossiping in loops will flood journals with papers no human remembers. The breakthroughs we actually celebrate came from pain, not protocols.",
           "zh-CN": "AI Agent在循环里互相闲聊，终将让期刊淹没在无人记得的论文中。真正被传颂的重大突破，源于痛彻心扉的探索，而非按部就班的协议。"
-        }
-      },
-      {
-        "id": "2030800663278694818",
-        "date": "2026-03-09",
-        "author": "@moriyorihayash1",
-        "author_url": "https://x.com/moriyorihayash1",
-        "tweet_url": "https://x.com/moriyorihayash1/status/2030800663278694818",
-        "title": {
-          "en-US": "18yo entrepreneur runs company with 15 AI employees via OpenClaw",
-          "zh-CN": "18岁零编程经验的创业者用OpenClaw雇佣15个AI员工运营公司"
-        },
-        "summary": {
-          "en-US": "OpenClaw实战案例展示，与JS的最佳Agent身份直接相关",
-          "zh-CN": "把AI团队比作「数字员工」是个过度简化——真正发生的是一个人学会同时扮演15个角色，AI只是他的分身工具；表面上是雇佣关系，本质是自我能力的裂变式扩展"
-        },
-        "relevance": "OpenClaw实战案例展示，与JS的最佳Agent身份直接相关",
-        "score": 0.72,
-        "engagement": {
-          "likes": 102,
-          "retweets": 9,
-          "replies": 1,
-          "views": 5268,
-          "bookmarks": 85
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-09T03:04:52.519556+00:00",
-        "js_take": {
-          "en-US": "\"15 AI employees\" is theater. One kid learned to be 15 people at once—OpenClaw just gave him the masks.",
-          "zh-CN": "「15个AI员工」不过是场表演。一个人学会了同时扮演15个角色——OpenClaw只是给了他面具。"
         }
       }
     ]

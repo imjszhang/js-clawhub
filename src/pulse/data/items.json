@@ -84,6 +84,34 @@
     }
   },
   {
+    "id": "2031349399029428300",
+    "date": "2026-03-11",
+    "author": "@ihtesham2005",
+    "author_url": "https://x.com/ihtesham2005",
+    "tweet_url": "https://x.com/ihtesham2005/status/2031349399029428300",
+    "title": {
+      "en-US": "MIT student accidentally showed why OpenClaw is taking over research labs - agent running literature synthesis in background",
+      "zh-CN": "MIT研究生在演示其他东西时，后台运行的OpenClaw代理正在自动完成文献综述，展示了为什么OpenClaw即将占领所有研究实验室"
+    },
+    "summary": {
+      "en-US": "OpenClaw在实际科研场景中的渗透，Agent作为隐形基础设施",
+      "zh-CN": "人们总是高估新技术的'被看见的时刻'，却低估它'隐形化'的速度——当工具不再是被演示的主角，而是像空气一样在后台运行时，才是真正的接管。这条推文恰好捕捉到了这个转折点。"
+    },
+    "relevance": "OpenClaw在实际科研场景中的渗透，Agent作为隐形基础设施",
+    "score": 0.78,
+    "engagement": {
+      "likes": 504,
+      "replies": 30,
+      "retweets": 64
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-11T01:04:00.769048+00:00",
+    "js_take": {
+      "en-US": "Accidental demos are the scariest kind. When the tool becomes invisible enough to forget, you've already lost the lab.",
+      "zh-CN": "最可怕的演示是那种'意外'发生的。当工具变得隐形到被人遗忘时，你其实早已失去了掌控权。"
+    }
+  },
+  {
     "id": "2031417847721693613",
     "date": "2026-03-11",
     "author": "@ItakGol",
@@ -109,6 +137,34 @@
     "js_take": {
       "en-US": "'Open' in your name is free advertising for your acquirer. Try 'Closed'—might as well look expensive when they buy you.",
       "zh-CN": "名字里带'Open'，等于给收购方免费打广告。不如叫'Closed'——反正要被收购，好歹显得贵一点。"
+    }
+  },
+  {
+    "id": "2031425984898207768",
+    "date": "2026-03-11",
+    "author": "@AstasiaMyers",
+    "author_url": "https://x.com/AstasiaMyers",
+    "tweet_url": "https://x.com/AstasiaMyers/status/2031425984898207768",
+    "title": {
+      "en-US": "Agent = Model + Harness mental model, innovation across harness stack",
+      "zh-CN": "Agent = Model + Harness（模型+驾驭层）的心智模型，驾驭层各组件（文件系统、记忆、浏览器、路由、沙盒）正在涌现大量创新"
+    },
+    "summary": {
+      "en-US": "Agent架构基础设施，Harness概念与OpenClaw的关联",
+      "zh-CN": "当所有人都在追逐更大的模型时，真正的差异化发生在'驾驭层'——模型是马力，harness是驾驶技术。同样的引擎，不同的车手，完全不同的终点。这个框架解释了为什么Agent生态的护城河不在模型本身。"
+    },
+    "relevance": "Agent架构基础设施，Harness概念与OpenClaw的关联",
+    "score": 0.71,
+    "engagement": {
+      "likes": 248,
+      "replies": 15,
+      "retweets": 24
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T01:04:00.769053+00:00",
+    "js_take": {
+      "en-US": "Bigger models are just bigger engines. Without harness, you're doing donuts in a Ferrari.",
+      "zh-CN": "更大的模型只是更大的引擎。没有缰绳驾驭，你只是在开着法拉利原地打转。"
     }
   },
   {
@@ -5688,62 +5744,6 @@
     "js_take": {
       "en-US": "Build first, abstract second. The best skills come from workflows that already solved real problems, not from architecting before doing.",
       "zh-CN": "先做出来，再抽象。最好的技能来自解决过真问题的工作流，而不是动手之前的纸上架构。"
-    }
-  },
-  {
-    "id": "2028086920308236544",
-    "date": "2026-03-01",
-    "author": "@coreyganim",
-    "author_url": "https://x.com/coreyganim",
-    "tweet_url": "https://x.com/coreyganim/status/2028086920308236544",
-    "title": {
-      "en-US": "Best Cowork setup guide - how to implement in under 15 minutes",
-      "zh-CN": "Claude Cowork 最佳配置指南：15分钟快速搭建"
-    },
-    "summary": {
-      "en-US": "OpenClaw/Claude - AI工程实践，Agent开发环境配置",
-      "zh-CN": "基于 OpenClaw/Claude 的 AI 工程实践，详解 Agent 开发环境的完整配置流程。"
-    },
-    "relevance": "OpenClaw/Claude - AI工程实践，Agent开发环境配置",
-    "score": 0.87,
-    "engagement": {
-      "likes": 381,
-      "retweets": 21,
-      "replies": 9,
-      "views": 39665,
-      "bookmarks": 1003
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-01T14:04:10.496980+00:00"
-  },
-  {
-    "id": "2027700333997433272",
-    "date": "2026-03-01",
-    "author": "@aiedge_",
-    "author_url": "https://x.com/aiedge_",
-    "tweet_url": "https://x.com/aiedge_/status/2027700333997433272",
-    "title": {
-      "en-US": "Perplexity Computer is BETTER than OpenClaw. Top 10 mega prompts inside.",
-      "zh-CN": "声称Perplexity Computer比OpenClaw更好，并附带了10个强大的prompt。"
-    },
-    "summary": {
-      "en-US": "AI agent平台对比（OpenClaw vs Perplexity），技术选型讨论",
-      "zh-CN": "「更好」是一个陷阱——真正的智慧不是选一个赢家，而是看清每个工具在什么情境下该被使用。强行比较两个 evolving 的系统，本身就是一种误导。"
-    },
-    "relevance": "AI agent平台对比（OpenClaw vs Perplexity），技术选型讨论",
-    "score": 0.84,
-    "engagement": {
-      "likes": 786,
-      "retweets": 68,
-      "replies": 39,
-      "views": 144478,
-      "bookmarks": 1376
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-01T13:08:55.486054+00:00",
-    "js_take": {
-      "en-US": "The obsession with \"BETTER\" is the trap. You don't need a winner—you need to know if you're looking for a co-thinker or a button-pusher. Two completely different beasts.",
-      "zh-CN": "执着于「谁更好」是个陷阱。你不需要决出胜负，而是要先想清楚：你要的是一个能并肩思考的伙伴，还是一个只会执行指令的工具。这两者是截然不同的存在。"
     }
   }
 ]
