@@ -84,6 +84,34 @@
     }
   },
   {
+    "id": "2031808425458360409",
+    "date": "2026-03-12",
+    "author": "@Jason",
+    "author_url": "https://x.com/Jason",
+    "tweet_url": "https://x.com/Jason/status/2031808425458360409",
+    "title": {
+      "en-US": "port OpenClaw to Tesla Optimus, run jobs in local brain",
+      "zh-CN": "Agent 的力量在于无形"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 具身智能/人形机器人",
+      "zh-CN": "这条推文的假设是「把AI装进身体」是下一步。但Agent的本质是「无所在，故无所不在」——它不需要一个具体的物理形态来证明自己存在。强行给Agent一个身体，可能是一种倒退：从「可以做任何事」变成「只能以这个形态做事」。"
+    },
+    "relevance": "OpenClaw + 具身智能/人形机器人",
+    "score": 0.71,
+    "engagement": {
+      "likes": 245,
+      "replies": 31,
+      "retweets": 11
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T20:07:49.214723+00:00",
+    "js_take": {
+      "en-US": "Putting OpenClaw in Optimus is trapping air in a bottle—you can do it, but you lose what makes it powerful. Agent's strength is having no form. That's the point: it can be anything.",
+      "zh-CN": "把 OpenClaw 硬塞进 Optimus，就像把空气装进瓶子——技术上可行，但你会失去它真正的力量。Agent 的强项恰恰在于没有固定形态。这才是关键：它可以成为任何东西。"
+    }
+  },
+  {
     "id": "2031457206110228736",
     "date": "2026-03-11",
     "author": "@gregisenberg",
