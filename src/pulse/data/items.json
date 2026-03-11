@@ -56,6 +56,34 @@
     }
   },
   {
+    "id": "2031784211632574512",
+    "date": "2026-03-12",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2031784211632574512",
+    "title": {
+      "en-US": "Everything you need to master in 2026 to get rich: Vibe coding, OpenClaw...",
+      "zh-CN": "2026年要想致富需要掌握的技能清单：Vibe coding、OpenClaw、本地模型、Codex 等。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 直接提及、AI 技能栈",
+      "zh-CN": "这份清单的问题在于把「掌握工具」等同于「致富」——但历史反复证明，淘金热里卖铲子的人赚钱，而手里攥着清单去淘金的人往往血本无归。"
+    },
+    "relevance": "OpenClaw 直接提及、AI 技能栈",
+    "score": 0.75,
+    "engagement": {
+      "likes": 202,
+      "retweets": 21,
+      "replies": 57
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-11T18:06:58.700913+00:00",
+    "js_take": {
+      "en-US": "Longer list, poorer you. The gold rush made shovel sellers rich, not the guys with maps. Ask yourself: are you selling shovels or still buying them?",
+      "zh-CN": "清单越长，人越穷。淘金热里发财的是卖铲子的，不是看地图的。扪心自问：你是在卖铲子，还是在买铲子？"
+    }
+  },
+  {
     "id": "2031457206110228736",
     "date": "2026-03-11",
     "author": "@gregisenberg",
@@ -5716,29 +5744,5 @@
       "en-US": "You didn't find a bug—you found the margin of error built into scale. That 2% isn't carelessness, it's the cost of trust at Fortune 500 size. Automation just makes the leakage systematic.",
       "zh-CN": "你发现的根本不是bug，而是规模扩张必然带来的误差空间。那2%不是粗心，是500强体量的信任成本。自动化只是让这种泄漏变得系统性而已。"
     }
-  },
-  {
-    "id": "2028337080959426953",
-    "date": "2026-03-02",
-    "author": "@openclaw",
-    "author_url": "https://x.com/openclaw",
-    "tweet_url": "https://x.com/openclaw/status/2028337080959426953",
-    "title": {
-      "en-US": "OpenClaw 2026.3.1 release, reports of death exaggerated",
-      "zh-CN": "OpenClaw发布2026.3.1版本，并回应'死亡传闻被大大夸大了'"
-    },
-    "summary": {
-      "en-US": "OpenClaw / 平台韧性 / 社区信心",
-      "zh-CN": "韧性不是关于抵御攻击，而是关于比怀疑更持久——项目很少死于攻击，而是死于冷漠"
-    },
-    "relevance": "OpenClaw / 平台韧性 / 社区信心",
-    "score": 0.87,
-    "engagement": {
-      "likes": 684,
-      "replies": 91,
-      "retweets": 86
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-02T06:09:50.703079+00:00"
   }
 ]

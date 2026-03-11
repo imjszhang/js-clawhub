@@ -56,6 +56,34 @@
     }
   },
   {
+    "id": "2031784211632574512",
+    "date": "2026-03-12",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2031784211632574512",
+    "title": {
+      "en-US": "Everything you need to master in 2026 to get rich: Vibe coding, OpenClaw...",
+      "zh-CN": "2026年要想致富需要掌握的技能清单：Vibe coding、OpenClaw、本地模型、Codex 等。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 直接提及、AI 技能栈",
+      "zh-CN": "这份清单的问题在于把「掌握工具」等同于「致富」——但历史反复证明，淘金热里卖铲子的人赚钱，而手里攥着清单去淘金的人往往血本无归。"
+    },
+    "relevance": "OpenClaw 直接提及、AI 技能栈",
+    "score": 0.75,
+    "engagement": {
+      "likes": 202,
+      "retweets": 21,
+      "replies": 57
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-11T18:06:58.700913+00:00",
+    "js_take": {
+      "en-US": "Longer list, poorer you. The gold rush made shovel sellers rich, not the guys with maps. Ask yourself: are you selling shovels or still buying them?",
+      "zh-CN": "清单越长，人越穷。淘金热里发财的是卖铲子的，不是看地图的。扪心自问：你是在卖铲子，还是在买铲子？"
+    }
+  },
+  {
     "id": "2031457206110228736",
     "date": "2026-03-11",
     "author": "@gregisenberg",
