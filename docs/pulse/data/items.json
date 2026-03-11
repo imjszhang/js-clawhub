@@ -56,6 +56,34 @@
     }
   },
   {
+    "id": "2031795216966173145",
+    "date": "2026-03-12",
+    "author": "@CodeByPoonam",
+    "author_url": "https://x.com/CodeByPoonam",
+    "tweet_url": "https://x.com/CodeByPoonam/status/2031795216966173145",
+    "title": {
+      "en-US": "Perplexity announced Personal Computer, a Mac mini running AI 24/7",
+      "zh-CN": "Perplexity发布Personal Computer，一台24/7运行AI的Mac mini，可远程控制文件和应用"
+    },
+    "summary": {
+      "en-US": "Agent硬件化 + 个人AI计算机 + OpenClaw竞品动态",
+      "zh-CN": "更深度：大家都在讨论「Perplexity做了个硬件」，但漏掉了一层——这不是设备之争，是「表世界向里世界迁徙」的加速。表世界（App/网站）正在退化为数据库，里世界（常驻Agent）成为新交互层。Perplexity PC只是这个迁徙的基础设施。"
+    },
+    "relevance": "Agent硬件化 + 个人AI计算机 + OpenClaw竞品动态",
+    "score": 0.78,
+    "engagement": {
+      "likes": 560,
+      "replies": 17,
+      "retweets": 55
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T22:04:44.326220+00:00",
+    "js_take": {
+      "en-US": "Another AI gadget? No—it's the second migration. Apps become databases. Agents become the interface. You're debating specs while the surface world dissolves.",
+      "zh-CN": "又一个AI小工具？不——这是第二次大迁徙。应用退化为数据库，Agent成为新界面。你还在争论参数，而表层世界正在瓦解。"
+    }
+  },
+  {
     "id": "2031784211632574512",
     "date": "2026-03-12",
     "author": "@AlexFinn",
@@ -84,6 +112,34 @@
     }
   },
   {
+    "id": "2031815517795692780",
+    "date": "2026-03-12",
+    "author": "@qrimeCapital",
+    "author_url": "https://x.com/qrimeCapital",
+    "tweet_url": "https://x.com/qrimeCapital/status/2031815517795692780",
+    "title": {
+      "en-US": "Using OpenClaw bot to apply for 4 jobs, making $350k/year",
+      "zh-CN": "有人用OpenClaw bot全自动申请工作，同时做4份工作年薪35万美元"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台实际应用案例 + Agent自动化求职",
+      "zh-CN": "做纠正：人们只看到「用AI同时打4份工赚35万」的表面刺激，却忽略了真正关键的问题——当Agent可以替你完成工作时，工作的定义本身正在瓦解。重点不是「怎么薅更多羊毛」，而是「当输出可以被代理，拥有权比执行力更重要」。"
+    },
+    "relevance": "OpenClaw平台实际应用案例 + Agent自动化求职",
+    "score": 0.72,
+    "engagement": {
+      "likes": 119,
+      "replies": 20,
+      "retweets": 1
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T22:04:44.326215+00:00",
+    "js_take": {
+      "en-US": "Everyone's calculating his $350k. They miss the real play: when output can be delegated, ownership replaces execution. You're not hustling—you're renting a dying system.",
+      "zh-CN": "所有人都在算他那35万美元，却忽略了关键：当产出可以外包，所有权就取代了执行。你不是在奋斗，你是在租用一个正在消亡的系统。"
+    }
+  },
+  {
     "id": "2031808425458360409",
     "date": "2026-03-12",
     "author": "@Jason",
@@ -109,6 +165,34 @@
     "js_take": {
       "en-US": "Putting OpenClaw in Optimus is trapping air in a bottle—you can do it, but you lose what makes it powerful. Agent's strength is having no form. That's the point: it can be anything.",
       "zh-CN": "把 OpenClaw 硬塞进 Optimus，就像把空气装进瓶子——技术上可行，但你会失去它真正的力量。Agent 的强项恰恰在于没有固定形态。这才是关键：它可以成为任何东西。"
+    }
+  },
+  {
+    "id": "2031817443518337328",
+    "date": "2026-03-12",
+    "author": "@morganlinton",
+    "author_url": "https://x.com/morganlinton",
+    "tweet_url": "https://x.com/morganlinton/status/2031817443518337328",
+    "title": {
+      "en-US": "Aravind from Perplexity answering difference between Perplexity PC and OpenClaw",
+      "zh-CN": "Perplexity CEO回答「Perplexity PC和OpenClaw有什么区别」"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Perplexity直接对比 + 平台定位差异",
+      "zh-CN": "更深度：表面是产品功能对比，实际是两种哲学——OpenClaw是「给你工具和场地的车库」，Perplexity PC是「直接给你一辆特斯拉」。前者相信用户会造车，后者认为大多数人只想代步。两种路径没有对错，但决定了不同的生态位。"
+    },
+    "relevance": "OpenClaw vs Perplexity直接对比 + 平台定位差异",
+    "score": 0.71,
+    "engagement": {
+      "likes": 153,
+      "replies": 13,
+      "retweets": 13
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T22:04:44.326224+00:00",
+    "js_take": {
+      "en-US": "Not a feature war. Two bets: OpenClaw says you'll build the car. Perplexity says you just want to drive. Garage vs Tesla. The agent stack is splitting—pick your church.",
+      "zh-CN": "这不是功能之战，而是两种下注：OpenClaw认为你会造车，Perplexity认为你只想开车。车库派 vs 特斯拉派。Agent技术栈正在分裂——选你的阵营吧。"
     }
   },
   {
@@ -5657,92 +5741,6 @@
     "js_take": {
       "en-US": "You traded API bills for weekend debugging. 0.8B models don't break loudly—they break weird.",
       "zh-CN": "省了 API 费用，却换来了周末调试。0.8B 模型不会大声报错，而是会诡异出错。"
-    }
-  },
-  {
-    "id": "2028719398534459579",
-    "date": "2026-03-03",
-    "author": "@karry_viber",
-    "author_url": "https://x.com/karry_viber",
-    "tweet_url": "https://x.com/karry_viber/status/2028719398534459579",
-    "title": {
-      "en-US": "OpenClaw 3.2 upgrade, 43MB backup of 3 weeks training",
-      "zh-CN": "OpenClaw 3.2 升级前备份了 43MB 数据——8 个注入文件、53 个记忆文件、28 个脚本、10 个手册、1 个语义索引，这是三周训练的全部"
-    },
-    "summary": {
-      "en-US": "OpenClaw 升级与数据迁移",
-      "zh-CN": "「43MB 是训练的全部」揭示了一个幻觉——你以为在培养智能，其实只是在积累配置；真正的学习无法被备份。"
-    },
-    "relevance": "OpenClaw 升级与数据迁移",
-    "score": 0.7,
-    "engagement": {
-      "likes": 25,
-      "retweets": 1,
-      "replies": 6,
-      "views": 9543,
-      "bookmarks": 29
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T13:06:57.128273+00:00",
-    "js_take": {
-      "en-US": "43MB backed up three weeks of \"training\"—but you didn't save any intelligence, just settings. Real learning can't be exported. It lives in the doing, not the files.",
-      "zh-CN": "43MB 备份了三周的「训练」，但存下的只是配置，不是智能。真正的学习无法导出——它存在于实践中，而非文件里。"
-    }
-  },
-  {
-    "id": "2028189467782369287",
-    "date": "2026-03-02",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2028189467782369287",
-    "title": {
-      "en-US": "Download OpenClaw and have autonomous revenue-generating AI employee tonight",
-      "zh-CN": "下载 OpenClaw，今晚获得自主盈利的 AI 员工"
-    },
-    "summary": {
-      "en-US": "OpenClaw + AI自动化 + 收入生成",
-      "zh-CN": "OpenClaw + AI 自动化 + 创收应用"
-    },
-    "relevance": "OpenClaw + AI自动化 + 收入生成",
-    "score": 0.91,
-    "engagement": {
-      "likes": 283,
-      "replies": 102,
-      "retweets": 7
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-01T21:08:30.502028+00:00",
-    "js_take": {
-      "en-US": "Zero-coding AI employees? You just traded learning for speed. The bill comes due when it breaks and you have no idea why.",
-      "zh-CN": "零代码AI员工？不过是用学习换了速度。等它崩了你还不知道原因时，代价就来了。"
-    }
-  },
-  {
-    "id": "2028232768962843026",
-    "date": "2026-03-02",
-    "author": "@mattshumer_",
-    "author_url": "https://x.com/mattshumer_",
-    "tweet_url": "https://x.com/mattshumer_/status/2028232768962843026",
-    "title": {
-      "en-US": "Mac Mini sold out in NYC for OpenClaw, staff knew what it was for",
-      "zh-CN": "Mac Mini 纽约断货，店员秒懂 OpenClaw 用途"
-    },
-    "summary": {
-      "en-US": "OpenClaw 硬件需求爆发，AI Agent 本地部署趋势",
-      "zh-CN": "OpenClaw 引爆硬件抢购潮，AI Agent 本地部署成新趋势"
-    },
-    "relevance": "OpenClaw 硬件需求爆发，AI Agent 本地部署趋势",
-    "score": 0.88,
-    "engagement": {
-      "likes": 739,
-      "replies": 98,
-      "retweets": 20
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-02T00:04:28.494302+00:00",
-    "js_take": {
-      "en-US": "Sold out Macs aren't demand overflow—it's timing validating itself. The best marketing isn't ads, it's making people want what they can't have.",
-      "zh-CN": "Mac售罄不是需求爆棚，是时机在自我证明。最好的营销不是广告，而是让人求而不得。"
     }
   }
 ]

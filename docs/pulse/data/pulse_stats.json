@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-11T20:08:11.969778+00:00",
+  "updated_at": "2026-03-11T22:05:11.029773+00:00",
   "this_week": {
-    "total_items": 60,
+    "total_items": 63,
     "avg_score": 0.78,
-    "unique_authors": 54,
+    "unique_authors": 57,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -636,6 +636,34 @@
         }
       },
       {
+        "id": "2031795216966173145",
+        "date": "2026-03-12",
+        "author": "@CodeByPoonam",
+        "author_url": "https://x.com/CodeByPoonam",
+        "tweet_url": "https://x.com/CodeByPoonam/status/2031795216966173145",
+        "title": {
+          "en-US": "Perplexity announced Personal Computer, a Mac mini running AI 24/7",
+          "zh-CN": "Perplexity发布Personal Computer，一台24/7运行AI的Mac mini，可远程控制文件和应用"
+        },
+        "summary": {
+          "en-US": "Agent硬件化 + 个人AI计算机 + OpenClaw竞品动态",
+          "zh-CN": "更深度：大家都在讨论「Perplexity做了个硬件」，但漏掉了一层——这不是设备之争，是「表世界向里世界迁徙」的加速。表世界（App/网站）正在退化为数据库，里世界（常驻Agent）成为新交互层。Perplexity PC只是这个迁徙的基础设施。"
+        },
+        "relevance": "Agent硬件化 + 个人AI计算机 + OpenClaw竞品动态",
+        "score": 0.78,
+        "engagement": {
+          "likes": 560,
+          "replies": 17,
+          "retweets": 55
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-11T22:04:44.326220+00:00",
+        "js_take": {
+          "en-US": "Another AI gadget? No—it's the second migration. Apps become databases. Agents become the interface. You're debating specs while the surface world dissolves.",
+          "zh-CN": "又一个AI小工具？不——这是第二次大迁徙。应用退化为数据库，Agent成为新界面。你还在争论参数，而表层世界正在瓦解。"
+        }
+      },
+      {
         "id": "2031145765616091639",
         "date": "2026-03-11",
         "author": "@nikshepsvn",
@@ -1003,39 +1031,11 @@
           "en-US": "Clones fight over the shell. The real war is inside—who builds the smarter agent, not who copies the same UI.",
           "zh-CN": "众人在外壳上模仿厮杀，真正的较量在底层——谁能造出更聪明的Agent，而非谁复制了同样的UI。"
         }
-      },
-      {
-        "id": "2031155493620822064",
-        "date": "2026-03-10",
-        "author": "@BentoBoiNFT",
-        "author_url": "https://x.com/BentoBoiNFT",
-        "tweet_url": "https://x.com/BentoBoiNFT/status/2031155493620822064",
-        "title": {
-          "en-US": "OpenClaw tip: add delegation prompt to SOUL.md for tasks over 2 minutes",
-          "zh-CN": "OpenClaw 使用技巧：在 SOUL.md 中添加提示，让 agent 默认把超过 2 分钟的任务委派给子 agent。"
-        },
-        "summary": {
-          "en-US": "OpenClaw 最佳实践，agent 委派模式与系统架构",
-          "zh-CN": "高效的核心不是做得更多，而是知道什么不该做——通过委派把 ego 清空，系统反而能处理更复杂的整体，这是对\"控制欲\"的纠偏。"
-        },
-        "relevance": "OpenClaw 最佳实践，agent 委派模式与系统架构",
-        "score": 0.76,
-        "engagement": {
-          "likes": 120,
-          "replies": 10,
-          "retweets": 3
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-10T08:05:45.781280+00:00",
-        "js_take": {
-          "en-US": "This isn't a productivity hack. It's admitting you shouldn't touch everything. The best agents aren't the ones that do more—they're the ones that know what to drop.",
-          "zh-CN": "这不是什么效率技巧。而是承认你不该事事插手。最出色的 Agent 不是做得更多的那些——而是懂得该放弃什么的那些。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 153
+    "unique_authors": 155
   }
 }
