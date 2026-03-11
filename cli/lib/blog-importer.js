@@ -230,6 +230,12 @@ function importFile(sourceId, filename, sourceConfig, manifest, blogIndex, optio
     }
 
     const content = readFileSync(filePath, 'utf-8');
+
+    const { frontmatter: fm } = parseFrontmatter(content);
+    if (fm.draft === 'true') {
+        return { file: filename, status: 'skipped_draft' };
+    }
+
     const contentHash = sha256(content);
 
     if (manifest[manifestKey] && !force) {
@@ -241,6 +247,8 @@ function importFile(sourceId, filename, sourceConfig, manifest, blogIndex, optio
     }
 
     const transformed = transformContent(content, sourceConfig.transform || {});
+    const fileDate = filename.replace('.md', '').match(/^\d{4}-\d{2}-\d{2}$/)?.[0] || '';
+    if (!transformed.date && fileDate) transformed.date = fileDate;
     const datePart = (transformed.date || filename.replace('.md', '')).replace(/[^a-zA-Z0-9-]/g, '-');
     const slug = `${sourceConfig.slugPrefix}-${datePart}`;
 
@@ -359,8 +367,9 @@ export function blogImport(sourceId, options = {}) {
 
     const imported = results.filter(r => r.status === 'imported' || r.status === 'reimported').length;
     const skipped = results.filter(r => r.status.startsWith('already_imported')).length;
+    const drafts = results.filter(r => r.status === 'skipped_draft').length;
 
-    return { sourceId, total: filesToImport.length, imported, skipped, results };
+    return { sourceId, total: filesToImport.length, imported, skipped, drafts, results };
 }
 
 // ── Translation ──────────────────────────────────────────────────────

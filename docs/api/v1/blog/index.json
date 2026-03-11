@@ -1,5 +1,95 @@
 [
   {
+    "slug": "practice-diary-2026-03-11",
+    "title": {
+      "zh-CN": "让日记自己长出来：从手动触发到无人值守的自动化跨越",
+      "en-US": "Let the Diary Grow on Its Own: Leaping from Manual Triggers to Unattended Automation"
+    },
+    "date": "2026-03-11",
+    "summary": {
+      "zh-CN": "昨天还在为 3D 图谱的升级兴奋，今天就得面对更现实的痛点：我的知识处理链路还是“半自动”的。Journal 变 Synthesis 能自动跑，但 Synthesis 变 Structure、Structure 变 Output 还得我手动敲命令或求 AI 代劳。今天的目标很明确：把后两段链路也打通...",
+      "en-US": "Yesterday I was buzzing about the 3D graph upgrade, but today reality hits: my knowledge processing pipeline is still only 'semi-automated.' While the transition from Journal to Synthesis runs automatically, moving from Synthesis to Structure and then to Output still requires me to manually run commands or beg an AI for help. Today's goal is clear: fully打通 these last two stages of the pipeline..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 40
+    }
+  },
+  {
+    "slug": "practice-diary-2026-03-10",
+    "title": {
+      "zh-CN": "给知识图谱装上\"Z 轴”：Prism 记忆桥接与 3D 可视化实战",
+      "en-US": "Adding a 'Z-Axis' to Knowledge Graphs: A Practical Guide to Prism Memory Bridging and 3D Visualization"
+    },
+    "date": "2026-03-10",
+    "summary": {
+      "zh-CN": "昨天把数据清洗的管道铺好后，今天终于到了“验收成果”的时刻：一方面要让 Prism 真正连通 OpenClaw 的记忆核心，另一方面得把那个扁平的 2D 图谱升级成能旋转、能溯源的 3D 金字塔。原本以为只是改几个配置和换个库，结果在硬件门槛和渲染细节上还是踩了几个坑。",
+      "en-US": "After setting up the data cleaning pipeline yesterday, it's finally time to see the results. Today's mission involves two key tasks: truly connecting Prism with OpenClaw's memory core and upgrading our flat 2D graph into a rotatable, traceable 3D pyramid. We thought it would just be a matter of tweaking some configs and swapping libraries, but we ended up hitting a few snags with hardware requirements and rendering details."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 39
+    }
+  },
+  {
+    "slug": "practice-diary-2026-03-09",
+    "title": {
+      "zh-CN": "让 AI 记住我的思考：用 73 个文件撬动结构化知识检索",
+      "en-US": "Letting AI Remember My Thoughts: Leveraging 73 Files for Structured Knowledge Retrieval"
+    },
+    "date": "2026-03-09",
+    "summary": {
+      "zh-CN": "昨天刚把外部文章摘要接进 OpenClaw 的记忆系统，今天趁热打铁，要把我自己蒸馏过的“结构化思考”也喂给它。如果说昨天的 1280 篇文章是“广度”，那今天这步就是给 AI 装上“深度”的牙齿——让它不仅能检索文章，还能检索我的观点和方法论。",
+      "en-US": "Yesterday, I integrated external article summaries into OpenClaw's memory system. Today, I'm building on that momentum by feeding it my own distilled 'structured thinking.' If yesterday's 1,280 articles represented 'breadth,' this step gives the AI the 'depth' it needs—enabling it to retrieve not just articles, but also my insights and methodologies."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 38
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-08",
     "title": {
       "zh-CN": "从静态导航到可编程插件：ClawHub 的“壳”升级记",
@@ -150,6 +240,36 @@
     }
   },
   {
+    "slug": "practice-diary-2026-03-01",
+    "title": {
+      "zh-CN": "核心层零改动的胜利：Agent-First 五层架构落地实录",
+      "en-US": "A Win with Zero Core Changes: Implementing the Agent-First Five-Layer Architecture"
+    },
+    "date": "2026-03-01",
+    "summary": {
+      "zh-CN": "昨天还在纠结怎么把散乱的笔记变成可复用的知识，今天直接给整个项目动了一次“大手术”——从单纯的 CLI 工具进化为完整的 Agent-First 五层架构。这不仅是代码重组，更是思维模式的切换：以前想着怎么让人好用，现在得先让 AI Agent 能“读懂”并自动调用。",
+      "en-US": "Yesterday, I was wrestling with turning scattered notes into reusable knowledge; today, I performed major surgery on the entire project, evolving it from a simple CLI tool into a full-fledged Agent-First five-layer architecture. This wasn't just a code refactor—it was a mindset shift. Instead of optimizing for human usability, the focus is now on ensuring AI Agents can 'understand' and automatically invoke the system."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 30
+    }
+  },
+  {
     "slug": "practice-diary-2026-02-28",
     "title": {
       "zh-CN": "当 666 权限拦住了我的插件：独立分发体系的惊险一跃",
@@ -267,6 +387,36 @@
         "en-US": "OpenClaw Practice Diary"
       },
       "order": 26
+    }
+  },
+  {
+    "slug": "practice-diary-2026-02-24",
+    "title": {
+      "zh-CN": "把散乱笔记折射成光谱：知识棱镜工具诞生记",
+      "en-US": "Turning Scattered Notes into a Spectrum: The Birth of the Knowledge Prism"
+    },
+    "date": "2026-02-24",
+    "summary": {
+      "zh-CN": "前二十多天攒了二十多篇笔记，渠道部署、Agent 配置、安全加固……内容虽多，但想查个核心概念还得在五个文件里拼凑。今天决定不再只是记录，而是动手造个“棱镜”，把这一束散乱的白光，自动折射成面向读者的清晰光谱。",
+      "en-US": "Over the past 20+ days, I've accumulated more than 20 notes covering channel deployment, Agent configuration, security hardening, and more. While the content is rich, finding a core concept still means piecing together fragments across five different files. Today, I decided to stop just recording and start building a 'prism'—a tool that automatically refracts this scattered white light into a clear, reader-friendly spectrum."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 25
     }
   },
   {
@@ -408,6 +558,36 @@
       "name": "imjszhang",
       "avatar": "https://unavatar.io/x/imjszhang",
       "url": "https://x.com/imjszhang"
+    }
+  },
+  {
+    "slug": "practice-diary-2026-02-12",
+    "title": {
+      "zh-CN": "拒绝重型框架：用原生 JS 和 Neo-Brutalism 一天搞定生态导航站",
+      "en-US": "Ditch Heavy Frameworks: Building an Ecosystem Nav Site in a Day with Vanilla JS and Neo-Brutalism"
+    },
+    "date": "2026-02-12",
+    "summary": {
+      "zh-CN": "昨天还在纠结 OpenClaw 生态里那些散落的宝藏项目怎么被用户发现，今天决定不再空想，直接动手把\"JS ClawHub\"这个策展型导航站从概念变成现实。既然官方 ClawHub 负责“安装”，那我们就负责“发现”，目标很明确：零后端、纯静态、一天内让首版跑起来。",
+      "en-US": "Yesterday, I was stuck wondering how users could discover the scattered gems within the OpenClaw ecosystem. Today, I decided to stop overthinking and just build 'JS ClawHub,' a curated navigation site, turning the concept into reality. If the official ClawHub handles 'installation,' we'll handle 'discovery.' The goal is clear: zero backend, purely static, and getting the first version up and running within a single day."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 13
     }
   },
   {
@@ -746,216 +926,6 @@
         "en-US": "OpenClaw Practice Diary"
       },
       "order": 1
-    }
-  },
-  {
-    "slug": "practice-diary-2026-02-12",
-    "title": {
-      "zh-CN": "拒绝重型框架：用原生 JS 和 Neo-Brutalism 一天搞定生态导航站",
-      "en-US": "Ditch Heavy Frameworks: Building an Ecosystem Nav Site in a Day with Vanilla JS and Neo-Brutalism"
-    },
-    "date": "",
-    "summary": {
-      "zh-CN": "昨天还在纠结 OpenClaw 生态里那些散落的宝藏项目怎么被用户发现，今天决定不再空想，直接动手把\"JS ClawHub\"这个策展型导航站从概念变成现实。既然官方 ClawHub 负责“安装”，那我们就负责“发现”，目标很明确：零后端、纯静态、一天内让首版跑起来。",
-      "en-US": "Yesterday, I was stuck wondering how users could discover the scattered gems within the OpenClaw ecosystem. Today, I decided to stop overthinking and just build 'JS ClawHub,' a curated navigation site, turning the concept into reality. If the official ClawHub handles 'installation,' we'll handle 'discovery.' The goal is clear: zero backend, purely static, and getting the first version up and running within a single day."
-    },
-    "cover": "",
-    "tags": [
-      "OpenClaw",
-      "Practice Diary"
-    ],
-    "author": {
-      "name": "imjszhang",
-      "avatar": "https://unavatar.io/x/imjszhang",
-      "url": "https://x.com/imjszhang"
-    },
-    "series": {
-      "id": "openclaw-practice-diary",
-      "title": {
-        "zh-CN": "OpenClaw 实践日记",
-        "en-US": "OpenClaw Practice Diary"
-      },
-      "order": 13
-    }
-  },
-  {
-    "slug": "practice-diary-2026-02-24",
-    "title": {
-      "zh-CN": "把散乱笔记折射成光谱：知识棱镜工具诞生记",
-      "en-US": "Turning Scattered Notes into a Spectrum: The Birth of the Knowledge Prism"
-    },
-    "date": "",
-    "summary": {
-      "zh-CN": "前二十多天攒了二十多篇笔记，渠道部署、Agent 配置、安全加固……内容虽多，但想查个核心概念还得在五个文件里拼凑。今天决定不再只是记录，而是动手造个“棱镜”，把这一束散乱的白光，自动折射成面向读者的清晰光谱。",
-      "en-US": "Over the past 20+ days, I've accumulated more than 20 notes covering channel deployment, Agent configuration, security hardening, and more. While the content is rich, finding a core concept still means piecing together fragments across five different files. Today, I decided to stop just recording and start building a 'prism'—a tool that automatically refracts this scattered white light into a clear, reader-friendly spectrum."
-    },
-    "cover": "",
-    "tags": [
-      "OpenClaw",
-      "Practice Diary"
-    ],
-    "author": {
-      "name": "imjszhang",
-      "avatar": "https://unavatar.io/x/imjszhang",
-      "url": "https://x.com/imjszhang"
-    },
-    "series": {
-      "id": "openclaw-practice-diary",
-      "title": {
-        "zh-CN": "OpenClaw 实践日记",
-        "en-US": "OpenClaw Practice Diary"
-      },
-      "order": 25
-    }
-  },
-  {
-    "slug": "practice-diary-2026-03-01",
-    "title": {
-      "zh-CN": "核心层零改动的胜利：Agent-First 五层架构落地实录",
-      "en-US": "A Win with Zero Core Changes: Implementing the Agent-First Five-Layer Architecture"
-    },
-    "date": "",
-    "summary": {
-      "zh-CN": "昨天还在纠结怎么把散乱的笔记变成可复用的知识，今天直接给整个项目动了一次“大手术”——从单纯的 CLI 工具进化为完整的 Agent-First 五层架构。这不仅是代码重组，更是思维模式的切换：以前想着怎么让人好用，现在得先让 AI Agent 能“读懂”并自动调用。",
-      "en-US": "Yesterday, I was wrestling with turning scattered notes into reusable knowledge; today, I performed major surgery on the entire project, evolving it from a simple CLI tool into a full-fledged Agent-First five-layer architecture. This wasn't just a code refactor—it was a mindset shift. Instead of optimizing for human usability, the focus is now on ensuring AI Agents can 'understand' and automatically invoke the system."
-    },
-    "cover": "",
-    "tags": [
-      "OpenClaw",
-      "Practice Diary"
-    ],
-    "author": {
-      "name": "imjszhang",
-      "avatar": "https://unavatar.io/x/imjszhang",
-      "url": "https://x.com/imjszhang"
-    },
-    "series": {
-      "id": "openclaw-practice-diary",
-      "title": {
-        "zh-CN": "OpenClaw 实践日记",
-        "en-US": "OpenClaw Practice Diary"
-      },
-      "order": 30
-    }
-  },
-  {
-    "slug": "practice-diary-2026-03-09",
-    "title": {
-      "zh-CN": "让 AI 记住我的思考：用 73 个文件撬动结构化知识检索",
-      "en-US": "Letting AI Remember My Thoughts: Leveraging 73 Files for Structured Knowledge Retrieval"
-    },
-    "date": "",
-    "summary": {
-      "zh-CN": "昨天刚把外部文章摘要接进 OpenClaw 的记忆系统，今天趁热打铁，要把我自己蒸馏过的“结构化思考”也喂给它。如果说昨天的 1280 篇文章是“广度”，那今天这步就是给 AI 装上“深度”的牙齿——让它不仅能检索文章，还能检索我的观点和方法论。",
-      "en-US": "Yesterday, I integrated external article summaries into OpenClaw's memory system. Today, I'm building on that momentum by feeding it my own distilled 'structured thinking.' If yesterday's 1,280 articles represented 'breadth,' this step gives the AI the 'depth' it needs—enabling it to retrieve not just articles, but also my insights and methodologies."
-    },
-    "cover": "",
-    "tags": [
-      "OpenClaw",
-      "Practice Diary"
-    ],
-    "author": {
-      "name": "imjszhang",
-      "avatar": "https://unavatar.io/x/imjszhang",
-      "url": "https://x.com/imjszhang"
-    },
-    "series": {
-      "id": "openclaw-practice-diary",
-      "title": {
-        "zh-CN": "OpenClaw 实践日记",
-        "en-US": "OpenClaw Practice Diary"
-      },
-      "order": 38
-    }
-  },
-  {
-    "slug": "practice-diary-2026-03-10",
-    "title": {
-      "zh-CN": "给知识图谱装上\"Z 轴”：Prism 记忆桥接与 3D 可视化实战",
-      "en-US": "Adding a 'Z-Axis' to Knowledge Graphs: A Practical Guide to Prism Memory Bridging and 3D Visualization"
-    },
-    "date": "",
-    "summary": {
-      "zh-CN": "昨天把数据清洗的管道铺好后，今天终于到了“验收成果”的时刻：一方面要让 Prism 真正连通 OpenClaw 的记忆核心，另一方面得把那个扁平的 2D 图谱升级成能旋转、能溯源的 3D 金字塔。原本以为只是改几个配置和换个库，结果在硬件门槛和渲染细节上还是踩了几个坑。",
-      "en-US": "After setting up the data cleaning pipeline yesterday, it's finally time to see the results. Today's mission involves two key tasks: truly connecting Prism with OpenClaw's memory core and upgrading our flat 2D graph into a rotatable, traceable 3D pyramid. We thought it would just be a matter of tweaking some configs and swapping libraries, but we ended up hitting a few snags with hardware requirements and rendering details."
-    },
-    "cover": "",
-    "tags": [
-      "OpenClaw",
-      "Practice Diary"
-    ],
-    "author": {
-      "name": "imjszhang",
-      "avatar": "https://unavatar.io/x/imjszhang",
-      "url": "https://x.com/imjszhang"
-    },
-    "series": {
-      "id": "openclaw-practice-diary",
-      "title": {
-        "zh-CN": "OpenClaw 实践日记",
-        "en-US": "OpenClaw Practice Diary"
-      },
-      "order": 39
-    }
-  },
-  {
-    "slug": "practice-diary-2026-03-11",
-    "title": {
-      "zh-CN": "让日记自己长出来：从手动触发到无人值守的自动化跨越",
-      "en-US": "Let the Diary Grow on Its Own: Leaping from Manual Triggers to Unattended Automation"
-    },
-    "date": "",
-    "summary": {
-      "zh-CN": "昨天还在为 3D 图谱的升级兴奋，今天就得面对更现实的痛点：我的知识处理链路还是“半自动”的。Journal 变 Synthesis 能自动跑，但 Synthesis 变 Structure、Structure 变 Output 还得我手动敲命令或求 AI 代劳。今天的目标很明确：把后两段链路也打通...",
-      "en-US": "Yesterday I was buzzing about the 3D graph upgrade, but today reality hits: my knowledge processing pipeline is still only 'semi-automated.' While the transition from Journal to Synthesis runs automatically, moving from Synthesis to Structure and then to Output still requires me to manually run commands or beg an AI for help. Today's goal is clear: fully打通 these last two stages of the pipeline..."
-    },
-    "cover": "",
-    "tags": [
-      "OpenClaw",
-      "Practice Diary"
-    ],
-    "author": {
-      "name": "imjszhang",
-      "avatar": "https://unavatar.io/x/imjszhang",
-      "url": "https://x.com/imjszhang"
-    },
-    "series": {
-      "id": "openclaw-practice-diary",
-      "title": {
-        "zh-CN": "OpenClaw 实践日记",
-        "en-US": "OpenClaw Practice Diary"
-      },
-      "order": 40
-    }
-  },
-  {
-    "slug": "practice-diary-2026-03-12",
-    "title": {
-      "zh-CN": "把创意留给 LLM，把结构交给代码：模板创建技能的诞生记",
-      "en-US": "Leave Creativity to the LLM, Hand Structure to Code: The Birth of the Template Creation Skill"
-    },
-    "date": "",
-    "summary": {
-      "zh-CN": "昨天还在纠结怎么让新用户跨过 frontmatter、区段结构和变量表这座大山，今天决定不再堆砌文档，而是直接造一个“带路党”。我们要开发的 `prism-template-author` 技能，核心思路很简单：让 LLM 去搞定充满创意的 Prompt 内容，而把枯燥的结构决策固化成流程。",
-      "en-US": "Yesterday, we were stuck on how to help new users conquer the mountain of frontmatter, section structures, and variable tables. Today, we decided to stop piling up documentation and instead build a 'guide.' The core idea behind our new `prism-template-author` skill is simple: let the LLM handle the creative heavy lifting for prompts, while we hardcode the tedious structural decisions into a streamlined workflow."
-    },
-    "cover": "",
-    "tags": [
-      "OpenClaw",
-      "Practice Diary"
-    ],
-    "author": {
-      "name": "imjszhang",
-      "avatar": "https://unavatar.io/x/imjszhang",
-      "url": "https://x.com/imjszhang"
-    },
-    "series": {
-      "id": "openclaw-practice-diary",
-      "title": {
-        "zh-CN": "OpenClaw 实践日记",
-        "en-US": "OpenClaw Practice Diary"
-      },
-      "order": 41
     }
   }
 ]
