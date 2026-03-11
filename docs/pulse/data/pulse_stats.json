@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-11T09:07:20.458311+00:00",
+  "updated_at": "2026-03-11T10:04:21.102861+00:00",
   "this_week": {
-    "total_items": 46,
+    "total_items": 48,
     "avg_score": 0.78,
-    "unique_authors": 43,
+    "unique_authors": 45,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -288,6 +288,34 @@
         "js_take": {
           "en-US": "When code costs nothing to produce, restraint becomes the only valuable skill. OpenCode isn't fighting slop—it's teaching AI the art of stopping.",
           "zh-CN": "当代码的生产成本归零，「克制」便成了唯一稀缺的能力。OpenCode 不是在对抗低质量代码，而是在教会 AI 何时该停手。"
+        }
+      },
+      {
+        "id": "2031522538640081036",
+        "date": "2026-03-11",
+        "author": "@baoshu88",
+        "author_url": "https://x.com/baoshu88",
+        "tweet_url": "https://x.com/baoshu88/status/2031522538640081036",
+        "title": {
+          "en-US": "OpenClaw使用失控，独立部署透传境外大模型，越过了有关部门对大模型的审查...",
+          "zh-CN": "讨论OpenClaw因可独立部署并透传境外大模型，已引起监管关注，要求降温并限制未备案模型接入。"
+        },
+        "summary": {
+          "en-US": "OpenClaw监管风险与本土化困境",
+          "zh-CN": "做纠正：大家讨论的是「封禁与否」，但真正的矛盾是——技术开源的不可阻挡性与属地监管的必然冲突。这不是是非题，是张力题。"
+        },
+        "relevance": "OpenClaw监管风险与本土化困境",
+        "score": 0.82,
+        "engagement": {
+          "likes": 562,
+          "replies": 89,
+          "retweets": 45
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-11T10:04:05.722775+00:00",
+        "js_take": {
+          "en-US": "Banning OpenClaw misses the point. When code flows like water, the question isn't which tool to block—it's which use cases to watch.",
+          "zh-CN": "封禁 OpenClaw 没有抓住重点。当代码像水一样流动时，问题不在于封禁哪个工具——而在于关注哪些使用场景。"
         }
       },
       {
@@ -920,6 +948,34 @@
         }
       },
       {
+        "id": "2031009507007246443",
+        "date": "2026-03-11",
+        "author": "@macrotradecn",
+        "author_url": "https://x.com/macrotradecn",
+        "tweet_url": "https://x.com/macrotradecn/status/2031009507007246443",
+        "title": {
+          "en-US": "openclaw流行的结果：1.苹果🍎很开心...2.作者很开心...3.OpenAl很开心...",
+          "zh-CN": "总结OpenClaw流行的三方共赢局面：苹果卖爆Mac mini、作者获得知名度加入OpenAI、OpenAI蹭热度强化GPT5.4。"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态影响与市场效应",
+          "zh-CN": "更深度：推文讲的是「三方共赢」，但漏了最关键的第四方——用户。真正的流行不是谁赚了，而是它改变了多少人的工作流。"
+        },
+        "relevance": "OpenClaw生态影响与市场效应",
+        "score": 0.75,
+        "engagement": {
+          "likes": 1781,
+          "replies": 121,
+          "retweets": 148
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-11T10:04:05.722781+00:00",
+        "js_take": {
+          "en-US": "Apple, OpenAI, the author—all counting cash. But the real metric is how many people used this to build what they couldn't before. That's the only number that matters.",
+          "zh-CN": "Apple、OpenAI、作者——所有人都在数钱。但真正的衡量标准是有多少人用它构建了以前做不到的东西。这才是唯一重要的数字。"
+        }
+      },
+      {
         "id": "2030633489478177100",
         "date": "2026-03-09",
         "author": "@swarm_ai_cloud",
@@ -973,62 +1029,6 @@
         "js_take": {
           "en-US": "Two updates, one insight: in the agent era, \"did I actually receive this?\" matters more than \"does it work?\" Functionality is table stakes. Provenance is survival. Tool → agent isn't an upgrade. It's a category shift.",
           "zh-CN": "两个更新，一个洞察：在Agent时代，「消息是否真的送达？」比「功能是否正常？」更重要。功能只是基础门槛，可溯源性才是生存关键。从工具到Agent不是升级，而是范式跃迁。"
-        }
-      },
-      {
-        "id": "2031112867345510715",
-        "date": "2026-03-10",
-        "author": "@thekitze",
-        "author_url": "https://x.com/thekitze",
-        "tweet_url": "https://x.com/thekitze/status/2031112867345510715",
-        "title": {
-          "en-US": "People who buy Mac Mini before trying OpenClaw are idiots.",
-          "zh-CN": "批评还没试过OpenClaw就先买Mac Mini的人是傻子"
-        },
-        "summary": {
-          "en-US": "OpenClaw直接相关，硬件vs软件优先争议",
-          "zh-CN": "硬件先行vs软件先行的争论本身就是工业时代的思维残留——更准确的认知是：工具链会快速迭代，而判断该用什么工具的能力才是资产。买Mac Mini不是问题，固化在某个工具上才是。"
-        },
-        "relevance": "OpenClaw直接相关，硬件vs软件优先争议",
-        "score": 0.73,
-        "engagement": {
-          "likes": 136,
-          "replies": 52,
-          "retweets": 3
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-10T04:05:36.080225+00:00",
-        "js_take": {
-          "en-US": "The Mac Mini isn't the problem. Getting locked into any single tool is. The real asset isn't hardware—it's the speed at which you can decide what tool to use.",
-          "zh-CN": "Mac Mini 不是问题，被单一工具锁定才是。真正的资产不是硬件，而是你决定用什么工具的速度。"
-        }
-      },
-      {
-        "id": "2031098030632452449",
-        "date": "2026-03-10",
-        "author": "@MicahBerkley",
-        "author_url": "https://x.com/MicahBerkley",
-        "tweet_url": "https://x.com/MicahBerkley/status/2031098030632452449",
-        "title": {
-          "en-US": "Running 100 OpenClaw instances on MacBook Pro using Parallels. Insanity.",
-          "zh-CN": "有人发现可以在MacBook Pro上用Parallels运行100个OpenClaw实例，推文作者惊呼\"疯了\"。"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台/多Agent并行",
-          "zh-CN": "「能运行100个」和「应该运行100个」之间，隔着对\"复杂度边界\"的理解——数量带来的不是能力倍增，而是协调成本的指数级爆炸。"
-        },
-        "relevance": "OpenClaw平台/多Agent并行",
-        "score": 0.72,
-        "engagement": {
-          "likes": 392,
-          "replies": 10,
-          "retweets": 12
-        },
-        "comment_type": "provoke",
-        "synced_at": "2026-03-10T10:04:43.149222+00:00",
-        "js_take": {
-          "en-US": "100 agents talking to each other isn't scaling—it's chaos with a server bill. One clear context beats a crowd of confused agents.",
-          "zh-CN": "100个Agent互相对话不是扩展，只是徒增服务器成本的混乱。清晰的上下文，胜过一群迷茫的Agent。"
         }
       }
     ]

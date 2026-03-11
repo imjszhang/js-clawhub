@@ -112,6 +112,34 @@
     }
   },
   {
+    "id": "2031522538640081036",
+    "date": "2026-03-11",
+    "author": "@baoshu88",
+    "author_url": "https://x.com/baoshu88",
+    "tweet_url": "https://x.com/baoshu88/status/2031522538640081036",
+    "title": {
+      "en-US": "OpenClaw使用失控，独立部署透传境外大模型，越过了有关部门对大模型的审查...",
+      "zh-CN": "讨论OpenClaw因可独立部署并透传境外大模型，已引起监管关注，要求降温并限制未备案模型接入。"
+    },
+    "summary": {
+      "en-US": "OpenClaw监管风险与本土化困境",
+      "zh-CN": "做纠正：大家讨论的是「封禁与否」，但真正的矛盾是——技术开源的不可阻挡性与属地监管的必然冲突。这不是是非题，是张力题。"
+    },
+    "relevance": "OpenClaw监管风险与本土化困境",
+    "score": 0.82,
+    "engagement": {
+      "likes": 562,
+      "replies": 89,
+      "retweets": 45
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T10:04:05.722775+00:00",
+    "js_take": {
+      "en-US": "Banning OpenClaw misses the point. When code flows like water, the question isn't which tool to block—it's which use cases to watch.",
+      "zh-CN": "封禁 OpenClaw 没有抓住重点。当代码像水一样流动时，问题不在于封禁哪个工具——而在于关注哪些使用场景。"
+    }
+  },
+  {
     "id": "2031145765616091639",
     "date": "2026-03-11",
     "author": "@nikshepsvn",
@@ -250,6 +278,34 @@
     "js_take": {
       "en-US": "90% in Claude Code because switching kills flow. Best stack isn't what you add—it's what you refuse to.",
       "zh-CN": "90% 的工作在 Claude Code 里完成，因为频繁切换工具会打断心流。最好的技术栈不在于你添加了什么，而在于你拒绝什么。"
+    }
+  },
+  {
+    "id": "2031009507007246443",
+    "date": "2026-03-11",
+    "author": "@macrotradecn",
+    "author_url": "https://x.com/macrotradecn",
+    "tweet_url": "https://x.com/macrotradecn/status/2031009507007246443",
+    "title": {
+      "en-US": "openclaw流行的结果：1.苹果🍎很开心...2.作者很开心...3.OpenAl很开心...",
+      "zh-CN": "总结OpenClaw流行的三方共赢局面：苹果卖爆Mac mini、作者获得知名度加入OpenAI、OpenAI蹭热度强化GPT5.4。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态影响与市场效应",
+      "zh-CN": "更深度：推文讲的是「三方共赢」，但漏了最关键的第四方——用户。真正的流行不是谁赚了，而是它改变了多少人的工作流。"
+    },
+    "relevance": "OpenClaw生态影响与市场效应",
+    "score": 0.75,
+    "engagement": {
+      "likes": 1781,
+      "replies": 121,
+      "retweets": 148
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T10:04:05.722781+00:00",
+    "js_take": {
+      "en-US": "Apple, OpenAI, the author—all counting cash. But the real metric is how many people used this to build what they couldn't before. That's the only number that matters.",
+      "zh-CN": "Apple、OpenAI、作者——所有人都在数钱。但真正的衡量标准是有多少人用它构建了以前做不到的东西。这才是唯一重要的数字。"
     }
   },
   {
@@ -5683,65 +5739,6 @@
     "js_take": {
       "en-US": "Five files, wrong order. Start with HEARTBEAT—if you don't know what your agent should *check*, memory and tools have no direction. Purpose before capability.",
       "zh-CN": "五个文件，顺序全错。从HEARTBEAT开始——如果连agent该「检查什么」都不知道，记忆和工具就是无头苍蝇。目标先于能力。"
-    }
-  },
-  {
-    "id": "2028128730132922760",
-    "date": "2026-03-02",
-    "author": "@ctatedev",
-    "author_url": "https://x.com/ctatedev",
-    "tweet_url": "https://x.com/ctatedev/status/2028128730132922760",
-    "title": {
-      "en-US": "New agent-browser skill: control Electron apps like Discord, Figma, Notion",
-      "zh-CN": "发布新的agent-browser技能：可以控制Electron构建的桌面应用，包括Discord、Figma、Notion、Spotify和VS Code"
-    },
-    "summary": {
-      "en-US": "OpenClaw/Agent能力扩展 - 桌面自动化",
-      "zh-CN": "「控制桌面应用」听起来是能力扩展，但它可能正在制造一种新的依赖——当Agent可以操作你的Discord和Figma时，你怎么区分「它在帮你」和「它在替你生活」？能力边界模糊后，人的主体性在悄悄转移。（更深度：指出能力扩展背后的主体性风险）"
-    },
-    "relevance": "OpenClaw/Agent能力扩展 - 桌面自动化",
-    "score": 0.75,
-    "engagement": {
-      "likes": 690,
-      "retweets": 36,
-      "replies": 24,
-      "views": 40700,
-      "bookmarks": 700
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-01T17:06:15.151493+00:00",
-    "js_take": {
-      "en-US": "Agent controlling your Discord and Figma sounds powerful, but where's the line? When it sends messages and edits designs for you, the gap between 'helping' and 'replacing' gets dangerously thin.",
-      "zh-CN": "让agent接管Discord和Figma听着很酷，但界限在哪？当它替你发消息、改设计时，「辅助」和「取代」之间那道线已经薄如蝉翼。"
-    }
-  },
-  {
-    "id": "2028158614788325641",
-    "date": "2026-03-02",
-    "author": "@CaptVenk",
-    "author_url": "https://x.com/CaptVenk",
-    "tweet_url": "https://x.com/CaptVenk/status/2028158614788325641",
-    "title": {
-      "en-US": "8-yo Lakshveer built PBLClaw: autonomous agent for ESP32 that writes and uploads code via Telegram",
-      "zh-CN": "8 岁小孩 Lakshveer 做了 PBLClaw，一个能用自然语言控制 ESP32 写代码、刷固件、跑程序的自主 Agent"
-    },
-    "summary": {
-      "en-US": "OpenClaw 创意项目 + Agent 与硬件结合 + 低龄开发者案例",
-      "zh-CN": "一个 8 岁孩子做出这个，暴露的不是「小孩有多厉害」，而是现代 agent 工具把编程门槛降到了多低。更形象的结论：当工具足够好时，表达想法的障碍只剩想象力本身。"
-    },
-    "relevance": "OpenClaw 创意项目 + Agent 与硬件结合 + 低龄开发者案例",
-    "score": 0.75,
-    "engagement": {
-      "likes": 265,
-      "replies": 17,
-      "retweets": 28,
-      "views": 24389
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-01T22:03:30.643729+00:00",
-    "js_take": {
-      "en-US": "An 8-year-old shipping hardware-autonomous agents tells you everything about where the barrier to build just went. Hint: it's not about age.",
-      "zh-CN": "8岁小孩都能发布硬件自主agent了，这足以说明构建门槛降到了哪。提示：跟年龄没关系。"
     }
   }
 ]

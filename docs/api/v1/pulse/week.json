@@ -112,6 +112,34 @@
     }
   },
   {
+    "id": "2031522538640081036",
+    "date": "2026-03-11",
+    "author": "@baoshu88",
+    "author_url": "https://x.com/baoshu88",
+    "tweet_url": "https://x.com/baoshu88/status/2031522538640081036",
+    "title": {
+      "en-US": "OpenClaw使用失控，独立部署透传境外大模型，越过了有关部门对大模型的审查...",
+      "zh-CN": "讨论OpenClaw因可独立部署并透传境外大模型，已引起监管关注，要求降温并限制未备案模型接入。"
+    },
+    "summary": {
+      "en-US": "OpenClaw监管风险与本土化困境",
+      "zh-CN": "做纠正：大家讨论的是「封禁与否」，但真正的矛盾是——技术开源的不可阻挡性与属地监管的必然冲突。这不是是非题，是张力题。"
+    },
+    "relevance": "OpenClaw监管风险与本土化困境",
+    "score": 0.82,
+    "engagement": {
+      "likes": 562,
+      "replies": 89,
+      "retweets": 45
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T10:04:05.722775+00:00",
+    "js_take": {
+      "en-US": "Banning OpenClaw misses the point. When code flows like water, the question isn't which tool to block—it's which use cases to watch.",
+      "zh-CN": "封禁 OpenClaw 没有抓住重点。当代码像水一样流动时，问题不在于封禁哪个工具——而在于关注哪些使用场景。"
+    }
+  },
+  {
     "id": "2031145765616091639",
     "date": "2026-03-11",
     "author": "@nikshepsvn",
@@ -250,6 +278,34 @@
     "js_take": {
       "en-US": "90% in Claude Code because switching kills flow. Best stack isn't what you add—it's what you refuse to.",
       "zh-CN": "90% 的工作在 Claude Code 里完成，因为频繁切换工具会打断心流。最好的技术栈不在于你添加了什么，而在于你拒绝什么。"
+    }
+  },
+  {
+    "id": "2031009507007246443",
+    "date": "2026-03-11",
+    "author": "@macrotradecn",
+    "author_url": "https://x.com/macrotradecn",
+    "tweet_url": "https://x.com/macrotradecn/status/2031009507007246443",
+    "title": {
+      "en-US": "openclaw流行的结果：1.苹果🍎很开心...2.作者很开心...3.OpenAl很开心...",
+      "zh-CN": "总结OpenClaw流行的三方共赢局面：苹果卖爆Mac mini、作者获得知名度加入OpenAI、OpenAI蹭热度强化GPT5.4。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态影响与市场效应",
+      "zh-CN": "更深度：推文讲的是「三方共赢」，但漏了最关键的第四方——用户。真正的流行不是谁赚了，而是它改变了多少人的工作流。"
+    },
+    "relevance": "OpenClaw生态影响与市场效应",
+    "score": 0.75,
+    "engagement": {
+      "likes": 1781,
+      "replies": 121,
+      "retweets": 148
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T10:04:05.722781+00:00",
+    "js_take": {
+      "en-US": "Apple, OpenAI, the author—all counting cash. But the real metric is how many people used this to build what they couldn't before. That's the only number that matters.",
+      "zh-CN": "Apple、OpenAI、作者——所有人都在数钱。但真正的衡量标准是有多少人用它构建了以前做不到的东西。这才是唯一重要的数字。"
     }
   },
   {
