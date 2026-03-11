@@ -927,5 +927,35 @@
       },
       "order": 40
     }
+  },
+  {
+    "slug": "practice-diary-2026-03-12",
+    "title": {
+      "zh-CN": "把创意留给 LLM，把结构交给代码：模板创建技能的诞生记",
+      "en-US": "Leave Creativity to the LLM, Hand Structure to Code: The Birth of the Template Creation Skill"
+    },
+    "date": "",
+    "summary": {
+      "zh-CN": "昨天还在纠结怎么让新用户跨过 frontmatter、区段结构和变量表这座大山，今天决定不再堆砌文档，而是直接造一个“带路党”。我们要开发的 `prism-template-author` 技能，核心思路很简单：让 LLM 去搞定充满创意的 Prompt 内容，而把枯燥的结构决策固化成流程。",
+      "en-US": "Yesterday, we were stuck on how to help new users conquer the mountain of frontmatter, section structures, and variable tables. Today, we decided to stop piling up documentation and instead build a 'guide.' The core idea behind our new `prism-template-author` skill is simple: let the LLM handle the creative heavy lifting for prompts, while we hardcode the tedious structural decisions into a streamlined workflow."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 41
+    }
   }
 ]
