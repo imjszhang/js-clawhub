@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-03-12",
+    "title": {
+      "zh-CN": "把创意留给 LLM，把结构交给代码：模板创建技能的诞生",
+      "en-US": "Leave Creativity to the LLM, Hand Structure to Code: The Birth of a Template Creation Skill"
+    },
+    "date": "2026-03-12",
+    "summary": {
+      "zh-CN": "昨天还在纠结怎么让新用户理解 frontmatter 和区段结构，今天决定不再写枯燥的文档，而是直接打造一个能“对话”的专用技能。既然模板创建涉及产出形态、写作风格等多层认知负荷，不如让 Agent 来引导决策，我们只负责把路铺平。",
+      "en-US": "Yesterday, I was stuck on how to help new users grasp frontmatter and section structures. Today, I decided to skip the dry docs and build a dedicated, conversational skill instead. Since creating templates involves heavy cognitive load across output formats and writing styles, why not let an Agent guide the decisions? We'll just focus on paving the road."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 41
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-11",
     "title": {
       "zh-CN": "让日记自己长出来：从手动触发到无人值守的自动化跨越",
