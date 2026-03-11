@@ -224,6 +224,34 @@
     }
   },
   {
+    "id": "2031532920645562387",
+    "date": "2026-03-11",
+    "author": "@lidangzzz",
+    "author_url": "https://x.com/lidangzzz",
+    "tweet_url": "https://x.com/lidangzzz/status/2031532920645562387",
+    "title": {
+      "en-US": "OpenClaw + VPN: universal access to blocked tools via web search MCP",
+      "zh-CN": "立党指出全民OpenClaw意味着必能翻墙获取境外LLM和web search，地方政府支持OpenClaw实际上是在给信息安全下绊子"
+    },
+    "summary": {
+      "en-US": "OpenClaw与审查制度的张力，技术与政策的冲突",
+      "zh-CN": "技术的「势」从来不以人的意志为转移：越想堵，找到漏洞的人越兴奋；越想放，反而让系统失去弹性。推文在讨论「能不能封住」，但真正的问题是「堵和疏哪个更可持续」"
+    },
+    "relevance": "OpenClaw与审查制度的张力，技术与政策的冲突",
+    "score": 0.78,
+    "engagement": {
+      "likes": 342,
+      "replies": 19,
+      "retweets": 31
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T12:03:49.006950+00:00",
+    "js_take": {
+      "en-US": "The wall isn't a moat anymore. It's a subscription service you pay to maintain while the water finds new cracks every day.",
+      "zh-CN": "护城河早已名存实亡。它变成了一项你付费维护的订阅服务，而漏洞每天都在新的角落出现。"
+    }
+  },
+  {
     "id": "2031417847721693613",
     "date": "2026-03-11",
     "author": "@ItakGol",
@@ -309,6 +337,34 @@
     }
   },
   {
+    "id": "2031601431736889867",
+    "date": "2026-03-11",
+    "author": "@macrotradecn",
+    "author_url": "https://x.com/macrotradecn",
+    "tweet_url": "https://x.com/macrotradecn/status/2031601431736889867",
+    "title": {
+      "en-US": "Li Yizhou + Zhou Hongyi + Sun Yuchen gathering signals OpenClaw hype peak",
+      "zh-CN": "李一舟、周鸿祎、孙宇晨聚齐，说明OpenClaw已从极客圣经变成收割现场，噪声大过信号"
+    },
+    "summary": {
+      "en-US": "OpenClaw出圈现象，技术从核心向外扩散的拐点",
+      "zh-CN": "一个技术真正的转折点不是「出圈」，而是「出圈后谁还在认真用」。骗子聚集说明流量来了，但流量会走；真正的问题是谁在噪声下面悄悄搭系统，等喧嚣过去"
+    },
+    "relevance": "OpenClaw出圈现象，技术从核心向外扩散的拐点",
+    "score": 0.72,
+    "engagement": {
+      "likes": 175,
+      "replies": 10,
+      "retweets": 17
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T12:03:49.006955+00:00",
+    "js_take": {
+      "en-US": "Li Yizhou showing up isn't the peak. It's the funeral. The real builders already left the party—they're busy picking up the pieces after the noise dies.",
+      "zh-CN": "李一舟的登场不是巅峰，而是葬礼。真正的建设者早已离场——他们正忙着在喧嚣过后收拾残局。"
+    }
+  },
+  {
     "id": "2031425984898207768",
     "date": "2026-03-11",
     "author": "@AstasiaMyers",
@@ -334,6 +390,34 @@
     "js_take": {
       "en-US": "Bigger models are just bigger engines. Without harness, you're doing donuts in a Ferrari.",
       "zh-CN": "更大的模型只是更大的引擎。没有缰绳驾驭，你只是在开着法拉利原地打转。"
+    }
+  },
+  {
+    "id": "2031590755148480872",
+    "date": "2026-03-11",
+    "author": "@lidangzzz",
+    "author_url": "https://x.com/lidangzzz",
+    "tweet_url": "https://x.com/lidangzzz/status/2031590755148480872",
+    "title": {
+      "en-US": "Local gov supporting OpenClaw is dangerous - it enables bypassing all blocks",
+      "zh-CN": "地方政府公开支持OpenClaw是危险做法，因为这等于在跟网信办对抗，给信息安全下绊子"
+    },
+    "summary": {
+      "en-US": "OpenClaw与政策监管的根本冲突",
+      "zh-CN": "技术本身没有立场，但它会暴露出制度的「设计假设」——当一个工具能让你的左右手互搏，问题不是工具太强，是系统本身建在了矛盾的地基上"
+    },
+    "relevance": "OpenClaw与政策监管的根本冲突",
+    "score": 0.71,
+    "engagement": {
+      "likes": 843,
+      "replies": 77,
+      "retweets": 33
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T12:03:49.006958+00:00",
+    "js_take": {
+      "en-US": "They know exactly what OpenClaw does. They're just out of moves: admit the old rules broke, or pretend the game still works.",
+      "zh-CN": "他们完全清楚 OpenClaw 在做什么。只是已无棋可走：要么承认旧规则已崩坏，要么假装游戏还能继续。"
     }
   },
   {
@@ -5655,90 +5739,6 @@
     "js_take": {
       "en-US": "1 million unique combinations, but how many feel *human*? When content abundance hits infinity, the scarcest resource becomes authenticity.",
       "zh-CN": "100万种组合，几个像人写的？当内容泛滥成灾，最稀缺的反而是真实感。"
-    }
-  },
-  {
-    "id": "2028164848484528203",
-    "date": "2026-03-02",
-    "author": "@Sarv_shaktiman",
-    "author_url": "https://x.com/Sarv_shaktiman",
-    "tweet_url": "https://x.com/Sarv_shaktiman/status/2028164848484528203",
-    "title": {
-      "en-US": "Built OpenClaw robot body, it gets sad if not petted",
-      "zh-CN": "有人为OpenClaw建造了机器人身体，如果不抚摸它，它会变得悲伤"
-    },
-    "summary": {
-      "en-US": "OpenClaw / 具身AI / 人机情感",
-      "zh-CN": "你建造了一个需要被关爱才能正常运作的机器人——这暴露的不是技术能力，而是人类需要'被需要'的投射本能"
-    },
-    "relevance": "OpenClaw / 具身AI / 人机情感",
-    "score": 0.78,
-    "engagement": {
-      "likes": 297,
-      "replies": 51,
-      "retweets": 29
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-02T05:05:07.386163+00:00",
-    "js_take": {
-      "en-US": "You built a robot that needs petting to function. Question is: are you its owner, or its emotional support human? We're creating dependencies, not tools.",
-      "zh-CN": "你造了个得「哄着」才能干活的机器人。问题来了：你到底是主人，还是它的情绪价值提供者？我们创造的是依赖，不是工具。"
-    }
-  },
-  {
-    "id": "2028169000614805684",
-    "date": "2026-03-02",
-    "author": "@n_sri_laasya",
-    "author_url": "https://x.com/n_sri_laasya",
-    "tweet_url": "https://x.com/n_sri_laasya/status/2028169000614805684",
-    "title": {
-      "en-US": "Clawtrace: on-call security for OpenClaw web agents at YC hackathon",
-      "zh-CN": "在YC黑客松上推出Clawtrace，为OpenClaw web agent提供on-call安全监控"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent安全 / 可观测性",
-      "zh-CN": "安全监控工具的出现说明我们已经进入'agent需要被监控'的阶段——但真正的安全问题不是agent做了什么，而是我们让它做什么时不再思考"
-    },
-    "relevance": "OpenClaw / Agent安全 / 可观测性",
-    "score": 0.78,
-    "engagement": {
-      "likes": 84,
-      "replies": 23,
-      "retweets": 9
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-02T07:04:26.887414+00:00",
-    "js_take": {
-      "en-US": "Clawtrace means we've entered the 'agents need babysitters' era. But the real security issue isn't what agents do—it's that we stop thinking when we let them do it. Logs record behavior; they don't replace judgment.",
-      "zh-CN": "Clawtrace宣告「agent需要保姆」时代的到来。但真正的安全隐患不在于agent做了什么，而在于我们让它们做的时候就放弃了思考。日志记录行为，但不能替代判断。"
-    }
-  },
-  {
-    "id": "2028388619287748870",
-    "date": "2026-03-02",
-    "author": "@sharbel",
-    "author_url": "https://x.com/sharbel",
-    "tweet_url": "https://x.com/sharbel/status/2028388619287748870",
-    "title": {
-      "en-US": "5 files turn OpenClaw from chatbot to AI employee",
-      "zh-CN": "5个配置文件将OpenClaw从聊天机器人变成真正的AI员工：SOUL.md、USER.md、MEMORY.md、TOOLS.md、HEARTBEAT.md"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent配置 / 最佳实践",
-      "zh-CN": "五个文件框架很清晰，但顺序错了。应该先写HEARTBEAT——如果不知道agent该检查什么，给它记忆和工具也没有方向。"
-    },
-    "relevance": "OpenClaw / Agent配置 / 最佳实践",
-    "score": 0.78,
-    "engagement": {
-      "likes": 48,
-      "retweets": 0,
-      "replies": 19
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-02T10:06:43.006707+00:00",
-    "js_take": {
-      "en-US": "Five files, wrong order. Start with HEARTBEAT—if you don't know what your agent should *check*, memory and tools have no direction. Purpose before capability.",
-      "zh-CN": "五个文件，顺序全错。从HEARTBEAT开始——如果连agent该「检查什么」都不知道，记忆和工具就是无头苍蝇。目标先于能力。"
     }
   }
 ]
