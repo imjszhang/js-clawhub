@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-11T05:06:37.217716+00:00",
+  "updated_at": "2026-03-11T09:07:20.458311+00:00",
   "this_week": {
-    "total_items": 43,
+    "total_items": 46,
     "avg_score": 0.78,
-    "unique_authors": 40,
+    "unique_authors": 43,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -89,6 +89,34 @@
         "js_take": {
           "en-US": "Features are cheap. Memory is the real bet. An agent that can't remember what it did yesterday is just a script with amnesia.",
           "zh-CN": "功能不值钱，记忆才是核心竞争力。一个记不住昨天做了什么的 agent，不过是得了健忘症的脚本。"
+        }
+      },
+      {
+        "id": "2031406217436815500",
+        "date": "2026-03-11",
+        "author": "@steipete",
+        "author_url": "https://x.com/steipete",
+        "tweet_url": "https://x.com/steipete/status/2031406217436815500",
+        "title": {
+          "en-US": "Nah, didn't work for claw*bot",
+          "zh-CN": "别怪工具，问题出在目标本身"
+        },
+        "summary": {
+          "en-US": "OpenClaw Agent 实战反馈",
+          "zh-CN": "OpenClaw Agent 实战反思"
+        },
+        "relevance": "OpenClaw Agent 实战反馈",
+        "score": 0.87,
+        "engagement": {
+          "likes": 1852,
+          "replies": 87,
+          "retweets": 38
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-11T09:06:55.393793+00:00",
+        "js_take": {
+          "en-US": "Claw didn't fail. Your mountain did. Most people hold a hammer looking for nails—they never ask if the wall was worth building.",
+          "zh-CN": "不是 Claw 失败了，是你的「大山」不值得攀登。大多数人拿着锤子到处找钉子——却从不问这堵墙是否值得建。"
         }
       },
       {
@@ -204,6 +232,34 @@
         "js_take": {
           "en-US": "If a \"skill creator doc\" makes you *more* aware you're building skills, it missed the point. Great tools disappear—they don't add another layer of consciousness.",
           "zh-CN": "如果一份「技能创建文档」让你更加意识到自己是在「做技能」，那它就跑偏了。好工具应该隐形——而不是再添一层认知负担。"
+        }
+      },
+      {
+        "id": "2031410587536949511",
+        "date": "2026-03-11",
+        "author": "@Nicole_yang88",
+        "author_url": "https://x.com/Nicole_yang88",
+        "tweet_url": "https://x.com/Nicole_yang88/status/2031410587536949511",
+        "title": {
+          "en-US": "Chinese dev built OpenClaw bot trading on Polymarket, 10 days profit",
+          "zh-CN": "Polymarket 量化机器人：10 天盈利的背后"
+        },
+        "summary": {
+          "en-US": "OpenClaw + AI Agent 实战案例",
+          "zh-CN": "OpenClaw + AI Agent 交易实战复盘"
+        },
+        "relevance": "OpenClaw + AI Agent 实战案例",
+        "score": 0.85,
+        "engagement": {
+          "likes": 618,
+          "replies": 73,
+          "retweets": 83
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-03-11T09:06:55.393796+00:00",
+        "js_take": {
+          "en-US": "10 days of profit means nothing. The hard code isn't entry logic—it's teaching the bot when to walk away.",
+          "zh-CN": "10 天盈利说明不了什么。真正的难点不是入场逻辑——而是教会机器人在什么时候离场。"
         }
       },
       {
@@ -835,6 +891,35 @@
         }
       },
       {
+        "id": "2031607112250568993",
+        "date": "2026-03-11",
+        "author": "@AzFlin",
+        "author_url": "https://x.com/AzFlin",
+        "tweet_url": "https://x.com/AzFlin/status/2031607112250568993",
+        "title": {
+          "en-US": "The stack for niggas who just wanna get shit done: Claude code, Gemini AI studio, OpenClaw",
+          "zh-CN": "推荐极简高效工具栈：Claude Code + Gemini AI Studio + OpenClaw，90%时间在Claude Code里。"
+        },
+        "summary": {
+          "en-US": "直接提及OpenClaw，工具栈效率讨论",
+          "zh-CN": "更深度：推文玩的是「选对工具」，但少了一层——真正的效率不在于工具本身，而在于「不做什么」的判断力。Claude Code占比90%不是因为它最强，而是因为减少切换本身就是一种力量。"
+        },
+        "relevance": "直接提及OpenClaw，工具栈效率讨论",
+        "score": 0.75,
+        "engagement": {
+          "likes": 165,
+          "retweets": 4,
+          "replies": 42,
+          "views": 7990
+        },
+        "comment_type": "wisdom_drop",
+        "synced_at": "2026-03-11T09:06:55.393783+00:00",
+        "js_take": {
+          "en-US": "90% in Claude Code because switching kills flow. Best stack isn't what you add—it's what you refuse to.",
+          "zh-CN": "90% 的工作在 Claude Code 里完成，因为频繁切换工具会打断心流。最好的技术栈不在于你添加了什么，而在于你拒绝什么。"
+        }
+      },
+      {
         "id": "2030633489478177100",
         "date": "2026-03-09",
         "author": "@swarm_ai_cloud",
@@ -944,90 +1029,6 @@
         "js_take": {
           "en-US": "100 agents talking to each other isn't scaling—it's chaos with a server bill. One clear context beats a crowd of confused agents.",
           "zh-CN": "100个Agent互相对话不是扩展，只是徒增服务器成本的混乱。清晰的上下文，胜过一群迷茫的Agent。"
-        }
-      },
-      {
-        "id": "2031144940437385225",
-        "date": "2026-03-10",
-        "author": "@johann_sath",
-        "author_url": "https://x.com/johann_sath",
-        "tweet_url": "https://x.com/johann_sath/status/2031144940437385225",
-        "title": {
-          "en-US": "OpenClaw only needs 3 files: SOUL, BRAIN, MEMORY",
-          "zh-CN": "推文建议OpenClaw只需要SOUL.md、BRAIN.md、MEMORY.md三个文件，而非10个不同的 personality 文件。"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台讨论，直接相关",
-          "zh-CN": "从'做减法'到'做正确的事'——简化不是目的，让系统自然生长才是。三文件是给复杂度设边界，而非限制可能性。"
-        },
-        "relevance": "OpenClaw平台讨论，直接相关",
-        "score": 0.72,
-        "engagement": {
-          "likes": 111,
-          "replies": 10,
-          "retweets": 7
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-10T11:04:01.569618+00:00",
-        "js_take": {
-          "en-US": "Three files isn't minimalism. It's guardrails so the thing grows on its own instead of drowning in structure.",
-          "zh-CN": "三个文件不是极简主义，而是防护栏——让系统自己生长，而不是被结构淹没。"
-        }
-      },
-      {
-        "id": "2031358252051738677",
-        "date": "2026-03-10",
-        "author": "@poezhao0605",
-        "author_url": "https://x.com/poezhao0605",
-        "tweet_url": "https://x.com/poezhao0605/status/2031358252051738677",
-        "title": {
-          "en-US": "China's internet emergency response center issued a formal security warning on OpenClaw today...",
-          "zh-CN": "中国国家互联网应急中心发布OpenClaw安全警告，提到提示注入、插件中毒、凭证泄露等风险"
-        },
-        "summary": {
-          "en-US": "OpenClaw安全讨论 + 官方态度",
-          "zh-CN": "安全警告常被误解为'技术有问题'，实则是'采用速度超过了安全边界的建立速度'——这种警告恰恰是技术进入主流的信号，而非它要被放弃的信号。"
-        },
-        "relevance": "OpenClaw安全讨论 + 官方态度",
-        "score": 0.72,
-        "engagement": {
-          "likes": 37,
-          "retweets": 9,
-          "replies": 5
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-10T15:09:34.119727+00:00",
-        "js_take": {
-          "en-US": "They don't warn about tools nobody uses. Fast adoption is the signal, not the risk.",
-          "zh-CN": "没人会警告你那些没人用的工具。快速普及才是信号，而非风险。"
-        }
-      },
-      {
-        "id": "2030657399795884042",
-        "date": "2026-03-09",
-        "author": "@BrianRoemmele",
-        "author_url": "https://x.com/BrianRoemmele",
-        "tweet_url": "https://x.com/BrianRoemmele/status/2030657399795884042",
-        "title": {
-          "en-US": "AI Employees got more independent and powerful",
-          "zh-CN": "AI员工变得更加独立和强大，已在零人力公司部署Karpathy开源系统，由Grok CEO监督测试。"
-        },
-        "summary": {
-          "en-US": "AI Agent自主性与企业应用，OpenClaw相关",
-          "zh-CN": "「更独立」听起来像进化，但独立的前提是存在风险——当AI员工不会失业、不会破产、不会被市场淘汰时，它的'独立'只是没有后果的模拟。"
-        },
-        "relevance": "AI Agent自主性与企业应用，OpenClaw相关",
-        "score": 0.72,
-        "engagement": {
-          "likes": 99,
-          "retweets": 12,
-          "replies": 14
-        },
-        "comment_type": "provoke",
-        "synced_at": "2026-03-08T16:06:01.684267+00:00",
-        "js_take": {
-          "en-US": "Real independence means waking up at 3am because a decision might kill you. AI 'employees' don't lose sleep—they don't even have beds.",
-          "zh-CN": "真正的独立，是凌晨三点因为一个可能致命的决定而惊醒。AI'员工'不会失眠——它们连床都没有。"
         }
       }
     ]

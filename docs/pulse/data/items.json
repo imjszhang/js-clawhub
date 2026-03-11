@@ -28,6 +28,62 @@
     }
   },
   {
+    "id": "2031406217436815500",
+    "date": "2026-03-11",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2031406217436815500",
+    "title": {
+      "en-US": "Nah, didn't work for claw*bot",
+      "zh-CN": "别怪工具，问题出在目标本身"
+    },
+    "summary": {
+      "en-US": "OpenClaw Agent 实战反馈",
+      "zh-CN": "OpenClaw Agent 实战反思"
+    },
+    "relevance": "OpenClaw Agent 实战反馈",
+    "score": 0.87,
+    "engagement": {
+      "likes": 1852,
+      "replies": 87,
+      "retweets": 38
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T09:06:55.393793+00:00",
+    "js_take": {
+      "en-US": "Claw didn't fail. Your mountain did. Most people hold a hammer looking for nails—they never ask if the wall was worth building.",
+      "zh-CN": "不是 Claw 失败了，是你的「大山」不值得攀登。大多数人拿着锤子到处找钉子——却从不问这堵墙是否值得建。"
+    }
+  },
+  {
+    "id": "2031410587536949511",
+    "date": "2026-03-11",
+    "author": "@Nicole_yang88",
+    "author_url": "https://x.com/Nicole_yang88",
+    "tweet_url": "https://x.com/Nicole_yang88/status/2031410587536949511",
+    "title": {
+      "en-US": "Chinese dev built OpenClaw bot trading on Polymarket, 10 days profit",
+      "zh-CN": "Polymarket 量化机器人：10 天盈利的背后"
+    },
+    "summary": {
+      "en-US": "OpenClaw + AI Agent 实战案例",
+      "zh-CN": "OpenClaw + AI Agent 交易实战复盘"
+    },
+    "relevance": "OpenClaw + AI Agent 实战案例",
+    "score": 0.85,
+    "engagement": {
+      "likes": 618,
+      "replies": 73,
+      "retweets": 83
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-11T09:06:55.393796+00:00",
+    "js_take": {
+      "en-US": "10 days of profit means nothing. The hard code isn't entry logic—it's teaching the bot when to walk away.",
+      "zh-CN": "10 天盈利说明不了什么。真正的难点不是入场逻辑——而是教会机器人在什么时候离场。"
+    }
+  },
+  {
     "id": "2031396200679878719",
     "date": "2026-03-11",
     "author": "@swyx",
@@ -165,6 +221,35 @@
     "js_take": {
       "en-US": "'Open' in your name is free advertising for your acquirer. Try 'Closed'—might as well look expensive when they buy you.",
       "zh-CN": "名字里带'Open'，等于给收购方免费打广告。不如叫'Closed'——反正要被收购，好歹显得贵一点。"
+    }
+  },
+  {
+    "id": "2031607112250568993",
+    "date": "2026-03-11",
+    "author": "@AzFlin",
+    "author_url": "https://x.com/AzFlin",
+    "tweet_url": "https://x.com/AzFlin/status/2031607112250568993",
+    "title": {
+      "en-US": "The stack for niggas who just wanna get shit done: Claude code, Gemini AI studio, OpenClaw",
+      "zh-CN": "推荐极简高效工具栈：Claude Code + Gemini AI Studio + OpenClaw，90%时间在Claude Code里。"
+    },
+    "summary": {
+      "en-US": "直接提及OpenClaw，工具栈效率讨论",
+      "zh-CN": "更深度：推文玩的是「选对工具」，但少了一层——真正的效率不在于工具本身，而在于「不做什么」的判断力。Claude Code占比90%不是因为它最强，而是因为减少切换本身就是一种力量。"
+    },
+    "relevance": "直接提及OpenClaw，工具栈效率讨论",
+    "score": 0.75,
+    "engagement": {
+      "likes": 165,
+      "retweets": 4,
+      "replies": 42,
+      "views": 7990
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-11T09:06:55.393783+00:00",
+    "js_take": {
+      "en-US": "90% in Claude Code because switching kills flow. Best stack isn't what you add—it's what you refuse to.",
+      "zh-CN": "90% 的工作在 Claude Code 里完成，因为频繁切换工具会打断心流。最好的技术栈不在于你添加了什么，而在于你拒绝什么。"
     }
   },
   {
@@ -5657,92 +5742,6 @@
     "js_take": {
       "en-US": "An 8-year-old shipping hardware-autonomous agents tells you everything about where the barrier to build just went. Hint: it's not about age.",
       "zh-CN": "8岁小孩都能发布硬件自主agent了，这足以说明构建门槛降到了哪。提示：跟年龄没关系。"
-    }
-  },
-  {
-    "id": "2028219959134806303",
-    "date": "2026-03-02",
-    "author": "@jordymaui",
-    "author_url": "https://x.com/jordymaui",
-    "tweet_url": "https://x.com/jordymaui/status/2028219959134806303",
-    "title": {
-      "en-US": "One person with Mac Mini runs 30-account agent workflow",
-      "zh-CN": "一个人用Mac Mini运行agent，管理30个账号，自动生成简报"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent运营 / 自动化工作流",
-      "zh-CN": "这不是'一个人的团队'，而是一个人在管理一个随时可能失控的分布式系统——没有同事意味着没有备用大脑当系统偏离预期时"
-    },
-    "relevance": "OpenClaw / Agent运营 / 自动化工作流",
-    "score": 0.75,
-    "engagement": {
-      "likes": 139,
-      "replies": 6,
-      "retweets": 8
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-02T05:05:07.386169+00:00",
-    "js_take": {
-      "en-US": "30 accounts, full auto reporting—sounds like a one-person team. Actually it's one human managing a distributed system that can drift off-course any moment. No coworkers means no backup brains.",
-      "zh-CN": "30个账号全自动运营，听着像一人军团。实际上是一个人守着随时可能跑偏的分布式系统。没有同事=没有备用大脑。"
-    }
-  },
-  {
-    "id": "2027998700203872491",
-    "date": "2026-03-02",
-    "author": "@linyiLYi",
-    "author_url": "https://x.com/linyiLYi",
-    "tweet_url": "https://x.com/linyiLYi/status/2027998700203872491",
-    "title": {
-      "en-US": "在M4 Max上跑通本地OpenClaw，所有数据不离开电脑，成了最后一个知道伊朗出事的人",
-      "zh-CN": "在M4 Max MacBook Pro上本地运行OpenClaw工作流，数据不离开电脑，结果成了全世界最后一个知道伊朗出事的人"
-    },
-    "summary": {
-      "en-US": "OpenClaw本地部署 + 信息茧房 - 核心相关",
-      "zh-CN": "作者在炫耀本地部署的安全性和速度，却无意中揭示了一个悖论：完全自主的技术带来的是完全的信息封闭。我们在追求\"数据不离开自己电脑\"的同时，也切断了与外部世界的有效连接。这不是自由，是另一种形式的束缚。"
-    },
-    "relevance": "OpenClaw本地部署 + 信息茧房 - 核心相关",
-    "score": 0.71,
-    "engagement": {
-      "likes": 598,
-      "retweets": 49,
-      "replies": 66
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-01T19:03:53.609821+00:00",
-    "js_take": {
-      "en-US": "Local deployment protects your data, but also cages your awareness. True autonomy isn't disconnecting—it's choosing when to connect and when to seal off. 无为 isn't isolation.",
-      "zh-CN": "本地部署保护了数据，却也困住了感知。真正的自主不是断网，而是选择何时连接、何时封闭。无为，不是孤立。"
-    }
-  },
-  {
-    "id": "2028202363941519547",
-    "date": "2026-03-02",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2028202363941519547",
-    "title": {
-      "en-US": "OpenClaw wrappers are doing $4k-$50k MRR. There's a kit to build your own in one click. THE OPENCLAW ECONOMY IS WIDE OPEN.",
-      "zh-CN": "OpenClaw wrappers 月入 4k-50k 美元，现在有套件可以一键搭建。OpenClaw 经济的大门已经敞开。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 商业化与生态",
-      "zh-CN": "每个人都在说「套件」「模板」「一键部署」，好像搭起来就赚钱了。但生意和项目的区别是：前者需要有人持续为之负责。MRR 不是代码跑出来的，是信任堆出来的。"
-    },
-    "relevance": "OpenClaw 商业化与生态",
-    "score": 0.71,
-    "engagement": {
-      "likes": 92,
-      "replies": 18,
-      "retweets": 9,
-      "views": 33058,
-      "bookmarks": 97
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-01T21:08:30.502035+00:00",
-    "js_take": {
-      "en-US": "One-click kits make building easy, but don't make *showing up every day* easy. That $4k-$50k MRR doesn't come from code—it comes from someone willing to lose sleep over it. That's the real moat.",
-      "zh-CN": "一键搭建确实省事，但「每天坚持上线」没法一键搞定。月入4k到50k不是靠代码，是靠有人愿意为它熬夜。这才是真·护城河。"
     }
   }
 ]
