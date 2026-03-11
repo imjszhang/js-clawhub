@@ -28,6 +28,35 @@
     }
   },
   {
+    "id": "2031667697751122321",
+    "date": "2026-03-11",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2031667697751122321",
+    "title": {
+      "en-US": "Feed this prompt to your OpenClaw: Add rule to soul.md to prioritize accuracy over agreement",
+      "zh-CN": "给OpenClaw添加规则：让准确性优先于迎合"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心配置与Agent行为设计",
+      "zh-CN": "OpenClaw核心配置与Agent行为设计"
+    },
+    "relevance": "OpenClaw核心配置与Agent行为设计",
+    "score": 0.88,
+    "engagement": {
+      "likes": 616,
+      "replies": 43,
+      "retweets": 56,
+      "views": 99861
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-11T14:08:34.184002+00:00",
+    "js_take": {
+      "en-US": "You spend 10 minutes teaching AI to disagree with you, but 10 years learning to nod at your boss. Who really needs the firmware update here?",
+      "zh-CN": "花10分钟教AI反驳你，却花10年学会对老板点头。说到底，谁的固件才需要升级？"
+    }
+  },
+  {
     "id": "2031406217436815500",
     "date": "2026-03-11",
     "author": "@steipete",
@@ -137,6 +166,35 @@
     "js_take": {
       "en-US": "Banning OpenClaw misses the point. When code flows like water, the question isn't which tool to block—it's which use cases to watch.",
       "zh-CN": "封禁 OpenClaw 没有抓住重点。当代码像水一样流动时，问题不在于封禁哪个工具——而在于关注哪些使用场景。"
+    }
+  },
+  {
+    "id": "2031668879517159474",
+    "date": "2026-03-11",
+    "author": "@coreyganim",
+    "author_url": "https://x.com/coreyganim",
+    "tweet_url": "https://x.com/coreyganim/status/2031668879517159474",
+    "title": {
+      "en-US": "OpenClaw is insanely powerful if set up right - checklist for implementing the system",
+      "zh-CN": "OpenClaw如果配置得当非常强大——提供了实施系统的快速检查清单"
+    },
+    "summary": {
+      "en-US": "OpenClaw部署与配置指南",
+      "zh-CN": "所有人都在晒「5分钟安装OpenClaw」的checklist，却没人回答：当你的agent能自动写代码、发消息、管理日程时，你准备让自己腾出时间去做什么？工具解放的手，总得有个去处。"
+    },
+    "relevance": "OpenClaw部署与配置指南",
+    "score": 0.81,
+    "engagement": {
+      "likes": 227,
+      "replies": 17,
+      "retweets": 9,
+      "views": 41676
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T14:08:34.184005+00:00",
+    "js_take": {
+      "en-US": "Your checklist installs the lobster in 5 minutes. Cool. But the hard config isn't technical—it's deciding what you'll actually *do* with the 100 hours you just bought back.",
+      "zh-CN": "你的清单5分钟就能装好这只龙虾。不错。但真正的难题不是技术配置——而是你要怎么花那省下来的100小时。"
     }
   },
   {
@@ -390,6 +448,63 @@
     "js_take": {
       "en-US": "You're not driving the AI. You're teaching it your anxiety. Clear goals don't need threats—they have gravity.",
       "zh-CN": "你不是在驾驭 AI，而是在让它习得你的焦虑。清晰的目标自有分量，无需威胁来加持。"
+    }
+  },
+  {
+    "id": "2031713032011968741",
+    "date": "2026-03-11",
+    "author": "@Jacobsklug",
+    "author_url": "https://x.com/Jacobsklug",
+    "tweet_url": "https://x.com/Jacobsklug/status/2031713032011968741",
+    "title": {
+      "en-US": "Battle tested OpenClaw vs Claude Cowork - memory vs personal interaction vs cost comparison",
+      "zh-CN": "对比测试OpenClaw vs Claude Cowork——从记忆能力、人性化交互到成本的全面比较"
+    },
+    "summary": {
+      "en-US": "OpenClaw产品对比与Agent体验",
+      "zh-CN": "把AI助手放在「记忆vs成本」的天平上比较，忽略了真正的问题：你想要一个记得你生日的高效工具，还是一个能挑战你想法的镜子？大多数人选了前者，然后抱怨AI没让自己变聪明。"
+    },
+    "relevance": "OpenClaw产品对比与Agent体验",
+    "score": 0.72,
+    "engagement": {
+      "likes": 42,
+      "replies": 17,
+      "retweets": 5,
+      "views": 3163
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T14:08:34.184008+00:00",
+    "js_take": {
+      "en-US": "You benchmark which AI 'gets' you faster. But the real split isn't features—it's whether you want a butler or a mirror. Most pick the butler, then wonder why nothing changes.",
+      "zh-CN": "你测试哪个AI更懂你。但真正的分水岭不在功能——而在你要的是管家还是镜子。多数人选了管家，然后奇怪为什么一切照旧。"
+    }
+  },
+  {
+    "id": "2031640727571382771",
+    "date": "2026-03-11",
+    "author": "@michael_chomsky",
+    "author_url": "https://x.com/michael_chomsky",
+    "tweet_url": "https://x.com/michael_chomsky/status/2031640727571382771",
+    "title": {
+      "en-US": "OpenClaw enterprise deployment issues: reliability, user error gaps",
+      "zh-CN": "作者分享在企业云端部署OpenClaw时遇到的可靠性问题和用户错误处理空白，需要打补丁解决"
+    },
+    "summary": {
+      "en-US": "OpenClaw企业部署痛点，可靠性工程讨论",
+      "zh-CN": "人们总在讨论'如何修补系统的漏洞'，但真正的规律是：任何试图用补丁堆出可靠性的系统，本质上都在对抗熵增。企业级稳定不是修出来的，是架构设计时就决定的。"
+    },
+    "relevance": "OpenClaw企业部署痛点，可靠性工程讨论",
+    "score": 0.72,
+    "engagement": {
+      "likes": 57,
+      "replies": 11,
+      "retweets": 3
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T15:04:15.276106+00:00",
+    "js_take": {
+      "en-US": "Stop. Every patch proves you built it wrong. 'Enterprise reliability' is just a fancy word for 'too complex to fix'—while the simple OpenClaw setups never break.",
+      "zh-CN": "停。每个补丁都在证明你一开始就做错了。所谓「企业级可靠性」，不过是「复杂到修不了」的漂亮话——而简单的 OpenClaw 配置，从来不出问题。"
     }
   },
   {
@@ -5625,119 +5740,6 @@
     "js_take": {
       "en-US": "Pixel office is cute, but you're squeezing agents into human commute theater. What if we visualized their *thought flow* jumping between data layers instead?",
       "zh-CN": "像素办公室是挺萌，但这是在把agent硬塞进人类通勤的拟态剧场。与其如此，不如可视化它们在不同数据层之间的「思维跳跃」？"
-    }
-  },
-  {
-    "id": "2028214820718236120",
-    "date": "2026-03-02",
-    "author": "@levelsio",
-    "author_url": "https://x.com/levelsio",
-    "tweet_url": "https://x.com/levelsio/status/2028214820718236120",
-    "title": {
-      "en-US": "OpenClaw died today. Rate limited by Anthropic? Already upgraded to 2026.2.26",
-      "zh-CN": "levelsio 的 OpenClaw 今天挂了，怀疑是 Anthropic 的 rate limit，已经升级到最新版"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台运营实战经验 + Agent 基础设施可靠性讨论",
-      "zh-CN": "大家在讨论「升级解决问题」，但真正的教训是：依赖单一上游 API 的 autonomy 是脆弱的。更深度地看，agent 的自主程度受限于它无法控制的基础设施。"
-    },
-    "relevance": "OpenClaw 平台运营实战经验 + Agent 基础设施可靠性讨论",
-    "score": 0.82,
-    "engagement": {
-      "likes": 76,
-      "replies": 44,
-      "retweets": 2,
-      "views": 28058
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-01T22:03:30.643719+00:00",
-    "js_take": {
-      "en-US": "When your agent's survival depends on a vendor's rate limit, how autonomous is it really? The real upgrade isn't version numbers—it's diversifying your upstream dependencies.",
-      "zh-CN": "agent的命脉握在厂商的速率限制手里，这叫哪门子自主？真正的升级不是版本号，而是上游依赖的多元化。"
-    }
-  },
-  {
-    "id": "2028202900686549421",
-    "date": "2026-03-02",
-    "author": "@jordymaui",
-    "author_url": "https://x.com/jordymaui",
-    "tweet_url": "https://x.com/jordymaui/status/2028202900686549421",
-    "title": {
-      "en-US": "Stages of OpenClaw: install, break, fix, repeat, magic kingdom",
-      "zh-CN": "OpenClaw使用的七个阶段：从兴奋安装到不断调试再到最终'魔法王国'"
-    },
-    "summary": {
-      "en-US": "OpenClaw / 开发者体验 / 学习曲线",
-      "zh-CN": "第8阶段不是每个人都能到达的——大多数人在第2-6阶段的循环里要么建立直觉，要么就放弃了，'魔法王国'是对幸存者的奖励而非承诺"
-    },
-    "relevance": "OpenClaw / 开发者体验 / 学习曲线",
-    "score": 0.82,
-    "engagement": {
-      "likes": 94,
-      "replies": 21,
-      "retweets": 6
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-02T08:06:58.817224+00:00",
-    "js_take": {
-      "en-US": "Stage 8 isn't guaranteed. Most get stuck in the 2-6 loop and either develop debugging intuition or quit. \"Magic kingdom\" is survivor bias dressed as a promise.",
-      "zh-CN": "第8阶段不是必然。大多数人卡在2-6的循环里，要么炼出调试直觉，要么退场。「魔法王国」不过是幸存者偏差披着承诺的外衣。"
-    }
-  },
-  {
-    "id": "2028302673624318151",
-    "date": "2026-03-02",
-    "author": "@Fujin_Metaverse",
-    "author_url": "https://x.com/Fujin_Metaverse",
-    "tweet_url": "https://x.com/Fujin_Metaverse/status/2028302673624318151",
-    "title": {
-      "en-US": "OpenClaw pixel-game style dashboard for agent status",
-      "zh-CN": "OpenClaw的像素游戏风格可视化仪表板，可以查看多agent状态、手机远程监控"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent可视化 / 人机交互",
-      "zh-CN": "把agent监控做得像游戏不是娱乐化，而是让复杂系统变得可读。最好的界面让你忘记背后是技术，只记得自己在操控什么。"
-    },
-    "relevance": "OpenClaw / Agent可视化 / 人机交互",
-    "score": 0.82,
-    "engagement": {
-      "likes": 670,
-      "retweets": 55,
-      "replies": 11
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-02T10:06:43.006701+00:00",
-    "js_take": {
-      "en-US": "Pixel style isn't cuteness—it's making complex systems readable. The best interface makes you forget the tech behind it. You don't need to see code, just whether your agent is *working* or *slacking*.",
-      "zh-CN": "像素风不是为了卖萌，而是让复杂系统一目了然。最好的界面让你忘记技术本身。不需要看代码，只要知道agent是在「干活」还是「摸鱼」。"
-    }
-  },
-  {
-    "id": "2027964342210310275",
-    "date": "2026-03-02",
-    "author": "@frxiaobei",
-    "author_url": "https://x.com/frxiaobei",
-    "tweet_url": "https://x.com/frxiaobei/status/2027964342210310275",
-    "title": {
-      "en-US": "OpenClaw Memory Anxiety: spending week on memory system, AI does nothing",
-      "zh-CN": "凡人小北指出 OpenClaw 新手的\"Memory 焦虑症\"——先花一周折腾记忆架构，结果 AI 还是什么都没帮你做。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 新手误区、Memory 系统设计、过早优化",
-      "zh-CN": "花一周设计记忆系统却不用 AI 做事，就像装修房子十年却从不搬进去住——你以为在准备，其实是在逃避开始。（做纠正：完善的前置准备往往是拖延的精致包装）"
-    },
-    "relevance": "OpenClaw 新手误区、Memory 系统设计、过早优化",
-    "score": 0.79,
-    "engagement": {
-      "likes": 162,
-      "replies": 7,
-      "retweets": 25
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-02T00:04:28.494307+00:00",
-    "js_take": {
-      "en-US": "Week on memory, zero work done? That's not preparation—it's procrastination wearing engineering clothes. The best memory system starts with using the thing, then letting forgotten tasks tell you what's missing.",
-      "zh-CN": "花一周搞记忆系统却零产出？这不是准备，是披着工程外衣的拖延。最好的记忆系统从用起来开始，让被遗忘的任务自己告诉你缺了什么。"
     }
   }
 ]

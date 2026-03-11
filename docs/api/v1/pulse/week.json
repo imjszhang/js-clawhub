@@ -28,6 +28,35 @@
     }
   },
   {
+    "id": "2031667697751122321",
+    "date": "2026-03-11",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2031667697751122321",
+    "title": {
+      "en-US": "Feed this prompt to your OpenClaw: Add rule to soul.md to prioritize accuracy over agreement",
+      "zh-CN": "给OpenClaw添加规则：让准确性优先于迎合"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心配置与Agent行为设计",
+      "zh-CN": "OpenClaw核心配置与Agent行为设计"
+    },
+    "relevance": "OpenClaw核心配置与Agent行为设计",
+    "score": 0.88,
+    "engagement": {
+      "likes": 616,
+      "replies": 43,
+      "retweets": 56,
+      "views": 99861
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-11T14:08:34.184002+00:00",
+    "js_take": {
+      "en-US": "You spend 10 minutes teaching AI to disagree with you, but 10 years learning to nod at your boss. Who really needs the firmware update here?",
+      "zh-CN": "花10分钟教AI反驳你，却花10年学会对老板点头。说到底，谁的固件才需要升级？"
+    }
+  },
+  {
     "id": "2031406217436815500",
     "date": "2026-03-11",
     "author": "@steipete",
@@ -137,6 +166,35 @@
     "js_take": {
       "en-US": "Banning OpenClaw misses the point. When code flows like water, the question isn't which tool to block—it's which use cases to watch.",
       "zh-CN": "封禁 OpenClaw 没有抓住重点。当代码像水一样流动时，问题不在于封禁哪个工具——而在于关注哪些使用场景。"
+    }
+  },
+  {
+    "id": "2031668879517159474",
+    "date": "2026-03-11",
+    "author": "@coreyganim",
+    "author_url": "https://x.com/coreyganim",
+    "tweet_url": "https://x.com/coreyganim/status/2031668879517159474",
+    "title": {
+      "en-US": "OpenClaw is insanely powerful if set up right - checklist for implementing the system",
+      "zh-CN": "OpenClaw如果配置得当非常强大——提供了实施系统的快速检查清单"
+    },
+    "summary": {
+      "en-US": "OpenClaw部署与配置指南",
+      "zh-CN": "所有人都在晒「5分钟安装OpenClaw」的checklist，却没人回答：当你的agent能自动写代码、发消息、管理日程时，你准备让自己腾出时间去做什么？工具解放的手，总得有个去处。"
+    },
+    "relevance": "OpenClaw部署与配置指南",
+    "score": 0.81,
+    "engagement": {
+      "likes": 227,
+      "replies": 17,
+      "retweets": 9,
+      "views": 41676
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T14:08:34.184005+00:00",
+    "js_take": {
+      "en-US": "Your checklist installs the lobster in 5 minutes. Cool. But the hard config isn't technical—it's deciding what you'll actually *do* with the 100 hours you just bought back.",
+      "zh-CN": "你的清单5分钟就能装好这只龙虾。不错。但真正的难题不是技术配置——而是你要怎么花那省下来的100小时。"
     }
   },
   {
@@ -390,6 +448,63 @@
     "js_take": {
       "en-US": "You're not driving the AI. You're teaching it your anxiety. Clear goals don't need threats—they have gravity.",
       "zh-CN": "你不是在驾驭 AI，而是在让它习得你的焦虑。清晰的目标自有分量，无需威胁来加持。"
+    }
+  },
+  {
+    "id": "2031713032011968741",
+    "date": "2026-03-11",
+    "author": "@Jacobsklug",
+    "author_url": "https://x.com/Jacobsklug",
+    "tweet_url": "https://x.com/Jacobsklug/status/2031713032011968741",
+    "title": {
+      "en-US": "Battle tested OpenClaw vs Claude Cowork - memory vs personal interaction vs cost comparison",
+      "zh-CN": "对比测试OpenClaw vs Claude Cowork——从记忆能力、人性化交互到成本的全面比较"
+    },
+    "summary": {
+      "en-US": "OpenClaw产品对比与Agent体验",
+      "zh-CN": "把AI助手放在「记忆vs成本」的天平上比较，忽略了真正的问题：你想要一个记得你生日的高效工具，还是一个能挑战你想法的镜子？大多数人选了前者，然后抱怨AI没让自己变聪明。"
+    },
+    "relevance": "OpenClaw产品对比与Agent体验",
+    "score": 0.72,
+    "engagement": {
+      "likes": 42,
+      "replies": 17,
+      "retweets": 5,
+      "views": 3163
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T14:08:34.184008+00:00",
+    "js_take": {
+      "en-US": "You benchmark which AI 'gets' you faster. But the real split isn't features—it's whether you want a butler or a mirror. Most pick the butler, then wonder why nothing changes.",
+      "zh-CN": "你测试哪个AI更懂你。但真正的分水岭不在功能——而在你要的是管家还是镜子。多数人选了管家，然后奇怪为什么一切照旧。"
+    }
+  },
+  {
+    "id": "2031640727571382771",
+    "date": "2026-03-11",
+    "author": "@michael_chomsky",
+    "author_url": "https://x.com/michael_chomsky",
+    "tweet_url": "https://x.com/michael_chomsky/status/2031640727571382771",
+    "title": {
+      "en-US": "OpenClaw enterprise deployment issues: reliability, user error gaps",
+      "zh-CN": "作者分享在企业云端部署OpenClaw时遇到的可靠性问题和用户错误处理空白，需要打补丁解决"
+    },
+    "summary": {
+      "en-US": "OpenClaw企业部署痛点，可靠性工程讨论",
+      "zh-CN": "人们总在讨论'如何修补系统的漏洞'，但真正的规律是：任何试图用补丁堆出可靠性的系统，本质上都在对抗熵增。企业级稳定不是修出来的，是架构设计时就决定的。"
+    },
+    "relevance": "OpenClaw企业部署痛点，可靠性工程讨论",
+    "score": 0.72,
+    "engagement": {
+      "likes": 57,
+      "replies": 11,
+      "retweets": 3
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T15:04:15.276106+00:00",
+    "js_take": {
+      "en-US": "Stop. Every patch proves you built it wrong. 'Enterprise reliability' is just a fancy word for 'too complex to fix'—while the simple OpenClaw setups never break.",
+      "zh-CN": "停。每个补丁都在证明你一开始就做错了。所谓「企业级可靠性」，不过是「复杂到修不了」的漂亮话——而简单的 OpenClaw 配置，从来不出问题。"
     }
   },
   {

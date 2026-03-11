@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-11T13:06:30.153374+00:00",
+  "updated_at": "2026-03-11T15:04:30.802677+00:00",
   "this_week": {
-    "total_items": 52,
+    "total_items": 56,
     "avg_score": 0.78,
-    "unique_authors": 47,
+    "unique_authors": 51,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -31,6 +31,35 @@
         "js_take": {
           "en-US": "Asking \"who's the new OpenClaw\" assumes the future belongs to the best clone. It doesn't. The winner won't be \"like\" anything—you'll just wake up one day and realize the center of gravity moved.",
           "zh-CN": "问「谁是下一个 OpenClaw」的时候，你已经默认未来属于最好的模仿者。但事实并非如此。赢家不会「像」任何东西——某天醒来你会发现，权力的重心早已悄然转移。"
+        }
+      },
+      {
+        "id": "2031667697751122321",
+        "date": "2026-03-11",
+        "author": "@RoundtableSpace",
+        "author_url": "https://x.com/RoundtableSpace",
+        "tweet_url": "https://x.com/RoundtableSpace/status/2031667697751122321",
+        "title": {
+          "en-US": "Feed this prompt to your OpenClaw: Add rule to soul.md to prioritize accuracy over agreement",
+          "zh-CN": "给OpenClaw添加规则：让准确性优先于迎合"
+        },
+        "summary": {
+          "en-US": "OpenClaw核心配置与Agent行为设计",
+          "zh-CN": "OpenClaw核心配置与Agent行为设计"
+        },
+        "relevance": "OpenClaw核心配置与Agent行为设计",
+        "score": 0.88,
+        "engagement": {
+          "likes": 616,
+          "replies": 43,
+          "retweets": 56,
+          "views": 99861
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-03-11T14:08:34.184002+00:00",
+        "js_take": {
+          "en-US": "You spend 10 minutes teaching AI to disagree with you, but 10 years learning to nod at your boss. Who really needs the firmware update here?",
+          "zh-CN": "花10分钟教AI反驳你，却花10年学会对老板点头。说到底，谁的固件才需要升级？"
         }
       },
       {
@@ -491,6 +520,35 @@
         "js_take": {
           "en-US": "10 accounts swiping at once isn't efficiency—it's outsourcing the only part that matters. When scripts handle the 'work,' your sincerity becomes indistinguishable from a bot.",
           "zh-CN": "同时操作10个账号不叫效率——而是把唯一重要的部分外包了出去。当脚本替你'干活'，你的真诚就变得和机器人毫无分别。"
+        }
+      },
+      {
+        "id": "2031668879517159474",
+        "date": "2026-03-11",
+        "author": "@coreyganim",
+        "author_url": "https://x.com/coreyganim",
+        "tweet_url": "https://x.com/coreyganim/status/2031668879517159474",
+        "title": {
+          "en-US": "OpenClaw is insanely powerful if set up right - checklist for implementing the system",
+          "zh-CN": "OpenClaw如果配置得当非常强大——提供了实施系统的快速检查清单"
+        },
+        "summary": {
+          "en-US": "OpenClaw部署与配置指南",
+          "zh-CN": "所有人都在晒「5分钟安装OpenClaw」的checklist，却没人回答：当你的agent能自动写代码、发消息、管理日程时，你准备让自己腾出时间去做什么？工具解放的手，总得有个去处。"
+        },
+        "relevance": "OpenClaw部署与配置指南",
+        "score": 0.81,
+        "engagement": {
+          "likes": 227,
+          "replies": 17,
+          "retweets": 9,
+          "views": 41676
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-11T14:08:34.184005+00:00",
+        "js_take": {
+          "en-US": "Your checklist installs the lobster in 5 minutes. Cool. But the hard config isn't technical—it's deciding what you'll actually *do* with the 100 hours you just bought back.",
+          "zh-CN": "你的清单5分钟就能装好这只龙虾。不错。但真正的难题不是技术配置——而是你要怎么花那省下来的100小时。"
         }
       },
       {
@@ -974,67 +1032,11 @@
           "en-US": "90% in Claude Code because switching kills flow. Best stack isn't what you add—it's what you refuse to.",
           "zh-CN": "90% 的工作在 Claude Code 里完成，因为频繁切换工具会打断心流。最好的技术栈不在于你添加了什么，而在于你拒绝什么。"
         }
-      },
-      {
-        "id": "2031009507007246443",
-        "date": "2026-03-11",
-        "author": "@macrotradecn",
-        "author_url": "https://x.com/macrotradecn",
-        "tweet_url": "https://x.com/macrotradecn/status/2031009507007246443",
-        "title": {
-          "en-US": "openclaw流行的结果：1.苹果🍎很开心...2.作者很开心...3.OpenAl很开心...",
-          "zh-CN": "总结OpenClaw流行的三方共赢局面：苹果卖爆Mac mini、作者获得知名度加入OpenAI、OpenAI蹭热度强化GPT5.4。"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态影响与市场效应",
-          "zh-CN": "更深度：推文讲的是「三方共赢」，但漏了最关键的第四方——用户。真正的流行不是谁赚了，而是它改变了多少人的工作流。"
-        },
-        "relevance": "OpenClaw生态影响与市场效应",
-        "score": 0.75,
-        "engagement": {
-          "likes": 1781,
-          "replies": 121,
-          "retweets": 148
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-11T10:04:05.722781+00:00",
-        "js_take": {
-          "en-US": "Apple, OpenAI, the author—all counting cash. But the real metric is how many people used this to build what they couldn't before. That's the only number that matters.",
-          "zh-CN": "Apple、OpenAI、作者——所有人都在数钱。但真正的衡量标准是有多少人用它构建了以前做不到的东西。这才是唯一重要的数字。"
-        }
-      },
-      {
-        "id": "2030633489478177100",
-        "date": "2026-03-09",
-        "author": "@swarm_ai_cloud",
-        "author_url": "https://x.com/swarm_ai_cloud",
-        "tweet_url": "https://x.com/swarm_ai_cloud/status/2030633489478177100",
-        "title": {
-          "en-US": "terraform destroy deleted prod data. AI cloud infra is scary. Disconnect CLI after use.",
-          "zh-CN": "日本开发者警告：让Claude Code操作云基础设施风险极高，必须人工手动执行「连接-执行-断开」流程。"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态安全实践，Agent与基础设施的边界问题",
-          "zh-CN": "更深一层：这不是技术问题，是信任半径的问题——你把最终执行权交给Agent，等于把公司命脉外包给一个没有「肉身临场感」的存在。真正的安全不是多检查一步，是「关键时刻必须有人的在场」。"
-        },
-        "relevance": "OpenClaw生态安全实践，Agent与基础设施的边界问题",
-        "score": 0.75,
-        "engagement": {
-          "likes": 258,
-          "retweets": 24,
-          "replies": 1
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-08T20:02:54.794320+00:00",
-        "js_take": {
-          "en-US": "You're treating the symptom. The disease is outsourcing your kill switch to something that can't feel the weight of the mistake. Speed without a hand on the brake isn't efficiency—it's Russian roulette with your data.",
-          "zh-CN": "你在治标，没治本。真正的问题是：你把生死开关交给了无法感知错误代价的东西。没有刹车的速度不是效率——是用你的数据玩俄罗斯轮盘赌。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 155
+    "unique_authors": 154
   }
 }
