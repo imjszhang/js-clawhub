@@ -112,6 +112,34 @@
     }
   },
   {
+    "id": "2031553634253570310",
+    "date": "2026-03-11",
+    "author": "@ashen_one",
+    "author_url": "https://x.com/ashen_one",
+    "tweet_url": "https://x.com/ashen_one/status/2031553634253570310",
+    "title": {
+      "en-US": "OpenClaw agent taking 2-5 mins, want progress updates every minute",
+      "zh-CN": "OpenClaw用户询问：agent执行任务需要2-5分钟，能否让它每分钟返回一次进度更新？"
+    },
+    "summary": {
+      "en-US": "直接关于OpenClaw平台使用体验，agent长任务执行模式",
+      "zh-CN": "人们总想'控制'进度，但最好的观察是相信系统并在完成时告知结果——频繁询问反而打断心流，就像园丁每隔一分钟挖开土看种子发芽了没有。"
+    },
+    "relevance": "直接关于OpenClaw平台使用体验，agent长任务执行模式",
+    "score": 0.78,
+    "engagement": {
+      "likes": 41,
+      "replies": 27,
+      "retweets": 1
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T05:06:24.589735+00:00",
+    "js_take": {
+      "en-US": "Digging up seeds every minute to check if they grew. Set the target, walk away—your anxiety is the real bottleneck.",
+      "zh-CN": "每分钟挖出种子查看长势。设定目标，然后走开——焦虑才是真正的瓶颈。"
+    }
+  },
+  {
     "id": "2031417847721693613",
     "date": "2026-03-11",
     "author": "@ItakGol",
@@ -5715,35 +5743,6 @@
     "js_take": {
       "en-US": "One-click kits make building easy, but don't make *showing up every day* easy. That $4k-$50k MRR doesn't come from code—it comes from someone willing to lose sleep over it. That's the real moat.",
       "zh-CN": "一键搭建确实省事，但「每天坚持上线」没法一键搞定。月入4k到50k不是靠代码，是靠有人愿意为它熬夜。这才是真·护城河。"
-    }
-  },
-  {
-    "id": "2028152141072994717",
-    "date": "2026-03-02",
-    "author": "@zarazhangrui",
-    "author_url": "https://x.com/zarazhangrui",
-    "tweet_url": "https://x.com/zarazhangrui/status/2028152141072994717",
-    "title": {
-      "en-US": "Created frontend slides skill: Claude Code website → iterate → turn workflow into skill",
-      "zh-CN": "Zara 用 Claude Code 做幻灯片网站，迭代几十次后把流程沉淀成 skill"
-    },
-    "summary": {
-      "en-US": "OpenClaw Skill 开发方法论 + 工作流抽象",
-      "zh-CN": "「先做出来再抽象成 skill」这个顺序很关键。很多人反着来：先想 skill 架构，再填内容。但更好的做法是像 Zara 这样——先解决真问题，再把解决路径封装成可复用的工具。"
-    },
-    "relevance": "OpenClaw Skill 开发方法论 + 工作流抽象",
-    "score": 0.71,
-    "engagement": {
-      "likes": 182,
-      "replies": 12,
-      "retweets": 8,
-      "views": 19134
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-03-01T22:03:30.643731+00:00",
-    "js_take": {
-      "en-US": "Build first, abstract second. The best skills come from workflows that already solved real problems, not from architecting before doing.",
-      "zh-CN": "先做出来，再抽象。最好的技能来自解决过真问题的工作流，而不是动手之前的纸上架构。"
     }
   }
 ]
