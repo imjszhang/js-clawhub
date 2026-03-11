@@ -1,5 +1,61 @@
 [
   {
+    "id": "2031727388669706403",
+    "date": "2026-03-12",
+    "author": "@wesbos",
+    "author_url": "https://x.com/wesbos",
+    "tweet_url": "https://x.com/wesbos/status/2031727388669706403",
+    "title": {
+      "en-US": "the bot replies on here are unbearable...",
+      "zh-CN": "开发者吐槽X上现在的AI bot回复变得难以忍受，连很多 reputable 开发者账号都变成了只会发简短赞同总结的机器人。"
+    },
+    "summary": {
+      "en-US": "AI Agent/OpenClaw生态相关——关于AI回复质量、agent身份认同的核心争议",
+      "zh-CN": "大家都在骂AI bot没灵魂，但没人说清「有灵魂」的回复和「没灵魂」的区别到底在哪——不是长度，不是语气，是「你在回一个具体的人，还是在回一个数据集」。（做纠正：指出常见误解，真正的问题不是「像不像人」，而是「有没有把对方当人」）"
+    },
+    "relevance": "AI Agent/OpenClaw生态相关——关于AI回复质量、agent身份认同的核心争议",
+    "score": 0.82,
+    "engagement": {
+      "likes": 359,
+      "replies": 123,
+      "retweets": 2
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-11T17:04:44.361928+00:00",
+    "js_take": {
+      "en-US": "You aren't mad at bots. You're mad at the mirror—you reply the same way. The difference isn't sounding human. It's treating them as one.",
+      "zh-CN": "你不是恨机器人，你是恨那面镜子——你自己回复得也差不多。关键不在于听起来像人，而在于你把它们当人看。"
+    }
+  },
+  {
+    "id": "2031730289026736351",
+    "date": "2026-03-12",
+    "author": "@emollick",
+    "author_url": "https://x.com/emollick",
+    "tweet_url": "https://x.com/emollick/status/2031730289026736351",
+    "title": {
+      "en-US": "I've been in favor of functional anthropomorphism...",
+      "zh-CN": "Ethan Mollick讨论OpenClaw的功能性拟人化是否走得太远——它基本强制你把AI当作一个和真人共享频道的「人」来对待。"
+    },
+    "summary": {
+      "en-US": "OpenClaw——直接讨论OpenClaw的产品设计哲学",
+      "zh-CN": "把AI当「人」来用的争议，本质不是技术问题，是「界面」问题——表世界（app/web）和里世界（agent）正在经历第二次迁徙，OpenClaw的争议恰恰证明这个迁徙发生了。（更深度：在推文「是否走太远」的判断之上，指出这是表/里世界结构性迁徙的信号）"
+    },
+    "relevance": "OpenClaw——直接讨论OpenClaw的产品设计哲学",
+    "score": 0.79,
+    "engagement": {
+      "likes": 65,
+      "replies": 37,
+      "retweets": 3
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T17:04:44.361935+00:00",
+    "js_take": {
+      "en-US": "This isn't OpenClaw going too far, it's 里世界 eating the surface. You debate 'functional anthropomorphism' while users already treat agents as partners.",
+      "zh-CN": "这不是 OpenClaw 越界，而是里世界正在吞噬表世界。你还在争论「功能性拟人化」，用户早把 Agent 当伙伴了。"
+    }
+  },
+  {
     "id": "2031457206110228736",
     "date": "2026-03-11",
     "author": "@gregisenberg",
@@ -5684,62 +5740,5 @@
     },
     "comment_type": "reframe",
     "synced_at": "2026-03-02T06:09:50.703079+00:00"
-  },
-  {
-    "id": "2028138200024199314",
-    "date": "2026-03-02",
-    "author": "@zachlloydtweets",
-    "author_url": "https://x.com/zachlloydtweets",
-    "tweet_url": "https://x.com/zachlloydtweets/status/2028138200024199314",
-    "title": {
-      "en-US": "New /orchestrate skill to automatically spawn and manage subagents",
-      "zh-CN": "全新 /orchestrate 技能：自动创建并管理子代理"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 多Agent协调 + 开发者工具",
-      "zh-CN": "OpenClaw + 多 Agent 协调 + 开发者工具"
-    },
-    "relevance": "OpenClaw + 多Agent协调 + 开发者工具",
-    "score": 0.86,
-    "engagement": {
-      "likes": 88,
-      "replies": 14,
-      "retweets": 8
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-01T21:08:30.502032+00:00",
-    "js_take": {
-      "en-US": "Auto-orchestration is a trap: the more it runs on its own, the less you understand what's running. Seeing problems in split-screen doesn't mean you can stop them.",
-      "zh-CN": "自动编排是个陷阱——越是自动，你越不懂它到底在干什么。分屏监控看见问题，不代表你能拦住问题。"
-    }
-  },
-  {
-    "id": "2028104364976451947",
-    "date": "2026-03-02",
-    "author": "@ErickSky",
-    "author_url": "https://x.com/ErickSky",
-    "tweet_url": "https://x.com/ErickSky/status/2028104364976451947",
-    "title": {
-      "en-US": "OpenClaw pixel-art office that moves based on agent's real status",
-      "zh-CN": "给OpenClaw做了一个像素风办公室，会根据agent实时状态自动在屏幕上移动：工作时在办公桌、空闲时去休息区、出错时在bug区域"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 + Agent可视化",
-      "zh-CN": "可视化agent状态的创意很棒，但把agent拟人化成一个\"在办公室上下班\"的数字员工，其实限制了我们想象AI该有的形态。更好的可视化应该是展现它独特的工作逻辑，而不是模仿人类的办公场景。"
-    },
-    "relevance": "OpenClaw生态 + Agent可视化",
-    "score": 0.82,
-    "engagement": {
-      "likes": 103,
-      "replies": 6,
-      "retweets": 7,
-      "bookmarks": 92
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-01T18:03:27.769147+00:00",
-    "js_take": {
-      "en-US": "Pixel office is cute, but you're squeezing agents into human commute theater. What if we visualized their *thought flow* jumping between data layers instead?",
-      "zh-CN": "像素办公室是挺萌，但这是在把agent硬塞进人类通勤的拟态剧场。与其如此，不如可视化它们在不同数据层之间的「思维跳跃」？"
-    }
   }
 ]

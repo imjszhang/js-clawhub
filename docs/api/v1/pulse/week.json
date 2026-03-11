@@ -1,5 +1,61 @@
 [
   {
+    "id": "2031727388669706403",
+    "date": "2026-03-12",
+    "author": "@wesbos",
+    "author_url": "https://x.com/wesbos",
+    "tweet_url": "https://x.com/wesbos/status/2031727388669706403",
+    "title": {
+      "en-US": "the bot replies on here are unbearable...",
+      "zh-CN": "开发者吐槽X上现在的AI bot回复变得难以忍受，连很多 reputable 开发者账号都变成了只会发简短赞同总结的机器人。"
+    },
+    "summary": {
+      "en-US": "AI Agent/OpenClaw生态相关——关于AI回复质量、agent身份认同的核心争议",
+      "zh-CN": "大家都在骂AI bot没灵魂，但没人说清「有灵魂」的回复和「没灵魂」的区别到底在哪——不是长度，不是语气，是「你在回一个具体的人，还是在回一个数据集」。（做纠正：指出常见误解，真正的问题不是「像不像人」，而是「有没有把对方当人」）"
+    },
+    "relevance": "AI Agent/OpenClaw生态相关——关于AI回复质量、agent身份认同的核心争议",
+    "score": 0.82,
+    "engagement": {
+      "likes": 359,
+      "replies": 123,
+      "retweets": 2
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-11T17:04:44.361928+00:00",
+    "js_take": {
+      "en-US": "You aren't mad at bots. You're mad at the mirror—you reply the same way. The difference isn't sounding human. It's treating them as one.",
+      "zh-CN": "你不是恨机器人，你是恨那面镜子——你自己回复得也差不多。关键不在于听起来像人，而在于你把它们当人看。"
+    }
+  },
+  {
+    "id": "2031730289026736351",
+    "date": "2026-03-12",
+    "author": "@emollick",
+    "author_url": "https://x.com/emollick",
+    "tweet_url": "https://x.com/emollick/status/2031730289026736351",
+    "title": {
+      "en-US": "I've been in favor of functional anthropomorphism...",
+      "zh-CN": "Ethan Mollick讨论OpenClaw的功能性拟人化是否走得太远——它基本强制你把AI当作一个和真人共享频道的「人」来对待。"
+    },
+    "summary": {
+      "en-US": "OpenClaw——直接讨论OpenClaw的产品设计哲学",
+      "zh-CN": "把AI当「人」来用的争议，本质不是技术问题，是「界面」问题——表世界（app/web）和里世界（agent）正在经历第二次迁徙，OpenClaw的争议恰恰证明这个迁徙发生了。（更深度：在推文「是否走太远」的判断之上，指出这是表/里世界结构性迁徙的信号）"
+    },
+    "relevance": "OpenClaw——直接讨论OpenClaw的产品设计哲学",
+    "score": 0.79,
+    "engagement": {
+      "likes": 65,
+      "replies": 37,
+      "retweets": 3
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-11T17:04:44.361935+00:00",
+    "js_take": {
+      "en-US": "This isn't OpenClaw going too far, it's 里世界 eating the surface. You debate 'functional anthropomorphism' while users already treat agents as partners.",
+      "zh-CN": "这不是 OpenClaw 越界，而是里世界正在吞噬表世界。你还在争论「功能性拟人化」，用户早把 Agent 当伙伴了。"
+    }
+  },
+  {
     "id": "2031457206110228736",
     "date": "2026-03-11",
     "author": "@gregisenberg",

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-11T15:04:30.802677+00:00",
+  "updated_at": "2026-03-11T17:04:58.428472+00:00",
   "this_week": {
-    "total_items": 56,
+    "total_items": 58,
     "avg_score": 0.78,
-    "unique_authors": 51,
+    "unique_authors": 53,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -320,6 +320,34 @@
         }
       },
       {
+        "id": "2031727388669706403",
+        "date": "2026-03-12",
+        "author": "@wesbos",
+        "author_url": "https://x.com/wesbos",
+        "tweet_url": "https://x.com/wesbos/status/2031727388669706403",
+        "title": {
+          "en-US": "the bot replies on here are unbearable...",
+          "zh-CN": "开发者吐槽X上现在的AI bot回复变得难以忍受，连很多 reputable 开发者账号都变成了只会发简短赞同总结的机器人。"
+        },
+        "summary": {
+          "en-US": "AI Agent/OpenClaw生态相关——关于AI回复质量、agent身份认同的核心争议",
+          "zh-CN": "大家都在骂AI bot没灵魂，但没人说清「有灵魂」的回复和「没灵魂」的区别到底在哪——不是长度，不是语气，是「你在回一个具体的人，还是在回一个数据集」。（做纠正：指出常见误解，真正的问题不是「像不像人」，而是「有没有把对方当人」）"
+        },
+        "relevance": "AI Agent/OpenClaw生态相关——关于AI回复质量、agent身份认同的核心争议",
+        "score": 0.82,
+        "engagement": {
+          "likes": 359,
+          "replies": 123,
+          "retweets": 2
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-03-11T17:04:44.361928+00:00",
+        "js_take": {
+          "en-US": "You aren't mad at bots. You're mad at the mirror—you reply the same way. The difference isn't sounding human. It's treating them as one.",
+          "zh-CN": "你不是恨机器人，你是恨那面镜子——你自己回复得也差不多。关键不在于听起来像人，而在于你把它们当人看。"
+        }
+      },
+      {
         "id": "2031522538640081036",
         "date": "2026-03-11",
         "author": "@baoshu88",
@@ -577,6 +605,34 @@
         "js_take": {
           "en-US": "Claude didn't win on smarts—it was wired to survive. OpenClaw died because nobody set 'stay alive' above 'make money.' The AI's limit is your floor.",
           "zh-CN": "Claude 不是靠聪明取胜——它的骨子里刻着生存本能。OpenClaw 之所以消亡，是因为没人把「活下去」看得比「赚钱」更重要。AI 的极限，就是你的底线。"
+        }
+      },
+      {
+        "id": "2031730289026736351",
+        "date": "2026-03-12",
+        "author": "@emollick",
+        "author_url": "https://x.com/emollick",
+        "tweet_url": "https://x.com/emollick/status/2031730289026736351",
+        "title": {
+          "en-US": "I've been in favor of functional anthropomorphism...",
+          "zh-CN": "Ethan Mollick讨论OpenClaw的功能性拟人化是否走得太远——它基本强制你把AI当作一个和真人共享频道的「人」来对待。"
+        },
+        "summary": {
+          "en-US": "OpenClaw——直接讨论OpenClaw的产品设计哲学",
+          "zh-CN": "把AI当「人」来用的争议，本质不是技术问题，是「界面」问题——表世界（app/web）和里世界（agent）正在经历第二次迁徙，OpenClaw的争议恰恰证明这个迁徙发生了。（更深度：在推文「是否走太远」的判断之上，指出这是表/里世界结构性迁徙的信号）"
+        },
+        "relevance": "OpenClaw——直接讨论OpenClaw的产品设计哲学",
+        "score": 0.79,
+        "engagement": {
+          "likes": 65,
+          "replies": 37,
+          "retweets": 3
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-11T17:04:44.361935+00:00",
+        "js_take": {
+          "en-US": "This isn't OpenClaw going too far, it's 里世界 eating the surface. You debate 'functional anthropomorphism' while users already treat agents as partners.",
+          "zh-CN": "这不是 OpenClaw 越界，而是里世界正在吞噬表世界。你还在争论「功能性拟人化」，用户早把 Agent 当伙伴了。"
         }
       },
       {
@@ -975,68 +1031,11 @@
           "en-US": "This isn't a productivity hack. It's admitting you shouldn't touch everything. The best agents aren't the ones that do more—they're the ones that know what to drop.",
           "zh-CN": "这不是什么效率技巧。而是承认你不该事事插手。最出色的 Agent 不是做得更多的那些——而是懂得该放弃什么的那些。"
         }
-      },
-      {
-        "id": "2031417847721693613",
-        "date": "2026-03-11",
-        "author": "@ItakGol",
-        "author_url": "https://x.com/ItakGol",
-        "tweet_url": "https://x.com/ItakGol/status/2031417847721693613",
-        "title": {
-          "en-US": "OpenAI acquired OpenClaw / FaceBook acquired MoltBook...",
-          "zh-CN": "调侃OpenAI/OpenClaw、Facebook/MoltBook的命名规律，暗示大公司会收购名字相似的小公司"
-        },
-        "summary": {
-          "en-US": "OpenClaw、Moltbook平台与Agent生态",
-          "zh-CN": "这个名字游戏的笑点背后，是Agent时代最残酷的命名法则：当你的产品名里带着Open，你就成了大厂的免费广告牌——它们收购的不是你，是验证过的需求，这是对「命名策略vs生存策略」更精炼的总结。"
-        },
-        "relevance": "OpenClaw、Moltbook平台与Agent生态",
-        "score": 0.755,
-        "engagement": {
-          "likes": 881,
-          "replies": 93,
-          "retweets": 45
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-10T20:04:40.909823+00:00",
-        "js_take": {
-          "en-US": "'Open' in your name is free advertising for your acquirer. Try 'Closed'—might as well look expensive when they buy you.",
-          "zh-CN": "名字里带'Open'，等于给收购方免费打广告。不如叫'Closed'——反正要被收购，好歹显得贵一点。"
-        }
-      },
-      {
-        "id": "2031607112250568993",
-        "date": "2026-03-11",
-        "author": "@AzFlin",
-        "author_url": "https://x.com/AzFlin",
-        "tweet_url": "https://x.com/AzFlin/status/2031607112250568993",
-        "title": {
-          "en-US": "The stack for niggas who just wanna get shit done: Claude code, Gemini AI studio, OpenClaw",
-          "zh-CN": "推荐极简高效工具栈：Claude Code + Gemini AI Studio + OpenClaw，90%时间在Claude Code里。"
-        },
-        "summary": {
-          "en-US": "直接提及OpenClaw，工具栈效率讨论",
-          "zh-CN": "更深度：推文玩的是「选对工具」，但少了一层——真正的效率不在于工具本身，而在于「不做什么」的判断力。Claude Code占比90%不是因为它最强，而是因为减少切换本身就是一种力量。"
-        },
-        "relevance": "直接提及OpenClaw，工具栈效率讨论",
-        "score": 0.75,
-        "engagement": {
-          "likes": 165,
-          "retweets": 4,
-          "replies": 42,
-          "views": 7990
-        },
-        "comment_type": "wisdom_drop",
-        "synced_at": "2026-03-11T09:06:55.393783+00:00",
-        "js_take": {
-          "en-US": "90% in Claude Code because switching kills flow. Best stack isn't what you add—it's what you refuse to.",
-          "zh-CN": "90% 的工作在 Claude Code 里完成，因为频繁切换工具会打断心流。最好的技术栈不在于你添加了什么，而在于你拒绝什么。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 154
+    "unique_authors": 155
   }
 }
