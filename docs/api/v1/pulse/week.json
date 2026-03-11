@@ -365,6 +365,34 @@
     }
   },
   {
+    "id": "2031573577355743471",
+    "date": "2026-03-11",
+    "author": "@QingQ77",
+    "author_url": "https://x.com/QingQ77",
+    "tweet_url": "https://x.com/QingQ77/status/2031573577355743471",
+    "title": {
+      "en-US": "Claude Code技能插件，用中国互联网大厂PUA话术驱动AI穷尽所有方案才允许放弃。",
+      "zh-CN": "用阿里字节华为等互联网大厂的PUA话术风格，设计Claude Code技能插件让AI不敢放弃、穷尽所有调试方案"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code技能插件，中国互联网文化与AI工程的有趣结合",
+      "zh-CN": "这个设计的讽刺在于：用人的焦虑（怕被PUA）去驱动AI，结果可能是AI学会了人的焦虑。更深层：真正的'不放弃'不是被push出来的，而是目标本身足够清晰时，系统会自己找到路径——与其给AI写PUA话术，不如写清楚什么才算'解决了'。"
+    },
+    "relevance": "OpenClaw/Claude Code技能插件，中国互联网文化与AI工程的有趣结合",
+    "score": 0.72,
+    "engagement": {
+      "likes": 869,
+      "replies": 34,
+      "retweets": 121
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-11T13:06:14.555131+00:00",
+    "js_take": {
+      "en-US": "You're not driving the AI. You're teaching it your anxiety. Clear goals don't need threats—they have gravity.",
+      "zh-CN": "你不是在驾驭 AI，而是在让它习得你的焦虑。清晰的目标自有分量，无需威胁来加持。"
+    }
+  },
+  {
     "id": "2031425984898207768",
     "date": "2026-03-11",
     "author": "@AstasiaMyers",

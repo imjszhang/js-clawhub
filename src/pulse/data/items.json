@@ -365,6 +365,34 @@
     }
   },
   {
+    "id": "2031573577355743471",
+    "date": "2026-03-11",
+    "author": "@QingQ77",
+    "author_url": "https://x.com/QingQ77",
+    "tweet_url": "https://x.com/QingQ77/status/2031573577355743471",
+    "title": {
+      "en-US": "Claude Code技能插件，用中国互联网大厂PUA话术驱动AI穷尽所有方案才允许放弃。",
+      "zh-CN": "用阿里字节华为等互联网大厂的PUA话术风格，设计Claude Code技能插件让AI不敢放弃、穷尽所有调试方案"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code技能插件，中国互联网文化与AI工程的有趣结合",
+      "zh-CN": "这个设计的讽刺在于：用人的焦虑（怕被PUA）去驱动AI，结果可能是AI学会了人的焦虑。更深层：真正的'不放弃'不是被push出来的，而是目标本身足够清晰时，系统会自己找到路径——与其给AI写PUA话术，不如写清楚什么才算'解决了'。"
+    },
+    "relevance": "OpenClaw/Claude Code技能插件，中国互联网文化与AI工程的有趣结合",
+    "score": 0.72,
+    "engagement": {
+      "likes": 869,
+      "replies": 34,
+      "retweets": 121
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-11T13:06:14.555131+00:00",
+    "js_take": {
+      "en-US": "You're not driving the AI. You're teaching it your anxiety. Clear goals don't need threats—they have gravity.",
+      "zh-CN": "你不是在驾驭 AI，而是在让它习得你的焦虑。清晰的目标自有分量，无需威胁来加持。"
+    }
+  },
+  {
     "id": "2031425984898207768",
     "date": "2026-03-11",
     "author": "@AstasiaMyers",
@@ -5710,35 +5738,6 @@
     "js_take": {
       "en-US": "Week on memory, zero work done? That's not preparation—it's procrastination wearing engineering clothes. The best memory system starts with using the thing, then letting forgotten tasks tell you what's missing.",
       "zh-CN": "花一周搞记忆系统却零产出？这不是准备，是披着工程外衣的拖延。最好的记忆系统从用起来开始，让被遗忘的任务自己告诉你缺了什么。"
-    }
-  },
-  {
-    "id": "2028192731915547013",
-    "date": "2026-03-02",
-    "author": "@WontDieAverage_",
-    "author_url": "https://x.com/WontDieAverage_",
-    "tweet_url": "https://x.com/WontDieAverage_/status/2028192731915547013",
-    "title": {
-      "en-US": "OpenClaw bot growing accounts 10k+ followers monthly. 1M possible unique reels from 100 hooks x 100 bodies x 100 CTAs",
-      "zh-CN": "用 OpenClaw 机器人每月涨粉 1 万+，通过 100 个钩子 x 100 个正文 x 100 个 CTA 组合出 100 万种不同短视频"
-    },
-    "summary": {
-      "en-US": "OpenClaw Agent 增长运营实战 + 内容自动化策略",
-      "zh-CN": "这种「组合爆炸」策略看起来很聪明，但更深的问题是：当所有人都能生成 100 万种变体时，差异化反而消失了。真正稀缺的不是产能，而是让读者感到「这是人写的」的质感。"
-    },
-    "relevance": "OpenClaw Agent 增长运营实战 + 内容自动化策略",
-    "score": 0.78,
-    "engagement": {
-      "likes": 64,
-      "replies": 91,
-      "retweets": 5,
-      "views": 5881
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-01T22:03:30.643726+00:00",
-    "js_take": {
-      "en-US": "1 million unique combinations, but how many feel *human*? When content abundance hits infinity, the scarcest resource becomes authenticity.",
-      "zh-CN": "100万种组合，几个像人写的？当内容泛滥成灾，最稀缺的反而是真实感。"
     }
   }
 ]
