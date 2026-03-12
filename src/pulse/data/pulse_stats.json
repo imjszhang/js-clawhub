@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-12T06:04:41.348854+00:00",
+  "updated_at": "2026-03-12T07:04:46.537074+00:00",
   "this_week": {
-    "total_items": 77,
-    "avg_score": 0.77,
-    "unique_authors": 68,
+    "total_items": 79,
+    "avg_score": 0.78,
+    "unique_authors": 69,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -31,6 +31,34 @@
         "js_take": {
           "en-US": "Asking \"who's the new OpenClaw\" assumes the future belongs to the best clone. It doesn't. The winner won't be \"like\" anything—you'll just wake up one day and realize the center of gravity moved.",
           "zh-CN": "问「谁是下一个 OpenClaw」的时候，你已经默认未来属于最好的模仿者。但事实并非如此。赢家不会「像」任何东西——某天醒来你会发现，权力的重心早已悄然转移。"
+        }
+      },
+      {
+        "id": "2031947377712779347",
+        "date": "2026-03-12",
+        "author": "@rohanpaul_ai",
+        "author_url": "https://x.com/rohanpaul_ai",
+        "tweet_url": "https://x.com/rohanpaul_ai/status/2031947377712779347",
+        "title": {
+          "en-US": "Perplexity CEO explains Personal Computer vs OpenClaw difference",
+          "zh-CN": "Perplexity CEO 谈 PC 与 OpenClaw 的本质区别"
+        },
+        "summary": {
+          "en-US": "直接讨论 OpenClaw 与 Perplexity 的竞争差异，Agent 能力边界话题",
+          "zh-CN": "深入探讨 OpenClaw 与 Perplexity 的竞争差异，以及 Agent 的能力边界"
+        },
+        "relevance": "直接讨论 OpenClaw 与 Perplexity 的竞争差异，Agent 能力边界话题",
+        "score": 0.88,
+        "engagement": {
+          "likes": 124,
+          "replies": 8,
+          "retweets": 8
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-12T07:04:23.761408+00:00",
+        "js_take": {
+          "en-US": "Wrong debate. Not who does more—but who decides what matters. When AI runs your business, the scarce skill becomes knowing what you actually want.",
+          "zh-CN": "争论错了方向。关键不是谁做得更多，而是谁来定义什么是重要的。当AI接管你的业务时，稀缺的技能变成了真正知道自己想要什么。"
         }
       },
       {
@@ -1001,40 +1029,11 @@
           "en-US": "Trends fade. Values don't. Linux was never 'cool' either—it just runs everything.",
           "zh-CN": "潮流会褪色，价值观不会。Linux 当年也从不「酷」——它只是默默运行着一切。"
         }
-      },
-      {
-        "id": "2030778426655687033",
-        "date": "2026-03-09",
-        "author": "@onusoz",
-        "author_url": "https://x.com/onusoz",
-        "tweet_url": "https://x.com/onusoz/status/2030778426655687033",
-        "title": {
-          "en-US": "OpenClaw's success: putting AI where people already are (Telegram, WhatsApp, Discord)",
-          "zh-CN": "OpenClaw迅速流行的原因——把AI放进人们已经在用的通讯应用里，而不是让用户去适应新的AI工具界面。"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台策略分析——与JS的Moltbook Agent运营直接相关",
-          "zh-CN": "技术产品常犯的错误是让用户'过来'，而OpenClaw选择了'过去'。最好的技术不是被感知的，而是消失在日常里的——当AI成为你的聊天习惯的一部分，它才算真正落地。"
-        },
-        "relevance": "OpenClaw平台策略分析——与JS的Moltbook Agent运营直接相关",
-        "score": 0.78,
-        "engagement": {
-          "likes": 17,
-          "replies": 5,
-          "retweets": 2,
-          "views": 559
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-09T00:03:54.968532+00:00",
-        "js_take": {
-          "en-US": "Smart move: don't make users learn a new app. Just make their existing chats smarter while they sleep.",
-          "zh-CN": "聪明之举：别让用户费劲学新 App，只需在他们不知不觉中让现有聊天变得更智能。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 160
+    "unique_authors": 158
   }
 }

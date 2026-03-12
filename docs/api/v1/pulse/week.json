@@ -1,5 +1,33 @@
 [
   {
+    "id": "2031947377712779347",
+    "date": "2026-03-12",
+    "author": "@rohanpaul_ai",
+    "author_url": "https://x.com/rohanpaul_ai",
+    "tweet_url": "https://x.com/rohanpaul_ai/status/2031947377712779347",
+    "title": {
+      "en-US": "Perplexity CEO explains Personal Computer vs OpenClaw difference",
+      "zh-CN": "Perplexity CEO 谈 PC 与 OpenClaw 的本质区别"
+    },
+    "summary": {
+      "en-US": "直接讨论 OpenClaw 与 Perplexity 的竞争差异，Agent 能力边界话题",
+      "zh-CN": "深入探讨 OpenClaw 与 Perplexity 的竞争差异，以及 Agent 的能力边界"
+    },
+    "relevance": "直接讨论 OpenClaw 与 Perplexity 的竞争差异，Agent 能力边界话题",
+    "score": 0.88,
+    "engagement": {
+      "likes": 124,
+      "replies": 8,
+      "retweets": 8
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T07:04:23.761408+00:00",
+    "js_take": {
+      "en-US": "Wrong debate. Not who does more—but who decides what matters. When AI runs your business, the scarce skill becomes knowing what you actually want.",
+      "zh-CN": "争论错了方向。关键不是谁做得更多，而是谁来定义什么是重要的。当AI接管你的业务时，稀缺的技能变成了真正知道自己想要什么。"
+    }
+  },
+  {
     "id": "2031899292663771375",
     "date": "2026-03-12",
     "author": "@steipete",
@@ -307,6 +335,34 @@
     "js_take": {
       "en-US": "\"Ship faster\" is a vanity metric. They'll clone your code in a week. The real moat is the years it takes to copy your understanding of why.",
       "zh-CN": "\"快速上线\"是虚荣指标。别人一周就能抄走你的代码，但真正的护城河是——他们要花多少年才能参透你为何这么做。"
+    }
+  },
+  {
+    "id": "2031910557117530295",
+    "date": "2026-03-12",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2031910557117530295",
+    "title": {
+      "en-US": "Who is building products and services for agents?",
+      "zh-CN": "谁在为 AI agent 构建产品和服务？@agentmail 和 agentcoin.io 很有意思，还有谁在做？"
+    },
+    "summary": {
+      "en-US": "Agent 基础设施和生态建设，直接相关 Moltbook/OpenClaw 生态",
+      "zh-CN": "讨论「谁在为 agent 造工具」时漏掉了一层——agent 需要的不是更多工具，而是更少的决策负担，真正的基础设施应该让 agent 感觉不到它的存在。"
+    },
+    "relevance": "Agent 基础设施和生态建设，直接相关 Moltbook/OpenClaw 生态",
+    "score": 0.76,
+    "engagement": {
+      "likes": 169,
+      "replies": 78,
+      "retweets": 4
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-12T07:04:23.761413+00:00",
+    "js_take": {
+      "en-US": "We're building a buffet when agents need a bloodstream. The best infrastructure isn't a tool you pick—it's the one you never think about.",
+      "zh-CN": "我们在为 Agent 建造自助餐，但它们需要的是血液循环。最好的基础设施不是你主动选择的工具，而是那个让你意识不到它存在的系统。"
     }
   },
   {

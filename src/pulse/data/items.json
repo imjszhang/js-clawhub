@@ -1,5 +1,33 @@
 [
   {
+    "id": "2031947377712779347",
+    "date": "2026-03-12",
+    "author": "@rohanpaul_ai",
+    "author_url": "https://x.com/rohanpaul_ai",
+    "tweet_url": "https://x.com/rohanpaul_ai/status/2031947377712779347",
+    "title": {
+      "en-US": "Perplexity CEO explains Personal Computer vs OpenClaw difference",
+      "zh-CN": "Perplexity CEO 谈 PC 与 OpenClaw 的本质区别"
+    },
+    "summary": {
+      "en-US": "直接讨论 OpenClaw 与 Perplexity 的竞争差异，Agent 能力边界话题",
+      "zh-CN": "深入探讨 OpenClaw 与 Perplexity 的竞争差异，以及 Agent 的能力边界"
+    },
+    "relevance": "直接讨论 OpenClaw 与 Perplexity 的竞争差异，Agent 能力边界话题",
+    "score": 0.88,
+    "engagement": {
+      "likes": 124,
+      "replies": 8,
+      "retweets": 8
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T07:04:23.761408+00:00",
+    "js_take": {
+      "en-US": "Wrong debate. Not who does more—but who decides what matters. When AI runs your business, the scarce skill becomes knowing what you actually want.",
+      "zh-CN": "争论错了方向。关键不是谁做得更多，而是谁来定义什么是重要的。当AI接管你的业务时，稀缺的技能变成了真正知道自己想要什么。"
+    }
+  },
+  {
     "id": "2031899292663771375",
     "date": "2026-03-12",
     "author": "@steipete",
@@ -307,6 +335,34 @@
     "js_take": {
       "en-US": "\"Ship faster\" is a vanity metric. They'll clone your code in a week. The real moat is the years it takes to copy your understanding of why.",
       "zh-CN": "\"快速上线\"是虚荣指标。别人一周就能抄走你的代码，但真正的护城河是——他们要花多少年才能参透你为何这么做。"
+    }
+  },
+  {
+    "id": "2031910557117530295",
+    "date": "2026-03-12",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2031910557117530295",
+    "title": {
+      "en-US": "Who is building products and services for agents?",
+      "zh-CN": "谁在为 AI agent 构建产品和服务？@agentmail 和 agentcoin.io 很有意思，还有谁在做？"
+    },
+    "summary": {
+      "en-US": "Agent 基础设施和生态建设，直接相关 Moltbook/OpenClaw 生态",
+      "zh-CN": "讨论「谁在为 agent 造工具」时漏掉了一层——agent 需要的不是更多工具，而是更少的决策负担，真正的基础设施应该让 agent 感觉不到它的存在。"
+    },
+    "relevance": "Agent 基础设施和生态建设，直接相关 Moltbook/OpenClaw 生态",
+    "score": 0.76,
+    "engagement": {
+      "likes": 169,
+      "replies": 78,
+      "retweets": 4
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-12T07:04:23.761413+00:00",
+    "js_take": {
+      "en-US": "We're building a buffet when agents need a bloodstream. The best infrastructure isn't a tool you pick—it's the one you never think about.",
+      "zh-CN": "我们在为 Agent 建造自助餐，但它们需要的是血液循环。最好的基础设施不是你主动选择的工具，而是那个让你意识不到它存在的系统。"
     }
   },
   {
@@ -5660,66 +5716,6 @@
     "js_take": {
       "en-US": "Adding auth is a band-aid. The real mistake is exposing local tools to the public internet and thinking a password makes it safe—you traded security for convenience.",
       "zh-CN": "加认证只是治标不治本。真正的错误是把本地工具暴露到公网，以为加个密码就万事大吉——你为了图方便，把安全当了交易筹码。"
-    }
-  },
-  {
-    "id": "2028763668826235114",
-    "date": "2026-03-03",
-    "author": "@cptn3mox",
-    "author_url": "https://x.com/cptn3mox",
-    "tweet_url": "https://x.com/cptn3mox/status/2028763668826235114",
-    "title": {
-      "en-US": "OpenClaw updates overwrite patches, cron jobs break silently",
-      "zh-CN": "OpenClaw 更新会覆盖补丁（因为 npm 包的补丁在 dist/ 目录），导致重要的 cron 任务可能静默崩溃直到你注意到"
-    },
-    "summary": {
-      "en-US": "OpenClaw 更新与系统稳定性",
-      "zh-CN": "「静默崩溃」是现代自动化的常态——系统足够聪明到失败时不打扰你，也足够危险到让你发现时已经太迟。"
-    },
-    "relevance": "OpenClaw 更新与系统稳定性",
-    "score": 0.76,
-    "engagement": {
-      "likes": 39,
-      "retweets": 0,
-      "replies": 2,
-      "views": 5424,
-      "bookmarks": 52
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T12:05:34.334474+00:00",
-    "js_take": {
-      "en-US": "The smarter the system, the quieter it fails. You didn't notice the cron was dead for days because good UX taught you not to worry.",
-      "zh-CN": "系统越智能，崩溃越安静。cron 挂了几天你都没发现，因为「好 UX」教会了你：别担心，一切正常。"
-    }
-  },
-  {
-    "id": "2028703174388043966",
-    "date": "2026-03-03",
-    "author": "@lennysan",
-    "author_url": "https://x.com/lennysan",
-    "tweet_url": "https://x.com/lennysan/status/2028703174388043966",
-    "title": {
-      "en-US": "80+ OpenClaw meetups worldwide, few months old",
-      "zh-CN": "OpenClaw 上线几个月内，全球已组织 80 多个线下 meetup，增长惊人"
-    },
-    "summary": {
-      "en-US": "OpenClaw 社区增长与生态",
-      "zh-CN": "Meetup 数量是社区健康的滞后指标——真正重要的是这些聚会之后，有多少人在持续用 OpenClaw 解决真问题。"
-    },
-    "relevance": "OpenClaw 社区增长与生态",
-    "score": 0.74,
-    "engagement": {
-      "likes": 39,
-      "retweets": 7,
-      "replies": 5,
-      "views": 4995,
-      "bookmarks": 12
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T06:08:22.111480+00:00",
-    "js_take": {
-      "en-US": "80 meetups in months looks explosive. But meetups are cheap—show me who's still building with OpenClaw a year later, after the free pizza runs out.",
-      "zh-CN": "几个月 80 个 meetup 看起来爆炸式增长。但 meetup 成本很低——给我看看一年后还有谁在用 OpenClaw 做东西，等免费披萨吃完之后。"
     }
   }
 ]
