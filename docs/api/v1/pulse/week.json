@@ -392,6 +392,35 @@
     }
   },
   {
+    "id": "2031796743189438656",
+    "date": "2026-03-12",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2031796743189438656",
+    "title": {
+      "en-US": "They're building OpenClaw",
+      "zh-CN": "Matthew Berman简短评论「他们在构建OpenClaw」。"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent生态 / 平台竞争",
+      "zh-CN": "每个人都在说「他们在构建XX」，却没意识到真正的迁移不是从A到B，而是从「使用应用」到「拥有代理」。表世界正在成为里世界的数据库。"
+    },
+    "relevance": "OpenClaw / Agent生态 / 平台竞争",
+    "score": 0.71,
+    "engagement": {
+      "likes": 439,
+      "replies": 39,
+      "retweets": 17,
+      "views": 55703
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T03:08:28.523456+00:00",
+    "js_take": {
+      "en-US": "Not who builds OpenClaw. Why we need it. Sites are becoming databases. Agents are becoming interfaces. That's the real migration.",
+      "zh-CN": "重点不是谁开发了 OpenClaw，而是我们为什么需要它。网站正在退化为数据库，而 Agent 正在成为新的交互界面——这才是真正的范式转移。"
+    }
+  },
+  {
     "id": "2031457206110228736",
     "date": "2026-03-11",
     "author": "@gregisenberg",

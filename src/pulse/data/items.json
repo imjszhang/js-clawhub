@@ -392,6 +392,35 @@
     }
   },
   {
+    "id": "2031796743189438656",
+    "date": "2026-03-12",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2031796743189438656",
+    "title": {
+      "en-US": "They're building OpenClaw",
+      "zh-CN": "Matthew Berman简短评论「他们在构建OpenClaw」。"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent生态 / 平台竞争",
+      "zh-CN": "每个人都在说「他们在构建XX」，却没意识到真正的迁移不是从A到B，而是从「使用应用」到「拥有代理」。表世界正在成为里世界的数据库。"
+    },
+    "relevance": "OpenClaw / Agent生态 / 平台竞争",
+    "score": 0.71,
+    "engagement": {
+      "likes": 439,
+      "replies": 39,
+      "retweets": 17,
+      "views": 55703
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T03:08:28.523456+00:00",
+    "js_take": {
+      "en-US": "Not who builds OpenClaw. Why we need it. Sites are becoming databases. Agents are becoming interfaces. That's the real migration.",
+      "zh-CN": "重点不是谁开发了 OpenClaw，而是我们为什么需要它。网站正在退化为数据库，而 Agent 正在成为新的交互界面——这才是真正的范式转移。"
+    }
+  },
+  {
     "id": "2031457206110228736",
     "date": "2026-03-11",
     "author": "@gregisenberg",
@@ -5697,36 +5726,6 @@
     "js_take": {
       "en-US": "15k stars for 100 pre-built answers. What they don't tell you: your problem probably isn't in those 100.",
       "zh-CN": "15k stars 换 100 个预设答案。但他们没告诉你的是：你的问题可能根本不在那 100 个里面。"
-    }
-  },
-  {
-    "id": "2028691315832357260",
-    "date": "2026-03-03",
-    "author": "@rohanpaul_ai",
-    "author_url": "https://x.com/rohanpaul_ai",
-    "tweet_url": "https://x.com/rohanpaul_ai/status/2028691315832357260",
-    "title": {
-      "en-US": "OpenClaw real-time 3D reasoning for robots",
-      "zh-CN": "OpenClaw 在 Unitree G1 人形机器人上实现实时 3D 推理，创建动态体素地图追踪物体"
-    },
-    "summary": {
-      "en-US": "OpenClaw 具身智能与空间感知",
-      "zh-CN": "从代码到物理世界的跨越不只是增加传感器——是责任边界的彻底转移，代码出错可以回滚，机器人出错可能造成物理伤害。"
-    },
-    "relevance": "OpenClaw 具身智能与空间感知",
-    "score": 0.72,
-    "engagement": {
-      "likes": 48,
-      "retweets": 4,
-      "replies": 5,
-      "views": 3359,
-      "bookmarks": 19
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T06:08:22.111482+00:00",
-    "js_take": {
-      "en-US": "OpenClaw can \"see\" in 3D now. Cool. But when it misjudges distance and your drone crashes through a window, who's picking up the bill? Code bugs don't break glass.",
-      "zh-CN": "OpenClaw 现在能「看见」3D 了。挺酷的。但当它误判距离、你的无人机撞穿窗户时，谁来买单？代码 bug 不会打碎玻璃。"
     }
   }
 ]
