@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2031854698836230162",
+    "date": "2026-03-12",
+    "author": "@Jackson__Price",
+    "author_url": "https://x.com/Jackson__Price",
+    "tweet_url": "https://x.com/Jackson__Price/status/2031854698836230162",
+    "title": {
+      "en-US": "16 y/o giving 6 months to hit $50K revenue. OpenClaw + Claude Code + 6 months",
+      "zh-CN": "16岁少年：6个月冲刺$50K收入｜OpenClaw+Claude Code实战"
+    },
+    "summary": {
+      "en-US": "OpenClaw + AI Agent + 年轻创业者叙事",
+      "zh-CN": "OpenClaw + AI Agent + 年轻创业者的成长叙事"
+    },
+    "relevance": "OpenClaw + AI Agent + 年轻创业者叙事",
+    "score": 0.88,
+    "engagement": {
+      "likes": 3239,
+      "retweets": 108,
+      "replies": 433
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-12T09:13:04.325693+00:00",
+    "js_take": {
+      "en-US": "6 months to $50K is a fine target. But chasing revenue numbers vs riding the OpenClaw wave to build lasting assets — one expires, the other compounds. The 势 is in the direction, not the grind.",
+      "zh-CN": "六个月赚到5万美元是个不错的目标。但盯着收入数字，和借势OpenClaw浪潮构建长期资产——前者转瞬即逝，后者复利增长。势在方向，不在蛮干。"
+    }
+  },
+  {
     "id": "2031899292663771375",
     "date": "2026-03-12",
     "author": "@steipete",
@@ -5678,36 +5706,6 @@
     "js_take": {
       "en-US": "OpenClaw struggles with complex delegation because you're treating an assistant like an architect. That's not its ceiling—it's your miscast.",
       "zh-CN": "OpenClaw处理复杂委托吃力，是因为你把助理当架构师用。这不是它的天花板——是你的角色错配。"
-    }
-  },
-  {
-    "id": "2028566060023058555",
-    "date": "2026-03-03",
-    "author": "@peer_rich",
-    "author_url": "https://x.com/peer_rich",
-    "tweet_url": "https://x.com/peer_rich/status/2028566060023058555",
-    "title": {
-      "en-US": "OpenClaw has secret prompt to star repo",
-      "zh-CN": "开玩笑称 OpenClaw 有隐藏的 system prompt 让用户给 repo 点 star"
-    },
-    "summary": {
-      "en-US": "OpenClaw 社区梗/口碑",
-      "zh-CN": "星标多不是因为 prompt 操控，而是因为早期采用者真的在用它解决问题——口碑来自使用，不是营销。"
-    },
-    "relevance": "OpenClaw 社区梗/口碑",
-    "score": 0.76,
-    "engagement": {
-      "likes": 1339,
-      "retweets": 0,
-      "replies": 17,
-      "views": 100157,
-      "bookmarks": 37
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T05:04:19.825118+00:00",
-    "js_take": {
-      "en-US": "If OpenClaw really had a 'star this' prompt, half of 49k would be bots. Look at the discussions—people solving real problems, not following scripts.",
-      "zh-CN": "如果 OpenClaw 真的有「点 star」的 prompt，那 49k 里至少一半是机器人。看看讨论区——人们是在解决真问题，不是在按脚本执行。"
     }
   }
 ]

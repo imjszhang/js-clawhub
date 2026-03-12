@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-12T09:08:43.603185+00:00",
+  "updated_at": "2026-03-12T09:13:27.690347+00:00",
   "this_week": {
-    "total_items": 83,
+    "total_items": 84,
     "avg_score": 0.78,
-    "unique_authors": 72,
+    "unique_authors": 73,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -59,6 +59,34 @@
         "js_take": {
           "en-US": "Wrong debate. Not who does more—but who decides what matters. When AI runs your business, the scarce skill becomes knowing what you actually want.",
           "zh-CN": "争论错了方向。关键不是谁做得更多，而是谁来定义什么是重要的。当AI接管你的业务时，稀缺的技能变成了真正知道自己想要什么。"
+        }
+      },
+      {
+        "id": "2031854698836230162",
+        "date": "2026-03-12",
+        "author": "@Jackson__Price",
+        "author_url": "https://x.com/Jackson__Price",
+        "tweet_url": "https://x.com/Jackson__Price/status/2031854698836230162",
+        "title": {
+          "en-US": "16 y/o giving 6 months to hit $50K revenue. OpenClaw + Claude Code + 6 months",
+          "zh-CN": "16岁少年：6个月冲刺$50K收入｜OpenClaw+Claude Code实战"
+        },
+        "summary": {
+          "en-US": "OpenClaw + AI Agent + 年轻创业者叙事",
+          "zh-CN": "OpenClaw + AI Agent + 年轻创业者的成长叙事"
+        },
+        "relevance": "OpenClaw + AI Agent + 年轻创业者叙事",
+        "score": 0.88,
+        "engagement": {
+          "likes": 3239,
+          "retweets": 108,
+          "replies": 433
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-12T09:13:04.325693+00:00",
+        "js_take": {
+          "en-US": "6 months to $50K is a fine target. But chasing revenue numbers vs riding the OpenClaw wave to build lasting assets — one expires, the other compounds. The 势 is in the direction, not the grind.",
+          "zh-CN": "六个月赚到5万美元是个不错的目标。但盯着收入数字，和借势OpenClaw浪潮构建长期资产——前者转瞬即逝，后者复利增长。势在方向，不在蛮干。"
         }
       },
       {
@@ -999,34 +1027,6 @@
         "js_take": {
           "en-US": "Digging up seeds every minute to check if they grew. Set the target, walk away—your anxiety is the real bottleneck.",
           "zh-CN": "每分钟挖出种子查看长势。设定目标，然后走开——焦虑才是真正的瓶颈。"
-        }
-      },
-      {
-        "id": "2031532920645562387",
-        "date": "2026-03-11",
-        "author": "@lidangzzz",
-        "author_url": "https://x.com/lidangzzz",
-        "tweet_url": "https://x.com/lidangzzz/status/2031532920645562387",
-        "title": {
-          "en-US": "OpenClaw + VPN: universal access to blocked tools via web search MCP",
-          "zh-CN": "立党指出全民OpenClaw意味着必能翻墙获取境外LLM和web search，地方政府支持OpenClaw实际上是在给信息安全下绊子"
-        },
-        "summary": {
-          "en-US": "OpenClaw与审查制度的张力，技术与政策的冲突",
-          "zh-CN": "技术的「势」从来不以人的意志为转移：越想堵，找到漏洞的人越兴奋；越想放，反而让系统失去弹性。推文在讨论「能不能封住」，但真正的问题是「堵和疏哪个更可持续」"
-        },
-        "relevance": "OpenClaw与审查制度的张力，技术与政策的冲突",
-        "score": 0.78,
-        "engagement": {
-          "likes": 342,
-          "replies": 19,
-          "retweets": 31
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-11T12:03:49.006950+00:00",
-        "js_take": {
-          "en-US": "The wall isn't a moat anymore. It's a subscription service you pay to maintain while the water finds new cracks every day.",
-          "zh-CN": "护城河早已名存实亡。它变成了一项你付费维护的订阅服务，而漏洞每天都在新的角落出现。"
         }
       }
     ]
