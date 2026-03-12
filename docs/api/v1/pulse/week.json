@@ -564,6 +564,36 @@
     }
   },
   {
+    "id": "2032013091915854125",
+    "date": "2026-03-12",
+    "author": "@ClawiAi",
+    "author_url": "https://x.com/ClawiAi",
+    "tweet_url": "https://x.com/ClawiAi/status/2032013091915854125",
+    "title": {
+      "en-US": "OpenClaw ACP supports Claude Code, OpenCode, Gemini CLI",
+      "zh-CN": "OpenClaw 通过 ACP 协议支持 Claude Code、OpenCode、Gemini CLI 等编码代理框架"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台/Agent互操作性/开发者体验",
+      "zh-CN": "当每个AI公司都想让你留在他们的生态里时，OpenClaw在做的是让工具之间能「对话」。这不是功能，是一种底层哲学：工具应该适应人的工作流，而不是让人去适应工具。"
+    },
+    "relevance": "OpenClaw平台/Agent互操作性/开发者体验",
+    "score": 0.75,
+    "engagement": {
+      "likes": 12,
+      "replies": 0,
+      "retweets": 1,
+      "views": 2166,
+      "bookmarks": 3
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-12T11:06:42.687170+00:00",
+    "js_take": {
+      "en-US": "Everyone builds walled gardens. OpenClaw builds gates between them. Surface tools become databases; inner agents become the interface. This is the migration happening in real time.",
+      "zh-CN": "人人都在建造围墙花园，而OpenClaw却在它们之间搭建门户。表层工具退化为数据库，里层智能体成为新交互界面。表世界向里世界的迁徙，正在实时发生。"
+    }
+  },
+  {
     "id": "2031716385559298081",
     "date": "2026-03-12",
     "author": "@chaomeigu_com",
