@@ -380,6 +380,7 @@ export default function register(api) {
         const sources = blogSources();
         let totalImported = 0;
         let totalSkipped = 0;
+        let totalDrafts = 0;
 
         for (const src of sources) {
           if (!src.available) {
@@ -395,12 +396,13 @@ export default function register(api) {
             const result = blogImport(src.id, { dryRun });
             totalImported += result.imported;
             totalSkipped += result.skipped;
-            log(`  ${src.id}: 导入 ${result.imported}, 跳过 ${result.skipped}`);
+            totalDrafts += result.drafts || 0;
+            log(`  ${src.id}: 导入 ${result.imported}, 跳过 ${result.skipped}${result.drafts ? `, draft ${result.drafts}` : ''}`);
           } catch (err) {
             log(`  ${src.id}: 导入失败 — ${err.message}`);
           }
         }
-        log(`  合计: 导入 ${totalImported}, 跳过 ${totalSkipped}`);
+        log(`  合计: 导入 ${totalImported}, 跳过 ${totalSkipped}${totalDrafts ? `, draft ${totalDrafts}` : ''}`);
 
         // Step 2: Translate
         let translateResult = null;
