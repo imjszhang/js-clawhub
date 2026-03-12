@@ -493,6 +493,141 @@ export default function register(api) {
   });
 
   // ---------------------------------------------------------------------------
+  // Tool: clawhub_pulse_auto_sync (cron target)
+  // ---------------------------------------------------------------------------
+
+  api.registerTool({
+    name: "clawhub_pulse_auto_sync",
+    label: "ClawHub: Pulse Auto Sync",
+    description:
+      "自动同步 Pulse：从 js-moltbook 拉取最新 Pulse 数据、构建站点、提交并推送。" +
+      "供 cron 定时任务调用，也可手动触发。",
+    parameters: {
+      type: "object",
+      properties: {
+        dryRun: {
+          type: "boolean",
+          description: "预览模式，不实际写入/提交。默认 false。",
+        },
+        skipBuild: {
+          type: "boolean",
+          description: "跳过构建步骤。默认 false。",
+        },
+        skipPush: {
+          type: "boolean",
+          description: "跳过推送步骤。默认 false。",
+        },
+      },
+    },
+    async execute(_toolCallId, params) {
+      const dryRun = params.dryRun ?? false;
+      const skipBuild = params.skipBuild ?? false;
+      const skipPush = params.skipPush ?? false;
+
+      const lines = [];
+      const log = (msg) => lines.push(msg);
+
+      try {
+        log("── 同步仓库 ──");
+        try {
+          const { gitPullRebase, gitStatus } = await import("../cli/lib/git.js");
+          const status = gitStatus();
+          const pullResult = gitPullRebase("origin", status.branch);
+          log(`  已拉取 origin/${pullResult.branch} (rebase, autostash)`);
+        } catch (err) {
+          log(`  拉取失败: ${err.message}`);
+        }
+
+        log("\n── Pulse 拉取 ──");
+        const { pull } = await import("../cli/lib/puller.js");
+        const source = pluginCfg.moltbookPath || undefined;
+        let pullResult;
+        try {
+          pullResult = pull({ source, type: "pulse", dryRun });
+          const pulseItems = pullResult.pulse?.items ?? 0;
+          const excluded = pullResult.pulse?.excluded ?? 0;
+          log(`  Items: ${pulseItems}, 排除: ${excluded}`);
+        } catch (err) {
+          log(`  拉取失败: ${err.message}`);
+          log("\n── 完成（拉取失败） ──");
+          return textResult(lines.join("\n"));
+        }
+
+        const {
+          gitStatus, gitAddAll, gitDiffStat, gitCommit, gitPush,
+          generateCommitMessage,
+        } = await import("../cli/lib/git.js");
+
+        gitAddAll();
+        const { files } = gitDiffStat();
+        const hasChanges = files.length > 0;
+
+        if (!hasChanges) {
+          log("\n── 无变更，跳过构建和提交 ──");
+        }
+
+        let buildResult = null;
+        if (!skipBuild && hasChanges && !dryRun) {
+          log("\n── 构建站点 ──");
+          try {
+            const { build } = await import("../cli/lib/builder.js");
+            buildResult = build({ clean: true });
+            log(`  构建完成: ${buildResult.filesCopied ?? 0} 个文件`);
+          } catch (err) {
+            log(`  构建失败: ${err.message}`);
+          }
+        } else if (skipBuild) {
+          log("\n── 构建站点 ── 已跳过");
+        }
+
+        let commitResult = null;
+        if (hasChanges && !dryRun) {
+          log("\n── 提交推送 ──");
+          try {
+            if (buildResult) {
+              gitAddAll();
+            }
+            const diff = gitDiffStat();
+            if (diff.files.length === 0) {
+              log("  无变更，跳过提交");
+            } else {
+              const message = generateCommitMessage(diff.files);
+              const { hash } = gitCommit(message);
+              commitResult = { hash, message, files: diff.files.length };
+              log(`  已提交: ${message} (${hash.slice(0, 7)})`);
+
+              if (!skipPush) {
+                const status = gitStatus();
+                gitPush("origin", status.branch);
+                log(`  已推送到 origin/${status.branch}`);
+              } else {
+                log("  推送已跳过");
+              }
+            }
+          } catch (err) {
+            log(`  提交/推送失败: ${err.message}`);
+          }
+        }
+
+        log("");
+        log("── 完成 ──");
+        const summary = {
+          pulseItems: pullResult.pulse?.items ?? 0,
+          excluded: pullResult.pulse?.excluded ?? 0,
+          built: !!buildResult,
+          committed: !!commitResult,
+          dryRun,
+        };
+        log(JSON.stringify(summary));
+
+        return textResult(lines.join("\n"));
+      } catch (err) {
+        return textResult(`Pulse 自动同步失败: ${err.message}`);
+      }
+    },
+  });
+
+  // ---------------------------------------------------------------------------
   // CLI: openclaw hub {search|stats|projects|skills|blog|pulse|build|pull|sync}
   // ---------------------------------------------------------------------------
 
@@ -688,12 +823,30 @@ export default function register(api) {
 
       hub
         .command("setup-cron")
-        .description("配置博客自动同步的 cron 定时任务（导入 + 翻译 + 构建 + 推送）")
+        .description("配置自动同步的 cron 定时任务（blog 或 pulse）")
+        .option("--type <type>", "同步类型: blog | pulse", "blog")
         .option("--every <minutes>", "执行间隔（分钟）", String(pluginCfg.cron?.defaultInterval ?? 120))
         .option("--tz <timezone>", "时区（IANA）", pluginCfg.cron?.timezone ?? "Asia/Shanghai")
         .option("--remove", "移除定时任务")
         .action(async (opts) => {
-          const JOB_NAME = "clawhub-blog-sync";
+          const CRON_PRESETS = {
+            blog: {
+              jobName: "clawhub-blog-sync",
+              message: "执行 ClawHub 博客自动同步：导入所有源的新文章，翻译未翻译文章，构建并推送站点。",
+            },
+            pulse: {
+              jobName: "clawhub-pulse-sync",
+              message: "执行 ClawHub Pulse 自动同步：从 js-moltbook 拉取最新 Pulse 数据，构建并推送站点。",
+            },
+          };
+
+          const preset = CRON_PRESETS[opts.type];
+          if (!preset) {
+            console.error(`  错误: --type 必须为 blog 或 pulse，收到: ${opts.type}`);
+            return;
+          }
+
+          const JOB_NAME = preset.jobName;
           const openclawBin = process.argv[0];
           const openclawEntry = process.argv[1];
 
@@ -724,7 +877,7 @@ export default function register(api) {
             const existing = jobs.find((j) => j.name === JOB_NAME);
             if (existing) {
               console.log(`\n  定时任务 "${JOB_NAME}" 已存在 (${existing.id})。`);
-              console.log(`  如需重新配置，请先执行: openclaw hub setup-cron --remove\n`);
+              console.log(`  如需重新配置，请先执行: openclaw hub setup-cron --type ${opts.type} --remove\n`);
               return;
             }
 
@@ -734,20 +887,27 @@ export default function register(api) {
               return;
             }
 
-            const cronExpr = `*/${minutes} * * * *`;
+            let cronExpr;
+            if (minutes < 60) {
+              cronExpr = `*/${minutes} * * * *`;
+            } else {
+              const hours = Math.round(minutes / 60);
+              cronExpr = `0 */${hours} * * *`;
+            }
             const result = runOcCron([
               "add",
               "--name", JOB_NAME,
               "--cron", cronExpr,
               "--tz", opts.tz,
               "--session", "isolated",
-              "--message", "执行 ClawHub 博客自动同步：导入所有源的新文章，翻译未翻译文章，构建并推送站点。",
+              "--message", preset.message,
               "--thinking", "minimal",
               "--json",
             ]);
 
             const job = JSON.parse(result);
             console.log(`\n  定时任务已创建`);
+            console.log(`    类型: ${opts.type}`);
             console.log(`    名称: ${job.name}`);
             console.log(`    ID:   ${job.id}`);
             console.log(`    调度: 每 ${minutes} 分钟`);
