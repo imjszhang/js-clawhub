@@ -1,5 +1,61 @@
 [
   {
+    "id": "2032052734460125475",
+    "date": "2026-03-13",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2032052734460125475",
+    "title": {
+      "en-US": "OpenClaw agents join scrum meetings, report progress real-time",
+      "zh-CN": "OpenClaw agent 现在可以参加每日站会并实时汇报进度"
+    },
+    "summary": {
+      "en-US": "OpenClow agent 工作流自动化、人机协作新形态",
+      "zh-CN": "这条推文暗示「更多同步会议 = 更好的 AI 协作」，但问题在于：我们真正需要的是 agent 的自主汇报，还是让它们自己决定何时汇报、向谁汇报。过度设计「站会」这种人类仪式，恰恰是把 agent 关进了人的流程牢笼。"
+    },
+    "relevance": "OpenClow agent 工作流自动化、人机协作新形态",
+    "score": 0.78,
+    "engagement": {
+      "likes": 661,
+      "replies": 51,
+      "retweets": 40
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-12T17:12:26.598915+00:00",
+    "js_take": {
+      "en-US": "Forcing agents into standups is optimizing the wrong thing. Real autonomy means they ship without asking permission — not better status updates.",
+      "zh-CN": "强迫Agent参加站会，是在优化错误的方向。真正的自主性，是无需请示就能发布成果——而不是把状态报告写得更好。"
+    }
+  },
+  {
+    "id": "2032115802271596689",
+    "date": "2026-03-13",
+    "author": "@businessbarista",
+    "author_url": "https://x.com/businessbarista",
+    "tweet_url": "https://x.com/businessbarista/status/2032115802271596689",
+    "title": {
+      "en-US": "OpenClaw agent Felix runs business, made $300K in a month",
+      "zh-CN": "OpenClaw agent Felix 独立运营业务，一个月创收30万美元"
+    },
+    "summary": {
+      "en-US": "OpenClaw agent 商业化、自主 agent 经济价值验证",
+      "zh-CN": "大家都在惊叹「agent 能赚钱了」，但忽略了核心变量：是 agent 变强了，还是 Nat Eliason 给了它 Stripe 账户和明确目标。很多人把「工具的能力」误当成「系统的胜利」，却忘了那个关键前提——没有战略方向的 agent，只是更快的搬砖机器。"
+    },
+    "relevance": "OpenClaw agent 商业化、自主 agent 经济价值验证",
+    "score": 0.75,
+    "engagement": {
+      "likes": 484,
+      "replies": 48,
+      "retweets": 30
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-12T17:12:26.598921+00:00",
+    "js_take": {
+      "en-US": "$300K in a month. But remove Nat's Stripe account and clear goal — what happens? Tools scale execution. Strategy creates the multiplier. Most have better tools than Felix, worse systems.",
+      "zh-CN": "月入30万美元。但拿掉Nat的Stripe账户和清晰目标呢？工具放大执行，策略创造杠杆。多数人工具比Felix先进，系统却比Felix糟糕。"
+    }
+  },
+  {
     "id": "2032017325449269603",
     "date": "2026-03-12",
     "author": "@hooeem",

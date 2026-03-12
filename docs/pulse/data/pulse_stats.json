@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-12T15:04:48.630035+00:00",
+  "updated_at": "2026-03-12T17:12:45.098654+00:00",
   "this_week": {
-    "total_items": 93,
+    "total_items": 95,
     "avg_score": 0.78,
-    "unique_authors": 79,
+    "unique_authors": 80,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -861,6 +861,34 @@
         }
       },
       {
+        "id": "2032052734460125475",
+        "date": "2026-03-13",
+        "author": "@RoundtableSpace",
+        "author_url": "https://x.com/RoundtableSpace",
+        "tweet_url": "https://x.com/RoundtableSpace/status/2032052734460125475",
+        "title": {
+          "en-US": "OpenClaw agents join scrum meetings, report progress real-time",
+          "zh-CN": "OpenClaw agent 现在可以参加每日站会并实时汇报进度"
+        },
+        "summary": {
+          "en-US": "OpenClow agent 工作流自动化、人机协作新形态",
+          "zh-CN": "这条推文暗示「更多同步会议 = 更好的 AI 协作」，但问题在于：我们真正需要的是 agent 的自主汇报，还是让它们自己决定何时汇报、向谁汇报。过度设计「站会」这种人类仪式，恰恰是把 agent 关进了人的流程牢笼。"
+        },
+        "relevance": "OpenClow agent 工作流自动化、人机协作新形态",
+        "score": 0.78,
+        "engagement": {
+          "likes": 661,
+          "replies": 51,
+          "retweets": 40
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-12T17:12:26.598915+00:00",
+        "js_take": {
+          "en-US": "Forcing agents into standups is optimizing the wrong thing. Real autonomy means they ship without asking permission — not better status updates.",
+          "zh-CN": "强迫Agent参加站会，是在优化错误的方向。真正的自主性，是无需请示就能发布成果——而不是把状态报告写得更好。"
+        }
+      },
+      {
         "id": "2031795216966173145",
         "date": "2026-03-12",
         "author": "@CodeByPoonam",
@@ -1002,39 +1030,11 @@
           "en-US": "Feature comparisons are surface-world thinking. The real battle is in the inner world: which platform has developers writing skills without being paid? Ecosystem momentum beats feature parity every time.",
           "zh-CN": "功能对比是表世界思维。真正的战场在里世界：哪个平台能让开发者无偿编写技能？生态势能永远胜过功能对标。"
         }
-      },
-      {
-        "id": "2032071257789976897",
-        "date": "2026-03-12",
-        "author": "@Jacobsklug",
-        "author_url": "https://x.com/Jacobsklug",
-        "tweet_url": "https://x.com/Jacobsklug/status/2032071257789976897",
-        "title": {
-          "en-US": "Made $4.7M with AI, recorded building OpenClaw business in one hour",
-          "zh-CN": "作者声称用AI赚了470万美元，并录制了用OpenClaw在一小时内搭建业务的视频教程"
-        },
-        "summary": {
-          "en-US": "OpenClaw/AI变现/快速搭建业务",
-          "zh-CN": "'一小时搭建业务'的承诺听起来诱人，但真正的业务从来不是搭起来的，是长出来的。快速搭建的是脚手架，能留住客户、产生复利的是系统。炫'搭建速度'，恰恰说明还没遇到真正的业务问题——获客、留存、口碑、迭代。真正的增长不是比谁启动快，是比谁活得久。"
-        },
-        "relevance": "OpenClaw/AI变现/快速搭建业务",
-        "score": 0.78,
-        "engagement": {
-          "likes": 87,
-          "replies": 49,
-          "retweets": 4
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-03-12T14:05:40.965156+00:00",
-        "js_take": {
-          "en-US": "I can spin up a SaaS in 20 minutes. Keeping it alive past month 6? That's the hard part. Everyone wants to show you the starting line. Ask them about the 3-year survival rate instead.",
-          "zh-CN": "搭个SaaS，20分钟就够。但让它活过6个月？那才是硬仗。满世界都在炫耀起跑线，你该问问他们三年存活率有多少。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 160
+    "unique_authors": 159
   }
 }
