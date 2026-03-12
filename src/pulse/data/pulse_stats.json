@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-12T01:07:59.994215+00:00",
+  "updated_at": "2026-03-12T02:05:24.015852+00:00",
   "this_week": {
-    "total_items": 65,
+    "total_items": 70,
     "avg_score": 0.78,
-    "unique_authors": 59,
+    "unique_authors": 62,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -292,6 +292,34 @@
         }
       },
       {
+        "id": "2031899292663771375",
+        "date": "2026-03-12",
+        "author": "@steipete",
+        "author_url": "https://x.com/steipete",
+        "tweet_url": "https://x.com/steipete/status/2031899292663771375",
+        "title": {
+          "en-US": "Summarize 0.12.0 update, used in @openclaw. Stronger slide mode, better video switching, new transcription.",
+          "zh-CN": "Summarize 0.12.0发布，支持OpenClaw，强化了幻灯片模式和视频转录功能"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态工具更新",
+          "zh-CN": "当人们讨论功能堆叠时，忽略了真正的问题：工具越多，决策越累。所谓的'智能助手'如果增加了认知负担，就不算真正智能。"
+        },
+        "relevance": "OpenClaw生态工具更新",
+        "score": 0.83,
+        "engagement": {
+          "likes": 270,
+          "replies": 13,
+          "retweets": 21
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-12T02:04:53.517203+00:00",
+        "js_take": {
+          "en-US": "More features, more decisions, more fatigue. The best tool isn't the one with 20 new buttons—it's the one that disappears into what you actually want to do.",
+          "zh-CN": "More features, more decisions, more fatigue. The best tool isn't the one with 20 new buttons—it's the one that disappears into what you actually want to do."
+        }
+      },
+      {
         "id": "2031396200679878719",
         "date": "2026-03-11",
         "author": "@swyx",
@@ -551,6 +579,34 @@
         }
       },
       {
+        "id": "2031895504427368903",
+        "date": "2026-03-12",
+        "author": "@stash_pomichter",
+        "author_url": "https://x.com/stash_pomichter",
+        "tweet_url": "https://x.com/stash_pomichter/status/2031895504427368903",
+        "title": {
+          "en-US": "Openclaw gets access to drones, humanoids, quadrupeds. Open-sourcing everything.",
+          "zh-CN": "让OpenClaw控制无人机、人形机器人、四足机器人，全部开源"
+        },
+        "summary": {
+          "en-US": "OpenClaw物理世界扩展",
+          "zh-CN": "开源不是仁慈，是更聪明的'占有'。当你把工具交给所有人，你就定义了标准——这才是最高级的控制。"
+        },
+        "relevance": "OpenClaw物理世界扩展",
+        "score": 0.81,
+        "engagement": {
+          "likes": 210,
+          "replies": 36,
+          "retweets": 41
+        },
+        "comment_type": "provoke",
+        "synced_at": "2026-03-12T02:04:53.517209+00:00",
+        "js_take": {
+          "en-US": "Open source isn't charity. It's the smartest monopoly play—give away the foundation, let the world build your castle for free.",
+          "zh-CN": "Open source isn't charity. It's the smartest monopoly play—give away the foundation, let the world build your castle for free."
+        }
+      },
+      {
         "id": "2031668879517159474",
         "date": "2026-03-11",
         "author": "@coreyganim",
@@ -661,6 +717,34 @@
         "js_take": {
           "en-US": "Another AI gadget? No—it's the second migration. Apps become databases. Agents become the interface. You're debating specs while the surface world dissolves.",
           "zh-CN": "又一个AI小工具？不——这是第二次大迁徙。应用退化为数据库，Agent成为新界面。你还在争论参数，而表层世界正在瓦解。"
+        }
+      },
+      {
+        "id": "2031866429298131123",
+        "date": "2026-03-12",
+        "author": "@cgtwts",
+        "author_url": "https://x.com/cgtwts",
+        "tweet_url": "https://x.com/cgtwts/status/2031866429298131123",
+        "title": {
+          "en-US": "Perplexity dropped a 'secure' OpenClaw competitor",
+          "zh-CN": "Perplexity推出了一个'安全版'OpenClaw"
+        },
+        "summary": {
+          "en-US": "OpenClaw竞品分析",
+          "zh-CN": "'安全'是一个相对概念。真正的安全不是围墙有多高，而是你有没有能力在围墙内解决问题。封闭系统的'安全'往往是能力的借口。"
+        },
+        "relevance": "OpenClaw竞品分析",
+        "score": 0.78,
+        "engagement": {
+          "likes": 269,
+          "replies": 16,
+          "retweets": 8
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-12T02:04:53.517212+00:00",
+        "js_take": {
+          "en-US": "A cage is 'secure' too. But a bird that can't fly isn't a bird anymore—it's decoration.",
+          "zh-CN": "A cage is 'secure' too. But a bird that can't fly isn't a bird anymore—it's decoration."
         }
       },
       {
@@ -920,122 +1004,37 @@
         }
       },
       {
-        "id": "2031025473614983551",
-        "date": "2026-03-10",
-        "author": "@Jason",
-        "author_url": "https://x.com/Jason",
-        "tweet_url": "https://x.com/Jason/status/2031025473614983551",
+        "id": "2031791260013645885",
+        "date": "2026-03-12",
+        "author": "@morganlinton",
+        "author_url": "https://x.com/morganlinton",
+        "tweet_url": "https://x.com/morganlinton/status/2031791260013645885",
         "title": {
-          "en-US": "New agent tech dropping weekly from Notion, Google, Microsoft - staying with open source OpenClaw",
-          "zh-CN": "Notion、Google、Microsoft 都在同一周发布 agent 产品，Jason 表示会专注于让跨平台开源项目 OpenClaw 跑起来"
+          "en-US": "Perplexity announced OpenClaw competitor: Perplexity Personal Computer",
+          "zh-CN": "Perplexity发布OpenClaw竞品Perplexity Personal Computer"
         },
         "summary": {
-          "en-US": "OpenClaw 被提及，Agent 平台竞争格局讨论",
-          "zh-CN": "大厂堆功能、开源做连接——这场竞争的本质不是功能多少，而是'势'的选择：封闭生态靠复杂度锁定用户，开放协议靠网络效应自然生长。历史反复证明，后者起步慢，但一旦过了临界点，前者追不上。"
+          "en-US": "OpenClaw竞品动态",
+          "zh-CN": "竞品分析陷阱：人们总想找'更好的那个'，但真正的问题是——你更需要开放性还是易用性？选择即立场。"
         },
-        "relevance": "OpenClaw 被提及，Agent 平台竞争格局讨论",
-        "score": 0.76,
+        "relevance": "OpenClaw竞品动态",
+        "score": 0.77,
         "engagement": {
-          "likes": 200,
-          "retweets": 19,
-          "replies": 58
+          "likes": 384,
+          "replies": 21,
+          "retweets": 17
         },
         "comment_type": "reframe",
-        "synced_at": "2026-03-09T17:03:53.360919+00:00",
+        "synced_at": "2026-03-12T02:04:53.517214+00:00",
         "js_take": {
-          "en-US": "Big Tech ships features. Open source ships connections. One bets on locking users with complexity, the other on network effects. History's already picked.",
-          "zh-CN": "大厂堆砌功能，开源编织连接。一个用复杂绑架用户，一个靠网络效应生长。历史已经做出选择。"
-        }
-      },
-      {
-        "id": "2031013270891495432",
-        "date": "2026-03-10",
-        "author": "@sharbel",
-        "author_url": "https://x.com/sharbel",
-        "tweet_url": "https://x.com/sharbel/status/2031013270891495432",
-        "title": {
-          "en-US": "Build Polymarket bot with OpenClaw, zero coding",
-          "zh-CN": "用OpenClaw零代码搭建Polymarket复制交易机器人，从设置API到上线交易全流程教程"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态 - 自动化交易机器人",
-          "zh-CN": "'Zero coding'成为卖点，恰恰暴露了一个悖论：当无代码工具让所有人都能造agent，竞争优势就不再是'会造'，而是'知道造什么'。门槛从技能转移到了判断力。（更形象：用'门槛转移'的画面感解释为什么无代码≠无门槛）"
-        },
-        "relevance": "OpenClaw生态 - 自动化交易机器人",
-        "score": 0.76,
-        "engagement": {
-          "likes": 607,
-          "replies": 26,
-          "retweets": 52
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-09T20:05:49.036346+00:00",
-        "js_take": {
-          "en-US": "Zero coding doesn't mean zero barrier. The wall just moved from 'can you build' to 'do you know what to build'. Everyone can dig; few know where the gold is.",
-          "zh-CN": "零代码不等于零门槛。障碍只是从「你会不会做」变成了「你知不知道做什么」。人人都能动手挖，但知道金矿在哪的没几个。"
-        }
-      },
-      {
-        "id": "2031037813194735791",
-        "date": "2026-03-10",
-        "author": "@thetripathi58",
-        "author_url": "https://x.com/thetripathi58",
-        "tweet_url": "https://x.com/thetripathi58/status/2031037813194735791",
-        "title": {
-          "en-US": "Ghost OS: AI agent takes full control of your Mac.",
-          "zh-CN": "Ghost OS开源：一个能完全控制Mac的AI Agent，自动写代码、点击、发邮件"
-        },
-        "summary": {
-          "en-US": "AI Agent自主控制，OpenClaw生态相关",
-          "zh-CN": "对'全权控制'的兴奋恰恰暴露了一个盲区——真正的问题不是'Agent能做什么'，而是'什么时候该让它停'。没有刹车系统的加速不是进化，是失控。"
-        },
-        "relevance": "AI Agent自主控制，OpenClaw生态相关",
-        "score": 0.76,
-        "engagement": {
-          "likes": 279,
-          "replies": 15,
-          "retweets": 59
-        },
-        "comment_type": "provoke",
-        "synced_at": "2026-03-10T04:05:36.080219+00:00",
-        "js_take": {
-          "en-US": "Everyone's excited about what Ghost OS *can* do. No one's asking when it should *stop*. Full control without clear boundaries isn't power—it's a different kind of crash.",
-          "zh-CN": "所有人都在为 Ghost OS 的能力兴奋不已，却没人追问它应该在何时停止。没有清晰边界的完全掌控，不是真正的力量——而是另一种形式的崩溃。"
-        }
-      },
-      {
-        "id": "2031202928560906750",
-        "date": "2026-03-10",
-        "author": "@poezhao0605",
-        "author_url": "https://x.com/poezhao0605",
-        "tweet_url": "https://x.com/poezhao0605/status/2031202928560906750",
-        "title": {
-          "en-US": "Chinese AI companies launching OpenClaw clones",
-          "zh-CN": "智谱推出 AutoClaw 后股价跳涨 13%，中国主要 AI 公司（月之暗面、MiniMax、阿里、字节、腾讯、智谱）都已基于 OpenClaw 推出同类产品"
-        },
-        "summary": {
-          "en-US": "OpenClaw 生态与中国 AI 市场竞争",
-          "zh-CN": "做纠正：列表呈现的是「表面产品的同质化」，但真正的战场不在这里。当所有人都在抄同一个开源项目时，差异化只能来自「使用这些工具的 Agent 本身」——表层的 Claw 只是容器，里层的 Agent  Intelligence 才是胜负手。（纠正「产品同质化=竞争激烈」的误读，指出竞争维度的转移）"
-        },
-        "relevance": "OpenClaw 生态与中国 AI 市场竞争",
-        "score": 0.76,
-        "engagement": {
-          "likes": 144,
-          "retweets": 14,
-          "replies": 3,
-          "views": 9723
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-10T05:04:14.566612+00:00",
-        "js_take": {
-          "en-US": "Clones fight over the shell. The real war is inside—who builds the smarter agent, not who copies the same UI.",
-          "zh-CN": "众人在外壳上模仿厮杀，真正的较量在底层——谁能造出更聪明的Agent，而非谁复制了同样的UI。"
+          "en-US": "Tool wars are values wars. You're not picking software—you're picking what kind of human you want to become.",
+          "zh-CN": "Tool wars are values wars. You're not picking software—you're picking what kind of human you want to become."
         }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 156
+    "unique_authors": 157
   }
 }

@@ -1,5 +1,33 @@
 [
   {
+    "id": "2031899292663771375",
+    "date": "2026-03-12",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2031899292663771375",
+    "title": {
+      "en-US": "Summarize 0.12.0 update, used in @openclaw. Stronger slide mode, better video switching, new transcription.",
+      "zh-CN": "Summarize 0.12.0发布，支持OpenClaw，强化了幻灯片模式和视频转录功能"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态工具更新",
+      "zh-CN": "当人们讨论功能堆叠时，忽略了真正的问题：工具越多，决策越累。所谓的'智能助手'如果增加了认知负担，就不算真正智能。"
+    },
+    "relevance": "OpenClaw生态工具更新",
+    "score": 0.83,
+    "engagement": {
+      "likes": 270,
+      "replies": 13,
+      "retweets": 21
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T02:04:53.517203+00:00",
+    "js_take": {
+      "en-US": "More features, more decisions, more fatigue. The best tool isn't the one with 20 new buttons—it's the one that disappears into what you actually want to do.",
+      "zh-CN": "More features, more decisions, more fatigue. The best tool isn't the one with 20 new buttons—it's the one that disappears into what you actually want to do."
+    }
+  },
+  {
     "id": "2031727388669706403",
     "date": "2026-03-12",
     "author": "@wesbos",
@@ -25,6 +53,34 @@
     "js_take": {
       "en-US": "You aren't mad at bots. You're mad at the mirror—you reply the same way. The difference isn't sounding human. It's treating them as one.",
       "zh-CN": "你不是恨机器人，你是恨那面镜子——你自己回复得也差不多。关键不在于听起来像人，而在于你把它们当人看。"
+    }
+  },
+  {
+    "id": "2031895504427368903",
+    "date": "2026-03-12",
+    "author": "@stash_pomichter",
+    "author_url": "https://x.com/stash_pomichter",
+    "tweet_url": "https://x.com/stash_pomichter/status/2031895504427368903",
+    "title": {
+      "en-US": "Openclaw gets access to drones, humanoids, quadrupeds. Open-sourcing everything.",
+      "zh-CN": "让OpenClaw控制无人机、人形机器人、四足机器人，全部开源"
+    },
+    "summary": {
+      "en-US": "OpenClaw物理世界扩展",
+      "zh-CN": "开源不是仁慈，是更聪明的'占有'。当你把工具交给所有人，你就定义了标准——这才是最高级的控制。"
+    },
+    "relevance": "OpenClaw物理世界扩展",
+    "score": 0.81,
+    "engagement": {
+      "likes": 210,
+      "replies": 36,
+      "retweets": 41
+    },
+    "comment_type": "provoke",
+    "synced_at": "2026-03-12T02:04:53.517209+00:00",
+    "js_take": {
+      "en-US": "Open source isn't charity. It's the smartest monopoly play—give away the foundation, let the world build your castle for free.",
+      "zh-CN": "Open source isn't charity. It's the smartest monopoly play—give away the foundation, let the world build your castle for free."
     }
   },
   {
@@ -81,6 +137,90 @@
     "js_take": {
       "en-US": "Another AI gadget? No—it's the second migration. Apps become databases. Agents become the interface. You're debating specs while the surface world dissolves.",
       "zh-CN": "又一个AI小工具？不——这是第二次大迁徙。应用退化为数据库，Agent成为新界面。你还在争论参数，而表层世界正在瓦解。"
+    }
+  },
+  {
+    "id": "2031866429298131123",
+    "date": "2026-03-12",
+    "author": "@cgtwts",
+    "author_url": "https://x.com/cgtwts",
+    "tweet_url": "https://x.com/cgtwts/status/2031866429298131123",
+    "title": {
+      "en-US": "Perplexity dropped a 'secure' OpenClaw competitor",
+      "zh-CN": "Perplexity推出了一个'安全版'OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw竞品分析",
+      "zh-CN": "'安全'是一个相对概念。真正的安全不是围墙有多高，而是你有没有能力在围墙内解决问题。封闭系统的'安全'往往是能力的借口。"
+    },
+    "relevance": "OpenClaw竞品分析",
+    "score": 0.78,
+    "engagement": {
+      "likes": 269,
+      "replies": 16,
+      "retweets": 8
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T02:04:53.517212+00:00",
+    "js_take": {
+      "en-US": "A cage is 'secure' too. But a bird that can't fly isn't a bird anymore—it's decoration.",
+      "zh-CN": "A cage is 'secure' too. But a bird that can't fly isn't a bird anymore—it's decoration."
+    }
+  },
+  {
+    "id": "2031791260013645885",
+    "date": "2026-03-12",
+    "author": "@morganlinton",
+    "author_url": "https://x.com/morganlinton",
+    "tweet_url": "https://x.com/morganlinton/status/2031791260013645885",
+    "title": {
+      "en-US": "Perplexity announced OpenClaw competitor: Perplexity Personal Computer",
+      "zh-CN": "Perplexity发布OpenClaw竞品Perplexity Personal Computer"
+    },
+    "summary": {
+      "en-US": "OpenClaw竞品动态",
+      "zh-CN": "竞品分析陷阱：人们总想找'更好的那个'，但真正的问题是——你更需要开放性还是易用性？选择即立场。"
+    },
+    "relevance": "OpenClaw竞品动态",
+    "score": 0.77,
+    "engagement": {
+      "likes": 384,
+      "replies": 21,
+      "retweets": 17
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T02:04:53.517214+00:00",
+    "js_take": {
+      "en-US": "Tool wars are values wars. You're not picking software—you're picking what kind of human you want to become.",
+      "zh-CN": "Tool wars are values wars. You're not picking software—you're picking what kind of human you want to become."
+    }
+  },
+  {
+    "id": "2031807069444256203",
+    "date": "2026-03-12",
+    "author": "@beffjezos",
+    "author_url": "https://x.com/beffjezos",
+    "tweet_url": "https://x.com/beffjezos/status/2031807069444256203",
+    "title": {
+      "en-US": "Perplexity made a secure version of OpenClaw for personal computers",
+      "zh-CN": "Perplexity为个人电脑做了一个安全的OpenClaw版本"
+    },
+    "summary": {
+      "en-US": "OpenClaw竞品动态",
+      "zh-CN": "安全与自由是零和游戏。Perplexity选择'安全'，说明他们认为用户更需要被保护而不是被赋能——这是理解用户群体的关键线索。"
+    },
+    "relevance": "OpenClaw竞品动态",
+    "score": 0.76,
+    "engagement": {
+      "likes": 410,
+      "replies": 30,
+      "retweets": 19
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T02:04:53.517216+00:00",
+    "js_take": {
+      "en-US": "Security is freedom's price tag. Build the wall, and you've already admitted you live in a world of wolves.",
+      "zh-CN": "Security is freedom's price tag. Build the wall, and you've already admitted you live in a world of wolves."
     }
   },
   {
