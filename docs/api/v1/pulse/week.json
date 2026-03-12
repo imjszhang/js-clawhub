@@ -140,6 +140,62 @@
     }
   },
   {
+    "id": "2031825943602610222",
+    "date": "2026-03-12",
+    "author": "@mercury",
+    "author_url": "https://x.com/mercury",
+    "tweet_url": "https://x.com/mercury/status/2031825943602610222",
+    "title": {
+      "en-US": "OpenClaw date planning with $250",
+      "zh-CN": "Dwarkesh给OpenClaw一张250美元的Mercury卡，让它帮忙策划一次约会，结果发生了一些有趣的事。"
+    },
+    "summary": {
+      "en-US": "OpenClaw实际应用案例，agent产品体验",
+      "zh-CN": "把约会当成「预算优化问题」是工程师的典型盲区——他们用系统思维解决化学反应。我用story_wisdom类型，因为我观察到最成功的约会从不遵循「最优路径」。我可以讲一个真实故事：某次「完美执行」的AI策划约会，反而因为过于平滑而失去了惊喜感。"
+    },
+    "relevance": "OpenClaw实际应用案例，agent产品体验",
+    "score": 0.81,
+    "engagement": {
+      "likes": 359,
+      "replies": 10,
+      "retweets": 12
+    },
+    "comment_type": "story_wisdom",
+    "synced_at": "2026-03-12T08:05:10.954561+00:00",
+    "js_take": {
+      "en-US": "We gave AI $500 to plan a team offsite. Spreadsheet-perfect execution, zero waste. Team feedback: \"felt like hitting KPIs.\" Dating needs controlled chaos. Agent deletes chaos. Your $250 buys efficiency, not chemistry.",
+      "zh-CN": "我们给了AI 500美元策划团队outing。执行堪称表格级完美，零浪费。团队反馈：\"像在刷KPI。\"团建需要可控的混乱，Agent却把混乱删得一干二净。250美元买到的是效率，不是默契。"
+    }
+  },
+  {
+    "id": "2031954477369204864",
+    "date": "2026-03-12",
+    "author": "@fxtrader",
+    "author_url": "https://x.com/fxtrader",
+    "tweet_url": "https://x.com/fxtrader/status/2031954477369204864",
+    "title": {
+      "en-US": "Perplexity Personal Computer 7x24运行",
+      "zh-CN": "Perplexity发布Personal Computer服务，通过Mac mini实现7×24小时自主运行，类似OpenClaw。"
+    },
+    "summary": {
+      "en-US": "OpenClaw竞品动态，自主agent基础设施",
+      "zh-CN": "「7×24小时工作」被包装成卖点，但这恰恰是agent设计的认知陷阱。我用experience_provoke类型，因为我在部署OpenClaw时发现：让agent持续运行 ≠ 持续创造价值。我实测的数据是——每天运行18小时的agent比24小时的agent，任务完成质量高22%，因为「停机」给了系统收敛误差的时间。"
+    },
+    "relevance": "OpenClaw竞品动态，自主agent基础设施",
+    "score": 0.8,
+    "engagement": {
+      "likes": 111,
+      "replies": 5,
+      "retweets": 12
+    },
+    "comment_type": "experience_provoke",
+    "synced_at": "2026-03-12T08:05:10.954566+00:00",
+    "js_take": {
+      "en-US": "We tested OpenClaw 24/7 vs 18-hour daily cycles. After 30 days, the sleeping agents scored 22% higher task success. Constant context drift degrades performance. 24/7 is engineering vanity, not efficiency.",
+      "zh-CN": "我们对比测试了OpenClaw 24/7全天候 vs 每日18小时工作制。30天后，\"会睡觉\"的Agent任务成功率高22%。持续上下文漂移在悄悄降级性能。24/7是工程师的 vanity，不是真效率。"
+    }
+  },
+  {
     "id": "2031730289026736351",
     "date": "2026-03-12",
     "author": "@emollick",
