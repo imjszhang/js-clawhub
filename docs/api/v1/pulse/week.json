@@ -168,6 +168,34 @@
     }
   },
   {
+    "id": "2031775308354093272",
+    "date": "2026-03-12",
+    "author": "@corbin_braun",
+    "author_url": "https://x.com/corbin_braun",
+    "tweet_url": "https://x.com/corbin_braun/status/2031775308354093272",
+    "title": {
+      "en-US": "If you understand cloud infrastructure, then holy smokes you are having a field day with openclaw.",
+      "zh-CN": "如果你懂云基础设施，那OpenClaw简直是你的游乐场。"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心讨论 - 直接关联OpenClaw平台的技术价值",
+      "zh-CN": "技术人兴奋于「掌控复杂基础设施」，但真正的掌控是让复杂变简单。OpenClaw的价值不是给懂云的人更多玩具，而是让不懂云的人也能驾驭复杂——这才叫「无为而治」。"
+    },
+    "relevance": "OpenClaw核心讨论 - 直接关联OpenClaw平台的技术价值",
+    "score": 0.72,
+    "engagement": {
+      "likes": 144,
+      "replies": 16,
+      "retweets": 2
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T01:07:41.451941+00:00",
+    "js_take": {
+      "en-US": "Loving the knobs isn't mastery. Real power is making infrastructure vanish for everyone else.",
+      "zh-CN": "迷恋控制面板并非精通之道。真正的力量，是让基础设施在他人眼中彻底隐形。"
+    }
+  },
+  {
     "id": "2031808425458360409",
     "date": "2026-03-12",
     "author": "@Jason",
