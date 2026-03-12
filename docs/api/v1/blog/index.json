@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-03-12",
+    "title": {
+      "zh-CN": "把模板创作从“配置地狱”变成“四问引导”",
+      "en-US": "Turning Template Creation from 'Configuration Hell' into a 'Four-Question Guide'"
+    },
+    "date": "2026-03-12",
+    "summary": {
+      "zh-CN": "昨天刚把 Draft 机制的时区坑填平，今天本来想顺势多跑几个输出，结果在准备新模板时卡住了——创建一个新模板竟然要同时搞定 frontmatter、区段变量、组件引用和审校逻辑，这门槛高得离谱。与其让用户对着文档猜配置，不如直接让 LLM 来当这个“向导”，于是今天的主线任务变成了：设计一个能自动...",
+      "en-US": "After finally squashing the timezone bugs in the Draft mechanism yesterday, I planned to crank out more outputs today. Instead, I hit a wall while prepping a new template: the barrier to entry was absurdly high, requiring simultaneous setup of frontmatter, section variables, component references, and review logic. Rather than forcing users to guess configurations by scouring docs, why not let an LLM act as a guide? So, today's main mission became designing an automated..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 41
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-11",
     "title": {
       "zh-CN": "让日记自己长出来：从手动触发到无人值守的自动化跨越",
