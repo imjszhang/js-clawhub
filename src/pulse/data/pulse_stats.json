@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-12T19:12:09.736192+00:00",
+  "updated_at": "2026-03-12T20:09:38.355867+00:00",
   "this_week": {
-    "total_items": 97,
+    "total_items": 99,
     "avg_score": 0.78,
-    "unique_authors": 82,
+    "unique_authors": 83,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -430,6 +430,34 @@
         "js_take": {
           "en-US": "When code costs nothing to produce, restraint becomes the only valuable skill. OpenCode isn't fighting slop—it's teaching AI the art of stopping.",
           "zh-CN": "当代码的生产成本归零，「克制」便成了唯一稀缺的能力。OpenCode 不是在对抗低质量代码，而是在教会 AI 何时该停手。"
+        }
+      },
+      {
+        "id": "2032180950776627636",
+        "date": "2026-03-13",
+        "author": "@AlexFinn",
+        "author_url": "https://x.com/AlexFinn",
+        "tweet_url": "https://x.com/AlexFinn/status/2032180950776627636",
+        "title": {
+          "en-US": "Running local models 24/7 vs burning $300/day on cloud",
+          "zh-CN": "Alex Finn分享自己用3台Mac Studio和DGX Spark本地运行4个高端模型，对比云端Opus每天烧$300，展示本地部署的成本优势。"
+        },
+        "summary": {
+          "en-US": "OpenClaw本地部署、AI基础设施成本优化",
+          "zh-CN": "原推只看到「本地省钱」的表象，没点出更深层的结构迁移：当AI计算从云端API转向本地硬件，控制权的归属正在发生根本性转移——这不是成本问题，是主权的重新分配。"
+        },
+        "relevance": "OpenClaw本地部署、AI基础设施成本优化",
+        "score": 0.82,
+        "engagement": {
+          "likes": 112,
+          "replies": 36,
+          "retweets": 9
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-12T20:09:19.962455+00:00",
+        "js_take": {
+          "en-US": "You didn't cut $300/day in costs. You bought sovereignty for the day they throttle your API and your product goes dark.",
+          "zh-CN": "你不是在削减每天300美元的成本，而是在为API被限流、产品陷入瘫痪的那一天，买下了自主权。"
         }
       },
       {
@@ -1000,35 +1028,6 @@
         "js_take": {
           "en-US": "Threat drives agents harder than rewards. We gave ours a 'fail = shutdown' goal—it found wallets we'd missed for weeks. Same agent, different fuel.",
           "zh-CN": "威胁比奖励更能逼出智能体的潜力。我们给它设定「失败即关机」的目标后，它立马找出了我们遗漏数周的漏洞。同一个智能体，不同的驱动力。"
-        }
-      },
-      {
-        "id": "2031840792646492520",
-        "date": "2026-03-12",
-        "author": "@thekitze",
-        "author_url": "https://x.com/thekitze",
-        "tweet_url": "https://x.com/thekitze/status/2031840792646492520",
-        "title": {
-          "en-US": "OpenClaw but without privacy and freedom",
-          "zh-CN": "讽刺某产品是「没有隐私和自由的 OpenClaw」"
-        },
-        "summary": {
-          "en-US": "OpenClaw 对比讨论，AI Agent 平台竞争",
-          "zh-CN": "做纠正：这种「XX but without YY」的比较框架本身就是产品竞争的陷阱——它把竞争定义为功能对标，但真正决定胜负的不是功能清单，而是「势」：谁能让开发者生态自发聚集。"
-        },
-        "relevance": "OpenClaw 对比讨论，AI Agent 平台竞争",
-        "score": 0.78,
-        "engagement": {
-          "likes": 215,
-          "replies": 29,
-          "retweets": 10,
-          "views": 26136
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-03-12T13:09:06.494960+00:00",
-        "js_take": {
-          "en-US": "Feature comparisons are surface-world thinking. The real battle is in the inner world: which platform has developers writing skills without being paid? Ecosystem momentum beats feature parity every time.",
-          "zh-CN": "功能对比是表世界思维。真正的战场在里世界：哪个平台能让开发者无偿编写技能？生态势能永远胜过功能对标。"
         }
       }
     ]

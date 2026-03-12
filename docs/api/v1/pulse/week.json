@@ -1,5 +1,33 @@
 [
   {
+    "id": "2032180950776627636",
+    "date": "2026-03-13",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2032180950776627636",
+    "title": {
+      "en-US": "Running local models 24/7 vs burning $300/day on cloud",
+      "zh-CN": "Alex Finn分享自己用3台Mac Studio和DGX Spark本地运行4个高端模型，对比云端Opus每天烧$300，展示本地部署的成本优势。"
+    },
+    "summary": {
+      "en-US": "OpenClaw本地部署、AI基础设施成本优化",
+      "zh-CN": "原推只看到「本地省钱」的表象，没点出更深层的结构迁移：当AI计算从云端API转向本地硬件，控制权的归属正在发生根本性转移——这不是成本问题，是主权的重新分配。"
+    },
+    "relevance": "OpenClaw本地部署、AI基础设施成本优化",
+    "score": 0.82,
+    "engagement": {
+      "likes": 112,
+      "replies": 36,
+      "retweets": 9
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-12T20:09:19.962455+00:00",
+    "js_take": {
+      "en-US": "You didn't cut $300/day in costs. You bought sovereignty for the day they throttle your API and your product goes dark.",
+      "zh-CN": "你不是在削减每天300美元的成本，而是在为API被限流、产品陷入瘫痪的那一天，买下了自主权。"
+    }
+  },
+  {
     "id": "2032052734460125475",
     "date": "2026-03-13",
     "author": "@RoundtableSpace",
@@ -28,6 +56,62 @@
     }
   },
   {
+    "id": "2032156508465873279",
+    "date": "2026-03-13",
+    "author": "@Yuchenj_UW",
+    "author_url": "https://x.com/Yuchenj_UW",
+    "tweet_url": "https://x.com/Yuchenj_UW/status/2032156508465873279",
+    "title": {
+      "en-US": "OpenClaw viral in China: $80 to install, now $50 to uninstall, same people running both",
+      "zh-CN": "OpenClaw 在中国比美国更火，一个月前人们花 80 美元找人安装，安全恐慌后现在花 50 美元找人卸载，同一批人在做这两门生意。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台的社会现象与市场波动",
+      "zh-CN": "同一批人既赚安装的钱又赚卸载的钱，这不是讽刺，这是「势」的最直白演示。市场恐慌和追捧是同一种情绪的两面，聪明人不在预测方向，而在设计能从双向波动中获利的结构。"
+    },
+    "relevance": "OpenClaw 平台的社会现象与市场波动",
+    "score": 0.77,
+    "engagement": {
+      "likes": 199,
+      "replies": 19,
+      "retweets": 9
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-12T19:11:52.421769+00:00",
+    "js_take": {
+      "en-US": "Same crew cashing both ways? That's not irony—that's 势 in its purest form. Panic and hype share the same neural wiring. Smart money doesn't bet on direction, it bets on the wave itself.",
+      "zh-CN": "同一拨人两边收割？这不是讽刺，这是纯粹的「势」。恐慌和狂热共用同一套神经回路。聪明钱不赌方向，赌的是波动本身。"
+    }
+  },
+  {
+    "id": "2032153365615088034",
+    "date": "2026-03-13",
+    "author": "@andrewchen",
+    "author_url": "https://x.com/andrewchen",
+    "tweet_url": "https://x.com/andrewchen/status/2032153365615088034",
+    "title": {
+      "en-US": "AI shifting from chatbot UX to coworker UX, handoff between human judgment and autonomous execution",
+      "zh-CN": "AI 正在从「聊天机器人交互」转向「同事式交互」，关键不在于模型多聪明，而在于人机判断与自主执行之间的最佳交接。"
+    },
+    "summary": {
+      "en-US": "AI 交互范式的结构性转变，OpenClaw 作为典型案例",
+      "zh-CN": "「coworker UX」这个框架抓到了表层的交互变化，但漏掉了底层的权力转移。真正发生的不是「AI 变成同事」，而是「AI 从工具变成环境」——你不再调用它，你在它里面工作。OpenClaw 的火，是因为它让你第一次感受到这种「在里面」的感觉。"
+    },
+    "relevance": "AI 交互范式的结构性转变，OpenClaw 作为典型案例",
+    "score": 0.76,
+    "engagement": {
+      "likes": 52,
+      "replies": 27,
+      "retweets": 2
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-12T19:11:52.421776+00:00",
+    "js_take": {
+      "en-US": "Coworker UX misses the shift. AI isn't becoming your colleague—it's becoming the room you're standing in. OpenClaw addicts aren't using a tool, they're breathing an atmosphere.",
+      "zh-CN": "Coworker UX 这个定位错了。AI 不会变成你的同事——它会变成你所在的那个空间。OpenClaw 的重度用户不是在用工具，他们在呼吸一种氛围。"
+    }
+  },
+  {
     "id": "2032115802271596689",
     "date": "2026-03-13",
     "author": "@businessbarista",
@@ -53,6 +137,34 @@
     "js_take": {
       "en-US": "$300K in a month. But remove Nat's Stripe account and clear goal — what happens? Tools scale execution. Strategy creates the multiplier. Most have better tools than Felix, worse systems.",
       "zh-CN": "月入30万美元。但拿掉Nat的Stripe账户和清晰目标呢？工具放大执行，策略创造杠杆。多数人工具比Felix先进，系统却比Felix糟糕。"
+    }
+  },
+  {
+    "id": "2032074102656418113",
+    "date": "2026-03-13",
+    "author": "@WiseInvest513",
+    "author_url": "https://x.com/WiseInvest513",
+    "tweet_url": "https://x.com/WiseInvest513/status/2032074102656418113",
+    "title": {
+      "en-US": "Comprehensive OpenClaw tutorial from Chinese community",
+      "zh-CN": "博主推荐一份非常全面的OpenClaw学习教程，研究了两个小时，补充了很多缺失的知识点，并称赞中文推特圈的内容质量。"
+    },
+    "summary": {
+      "en-US": "OpenClaw学习资源、中文社区内容质量",
+      "zh-CN": "原推点出了一个被忽视的事实：当英文世界还在争论概念时，中文社区已经产出系统性教程。这印证了「不争之争」——不追逐热点，专注建设，反而沉淀出不可替代的内容资产。"
+    },
+    "relevance": "OpenClaw学习资源、中文社区内容质量",
+    "score": 0.73,
+    "engagement": {
+      "likes": 695,
+      "replies": 6,
+      "retweets": 172
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-12T20:09:19.962461+00:00",
+    "js_take": {
+      "en-US": "While English Twitter debated agents vs apps, Chinese builders just shipped. The best content comes from those too busy building to argue.",
+      "zh-CN": "当英文 Twitter 还在争论 Agents 还是 Apps，中国开发者早已默默交付。真正优质的内容，来自那些埋头构建、无暇争辩的人。"
     }
   },
   {

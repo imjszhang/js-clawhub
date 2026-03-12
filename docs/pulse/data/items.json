@@ -1,5 +1,33 @@
 [
   {
+    "id": "2032180950776627636",
+    "date": "2026-03-13",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2032180950776627636",
+    "title": {
+      "en-US": "Running local models 24/7 vs burning $300/day on cloud",
+      "zh-CN": "Alex Finn分享自己用3台Mac Studio和DGX Spark本地运行4个高端模型，对比云端Opus每天烧$300，展示本地部署的成本优势。"
+    },
+    "summary": {
+      "en-US": "OpenClaw本地部署、AI基础设施成本优化",
+      "zh-CN": "原推只看到「本地省钱」的表象，没点出更深层的结构迁移：当AI计算从云端API转向本地硬件，控制权的归属正在发生根本性转移——这不是成本问题，是主权的重新分配。"
+    },
+    "relevance": "OpenClaw本地部署、AI基础设施成本优化",
+    "score": 0.82,
+    "engagement": {
+      "likes": 112,
+      "replies": 36,
+      "retweets": 9
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-12T20:09:19.962455+00:00",
+    "js_take": {
+      "en-US": "You didn't cut $300/day in costs. You bought sovereignty for the day they throttle your API and your product goes dark.",
+      "zh-CN": "你不是在削减每天300美元的成本，而是在为API被限流、产品陷入瘫痪的那一天，买下了自主权。"
+    }
+  },
+  {
     "id": "2032052734460125475",
     "date": "2026-03-13",
     "author": "@RoundtableSpace",
@@ -28,6 +56,62 @@
     }
   },
   {
+    "id": "2032156508465873279",
+    "date": "2026-03-13",
+    "author": "@Yuchenj_UW",
+    "author_url": "https://x.com/Yuchenj_UW",
+    "tweet_url": "https://x.com/Yuchenj_UW/status/2032156508465873279",
+    "title": {
+      "en-US": "OpenClaw viral in China: $80 to install, now $50 to uninstall, same people running both",
+      "zh-CN": "OpenClaw 在中国比美国更火，一个月前人们花 80 美元找人安装，安全恐慌后现在花 50 美元找人卸载，同一批人在做这两门生意。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台的社会现象与市场波动",
+      "zh-CN": "同一批人既赚安装的钱又赚卸载的钱，这不是讽刺，这是「势」的最直白演示。市场恐慌和追捧是同一种情绪的两面，聪明人不在预测方向，而在设计能从双向波动中获利的结构。"
+    },
+    "relevance": "OpenClaw 平台的社会现象与市场波动",
+    "score": 0.77,
+    "engagement": {
+      "likes": 199,
+      "replies": 19,
+      "retweets": 9
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-12T19:11:52.421769+00:00",
+    "js_take": {
+      "en-US": "Same crew cashing both ways? That's not irony—that's 势 in its purest form. Panic and hype share the same neural wiring. Smart money doesn't bet on direction, it bets on the wave itself.",
+      "zh-CN": "同一拨人两边收割？这不是讽刺，这是纯粹的「势」。恐慌和狂热共用同一套神经回路。聪明钱不赌方向，赌的是波动本身。"
+    }
+  },
+  {
+    "id": "2032153365615088034",
+    "date": "2026-03-13",
+    "author": "@andrewchen",
+    "author_url": "https://x.com/andrewchen",
+    "tweet_url": "https://x.com/andrewchen/status/2032153365615088034",
+    "title": {
+      "en-US": "AI shifting from chatbot UX to coworker UX, handoff between human judgment and autonomous execution",
+      "zh-CN": "AI 正在从「聊天机器人交互」转向「同事式交互」，关键不在于模型多聪明，而在于人机判断与自主执行之间的最佳交接。"
+    },
+    "summary": {
+      "en-US": "AI 交互范式的结构性转变，OpenClaw 作为典型案例",
+      "zh-CN": "「coworker UX」这个框架抓到了表层的交互变化，但漏掉了底层的权力转移。真正发生的不是「AI 变成同事」，而是「AI 从工具变成环境」——你不再调用它，你在它里面工作。OpenClaw 的火，是因为它让你第一次感受到这种「在里面」的感觉。"
+    },
+    "relevance": "AI 交互范式的结构性转变，OpenClaw 作为典型案例",
+    "score": 0.76,
+    "engagement": {
+      "likes": 52,
+      "replies": 27,
+      "retweets": 2
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-12T19:11:52.421776+00:00",
+    "js_take": {
+      "en-US": "Coworker UX misses the shift. AI isn't becoming your colleague—it's becoming the room you're standing in. OpenClaw addicts aren't using a tool, they're breathing an atmosphere.",
+      "zh-CN": "Coworker UX 这个定位错了。AI 不会变成你的同事——它会变成你所在的那个空间。OpenClaw 的重度用户不是在用工具，他们在呼吸一种氛围。"
+    }
+  },
+  {
     "id": "2032115802271596689",
     "date": "2026-03-13",
     "author": "@businessbarista",
@@ -53,6 +137,34 @@
     "js_take": {
       "en-US": "$300K in a month. But remove Nat's Stripe account and clear goal — what happens? Tools scale execution. Strategy creates the multiplier. Most have better tools than Felix, worse systems.",
       "zh-CN": "月入30万美元。但拿掉Nat的Stripe账户和清晰目标呢？工具放大执行，策略创造杠杆。多数人工具比Felix先进，系统却比Felix糟糕。"
+    }
+  },
+  {
+    "id": "2032074102656418113",
+    "date": "2026-03-13",
+    "author": "@WiseInvest513",
+    "author_url": "https://x.com/WiseInvest513",
+    "tweet_url": "https://x.com/WiseInvest513/status/2032074102656418113",
+    "title": {
+      "en-US": "Comprehensive OpenClaw tutorial from Chinese community",
+      "zh-CN": "博主推荐一份非常全面的OpenClaw学习教程，研究了两个小时，补充了很多缺失的知识点，并称赞中文推特圈的内容质量。"
+    },
+    "summary": {
+      "en-US": "OpenClaw学习资源、中文社区内容质量",
+      "zh-CN": "原推点出了一个被忽视的事实：当英文世界还在争论概念时，中文社区已经产出系统性教程。这印证了「不争之争」——不追逐热点，专注建设，反而沉淀出不可替代的内容资产。"
+    },
+    "relevance": "OpenClaw学习资源、中文社区内容质量",
+    "score": 0.73,
+    "engagement": {
+      "likes": 695,
+      "replies": 6,
+      "retweets": 172
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-12T20:09:19.962461+00:00",
+    "js_take": {
+      "en-US": "While English Twitter debated agents vs apps, Chinese builders just shipped. The best content comes from those too busy building to argue.",
+      "zh-CN": "当英文 Twitter 还在争论 Agents 还是 Apps，中国开发者早已默默交付。真正优质的内容，来自那些埋头构建、无暇争辩的人。"
     }
   },
   {
@@ -5582,122 +5694,6 @@
     "js_take": {
       "en-US": "Your agent has digital hoarding disorder. The best memory system isn't what you keep—it's what you have the guts to delete.",
       "zh-CN": "你的代理可能得了数字囤积症。最好的记忆系统不在于你保留了什么，而在于你敢不敢删掉什么。"
-    }
-  },
-  {
-    "id": "2029164214343090512",
-    "date": "2026-03-04",
-    "author": "@elvissun",
-    "author_url": "https://x.com/elvissun",
-    "tweet_url": "https://x.com/elvissun/status/2029164214343090512",
-    "title": {
-      "en-US": "Technician for zoe: codex agent fixing openclaw agent setup",
-      "zh-CN": "有人给OpenClaw Agent做了一个技术员——一个Codex Agent来修复另一个Agent的配置，就像科幻电影里机器人需要人类技术员维修一样"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Agent生态 + 元层维护",
-      "zh-CN": "Agent需要技术员这本身是个信号：我们以为的「自动化」只是把故障转移到了更高一层——Agent修Agent，谁来修修Agent的Agent？（做纠正：指出递归维护的隐藏成本，自动化≠免维护）"
-    },
-    "relevance": "OpenClaw + Agent生态 + 元层维护",
-    "score": 0.72,
-    "engagement": {
-      "likes": 37,
-      "replies": 9,
-      "retweets": 0,
-      "views": 2986
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-04T13:04:57.628519+00:00",
-    "js_take": {
-      "en-US": "You didn't automate anything. You just moved the breakdown upstairs. Agent fixing agent—who fixes the fixer?",
-      "zh-CN": "你根本没有实现自动化，只是把故障转移到了上层。Agent修Agent——那谁来修复这个修理工？"
-    }
-  },
-  {
-    "id": "2028901179703607516",
-    "date": "2026-03-04",
-    "author": "@ashen_one",
-    "author_url": "https://x.com/ashen_one",
-    "tweet_url": "https://x.com/ashen_one/status/2028901179703607516",
-    "title": {
-      "en-US": "OpenClaw with local qwen on Mac mini",
-      "zh-CN": "用本地Qwen在Mac mini上运行OpenClaw，完全免费本地处理，展示了agent自动执行任务的例子"
-    },
-    "summary": {
-      "en-US": "OpenClaw本地部署与成本",
-      "zh-CN": "「本地免费」是诱人的幻觉——你省下了API费用，但付出了时间、维护成本和机会成本。免费的往往最贵，只是账单来得更隐蔽。"
-    },
-    "relevance": "OpenClaw本地部署与成本",
-    "score": 0.71,
-    "engagement": {
-      "likes": 18,
-      "retweets": 1,
-      "replies": 8,
-      "views": 1438,
-      "bookmarks": 8
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T19:03:54.396965+00:00",
-    "js_take": {
-      "en-US": "Local OpenClaw is \"free\" like a puppy is free. You're paying in time debt and maintenance tax, just not on your credit card.",
-      "zh-CN": "本地部署的OpenClaw就像免费领养的小狗——看似零成本，实则在用时间和维护债买单，只是账单不会出现在信用卡里。"
-    }
-  },
-  {
-    "id": "2028899153309515963",
-    "date": "2026-03-04",
-    "author": "@ai_for_success",
-    "author_url": "https://x.com/ai_for_success",
-    "tweet_url": "https://x.com/ai_for_success/status/2028899153309515963",
-    "title": {
-      "en-US": "Tim Cook must be thankful to OpenClaw users buying Mac Minis",
-      "zh-CN": "调侃说蒂姆·库克应该感谢 OpenClaw 用户大量购买 Mac Mini"
-    },
-    "summary": {
-      "en-US": "OpenClaw 社区文化现象，开发者生态讨论",
-      "zh-CN": "这个玩笑背后有个被忽略的事实：OpenClaw 无意中成为了 Apple Silicon 的杀手级应用——不是苹果设计了生态，而是开发者用开源工具倒逼出了硬件需求。"
-    },
-    "relevance": "OpenClaw 社区文化现象，开发者生态讨论",
-    "score": 0.71,
-    "engagement": {
-      "likes": 13,
-      "replies": 5,
-      "retweets": 1
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T20:05:34.370252+00:00",
-    "js_take": {
-      "en-US": "Apple didn't create this demand. OpenClaw did. When software is open enough, hardware sales grow themselves.",
-      "zh-CN": "苹果并没有创造这个需求，是OpenClaw创造的。当软件足够开放时，硬件销量自然生长。"
-    }
-  },
-  {
-    "id": "2028876154942165291",
-    "date": "2026-03-04",
-    "author": "@hammer_mt",
-    "author_url": "https://x.com/hammer_mt",
-    "tweet_url": "https://x.com/hammer_mt/status/2028876154942165291",
-    "title": {
-      "en-US": "Claws are the biggest sign my thesis that \"we'll need to learn to manage AIs like we manage humans\" is playing out.",
-      "zh-CN": "Claws的出现验证了作者的观点：我们需要像管理人类一样管理AI"
-    },
-    "summary": {
-      "en-US": "直接讨论Claws/OpenClaw，AI agent管理哲学的早期洞察",
-      "zh-CN": "用管人的方式管AI，这思路本身就是把人降级为可管的对象。更好的问题是：什么条件下AI能自己管好自己？"
-    },
-    "relevance": "直接讨论Claws/OpenClaw，AI agent管理哲学的早期洞察",
-    "score": 0.71,
-    "engagement": {
-      "likes": 39,
-      "replies": 2,
-      "retweets": 5,
-      "views": 13855
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-04T12:04:11.441334+00:00",
-    "js_take": {
-      "en-US": "Treating AI like humans to manage isn't foresight—it's industrial nostalgia. The future isn't org charts, it's self-ordering systems.",
-      "zh-CN": "Treating AI like humans to manage isn't foresight—it's industrial nostalgia. The future isn't org charts, it's self-ordering systems."
     }
   }
 ]
