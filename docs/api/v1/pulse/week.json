@@ -650,6 +650,34 @@
     }
   },
   {
+    "id": "2032100265403256899",
+    "date": "2026-03-12",
+    "author": "@ThePrimeagen",
+    "author_url": "https://x.com/ThePrimeagen",
+    "tweet_url": "https://x.com/ThePrimeagen/status/2032100265403256899",
+    "title": {
+      "en-US": "We rushed so fast into Agents when inline autocomplete + actual skills is crazy. Fast autocomplete makes marked proficiency gains.",
+      "zh-CN": "ThePrimeagen 认为开发者 rushing too fast into Agents，其实快速的内联自动补全 + 实际技能反而能带来显著提升"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent 工具链反思",
+      "zh-CN": "「 rushing fast」本身不是问题，问题是 rushing 的方向。Agent 不是多了，而是大多数人还没搞明白自己的 workflow 到底卡在哪个环节，就开始堆工具。"
+    },
+    "relevance": "OpenClaw / Agent 工具链反思",
+    "score": 0.76,
+    "engagement": {
+      "likes": 579,
+      "retweets": 21,
+      "replies": 63
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-12T15:04:32.375039+00:00",
+    "js_take": {
+      "en-US": "Adding automation to a broken workflow just gives you faster chaos. Fix the flow first—then decide if you need an agent.",
+      "zh-CN": "给烂流程做自动化，只会制造更快的混乱。先把流程理顺，再决定是否需要智能体。"
+    }
+  },
+  {
     "id": "2031784211632574512",
     "date": "2026-03-12",
     "author": "@AlexFinn",
