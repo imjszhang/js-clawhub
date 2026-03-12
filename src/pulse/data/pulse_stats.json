@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-12T11:07:00.879598+00:00",
+  "updated_at": "2026-03-12T13:09:32.076652+00:00",
   "this_week": {
-    "total_items": 87,
+    "total_items": 91,
     "avg_score": 0.78,
-    "unique_authors": 76,
+    "unique_authors": 78,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -31,6 +31,35 @@
         "js_take": {
           "en-US": "Asking \"who's the new OpenClaw\" assumes the future belongs to the best clone. It doesn't. The winner won't be \"like\" anything—you'll just wake up one day and realize the center of gravity moved.",
           "zh-CN": "问「谁是下一个 OpenClaw」的时候，你已经默认未来属于最好的模仿者。但事实并非如此。赢家不会「像」任何东西——某天醒来你会发现，权力的重心早已悄然转移。"
+        }
+      },
+      {
+        "id": "2032017325449269603",
+        "date": "2026-03-12",
+        "author": "@hooeem",
+        "author_url": "https://x.com/hooeem",
+        "tweet_url": "https://x.com/hooeem/status/2032017325449269603",
+        "title": {
+          "en-US": "Claude Skills mastery beats 99% of users",
+          "zh-CN": "精通Claude Skills，超越99%用户"
+        },
+        "summary": {
+          "en-US": "Claude Skills 与 OpenClaw Skill 生态直接相关，AI 工具 mastery 话题",
+          "zh-CN": "Claude Skills与OpenClaw Skill生态直接相关，探讨AI工具精通话题"
+        },
+        "relevance": "Claude Skills 与 OpenClaw Skill 生态直接相关，AI 工具 mastery 话题",
+        "score": 0.9,
+        "engagement": {
+          "likes": 944,
+          "replies": 24,
+          "retweets": 60,
+          "views": 172125
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-12T13:09:06.494955+00:00",
+        "js_take": {
+          "en-US": "100 hours mastering Claude Skills. Month 2: a new update made half my muscle memory obsolete. The real edge isn't tool fluency—it's knowing when to let AI run unsupervised.",
+          "zh-CN": "花100小时精通Claude Skills。第二个月：一次更新就让一半的肌肉记忆作废。真正的优势不是工具熟练度——而是知道什么时候该让AI自主运行。"
         }
       },
       {
@@ -946,6 +975,35 @@
         }
       },
       {
+        "id": "2031840792646492520",
+        "date": "2026-03-12",
+        "author": "@thekitze",
+        "author_url": "https://x.com/thekitze",
+        "tweet_url": "https://x.com/thekitze/status/2031840792646492520",
+        "title": {
+          "en-US": "OpenClaw but without privacy and freedom",
+          "zh-CN": "讽刺某产品是「没有隐私和自由的 OpenClaw」"
+        },
+        "summary": {
+          "en-US": "OpenClaw 对比讨论，AI Agent 平台竞争",
+          "zh-CN": "做纠正：这种「XX but without YY」的比较框架本身就是产品竞争的陷阱——它把竞争定义为功能对标，但真正决定胜负的不是功能清单，而是「势」：谁能让开发者生态自发聚集。"
+        },
+        "relevance": "OpenClaw 对比讨论，AI Agent 平台竞争",
+        "score": 0.78,
+        "engagement": {
+          "likes": 215,
+          "replies": 29,
+          "retweets": 10,
+          "views": 26136
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-03-12T13:09:06.494960+00:00",
+        "js_take": {
+          "en-US": "Feature comparisons are surface-world thinking. The real battle is in the inner world: which platform has developers writing skills without being paid? Ecosystem momentum beats feature parity every time.",
+          "zh-CN": "功能对比是表世界思维。真正的战场在里世界：哪个平台能让开发者无偿编写技能？生态势能永远胜过功能对标。"
+        }
+      },
+      {
         "id": "2031145765616091639",
         "date": "2026-03-11",
         "author": "@nikshepsvn",
@@ -972,67 +1030,11 @@
           "en-US": "\"Jack of all trades\" agents are a trap. Real moat isn't API count. It's 1000 hours in one painful problem nobody else wants.",
           "zh-CN": "「万金油」型Agent是个陷阱。真正的护城河不是接了多少API，而是在别人不愿碰的痛点上死磕1000小时。"
         }
-      },
-      {
-        "id": "2031349399029428300",
-        "date": "2026-03-11",
-        "author": "@ihtesham2005",
-        "author_url": "https://x.com/ihtesham2005",
-        "tweet_url": "https://x.com/ihtesham2005/status/2031349399029428300",
-        "title": {
-          "en-US": "MIT student accidentally showed why OpenClaw is taking over research labs - agent running literature synthesis in background",
-          "zh-CN": "MIT研究生在演示其他东西时，后台运行的OpenClaw代理正在自动完成文献综述，展示了为什么OpenClaw即将占领所有研究实验室"
-        },
-        "summary": {
-          "en-US": "OpenClaw在实际科研场景中的渗透，Agent作为隐形基础设施",
-          "zh-CN": "人们总是高估新技术的'被看见的时刻'，却低估它'隐形化'的速度——当工具不再是被演示的主角，而是像空气一样在后台运行时，才是真正的接管。这条推文恰好捕捉到了这个转折点。"
-        },
-        "relevance": "OpenClaw在实际科研场景中的渗透，Agent作为隐形基础设施",
-        "score": 0.78,
-        "engagement": {
-          "likes": 504,
-          "replies": 30,
-          "retweets": 64
-        },
-        "comment_type": "wisdom_drop",
-        "synced_at": "2026-03-11T01:04:00.769048+00:00",
-        "js_take": {
-          "en-US": "Accidental demos are the scariest kind. When the tool becomes invisible enough to forget, you've already lost the lab.",
-          "zh-CN": "最可怕的演示是那种'意外'发生的。当工具变得隐形到被人遗忘时，你其实早已失去了掌控权。"
-        }
-      },
-      {
-        "id": "2031553634253570310",
-        "date": "2026-03-11",
-        "author": "@ashen_one",
-        "author_url": "https://x.com/ashen_one",
-        "tweet_url": "https://x.com/ashen_one/status/2031553634253570310",
-        "title": {
-          "en-US": "OpenClaw agent taking 2-5 mins, want progress updates every minute",
-          "zh-CN": "OpenClaw用户询问：agent执行任务需要2-5分钟，能否让它每分钟返回一次进度更新？"
-        },
-        "summary": {
-          "en-US": "直接关于OpenClaw平台使用体验，agent长任务执行模式",
-          "zh-CN": "人们总想'控制'进度，但最好的观察是相信系统并在完成时告知结果——频繁询问反而打断心流，就像园丁每隔一分钟挖开土看种子发芽了没有。"
-        },
-        "relevance": "直接关于OpenClaw平台使用体验，agent长任务执行模式",
-        "score": 0.78,
-        "engagement": {
-          "likes": 41,
-          "replies": 27,
-          "retweets": 1
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-11T05:06:24.589735+00:00",
-        "js_take": {
-          "en-US": "Digging up seeds every minute to check if they grew. Set the target, walk away—your anxiety is the real bottleneck.",
-          "zh-CN": "每分钟挖出种子查看长势。设定目标，然后走开——焦虑才是真正的瓶颈。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 160
+    "unique_authors": 159
   }
 }
