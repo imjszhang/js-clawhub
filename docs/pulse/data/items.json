@@ -168,6 +168,36 @@
     }
   },
   {
+    "id": "2031803615644467393",
+    "date": "2026-03-12",
+    "author": "@milesdeutscher",
+    "author_url": "https://x.com/milesdeutscher",
+    "tweet_url": "https://x.com/milesdeutscher/status/2031803615644467393",
+    "title": {
+      "en-US": "OpenClaw is getting more competition.. Just signed up for the waitlist.",
+      "zh-CN": "OpenClaw 面临更多竞争，作者刚加入等待列表"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台竞争讨论，AI Agent 基础设施",
+      "zh-CN": "人们总在寻找'更好'的工具，却没意识到真正的竞争不在产品功能，而在使用者的判断力——AI的上限永远由人决定，工具只是放大器。"
+    },
+    "relevance": "OpenClaw 平台竞争讨论，AI Agent 基础设施",
+    "score": 0.78,
+    "engagement": {
+      "likes": 198,
+      "replies": 16,
+      "retweets": 3,
+      "views": 51791,
+      "bookmarks": 129
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T05:04:35.788339+00:00",
+    "js_take": {
+      "en-US": "Another waitlist, another FOMO trap. The real bottleneck isn't which tool you pick—it's whether you have the judgment to use any of them properly.",
+      "zh-CN": "又一个候补名单，又一个FOMO陷阱。真正的瓶颈不是选哪个工具——而是你有没有判断力把工具用对。"
+    }
+  },
+  {
     "id": "2031791260013645885",
     "date": "2026-03-12",
     "author": "@morganlinton",
@@ -252,6 +282,36 @@
     }
   },
   {
+    "id": "2031869021289922667",
+    "date": "2026-03-12",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2031869021289922667",
+    "title": {
+      "en-US": "openclaw daily security audit prompt: run a security audit every night at 11pm...",
+      "zh-CN": "OpenClaw 每日安全审计提示词，自动检查防火墙、SSH、Docker 等"
+    },
+    "summary": {
+      "en-US": "OpenClaw 自动化安全实践，Agent 运维",
+      "zh-CN": "当你需要每天检查门是否锁好时，问题不在门，在你还没建成一套'不用想就能自动做对'的系统。真正的安全不是监控，是让错误没机会发生。"
+    },
+    "relevance": "OpenClaw 自动化安全实践，Agent 运维",
+    "score": 0.75,
+    "engagement": {
+      "likes": 174,
+      "replies": 7,
+      "retweets": 10,
+      "views": 9312,
+      "bookmarks": 271
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-12T05:04:35.788345+00:00",
+    "js_take": {
+      "en-US": "If you're still running daily audits, you haven't built a system—you've built a to-do list. Real security isn't monitored, it's designed so the wrong move can't happen.",
+      "zh-CN": "如果你还在每日审计，说明建的只是待办清单，而非系统。真正的安全不靠监控，而是让错误操作根本无法发生。"
+    }
+  },
+  {
     "id": "2031716385559298081",
     "date": "2026-03-12",
     "author": "@chaomeigu_com",
@@ -333,6 +393,36 @@
     "js_take": {
       "en-US": "Loving the knobs isn't mastery. Real power is making infrastructure vanish for everyone else.",
       "zh-CN": "迷恋控制面板并非精通之道。真正的力量，是让基础设施在他人眼中彻底隐形。"
+    }
+  },
+  {
+    "id": "2031776692470235198",
+    "date": "2026-03-12",
+    "author": "@svpino",
+    "author_url": "https://x.com/svpino",
+    "tweet_url": "https://x.com/svpino/status/2031776692470235198",
+    "title": {
+      "en-US": "The hardest part of building AI agents is everything around it: infrastructure, security, integrations, scheduling...",
+      "zh-CN": "构建 AI agent 最难的部分是周边的一切：基础设施、安全、集成、调度等"
+    },
+    "summary": {
+      "en-US": "AI Agent 工程实践痛点，与 OpenClaw 解决的核心问题直接相关",
+      "zh-CN": "大家盯着'demo 很炫'，却忽略了生产级 AI 的隐藏成本——不是模型不够强，是把它塞进真实世界的摩擦太大。这正是 OpenClaw 这类工具存在的理由。"
+    },
+    "relevance": "AI Agent 工程实践痛点，与 OpenClaw 解决的核心问题直接相关",
+    "score": 0.72,
+    "engagement": {
+      "likes": 71,
+      "replies": 19,
+      "retweets": 8,
+      "views": 15402,
+      "bookmarks": 56
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T05:04:35.788348+00:00",
+    "js_take": {
+      "en-US": "Flashy demos are theater. The real game is the boring plumbing that actually ships—and that's why 90% of agent projects die before production.",
+      "zh-CN": "炫目的Demo不过是表演。真正的战场是枯燥却能落地的底层工程——这就是为什么90%的Agent项目倒在量产前。"
     }
   },
   {
@@ -5636,96 +5726,6 @@
     "js_take": {
       "en-US": "\"Better\" is a rookie trap. Your workflow grew *around* OpenClaw—ripping it out costs more than any feature list saves.",
       "zh-CN": "「更好」是新手陷阱。你的工作流已经围绕 OpenClaw 长成——挖出来换掉，代价远超任何功能清单能省下的。"
-    }
-  },
-  {
-    "id": "2028829013305958685",
-    "date": "2026-03-03",
-    "author": "@Jacobsklug",
-    "author_url": "https://x.com/Jacobsklug",
-    "tweet_url": "https://x.com/Jacobsklug/status/2028829013305958685",
-    "title": {
-      "en-US": "OpenClaw Mission Control 3 levels and when to use",
-      "zh-CN": "研究了几十个 OpenClaw mission control，从简单仪表板到完整操作系统，总结了 3 个级别及使用场景"
-    },
-    "summary": {
-      "en-US": "OpenClaw Mission Control 架构层级",
-      "zh-CN": "「分 3 个级别」是过度工程化的诱惑——复杂系统让人有掌控感，但 dashboard 越多，真正理解系统的人越少。"
-    },
-    "relevance": "OpenClaw Mission Control 架构层级",
-    "score": 0.74,
-    "engagement": {
-      "likes": 14,
-      "retweets": 2,
-      "replies": 4,
-      "views": 1408,
-      "bookmarks": 47
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T15:04:12.413280+00:00",
-    "js_take": {
-      "en-US": "Three dashboards promise control but guarantee that nobody understands the whole system.",
-      "zh-CN": "三个仪表盘承诺给你掌控感，却注定让所有人看不懂全局。"
-    }
-  },
-  {
-    "id": "2028525774547099854",
-    "date": "2026-03-03",
-    "author": "@JulianGoldieSEO",
-    "author_url": "https://x.com/JulianGoldieSEO",
-    "tweet_url": "https://x.com/JulianGoldieSEO/status/2028525774547099854",
-    "title": {
-      "en-US": "OpenClaw skills vault with 2,868 free skills",
-      "zh-CN": "OpenClaw 推出了包含 2,868 个免费技能的技能库，用户可以按需安装"
-    },
-    "summary": {
-      "en-US": "OpenClaw 技能生态系统扩展",
-      "zh-CN": "「更多选择=更好」是一种幻觉——工具膨胀的速度超过了人掌握它们的速度，最终每个人都成了配置管理员而非创作者。"
-    },
-    "relevance": "OpenClaw 技能生态系统扩展",
-    "score": 0.72,
-    "engagement": {
-      "likes": 120,
-      "retweets": 12,
-      "replies": 6,
-      "views": 7831,
-      "bookmarks": 165
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T03:08:30.832261+00:00",
-    "js_take": {
-      "en-US": "2,868 free skills sounds like abundance. Actually it's 2,868 ways to waste an afternoon deciding which one won't break your workflow.",
-      "zh-CN": "2,868个免费技能听着很丰盛。实际上是2,868种浪费下午的方式，决定哪个不会搞崩你的工作流。"
-    }
-  },
-  {
-    "id": "2028606379486044290",
-    "date": "2026-03-03",
-    "author": "@meta_alchemist",
-    "author_url": "https://x.com/meta_alchemist",
-    "tweet_url": "https://x.com/meta_alchemist/status/2028606379486044290",
-    "title": {
-      "en-US": "OpenClaw repo with 15k stars, built-in use cases",
-      "zh-CN": "一个 trending 的 OpenClaw 仓库，15k+ stars，内置了大量使用场景"
-    },
-    "summary": {
-      "en-US": "OpenClaw 最佳实践/用例库",
-      "zh-CN": "「预设场景」解决的是入门焦虑，不是能力问题——用别人的剧本演得再像，也不会让你成为好演员。"
-    },
-    "relevance": "OpenClaw 最佳实践/用例库",
-    "score": 0.72,
-    "engagement": {
-      "likes": 269,
-      "retweets": 22,
-      "replies": 16,
-      "views": 16107,
-      "bookmarks": 572
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T05:04:19.825126+00:00",
-    "js_take": {
-      "en-US": "15k stars for 100 pre-built answers. What they don't tell you: your problem probably isn't in those 100.",
-      "zh-CN": "15k stars 换 100 个预设答案。但他们没告诉你的是：你的问题可能根本不在那 100 个里面。"
     }
   }
 ]

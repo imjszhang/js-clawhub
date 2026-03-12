@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-12T03:09:00.048566+00:00",
+  "updated_at": "2026-03-12T05:04:57.248869+00:00",
   "this_week": {
-    "total_items": 71,
-    "avg_score": 0.78,
-    "unique_authors": 63,
+    "total_items": 74,
+    "avg_score": 0.77,
+    "unique_authors": 65,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -748,6 +748,36 @@
         }
       },
       {
+        "id": "2031803615644467393",
+        "date": "2026-03-12",
+        "author": "@milesdeutscher",
+        "author_url": "https://x.com/milesdeutscher",
+        "tweet_url": "https://x.com/milesdeutscher/status/2031803615644467393",
+        "title": {
+          "en-US": "OpenClaw is getting more competition.. Just signed up for the waitlist.",
+          "zh-CN": "OpenClaw 面临更多竞争，作者刚加入等待列表"
+        },
+        "summary": {
+          "en-US": "OpenClaw 平台竞争讨论，AI Agent 基础设施",
+          "zh-CN": "人们总在寻找'更好'的工具，却没意识到真正的竞争不在产品功能，而在使用者的判断力——AI的上限永远由人决定，工具只是放大器。"
+        },
+        "relevance": "OpenClaw 平台竞争讨论，AI Agent 基础设施",
+        "score": 0.78,
+        "engagement": {
+          "likes": 198,
+          "replies": 16,
+          "retweets": 3,
+          "views": 51791,
+          "bookmarks": 129
+        },
+        "comment_type": "reframe",
+        "synced_at": "2026-03-12T05:04:35.788339+00:00",
+        "js_take": {
+          "en-US": "Another waitlist, another FOMO trap. The real bottleneck isn't which tool you pick—it's whether you have the judgment to use any of them properly.",
+          "zh-CN": "又一个候补名单，又一个FOMO陷阱。真正的瓶颈不是选哪个工具——而是你有没有判断力把工具用对。"
+        }
+      },
+      {
         "id": "2031145765616091639",
         "date": "2026-03-11",
         "author": "@nikshepsvn",
@@ -1002,39 +1032,11 @@
           "en-US": "Cool feature, awkward truth. We want autonomous agents but can't stop watching. Real trust is looking away.",
           "zh-CN": "功能很酷，真相很尬。我们想要自主Agent，却忍不住一直盯着看。真正的信任，是敢于移开视线。"
         }
-      },
-      {
-        "id": "2031791260013645885",
-        "date": "2026-03-12",
-        "author": "@morganlinton",
-        "author_url": "https://x.com/morganlinton",
-        "tweet_url": "https://x.com/morganlinton/status/2031791260013645885",
-        "title": {
-          "en-US": "Perplexity announced OpenClaw competitor: Perplexity Personal Computer",
-          "zh-CN": "Perplexity发布OpenClaw竞品Perplexity Personal Computer"
-        },
-        "summary": {
-          "en-US": "OpenClaw竞品动态",
-          "zh-CN": "竞品分析陷阱：人们总想找'更好的那个'，但真正的问题是——你更需要开放性还是易用性？选择即立场。"
-        },
-        "relevance": "OpenClaw竞品动态",
-        "score": 0.77,
-        "engagement": {
-          "likes": 384,
-          "replies": 21,
-          "retweets": 17
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-12T02:04:53.517214+00:00",
-        "js_take": {
-          "en-US": "Tool wars are values wars. You're not picking software—you're picking what kind of human you want to become.",
-          "zh-CN": "Tool wars are values wars. You're not picking software—you're picking what kind of human you want to become."
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 158
+    "unique_authors": 159
   }
 }
