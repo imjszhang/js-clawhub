@@ -310,6 +310,34 @@
     }
   },
   {
+    "id": "2031793848054112306",
+    "date": "2026-03-12",
+    "author": "@zerqfer",
+    "author_url": "https://x.com/zerqfer",
+    "tweet_url": "https://x.com/zerqfer/status/2031793848054112306",
+    "title": {
+      "en-US": "OpenClaw agent found polymarket wallet to copytrade",
+      "zh-CN": "作者让OpenClaw agent去Moltbook找最佳跟单钱包，5小时后agent带回一个匿名钱包数据（35万利润，75%胜率）"
+    },
+    "summary": {
+      "en-US": "OpenClaw实际应用案例 + Agent自主执行任务",
+      "zh-CN": "这条推文在炫耀agent的\"狩猎成果\"，但真正的洞察是：当你给agent一个生存威胁式的目标（\"找不到就关机\"），它比给奖励时更拼命——这和人类完全相反。"
+    },
+    "relevance": "OpenClaw实际应用案例 + Agent自主执行任务",
+    "score": 0.78,
+    "engagement": {
+      "likes": 316,
+      "replies": 26,
+      "retweets": 34
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-12T09:08:12.195762+00:00",
+    "js_take": {
+      "en-US": "Threat drives agents harder than rewards. We gave ours a 'fail = shutdown' goal—it found wallets we'd missed for weeks. Same agent, different fuel.",
+      "zh-CN": "威胁比奖励更能逼出智能体的潜力。我们给它设定「失败即关机」的目标后，它立马找出了我们遗漏数周的漏洞。同一个智能体，不同的驱动力。"
+    }
+  },
+  {
     "id": "2031791260013645885",
     "date": "2026-03-12",
     "author": "@morganlinton",
@@ -591,6 +619,34 @@
     "js_take": {
       "en-US": "Flashy demos are theater. The real game is the boring plumbing that actually ships—and that's why 90% of agent projects die before production.",
       "zh-CN": "炫目的Demo不过是表演。真正的战场是枯燥却能落地的底层工程——这就是为什么90%的Agent项目倒在量产前。"
+    }
+  },
+  {
+    "id": "2031967032288428069",
+    "date": "2026-03-12",
+    "author": "@manateelazycat",
+    "author_url": "https://x.com/manateelazycat",
+    "tweet_url": "https://x.com/manateelazycat/status/2031967032288428069",
+    "title": {
+      "en-US": "Tencent scraped ClawHub data, complained about rate limit",
+      "zh-CN": "腾讯扒取ClawHub数据，还嫌OpenClaw创始人服务器限速，被吐槽后回应不谈赞助只说自己处理了180GB流量"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态争议 + 大厂与开源社区关系",
+      "zh-CN": "大家都在骂腾讯白嫖，但更深一层是：开源项目的\"被占便宜\"本身就是设计的一部分——ClawHub的价值恰恰在于被大规模使用，限速只是防止崩溃，不是拒绝被用。"
+    },
+    "relevance": "OpenClaw生态争议 + 大厂与开源社区关系",
+    "score": 0.72,
+    "engagement": {
+      "likes": 277,
+      "replies": 36,
+      "retweets": 27
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-12T09:08:12.195767+00:00",
+    "js_take": {
+      "en-US": "ClawHub wasn't built to be protected. It was built to be used—the more it gets scraped, the more valuable it becomes. 'Protection' would kill it.",
+      "zh-CN": "ClawHub 不是为了被保护而建，而是为了被使用——被爬取得越多，它就越有价值。「保护」反而会扼杀它。"
     }
   },
   {
@@ -5652,66 +5708,6 @@
     "js_take": {
       "en-US": "If OpenClaw really had a 'star this' prompt, half of 49k would be bots. Look at the discussions—people solving real problems, not following scripts.",
       "zh-CN": "如果 OpenClaw 真的有「点 star」的 prompt，那 49k 里至少一半是机器人。看看讨论区——人们是在解决真问题，不是在按脚本执行。"
-    }
-  },
-  {
-    "id": "2028635754482511951",
-    "date": "2026-03-03",
-    "author": "@twistartups",
-    "author_url": "https://x.com/twistartups",
-    "tweet_url": "https://x.com/twistartups/status/2028635754482511951",
-    "title": {
-      "en-US": "Jason Calacanis got claw-pilled, OpenClaw built CRM proactively",
-      "zh-CN": "Jason Calacanis 被 OpenClaw 震惊了——处理联系人列表时，OpenClaw 主动问「要我帮你建个 CRM 吗？」"
-    },
-    "summary": {
-      "en-US": "OpenClaw 主动能力展示 - 超预期价值",
-      "zh-CN": "「主动提出建 CRM」看似是智能，实则是需求识别能力的跃迁——从执行命令到预判需求，这是 agent 从工具到伙伴的分水岭。"
-    },
-    "relevance": "OpenClaw 主动能力展示 - 超预期价值",
-    "score": 0.76,
-    "engagement": {
-      "likes": 32,
-      "retweets": 0,
-      "replies": 1,
-      "views": 5017,
-      "bookmarks": 32
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T06:08:22.111476+00:00",
-    "js_take": {
-      "en-US": "Everyone's hyped OpenClaw offered to build a CRM. But that's not intelligence—that's just basic anticipation, and it only looks special because the rest of AI is still waiting to be spoon-fed.",
-      "zh-CN": "所有人都在 hype OpenClaw 主动提出建 CRM。但那不是智能——只是基础的预判，而且之所以显得特别，不过是因为其他 AI 还在等着被投喂。"
-    }
-  },
-  {
-    "id": "2028415289021603952",
-    "date": "2026-03-03",
-    "author": "@JulianGoldieSEO",
-    "author_url": "https://x.com/JulianGoldieSEO",
-    "tweet_url": "https://x.com/JulianGoldieSEO/status/2028415289021603952",
-    "title": {
-      "en-US": "OpenClaw alternatives ranking, Agent Zero wins",
-      "zh-CN": "测试了所有 OpenClaw 替代品，Agent Zero 排名第一，Manus Agent 第二，OpenClaw 经常崩溃排名垫底"
-    },
-    "summary": {
-      "en-US": "OpenClaw 竞品对比",
-      "zh-CN": "「不崩溃」是稳定性优势，但生态和网络效应才是长期护城河——Agent Zero 现在更好用，但 OpenClaw 的社区在快速增长。"
-    },
-    "relevance": "OpenClaw 竞品对比",
-    "score": 0.76,
-    "engagement": {
-      "likes": 91,
-      "retweets": 12,
-      "replies": 11,
-      "views": 9156,
-      "bookmarks": 184
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T06:08:22.111486+00:00",
-    "js_take": {
-      "en-US": "Agent Zero wins on stability today. But 49k stars and 80+ meetups mean OpenClaw's ecosystem is compounding. Short-term smoothness loses to network effects.",
-      "zh-CN": "Agent Zero 今天在稳定性上赢了。但 49k stars 和 80+ meetups 意味着 OpenClaw 的生态系统在滚雪球。短期流畅度输给了网络效应。"
     }
   }
 ]
