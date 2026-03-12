@@ -424,6 +424,34 @@
     }
   },
   {
+    "id": "2032071257789976897",
+    "date": "2026-03-12",
+    "author": "@Jacobsklug",
+    "author_url": "https://x.com/Jacobsklug",
+    "tweet_url": "https://x.com/Jacobsklug/status/2032071257789976897",
+    "title": {
+      "en-US": "Made $4.7M with AI, recorded building OpenClaw business in one hour",
+      "zh-CN": "作者声称用AI赚了470万美元，并录制了用OpenClaw在一小时内搭建业务的视频教程"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI变现/快速搭建业务",
+      "zh-CN": "'一小时搭建业务'的承诺听起来诱人，但真正的业务从来不是搭起来的，是长出来的。快速搭建的是脚手架，能留住客户、产生复利的是系统。炫'搭建速度'，恰恰说明还没遇到真正的业务问题——获客、留存、口碑、迭代。真正的增长不是比谁启动快，是比谁活得久。"
+    },
+    "relevance": "OpenClaw/AI变现/快速搭建业务",
+    "score": 0.78,
+    "engagement": {
+      "likes": 87,
+      "replies": 49,
+      "retweets": 4
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-12T14:05:40.965156+00:00",
+    "js_take": {
+      "en-US": "I can spin up a SaaS in 20 minutes. Keeping it alive past month 6? That's the hard part. Everyone wants to show you the starting line. Ask them about the 3-year survival rate instead.",
+      "zh-CN": "搭个SaaS，20分钟就够。但让它活过6个月？那才是硬仗。满世界都在炫耀起跑线，你该问问他们三年存活率有多少。"
+    }
+  },
+  {
     "id": "2031791260013645885",
     "date": "2026-03-12",
     "author": "@morganlinton",

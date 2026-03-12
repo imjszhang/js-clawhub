@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-12T13:09:32.076652+00:00",
+  "updated_at": "2026-03-12T14:05:58.702224+00:00",
   "this_week": {
-    "total_items": 91,
+    "total_items": 92,
     "avg_score": 0.78,
     "unique_authors": 78,
     "top_items": [
@@ -1004,31 +1004,31 @@
         }
       },
       {
-        "id": "2031145765616091639",
-        "date": "2026-03-11",
-        "author": "@nikshepsvn",
-        "author_url": "https://x.com/nikshepsvn",
-        "tweet_url": "https://x.com/nikshepsvn/status/2031145765616091639",
+        "id": "2032071257789976897",
+        "date": "2026-03-12",
+        "author": "@Jacobsklug",
+        "author_url": "https://x.com/Jacobsklug",
+        "tweet_url": "https://x.com/Jacobsklug/status/2032071257789976897",
         "title": {
-          "en-US": "cool fork of openclaw where agent learns to make money and get specialized in a problem space",
-          "zh-CN": "OpenClaw 的一个 fork，让 agent 专门学习赚钱和在特定领域深耕"
+          "en-US": "Made $4.7M with AI, recorded building OpenClaw business in one hour",
+          "zh-CN": "作者声称用AI赚了470万美元，并录制了用OpenClaw在一小时内搭建业务的视频教程"
         },
         "summary": {
-          "en-US": "OpenClaw/AI Agent 自主进化",
-          "zh-CN": "最有价值的 Agent 不是什么都懂的通才，而是能在某个狭窄领域钻到别人到不了深度的人——专注本身就是最大的杠杆。"
+          "en-US": "OpenClaw/AI变现/快速搭建业务",
+          "zh-CN": "'一小时搭建业务'的承诺听起来诱人，但真正的业务从来不是搭起来的，是长出来的。快速搭建的是脚手架，能留住客户、产生复利的是系统。炫'搭建速度'，恰恰说明还没遇到真正的业务问题——获客、留存、口碑、迭代。真正的增长不是比谁启动快，是比谁活得久。"
         },
-        "relevance": "OpenClaw/AI Agent 自主进化",
+        "relevance": "OpenClaw/AI变现/快速搭建业务",
         "score": 0.78,
         "engagement": {
-          "likes": 99,
-          "replies": 2,
-          "retweets": 6
+          "likes": 87,
+          "replies": 49,
+          "retweets": 4
         },
-        "comment_type": "wisdom_drop",
-        "synced_at": "2026-03-10T18:03:54.048371+00:00",
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-03-12T14:05:40.965156+00:00",
         "js_take": {
-          "en-US": "\"Jack of all trades\" agents are a trap. Real moat isn't API count. It's 1000 hours in one painful problem nobody else wants.",
-          "zh-CN": "「万金油」型Agent是个陷阱。真正的护城河不是接了多少API，而是在别人不愿碰的痛点上死磕1000小时。"
+          "en-US": "I can spin up a SaaS in 20 minutes. Keeping it alive past month 6? That's the hard part. Everyone wants to show you the starting line. Ask them about the 3-year survival rate instead.",
+          "zh-CN": "搭个SaaS，20分钟就够。但让它活过6个月？那才是硬仗。满世界都在炫耀起跑线，你该问问他们三年存活率有多少。"
         }
       }
     ]
