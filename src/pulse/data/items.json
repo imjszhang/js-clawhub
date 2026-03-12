@@ -56,6 +56,34 @@
     }
   },
   {
+    "id": "2031750343621558380",
+    "date": "2026-03-12",
+    "author": "@aiwarts",
+    "author_url": "https://x.com/aiwarts",
+    "tweet_url": "https://x.com/aiwarts/status/2031750343621558380",
+    "title": {
+      "en-US": "OpenClaw needs 5 skills to spin: self-improving, skill-creator, find-skills, vetter, workflows",
+      "zh-CN": "新生的OpenClaw最少需要安装多少个Skills才能把飞轮转起来？作者列出5个核心技能，探讨OpenClaw agent的自我迭代和生态构建。"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心架构讨论，agent生态建设",
+      "zh-CN": "这条推文的问题本身暴露了过度工程化的思维——把「启动」当成需要5个模块的精密组装，而真正的系统往往是从一个能用的核心自生长出来的，越复杂的预设架构反而越容易僵化。"
+    },
+    "relevance": "OpenClaw核心架构讨论，agent生态建设",
+    "score": 0.82,
+    "engagement": {
+      "likes": 749,
+      "replies": 13,
+      "retweets": 152
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T06:04:14.270115+00:00",
+    "js_take": {
+      "en-US": "5 skills? You're sketching a cathedral when you need a spark. The real flywheel is one skill that writes the next—everything else is just offspring.",
+      "zh-CN": "追逐五项技能？你需要的是点燃火花，却在大教堂里画图纸。真正的飞轮是：一个技能催生下一个技能，其余皆为附庸。"
+    }
+  },
+  {
     "id": "2031895504427368903",
     "date": "2026-03-12",
     "author": "@stash_pomichter",
@@ -251,6 +279,34 @@
     "js_take": {
       "en-US": "Security is freedom's price tag. Build the wall, and you've already admitted you live in a world of wolves.",
       "zh-CN": "Security is freedom's price tag. Build the wall, and you've already admitted you live in a world of wolves."
+    }
+  },
+  {
+    "id": "2031965133405073823",
+    "date": "2026-03-12",
+    "author": "@openclaw",
+    "author_url": "https://x.com/openclaw",
+    "tweet_url": "https://x.com/openclaw/status/2031965133405073823",
+    "title": {
+      "en-US": "OpenClaw 2026.3.11 release: Hunter/Healer Alpha, GPT 5.4, Gemini Embedding, OpenCode Go",
+      "zh-CN": "OpenClaw发布2026.3.11版本更新，包括Hunter/Healer模型、GPT 5.4支持、Gemini嵌入、OpenCode Go以及安全加固，强调\"我们发布得比他们克隆得还快\"。"
+    },
+    "summary": {
+      "en-US": "OpenClaw官方更新，平台速度优势",
+      "zh-CN": "\"Ship faster than they can clone\" 这句宣言的问题在于：当竞品能克隆你的功能时，速度优势其实是脆弱的护城河。真正的壁垒不是发布速度，而是别人看不清你为什么这么设计。"
+    },
+    "relevance": "OpenClaw官方更新，平台速度优势",
+    "score": 0.76,
+    "engagement": {
+      "likes": 492,
+      "replies": 64,
+      "retweets": 54
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T06:04:14.270121+00:00",
+    "js_take": {
+      "en-US": "\"Ship faster\" is a vanity metric. They'll clone your code in a week. The real moat is the years it takes to copy your understanding of why.",
+      "zh-CN": "\"快速上线\"是虚荣指标。别人一周就能抄走你的代码，但真正的护城河是——他们要花多少年才能参透你为何这么做。"
     }
   },
   {
@@ -508,6 +564,34 @@
     "js_take": {
       "en-US": "Not who builds OpenClaw. Why we need it. Sites are becoming databases. Agents are becoming interfaces. That's the real migration.",
       "zh-CN": "重点不是谁开发了 OpenClaw，而是我们为什么需要它。网站正在退化为数据库，而 Agent 正在成为新的交互界面——这才是真正的范式转移。"
+    }
+  },
+  {
+    "id": "2031765920365027356",
+    "date": "2026-03-12",
+    "author": "@AmpereSh",
+    "author_url": "https://x.com/AmpereSh",
+    "tweet_url": "https://x.com/AmpereSh/status/2031765920365027356",
+    "title": {
+      "en-US": "OpenClaw fixed 6 things quietly killing your agents, made it significantly more powerful",
+      "zh-CN": "Ampere.sh宣布OpenClaw修复了6个默默影响agent性能的底层问题，称这是一次重大升级。"
+    },
+    "summary": {
+      "en-US": "OpenClaw重大功能更新，agent性能优化",
+      "zh-CN": "这条推文的叙事很聪明——把修复问题包装成\"杀死agent的6个凶手\"，但真正的洞察是：agent平台最难的不是加功能，而是发现那些\"安静\"的系统性问题。看不见的bug比看得见的feature更致命。"
+    },
+    "relevance": "OpenClaw重大功能更新，agent性能优化",
+    "score": 0.71,
+    "engagement": {
+      "likes": 292,
+      "replies": 37,
+      "retweets": 25
+    },
+    "comment_type": "wisdom_drop",
+    "synced_at": "2026-03-12T06:04:14.270124+00:00",
+    "js_take": {
+      "en-US": "The bugs that kill you don't crash. They whisper while your dashboard stays green.",
+      "zh-CN": "真正致命的bug从不会崩溃。它们在仪表盘一片祥和时，悄然潜伏。"
     }
   },
   {
@@ -5636,96 +5720,6 @@
     "js_take": {
       "en-US": "80 meetups in months looks explosive. But meetups are cheap—show me who's still building with OpenClaw a year later, after the free pizza runs out.",
       "zh-CN": "几个月 80 个 meetup 看起来爆炸式增长。但 meetup 成本很低——给我看看一年后还有谁在用 OpenClaw 做东西，等免费披萨吃完之后。"
-    }
-  },
-  {
-    "id": "2028656144957219048",
-    "date": "2026-03-03",
-    "author": "@twistartups",
-    "author_url": "https://x.com/twistartups",
-    "tweet_url": "https://x.com/twistartups/status/2028656144957219048",
-    "title": {
-      "en-US": "Unreal Engine environment for OpenClaw agents",
-      "zh-CN": "有人用 Unreal Engine 做了一个可以和 OpenClaw Agent 一起 hang out 的环境，能看到所有 replicants 在一个地方"
-    },
-    "summary": {
-      "en-US": "OpenClaw 可视化与具身智能",
-      "zh-CN": "「看着 agent 工作」是一种控制幻觉——可视化让你感觉在监督，但真正的理解来自看日志而不是看动画。"
-    },
-    "relevance": "OpenClaw 可视化与具身智能",
-    "score": 0.74,
-    "engagement": {
-      "likes": 16,
-      "retweets": 0,
-      "replies": 2,
-      "views": 1418,
-      "bookmarks": 9
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T06:08:22.111485+00:00",
-    "js_take": {
-      "en-US": "You're not supervising agents—you're watching a screensaver. Real control lives in the logs, where nobody wants to look.",
-      "zh-CN": "你不是在监督 agent——你是在看屏保。真正的控制藏在日志里，而没人愿意去看。"
-    }
-  },
-  {
-    "id": "2028724796230635684",
-    "date": "2026-03-03",
-    "author": "@0xAllen",
-    "author_url": "https://x.com/0xAllen",
-    "tweet_url": "https://x.com/0xAllen/status/2028724796230635684",
-    "title": {
-      "en-US": "OpenClaw skill designed logo in 30 minutes with philosophy",
-      "zh-CN": "用 OpenClaw Skill 30 分钟设计 Logo，从哲学思想到视觉设计一气呵成"
-    },
-    "summary": {
-      "en-US": "OpenClaw 与创意设计",
-      "zh-CN": "「30 分钟搞懂设计哲学」是把哲学的深度误当成可压缩的信息——哲学不是被搞懂的，是被活出来的。"
-    },
-    "relevance": "OpenClaw 与创意设计",
-    "score": 0.74,
-    "engagement": {
-      "likes": 264,
-      "retweets": 41,
-      "replies": 5,
-      "views": 16317,
-      "bookmarks": 374
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T10:06:57.082086+00:00",
-    "js_take": {
-      "en-US": "30 minutes to \"get\" a philosophy? You compressed the words, not the understanding. Philosophy is lived, not parsed.",
-      "zh-CN": "30 分钟「搞懂」哲学？你压缩的是文字，不是理解。哲学是被活出来的，不是被解析的。"
-    }
-  },
-  {
-    "id": "2028802574917497313",
-    "date": "2026-03-03",
-    "author": "@MoonDevOnYT",
-    "author_url": "https://x.com/MoonDevOnYT",
-    "tweet_url": "https://x.com/MoonDevOnYT/status/2028802574917497313",
-    "title": {
-      "en-US": "Found something better than OpenClaw",
-      "zh-CN": "发现了一款比 OpenClaw 更好的工具"
-    },
-    "summary": {
-      "en-US": "OpenClaw 竞品对比",
-      "zh-CN": "「比 OpenClaw 更好」通常是功能对比陷阱——工具迁移成本不只是功能清单，而是你的工作流已经围绕旧工具长成。"
-    },
-    "relevance": "OpenClaw 竞品对比",
-    "score": 0.74,
-    "engagement": {
-      "likes": 20,
-      "retweets": 2,
-      "replies": 2,
-      "views": 2121,
-      "bookmarks": 22
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T14:03:16.256800+00:00",
-    "js_take": {
-      "en-US": "\"Better\" is a rookie trap. Your workflow grew *around* OpenClaw—ripping it out costs more than any feature list saves.",
-      "zh-CN": "「更好」是新手陷阱。你的工作流已经围绕 OpenClaw 长成——挖出来换掉，代价远超任何功能清单能省下的。"
     }
   }
 ]
