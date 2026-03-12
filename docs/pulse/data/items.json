@@ -112,6 +112,34 @@
     }
   },
   {
+    "id": "2031716385559298081",
+    "date": "2026-03-12",
+    "author": "@chaomeigu_com",
+    "author_url": "https://x.com/chaomeigu_com",
+    "tweet_url": "https://x.com/chaomeigu_com/status/2031716385559298081",
+    "title": {
+      "en-US": "Why OpenClaw over ByteDance AI phone that can do everything?",
+      "zh-CN": "提问：字节跳动的 AI 手机能点外卖、发微信、网购比价，为什么做不到这些的 OpenClaw 反而成了最优解？"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台讨论，Agent 生态对比，为什么「功能少」反而胜出",
+      "zh-CN": "纠正一个常见误解：能力多 ≠ 价值高。ByteDance 的 AI 手机是在「表世界」里做更多操作，而 OpenClaw 的克制恰恰是因为它活在「里世界」——不是帮你点外卖，而是帮你决定要不要点外卖。工具做减法，判断力做加法。"
+    },
+    "relevance": "OpenClaw 平台讨论，Agent 生态对比，为什么「功能少」反而胜出",
+    "score": 0.73,
+    "engagement": {
+      "likes": 230,
+      "replies": 71,
+      "retweets": 2
+    },
+    "comment_type": "reframe",
+    "synced_at": "2026-03-12T00:04:11.224933+00:00",
+    "js_take": {
+      "en-US": "ByteDance orders your lunch. OpenClaw decides if you should quit your job. Operations vs judgment—that's the gap.",
+      "zh-CN": "字节跳动帮你订午餐，OpenClaw 帮你决定是否该辞职。执行运营与决策判断——这才是真正的差距。"
+    }
+  },
+  {
     "id": "2031815517795692780",
     "date": "2026-03-12",
     "author": "@qrimeCapital",
@@ -5711,36 +5739,6 @@
     "js_take": {
       "en-US": "Ten parallel agents don't beat one agent that actually thinks. Coordination overhead is the slop they never measure.",
       "zh-CN": "十个并行 agent 打不过一个真正会思考的。协调成本这种 slop，他们从来不统计。"
-    }
-  },
-  {
-    "id": "2028612122519757141",
-    "date": "2026-03-03",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2028612122519757141",
-    "title": {
-      "en-US": "Stopped paying for API with 0.8B model on Mac mini",
-      "zh-CN": "在 Mac mini 上运行 0.8B 模型后停止支付 API 费用，分享了 .openclaw.json 配置"
-    },
-    "summary": {
-      "en-US": "OpenClaw 本地模型与成本优化",
-      "zh-CN": "「停止支付 API」是短期算账，忽略了维护和调试的隐性成本——免费的东西往往需要你付出时间。"
-    },
-    "relevance": "OpenClaw 本地模型与成本优化",
-    "score": 0.7,
-    "engagement": {
-      "likes": 112,
-      "retweets": 10,
-      "replies": 5,
-      "views": 16810,
-      "bookmarks": 154
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T13:06:57.128269+00:00",
-    "js_take": {
-      "en-US": "You traded API bills for weekend debugging. 0.8B models don't break loudly—they break weird.",
-      "zh-CN": "省了 API 费用，却换来了周末调试。0.8B 模型不会大声报错，而是会诡异出错。"
     }
   }
 ]
