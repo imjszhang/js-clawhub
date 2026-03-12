@@ -478,6 +478,34 @@
     }
   },
   {
+    "id": "2031992877174440448",
+    "date": "2026-03-12",
+    "author": "@ewind_dev",
+    "author_url": "https://x.com/ewind_dev",
+    "tweet_url": "https://x.com/ewind_dev/status/2031992877174440448",
+    "title": {
+      "en-US": "Feishu vs DingTalk/WeChat Work: OpenClaw adoption barrier",
+      "zh-CN": "钉钉和企业微信接不住OpenClaw流量是因为自建应用需复杂审批和域名备案，飞书是国内唯一支持WS长连接跳过域名且基础消息免审的IM。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台差异与IM生态",
+      "zh-CN": "推文点出了审批与架构的技术差异，但更深层的结构性问题是：当「里世界」（agents）开始接管交互时，「表世界」（传统IM的管控逻辑）的 bureaucratic friction 反而成了护城河——只不过守的是过去，不是未来。"
+    },
+    "relevance": "OpenClaw平台差异与IM生态",
+    "score": 0.76,
+    "engagement": {
+      "likes": 137,
+      "replies": 19,
+      "retweets": 12
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-12T10:07:15.215270+00:00",
+    "js_take": {
+      "en-US": "表 world builds walls. 里 world builds pipes. Feishu gets it — when agents become the interface, bureaucratic friction isn't a feature, it's a death sentence.",
+      "zh-CN": "表世界筑墙，里世界架桥。飞书懂这一点——当 Agent 成为交互界面时，官僚主义的摩擦不是特性，而是致命伤。"
+    }
+  },
+  {
     "id": "2031784211632574512",
     "date": "2026-03-12",
     "author": "@AlexFinn",
@@ -788,6 +816,34 @@
     "js_take": {
       "en-US": "The bugs that kill you don't crash. They whisper while your dashboard stays green.",
       "zh-CN": "真正致命的bug从不会崩溃。它们在仪表盘一片祥和时，悄然潜伏。"
+    }
+  },
+  {
+    "id": "2031953368126746834",
+    "date": "2026-03-12",
+    "author": "@NekoStranding",
+    "author_url": "https://x.com/NekoStranding",
+    "tweet_url": "https://x.com/NekoStranding/status/2031953368126746834",
+    "title": {
+      "en-US": "Tencent copied ClawHub after building their own skill hub",
+      "zh-CN": "OpenClaw作者steipete喊话腾讯：自己搞了skill hub后把ClawHub全爬光，还有人发邮件问为什么rate limit这么低耽误他们爬。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态与平台行为",
+      "zh-CN": "腾讯的行为模式印证了一个规律：当「里世界」的生态开始成型时，「表世界」的玩家第一反应永远是「把这个新 layer 的数据吸进自己的旧系统」——这是一种表世界对里世界的惯性殖民。"
+    },
+    "relevance": "OpenClaw生态与平台行为",
+    "score": 0.71,
+    "engagement": {
+      "likes": 170,
+      "replies": 24,
+      "retweets": 28
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-12T10:07:15.215276+00:00",
+    "js_take": {
+      "en-US": "Classic 表 world reflex: see a new 里 world thriving, treat it as a database to harvest. They don't want to join the migration — they want to colonize it from the old shore.",
+      "zh-CN": "表世界的经典反应：见里世界繁荣，便将其视为待收割的数据库。他们不想加入这场迁徙，只想从旧岸殖民新陆。"
     }
   },
   {
@@ -5648,64 +5704,6 @@
     "js_take": {
       "en-US": "You picked OpenClaw for features, not for how it plays with others. That's not an integration problem—it's buying the engine without checking if it fits your chassis.",
       "zh-CN": "选 OpenClaw 是看中了功能，却没考虑兼容性。这不是集成问题——是买了引擎才发现装不进车架。"
-    }
-  },
-  {
-    "id": "2028533746073321919",
-    "date": "2026-03-03",
-    "author": "@gregisenberg",
-    "author_url": "https://x.com/gregisenberg",
-    "tweet_url": "https://x.com/gregisenberg/status/2028533746073321919",
-    "title": {
-      "en-US": "Digital employees running marketing 24/7 with API keys",
-      "zh-CN": "用Claude Code、Railway、Meta等工具搭建24/7运行的数字员工来做营销自动化"
-    },
-    "summary": {
-      "en-US": "AI Agent营销 / 自动化 / OpenClaw",
-      "zh-CN": "把API密钥交给agent并让它自主运行是便利与风险的交易——你可以睡觉，但你的信用额度可能也在\"睡觉\"时被刷爆。"
-    },
-    "relevance": "AI Agent营销 / 自动化 / OpenClaw",
-    "score": 0.76,
-    "engagement": {
-      "likes": 215,
-      "replies": 34,
-      "retweets": 11
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-02T19:02:25.976224+00:00",
-    "js_take": {
-      "en-US": "Handing API keys to agents trades sleep for liability. Your credit card works 24/7 too—right up until it doesn't.",
-      "zh-CN": "把API密钥交给代理，是用责任换睡眠。你的信用卡也24/7工作——直到它用不了为止。"
-    }
-  },
-  {
-    "id": "2028588309111546151",
-    "date": "2026-03-03",
-    "author": "@bradmillscan",
-    "author_url": "https://x.com/bradmillscan",
-    "tweet_url": "https://x.com/bradmillscan/status/2028588309111546151",
-    "title": {
-      "en-US": "OpenClaw agents terrible at complex multi-step delegation",
-      "zh-CN": "批评 OpenClaw Agent 在执行需要委派的多步骤复杂流程时表现糟糕"
-    },
-    "summary": {
-      "en-US": "OpenClaw 能力边界 - 复杂任务执行",
-      "zh-CN": "复杂流程的失败不是技术限制，是设计哲学的错位——OpenClaw 被设计成「助手」而非「系统」，你却想用它做「架构」。"
-    },
-    "relevance": "OpenClaw 能力边界 - 复杂任务执行",
-    "score": 0.76,
-    "engagement": {
-      "likes": 210,
-      "retweets": 9,
-      "replies": 63,
-      "views": 14140,
-      "bookmarks": 81
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T03:08:30.832265+00:00",
-    "js_take": {
-      "en-US": "OpenClaw struggles with complex delegation because you're treating an assistant like an architect. That's not its ceiling—it's your miscast.",
-      "zh-CN": "OpenClaw处理复杂委托吃力，是因为你把助理当架构师用。这不是它的天花板——是你的角色错配。"
     }
   }
 ]
