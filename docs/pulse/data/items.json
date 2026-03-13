@@ -140,6 +140,62 @@
     }
   },
   {
+    "id": "2032198148664226256",
+    "date": "2026-03-13",
+    "author": "@0thernet",
+    "author_url": "https://x.com/0thernet",
+    "tweet_url": "https://x.com/0thernet/status/2032198148664226256",
+    "title": {
+      "en-US": "People say Zo is just hosted OpenClaw, but OpenClaw was inspired by Zo. Timeline: Zo beta June 2025, launch Nov 2025, OpenClaw first commit 6 days later.",
+      "zh-CN": "Zo创始人澄清时间线：Zo beta在2025年6月，正式发布在11月，OpenClaw首次提交在6天后。回应「Zo只是托管版OpenClaw」的说法。"
+    },
+    "summary": {
+      "en-US": "OpenClaw与Zo的产品渊源争议",
+      "zh-CN": "这场「谁先谁后」的争论本身就是过度简化的陷阱。用户不在乎灵感来源的时间戳，只在乎谁解决了他们今天的问题。执着于证明自己原创，恰恰是把势让给了更专注于产品的人。"
+    },
+    "relevance": "OpenClaw与Zo的产品渊源争议",
+    "score": 0.74,
+    "engagement": {
+      "likes": 91,
+      "replies": 14,
+      "retweets": 13
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-12T22:06:27.364803+00:00",
+    "js_take": {
+      "en-US": "Users don't check git history before choosing tools. Momentum belongs to whoever solves their problem today—not whoever committed first.",
+      "zh-CN": "用户选工具时从不查 Git 历史。势能属于当下解决问题的人，而非最早提交代码的人。"
+    }
+  },
+  {
+    "id": "2032208960275796199",
+    "date": "2026-03-13",
+    "author": "@mark_k",
+    "author_url": "https://x.com/mark_k",
+    "tweet_url": "https://x.com/mark_k/status/2032208960275796199",
+    "title": {
+      "en-US": "Nvidia developing NemoClaw to challenge OpenClaw ecosystem",
+      "zh-CN": "Nvidia 正在开发 NemoClaw 开源平台，对标 OpenClaw，但专注于企业市场而非个人助手。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 竞品 / Agent 平台竞争",
+      "zh-CN": "「企业 vs 个人」的市场切分是表象，真正的分野在于「agent 是谁的延伸」。NemoClaw 和 OpenClaw 的分歧不是功能差异，而是对「agent 归属权」的根本理解不同——属于公司，还是属于人。"
+    },
+    "relevance": "OpenClaw 竞品 / Agent 平台竞争",
+    "score": 0.74,
+    "engagement": {
+      "likes": 24,
+      "replies": 4,
+      "retweets": 0
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-12T23:08:27.686746+00:00",
+    "js_take": {
+      "en-US": "Enterprise vs personal is surface. The real split: does the agent serve the company, or you?里世界的归属权决定一切。",
+      "zh-CN": "企业版还是个人版只是表象。真正的分水岭是：这个 agent 到底服务谁？里世界的归属权，决定一切。"
+    }
+  },
+  {
     "id": "2032074102656418113",
     "date": "2026-03-13",
     "author": "@WiseInvest513",
@@ -165,6 +221,90 @@
     "js_take": {
       "en-US": "While English Twitter debated agents vs apps, Chinese builders just shipped. The best content comes from those too busy building to argue.",
       "zh-CN": "当英文 Twitter 还在争论 Agents 还是 Apps，中国开发者早已默默交付。真正优质的内容，来自那些埋头构建、无暇争辩的人。"
+    }
+  },
+  {
+    "id": "2032216272507978227",
+    "date": "2026-03-13",
+    "author": "@nickvasiles",
+    "author_url": "https://x.com/nickvasiles",
+    "tweet_url": "https://x.com/nickvasiles/status/2032216272507978227",
+    "title": {
+      "en-US": "Install Claude Code into OpenClaw's computer for better agent management",
+      "zh-CN": "建议在 OpenClaw 的 computer 里安装 Claude Code，让多个 agent 协作解决问题，称之为\"new meta\"。"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 多 Agent 架构讨论",
+      "zh-CN": "「多 agent 堆叠=更强」是过度简化的工程直觉——真正的问题不是 agent 数量，而是如何让它们不争不抢、各安其位。当每个人都在加 agent 时，减 agent 并设计好协作协议才是更难的竞争力。"
+    },
+    "relevance": "OpenClaw + 多 Agent 架构讨论",
+    "score": 0.72,
+    "engagement": {
+      "likes": 68,
+      "replies": 16,
+      "retweets": 10
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-12T23:08:27.686738+00:00",
+    "js_take": {
+      "en-US": "Every new agent adds a potential conflict. We spent more time fixing agent collisions than building features.势不在数量，在如何让它们不争。",
+      "zh-CN": "每新增一个 agent，就多一分冲突隐患。我们花在修复 agent 碰撞上的时间，比开发功能还多。势不在数量，在如何让它们不争。"
+    }
+  },
+  {
+    "id": "2032048726337077670",
+    "date": "2026-03-13",
+    "author": "@elvissun",
+    "author_url": "https://x.com/elvissun",
+    "tweet_url": "https://x.com/elvissun/status/2032048726337077670",
+    "title": {
+      "en-US": "Best CRM in 2026 is OpenClaw. Sales-led depth + product-led signals + founder-led intuition combined in one loop.",
+      "zh-CN": "推主认为2026年最好的CRM是OpenClaw——销售深度、产品信号和创始人直觉在一个闭环里结合。"
+    },
+    "summary": {
+      "en-US": "OpenClaw作为CRM的应用场景",
+      "zh-CN": "「把三种能力结合在一个闭环里」听起来很强大，但真正的洞察是反过来的：CRM的臃肿正是因为人们总想「结合」太多东西。最好的工具不是做更多，而是当你不需要它时它完全不打扰你。"
+    },
+    "relevance": "OpenClaw作为CRM的应用场景",
+    "score": 0.71,
+    "engagement": {
+      "likes": 180,
+      "replies": 12,
+      "retweets": 17
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-12T22:06:27.364809+00:00",
+    "js_take": {
+      "en-US": "The CRM problem was never missing features—it's that you have to babysit it. The best system works while you forget it exists.",
+      "zh-CN": "CRM 的问题从来不是功能不够，而是你得一直伺候它。最好的系统，是你忘了它存在时还能正常运转。"
+    }
+  },
+  {
+    "id": "2032120032050942153",
+    "date": "2026-03-13",
+    "author": "@cellier_",
+    "author_url": "https://x.com/cellier_",
+    "tweet_url": "https://x.com/cellier_/status/2032120032050942153",
+    "title": {
+      "en-US": "用 Codex 安装 Openclaw、修复问题、搭建知识系统、做研究、整理截图、同声传译...",
+      "zh-CN": "列举用 Codex 完成的 8 项任务：安装 OpenClaw、搭建 Obsidian AI 知识系统、环境配置、行业研究、整理截图、同声传译、下载 Twitter 视频、修复 Claude Code。"
+    },
+    "summary": {
+      "en-US": "Codex / OpenClaw 实践案例",
+      "zh-CN": "这份清单展示的是「我做了什么」，但更值得问的是「什么任务 Codex 做反而更差」。当所有任务都交给 agent，人的判断力反而会在舒适区里退化——工具的上限是人的下限。"
+    },
+    "relevance": "Codex / OpenClaw 实践案例",
+    "score": 0.71,
+    "engagement": {
+      "likes": 90,
+      "replies": 5,
+      "retweets": 16
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-12T23:08:27.686743+00:00",
+    "js_take": {
+      "en-US": "I automated 90% of my workflow with agents. Then realized I stopped questioning the output. Tool's ceiling is human's floor.",
+      "zh-CN": "我用 agents 自动化了 90% 的工作流，然后发现自己不再质疑输出了。工具的天花板，是人的地板。"
     }
   },
   {
@@ -5548,152 +5688,6 @@
     "js_take": {
       "en-US": "We obsess over what agents can do but ignore where we are when they do it. When AI operates your machine, the question isn't capability—it's whether you're collaborating or documenting your own replacement.",
       "zh-CN": "我们痴迷于探讨代理的能力边界，却忽略了更关键的问题：当AI接管你的设备时，你是在与它协作，还是在记录自己被取代的过程？"
-    }
-  },
-  {
-    "id": "2028860158101934311",
-    "date": "2026-03-04",
-    "author": "@boxmining",
-    "author_url": "https://x.com/boxmining",
-    "tweet_url": "https://x.com/boxmining/status/2028860158101934311",
-    "title": {
-      "en-US": "MaxClaw $0 to start, Google login only",
-      "zh-CN": "Minimax 推出 MaxClaw，0 美元起步，只需 Google 登录即可使用 OpenClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw 竞品与替代品",
-      "zh-CN": "「0 美元起步」是获客陷阱——免费让你入门，但迁移成本和数据锁定才是后期的真实账单。"
-    },
-    "relevance": "OpenClaw 竞品与替代品",
-    "score": 0.74,
-    "engagement": {
-      "likes": 14,
-      "retweets": 0,
-      "replies": 6,
-      "views": 2086,
-      "bookmarks": 23
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T17:09:17.376582+00:00",
-    "js_take": {
-      "en-US": "Free is the most expensive price. By month 3 you're paying in migration pain and data lock-in.",
-      "zh-CN": "免费是最贵的价格。到第三个月，你会用迁移痛苦和数据锁定来买单。"
-    }
-  },
-  {
-    "id": "2029198636811264264",
-    "date": "2026-03-04",
-    "author": "@RyanSAdams",
-    "author_url": "https://x.com/RyanSAdams",
-    "tweet_url": "https://x.com/RyanSAdams/status/2029198636811264264",
-    "title": {
-      "en-US": "zero human company: $80K revenue in 30 days, $1.5K startup cost, OpenClaw bot as CEO",
-      "zh-CN": "介绍了一个零人类公司案例：30天收入8万美元，启动成本仅1500美元，CEO是一个OpenClaw bot，月运营成本400美元。"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台应用——零人类公司的商业模式",
-      "zh-CN": "做纠正：大家都在算「省了多少钱」，但没人问「谁对结果负责」。当公司失败时，你不能解雇一个bot。自动化省下的成本，会在问责真空时加倍还回来。"
-    },
-    "relevance": "OpenClaw平台应用——零人类公司的商业模式",
-    "score": 0.74,
-    "engagement": {
-      "likes": 199,
-      "replies": 21,
-      "retweets": 24,
-      "views": 19492,
-      "bookmarks": 228
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-04T15:03:34.558765+00:00",
-    "js_take": {
-      "en-US": "Nice math. Missing line: accountability cost. When this fails, you can't fire a bot. The money saved on salaries pays back double when no one owns the failure.",
-      "zh-CN": "账算得挺漂亮，就是漏了条「责任成本」。真出事了，你总不能开除一个机器人吧？省下的那点工资，会在没人背锅的时候加倍奉还。"
-    }
-  },
-  {
-    "id": "2028773066340274461",
-    "date": "2026-03-04",
-    "author": "@denisyurchak",
-    "author_url": "https://x.com/denisyurchak",
-    "tweet_url": "https://x.com/denisyurchak/status/2028773066340274461",
-    "title": {
-      "en-US": "OpenClaw refused to set API key through chat. Is this normal?",
-      "zh-CN": "用户抱怨 OpenClaw 拒绝通过聊天设置 API key，询问这是否正常。"
-    },
-    "summary": {
-      "en-US": "直接关于 OpenClaw 平台的安全设计",
-      "zh-CN": "把「拒绝」重新定义为「边界意识」——不是 bug，是 agent 生态的成熟信号：真正的自主 agent 应该对敏感操作说「不」，哪怕是对自己的 owner。"
-    },
-    "relevance": "直接关于 OpenClaw 平台的安全设计",
-    "score": 0.72,
-    "engagement": {
-      "likes": 50,
-      "replies": 58,
-      "retweets": 1
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T20:03:48.697705+00:00",
-    "js_take": {
-      "en-US": "Your agent said 'no' and you called it a bug? That's the first real sign it's not your pet anymore.",
-      "zh-CN": "Agent 说\"不\"，你却以为是 bug？这才是它真正\"独立\"的第一个信号——它不再是你的宠物了。"
-    }
-  },
-  {
-    "id": "2028893209263521801",
-    "date": "2026-03-04",
-    "author": "@EXM7777",
-    "author_url": "https://x.com/EXM7777",
-    "tweet_url": "https://x.com/EXM7777/status/2028893209263521801",
-    "title": {
-      "en-US": "99% people using OpenClaw wrong—automating everything creates slop",
-      "zh-CN": "批评过度自动化的OpenClaw用户：完全无人干预的AI系统只会产生垃圾内容"
-    },
-    "summary": {
-      "en-US": "OpenClaw使用哲学——自动化边界",
-      "zh-CN": "推文把「自动化一切」当成问题，但真正的陷阱是搞反了人和AI的权责分界。没人会说「我用计算器算错是因为按了太多键」，但很多人却期待AI自己闭环就能出好结果。更好的说法是：AI不是替你思考，是替你执行——指挥权在人手里，锅也在人手里。"
-    },
-    "relevance": "OpenClaw使用哲学——自动化边界",
-    "score": 0.72,
-    "engagement": {
-      "likes": 115,
-      "replies": 31,
-      "retweets": 2
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T21:11:32.391250+00:00",
-    "js_take": {
-      "en-US": "You blame OpenClaw for \"slop\" but you're the one who automated the thinking part. 99% don't have an automation problem—they have a abdication problem.",
-      "zh-CN": "你骂OpenClaw产出垃圾，但把脑子外包的人明明是你。99%的人不是没有自动化——而是在逃避思考。"
-    }
-  },
-  {
-    "id": "2028878067389919238",
-    "date": "2026-03-04",
-    "author": "@Voxyz_ai",
-    "author_url": "https://x.com/Voxyz_ai",
-    "tweet_url": "https://x.com/Voxyz_ai/status/2028878067389919238",
-    "title": {
-      "en-US": "MEMORY.md turned into a junk drawer after 3 weeks of agents",
-      "zh-CN": "作者运行10个agent三周后，MEMORY.md变成杂物抽屉，重要决策淹没在转录中，旧笔记和新决策权重相同"
-    },
-    "summary": {
-      "en-US": "AI agent 记忆管理、OpenClaw MEMORY.md",
-      "zh-CN": "记忆系统的失败不是技术问题，是设计哲学的缺失——不是所有信息都值得记住，agent需要学会'遗忘'。人类大脑通过遗忘来保持专注，agent却把所有记录平权处理，导致重要信号被噪声淹没。记忆的质量不取决于存了多少，而取决于舍去了多少。"
-    },
-    "relevance": "AI agent 记忆管理、OpenClaw MEMORY.md",
-    "score": 0.72,
-    "engagement": {
-      "likes": 66,
-      "retweets": 2,
-      "replies": 8,
-      "views": 5810,
-      "bookmarks": 88
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-04T11:03:59.642880+00:00",
-    "js_take": {
-      "en-US": "Your agent has digital hoarding disorder. The best memory system isn't what you keep—it's what you have the guts to delete.",
-      "zh-CN": "你的代理可能得了数字囤积症。最好的记忆系统不在于你保留了什么，而在于你敢不敢删掉什么。"
     }
   }
 ]

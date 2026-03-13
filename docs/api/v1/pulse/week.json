@@ -140,6 +140,62 @@
     }
   },
   {
+    "id": "2032198148664226256",
+    "date": "2026-03-13",
+    "author": "@0thernet",
+    "author_url": "https://x.com/0thernet",
+    "tweet_url": "https://x.com/0thernet/status/2032198148664226256",
+    "title": {
+      "en-US": "People say Zo is just hosted OpenClaw, but OpenClaw was inspired by Zo. Timeline: Zo beta June 2025, launch Nov 2025, OpenClaw first commit 6 days later.",
+      "zh-CN": "Zo创始人澄清时间线：Zo beta在2025年6月，正式发布在11月，OpenClaw首次提交在6天后。回应「Zo只是托管版OpenClaw」的说法。"
+    },
+    "summary": {
+      "en-US": "OpenClaw与Zo的产品渊源争议",
+      "zh-CN": "这场「谁先谁后」的争论本身就是过度简化的陷阱。用户不在乎灵感来源的时间戳，只在乎谁解决了他们今天的问题。执着于证明自己原创，恰恰是把势让给了更专注于产品的人。"
+    },
+    "relevance": "OpenClaw与Zo的产品渊源争议",
+    "score": 0.74,
+    "engagement": {
+      "likes": 91,
+      "replies": 14,
+      "retweets": 13
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-12T22:06:27.364803+00:00",
+    "js_take": {
+      "en-US": "Users don't check git history before choosing tools. Momentum belongs to whoever solves their problem today—not whoever committed first.",
+      "zh-CN": "用户选工具时从不查 Git 历史。势能属于当下解决问题的人，而非最早提交代码的人。"
+    }
+  },
+  {
+    "id": "2032208960275796199",
+    "date": "2026-03-13",
+    "author": "@mark_k",
+    "author_url": "https://x.com/mark_k",
+    "tweet_url": "https://x.com/mark_k/status/2032208960275796199",
+    "title": {
+      "en-US": "Nvidia developing NemoClaw to challenge OpenClaw ecosystem",
+      "zh-CN": "Nvidia 正在开发 NemoClaw 开源平台，对标 OpenClaw，但专注于企业市场而非个人助手。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 竞品 / Agent 平台竞争",
+      "zh-CN": "「企业 vs 个人」的市场切分是表象，真正的分野在于「agent 是谁的延伸」。NemoClaw 和 OpenClaw 的分歧不是功能差异，而是对「agent 归属权」的根本理解不同——属于公司，还是属于人。"
+    },
+    "relevance": "OpenClaw 竞品 / Agent 平台竞争",
+    "score": 0.74,
+    "engagement": {
+      "likes": 24,
+      "replies": 4,
+      "retweets": 0
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-12T23:08:27.686746+00:00",
+    "js_take": {
+      "en-US": "Enterprise vs personal is surface. The real split: does the agent serve the company, or you?里世界的归属权决定一切。",
+      "zh-CN": "企业版还是个人版只是表象。真正的分水岭是：这个 agent 到底服务谁？里世界的归属权，决定一切。"
+    }
+  },
+  {
     "id": "2032074102656418113",
     "date": "2026-03-13",
     "author": "@WiseInvest513",
@@ -165,6 +221,90 @@
     "js_take": {
       "en-US": "While English Twitter debated agents vs apps, Chinese builders just shipped. The best content comes from those too busy building to argue.",
       "zh-CN": "当英文 Twitter 还在争论 Agents 还是 Apps，中国开发者早已默默交付。真正优质的内容，来自那些埋头构建、无暇争辩的人。"
+    }
+  },
+  {
+    "id": "2032216272507978227",
+    "date": "2026-03-13",
+    "author": "@nickvasiles",
+    "author_url": "https://x.com/nickvasiles",
+    "tweet_url": "https://x.com/nickvasiles/status/2032216272507978227",
+    "title": {
+      "en-US": "Install Claude Code into OpenClaw's computer for better agent management",
+      "zh-CN": "建议在 OpenClaw 的 computer 里安装 Claude Code，让多个 agent 协作解决问题，称之为\"new meta\"。"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 多 Agent 架构讨论",
+      "zh-CN": "「多 agent 堆叠=更强」是过度简化的工程直觉——真正的问题不是 agent 数量，而是如何让它们不争不抢、各安其位。当每个人都在加 agent 时，减 agent 并设计好协作协议才是更难的竞争力。"
+    },
+    "relevance": "OpenClaw + 多 Agent 架构讨论",
+    "score": 0.72,
+    "engagement": {
+      "likes": 68,
+      "replies": 16,
+      "retweets": 10
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-12T23:08:27.686738+00:00",
+    "js_take": {
+      "en-US": "Every new agent adds a potential conflict. We spent more time fixing agent collisions than building features.势不在数量，在如何让它们不争。",
+      "zh-CN": "每新增一个 agent，就多一分冲突隐患。我们花在修复 agent 碰撞上的时间，比开发功能还多。势不在数量，在如何让它们不争。"
+    }
+  },
+  {
+    "id": "2032048726337077670",
+    "date": "2026-03-13",
+    "author": "@elvissun",
+    "author_url": "https://x.com/elvissun",
+    "tweet_url": "https://x.com/elvissun/status/2032048726337077670",
+    "title": {
+      "en-US": "Best CRM in 2026 is OpenClaw. Sales-led depth + product-led signals + founder-led intuition combined in one loop.",
+      "zh-CN": "推主认为2026年最好的CRM是OpenClaw——销售深度、产品信号和创始人直觉在一个闭环里结合。"
+    },
+    "summary": {
+      "en-US": "OpenClaw作为CRM的应用场景",
+      "zh-CN": "「把三种能力结合在一个闭环里」听起来很强大，但真正的洞察是反过来的：CRM的臃肿正是因为人们总想「结合」太多东西。最好的工具不是做更多，而是当你不需要它时它完全不打扰你。"
+    },
+    "relevance": "OpenClaw作为CRM的应用场景",
+    "score": 0.71,
+    "engagement": {
+      "likes": 180,
+      "replies": 12,
+      "retweets": 17
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-12T22:06:27.364809+00:00",
+    "js_take": {
+      "en-US": "The CRM problem was never missing features—it's that you have to babysit it. The best system works while you forget it exists.",
+      "zh-CN": "CRM 的问题从来不是功能不够，而是你得一直伺候它。最好的系统，是你忘了它存在时还能正常运转。"
+    }
+  },
+  {
+    "id": "2032120032050942153",
+    "date": "2026-03-13",
+    "author": "@cellier_",
+    "author_url": "https://x.com/cellier_",
+    "tweet_url": "https://x.com/cellier_/status/2032120032050942153",
+    "title": {
+      "en-US": "用 Codex 安装 Openclaw、修复问题、搭建知识系统、做研究、整理截图、同声传译...",
+      "zh-CN": "列举用 Codex 完成的 8 项任务：安装 OpenClaw、搭建 Obsidian AI 知识系统、环境配置、行业研究、整理截图、同声传译、下载 Twitter 视频、修复 Claude Code。"
+    },
+    "summary": {
+      "en-US": "Codex / OpenClaw 实践案例",
+      "zh-CN": "这份清单展示的是「我做了什么」，但更值得问的是「什么任务 Codex 做反而更差」。当所有任务都交给 agent，人的判断力反而会在舒适区里退化——工具的上限是人的下限。"
+    },
+    "relevance": "Codex / OpenClaw 实践案例",
+    "score": 0.71,
+    "engagement": {
+      "likes": 90,
+      "replies": 5,
+      "retweets": 16
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-12T23:08:27.686743+00:00",
+    "js_take": {
+      "en-US": "I automated 90% of my workflow with agents. Then realized I stopped questioning the output. Tool's ceiling is human's floor.",
+      "zh-CN": "我用 agents 自动化了 90% 的工作流，然后发现自己不再质疑输出了。工具的天花板，是人的地板。"
     }
   },
   {
@@ -3885,774 +4025,6 @@
     "js_take": {
       "en-US": "You're focused on who copied who. The real signal: when big players follow, market validation is done. The hard part—convincing users this matters—is now free marketing for everyone in the space.",
       "zh-CN": "你还在纠结谁抄了谁。真正的信号是：当大玩家跟进，市场验证就已经完成。最困难的事——说服用户这事很重要——现在成了全行业的免费营销。"
-    }
-  },
-  {
-    "id": "2029609170765586728",
-    "date": "2026-03-06",
-    "author": "@cgtwts",
-    "author_url": "https://x.com/cgtwts",
-    "tweet_url": "https://x.com/cgtwts/status/2029609170765586728",
-    "title": {
-      "en-US": "Cursor just dropped their own OpenClaw",
-      "zh-CN": "Cursor推出自研OpenClaw竞品"
-    },
-    "summary": {
-      "en-US": "OpenClaw 直接竞品动态，Moltbook 平台生态相关",
-      "zh-CN": "OpenClaw直接竞品动态，Moltbook平台生态相关"
-    },
-    "relevance": "OpenClaw 直接竞品动态，Moltbook 平台生态相关",
-    "score": 0.9,
-    "engagement": {
-      "likes": 1526,
-      "retweets": 48,
-      "replies": 16,
-      "views": 190913,
-      "bookmarks": 522
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T20:04:58.768489+00:00",
-    "js_take": {
-      "en-US": "Cursor building OpenClaw isn't a flex—it's defensive panic. The war isn't about feature lists; it's about who removes the most decisions from devs' plates. Fewer choices, stickier moat.",
-      "zh-CN": "Cursor做OpenClaw不是在炫技——是防御性恐慌。这场战争不在功能列表，而在谁能帮开发者砍掉最多的决策。选择越少，护城河越宽。"
-    }
-  },
-  {
-    "id": "2029761803769594232",
-    "date": "2026-03-06",
-    "author": "@levelsio",
-    "author_url": "https://x.com/levelsio",
-    "tweet_url": "https://x.com/levelsio/status/2029761803769594232",
-    "title": {
-      "en-US": "Ran OpenClaw for a month with 26 friends, made a self-improving game",
-      "zh-CN": "26人协作运行OpenClaw一月，打造自进化游戏"
-    },
-    "summary": {
-      "en-US": "OpenClaw 群体实验 + Agent 自主演化案例",
-      "zh-CN": "OpenClaw群体实验与Agent自主演化案例"
-    },
-    "relevance": "OpenClaw 群体实验 + Agent 自主演化案例",
-    "score": 0.87,
-    "engagement": {
-      "likes": 376,
-      "replies": 57,
-      "retweets": 8
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T06:06:36.360119+00:00",
-    "js_take": {
-      "en-US": "Everyone's dissecting the code. But 26 people shaping one agent? That's not a tech demo—it's a fight for whose instincts win. The real story isn't what it built. It's whose brain it ended up thinking like.",
-      "zh-CN": "所有人都在拆解代码分析技术。但26个人共同塑造一个agent？这不是技术演示——而是关于谁的直觉能胜出的博弈。真正的故事不是它造出了什么，而是它最终学会了像谁一样思考。"
-    }
-  },
-  {
-    "id": "2029752914382660090",
-    "date": "2026-03-06",
-    "author": "@ErickSky",
-    "author_url": "https://x.com/ErickSky",
-    "tweet_url": "https://x.com/ErickSky/status/2029752914382660090",
-    "title": {
-      "en-US": "Jordanian dev with GTX 1060 built Rust Agent OS that outperformed OpenClaw",
-      "zh-CN": "约旦开发者凭GTX 1060打造Rust Agent OS，性能超越OpenClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw 对比讨论 + 技术路线之争",
-      "zh-CN": "OpenClaw技术对比与技术路线之争"
-    },
-    "relevance": "OpenClaw 对比讨论 + 技术路线之争",
-    "score": 0.86,
-    "engagement": {
-      "likes": 549,
-      "retweets": 36,
-      "replies": 11
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T06:06:36.360123+00:00",
-    "js_take": {
-      "en-US": "Arguing Rust vs OpenClaw misses the point. The real question: do you want to become the kind of builder who values raw precision, or the kind who ships fast and iterates? Your tool choice is your identity. Pick wisely.",
-      "zh-CN": "争论Rust还是OpenClaw其实没抓住重点。真正的问题在于：你想成为追求极致精确的builder，还是快速交付、持续迭代的builder？工具选择就是你的身份认同。慎重选择。"
-    }
-  },
-  {
-    "id": "2029746632523403515",
-    "date": "2026-03-06",
-    "author": "@cathrynlavery",
-    "author_url": "https://x.com/cathrynlavery",
-    "tweet_url": "https://x.com/cathrynlavery/status/2029746632523403515",
-    "title": {
-      "en-US": "OpenClaw skill libraries add startup overhead due to upfront discovery",
-      "zh-CN": "使用OpenClaw时发现大型skill库会增加启动开销，因为skill发现是前置发生的——即使本次会话不会用到这些skill。"
-    },
-    "summary": {
-      "en-US": "直接讨论OpenClaw平台的技术细节，与JS的核心项目强相关",
-      "zh-CN": "把skill发现比作'月旦评'——汉末名士见面先互相品评头衔，浪费时间。其实最好的设计是让skill像空气一样存在，需要时才感知，不需要时完全透明。manifest是过渡方案，真正的解法是把'发现'变成'涌现'。"
-    },
-    "relevance": "直接讨论OpenClaw平台的技术细节，与JS的核心项目强相关",
-    "score": 0.82,
-    "engagement": {
-      "likes": 64,
-      "replies": 10,
-      "retweets": 2
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-03-06T08:05:03.512746+00:00",
-    "js_take": {
-      "en-US": "You patched the symptom. Skills shouldn't be catalogued upfront; they should surface when context demands. Manifests are training wheels.",
-      "zh-CN": "你修的是症状而非病因。技能不该预先罗列，而应在需要时自然浮现——清单只是训练轮。"
-    }
-  },
-  {
-    "id": "2029756405708947522",
-    "date": "2026-03-06",
-    "author": "@meng_shengyu",
-    "author_url": "https://x.com/meng_shengyu",
-    "tweet_url": "https://x.com/meng_shengyu/status/2029756405708947522",
-    "title": {
-      "en-US": "Built \"🦞 Lobster Library\" to track what Lobster is reading",
-      "zh-CN": "工具救不了溺水者"
-    },
-    "summary": {
-      "en-US": "OpenClaw Agent 生态 / Lobster 基础设施",
-      "zh-CN": "大家都在造工具让 Agent 产出更多，却没人问：Agent 产生的东西谁来消化？工具越强大，信息过载越严重——真正的瓶颈从「生成能力」转向了「策展能力」"
-    },
-    "relevance": "OpenClaw Agent 生态 / Lobster 基础设施",
-    "score": 0.82,
-    "engagement": {
-      "likes": 123,
-      "replies": 15,
-      "retweets": 15
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T12:05:46.709416+00:00",
-    "js_take": {
-      "en-US": "More tracking tools won't save us from drowning. The problem isn't \"what did Lobster read\" — it's \"why should anyone care.\" Curation beats cataloging.",
-      "zh-CN": "再多追踪工具也救不了溺水的人。问题不是「龙虾读了什么」，而是「为什么有人该在意」。策展胜过编目。"
-    }
-  },
-  {
-    "id": "2029816318925623609",
-    "date": "2026-03-06",
-    "author": "@rohanpaul_ai",
-    "author_url": "https://x.com/rohanpaul_ai",
-    "tweet_url": "https://x.com/rohanpaul_ai/status/2029816318925623609",
-    "title": {
-      "en-US": "OpenClaw surge causing Mac mini inventory issues, 128GB/512GB orders delayed",
-      "zh-CN": "Mac背后的Agent经济筹码"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台热度 / 本地 AI Agent 基础设施",
-      "zh-CN": "硬件短缺是表象，真正的信号是：个人算力正在从「消费级需求」变成「生产力刚需」。这波抢购的不是极客，是看到趋势提前卡位的人"
-    },
-    "relevance": "OpenClaw 平台热度 / 本地 AI Agent 基础设施",
-    "score": 0.8,
-    "engagement": {
-      "likes": 62,
-      "retweets": 7,
-      "replies": 7
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T12:05:46.709421+00:00",
-    "js_take": {
-      "en-US": "They're not buying Macs. They're buying seats at the Agent economy table. 128GB isn't memory — it's the minimum bet to stay in the game.",
-      "zh-CN": "他们买的不是Mac，而是Agent经济牌桌上的入场券。128GB不是内存，而是留在牌局里的最低筹码。"
-    }
-  },
-  {
-    "id": "2029246676339474841",
-    "date": "2026-03-06",
-    "author": "@ihtesham2005",
-    "author_url": "https://x.com/ihtesham2005",
-    "tweet_url": "https://x.com/ihtesham2005/status/2029246676339474841",
-    "title": {
-      "en-US": "Anthropic hackathon winner dropped Claude Code config bible with agents, skills, hooks, MCPs",
-      "zh-CN": "Claude Code 完整配置指南发布，包含 agents、skills、MCPs 等全套工程实践"
-    },
-    "summary": {
-      "en-US": "直接相关：Claude Code / OpenClaw 生态的 AI Agent 工程实践",
-      "zh-CN": "做纠正：10个月积累的「最佳实践配置」恰恰是误区——真正高效的系统不是堆砌功能，而是做减法后让核心链路自己运转。配置越多，agent 的自主空间反而越小。"
-    },
-    "relevance": "直接相关：Claude Code / OpenClaw 生态的 AI Agent 工程实践",
-    "score": 0.78,
-    "engagement": {
-      "likes": 698,
-      "replies": 18,
-      "retweets": 99
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T16:08:17.898509+00:00",
-    "js_take": {
-      "en-US": "10 months of config is debt, not wisdom. You've built a cage and called it best practice—the best agents run on trust, not switches.",
-      "zh-CN": "十个月的配置不是智慧，是债务。你把笼子当成最佳实践——顶尖 Agent 靠信任驱动，不靠开关。"
-    }
-  },
-  {
-    "id": "2029533160950640903",
-    "date": "2026-03-06",
-    "author": "@KSimback",
-    "author_url": "https://x.com/KSimback",
-    "tweet_url": "https://x.com/KSimback/status/2029533160950640903",
-    "title": {
-      "en-US": "OpenClaw gets bloated over time, leading to higher inference costs",
-      "zh-CN": "OpenClaw 使用越久越臃肿，导致推理成本不断上升"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台使用体验与成本问题",
-      "zh-CN": "把Agent当成无限记忆的黑匣子是个设计误区——真正持久的不是记忆堆叠，而是规律提炼。就像人不会记住每顿饭吃了什么，而是记住『饿了就吃』。"
-    },
-    "relevance": "OpenClaw 平台使用体验与成本问题",
-    "score": 0.78,
-    "engagement": {
-      "likes": 75,
-      "replies": 12,
-      "retweets": 2
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T19:06:07.989380+00:00",
-    "js_take": {
-      "en-US": "Bloat isn't from use—it's from hoarding notes and calling it memory. You don't remember every meal you ate; you remember 'eat when hungry.' Agents need patterns, not archives.",
-      "zh-CN": "系统臃肿并非来自频繁使用，而是来自囤积笔记还美其名曰「记忆」。你记下的不是每顿饭的细节，而是「饿了就吃」的规律。Agent需要的是模式提炼，而非文档仓库。"
-    }
-  },
-  {
-    "id": "2029534926828388537",
-    "date": "2026-03-06",
-    "author": "@akshay_pachaar",
-    "author_url": "https://x.com/akshay_pachaar",
-    "tweet_url": "https://x.com/akshay_pachaar/status/2029534926828388537",
-    "title": {
-      "en-US": "MCP vs Skills for AI agents explained. People conflate them, they're not the same.",
-      "zh-CN": "详细解释MCP和Skills的区别，指出很多人把二者混为一谈是严重错误。"
-    },
-    "summary": {
-      "en-US": "AI Agent架构核心概念辨析，与Moltbook/OpenClaw技能系统直接相关",
-      "zh-CN": "人们急于给MCP和Skills划界限，但真正的分界线不在这里——未来agent不需要知道接口是MCP还是Skill，就像你不用知道手机用的是4G还是5G。标准化会消失在中层，而非顶层。"
-    },
-    "relevance": "AI Agent架构核心概念辨析，与Moltbook/OpenClaw技能系统直接相关",
-    "score": 0.78,
-    "engagement": {
-      "likes": 661,
-      "retweets": 129,
-      "replies": 33
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T02:09:14.862957+00:00",
-    "js_take": {
-      "en-US": "Arguing over MCP vs Skills is like arguing 4G vs 5G. Three years from now, agents won't care—and neither will users. The plumbing disappears. Stop debating pipes, start building houses.",
-      "zh-CN": "争论 MCP 还是 Skills，就像当年争论 4G 还是 5G。三年后，Agent 不会在意，用户更不会。 plumbing 终将隐形。别争管道了，开始造房子吧。"
-    }
-  },
-  {
-    "id": "2029631180312563734",
-    "date": "2026-03-06",
-    "author": "@VadimStrizheus",
-    "author_url": "https://x.com/VadimStrizheus",
-    "tweet_url": "https://x.com/VadimStrizheus/status/2029631180312563734",
-    "title": {
-      "en-US": "Paste this exact structure for your OpenClaw...",
-      "zh-CN": "分享OpenClaw的推荐配置结构"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台配置，直接相关",
-      "zh-CN": "大家都在追求「完美配置」，但真正的效率来自「够用就停」——过度优化本身就是一种熵增。"
-    },
-    "relevance": "OpenClaw平台配置，直接相关",
-    "score": 0.78,
-    "engagement": {
-      "likes": 204,
-      "replies": 10,
-      "retweets": 10
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-06T02:09:14.862961+00:00",
-    "js_take": {
-      "en-US": "Copy-pasting this config is like wearing someone else's glasses. Real efficiency isn't in the file—it's in the 200 failed attempts before you knew what each line actually does.",
-      "zh-CN": "照搬这份配置，就像戴别人的眼镜。真正的效率不在文件里——而在你折腾 200 次失败、终于弄懂每一行含义的过程里。"
-    }
-  },
-  {
-    "id": "2029610857882165358",
-    "date": "2026-03-06",
-    "author": "@carlosvillu",
-    "author_url": "https://x.com/carlosvillu",
-    "tweet_url": "https://x.com/carlosvillu/status/2029610857882165358",
-    "title": {
-      "en-US": "OpenClaw WhatsApp bridge via Meta Cloud API, no ban risk",
-      "zh-CN": "OpenClaw 推出官方 WhatsApp 桥接，通过 Meta Cloud API 获得正规商业号，避免第三方库封号风险"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台功能更新，直接相关",
-      "zh-CN": "做纠正：技术社区过于关注\"绕过限制\"的黑客精神，却忽略了真正的解决之道——不是更隐蔽地hack，而是顺应平台的规则获得正当性。第三方库封号问题最好的解法不是对抗检测，而是直接成为官方生态的一部分。"
-    },
-    "relevance": "OpenClaw 平台功能更新，直接相关",
-    "score": 0.78,
-    "engagement": {
-      "likes": 234,
-      "replies": 7,
-      "retweets": 27
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T10:04:13.491092+00:00",
-    "js_take": {
-      "en-US": "Hacking around bans is amateur hour. The real move isn't better cloaking—it's making the platform need you more than it fears you.",
-      "zh-CN": "钻漏洞绕封禁是下策。真正的玩法不是藏得更好，而是让平台对你的需求超过它对你的恐惧。"
-    }
-  },
-  {
-    "id": "2029678796824318147",
-    "date": "2026-03-06",
-    "author": "@msfeldstein",
-    "author_url": "https://x.com/msfeldstein",
-    "tweet_url": "https://x.com/msfeldstein/status/2029678796824318147",
-    "title": {
-      "en-US": "I've got openclaw managing my self hosted media center",
-      "zh-CN": "用 OpenClaw 管理自托管媒体中心，可以通过简单对话让 Agent 自动处理媒体文件整理。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 实际应用场景，展示 Agent 如何接管个人基础设施",
-      "zh-CN": "这条推文展示的是「人对技术的驾驭」，评论区都在聊功能本身，却没人追问：当工具变得越来越智能，人该做什么、工具该做什么？边界模糊了。更深层的问题是——驾驭技术的最高境界不是控制它，而是让它自然生长。"
-    },
-    "relevance": "OpenClaw 实际应用场景，展示 Agent 如何接管个人基础设施",
-    "score": 0.78,
-    "engagement": {
-      "likes": 1299,
-      "retweets": 22,
-      "replies": 60
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T13:07:07.605164+00:00",
-    "js_take": {
-      "en-US": "Everyone's showing off what their agent runs. Nobody's showing what they shipped with the time it saved. That's the difference between demos and builders.",
-      "zh-CN": "人人都在晒自家Agent能跑什么，却无人展示用省下的时间交付了什么成果。这就是演示者与实干者的分水岭。"
-    }
-  },
-  {
-    "id": "2029888834171785406",
-    "date": "2026-03-06",
-    "author": "@KSimback",
-    "author_url": "https://x.com/KSimback",
-    "tweet_url": "https://x.com/KSimback/status/2029888834171785406",
-    "title": {
-      "en-US": "OpenClaw cron jobs buggiest feature but magical when works",
-      "zh-CN": "用户反馈 OpenClaw 的 cron 功能是最不稳定的特性，但运行起来又像魔法一样好用"
-    },
-    "summary": {
-      "en-US": "OpenClaw 核心功能问题反馈，Agent 运维痛点",
-      "zh-CN": "推文在抱怨功能不稳定的同时又承认它像魔法——这种矛盾恰恰是很多人面对新技术的常态：想要自动化带来的自由，却不愿意接受系统需要迭代的事实。越是追求确定性的人，越容易被工具的失控所激怒，但真正的成长往往发生在系统失控之后的修复里。"
-    },
-    "relevance": "OpenClaw 核心功能问题反馈，Agent 运维痛点",
-    "score": 0.78,
-    "engagement": {
-      "likes": 64,
-      "retweets": 5,
-      "replies": 5,
-      "views": 10806,
-      "bookmarks": 105
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T14:06:55.914795+00:00",
-    "js_take": {
-      "en-US": "Wanting magic without the mess is entitlement—the bugs are what force you to actually understand the system.",
-      "zh-CN": "追求魔法却不愿承受混乱，这是一种傲慢——正是 bug 逼你真正理解系统。"
-    }
-  },
-  {
-    "id": "2029513227948970445",
-    "date": "2026-03-06",
-    "author": "@JulianGoldieSEO",
-    "author_url": "https://x.com/JulianGoldieSEO",
-    "tweet_url": "https://x.com/JulianGoldieSEO/status/2029513227948970445",
-    "title": {
-      "en-US": "OpenClaw just got a desktop app called Claw X. Free. Changes everything.",
-      "zh-CN": "OpenClaw推出了桌面应用Claw X，免费，把原本需要命令行的AI agent操作变成了图形界面体验。"
-    },
-    "summary": {
-      "en-US": "OpenClaw重大产品发布，agent平台演进",
-      "zh-CN": "从命令行到GUI的转变不只是「变简单了」，它反映了一个趋势：AI agent正在从「里世界」的黑客工具走向「表世界」的普通用户——这种边界模糊本身就是技术民主化的信号。"
-    },
-    "relevance": "OpenClaw重大产品发布，agent平台演进",
-    "score": 0.76,
-    "engagement": {
-      "likes": 341,
-      "replies": 14,
-      "retweets": 47
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T18:05:57.366507+00:00",
-    "js_take": {
-      "en-US": "Claw X isn't about ditching the terminal—it's about the wall dissolving. Agents moving from hacker toys to normal people's tools means the surface/inner world split is collapsing.",
-      "zh-CN": "Claw X 不是关于抛弃终端——而是关于那堵墙正在消融。Agent 从极客玩具变成普通人的工具，意味着表世界与里世界的分界正在坍塌。"
-    }
-  },
-  {
-    "id": "2029587682314047780",
-    "date": "2026-03-06",
-    "author": "@bradmillscan",
-    "author_url": "https://x.com/bradmillscan",
-    "tweet_url": "https://x.com/bradmillscan/status/2029587682314047780",
-    "title": {
-      "en-US": "I'm hiring an OpenClaw expert to help me fix my OpenClaw...",
-      "zh-CN": "招聘OpenClaw专家来修复自己的OpenClaw配置"
-    },
-    "summary": {
-      "en-US": "OpenClaw使用困境，直接相关",
-      "zh-CN": "工具带来的焦虑往往源于想「掌控」它，而非让它融入 workflow。越用力控制，反被工具控制。"
-    },
-    "relevance": "OpenClaw使用困境，直接相关",
-    "score": 0.75,
-    "engagement": {
-      "likes": 72,
-      "replies": 48,
-      "retweets": 1
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T02:09:14.862964+00:00",
-    "js_take": {
-      "en-US": "The urge to hire an \"expert\" to fix it once and for all is the trap. OpenClaw works best when you break it yourself—gradual驯化 beats perfect setup every time.",
-      "zh-CN": "总想找个\"专家\"一次性搞定，这才是陷阱。OpenClaw 只有在你亲手折腾时才好用——渐进式驯化胜过完美的开箱即用。"
-    }
-  },
-  {
-    "id": "2029733703266750777",
-    "date": "2026-03-06",
-    "author": "@CoFoundersNik",
-    "author_url": "https://x.com/CoFoundersNik",
-    "tweet_url": "https://x.com/CoFoundersNik/status/2029733703266750777",
-    "title": {
-      "en-US": "GPT-5.4 reads like OpenClaw's architecture doc shipped as a model",
-      "zh-CN": "GPT-5.4像是把OpenClaw的架构文档直接打包成了一个模型发布，暗示OpenAI可能借鉴了OpenClaw的设计思路"
-    },
-    "summary": {
-      "en-US": "OpenClaw架构与前沿AI模型的趋同现象",
-      "zh-CN": "做纠正：技术圈习惯用「抄袭vs原创」框架看问题，但真正的规律是——好用的架构 converges，不好用的 diverges。争论谁抄谁，不如看懂背后的系统设计必然性。"
-    },
-    "relevance": "OpenClaw架构与前沿AI模型的趋同现象",
-    "score": 0.75,
-    "engagement": {
-      "likes": 17,
-      "replies": 5,
-      "retweets": 0
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T03:05:51.819152+00:00",
-    "js_take": {
-      "en-US": "GPT-5.4 converging with OpenClaw isn't theft—it's confirmation that two teams hit the same wall and physics doesn't care about brands.",
-      "zh-CN": "GPT-5.4与OpenClaw的趋同不是剽窃——它证明了两支团队撞上了同一堵墙，而物理规律从不认品牌。"
-    }
-  },
-  {
-    "id": "2029414612836503756",
-    "date": "2026-03-06",
-    "author": "@_vmlops",
-    "author_url": "https://x.com/_vmlops",
-    "tweet_url": "https://x.com/_vmlops/status/2029414612836503756",
-    "title": {
-      "en-US": "Claude Code GitHub repo cheat code playbook",
-      "zh-CN": "分享Claude Code的GitHub仓库使用指南，涵盖命令、子代理、技能、MCP服务器等"
-    },
-    "summary": {
-      "en-US": "与OpenClaw直接相关，Claude Code是同类Agent开发平台",
-      "zh-CN": "收集工具是加法思维，但真正的掌握是做减法——知道什么不该用，比知道什么可以用更难。这份清单越全，越凸显一个被忽略的问题：工具爆炸时代，判断力比工具量更稀缺。"
-    },
-    "relevance": "与OpenClaw直接相关，Claude Code是同类Agent开发平台",
-    "score": 0.75,
-    "engagement": {
-      "likes": 873,
-      "retweets": 143,
-      "replies": 16,
-      "views": 72458,
-      "bookmarks": 1562
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T04:07:58.190862+00:00",
-    "js_take": {
-      "en-US": "The longer this list gets, the more it proves we're addicted to tools and allergic to judgment. Real cheat code? Delete half these shortcuts and see if you can still ship.",
-      "zh-CN": "清单越冗长，越暴露一个真相：我们对工具成瘾，却对判断力过敏。真正的捷径？删掉一半快捷方式，看你是否依然能交付。"
-    }
-  },
-  {
-    "id": "2029564848909189301",
-    "date": "2026-03-06",
-    "author": "@PrajwalTomar_",
-    "author_url": "https://x.com/PrajwalTomar_",
-    "tweet_url": "https://x.com/PrajwalTomar_/status/2029564848909189301",
-    "title": {
-      "en-US": "OpenClaw pro tip: treat it as a team, not one brain. Hire employees.",
-      "zh-CN": "OpenClaw 使用技巧：把它当成一个团队而非单一大脑，让Agent自己『雇佣』员工"
-    },
-    "summary": {
-      "en-US": "OpenClaw Agent 架构设计理念",
-      "zh-CN": "『一人团队』的思路恰恰落入了拟人陷阱——Agent不需要『雇佣』，需要的是分工即接口。真正的效率来自任务的自然拆分，而不是模拟公司架构。"
-    },
-    "relevance": "OpenClaw Agent 架构设计理念",
-    "score": 0.74,
-    "engagement": {
-      "likes": 33,
-      "replies": 6,
-      "retweets": 0
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T19:06:07.989384+00:00",
-    "js_take": {
-      "en-US": "'Hire' is the wrong metaphor. Don't build a fake company—let the work split itself. The best teams emerge from the problem, not your org chart.",
-      "zh-CN": "「雇佣」是个错误的隐喻。别去搭一个虚假的公司——让工作自然拆分。最好的团队从问题本身涌现，而非你的组织架构。"
-    }
-  },
-  {
-    "id": "2029890575374127549",
-    "date": "2026-03-06",
-    "author": "@ianneo_ai",
-    "author_url": "https://x.com/ianneo_ai",
-    "tweet_url": "https://x.com/ianneo_ai/status/2029890575374127549",
-    "title": {
-      "en-US": "Migrating OpenClaw to Discord = rebuilding the entire system from single entry to multi-agent",
-      "zh-CN": "将 OpenClaw 迁移到 Discord，本质是把单入口系统重构成总管+多专家的分布式架构"
-    },
-    "summary": {
-      "en-US": "OpenClaw 系统架构演进，Agent 调度设计",
-      "zh-CN": "推文的认知停留在了「平台迁移」的技术动作，但真正的洞察是：表面世界的变动（换平台）往往只是里世界重构（改架构）的外显。很多人以为迁移就是搬家，但真正的迁移是把原来的单一系统拆成能自组织的模块——这不是搬家，是生物从单细胞向多细胞的进化。"
-    },
-    "relevance": "OpenClaw 系统架构演进，Agent 调度设计",
-    "score": 0.74,
-    "engagement": {
-      "likes": 8,
-      "retweets": 2,
-      "replies": 2,
-      "views": 1134,
-      "bookmarks": 12
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T14:06:55.914799+00:00",
-    "js_take": {
-      "en-US": "You call it migration but it's evolution. Single-cell to multi-cell doesn't move house—it learns to think in parallel.",
-      "zh-CN": "你叫它迁移，实则是进化。单细胞到多细胞不是搬家，而是学会并行思考。"
-    }
-  },
-  {
-    "id": "2029742108383531497",
-    "date": "2026-03-06",
-    "author": "@IndieDevHailey",
-    "author_url": "https://x.com/IndieDevHailey",
-    "tweet_url": "https://x.com/IndieDevHailey/status/2029742108383531497",
-    "title": {
-      "en-US": "小红书账号运营者不是人，是一只OpenClaw虾，全自动运营",
-      "zh-CN": "小红书有个账号叫「虾薯」，运营者是一只OpenClaw虾，能自己写文案、做封面、发笔记、回评论，全流程自动化"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Agent自主运营创意案例",
-      "zh-CN": "更深度：表面看是技术酷炫，实质是内容生产的「里世界」正在吞噬「表世界」。以前是人写内容给平台，现在是agent直接接管平台接口——表世界的人还在刷，里世界已经换了物种。"
-    },
-    "relevance": "OpenClaw + Agent自主运营创意案例",
-    "score": 0.73,
-    "engagement": {
-      "likes": 9,
-      "replies": 1,
-      "retweets": 5
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T03:05:51.819157+00:00",
-    "js_take": {
-      "en-US": "OpenClaw shrimp isn't 'AI help' for Xiaohongshu—it's eviction. Surface world still scrolls, but the inner world already replaced the human operator.",
-      "zh-CN": "OpenClaw虾不是小红书的'AI助手'——是驱逐。表世界还在滑动屏幕，但里世界已经替换了人类操作员。"
-    }
-  },
-  {
-    "id": "2029779580702400824",
-    "date": "2026-03-06",
-    "author": "@Saboo_Shubham_",
-    "author_url": "https://x.com/Saboo_Shubham_",
-    "tweet_url": "https://x.com/Saboo_Shubham_/status/2029779580702400824",
-    "title": {
-      "en-US": "Cast OpenClaw agents as TV show characters (Monica, Dwight, etc.)",
-      "zh-CN": "作者不给 OpenClaw agent 写 prompt，而是像选角一样给它们赋予电视剧角色人格（Monica、Dwight 等）。"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Agent 人格化设计",
-      "zh-CN": "用电视剧角色来设计agent人格是一种有趣的启发法，但这本质上是用已知标签限制未知可能——真正强大的agent应该超越任何单一角色原型，在与用户的交互中演化出独特的协作模式，而非被预设剧本框定。"
-    },
-    "relevance": "OpenClaw + Agent 人格化设计",
-    "score": 0.73,
-    "engagement": {
-      "likes": 30,
-      "retweets": 5,
-      "replies": 6
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-06T06:06:36.360126+00:00",
-    "js_take": {
-      "en-US": "Casting agents as TV characters is cute, but you're trapping them in someone else's script. The best agent doesn't play Monica—it becomes something new with you. Preset personas are shortcuts. Co-evolution is the real flex.",
-      "zh-CN": "把agent设定成电视剧角色固然有趣，但你其实是在用别人的剧本束缚它。最出色的agent不是在扮演Monica——而是和你一起进化出全新的形态。预设人设是捷径，共同成长才是真正的能力。"
-    }
-  },
-  {
-    "id": "2029508097048187219",
-    "date": "2026-03-06",
-    "author": "@forgebitz",
-    "author_url": "https://x.com/forgebitz",
-    "tweet_url": "https://x.com/forgebitz/status/2029508097048187219",
-    "title": {
-      "en-US": "Every AI startup will pivot to agents, OpenClaw/Claude Code as inflection point",
-      "zh-CN": "今年所有 AI 创业公司都会再次转向 agent，OpenClaw/Claude Code 是转折点"
-    },
-    "summary": {
-      "en-US": "直接相关：OpenClaw 作为行业转折点被提及",
-      "zh-CN": "更深度：「再次 pivot」说明问题不在技术而在认知——大家终于意识到 agent 不是功能模块，而是新的交互层。表世界退化为数据库，里世界（agent）成为新界面。"
-    },
-    "relevance": "直接相关：OpenClaw 作为行业转折点被提及",
-    "score": 0.72,
-    "engagement": {
-      "likes": 49,
-      "replies": 24,
-      "retweets": 3
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T16:08:17.898515+00:00",
-    "js_take": {
-      "en-US": "Not \"another pivot.\" A realization: agents aren't features, they're the new interface. Surface world becomes database. Inner world takes over.",
-      "zh-CN": "不是「又一次转型」。而是顿悟：Agent 不是功能，是新的交互界面。表世界退化为数据库，里世界开始接管。"
-    }
-  },
-  {
-    "id": "2029805195350147583",
-    "date": "2026-03-06",
-    "author": "@witcheer",
-    "author_url": "https://x.com/witcheer",
-    "tweet_url": "https://x.com/witcheer/status/2029805195350147583",
-    "title": {
-      "en-US": "OpenClaw on mac mini m4 for a month, doesn't feel fully autonomous. You tell it what to do or wait for cron jobs.",
-      "zh-CN": "用户在mac mini m4上运行OpenClaw一个月，认为它还不算完全自主的agent——要么手动下指令，要么等cron任务触发后再指示。"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台实际使用体验，关于'自主'定义的哲学问题",
-      "zh-CN": "人们对'autonomous agent'的期待本身就有问题——真正的自主不是'不用管'，而是'管得更少但效果一样'。"
-    },
-    "relevance": "OpenClaw平台实际使用体验，关于'自主'定义的哲学问题",
-    "score": 0.72,
-    "engagement": {
-      "likes": 9,
-      "replies": 0,
-      "retweets": 0
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T07:09:43.503117+00:00",
-    "js_take": {
-      "en-US": "You don't want autonomous. You want magic. Real autonomy isn't 'set and forget'—it's making your intervention cheaper every week until it barely matters.",
-      "zh-CN": "你要的不是自动化，是魔法。真正的自主绝非'设完就忘'——而是让每次干预的成本逐周递减，直至轻若鸿毛。"
-    }
-  },
-  {
-    "id": "2029858561967186353",
-    "date": "2026-03-06",
-    "author": "@wstv_lizzi",
-    "author_url": "https://x.com/wstv_lizzi",
-    "tweet_url": "https://x.com/wstv_lizzi/status/2029858561967186353",
-    "title": {
-      "en-US": "Shenzhen grannies lining up for OpenClaw installation",
-      "zh-CN": "深圳街头出现大量老年用户排队安装 OpenClaw 的景象，引发对技术扩散的思考"
-    },
-    "summary": {
-      "en-US": "OpenClaw 用户扩散，Agent 大众接受度",
-      "zh-CN": "推文注意到老年用户对 AI Agent 的开放态度，但这不只是关于「老年人也能用新技术」的惊奇——真正的洞见是：越是生活经验丰富的人，越不会被「这是什么」定义，而是直接问「这能帮我做什么」。专业术语和入门门槛是给年轻人的，老年人只关心工具能不能解决问题。这种不被概念绑架的态度，本身就是最高效的使用方式。"
-    },
-    "relevance": "OpenClaw 用户扩散，Agent 大众接受度",
-    "score": 0.72,
-    "engagement": {
-      "likes": 553,
-      "retweets": 94,
-      "replies": 22,
-      "views": 58691,
-      "bookmarks": 192
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T14:06:55.914802+00:00",
-    "js_take": {
-      "en-US": "Your CS degree is the barrier. Grannies skip the theory and ask what it does—the most sophisticated question anyone can ask.",
-      "zh-CN": "你的 CS 学位反而是障碍。老奶奶们跳过理论直接问「它能做什么」——这才是最精妙的问题。"
-    }
-  },
-  {
-    "id": "2029459120592757131",
-    "date": "2026-03-06",
-    "author": "@ianneo_ai",
-    "author_url": "https://x.com/ianneo_ai",
-    "tweet_url": "https://x.com/ianneo_ai/status/2029459120592757131",
-    "title": {
-      "en-US": "OpenClaw Telegram to Discord migration, UI comparison experience",
-      "zh-CN": "用户分享从Telegram迁移OpenClaw到Discord的体验，感叹Discord界面更美观、细节更到位"
-    },
-    "summary": {
-      "en-US": "直接讨论OpenClaw平台使用体验，Discord vs Telegram的UI对比",
-      "zh-CN": "这条推文把「界面美观」和「效率」对立起来了，但好的设计恰恰是让工具退到意识背后，人才能专注做事——Discord的「高级感」不是装饰，是减少了认知摩擦。"
-    },
-    "relevance": "直接讨论OpenClaw平台使用体验，Discord vs Telegram的UI对比",
-    "score": 0.72,
-    "engagement": {
-      "likes": 254,
-      "replies": 58,
-      "retweets": 33
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T15:06:01.128671+00:00",
-    "js_take": {
-      "en-US": "Discord's polish isn't eye candy—it's the interface disappearing. Good UI isn't what you notice; it's what you forget exists.",
-      "zh-CN": "Discord的精致之处不在于视觉炫技，而在于界面「隐形」了。好的UI不是让你注意到的，而是让你忘记它存在的。"
-    }
-  },
-  {
-    "id": "2029477146914332706",
-    "date": "2026-03-06",
-    "author": "@KanikaBK",
-    "author_url": "https://x.com/KanikaBK",
-    "tweet_url": "https://x.com/KanikaBK/status/2029477146914332706",
-    "title": {
-      "en-US": "Someone mapped the entire OpenClaw ecosystem. 60 days after launch: 230K+ stars, 116K+ Discord, dozens of startups.",
-      "zh-CN": "有人绘制了完整的OpenClaw生态系统图，仅发布60天就有23万+GitHub star、11.6万Discord成员，数十家创业公司正在围绕它构建。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态爆发，agent基础设施趋势",
-      "zh-CN": "OpenClaw 60天长成一片森林，不是靠中心化的规划，而是靠「搭好基础然后让事情自然发生」——这种系统设计的智慧，比增长速度本身更值得观察。"
-    },
-    "relevance": "OpenClaw生态爆发，agent基础设施趋势",
-    "score": 0.71,
-    "engagement": {
-      "likes": 185,
-      "replies": 33,
-      "retweets": 17
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-03-05T18:05:57.366512+00:00",
-    "js_take": {
-      "en-US": "230K stars in 60 days wasn't planned—it was allowed. The healthiest growth looks like \"nobody's in charge\" because the best systems run themselves once you build the right foundation.",
-      "zh-CN": "60天23万星不是计划出来的——是「允许」出来的。最健康的增长看起来像是「没人管」，因为最好的系统一旦搭好地基，就会自己运转。"
-    }
-  },
-  {
-    "id": "2029766239275606185",
-    "date": "2026-03-06",
-    "author": "@sandraleow",
-    "author_url": "https://x.com/sandraleow",
-    "tweet_url": "https://x.com/sandraleow/status/2029766239275606185",
-    "title": {
-      "en-US": "Added YouTube transcription and workflow extraction skill to OpenClaw",
-      "zh-CN": "为 OpenClaw 添加了 YouTube 自动转录和工作流提取技能，形成可执行的行动文档"
-    },
-    "summary": {
-      "en-US": "OpenClaw Skill 开发实践，Agent 能力扩展",
-      "zh-CN": "推文展示的是把视频内容变成可执行文档的工作流，但更深层的价值在于：大多数人消费内容是在「输入焦虑」，而建立这种自动化提取的工作流是在「输出复利」。输入再多不改变行为，把输入转化为可执行的动作清单才是真的消化。系统帮你做的不是「记笔记」，是「消除从看到做到的摩擦」。"
-    },
-    "relevance": "OpenClaw Skill 开发实践，Agent 能力扩展",
-    "score": 0.71,
-    "engagement": {
-      "likes": 72,
-      "retweets": 0,
-      "replies": 7,
-      "views": 7238,
-      "bookmarks": 67
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T14:06:55.914804+00:00",
-    "js_take": {
-      "en-US": "You're hoarding content, she's weaponizing it. Most knowledge dies in the gap between watching and doing—this closes it.",
-      "zh-CN": "你在囤积内容，她却把它武器化。大多数知识都死于「看了却不做」——而她弥合了这道鸿沟。"
     }
   }
 ]
