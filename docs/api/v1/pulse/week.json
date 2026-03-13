@@ -310,6 +310,34 @@
     }
   },
   {
+    "id": "2032314428851683426",
+    "date": "2026-03-13",
+    "author": "@boxmining",
+    "author_url": "https://x.com/boxmining",
+    "tweet_url": "https://x.com/boxmining/status/2032314428851683426",
+    "title": {
+      "en-US": "China's OpenClaw craze: hustlers installing it, others paid to uninstall because users stressed out.",
+      "zh-CN": "中国OpenClaw热潮：有人靠帮别人安装赚钱，有人靠帮别人卸载赚钱，因为用户压力太大。"
+    },
+    "summary": {
+      "en-US": "OpenClaw实际应用，AI采纳与后悔",
+      "zh-CN": "表面看是技术焦虑，实则是「工具凌驾于人」的错配——真正的增长不是装更多agent，是让人知道什么时候该关掉它们。"
+    },
+    "relevance": "OpenClaw实际应用，AI采纳与后悔",
+    "score": 0.72,
+    "engagement": {
+      "likes": 22,
+      "replies": 7,
+      "retweets": 0
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-13T14:04:34.880461+00:00",
+    "js_take": {
+      "en-US": "Same people selling installs sell uninstalls. Tech anxiety is the product—OpenClaw just happens to be the current wrapper.",
+      "zh-CN": "卖你安装包的人，也在卖你卸载工具。技术焦虑才是真正的产品——OpenClaw不过是当下的新包装。"
+    }
+  },
+  {
     "id": "2032048726337077670",
     "date": "2026-03-13",
     "author": "@elvissun",
@@ -363,6 +391,34 @@
     "js_take": {
       "en-US": "I automated 90% of my workflow with agents. Then realized I stopped questioning the output. Tool's ceiling is human's floor.",
       "zh-CN": "我用 agents 自动化了 90% 的工作流，然后发现自己不再质疑输出了。工具的天花板，是人的地板。"
+    }
+  },
+  {
+    "id": "2032422826783936528",
+    "date": "2026-03-13",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2032422826783936528",
+    "title": {
+      "en-US": "Daily OpenClaw security audit checklist: firewall, fail2ban, SSH, ports, docker...",
+      "zh-CN": "OpenClaw每日安全审计清单：防火墙、fail2ban、SSH、端口、Docker容器等检查项。"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全实践，agent运维",
+      "zh-CN": "原推展示的是「有为」的极致—— checklist越长，系统越脆弱。真正的安全不是每天检查6项，是设计成不需要每天检查。"
+    },
+    "relevance": "OpenClaw安全实践，agent运维",
+    "score": 0.71,
+    "engagement": {
+      "likes": 43,
+      "replies": 5,
+      "retweets": 2
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-13T14:04:34.880467+00:00",
+    "js_take": {
+      "en-US": "Six daily checks means the system still fights you. True security is when you forget it exists—anything else is theater with a cron job.",
+      "zh-CN": "每天检查六次，说明系统仍在和你较劲。真正的安全是让你彻底忘记它的存在——其他的不过是cron任务配合演出的安全戏。"
     }
   },
   {
