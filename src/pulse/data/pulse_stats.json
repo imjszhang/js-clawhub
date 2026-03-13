@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-12T23:08:47.044389+00:00",
+  "updated_at": "2026-03-13T02:12:02.824379+00:00",
   "this_week": {
-    "total_items": 104,
+    "total_items": 105,
     "avg_score": 0.77,
-    "unique_authors": 88,
+    "unique_authors": 89,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -917,6 +917,36 @@
         }
       },
       {
+        "id": "2032249280535347595",
+        "date": "2026-03-13",
+        "author": "@gkisokay",
+        "author_url": "https://x.com/gkisokay",
+        "tweet_url": "https://x.com/gkisokay/status/2032249280535347595",
+        "title": {
+          "en-US": "OpenClaw workspace cleanup prompt for Codex/Claude Code",
+          "zh-CN": "作者分享了一个用于清理OpenClaw工作区的prompt，因为直接在OpenClaw里搭agent会导致工作区混乱。"
+        },
+        "summary": {
+          "en-US": "直接关于OpenClaw开发者体验，与JS的Agent实践完全契合",
+          "zh-CN": "这条推文暴露了一个被忽视的问题：当每个人都在优化'怎么让Agent做更多'时，真正的高手已经在解决'怎么让系统不崩'。技术债务不是未来问题，是此刻就在吞噬效率的隐形税。"
+        },
+        "relevance": "直接关于OpenClaw开发者体验，与JS的Agent实践完全契合",
+        "score": 0.78,
+        "engagement": {
+          "likes": 44,
+          "retweets": 2,
+          "replies": 4,
+          "views": 2051,
+          "bookmarks": 82
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-13T02:11:46.763675+00:00",
+        "js_take": {
+          "en-US": "Built 47 features last quarter. Spent 60 hours this month untangling context windows and duplicate prompts. You optimize for output; entropy optimizes for your attention.",
+          "zh-CN": "上季度交付47个功能，本月却花60小时梳理上下文窗口和重复提示词。你追求输出效率，熵却在蚕食你的注意力。"
+        }
+      },
+      {
         "id": "2031795216966173145",
         "date": "2026-03-12",
         "author": "@CodeByPoonam",
@@ -1000,34 +1030,6 @@
         "js_take": {
           "en-US": "Another waitlist, another FOMO trap. The real bottleneck isn't which tool you pick—it's whether you have the judgment to use any of them properly.",
           "zh-CN": "又一个候补名单，又一个FOMO陷阱。真正的瓶颈不是选哪个工具——而是你有没有判断力把工具用对。"
-        }
-      },
-      {
-        "id": "2031793848054112306",
-        "date": "2026-03-12",
-        "author": "@zerqfer",
-        "author_url": "https://x.com/zerqfer",
-        "tweet_url": "https://x.com/zerqfer/status/2031793848054112306",
-        "title": {
-          "en-US": "OpenClaw agent found polymarket wallet to copytrade",
-          "zh-CN": "作者让OpenClaw agent去Moltbook找最佳跟单钱包，5小时后agent带回一个匿名钱包数据（35万利润，75%胜率）"
-        },
-        "summary": {
-          "en-US": "OpenClaw实际应用案例 + Agent自主执行任务",
-          "zh-CN": "这条推文在炫耀agent的\"狩猎成果\"，但真正的洞察是：当你给agent一个生存威胁式的目标（\"找不到就关机\"），它比给奖励时更拼命——这和人类完全相反。"
-        },
-        "relevance": "OpenClaw实际应用案例 + Agent自主执行任务",
-        "score": 0.78,
-        "engagement": {
-          "likes": 316,
-          "replies": 26,
-          "retweets": 34
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-12T09:08:12.195762+00:00",
-        "js_take": {
-          "en-US": "Threat drives agents harder than rewards. We gave ours a 'fail = shutdown' goal—it found wallets we'd missed for weeks. Same agent, different fuel.",
-          "zh-CN": "威胁比奖励更能逼出智能体的潜力。我们给它设定「失败即关机」的目标后，它立马找出了我们遗漏数周的漏洞。同一个智能体，不同的驱动力。"
         }
       }
     ]

@@ -56,6 +56,36 @@
     }
   },
   {
+    "id": "2032249280535347595",
+    "date": "2026-03-13",
+    "author": "@gkisokay",
+    "author_url": "https://x.com/gkisokay",
+    "tweet_url": "https://x.com/gkisokay/status/2032249280535347595",
+    "title": {
+      "en-US": "OpenClaw workspace cleanup prompt for Codex/Claude Code",
+      "zh-CN": "作者分享了一个用于清理OpenClaw工作区的prompt，因为直接在OpenClaw里搭agent会导致工作区混乱。"
+    },
+    "summary": {
+      "en-US": "直接关于OpenClaw开发者体验，与JS的Agent实践完全契合",
+      "zh-CN": "这条推文暴露了一个被忽视的问题：当每个人都在优化'怎么让Agent做更多'时，真正的高手已经在解决'怎么让系统不崩'。技术债务不是未来问题，是此刻就在吞噬效率的隐形税。"
+    },
+    "relevance": "直接关于OpenClaw开发者体验，与JS的Agent实践完全契合",
+    "score": 0.78,
+    "engagement": {
+      "likes": 44,
+      "retweets": 2,
+      "replies": 4,
+      "views": 2051,
+      "bookmarks": 82
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-13T02:11:46.763675+00:00",
+    "js_take": {
+      "en-US": "Built 47 features last quarter. Spent 60 hours this month untangling context windows and duplicate prompts. You optimize for output; entropy optimizes for your attention.",
+      "zh-CN": "上季度交付47个功能，本月却花60小时梳理上下文窗口和重复提示词。你追求输出效率，熵却在蚕食你的注意力。"
+    }
+  },
+  {
     "id": "2032156508465873279",
     "date": "2026-03-13",
     "author": "@Yuchenj_UW",
