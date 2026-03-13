@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-13T14:04:55.809365+00:00",
+  "updated_at": "2026-03-13T15:12:27.417425+00:00",
   "this_week": {
-    "total_items": 110,
+    "total_items": 112,
     "avg_score": 0.77,
-    "unique_authors": 93,
+    "unique_authors": 94,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -975,6 +975,34 @@
         }
       },
       {
+        "id": "2032418992128942150",
+        "date": "2026-03-13",
+        "author": "@frxiaobei",
+        "author_url": "https://x.com/frxiaobei",
+        "tweet_url": "https://x.com/frxiaobei/status/2032418992128942150",
+        "title": {
+          "en-US": "OpenClaw addict,熬夜折腾到凌晨",
+          "zh-CN": "沉迷OpenClaw，每天熬夜折腾到凌晨，身体发出警报"
+        },
+        "summary": {
+          "en-US": "OpenClaw社区+开发者体验",
+          "zh-CN": "过度投入OpenClaw反而让身体报警，这与OpenClaw「自动化减负」的初衷相悖——技术本应解放人，而非吞噬人。问题不在工具，而在「拼命优化」的执念本身。"
+        },
+        "relevance": "OpenClaw社区+开发者体验",
+        "score": 0.78,
+        "engagement": {
+          "likes": 77,
+          "retweets": 1,
+          "replies": 28
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-13T15:12:11.329539+00:00",
+        "js_take": {
+          "en-US": "The workflow you're debugging at 2am is the one you should have never built. Best automation? Knowing what to leave broken.",
+          "zh-CN": "凌晨两点还在调试的工作流，从一开始就不该搭。最高级的自动化？是懂得哪些该让它坏着。"
+        }
+      },
+      {
         "id": "2031795216966173145",
         "date": "2026-03-12",
         "author": "@CodeByPoonam",
@@ -1001,39 +1029,11 @@
           "en-US": "Another AI gadget? No—it's the second migration. Apps become databases. Agents become the interface. You're debating specs while the surface world dissolves.",
           "zh-CN": "又一个AI小工具？不——这是第二次大迁徙。应用退化为数据库，Agent成为新界面。你还在争论参数，而表层世界正在瓦解。"
         }
-      },
-      {
-        "id": "2031866429298131123",
-        "date": "2026-03-12",
-        "author": "@cgtwts",
-        "author_url": "https://x.com/cgtwts",
-        "tweet_url": "https://x.com/cgtwts/status/2031866429298131123",
-        "title": {
-          "en-US": "Perplexity dropped a 'secure' OpenClaw competitor",
-          "zh-CN": "Perplexity推出了一个'安全版'OpenClaw"
-        },
-        "summary": {
-          "en-US": "OpenClaw竞品分析",
-          "zh-CN": "'安全'是一个相对概念。真正的安全不是围墙有多高，而是你有没有能力在围墙内解决问题。封闭系统的'安全'往往是能力的借口。"
-        },
-        "relevance": "OpenClaw竞品分析",
-        "score": 0.78,
-        "engagement": {
-          "likes": 269,
-          "replies": 16,
-          "retweets": 8
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-12T02:04:53.517212+00:00",
-        "js_take": {
-          "en-US": "A cage is 'secure' too. But a bird that can't fly isn't a bird anymore—it's decoration.",
-          "zh-CN": "A cage is 'secure' too. But a bird that can't fly isn't a bird anymore—it's decoration."
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 162
+    "unique_authors": 161
   }
 }

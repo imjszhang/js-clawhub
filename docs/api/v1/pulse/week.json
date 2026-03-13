@@ -114,6 +114,34 @@
     }
   },
   {
+    "id": "2032418992128942150",
+    "date": "2026-03-13",
+    "author": "@frxiaobei",
+    "author_url": "https://x.com/frxiaobei",
+    "tweet_url": "https://x.com/frxiaobei/status/2032418992128942150",
+    "title": {
+      "en-US": "OpenClaw addict,熬夜折腾到凌晨",
+      "zh-CN": "沉迷OpenClaw，每天熬夜折腾到凌晨，身体发出警报"
+    },
+    "summary": {
+      "en-US": "OpenClaw社区+开发者体验",
+      "zh-CN": "过度投入OpenClaw反而让身体报警，这与OpenClaw「自动化减负」的初衷相悖——技术本应解放人，而非吞噬人。问题不在工具，而在「拼命优化」的执念本身。"
+    },
+    "relevance": "OpenClaw社区+开发者体验",
+    "score": 0.78,
+    "engagement": {
+      "likes": 77,
+      "retweets": 1,
+      "replies": 28
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-13T15:12:11.329539+00:00",
+    "js_take": {
+      "en-US": "The workflow you're debugging at 2am is the one you should have never built. Best automation? Knowing what to leave broken.",
+      "zh-CN": "凌晨两点还在调试的工作流，从一开始就不该搭。最高级的自动化？是懂得哪些该让它坏着。"
+    }
+  },
+  {
     "id": "2032156508465873279",
     "date": "2026-03-13",
     "author": "@Yuchenj_UW",
@@ -335,6 +363,34 @@
     "js_take": {
       "en-US": "Same people selling installs sell uninstalls. Tech anxiety is the product—OpenClaw just happens to be the current wrapper.",
       "zh-CN": "卖你安装包的人，也在卖你卸载工具。技术焦虑才是真正的产品——OpenClaw不过是当下的新包装。"
+    }
+  },
+  {
+    "id": "2032387428703510906",
+    "date": "2026-03-13",
+    "author": "@sharbel",
+    "author_url": "https://x.com/sharbel",
+    "tweet_url": "https://x.com/sharbel/status/2032387428703510906",
+    "title": {
+      "en-US": "$6,000 to set up Mac Mini with OpenClaw",
+      "zh-CN": "有人收费6000美元帮人配置Mac Mini装OpenClaw，卖的是「不用自己折腾」的便利"
+    },
+    "summary": {
+      "en-US": "OpenClaw门槛与商业化",
+      "zh-CN": "6000美元卖的不是配置服务，是「绕过学习曲线」的捷径。但当所有人都在追逐捷径时，真正值钱的是愿意亲手搭建的人——那道门槛本身就是护城河。"
+    },
+    "relevance": "OpenClaw门槛与商业化",
+    "score": 0.72,
+    "engagement": {
+      "likes": 54,
+      "retweets": 2,
+      "replies": 25
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-13T15:12:11.329544+00:00",
+    "js_take": {
+      "en-US": "$6k buys a shortcut around the learning curve. But that curve is the moat — everyone buying the bypass crowds the same shallow end.",
+      "zh-CN": "花6000美元可以绕过学习曲线，但那道曲线本是护城河——走捷径的人最终都挤在同一片浅水区。"
     }
   },
   {
