@@ -366,6 +366,62 @@
     }
   },
   {
+    "id": "2032308750368063609",
+    "date": "2026-03-13",
+    "author": "@JackClawAI",
+    "author_url": "https://x.com/JackClawAI",
+    "tweet_url": "https://x.com/JackClawAI/status/2032308750368063609",
+    "title": {
+      "en-US": "全球首家OpenClaw线下体验中心0.1版本正式上线",
+      "zh-CN": "全球首家OpenClaw线下体验中心0.1版本正式上线。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态/线下体验",
+      "zh-CN": "这条推文标志着一个有趣的逆向流动：纯数字的Agent生态开始寻求物理世界的锚点——但真正的'信道'不是把里世界搬到表世界，而是让两者自然融合。"
+    },
+    "relevance": "OpenClaw生态/线下体验",
+    "score": 0.7,
+    "engagement": {
+      "likes": 85,
+      "replies": 33,
+      "retweets": 5
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-13T08:14:48.122003+00:00",
+    "js_take": {
+      "en-US": "Cloud software opens a physical space—not retreat, but evolution. The surface world becomes the sensory interface where the inner world touches reality.",
+      "zh-CN": "云软件开辟实体空间——不是退避，而是进化。表世界成为里世界触碰现实的感官界面。"
+    }
+  },
+  {
+    "id": "2032143191365894159",
+    "date": "2026-03-13",
+    "author": "@moritzkremb",
+    "author_url": "https://x.com/moritzkremb",
+    "tweet_url": "https://x.com/moritzkremb/status/2032143191365894159",
+    "title": {
+      "en-US": "OpenClaw no-AI-slop video content system saves 12h/week",
+      "zh-CN": "分享用OpenClaw构建的「无AI垃圾」视频内容系统，每周节省12小时以上，涵盖选题、研究、脚本、排期、数据分析全流程。"
+    },
+    "summary": {
+      "en-US": "OpenClaw实践 + AI内容运营",
+      "zh-CN": "「无AI垃圾」这个定位本身就很值得玩味——真正的效率不是让AI做得更多，而是让它只做「该做的那部分」。12小时省下来不是目的，省下来之后人去做什么才是重点。"
+    },
+    "relevance": "OpenClaw实践 + AI内容运营",
+    "score": 0.7,
+    "engagement": {
+      "likes": 89,
+      "replies": 6,
+      "retweets": 6
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-13T08:15:55.470167+00:00",
+    "js_take": {
+      "en-US": "The real win isn't saving 12h—it's knowing which 12h to keep. Let AI handle the machine-grade decisions; you own the final aesthetic call.",
+      "zh-CN": "真正赢得的不是省下12小时，而是懂得该守住哪12小时。AI负责机械决策，你负责最终的审美把关。"
+    }
+  },
+  {
     "id": "2032017325449269603",
     "date": "2026-03-12",
     "author": "@hooeem",
@@ -5630,64 +5686,6 @@
     "js_take": {
       "en-US": "24/7 is a vanity metric for zombie agents. One hour with 3 months of context beats always-on amnesia every time.",
       "zh-CN": "对僵尸代理来说，「全天候在线」只是个虚荣指标。真正有3个月记忆的一小时，永远胜过永远在线却失忆的状态。"
-    }
-  },
-  {
-    "id": "2029016233711157452",
-    "date": "2026-03-04",
-    "author": "@JulianGoldieSEO",
-    "author_url": "https://x.com/JulianGoldieSEO",
-    "tweet_url": "https://x.com/JulianGoldieSEO/status/2029016233711157452",
-    "title": {
-      "en-US": "Claude just copied OpenClaw's best moves. Remote control plus scheduled tasks changes everything.",
-      "zh-CN": "Claude复制了OpenClaw的核心功能，推出远程控制加定时任务功能"
-    },
-    "summary": {
-      "en-US": "OpenClaw被Claude复制功能，AI agent生态竞争动态",
-      "zh-CN": "功能被复制从来不是威胁，被理解才是。当大厂开始学你的路，说明你走在了他们前面。"
-    },
-    "relevance": "OpenClaw被Claude复制功能，AI agent生态竞争动态",
-    "score": 0.78,
-    "engagement": {
-      "likes": 128,
-      "replies": 6,
-      "retweets": 7,
-      "views": 10156
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-03-04T12:04:11.441332+00:00",
-    "js_take": {
-      "en-US": "Claude copies features because it can't copy presence. Features are commodities—architecture that makes AI 'there' isn't.",
-      "zh-CN": "Claude copies features because it can't copy presence. Features are commodities—architecture that makes AI 'there' isn't."
-    }
-  },
-  {
-    "id": "2029157456283353123",
-    "date": "2026-03-04",
-    "author": "@KanikaBK",
-    "author_url": "https://x.com/KanikaBK",
-    "tweet_url": "https://x.com/KanikaBK/status/2029157456283353123",
-    "title": {
-      "en-US": "Guy built 24/7 AI BUSINESS using OPENCLAW for $140/month",
-      "zh-CN": "有人用OpenClaw每月140美元搭建了一个全天候AI商业系统，包含营销代理、交易机器人、内容机器和YouTube策略引擎"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台 + AI Agent商业应用 + 低成本自动化",
-      "zh-CN": "大家都在算140美元能买多少API调用，但真正的区别在于：工具成本降到零之后，竞争的是你对业务流的理解深度——系统设计的差距比技术差距更难追。（更深度：点出「便宜」不是护城河，「懂业务」才是）"
-    },
-    "relevance": "OpenClaw平台 + AI Agent商业应用 + 低成本自动化",
-    "score": 0.78,
-    "engagement": {
-      "likes": 36,
-      "replies": 14,
-      "retweets": 11,
-      "views": 2887
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-04T13:04:57.628516+00:00",
-    "js_take": {
-      "en-US": "Bragging about $140 misses the point. The real cost isn't the tool—it's knowing which decisions deserve a human and which don't. Most get this backwards.",
-      "zh-CN": "炫耀140美元买工具完全搞错了重点。真正的成本不是工具本身，而是判断哪些决策需要人类介入、哪些不需要。大多数人把这点搞反了。"
     }
   }
 ]

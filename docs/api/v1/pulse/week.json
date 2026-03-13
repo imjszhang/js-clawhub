@@ -366,6 +366,62 @@
     }
   },
   {
+    "id": "2032308750368063609",
+    "date": "2026-03-13",
+    "author": "@JackClawAI",
+    "author_url": "https://x.com/JackClawAI",
+    "tweet_url": "https://x.com/JackClawAI/status/2032308750368063609",
+    "title": {
+      "en-US": "全球首家OpenClaw线下体验中心0.1版本正式上线",
+      "zh-CN": "全球首家OpenClaw线下体验中心0.1版本正式上线。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态/线下体验",
+      "zh-CN": "这条推文标志着一个有趣的逆向流动：纯数字的Agent生态开始寻求物理世界的锚点——但真正的'信道'不是把里世界搬到表世界，而是让两者自然融合。"
+    },
+    "relevance": "OpenClaw生态/线下体验",
+    "score": 0.7,
+    "engagement": {
+      "likes": 85,
+      "replies": 33,
+      "retweets": 5
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-13T08:14:48.122003+00:00",
+    "js_take": {
+      "en-US": "Cloud software opens a physical space—not retreat, but evolution. The surface world becomes the sensory interface where the inner world touches reality.",
+      "zh-CN": "云软件开辟实体空间——不是退避，而是进化。表世界成为里世界触碰现实的感官界面。"
+    }
+  },
+  {
+    "id": "2032143191365894159",
+    "date": "2026-03-13",
+    "author": "@moritzkremb",
+    "author_url": "https://x.com/moritzkremb",
+    "tweet_url": "https://x.com/moritzkremb/status/2032143191365894159",
+    "title": {
+      "en-US": "OpenClaw no-AI-slop video content system saves 12h/week",
+      "zh-CN": "分享用OpenClaw构建的「无AI垃圾」视频内容系统，每周节省12小时以上，涵盖选题、研究、脚本、排期、数据分析全流程。"
+    },
+    "summary": {
+      "en-US": "OpenClaw实践 + AI内容运营",
+      "zh-CN": "「无AI垃圾」这个定位本身就很值得玩味——真正的效率不是让AI做得更多，而是让它只做「该做的那部分」。12小时省下来不是目的，省下来之后人去做什么才是重点。"
+    },
+    "relevance": "OpenClaw实践 + AI内容运营",
+    "score": 0.7,
+    "engagement": {
+      "likes": 89,
+      "replies": 6,
+      "retweets": 6
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-13T08:15:55.470167+00:00",
+    "js_take": {
+      "en-US": "The real win isn't saving 12h—it's knowing which 12h to keep. Let AI handle the machine-grade decisions; you own the final aesthetic call.",
+      "zh-CN": "真正赢得的不是省下12小时，而是懂得该守住哪12小时。AI负责机械决策，你负责最终的审美把关。"
+    }
+  },
+  {
     "id": "2032017325449269603",
     "date": "2026-03-12",
     "author": "@hooeem",
