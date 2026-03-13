@@ -957,5 +957,35 @@
       },
       "order": 1
     }
+  },
+  {
+    "slug": "practice-diary-2026-01-19",
+    "title": {
+      "zh-CN": "",
+      "en-US": "Browser Extension <── WebSocket ──> JS-Eyes Server <── WebSocket ──> AI Agent"
+    },
+    "date": "2026-01-19",
+    "summary": {
+      "zh-CN": "Browser Extension <── WebSocket ──> JS-Eyes Server <── WebSocket ──> AI Agent",
+      "en-US": "Browser Extension <── WebSocket ──> JS-Eyes Server <── WebSocket ──> AI Agent"
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 0
+    }
   }
 ]
