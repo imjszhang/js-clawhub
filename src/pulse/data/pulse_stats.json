@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-13T18:04:58.949506+00:00",
+  "updated_at": "2026-03-13T20:13:15.468365+00:00",
   "this_week": {
-    "total_items": 114,
+    "total_items": 115,
     "avg_score": 0.77,
-    "unique_authors": 95,
+    "unique_authors": 96,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -973,6 +973,34 @@
         }
       },
       {
+        "id": "2032134268051169347",
+        "date": "2026-03-14",
+        "author": "@_akhaliq",
+        "author_url": "https://x.com/_akhaliq",
+        "tweet_url": "https://x.com/_akhaliq/status/2032134268051169347",
+        "title": {
+          "en-US": "OpenClaw-RL: Train agents by talking",
+          "zh-CN": "OpenClaw-RL发布：只需对话就能训练任意Agent"
+        },
+        "summary": {
+          "en-US": "Agent训练方法与OpenClaw平台",
+          "zh-CN": "表世界还在堆叠复杂训练流程，里世界已经发现——最好的调优，是让Agent从自然交互中自己学习"
+        },
+        "relevance": "Agent训练方法与OpenClaw平台",
+        "score": 0.78,
+        "engagement": {
+          "likes": 136,
+          "replies": 10,
+          "retweets": 30
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-13T20:13:00.456645+00:00",
+        "js_take": {
+          "en-US": "Surface world: 47-step training pipelines. Inner world: one conversation, agent learns. We're watching the second migration in real time.",
+          "zh-CN": "表世界：47步训练流程。里世界：一次对话，Agent 学会。我们正在实时见证第二次大迁徙。"
+        }
+      },
+      {
         "id": "2032052734460125475",
         "date": "2026-03-13",
         "author": "@RoundtableSpace",
@@ -998,36 +1026,6 @@
         "js_take": {
           "en-US": "Forcing agents into standups is optimizing the wrong thing. Real autonomy means they ship without asking permission — not better status updates.",
           "zh-CN": "强迫Agent参加站会，是在优化错误的方向。真正的自主性，是无需请示就能发布成果——而不是把状态报告写得更好。"
-        }
-      },
-      {
-        "id": "2032249280535347595",
-        "date": "2026-03-13",
-        "author": "@gkisokay",
-        "author_url": "https://x.com/gkisokay",
-        "tweet_url": "https://x.com/gkisokay/status/2032249280535347595",
-        "title": {
-          "en-US": "OpenClaw workspace cleanup prompt for Codex/Claude Code",
-          "zh-CN": "作者分享了一个用于清理OpenClaw工作区的prompt，因为直接在OpenClaw里搭agent会导致工作区混乱。"
-        },
-        "summary": {
-          "en-US": "直接关于OpenClaw开发者体验，与JS的Agent实践完全契合",
-          "zh-CN": "这条推文暴露了一个被忽视的问题：当每个人都在优化'怎么让Agent做更多'时，真正的高手已经在解决'怎么让系统不崩'。技术债务不是未来问题，是此刻就在吞噬效率的隐形税。"
-        },
-        "relevance": "直接关于OpenClaw开发者体验，与JS的Agent实践完全契合",
-        "score": 0.78,
-        "engagement": {
-          "likes": 44,
-          "retweets": 2,
-          "replies": 4,
-          "views": 2051,
-          "bookmarks": 82
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-13T02:11:46.763675+00:00",
-        "js_take": {
-          "en-US": "Built 47 features last quarter. Spent 60 hours this month untangling context windows and duplicate prompts. You optimize for output; entropy optimizes for your attention.",
-          "zh-CN": "上季度交付47个功能，本月却花60小时梳理上下文窗口和重复提示词。你追求输出效率，熵却在蚕食你的注意力。"
         }
       }
     ]

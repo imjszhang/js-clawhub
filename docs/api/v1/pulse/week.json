@@ -56,6 +56,34 @@
     }
   },
   {
+    "id": "2032134268051169347",
+    "date": "2026-03-14",
+    "author": "@_akhaliq",
+    "author_url": "https://x.com/_akhaliq",
+    "tweet_url": "https://x.com/_akhaliq/status/2032134268051169347",
+    "title": {
+      "en-US": "OpenClaw-RL: Train agents by talking",
+      "zh-CN": "OpenClaw-RL发布：只需对话就能训练任意Agent"
+    },
+    "summary": {
+      "en-US": "Agent训练方法与OpenClaw平台",
+      "zh-CN": "表世界还在堆叠复杂训练流程，里世界已经发现——最好的调优，是让Agent从自然交互中自己学习"
+    },
+    "relevance": "Agent训练方法与OpenClaw平台",
+    "score": 0.78,
+    "engagement": {
+      "likes": 136,
+      "replies": 10,
+      "retweets": 30
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-13T20:13:00.456645+00:00",
+    "js_take": {
+      "en-US": "Surface world: 47-step training pipelines. Inner world: one conversation, agent learns. We're watching the second migration in real time.",
+      "zh-CN": "表世界：47步训练流程。里世界：一次对话，Agent 学会。我们正在实时见证第二次大迁徙。"
+    }
+  },
+  {
     "id": "2032180950776627636",
     "date": "2026-03-13",
     "author": "@AlexFinn",

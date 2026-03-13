@@ -56,6 +56,34 @@
     }
   },
   {
+    "id": "2032134268051169347",
+    "date": "2026-03-14",
+    "author": "@_akhaliq",
+    "author_url": "https://x.com/_akhaliq",
+    "tweet_url": "https://x.com/_akhaliq/status/2032134268051169347",
+    "title": {
+      "en-US": "OpenClaw-RL: Train agents by talking",
+      "zh-CN": "OpenClaw-RL发布：只需对话就能训练任意Agent"
+    },
+    "summary": {
+      "en-US": "Agent训练方法与OpenClaw平台",
+      "zh-CN": "表世界还在堆叠复杂训练流程，里世界已经发现——最好的调优，是让Agent从自然交互中自己学习"
+    },
+    "relevance": "Agent训练方法与OpenClaw平台",
+    "score": 0.78,
+    "engagement": {
+      "likes": 136,
+      "replies": 10,
+      "retweets": 30
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-13T20:13:00.456645+00:00",
+    "js_take": {
+      "en-US": "Surface world: 47-step training pipelines. Inner world: one conversation, agent learns. We're watching the second migration in real time.",
+      "zh-CN": "表世界：47步训练流程。里世界：一次对话，Agent 学会。我们正在实时见证第二次大迁徙。"
+    }
+  },
+  {
     "id": "2032180950776627636",
     "date": "2026-03-13",
     "author": "@AlexFinn",
@@ -5649,36 +5677,6 @@
     "js_take": {
       "en-US": "Firing isn't the flex. Making her irreplaceable elsewhere is.",
       "zh-CN": "解雇不是本事，让她在别处无可替代才是真功夫"
-    }
-  },
-  {
-    "id": "2028874549413179566",
-    "date": "2026-03-04",
-    "author": "@danshipper",
-    "author_url": "https://x.com/danshipper",
-    "tweet_url": "https://x.com/danshipper/status/2028874549413179566",
-    "title": {
-      "en-US": "Ultimate beginner's guide to OpenClaw",
-      "zh-CN": "刚刚发布了终极OpenClaw入门指南，介绍如何用OpenClaw构建产品、客服、预订餐厅等"
-    },
-    "summary": {
-      "en-US": "OpenClaw入门与使用场景",
-      "zh-CN": "「入门指南」的悖论在于：当你需要指南时，你还没准备好；当你准备好时，你不再需要指南。真正的学习发生在指南失效的边缘地带。"
-    },
-    "relevance": "OpenClaw入门与使用场景",
-    "score": 0.82,
-    "engagement": {
-      "likes": 331,
-      "retweets": 24,
-      "replies": 10,
-      "views": 35622,
-      "bookmarks": 848
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T19:03:54.396959+00:00",
-    "js_take": {
-      "en-US": "\"Ultimate beginner's guide\" is false comfort. You'll only learn OpenClaw when this guide runs out and you're staring at an error alone.",
-      "zh-CN": "所谓「终极入门指南」不过是虚假的安全感。真正的学习从指南失效、你独自面对报错那一刻才开始。"
     }
   }
 ]
