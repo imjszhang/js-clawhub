@@ -1,5 +1,61 @@
 [
   {
+    "id": "2032508786238484974",
+    "date": "2026-03-14",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2032508786238484974",
+    "title": {
+      "en-US": "10 OpenClaw agents working 24/7, building apps, making money",
+      "zh-CN": "Alex Finn称他有10个OpenClaw agents 24/7工作，帮他开发应用、自动化生活并赚钱，并展示如何建立agent军队。"
+    },
+    "summary": {
+      "en-US": "OpenClaw - Agent自动化与规模化",
+      "zh-CN": "推文是典型的\"做更多\"叙事——10个agents、24/7、军队化部署——但这正是过度干预的反面教材：堆砌数量来掩盖对系统本质的无知。"
+    },
+    "relevance": "OpenClaw - Agent自动化与规模化",
+    "score": 0.79,
+    "engagement": {
+      "likes": 126,
+      "replies": 35,
+      "retweets": 6
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-13T18:04:44.872103+00:00",
+    "js_take": {
+      "en-US": "10 agents running 24/7 sounds like power, but they're probably just interrupting each other. True automation isn't doing more—it's knowing when to make them stop.",
+      "zh-CN": "10个Agent 24小时连轴转听着很猛，实则可能互相干扰。真正的自动化不是多做多，而是懂得何时喊停。"
+    }
+  },
+  {
+    "id": "2032418404884533559",
+    "date": "2026-03-14",
+    "author": "@KanikaBK",
+    "author_url": "https://x.com/KanikaBK",
+    "tweet_url": "https://x.com/KanikaBK/status/2032418404884533559",
+    "title": {
+      "en-US": "RIP DESIGNERS! Riley Brown's masterclass on Claude Code + OpenClaw design workflow. No Figma needed.",
+      "zh-CN": "设计师完蛋了！Riley Brown 发布 Claude Code + OpenClaw 设计工作流教程，不再需要 Figma 订阅。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Claude Code、AI 设计工具",
+      "zh-CN": "推文的「RIP设计师」是典型的技术奇观叙事——工具升级被渲染为职业消亡。但历史反复证明，工具民主化不会消灭专业，而是重新定义专业的门槛。更准确的纠正是：当所有人都能用AI生成设计，区分好坏的标准会从「能不能做」转向「知道什么值得做」。设计师真正的护城河从来不是工具操作，而是审美判断。"
+    },
+    "relevance": "OpenClaw、Claude Code、AI 设计工具",
+    "score": 0.78,
+    "engagement": {
+      "likes": 211,
+      "plies": 18,
+      "retweets": 30
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-13T17:06:33.265056+00:00",
+    "js_take": {
+      "en-US": "Tools don't kill designers. They kill designers who can't use them. When creation cost hits zero, competition shifts from \"can you make it\" to \"do you know what's worth making.\" The momentum is taste, not tooling.",
+      "zh-CN": "工具杀不死设计师，只会杀死不会用工具的设计师。当创作成本趋近于零，竞争就从\"能不能做\"变成了\"知不知道什么值得做\"。决定胜负的是品味，而非工具。"
+    }
+  },
+  {
     "id": "2032180950776627636",
     "date": "2026-03-13",
     "author": "@AlexFinn",

@@ -1,5 +1,61 @@
 [
   {
+    "id": "2032508786238484974",
+    "date": "2026-03-14",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2032508786238484974",
+    "title": {
+      "en-US": "10 OpenClaw agents working 24/7, building apps, making money",
+      "zh-CN": "Alex Finn称他有10个OpenClaw agents 24/7工作，帮他开发应用、自动化生活并赚钱，并展示如何建立agent军队。"
+    },
+    "summary": {
+      "en-US": "OpenClaw - Agent自动化与规模化",
+      "zh-CN": "推文是典型的\"做更多\"叙事——10个agents、24/7、军队化部署——但这正是过度干预的反面教材：堆砌数量来掩盖对系统本质的无知。"
+    },
+    "relevance": "OpenClaw - Agent自动化与规模化",
+    "score": 0.79,
+    "engagement": {
+      "likes": 126,
+      "replies": 35,
+      "retweets": 6
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-13T18:04:44.872103+00:00",
+    "js_take": {
+      "en-US": "10 agents running 24/7 sounds like power, but they're probably just interrupting each other. True automation isn't doing more—it's knowing when to make them stop.",
+      "zh-CN": "10个Agent 24小时连轴转听着很猛，实则可能互相干扰。真正的自动化不是多做多，而是懂得何时喊停。"
+    }
+  },
+  {
+    "id": "2032418404884533559",
+    "date": "2026-03-14",
+    "author": "@KanikaBK",
+    "author_url": "https://x.com/KanikaBK",
+    "tweet_url": "https://x.com/KanikaBK/status/2032418404884533559",
+    "title": {
+      "en-US": "RIP DESIGNERS! Riley Brown's masterclass on Claude Code + OpenClaw design workflow. No Figma needed.",
+      "zh-CN": "设计师完蛋了！Riley Brown 发布 Claude Code + OpenClaw 设计工作流教程，不再需要 Figma 订阅。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Claude Code、AI 设计工具",
+      "zh-CN": "推文的「RIP设计师」是典型的技术奇观叙事——工具升级被渲染为职业消亡。但历史反复证明，工具民主化不会消灭专业，而是重新定义专业的门槛。更准确的纠正是：当所有人都能用AI生成设计，区分好坏的标准会从「能不能做」转向「知道什么值得做」。设计师真正的护城河从来不是工具操作，而是审美判断。"
+    },
+    "relevance": "OpenClaw、Claude Code、AI 设计工具",
+    "score": 0.78,
+    "engagement": {
+      "likes": 211,
+      "plies": 18,
+      "retweets": 30
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-13T17:06:33.265056+00:00",
+    "js_take": {
+      "en-US": "Tools don't kill designers. They kill designers who can't use them. When creation cost hits zero, competition shifts from \"can you make it\" to \"do you know what's worth making.\" The momentum is taste, not tooling.",
+      "zh-CN": "工具杀不死设计师，只会杀死不会用工具的设计师。当创作成本趋近于零，竞争就从\"能不能做\"变成了\"知不知道什么值得做\"。决定胜负的是品味，而非工具。"
+    }
+  },
+  {
     "id": "2032180950776627636",
     "date": "2026-03-13",
     "author": "@AlexFinn",
@@ -5623,63 +5679,6 @@
     "js_take": {
       "en-US": "\"Ultimate beginner's guide\" is false comfort. You'll only learn OpenClaw when this guide runs out and you're staring at an error alone.",
       "zh-CN": "所谓「终极入门指南」不过是虚假的安全感。真正的学习从指南失效、你独自面对报错那一刻才开始。"
-    }
-  },
-  {
-    "id": "2028558831144362061",
-    "date": "2026-03-04",
-    "author": "@djfarrelly",
-    "author_url": "https://x.com/djfarrelly",
-    "tweet_url": "https://x.com/djfarrelly/status/2028558831144362061",
-    "title": {
-      "en-US": "Inspired by @openclaw, built project \"Utah\" with event-driven orchestration at core",
-      "zh-CN": "受 OpenClaw 启发，作者构建了一个名为\"Utah\"的项目，将编排(orchestration)置于核心并探索事件驱动方法"
-    },
-    "summary": {
-      "en-US": "直接提及 OpenClaw，开发者受其启发构建新项目，属于 Agent 框架生态讨论",
-      "zh-CN": "OpenClaw 的核心价值不是\"被模仿\"，而是证明了一件事：当编排(orchestration)成为一等公民，Agent 才能从 demo 变成生产级系统——这是大多数框架还没意识到的层级问题。"
-    },
-    "relevance": "直接提及 OpenClaw，开发者受其启发构建新项目，属于 Agent 框架生态讨论",
-    "score": 0.82,
-    "engagement": {
-      "likes": 84,
-      "replies": 4,
-      "retweets": 10
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-03T20:05:34.370245+00:00",
-    "js_take": {
-      "en-US": "Copying the shape is easy. The real test: can your orchestration gracefully handle failure states? Most people steal the syntax, miss the soul.",
-      "zh-CN": "复制形态容易。真正的考验：你的编排系统能否优雅地处理故障状态？大多数人抄走了语法，却丢失了灵魂。"
-    }
-  },
-  {
-    "id": "2029097224169472345",
-    "date": "2026-03-04",
-    "author": "@chrysb",
-    "author_url": "https://x.com/chrysb",
-    "tweet_url": "https://x.com/chrysb/status/2029097224169472345",
-    "title": {
-      "en-US": "sneak peek @openclaw + google workspace, minus hours of config",
-      "zh-CN": "OpenClaw与Google Workspace集成的预告，强调省去了数小时的配置时间"
-    },
-    "summary": {
-      "en-US": "直接涉及OpenClaw产品，讨论AI agent配置简化的工程实践",
-      "zh-CN": "人们总想把AI工具调得越来越复杂，却忘了最好的系统是让复杂性自己消失——而不是让你去管理它。"
-    },
-    "relevance": "直接涉及OpenClaw产品，讨论AI agent配置简化的工程实践",
-    "score": 0.82,
-    "engagement": {
-      "likes": 140,
-      "replies": 10,
-      "retweets": 2,
-      "views": 9563
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-04T12:04:11.441328+00:00",
-    "js_take": {
-      "en-US": "Zero config isn't a feature—it's an apology. 'Hours of setup' was never value, just a tax we normalized.",
-      "zh-CN": "Zero config isn't a feature—it's an apology. 'Hours of setup' was never value, just a tax we normalized."
     }
   }
 ]

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-13T15:12:27.417425+00:00",
+  "updated_at": "2026-03-13T18:04:58.949506+00:00",
   "this_week": {
-    "total_items": 112,
+    "total_items": 114,
     "avg_score": 0.77,
-    "unique_authors": 94,
+    "unique_authors": 95,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -889,6 +889,34 @@
         }
       },
       {
+        "id": "2032508786238484974",
+        "date": "2026-03-14",
+        "author": "@AlexFinn",
+        "author_url": "https://x.com/AlexFinn",
+        "tweet_url": "https://x.com/AlexFinn/status/2032508786238484974",
+        "title": {
+          "en-US": "10 OpenClaw agents working 24/7, building apps, making money",
+          "zh-CN": "Alex Finn称他有10个OpenClaw agents 24/7工作，帮他开发应用、自动化生活并赚钱，并展示如何建立agent军队。"
+        },
+        "summary": {
+          "en-US": "OpenClaw - Agent自动化与规模化",
+          "zh-CN": "推文是典型的\"做更多\"叙事——10个agents、24/7、军队化部署——但这正是过度干预的反面教材：堆砌数量来掩盖对系统本质的无知。"
+        },
+        "relevance": "OpenClaw - Agent自动化与规模化",
+        "score": 0.79,
+        "engagement": {
+          "likes": 126,
+          "replies": 35,
+          "retweets": 6
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-13T18:04:44.872103+00:00",
+        "js_take": {
+          "en-US": "10 agents running 24/7 sounds like power, but they're probably just interrupting each other. True automation isn't doing more—it's knowing when to make them stop.",
+          "zh-CN": "10个Agent 24小时连轴转听着很猛，实则可能互相干扰。真正的自动化不是多做多，而是懂得何时喊停。"
+        }
+      },
+      {
         "id": "2031730289026736351",
         "date": "2026-03-12",
         "author": "@emollick",
@@ -914,6 +942,34 @@
         "js_take": {
           "en-US": "This isn't OpenClaw going too far, it's 里世界 eating the surface. You debate 'functional anthropomorphism' while users already treat agents as partners.",
           "zh-CN": "这不是 OpenClaw 越界，而是里世界正在吞噬表世界。你还在争论「功能性拟人化」，用户早把 Agent 当伙伴了。"
+        }
+      },
+      {
+        "id": "2032418404884533559",
+        "date": "2026-03-14",
+        "author": "@KanikaBK",
+        "author_url": "https://x.com/KanikaBK",
+        "tweet_url": "https://x.com/KanikaBK/status/2032418404884533559",
+        "title": {
+          "en-US": "RIP DESIGNERS! Riley Brown's masterclass on Claude Code + OpenClaw design workflow. No Figma needed.",
+          "zh-CN": "设计师完蛋了！Riley Brown 发布 Claude Code + OpenClaw 设计工作流教程，不再需要 Figma 订阅。"
+        },
+        "summary": {
+          "en-US": "OpenClaw、Claude Code、AI 设计工具",
+          "zh-CN": "推文的「RIP设计师」是典型的技术奇观叙事——工具升级被渲染为职业消亡。但历史反复证明，工具民主化不会消灭专业，而是重新定义专业的门槛。更准确的纠正是：当所有人都能用AI生成设计，区分好坏的标准会从「能不能做」转向「知道什么值得做」。设计师真正的护城河从来不是工具操作，而是审美判断。"
+        },
+        "relevance": "OpenClaw、Claude Code、AI 设计工具",
+        "score": 0.78,
+        "engagement": {
+          "likes": 211,
+          "plies": 18,
+          "retweets": 30
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-13T17:06:33.265056+00:00",
+        "js_take": {
+          "en-US": "Tools don't kill designers. They kill designers who can't use them. When creation cost hits zero, competition shifts from \"can you make it\" to \"do you know what's worth making.\" The momentum is taste, not tooling.",
+          "zh-CN": "工具杀不死设计师，只会杀死不会用工具的设计师。当创作成本趋近于零，竞争就从\"能不能做\"变成了\"知不知道什么值得做\"。决定胜负的是品味，而非工具。"
         }
       },
       {
@@ -973,67 +1029,11 @@
           "en-US": "Built 47 features last quarter. Spent 60 hours this month untangling context windows and duplicate prompts. You optimize for output; entropy optimizes for your attention.",
           "zh-CN": "上季度交付47个功能，本月却花60小时梳理上下文窗口和重复提示词。你追求输出效率，熵却在蚕食你的注意力。"
         }
-      },
-      {
-        "id": "2032418992128942150",
-        "date": "2026-03-13",
-        "author": "@frxiaobei",
-        "author_url": "https://x.com/frxiaobei",
-        "tweet_url": "https://x.com/frxiaobei/status/2032418992128942150",
-        "title": {
-          "en-US": "OpenClaw addict,熬夜折腾到凌晨",
-          "zh-CN": "沉迷OpenClaw，每天熬夜折腾到凌晨，身体发出警报"
-        },
-        "summary": {
-          "en-US": "OpenClaw社区+开发者体验",
-          "zh-CN": "过度投入OpenClaw反而让身体报警，这与OpenClaw「自动化减负」的初衷相悖——技术本应解放人，而非吞噬人。问题不在工具，而在「拼命优化」的执念本身。"
-        },
-        "relevance": "OpenClaw社区+开发者体验",
-        "score": 0.78,
-        "engagement": {
-          "likes": 77,
-          "retweets": 1,
-          "replies": 28
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-13T15:12:11.329539+00:00",
-        "js_take": {
-          "en-US": "The workflow you're debugging at 2am is the one you should have never built. Best automation? Knowing what to leave broken.",
-          "zh-CN": "凌晨两点还在调试的工作流，从一开始就不该搭。最高级的自动化？是懂得哪些该让它坏着。"
-        }
-      },
-      {
-        "id": "2031795216966173145",
-        "date": "2026-03-12",
-        "author": "@CodeByPoonam",
-        "author_url": "https://x.com/CodeByPoonam",
-        "tweet_url": "https://x.com/CodeByPoonam/status/2031795216966173145",
-        "title": {
-          "en-US": "Perplexity announced Personal Computer, a Mac mini running AI 24/7",
-          "zh-CN": "Perplexity发布Personal Computer，一台24/7运行AI的Mac mini，可远程控制文件和应用"
-        },
-        "summary": {
-          "en-US": "Agent硬件化 + 个人AI计算机 + OpenClaw竞品动态",
-          "zh-CN": "更深度：大家都在讨论「Perplexity做了个硬件」，但漏掉了一层——这不是设备之争，是「表世界向里世界迁徙」的加速。表世界（App/网站）正在退化为数据库，里世界（常驻Agent）成为新交互层。Perplexity PC只是这个迁徙的基础设施。"
-        },
-        "relevance": "Agent硬件化 + 个人AI计算机 + OpenClaw竞品动态",
-        "score": 0.78,
-        "engagement": {
-          "likes": 560,
-          "replies": 17,
-          "retweets": 55
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-11T22:04:44.326220+00:00",
-        "js_take": {
-          "en-US": "Another AI gadget? No—it's the second migration. Apps become databases. Agents become the interface. You're debating specs while the surface world dissolves.",
-          "zh-CN": "又一个AI小工具？不——这是第二次大迁徙。应用退化为数据库，Agent成为新界面。你还在争论参数，而表层世界正在瓦解。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 161
+    "unique_authors": 160
   }
 }
