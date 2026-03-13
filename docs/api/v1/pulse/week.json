@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2032253333747220690",
+    "date": "2026-03-13",
+    "author": "@shao__meng",
+    "author_url": "https://x.com/shao__meng",
+    "tweet_url": "https://x.com/shao__meng/status/2032253333747220690",
+    "title": {
+      "en-US": "重读 OpenClaw 背后的 pi 框架，极简设计即使现在仍精妙",
+      "zh-CN": "作者重读OpenClaw背后的Agent框架「pi」，感叹其极简设计即使以现在的视角回看依然精妙，并总结了可复制到其他Agent的经验"
+    },
+    "summary": {
+      "en-US": "OpenClaw/pi框架深度反思，直接相关",
+      "zh-CN": "推崇「精妙」往往是对复杂系统的过度美化——真正的好设计不是让人惊叹的精妙，而是让人忘记它的存在。极简是减法，不是另一种形式的炫技。"
+    },
+    "relevance": "OpenClaw/pi框架深度反思，直接相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 125,
+      "replies": 8,
+      "retweets": 33
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-13T06:04:33.660566+00:00",
+    "js_take": {
+      "en-US": "「精妙」是认知税。真正优雅的系统不会让你感叹设计者的聪明——你会忘记设计的存在，就像忘记呼吸。",
+      "zh-CN": "「精妙」是一种认知税。真正优雅的系统不会让人惊叹设计者的聪明——你会忘记设计的存在，就像忘记呼吸一样自然。"
+    }
+  },
+  {
     "id": "2032052734460125475",
     "date": "2026-03-13",
     "author": "@RoundtableSpace",

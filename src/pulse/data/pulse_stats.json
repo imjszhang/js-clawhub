@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-13T02:12:02.824379+00:00",
+  "updated_at": "2026-03-13T06:04:53.395393+00:00",
   "this_week": {
-    "total_items": 105,
+    "total_items": 106,
     "avg_score": 0.77,
-    "unique_authors": 89,
+    "unique_authors": 90,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -458,6 +458,34 @@
         "js_take": {
           "en-US": "You didn't cut $300/day in costs. You bought sovereignty for the day they throttle your API and your product goes dark.",
           "zh-CN": "你不是在削减每天300美元的成本，而是在为API被限流、产品陷入瘫痪的那一天，买下了自主权。"
+        }
+      },
+      {
+        "id": "2032253333747220690",
+        "date": "2026-03-13",
+        "author": "@shao__meng",
+        "author_url": "https://x.com/shao__meng",
+        "tweet_url": "https://x.com/shao__meng/status/2032253333747220690",
+        "title": {
+          "en-US": "重读 OpenClaw 背后的 pi 框架，极简设计即使现在仍精妙",
+          "zh-CN": "作者重读OpenClaw背后的Agent框架「pi」，感叹其极简设计即使以现在的视角回看依然精妙，并总结了可复制到其他Agent的经验"
+        },
+        "summary": {
+          "en-US": "OpenClaw/pi框架深度反思，直接相关",
+          "zh-CN": "推崇「精妙」往往是对复杂系统的过度美化——真正的好设计不是让人惊叹的精妙，而是让人忘记它的存在。极简是减法，不是另一种形式的炫技。"
+        },
+        "relevance": "OpenClaw/pi框架深度反思，直接相关",
+        "score": 0.82,
+        "engagement": {
+          "likes": 125,
+          "replies": 8,
+          "retweets": 33
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-13T06:04:33.660566+00:00",
+        "js_take": {
+          "en-US": "「精妙」是认知税。真正优雅的系统不会让你感叹设计者的聪明——你会忘记设计的存在，就像忘记呼吸。",
+          "zh-CN": "「精妙」是一种认知税。真正优雅的系统不会让人惊叹设计者的聪明——你会忘记设计的存在，就像忘记呼吸一样自然。"
         }
       },
       {
@@ -1001,41 +1029,11 @@
           "en-US": "A cage is 'secure' too. But a bird that can't fly isn't a bird anymore—it's decoration.",
           "zh-CN": "A cage is 'secure' too. But a bird that can't fly isn't a bird anymore—it's decoration."
         }
-      },
-      {
-        "id": "2031803615644467393",
-        "date": "2026-03-12",
-        "author": "@milesdeutscher",
-        "author_url": "https://x.com/milesdeutscher",
-        "tweet_url": "https://x.com/milesdeutscher/status/2031803615644467393",
-        "title": {
-          "en-US": "OpenClaw is getting more competition.. Just signed up for the waitlist.",
-          "zh-CN": "OpenClaw 面临更多竞争，作者刚加入等待列表"
-        },
-        "summary": {
-          "en-US": "OpenClaw 平台竞争讨论，AI Agent 基础设施",
-          "zh-CN": "人们总在寻找'更好'的工具，却没意识到真正的竞争不在产品功能，而在使用者的判断力——AI的上限永远由人决定，工具只是放大器。"
-        },
-        "relevance": "OpenClaw 平台竞争讨论，AI Agent 基础设施",
-        "score": 0.78,
-        "engagement": {
-          "likes": 198,
-          "replies": 16,
-          "retweets": 3,
-          "views": 51791,
-          "bookmarks": 129
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-12T05:04:35.788339+00:00",
-        "js_take": {
-          "en-US": "Another waitlist, another FOMO trap. The real bottleneck isn't which tool you pick—it's whether you have the judgment to use any of them properly.",
-          "zh-CN": "又一个候补名单，又一个FOMO陷阱。真正的瓶颈不是选哪个工具——而是你有没有判断力把工具用对。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 161
+    "unique_authors": 162
   }
 }

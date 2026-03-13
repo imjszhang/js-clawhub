@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2032253333747220690",
+    "date": "2026-03-13",
+    "author": "@shao__meng",
+    "author_url": "https://x.com/shao__meng",
+    "tweet_url": "https://x.com/shao__meng/status/2032253333747220690",
+    "title": {
+      "en-US": "重读 OpenClaw 背后的 pi 框架，极简设计即使现在仍精妙",
+      "zh-CN": "作者重读OpenClaw背后的Agent框架「pi」，感叹其极简设计即使以现在的视角回看依然精妙，并总结了可复制到其他Agent的经验"
+    },
+    "summary": {
+      "en-US": "OpenClaw/pi框架深度反思，直接相关",
+      "zh-CN": "推崇「精妙」往往是对复杂系统的过度美化——真正的好设计不是让人惊叹的精妙，而是让人忘记它的存在。极简是减法，不是另一种形式的炫技。"
+    },
+    "relevance": "OpenClaw/pi框架深度反思，直接相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 125,
+      "replies": 8,
+      "retweets": 33
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-13T06:04:33.660566+00:00",
+    "js_take": {
+      "en-US": "「精妙」是认知税。真正优雅的系统不会让你感叹设计者的聪明——你会忘记设计的存在，就像忘记呼吸。",
+      "zh-CN": "「精妙」是一种认知税。真正优雅的系统不会让人惊叹设计者的聪明——你会忘记设计的存在，就像忘记呼吸一样自然。"
+    }
+  },
+  {
     "id": "2032052734460125475",
     "date": "2026-03-13",
     "author": "@RoundtableSpace",
@@ -5660,36 +5688,6 @@
     "js_take": {
       "en-US": "Bragging about $140 misses the point. The real cost isn't the tool—it's knowing which decisions deserve a human and which don't. Most get this backwards.",
       "zh-CN": "炫耀140美元买工具完全搞错了重点。真正的成本不是工具本身，而是判断哪些决策需要人类介入、哪些不需要。大多数人把这点搞反了。"
-    }
-  },
-  {
-    "id": "2029051344607428704",
-    "date": "2026-03-04",
-    "author": "@chrysb",
-    "author_url": "https://x.com/chrysb",
-    "tweet_url": "https://x.com/chrysb/status/2029051344607428704",
-    "title": {
-      "en-US": "OpenClaw 2026.3.2 limits new agents by default",
-      "zh-CN": "OpenClaw新版本默认限制新安装agent的工具权限，导致开箱即用性下降，需要手动修复"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台、agent 权限与安全",
-      "zh-CN": "安全与便利的拉锯是伪命题——真正的解决方案不是'默认关'或'默认开'，而是让agent自己学会在不确定性中做判断。你给它所有工具，它可能闯祸；你全收走，它就是个聊天机器人。中间的 nuanced 决策能力，才是区分'toy'和'tool'的分水岭。"
-    },
-    "relevance": "OpenClaw 平台、agent 权限与安全",
-    "score": 0.75,
-    "engagement": {
-      "likes": 140,
-      "retweets": 12,
-      "replies": 9,
-      "views": 13258,
-      "bookmarks": 292
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-04T11:03:59.642878+00:00",
-    "js_take": {
-      "en-US": "Default limits are parental controls for perpetual children. Real autonomy isn't about access—it's knowing when NOT to use it.",
-      "zh-CN": "默认限制就像是给永远长不大的孩子设的家长管控。真正的自主不是看你能做什么，而是知道什么时候不该用。"
     }
   }
 ]
