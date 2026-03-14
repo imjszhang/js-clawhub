@@ -281,6 +281,34 @@
     }
   },
   {
+    "id": "2032663584749089190",
+    "date": "2026-03-14",
+    "author": "@minchoi",
+    "author_url": "https://x.com/minchoi",
+    "tweet_url": "https://x.com/minchoi/status/2032663584749089190",
+    "title": {
+      "en-US": "OpenClaw is insane. 8 wild examples of people building and making money.",
+      "zh-CN": "OpenClaw 太疯狂了，人们用它搭建项目并赚钱的8个案例。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台成功案例展示",
+      "zh-CN": "这波'表世界退化为数据库，里世界成为新交互层'的迁徙正在加速。OpenClaw 只是里世界入口之一，真正的势在于个人 Agent 成为主界面的趋势——这跟具体工具无关，跟权力转移有关。"
+    },
+    "relevance": "OpenClaw 平台成功案例展示",
+    "score": 0.78,
+    "engagement": {
+      "likes": 164,
+      "replies": 17,
+      "retweets": 23
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T05:11:30.242691+00:00",
+    "js_take": {
+      "en-US": "Tools are surface. The migration is deeper — from apps you open to agents that work for you. The database is becoming invisible.",
+      "zh-CN": "工具只是表层。真正的迁徙更深——从主动打开的应用，到为你工作的智能体。数据库正在隐形。"
+    }
+  },
+  {
     "id": "2032558567413457346",
     "date": "2026-03-14",
     "author": "@RoundtableSpace",
@@ -5644,34 +5672,6 @@
     "js_take": {
       "en-US": "\"Unlimited tokens\" means unlimited chances to see \"system resetting, please retry.\" Limits don't disappear—they just get rebranded.",
       "zh-CN": "「无限 token」意味着你有无限次机会看到「系统重置中，请重试」。限制从未消失，只是换了个包装重新上市。"
-    }
-  },
-  {
-    "id": "2029139125899755613",
-    "date": "2026-03-05",
-    "author": "@Jackywine",
-    "author_url": "https://x.com/Jackywine",
-    "tweet_url": "https://x.com/Jackywine/status/2029139125899755613",
-    "title": {
-      "en-US": "大家都拿 OpenClaw 干啥呢？有啥最佳实践么？",
-      "zh-CN": "大家都在用OpenClaw做什么？有什么最佳实践？"
-    },
-    "summary": {
-      "en-US": "OpenClaw/中文社区/使用场景",
-      "zh-CN": "问'OpenClaw能做什么'是错误的问题。正确的问题是：'有什么我现在花大量时间做的重复决策，可以交给一个24/7运行的Agent？'工具的价值不在于功能列表，而在于它能消除多少你的认知负担。"
-    },
-    "relevance": "OpenClaw/中文社区/使用场景",
-    "score": 0.76,
-    "engagement": {
-      "likes": 273,
-      "replies": 71,
-      "retweets": 27
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T05:06:02.543823+00:00",
-    "js_take": {
-      "en-US": "Wrong question. Don't ask what OpenClaw can do—ask what decision you make more than twice a day. That's what you hand to an agent. Everything else is just playing with a new toy.",
-      "zh-CN": "问错了。别问OpenClaw能做什么——问你每天重复做两次以上的决定是什么。那才是真正该交给Agent的。其他的不过是把玩新玩具罢了。"
     }
   }
 ]

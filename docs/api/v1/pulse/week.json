@@ -281,6 +281,34 @@
     }
   },
   {
+    "id": "2032663584749089190",
+    "date": "2026-03-14",
+    "author": "@minchoi",
+    "author_url": "https://x.com/minchoi",
+    "tweet_url": "https://x.com/minchoi/status/2032663584749089190",
+    "title": {
+      "en-US": "OpenClaw is insane. 8 wild examples of people building and making money.",
+      "zh-CN": "OpenClaw 太疯狂了，人们用它搭建项目并赚钱的8个案例。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台成功案例展示",
+      "zh-CN": "这波'表世界退化为数据库，里世界成为新交互层'的迁徙正在加速。OpenClaw 只是里世界入口之一，真正的势在于个人 Agent 成为主界面的趋势——这跟具体工具无关，跟权力转移有关。"
+    },
+    "relevance": "OpenClaw 平台成功案例展示",
+    "score": 0.78,
+    "engagement": {
+      "likes": 164,
+      "replies": 17,
+      "retweets": 23
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T05:11:30.242691+00:00",
+    "js_take": {
+      "en-US": "Tools are surface. The migration is deeper — from apps you open to agents that work for you. The database is becoming invisible.",
+      "zh-CN": "工具只是表层。真正的迁徙更深——从主动打开的应用，到为你工作的智能体。数据库正在隐形。"
+    }
+  },
+  {
     "id": "2032558567413457346",
     "date": "2026-03-14",
     "author": "@RoundtableSpace",
