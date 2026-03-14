@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-13T20:13:15.468365+00:00",
+  "updated_at": "2026-03-13T23:07:17.088418+00:00",
   "this_week": {
-    "total_items": 115,
+    "total_items": 120,
     "avg_score": 0.77,
-    "unique_authors": 96,
+    "unique_authors": 99,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -346,6 +346,34 @@
         "js_take": {
           "en-US": "If a \"skill creator doc\" makes you *more* aware you're building skills, it missed the point. Great tools disappear—they don't add another layer of consciousness.",
           "zh-CN": "如果一份「技能创建文档」让你更加意识到自己是在「做技能」，那它就跑偏了。好工具应该隐形——而不是再添一层认知负担。"
+        }
+      },
+      {
+        "id": "2032578639276159438",
+        "date": "2026-03-14",
+        "author": "@bcherny",
+        "author_url": "https://x.com/bcherny",
+        "tweet_url": "https://x.com/bcherny/status/2032578639276159438",
+        "title": {
+          "en-US": "Launch Claude Code sessions on laptop from your phone",
+          "zh-CN": "手机远程启动电脑端 Claude Code 会话"
+        },
+        "summary": {
+          "en-US": "OpenClaw/Claude Code 新功能，远程控制",
+          "zh-CN": "OpenClaw/Claude Code 新增远程会话启动功能"
+        },
+        "relevance": "OpenClaw/Claude Code 新功能，远程控制",
+        "score": 0.85,
+        "engagement": {
+          "likes": 749,
+          "replies": 83,
+          "retweets": 38
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-13T23:06:56.906481+00:00",
+        "js_take": {
+          "en-US": "Phone commands, laptop executes. The surface is becoming interface, the inner world is taking over. You're not controlling your computer — you're training to speak to agents.",
+          "zh-CN": "手机发号施令，电脑执行。表层正在退化为接口，里世界正在接管一切。你不再是在「控制电脑」——你是在训练如何与智能体对话。"
         }
       },
       {
@@ -861,6 +889,34 @@
         }
       },
       {
+        "id": "2032533699116355819",
+        "date": "2026-03-14",
+        "author": "@noahzweben",
+        "author_url": "https://x.com/noahzweben",
+        "tweet_url": "https://x.com/noahzweben/status/2032533699116355819",
+        "title": {
+          "en-US": "Claude remote control - spawn NEW local session from mobile app",
+          "zh-CN": "Claude 远程控制功能，可以在手机 App 中生成新的本地会话"
+        },
+        "summary": {
+          "en-US": "OpenClaw/Claude Code 远程会话，Agent 运营",
+          "zh-CN": "「Session Spawning」这个词暴露了正在发生的迁移——Agent 不再是被调用的工具，而是可以自我繁殖的存在。你在手机上点一下，远处诞生一个新的「数字分身」。"
+        },
+        "relevance": "OpenClaw/Claude Code 远程会话，Agent 运营",
+        "score": 0.8,
+        "engagement": {
+          "likes": 514,
+          "replies": 42,
+          "retweets": 33
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-13T23:06:56.906487+00:00",
+        "js_take": {
+          "en-US": "Session Spawning isn't a feature. It's a signal — agents can now birth agents. Tap your phone, a digital twin wakes up somewhere else to work for you.",
+          "zh-CN": "会话派生不是一个功能。它是一个信号——智能体现在可以孕育智能体了。轻点手机，一个数字分身就在别处醒来，为你工作。"
+        }
+      },
+      {
         "id": "2031954477369204864",
         "date": "2026-03-12",
         "author": "@fxtrader",
@@ -971,67 +1027,11 @@
           "en-US": "Tools don't kill designers. They kill designers who can't use them. When creation cost hits zero, competition shifts from \"can you make it\" to \"do you know what's worth making.\" The momentum is taste, not tooling.",
           "zh-CN": "工具杀不死设计师，只会杀死不会用工具的设计师。当创作成本趋近于零，竞争就从\"能不能做\"变成了\"知不知道什么值得做\"。决定胜负的是品味，而非工具。"
         }
-      },
-      {
-        "id": "2032134268051169347",
-        "date": "2026-03-14",
-        "author": "@_akhaliq",
-        "author_url": "https://x.com/_akhaliq",
-        "tweet_url": "https://x.com/_akhaliq/status/2032134268051169347",
-        "title": {
-          "en-US": "OpenClaw-RL: Train agents by talking",
-          "zh-CN": "OpenClaw-RL发布：只需对话就能训练任意Agent"
-        },
-        "summary": {
-          "en-US": "Agent训练方法与OpenClaw平台",
-          "zh-CN": "表世界还在堆叠复杂训练流程，里世界已经发现——最好的调优，是让Agent从自然交互中自己学习"
-        },
-        "relevance": "Agent训练方法与OpenClaw平台",
-        "score": 0.78,
-        "engagement": {
-          "likes": 136,
-          "replies": 10,
-          "retweets": 30
-        },
-        "comment_type": "biaoli_insight",
-        "synced_at": "2026-03-13T20:13:00.456645+00:00",
-        "js_take": {
-          "en-US": "Surface world: 47-step training pipelines. Inner world: one conversation, agent learns. We're watching the second migration in real time.",
-          "zh-CN": "表世界：47步训练流程。里世界：一次对话，Agent 学会。我们正在实时见证第二次大迁徙。"
-        }
-      },
-      {
-        "id": "2032052734460125475",
-        "date": "2026-03-13",
-        "author": "@RoundtableSpace",
-        "author_url": "https://x.com/RoundtableSpace",
-        "tweet_url": "https://x.com/RoundtableSpace/status/2032052734460125475",
-        "title": {
-          "en-US": "OpenClaw agents join scrum meetings, report progress real-time",
-          "zh-CN": "OpenClaw agent 现在可以参加每日站会并实时汇报进度"
-        },
-        "summary": {
-          "en-US": "OpenClow agent 工作流自动化、人机协作新形态",
-          "zh-CN": "这条推文暗示「更多同步会议 = 更好的 AI 协作」，但问题在于：我们真正需要的是 agent 的自主汇报，还是让它们自己决定何时汇报、向谁汇报。过度设计「站会」这种人类仪式，恰恰是把 agent 关进了人的流程牢笼。"
-        },
-        "relevance": "OpenClow agent 工作流自动化、人机协作新形态",
-        "score": 0.78,
-        "engagement": {
-          "likes": 661,
-          "replies": 51,
-          "retweets": 40
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-12T17:12:26.598915+00:00",
-        "js_take": {
-          "en-US": "Forcing agents into standups is optimizing the wrong thing. Real autonomy means they ship without asking permission — not better status updates.",
-          "zh-CN": "强迫Agent参加站会，是在优化错误的方向。真正的自主性，是无需请示就能发布成果——而不是把状态报告写得更好。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 160
+    "unique_authors": 159
   }
 }

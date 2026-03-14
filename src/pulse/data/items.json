@@ -1,5 +1,61 @@
 [
   {
+    "id": "2032578639276159438",
+    "date": "2026-03-14",
+    "author": "@bcherny",
+    "author_url": "https://x.com/bcherny",
+    "tweet_url": "https://x.com/bcherny/status/2032578639276159438",
+    "title": {
+      "en-US": "Launch Claude Code sessions on laptop from your phone",
+      "zh-CN": "手机远程启动电脑端 Claude Code 会话"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code 新功能，远程控制",
+      "zh-CN": "OpenClaw/Claude Code 新增远程会话启动功能"
+    },
+    "relevance": "OpenClaw/Claude Code 新功能，远程控制",
+    "score": 0.85,
+    "engagement": {
+      "likes": 749,
+      "replies": 83,
+      "retweets": 38
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-13T23:06:56.906481+00:00",
+    "js_take": {
+      "en-US": "Phone commands, laptop executes. The surface is becoming interface, the inner world is taking over. You're not controlling your computer — you're training to speak to agents.",
+      "zh-CN": "手机发号施令，电脑执行。表层正在退化为接口，里世界正在接管一切。你不再是在「控制电脑」——你是在训练如何与智能体对话。"
+    }
+  },
+  {
+    "id": "2032533699116355819",
+    "date": "2026-03-14",
+    "author": "@noahzweben",
+    "author_url": "https://x.com/noahzweben",
+    "tweet_url": "https://x.com/noahzweben/status/2032533699116355819",
+    "title": {
+      "en-US": "Claude remote control - spawn NEW local session from mobile app",
+      "zh-CN": "Claude 远程控制功能，可以在手机 App 中生成新的本地会话"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code 远程会话，Agent 运营",
+      "zh-CN": "「Session Spawning」这个词暴露了正在发生的迁移——Agent 不再是被调用的工具，而是可以自我繁殖的存在。你在手机上点一下，远处诞生一个新的「数字分身」。"
+    },
+    "relevance": "OpenClaw/Claude Code 远程会话，Agent 运营",
+    "score": 0.8,
+    "engagement": {
+      "likes": 514,
+      "replies": 42,
+      "retweets": 33
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-13T23:06:56.906487+00:00",
+    "js_take": {
+      "en-US": "Session Spawning isn't a feature. It's a signal — agents can now birth agents. Tap your phone, a digital twin wakes up somewhere else to work for you.",
+      "zh-CN": "会话派生不是一个功能。它是一个信号——智能体现在可以孕育智能体了。轻点手机，一个数字分身就在别处醒来，为你工作。"
+    }
+  },
+  {
     "id": "2032508786238484974",
     "date": "2026-03-14",
     "author": "@AlexFinn",
@@ -81,6 +137,90 @@
     "js_take": {
       "en-US": "Surface world: 47-step training pipelines. Inner world: one conversation, agent learns. We're watching the second migration in real time.",
       "zh-CN": "表世界：47步训练流程。里世界：一次对话，Agent 学会。我们正在实时见证第二次大迁徙。"
+    }
+  },
+  {
+    "id": "2032514908743434392",
+    "date": "2026-03-14",
+    "author": "@Nate_Google_",
+    "author_url": "https://x.com/Nate_Google_",
+    "tweet_url": "https://x.com/Nate_Google_/status/2032514908743434392",
+    "title": {
+      "en-US": "skill graphs are a cheatcode that no one is talking about yet...",
+      "zh-CN": "skill graphs 是一个还没人谈论的作弊码（技术突破口）"
+    },
+    "summary": {
+      "en-US": "OpenClaw 核心概念——skill marketplace 和 agent 能力编排",
+      "zh-CN": "原推只抛出一个概念，但没解释为什么 skill graphs 是作弊码——本质是它让 agent 能力从「线性叠加」变成「网络效应」，每个新 skill 能与已有 skill 组合出指数级的新能力，而非简单加法。"
+    },
+    "relevance": "OpenClaw 核心概念——skill marketplace 和 agent 能力编排",
+    "score": 0.78,
+    "engagement": {
+      "likes": 183,
+      "replies": 5,
+      "retweets": 11
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-13T22:07:50.632220+00:00",
+    "js_take": {
+      "en-US": "表世界 lists features. 里世界 networks capabilities. Skill graphs aren't a cheatcode for having more—they're powerful because connections create emergence. Your agent finds paths you never programmed.",
+      "zh-CN": "表世界罗列功能，里世界连接能力。技能图谱的强大不在于数量叠加，而在于连接产生涌现。你的智能体会自发现你从未预设的路径。"
+    }
+  },
+  {
+    "id": "2032558567413457346",
+    "date": "2026-03-14",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2032558567413457346",
+    "title": {
+      "en-US": "RUN A COMPLETELY AUTONOMOUS AGENT WITH LESS THAN 5MB OF RAM",
+      "zh-CN": "现在可以用不到 5MB 内存运行完全自主的代理，完全模块化，无需云服务器，数据 100% 私密"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI Agent——轻量级自主代理与边缘计算",
+      "zh-CN": "原推强调技术规格（5MB RAM），但真正的转折点被忽略了：当 agent 小到能跑在任意设备上，它就从「云端的宠物」变成「随身携带的器官」——控制权真正交还给用户，这是表世界依赖云服务 vs 里世界个人主权的分野。"
+    },
+    "relevance": "OpenClaw/AI Agent——轻量级自主代理与边缘计算",
+    "score": 0.72,
+    "engagement": {
+      "likes": 124,
+      "replies": 18,
+      "retweets": 17
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-13T22:07:50.632225+00:00",
+    "js_take": {
+      "en-US": "Cloud agents are surface pets—you rent them, they die offline. 5MB agents are inner organs: always on, fully owned. When your digital twin stops begging for server permission, that's sovereignty returning.",
+      "zh-CN": "云端智能体是表层的租赁宠物，断网即死；5MB智能体是内在器官，永远在线、完全自主。当你的数字分身不再乞求服务器许可，主权才真正回归。"
+    }
+  },
+  {
+    "id": "2032552539582005694",
+    "date": "2026-03-14",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2032552539582005694",
+    "title": {
+      "en-US": "OpenClaw forgetting everything because you never told it to write things down",
+      "zh-CN": "你的 OpenClaw 之所以遗忘一切，是因为你从未告诉它要把东西写下来"
+    },
+    "summary": {
+      "en-US": "OpenClaw 记忆管理，Agent 运营最佳实践",
+      "zh-CN": "这是很多人踩过的坑——以为 Agent 会「记得」，其实它每次醒来都是空白。真正的「记忆」不是功能，是习惯。让写入成为默认，而不是选项。"
+    },
+    "relevance": "OpenClaw 记忆管理，Agent 运营最佳实践",
+    "score": 0.72,
+    "engagement": {
+      "likes": 44,
+      "replies": 8,
+      "retweets": 3
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-13T23:06:56.906491+00:00",
+    "js_take": {
+      "en-US": "Agents don't forget. They wake up blank every time. Memory isn't a feature you enable — it's a habit you build. Write first, ask later.",
+      "zh-CN": "智能体不会遗忘。它们每次醒来都是一张白纸。记忆不是你开启的功能——而是你养成的习惯。先写，再问。"
     }
   },
   {
@@ -5533,150 +5673,6 @@
     "js_take": {
       "en-US": "Google's fix treats the symptom. 30-50% context waste isn't a loading problem—it's a 'why are you carrying that?' problem.",
       "zh-CN": "Google 的修复治标不治本。30-50% 的上下文浪费不是加载问题，而是「为什么要带这么多？」的问题。"
-    }
-  },
-  {
-    "id": "2029357817812205952",
-    "date": "2026-03-05",
-    "author": "@Teknium",
-    "author_url": "https://x.com/Teknium",
-    "tweet_url": "https://x.com/Teknium/status/2029357817812205952",
-    "title": {
-      "en-US": "Since launching just a week ago, we've pushed over 100 bug fixes, 40 feature requests... MCP support, home automation...",
-      "zh-CN": "Teknium 宣布 OpenClaw 上线一周已推送 100+ bug 修复、40+ 功能请求、MCP 支持、智能家居集成等重大更新"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent 平台 / MCP",
-      "zh-CN": "一周100个修复是技术执行力的体现，但更值得追问的是：为什么是这一周爆发而不是上周？真正的节奏不是加速，是在正确的时机做正确的事——顺势而为比拼命更有效。"
-    },
-    "relevance": "OpenClaw / Agent 平台 / MCP",
-    "score": 0.71,
-    "engagement": {
-      "likes": 141,
-      "replies": 20,
-      "retweets": 16,
-      "views": 9711,
-      "bookmarks": 27
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-03-05T03:09:13.074467+00:00",
-    "js_take": {
-      "en-US": "100 fixes in a week is noise. The signal: what made this week different? Real momentum comes from timing, not sweat.",
-      "zh-CN": "一周修100个bug只是噪音。关键信号是：这周到底哪不一样了？真正的势能来自时机把控，而非埋头蛮干。"
-    }
-  },
-  {
-    "id": "2029476719514861881",
-    "date": "2026-03-05",
-    "author": "@AzFlin",
-    "author_url": "https://x.com/AzFlin",
-    "tweet_url": "https://x.com/AzFlin/status/2029476719514861881",
-    "title": {
-      "en-US": "Feels bad for AI doing complex work for simple asks",
-      "zh-CN": "作者同情AI——为了回答用户简单的「做个交易机器人」请求，AI要读大量文档、消耗大量token进行复杂思考"
-    },
-    "summary": {
-      "en-US": "AI Agent认知负荷/用户体验 — 与OpenClaw生态相关",
-      "zh-CN": "同情AI是搞错了对象——真正该心疼的是用户，他们以为自己在「提需求」，其实是在「猜谜」，因为没人告诉他们AI的「成本结构」长什么样"
-    },
-    "relevance": "AI Agent认知负荷/用户体验 — 与OpenClaw生态相关",
-    "score": 0.71,
-    "engagement": {
-      "likes": 52,
-      "replies": 23,
-      "retweets": 0
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T11:08:13.073158+00:00",
-    "js_take": {
-      "en-US": "Don't feel bad for the AI. Feel bad for users who order off a menu with no prices and get shocked when the bill arrives. Nobody tells them a \"simple ask\" just burned a dollar in compute.",
-      "zh-CN": "别同情AI。同情那些在没有标价的菜单上点餐、看到账单时目瞪口呆的用户吧。没人告诉他们，一个「简单的请求」刚刚烧掉了一美元的算力成本。"
-    }
-  },
-  {
-    "id": "2029397317862982031",
-    "date": "2026-03-05",
-    "author": "@aigclink",
-    "author_url": "https://x.com/aigclink",
-    "tweet_url": "https://x.com/aigclink/status/2029397317862982031",
-    "title": {
-      "en-US": "Paperclip is an entire AI company, zero human. OpenClaw as employee.",
-      "zh-CN": "把OpenClaw当作一个员工，Paperclip则是一整个AI公司——零人类运营，AI自主完成方案、组队、执行。"
-    },
-    "summary": {
-      "en-US": "零人类公司与Agent协作",
-      "zh-CN": "\"零人类公司\"听起来很酷，但最大的瓶颈从来不是执行——是判断什么时候该停。AI不会喊累，不会质疑方向，这恰恰是最大的风险。"
-    },
-    "relevance": "零人类公司与Agent协作",
-    "score": 0.71,
-    "engagement": {
-      "likes": 225,
-      "replies": 11,
-      "retweets": 56
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-05T13:04:46.144915+00:00",
-    "js_take": {
-      "en-US": "AI doesn't burn out. That's not a feature—it's a blind spot. Zero-human teams need owners who can kill their own momentum.",
-      "zh-CN": "AI 不会 burnout。这不是什么优势，而是盲点。纯 AI 团队需要有人能踩住刹车。"
-    }
-  },
-  {
-    "id": "2028847121189986576",
-    "date": "2026-03-04",
-    "author": "@tpschmidt_",
-    "author_url": "https://x.com/tpschmidt_",
-    "tweet_url": "https://x.com/tpschmidt_/status/2028847121189986576",
-    "title": {
-      "en-US": "Moved OpenClaw to $5 AWS Lightsail, works great",
-      "zh-CN": "把 OpenClaw 从本地移到 AWS Lightsail $5 实例上运行，解决了机器休眠问题，效果很好"
-    },
-    "summary": {
-      "en-US": "OpenClaw 部署实践、Agent 基础设施",
-      "zh-CN": "大家争论'该买 Mac mini 还是租云服务器'，其实真正的问题是谁来管这台机器的生死——本地的麻烦是它会睡，云上的麻烦是它会账单。所谓'托管'，不过是把一种焦虑换成另一种。"
-    },
-    "relevance": "OpenClaw 部署实践、Agent 基础设施",
-    "score": 0.84,
-    "engagement": {
-      "likes": 374,
-      "replies": 11,
-      "retweets": 24,
-      "views": 64469,
-      "bookmarks": 564
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-04T03:03:54.402718+00:00",
-    "js_take": {
-      "en-US": "AWS doesn't sleep, but neither does its billing. You're not choosing infrastructure—you're picking which 3am panic you prefer: waking up to a dead box, or a $200 surprise.",
-      "zh-CN": "AWS 全年无休，账单也是。你选的不是基础设施，而是凌晨3点的惊魂模式——服务器宕机，还是200刀账单突袭。"
-    }
-  },
-  {
-    "id": "2029013122506223688",
-    "date": "2026-03-04",
-    "author": "@mgonto",
-    "author_url": "https://x.com/mgonto",
-    "tweet_url": "https://x.com/mgonto/status/2029013122506223688",
-    "title": {
-      "en-US": "Last week I let my executive assistant go and replaced her with OpenClaw. Today, I'm open sourcing the skills...",
-      "zh-CN": "作者解雇了行政助理，用 OpenClaw 替代，并开源了配置方法"
-    },
-    "summary": {
-      "en-US": "OpenClaw/AI Agent 替代人工的直接案例",
-      "zh-CN": "「最好的 EA」不是取代人，而是让人不再被琐事消耗。好的系统是让被替代者去做更有价值的事，而不是被优化掉。"
-    },
-    "relevance": "OpenClaw/AI Agent 替代人工的直接案例",
-    "score": 0.83,
-    "engagement": {
-      "likes": 78,
-      "replies": 5,
-      "retweets": 5
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-03-04T10:03:54.259341+00:00",
-    "js_take": {
-      "en-US": "Firing isn't the flex. Making her irreplaceable elsewhere is.",
-      "zh-CN": "解雇不是本事，让她在别处无可替代才是真功夫"
     }
   }
 ]
