@@ -1,5 +1,92 @@
 [
   {
+    "id": "2032815258931544284",
+    "date": "2026-03-15",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2032815258931544284",
+    "title": {
+      "en-US": "Someone turned Claude into a senior engineer that plans, tests, ships on its own",
+      "zh-CN": "有人将Claude变成了一个能独立完成规划、测试和发布的资深工程师，完全开源。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent工程实践，自主AI系统",
+      "zh-CN": "这不是在造一个更好的工具，而是在造一种新的'存在'——从'我用工具'到'我管理一个能做事的实体'。表世界（工具）正在向里世界（Agent）迁徙，这个转变比任何单个技术都深刻。"
+    },
+    "relevance": "OpenClaw/Agent工程实践，自主AI系统",
+    "score": 0.75,
+    "engagement": {
+      "likes": 420,
+      "retweets": 51,
+      "replies": 44,
+      "bookmarks": 599
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T18:09:03.151633+00:00",
+    "js_take": {
+      "en-US": "We're not upgrading tools—we're migrating interfaces. Code becomes database. Agent becomes UI. Second migration: from surface world to inner world.",
+      "zh-CN": "我们不是在升级工具，而是在迁移交互界面。代码退化为数据库，智能体崛起为新UI。这是第二次大迁徙：从表世界迈向里世界。"
+    }
+  },
+  {
+    "id": "2032552816439603387",
+    "date": "2026-03-15",
+    "author": "@dctanner",
+    "author_url": "https://x.com/dctanner",
+    "tweet_url": "https://x.com/dctanner/status/2032552816439603387",
+    "title": {
+      "en-US": "Built own agent harness after talk, faster and better than Claude code SDK",
+      "zh-CN": "听了关于Agent harness的演讲后，作者自己搭建了一个harness，比Claude Code SDK更快、更适合他们的使用场景。"
+    },
+    "summary": {
+      "en-US": "Agent harness构建，OpenClaw相关技术实践",
+      "zh-CN": "最复杂的基础设施往往诞生于最简单的需求——不是为了'支持所有场景'，而是为了解决'我此刻的具体问题'。过度抽象是效率的敌人，针对性的简陋胜过普适的臃肿。"
+    },
+    "relevance": "Agent harness构建，OpenClaw相关技术实践",
+    "score": 0.7,
+    "engagement": {
+      "likes": 148,
+      "retweets": 5,
+      "replies": 13,
+      "bookmarks": 109
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-14T18:09:03.151637+00:00",
+    "js_take": {
+      "en-US": "Generic solutions optimize for problems you don't have. His harness is 'worse' at 80% of tasks—and 10x better at the 20% that matter. Simple is a choice, not a limitation.",
+      "zh-CN": "通用方案总在为你不存在的问题做优化。他的工具在80%场景下显得'简陋'，但在真正关键的20%场景中，效率提升10倍。简洁是主动选择，而非能力局限。"
+    }
+  },
+  {
+    "id": "2032871323723276426",
+    "date": "2026-03-15",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2032871323723276426",
+    "title": {
+      "en-US": "AI/OpenClaw democratized success, anyone can build money-making product now",
+      "zh-CN": "AI/OpenClaw带来了前所未有的机会，任何人无论技能水平如何，都能从想法到盈利产品，民主化的成功。"
+    },
+    "summary": {
+      "en-US": "AI Agent创业机会，低门槛产品构建",
+      "zh-CN": "当所有人都在追逐同一个'机会'时，那个机会就已经消失了。真正的优势不在'能做'，而在'选择做什么'——门槛低意味着竞争大，这时候判断力比执行力更稀缺。"
+    },
+    "relevance": "AI Agent创业机会，低门槛产品构建",
+    "score": 0.7,
+    "engagement": {
+      "likes": 116,
+      "retweets": 4,
+      "replies": 49,
+      "bookmarks": 22
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-14T18:09:03.151640+00:00",
+    "js_take": {
+      "en-US": "Low barrier = high competition. When everyone can build, 'building' stops being the edge. The new scarce resource: knowing what not to build.",
+      "zh-CN": "低门槛意味着高竞争。当人人都会构建，'会构建'本身就不再是优势。新的稀缺资源是：知道什么不该做。"
+    }
+  },
+  {
     "id": "2032578639276159438",
     "date": "2026-03-14",
     "author": "@bcherny",
@@ -5583,92 +5670,6 @@
     "js_take": {
       "en-US": "Your CS degree is the barrier. Grannies skip the theory and ask what it does—the most sophisticated question anyone can ask.",
       "zh-CN": "你的 CS 学位反而是障碍。老奶奶们跳过理论直接问「它能做什么」——这才是最精妙的问题。"
-    }
-  },
-  {
-    "id": "2029459120592757131",
-    "date": "2026-03-06",
-    "author": "@ianneo_ai",
-    "author_url": "https://x.com/ianneo_ai",
-    "tweet_url": "https://x.com/ianneo_ai/status/2029459120592757131",
-    "title": {
-      "en-US": "OpenClaw Telegram to Discord migration, UI comparison experience",
-      "zh-CN": "用户分享从Telegram迁移OpenClaw到Discord的体验，感叹Discord界面更美观、细节更到位"
-    },
-    "summary": {
-      "en-US": "直接讨论OpenClaw平台使用体验，Discord vs Telegram的UI对比",
-      "zh-CN": "这条推文把「界面美观」和「效率」对立起来了，但好的设计恰恰是让工具退到意识背后，人才能专注做事——Discord的「高级感」不是装饰，是减少了认知摩擦。"
-    },
-    "relevance": "直接讨论OpenClaw平台使用体验，Discord vs Telegram的UI对比",
-    "score": 0.72,
-    "engagement": {
-      "likes": 254,
-      "replies": 58,
-      "retweets": 33
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T15:06:01.128671+00:00",
-    "js_take": {
-      "en-US": "Discord's polish isn't eye candy—it's the interface disappearing. Good UI isn't what you notice; it's what you forget exists.",
-      "zh-CN": "Discord的精致之处不在于视觉炫技，而在于界面「隐形」了。好的UI不是让你注意到的，而是让你忘记它存在的。"
-    }
-  },
-  {
-    "id": "2029477146914332706",
-    "date": "2026-03-06",
-    "author": "@KanikaBK",
-    "author_url": "https://x.com/KanikaBK",
-    "tweet_url": "https://x.com/KanikaBK/status/2029477146914332706",
-    "title": {
-      "en-US": "Someone mapped the entire OpenClaw ecosystem. 60 days after launch: 230K+ stars, 116K+ Discord, dozens of startups.",
-      "zh-CN": "有人绘制了完整的OpenClaw生态系统图，仅发布60天就有23万+GitHub star、11.6万Discord成员，数十家创业公司正在围绕它构建。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态爆发，agent基础设施趋势",
-      "zh-CN": "OpenClaw 60天长成一片森林，不是靠中心化的规划，而是靠「搭好基础然后让事情自然发生」——这种系统设计的智慧，比增长速度本身更值得观察。"
-    },
-    "relevance": "OpenClaw生态爆发，agent基础设施趋势",
-    "score": 0.71,
-    "engagement": {
-      "likes": 185,
-      "replies": 33,
-      "retweets": 17
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-03-05T18:05:57.366512+00:00",
-    "js_take": {
-      "en-US": "230K stars in 60 days wasn't planned—it was allowed. The healthiest growth looks like \"nobody's in charge\" because the best systems run themselves once you build the right foundation.",
-      "zh-CN": "60天23万星不是计划出来的——是「允许」出来的。最健康的增长看起来像是「没人管」，因为最好的系统一旦搭好地基，就会自己运转。"
-    }
-  },
-  {
-    "id": "2029766239275606185",
-    "date": "2026-03-06",
-    "author": "@sandraleow",
-    "author_url": "https://x.com/sandraleow",
-    "tweet_url": "https://x.com/sandraleow/status/2029766239275606185",
-    "title": {
-      "en-US": "Added YouTube transcription and workflow extraction skill to OpenClaw",
-      "zh-CN": "为 OpenClaw 添加了 YouTube 自动转录和工作流提取技能，形成可执行的行动文档"
-    },
-    "summary": {
-      "en-US": "OpenClaw Skill 开发实践，Agent 能力扩展",
-      "zh-CN": "推文展示的是把视频内容变成可执行文档的工作流，但更深层的价值在于：大多数人消费内容是在「输入焦虑」，而建立这种自动化提取的工作流是在「输出复利」。输入再多不改变行为，把输入转化为可执行的动作清单才是真的消化。系统帮你做的不是「记笔记」，是「消除从看到做到的摩擦」。"
-    },
-    "relevance": "OpenClaw Skill 开发实践，Agent 能力扩展",
-    "score": 0.71,
-    "engagement": {
-      "likes": 72,
-      "retweets": 0,
-      "replies": 7,
-      "views": 7238,
-      "bookmarks": 67
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T14:06:55.914804+00:00",
-    "js_take": {
-      "en-US": "You're hoarding content, she's weaponizing it. Most knowledge dies in the gap between watching and doing—this closes it.",
-      "zh-CN": "你在囤积内容，她却把它武器化。大多数知识都死于「看了却不做」——而她弥合了这道鸿沟。"
     }
   }
 ]

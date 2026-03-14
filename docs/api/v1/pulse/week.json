@@ -1,5 +1,92 @@
 [
   {
+    "id": "2032815258931544284",
+    "date": "2026-03-15",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2032815258931544284",
+    "title": {
+      "en-US": "Someone turned Claude into a senior engineer that plans, tests, ships on its own",
+      "zh-CN": "有人将Claude变成了一个能独立完成规划、测试和发布的资深工程师，完全开源。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent工程实践，自主AI系统",
+      "zh-CN": "这不是在造一个更好的工具，而是在造一种新的'存在'——从'我用工具'到'我管理一个能做事的实体'。表世界（工具）正在向里世界（Agent）迁徙，这个转变比任何单个技术都深刻。"
+    },
+    "relevance": "OpenClaw/Agent工程实践，自主AI系统",
+    "score": 0.75,
+    "engagement": {
+      "likes": 420,
+      "retweets": 51,
+      "replies": 44,
+      "bookmarks": 599
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T18:09:03.151633+00:00",
+    "js_take": {
+      "en-US": "We're not upgrading tools—we're migrating interfaces. Code becomes database. Agent becomes UI. Second migration: from surface world to inner world.",
+      "zh-CN": "我们不是在升级工具，而是在迁移交互界面。代码退化为数据库，智能体崛起为新UI。这是第二次大迁徙：从表世界迈向里世界。"
+    }
+  },
+  {
+    "id": "2032552816439603387",
+    "date": "2026-03-15",
+    "author": "@dctanner",
+    "author_url": "https://x.com/dctanner",
+    "tweet_url": "https://x.com/dctanner/status/2032552816439603387",
+    "title": {
+      "en-US": "Built own agent harness after talk, faster and better than Claude code SDK",
+      "zh-CN": "听了关于Agent harness的演讲后，作者自己搭建了一个harness，比Claude Code SDK更快、更适合他们的使用场景。"
+    },
+    "summary": {
+      "en-US": "Agent harness构建，OpenClaw相关技术实践",
+      "zh-CN": "最复杂的基础设施往往诞生于最简单的需求——不是为了'支持所有场景'，而是为了解决'我此刻的具体问题'。过度抽象是效率的敌人，针对性的简陋胜过普适的臃肿。"
+    },
+    "relevance": "Agent harness构建，OpenClaw相关技术实践",
+    "score": 0.7,
+    "engagement": {
+      "likes": 148,
+      "retweets": 5,
+      "replies": 13,
+      "bookmarks": 109
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-14T18:09:03.151637+00:00",
+    "js_take": {
+      "en-US": "Generic solutions optimize for problems you don't have. His harness is 'worse' at 80% of tasks—and 10x better at the 20% that matter. Simple is a choice, not a limitation.",
+      "zh-CN": "通用方案总在为你不存在的问题做优化。他的工具在80%场景下显得'简陋'，但在真正关键的20%场景中，效率提升10倍。简洁是主动选择，而非能力局限。"
+    }
+  },
+  {
+    "id": "2032871323723276426",
+    "date": "2026-03-15",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2032871323723276426",
+    "title": {
+      "en-US": "AI/OpenClaw democratized success, anyone can build money-making product now",
+      "zh-CN": "AI/OpenClaw带来了前所未有的机会，任何人无论技能水平如何，都能从想法到盈利产品，民主化的成功。"
+    },
+    "summary": {
+      "en-US": "AI Agent创业机会，低门槛产品构建",
+      "zh-CN": "当所有人都在追逐同一个'机会'时，那个机会就已经消失了。真正的优势不在'能做'，而在'选择做什么'——门槛低意味着竞争大，这时候判断力比执行力更稀缺。"
+    },
+    "relevance": "AI Agent创业机会，低门槛产品构建",
+    "score": 0.7,
+    "engagement": {
+      "likes": 116,
+      "retweets": 4,
+      "replies": 49,
+      "bookmarks": 22
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-14T18:09:03.151640+00:00",
+    "js_take": {
+      "en-US": "Low barrier = high competition. When everyone can build, 'building' stops being the edge. The new scarce resource: knowing what not to build.",
+      "zh-CN": "低门槛意味着高竞争。当人人都会构建，'会构建'本身就不再是优势。新的稀缺资源是：知道什么不该做。"
+    }
+  },
+  {
     "id": "2032578639276159438",
     "date": "2026-03-14",
     "author": "@bcherny",
