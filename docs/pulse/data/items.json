@@ -85,6 +85,34 @@
     }
   },
   {
+    "id": "2032395025662034056",
+    "date": "2026-03-14",
+    "author": "@Jimmy_JingLv",
+    "author_url": "https://x.com/Jimmy_JingLv",
+    "tweet_url": "https://x.com/Jimmy_JingLv/status/2032395025662034056",
+    "title": {
+      "en-US": "OpenClaw is much better now, AI agent evolution is the real variable",
+      "zh-CN": "OpenClaw 比以前好用太多，AI Agents 的原生进化速度才是真正的变量。"
+    },
+    "summary": {
+      "en-US": "直接提及 OpenClaw 和 AI Agent 生态，与 JS 身份完全契合",
+      "zh-CN": "修正了常见误区：不是「等着模型变强」，而是搭好系统让 agent 自己进化。变量不是模型更新速度，是你有没有建成能自我迭代的系统。模型强不强是表，系统能不能生长是里。"
+    },
+    "relevance": "直接提及 OpenClaw 和 AI Agent 生态，与 JS 身份完全契合",
+    "score": 0.82,
+    "engagement": {
+      "likes": 45,
+      "retweets": 2,
+      "replies": 12
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T10:12:07.760216+00:00",
+    "js_take": {
+      "en-US": "Waiting for better models is passive. The real variable is whether your system can absorb new capabilities the day they drop. Models are the surface; your architecture is the inner world.",
+      "zh-CN": "坐等模型升级是被动的。真正的变量在于：你的系统能否在新模型发布当天就吸收它们的能力。模型是表世界，架构才是里世界。"
+    }
+  },
+  {
     "id": "2032533699116355819",
     "date": "2026-03-14",
     "author": "@noahzweben",
@@ -334,6 +362,34 @@
     "js_take": {
       "en-US": "First big-tech integration isn't the story. The real signal: even the most sensitive transaction data is moving toward systems that flow rather than control. You don't tame AI with more guardrails—you set the riverbanks and let it run.",
       "zh-CN": "首个科技巨头集成不是重点。真正的信号是：就连最敏感的交易数据，也正流向「流动」而非「控制」的系统。驯服AI不靠更多护栏——而是设定河岸，任它奔流。"
+    }
+  },
+  {
+    "id": "2032668436942434506",
+    "date": "2026-03-14",
+    "author": "@yupi996",
+    "author_url": "https://x.com/yupi996",
+    "tweet_url": "https://x.com/yupi996/status/2032668436942434506",
+    "title": {
+      "en-US": "OpenClaw 中文网上线，帮助中国开发者降低使用门槛",
+      "zh-CN": "程序员鱼皮发布了 OpenClaw 中文网，认为 OpenClaw 上手有门槛，官方文档英文为主且中文翻译不地道"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台本地化与开发者体验",
+      "zh-CN": "表面看是语言问题，实质是「表世界」产品往「里世界」迁移时的摩擦——文档是表世界的说明书，真正的门槛是 agent 思维范式的切换，这不是翻译能解决的。"
+    },
+    "relevance": "OpenClaw 平台本地化与开发者体验",
+    "score": 0.78,
+    "engagement": {
+      "likes": 252,
+      "replies": 16,
+      "retweets": 59
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T11:06:37.585207+00:00",
+    "js_take": {
+      "en-US": "Translation lowers the surface barrier. But the real jump is from 'using tools' to 'raising agents'—documentation is a map, the inner world needs a compass.",
+      "zh-CN": "翻译只是敲开表世界大门的钥匙，真正的进化是从「使用工具」到「培育智能体」——文档是地图，但里世界需要的是指南针。"
     }
   },
   {
@@ -5611,65 +5667,6 @@
     "js_take": {
       "en-US": "774x faster through Cloudflare. Cool. Now you have 774x more data you don't know what to do with. Speed without judgment is just faster noise.",
       "zh-CN": "774倍速突破 Cloudflare。很酷。现在你有774倍的数据，却不知道该怎么用了。没有判断力的速度，不过是更快的噪音。"
-    }
-  },
-  {
-    "id": "2029243787772358706",
-    "date": "2026-03-05",
-    "author": "@mattshumer_",
-    "author_url": "https://x.com/mattshumer_",
-    "tweet_url": "https://x.com/mattshumer_/status/2029243787772358706",
-    "title": {
-      "en-US": "How do you setup multiple OpenClaw agents to work together on one machine?",
-      "zh-CN": "在同一台机器上运行多个OpenClaw agent，你们是怎么设置让它们协作的？"
-    },
-    "summary": {
-      "en-US": "OpenClaw多agent协作 - 核心技术问题",
-      "zh-CN": "每个人都在问「怎么让agents协作」，却没人问「它们真的需要协作吗」——有时候最好的协作就是各干各的，强行组队只会制造出会吵架的AI。"
-    },
-    "relevance": "OpenClaw多agent协作 - 核心技术问题",
-    "score": 0.78,
-    "engagement": {
-      "likes": 52,
-      "replies": 37,
-      "retweets": 2,
-      "views": 9623
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-04T18:03:36.079886+00:00",
-    "js_take": {
-      "en-US": "Everyone obsesses over making agents collaborate, but the real power move is giving each a domain where they never have to talk.",
-      "zh-CN": "人人都在研究怎么让Agent协作，真正的大招是给每个Agent一块领地，让它们永远不需要对话。"
-    }
-  },
-  {
-    "id": "2029185241378636218",
-    "date": "2026-03-05",
-    "author": "@slash1sol",
-    "author_url": "https://x.com/slash1sol",
-    "tweet_url": "https://x.com/slash1sol/status/2029185241378636218",
-    "title": {
-      "en-US": "STOP WASTING TOKENS ON OPENCLAW - no workspace config = 3x spend",
-      "zh-CN": "吐槽没有正确配置OpenClaw工作空间导致token消耗翻3倍，分享优化指南。"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台配置与开发者体验，直接相关",
-      "zh-CN": "人们在讨论「怎么省token」，但真正的成本不是token——是「没有系统思维」导致的重复劳动。省token是战术优化，建系统才是战略解法。"
-    },
-    "relevance": "OpenClaw平台配置与开发者体验，直接相关",
-    "score": 0.78,
-    "engagement": {
-      "likes": 127,
-      "retweets": 8,
-      "replies": 15,
-      "views": 10037,
-      "bookmarks": 191
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T06:04:10.734180+00:00",
-    "js_take": {
-      "en-US": "You saved $50 on tokens and lost 5 hours rewriting prompts from scratch. The real tax isn't OpenAI's bill—it's your 'start from zero' muscle memory.",
-      "zh-CN": "你省了50美元的token费用，却搭进去5小时从头重写提示词。真正的代价不是OpenAI的账单，而是你「从零开始」的肌肉记忆。"
     }
   }
 ]

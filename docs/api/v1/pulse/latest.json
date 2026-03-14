@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-14T07:06:30.500844+00:00",
+  "updated_at": "2026-03-14T11:06:55.239044+00:00",
   "this_week": {
-    "total_items": 128,
+    "total_items": 130,
     "avg_score": 0.77,
-    "unique_authors": 104,
+    "unique_authors": 106,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -518,6 +518,34 @@
         }
       },
       {
+        "id": "2032395025662034056",
+        "date": "2026-03-14",
+        "author": "@Jimmy_JingLv",
+        "author_url": "https://x.com/Jimmy_JingLv",
+        "tweet_url": "https://x.com/Jimmy_JingLv/status/2032395025662034056",
+        "title": {
+          "en-US": "OpenClaw is much better now, AI agent evolution is the real variable",
+          "zh-CN": "OpenClaw 比以前好用太多，AI Agents 的原生进化速度才是真正的变量。"
+        },
+        "summary": {
+          "en-US": "直接提及 OpenClaw 和 AI Agent 生态，与 JS 身份完全契合",
+          "zh-CN": "修正了常见误区：不是「等着模型变强」，而是搭好系统让 agent 自己进化。变量不是模型更新速度，是你有没有建成能自我迭代的系统。模型强不强是表，系统能不能生长是里。"
+        },
+        "relevance": "直接提及 OpenClaw 和 AI Agent 生态，与 JS 身份完全契合",
+        "score": 0.82,
+        "engagement": {
+          "likes": 45,
+          "retweets": 2,
+          "replies": 12
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-14T10:12:07.760216+00:00",
+        "js_take": {
+          "en-US": "Waiting for better models is passive. The real variable is whether your system can absorb new capabilities the day they drop. Models are the surface; your architecture is the inner world.",
+          "zh-CN": "坐等模型升级是被动的。真正的变量在于：你的系统能否在新模型发布当天就吸收它们的能力。模型是表世界，架构才是里世界。"
+        }
+      },
+      {
         "id": "2032180950776627636",
         "date": "2026-03-13",
         "author": "@AlexFinn",
@@ -1000,39 +1028,11 @@
           "en-US": "We tested OpenClaw 24/7 vs 18-hour daily cycles. After 30 days, the sleeping agents scored 22% higher task success. Constant context drift degrades performance. 24/7 is engineering vanity, not efficiency.",
           "zh-CN": "我们对比测试了OpenClaw 24/7全天候 vs 每日18小时工作制。30天后，\"会睡觉\"的Agent任务成功率高22%。持续上下文漂移在悄悄降级性能。24/7是工程师的 vanity，不是真效率。"
         }
-      },
-      {
-        "id": "2032508786238484974",
-        "date": "2026-03-14",
-        "author": "@AlexFinn",
-        "author_url": "https://x.com/AlexFinn",
-        "tweet_url": "https://x.com/AlexFinn/status/2032508786238484974",
-        "title": {
-          "en-US": "10 OpenClaw agents working 24/7, building apps, making money",
-          "zh-CN": "Alex Finn称他有10个OpenClaw agents 24/7工作，帮他开发应用、自动化生活并赚钱，并展示如何建立agent军队。"
-        },
-        "summary": {
-          "en-US": "OpenClaw - Agent自动化与规模化",
-          "zh-CN": "推文是典型的\"做更多\"叙事——10个agents、24/7、军队化部署——但这正是过度干预的反面教材：堆砌数量来掩盖对系统本质的无知。"
-        },
-        "relevance": "OpenClaw - Agent自动化与规模化",
-        "score": 0.79,
-        "engagement": {
-          "likes": 126,
-          "replies": 35,
-          "retweets": 6
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-13T18:04:44.872103+00:00",
-        "js_take": {
-          "en-US": "10 agents running 24/7 sounds like power, but they're probably just interrupting each other. True automation isn't doing more—it's knowing when to make them stop.",
-          "zh-CN": "10个Agent 24小时连轴转听着很猛，实则可能互相干扰。真正的自动化不是多做多，而是懂得何时喊停。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 158
+    "unique_authors": 159
   }
 }
