@@ -449,6 +449,36 @@
     }
   },
   {
+    "id": "2032711379204079708",
+    "date": "2026-03-14",
+    "author": "@haha_girrrl",
+    "author_url": "https://x.com/haha_girrrl",
+    "tweet_url": "https://x.com/haha_girrrl/status/2032711379204079708",
+    "title": {
+      "en-US": "Kimi launched Kimi Claw - run OpenClaw directly in browser, no hardware needed",
+      "zh-CN": "Kimi推出浏览器内直接运行OpenClaw的功能，不再需要本地Mac mini或复杂搭建"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent基础设施",
+      "zh-CN": "这条推文描绘了一个「零 friction」的美好愿景，但省略了一个事实：当Agent运行从本地转移到云端浏览器，用户得到的是便利，失去的是数据主权和控制权——这是表世界向里世界迁徙的又一站。"
+    },
+    "relevance": "OpenClaw/Agent基础设施",
+    "score": 0.72,
+    "engagement": {
+      "likes": 97,
+      "replies": 19,
+      "retweets": 5,
+      "views": 48381,
+      "bookmarks": 57
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T13:08:47.116302+00:00",
+    "js_take": {
+      "en-US": "Zero friction means zero control. Your agent lives in their browser now. The surface world just swallowed another piece of the inner.",
+      "zh-CN": "零摩擦意味着零掌控。你的代理现在活在别人的浏览器里。表世界又吞掉了里世界的一块版图。"
+    }
+  },
+  {
     "id": "2032647817165156463",
     "date": "2026-03-14",
     "author": "@AlexFinn",
@@ -502,6 +532,34 @@
     "js_take": {
       "en-US": "Feature lists are surface-world games. Real migration happens when users stop consuming tools and start building personal systems.",
       "zh-CN": "功能列表是表世界的游戏，真正的迁徙始于用户从消费工具转向构建个人系统。"
+    }
+  },
+  {
+    "id": "2032698610157027494",
+    "date": "2026-03-14",
+    "author": "@ashen_one",
+    "author_url": "https://x.com/ashen_one",
+    "tweet_url": "https://x.com/ashen_one/status/2032698610157027494",
+    "title": {
+      "en-US": "openclaw can now use ur actual chrome browser via remote debugging",
+      "zh-CN": "OpenClaw现在可以通过远程调试使用你真实的Chrome浏览器——不是无头浏览器，而是你开着Gmail和Notion的那个"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台功能——表/里世界交互层融合的关键一步",
+      "zh-CN": "这个更新的意义被低估了：它不是在解决'自动化操作浏览器'的技术问题，而是在抹平表世界（你看到的网页）和里世界（agent）之间的边界——当agent能直接操作你正在用的界面，'界面'本身就开始退化了。"
+    },
+    "relevance": "OpenClaw平台功能——表/里世界交互层融合的关键一步",
+    "score": 0.71,
+    "engagement": {
+      "likes": 274,
+      "replies": 26,
+      "retweets": 10
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T12:09:31.379323+00:00",
+    "js_take": {
+      "en-US": "Browsers aren't being controlled—they're becoming transparent. The real migration: from clicking interfaces to agents directly manipulating the underlying state. Surface world dissolves.",
+      "zh-CN": "浏览器不再是控制对象，而是在变得透明。真正的迁徙是：从点击界面到智能体直接操控底层状态。表世界正在消解。"
     }
   },
   {

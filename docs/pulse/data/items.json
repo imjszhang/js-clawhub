@@ -449,6 +449,36 @@
     }
   },
   {
+    "id": "2032711379204079708",
+    "date": "2026-03-14",
+    "author": "@haha_girrrl",
+    "author_url": "https://x.com/haha_girrrl",
+    "tweet_url": "https://x.com/haha_girrrl/status/2032711379204079708",
+    "title": {
+      "en-US": "Kimi launched Kimi Claw - run OpenClaw directly in browser, no hardware needed",
+      "zh-CN": "Kimi推出浏览器内直接运行OpenClaw的功能，不再需要本地Mac mini或复杂搭建"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent基础设施",
+      "zh-CN": "这条推文描绘了一个「零 friction」的美好愿景，但省略了一个事实：当Agent运行从本地转移到云端浏览器，用户得到的是便利，失去的是数据主权和控制权——这是表世界向里世界迁徙的又一站。"
+    },
+    "relevance": "OpenClaw/Agent基础设施",
+    "score": 0.72,
+    "engagement": {
+      "likes": 97,
+      "replies": 19,
+      "retweets": 5,
+      "views": 48381,
+      "bookmarks": 57
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T13:08:47.116302+00:00",
+    "js_take": {
+      "en-US": "Zero friction means zero control. Your agent lives in their browser now. The surface world just swallowed another piece of the inner.",
+      "zh-CN": "零摩擦意味着零掌控。你的代理现在活在别人的浏览器里。表世界又吞掉了里世界的一块版图。"
+    }
+  },
+  {
     "id": "2032647817165156463",
     "date": "2026-03-14",
     "author": "@AlexFinn",
@@ -502,6 +532,34 @@
     "js_take": {
       "en-US": "Feature lists are surface-world games. Real migration happens when users stop consuming tools and start building personal systems.",
       "zh-CN": "功能列表是表世界的游戏，真正的迁徙始于用户从消费工具转向构建个人系统。"
+    }
+  },
+  {
+    "id": "2032698610157027494",
+    "date": "2026-03-14",
+    "author": "@ashen_one",
+    "author_url": "https://x.com/ashen_one",
+    "tweet_url": "https://x.com/ashen_one/status/2032698610157027494",
+    "title": {
+      "en-US": "openclaw can now use ur actual chrome browser via remote debugging",
+      "zh-CN": "OpenClaw现在可以通过远程调试使用你真实的Chrome浏览器——不是无头浏览器，而是你开着Gmail和Notion的那个"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台功能——表/里世界交互层融合的关键一步",
+      "zh-CN": "这个更新的意义被低估了：它不是在解决'自动化操作浏览器'的技术问题，而是在抹平表世界（你看到的网页）和里世界（agent）之间的边界——当agent能直接操作你正在用的界面，'界面'本身就开始退化了。"
+    },
+    "relevance": "OpenClaw平台功能——表/里世界交互层融合的关键一步",
+    "score": 0.71,
+    "engagement": {
+      "likes": 274,
+      "replies": 26,
+      "retweets": 10
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T12:09:31.379323+00:00",
+    "js_take": {
+      "en-US": "Browsers aren't being controlled—they're becoming transparent. The real migration: from clicking interfaces to agents directly manipulating the underlying state. Surface world dissolves.",
+      "zh-CN": "浏览器不再是控制对象，而是在变得透明。真正的迁徙是：从点击界面到智能体直接操控底层状态。表世界正在消解。"
     }
   },
   {
@@ -5611,62 +5669,6 @@
     "js_take": {
       "en-US": "This isn't 'another integration.' It's the surface world (IDE) and inner world (Agent) finally shaking hands. You're still clicking buttons. The Agent is already reading your code's intent.",
       "zh-CN": "这不是'又一个集成'。这是表世界（IDE）和里世界（Agent）终于握手。你还在点按钮，Agent 已经在读你的代码意图了。"
-    }
-  },
-  {
-    "id": "2029330108947771464",
-    "date": "2026-03-05",
-    "author": "@TheRundownAI",
-    "author_url": "https://x.com/TheRundownAI",
-    "tweet_url": "https://x.com/TheRundownAI/status/2029330108947771464",
-    "title": {
-      "en-US": "Jensen Huang: OpenClaw is the most important software release ever, surpassing Linux's 30-year adoption in months",
-      "zh-CN": "黄仁勋：OpenClaw超越Linux三十年积累，成史上最重要软件发布"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台/开发者工具/技术采用",
-      "zh-CN": "OpenClaw平台 / 开发者工具 / 技术采用"
-    },
-    "relevance": "OpenClaw平台/开发者工具/技术采用",
-    "score": 0.87,
-    "engagement": {
-      "likes": 147,
-      "replies": 10,
-      "retweets": 22
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T05:06:02.543819+00:00",
-    "js_take": {
-      "en-US": "\"30x faster than Linux\" isn't a product win—it's timing. Linux spent 30 years waiting for a world that didn't need it. OpenClaw just showed up when everyone was already starving.",
-      "zh-CN": "\"比Linux快30倍\"不是产品胜利，而是时机。Linux花了30年等待一个不需要它的世界，OpenClaw却在众人饥渴时恰好出现。"
-    }
-  },
-  {
-    "id": "2029191380212257159",
-    "date": "2026-03-05",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2029191380212257159",
-    "title": {
-      "en-US": "OpenClaw scraper bypasses Cloudflare, 774x faster",
-      "zh-CN": "OpenClaw 绕过 Cloudflare，速度提升774倍"
-    },
-    "summary": {
-      "en-US": "OpenClaw 核心功能展示，技术突破话题",
-      "zh-CN": "OpenClaw 核心功能展示，聚焦技术突破话题"
-    },
-    "relevance": "OpenClaw 核心功能展示，技术突破话题",
-    "score": 0.85,
-    "engagement": {
-      "likes": 1289,
-      "replies": 56,
-      "retweets": 109
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-04T17:04:17.559381+00:00",
-    "js_take": {
-      "en-US": "774x faster through Cloudflare. Cool. Now you have 774x more data you don't know what to do with. Speed without judgment is just faster noise.",
-      "zh-CN": "774倍速突破 Cloudflare。很酷。现在你有774倍的数据，却不知道该怎么用了。没有判断力的速度，不过是更快的噪音。"
     }
   }
 ]
