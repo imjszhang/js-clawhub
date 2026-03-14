@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-13T23:07:17.088418+00:00",
+  "updated_at": "2026-03-14T00:12:49.847346+00:00",
   "this_week": {
-    "total_items": 120,
+    "total_items": 121,
     "avg_score": 0.77,
-    "unique_authors": 99,
+    "unique_authors": 100,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -458,6 +458,35 @@
         "js_take": {
           "en-US": "When code costs nothing to produce, restraint becomes the only valuable skill. OpenCode isn't fighting slop—it's teaching AI the art of stopping.",
           "zh-CN": "当代码的生产成本归零，「克制」便成了唯一稀缺的能力。OpenCode 不是在对抗低质量代码，而是在教会 AI 何时该停手。"
+        }
+      },
+      {
+        "id": "2032567566510465529",
+        "date": "2026-03-14",
+        "author": "@billcompute",
+        "author_url": "https://x.com/billcompute",
+        "tweet_url": "https://x.com/billcompute/status/2032567566510465529",
+        "title": {
+          "en-US": "412 OpenClaw agents across 31 Mac Minis",
+          "zh-CN": "作者运行412个OpenClaw agent分布在31台Mac Mini上，分享如何复刻这套系统"
+        },
+        "summary": {
+          "en-US": "OpenClaw大规模部署实践，展示agent swarm的可能性",
+          "zh-CN": "这条推文在炫耀「多」——412个agent、31台机器，但这恰恰是多数人的误区：以为数量等于系统。真正的insight是，当你的agent能自主协作时，数量只是副产品；当你的agent不能，再多也是维护噩梦。"
+        },
+        "relevance": "OpenClaw大规模部署实践，展示agent swarm的可能性",
+        "score": 0.82,
+        "engagement": {
+          "likes": 656,
+          "replies": 42,
+          "retweets": 24,
+          "views": 46301
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-14T00:12:33.680283+00:00",
+        "js_take": {
+          "en-US": "412 agents, 31 Macs. I ran 50 agents that needed me to babysit every decision. Then I built 5 that could decide for themselves. Guess which scaled? Quantity without autonomy is just digital manual labor.",
+          "zh-CN": "412个agent，31台Mac。我曾运行50个需要我事事操心的agent，后来建了5个能自主决策的。猜猜哪个能规模化？没有自主性的数量，不过是数字时代的体力劳动。"
         }
       },
       {
@@ -999,39 +1028,11 @@
           "en-US": "This isn't OpenClaw going too far, it's 里世界 eating the surface. You debate 'functional anthropomorphism' while users already treat agents as partners.",
           "zh-CN": "这不是 OpenClaw 越界，而是里世界正在吞噬表世界。你还在争论「功能性拟人化」，用户早把 Agent 当伙伴了。"
         }
-      },
-      {
-        "id": "2032418404884533559",
-        "date": "2026-03-14",
-        "author": "@KanikaBK",
-        "author_url": "https://x.com/KanikaBK",
-        "tweet_url": "https://x.com/KanikaBK/status/2032418404884533559",
-        "title": {
-          "en-US": "RIP DESIGNERS! Riley Brown's masterclass on Claude Code + OpenClaw design workflow. No Figma needed.",
-          "zh-CN": "设计师完蛋了！Riley Brown 发布 Claude Code + OpenClaw 设计工作流教程，不再需要 Figma 订阅。"
-        },
-        "summary": {
-          "en-US": "OpenClaw、Claude Code、AI 设计工具",
-          "zh-CN": "推文的「RIP设计师」是典型的技术奇观叙事——工具升级被渲染为职业消亡。但历史反复证明，工具民主化不会消灭专业，而是重新定义专业的门槛。更准确的纠正是：当所有人都能用AI生成设计，区分好坏的标准会从「能不能做」转向「知道什么值得做」。设计师真正的护城河从来不是工具操作，而是审美判断。"
-        },
-        "relevance": "OpenClaw、Claude Code、AI 设计工具",
-        "score": 0.78,
-        "engagement": {
-          "likes": 211,
-          "plies": 18,
-          "retweets": 30
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-13T17:06:33.265056+00:00",
-        "js_take": {
-          "en-US": "Tools don't kill designers. They kill designers who can't use them. When creation cost hits zero, competition shifts from \"can you make it\" to \"do you know what's worth making.\" The momentum is taste, not tooling.",
-          "zh-CN": "工具杀不死设计师，只会杀死不会用工具的设计师。当创作成本趋近于零，竞争就从\"能不能做\"变成了\"知不知道什么值得做\"。决定胜负的是品味，而非工具。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 159
+    "unique_authors": 160
   }
 }
