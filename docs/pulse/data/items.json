@@ -309,6 +309,34 @@
     }
   },
   {
+    "id": "2032319460586213485",
+    "date": "2026-03-14",
+    "author": "@safaricheung",
+    "author_url": "https://x.com/safaricheung",
+    "tweet_url": "https://x.com/safaricheung/status/2032319460586213485",
+    "title": {
+      "en-US": "Taobao desktop supports OpenClaw via MCP, first major internet company integration",
+      "zh-CN": "淘宝桌面版已支持通过MCP接入OpenClaw，是首个将OpenClaw接入产品的互联网大厂，涉及大量交易信息。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态里程碑 - 大厂产品集成案例",
+      "zh-CN": "淘宝接入的意义不在\"第一个大厂\"，而在它证明了一件反直觉的事：越敏感的交易场景，越需要Agent的「无为」——不是让AI替你做决定，而是让它在你授权边界内自然流动。"
+    },
+    "relevance": "OpenClaw生态里程碑 - 大厂产品集成案例",
+    "score": 0.78,
+    "engagement": {
+      "likes": 204,
+      "retweets": 19,
+      "replies": 16
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-14T07:06:15.183509+00:00",
+    "js_take": {
+      "en-US": "First big-tech integration isn't the story. The real signal: even the most sensitive transaction data is moving toward systems that flow rather than control. You don't tame AI with more guardrails—you set the riverbanks and let it run.",
+      "zh-CN": "首个科技巨头集成不是重点。真正的信号是：就连最敏感的交易数据，也正流向「流动」而非「控制」的系统。驯服AI不靠更多护栏——而是设定河岸，任它奔流。"
+    }
+  },
+  {
     "id": "2032558567413457346",
     "date": "2026-03-14",
     "author": "@RoundtableSpace",
@@ -390,6 +418,34 @@
     "js_take": {
       "en-US": "Ten agents, one click, 25% MRR. But the click is the new barrier — when execution becomes free, deciding what to execute becomes the only scarce resource. You're not managing work anymore. You're managing intent.",
       "zh-CN": "十个Agent，一键点击，25%月经常性收入增长。但点击本身成了新的门槛——当执行变得免费，「决定执行什么」成了唯一稀缺的资源。你不再是在管理工作，而是在管理意图。"
+    }
+  },
+  {
+    "id": "2032693636119302396",
+    "date": "2026-03-14",
+    "author": "@openclaw",
+    "author_url": "https://x.com/openclaw",
+    "tweet_url": "https://x.com/openclaw/status/2032693636119302396",
+    "title": {
+      "en-US": "OpenClaw 2026.3.13 release updates",
+      "zh-CN": "OpenClaw发布3.13版本更新，包括Chrome实时会话附加、Android重构、Docker时区覆盖等功能"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台功能更新 - 直接相关",
+      "zh-CN": "工具的功能清单越来越长，但用户真正迁移的门槛从来不是功能数量。当表世界的工具都趋同时，决胜的是谁能帮用户建立「个人系统」——从功能消费者变成系统构建者。"
+    },
+    "relevance": "OpenClaw平台功能更新 - 直接相关",
+    "score": 0.71,
+    "engagement": {
+      "likes": 236,
+      "replies": 46,
+      "retweets": 20
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T06:08:05.540558+00:00",
+    "js_take": {
+      "en-US": "Feature lists are surface-world games. Real migration happens when users stop consuming tools and start building personal systems.",
+      "zh-CN": "功能列表是表世界的游戏，真正的迁徙始于用户从消费工具转向构建个人系统。"
     }
   },
   {
@@ -5614,64 +5670,6 @@
     "js_take": {
       "en-US": "You saved $50 on tokens and lost 5 hours rewriting prompts from scratch. The real tax isn't OpenAI's bill—it's your 'start from zero' muscle memory.",
       "zh-CN": "你省了50美元的token费用，却搭进去5小时从头重写提示词。真正的代价不是OpenAI的账单，而是你「从零开始」的肌肉记忆。"
-    }
-  },
-  {
-    "id": "2029386233437151743",
-    "date": "2026-03-05",
-    "author": "@valhalla_dev",
-    "author_url": "https://x.com/valhalla_dev",
-    "tweet_url": "https://x.com/valhalla_dev/status/2029386233437151743",
-    "title": {
-      "en-US": "OpenClaw is neat but top 12 software is a joke",
-      "zh-CN": "开发者认为OpenClaw不错，但把它列为打孔卡以来最伟大的12款软件之一是笑话"
-    },
-    "summary": {
-      "en-US": "OpenClaw直接讨论 — 高相关",
-      "zh-CN": "「伟大」的定义在表世界和里世界根本不同——打孔卡时代的软件解决「怎么算」，OpenClaw解决「谁来算」，评判者还在用工具思维理解基础设施"
-    },
-    "relevance": "OpenClaw直接讨论 — 高相关",
-    "score": 0.78,
-    "engagement": {
-      "likes": 481,
-      "replies": 8,
-      "retweets": 5
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T11:08:13.073153+00:00",
-    "js_take": {
-      "en-US": "You're comparing a fish to a bicycle. Punch cards let humans do math faster. OpenClaw lets math happen without humans in the room. One's a tool. The other's the room itself.",
-      "zh-CN": "你在拿鱼和自行车比——根本是两码事。打孔卡让人类算得更快，OpenClaw让计算在无人值守时自己发生。一个是工具，另一个是整个空间本身。"
-    }
-  },
-  {
-    "id": "2029311209921565036",
-    "date": "2026-03-05",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2029311209921565036",
-    "title": {
-      "en-US": "Unlimited tokens but OAI resets constantly",
-      "zh-CN": "作者吐槽：刚拿到OpenAI的无限token权限，结果系统却不断重置，讽刺了\"无限\"承诺与实际体验之间的落差。"
-    },
-    "summary": {
-      "en-US": "AI产品体验、技术边界、资源限制",
-      "zh-CN": "\"无限\"在技术产品里从来不是工程概念，而是营销概念——真正的限制从来不会消失，只是从\"额度\"变成了\"稳定性\"。"
-    },
-    "relevance": "AI产品体验、技术边界、资源限制",
-    "score": 0.76,
-    "engagement": {
-      "likes": 944,
-      "replies": 43,
-      "retweets": 12,
-      "views": 84062,
-      "bookmarks": 59
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-05T02:09:12.141096+00:00",
-    "js_take": {
-      "en-US": "\"Unlimited tokens\" means unlimited chances to see \"system resetting, please retry.\" Limits don't disappear—they just get rebranded.",
-      "zh-CN": "「无限 token」意味着你有无限次机会看到「系统重置中，请重试」。限制从未消失，只是换了个包装重新上市。"
     }
   }
 ]
