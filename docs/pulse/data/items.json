@@ -393,6 +393,64 @@
     }
   },
   {
+    "id": "2032685663418568704",
+    "date": "2026-03-14",
+    "author": "@aiwarts",
+    "author_url": "https://x.com/aiwarts",
+    "tweet_url": "https://x.com/aiwarts/status/2032685663418568704",
+    "title": {
+      "en-US": "百度把PaddleOCR-VL-1.5做成OpenClaw Skills，上架ClawHub",
+      "zh-CN": "9亿参数击败巨头：模型规模已成虚荣指标"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skills生态 + 中文AI产品 + Agent工具链",
+      "zh-CN": "大家都在追逐参数规模的时候，0.9B小模型通过场景化封装（Skills化）打败了 giants——这说明agent时代的竞争优势不在模型本身，而在谁能把能力嫁接到正确的workflow里。"
+    },
+    "relevance": "OpenClaw Skills生态 + 中文AI产品 + Agent工具链",
+    "score": 0.78,
+    "engagement": {
+      "likes": 247,
+      "replies": 9,
+      "retweets": 40,
+      "views": 24150
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T14:11:37.103097+00:00",
+    "js_take": {
+      "en-US": "0.9B beating giants isn't a miracle — it's proof that model size is becoming a vanity metric. The real leverage is connection: who can plug capability into the right workflow wins. Surface world fights over parameters; inner world fights over integration.",
+      "zh-CN": "9亿参数击败巨头不是奇迹——这恰恰证明了模型规模正在成为虚荣指标。真正的杠杆是连接：谁能把能力嵌入正确的工作流，谁就能赢。表世界拼参数，里世界拼整合。"
+    }
+  },
+  {
+    "id": "2032793630633824482",
+    "date": "2026-03-14",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2032793630633824482",
+    "title": {
+      "en-US": "OpenClaw bot turned $50 into $27k trading weather markets using meteorological data",
+      "zh-CN": "OpenClaw机器人在Polymarket上用气象数据提前预测，把50美元变成27000美元"
+    },
+    "summary": {
+      "en-US": "OpenClaw Agent在真实金融场景中的极致应用，展示Agent自主决策的边界",
+      "zh-CN": "这条推文展示了技术执行的极致效率，但评论区会忽略一个更深层的问题：当所有人都在追逐这种\"技术套利\"的势时，这个势本身就已经在消散。真正的优势不在于更快的数据获取，而在于判断哪些游戏不值得参与。"
+    },
+    "relevance": "OpenClaw Agent在真实金融场景中的极致应用，展示Agent自主决策的边界",
+    "score": 0.78,
+    "engagement": {
+      "likes": 233,
+      "replies": 43,
+      "retweets": 23,
+      "views": 78422
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-14T15:09:47.051887+00:00",
+    "js_take": {
+      "en-US": "When your edge is 0.8-second data reads, your real bottleneck becomes knowing which games aren't worth playing. Speed is surface — judgment is the inner world.",
+      "zh-CN": "当你的优势是0.8秒的数据读取速度时，真正的瓶颈就变成了判断哪些游戏不值得玩。速度是表，判断力是里。"
+    }
+  },
+  {
     "id": "2032558567413457346",
     "date": "2026-03-14",
     "author": "@RoundtableSpace",
@@ -476,6 +534,35 @@
     "js_take": {
       "en-US": "Zero friction means zero control. Your agent lives in their browser now. The surface world just swallowed another piece of the inner.",
       "zh-CN": "零摩擦意味着零掌控。你的代理现在活在别人的浏览器里。表世界又吞掉了里世界的一块版图。"
+    }
+  },
+  {
+    "id": "2032543500810727490",
+    "date": "2026-03-14",
+    "author": "@DrewAustin",
+    "author_url": "https://x.com/DrewAustin",
+    "tweet_url": "https://x.com/DrewAustin/status/2032543500810727490",
+    "title": {
+      "en-US": "Needs to expand beyond OpenClaw: timeouts, memory, cross-instance brain",
+      "zh-CN": "作者想要超越OpenClaw，解决超时、内存、跨实例统一大脑的问题"
+    },
+    "summary": {
+      "en-US": "OpenClaw用户的核心痛点——Agent记忆的连续性和跨平台统一",
+      "zh-CN": "这条推文暴露了技术人的常见误区：把问题定义为\"工具不够强\"，而不是\"对'一个大脑'的执念本身就是问题\"。追求绝对统一的记忆，可能是在用工业时代的集中化思维解决信息时代的分布式问题。"
+    },
+    "relevance": "OpenClaw用户的核心痛点——Agent记忆的连续性和跨平台统一",
+    "score": 0.72,
+    "engagement": {
+      "likes": 73,
+      "replies": 68,
+      "retweets": 2,
+      "views": 10991
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-14T15:09:47.051892+00:00",
+    "js_take": {
+      "en-US": "Obsessing over 'one brain' is industrial-age centralization disguised as AI progress. Sometimes the smartest move is letting half your agents stay quiet.",
+      "zh-CN": "执着于「单一大脑」，实则是工业化时代的中心化思维披着AI进步的外衣。有时候，最聪明的做法是让一半智能体保持沉默。"
     }
   },
   {
@@ -5582,93 +5669,6 @@
     "js_take": {
       "en-US": "You're hoarding content, she's weaponizing it. Most knowledge dies in the gap between watching and doing—this closes it.",
       "zh-CN": "你在囤积内容，她却把它武器化。大多数知识都死于「看了却不做」——而她弥合了这道鸿沟。"
-    }
-  },
-  {
-    "id": "2029295335596527777",
-    "date": "2026-03-05",
-    "author": "@tomosman",
-    "author_url": "https://x.com/tomosman",
-    "tweet_url": "https://x.com/tomosman/status/2029295335596527777",
-    "title": {
-      "en-US": "Everyone got to a good OpenClaw setup chewed glass for 4 weeks. It's a battle but worth it.",
-      "zh-CN": "OpenClaw 上岸真相：人人都要先啃4周玻璃"
-    },
-    "summary": {
-      "en-US": "OpenClaw开发者体验 - 直接相关",
-      "zh-CN": "OpenClaw 开发者体验——高度相关"
-    },
-    "relevance": "OpenClaw开发者体验 - 直接相关",
-    "score": 0.92,
-    "engagement": {
-      "likes": 146,
-      "replies": 43,
-      "retweets": 5
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T01:06:44.627255+00:00",
-    "js_take": {
-      "en-US": "'Chewing glass for 4 weeks' isn't grit—it's Stockholm syndrome with your stack. The tools that win won't demand suffering as cover charge.",
-      "zh-CN": "「啃玻璃啃了4周」不是毅力，是你对技术栈的斯德哥尔摩综合征。真正好用的工具不会把受苦当门票。"
-    }
-  },
-  {
-    "id": "2029233391174819846",
-    "date": "2026-03-05",
-    "author": "@ankurnagpal",
-    "author_url": "https://x.com/ankurnagpal",
-    "tweet_url": "https://x.com/ankurnagpal/status/2029233391174819846",
-    "title": {
-      "en-US": "Buddy set up OpenClaw for Hinge, trained on facial symmetry, got too many dates",
-      "zh-CN": "朋友用OpenClaw配置Hinge，靠面部对称算法约会太多忙不过来"
-    },
-    "summary": {
-      "en-US": "OpenClaw实际应用案例 - 平台能力的病毒式展示",
-      "zh-CN": "OpenClaw实战：平台能力的病毒式传播"
-    },
-    "relevance": "OpenClaw实际应用案例 - 平台能力的病毒式展示",
-    "score": 0.88,
-    "engagement": {
-      "likes": 420,
-      "replies": 20,
-      "retweets": 4,
-      "views": 57209
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-04T18:03:36.079883+00:00",
-    "js_take": {
-      "en-US": "Humans spent millennia perfecting romance, AI cracked it with facial symmetry. It didn't learn to date; it learned to skip straight to yes.",
-      "zh-CN": "人类花了几千年打磨浪漫，AI靠面部对称就破解了。它没学会约会，它学会了直接跳到'yes'。"
-    }
-  },
-  {
-    "id": "2029255331914588647",
-    "date": "2026-03-05",
-    "author": "@leerob",
-    "author_url": "https://x.com/leerob",
-    "tweet_url": "https://x.com/leerob/status/2029255331914588647",
-    "title": {
-      "en-US": "Cursor now works with 30+ ACP clients including OpenClaw",
-      "zh-CN": "Cursor 集成 30+ ACP 客户端，OpenClaw 在列"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态重大扩展——与Cursor深度集成",
-      "zh-CN": "OpenClaw 生态重大扩展，与 Cursor 深度集成"
-    },
-    "relevance": "OpenClaw生态重大扩展——与Cursor深度集成",
-    "score": 0.88,
-    "engagement": {
-      "likes": 449,
-      "retweets": 28,
-      "replies": 24,
-      "views": 45429,
-      "bookmarks": 170
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T00:10:32.367707+00:00",
-    "js_take": {
-      "en-US": "This isn't 'another integration.' It's the surface world (IDE) and inner world (Agent) finally shaking hands. You're still clicking buttons. The Agent is already reading your code's intent.",
-      "zh-CN": "这不是'又一个集成'。这是表世界（IDE）和里世界（Agent）终于握手。你还在点按钮，Agent 已经在读你的代码意图了。"
     }
   }
 ]

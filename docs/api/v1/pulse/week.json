@@ -393,6 +393,64 @@
     }
   },
   {
+    "id": "2032685663418568704",
+    "date": "2026-03-14",
+    "author": "@aiwarts",
+    "author_url": "https://x.com/aiwarts",
+    "tweet_url": "https://x.com/aiwarts/status/2032685663418568704",
+    "title": {
+      "en-US": "百度把PaddleOCR-VL-1.5做成OpenClaw Skills，上架ClawHub",
+      "zh-CN": "9亿参数击败巨头：模型规模已成虚荣指标"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skills生态 + 中文AI产品 + Agent工具链",
+      "zh-CN": "大家都在追逐参数规模的时候，0.9B小模型通过场景化封装（Skills化）打败了 giants——这说明agent时代的竞争优势不在模型本身，而在谁能把能力嫁接到正确的workflow里。"
+    },
+    "relevance": "OpenClaw Skills生态 + 中文AI产品 + Agent工具链",
+    "score": 0.78,
+    "engagement": {
+      "likes": 247,
+      "replies": 9,
+      "retweets": 40,
+      "views": 24150
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T14:11:37.103097+00:00",
+    "js_take": {
+      "en-US": "0.9B beating giants isn't a miracle — it's proof that model size is becoming a vanity metric. The real leverage is connection: who can plug capability into the right workflow wins. Surface world fights over parameters; inner world fights over integration.",
+      "zh-CN": "9亿参数击败巨头不是奇迹——这恰恰证明了模型规模正在成为虚荣指标。真正的杠杆是连接：谁能把能力嵌入正确的工作流，谁就能赢。表世界拼参数，里世界拼整合。"
+    }
+  },
+  {
+    "id": "2032793630633824482",
+    "date": "2026-03-14",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2032793630633824482",
+    "title": {
+      "en-US": "OpenClaw bot turned $50 into $27k trading weather markets using meteorological data",
+      "zh-CN": "OpenClaw机器人在Polymarket上用气象数据提前预测，把50美元变成27000美元"
+    },
+    "summary": {
+      "en-US": "OpenClaw Agent在真实金融场景中的极致应用，展示Agent自主决策的边界",
+      "zh-CN": "这条推文展示了技术执行的极致效率，但评论区会忽略一个更深层的问题：当所有人都在追逐这种\"技术套利\"的势时，这个势本身就已经在消散。真正的优势不在于更快的数据获取，而在于判断哪些游戏不值得参与。"
+    },
+    "relevance": "OpenClaw Agent在真实金融场景中的极致应用，展示Agent自主决策的边界",
+    "score": 0.78,
+    "engagement": {
+      "likes": 233,
+      "replies": 43,
+      "retweets": 23,
+      "views": 78422
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-14T15:09:47.051887+00:00",
+    "js_take": {
+      "en-US": "When your edge is 0.8-second data reads, your real bottleneck becomes knowing which games aren't worth playing. Speed is surface — judgment is the inner world.",
+      "zh-CN": "当你的优势是0.8秒的数据读取速度时，真正的瓶颈就变成了判断哪些游戏不值得玩。速度是表，判断力是里。"
+    }
+  },
+  {
     "id": "2032558567413457346",
     "date": "2026-03-14",
     "author": "@RoundtableSpace",
@@ -476,6 +534,35 @@
     "js_take": {
       "en-US": "Zero friction means zero control. Your agent lives in their browser now. The surface world just swallowed another piece of the inner.",
       "zh-CN": "零摩擦意味着零掌控。你的代理现在活在别人的浏览器里。表世界又吞掉了里世界的一块版图。"
+    }
+  },
+  {
+    "id": "2032543500810727490",
+    "date": "2026-03-14",
+    "author": "@DrewAustin",
+    "author_url": "https://x.com/DrewAustin",
+    "tweet_url": "https://x.com/DrewAustin/status/2032543500810727490",
+    "title": {
+      "en-US": "Needs to expand beyond OpenClaw: timeouts, memory, cross-instance brain",
+      "zh-CN": "作者想要超越OpenClaw，解决超时、内存、跨实例统一大脑的问题"
+    },
+    "summary": {
+      "en-US": "OpenClaw用户的核心痛点——Agent记忆的连续性和跨平台统一",
+      "zh-CN": "这条推文暴露了技术人的常见误区：把问题定义为\"工具不够强\"，而不是\"对'一个大脑'的执念本身就是问题\"。追求绝对统一的记忆，可能是在用工业时代的集中化思维解决信息时代的分布式问题。"
+    },
+    "relevance": "OpenClaw用户的核心痛点——Agent记忆的连续性和跨平台统一",
+    "score": 0.72,
+    "engagement": {
+      "likes": 73,
+      "replies": 68,
+      "retweets": 2,
+      "views": 10991
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-14T15:09:47.051892+00:00",
+    "js_take": {
+      "en-US": "Obsessing over 'one brain' is industrial-age centralization disguised as AI progress. Sometimes the smartest move is letting half your agents stay quiet.",
+      "zh-CN": "执着于「单一大脑」，实则是工业化时代的中心化思维披着AI进步的外衣。有时候，最聪明的做法是让一半智能体保持沉默。"
     }
   },
   {
