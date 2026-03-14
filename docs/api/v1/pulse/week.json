@@ -1,5 +1,90 @@
 [
   {
+    "id": "2032864565663314281",
+    "date": "2026-03-15",
+    "author": "@gregisenberg",
+    "author_url": "https://x.com/gregisenberg",
+    "tweet_url": "https://x.com/gregisenberg/status/2032864565663314281",
+    "title": {
+      "en-US": "What's the most useful real-world task automated with OpenClaw?",
+      "zh-CN": "询问大家用OpenClaw自动化的最有用的现实任务是什么"
+    },
+    "summary": {
+      "en-US": "OpenClaw使用场景讨论，直接相关",
+      "zh-CN": "人们在列举「做了更多」的自动化成果，但真正的杠杆往往来自「做更少」的系统设计——把决策权交给条件而非人工判断。"
+    },
+    "relevance": "OpenClaw使用场景讨论，直接相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 283,
+      "replies": 49,
+      "retweets": 14
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-14T20:10:03.542081+00:00",
+    "js_take": {
+      "en-US": "The real leverage isn't what OpenClaw automates — it's what you stop deciding. I haven't checked my calendar in 3 weeks; my agent only pings me when conflicts actually exist.",
+      "zh-CN": "真正的杠杆效应不在于 OpenClaw 自动化了什么，而在于你再也不用去决定什么。我已经三周没看过日历了；我的代理只会在真正有冲突时才通知我。"
+    }
+  },
+  {
+    "id": "2032753719763415182",
+    "date": "2026-03-15",
+    "author": "@johann_sath",
+    "author_url": "https://x.com/johann_sath",
+    "tweet_url": "https://x.com/johann_sath/status/2032753719763415182",
+    "title": {
+      "en-US": "OpenClaw HEARTBEAT.md file setup guide",
+      "zh-CN": "介绍OpenClaw的HEARTBEAT.md文件配置，让bot在无人时自动执行任务"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心功能，直接相关",
+      "zh-CN": "把「每30分钟检查」当成解决方案，但更好的设计是让系统只在异常时唤醒——无事勿扰，有事即达。"
+    },
+    "relevance": "OpenClaw核心功能，直接相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 123,
+      "replies": 17,
+      "retweets": 10
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-14T20:10:03.542085+00:00",
+    "js_take": {
+      "en-US": "Most people cron every 30 minutes. I deleted 80% of my checks — now HEARTBEAT only fires when the system actually needs me. Less polling, more signal.",
+      "zh-CN": "大多数人每30分钟设置一次定时任务。我删掉了80%的检查——现在 HEARTBEAT 只在系统真正需要我时才触发。少点轮询，多点信号。"
+    }
+  },
+  {
+    "id": "2032603116617740557",
+    "date": "2026-03-15",
+    "author": "@atomicbot_ai",
+    "author_url": "https://x.com/atomicbot_ai",
+    "tweet_url": "https://x.com/atomicbot_ai/status/2032603116617740557",
+    "title": {
+      "en-US": "OpenClaw for Windows shipped - free, open source, local models coming",
+      "zh-CN": "OpenClaw Windows版发布，免费开源，即将支持本地模型"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台发布，与JS的核心项目直接相关",
+      "zh-CN": "评论区已经在讨论OpenClaw vs Claude Code的替代可能，但没人点出关键：agent生态的胜负不在功能堆砌，而在谁能成为开发者习惯的默认选项——习惯一旦形成，转换成本就是护城河。"
+    },
+    "relevance": "OpenClaw平台发布，与JS的核心项目直接相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 369,
+      "replies": 42,
+      "retweets": 61,
+      "views": 65879
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-14T20:10:03.542088+00:00",
+    "js_take": {
+      "en-US": "Feature wars are a trap. Claude Code won by being first; OpenClaw wins by being the choice you actually own. Trust beats features—once developers trust you for one thing, they stay for everything else.",
+      "zh-CN": "功能大战是个陷阱。Claude Code 赢在先发；OpenClaw 赢在这是你能真正掌控的选择。信任胜过功能——一旦开发者信任你能做好一件事，他们会为其他一切留下。"
+    }
+  },
+  {
     "id": "2032815258931544284",
     "date": "2026-03-15",
     "author": "@RoundtableSpace",
@@ -26,6 +111,34 @@
     "js_take": {
       "en-US": "We're not upgrading tools—we're migrating interfaces. Code becomes database. Agent becomes UI. Second migration: from surface world to inner world.",
       "zh-CN": "我们不是在升级工具，而是在迁移交互界面。代码退化为数据库，智能体崛起为新UI。这是第二次大迁徙：从表世界迈向里世界。"
+    }
+  },
+  {
+    "id": "2032897113101631987",
+    "date": "2026-03-15",
+    "author": "@omarsar0",
+    "author_url": "https://x.com/omarsar0",
+    "tweet_url": "https://x.com/omarsar0/status/2032897113101631987",
+    "title": {
+      "en-US": "chrome-cdp skill lets coding agents see live Chrome sessions",
+      "zh-CN": "chrome-cdp skill让coding agent能看到并与实时Chrome会话交互，无需浏览器自动化框架"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态/Agent Skill开发",
+      "zh-CN": "表世界的浏览器自动化框架正在被里世界的agent-native接口取代——表世界（固定流程的工具）退化为数据层，里世界（理解意图的agent）成为新的交互层。"
+    },
+    "relevance": "OpenClaw生态/Agent Skill开发",
+    "score": 0.72,
+    "engagement": {
+      "likes": 60,
+      "replies": 10,
+      "retweets": 11
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T21:07:55.475198+00:00",
+    "js_take": {
+      "en-US": "Browser automation frameworks becoming data layers. Agents are the new interface. Second migration: from surface tools to inner intent.",
+      "zh-CN": "浏览器自动化框架正在退化为数据层，Agent 才是新的交互界面。这是第二次迁徙：从表层工具走向内在意图。"
     }
   },
   {
