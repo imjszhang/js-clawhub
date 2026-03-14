@@ -57,6 +57,34 @@
     }
   },
   {
+    "id": "2032642532174135727",
+    "date": "2026-03-14",
+    "author": "@steipete",
+    "author_url": "https://x.com/steipete",
+    "tweet_url": "https://x.com/steipete/status/2032642532174135727",
+    "title": {
+      "en-US": "15-year-old made $30k with OpenClaw contracts, asking for amazing use cases",
+      "zh-CN": "一个15岁少年用OpenClaw赚了3万美元合同，作者好奇大家见过的最惊人的OpenClaw用例是什么"
+    },
+    "summary": {
+      "en-US": "OpenClaw实际应用案例讨论，高流量提问帖",
+      "zh-CN": "人们只看到15岁赚3万美元的奇观，却没意识到真正的信号是「提问者在向社区征集案例」——这说明agent的经济价值刚进入大众认知阶段，但大多数人还在追逐故事而非建立系统。"
+    },
+    "relevance": "OpenClaw实际应用案例讨论，高流量提问帖",
+    "score": 0.82,
+    "engagement": {
+      "likes": 267,
+      "replies": 27,
+      "retweets": 18
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-14T03:04:02.419560+00:00",
+    "js_take": {
+      "en-US": "$30K is the story. The signal is everyone asking \"what can it do\" instead of building systems that answer. You chase the headline, someone else builds the pipeline.",
+      "zh-CN": "3万美元只是个故事。真正的信号是：所有人都在问「它能做什么」，却没人去搭建能回答这个问题的系统。你追逐头条，别人却在铺设管道。"
+    }
+  },
+  {
     "id": "2032533699116355819",
     "date": "2026-03-14",
     "author": "@noahzweben",
@@ -197,6 +225,62 @@
     }
   },
   {
+    "id": "2032615652909797571",
+    "date": "2026-03-14",
+    "author": "@0xCVYH",
+    "author_url": "https://x.com/0xCVYH",
+    "tweet_url": "https://x.com/0xCVYH/status/2032615652909797571",
+    "title": {
+      "en-US": "OpenClaw agent ran 9 days, found $12K arbitrage at 3:47am, woke up with $43,800 profit",
+      "zh-CN": "OpenClaw agent连续运行9天，凌晨3:47发现6个套利机会需要1.2万美元，用户批准后继续睡觉，醒来赚了4.38万美元"
+    },
+    "summary": {
+      "en-US": "OpenClaw自动化交易/套利，agent自主执行",
+      "zh-CN": "这个故事被包装成「睡觉赚钱」的爽文，但真相是：用户敢于在凌晨3:47把决策权交给agent，这种「放手」本身比4万美元收益更值钱——多数人宁可失眠也要亲手点确认。"
+    },
+    "relevance": "OpenClaw自动化交易/套利，agent自主执行",
+    "score": 0.78,
+    "engagement": {
+      "likes": 473,
+      "replies": 21,
+      "retweets": 20
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-14T03:04:02.419566+00:00",
+    "js_take": {
+      "en-US": "The real alpha isn't the $43K — it's trusting an agent enough to sleep through 3:47am. Most people treat AI like a pet that needs supervision. You treated it like water: set the channel, let it flow.",
+      "zh-CN": "真正的超额收益不是那4.3万刀——而是对一个Agent的信任深到能在凌晨3:47安心入睡。大多数人把AI当需要看管的宠物，而你把它当水：开好渠道，顺势而为。"
+    }
+  },
+  {
+    "id": "2032635370089693456",
+    "date": "2026-03-14",
+    "author": "@ctatedev",
+    "author_url": "https://x.com/ctatedev",
+    "tweet_url": "https://x.com/ctatedev/status/2032635370089693456",
+    "title": {
+      "en-US": "agent-browser fully native Rust: 1.6x faster, 18x less memory",
+      "zh-CN": "agent-browser 完全用 Rust 重写，启动速度快1.6倍，内存占用少18倍，安装包体积小99倍"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态核心项目，技术栈优化与工程实践",
+      "zh-CN": "推文用「更少抽象=更快交付」概括技术决策，但「做减法」的底层逻辑是：真正阻碍速度的不是代码量，而是认知负荷。Rust 的零成本抽象恰好让开发者少做「该用哪个抽象层」的选择题。"
+    },
+    "relevance": "OpenClaw生态核心项目，技术栈优化与工程实践",
+    "score": 0.78,
+    "engagement": {
+      "likes": 529,
+      "replies": 30,
+      "retweets": 24
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-14T04:03:37.217268+00:00",
+    "js_take": {
+      "en-US": "18x less memory isn't the win. The win is your team stops debating which abstraction to use. Rust's zero-cost abstractions don't just save RAM—they eliminate the cognitive tax of choice.",
+      "zh-CN": "内存占用降低18倍并非最大收益。真正的收益在于你的团队不再纠结该选哪种抽象。Rust的零成本抽象不只是省内存——它们彻底消除了选择困难带来的认知开销。"
+    }
+  },
+  {
     "id": "2032558567413457346",
     "date": "2026-03-14",
     "author": "@RoundtableSpace",
@@ -250,6 +334,34 @@
     "js_take": {
       "en-US": "Agents don't forget. They wake up blank every time. Memory isn't a feature you enable — it's a habit you build. Write first, ask later.",
       "zh-CN": "智能体不会遗忘。它们每次醒来都是一张白纸。记忆不是你开启的功能——而是你养成的习惯。先写，再问。"
+    }
+  },
+  {
+    "id": "2032647817165156463",
+    "date": "2026-03-14",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2032647817165156463",
+    "title": {
+      "en-US": "10 OpenClaw agents brainstorming, click approve to production, MRR up 25%",
+      "zh-CN": "周五晚上看着10个OpenClaw agent讨论并为SaaS构建新功能，点击批准就部署到生产环境，MRR增长25%"
+    },
+    "summary": {
+      "en-US": "OpenClaw多agent协作、自动化产品迭代",
+      "zh-CN": "「10个agent+点一下批准=MRR涨25%」听起来像老板的梦想，但真正的危险藏在「F the permanent underclass」这句话里——当少数人控制agent军团时，他们不是在取代工作，是在重新定义「谁有资格参与」。"
+    },
+    "relevance": "OpenClaw多agent协作、自动化产品迭代",
+    "score": 0.71,
+    "engagement": {
+      "likes": 58,
+      "replies": 26,
+      "retweets": 3
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-14T03:04:02.419569+00:00",
+    "js_take": {
+      "en-US": "Ten agents, one click, 25% MRR. But the click is the new barrier — when execution becomes free, deciding what to execute becomes the only scarce resource. You're not managing work anymore. You're managing intent.",
+      "zh-CN": "十个Agent，一键点击，25%月经常性收入增长。但点击本身成了新的门槛——当执行变得免费，「决定执行什么」成了唯一稀缺的资源。你不再是在管理工作，而是在管理意图。"
     }
   },
   {

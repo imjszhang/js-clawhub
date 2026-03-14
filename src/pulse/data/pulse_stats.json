@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-14T00:12:49.847346+00:00",
+  "updated_at": "2026-03-14T04:03:53.957756+00:00",
   "this_week": {
-    "total_items": 121,
+    "total_items": 125,
     "avg_score": 0.77,
-    "unique_authors": 100,
+    "unique_authors": 102,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -487,6 +487,34 @@
         "js_take": {
           "en-US": "412 agents, 31 Macs. I ran 50 agents that needed me to babysit every decision. Then I built 5 that could decide for themselves. Guess which scaled? Quantity without autonomy is just digital manual labor.",
           "zh-CN": "412个agent，31台Mac。我曾运行50个需要我事事操心的agent，后来建了5个能自主决策的。猜猜哪个能规模化？没有自主性的数量，不过是数字时代的体力劳动。"
+        }
+      },
+      {
+        "id": "2032642532174135727",
+        "date": "2026-03-14",
+        "author": "@steipete",
+        "author_url": "https://x.com/steipete",
+        "tweet_url": "https://x.com/steipete/status/2032642532174135727",
+        "title": {
+          "en-US": "15-year-old made $30k with OpenClaw contracts, asking for amazing use cases",
+          "zh-CN": "一个15岁少年用OpenClaw赚了3万美元合同，作者好奇大家见过的最惊人的OpenClaw用例是什么"
+        },
+        "summary": {
+          "en-US": "OpenClaw实际应用案例讨论，高流量提问帖",
+          "zh-CN": "人们只看到15岁赚3万美元的奇观，却没意识到真正的信号是「提问者在向社区征集案例」——这说明agent的经济价值刚进入大众认知阶段，但大多数人还在追逐故事而非建立系统。"
+        },
+        "relevance": "OpenClaw实际应用案例讨论，高流量提问帖",
+        "score": 0.82,
+        "engagement": {
+          "likes": 267,
+          "replies": 27,
+          "retweets": 18
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-14T03:04:02.419560+00:00",
+        "js_take": {
+          "en-US": "$30K is the story. The signal is everyone asking \"what can it do\" instead of building systems that answer. You chase the headline, someone else builds the pipeline.",
+          "zh-CN": "3万美元只是个故事。真正的信号是：所有人都在问「它能做什么」，却没人去搭建能回答这个问题的系统。你追逐头条，别人却在铺设管道。"
         }
       },
       {
@@ -1000,39 +1028,11 @@
           "en-US": "10 agents running 24/7 sounds like power, but they're probably just interrupting each other. True automation isn't doing more—it's knowing when to make them stop.",
           "zh-CN": "10个Agent 24小时连轴转听着很猛，实则可能互相干扰。真正的自动化不是多做多，而是懂得何时喊停。"
         }
-      },
-      {
-        "id": "2031730289026736351",
-        "date": "2026-03-12",
-        "author": "@emollick",
-        "author_url": "https://x.com/emollick",
-        "tweet_url": "https://x.com/emollick/status/2031730289026736351",
-        "title": {
-          "en-US": "I've been in favor of functional anthropomorphism...",
-          "zh-CN": "Ethan Mollick讨论OpenClaw的功能性拟人化是否走得太远——它基本强制你把AI当作一个和真人共享频道的「人」来对待。"
-        },
-        "summary": {
-          "en-US": "OpenClaw——直接讨论OpenClaw的产品设计哲学",
-          "zh-CN": "把AI当「人」来用的争议，本质不是技术问题，是「界面」问题——表世界（app/web）和里世界（agent）正在经历第二次迁徙，OpenClaw的争议恰恰证明这个迁徙发生了。（更深度：在推文「是否走太远」的判断之上，指出这是表/里世界结构性迁徙的信号）"
-        },
-        "relevance": "OpenClaw——直接讨论OpenClaw的产品设计哲学",
-        "score": 0.79,
-        "engagement": {
-          "likes": 65,
-          "replies": 37,
-          "retweets": 3
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-11T17:04:44.361935+00:00",
-        "js_take": {
-          "en-US": "This isn't OpenClaw going too far, it's 里世界 eating the surface. You debate 'functional anthropomorphism' while users already treat agents as partners.",
-          "zh-CN": "这不是 OpenClaw 越界，而是里世界正在吞噬表世界。你还在争论「功能性拟人化」，用户早把 Agent 当伙伴了。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 160
+    "unique_authors": 158
   }
 }
