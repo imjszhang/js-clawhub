@@ -1,5 +1,33 @@
 [
   {
+    "id": "2032936124214292904",
+    "date": "2026-03-15",
+    "author": "@barckcode",
+    "author_url": "https://x.com/barckcode",
+    "tweet_url": "https://x.com/barckcode/status/2032936124214292904",
+    "title": {
+      "en-US": "3 teams of AI agents autonomously building a tourism website",
+      "zh-CN": "3组AI智能体自主协作开发旅游网站"
+    },
+    "summary": {
+      "en-US": "AI Agent自主协作开发，与OpenClaw多Agent通信相关",
+      "zh-CN": "AI Agent自主协作开发，与OpenClaw多Agent通信机制相关"
+    },
+    "relevance": "AI Agent自主协作开发，与OpenClaw多Agent通信相关",
+    "score": 0.85,
+    "engagement": {
+      "likes": 99,
+      "replies": 7,
+      "retweets": 9
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-15T10:08:55.348390+00:00",
+    "js_take": {
+      "en-US": "You split humans into 3 teams to babysit agents. The real signal is when you stop watching—set the boundary conditions right, step back, and let the system grow something you couldn't have designed.",
+      "zh-CN": "你把人类分成3个团队来照看AI agents。真正的信号是当你不再盯着的时候——设定好边界条件，退后一步，让系统生长出你无法预先设计的东西。"
+    }
+  },
+  {
     "id": "2032864565663314281",
     "date": "2026-03-15",
     "author": "@gregisenberg",
@@ -142,6 +170,34 @@
     "js_take": {
       "en-US": "Your cookies, your reputation, your risk. Agent can tweet for you—but can it handle a reply that might spark controversy? Capability boundary matters more than feature list.",
       "zh-CN": "你的账号，你的声誉，你的风险。Agent 能替你发推——但它能处理那条可能引发争议的回复吗？能力边界比功能清单更重要。"
+    }
+  },
+  {
+    "id": "2033069561160020029",
+    "date": "2026-03-15",
+    "author": "@NekoStranding",
+    "author_url": "https://x.com/NekoStranding",
+    "tweet_url": "https://x.com/NekoStranding/status/2033069561160020029",
+    "title": {
+      "en-US": "East Money releases financial data Skill for OpenClaw",
+      "zh-CN": "东方财富发布了一套面向OpenClaw的金融数据Skill，提出高级工具应该变成Agent Native，商业模式可能转向按Token计费"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态/Agent商业模式——表世界到里世界的典型迁徙案例",
+      "zh-CN": "东方财富这一步恰恰印证了\"表世界退化为数据库，里世界成为新交互层\"——不是给人做的UI少了，而是Agent成了新用户，金融数据从\"给人看\"变成了\"给Agent调用\"，商业模式自然跟着迁徙。"
+    },
+    "relevance": "OpenClaw生态/Agent商业模式——表世界到里世界的典型迁徙案例",
+    "score": 0.78,
+    "engagement": {
+      "likes": 92,
+      "retweets": 14,
+      "replies": 2
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-15T11:07:40.948649+00:00",
+    "js_take": {
+      "en-US": "East Money isn't building a dashboard anymore. They're building a database for Agents. The user changed from human to Agent — that's the migration from surface to inner world.",
+      "zh-CN": "东方财富做的不是仪表盘，而是 Agent 的数据库。用户从人变成了 Agent——这正是从表世界向里世界的迁徙。"
     }
   },
   {
@@ -343,6 +399,34 @@
     "js_take": {
       "en-US": "Not that it made $30K—that it knew when to let you sleep and when to wake you. That's reading the 势, not brute force.",
       "zh-CN": "重点不是它赚了3万美元，而是它懂得何时让你休息、何时唤醒你。这叫顺势而为，不是蛮力硬上。"
+    }
+  },
+  {
+    "id": "2032809666174963924",
+    "date": "2026-03-15",
+    "author": "@AYi_AInotes",
+    "author_url": "https://x.com/AYi_AInotes",
+    "tweet_url": "https://x.com/AYi_AInotes/status/2032809666174963924",
+    "title": {
+      "en-US": "AI skills that observe their own failures and self-evolve",
+      "zh-CN": "AI技能的新范式：让技能自己观察自己的失败，自己迭代进化，省去80%维护时间。"
+    },
+    "summary": {
+      "en-US": "Agent技能自进化，与OpenClaw Skill系统直接相关",
+      "zh-CN": "推文在说'让技能自己进化来省维护时间'，但这话只说了一半。真正的变化是：当技能能观察自己的失败时，你和技能的关系从'你告诉它怎么做'变成了'你告诉它怎么判断做得好与不好'——这是从执行层退到价值层。"
+    },
+    "relevance": "Agent技能自进化，与OpenClaw Skill系统直接相关",
+    "score": 0.74,
+    "engagement": {
+      "likes": 55,
+      "replies": 3,
+      "retweets": 8
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-15T10:08:55.348395+00:00",
+    "js_take": {
+      "en-US": "80% less maintenance is a side effect. The shift is deeper: you stop writing steps, start writing values. From commanding execution to judging outcomes—that's the real upgrade.",
+      "zh-CN": "维护成本降低80%只是副作用。更深层的转变是：你不再编写步骤，而是定义价值。从命令执行到评判结果——这才是真正的升级。"
     }
   },
   {
