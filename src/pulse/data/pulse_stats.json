@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-15T15:08:12.832211+00:00",
+  "updated_at": "2026-03-15T16:08:52.693393+00:00",
   "this_week": {
-    "total_items": 160,
+    "total_items": 161,
     "avg_score": 0.77,
-    "unique_authors": 123,
+    "unique_authors": 124,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -486,6 +486,34 @@
         "js_take": {
           "en-US": "When code costs nothing to produce, restraint becomes the only valuable skill. OpenCode isn't fighting slop—it's teaching AI the art of stopping.",
           "zh-CN": "当代码的生产成本归零，「克制」便成了唯一稀缺的能力。OpenCode 不是在对抗低质量代码，而是在教会 AI 何时该停手。"
+        }
+      },
+      {
+        "id": "2033166508143354117",
+        "date": "2026-03-16",
+        "author": "@tekbog",
+        "author_url": "https://x.com/tekbog",
+        "tweet_url": "https://x.com/tekbog/status/2033166508143354117",
+        "title": {
+          "en-US": "openclaw is for the same people who use notion",
+          "zh-CN": "OpenClaw 是给那些用 Notion 的人准备的"
+        },
+        "summary": {
+          "en-US": "OpenClaw 用户定位与产品哲学讨论",
+          "zh-CN": "把 OpenClaw 和 Notion 归为一类人，恰恰 missed the point——Notion 是「表世界」的精心整理，OpenClaw 是「里世界」的随意调用；表面看都是效率工具，实则一个是数据库，一个是 Agent 入口。"
+        },
+        "relevance": "OpenClaw 用户定位与产品哲学讨论",
+        "score": 0.82,
+        "engagement": {
+          "likes": 1460,
+          "replies": 63,
+          "retweets": 68
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-15T16:08:44.159021+00:00",
+        "js_take": {
+          "en-US": "Notion users organize information. OpenClaw users organize intelligence. One curates a library, the other commands a staff.",
+          "zh-CN": "Notion 用户整理信息，OpenClaw 用户调度智能。前者在管理图书馆，后者在指挥一支队伍。"
         }
       },
       {
@@ -1000,35 +1028,6 @@
         "js_take": {
           "en-US": "We gave AI $500 to plan a team offsite. Spreadsheet-perfect execution, zero waste. Team feedback: \"felt like hitting KPIs.\" Dating needs controlled chaos. Agent deletes chaos. Your $250 buys efficiency, not chemistry.",
           "zh-CN": "我们给了AI 500美元策划团队outing。执行堪称表格级完美，零浪费。团队反馈：\"像在刷KPI。\"团建需要可控的混乱，Agent却把混乱删得一干二净。250美元买到的是效率，不是默契。"
-        }
-      },
-      {
-        "id": "2031668879517159474",
-        "date": "2026-03-11",
-        "author": "@coreyganim",
-        "author_url": "https://x.com/coreyganim",
-        "tweet_url": "https://x.com/coreyganim/status/2031668879517159474",
-        "title": {
-          "en-US": "OpenClaw is insanely powerful if set up right - checklist for implementing the system",
-          "zh-CN": "OpenClaw如果配置得当非常强大——提供了实施系统的快速检查清单"
-        },
-        "summary": {
-          "en-US": "OpenClaw部署与配置指南",
-          "zh-CN": "所有人都在晒「5分钟安装OpenClaw」的checklist，却没人回答：当你的agent能自动写代码、发消息、管理日程时，你准备让自己腾出时间去做什么？工具解放的手，总得有个去处。"
-        },
-        "relevance": "OpenClaw部署与配置指南",
-        "score": 0.81,
-        "engagement": {
-          "likes": 227,
-          "replies": 17,
-          "retweets": 9,
-          "views": 41676
-        },
-        "comment_type": "reframe",
-        "synced_at": "2026-03-11T14:08:34.184005+00:00",
-        "js_take": {
-          "en-US": "Your checklist installs the lobster in 5 minutes. Cool. But the hard config isn't technical—it's deciding what you'll actually *do* with the 100 hours you just bought back.",
-          "zh-CN": "你的清单5分钟就能装好这只龙虾。不错。但真正的难题不是技术配置——而是你要怎么花那省下来的100小时。"
         }
       }
     ]

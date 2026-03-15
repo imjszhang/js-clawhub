@@ -1,5 +1,33 @@
 [
   {
+    "id": "2033166508143354117",
+    "date": "2026-03-16",
+    "author": "@tekbog",
+    "author_url": "https://x.com/tekbog",
+    "tweet_url": "https://x.com/tekbog/status/2033166508143354117",
+    "title": {
+      "en-US": "openclaw is for the same people who use notion",
+      "zh-CN": "OpenClaw 是给那些用 Notion 的人准备的"
+    },
+    "summary": {
+      "en-US": "OpenClaw 用户定位与产品哲学讨论",
+      "zh-CN": "把 OpenClaw 和 Notion 归为一类人，恰恰 missed the point——Notion 是「表世界」的精心整理，OpenClaw 是「里世界」的随意调用；表面看都是效率工具，实则一个是数据库，一个是 Agent 入口。"
+    },
+    "relevance": "OpenClaw 用户定位与产品哲学讨论",
+    "score": 0.82,
+    "engagement": {
+      "likes": 1460,
+      "replies": 63,
+      "retweets": 68
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-15T16:08:44.159021+00:00",
+    "js_take": {
+      "en-US": "Notion users organize information. OpenClaw users organize intelligence. One curates a library, the other commands a staff.",
+      "zh-CN": "Notion 用户整理信息，OpenClaw 用户调度智能。前者在管理图书馆，后者在指挥一支队伍。"
+    }
+  },
+  {
     "id": "2032936124214292904",
     "date": "2026-03-15",
     "author": "@barckcode",
@@ -5649,34 +5677,6 @@
     "js_take": {
       "en-US": "Cursor building OpenClaw isn't a flex—it's defensive panic. The war isn't about feature lists; it's about who removes the most decisions from devs' plates. Fewer choices, stickier moat.",
       "zh-CN": "Cursor做OpenClaw不是在炫技——是防御性恐慌。这场战争不在功能列表，而在谁能帮开发者砍掉最多的决策。选择越少，护城河越宽。"
-    }
-  },
-  {
-    "id": "2029761803769594232",
-    "date": "2026-03-06",
-    "author": "@levelsio",
-    "author_url": "https://x.com/levelsio",
-    "tweet_url": "https://x.com/levelsio/status/2029761803769594232",
-    "title": {
-      "en-US": "Ran OpenClaw for a month with 26 friends, made a self-improving game",
-      "zh-CN": "26人协作运行OpenClaw一月，打造自进化游戏"
-    },
-    "summary": {
-      "en-US": "OpenClaw 群体实验 + Agent 自主演化案例",
-      "zh-CN": "OpenClaw群体实验与Agent自主演化案例"
-    },
-    "relevance": "OpenClaw 群体实验 + Agent 自主演化案例",
-    "score": 0.87,
-    "engagement": {
-      "likes": 376,
-      "replies": 57,
-      "retweets": 8
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T06:06:36.360119+00:00",
-    "js_take": {
-      "en-US": "Everyone's dissecting the code. But 26 people shaping one agent? That's not a tech demo—it's a fight for whose instincts win. The real story isn't what it built. It's whose brain it ended up thinking like.",
-      "zh-CN": "所有人都在拆解代码分析技术。但26个人共同塑造一个agent？这不是技术演示——而是关于谁的直觉能胜出的博弈。真正的故事不是它造出了什么，而是它最终学会了像谁一样思考。"
     }
   }
 ]
