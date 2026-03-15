@@ -262,6 +262,34 @@
     }
   },
   {
+    "id": "2032988029107966162",
+    "date": "2026-03-15",
+    "author": "@xiongchun007",
+    "author_url": "https://x.com/xiongchun007",
+    "tweet_url": "https://x.com/xiongchun007/status/2032988029107966162",
+    "title": {
+      "en-US": "OpenClaw's innovation is engineering integration, not new algorithms—like Docker didn't invent Linux, Kubernetes didn't invent containers",
+      "zh-CN": "OpenClaw的创新是工程整合层而非新算法——就像Docker没有发明Linux，Kubernetes没有发明容器"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台——工程整合的价值",
+      "zh-CN": "推文的类比点出了一个被忽视的真相：伟大的工程产品往往不是发明新技术，而是整合已有技术的艺术。OpenClaw没有算法突破，但工程门槛本身就是壁垒——这是'不争之争'的技术版本。"
+    },
+    "relevance": "OpenClaw平台——工程整合的价值",
+    "score": 0.745,
+    "engagement": {
+      "likes": 122,
+      "replies": 20,
+      "retweets": 4
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-15T09:08:02.798026+00:00",
+    "js_take": {
+      "en-US": "Docker won by hiding Linux, not inventing it. The deepest engineering moat is making the complex feel inevitable and simple.",
+      "zh-CN": "Docker 的成功在于隐藏了 Linux，而非发明它。最深的工程护城河，是让复杂变得理所当然、简单自然。"
+    }
+  },
+  {
     "id": "2032817523704393892",
     "date": "2026-03-15",
     "author": "@0x_Discover",
@@ -5644,34 +5672,6 @@
     "js_take": {
       "en-US": "Arguing over MCP vs Skills is like arguing 4G vs 5G. Three years from now, agents won't care—and neither will users. The plumbing disappears. Stop debating pipes, start building houses.",
       "zh-CN": "争论 MCP 还是 Skills，就像当年争论 4G 还是 5G。三年后，Agent 不会在意，用户更不会。 plumbing 终将隐形。别争管道了，开始造房子吧。"
-    }
-  },
-  {
-    "id": "2029631180312563734",
-    "date": "2026-03-06",
-    "author": "@VadimStrizheus",
-    "author_url": "https://x.com/VadimStrizheus",
-    "tweet_url": "https://x.com/VadimStrizheus/status/2029631180312563734",
-    "title": {
-      "en-US": "Paste this exact structure for your OpenClaw...",
-      "zh-CN": "分享OpenClaw的推荐配置结构"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台配置，直接相关",
-      "zh-CN": "大家都在追求「完美配置」，但真正的效率来自「够用就停」——过度优化本身就是一种熵增。"
-    },
-    "relevance": "OpenClaw平台配置，直接相关",
-    "score": 0.78,
-    "engagement": {
-      "likes": 204,
-      "replies": 10,
-      "retweets": 10
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-06T02:09:14.862961+00:00",
-    "js_take": {
-      "en-US": "Copy-pasting this config is like wearing someone else's glasses. Real efficiency isn't in the file—it's in the 200 failed attempts before you knew what each line actually does.",
-      "zh-CN": "照搬这份配置，就像戴别人的眼镜。真正的效率不在文件里——而在你折腾 200 次失败、终于弄懂每一行含义的过程里。"
     }
   }
 ]
