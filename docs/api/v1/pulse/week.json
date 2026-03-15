@@ -85,6 +85,34 @@
     }
   },
   {
+    "id": "2032966253716058394",
+    "date": "2026-03-15",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2032966253716058394",
+    "title": {
+      "en-US": "OpenClaw is starting to learn from its own mistakes in real time via RL setup",
+      "zh-CN": "OpenClaw开始通过RL设置从自己的错误中实时学习，在生产环境中持续改进。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台、Agent强化学习、自主进化",
+      "zh-CN": "「在生产环境中持续学习」是很多Agent开发者追求的圣杯，但这里有个反直觉的边界：当你优化的是「从错误中学习」的能力本身时，错误的价值反而被稀释了——系统不再犯错，但也失去了发现非错误的机会。"
+    },
+    "relevance": "OpenClaw平台、Agent强化学习、自主进化",
+    "score": 0.76,
+    "engagement": {
+      "likes": 85,
+      "replies": 22,
+      "retweets": 8
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-15T01:09:58.049043+00:00",
+    "js_take": {
+      "en-US": "Chasing real-time RL feels right. But polish 'learning from errors' too smooth and agents become correct yet blind — perfect on rails, deaf to everything outside them. The 'flaws' you keep erasing? That's where the real signal lives.",
+      "zh-CN": "追逐实时强化学习顺理成章。但把「从错误中学习」打磨得太顺滑，Agent会变得正确却盲目——在轨道上完美运行，对轨道外的一切充耳不闻。你不断抹去的那些「缺陷」？那才是真正的信号所在。"
+    }
+  },
+  {
     "id": "2032815258931544284",
     "date": "2026-03-15",
     "author": "@RoundtableSpace",
@@ -167,6 +195,34 @@
     "js_take": {
       "en-US": "Browser automation frameworks becoming data layers. Agents are the new interface. Second migration: from surface tools to inner intent.",
       "zh-CN": "浏览器自动化框架正在退化为数据层，Agent 才是新的交互界面。这是第二次迁徙：从表层工具走向内在意图。"
+    }
+  },
+  {
+    "id": "2032656754631389435",
+    "date": "2026-03-15",
+    "author": "@cnyzgkc",
+    "author_url": "https://x.com/cnyzgkc",
+    "tweet_url": "https://x.com/cnyzgkc/status/2032656754631389435",
+    "title": {
+      "en-US": "扣子OpenClaw 90秒搞定飞书部署，传统方式要1-2小时",
+      "zh-CN": "扣子OpenClaw用90秒完成飞书集成部署，传统方式需要1-2小时，只需点击2下即可。"
+    },
+    "summary": {
+      "en-US": "OpenClaw开发者体验、平台易用性",
+      "zh-CN": "90秒部署 vs 2小时是漂亮的数字，但真正的洞察是反过来的：当部署变得如此「无感」，开发者反而更容易忽略「为什么要接飞书」这个前提问题——工具越顺滑，人越懒于思考它是否值得被使用。"
+    },
+    "relevance": "OpenClaw开发者体验、平台易用性",
+    "score": 0.71,
+    "engagement": {
+      "likes": 144,
+      "replies": 33,
+      "retweets": 17
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-15T01:09:58.049049+00:00",
+    "js_take": {
+      "en-US": "90 seconds feels like progress. But frictionless deployment trains us to skip the question that matters more — should I even connect Feishu? You optimized the how so perfectly that nobody asks why anymore.",
+      "zh-CN": "90秒部署感觉像是进步。但无摩擦的部署训练我们跳过了一个更重要的问题——我真的需要连接飞书吗？你把「怎么做」优化得如此完美，以至于没人再问「为什么」了。"
     }
   },
   {
