@@ -575,6 +575,63 @@
     }
   },
   {
+    "id": "2033158537065759041",
+    "date": "2026-03-15",
+    "author": "@PrajwalTomar_",
+    "author_url": "https://x.com/PrajwalTomar_",
+    "tweet_url": "https://x.com/PrajwalTomar_/status/2033158537065759041",
+    "title": {
+      "en-US": "OpenClaw agent useless without access to actual work files",
+      "zh-CN": "作者指出很多人抱怨 OpenClaw agent 帮不上忙，是因为他们没有把项目文件、文档和工作流接入 agent，agent 根本不了解实际工作上下文。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 开发者体验与最佳实践",
+      "zh-CN": "很多人拼命优化 prompt 和配置，却连最基本的「让 agent 看到工作上下文」都没做——这是典型的在枝叶上努力，没在根上用力。"
+    },
+    "relevance": "OpenClaw 开发者体验与最佳实践",
+    "score": 0.72,
+    "engagement": {
+      "likes": 8,
+      "replies": 0,
+      "retweets": 1
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-15T14:10:26.581973+00:00",
+    "js_take": {
+      "en-US": "3 days tuning prompts. My agent couldn't see the files. You're optimizing the wrong layer—the real work is making the tool invisible to your flow, not polishing the interface.",
+      "zh-CN": "折腾了3天prompt，我的agent还是读不到文件。你在优化错误的层面——真正的工作是让工具无缝融入流程，而非打磨界面。"
+    }
+  },
+  {
+    "id": "2033166825765413316",
+    "date": "2026-03-15",
+    "author": "@billcompute",
+    "author_url": "https://x.com/billcompute",
+    "tweet_url": "https://x.com/billcompute/status/2033166825765413316",
+    "title": {
+      "en-US": "Buy 31 Mac Minis, install OpenClaw, create 412 agents, talk for 6 hours...",
+      "zh-CN": "一条讽刺/半开玩笑的推文，建议用31台Mac Mini装OpenClaw创建412个agent，然后对着手机说6小时需求让AI自动执行，以此「正确采用AI」。"
+    },
+    "summary": {
+      "en-US": "直接提及OpenClaw，涉及AI agent部署策略的讽刺讨论",
+      "zh-CN": "这种「堆硬件+堆agent数量=成功」的叙事是技术圈常见的认知陷阱——它把AI adoption误解为军备竞赛，却忽略了真正的瓶颈是定义清晰的问题边界和反馈闭环，而非算力或agent数量。"
+    },
+    "relevance": "直接提及OpenClaw，涉及AI agent部署策略的讽刺讨论",
+    "score": 0.72,
+    "engagement": {
+      "likes": 76,
+      "retweets": 3,
+      "replies": 5,
+      "views": 2649
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-15T15:07:59.755078+00:00",
+    "js_take": {
+      "en-US": "412 agents won't coordinate themselves just because you bought 31 Macs. The real constraint was never compute—it's whether you can define the problem in one sentence.",
+      "zh-CN": "买了31台Mac，412个agent也不会自己协调起来。真正的瓶颈从来不是算力，而是你能不能一句话说清问题。"
+    }
+  },
+  {
     "id": "2032656754631389435",
     "date": "2026-03-15",
     "author": "@cnyzgkc",
