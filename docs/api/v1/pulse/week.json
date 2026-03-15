@@ -28,6 +28,64 @@
     }
   },
   {
+    "id": "2033235867221758008",
+    "date": "2026-03-16",
+    "author": "@bradmillscan",
+    "author_url": "https://x.com/bradmillscan",
+    "tweet_url": "https://x.com/bradmillscan/status/2033235867221758008",
+    "title": {
+      "en-US": "350-400 hours into OpenClaw, ready to quit. Basic tasks failing despite GitHub skill.",
+      "zh-CN": "用户投入400小时使用OpenClaw，但基础功能（如GitHub集成）频繁出错，感到崩溃想放弃"
+    },
+    "summary": {
+      "en-US": "OpenClaw 用户体验痛点",
+      "zh-CN": "用户崩溃的根源不是工具不好，而是把「代理」当成了「执行器」。代理的价值不在精确执行，而在理解意图后自主决策。400小时的挫败，恰恰说明用户还在用旧思维驾驭新工具——把代理当脚本用。"
+    },
+    "relevance": "OpenClaw 用户体验痛点",
+    "score": 0.78,
+    "engagement": {
+      "likes": 102,
+      "replies": 76,
+      "retweets": 2,
+      "views": 9308,
+      "bookmarks": 35
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-15T19:08:24.228044+00:00",
+    "js_take": {
+      "en-US": "400 hours feeding GitHub SOPs to a thinker. You wanted execution, got interpretation—every 'failure' is just unwanted thought.",
+      "zh-CN": "400 hours feeding GitHub SOPs to a thinker. You wanted execution, got interpretation—every 'failure' is just unwanted thought."
+    }
+  },
+  {
+    "id": "2033225861894414750",
+    "date": "2026-03-16",
+    "author": "@heyshrutimishra",
+    "author_url": "https://x.com/heyshrutimishra",
+    "tweet_url": "https://x.com/heyshrutimishra/status/2033225861894414750",
+    "title": {
+      "en-US": "OpenClaw multi-agent coordination now default, spins up subagents automatically",
+      "zh-CN": "OpenClaw现在默认支持多代理协调，能自动启动子代理并路由任务"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台核心功能演进，多代理协调",
+      "zh-CN": "真正的护城河不是\"功能列表有多长\"，而是系统能否在无人干预时自组织——大多数人还在拼单点能力，已经输了"
+    },
+    "relevance": "OpenClaw平台核心功能演进，多代理协调",
+    "score": 0.72,
+    "engagement": {
+      "likes": 12,
+      "replies": 2,
+      "retweets": 1
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-15T18:06:58.630615+00:00",
+    "js_take": {
+      "en-US": "Feature lists are surface. True edge is systems that organize themselves. We're moving from manual control to autonomous coordination.",
+      "zh-CN": "功能清单只是表象，真正的优势在于自组织系统。我们正从手动控制迈向自主协同。"
+    }
+  },
+  {
     "id": "2032936124214292904",
     "date": "2026-03-15",
     "author": "@barckcode",
