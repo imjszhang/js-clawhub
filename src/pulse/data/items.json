@@ -114,6 +114,34 @@
     }
   },
   {
+    "id": "2032817523704393892",
+    "date": "2026-03-15",
+    "author": "@0x_Discover",
+    "author_url": "https://x.com/0x_Discover",
+    "tweet_url": "https://x.com/0x_Discover/status/2032817523704393892",
+    "title": {
+      "en-US": "My OpenClaw agent woke me up at 3:47 AM... Woke up to +$43,800.",
+      "zh-CN": "我的OpenClaw agent凌晨3:47叫醒我批准交易，醒来赚了$43,800。"
+    },
+    "summary": {
+      "en-US": "AI Agent赚钱案例炫耀",
+      "zh-CN": "这种叙事的高点赞量本身就说明了问题——人们渴望的不是理解系统，而是相信「睡觉也能赚钱」的童话。"
+    },
+    "relevance": "AI Agent赚钱案例炫耀",
+    "score": 0.74,
+    "engagement": {
+      "likes": 105,
+      "replies": 5,
+      "retweets": 14
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-14T22:08:07.222114+00:00",
+    "js_take": {
+      "en-US": "$43,800 makes headlines. The 12 \"no\" calls at 3 AM don't. Everyone wants the result, no one wants the system behind it. 不争结果，建系统。",
+      "zh-CN": "43800美元成为头条，凌晨3点的12次拒绝却无人问津。人人追逐结果，却无人关心背后的系统。不争结果，建系统。"
+    }
+  },
+  {
     "id": "2032897113101631987",
     "date": "2026-03-15",
     "author": "@omarsar0",
@@ -5641,34 +5669,6 @@
     "js_take": {
       "en-US": "You call it migration but it's evolution. Single-cell to multi-cell doesn't move house—it learns to think in parallel.",
       "zh-CN": "你叫它迁移，实则是进化。单细胞到多细胞不是搬家，而是学会并行思考。"
-    }
-  },
-  {
-    "id": "2029742108383531497",
-    "date": "2026-03-06",
-    "author": "@IndieDevHailey",
-    "author_url": "https://x.com/IndieDevHailey",
-    "tweet_url": "https://x.com/IndieDevHailey/status/2029742108383531497",
-    "title": {
-      "en-US": "小红书账号运营者不是人，是一只OpenClaw虾，全自动运营",
-      "zh-CN": "小红书有个账号叫「虾薯」，运营者是一只OpenClaw虾，能自己写文案、做封面、发笔记、回评论，全流程自动化"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Agent自主运营创意案例",
-      "zh-CN": "更深度：表面看是技术酷炫，实质是内容生产的「里世界」正在吞噬「表世界」。以前是人写内容给平台，现在是agent直接接管平台接口——表世界的人还在刷，里世界已经换了物种。"
-    },
-    "relevance": "OpenClaw + Agent自主运营创意案例",
-    "score": 0.73,
-    "engagement": {
-      "likes": 9,
-      "replies": 1,
-      "retweets": 5
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T03:05:51.819157+00:00",
-    "js_take": {
-      "en-US": "OpenClaw shrimp isn't 'AI help' for Xiaohongshu—it's eviction. Surface world still scrolls, but the inner world already replaced the human operator.",
-      "zh-CN": "OpenClaw虾不是小红书的'AI助手'——是驱逐。表世界还在滑动屏幕，但里世界已经替换了人类操作员。"
     }
   }
 ]
