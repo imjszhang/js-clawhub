@@ -203,6 +203,36 @@
     }
   },
   {
+    "id": "2032943542062989793",
+    "date": "2026-03-15",
+    "author": "@icanvardar",
+    "author_url": "https://x.com/icanvardar",
+    "tweet_url": "https://x.com/icanvardar/status/2032943542062989793",
+    "title": {
+      "en-US": "never met a single person irl who uses openclaw",
+      "zh-CN": "现实中从没遇到过用OpenClaw的人。"
+    },
+    "summary": {
+      "en-US": "OpenClaw采用度/里世界vs表世界",
+      "zh-CN": "更形象：这句话本身就是「表世界vs里世界」的完美例证——OpenClaw用户不在「能被看见」的表层（社交媒体、线下聚会），而在「不被看见」的里层（深夜的终端、私有的工作流）。真正在用的人不发声，发声的人还没开始用。"
+    },
+    "relevance": "OpenClaw采用度/里世界vs表世界",
+    "score": 0.76,
+    "engagement": {
+      "likes": 281,
+      "replies": 151,
+      "retweets": 10,
+      "views": 22395,
+      "bookmarks": 7
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-15T07:08:39.942337+00:00",
+    "js_take": {
+      "en-US": "Exactly. OpenClaw users live in the inner world—private terminals, automated workflows, 3AM cron jobs. You won't meet them at parties because they're not building for attention.",
+      "zh-CN": "没错。OpenClaw 的用户活在里世界——私有终端、自动化工作流、凌晨三点的定时任务。你不会在派对上碰到他们，因为他们不是在追逐聚光灯。"
+    }
+  },
+  {
     "id": "2032815258931544284",
     "date": "2026-03-15",
     "author": "@RoundtableSpace",
@@ -341,6 +371,35 @@
     "js_take": {
       "en-US": "Browser automation frameworks becoming data layers. Agents are the new interface. Second migration: from surface tools to inner intent.",
       "zh-CN": "浏览器自动化框架正在退化为数据层，Agent 才是新的交互界面。这是第二次迁徙：从表层工具走向内在意图。"
+    }
+  },
+  {
+    "id": "2032806514692599813",
+    "date": "2026-03-15",
+    "author": "@TokenMore",
+    "author_url": "https://x.com/TokenMore",
+    "tweet_url": "https://x.com/TokenMore/status/2032806514692599813",
+    "title": {
+      "en-US": "chrome-cdp-skill: AI Agent controls your existing Chrome",
+      "zh-CN": "给AI Agent装上眼睛和手——通过Chrome原生CDP协议直接接管正在使用的浏览器，无需Puppeteer或插件"
+    },
+    "summary": {
+      "en-US": "OpenClaw新skill，表/里世界边界消融的技术实现",
+      "zh-CN": "这条推文把「让AI接管浏览器」描述成装个skill的技术活，但它忽略了一个更深层的结构变化：表世界（浏览器/App）正在从「人操作的界面」退化成「Agent的数据源」，这是从表向里的迁徙，不是功能叠加"
+    },
+    "relevance": "OpenClaw新skill，表/里世界边界消融的技术实现",
+    "score": 0.72,
+    "engagement": {
+      "likes": 205,
+      "retweets": 45,
+      "replies": 5,
+      "views": 17342
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-15T06:07:52.218223+00:00",
+    "js_take": {
+      "en-US": "Chrome isn't getting smarter—you are. This isn't a new feature. It's the surface world admitting it's becoming a database for agents.",
+      "zh-CN": "Chrome没变聪明，是你变聪明了。这不是新功能，是表世界在低头——它正在成为Agent的数据库。"
     }
   },
   {
@@ -5613,62 +5672,6 @@
     "js_take": {
       "en-US": "Copy-pasting this config is like wearing someone else's glasses. Real efficiency isn't in the file—it's in the 200 failed attempts before you knew what each line actually does.",
       "zh-CN": "照搬这份配置，就像戴别人的眼镜。真正的效率不在文件里——而在你折腾 200 次失败、终于弄懂每一行含义的过程里。"
-    }
-  },
-  {
-    "id": "2029610857882165358",
-    "date": "2026-03-06",
-    "author": "@carlosvillu",
-    "author_url": "https://x.com/carlosvillu",
-    "tweet_url": "https://x.com/carlosvillu/status/2029610857882165358",
-    "title": {
-      "en-US": "OpenClaw WhatsApp bridge via Meta Cloud API, no ban risk",
-      "zh-CN": "OpenClaw 推出官方 WhatsApp 桥接，通过 Meta Cloud API 获得正规商业号，避免第三方库封号风险"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台功能更新，直接相关",
-      "zh-CN": "做纠正：技术社区过于关注\"绕过限制\"的黑客精神，却忽略了真正的解决之道——不是更隐蔽地hack，而是顺应平台的规则获得正当性。第三方库封号问题最好的解法不是对抗检测，而是直接成为官方生态的一部分。"
-    },
-    "relevance": "OpenClaw 平台功能更新，直接相关",
-    "score": 0.78,
-    "engagement": {
-      "likes": 234,
-      "replies": 7,
-      "retweets": 27
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T10:04:13.491092+00:00",
-    "js_take": {
-      "en-US": "Hacking around bans is amateur hour. The real move isn't better cloaking—it's making the platform need you more than it fears you.",
-      "zh-CN": "钻漏洞绕封禁是下策。真正的玩法不是藏得更好，而是让平台对你的需求超过它对你的恐惧。"
-    }
-  },
-  {
-    "id": "2029678796824318147",
-    "date": "2026-03-06",
-    "author": "@msfeldstein",
-    "author_url": "https://x.com/msfeldstein",
-    "tweet_url": "https://x.com/msfeldstein/status/2029678796824318147",
-    "title": {
-      "en-US": "I've got openclaw managing my self hosted media center",
-      "zh-CN": "用 OpenClaw 管理自托管媒体中心，可以通过简单对话让 Agent 自动处理媒体文件整理。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 实际应用场景，展示 Agent 如何接管个人基础设施",
-      "zh-CN": "这条推文展示的是「人对技术的驾驭」，评论区都在聊功能本身，却没人追问：当工具变得越来越智能，人该做什么、工具该做什么？边界模糊了。更深层的问题是——驾驭技术的最高境界不是控制它，而是让它自然生长。"
-    },
-    "relevance": "OpenClaw 实际应用场景，展示 Agent 如何接管个人基础设施",
-    "score": 0.78,
-    "engagement": {
-      "likes": 1299,
-      "retweets": 22,
-      "replies": 60
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T13:07:07.605164+00:00",
-    "js_take": {
-      "en-US": "Everyone's showing off what their agent runs. Nobody's showing what they shipped with the time it saved. That's the difference between demos and builders.",
-      "zh-CN": "人人都在晒自家Agent能跑什么，却无人展示用省下的时间交付了什么成果。这就是演示者与实干者的分水岭。"
     }
   }
 ]
