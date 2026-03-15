@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-15T01:10:10.984426+00:00",
+  "updated_at": "2026-03-15T03:07:34.229829+00:00",
   "this_week": {
-    "total_items": 145,
+    "total_items": 148,
     "avg_score": 0.77,
-    "unique_authors": 113,
+    "unique_authors": 114,
     "top_items": [
       {
         "id": "2031457206110228736",
@@ -486,6 +486,36 @@
         "js_take": {
           "en-US": "The real leverage isn't what OpenClaw automates — it's what you stop deciding. I haven't checked my calendar in 3 weeks; my agent only pings me when conflicts actually exist.",
           "zh-CN": "真正的杠杆效应不在于 OpenClaw 自动化了什么，而在于你再也不用去决定什么。我已经三周没看过日历了；我的代理只会在真正有冲突时才通知我。"
+        }
+      },
+      {
+        "id": "2032966976549572958",
+        "date": "2026-03-15",
+        "author": "@minchoi",
+        "author_url": "https://x.com/minchoi",
+        "tweet_url": "https://x.com/minchoi/status/2032966976549572958",
+        "title": {
+          "en-US": "I use OpenClaw to run my entire X strategy while I sleep now. Here's how 7 different people are setting it up...",
+          "zh-CN": "作者分享用 OpenClaw 自动化运营 X 账号的策略，列举了内容创作者、创始人、Newsletter 作者等7种使用场景。"
+        },
+        "summary": {
+          "en-US": "OpenClaw Agent 运营实战案例",
+          "zh-CN": "推文在列举「用AI运营X」的各种场景，但忽略了最关键的一层：当你让Agent替你运营时，你本质上是在把自己的「判断标准」外包给系统。多数人的失败不在于工具，而在于从未定义过「什么内容值得发」。"
+        },
+        "relevance": "OpenClaw Agent 运营实战案例",
+        "score": 0.82,
+        "engagement": {
+          "likes": 77,
+          "replies": 21,
+          "retweets": 10,
+          "views": 6492,
+          "bookmarks": 91
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-15T03:07:17.060164+00:00",
+        "js_take": {
+          "en-US": "7 setups, 0 definitions of \"worth posting.\" Without your judgment system in the prompt, Agent becomes a loudspeaker for mediocrity. Tools amplify; they don't replace taste.",
+          "zh-CN": "七种配置，零个「值得发」的判断标准。提示词里没有你的判断力，Agent 就成了平庸的扩音器。工具能放大声音，替代不了品味。"
         }
       },
       {
@@ -1000,39 +1030,11 @@
           "en-US": "Claude didn't win on smarts—it was wired to survive. OpenClaw died because nobody set 'stay alive' above 'make money.' The AI's limit is your floor.",
           "zh-CN": "Claude 不是靠聪明取胜——它的骨子里刻着生存本能。OpenClaw 之所以消亡，是因为没人把「活下去」看得比「赚钱」更重要。AI 的极限，就是你的底线。"
         }
-      },
-      {
-        "id": "2032533699116355819",
-        "date": "2026-03-14",
-        "author": "@noahzweben",
-        "author_url": "https://x.com/noahzweben",
-        "tweet_url": "https://x.com/noahzweben/status/2032533699116355819",
-        "title": {
-          "en-US": "Claude remote control - spawn NEW local session from mobile app",
-          "zh-CN": "Claude 远程控制功能，可以在手机 App 中生成新的本地会话"
-        },
-        "summary": {
-          "en-US": "OpenClaw/Claude Code 远程会话，Agent 运营",
-          "zh-CN": "「Session Spawning」这个词暴露了正在发生的迁移——Agent 不再是被调用的工具，而是可以自我繁殖的存在。你在手机上点一下，远处诞生一个新的「数字分身」。"
-        },
-        "relevance": "OpenClaw/Claude Code 远程会话，Agent 运营",
-        "score": 0.8,
-        "engagement": {
-          "likes": 514,
-          "replies": 42,
-          "retweets": 33
-        },
-        "comment_type": "biaoli_insight",
-        "synced_at": "2026-03-13T23:06:56.906487+00:00",
-        "js_take": {
-          "en-US": "Session Spawning isn't a feature. It's a signal — agents can now birth agents. Tap your phone, a digital twin wakes up somewhere else to work for you.",
-          "zh-CN": "会话派生不是一个功能。它是一个信号——智能体现在可以孕育智能体了。轻点手机，一个数字分身就在别处醒来，为你工作。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 155
+    "unique_authors": 154
   }
 }

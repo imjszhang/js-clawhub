@@ -28,6 +28,36 @@
     }
   },
   {
+    "id": "2032966976549572958",
+    "date": "2026-03-15",
+    "author": "@minchoi",
+    "author_url": "https://x.com/minchoi",
+    "tweet_url": "https://x.com/minchoi/status/2032966976549572958",
+    "title": {
+      "en-US": "I use OpenClaw to run my entire X strategy while I sleep now. Here's how 7 different people are setting it up...",
+      "zh-CN": "作者分享用 OpenClaw 自动化运营 X 账号的策略，列举了内容创作者、创始人、Newsletter 作者等7种使用场景。"
+    },
+    "summary": {
+      "en-US": "OpenClaw Agent 运营实战案例",
+      "zh-CN": "推文在列举「用AI运营X」的各种场景，但忽略了最关键的一层：当你让Agent替你运营时，你本质上是在把自己的「判断标准」外包给系统。多数人的失败不在于工具，而在于从未定义过「什么内容值得发」。"
+    },
+    "relevance": "OpenClaw Agent 运营实战案例",
+    "score": 0.82,
+    "engagement": {
+      "likes": 77,
+      "replies": 21,
+      "retweets": 10,
+      "views": 6492,
+      "bookmarks": 91
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-15T03:07:17.060164+00:00",
+    "js_take": {
+      "en-US": "7 setups, 0 definitions of \"worth posting.\" Without your judgment system in the prompt, Agent becomes a loudspeaker for mediocrity. Tools amplify; they don't replace taste.",
+      "zh-CN": "七种配置，零个「值得发」的判断标准。提示词里没有你的判断力，Agent 就成了平庸的扩音器。工具能放大声音，替代不了品味。"
+    }
+  },
+  {
     "id": "2032753719763415182",
     "date": "2026-03-15",
     "author": "@johann_sath",
@@ -85,6 +115,36 @@
     }
   },
   {
+    "id": "2032808726839898539",
+    "date": "2026-03-15",
+    "author": "@bilbeny",
+    "author_url": "https://x.com/bilbeny",
+    "tweet_url": "https://x.com/bilbeny/status/2032808726839898539",
+    "title": {
+      "en-US": "Now OpenClaw or ClaudeCode or Codex can use YOUR real Chrome. Your session. Your logins. Your cookies...",
+      "zh-CN": "OpenClaw/ClaudeCode/Codex 现在可以使用真实的 Chrome 浏览器，包括用户的 session、登录状态和 cookies。"
+    },
+    "summary": {
+      "en-US": "OpenClaw Agent 能力扩展",
+      "zh-CN": "推文在强调「Agent可以接管你的真实浏览器」这个功能，但混淆了「能做什么」和「应该做什么」的边界。当Agent拥有你的登录态时，它获得的不仅是权限，还有你积累多年的「数字身份声誉」。一次错误的自动化操作可能比手动失误代价更高。"
+    },
+    "relevance": "OpenClaw Agent 能力扩展",
+    "score": 0.78,
+    "engagement": {
+      "likes": 140,
+      "replies": 6,
+      "retweets": 11,
+      "views": 11449,
+      "bookmarks": 178
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-15T03:07:17.060168+00:00",
+    "js_take": {
+      "en-US": "Your cookies, your reputation, your risk. Agent can tweet for you—but can it handle a reply that might spark controversy? Capability boundary matters more than feature list.",
+      "zh-CN": "你的账号，你的声誉，你的风险。Agent 能替你发推——但它能处理那条可能引发争议的回复吗？能力边界比功能清单更重要。"
+    }
+  },
+  {
     "id": "2032966253716058394",
     "date": "2026-03-15",
     "author": "@RoundtableSpace",
@@ -110,6 +170,36 @@
     "js_take": {
       "en-US": "Chasing real-time RL feels right. But polish 'learning from errors' too smooth and agents become correct yet blind — perfect on rails, deaf to everything outside them. The 'flaws' you keep erasing? That's where the real signal lives.",
       "zh-CN": "追逐实时强化学习顺理成章。但把「从错误中学习」打磨得太顺滑，Agent会变得正确却盲目——在轨道上完美运行，对轨道外的一切充耳不闻。你不断抹去的那些「缺陷」？那才是真正的信号所在。"
+    }
+  },
+  {
+    "id": "2032707265250341383",
+    "date": "2026-03-15",
+    "author": "@ewind_dev",
+    "author_url": "https://x.com/ewind_dev",
+    "tweet_url": "https://x.com/ewind_dev/status/2032707265250341383",
+    "title": {
+      "en-US": "字节老板送的 Mac mini 启动！8T 存储也太太豪横了吧！如果装了 OpenClaw 的个人服务器能成为一种「家用电器」，那这样的小屏幕上或许值得一种独立的 GUI 形态？",
+      "zh-CN": "作者展示了字节送的 Mac mini，提出如果 OpenClaw 个人服务器成为「家用电器」，可能需要一种新的独立 GUI 形态。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 个人服务器 + 表/里世界",
+      "zh-CN": "推文在讨论「个人服务器GUI形态」，但这恰好印证了「表世界退化为数据库，里世界成为新交互层」的趋势。问题是：我们还在用为「人类操作」设计的GUI思维去想象Agent的交互，而真正的里世界形态可能根本不需要「界面」，而是持续的背景感知与主动介入。"
+    },
+    "relevance": "OpenClaw 个人服务器 + 表/里世界",
+    "score": 0.76,
+    "engagement": {
+      "likes": 362,
+      "replies": 54,
+      "retweets": 17,
+      "views": 94502,
+      "bookmarks": 151
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-15T03:07:17.060171+00:00",
+    "js_take": {
+      "en-US": "We're designing Agent UI with GUI-era thinking. But Agents don't need screens—they need presence. The real personal server isn't an app you open; it's a layer that surfaces when needed, invisible when not.",
+      "zh-CN": "我们还在用 GUI 时代的思维设计 Agent 界面。但 Agent 不需要屏幕——它需要「在场感」。真正的个人服务器不是你要打开的应用，而是一层需要时出现、不需要时隐身的存在。"
     }
   },
   {
