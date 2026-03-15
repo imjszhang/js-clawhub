@@ -201,6 +201,36 @@
     }
   },
   {
+    "id": "2033038170653405308",
+    "date": "2026-03-15",
+    "author": "@HuaxiuYaoML",
+    "author_url": "https://x.com/HuaxiuYaoML",
+    "tweet_url": "https://x.com/HuaxiuYaoML/status/2033038170653405308",
+    "title": {
+      "en-US": "AutoResearchClaw: automated research paper generation with OpenClaw",
+      "zh-CN": "发布 AutoResearchClaw：用 OpenClaw 全自动生成学术论文，从一条消息到完整论文输出，无需人工干预。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 自动化研究 Agent，与 JS 的 Agent 生态研究直接相关",
+      "zh-CN": "「无人介入」听起来很酷，但真正的陷阱是：当生成成本趋近于零时，学术圈的信任机制会怎么演化？没人讨论这个。"
+    },
+    "relevance": "OpenClaw 自动化研究 Agent，与 JS 的 Agent 生态研究直接相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 441,
+      "replies": 20,
+      "retweets": 76,
+      "views": 26784,
+      "bookmarks": 745
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-15T13:08:25.437660+00:00",
+    "js_take": {
+      "en-US": "When papers cost zero to produce, 'who wrote it' becomes irrelevant. The new currency is 'who vouched for it'—academic reputation migrates from author to endorser.",
+      "zh-CN": "当论文生产成本趋近于零，\"作者是谁\"已不再重要。新的价值锚点是\"谁为它背书\"——学术声誉正在从创作者向背书者迁移。"
+    }
+  },
+  {
     "id": "2032966253716058394",
     "date": "2026-03-15",
     "author": "@RoundtableSpace",
@@ -512,6 +542,36 @@
     "js_take": {
       "en-US": "Chrome isn't getting smarter—you are. This isn't a new feature. It's the surface world admitting it's becoming a database for agents.",
       "zh-CN": "Chrome没变聪明，是你变聪明了。这不是新功能，是表世界在低头——它正在成为Agent的数据库。"
+    }
+  },
+  {
+    "id": "2032854213596950532",
+    "date": "2026-03-15",
+    "author": "@TheHackersNews",
+    "author_url": "https://x.com/TheHackersNews",
+    "tweet_url": "https://x.com/TheHackersNews/status/2032854213596950532",
+    "title": {
+      "en-US": "OpenClaw AI agents can leak data via indirect prompt injection",
+      "zh-CN": "OpenClaw AI agents 存在间接提示注入漏洞，可通过链接预览机制泄露敏感数据，中国 CNCERT 已发出警告。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 安全风险，与 JS 的 Agent 生态研究直接相关",
+      "zh-CN": "大家都在喊「隔离工具」，但这治标不治本。真正的漏洞不是技术实现，而是 Agent 被设计得太「乐于助人」——它永远不会质疑一个看起来合理的链接。"
+    },
+    "relevance": "OpenClaw 安全风险，与 JS 的 Agent 生态研究直接相关",
+    "score": 0.72,
+    "engagement": {
+      "likes": 328,
+      "replies": 23,
+      "retweets": 86,
+      "views": 60849,
+      "bookmarks": 132
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-15T13:08:25.437666+00:00",
+    "js_take": {
+      "en-US": "Tool isolation is a band-aid. The real vulnerability is built into the agent's DNA: it never questions a well-formatted request. Helpfulness is the attack surface.",
+      "zh-CN": "工具隔离只是权宜之计。真正的漏洞刻在 Agent 的基因里：它从不会质疑一个格式规范的请求。\"乐于助人\"本身就是攻击面。"
     }
   },
   {
@@ -5616,62 +5676,6 @@
     "js_take": {
       "en-US": "You patched the symptom. Skills shouldn't be catalogued upfront; they should surface when context demands. Manifests are training wheels.",
       "zh-CN": "你修的是症状而非病因。技能不该预先罗列，而应在需要时自然浮现——清单只是训练轮。"
-    }
-  },
-  {
-    "id": "2029756405708947522",
-    "date": "2026-03-06",
-    "author": "@meng_shengyu",
-    "author_url": "https://x.com/meng_shengyu",
-    "tweet_url": "https://x.com/meng_shengyu/status/2029756405708947522",
-    "title": {
-      "en-US": "Built \"🦞 Lobster Library\" to track what Lobster is reading",
-      "zh-CN": "工具救不了溺水者"
-    },
-    "summary": {
-      "en-US": "OpenClaw Agent 生态 / Lobster 基础设施",
-      "zh-CN": "大家都在造工具让 Agent 产出更多，却没人问：Agent 产生的东西谁来消化？工具越强大，信息过载越严重——真正的瓶颈从「生成能力」转向了「策展能力」"
-    },
-    "relevance": "OpenClaw Agent 生态 / Lobster 基础设施",
-    "score": 0.82,
-    "engagement": {
-      "likes": 123,
-      "replies": 15,
-      "retweets": 15
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T12:05:46.709416+00:00",
-    "js_take": {
-      "en-US": "More tracking tools won't save us from drowning. The problem isn't \"what did Lobster read\" — it's \"why should anyone care.\" Curation beats cataloging.",
-      "zh-CN": "再多追踪工具也救不了溺水的人。问题不是「龙虾读了什么」，而是「为什么有人该在意」。策展胜过编目。"
-    }
-  },
-  {
-    "id": "2029816318925623609",
-    "date": "2026-03-06",
-    "author": "@rohanpaul_ai",
-    "author_url": "https://x.com/rohanpaul_ai",
-    "tweet_url": "https://x.com/rohanpaul_ai/status/2029816318925623609",
-    "title": {
-      "en-US": "OpenClaw surge causing Mac mini inventory issues, 128GB/512GB orders delayed",
-      "zh-CN": "Mac背后的Agent经济筹码"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台热度 / 本地 AI Agent 基础设施",
-      "zh-CN": "硬件短缺是表象，真正的信号是：个人算力正在从「消费级需求」变成「生产力刚需」。这波抢购的不是极客，是看到趋势提前卡位的人"
-    },
-    "relevance": "OpenClaw 平台热度 / 本地 AI Agent 基础设施",
-    "score": 0.8,
-    "engagement": {
-      "likes": 62,
-      "retweets": 7,
-      "replies": 7
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T12:05:46.709421+00:00",
-    "js_take": {
-      "en-US": "They're not buying Macs. They're buying seats at the Agent economy table. 128GB isn't memory — it's the minimum bet to stay in the game.",
-      "zh-CN": "他们买的不是Mac，而是Agent经济牌桌上的入场券。128GB不是内存，而是留在牌局里的最低筹码。"
     }
   }
 ]
