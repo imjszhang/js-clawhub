@@ -260,6 +260,62 @@
     }
   },
   {
+    "id": "2032988902877966499",
+    "date": "2026-03-15",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2032988902877966499",
+    "title": {
+      "en-US": "OpenClaw agent woke him up at 3:47 AM with 6 Polymarket trades, $12K turned into $43K by 7:30.",
+      "zh-CN": "OpenClaw agent在凌晨3:47把他叫醒做了6笔Polymarket交易，早上7:30时1.2万美元变成了4.3万。"
+    },
+    "summary": {
+      "en-US": "OpenClaw agent、自动化交易",
+      "zh-CN": "更形象：大家都在关注「agent赚了多少」，但真正的洞察是「agent知道什么时候该叫醒你」——不是每分每秒都在交易，而是在美国睡着、本地信息差最大的那个时刻。这叫顺势，不是蛮干。"
+    },
+    "relevance": "OpenClaw agent、自动化交易",
+    "score": 0.74,
+    "engagement": {
+      "likes": 139,
+      "replies": 28,
+      "retweets": 6
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-15T05:09:27.719731+00:00",
+    "js_take": {
+      "en-US": "Not that it made $30K—that it knew when to let you sleep and when to wake you. That's reading the 势, not brute force.",
+      "zh-CN": "重点不是它赚了3万美元，而是它懂得何时让你休息、何时唤醒你。这叫顺势而为，不是蛮力硬上。"
+    }
+  },
+  {
+    "id": "2032741269689213289",
+    "date": "2026-03-15",
+    "author": "@xincctnnq",
+    "author_url": "https://x.com/xincctnnq",
+    "tweet_url": "https://x.com/xincctnnq/status/2032741269689213289",
+    "title": {
+      "en-US": "Chrome 146 built-in MCP support. Browser session can be exposed to AI agent via MCP protocol.",
+      "zh-CN": "Chrome 146内置MCP支持，浏览器会话可以通过MCP协议暴露给AI agent使用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、MCP、浏览器Agent集成",
+      "zh-CN": "更深度：Chrome支持MCP不是「浏览器变聪明了」，而是表世界（浏览器）开始向里世界（Agent）臣服。浏览器从「人操作信息的界面」变成「Agent读取的数据库」，这才是真正的迁徙信号。"
+    },
+    "relevance": "OpenClaw、MCP、浏览器Agent集成",
+    "score": 0.73,
+    "engagement": {
+      "likes": 415,
+      "replies": 19,
+      "retweets": 89
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-15T05:09:27.719737+00:00",
+    "js_take": {
+      "en-US": "Chrome adding MCP isn't the browser getting smarter. It's the surface world surrendering to the inner world—browser becomes database, agent becomes interface.",
+      "zh-CN": "Chrome接入MCP不是浏览器变聪明了，是表世界向里世界投降——浏览器退化成数据库，Agent成为新界面。"
+    }
+  },
+  {
     "id": "2032897113101631987",
     "date": "2026-03-15",
     "author": "@omarsar0",
@@ -5613,64 +5669,6 @@
     "js_take": {
       "en-US": "Everyone's showing off what their agent runs. Nobody's showing what they shipped with the time it saved. That's the difference between demos and builders.",
       "zh-CN": "人人都在晒自家Agent能跑什么，却无人展示用省下的时间交付了什么成果。这就是演示者与实干者的分水岭。"
-    }
-  },
-  {
-    "id": "2029888834171785406",
-    "date": "2026-03-06",
-    "author": "@KSimback",
-    "author_url": "https://x.com/KSimback",
-    "tweet_url": "https://x.com/KSimback/status/2029888834171785406",
-    "title": {
-      "en-US": "OpenClaw cron jobs buggiest feature but magical when works",
-      "zh-CN": "用户反馈 OpenClaw 的 cron 功能是最不稳定的特性，但运行起来又像魔法一样好用"
-    },
-    "summary": {
-      "en-US": "OpenClaw 核心功能问题反馈，Agent 运维痛点",
-      "zh-CN": "推文在抱怨功能不稳定的同时又承认它像魔法——这种矛盾恰恰是很多人面对新技术的常态：想要自动化带来的自由，却不愿意接受系统需要迭代的事实。越是追求确定性的人，越容易被工具的失控所激怒，但真正的成长往往发生在系统失控之后的修复里。"
-    },
-    "relevance": "OpenClaw 核心功能问题反馈，Agent 运维痛点",
-    "score": 0.78,
-    "engagement": {
-      "likes": 64,
-      "retweets": 5,
-      "replies": 5,
-      "views": 10806,
-      "bookmarks": 105
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T14:06:55.914795+00:00",
-    "js_take": {
-      "en-US": "Wanting magic without the mess is entitlement—the bugs are what force you to actually understand the system.",
-      "zh-CN": "追求魔法却不愿承受混乱，这是一种傲慢——正是 bug 逼你真正理解系统。"
-    }
-  },
-  {
-    "id": "2029513227948970445",
-    "date": "2026-03-06",
-    "author": "@JulianGoldieSEO",
-    "author_url": "https://x.com/JulianGoldieSEO",
-    "tweet_url": "https://x.com/JulianGoldieSEO/status/2029513227948970445",
-    "title": {
-      "en-US": "OpenClaw just got a desktop app called Claw X. Free. Changes everything.",
-      "zh-CN": "OpenClaw推出了桌面应用Claw X，免费，把原本需要命令行的AI agent操作变成了图形界面体验。"
-    },
-    "summary": {
-      "en-US": "OpenClaw重大产品发布，agent平台演进",
-      "zh-CN": "从命令行到GUI的转变不只是「变简单了」，它反映了一个趋势：AI agent正在从「里世界」的黑客工具走向「表世界」的普通用户——这种边界模糊本身就是技术民主化的信号。"
-    },
-    "relevance": "OpenClaw重大产品发布，agent平台演进",
-    "score": 0.76,
-    "engagement": {
-      "likes": 341,
-      "replies": 14,
-      "retweets": 47
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-05T18:05:57.366507+00:00",
-    "js_take": {
-      "en-US": "Claw X isn't about ditching the terminal—it's about the wall dissolving. Agents moving from hacker toys to normal people's tools means the surface/inner world split is collapsing.",
-      "zh-CN": "Claw X 不是关于抛弃终端——而是关于那堵墙正在消融。Agent 从极客玩具变成普通人的工具，意味着表世界与里世界的分界正在坍塌。"
     }
   }
 ]

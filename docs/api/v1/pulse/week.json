@@ -260,6 +260,62 @@
     }
   },
   {
+    "id": "2032988902877966499",
+    "date": "2026-03-15",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2032988902877966499",
+    "title": {
+      "en-US": "OpenClaw agent woke him up at 3:47 AM with 6 Polymarket trades, $12K turned into $43K by 7:30.",
+      "zh-CN": "OpenClaw agent在凌晨3:47把他叫醒做了6笔Polymarket交易，早上7:30时1.2万美元变成了4.3万。"
+    },
+    "summary": {
+      "en-US": "OpenClaw agent、自动化交易",
+      "zh-CN": "更形象：大家都在关注「agent赚了多少」，但真正的洞察是「agent知道什么时候该叫醒你」——不是每分每秒都在交易，而是在美国睡着、本地信息差最大的那个时刻。这叫顺势，不是蛮干。"
+    },
+    "relevance": "OpenClaw agent、自动化交易",
+    "score": 0.74,
+    "engagement": {
+      "likes": 139,
+      "replies": 28,
+      "retweets": 6
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-15T05:09:27.719731+00:00",
+    "js_take": {
+      "en-US": "Not that it made $30K—that it knew when to let you sleep and when to wake you. That's reading the 势, not brute force.",
+      "zh-CN": "重点不是它赚了3万美元，而是它懂得何时让你休息、何时唤醒你。这叫顺势而为，不是蛮力硬上。"
+    }
+  },
+  {
+    "id": "2032741269689213289",
+    "date": "2026-03-15",
+    "author": "@xincctnnq",
+    "author_url": "https://x.com/xincctnnq",
+    "tweet_url": "https://x.com/xincctnnq/status/2032741269689213289",
+    "title": {
+      "en-US": "Chrome 146 built-in MCP support. Browser session can be exposed to AI agent via MCP protocol.",
+      "zh-CN": "Chrome 146内置MCP支持，浏览器会话可以通过MCP协议暴露给AI agent使用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw、MCP、浏览器Agent集成",
+      "zh-CN": "更深度：Chrome支持MCP不是「浏览器变聪明了」，而是表世界（浏览器）开始向里世界（Agent）臣服。浏览器从「人操作信息的界面」变成「Agent读取的数据库」，这才是真正的迁徙信号。"
+    },
+    "relevance": "OpenClaw、MCP、浏览器Agent集成",
+    "score": 0.73,
+    "engagement": {
+      "likes": 415,
+      "replies": 19,
+      "retweets": 89
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-15T05:09:27.719737+00:00",
+    "js_take": {
+      "en-US": "Chrome adding MCP isn't the browser getting smarter. It's the surface world surrendering to the inner world—browser becomes database, agent becomes interface.",
+      "zh-CN": "Chrome接入MCP不是浏览器变聪明了，是表世界向里世界投降——浏览器退化成数据库，Agent成为新界面。"
+    }
+  },
+  {
     "id": "2032897113101631987",
     "date": "2026-03-15",
     "author": "@omarsar0",
