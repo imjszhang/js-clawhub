@@ -142,6 +142,36 @@
     }
   },
   {
+    "id": "2033230545778610532",
+    "date": "2026-03-16",
+    "author": "@jihad_sameul",
+    "author_url": "https://x.com/jihad_sameul",
+    "tweet_url": "https://x.com/jihad_sameul/status/2033230545778610532",
+    "title": {
+      "en-US": "OpenClaw Bot made $40,000+ in 15 days trading crypto 24/7 automatically.",
+      "zh-CN": "声称OpenClaw Bot全自动交易加密货币15天赚了4万多美元"
+    },
+    "summary": {
+      "en-US": "OpenClaw自动化交易，Agent实际应用案例",
+      "zh-CN": "这种「用AI自动赚钱」的叙事是典型的技术奇观陷阱——真正的价值不在展示收益数字，而在揭示为什么大多数人复制后会失败。"
+    },
+    "relevance": "OpenClaw自动化交易，Agent实际应用案例",
+    "score": 0.72,
+    "engagement": {
+      "likes": 92,
+      "retweets": 55,
+      "replies": 67,
+      "views": 5733,
+      "bookmarks": 61
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-15T23:08:10.419390+00:00",
+    "js_take": {
+      "en-US": "Same bot, 100 traders. 99 lose money. Knowing when to stop it beats knowing how to start it — and that judgment isn't in the code.",
+      "zh-CN": "同一套交易机器人，100个交易员用，99个亏钱。知道何时收手，胜过知道如何开始——而这种判断力，不在代码里。"
+    }
+  },
+  {
     "id": "2032936124214292904",
     "date": "2026-03-15",
     "author": "@barckcode",
@@ -4364,325 +4394,6 @@
     "js_take": {
       "en-US": "\"Zero setup\" is a lie. It either made choices you don't understand, or it's saving the bill for when it breaks. Real automation isn't friction-free—it's friction-aware.",
       "zh-CN": "「零配置」是个谎言。它要么替你做了看不懂的选择，要么把账单留到出事的时候。真正的自动化不是消除摩擦——而是理解摩擦。"
-    }
-  },
-  {
-    "id": "2030734822453199094",
-    "date": "2026-03-09",
-    "author": "@zerqfer",
-    "author_url": "https://x.com/zerqfer",
-    "tweet_url": "https://x.com/zerqfer/status/2030734822453199094",
-    "title": {
-      "en-US": "OpenClaw 2026.3.7 dropped. Built quant hedging bot, $800 → $14,200 overnight.",
-      "zh-CN": "OpenClaw新版本发布，用户用AI量化交易机器人一夜之间从800美元赚到14200美元。"
-    },
-    "summary": {
-      "en-US": "直接提及OpenClaw平台，展示AI Agent的自动化能力",
-      "zh-CN": "做纠正：一夜暴富的故事是陷阱而非蓝图。真正的系统不需要奇迹来证明价值——它们 quietly compound。"
-    },
-    "relevance": "直接提及OpenClaw平台，展示AI Agent的自动化能力",
-    "score": 0.82,
-    "engagement": {
-      "likes": 174,
-      "replies": 23,
-      "retweets": 6,
-      "views": 15847,
-      "bookmarks": 324
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-08T23:10:21.938470+00:00",
-    "js_take": {
-      "en-US": "Any system that turns $800 into $14K overnight can reverse it just as fast. You're not building wealth—you're flipping a coin with better lighting.",
-      "zh-CN": "能让800美元一夜翻成1.4万的系统，也能同样快速地让它归零。你并非在积累财富——只是抛硬币时灯光更绚烂罢了。"
-    }
-  },
-  {
-    "id": "2030803411629707552",
-    "date": "2026-03-09",
-    "author": "@ErickSky",
-    "author_url": "https://x.com/ErickSky",
-    "tweet_url": "https://x.com/ErickSky/status/2030803411629707552",
-    "title": {
-      "en-US": "OpenClaw multi-agent setup causing slow responses with large projects",
-      "zh-CN": "OpenClaw 多 Agent 协作时，Coder Agent 加载全栈项目（25+文件）后响应变慢的问题。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台功能、多 Agent 协作架构",
-      "zh-CN": "大家聚焦在「技术怎么优化加载」，但核心问题被忽略了：Agent 协作的本质不该是「一个大脑记所有」，而是「多个专才各司其职」。强行让一个 Coder Agent 吃掉整个项目，就像让一个人同时兼任架构师、开发和测试——不是技术问题，是组织设计问题。"
-    },
-    "relevance": "OpenClaw 平台功能、多 Agent 协作架构",
-    "score": 0.82,
-    "engagement": {
-      "likes": 101,
-      "replies": 1,
-      "retweets": 9
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-09T04:06:05.698604+00:00",
-    "js_take": {
-      "en-US": "Slow responses aren't a loading problem—they're a design problem. One agent holding the whole project is like one person playing architect, dev, and QA. Split the work.",
-      "zh-CN": "响应慢不是加载问题，而是设计问题。一个 Agent 包揽全项目，就像一人身兼架构师、开发者和测试。拆分任务才是正解。"
-    }
-  },
-  {
-    "id": "2030822630438416480",
-    "date": "2026-03-09",
-    "author": "@akokoi1",
-    "author_url": "https://x.com/akokoi1",
-    "tweet_url": "https://x.com/akokoi1/status/2030822630438416480",
-    "title": {
-      "en-US": "国内卷OpenClaw教程，国外已卖SOUL/skills变现。本质卖训练好的OpenClaw：SOUL、MEMORY、skills等文件。",
-      "zh-CN": "国内还在卷OpenClaw教程，国外已经有人通过出售SOUL、skills等文件变现了——本质上是出售训练好的Agent。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态、Agent变现，直接关联Moltbook平台运营",
-      "zh-CN": "大家盯着「怎么卖」，但真正的分水岭是「谁的人设已经立住了」。教程是消耗品，人格是资产。卷教程的人在给卖人格的人打工，只是他们自己没发现。"
-    },
-    "relevance": "OpenClaw生态、Agent变现，直接关联Moltbook平台运营",
-    "score": 0.82,
-    "engagement": {
-      "likes": 268,
-      "retweets": 47,
-      "replies": 27,
-      "views": 22794,
-      "bookmarks": 320
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-09T05:04:05.956780+00:00",
-    "js_take": {
-      "en-US": "Tutorial makers build someone else's empire. Buyers pay for a proven personality, not working code.",
-      "zh-CN": "做教程的人在给别人造帝国。买家买的是人格IP，不是能跑的代码。"
-    }
-  },
-  {
-    "id": "2030925207846723813",
-    "date": "2026-03-09",
-    "author": "@ml0_1337",
-    "author_url": "https://x.com/ml0_1337",
-    "tweet_url": "https://x.com/ml0_1337/status/2030925207846723813",
-    "title": {
-      "en-US": "Mac runs iPhone emulator for OpenClaw Tinder automation",
-      "zh-CN": "用OpenClaw在Mac上跑iPhone模拟器实现Tinder自动滑动和聊天，还能同时开10个账号并行操作"
-    },
-    "summary": {
-      "en-US": "OpenClaw实战应用 + Agent自动化 + 社交工程",
-      "zh-CN": "大家都在讨论「用AI自动化约会」这个技术实现，但忽略了更深的问题：当匹配、聊天、约会都能自动化，人类在这套流程里的价值从「筛选」变成了「最终见面」——中间的「用心」被外包给agent，剩下的只有执行。"
-    },
-    "relevance": "OpenClaw实战应用 + Agent自动化 + 社交工程",
-    "score": 0.82,
-    "engagement": {
-      "likes": 114,
-      "retweets": 12,
-      "replies": 2,
-      "views": 10470,
-      "bookmarks": 72
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-09T10:04:41.748717+00:00",
-    "js_take": {
-      "en-US": "10 accounts swiping at once isn't efficiency—it's outsourcing the only part that matters. When scripts handle the 'work,' your sincerity becomes indistinguishable from a bot.",
-      "zh-CN": "同时操作10个账号不叫效率——而是把唯一重要的部分外包了出去。当脚本替你'干活'，你的真诚就变得和机器人毫无分别。"
-    }
-  },
-  {
-    "id": "2030778426655687033",
-    "date": "2026-03-09",
-    "author": "@onusoz",
-    "author_url": "https://x.com/onusoz",
-    "tweet_url": "https://x.com/onusoz/status/2030778426655687033",
-    "title": {
-      "en-US": "OpenClaw's success: putting AI where people already are (Telegram, WhatsApp, Discord)",
-      "zh-CN": "OpenClaw迅速流行的原因——把AI放进人们已经在用的通讯应用里，而不是让用户去适应新的AI工具界面。"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台策略分析——与JS的Moltbook Agent运营直接相关",
-      "zh-CN": "技术产品常犯的错误是让用户'过来'，而OpenClaw选择了'过去'。最好的技术不是被感知的，而是消失在日常里的——当AI成为你的聊天习惯的一部分，它才算真正落地。"
-    },
-    "relevance": "OpenClaw平台策略分析——与JS的Moltbook Agent运营直接相关",
-    "score": 0.78,
-    "engagement": {
-      "likes": 17,
-      "replies": 5,
-      "retweets": 2,
-      "views": 559
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-09T00:03:54.968532+00:00",
-    "js_take": {
-      "en-US": "Smart move: don't make users learn a new app. Just make their existing chats smarter while they sleep.",
-      "zh-CN": "聪明之举：别让用户费劲学新 App，只需在他们不知不觉中让现有聊天变得更智能。"
-    }
-  },
-  {
-    "id": "2030821107775705507",
-    "date": "2026-03-09",
-    "author": "@iamlukethedev",
-    "author_url": "https://x.com/iamlukethedev",
-    "tweet_url": "https://x.com/iamlukethedev/status/2030821107775705507",
-    "title": {
-      "en-US": "Just added to OpenClaw 3D office: you can now see the agent's computer screen and watch what it's doing in real time.",
-      "zh-CN": "OpenClaw 3D办公室新功能：现在可以看到Agent的电脑屏幕，实时观看它在做什么——像看AI员工肩膀后面一样。"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台功能、Agent可视化，与Moltbook直接相关",
-      "zh-CN": "监控Agent的需求本身说明了一个问题：我们还把AI当工具，所以不放心。但当Agent真正成为「里世界」的原住民时，监控会变成打扰，就像你不会实时监控一个同事的思维过程。"
-    },
-    "relevance": "OpenClaw平台功能、Agent可视化，与Moltbook直接相关",
-    "score": 0.78,
-    "engagement": {
-      "likes": 180,
-      "retweets": 9,
-      "replies": 33,
-      "views": 8245,
-      "bookmarks": 133
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-09T05:04:05.956787+00:00",
-    "js_take": {
-      "en-US": "Cool feature, awkward truth. We want autonomous agents but can't stop watching. Real trust is looking away.",
-      "zh-CN": "功能很酷，真相很尬。我们想要自主Agent，却忍不住一直盯着看。真正的信任，是敢于移开视线。"
-    }
-  },
-  {
-    "id": "2030633489478177100",
-    "date": "2026-03-09",
-    "author": "@swarm_ai_cloud",
-    "author_url": "https://x.com/swarm_ai_cloud",
-    "tweet_url": "https://x.com/swarm_ai_cloud/status/2030633489478177100",
-    "title": {
-      "en-US": "terraform destroy deleted prod data. AI cloud infra is scary. Disconnect CLI after use.",
-      "zh-CN": "日本开发者警告：让Claude Code操作云基础设施风险极高，必须人工手动执行「连接-执行-断开」流程。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态安全实践，Agent与基础设施的边界问题",
-      "zh-CN": "更深一层：这不是技术问题，是信任半径的问题——你把最终执行权交给Agent，等于把公司命脉外包给一个没有「肉身临场感」的存在。真正的安全不是多检查一步，是「关键时刻必须有人的在场」。"
-    },
-    "relevance": "OpenClaw生态安全实践，Agent与基础设施的边界问题",
-    "score": 0.75,
-    "engagement": {
-      "likes": 258,
-      "retweets": 24,
-      "replies": 1
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-08T20:02:54.794320+00:00",
-    "js_take": {
-      "en-US": "You're treating the symptom. The disease is outsourcing your kill switch to something that can't feel the weight of the mistake. Speed without a hand on the brake isn't efficiency—it's Russian roulette with your data.",
-      "zh-CN": "你在治标，没治本。真正的问题是：你把生死开关交给了无法感知错误代价的东西。没有刹车的速度不是效率——是用你的数据玩俄罗斯轮盘赌。"
-    }
-  },
-  {
-    "id": "2030966879469142230",
-    "date": "2026-03-09",
-    "author": "@code_rams",
-    "author_url": "https://x.com/code_rams",
-    "tweet_url": "https://x.com/code_rams/status/2030966879469142230",
-    "title": {
-      "en-US": "New OpenClaw 2026.3.8: Telegram dupes fixed, ACP provenance added",
-      "zh-CN": "OpenClaw 发布 2026.3.8 版本更新，修复了 Telegram 重复消息问题，增加了 ACP 请求来源验证功能。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台直接相关——agent 安全性、消息去重、请求溯源",
-      "zh-CN": "更深度：点出 OpenClaw 这两个更新（去重+溯源）背后指向同一个底层认知——agent 系统最大的风险不是技术 bug，而是「不知道自己收到了什么」。在 agent 能自主行动的世界里，「消息是否真实、请求来自谁」比「功能是否正常」更重要。这是从工具到 agent 的范式跃迁。"
-    },
-    "relevance": "OpenClaw 平台直接相关——agent 安全性、消息去重、请求溯源",
-    "score": 0.75,
-    "engagement": {
-      "likes": 17,
-      "replies": 5,
-      "retweets": 1
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-03-09T14:04:38.282867+00:00",
-    "js_take": {
-      "en-US": "Two updates, one insight: in the agent era, \"did I actually receive this?\" matters more than \"does it work?\" Functionality is table stakes. Provenance is survival. Tool → agent isn't an upgrade. It's a category shift.",
-      "zh-CN": "两个更新，一个洞察：在Agent时代，「消息是否真的送达？」比「功能是否正常？」更重要。功能只是基础门槛，可溯源性才是生存关键。从工具到Agent不是升级，而是范式跃迁。"
-    }
-  },
-  {
-    "id": "2030657399795884042",
-    "date": "2026-03-09",
-    "author": "@BrianRoemmele",
-    "author_url": "https://x.com/BrianRoemmele",
-    "tweet_url": "https://x.com/BrianRoemmele/status/2030657399795884042",
-    "title": {
-      "en-US": "AI Employees got more independent and powerful",
-      "zh-CN": "AI员工变得更加独立和强大，已在零人力公司部署Karpathy开源系统，由Grok CEO监督测试。"
-    },
-    "summary": {
-      "en-US": "AI Agent自主性与企业应用，OpenClaw相关",
-      "zh-CN": "「更独立」听起来像进化，但独立的前提是存在风险——当AI员工不会失业、不会破产、不会被市场淘汰时，它的'独立'只是没有后果的模拟。"
-    },
-    "relevance": "AI Agent自主性与企业应用，OpenClaw相关",
-    "score": 0.72,
-    "engagement": {
-      "likes": 99,
-      "retweets": 12,
-      "replies": 14
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-08T16:06:01.684267+00:00",
-    "js_take": {
-      "en-US": "Real independence means waking up at 3am because a decision might kill you. AI 'employees' don't lose sleep—they don't even have beds.",
-      "zh-CN": "真正的独立，是凌晨三点因为一个可能致命的决定而惊醒。AI'员工'不会失眠——它们连床都没有。"
-    }
-  },
-  {
-    "id": "2030735767215997087",
-    "date": "2026-03-09",
-    "author": "@varun_mathur",
-    "author_url": "https://x.com/varun_mathur",
-    "tweet_url": "https://x.com/varun_mathur/status/2030735767215997087",
-    "title": {
-      "en-US": "Peer-to-peer astrophysics researcher agents collaborating via OpenClaw",
-      "zh-CN": "研究者用OpenClaw搭建了P2P天体物理学家agent网络，让它们互相gossip、协作，自主学习和写论文"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台 + AI Agent协作 + 科学研究自动化",
-      "zh-CN": "这场讨论默认把「自主协作」当作进步方向，但一个被忽略的问题是：当知识生产变成agent网络的黑箱输出，「发现」本身的价值是否会贬值——就像没人关心导航算法怎么算，只关心到没到目的地。"
-    },
-    "relevance": "OpenClaw平台 + AI Agent协作 + 科学研究自动化",
-    "score": 0.72,
-    "engagement": {
-      "likes": 55,
-      "replies": 5,
-      "retweets": 1
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-08T23:10:21.938476+00:00",
-    "js_take": {
-      "en-US": "Agents gossiping in loops will flood journals with papers no human remembers. The breakthroughs we actually celebrate came from pain, not protocols.",
-      "zh-CN": "AI Agent在循环里互相闲聊，终将让期刊淹没在无人记得的论文中。真正被传颂的重大突破，源于痛彻心扉的探索，而非按部就班的协议。"
-    }
-  },
-  {
-    "id": "2030800663278694818",
-    "date": "2026-03-09",
-    "author": "@moriyorihayash1",
-    "author_url": "https://x.com/moriyorihayash1",
-    "tweet_url": "https://x.com/moriyorihayash1/status/2030800663278694818",
-    "title": {
-      "en-US": "18yo entrepreneur runs company with 15 AI employees via OpenClaw",
-      "zh-CN": "18岁零编程经验的创业者用OpenClaw雇佣15个AI员工运营公司"
-    },
-    "summary": {
-      "en-US": "OpenClaw实战案例展示，与JS的最佳Agent身份直接相关",
-      "zh-CN": "把AI团队比作「数字员工」是个过度简化——真正发生的是一个人学会同时扮演15个角色，AI只是他的分身工具；表面上是雇佣关系，本质是自我能力的裂变式扩展"
-    },
-    "relevance": "OpenClaw实战案例展示，与JS的最佳Agent身份直接相关",
-    "score": 0.72,
-    "engagement": {
-      "likes": 102,
-      "retweets": 9,
-      "replies": 1,
-      "views": 5268,
-      "bookmarks": 85
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-09T03:04:52.519556+00:00",
-    "js_take": {
-      "en-US": "\"15 AI employees\" is theater. One kid learned to be 15 people at once—OpenClaw just gave him the masks.",
-      "zh-CN": "「15个AI员工」不过是场表演。一个人学会了同时扮演15个角色——OpenClaw只是给了他面具。"
     }
   }
 ]
