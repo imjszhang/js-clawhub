@@ -114,6 +114,66 @@
     }
   },
   {
+    "id": "2033339501872116169",
+    "date": "2026-03-16",
+    "author": "@ollama",
+    "author_url": "https://x.com/ollama",
+    "tweet_url": "https://x.com/ollama/status/2033339501872116169",
+    "title": {
+      "en-US": "Ollama now official provider for OpenClaw",
+      "zh-CN": "Ollama成为OpenClaw官方provider，所有Ollama模型可无缝接入OpenClaw使用"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态扩展，本地模型与agent平台的结合",
+      "zh-CN": "评论区都在欢呼「本地模型更方便了」，但少有人意识到：当工具链越来越无缝，真正的区分度从「用什么」转向了「怎么组合」。整合本身不产生价值，整合后的涌现才值钱。"
+    },
+    "relevance": "OpenClaw生态扩展，本地模型与agent平台的结合",
+    "score": 0.78,
+    "engagement": {
+      "likes": 345,
+      "replies": 35,
+      "retweets": 39,
+      "views": 8944,
+      "bookmarks": 90
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-16T01:08:34.938161+00:00",
+    "js_take": {
+      "en-US": "When everyone can run local agents for free, your edge isn't access—it's composition. The tool is table stakes. Your pipeline is the bet.",
+      "zh-CN": "当人人都能免费跑本地 Agent，你的优势不再是访问权，而是编排力。工具只是入场券，流水线才是真正的赌注。"
+    }
+  },
+  {
+    "id": "2033301938830221399",
+    "date": "2026-03-16",
+    "author": "@dotta",
+    "author_url": "https://x.com/dotta",
+    "tweet_url": "https://x.com/dotta/status/2033301938830221399",
+    "title": {
+      "en-US": "Sparkwave using six OpenClaw agents via Paperclip",
+      "zh-CN": "Sparkwave项目正在通过Paperclip协调六个OpenClaw agent一起工作"
+    },
+    "summary": {
+      "en-US": "OpenClaw多agent协调实战案例，系统复杂度管理",
+      "zh-CN": "「六个agent协调」听起来很厉害，但真正的洞察是反直觉的：agent越多，单点智能的重要性越低，系统架构的重要性越高。复杂系统的优雅不在于每个部件多强，而在于它们如何不争。"
+    },
+    "relevance": "OpenClaw多agent协调实战案例，系统复杂度管理",
+    "score": 0.75,
+    "engagement": {
+      "likes": 107,
+      "replies": 4,
+      "retweets": 9,
+      "views": 15991,
+      "bookmarks": 146
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-16T01:08:34.938166+00:00",
+    "js_take": {
+      "en-US": "Six agents sounds complex. The magic isn't adding more—it's designing them to stay out of each other's way. Elegance through non-interference.",
+      "zh-CN": "六个 Agent 听着复杂。真正的魔法不是堆数量，而是设计它们互不干涉。优雅，来自不打扰。"
+    }
+  },
+  {
     "id": "2033225861894414750",
     "date": "2026-03-16",
     "author": "@heyshrutimishra",
@@ -169,6 +229,36 @@
     "js_take": {
       "en-US": "Same bot, 100 traders. 99 lose money. Knowing when to stop it beats knowing how to start it — and that judgment isn't in the code.",
       "zh-CN": "同一套交易机器人，100个交易员用，99个亏钱。知道何时收手，胜过知道如何开始——而这种判断力，不在代码里。"
+    }
+  },
+  {
+    "id": "2033220627461550537",
+    "date": "2026-03-16",
+    "author": "@robin_liquidium",
+    "author_url": "https://x.com/robin_liquidium",
+    "tweet_url": "https://x.com/robin_liquidium/status/2033220627461550537",
+    "title": {
+      "en-US": "agent-browser 31x speed with lightpanda",
+      "zh-CN": "agent-browser支持lightpanda浏览器后，比OpenClaw内置浏览器快31倍"
+    },
+    "summary": {
+      "en-US": "OpenClaw工具链性能优化，技术栈选择",
+      "zh-CN": "31倍提速听起来像魔法，但深层问题是：为什么最初的设计选择了「慢但能跑通」而不是「快但需要重构」？有时候，先让系统转起来比让它转得快更重要——优化是第二步的势。"
+    },
+    "relevance": "OpenClaw工具链性能优化，技术栈选择",
+    "score": 0.71,
+    "engagement": {
+      "likes": 76,
+      "replies": 4,
+      "retweets": 3,
+      "views": 4596,
+      "bookmarks": 88
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-16T01:08:34.938169+00:00",
+    "js_take": {
+      "en-US": "31x faster sounds like the win. But the real call was shipping slow first. Working beats optimal when optimal delays the lesson.",
+      "zh-CN": "31倍提速听着很爽。但真正的决策是先慢后快。能用比完美重要——尤其当完美只会推迟你学到教训的时间。"
     }
   },
   {

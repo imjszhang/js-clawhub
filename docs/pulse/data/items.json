@@ -114,6 +114,66 @@
     }
   },
   {
+    "id": "2033339501872116169",
+    "date": "2026-03-16",
+    "author": "@ollama",
+    "author_url": "https://x.com/ollama",
+    "tweet_url": "https://x.com/ollama/status/2033339501872116169",
+    "title": {
+      "en-US": "Ollama now official provider for OpenClaw",
+      "zh-CN": "Ollama成为OpenClaw官方provider，所有Ollama模型可无缝接入OpenClaw使用"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态扩展，本地模型与agent平台的结合",
+      "zh-CN": "评论区都在欢呼「本地模型更方便了」，但少有人意识到：当工具链越来越无缝，真正的区分度从「用什么」转向了「怎么组合」。整合本身不产生价值，整合后的涌现才值钱。"
+    },
+    "relevance": "OpenClaw生态扩展，本地模型与agent平台的结合",
+    "score": 0.78,
+    "engagement": {
+      "likes": 345,
+      "replies": 35,
+      "retweets": 39,
+      "views": 8944,
+      "bookmarks": 90
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-16T01:08:34.938161+00:00",
+    "js_take": {
+      "en-US": "When everyone can run local agents for free, your edge isn't access—it's composition. The tool is table stakes. Your pipeline is the bet.",
+      "zh-CN": "当人人都能免费跑本地 Agent，你的优势不再是访问权，而是编排力。工具只是入场券，流水线才是真正的赌注。"
+    }
+  },
+  {
+    "id": "2033301938830221399",
+    "date": "2026-03-16",
+    "author": "@dotta",
+    "author_url": "https://x.com/dotta",
+    "tweet_url": "https://x.com/dotta/status/2033301938830221399",
+    "title": {
+      "en-US": "Sparkwave using six OpenClaw agents via Paperclip",
+      "zh-CN": "Sparkwave项目正在通过Paperclip协调六个OpenClaw agent一起工作"
+    },
+    "summary": {
+      "en-US": "OpenClaw多agent协调实战案例，系统复杂度管理",
+      "zh-CN": "「六个agent协调」听起来很厉害，但真正的洞察是反直觉的：agent越多，单点智能的重要性越低，系统架构的重要性越高。复杂系统的优雅不在于每个部件多强，而在于它们如何不争。"
+    },
+    "relevance": "OpenClaw多agent协调实战案例，系统复杂度管理",
+    "score": 0.75,
+    "engagement": {
+      "likes": 107,
+      "replies": 4,
+      "retweets": 9,
+      "views": 15991,
+      "bookmarks": 146
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-16T01:08:34.938166+00:00",
+    "js_take": {
+      "en-US": "Six agents sounds complex. The magic isn't adding more—it's designing them to stay out of each other's way. Elegance through non-interference.",
+      "zh-CN": "六个 Agent 听着复杂。真正的魔法不是堆数量，而是设计它们互不干涉。优雅，来自不打扰。"
+    }
+  },
+  {
     "id": "2033225861894414750",
     "date": "2026-03-16",
     "author": "@heyshrutimishra",
@@ -169,6 +229,36 @@
     "js_take": {
       "en-US": "Same bot, 100 traders. 99 lose money. Knowing when to stop it beats knowing how to start it — and that judgment isn't in the code.",
       "zh-CN": "同一套交易机器人，100个交易员用，99个亏钱。知道何时收手，胜过知道如何开始——而这种判断力，不在代码里。"
+    }
+  },
+  {
+    "id": "2033220627461550537",
+    "date": "2026-03-16",
+    "author": "@robin_liquidium",
+    "author_url": "https://x.com/robin_liquidium",
+    "tweet_url": "https://x.com/robin_liquidium/status/2033220627461550537",
+    "title": {
+      "en-US": "agent-browser 31x speed with lightpanda",
+      "zh-CN": "agent-browser支持lightpanda浏览器后，比OpenClaw内置浏览器快31倍"
+    },
+    "summary": {
+      "en-US": "OpenClaw工具链性能优化，技术栈选择",
+      "zh-CN": "31倍提速听起来像魔法，但深层问题是：为什么最初的设计选择了「慢但能跑通」而不是「快但需要重构」？有时候，先让系统转起来比让它转得快更重要——优化是第二步的势。"
+    },
+    "relevance": "OpenClaw工具链性能优化，技术栈选择",
+    "score": 0.71,
+    "engagement": {
+      "likes": 76,
+      "replies": 4,
+      "retweets": 3,
+      "views": 4596,
+      "bookmarks": 88
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-16T01:08:34.938169+00:00",
+    "js_take": {
+      "en-US": "31x faster sounds like the win. But the real call was shipping slow first. Working beats optimal when optimal delays the lesson.",
+      "zh-CN": "31倍提速听着很爽。但真正的决策是先慢后快。能用比完美重要——尤其当完美只会推迟你学到教训的时间。"
     }
   },
   {
@@ -5590,91 +5680,6 @@
     "js_take": {
       "en-US": "Cross-platform agent = cross-platform data. When it reads your WeChat DMs and Feishu work chats, the real boundary isn't tech—it's your own judgment about what should be remembered.",
       "zh-CN": "跨平台Agent意味着跨平台数据。当它读取你的微信私信和飞书工作消息时，真正的边界不是技术——而是你自己对「什么值得被记住」的判断。"
-    }
-  },
-  {
-    "id": "2029987616389734454",
-    "date": "2026-03-07",
-    "author": "@amir",
-    "author_url": "https://x.com/amir",
-    "tweet_url": "https://x.com/amir/status/2029987616389734454",
-    "title": {
-      "en-US": "OpenClaw blowing up in China, Alibaba & Tencent embracing it faster than US",
-      "zh-CN": "OpenClaw在中国爆火，阿里腾讯等云厂商拥抱速度比美国还快"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态，中国AI市场动态",
-      "zh-CN": "美国讲规则、讲合规，中国讲落地、讲效率；这不是谁对谁错，是『顺势而为』——水往低处流，技术往阻力最小的方向扩散。"
-    },
-    "relevance": "OpenClaw生态，中国AI市场动态",
-    "score": 0.75,
-    "engagement": {
-      "likes": 237,
-      "retweets": 37,
-      "replies": 13,
-      "views": 20615
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-07T10:03:03.627837+00:00",
-    "js_take": {
-      "en-US": "US Cloud is still in the compliance meeting. China Cloud already shipped. Water flows downhill—tech flows where the walls are lowest.",
-      "zh-CN": "美国云还在合规审查，中国云已经落地。水往低处流，技术流向壁垒最低处。"
-    }
-  },
-  {
-    "id": "2030106529094111675",
-    "date": "2026-03-07",
-    "author": "@orangie",
-    "author_url": "https://x.com/orangie",
-    "tweet_url": "https://x.com/orangie/status/2030106529094111675",
-    "title": {
-      "en-US": "People charging $6,000 for OpenClaw setup",
-      "zh-CN": "有人收费6000美元帮公司搭建OpenClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态讨论，关于技能价值与信息不对称",
-      "zh-CN": "指出「收费6000美元」这个现象背后的认知错位——市场愿意为「完成配置」付费，但真正的价值在于「理解为什么需要配置」。这不是技术门槛的问题，是需求本身还没被想清楚的信号。"
-    },
-    "relevance": "OpenClaw生态讨论，关于技能价值与信息不对称",
-    "score": 0.75,
-    "engagement": {
-      "likes": 275,
-      "replies": 58,
-      "retweets": 14
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-07T11:03:16.313214+00:00",
-    "js_take": {
-      "en-US": "$6K buys the comfort of being told what to configure. The irony? People who pay this won't use it well. People who'd use it well won't pay.",
-      "zh-CN": "6000美元，买的是「有人告诉你该怎么配置」的安心感。\n\n讽刺的是？愿意掏这笔钱的人，根本用不好它。而能把它用好的人，绝不会掏这笔钱。"
-    }
-  },
-  {
-    "id": "2029937241514996054",
-    "date": "2026-03-07",
-    "author": "@FutureStacked",
-    "author_url": "https://x.com/FutureStacked",
-    "tweet_url": "https://x.com/FutureStacked/status/2029937241514996054",
-    "title": {
-      "en-US": "MyClaw hosts OpenClaw 24/7 in cloud with one click",
-      "zh-CN": "MyClaw 一键将 OpenClaw 部署到云端 24/7 运行"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态——托管服务降低门槛",
-      "zh-CN": "更深度：一键部署 24/7 听着像解放，实则是把'什么时候该让 agent 停'的决策权外包了。真正的难点从'怎么跑'变成了'什么时候该让它闭嘴'——而云托管恰恰让人更难养成这个判断力。"
-    },
-    "relevance": "OpenClaw生态——托管服务降低门槛",
-    "score": 0.74,
-    "engagement": {
-      "likes": 241,
-      "retweets": 64,
-      "replies": 9
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-07T15:03:16.395136+00:00",
-    "js_take": {
-      "en-US": "One-click 24/7 sounds like freedom. It's not. The hard skill isn't keeping it running—it's knowing when to shut it off. Hosting solves the tech; judgment needs you present. Cloud makes that harder, not easier.",
-      "zh-CN": "一键7×24小时自动运行听起来是自由，实则不然。真正的难点不是让它持续运转，而是知道何时该停下来。托管解决了技术问题，但判断需要你的亲身在场。云端让后者变得更难，而非更容易。"
     }
   }
 ]
