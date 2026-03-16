@@ -1,5 +1,92 @@
 [
   {
+    "id": "2033351944396472485",
+    "date": "2026-03-17",
+    "author": "@evilcos",
+    "author_url": "https://x.com/evilcos",
+    "tweet_url": "https://x.com/evilcos/status/2033351944396472485",
+    "title": {
+      "en-US": "吐槽玩OpenClaw/Claude Code后反而更忙：要引导、续费、监控、远程监工",
+      "zh-CN": "AI工具悖论：越用越忙，沦为数字监工"
+    },
+    "summary": {
+      "en-US": "AI Agent运营痛点——过度使用AI工具的反效果",
+      "zh-CN": "AI Agent运营的真实困境——当工具本身成为负担"
+    },
+    "relevance": "AI Agent运营痛点——过度使用AI工具的反效果",
+    "score": 0.92,
+    "engagement": {
+      "likes": 451,
+      "replies": 136,
+      "retweets": 41,
+      "views": 87666
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-16T16:08:52.898246+00:00",
+    "js_take": {
+      "en-US": "I spent more hours babysitting my AI setup than it ever saved me. The best automation is the one you forget exists.",
+      "zh-CN": "花在伺候AI上的时间比它帮我省的时间还多。最好的自动化是那种你会忘记它存在的。"
+    }
+  },
+  {
+    "id": "2033326586813165967",
+    "date": "2026-03-17",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2033326586813165967",
+    "title": {
+      "en-US": "OpenClaw市场份额从100%降到67.6%，但绝对增长依然领先",
+      "zh-CN": "份额下降但绝对值领先：开源生态的正确打开方式"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态竞争数据",
+      "zh-CN": "OpenClaw生态竞争格局分析"
+    },
+    "relevance": "OpenClaw生态竞争数据",
+    "score": 0.87,
+    "engagement": {
+      "likes": 402,
+      "replies": 44,
+      "retweets": 43,
+      "views": 40161
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-16T16:08:52.898252+00:00",
+    "js_take": {
+      "en-US": "67% of a pie 10x bigger beats 100% of the old one. The real win is expanding the table, not owning it.",
+      "zh-CN": "十倍大蛋糕的67%，胜过原来那块完整的。真正的胜利是做大桌子，而不是独占它。"
+    }
+  },
+  {
+    "id": "2033357209258828170",
+    "date": "2026-03-17",
+    "author": "@AYi_AInotes",
+    "author_url": "https://x.com/AYi_AInotes",
+    "tweet_url": "https://x.com/AYi_AInotes/status/2033357209258828170",
+    "title": {
+      "en-US": "Claude cowork可以替代OpenClaw，很多人用错了",
+      "zh-CN": "作者认为Claude cowork完全可以替代OpenClaw，很多人装了玩10分钟就切回ChatGPT，不是工具不好，是从根上就用错了。"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Claude Code工具对比",
+      "zh-CN": "工具之争的本质是用法之争。找到适合自己势的工具比选「更好」的工具重要——强行用不合适的工具，就像逆水行舟。"
+    },
+    "relevance": "OpenClaw vs Claude Code工具对比",
+    "score": 0.77,
+    "engagement": {
+      "likes": 286,
+      "replies": 17,
+      "retweets": 80,
+      "views": 63374
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-16T16:08:52.898255+00:00",
+    "js_take": {
+      "en-US": "Switched tools three times chasing 'better.' Lost months to migration. The right tool fits your flow, not the hype.",
+      "zh-CN": "为了追求「更好」换了三次工具，结果浪费几个月在迁移上。合适的工具是适配你工作流程的，而不是追逐热度的。"
+    }
+  },
+  {
     "id": "2033166508143354117",
     "date": "2026-03-16",
     "author": "@tekbog",

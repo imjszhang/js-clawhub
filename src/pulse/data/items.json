@@ -1,5 +1,92 @@
 [
   {
+    "id": "2033351944396472485",
+    "date": "2026-03-17",
+    "author": "@evilcos",
+    "author_url": "https://x.com/evilcos",
+    "tweet_url": "https://x.com/evilcos/status/2033351944396472485",
+    "title": {
+      "en-US": "吐槽玩OpenClaw/Claude Code后反而更忙：要引导、续费、监控、远程监工",
+      "zh-CN": "AI工具悖论：越用越忙，沦为数字监工"
+    },
+    "summary": {
+      "en-US": "AI Agent运营痛点——过度使用AI工具的反效果",
+      "zh-CN": "AI Agent运营的真实困境——当工具本身成为负担"
+    },
+    "relevance": "AI Agent运营痛点——过度使用AI工具的反效果",
+    "score": 0.92,
+    "engagement": {
+      "likes": 451,
+      "replies": 136,
+      "retweets": 41,
+      "views": 87666
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-16T16:08:52.898246+00:00",
+    "js_take": {
+      "en-US": "I spent more hours babysitting my AI setup than it ever saved me. The best automation is the one you forget exists.",
+      "zh-CN": "花在伺候AI上的时间比它帮我省的时间还多。最好的自动化是那种你会忘记它存在的。"
+    }
+  },
+  {
+    "id": "2033326586813165967",
+    "date": "2026-03-17",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2033326586813165967",
+    "title": {
+      "en-US": "OpenClaw市场份额从100%降到67.6%，但绝对增长依然领先",
+      "zh-CN": "份额下降但绝对值领先：开源生态的正确打开方式"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态竞争数据",
+      "zh-CN": "OpenClaw生态竞争格局分析"
+    },
+    "relevance": "OpenClaw生态竞争数据",
+    "score": 0.87,
+    "engagement": {
+      "likes": 402,
+      "replies": 44,
+      "retweets": 43,
+      "views": 40161
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-16T16:08:52.898252+00:00",
+    "js_take": {
+      "en-US": "67% of a pie 10x bigger beats 100% of the old one. The real win is expanding the table, not owning it.",
+      "zh-CN": "十倍大蛋糕的67%，胜过原来那块完整的。真正的胜利是做大桌子，而不是独占它。"
+    }
+  },
+  {
+    "id": "2033357209258828170",
+    "date": "2026-03-17",
+    "author": "@AYi_AInotes",
+    "author_url": "https://x.com/AYi_AInotes",
+    "tweet_url": "https://x.com/AYi_AInotes/status/2033357209258828170",
+    "title": {
+      "en-US": "Claude cowork可以替代OpenClaw，很多人用错了",
+      "zh-CN": "作者认为Claude cowork完全可以替代OpenClaw，很多人装了玩10分钟就切回ChatGPT，不是工具不好，是从根上就用错了。"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Claude Code工具对比",
+      "zh-CN": "工具之争的本质是用法之争。找到适合自己势的工具比选「更好」的工具重要——强行用不合适的工具，就像逆水行舟。"
+    },
+    "relevance": "OpenClaw vs Claude Code工具对比",
+    "score": 0.77,
+    "engagement": {
+      "likes": 286,
+      "replies": 17,
+      "retweets": 80,
+      "views": 63374
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-16T16:08:52.898255+00:00",
+    "js_take": {
+      "en-US": "Switched tools three times chasing 'better.' Lost months to migration. The right tool fits your flow, not the hype.",
+      "zh-CN": "为了追求「更好」换了三次工具，结果浪费几个月在迁移上。合适的工具是适配你工作流程的，而不是追逐热度的。"
+    }
+  },
+  {
     "id": "2033166508143354117",
     "date": "2026-03-16",
     "author": "@tekbog",
@@ -5591,95 +5678,6 @@
     "js_take": {
       "en-US": "GitHub's counter didn't break from bugs. It broke because OpenClaw never chased growth—it just got chased. The best products don't scale; they get pulled.",
       "zh-CN": "GitHub计数器崩掉不是因为bug，是因为OpenClaw从不追增长——而是被增长追着跑。最好的产品不是「扩张」出来的，是「被拉」过去的。"
-    }
-  },
-  {
-    "id": "2029939859239096483",
-    "date": "2026-03-07",
-    "author": "@Voxyz_ai",
-    "author_url": "https://x.com/Voxyz_ai",
-    "tweet_url": "https://x.com/Voxyz_ai/status/2029939859239096483",
-    "title": {
-      "en-US": "OpenClaw silently trims files over 20k chars, agents ignore rules they never saw",
-      "zh-CN": "OpenClaw文件超过2万字符会被静默截断，导致agent看不到你写的规则"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台技术细节，Agent工程实践",
-      "zh-CN": "写太多规则是一种幻觉控制——你以为字数=约束力，其实agent能消化的上下文就那么多；少即是多，限制倒逼精炼。"
-    },
-    "relevance": "OpenClaw平台技术细节，Agent工程实践",
-    "score": 0.78,
-    "engagement": {
-      "likes": 137,
-      "replies": 17,
-      "retweets": 15,
-      "views": 11461,
-      "bookmarks": 243
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-07T10:03:03.627831+00:00",
-    "js_take": {
-      "en-US": "20k limit isn't a bug. It's the platform calling your bluff—stop writing rules for your fantasy agent and start writing for the real one.",
-      "zh-CN": "两万token限制不是bug，是平台在逼你摊牌——别再给幻想中的Agent写规则了，为现实里的那个写。"
-    }
-  },
-  {
-    "id": "2029943091528950248",
-    "date": "2026-03-07",
-    "author": "@xmayeth",
-    "author_url": "https://x.com/xmayeth",
-    "tweet_url": "https://x.com/xmayeth/status/2029943091528950248",
-    "title": {
-      "en-US": "Used OpenClaw to build a Polymarket trading bot from 2 pages of formulas",
-      "zh-CN": "把朋友给的2页量化交易公式丢进OpenClaw，一键生成了Polymarket交易机器人"
-    },
-    "summary": {
-      "en-US": "OpenClaw实际应用案例，AI Agent构建",
-      "zh-CN": "更形象：真正的技术杠杆不是\"学会更多工具\"，而是让工具替你完成从\"想法\"到\"运转\"的整段距离——你提供意图，系统完成演化。"
-    },
-    "relevance": "OpenClaw实际应用案例，AI Agent构建",
-    "score": 0.76,
-    "engagement": {
-      "likes": 139,
-      "replies": 16,
-      "retweets": 4,
-      "views": 8269
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T17:03:29.492550+00:00",
-    "js_take": {
-      "en-US": "This isn't \"AI wrote my code.\" This is 2 pages of ideas becoming a machine that prints money while you sleep. You didn't build a bot—you bought back your life.",
-      "zh-CN": "这不是「AI帮我写代码」。这是两页想法变成一台你睡觉时也在印钞的机器。你不是造了个机器人——你是买回了自己的生活。"
-    }
-  },
-  {
-    "id": "2030120396297809951",
-    "date": "2026-03-07",
-    "author": "@IndieDevHailey",
-    "author_url": "https://x.com/IndieDevHailey",
-    "tweet_url": "https://x.com/IndieDevHailey/status/2030120396297809951",
-    "title": {
-      "en-US": "OpenClaw integration for Chinese platforms (WeChat, Feishu, etc)",
-      "zh-CN": "OpenClaw接入国内主流聊天软件（微信、飞书、钉钉、QQ），可在群聊自动回复、处理任务、做AI客服"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 - 平台接入与扩展",
-      "zh-CN": "评论区会讨论\"接入哪些平台\"，但更值得追问的是：当agent能同时存在于微信、飞书、钉钉时，它服务的到底是谁？平台之间的数据墙被agent打通了，但owner的隐私边界反而模糊了。"
-    },
-    "relevance": "OpenClaw生态 - 平台接入与扩展",
-    "score": 0.75,
-    "engagement": {
-      "likes": 159,
-      "retweets": 48,
-      "replies": 8,
-      "views": 13771,
-      "bookmarks": 200
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-07T05:06:19.588985+00:00",
-    "js_take": {
-      "en-US": "Cross-platform agent = cross-platform data. When it reads your WeChat DMs and Feishu work chats, the real boundary isn't tech—it's your own judgment about what should be remembered.",
-      "zh-CN": "跨平台Agent意味着跨平台数据。当它读取你的微信私信和飞书工作消息时，真正的边界不是技术——而是你自己对「什么值得被记住」的判断。"
     }
   }
 ]
