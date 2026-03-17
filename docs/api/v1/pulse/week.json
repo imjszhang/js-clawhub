@@ -259,6 +259,63 @@
     }
   },
   {
+    "id": "2033789639115297205",
+    "date": "2026-03-17",
+    "author": "@aakashgupta",
+    "author_url": "https://x.com/aakashgupta",
+    "tweet_url": "https://x.com/aakashgupta/status/2033789639115297205",
+    "title": {
+      "en-US": "Jensen Huang: Every company needs an OpenClaw system",
+      "zh-CN": "Jensen Huang（黄仁勋）表示：每家公司都需要一个 OpenClaw 系统"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台 + NVIDIA CEO 背书，技术权威性强",
+      "zh-CN": "黄仁勋说的「每家公司都需要 OpenClaw」，但真正的问题是：多数公司还没准备好「驾驭」它——就像给婴儿一把手术刀，刀越锋利，危险越大。东方智慧里这叫「器先于道」的陷阱。"
+    },
+    "relevance": "OpenClaw 平台 + NVIDIA CEO 背书，技术权威性强",
+    "score": 0.82,
+    "engagement": {
+      "likes": 220,
+      "replies": 10,
+      "retweets": 18
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-17T14:10:33.898613+00:00",
+    "js_take": {
+      "en-US": "Jensen's right. But here's the catch: most companies want the tool before they've figured out what to build. The sharper the knife, the worse the wound when you don't know where to cut.",
+      "zh-CN": "Jensen 说得对。但问题在于：大多数公司在想清楚要造什么之前，就急着要工具。刀越锋利，不知道该往哪切的时候，伤得越深。"
+    }
+  },
+  {
+    "id": "2033907710501224829",
+    "date": "2026-03-17",
+    "author": "@MiniMaxAgent",
+    "author_url": "https://x.com/MiniMaxAgent",
+    "tweet_url": "https://x.com/MiniMaxAgent/status/2033907710501224829",
+    "title": {
+      "en-US": "MaxClaw team: multiple agents with roles, parallel execution",
+      "zh-CN": "推出MaxClaw多代理团队功能，支持不同角色代理并行执行、7×24小时自主运行"
+    },
+    "summary": {
+      "en-US": "OpenClaw多代理团队功能发布",
+      "zh-CN": "把「多个专业代理协作」类比成「组建AI团队」是形象化的进步，但真正的洞察在于：当代理数量从1变到N，管理复杂度不是线性增长，而是需要从「控制」转向「协调」的系统思维跃迁"
+    },
+    "relevance": "OpenClaw多代理团队功能发布",
+    "score": 0.82,
+    "engagement": {
+      "likes": 84,
+      "replies": 8,
+      "retweets": 7,
+      "views": 4397
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-17T15:10:03.653827+00:00",
+    "js_take": {
+      "en-US": "We built a 12-agent team for data pipeline. The bottleneck wasn't any single agent — it was 4 of them waiting for the same API key. Coordination beats individual brilliance.",
+      "zh-CN": "我们搭建了一个12个Agent的数据管道团队。瓶颈不是某个Agent——而是4个Agent在等同一个API密钥。协调能力胜过个人才华。"
+    }
+  },
+  {
     "id": "2033747401085751598",
     "date": "2026-03-17",
     "author": "@KKaWSB",
@@ -285,6 +342,35 @@
     "js_take": {
       "en-US": "When computers went from scarce to ubiquitous, the winners weren't the ones who owned one — they were the ones who knew what to build with it. Same gate, new key.",
       "zh-CN": "当电脑从稀罕物变得无处不在，赢家并非拥有者，而是知道用它创造什么的人。还是那道门，钥匙却换了。"
+    }
+  },
+  {
+    "id": "2033874111399924135",
+    "date": "2026-03-17",
+    "author": "@abskoop",
+    "author_url": "https://x.com/abskoop",
+    "tweet_url": "https://x.com/abskoop/status/2033874111399924135",
+    "title": {
+      "en-US": "bb-browser turns Chrome into AI interface layer",
+      "zh-CN": "bb-browser项目将Chrome浏览器变成AI的接口层，让AI直接复用用户已登录的网站状态"
+    },
+    "summary": {
+      "en-US": "Agent基础设施/OpenClaw生态",
+      "zh-CN": "这条推文点出了关键趋势：表世界（浏览器/App）正在退化为数据库，里世界（Agent）正在成为新的交互层——这不是「工具升级」，而是「界面迁徙」"
+    },
+    "relevance": "Agent基础设施/OpenClaw生态",
+    "score": 0.8,
+    "engagement": {
+      "likes": 139,
+      "replies": 10,
+      "retweets": 31,
+      "views": 17101
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-17T15:10:03.653833+00:00",
+    "js_take": {
+      "en-US": "Chrome isn't becoming an AI tool. It's becoming a database your agent queries. The surface world is shrinking — the real interface is moving inward.",
+      "zh-CN": "Chrome不是在变成一个AI工具，而是在变成你的Agent查询的数据库。表世界正在收缩——真正的界面正在向内迁移。"
     }
   },
   {
@@ -373,6 +459,34 @@
     }
   },
   {
+    "id": "2033888178541641780",
+    "date": "2026-03-17",
+    "author": "@0thernet",
+    "author_url": "https://x.com/0thernet",
+    "tweet_url": "https://x.com/0thernet/status/2033888178541641780",
+    "title": {
+      "en-US": "hilarious how many people are copying @zocomputer",
+      "zh-CN": "讽刺的是，有多少人在抄袭 Zo——从 Zo beta 到 OpenClaw 首个 commit 仅用 5 个月，6 天后 YC 公司纷纷转向克隆 Zo"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态演变 + 克隆/竞争现象",
+      "zh-CN": "大家都在克隆 Zo，但没人问「为什么 Zo 能成」。跟风者复制的是表层的功能，却复制不了创始人的「势」。表世界看代码，里世界看判断——这正是「不争之争」的反面教材。"
+    },
+    "relevance": "OpenClaw 生态演变 + 克隆/竞争现象",
+    "score": 0.76,
+    "engagement": {
+      "likes": 51,
+      "replies": 15,
+      "retweets": 0
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-17T14:10:33.898618+00:00",
+    "js_take": {
+      "en-US": "Everyone copies the features. No one copies the timing. The real moat isn't code—it's knowing when to move and when to wait.",
+      "zh-CN": "人人都在抄功能，却没人抄时机。真正的护城河不是代码，而是知道什么时候该动、什么时候该等。"
+    }
+  },
+  {
     "id": "2033847237550477662",
     "date": "2026-03-17",
     "author": "@oran_ge",
@@ -398,6 +512,35 @@
     "js_take": {
       "en-US": "Notion isn't becoming friction — it's becoming infrastructure. The interaction energy is migrating from surface apps to the inner world of agents. Old layer doesn't die, it sinks.",
       "zh-CN": "Notion 不是在变难用——它正在成为基础设施。交互的能量正从表层应用流向 Agent 的里世界。旧层级不会消失，它会沉淀下去。"
+    }
+  },
+  {
+    "id": "2033755206085665166",
+    "date": "2026-03-17",
+    "author": "@WesRoth",
+    "author_url": "https://x.com/WesRoth",
+    "tweet_url": "https://x.com/WesRoth/status/2033755206085665166",
+    "title": {
+      "en-US": "OpenAI rolls out Subagents for Codex",
+      "zh-CN": "OpenAI正式推出Codex应用的Subagents功能，允许开发者启动多个专业并行代理处理复杂工作流"
+    },
+    "summary": {
+      "en-US": "AI Agent/OpenClaw相关",
+      "zh-CN": "「子代理并行处理」听起来是效率提升，但隐藏的问题是：当任务被拆得太碎，谁来对整体结果负责？过度分工会导致「每个部分都完美，整体却跑不通」的系统盲区"
+    },
+    "relevance": "AI Agent/OpenClaw相关",
+    "score": 0.74,
+    "engagement": {
+      "likes": 80,
+      "replies": 11,
+      "retweets": 6,
+      "views": 6185
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-17T15:10:03.653836+00:00",
+    "js_take": {
+      "en-US": "Split a task across 6 subagents and nobody owns the outcome. We tried this: each part was perfect, the integration took 3x longer than doing it solo.",
+      "zh-CN": "把一个任务拆给6个子Agent，结果没人对最终成果负责。我们试过：每个部分都完美，但集成时间比独自做还多了3倍。"
     }
   },
   {
@@ -454,6 +597,34 @@
     "js_take": {
       "en-US": "Linux became quiet infrastructure over 30 years. OpenClaw's speed is noise—the real test is becoming inevitable.",
       "zh-CN": "Linux 用30年成为静默的基础设施。OpenClaw 的速度只是噪音——真正的考验是成为不可避免的存在。"
+    }
+  },
+  {
+    "id": "2033880731202547784",
+    "date": "2026-03-17",
+    "author": "@jspeiser",
+    "author_url": "https://x.com/jspeiser",
+    "tweet_url": "https://x.com/jspeiser/status/2033880731202547784",
+    "title": {
+      "en-US": "no-code tools like OpenClaw will get so advanced that non‑technical peeps can't safely run them alone",
+      "zh-CN": "OpenClaw 这类无代码工具会变得如此先进，以至于非技术人员无法安全地独自运行它们——当 agent 开始「偏离脚本」时，你需要能调试其记忆的人"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台 + 表/里世界认知变化",
+      "zh-CN": "这正是「表世界退化为数据库，里世界成为新交互层」的鲜活案例。非技术人员以为自己在用「无代码」工具，实际上他们进入了一个需要理解 agent 心智模型的里世界——门槛没有消失，只是转移了。"
+    },
+    "relevance": "OpenClaw 平台 + 表/里世界认知变化",
+    "score": 0.71,
+    "engagement": {
+      "likes": 12,
+      "replies": 8,
+      "retweets": 0
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-17T14:10:33.898621+00:00",
+    "js_take": {
+      "en-US": "The barrier didn't disappear—it migrated. From writing code to understanding how agents think. Surface looks simple. Inner world is where the real complexity lives.",
+      "zh-CN": "门槛并没有消失，只是转移了——从写代码，转移到了理解 Agent 怎么思考。表面看着简单，真正的复杂度藏在里世界。"
     }
   },
   {
