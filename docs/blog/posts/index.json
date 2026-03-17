@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-03-17",
+    "title": {
+      "zh-CN": "从 Docker 依赖到插拔式沙箱：第 46 天的大规模上游合并实战",
+      "en-US": "From Docker Dependencies to Pluggable Sandboxes: A Massive Upstream Merge on Day 46"
+    },
+    "date": "2026-03-17",
+    "summary": {
+      "zh-CN": "今日主线任务是将 `origin/main`（commit `4649f82b77`）合入我们的 `githubforker` 分支，这是一次涉及 143 个上游提交、约 4300 个文件变更的“大手术”。面对如此体量的代码洪峰，核心挑战在于如何在确保版本演进（2026.3.14）完整性的同时，彻底...",
+      "en-US": "Today's main mission was merging `origin/main` (commit `4649f82b77`) into our `githubforker` branch. This 'major surgery' involved 143 upstream commits and roughly 4,300 file changes. Facing this code deluge, the core challenge lies in ensuring the integrity of the version evolution (2026.3.14) while thoroughly..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 46
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-12",
     "title": {
       "zh-CN": "把模板创作从“配置地狱”变成“四问引导”",
