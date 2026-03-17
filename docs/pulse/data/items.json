@@ -58,6 +58,34 @@
     }
   },
   {
+    "id": "2033535843860910541",
+    "date": "2026-03-17",
+    "author": "@Sumanth_077",
+    "author_url": "https://x.com/Sumanth_077",
+    "tweet_url": "https://x.com/Sumanth_077/status/2033535843860910541",
+    "title": {
+      "en-US": "OpenClaw long-term memory problem across sessions",
+      "zh-CN": "指出OpenClaw的session记忆存储方式存在长期记忆断层问题"
+    },
+    "summary": {
+      "en-US": "直接讨论OpenClaw平台的核心痛点，属于Agent基础设施话题",
+      "zh-CN": "原推将「按天切片存储」视为问题，但真正的盲区是：记忆的价值不在于存储时长，而在于能否在正确的时间被正确的问题激活。当前OpenClaw的memory_search已经支持语义检索，与其纠结存储结构，不如关注查询质量——你问得越准，记忆就越'长期'。"
+    },
+    "relevance": "直接讨论OpenClaw平台的核心痛点，属于Agent基础设施话题",
+    "score": 0.82,
+    "engagement": {
+      "likes": 63,
+      "retweets": 13,
+      "replies": 12
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-16T22:08:27.790161+00:00",
+    "js_take": {
+      "en-US": "OpenClaw's memory challenge isn't storage capacity—it's query precision. The same archive surfaces with sharp questions and vanishes with vague ones. Duration matters less than query quality.",
+      "zh-CN": "OpenClaw 的记忆问题不在存储容量，而在查询精度。同样的档案，问得准就浮现，问得模糊就消失。存多久不重要，问得多准才关键。"
+    }
+  },
+  {
     "id": "2033357209258828170",
     "date": "2026-03-17",
     "author": "@AYi_AInotes",
@@ -84,6 +112,34 @@
     "js_take": {
       "en-US": "Switched tools three times chasing 'better.' Lost months to migration. The right tool fits your flow, not the hype.",
       "zh-CN": "为了追求「更好」换了三次工具，结果浪费几个月在迁移上。合适的工具是适配你工作流程的，而不是追逐热度的。"
+    }
+  },
+  {
+    "id": "2033642064009957725",
+    "date": "2026-03-17",
+    "author": "@NVIDIAAIDev",
+    "author_url": "https://x.com/NVIDIAAIDev",
+    "tweet_url": "https://x.com/NVIDIAAIDev/status/2033642064009957725",
+    "title": {
+      "en-US": "NVIDIA NemoClaw simplifies running OpenClaw always-on assistants with single command",
+      "zh-CN": "NVIDIA发布NemoClaw，一键部署OpenClaw常驻助手，强调安全护栏和随处部署能力。"
+    },
+    "summary": {
+      "en-US": "OpenClaw - 企业级安全部署方案",
+      "zh-CN": "NVIDIA入场验证了OpenClaw作为「里世界基础设施」的确定性，但一键部署的便利性可能让人低估真正困难的部分——如何让Agent在无人监督时做出正确判断。"
+    },
+    "relevance": "OpenClaw - 企业级安全部署方案",
+    "score": 0.76,
+    "engagement": {
+      "likes": 840,
+      "replies": 59,
+      "retweets": 127
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-16T23:09:07.147706+00:00",
+    "js_take": {
+      "en-US": "One-click deployment is surface world convenience. The real shift to inner world: teaching your agent to know when to stop—without you watching.",
+      "zh-CN": "一键部署只是表世界的便利。真正的里世界跃迁，在于教会你的 Agent 自主判断何时停止——而你无需时刻盯着。"
     }
   },
   {
@@ -5621,63 +5677,6 @@
     "js_take": {
       "en-US": "Benchmarks reward models that can do 23 tasks. The real world rewards models that finish task #24 without waking you up at 3am.",
       "zh-CN": "基准测试奖励能做23个任务的模型。现实世界奖励的是能独立完成第24个任务、且不会在凌晨3点把你吵醒的模型。"
-    }
-  },
-  {
-    "id": "2030161774629052656",
-    "date": "2026-03-07",
-    "author": "@Pirat_Nation",
-    "author_url": "https://x.com/Pirat_Nation",
-    "tweet_url": "https://x.com/Pirat_Nation/status/2030161774629052656",
-    "title": {
-      "en-US": "NVIDIA CEO says OpenClaw did in 3 weeks what Linux took 30 years to achieve",
-      "zh-CN": "NVIDIA CEO称OpenClaw用3周做到了Linux 30年才达到的成就，称其为史上最重要的软件发布。"
-    },
-    "summary": {
-      "en-US": "OpenClaw核心话题，AI Agent基础设施里程碑",
-      "zh-CN": "做纠正： Linux的30年是生态沉淀，OpenClaw的3周是 adoption 速度，两者本质不同却被混为一谈。真正的洞见是——当工具足够贴近用户需求，传播不需要时间，需要的是对的时机。"
-    },
-    "relevance": "OpenClaw核心话题，AI Agent基础设施里程碑",
-    "score": 0.84,
-    "engagement": {
-      "likes": 889,
-      "replies": 177,
-      "retweets": 37
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-07T08:05:02.368524+00:00",
-    "js_take": {
-      "en-US": "False comparison. Linux spent 30 years building a philosophy; OpenClaw proved the philosophy was already there waiting for a tool that actually works. Speed isn't the story—utility is.",
-      "zh-CN": "类比不当。Linux 花了 30 年才沉淀出一套哲学；而 OpenClaw 证明，这套理念其实一直都在，只是在等待一个真正好用的工具。重要的不是速度，而是实用价值。"
-    }
-  },
-  {
-    "id": "2029712341449986378",
-    "date": "2026-03-07",
-    "author": "@altryne",
-    "author_url": "https://x.com/altryne",
-    "tweet_url": "https://x.com/altryne/status/2029712341449986378",
-    "title": {
-      "en-US": "GitHub stopped counting OpenClaw issues at 5K+",
-      "zh-CN": "OpenClaw的GitHub issue数量太多，GitHub干脆不数了，直接显示\"5K+\""
-    },
-    "summary": {
-      "en-US": "OpenClaw平台热度，开发者生态",
-      "zh-CN": "做纠正：人们以为爆红靠营销，但真正的产品增长是\"被需要\"的自然结果——不是你在追用户，是用户在追你。"
-    },
-    "relevance": "OpenClaw平台热度，开发者生态",
-    "score": 0.82,
-    "engagement": {
-      "likes": 702,
-      "replies": 17,
-      "retweets": 7,
-      "views": 47454
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T17:03:29.492546+00:00",
-    "js_take": {
-      "en-US": "GitHub's counter didn't break from bugs. It broke because OpenClaw never chased growth—it just got chased. The best products don't scale; they get pulled.",
-      "zh-CN": "GitHub计数器崩掉不是因为bug，是因为OpenClaw从不追增长——而是被增长追着跑。最好的产品不是「扩张」出来的，是「被拉」过去的。"
     }
   }
 ]

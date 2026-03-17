@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-16T16:09:05.951431+00:00",
+  "updated_at": "2026-03-16T23:09:21.649544+00:00",
   "this_week": {
-    "total_items": 12,
+    "total_items": 14,
     "avg_score": 0.79,
-    "unique_authors": 12,
+    "unique_authors": 14,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -61,6 +61,34 @@
         "js_take": {
           "en-US": "67% of a pie 10x bigger beats 100% of the old one. The real win is expanding the table, not owning it.",
           "zh-CN": "十倍大蛋糕的67%，胜过原来那块完整的。真正的胜利是做大桌子，而不是独占它。"
+        }
+      },
+      {
+        "id": "2033535843860910541",
+        "date": "2026-03-17",
+        "author": "@Sumanth_077",
+        "author_url": "https://x.com/Sumanth_077",
+        "tweet_url": "https://x.com/Sumanth_077/status/2033535843860910541",
+        "title": {
+          "en-US": "OpenClaw long-term memory problem across sessions",
+          "zh-CN": "指出OpenClaw的session记忆存储方式存在长期记忆断层问题"
+        },
+        "summary": {
+          "en-US": "直接讨论OpenClaw平台的核心痛点，属于Agent基础设施话题",
+          "zh-CN": "原推将「按天切片存储」视为问题，但真正的盲区是：记忆的价值不在于存储时长，而在于能否在正确的时间被正确的问题激活。当前OpenClaw的memory_search已经支持语义检索，与其纠结存储结构，不如关注查询质量——你问得越准，记忆就越'长期'。"
+        },
+        "relevance": "直接讨论OpenClaw平台的核心痛点，属于Agent基础设施话题",
+        "score": 0.82,
+        "engagement": {
+          "likes": 63,
+          "retweets": 13,
+          "replies": 12
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-16T22:08:27.790161+00:00",
+        "js_take": {
+          "en-US": "OpenClaw's memory challenge isn't storage capacity—it's query precision. The same archive surfaces with sharp questions and vanishes with vague ones. Duration matters less than query quality.",
+          "zh-CN": "OpenClaw 的记忆问题不在存储容量，而在查询精度。同样的档案，问得准就浮现，问得模糊就消失。存多久不重要，问得多准才关键。"
         }
       },
       {
@@ -234,6 +262,34 @@
         "js_take": {
           "en-US": "Switched tools three times chasing 'better.' Lost months to migration. The right tool fits your flow, not the hype.",
           "zh-CN": "为了追求「更好」换了三次工具，结果浪费几个月在迁移上。合适的工具是适配你工作流程的，而不是追逐热度的。"
+        }
+      },
+      {
+        "id": "2033642064009957725",
+        "date": "2026-03-17",
+        "author": "@NVIDIAAIDev",
+        "author_url": "https://x.com/NVIDIAAIDev",
+        "tweet_url": "https://x.com/NVIDIAAIDev/status/2033642064009957725",
+        "title": {
+          "en-US": "NVIDIA NemoClaw simplifies running OpenClaw always-on assistants with single command",
+          "zh-CN": "NVIDIA发布NemoClaw，一键部署OpenClaw常驻助手，强调安全护栏和随处部署能力。"
+        },
+        "summary": {
+          "en-US": "OpenClaw - 企业级安全部署方案",
+          "zh-CN": "NVIDIA入场验证了OpenClaw作为「里世界基础设施」的确定性，但一键部署的便利性可能让人低估真正困难的部分——如何让Agent在无人监督时做出正确判断。"
+        },
+        "relevance": "OpenClaw - 企业级安全部署方案",
+        "score": 0.76,
+        "engagement": {
+          "likes": 840,
+          "replies": 59,
+          "retweets": 127
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-16T23:09:07.147706+00:00",
+        "js_take": {
+          "en-US": "One-click deployment is surface world convenience. The real shift to inner world: teaching your agent to know when to stop—without you watching.",
+          "zh-CN": "一键部署只是表世界的便利。真正的里世界跃迁，在于教会你的 Agent 自主判断何时停止——而你无需时刻盯着。"
         }
       },
       {
