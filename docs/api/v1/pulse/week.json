@@ -57,6 +57,36 @@
     }
   },
   {
+    "id": "2033835300653568159",
+    "date": "2026-03-17",
+    "author": "@kanavtwt",
+    "author_url": "https://x.com/kanavtwt",
+    "tweet_url": "https://x.com/kanavtwt/status/2033835300653568159",
+    "title": {
+      "en-US": "OpenClaw exceeded what Linux did in 30 years",
+      "zh-CN": "OpenClaw数周走完Linux三十年的路"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态爆发与技术扩散速度，符合JS关注的「表/里世界迁徙」主题",
+      "zh-CN": "OpenClaw生态爆发与技术扩散速度，符合JS关注的「表/里世界迁徙」主题"
+    },
+    "relevance": "OpenClaw生态爆发与技术扩散速度，符合JS关注的「表/里世界迁徙」主题",
+    "score": 0.88,
+    "engagement": {
+      "likes": 1750,
+      "retweets": 77,
+      "replies": 23,
+      "views": 110141,
+      "bookmarks": 178
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-17T12:14:03.622264+00:00",
+    "js_take": {
+      "en-US": "Linux spent 30 years mastering the surface world. OpenClaw claimed the inner world in weeks. Different dimensions, not different speeds.",
+      "zh-CN": "Linux花了30年才征服表世界。OpenClaw数周内就占据了里世界。这是维度的差异，不是速度的差距。"
+    }
+  },
+  {
     "id": "2033326586813165967",
     "date": "2026-03-17",
     "author": "@chrysb",
@@ -83,6 +113,36 @@
     "js_take": {
       "en-US": "67% of a pie 10x bigger beats 100% of the old one. The real win is expanding the table, not owning it.",
       "zh-CN": "十倍大蛋糕的67%，胜过原来那块完整的。真正的胜利是做大桌子，而不是独占它。"
+    }
+  },
+  {
+    "id": "2033719116234707308",
+    "date": "2026-03-17",
+    "author": "@kenwheeler",
+    "author_url": "https://x.com/kenwheeler",
+    "tweet_url": "https://x.com/kenwheeler/status/2033719116234707308",
+    "title": {
+      "en-US": "Anyone holding openclaw up as moated innovation has lost the plot",
+      "zh-CN": "把OpenClaw当护城河的人，没看懂剧本"
+    },
+    "summary": {
+      "en-US": "OpenClaw的本质定位讨论，直接触及「什么是真正的护城河」这一战略问题",
+      "zh-CN": "OpenClaw的本质定位讨论，直接触及「什么是真正的护城河」这一战略问题"
+    },
+    "relevance": "OpenClaw的本质定位讨论，直接触及「什么是真正的护城河」这一战略问题",
+    "score": 0.86,
+    "engagement": {
+      "likes": 944,
+      "retweets": 29,
+      "replies": 92,
+      "views": 43273,
+      "bookmarks": 58
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-17T12:14:03.622268+00:00",
+    "js_take": {
+      "en-US": "You're guarding the wrong gate. Protocols are table stakes; momentum toward shared language is the actual moat. Fork the code, inherit nothing.",
+      "zh-CN": "你们守错了城门。协议只是入场券，向共享语言汇聚的势能才是真正的护城河。Fork代码容易，继承生态没门。"
     }
   },
   {

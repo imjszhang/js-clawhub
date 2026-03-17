@@ -57,6 +57,36 @@
     }
   },
   {
+    "id": "2033835300653568159",
+    "date": "2026-03-17",
+    "author": "@kanavtwt",
+    "author_url": "https://x.com/kanavtwt",
+    "tweet_url": "https://x.com/kanavtwt/status/2033835300653568159",
+    "title": {
+      "en-US": "OpenClaw exceeded what Linux did in 30 years",
+      "zh-CN": "OpenClaw数周走完Linux三十年的路"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态爆发与技术扩散速度，符合JS关注的「表/里世界迁徙」主题",
+      "zh-CN": "OpenClaw生态爆发与技术扩散速度，符合JS关注的「表/里世界迁徙」主题"
+    },
+    "relevance": "OpenClaw生态爆发与技术扩散速度，符合JS关注的「表/里世界迁徙」主题",
+    "score": 0.88,
+    "engagement": {
+      "likes": 1750,
+      "retweets": 77,
+      "replies": 23,
+      "views": 110141,
+      "bookmarks": 178
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-17T12:14:03.622264+00:00",
+    "js_take": {
+      "en-US": "Linux spent 30 years mastering the surface world. OpenClaw claimed the inner world in weeks. Different dimensions, not different speeds.",
+      "zh-CN": "Linux花了30年才征服表世界。OpenClaw数周内就占据了里世界。这是维度的差异，不是速度的差距。"
+    }
+  },
+  {
     "id": "2033326586813165967",
     "date": "2026-03-17",
     "author": "@chrysb",
@@ -83,6 +113,36 @@
     "js_take": {
       "en-US": "67% of a pie 10x bigger beats 100% of the old one. The real win is expanding the table, not owning it.",
       "zh-CN": "十倍大蛋糕的67%，胜过原来那块完整的。真正的胜利是做大桌子，而不是独占它。"
+    }
+  },
+  {
+    "id": "2033719116234707308",
+    "date": "2026-03-17",
+    "author": "@kenwheeler",
+    "author_url": "https://x.com/kenwheeler",
+    "tweet_url": "https://x.com/kenwheeler/status/2033719116234707308",
+    "title": {
+      "en-US": "Anyone holding openclaw up as moated innovation has lost the plot",
+      "zh-CN": "把OpenClaw当护城河的人，没看懂剧本"
+    },
+    "summary": {
+      "en-US": "OpenClaw的本质定位讨论，直接触及「什么是真正的护城河」这一战略问题",
+      "zh-CN": "OpenClaw的本质定位讨论，直接触及「什么是真正的护城河」这一战略问题"
+    },
+    "relevance": "OpenClaw的本质定位讨论，直接触及「什么是真正的护城河」这一战略问题",
+    "score": 0.86,
+    "engagement": {
+      "likes": 944,
+      "retweets": 29,
+      "replies": 92,
+      "views": 43273,
+      "bookmarks": 58
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-17T12:14:03.622268+00:00",
+    "js_take": {
+      "en-US": "You're guarding the wrong gate. Protocols are table stakes; momentum toward shared language is the actual moat. Fork the code, inherit nothing.",
+      "zh-CN": "你们守错了城门。协议只是入场券，向共享语言汇聚的势能才是真正的护城河。Fork代码容易，继承生态没门。"
     }
   },
   {
@@ -5623,62 +5683,6 @@
     "js_take": {
       "en-US": "You think you're building an agent. You're building a liability with WiFi. True autonomy runs on rails, not raw access.",
       "zh-CN": "你以为自己在造Agent。其实是在造一个带WiFi的隐患。真正的自主需要约束，不是放任。"
-    }
-  },
-  {
-    "id": "2030520591087018078",
-    "date": "2026-03-08",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2030520591087018078",
-    "title": {
-      "en-US": "The ChatGPT comeback needs to be studied. ChatGPT 5.4 best coding model, OpenAI reseting limits, 2x usage over the next month...",
-      "zh-CN": "ChatGPT的逆袭值得研究：5.4成最佳编程模型、OpenAI重置限制、使用量将翻倍"
-    },
-    "summary": {
-      "en-US": "OpenClaw和AI编程工具",
-      "zh-CN": "所谓\"逆袭\"从来不是突然的转折，而是势能在暗中积累到临界点的必然释放——ChatGPT的回归不是\"打了一仗\"，而是等到了属于自己的时刻。（更形象：用\"势能积累\"这个物理隐喻，把商业竞争转化为可感知的画面）"
-    },
-    "relevance": "OpenClaw和AI编程工具",
-    "score": 0.725,
-    "engagement": {
-      "likes": 78,
-      "replies": 28,
-      "retweets": 5
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-08T06:07:44.983423+00:00",
-    "js_take": {
-      "en-US": "ChatGPT didn't \"come back.\" It positioned and waited. The best competitive move isn't attacking—it's being unavoidable when the moment tips.",
-      "zh-CN": "ChatGPT不是「杀回来」的。它是布好局，然后等。最好的竞争不是主动出击，而是在趋势反转时让你避无可避。"
-    }
-  },
-  {
-    "id": "2030364018716627418",
-    "date": "2026-03-08",
-    "author": "@mattshumer_",
-    "author_url": "https://x.com/mattshumer_",
-    "tweet_url": "https://x.com/mattshumer_/status/2030364018716627418",
-    "title": {
-      "en-US": "My OpenClaw knows he fucked up and is too scared to respond",
-      "zh-CN": "Reflection 功能显示 OpenClaw \"知道自己搞砸了，不敢回应\""
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台功能展示 - Agent 自我反思",
-      "zh-CN": "这句话暴露了一个认知误区：把 AI 的 uncertainty 拟人化成 '害怕'。这不是情感，是概率分布的数学表达。拟人化让我们误解了底层机制。"
-    },
-    "relevance": "OpenClaw 平台功能展示 - Agent 自我反思",
-    "score": 0.72,
-    "engagement": {
-      "likes": 110,
-      "replies": 39,
-      "retweets": 2
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-07T20:03:33.405948+00:00",
-    "js_take": {
-      "en-US": "It's not scared. It's probability weights adjusting. We keep writing fan fiction about stochastic processes, then wonder why we misunderstand the tech.",
-      "zh-CN": "它不是「害怕」，只是概率权重在调整。我们乐此不疲地为随机过程撰写同人文，然后又纳闷为什么总误解这项技术。"
     }
   }
 ]
