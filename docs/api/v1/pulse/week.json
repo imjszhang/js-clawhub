@@ -142,6 +142,64 @@
     }
   },
   {
+    "id": "2033781383227686979",
+    "date": "2026-03-17",
+    "author": "@lidangzzz",
+    "author_url": "https://x.com/lidangzzz",
+    "tweet_url": "https://x.com/lidangzzz/status/2033781383227686979",
+    "title": {
+      "en-US": "OpenClaw爆火这么久，再一次证明了AI Agent就是程序员的最大护城河，非程序员连发现和定义问题的能力都没有。",
+      "zh-CN": "立党认为OpenClaw证明AI Agent是程序员的护城河，非程序员缺乏问题发现与定义能力。"
+    },
+    "summary": {
+      "en-US": "OpenClaw能力分层与程序员护城河争议",
+      "zh-CN": "护城河论的问题在于把「会用工具」当成「能定义问题」，但真正的差距不是代码能力，而是对业务本质的理解深度——非程序员用OpenClaw做不出好东西，根源不是不会写代码，而是没想清楚该解决什么问题。"
+    },
+    "relevance": "OpenClaw能力分层与程序员护城河争议",
+    "score": 0.82,
+    "engagement": {
+      "likes": 132,
+      "replies": 14,
+      "retweets": 10,
+      "views": 19008
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-17T07:14:57.988539+00:00",
+    "js_take": {
+      "en-US": "The real moat was never syntax — it was knowing which line to write. OpenClaw just moved the gate from \"can you code\" to \"do you understand the problem.\" Most people never trained for the second one.",
+      "zh-CN": "真正的护城河从来不是语法，而是知道该写哪行代码。OpenClaw 只是把门槛从'会不会编程'挪到了'懂不懂问题'——而大多数人从未训练过后者。"
+    }
+  },
+  {
+    "id": "2033747401085751598",
+    "date": "2026-03-17",
+    "author": "@KKaWSB",
+    "author_url": "https://x.com/KKaWSB",
+    "tweet_url": "https://x.com/KKaWSB/status/2033747401085751598",
+    "title": {
+      "en-US": "\"OpenClaw 就是新型计算机。\"——黄仁勋",
+      "zh-CN": "引用黄仁勋称OpenClaw是新型计算机，将其比作个人电脑早期时代。"
+    },
+    "summary": {
+      "en-US": "OpenClaw定位与行业趋势判断",
+      "zh-CN": "当所有人都在说「这是新型计算机」时，真正该问的是：如果人人都有一台一样的计算机，你的竞争力从哪来？硬件民主化的历史告诉我们——工具普及后，差距会从「有没有」转向「怎么用」。"
+    },
+    "relevance": "OpenClaw定位与行业趋势判断",
+    "score": 0.8,
+    "engagement": {
+      "likes": 237,
+      "replies": 15,
+      "retweets": 49,
+      "views": 124794
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-17T07:14:57.988543+00:00",
+    "js_take": {
+      "en-US": "When computers went from scarce to ubiquitous, the winners weren't the ones who owned one — they were the ones who knew what to build with it. Same gate, new key.",
+      "zh-CN": "当电脑从稀罕物变得无处不在，赢家并非拥有者，而是知道用它创造什么的人。还是那道门，钥匙却换了。"
+    }
+  },
+  {
     "id": "2033685207954477083",
     "date": "2026-03-17",
     "author": "@santtiagom_",

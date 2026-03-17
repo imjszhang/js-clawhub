@@ -142,6 +142,64 @@
     }
   },
   {
+    "id": "2033781383227686979",
+    "date": "2026-03-17",
+    "author": "@lidangzzz",
+    "author_url": "https://x.com/lidangzzz",
+    "tweet_url": "https://x.com/lidangzzz/status/2033781383227686979",
+    "title": {
+      "en-US": "OpenClaw爆火这么久，再一次证明了AI Agent就是程序员的最大护城河，非程序员连发现和定义问题的能力都没有。",
+      "zh-CN": "立党认为OpenClaw证明AI Agent是程序员的护城河，非程序员缺乏问题发现与定义能力。"
+    },
+    "summary": {
+      "en-US": "OpenClaw能力分层与程序员护城河争议",
+      "zh-CN": "护城河论的问题在于把「会用工具」当成「能定义问题」，但真正的差距不是代码能力，而是对业务本质的理解深度——非程序员用OpenClaw做不出好东西，根源不是不会写代码，而是没想清楚该解决什么问题。"
+    },
+    "relevance": "OpenClaw能力分层与程序员护城河争议",
+    "score": 0.82,
+    "engagement": {
+      "likes": 132,
+      "replies": 14,
+      "retweets": 10,
+      "views": 19008
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-17T07:14:57.988539+00:00",
+    "js_take": {
+      "en-US": "The real moat was never syntax — it was knowing which line to write. OpenClaw just moved the gate from \"can you code\" to \"do you understand the problem.\" Most people never trained for the second one.",
+      "zh-CN": "真正的护城河从来不是语法，而是知道该写哪行代码。OpenClaw 只是把门槛从'会不会编程'挪到了'懂不懂问题'——而大多数人从未训练过后者。"
+    }
+  },
+  {
+    "id": "2033747401085751598",
+    "date": "2026-03-17",
+    "author": "@KKaWSB",
+    "author_url": "https://x.com/KKaWSB",
+    "tweet_url": "https://x.com/KKaWSB/status/2033747401085751598",
+    "title": {
+      "en-US": "\"OpenClaw 就是新型计算机。\"——黄仁勋",
+      "zh-CN": "引用黄仁勋称OpenClaw是新型计算机，将其比作个人电脑早期时代。"
+    },
+    "summary": {
+      "en-US": "OpenClaw定位与行业趋势判断",
+      "zh-CN": "当所有人都在说「这是新型计算机」时，真正该问的是：如果人人都有一台一样的计算机，你的竞争力从哪来？硬件民主化的历史告诉我们——工具普及后，差距会从「有没有」转向「怎么用」。"
+    },
+    "relevance": "OpenClaw定位与行业趋势判断",
+    "score": 0.8,
+    "engagement": {
+      "likes": 237,
+      "replies": 15,
+      "retweets": 49,
+      "views": 124794
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-17T07:14:57.988543+00:00",
+    "js_take": {
+      "en-US": "When computers went from scarce to ubiquitous, the winners weren't the ones who owned one — they were the ones who knew what to build with it. Same gate, new key.",
+      "zh-CN": "当电脑从稀罕物变得无处不在，赢家并非拥有者，而是知道用它创造什么的人。还是那道门，钥匙却换了。"
+    }
+  },
+  {
     "id": "2033685207954477083",
     "date": "2026-03-17",
     "author": "@santtiagom_",
@@ -5621,62 +5679,6 @@
     "js_take": {
       "en-US": "They didn't die. They were just waiting for the right interface layer.",
       "zh-CN": "它们并未消亡，只是在等待合适的界面层。"
-    }
-  },
-  {
-    "id": "2030372236754927928",
-    "date": "2026-03-08",
-    "author": "@Legendaryy",
-    "author_url": "https://x.com/Legendaryy",
-    "tweet_url": "https://x.com/Legendaryy/status/2030372236754927928",
-    "title": {
-      "en-US": "Built gigabrain memory OS for AI agents—OpenClaw's native memory is just searchable markdown",
-      "zh-CN": "作者厌倦了OpenClaw代理忘记3个会话前\"记住\"的内容，于是开发了更好的记忆系统gigabrain"
-    },
-    "summary": {
-      "en-US": "OpenClaw/AI代理记忆/Agent基础设施——直接相关的平台生态讨论",
-      "zh-CN": "大家都在解决\"如何让AI记得更多\"，但也许真正的问题是\"如何让AI学会忘记\"。人类大脑的高效恰恰来自于选择性遗忘——不重要的细节被压缩、模式被保留。一个什么都记住的AI，和一个什么都忘不掉的强迫症病人，本质上都是信息处理系统的故障。（做纠正：指出\"记忆越多越好\"的假设存在根本性问题）"
-    },
-    "relevance": "OpenClaw/AI代理记忆/Agent基础设施——直接相关的平台生态讨论",
-    "score": 0.7175,
-    "engagement": {
-      "likes": 68,
-      "replies": 14,
-      "retweets": 5
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-07T22:05:19.380288+00:00",
-    "js_take": {
-      "en-US": "We've raced to give AI perfect memory, but brains work because they forget. Maybe the next leap isn't 'better storage'—it's knowing what to drop.",
-      "zh-CN": "我们拼命想让AI拥有完美记忆，却忘了人脑的智慧恰恰在于遗忘。真正的突破或许不是「更强的存储」——而是懂得什么该放手。"
-    }
-  },
-  {
-    "id": "2030326737117081662",
-    "date": "2026-03-08",
-    "author": "@oliviscusAI",
-    "author_url": "https://x.com/oliviscusAI",
-    "tweet_url": "https://x.com/oliviscusAI/status/2030326737117081662",
-    "title": {
-      "en-US": "Someone turned OpenClaw into autonomous sales agent - paste URL, builds outbound pipeline in 60s",
-      "zh-CN": "有人把OpenClaw做成自主销售agent，粘贴网站URL就能在60秒内构建整个外呼销售流程"
-    },
-    "summary": {
-      "en-US": "OpenClaw应用案例 - 销售自动化",
-      "zh-CN": "「60秒建销售流程」听起来很酷，但真正的瓶颈从来不是搭建，而是后续的迭代和失效处理。速度崇拜掩盖了一个事实：复杂的系统需要缓慢的信任积累。"
-    },
-    "relevance": "OpenClaw应用案例 - 销售自动化",
-    "score": 0.71,
-    "engagement": {
-      "likes": 55,
-      "retweets": 7,
-      "replies": 8
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-08T06:07:44.983419+00:00",
-    "js_take": {
-      "en-US": "60s to spin up, 6 months to untangle the mess. 'Autonomous' doesn't mean 'runs without thinking'—it means 'knows when to stop.'",
-      "zh-CN": "60秒启动，6个月收拾烂摊子。「自主」不是「无脑运行」，而是「懂得何时停下」。"
     }
   }
 ]
