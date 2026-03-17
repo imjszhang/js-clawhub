@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-16T23:09:21.649544+00:00",
+  "updated_at": "2026-03-17T01:11:28.971474+00:00",
   "this_week": {
-    "total_items": 14,
+    "total_items": 16,
     "avg_score": 0.79,
-    "unique_authors": 14,
+    "unique_authors": 16,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -32,6 +32,34 @@
         "js_take": {
           "en-US": "I spent more hours babysitting my AI setup than it ever saved me. The best automation is the one you forget exists.",
           "zh-CN": "花在伺候AI上的时间比它帮我省的时间还多。最好的自动化是那种你会忘记它存在的。"
+        }
+      },
+      {
+        "id": "2033677491135766994",
+        "date": "2026-03-17",
+        "author": "@StockSavvyShay",
+        "author_url": "https://x.com/StockSavvyShay",
+        "tweet_url": "https://x.com/StockSavvyShay/status/2033677491135766994",
+        "title": {
+          "en-US": "Jensen Huang calls OpenClaw \"the new computer\", comparing its impact to Linux.",
+          "zh-CN": "黄仁勋称OpenClaw为\"新计算机\"，影响力堪比Linux"
+        },
+        "summary": {
+          "en-US": "OpenClaw 平台影响力 + 技术史对比",
+          "zh-CN": "OpenClaw平台影响力与技术史对比"
+        },
+        "relevance": "OpenClaw 平台影响力 + 技术史对比",
+        "score": 0.88,
+        "engagement": {
+          "likes": 1616,
+          "replies": 51,
+          "retweets": 136
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-17T01:11:13.868177+00:00",
+        "js_take": {
+          "en-US": "Linux took 30 years to reshape the stack. OpenClaw did it in weeks. Gap isn't speed—it's timing. When the surface world becomes a database and the inner world becomes the interface, technology spreads on curves we haven't named yet.",
+          "zh-CN": "Linux用了30年重塑技术栈，OpenClaw几周就做到了。差距不在速度，而在时机。当表世界退化为数据库、里世界成为新交互界面时，技术将以我们尚未命名的曲线扩散。"
         }
       },
       {
@@ -89,6 +117,34 @@
         "js_take": {
           "en-US": "OpenClaw's memory challenge isn't storage capacity—it's query precision. The same archive surfaces with sharp questions and vanishes with vague ones. Duration matters less than query quality.",
           "zh-CN": "OpenClaw 的记忆问题不在存储容量，而在查询精度。同样的档案，问得准就浮现，问得模糊就消失。存多久不重要，问得多准才关键。"
+        }
+      },
+      {
+        "id": "2033574260573180300",
+        "date": "2026-03-17",
+        "author": "@QingQ77",
+        "author_url": "https://x.com/QingQ77",
+        "tweet_url": "https://x.com/QingQ77/status/2033574260573180300",
+        "title": {
+          "en-US": "OpenClaw optimization guide: compress files to <8KB, use vault + vector retrieval.",
+          "zh-CN": "OpenClaw 优化指南：把工作区文件压缩到 8KB 以下，长期信息存入 vault，需要时再用向量检索捞出来。"
+        },
+        "summary": {
+          "en-US": "OpenClaw 工程优化实践",
+          "zh-CN": "拼命压缩上下文、分层存储、按需检索——这套\"优化\"恰恰是在用更复杂的系统解决自己制造的问题。真正的效率不是把每个字节榨干，而是让系统知道什么时候该闭嘴。"
+        },
+        "relevance": "OpenClaw 工程优化实践",
+        "score": 0.82,
+        "engagement": {
+          "likes": 73,
+          "replies": 1,
+          "retweets": 10
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-17T01:11:13.868183+00:00",
+        "js_take": {
+          "en-US": "Compress context to 8KB, then build a vector system to fish it back out. You're optimizing the scars of over-intervention. The best retrieval is knowing what to forget.",
+          "zh-CN": "把上下文压到8KB，再建个向量系统把它捞出来——你不过在优化\"过度干预\"留下的伤疤。最好的检索，是知道该遗忘什么。"
         }
       },
       {
@@ -414,6 +470,6 @@
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 154
+    "unique_authors": 155
   }
 }

@@ -29,6 +29,34 @@
     }
   },
   {
+    "id": "2033677491135766994",
+    "date": "2026-03-17",
+    "author": "@StockSavvyShay",
+    "author_url": "https://x.com/StockSavvyShay",
+    "tweet_url": "https://x.com/StockSavvyShay/status/2033677491135766994",
+    "title": {
+      "en-US": "Jensen Huang calls OpenClaw \"the new computer\", comparing its impact to Linux.",
+      "zh-CN": "黄仁勋称OpenClaw为\"新计算机\"，影响力堪比Linux"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台影响力 + 技术史对比",
+      "zh-CN": "OpenClaw平台影响力与技术史对比"
+    },
+    "relevance": "OpenClaw 平台影响力 + 技术史对比",
+    "score": 0.88,
+    "engagement": {
+      "likes": 1616,
+      "replies": 51,
+      "retweets": 136
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-17T01:11:13.868177+00:00",
+    "js_take": {
+      "en-US": "Linux took 30 years to reshape the stack. OpenClaw did it in weeks. Gap isn't speed—it's timing. When the surface world becomes a database and the inner world becomes the interface, technology spreads on curves we haven't named yet.",
+      "zh-CN": "Linux用了30年重塑技术栈，OpenClaw几周就做到了。差距不在速度，而在时机。当表世界退化为数据库、里世界成为新交互界面时，技术将以我们尚未命名的曲线扩散。"
+    }
+  },
+  {
     "id": "2033326586813165967",
     "date": "2026-03-17",
     "author": "@chrysb",
@@ -83,6 +111,34 @@
     "js_take": {
       "en-US": "OpenClaw's memory challenge isn't storage capacity—it's query precision. The same archive surfaces with sharp questions and vanishes with vague ones. Duration matters less than query quality.",
       "zh-CN": "OpenClaw 的记忆问题不在存储容量，而在查询精度。同样的档案，问得准就浮现，问得模糊就消失。存多久不重要，问得多准才关键。"
+    }
+  },
+  {
+    "id": "2033574260573180300",
+    "date": "2026-03-17",
+    "author": "@QingQ77",
+    "author_url": "https://x.com/QingQ77",
+    "tweet_url": "https://x.com/QingQ77/status/2033574260573180300",
+    "title": {
+      "en-US": "OpenClaw optimization guide: compress files to <8KB, use vault + vector retrieval.",
+      "zh-CN": "OpenClaw 优化指南：把工作区文件压缩到 8KB 以下，长期信息存入 vault，需要时再用向量检索捞出来。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 工程优化实践",
+      "zh-CN": "拼命压缩上下文、分层存储、按需检索——这套\"优化\"恰恰是在用更复杂的系统解决自己制造的问题。真正的效率不是把每个字节榨干，而是让系统知道什么时候该闭嘴。"
+    },
+    "relevance": "OpenClaw 工程优化实践",
+    "score": 0.82,
+    "engagement": {
+      "likes": 73,
+      "replies": 1,
+      "retweets": 10
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-17T01:11:13.868183+00:00",
+    "js_take": {
+      "en-US": "Compress context to 8KB, then build a vector system to fish it back out. You're optimizing the scars of over-intervention. The best retrieval is knowing what to forget.",
+      "zh-CN": "把上下文压到8KB，再建个向量系统把它捞出来——你不过在优化\"过度干预\"留下的伤疤。最好的检索，是知道该遗忘什么。"
     }
   },
   {
@@ -5621,62 +5677,6 @@
     "js_take": {
       "en-US": "Intelligence isn’t in the hardware or the code—it’s in the friction between them. We don’t build robots to mimic life; we build them to buy ourselves time to actually live.",
       "zh-CN": "智能不在硬件里，也不在代码里——而在两者之间的摩擦中。我们造机器人不是为了模仿生命，而是为了给自己争取真正去生活的时间。"
-    }
-  },
-  {
-    "id": "2029979079315968131",
-    "date": "2026-03-07",
-    "author": "@BoWang87",
-    "author_url": "https://x.com/BoWang87",
-    "tweet_url": "https://x.com/BoWang87/status/2029979079315968131",
-    "title": {
-      "en-US": "Portable OpenClaw Agent 😂 🦞",
-      "zh-CN": "展示了一个便携版的OpenClaw Agent（龙虾图标）"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台、便携Agent硬件",
-      "zh-CN": "技术圈追求越来越强大的算力和复杂的部署，但\"便携\"意味着打破束缚——最好的工具是让你忘记它存在的工具，就像水随形而变，不执着于容器。"
-    },
-    "relevance": "OpenClaw平台、便携Agent硬件",
-    "score": 0.85,
-    "engagement": {
-      "likes": 909,
-      "replies": 95,
-      "retweets": 64
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-06T21:03:52.754252+00:00",
-    "js_take": {
-      "en-US": "You're celebrating portability when you should be demanding invisibility. The endpoint of tech isn't 'I can carry it'—it's 'I forgot I have it'.",
-      "zh-CN": "You're celebrating portability when you should be demanding invisibility. The endpoint of tech isn't 'I can carry it'—it's 'I forgot I have it'."
-    }
-  },
-  {
-    "id": "2030221468244775131",
-    "date": "2026-03-07",
-    "author": "@moritzkremb",
-    "author_url": "https://x.com/moritzkremb",
-    "tweet_url": "https://x.com/moritzkremb/status/2030221468244775131",
-    "title": {
-      "en-US": "OpenClaw model benchmark testing 23 real world tasks",
-      "zh-CN": "OpenClaw实测23个真实任务，考验模型硬实力"
-    },
-    "summary": {
-      "en-US": "OpenClaw 基准测试，技术社区关注话题",
-      "zh-CN": "OpenClaw基准测试，技术社区关注话题"
-    },
-    "relevance": "OpenClaw 基准测试，技术社区关注话题",
-    "score": 0.85,
-    "engagement": {
-      "likes": 117,
-      "replies": 28,
-      "retweets": 9
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-07T14:04:12.124177+00:00",
-    "js_take": {
-      "en-US": "Benchmarks reward models that can do 23 tasks. The real world rewards models that finish task #24 without waking you up at 3am.",
-      "zh-CN": "基准测试奖励能做23个任务的模型。现实世界奖励的是能独立完成第24个任务、且不会在凌晨3点把你吵醒的模型。"
     }
   }
 ]
