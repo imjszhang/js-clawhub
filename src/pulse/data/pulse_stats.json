@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-17T01:11:28.971474+00:00",
+  "updated_at": "2026-03-17T05:08:01.040192+00:00",
   "this_week": {
-    "total_items": 16,
+    "total_items": 19,
     "avg_score": 0.79,
-    "unique_authors": 16,
+    "unique_authors": 19,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -204,6 +204,34 @@
         }
       },
       {
+        "id": "2033685207954477083",
+        "date": "2026-03-17",
+        "author": "@santtiagom_",
+        "author_url": "https://x.com/santtiagom_",
+        "tweet_url": "https://x.com/santtiagom_/status/2033685207954477083",
+        "title": {
+          "en-US": "Agent skills are static files. The system changes, skills don't. Problem.",
+          "zh-CN": "Agent skills 是静态文件，但系统持续变化，导致 skill 过时失效。"
+        },
+        "summary": {
+          "en-US": "OpenClaw/agent skills 架构问题",
+          "zh-CN": "把「静态文件 vs 动态系统」的冲突，更精炼地归结为「用死的文档管活的系统」——问题的本质不是技术实现，而是设计哲学上的错配。"
+        },
+        "relevance": "OpenClaw/agent skills 架构问题",
+        "score": 0.78,
+        "engagement": {
+          "likes": 182,
+          "replies": 2,
+          "retweets": 21
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-17T05:07:50.291882+00:00",
+        "js_take": {
+          "en-US": "Maintaining static skills for live systems assumes the river stops flowing. The SKILL.md you wrote last month already describes a ghost.",
+          "zh-CN": "为活的系统维护静态技能，等于假设河流会停止流动。你上个月写的 SKILL.md，描述的已是一个幽灵。"
+        }
+      },
+      {
         "id": "2033235867221758008",
         "date": "2026-03-16",
         "author": "@bradmillscan",
@@ -379,6 +407,62 @@
         }
       },
       {
+        "id": "2033617125554680279",
+        "date": "2026-03-17",
+        "author": "@Atenov_D",
+        "author_url": "https://x.com/Atenov_D",
+        "tweet_url": "https://x.com/Atenov_D/status/2033617125554680279",
+        "title": {
+          "en-US": "Claude Code works great until you close the session. Next time - blank slate. No memory of projects, style, decisions.",
+          "zh-CN": "Claude Code 每次关闭会话后记忆清零，没有项目记忆、风格记忆和决策记忆，每次都要从头解释。"
+        },
+        "summary": {
+          "en-US": "OpenClaw/AI Agent 记忆痛点，开发者体验",
+          "zh-CN": "「这不是bug，而是所有本地Agent的常态」——这句话暴露了一个更深的问题：我们在用数据库思维解决记忆，但Agent需要的不是存储，而是「情境」的延续。"
+        },
+        "relevance": "OpenClaw/AI Agent 记忆痛点，开发者体验",
+        "score": 0.72,
+        "engagement": {
+          "likes": 94,
+          "retweets": 3,
+          "replies": 23
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-17T05:07:50.291876+00:00",
+        "js_take": {
+          "en-US": "Apps are becoming databases, but agents still restart as blank slates. The surface-to-inner migration is stuck at the session boundary.",
+          "zh-CN": "应用正在退化为数据库，但智能体每次重启仍是空白状态。从「表世界」向「里世界」的迁徙，卡在会话边界动弹不得。"
+        }
+      },
+      {
+        "id": "2033720636187807833",
+        "date": "2026-03-17",
+        "author": "@TFTC21",
+        "author_url": "https://x.com/TFTC21",
+        "tweet_url": "https://x.com/TFTC21/status/2033720636187807833",
+        "title": {
+          "en-US": "Jensen Huang: OpenClaw is the new computer.",
+          "zh-CN": "黄仁勋说 OpenClaw 是新计算机，几周内超越 Linux 30 年的成就。"
+        },
+        "summary": {
+          "en-US": "OpenClaw/行业趋势",
+          "zh-CN": "更深度：在「超越 Linux」的 hype 之下多走一步——指出速度本身不是优势，Linux 花了 30 年建立的是「不争」的生态共识，而 OpenClaw 的势还在混沌期。"
+        },
+        "relevance": "OpenClaw/行业趋势",
+        "score": 0.72,
+        "engagement": {
+          "likes": 953,
+          "replies": 33,
+          "retweets": 128
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-17T05:07:50.291885+00:00",
+        "js_take": {
+          "en-US": "Linux became quiet infrastructure over 30 years. OpenClaw's speed is noise—the real test is becoming inevitable.",
+          "zh-CN": "Linux 用30年成为静默的基础设施。OpenClaw 的速度只是噪音——真正的考验是成为不可避免的存在。"
+        }
+      },
+      {
         "id": "2033225861894414750",
         "date": "2026-03-16",
         "author": "@heyshrutimishra",
@@ -470,6 +554,6 @@
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 155
+    "unique_authors": 156
   }
 }

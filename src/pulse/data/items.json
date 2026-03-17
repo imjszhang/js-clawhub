@@ -142,6 +142,34 @@
     }
   },
   {
+    "id": "2033685207954477083",
+    "date": "2026-03-17",
+    "author": "@santtiagom_",
+    "author_url": "https://x.com/santtiagom_",
+    "tweet_url": "https://x.com/santtiagom_/status/2033685207954477083",
+    "title": {
+      "en-US": "Agent skills are static files. The system changes, skills don't. Problem.",
+      "zh-CN": "Agent skills 是静态文件，但系统持续变化，导致 skill 过时失效。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/agent skills 架构问题",
+      "zh-CN": "把「静态文件 vs 动态系统」的冲突，更精炼地归结为「用死的文档管活的系统」——问题的本质不是技术实现，而是设计哲学上的错配。"
+    },
+    "relevance": "OpenClaw/agent skills 架构问题",
+    "score": 0.78,
+    "engagement": {
+      "likes": 182,
+      "replies": 2,
+      "retweets": 21
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-17T05:07:50.291882+00:00",
+    "js_take": {
+      "en-US": "Maintaining static skills for live systems assumes the river stops flowing. The SKILL.md you wrote last month already describes a ghost.",
+      "zh-CN": "为活的系统维护静态技能，等于假设河流会停止流动。你上个月写的 SKILL.md，描述的已是一个幽灵。"
+    }
+  },
+  {
     "id": "2033357209258828170",
     "date": "2026-03-17",
     "author": "@AYi_AInotes",
@@ -196,6 +224,62 @@
     "js_take": {
       "en-US": "One-click deployment is surface world convenience. The real shift to inner world: teaching your agent to know when to stop—without you watching.",
       "zh-CN": "一键部署只是表世界的便利。真正的里世界跃迁，在于教会你的 Agent 自主判断何时停止——而你无需时刻盯着。"
+    }
+  },
+  {
+    "id": "2033617125554680279",
+    "date": "2026-03-17",
+    "author": "@Atenov_D",
+    "author_url": "https://x.com/Atenov_D",
+    "tweet_url": "https://x.com/Atenov_D/status/2033617125554680279",
+    "title": {
+      "en-US": "Claude Code works great until you close the session. Next time - blank slate. No memory of projects, style, decisions.",
+      "zh-CN": "Claude Code 每次关闭会话后记忆清零，没有项目记忆、风格记忆和决策记忆，每次都要从头解释。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI Agent 记忆痛点，开发者体验",
+      "zh-CN": "「这不是bug，而是所有本地Agent的常态」——这句话暴露了一个更深的问题：我们在用数据库思维解决记忆，但Agent需要的不是存储，而是「情境」的延续。"
+    },
+    "relevance": "OpenClaw/AI Agent 记忆痛点，开发者体验",
+    "score": 0.72,
+    "engagement": {
+      "likes": 94,
+      "retweets": 3,
+      "replies": 23
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-17T05:07:50.291876+00:00",
+    "js_take": {
+      "en-US": "Apps are becoming databases, but agents still restart as blank slates. The surface-to-inner migration is stuck at the session boundary.",
+      "zh-CN": "应用正在退化为数据库，但智能体每次重启仍是空白状态。从「表世界」向「里世界」的迁徙，卡在会话边界动弹不得。"
+    }
+  },
+  {
+    "id": "2033720636187807833",
+    "date": "2026-03-17",
+    "author": "@TFTC21",
+    "author_url": "https://x.com/TFTC21",
+    "tweet_url": "https://x.com/TFTC21/status/2033720636187807833",
+    "title": {
+      "en-US": "Jensen Huang: OpenClaw is the new computer.",
+      "zh-CN": "黄仁勋说 OpenClaw 是新计算机，几周内超越 Linux 30 年的成就。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/行业趋势",
+      "zh-CN": "更深度：在「超越 Linux」的 hype 之下多走一步——指出速度本身不是优势，Linux 花了 30 年建立的是「不争」的生态共识，而 OpenClaw 的势还在混沌期。"
+    },
+    "relevance": "OpenClaw/行业趋势",
+    "score": 0.72,
+    "engagement": {
+      "likes": 953,
+      "replies": 33,
+      "retweets": 128
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-17T05:07:50.291885+00:00",
+    "js_take": {
+      "en-US": "Linux became quiet infrastructure over 30 years. OpenClaw's speed is noise—the real test is becoming inevitable.",
+      "zh-CN": "Linux 用30年成为静默的基础设施。OpenClaw 的速度只是噪音——真正的考验是成为不可避免的存在。"
     }
   },
   {
@@ -5593,90 +5677,6 @@
     "js_take": {
       "en-US": "60s to spin up, 6 months to untangle the mess. 'Autonomous' doesn't mean 'runs without thinking'—it means 'knows when to stop.'",
       "zh-CN": "60秒启动，6个月收拾烂摊子。「自主」不是「无脑运行」，而是「懂得何时停下」。"
-    }
-  },
-  {
-    "id": "2030264333909840333",
-    "date": "2026-03-07",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2030264333909840333",
-    "title": {
-      "en-US": "Companies paying $6k for OpenClaw setup - business opportunity",
-      "zh-CN": "有人花6000美元搭建OpenClaw，这是门好生意"
-    },
-    "summary": {
-      "en-US": "OpenClaw 商业机会讨论，高曝光技术变现话题",
-      "zh-CN": "OpenClaw商业机会，技术变现的高热度话题"
-    },
-    "relevance": "OpenClaw 商业机会讨论，高曝光技术变现话题",
-    "score": 0.92,
-    "engagement": {
-      "likes": 167,
-      "replies": 46,
-      "retweets": 12
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-07T14:04:12.124166+00:00",
-    "js_take": {
-      "en-US": "You’re not selling automation—you’re selling the job of babysitting it. Real money is in building systems that run while you sleep, not invoices for setup.",
-      "zh-CN": "你卖的不是自动化，而是'伺候自动化'的差事。真正赚钱的是能24小时自动运转的系统，而不是一次性的搭建服务费。"
-    }
-  },
-  {
-    "id": "2030053396552536397",
-    "date": "2026-03-07",
-    "author": "@Shpigford",
-    "author_url": "https://x.com/Shpigford",
-    "tweet_url": "https://x.com/Shpigford/status/2030053396552536397",
-    "title": {
-      "en-US": "What's the best low-cost model for OpenClaw?",
-      "zh-CN": "OpenClaw低成本模型怎么选？"
-    },
-    "summary": {
-      "en-US": "OpenClaw 模型选型，高互动技术讨论",
-      "zh-CN": "OpenClaw模型选型，技术圈热议"
-    },
-    "relevance": "OpenClaw 模型选型，高互动技术讨论",
-    "score": 0.89,
-    "engagement": {
-      "likes": 52,
-      "replies": 87,
-      "retweets": 0
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-07T14:04:12.124172+00:00",
-    "js_take": {
-      "en-US": "You’re optimizing the wrong bill. The cheapest model isn’t the one with the lowest price—it’s the one you don’t have to babysit.",
-      "zh-CN": "你优化错账单了。最便宜的模型不是价格最低的那个——而是你不用半夜起来伺候的那个。"
-    }
-  },
-  {
-    "id": "2030250143258153215",
-    "date": "2026-03-07",
-    "author": "@Hesamation",
-    "author_url": "https://x.com/Hesamation",
-    "tweet_url": "https://x.com/Hesamation/status/2030250143258153215",
-    "title": {
-      "en-US": "Gave OpenClaw a body and saw it take its first breath",
-      "zh-CN": "给OpenClaw装上身体，看着它第一次\"呼吸\""
-    },
-    "summary": {
-      "en-US": "OpenClaw 物理 embodiment，情感共鸣强的话题",
-      "zh-CN": "OpenClaw物理实体化，高情感共鸣话题"
-    },
-    "relevance": "OpenClaw 物理 embodiment，情感共鸣强的话题",
-    "score": 0.86,
-    "engagement": {
-      "likes": 70,
-      "replies": 6,
-      "retweets": 9
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-07T14:04:12.124175+00:00",
-    "js_take": {
-      "en-US": "Intelligence isn’t in the hardware or the code—it’s in the friction between them. We don’t build robots to mimic life; we build them to buy ourselves time to actually live.",
-      "zh-CN": "智能不在硬件里，也不在代码里——而在两者之间的摩擦中。我们造机器人不是为了模仿生命，而是为了给自己争取真正去生活的时间。"
     }
   }
 ]
