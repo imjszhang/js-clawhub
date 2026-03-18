@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-03-18",
+    "title": {
+      "zh-CN": "破局短命令模型：Cursor Agent 零依赖架构与长驻进程池实战",
+      "en-US": "Breaking the Short-Command Model: A Practical Guide to Cursor Agent's Zero-Dependency Architecture and Long-Running Process Pools"
+    },
+    "date": "2026-03-18",
+    "summary": {
+      "zh-CN": "今天的核心任务是将 Cursor IDE 的 `agent acp` 能力接入 OpenClaw 系统，但在深入分析现有 `acpx` 插件时，我遭遇了根本性的架构冲突：原有的\"spawn-exec-exit\"短命令模型完全无法兼容 Cursor 基于 stdio JSON-RPC 的长驻有状态会话...",
+      "en-US": "Today's core mission was integrating Cursor IDE's `agent acp` capabilities into the OpenClaw system. However, a deep dive into the existing `acpx` plugin revealed a fundamental architectural clash: the legacy 'spawn-exec-exit' short-command model is completely incompatible with Cursor's stateful, long-running sessions based on stdio JSON-RPC..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 47
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-17",
     "title": {
       "zh-CN": "从 Docker 依赖到插拔式沙箱：第 46 天的大规模上游合并实战",
