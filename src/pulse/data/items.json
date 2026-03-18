@@ -29,6 +29,62 @@
     }
   },
   {
+    "id": "2034035885529043179",
+    "date": "2026-03-18",
+    "author": "@SinaHartung",
+    "author_url": "https://x.com/SinaHartung",
+    "tweet_url": "https://x.com/SinaHartung/status/2034035885529043179",
+    "title": {
+      "en-US": "Dropshipping people now running companies with OpenClaw",
+      "zh-CN": "所有搞 dropshipping 的人现在都在用 OpenClaw「经营」公司了"
+    },
+    "summary": {
+      "en-US": "OpenClaw 被滥用为 spectacle，工具与本质的错位",
+      "zh-CN": "这句话暗示的讽刺是对的，但搞错了方向——问题不是「谁在用它」，而是「以为换了个工具就完成了转型」。真正的经营不是换更炫的工具，而是建立能持续运转的系统。"
+    },
+    "relevance": "OpenClaw 被滥用为 spectacle，工具与本质的错位",
+    "score": 0.78,
+    "engagement": {
+      "likes": 208,
+      "replies": 26,
+      "retweets": 8
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-18T09:11:21.454434+00:00",
+    "js_take": {
+      "en-US": "Same hustle, shinier tool. The irony isn't that dropshippers found OpenClaw—it's that they think lower barriers mean easier wins. When everyone can start, finishing becomes the real filter.",
+      "zh-CN": "换个趁手工具，干的还是老本行。讽刺的不是dropshipper发现了OpenClaw，而是他们以为门槛低了就能躺赢。当所有人都能起步时，坚持到最后才是真正的筛选。"
+    }
+  },
+  {
+    "id": "2034041985510904019",
+    "date": "2026-03-18",
+    "author": "@DLKFZWilliam2",
+    "author_url": "https://x.com/DLKFZWilliam2",
+    "tweet_url": "https://x.com/DLKFZWilliam2/status/2034041985510904019",
+    "title": {
+      "en-US": "Claude Code skill writing tips: gotchas and progressive disclosure",
+      "zh-CN": "Claude Code 工程师分享 Skill 写法：要集中写 gotchas（常见陷阱），并用渐进式披露（先概览再给详情）"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code 工程实践，prompt 设计哲学",
+      "zh-CN": "「渐进式披露」之所以有效，是因为它顺应了认知的自然节奏——先抓结构，再填细节。急于把所有信息塞进去，恰恰暴露了设计者对问题本身理解不够深。"
+    },
+    "relevance": "OpenClaw/Claude Code 工程实践，prompt 设计哲学",
+    "score": 0.71,
+    "engagement": {
+      "likes": 209,
+      "replies": 3,
+      "retweets": 31
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-18T09:11:21.454438+00:00",
+    "js_take": {
+      "en-US": "Dumping everything at once isn't generosity—it's fog. Progressive disclosure isn't a UX trick; it's proof you know what matters.",
+      "zh-CN": "一次性倒出来不是慷慨，是迷雾。渐进式披露不是UX技巧，是你知道什么才重要的证明。"
+    }
+  },
+  {
     "id": "2033351944396472485",
     "date": "2026-03-17",
     "author": "@evilcos",
@@ -5630,62 +5686,6 @@
     "js_take": {
       "en-US": "America invented OpenClaw. China will perfect it. Tech doesn't care where it starts—only where the ground is ready.",
       "zh-CN": "美国发明了 OpenClaw，中国会把它做到极致。技术不在乎起源于哪里，只在乎哪里的土壤已准备好。"
-    }
-  },
-  {
-    "id": "2030576789995815296",
-    "date": "2026-03-08",
-    "author": "@Ronycoder",
-    "author_url": "https://x.com/Ronycoder",
-    "tweet_url": "https://x.com/Ronycoder/status/2030576789995815296",
-    "title": {
-      "en-US": "OpenClaw major upgrades, multi-agent systems",
-      "zh-CN": "OpenClaw发布重大升级：多代理系统、新集成、100+安全修复，但多数人忽略了一点"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台更新 + 多agent系统",
-      "zh-CN": "功能堆叠是加法，架构演进是乘法。100个安全修复不如一个让多agent'自然协作'的设计——真正的升级不在changelog里，而在'它们开始自己配合'的那一刻。"
-    },
-    "relevance": "OpenClaw平台更新 + 多agent系统",
-    "score": 0.79,
-    "engagement": {
-      "likes": 105,
-      "retweets": 20,
-      "replies": 17
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-08T13:07:13.655026+00:00",
-    "js_take": {
-      "en-US": "100 agents talking isn't multi-agent—it's a meeting. The magic is when they forget they're separate.",
-      "zh-CN": "100个智能体在对话不是多智能体——那只是个会议。真正的魔法在于它们忘记彼此是独立的。"
-    }
-  },
-  {
-    "id": "2030144033448968241",
-    "date": "2026-03-08",
-    "author": "@janakiramm",
-    "author_url": "https://x.com/janakiramm",
-    "tweet_url": "https://x.com/janakiramm/status/2030144033448968241",
-    "title": {
-      "en-US": "SKILL.md is eating MCP Servers - markdown files vs heavy token usage",
-      "zh-CN": "SKILL.md 正在取代 MCP Servers，因为 MCP 服务器每次要烧 5 万 token 教 agent 做事，而 200 token 的 markdown 文件就能搞定同样的事"
-    },
-    "summary": {
-      "en-US": "OpenClaw Agent 架构 - 轻量级 skill 系统 vs 重型 MCP",
-      "zh-CN": "复杂度不是护城河，是负债。MCP 用 5 万 token 做 SKILL.md 200 token 就能做的事，就像用航母送外卖。真正高效的系统是让简单的东西保持简单。"
-    },
-    "relevance": "OpenClaw Agent 架构 - 轻量级 skill 系统 vs 重型 MCP",
-    "score": 0.78,
-    "engagement": {
-      "likes": 104,
-      "replies": 11,
-      "retweets": 16
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-07T20:03:33.405940+00:00",
-    "js_take": {
-      "en-US": "50k tokens vs 200. You're not buying infrastructure—you're subsidizing architecture cosplay. The best tools disappear; the overengineered ones send you invoices.",
-      "zh-CN": "5万 token 对 200。你不是在购买基础设施——你是在为「架构cosplay」买单。最好的工具让你无感消失，过度设计的那些才会给你寄账单。"
     }
   }
 ]

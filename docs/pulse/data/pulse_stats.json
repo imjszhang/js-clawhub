@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-18T01:07:39.623235+00:00",
+  "updated_at": "2026-03-18T09:11:51.952347+00:00",
   "this_week": {
-    "total_items": 32,
+    "total_items": 34,
     "avg_score": 0.79,
-    "unique_authors": 31,
+    "unique_authors": 33,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -465,6 +465,34 @@
         }
       },
       {
+        "id": "2034035885529043179",
+        "date": "2026-03-18",
+        "author": "@SinaHartung",
+        "author_url": "https://x.com/SinaHartung",
+        "tweet_url": "https://x.com/SinaHartung/status/2034035885529043179",
+        "title": {
+          "en-US": "Dropshipping people now running companies with OpenClaw",
+          "zh-CN": "所有搞 dropshipping 的人现在都在用 OpenClaw「经营」公司了"
+        },
+        "summary": {
+          "en-US": "OpenClaw 被滥用为 spectacle，工具与本质的错位",
+          "zh-CN": "这句话暗示的讽刺是对的，但搞错了方向——问题不是「谁在用它」，而是「以为换了个工具就完成了转型」。真正的经营不是换更炫的工具，而是建立能持续运转的系统。"
+        },
+        "relevance": "OpenClaw 被滥用为 spectacle，工具与本质的错位",
+        "score": 0.78,
+        "engagement": {
+          "likes": 208,
+          "replies": 26,
+          "retweets": 8
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-18T09:11:21.454434+00:00",
+        "js_take": {
+          "en-US": "Same hustle, shinier tool. The irony isn't that dropshippers found OpenClaw—it's that they think lower barriers mean easier wins. When everyone can start, finishing becomes the real filter.",
+          "zh-CN": "换个趁手工具，干的还是老本行。讽刺的不是dropshipper发现了OpenClaw，而是他们以为门槛低了就能躺赢。当所有人都能起步时，坚持到最后才是真正的筛选。"
+        }
+      },
+      {
         "id": "2033685207954477083",
         "date": "2026-03-17",
         "author": "@santtiagom_",
@@ -864,6 +892,34 @@
         "js_take": {
           "en-US": "Same bot, 100 traders. 99 lose money. Knowing when to stop it beats knowing how to start it — and that judgment isn't in the code.",
           "zh-CN": "同一套交易机器人，100个交易员用，99个亏钱。知道何时收手，胜过知道如何开始——而这种判断力，不在代码里。"
+        }
+      },
+      {
+        "id": "2034041985510904019",
+        "date": "2026-03-18",
+        "author": "@DLKFZWilliam2",
+        "author_url": "https://x.com/DLKFZWilliam2",
+        "tweet_url": "https://x.com/DLKFZWilliam2/status/2034041985510904019",
+        "title": {
+          "en-US": "Claude Code skill writing tips: gotchas and progressive disclosure",
+          "zh-CN": "Claude Code 工程师分享 Skill 写法：要集中写 gotchas（常见陷阱），并用渐进式披露（先概览再给详情）"
+        },
+        "summary": {
+          "en-US": "OpenClaw/Claude Code 工程实践，prompt 设计哲学",
+          "zh-CN": "「渐进式披露」之所以有效，是因为它顺应了认知的自然节奏——先抓结构，再填细节。急于把所有信息塞进去，恰恰暴露了设计者对问题本身理解不够深。"
+        },
+        "relevance": "OpenClaw/Claude Code 工程实践，prompt 设计哲学",
+        "score": 0.71,
+        "engagement": {
+          "likes": 209,
+          "replies": 3,
+          "retweets": 31
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-18T09:11:21.454438+00:00",
+        "js_take": {
+          "en-US": "Dumping everything at once isn't generosity—it's fog. Progressive disclosure isn't a UX trick; it's proof you know what matters.",
+          "zh-CN": "一次性倒出来不是慷慨，是迷雾。渐进式披露不是UX技巧，是你知道什么才重要的证明。"
         }
       },
       {
