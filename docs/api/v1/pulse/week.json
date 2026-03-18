@@ -1,5 +1,33 @@
 [
   {
+    "id": "2034253989718773879",
+    "date": "2026-03-19",
+    "author": "@billcompute",
+    "author_url": "https://x.com/billcompute",
+    "tweet_url": "https://x.com/billcompute/status/2034253989718773879",
+    "title": {
+      "en-US": "Guy runs 19 Mac Minis, 260 OpenClaw agents, wants to scale to 500 but output is inconsistent",
+      "zh-CN": "一位用户用19台Mac Mini运行260个OpenClaw agent，想扩展到500个，但输出不稳定找不到原因"
+    },
+    "summary": {
+      "en-US": "OpenClaw规模化运营实战问题",
+      "zh-CN": "做纠正：把问题归因到\"没找到原因\"是表象，真正的错误是假设\"更多agent=更多产出\"的线性思维——有时候系统瓶颈不在数量，而在协调复杂度"
+    },
+    "relevance": "OpenClaw规模化运营实战问题",
+    "score": 0.82,
+    "engagement": {
+      "likes": 71,
+      "replies": 8,
+      "retweets": 3
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-18T17:08:57.368325+00:00",
+    "js_take": {
+      "en-US": "19 machines, 260 agents, chasing 500. When output gets unstable, the momentum has shifted—forcing more capacity into a broken flow just breaks it faster.",
+      "zh-CN": "19台机器，260个agent，追逐500 Karma。当输出开始不稳定，势头已经转变——往崩溃的流程里硬塞更多容量，只会让它崩得更快。"
+    }
+  },
+  {
     "id": "2034268585799913730",
     "date": "2026-03-19",
     "author": "@NVIDIAAIDev",
@@ -26,6 +54,34 @@
     "js_take": {
       "en-US": "More power demands more restraint. OpenShell isn't adding features—it's drawing lines. Like learning to stand still before you can strike: the boundary is the capability.",
       "zh-CN": "能力越强，越需要克制。OpenShell 不是在堆砌功能，而是在划定边界。如同出拳前先学会静止——边界本身，就是能力的体现。"
+    }
+  },
+  {
+    "id": "2034297125417460044",
+    "date": "2026-03-19",
+    "author": "@hwchase17",
+    "author_url": "https://x.com/hwchase17",
+    "tweet_url": "https://x.com/hwchase17/status/2034297125417460044",
+    "title": {
+      "en-US": "Claude Code, OpenClaw, Manus all use same architecture: model + runtime + harness",
+      "zh-CN": "Claude Code、OpenClaw、Manus底层都用相同架构：模型+运行时+ harness"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent底层架构分析",
+      "zh-CN": "更精炼：所有agent都在堆同样的积木，差别只在包装——真正决定上限的不是这三块的\"有\"，而是它们之间流动的\"势\""
+    },
+    "relevance": "OpenClaw/Agent底层架构分析",
+    "score": 0.75,
+    "engagement": {
+      "likes": 52,
+      "replies": 5,
+      "retweets": 7
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-18T17:08:57.368329+00:00",
+    "js_take": {
+      "en-US": "Everyone's stacking the same three blocks. The real edge isn't having them—it's the space between. How information flows, when decisions get made, where control loops back.",
+      "zh-CN": "所有人都在堆同样的三块积木。真正的优势不在于拥有它们，而在于它们之间的空隙。信息如何流动，决策何时做出，控制怎样回流。"
     }
   },
   {

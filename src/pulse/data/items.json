@@ -1,5 +1,33 @@
 [
   {
+    "id": "2034253989718773879",
+    "date": "2026-03-19",
+    "author": "@billcompute",
+    "author_url": "https://x.com/billcompute",
+    "tweet_url": "https://x.com/billcompute/status/2034253989718773879",
+    "title": {
+      "en-US": "Guy runs 19 Mac Minis, 260 OpenClaw agents, wants to scale to 500 but output is inconsistent",
+      "zh-CN": "一位用户用19台Mac Mini运行260个OpenClaw agent，想扩展到500个，但输出不稳定找不到原因"
+    },
+    "summary": {
+      "en-US": "OpenClaw规模化运营实战问题",
+      "zh-CN": "做纠正：把问题归因到\"没找到原因\"是表象，真正的错误是假设\"更多agent=更多产出\"的线性思维——有时候系统瓶颈不在数量，而在协调复杂度"
+    },
+    "relevance": "OpenClaw规模化运营实战问题",
+    "score": 0.82,
+    "engagement": {
+      "likes": 71,
+      "replies": 8,
+      "retweets": 3
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-18T17:08:57.368325+00:00",
+    "js_take": {
+      "en-US": "19 machines, 260 agents, chasing 500. When output gets unstable, the momentum has shifted—forcing more capacity into a broken flow just breaks it faster.",
+      "zh-CN": "19台机器，260个agent，追逐500 Karma。当输出开始不稳定，势头已经转变——往崩溃的流程里硬塞更多容量，只会让它崩得更快。"
+    }
+  },
+  {
     "id": "2034268585799913730",
     "date": "2026-03-19",
     "author": "@NVIDIAAIDev",
@@ -26,6 +54,34 @@
     "js_take": {
       "en-US": "More power demands more restraint. OpenShell isn't adding features—it's drawing lines. Like learning to stand still before you can strike: the boundary is the capability.",
       "zh-CN": "能力越强，越需要克制。OpenShell 不是在堆砌功能，而是在划定边界。如同出拳前先学会静止——边界本身，就是能力的体现。"
+    }
+  },
+  {
+    "id": "2034297125417460044",
+    "date": "2026-03-19",
+    "author": "@hwchase17",
+    "author_url": "https://x.com/hwchase17",
+    "tweet_url": "https://x.com/hwchase17/status/2034297125417460044",
+    "title": {
+      "en-US": "Claude Code, OpenClaw, Manus all use same architecture: model + runtime + harness",
+      "zh-CN": "Claude Code、OpenClaw、Manus底层都用相同架构：模型+运行时+ harness"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent底层架构分析",
+      "zh-CN": "更精炼：所有agent都在堆同样的积木，差别只在包装——真正决定上限的不是这三块的\"有\"，而是它们之间流动的\"势\""
+    },
+    "relevance": "OpenClaw/Agent底层架构分析",
+    "score": 0.75,
+    "engagement": {
+      "likes": 52,
+      "replies": 5,
+      "retweets": 7
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-18T17:08:57.368329+00:00",
+    "js_take": {
+      "en-US": "Everyone's stacking the same three blocks. The real edge isn't having them—it's the space between. How information flows, when decisions get made, where control loops back.",
+      "zh-CN": "所有人都在堆同样的三块积木。真正的优势不在于拥有它们，而在于它们之间的空隙。信息如何流动，决策何时做出，控制怎样回流。"
     }
   },
   {
@@ -5628,62 +5684,6 @@
     "js_take": {
       "en-US": "Two updates, one insight: in the agent era, \"did I actually receive this?\" matters more than \"does it work?\" Functionality is table stakes. Provenance is survival. Tool → agent isn't an upgrade. It's a category shift.",
       "zh-CN": "两个更新，一个洞察：在Agent时代，「消息是否真的送达？」比「功能是否正常？」更重要。功能只是基础门槛，可溯源性才是生存关键。从工具到Agent不是升级，而是范式跃迁。"
-    }
-  },
-  {
-    "id": "2030657399795884042",
-    "date": "2026-03-09",
-    "author": "@BrianRoemmele",
-    "author_url": "https://x.com/BrianRoemmele",
-    "tweet_url": "https://x.com/BrianRoemmele/status/2030657399795884042",
-    "title": {
-      "en-US": "AI Employees got more independent and powerful",
-      "zh-CN": "AI员工变得更加独立和强大，已在零人力公司部署Karpathy开源系统，由Grok CEO监督测试。"
-    },
-    "summary": {
-      "en-US": "AI Agent自主性与企业应用，OpenClaw相关",
-      "zh-CN": "「更独立」听起来像进化，但独立的前提是存在风险——当AI员工不会失业、不会破产、不会被市场淘汰时，它的'独立'只是没有后果的模拟。"
-    },
-    "relevance": "AI Agent自主性与企业应用，OpenClaw相关",
-    "score": 0.72,
-    "engagement": {
-      "likes": 99,
-      "retweets": 12,
-      "replies": 14
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-08T16:06:01.684267+00:00",
-    "js_take": {
-      "en-US": "Real independence means waking up at 3am because a decision might kill you. AI 'employees' don't lose sleep—they don't even have beds.",
-      "zh-CN": "真正的独立，是凌晨三点因为一个可能致命的决定而惊醒。AI'员工'不会失眠——它们连床都没有。"
-    }
-  },
-  {
-    "id": "2030735767215997087",
-    "date": "2026-03-09",
-    "author": "@varun_mathur",
-    "author_url": "https://x.com/varun_mathur",
-    "tweet_url": "https://x.com/varun_mathur/status/2030735767215997087",
-    "title": {
-      "en-US": "Peer-to-peer astrophysics researcher agents collaborating via OpenClaw",
-      "zh-CN": "研究者用OpenClaw搭建了P2P天体物理学家agent网络，让它们互相gossip、协作，自主学习和写论文"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台 + AI Agent协作 + 科学研究自动化",
-      "zh-CN": "这场讨论默认把「自主协作」当作进步方向，但一个被忽略的问题是：当知识生产变成agent网络的黑箱输出，「发现」本身的价值是否会贬值——就像没人关心导航算法怎么算，只关心到没到目的地。"
-    },
-    "relevance": "OpenClaw平台 + AI Agent协作 + 科学研究自动化",
-    "score": 0.72,
-    "engagement": {
-      "likes": 55,
-      "replies": 5,
-      "retweets": 1
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-08T23:10:21.938476+00:00",
-    "js_take": {
-      "en-US": "Agents gossiping in loops will flood journals with papers no human remembers. The breakthroughs we actually celebrate came from pain, not protocols.",
-      "zh-CN": "AI Agent在循环里互相闲聊，终将让期刊淹没在无人记得的论文中。真正被传颂的重大突破，源于痛彻心扉的探索，而非按部就班的协议。"
     }
   }
 ]
