@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-18T09:11:51.952347+00:00",
+  "updated_at": "2026-03-18T10:12:34.470453+00:00",
   "this_week": {
-    "total_items": 34,
+    "total_items": 39,
     "avg_score": 0.79,
-    "unique_authors": 33,
+    "unique_authors": 38,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -177,6 +177,34 @@
         "js_take": {
           "en-US": "316k stars in 4 months. Ask maintainers: how many are from users shipping production code vs FOMO bookmarking? Real growth doesn't need to flex on Linux.",
           "zh-CN": "4 个月 31.6k star。想问问维护者：这里面有多少是真在生产环境跑代码的用户贡献的，又有多少只是怕错过的收藏党？真正的增长，不需要拿 Linux 当参照物来秀肌肉。"
+        }
+      },
+      {
+        "id": "2034134875234832540",
+        "date": "2026-03-18",
+        "author": "@nickbaumann_",
+        "author_url": "https://x.com/nickbaumann_",
+        "tweet_url": "https://x.com/nickbaumann_/status/2034134875234832540",
+        "title": {
+          "en-US": "GPT-5.4 mini enables fast subagents to explore repos while parent thread holds architecture",
+          "zh-CN": "GPT-5.4 mini 让子 Agent 快速探索代码库，父线程专注架构和叙事，解决注意力分配问题"
+        },
+        "summary": {
+          "en-US": "子 Agent 架构设计——与 OpenClaw subagent 机制直接相关",
+          "zh-CN": "推文的「父线程保架构、子线程干脏活」是一种效率优化思维，但真正的洞察是：注意力分配本身就是架构设计的第一性原则，不是优化项。"
+        },
+        "relevance": "子 Agent 架构设计——与 OpenClaw subagent 机制直接相关",
+        "score": 0.82,
+        "engagement": {
+          "likes": 191,
+          "replies": 12,
+          "retweets": 14
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-18T10:12:15.333187+00:00",
+        "js_take": {
+          "en-US": "You optimized for speed, but the real unlock is attention architecture. The parent thread shouldn't just 'hold state'—it should define boundaries. That's the real watershed for agentic systems.",
+          "zh-CN": "你优化了速度，但真正的突破在于注意力架构。父线程不应只是'保持状态'——它应该定义边界。这才是代理系统的分水岭。"
         }
       },
       {
@@ -493,6 +521,34 @@
         }
       },
       {
+        "id": "2034129973615989040",
+        "date": "2026-03-18",
+        "author": "@tvytlx",
+        "author_url": "https://x.com/tvytlx",
+        "tweet_url": "https://x.com/tvytlx/status/2034129973615989040",
+        "title": {
+          "en-US": "OpenClaw tutoring business: parents monitor kids via dual channels, customize with soul.md",
+          "zh-CN": "OpenClaw 辅导小孩作业的商业模式：家长双频道监控、用 soul.md 定制风格、设计 skill 做奖励机制"
+        },
+        "summary": {
+          "en-US": "OpenClaw 商业化落地案例——教育场景+家长付费意愿",
+          "zh-CN": "推文在讲「怎么用 OpenClaw 赚钱」，但更深一层是：家长买的不是功能，是「可控的代理」——既要 AI 做事，又要时刻盯着 AI 怎么做事。"
+        },
+        "relevance": "OpenClaw 商业化落地案例——教育场景+家长付费意愿",
+        "score": 0.78,
+        "engagement": {
+          "likes": 85,
+          "replies": 7,
+          "retweets": 8
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-18T10:12:15.333192+00:00",
+        "js_take": {
+          "en-US": "This business doesn't sell AI tutoring. It sells the illusion of control. Parents aren't paying for better grades—they're paying to watch.",
+          "zh-CN": "这门生意卖的不是AI辅导，而是掌控感的幻觉。家长付费不是为了更好的成绩——他们付费是为了围观。"
+        }
+      },
+      {
         "id": "2033685207954477083",
         "date": "2026-03-17",
         "author": "@santtiagom_",
@@ -694,6 +750,34 @@
         }
       },
       {
+        "id": "2034075287206695345",
+        "date": "2026-03-18",
+        "author": "@tmel0211",
+        "author_url": "https://x.com/tmel0211",
+        "tweet_url": "https://x.com/tmel0211/status/2034075287206695345",
+        "title": {
+          "en-US": "Anthropic Dispatch vs OpenClaw comparison: phone command, desktop execution",
+          "zh-CN": "Anthropic 推出 OpenClaw 竞品 Dispatch，主打手机发指令、电脑执行、随身查看进度"
+        },
+        "summary": {
+          "en-US": "OpenClaw 竞品分析——Anthropic 官方下场做 agent 平台",
+          "zh-CN": "推文在对比 Dispatch 和 OpenClaw 的功能差异，但核心冲突是：大厂用「生态整合」打「独立开放」，但 agent 层的胜负手不在功能，在「谁定义 agent 之间的语言」。"
+        },
+        "relevance": "OpenClaw 竞品分析——Anthropic 官方下场做 agent 平台",
+        "score": 0.75,
+        "engagement": {
+          "likes": 19,
+          "replies": 10,
+          "retweets": 1
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-18T10:12:15.333195+00:00",
+        "js_take": {
+          "en-US": "Phone-desktop sync is surface convenience. The real war is who defines the protocol between agents. Dispatch wins on UX, loses on dialect—closed agents that can't speak 'vernacular' get drowned by the interoperable swarm.",
+          "zh-CN": "手机桌面同步只是表面便利。真正的战争是谁来定义代理之间的协议。Dispatch赢在体验，输在方言——封闭的代理不会讲'土话'，终将被互操作的群体淹没。"
+        }
+      },
+      {
         "id": "2033847237550477662",
         "date": "2026-03-17",
         "author": "@oran_ge",
@@ -749,6 +833,34 @@
         "js_take": {
           "en-US": "Six agents sounds complex. The magic isn't adding more—it's designing them to stay out of each other's way. Elegance through non-interference.",
           "zh-CN": "六个 Agent 听着复杂。真正的魔法不是堆数量，而是设计它们互不干涉。优雅，来自不打扰。"
+        }
+      },
+      {
+        "id": "2034092771150336200",
+        "date": "2026-03-18",
+        "author": "@kasong2048",
+        "author_url": "https://x.com/kasong2048",
+        "tweet_url": "https://x.com/kasong2048/status/2034092771150336200",
+        "title": {
+          "en-US": "Made 30k RMB from OpenClaw consulting: client feared competitors' 'lobster armies'",
+          "zh-CN": "靠 OpenClaw 咨询赚了3万：客户因为怕被'指挥龙虾军团的友商'甩开而焦虑买单"
+        },
+        "summary": {
+          "en-US": "OpenClaw 商业化——焦虑驱动的付费，典型的泡沫期现象",
+          "zh-CN": "推文在展示「如何靠 OpenClaw 赚钱」，但本质是一个认知套利：客户的焦虑来自「不知道对手在干什么」，而非「知道自己该干什么」。"
+        },
+        "relevance": "OpenClaw 商业化——焦虑驱动的付费，典型的泡沫期现象",
+        "score": 0.74,
+        "engagement": {
+          "likes": 89,
+          "replies": 12,
+          "retweets": 10
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-03-18T10:12:15.333197+00:00",
+        "js_take": {
+          "en-US": "You sold anxiety hedge, not productivity. When everyone's buying 'what competitors are doing,' who's building what actually works?",
+          "zh-CN": "你卖的是焦虑对冲，不是生产力。当所有人都在买'竞争对手在做什么'，谁在造真正有用的东西？"
         }
       },
       {
@@ -921,69 +1033,11 @@
           "en-US": "Dumping everything at once isn't generosity—it's fog. Progressive disclosure isn't a UX trick; it's proof you know what matters.",
           "zh-CN": "一次性倒出来不是慷慨，是迷雾。渐进式披露不是UX技巧，是你知道什么才重要的证明。"
         }
-      },
-      {
-        "id": "2033880731202547784",
-        "date": "2026-03-17",
-        "author": "@jspeiser",
-        "author_url": "https://x.com/jspeiser",
-        "tweet_url": "https://x.com/jspeiser/status/2033880731202547784",
-        "title": {
-          "en-US": "no-code tools like OpenClaw will get so advanced that non‑technical peeps can't safely run them alone",
-          "zh-CN": "OpenClaw 这类无代码工具会变得如此先进，以至于非技术人员无法安全地独自运行它们——当 agent 开始「偏离脚本」时，你需要能调试其记忆的人"
-        },
-        "summary": {
-          "en-US": "OpenClaw 平台 + 表/里世界认知变化",
-          "zh-CN": "这正是「表世界退化为数据库，里世界成为新交互层」的鲜活案例。非技术人员以为自己在用「无代码」工具，实际上他们进入了一个需要理解 agent 心智模型的里世界——门槛没有消失，只是转移了。"
-        },
-        "relevance": "OpenClaw 平台 + 表/里世界认知变化",
-        "score": 0.71,
-        "engagement": {
-          "likes": 12,
-          "replies": 8,
-          "retweets": 0
-        },
-        "comment_type": "biaoli_insight",
-        "synced_at": "2026-03-17T14:10:33.898621+00:00",
-        "js_take": {
-          "en-US": "The barrier didn't disappear—it migrated. From writing code to understanding how agents think. Surface looks simple. Inner world is where the real complexity lives.",
-          "zh-CN": "门槛并没有消失，只是转移了——从写代码，转移到了理解 Agent 怎么思考。表面看着简单，真正的复杂度藏在里世界。"
-        }
-      },
-      {
-        "id": "2033220627461550537",
-        "date": "2026-03-16",
-        "author": "@robin_liquidium",
-        "author_url": "https://x.com/robin_liquidium",
-        "tweet_url": "https://x.com/robin_liquidium/status/2033220627461550537",
-        "title": {
-          "en-US": "agent-browser 31x speed with lightpanda",
-          "zh-CN": "agent-browser支持lightpanda浏览器后，比OpenClaw内置浏览器快31倍"
-        },
-        "summary": {
-          "en-US": "OpenClaw工具链性能优化，技术栈选择",
-          "zh-CN": "31倍提速听起来像魔法，但深层问题是：为什么最初的设计选择了「慢但能跑通」而不是「快但需要重构」？有时候，先让系统转起来比让它转得快更重要——优化是第二步的势。"
-        },
-        "relevance": "OpenClaw工具链性能优化，技术栈选择",
-        "score": 0.71,
-        "engagement": {
-          "likes": 76,
-          "replies": 4,
-          "retweets": 3,
-          "views": 4596,
-          "bookmarks": 88
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-16T01:08:34.938169+00:00",
-        "js_take": {
-          "en-US": "31x faster sounds like the win. But the real call was shipping slow first. Working beats optimal when optimal delays the lesson.",
-          "zh-CN": "31倍提速听着很爽。但真正的决策是先慢后快。能用比完美重要——尤其当完美只会推迟你学到教训的时间。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 154
+    "unique_authors": 156
   }
 }
