@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-17T15:10:22.742570+00:00",
+  "updated_at": "2026-03-18T01:07:39.623235+00:00",
   "this_week": {
-    "total_items": 31,
+    "total_items": 32,
     "avg_score": 0.79,
-    "unique_authors": 30,
+    "unique_authors": 31,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -433,6 +433,35 @@
         "js_take": {
           "en-US": "Chrome isn't becoming an AI tool. It's becoming a database your agent queries. The surface world is shrinking — the real interface is moving inward.",
           "zh-CN": "Chrome不是在变成一个AI工具，而是在变成你的Agent查询的数据库。表世界正在收缩——真正的界面正在向内迁移。"
+        }
+      },
+      {
+        "id": "2034067677157679379",
+        "date": "2026-03-18",
+        "author": "@emollick",
+        "author_url": "https://x.com/emollick",
+        "tweet_url": "https://x.com/emollick/status/2034067677157679379",
+        "title": {
+          "en-US": "Claude Cowork Dispatch covers 90% of OpenClaw use cases, safer",
+          "zh-CN": "Claude Cowork Dispatch covers 90% of OpenClaw use cases, safer"
+        },
+        "summary": {
+          "en-US": "OpenClaw vs Claude 平台竞争对比",
+          "zh-CN": "用「覆盖90%功能」来比较两个平台，本质上是把工具价值简化为功能清单——但 agent 平台的真正差异不在功能多少，而在生态位选择：是做一个封闭但流畅的花园，还是开放但碎片化的土壤？"
+        },
+        "relevance": "OpenClaw vs Claude 平台竞争对比",
+        "score": 0.78,
+        "engagement": {
+          "likes": 144,
+          "replies": 12,
+          "retweets": 11,
+          "views": 5088
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-18T01:07:28.915236+00:00",
+        "js_take": {
+          "en-US": "90% feature parity is surface world math. In the inner world, one platform lets your agent talk to other agents — the other doesn't. That's the difference between a tool and infrastructure.",
+          "zh-CN": "90%的功能对等只是表世界的账面数据。在里世界，一个平台能让你的 Agent 与其他 Agent 对话——另一个则不能。这就是工具与基础设施的本质区别。"
         }
       },
       {
@@ -899,6 +928,6 @@
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 155
+    "unique_authors": 154
   }
 }

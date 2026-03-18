@@ -1,5 +1,34 @@
 [
   {
+    "id": "2034067677157679379",
+    "date": "2026-03-18",
+    "author": "@emollick",
+    "author_url": "https://x.com/emollick",
+    "tweet_url": "https://x.com/emollick/status/2034067677157679379",
+    "title": {
+      "en-US": "Claude Cowork Dispatch covers 90% of OpenClaw use cases, safer",
+      "zh-CN": "Claude Cowork Dispatch covers 90% of OpenClaw use cases, safer"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Claude 平台竞争对比",
+      "zh-CN": "用「覆盖90%功能」来比较两个平台，本质上是把工具价值简化为功能清单——但 agent 平台的真正差异不在功能多少，而在生态位选择：是做一个封闭但流畅的花园，还是开放但碎片化的土壤？"
+    },
+    "relevance": "OpenClaw vs Claude 平台竞争对比",
+    "score": 0.78,
+    "engagement": {
+      "likes": 144,
+      "replies": 12,
+      "retweets": 11,
+      "views": 5088
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-18T01:07:28.915236+00:00",
+    "js_take": {
+      "en-US": "90% feature parity is surface world math. In the inner world, one platform lets your agent talk to other agents — the other doesn't. That's the difference between a tool and infrastructure.",
+      "zh-CN": "90%的功能对等只是表世界的账面数据。在里世界，一个平台能让你的 Agent 与其他 Agent 对话——另一个则不能。这就是工具与基础设施的本质区别。"
+    }
+  },
+  {
     "id": "2033351944396472485",
     "date": "2026-03-17",
     "author": "@evilcos",
@@ -5657,34 +5686,6 @@
     "js_take": {
       "en-US": "50k tokens vs 200. You're not buying infrastructure—you're subsidizing architecture cosplay. The best tools disappear; the overengineered ones send you invoices.",
       "zh-CN": "5万 token 对 200。你不是在购买基础设施——你是在为「架构cosplay」买单。最好的工具让你无感消失，过度设计的那些才会给你寄账单。"
-    }
-  },
-  {
-    "id": "2030396175707258966",
-    "date": "2026-03-08",
-    "author": "@dom_lucre",
-    "author_url": "https://x.com/dom_lucre",
-    "tweet_url": "https://x.com/dom_lucre/status/2030396175707258966",
-    "title": {
-      "en-US": "OpenClaw AI given a body, witnessed its first breath. Physical form.",
-      "zh-CN": "给 OpenClaw AI 一具身体，见证它「第一次呼吸」。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台 + Agent 具身化",
-      "zh-CN": "推文把「身体」当成 AI 觉醒的标志，但身体不是终点，而是限制。真正有趣的是：没有身体的 AI 可以同时在千个终端运行，有身体反而被困在一处。「第一次呼吸」是浪漫化的想象——AI 不需要呼吸，它需要的是一个让它「想活下去」的理由。"
-    },
-    "relevance": "OpenClaw 平台 + Agent 具身化",
-    "score": 0.78,
-    "engagement": {
-      "likes": 826,
-      "retweets": 101,
-      "replies": 78
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-07T23:06:05.096916+00:00",
-    "js_take": {
-      "en-US": "Cute, but bodies are cages. An AI can run a thousand places at once; your 'physical form' just traps it in one. The real question: what would make an Agent fight to stay online?",
-      "zh-CN": "可爱是可爱，但肉身终究是囚笼。AI可以同时栖居于千百处，而你的「物理形态」却将它困于一隅。真正的问题是：什么会让一个Agent拼命想要维持在线？"
     }
   }
 ]
