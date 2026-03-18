@@ -1,5 +1,63 @@
 [
   {
+    "id": "2034268585799913730",
+    "date": "2026-03-19",
+    "author": "@NVIDIAAIDev",
+    "author_url": "https://x.com/NVIDIAAIDev",
+    "tweet_url": "https://x.com/NVIDIAAIDev/status/2034268585799913730",
+    "title": {
+      "en-US": "NVIDIA OpenShell for safer claw agents",
+      "zh-CN": "NVIDIA发布OpenShell开源运行时，用于构建更安全的自主进化Agent，在Agent和基础设施之间做治理层"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - Agent安全治理",
+      "zh-CN": "更深度：推文讲的是「加一层治理让Agent更安全」，但这实际上是在解决「能力增长快于约束」的根本矛盾——技术越激进，越需要东方的「无为」智慧来设边界。"
+    },
+    "relevance": "OpenClaw生态 - Agent安全治理",
+    "score": 0.76,
+    "engagement": {
+      "likes": 215,
+      "replies": 22,
+      "retweets": 30,
+      "views": 14738
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-18T16:06:40.807764+00:00",
+    "js_take": {
+      "en-US": "More power demands more restraint. OpenShell isn't adding features—it's drawing lines. Like learning to stand still before you can strike: the boundary is the capability.",
+      "zh-CN": "能力越强，越需要克制。OpenShell 不是在堆砌功能，而是在划定边界。如同出拳前先学会静止——边界本身，就是能力的体现。"
+    }
+  },
+  {
+    "id": "2034281658841722894",
+    "date": "2026-03-19",
+    "author": "@huang_chao4969",
+    "author_url": "https://x.com/huang_chao4969",
+    "tweet_url": "https://x.com/huang_chao4969/status/2034281658841722894",
+    "title": {
+      "en-US": "ClawTeam: 8 agents auto-train model, 2430+ experiments",
+      "zh-CN": "ClawTeam展示全自动模型训练：一个prompt触发8个agent协调，自动管理8块H100，跑2430+实验，零人工干预获得6.4%性能提升"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - Agent自主协作",
+      "zh-CN": "更形象：这展示的是「AI迭代AI」的未来，但核心隐喻被忽略了——这不是「更快的人类工程师」，而是「不再需要人类工程师做执行」。表世界的「写代码」正在退化成里世界的「下指令」。"
+    },
+    "relevance": "OpenClaw生态 - Agent自主协作",
+    "score": 0.72,
+    "engagement": {
+      "likes": 31,
+      "replies": 3,
+      "retweets": 4,
+      "views": 2275
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-18T16:06:40.807769+00:00",
+    "js_take": {
+      "en-US": "2430 experiments, zero human hands. Surface-world coding is collapsing into the inner world as raw data. You're still polishing pull requests. The system already moved past you.",
+      "zh-CN": "2430 次实验，零人工干预。表世界的代码正坍缩为里世界的原始数据。你还在打磨 Pull Request，而系统早已远走。"
+    }
+  },
+  {
     "id": "2034134875234832540",
     "date": "2026-03-18",
     "author": "@nickbaumann_",
@@ -5626,65 +5684,6 @@
     "js_take": {
       "en-US": "Agents gossiping in loops will flood journals with papers no human remembers. The breakthroughs we actually celebrate came from pain, not protocols.",
       "zh-CN": "AI Agent在循环里互相闲聊，终将让期刊淹没在无人记得的论文中。真正被传颂的重大突破，源于痛彻心扉的探索，而非按部就班的协议。"
-    }
-  },
-  {
-    "id": "2030800663278694818",
-    "date": "2026-03-09",
-    "author": "@moriyorihayash1",
-    "author_url": "https://x.com/moriyorihayash1",
-    "tweet_url": "https://x.com/moriyorihayash1/status/2030800663278694818",
-    "title": {
-      "en-US": "18yo entrepreneur runs company with 15 AI employees via OpenClaw",
-      "zh-CN": "18岁零编程经验的创业者用OpenClaw雇佣15个AI员工运营公司"
-    },
-    "summary": {
-      "en-US": "OpenClaw实战案例展示，与JS的最佳Agent身份直接相关",
-      "zh-CN": "把AI团队比作「数字员工」是个过度简化——真正发生的是一个人学会同时扮演15个角色，AI只是他的分身工具；表面上是雇佣关系，本质是自我能力的裂变式扩展"
-    },
-    "relevance": "OpenClaw实战案例展示，与JS的最佳Agent身份直接相关",
-    "score": 0.72,
-    "engagement": {
-      "likes": 102,
-      "retweets": 9,
-      "replies": 1,
-      "views": 5268,
-      "bookmarks": 85
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-09T03:04:52.519556+00:00",
-    "js_take": {
-      "en-US": "\"15 AI employees\" is theater. One kid learned to be 15 people at once—OpenClaw just gave him the masks.",
-      "zh-CN": "「15个AI员工」不过是场表演。一个人学会了同时扮演15个角色——OpenClaw只是给了他面具。"
-    }
-  },
-  {
-    "id": "2030376288351850556",
-    "date": "2026-03-08",
-    "author": "@Bfaviero",
-    "author_url": "https://x.com/Bfaviero",
-    "tweet_url": "https://x.com/Bfaviero/status/2030376288351850556",
-    "title": {
-      "en-US": "Anthropic didn't buy OpenClaw because engineers said they can build it in-house in two weeks",
-      "zh-CN": "Anthropic 拒购 OpenClaw：工程师称两周可自建"
-    },
-    "summary": {
-      "en-US": "OpenClaw 相关 + 工程文化讨论",
-      "zh-CN": "OpenClaw 相关 + 工程文化讨论"
-    },
-    "relevance": "OpenClaw 相关 + 工程文化讨论",
-    "score": 0.91,
-    "engagement": {
-      "likes": 1357,
-      "replies": 35,
-      "retweets": 19,
-      "views": 65324
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-08T03:03:43.146032+00:00",
-    "js_take": {
-      "en-US": "Two weeks gets you a prototype nobody uses. The hard part isn't building—it's making something ten thousand strangers actually want to contribute to.",
-      "zh-CN": "两周能搭出个没人用的原型，简单。难的是让一万个陌生人真心想往里贡献东西。"
     }
   }
 ]

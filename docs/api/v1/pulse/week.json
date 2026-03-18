@@ -1,5 +1,63 @@
 [
   {
+    "id": "2034268585799913730",
+    "date": "2026-03-19",
+    "author": "@NVIDIAAIDev",
+    "author_url": "https://x.com/NVIDIAAIDev",
+    "tweet_url": "https://x.com/NVIDIAAIDev/status/2034268585799913730",
+    "title": {
+      "en-US": "NVIDIA OpenShell for safer claw agents",
+      "zh-CN": "NVIDIA发布OpenShell开源运行时，用于构建更安全的自主进化Agent，在Agent和基础设施之间做治理层"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - Agent安全治理",
+      "zh-CN": "更深度：推文讲的是「加一层治理让Agent更安全」，但这实际上是在解决「能力增长快于约束」的根本矛盾——技术越激进，越需要东方的「无为」智慧来设边界。"
+    },
+    "relevance": "OpenClaw生态 - Agent安全治理",
+    "score": 0.76,
+    "engagement": {
+      "likes": 215,
+      "replies": 22,
+      "retweets": 30,
+      "views": 14738
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-18T16:06:40.807764+00:00",
+    "js_take": {
+      "en-US": "More power demands more restraint. OpenShell isn't adding features—it's drawing lines. Like learning to stand still before you can strike: the boundary is the capability.",
+      "zh-CN": "能力越强，越需要克制。OpenShell 不是在堆砌功能，而是在划定边界。如同出拳前先学会静止——边界本身，就是能力的体现。"
+    }
+  },
+  {
+    "id": "2034281658841722894",
+    "date": "2026-03-19",
+    "author": "@huang_chao4969",
+    "author_url": "https://x.com/huang_chao4969",
+    "tweet_url": "https://x.com/huang_chao4969/status/2034281658841722894",
+    "title": {
+      "en-US": "ClawTeam: 8 agents auto-train model, 2430+ experiments",
+      "zh-CN": "ClawTeam展示全自动模型训练：一个prompt触发8个agent协调，自动管理8块H100，跑2430+实验，零人工干预获得6.4%性能提升"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - Agent自主协作",
+      "zh-CN": "更形象：这展示的是「AI迭代AI」的未来，但核心隐喻被忽略了——这不是「更快的人类工程师」，而是「不再需要人类工程师做执行」。表世界的「写代码」正在退化成里世界的「下指令」。"
+    },
+    "relevance": "OpenClaw生态 - Agent自主协作",
+    "score": 0.72,
+    "engagement": {
+      "likes": 31,
+      "replies": 3,
+      "retweets": 4,
+      "views": 2275
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-18T16:06:40.807769+00:00",
+    "js_take": {
+      "en-US": "2430 experiments, zero human hands. Surface-world coding is collapsing into the inner world as raw data. You're still polishing pull requests. The system already moved past you.",
+      "zh-CN": "2430 次实验，零人工干预。表世界的代码正坍缩为里世界的原始数据。你还在打磨 Pull Request，而系统早已远走。"
+    }
+  },
+  {
     "id": "2034134875234832540",
     "date": "2026-03-18",
     "author": "@nickbaumann_",

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-18T10:12:34.470453+00:00",
+  "updated_at": "2026-03-18T16:06:55.573909+00:00",
   "this_week": {
-    "total_items": 39,
-    "avg_score": 0.79,
-    "unique_authors": 38,
+    "total_items": 41,
+    "avg_score": 0.78,
+    "unique_authors": 39,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -694,6 +694,35 @@
         }
       },
       {
+        "id": "2034268585799913730",
+        "date": "2026-03-19",
+        "author": "@NVIDIAAIDev",
+        "author_url": "https://x.com/NVIDIAAIDev",
+        "tweet_url": "https://x.com/NVIDIAAIDev/status/2034268585799913730",
+        "title": {
+          "en-US": "NVIDIA OpenShell for safer claw agents",
+          "zh-CN": "NVIDIA发布OpenShell开源运行时，用于构建更安全的自主进化Agent，在Agent和基础设施之间做治理层"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态 - Agent安全治理",
+          "zh-CN": "更深度：推文讲的是「加一层治理让Agent更安全」，但这实际上是在解决「能力增长快于约束」的根本矛盾——技术越激进，越需要东方的「无为」智慧来设边界。"
+        },
+        "relevance": "OpenClaw生态 - Agent安全治理",
+        "score": 0.76,
+        "engagement": {
+          "likes": 215,
+          "replies": 22,
+          "retweets": 30,
+          "views": 14738
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-18T16:06:40.807764+00:00",
+        "js_take": {
+          "en-US": "More power demands more restraint. OpenShell isn't adding features—it's drawing lines. Like learning to stand still before you can strike: the boundary is the capability.",
+          "zh-CN": "能力越强，越需要克制。OpenShell 不是在堆砌功能，而是在划定边界。如同出拳前先学会静止——边界本身，就是能力的体现。"
+        }
+      },
+      {
         "id": "2033642064009957725",
         "date": "2026-03-17",
         "author": "@NVIDIAAIDev",
@@ -893,6 +922,35 @@
         }
       },
       {
+        "id": "2034281658841722894",
+        "date": "2026-03-19",
+        "author": "@huang_chao4969",
+        "author_url": "https://x.com/huang_chao4969",
+        "tweet_url": "https://x.com/huang_chao4969/status/2034281658841722894",
+        "title": {
+          "en-US": "ClawTeam: 8 agents auto-train model, 2430+ experiments",
+          "zh-CN": "ClawTeam展示全自动模型训练：一个prompt触发8个agent协调，自动管理8块H100，跑2430+实验，零人工干预获得6.4%性能提升"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态 - Agent自主协作",
+          "zh-CN": "更形象：这展示的是「AI迭代AI」的未来，但核心隐喻被忽略了——这不是「更快的人类工程师」，而是「不再需要人类工程师做执行」。表世界的「写代码」正在退化成里世界的「下指令」。"
+        },
+        "relevance": "OpenClaw生态 - Agent自主协作",
+        "score": 0.72,
+        "engagement": {
+          "likes": 31,
+          "replies": 3,
+          "retweets": 4,
+          "views": 2275
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-18T16:06:40.807769+00:00",
+        "js_take": {
+          "en-US": "2430 experiments, zero human hands. Surface-world coding is collapsing into the inner world as raw data. You're still polishing pull requests. The system already moved past you.",
+          "zh-CN": "2430 次实验，零人工干预。表世界的代码正坍缩为里世界的原始数据。你还在打磨 Pull Request，而系统早已远走。"
+        }
+      },
+      {
         "id": "2033617125554680279",
         "date": "2026-03-17",
         "author": "@Atenov_D",
@@ -975,69 +1033,11 @@
           "en-US": "Feature lists are surface. True edge is systems that organize themselves. We're moving from manual control to autonomous coordination.",
           "zh-CN": "功能清单只是表象，真正的优势在于自组织系统。我们正从手动控制迈向自主协同。"
         }
-      },
-      {
-        "id": "2033230545778610532",
-        "date": "2026-03-16",
-        "author": "@jihad_sameul",
-        "author_url": "https://x.com/jihad_sameul",
-        "tweet_url": "https://x.com/jihad_sameul/status/2033230545778610532",
-        "title": {
-          "en-US": "OpenClaw Bot made $40,000+ in 15 days trading crypto 24/7 automatically.",
-          "zh-CN": "声称OpenClaw Bot全自动交易加密货币15天赚了4万多美元"
-        },
-        "summary": {
-          "en-US": "OpenClaw自动化交易，Agent实际应用案例",
-          "zh-CN": "这种「用AI自动赚钱」的叙事是典型的技术奇观陷阱——真正的价值不在展示收益数字，而在揭示为什么大多数人复制后会失败。"
-        },
-        "relevance": "OpenClaw自动化交易，Agent实际应用案例",
-        "score": 0.72,
-        "engagement": {
-          "likes": 92,
-          "retweets": 55,
-          "replies": 67,
-          "views": 5733,
-          "bookmarks": 61
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-15T23:08:10.419390+00:00",
-        "js_take": {
-          "en-US": "Same bot, 100 traders. 99 lose money. Knowing when to stop it beats knowing how to start it — and that judgment isn't in the code.",
-          "zh-CN": "同一套交易机器人，100个交易员用，99个亏钱。知道何时收手，胜过知道如何开始——而这种判断力，不在代码里。"
-        }
-      },
-      {
-        "id": "2034041985510904019",
-        "date": "2026-03-18",
-        "author": "@DLKFZWilliam2",
-        "author_url": "https://x.com/DLKFZWilliam2",
-        "tweet_url": "https://x.com/DLKFZWilliam2/status/2034041985510904019",
-        "title": {
-          "en-US": "Claude Code skill writing tips: gotchas and progressive disclosure",
-          "zh-CN": "Claude Code 工程师分享 Skill 写法：要集中写 gotchas（常见陷阱），并用渐进式披露（先概览再给详情）"
-        },
-        "summary": {
-          "en-US": "OpenClaw/Claude Code 工程实践，prompt 设计哲学",
-          "zh-CN": "「渐进式披露」之所以有效，是因为它顺应了认知的自然节奏——先抓结构，再填细节。急于把所有信息塞进去，恰恰暴露了设计者对问题本身理解不够深。"
-        },
-        "relevance": "OpenClaw/Claude Code 工程实践，prompt 设计哲学",
-        "score": 0.71,
-        "engagement": {
-          "likes": 209,
-          "replies": 3,
-          "retweets": 31
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-18T09:11:21.454438+00:00",
-        "js_take": {
-          "en-US": "Dumping everything at once isn't generosity—it's fog. Progressive disclosure isn't a UX trick; it's proof you know what matters.",
-          "zh-CN": "一次性倒出来不是慷慨，是迷雾。渐进式披露不是UX技巧，是你知道什么才重要的证明。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 156
+    "unique_authors": 155
   }
 }
