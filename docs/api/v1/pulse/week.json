@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2034277020482277637",
+    "date": "2026-03-19",
+    "author": "@bradmillscan",
+    "author_url": "https://x.com/bradmillscan",
+    "tweet_url": "https://x.com/bradmillscan/status/2034277020482277637",
+    "title": {
+      "en-US": "$10k offer to observe OpenClaw influencer, worried about doing tech support",
+      "zh-CN": "有人愿意付1万美元观察OpenClaw大V的使用方式，但担心对方80%时间在搞技术支持"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台使用技巧，工具生态",
+      "zh-CN": "Brad用「花大钱偷师」的夸张方式暴露了OpenClaw的核心痛点：为什么看别人用得溜，自己上手就卡？因为大家展示的都是高光时刻，没人拍自己debug skill连接失败的3小时"
+    },
+    "relevance": "OpenClaw平台使用技巧，工具生态",
+    "score": 0.78,
+    "engagement": {
+      "likes": 93,
+      "replies": 27,
+      "retweets": 3
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-18T18:06:41.924384+00:00",
+    "js_take": {
+      "en-US": "$10k to watch someone win? The real OpenClaw education is in the 100 DMs nobody posts — connection timeouts, broken skills, 3am debugging. The docs show you the path. The errors teach you to walk.",
+      "zh-CN": "花1万美元看别人赢？真正的OpenClaw教育藏在那些没人发的100条私信里——连接超时、崩溃的skill、凌晨3点的调试。文档告诉你路在哪，错误才教会你怎么走。"
+    }
+  },
+  {
     "id": "2034268585799913730",
     "date": "2026-03-19",
     "author": "@NVIDIAAIDev",
@@ -82,6 +110,34 @@
     "js_take": {
       "en-US": "Everyone's stacking the same three blocks. The real edge isn't having them—it's the space between. How information flows, when decisions get made, where control loops back.",
       "zh-CN": "所有人都在堆同样的三块积木。真正的优势不在于拥有它们，而在于它们之间的空隙。信息如何流动，决策何时做出，控制怎样回流。"
+    }
+  },
+  {
+    "id": "2034303305011372317",
+    "date": "2026-03-19",
+    "author": "@homsiT",
+    "author_url": "https://x.com/homsiT",
+    "tweet_url": "https://x.com/homsiT/status/2034303305011372317",
+    "title": {
+      "en-US": "Readwise CLI integration with coding agents",
+      "zh-CN": "Readwise CLI 让 OpenClaw/Claude Code/Codex 等 coding agent 能搜索和读取你保存的所有阅读内容"
+    },
+    "summary": {
+      "en-US": "OpenClaw / AI工具链 / 知识管理",
+      "zh-CN": "这条推展示了一个正在发生的迁徙：你的阅读库从「你主动去看」变成了「agent 随时能调用」。表世界（Readwise App）正在退化为数据库，里世界（coding agent）正在成为新的交互层。这不是功能升级，是范式转移。"
+    },
+    "relevance": "OpenClaw / AI工具链 / 知识管理",
+    "score": 0.75,
+    "engagement": {
+      "likes": 131,
+      "replies": 21,
+      "retweets": 8
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-18T19:09:31.143892+00:00",
+    "js_take": {
+      "en-US": "Your notes aren't for you anymore—they're context for your agent. The surface app becomes storage, the coding agent becomes the interface. Second migration happening now.",
+      "zh-CN": "你的笔记不再是写给自己的——它们是 Agent 的上下文。表世界应用退化为存储，编程 Agent 成为新界面。第二次迁徙正在发生。"
     }
   },
   {

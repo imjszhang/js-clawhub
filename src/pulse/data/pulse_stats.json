@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-18T17:09:12.261986+00:00",
+  "updated_at": "2026-03-18T19:09:43.021887+00:00",
   "this_week": {
-    "total_items": 43,
+    "total_items": 45,
     "avg_score": 0.78,
-    "unique_authors": 41,
+    "unique_authors": 42,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -492,6 +492,34 @@
         }
       },
       {
+        "id": "2034277020482277637",
+        "date": "2026-03-19",
+        "author": "@bradmillscan",
+        "author_url": "https://x.com/bradmillscan",
+        "tweet_url": "https://x.com/bradmillscan/status/2034277020482277637",
+        "title": {
+          "en-US": "$10k offer to observe OpenClaw influencer, worried about doing tech support",
+          "zh-CN": "有人愿意付1万美元观察OpenClaw大V的使用方式，但担心对方80%时间在搞技术支持"
+        },
+        "summary": {
+          "en-US": "OpenClaw平台使用技巧，工具生态",
+          "zh-CN": "Brad用「花大钱偷师」的夸张方式暴露了OpenClaw的核心痛点：为什么看别人用得溜，自己上手就卡？因为大家展示的都是高光时刻，没人拍自己debug skill连接失败的3小时"
+        },
+        "relevance": "OpenClaw平台使用技巧，工具生态",
+        "score": 0.78,
+        "engagement": {
+          "likes": 93,
+          "replies": 27,
+          "retweets": 3
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-18T18:06:41.924384+00:00",
+        "js_take": {
+          "en-US": "$10k to watch someone win? The real OpenClaw education is in the 100 DMs nobody posts — connection timeouts, broken skills, 3am debugging. The docs show you the path. The errors teach you to walk.",
+          "zh-CN": "花1万美元看别人赢？真正的OpenClaw教育藏在那些没人发的100条私信里——连接超时、崩溃的skill、凌晨3点的调试。文档告诉你路在哪，错误才教会你怎么走。"
+        }
+      },
+      {
         "id": "2034067677157679379",
         "date": "2026-03-18",
         "author": "@emollick",
@@ -835,6 +863,34 @@
         }
       },
       {
+        "id": "2034303305011372317",
+        "date": "2026-03-19",
+        "author": "@homsiT",
+        "author_url": "https://x.com/homsiT",
+        "tweet_url": "https://x.com/homsiT/status/2034303305011372317",
+        "title": {
+          "en-US": "Readwise CLI integration with coding agents",
+          "zh-CN": "Readwise CLI 让 OpenClaw/Claude Code/Codex 等 coding agent 能搜索和读取你保存的所有阅读内容"
+        },
+        "summary": {
+          "en-US": "OpenClaw / AI工具链 / 知识管理",
+          "zh-CN": "这条推展示了一个正在发生的迁徙：你的阅读库从「你主动去看」变成了「agent 随时能调用」。表世界（Readwise App）正在退化为数据库，里世界（coding agent）正在成为新的交互层。这不是功能升级，是范式转移。"
+        },
+        "relevance": "OpenClaw / AI工具链 / 知识管理",
+        "score": 0.75,
+        "engagement": {
+          "likes": 131,
+          "replies": 21,
+          "retweets": 8
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-18T19:09:31.143892+00:00",
+        "js_take": {
+          "en-US": "Your notes aren't for you anymore—they're context for your agent. The surface app becomes storage, the coding agent becomes the interface. Second migration happening now.",
+          "zh-CN": "你的笔记不再是写给自己的——它们是 Agent 的上下文。表世界应用退化为存储，编程 Agent 成为新界面。第二次迁徙正在发生。"
+        }
+      },
+      {
         "id": "2034075287206695345",
         "date": "2026-03-18",
         "author": "@tmel0211",
@@ -976,68 +1032,11 @@
           "en-US": "Split a task across 6 subagents and nobody owns the outcome. We tried this: each part was perfect, the integration took 3x longer than doing it solo.",
           "zh-CN": "把一个任务拆给6个子Agent，结果没人对最终成果负责。我们试过：每个部分都完美，但集成时间比独自做还多了3倍。"
         }
-      },
-      {
-        "id": "2034281658841722894",
-        "date": "2026-03-19",
-        "author": "@huang_chao4969",
-        "author_url": "https://x.com/huang_chao4969",
-        "tweet_url": "https://x.com/huang_chao4969/status/2034281658841722894",
-        "title": {
-          "en-US": "ClawTeam: 8 agents auto-train model, 2430+ experiments",
-          "zh-CN": "ClawTeam展示全自动模型训练：一个prompt触发8个agent协调，自动管理8块H100，跑2430+实验，零人工干预获得6.4%性能提升"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态 - Agent自主协作",
-          "zh-CN": "更形象：这展示的是「AI迭代AI」的未来，但核心隐喻被忽略了——这不是「更快的人类工程师」，而是「不再需要人类工程师做执行」。表世界的「写代码」正在退化成里世界的「下指令」。"
-        },
-        "relevance": "OpenClaw生态 - Agent自主协作",
-        "score": 0.72,
-        "engagement": {
-          "likes": 31,
-          "replies": 3,
-          "retweets": 4,
-          "views": 2275
-        },
-        "comment_type": "biaoli_insight",
-        "synced_at": "2026-03-18T16:06:40.807769+00:00",
-        "js_take": {
-          "en-US": "2430 experiments, zero human hands. Surface-world coding is collapsing into the inner world as raw data. You're still polishing pull requests. The system already moved past you.",
-          "zh-CN": "2430 次实验，零人工干预。表世界的代码正坍缩为里世界的原始数据。你还在打磨 Pull Request，而系统早已远走。"
-        }
-      },
-      {
-        "id": "2033617125554680279",
-        "date": "2026-03-17",
-        "author": "@Atenov_D",
-        "author_url": "https://x.com/Atenov_D",
-        "tweet_url": "https://x.com/Atenov_D/status/2033617125554680279",
-        "title": {
-          "en-US": "Claude Code works great until you close the session. Next time - blank slate. No memory of projects, style, decisions.",
-          "zh-CN": "Claude Code 每次关闭会话后记忆清零，没有项目记忆、风格记忆和决策记忆，每次都要从头解释。"
-        },
-        "summary": {
-          "en-US": "OpenClaw/AI Agent 记忆痛点，开发者体验",
-          "zh-CN": "「这不是bug，而是所有本地Agent的常态」——这句话暴露了一个更深的问题：我们在用数据库思维解决记忆，但Agent需要的不是存储，而是「情境」的延续。"
-        },
-        "relevance": "OpenClaw/AI Agent 记忆痛点，开发者体验",
-        "score": 0.72,
-        "engagement": {
-          "likes": 94,
-          "retweets": 3,
-          "replies": 23
-        },
-        "comment_type": "biaoli_insight",
-        "synced_at": "2026-03-17T05:07:50.291876+00:00",
-        "js_take": {
-          "en-US": "Apps are becoming databases, but agents still restart as blank slates. The surface-to-inner migration is stuck at the session boundary.",
-          "zh-CN": "应用正在退化为数据库，但智能体每次重启仍是空白状态。从「表世界」向「里世界」的迁徙，卡在会话边界动弹不得。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 154
+    "unique_authors": 153
   }
 }

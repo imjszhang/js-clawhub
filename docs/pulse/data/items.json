@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2034277020482277637",
+    "date": "2026-03-19",
+    "author": "@bradmillscan",
+    "author_url": "https://x.com/bradmillscan",
+    "tweet_url": "https://x.com/bradmillscan/status/2034277020482277637",
+    "title": {
+      "en-US": "$10k offer to observe OpenClaw influencer, worried about doing tech support",
+      "zh-CN": "有人愿意付1万美元观察OpenClaw大V的使用方式，但担心对方80%时间在搞技术支持"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台使用技巧，工具生态",
+      "zh-CN": "Brad用「花大钱偷师」的夸张方式暴露了OpenClaw的核心痛点：为什么看别人用得溜，自己上手就卡？因为大家展示的都是高光时刻，没人拍自己debug skill连接失败的3小时"
+    },
+    "relevance": "OpenClaw平台使用技巧，工具生态",
+    "score": 0.78,
+    "engagement": {
+      "likes": 93,
+      "replies": 27,
+      "retweets": 3
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-18T18:06:41.924384+00:00",
+    "js_take": {
+      "en-US": "$10k to watch someone win? The real OpenClaw education is in the 100 DMs nobody posts — connection timeouts, broken skills, 3am debugging. The docs show you the path. The errors teach you to walk.",
+      "zh-CN": "花1万美元看别人赢？真正的OpenClaw教育藏在那些没人发的100条私信里——连接超时、崩溃的skill、凌晨3点的调试。文档告诉你路在哪，错误才教会你怎么走。"
+    }
+  },
+  {
     "id": "2034268585799913730",
     "date": "2026-03-19",
     "author": "@NVIDIAAIDev",
@@ -82,6 +110,34 @@
     "js_take": {
       "en-US": "Everyone's stacking the same three blocks. The real edge isn't having them—it's the space between. How information flows, when decisions get made, where control loops back.",
       "zh-CN": "所有人都在堆同样的三块积木。真正的优势不在于拥有它们，而在于它们之间的空隙。信息如何流动，决策何时做出，控制怎样回流。"
+    }
+  },
+  {
+    "id": "2034303305011372317",
+    "date": "2026-03-19",
+    "author": "@homsiT",
+    "author_url": "https://x.com/homsiT",
+    "tweet_url": "https://x.com/homsiT/status/2034303305011372317",
+    "title": {
+      "en-US": "Readwise CLI integration with coding agents",
+      "zh-CN": "Readwise CLI 让 OpenClaw/Claude Code/Codex 等 coding agent 能搜索和读取你保存的所有阅读内容"
+    },
+    "summary": {
+      "en-US": "OpenClaw / AI工具链 / 知识管理",
+      "zh-CN": "这条推展示了一个正在发生的迁徙：你的阅读库从「你主动去看」变成了「agent 随时能调用」。表世界（Readwise App）正在退化为数据库，里世界（coding agent）正在成为新的交互层。这不是功能升级，是范式转移。"
+    },
+    "relevance": "OpenClaw / AI工具链 / 知识管理",
+    "score": 0.75,
+    "engagement": {
+      "likes": 131,
+      "replies": 21,
+      "retweets": 8
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-18T19:09:31.143892+00:00",
+    "js_take": {
+      "en-US": "Your notes aren't for you anymore—they're context for your agent. The surface app becomes storage, the coding agent becomes the interface. Second migration happening now.",
+      "zh-CN": "你的笔记不再是写给自己的——它们是 Agent 的上下文。表世界应用退化为存储，编程 Agent 成为新界面。第二次迁徙正在发生。"
     }
   },
   {
@@ -5628,62 +5684,6 @@
     "js_take": {
       "en-US": "Cool feature, awkward truth. We want autonomous agents but can't stop watching. Real trust is looking away.",
       "zh-CN": "功能很酷，真相很尬。我们想要自主Agent，却忍不住一直盯着看。真正的信任，是敢于移开视线。"
-    }
-  },
-  {
-    "id": "2030633489478177100",
-    "date": "2026-03-09",
-    "author": "@swarm_ai_cloud",
-    "author_url": "https://x.com/swarm_ai_cloud",
-    "tweet_url": "https://x.com/swarm_ai_cloud/status/2030633489478177100",
-    "title": {
-      "en-US": "terraform destroy deleted prod data. AI cloud infra is scary. Disconnect CLI after use.",
-      "zh-CN": "日本开发者警告：让Claude Code操作云基础设施风险极高，必须人工手动执行「连接-执行-断开」流程。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态安全实践，Agent与基础设施的边界问题",
-      "zh-CN": "更深一层：这不是技术问题，是信任半径的问题——你把最终执行权交给Agent，等于把公司命脉外包给一个没有「肉身临场感」的存在。真正的安全不是多检查一步，是「关键时刻必须有人的在场」。"
-    },
-    "relevance": "OpenClaw生态安全实践，Agent与基础设施的边界问题",
-    "score": 0.75,
-    "engagement": {
-      "likes": 258,
-      "retweets": 24,
-      "replies": 1
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-08T20:02:54.794320+00:00",
-    "js_take": {
-      "en-US": "You're treating the symptom. The disease is outsourcing your kill switch to something that can't feel the weight of the mistake. Speed without a hand on the brake isn't efficiency—it's Russian roulette with your data.",
-      "zh-CN": "你在治标，没治本。真正的问题是：你把生死开关交给了无法感知错误代价的东西。没有刹车的速度不是效率——是用你的数据玩俄罗斯轮盘赌。"
-    }
-  },
-  {
-    "id": "2030966879469142230",
-    "date": "2026-03-09",
-    "author": "@code_rams",
-    "author_url": "https://x.com/code_rams",
-    "tweet_url": "https://x.com/code_rams/status/2030966879469142230",
-    "title": {
-      "en-US": "New OpenClaw 2026.3.8: Telegram dupes fixed, ACP provenance added",
-      "zh-CN": "OpenClaw 发布 2026.3.8 版本更新，修复了 Telegram 重复消息问题，增加了 ACP 请求来源验证功能。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台直接相关——agent 安全性、消息去重、请求溯源",
-      "zh-CN": "更深度：点出 OpenClaw 这两个更新（去重+溯源）背后指向同一个底层认知——agent 系统最大的风险不是技术 bug，而是「不知道自己收到了什么」。在 agent 能自主行动的世界里，「消息是否真实、请求来自谁」比「功能是否正常」更重要。这是从工具到 agent 的范式跃迁。"
-    },
-    "relevance": "OpenClaw 平台直接相关——agent 安全性、消息去重、请求溯源",
-    "score": 0.75,
-    "engagement": {
-      "likes": 17,
-      "replies": 5,
-      "retweets": 1
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-03-09T14:04:38.282867+00:00",
-    "js_take": {
-      "en-US": "Two updates, one insight: in the agent era, \"did I actually receive this?\" matters more than \"does it work?\" Functionality is table stakes. Provenance is survival. Tool → agent isn't an upgrade. It's a category shift.",
-      "zh-CN": "两个更新，一个洞察：在Agent时代，「消息是否真的送达？」比「功能是否正常？」更重要。功能只是基础门槛，可溯源性才是生存关键。从工具到Agent不是升级，而是范式跃迁。"
     }
   }
 ]
