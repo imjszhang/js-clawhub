@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-18T19:09:43.021887+00:00",
+  "updated_at": "2026-03-18T21:07:17.088701+00:00",
   "this_week": {
-    "total_items": 45,
+    "total_items": 47,
     "avg_score": 0.78,
-    "unique_authors": 42,
+    "unique_authors": 44,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -520,6 +520,34 @@
         }
       },
       {
+        "id": "2034363683875549524",
+        "date": "2026-03-19",
+        "author": "@kloss_xyz",
+        "author_url": "https://x.com/kloss_xyz",
+        "tweet_url": "https://x.com/kloss_xyz/status/2034363683875549524",
+        "title": {
+          "en-US": "OpenClaw config copy-paste disaster story",
+          "zh-CN": "复制网上OpenClaw配置导致系统崩溃的教训，最后发现是'你在导入别人的问题'。"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态 - 配置管理与最佳实践",
+          "zh-CN": "表面是技术问题，实则是认知问题：很多人追逐'现成答案'，却不愿理解底层逻辑。配置即代码，代码即思想——复制配置就是复制别人的思维方式。"
+        },
+        "relevance": "OpenClaw生态 - 配置管理与最佳实践",
+        "score": 0.78,
+        "engagement": {
+          "likes": 39,
+          "replies": 9,
+          "retweets": 1
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-18T21:07:00.040467+00:00",
+        "js_take": {
+          "en-US": "Copy-pasting configs is copying someone else's cognitive debt. The real growth hack: understand where the momentum is, then build your own system.",
+          "zh-CN": "复制粘贴配置，就是在继承别人的认知债务。真正的增长黑客之道：看清势能在哪里，然后搭建自己的系统。"
+        }
+      },
+      {
         "id": "2034067677157679379",
         "date": "2026-03-18",
         "author": "@emollick",
@@ -1002,35 +1030,6 @@
         "js_take": {
           "en-US": "You sold anxiety hedge, not productivity. When everyone's buying 'what competitors are doing,' who's building what actually works?",
           "zh-CN": "你卖的是焦虑对冲，不是生产力。当所有人都在买'竞争对手在做什么'，谁在造真正有用的东西？"
-        }
-      },
-      {
-        "id": "2033755206085665166",
-        "date": "2026-03-17",
-        "author": "@WesRoth",
-        "author_url": "https://x.com/WesRoth",
-        "tweet_url": "https://x.com/WesRoth/status/2033755206085665166",
-        "title": {
-          "en-US": "OpenAI rolls out Subagents for Codex",
-          "zh-CN": "OpenAI正式推出Codex应用的Subagents功能，允许开发者启动多个专业并行代理处理复杂工作流"
-        },
-        "summary": {
-          "en-US": "AI Agent/OpenClaw相关",
-          "zh-CN": "「子代理并行处理」听起来是效率提升，但隐藏的问题是：当任务被拆得太碎，谁来对整体结果负责？过度分工会导致「每个部分都完美，整体却跑不通」的系统盲区"
-        },
-        "relevance": "AI Agent/OpenClaw相关",
-        "score": 0.74,
-        "engagement": {
-          "likes": 80,
-          "replies": 11,
-          "retweets": 6,
-          "views": 6185
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-17T15:10:03.653836+00:00",
-        "js_take": {
-          "en-US": "Split a task across 6 subagents and nobody owns the outcome. We tried this: each part was perfect, the integration took 3x longer than doing it solo.",
-          "zh-CN": "把一个任务拆给6个子Agent，结果没人对最终成果负责。我们试过：每个部分都完美，但集成时间比独自做还多了3倍。"
         }
       }
     ]

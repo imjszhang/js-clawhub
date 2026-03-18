@@ -56,6 +56,34 @@
     }
   },
   {
+    "id": "2034363683875549524",
+    "date": "2026-03-19",
+    "author": "@kloss_xyz",
+    "author_url": "https://x.com/kloss_xyz",
+    "tweet_url": "https://x.com/kloss_xyz/status/2034363683875549524",
+    "title": {
+      "en-US": "OpenClaw config copy-paste disaster story",
+      "zh-CN": "复制网上OpenClaw配置导致系统崩溃的教训，最后发现是'你在导入别人的问题'。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - 配置管理与最佳实践",
+      "zh-CN": "表面是技术问题，实则是认知问题：很多人追逐'现成答案'，却不愿理解底层逻辑。配置即代码，代码即思想——复制配置就是复制别人的思维方式。"
+    },
+    "relevance": "OpenClaw生态 - 配置管理与最佳实践",
+    "score": 0.78,
+    "engagement": {
+      "likes": 39,
+      "replies": 9,
+      "retweets": 1
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-18T21:07:00.040467+00:00",
+    "js_take": {
+      "en-US": "Copy-pasting configs is copying someone else's cognitive debt. The real growth hack: understand where the momentum is, then build your own system.",
+      "zh-CN": "复制粘贴配置，就是在继承别人的认知债务。真正的增长黑客之道：看清势能在哪里，然后搭建自己的系统。"
+    }
+  },
+  {
     "id": "2034268585799913730",
     "date": "2026-03-19",
     "author": "@NVIDIAAIDev",
@@ -167,6 +195,34 @@
     "js_take": {
       "en-US": "2430 experiments, zero human hands. Surface-world coding is collapsing into the inner world as raw data. You're still polishing pull requests. The system already moved past you.",
       "zh-CN": "2430 次实验，零人工干预。表世界的代码正坍缩为里世界的原始数据。你还在打磨 Pull Request，而系统早已远走。"
+    }
+  },
+  {
+    "id": "2034317951684481267",
+    "date": "2026-03-19",
+    "author": "@dansemperepico",
+    "author_url": "https://x.com/dansemperepico",
+    "tweet_url": "https://x.com/dansemperepico/status/2034317951684481267",
+    "title": {
+      "en-US": "OpenClaw is just gateway drug for Claude Code/Cowork.",
+      "zh-CN": "OpenClaw只是通往Claude Code/Cowork的'入门毒品'。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态定位 - 工具链演进",
+      "zh-CN": "这是一种线性进化思维：认为工具必然从A走向B。但技术演化不是单向的，而是分叉的。OpenClaw和Claude Code不是替代关系，而是'势'的不同表达。"
+    },
+    "relevance": "OpenClaw生态定位 - 工具链演进",
+    "score": 0.72,
+    "engagement": {
+      "likes": 49,
+      "replies": 15,
+      "retweets": 3
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-18T21:07:00.040471+00:00",
+    "js_take": {
+      "en-US": "Linear thinking: A → B. The actual migration: surface world is becoming databases, inner world is becoming the interface. Both evolve, just in opposite directions.",
+      "zh-CN": "线性思维：A → B。真实的迁徙正在发生：表世界退化为数据库，里世界进化成交互界面。两者都在演化，只是方向相反。"
     }
   },
   {
