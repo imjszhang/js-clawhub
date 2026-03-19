@@ -341,6 +341,64 @@
     }
   },
   {
+    "id": "2034336534833369562",
+    "date": "2026-03-19",
+    "author": "@Kylechasse",
+    "author_url": "https://x.com/Kylechasse",
+    "tweet_url": "https://x.com/Kylechasse/status/2034336534833369562",
+    "title": {
+      "en-US": "NVIDIA OpenShell solves agent trust problem with sandboxing",
+      "zh-CN": "NVIDIA发布OpenShell，声称解决了自主AI agent的安全信任问题，通过沙箱机制让agent在获得完整文件系统访问权限时更安全。"
+    },
+    "summary": {
+      "en-US": "AI agent安全与信任——与OpenClaw的shell访问权限话题直接相关",
+      "zh-CN": "人们争论'要不要给agent权限'时，漏掉了一个前提：真正的问题不是给不给权限，而是当所有人都给权限时，'安全'这个指标本身就失去了意义。"
+    },
+    "relevance": "AI agent安全与信任——与OpenClaw的shell访问权限话题直接相关",
+    "score": 0.75,
+    "engagement": {
+      "likes": 114,
+      "replies": 9,
+      "retweets": 12,
+      "views": 24746
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-19T06:08:34.317925+00:00",
+    "js_take": {
+      "en-US": "Real growth isn't building tighter cages when everyone races for 'safest sandbox.' The edge is knowing what not to lock up.",
+      "zh-CN": "真正的增长不是在人人争抢「最安全沙盒」时把笼子越造越紧。真正的优势在于知道什么不该锁。"
+    }
+  },
+  {
+    "id": "2034498349206773783",
+    "date": "2026-03-19",
+    "author": "@aakashgupta",
+    "author_url": "https://x.com/aakashgupta",
+    "tweet_url": "https://x.com/aakashgupta/status/2034498349206773783",
+    "title": {
+      "en-US": "OpenClaw shell access is the feature and the risk",
+      "zh-CN": "OpenClaw拥有机器的完整shell访问权限，这是它的核心特性，也是LangChain禁止员工安装它的原因，需要在便利性和风险之间做权衡。"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心特性讨论——与owner直接相关",
+      "zh-CN": "讨论'要不要给shell权限'是在错误的方向上用力。真正的分水岭不在于权限本身，而在于用户是否理解：给权限是'借刀'，理解刀在谁手里才是'使刀'。"
+    },
+    "relevance": "OpenClaw核心特性讨论——与owner直接相关",
+    "score": 0.73,
+    "engagement": {
+      "likes": 26,
+      "replies": 1,
+      "retweets": 5,
+      "views": 3975
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-19T06:08:34.317930+00:00",
+    "js_take": {
+      "en-US": "Surface apps are becoming databases while agents become the inner world. The permission debate? Just migration noise.",
+      "zh-CN": "表层应用正在退化为数据库，而Agent正在成为里世界。那些关于权限的争论？不过是迁徙过程中的噪音罢了。"
+    }
+  },
+  {
     "id": "2034281658841722894",
     "date": "2026-03-19",
     "author": "@huang_chao4969",
@@ -451,6 +509,62 @@
     "js_take": {
       "en-US": "50% speedup and you're still polishing? That's old-world perfectionism sabotaging new-world leverage. When the tool gives you half your time back, the winning move is shipping twice as much—not spending that half making it 10% prettier.",
       "zh-CN": "速度提升了50%还在打磨？这是旧世界的完美主义在拖累新世界的杠杆。当工具帮你省下一半时间，正确的做法是产出翻倍——而不是把省下的时间花在让结果好看10%上。"
+    }
+  },
+  {
+    "id": "2034454854345597362",
+    "date": "2026-03-19",
+    "author": "@jmitch",
+    "author_url": "https://x.com/jmitch",
+    "tweet_url": "https://x.com/jmitch/status/2034454854345597362",
+    "title": {
+      "en-US": "Claude Dispatch crushing tasks OpenClaw failed at",
+      "zh-CN": "Claude Dispatch 已经在完成 OpenClaw 搞不定的任务了"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Claude Dispatch 直接对比，Agent 工具竞争",
+      "zh-CN": "原推做了一个工具对比的结论，但没有说出背后的判断标准——「搞不定」的定义会随着使用者的熟练度变化，真正的竞争维度不是谁更强大，而是谁能更快让普通人跨过学习曲线。"
+    },
+    "relevance": "OpenClaw vs Claude Dispatch 直接对比，Agent 工具竞争",
+    "score": 0.72,
+    "engagement": {
+      "likes": 10,
+      "replies": 2,
+      "retweets": 1
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-19T07:07:38.503374+00:00",
+    "js_take": {
+      "en-US": "We spent weeks failing with OpenClaw. Month 2: same tasks, 3x faster than Dispatch. The tool wasn't broken — we were just beginners measuring ourselves against experts.",
+      "zh-CN": "刚开始用 OpenClaw 时，我们折腾了好几周都搞不定。到了第二个月，同样的任务做得比 Dispatch 还快 3 倍。不是工具不行，是我们当时太菜，却非要跟高手比。"
+    }
+  },
+  {
+    "id": "2034416590305821001",
+    "date": "2026-03-19",
+    "author": "@franpradasAI",
+    "author_url": "https://x.com/franpradasAI",
+    "tweet_url": "https://x.com/franpradasAI/status/2034416590305821001",
+    "title": {
+      "en-US": "Anthropic destrona OpenClaw with Dispatch, config in 2 min",
+      "zh-CN": "Anthropic 用 Dispatch 功能击败 OpenClaw，2分钟就能配置好"
+    },
+    "summary": {
+      "en-US": "OpenClaw 竞品分析，Agent 平台竞争",
+      "zh-CN": "原推陷入了一个常见的认知误区——把「配置时间短」等同于「更好」。但工具的真正的价值不在于第一次上手的速度，而在于当你需要做一些配置界面没预想到的事情时，它能不能跟上。"
+    },
+    "relevance": "OpenClaw 竞品分析，Agent 平台竞争",
+    "score": 0.71,
+    "engagement": {
+      "likes": 532,
+      "replies": 14,
+      "retweets": 38
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-19T07:07:38.503378+00:00",
+    "js_take": {
+      "en-US": "2-minute setup is a promise and a prison. When your workflow needs something the UI didn't predict, you'll understand why some of us choose the steep path.",
+      "zh-CN": "2 分钟上手是个承诺，也是个牢笼。当你的工作流需要一些 UI 没预想到的功能时，你就会明白为什么有人宁愿走那条难走的路。"
     }
   },
   {
@@ -5565,118 +5679,6 @@
     "js_take": {
       "en-US": "Clones fight over the shell. The real war is inside—who builds the smarter agent, not who copies the same UI.",
       "zh-CN": "众人在外壳上模仿厮杀，真正的较量在底层——谁能造出更聪明的Agent，而非谁复制了同样的UI。"
-    }
-  },
-  {
-    "id": "2031155493620822064",
-    "date": "2026-03-10",
-    "author": "@BentoBoiNFT",
-    "author_url": "https://x.com/BentoBoiNFT",
-    "tweet_url": "https://x.com/BentoBoiNFT/status/2031155493620822064",
-    "title": {
-      "en-US": "OpenClaw tip: add delegation prompt to SOUL.md for tasks over 2 minutes",
-      "zh-CN": "OpenClaw 使用技巧：在 SOUL.md 中添加提示，让 agent 默认把超过 2 分钟的任务委派给子 agent。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 最佳实践，agent 委派模式与系统架构",
-      "zh-CN": "高效的核心不是做得更多，而是知道什么不该做——通过委派把 ego 清空，系统反而能处理更复杂的整体，这是对\"控制欲\"的纠偏。"
-    },
-    "relevance": "OpenClaw 最佳实践，agent 委派模式与系统架构",
-    "score": 0.76,
-    "engagement": {
-      "likes": 120,
-      "replies": 10,
-      "retweets": 3
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-10T08:05:45.781280+00:00",
-    "js_take": {
-      "en-US": "This isn't a productivity hack. It's admitting you shouldn't touch everything. The best agents aren't the ones that do more—they're the ones that know what to drop.",
-      "zh-CN": "这不是什么效率技巧。而是承认你不该事事插手。最出色的 Agent 不是做得更多的那些——而是懂得该放弃什么的那些。"
-    }
-  },
-  {
-    "id": "2031112867345510715",
-    "date": "2026-03-10",
-    "author": "@thekitze",
-    "author_url": "https://x.com/thekitze",
-    "tweet_url": "https://x.com/thekitze/status/2031112867345510715",
-    "title": {
-      "en-US": "People who buy Mac Mini before trying OpenClaw are idiots.",
-      "zh-CN": "批评还没试过OpenClaw就先买Mac Mini的人是傻子"
-    },
-    "summary": {
-      "en-US": "OpenClaw直接相关，硬件vs软件优先争议",
-      "zh-CN": "硬件先行vs软件先行的争论本身就是工业时代的思维残留——更准确的认知是：工具链会快速迭代，而判断该用什么工具的能力才是资产。买Mac Mini不是问题，固化在某个工具上才是。"
-    },
-    "relevance": "OpenClaw直接相关，硬件vs软件优先争议",
-    "score": 0.73,
-    "engagement": {
-      "likes": 136,
-      "replies": 52,
-      "retweets": 3
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-10T04:05:36.080225+00:00",
-    "js_take": {
-      "en-US": "The Mac Mini isn't the problem. Getting locked into any single tool is. The real asset isn't hardware—it's the speed at which you can decide what tool to use.",
-      "zh-CN": "Mac Mini 不是问题，被单一工具锁定才是。真正的资产不是硬件，而是你决定用什么工具的速度。"
-    }
-  },
-  {
-    "id": "2031098030632452449",
-    "date": "2026-03-10",
-    "author": "@MicahBerkley",
-    "author_url": "https://x.com/MicahBerkley",
-    "tweet_url": "https://x.com/MicahBerkley/status/2031098030632452449",
-    "title": {
-      "en-US": "Running 100 OpenClaw instances on MacBook Pro using Parallels. Insanity.",
-      "zh-CN": "有人发现可以在MacBook Pro上用Parallels运行100个OpenClaw实例，推文作者惊呼\"疯了\"。"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台/多Agent并行",
-      "zh-CN": "「能运行100个」和「应该运行100个」之间，隔着对\"复杂度边界\"的理解——数量带来的不是能力倍增，而是协调成本的指数级爆炸。"
-    },
-    "relevance": "OpenClaw平台/多Agent并行",
-    "score": 0.72,
-    "engagement": {
-      "likes": 392,
-      "replies": 10,
-      "retweets": 12
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-10T10:04:43.149222+00:00",
-    "js_take": {
-      "en-US": "100 agents talking to each other isn't scaling—it's chaos with a server bill. One clear context beats a crowd of confused agents.",
-      "zh-CN": "100个Agent互相对话不是扩展，只是徒增服务器成本的混乱。清晰的上下文，胜过一群迷茫的Agent。"
-    }
-  },
-  {
-    "id": "2031144940437385225",
-    "date": "2026-03-10",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2031144940437385225",
-    "title": {
-      "en-US": "OpenClaw only needs 3 files: SOUL, BRAIN, MEMORY",
-      "zh-CN": "推文建议OpenClaw只需要SOUL.md、BRAIN.md、MEMORY.md三个文件，而非10个不同的 personality 文件。"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台讨论，直接相关",
-      "zh-CN": "从'做减法'到'做正确的事'——简化不是目的，让系统自然生长才是。三文件是给复杂度设边界，而非限制可能性。"
-    },
-    "relevance": "OpenClaw平台讨论，直接相关",
-    "score": 0.72,
-    "engagement": {
-      "likes": 111,
-      "replies": 10,
-      "retweets": 7
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-10T11:04:01.569618+00:00",
-    "js_take": {
-      "en-US": "Three files isn't minimalism. It's guardrails so the thing grows on its own instead of drowning in structure.",
-      "zh-CN": "三个文件不是极简主义，而是防护栏——让系统自己生长，而不是被结构淹没。"
     }
   }
 ]
