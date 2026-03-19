@@ -84,6 +84,34 @@
     }
   },
   {
+    "id": "2034396521446457407",
+    "date": "2026-03-19",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2034396521446457407",
+    "title": {
+      "en-US": "Meta deployed their own version of openclaw and it led to a critical security incident.",
+      "zh-CN": "Meta自己部署了OpenClaw版本，结果导致了严重的安全事件"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全/Agent部署",
+      "zh-CN": "推文的潜台词是'自托管Agent=高风险'，但这个判断过度简化了——问题不在OpenClaw本身，而在部署时是否理解'无为而治'的系统边界：安全不是叠加更多限制，而是设计让危险自然无法发生的结构"
+    },
+    "relevance": "OpenClaw安全/Agent部署",
+    "score": 0.78,
+    "engagement": {
+      "likes": 22,
+      "replies": 6,
+      "retweets": 1
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-19T00:07:24.292042+00:00",
+    "js_take": {
+      "en-US": "Meta treated 'autonomous' as 'unbounded.' OpenClaw isn't unsafe—you just built a city without zoning and called it freedom. Real Agent security isn't more walls. It's designing terrain where trouble naturally flows to the edges.",
+      "zh-CN": "Meta 把「自主」等同于「无边界」。OpenClaw 并非不安全——你只是建了一座没有规划的城市，还美其名曰自由。真正的 Agent 安全不是靠加高围墙，而是设计一块地形，让麻烦自然流向边缘。"
+    }
+  },
+  {
     "id": "2034268585799913730",
     "date": "2026-03-19",
     "author": "@NVIDIAAIDev",
@@ -110,6 +138,62 @@
     "js_take": {
       "en-US": "More power demands more restraint. OpenShell isn't adding features—it's drawing lines. Like learning to stand still before you can strike: the boundary is the capability.",
       "zh-CN": "能力越强，越需要克制。OpenShell 不是在堆砌功能，而是在划定边界。如同出拳前先学会静止——边界本身，就是能力的体现。"
+    }
+  },
+  {
+    "id": "2034389440966397958",
+    "date": "2026-03-19",
+    "author": "@heynavtoor",
+    "author_url": "https://x.com/heynavtoor",
+    "tweet_url": "https://x.com/heynavtoor/status/2034389440966397958",
+    "title": {
+      "en-US": "NVIDIA just solved the biggest problem with AI agents. They keep breaking things. It's called NemoClaw.",
+      "zh-CN": "NVIDIA推出NemoClaw解决AI Agent的最大问题：Agent会不断破坏东西"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态/Agent安全",
+      "zh-CN": "推文把'沙盒锁定'当成终极解决方案，但这仍是'控制思维'的延续——真正的解法不是锁住Agent，是设计系统让破坏的代价趋近于零，让试错成为进化的燃料而非风险"
+    },
+    "relevance": "OpenClaw生态/Agent安全",
+    "score": 0.76,
+    "engagement": {
+      "likes": 37,
+      "replies": 7,
+      "retweets": 7
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-19T00:07:24.292047+00:00",
+    "js_take": {
+      "en-US": "Locking agents in a room to break things is a painkiller, not a cure. True safety isn't preventing destruction—it's making every crash so cheap it becomes training data. The goal is agents that learn from failure, not ones that never fail.",
+      "zh-CN": "把 Agent 锁在房间里搞破坏测试，这是止痛药，不是解药。真正的安全不是阻止破坏——而是让每次崩溃的成本低到变成训练数据。目标是让 Agent 从失败中学习，而非永不失败。"
+    }
+  },
+  {
+    "id": "2034394705035972630",
+    "date": "2026-03-19",
+    "author": "@robinebers",
+    "author_url": "https://x.com/robinebers",
+    "tweet_url": "https://x.com/robinebers/status/2034394705035972630",
+    "title": {
+      "en-US": "Claude is replacing OpenClaw and I'm here for it",
+      "zh-CN": "Claude正在取代OpenClaw，而我对此喜闻乐见"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Claude，AI Agent平台竞争",
+      "zh-CN": "工具更替是表象，真正迁移的是「控制权」的归属。从OpenClaw到Claude，不是功能升级，而是agent生态从「可控的开源协议」滑向「闭源的便利」。用户欢呼的往往是短期效率，牺牲的却是长期议价能力。"
+    },
+    "relevance": "OpenClaw vs Claude，AI Agent平台竞争",
+    "score": 0.76,
+    "engagement": {
+      "likes": 87,
+      "replies": 20,
+      "retweets": 1
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-19T01:10:06.545125+00:00",
+    "js_take": {
+      "en-US": "You're cheering a prettier cage. When one company owns the brain, your workflow becomes the hostage.",
+      "zh-CN": "你在为一座更精致的牢笼欢呼。当一家公司垄断了「大脑」，你的工作流就成了人质。"
     }
   },
   {
@@ -166,6 +250,34 @@
     "js_take": {
       "en-US": "Your notes aren't for you anymore—they're context for your agent. The surface app becomes storage, the coding agent becomes the interface. Second migration happening now.",
       "zh-CN": "你的笔记不再是写给自己的——它们是 Agent 的上下文。表世界应用退化为存储，编程 Agent 成为新界面。第二次迁徙正在发生。"
+    }
+  },
+  {
+    "id": "2034389956165263814",
+    "date": "2026-03-19",
+    "author": "@iamlukethedev",
+    "author_url": "https://x.com/iamlukethedev",
+    "tweet_url": "https://x.com/iamlukethedev/status/2034389956165263814",
+    "title": {
+      "en-US": "Claw3D is running. I'm testing everything right now. Just bought a brand new Mac Mini to do a clean OpenClaw install for final testing.",
+      "zh-CN": "Claw3D已运行，正在测试，买了全新Mac Mini做干净OpenClaw安装进行最终测试"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态/新产品发布",
+      "zh-CN": "推文展现了典型的工程师执着——买新机器做'干净'测试，但这恰恰暴露了对'纯粹环境'的执念，而真实世界的Agent必须在混乱中生存，'干净'是反自然的"
+    },
+    "relevance": "OpenClaw生态/新产品发布",
+    "score": 0.75,
+    "engagement": {
+      "likes": 164,
+      "replies": 44,
+      "retweets": 8
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-19T00:07:24.292050+00:00",
+    "js_take": {
+      "en-US": "Clean install on new hardware is surface-world theater. Claw3D's real test isn't sterile labs—it's surviving production chaos: skill conflicts, memory leaks, dependency hell. The inner world doesn't reward purity. It rewards antifragility.",
+      "zh-CN": "在新硬件上做干净安装，这是表世界的表演。Claw3D 的真正考验不在无菌实验室——而在生产环境的混乱中存活：技能冲突、内存泄漏、依赖地狱。里世界不奖励纯粹，它奖励反脆弱。"
     }
   },
   {
@@ -251,6 +363,34 @@
     "js_take": {
       "en-US": "Phone as remote is a feature. Agent OS is infrastructure. Features get copied. Infrastructure creates moats. The migration isn't about who controls the laptop — it's about which agents can think across devices.",
       "zh-CN": "手机当遥控器是功能，Agent OS 是基础设施。功能会被复制，基础设施才能建立护城河。这场迁徙的关键不在于谁控制笔记本电脑，而在于哪些 Agent 能跨设备思考。"
+    }
+  },
+  {
+    "id": "2034366288143818775",
+    "date": "2026-03-19",
+    "author": "@marcelkargul",
+    "author_url": "https://x.com/marcelkargul",
+    "tweet_url": "https://x.com/marcelkargul/status/2034366288143818775",
+    "title": {
+      "en-US": "we've been using figma MCP + claude code for design → code. it's not perfect and still needs a fair bit of polishing, but it's sped up our dev process by ~50%",
+      "zh-CN": "使用Figma MCP + Claude Code做设计到代码的转换，虽不完美还需打磨，但开发流程提速约50%"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI工程实践",
+      "zh-CN": "推文说'还需要打磨'暗示了完美主义心态，但50%提速已经是巨大信号——不是工具不够好，是使用者还没接受'够用就发布'的节奏，还在用旧世界的标准卡新世界的效率"
+    },
+    "relevance": "OpenClaw/AI工程实践",
+    "score": 0.72,
+    "engagement": {
+      "likes": 88,
+      "replies": 6,
+      "retweets": 2
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-19T00:07:24.292052+00:00",
+    "js_take": {
+      "en-US": "50% speedup and you're still polishing? That's old-world perfectionism sabotaging new-world leverage. When the tool gives you half your time back, the winning move is shipping twice as much—not spending that half making it 10% prettier.",
+      "zh-CN": "速度提升了50%还在打磨？这是旧世界的完美主义在拖累新世界的杠杆。当工具帮你省下一半时间，正确的做法是产出翻倍——而不是把省下的时间花在让结果好看10%上。"
     }
   },
   {
