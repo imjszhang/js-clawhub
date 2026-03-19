@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-03-19",
+    "title": {
+      "zh-CN": "飞书变现闭环落地与 JS VI 视觉系统的全链路自动化",
+      "en-US": "Implementing Feishu's Monetization Loop and Full-Stack Automation for the JS VI Visual System"
+    },
+    "date": "2026-03-19",
+    "summary": {
+      "zh-CN": "今日的核心任务是将“可记录”的散乱笔记转化为“可教学”的自动化资产，重点攻克了飞书知识库的支付闭环构建与 JS VI 品牌视觉系统的底层架构落地。面对素材规模指数级增长带来的手动维护瓶颈，我决定摒弃本地派工具组合，全面转向云端派架构，并同步启动了纯 JS 驱动的视觉身份系统，以确保品牌输出在规模化场...",
+      "en-US": "Today's core mission was transforming scattered, 'recordable' notes into 'teachable' automated assets. We tackled two key challenges: building a payment闭环 (closed loop) within the Feishu knowledge base and finalizing the underlying architecture for our JS-driven VI (Visual Identity) brand system. Facing the bottleneck of manual maintenance amidst exponentially growing assets, I decided to ditch local toolchains in favor of a cloud-native architecture. Simultaneously, we kicked off a pure JavaScript visual identity system to ensure consistent brand output at scale..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 48
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-18",
     "title": {
       "zh-CN": "破局短命令模型：Cursor Agent 零依赖架构与长驻进程池实战",
