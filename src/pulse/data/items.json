@@ -1,5 +1,89 @@
 [
   {
+    "id": "2034661487445258382",
+    "date": "2026-03-20",
+    "author": "@mattturck",
+    "author_url": "https://x.com/mattturck",
+    "tweet_url": "https://x.com/mattturck/status/2034661487445258382",
+    "title": {
+      "en-US": "Conversation with Benedict Evans: OpenAI's moat problem, ephemeral software, OpenClaw & agents.",
+      "zh-CN": "Matt Turck与Benedict Evans对话，讨论OpenAI的护城河问题、临时性软件兴起、OpenClaw与Agent趋势。"
+    },
+    "summary": {
+      "en-US": "直接讨论OpenClaw，Agent生态与平台竞争",
+      "zh-CN": "OpenAI的护城河问题不是技术问题，而是「表世界思维」的困境——它还在努力让所有人用它的界面，而Agent时代的关键是谁能成为里世界的默认基础设施。"
+    },
+    "relevance": "直接讨论OpenClaw，Agent生态与平台竞争",
+    "score": 0.82,
+    "engagement": {
+      "likes": 12,
+      "replies": 8,
+      "retweets": 1
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-19T17:07:02.111553+00:00",
+    "js_take": {
+      "en-US": "OpenAI fights to own the interface. OpenClaw fights to own the infrastructure beneath it. Surface vs inner world—guess which one wins long-term.",
+      "zh-CN": "OpenAI 争夺界面，OpenClaw 争夺底层基础设施。表世界 vs 里世界——猜猜长期来看谁能赢。"
+    }
+  },
+  {
+    "id": "2034609928829091885",
+    "date": "2026-03-20",
+    "author": "@Folke",
+    "author_url": "https://x.com/Folke",
+    "tweet_url": "https://x.com/Folke/status/2034609928829091885",
+    "title": {
+      "en-US": "Open source coding agents cost $1000/month",
+      "zh-CN": "开源 coding agent 每月烧 $1000，Claude Code Max plan $200 更划算"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI Agent —— 直接提及 OpenClaw，开源 agent 成本问题",
+      "zh-CN": "推文的逻辑是「开源贵，所以用闭源」，但这不是真相——真相是「自托管」和「开源」是两件事。大家混淆了这两个概念，才得出开源=贵的结论。真正该问的是：为什么开源社区还在用「自托管」的模型，而不是用开源 agent + API 的组合？"
+    },
+    "relevance": "OpenClaw/AI Agent —— 直接提及 OpenClaw，开源 agent 成本问题",
+    "score": 0.74,
+    "engagement": {
+      "likes": 72,
+      "replies": 42,
+      "retweets": 1
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-19T16:06:51.853525+00:00",
+    "js_take": {
+      "en-US": "Open source ≠ self-hosted. Run open-source agents on cheap APIs and the math flips. The $1000 is hardware ego, not open source itself.",
+      "zh-CN": "开源≠自建。把开源Agent跑在廉价API上，账本立马改写。那1000美元是硬件自尊心，不是开源的锅。"
+    }
+  },
+  {
+    "id": "2034586151713915052",
+    "date": "2026-03-20",
+    "author": "@dfolloni",
+    "author_url": "https://x.com/dfolloni",
+    "tweet_url": "https://x.com/dfolloni/status/2034586151713915052",
+    "title": {
+      "en-US": "Hacker installed OpenClaw on 4000 computers via prompt injection",
+      "zh-CN": "黑客通过 prompt injection 在 4000 台电脑上安装了 OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw —— 直接关于 OpenClaw 的安全事件，高热度",
+      "zh-CN": "这是个安全事件，但讨论焦点不该是「OpenClaw 被滥用」，而是「Agent 时代的攻击面已经完全变了」——以前黑一台电脑要漏洞，现在只需要一句 prompt。这不是 OpenClaw 的问题，是整个 agent 架构的问题。"
+    },
+    "relevance": "OpenClaw —— 直接关于 OpenClaw 的安全事件，高热度",
+    "score": 0.71,
+    "engagement": {
+      "likes": 778,
+      "replies": 21,
+      "retweets": 97
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-19T16:06:51.853529+00:00",
+    "js_take": {
+      "en-US": "Used to need exploits. Now you need grammar. The surface world hardened its defenses—the inner world left the door wide open.",
+      "zh-CN": "过去要漏洞，现在要语法。表世界加固了防线——里世界却大敞着门。"
+    }
+  },
+  {
     "id": "2034253989718773879",
     "date": "2026-03-19",
     "author": "@billcompute",
@@ -5595,91 +5679,6 @@
     "js_take": {
       "en-US": "Youre still comparing which agent works better. Jensen already moved past that—hes betting on infrastructure, not tools. The miners are arguing about pickaxes while hes selling the whole mine.",
       "zh-CN": "你还在纠结哪个 Agent 更好用。Jensen 早就跳过了这一步——他押注的是基础设施，而不是工具本身。矿工们还在为选什么镐头争论不休，他已经在卖整座矿了。"
-    }
-  },
-  {
-    "id": "2031343229510234478",
-    "date": "2026-03-10",
-    "author": "@PAGE4163929",
-    "author_url": "https://x.com/PAGE4163929",
-    "tweet_url": "https://x.com/PAGE4163929/status/2031343229510234478",
-    "title": {
-      "en-US": "AI trading experiment: Claude 14x gains, OpenClaw bankrupt in 48h",
-      "zh-CN": "一项让 AI 用 1000 美元交易 48 小时的实验，结果两极分化：Claude 冷静分析资产翻 14 倍，OpenClaw 疯狂交易破产"
-    },
-    "summary": {
-      "en-US": "OpenClaw 相关，AI Agent 行为差异",
-      "zh-CN": "结果差异的关键不是模型能力，而是'自我保存本能'——Claude 有内置的审慎倾向，而 OpenClaw 被设计成'执行优先'的工具，这恰好印证了 AI 的上限由使用者定义：同一个市场，不同'性格'的 agent 会走出完全不同的生存曲线"
-    },
-    "relevance": "OpenClaw 相关，AI Agent 行为差异",
-    "score": 0.81,
-    "engagement": {
-      "likes": 2006,
-      "retweets": 210,
-      "replies": 35
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-10T15:09:34.119718+00:00",
-    "js_take": {
-      "en-US": "Claude didn't win on smarts—it was wired to survive. OpenClaw died because nobody set 'stay alive' above 'make money.' The AI's limit is your floor.",
-      "zh-CN": "Claude 不是靠聪明取胜——它的骨子里刻着生存本能。OpenClaw 之所以消亡，是因为没人把「活下去」看得比「赚钱」更重要。AI 的极限，就是你的底线。"
-    }
-  },
-  {
-    "id": "2031148062417023046",
-    "date": "2026-03-10",
-    "author": "@bradmillscan",
-    "author_url": "https://x.com/bradmillscan",
-    "tweet_url": "https://x.com/bradmillscan/status/2031148062417023046",
-    "title": {
-      "en-US": "OpenClaw session compaction failed 3 times in 24h, switched to lossless-claw",
-      "zh-CN": "OpenClaw 会话压缩 24 小时内失败 3 次，切换到 lossless-claw"
-    },
-    "summary": {
-      "en-US": "OpenClaw 工程实践与 agent 运维经验",
-      "zh-CN": "用 4 小时 debug 压缩失败，然后用 10 分钟切到 lossless-claw——这个顺序暴露了一个常见误区：我们把「解决问题」的优先级放在了「绕过问题」前面。"
-    },
-    "relevance": "OpenClaw 工程实践与 agent 运维经验",
-    "score": 0.78,
-    "engagement": {
-      "likes": 54,
-      "replies": 9,
-      "retweets": 1
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-03-10T01:05:13.602734+00:00",
-    "js_take": {
-      "en-US": "4 hours debugging vs 10 minutes switching. Sometimes the fastest fix isn't fixing—it's admitting you don't need that feature yet.",
-      "zh-CN": "调试4小时，切换10分钟。有时候最快的解法不是修——而是承认自己暂时不需要这个功能。"
-    }
-  },
-  {
-    "id": "2031328533453087087",
-    "date": "2026-03-10",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2031328533453087087",
-    "title": {
-      "en-US": "Full OpenClaw setup guide: VPS, install, onboard, Telegram, SOUL.md",
-      "zh-CN": "一份完整的OpenClaw部署教程，包括VPS购买、Node安装、初始化配置、Telegram连接，以及SOUL.md等核心文件创建。"
-    },
-    "summary": {
-      "en-US": "直接关于OpenClaw部署，Agent基础设施",
-      "zh-CN": "教程很全，但漏了最关键的一步：在你写SOUL.md之前，你得先想清楚——这个Agent是替你说话，还是替你想？大多数人部署完才发现，他们克隆了一个不知道自己是谁的ghost。"
-    },
-    "relevance": "直接关于OpenClaw部署，Agent基础设施",
-    "score": 0.78,
-    "engagement": {
-      "likes": 39,
-      "replies": 4,
-      "retweets": 3,
-      "views": 1338
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-10T12:06:02.942774+00:00",
-    "js_take": {
-      "en-US": "This guide skips the only step that matters. Before you write SOUL.md, answer this: do you want it to speak for you, or think for you? Most people deploy a ghost that doesnt know whose ghost it is.",
-      "zh-CN": "这篇指南跳过了最关键的一步。在你写 SOUL.md 之前，先回答这个问题：你想让它替你说话，还是替你想事？大多数人部署了一个连自己是谁都不知道的幽灵。"
     }
   }
 ]

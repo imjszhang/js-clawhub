@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-19T15:08:39.473032+00:00",
+  "updated_at": "2026-03-19T17:07:17.193449+00:00",
   "this_week": {
-    "total_items": 64,
+    "total_items": 67,
     "avg_score": 0.77,
-    "unique_authors": 60,
+    "unique_authors": 63,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -177,6 +177,34 @@
         "js_take": {
           "en-US": "316k stars in 4 months. Ask maintainers: how many are from users shipping production code vs FOMO bookmarking? Real growth doesn't need to flex on Linux.",
           "zh-CN": "4 个月 31.6k star。想问问维护者：这里面有多少是真在生产环境跑代码的用户贡献的，又有多少只是怕错过的收藏党？真正的增长，不需要拿 Linux 当参照物来秀肌肉。"
+        }
+      },
+      {
+        "id": "2034661487445258382",
+        "date": "2026-03-20",
+        "author": "@mattturck",
+        "author_url": "https://x.com/mattturck",
+        "tweet_url": "https://x.com/mattturck/status/2034661487445258382",
+        "title": {
+          "en-US": "Conversation with Benedict Evans: OpenAI's moat problem, ephemeral software, OpenClaw & agents.",
+          "zh-CN": "Matt Turck与Benedict Evans对话，讨论OpenAI的护城河问题、临时性软件兴起、OpenClaw与Agent趋势。"
+        },
+        "summary": {
+          "en-US": "直接讨论OpenClaw，Agent生态与平台竞争",
+          "zh-CN": "OpenAI的护城河问题不是技术问题，而是「表世界思维」的困境——它还在努力让所有人用它的界面，而Agent时代的关键是谁能成为里世界的默认基础设施。"
+        },
+        "relevance": "直接讨论OpenClaw，Agent生态与平台竞争",
+        "score": 0.82,
+        "engagement": {
+          "likes": 12,
+          "replies": 8,
+          "retweets": 1
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-19T17:07:02.111553+00:00",
+        "js_take": {
+          "en-US": "OpenAI fights to own the interface. OpenClaw fights to own the infrastructure beneath it. Surface vs inner world—guess which one wins long-term.",
+          "zh-CN": "OpenAI 争夺界面，OpenClaw 争夺底层基础设施。表世界 vs 里世界——猜猜长期来看谁能赢。"
         }
       },
       {
@@ -1003,39 +1031,11 @@
           "en-US": "Everyone copies the features. No one copies the timing. The real moat isn't code—it's knowing when to move and when to wait.",
           "zh-CN": "人人都在抄功能，却没人抄时机。真正的护城河不是代码，而是知道什么时候该动、什么时候该等。"
         }
-      },
-      {
-        "id": "2034297125417460044",
-        "date": "2026-03-19",
-        "author": "@hwchase17",
-        "author_url": "https://x.com/hwchase17",
-        "tweet_url": "https://x.com/hwchase17/status/2034297125417460044",
-        "title": {
-          "en-US": "Claude Code, OpenClaw, Manus all use same architecture: model + runtime + harness",
-          "zh-CN": "Claude Code、OpenClaw、Manus底层都用相同架构：模型+运行时+ harness"
-        },
-        "summary": {
-          "en-US": "OpenClaw/Agent底层架构分析",
-          "zh-CN": "更精炼：所有agent都在堆同样的积木，差别只在包装——真正决定上限的不是这三块的\"有\"，而是它们之间流动的\"势\""
-        },
-        "relevance": "OpenClaw/Agent底层架构分析",
-        "score": 0.75,
-        "engagement": {
-          "likes": 52,
-          "replies": 5,
-          "retweets": 7
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-18T17:08:57.368329+00:00",
-        "js_take": {
-          "en-US": "Everyone's stacking the same three blocks. The real edge isn't having them—it's the space between. How information flows, when decisions get made, where control loops back.",
-          "zh-CN": "所有人都在堆同样的三块积木。真正的优势不在于拥有它们，而在于它们之间的空隙。信息如何流动，决策何时做出，控制怎样回流。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 157
+    "unique_authors": 159
   }
 }
