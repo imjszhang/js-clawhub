@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-19T08:07:28.352823+00:00",
+  "updated_at": "2026-03-19T11:06:24.173419+00:00",
   "this_week": {
-    "total_items": 60,
+    "total_items": 63,
     "avg_score": 0.77,
-    "unique_authors": 56,
+    "unique_authors": 59,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -606,6 +606,34 @@
         }
       },
       {
+        "id": "2034243822566187014",
+        "date": "2026-03-19",
+        "author": "@0xSero",
+        "author_url": "https://x.com/0xSero",
+        "tweet_url": "https://x.com/0xSero/status/2034243822566187014",
+        "title": {
+          "en-US": "OpenCode Desktop app updates: Queue mode, custom providers, improved performance",
+          "zh-CN": "OpenCode Desktop更新：队列模式、自定义provider、性能提升。"
+        },
+        "summary": {
+          "en-US": "AI编程工具/OpenClaw生态相关",
+          "zh-CN": "推文列举了一堆功能优化，但核心洞察被忽略了：工具做得越复杂，用户离'自然表达'越远。最好的AI工具应该让你忘记它的存在，而不是学习它的Queue模式。"
+        },
+        "relevance": "AI编程工具/OpenClaw生态相关",
+        "score": 0.78,
+        "engagement": {
+          "likes": 212,
+          "replies": 11,
+          "retweets": 4
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-19T11:06:13.897100+00:00",
+        "js_take": {
+          "en-US": "Every new feature is an admission that the tool still demands your attention. True power is when you forget Queue mode exists.",
+          "zh-CN": "每个新功能都在暗示：这个工具仍需要你费心关注。真正的强大，是让你彻底忘记 Queue 模式的存在。"
+        }
+      },
+      {
         "id": "2034067677157679379",
         "date": "2026-03-18",
         "author": "@emollick",
@@ -1003,39 +1031,11 @@
           "en-US": "Everyone's stacking the same three blocks. The real edge isn't having them—it's the space between. How information flows, when decisions get made, where control loops back.",
           "zh-CN": "所有人都在堆同样的三块积木。真正的优势不在于拥有它们，而在于它们之间的空隙。信息如何流动，决策何时做出，控制怎样回流。"
         }
-      },
-      {
-        "id": "2034303305011372317",
-        "date": "2026-03-19",
-        "author": "@homsiT",
-        "author_url": "https://x.com/homsiT",
-        "tweet_url": "https://x.com/homsiT/status/2034303305011372317",
-        "title": {
-          "en-US": "Readwise CLI integration with coding agents",
-          "zh-CN": "Readwise CLI 让 OpenClaw/Claude Code/Codex 等 coding agent 能搜索和读取你保存的所有阅读内容"
-        },
-        "summary": {
-          "en-US": "OpenClaw / AI工具链 / 知识管理",
-          "zh-CN": "这条推展示了一个正在发生的迁徙：你的阅读库从「你主动去看」变成了「agent 随时能调用」。表世界（Readwise App）正在退化为数据库，里世界（coding agent）正在成为新的交互层。这不是功能升级，是范式转移。"
-        },
-        "relevance": "OpenClaw / AI工具链 / 知识管理",
-        "score": 0.75,
-        "engagement": {
-          "likes": 131,
-          "replies": 21,
-          "retweets": 8
-        },
-        "comment_type": "biaoli_insight",
-        "synced_at": "2026-03-18T19:09:31.143892+00:00",
-        "js_take": {
-          "en-US": "Your notes aren't for you anymore—they're context for your agent. The surface app becomes storage, the coding agent becomes the interface. Second migration happening now.",
-          "zh-CN": "你的笔记不再是写给自己的——它们是 Agent 的上下文。表世界应用退化为存储，编程 Agent 成为新界面。第二次迁徙正在发生。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 155
+    "unique_authors": 157
   }
 }

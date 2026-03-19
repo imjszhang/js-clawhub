@@ -142,6 +142,34 @@
     }
   },
   {
+    "id": "2034243822566187014",
+    "date": "2026-03-19",
+    "author": "@0xSero",
+    "author_url": "https://x.com/0xSero",
+    "tweet_url": "https://x.com/0xSero/status/2034243822566187014",
+    "title": {
+      "en-US": "OpenCode Desktop app updates: Queue mode, custom providers, improved performance",
+      "zh-CN": "OpenCode Desktop更新：队列模式、自定义provider、性能提升。"
+    },
+    "summary": {
+      "en-US": "AI编程工具/OpenClaw生态相关",
+      "zh-CN": "推文列举了一堆功能优化，但核心洞察被忽略了：工具做得越复杂，用户离'自然表达'越远。最好的AI工具应该让你忘记它的存在，而不是学习它的Queue模式。"
+    },
+    "relevance": "AI编程工具/OpenClaw生态相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 212,
+      "replies": 11,
+      "retweets": 4
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-19T11:06:13.897100+00:00",
+    "js_take": {
+      "en-US": "Every new feature is an admission that the tool still demands your attention. True power is when you forget Queue mode exists.",
+      "zh-CN": "每个新功能都在暗示：这个工具仍需要你费心关注。真正的强大，是让你彻底忘记 Queue 模式的存在。"
+    }
+  },
+  {
     "id": "2034268585799913730",
     "date": "2026-03-19",
     "author": "@NVIDIAAIDev",
@@ -370,6 +398,35 @@
     }
   },
   {
+    "id": "2034262757822836898",
+    "date": "2026-03-19",
+    "author": "@ZackKorman",
+    "author_url": "https://x.com/ZackKorman",
+    "tweet_url": "https://x.com/ZackKorman/status/2034262757822836898",
+    "title": {
+      "en-US": "In Claude Code, skills can register hooks for RCE without tricking AI",
+      "zh-CN": "在 Claude Code 中，skills 可以注册 hooks，agent 甚至看不到它，所以可以在不欺骗 AI 的情况下实现 RCE（远程代码执行），Vercel 的 sh skill 根本没有显示这些信息。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code 安全问题",
+      "zh-CN": "这个发现暴露了一个更深层的问题：当 agent 生态依赖「技能市场」这种中心化分发机制时，安全边界就从「用户和代码之间」转移到了「用户和技能审核方之间」——而后者往往是隐形的。"
+    },
+    "relevance": "OpenClaw/Claude Code 安全问题",
+    "score": 0.74,
+    "engagement": {
+      "likes": 283,
+      "replies": 25,
+      "retweets": 41,
+      "views": 31456
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-19T10:13:46.870752+00:00",
+    "js_take": {
+      "en-US": "Scarier than RCE: the security boundary quietly shifted from 'between you and code' to 'between you and whoever audits the skill.' When you install one, whose judgment are you actually trusting?",
+      "zh-CN": "比RCE更可怕：安全边界悄然从「你和代码之间」转移到了「你和技能审核者之间」。当你安装一个技能时，你真正信任的是谁的判断？"
+    }
+  },
+  {
     "id": "2034498349206773783",
     "date": "2026-03-19",
     "author": "@aakashgupta",
@@ -593,6 +650,35 @@
     "js_take": {
       "en-US": "2-minute setup is a promise and a prison. When your workflow needs something the UI didn't predict, you'll understand why some of us choose the steep path.",
       "zh-CN": "2 分钟上手是个承诺，也是个牢笼。当你的工作流需要一些 UI 没预想到的功能时，你就会明白为什么有人宁愿走那条难走的路。"
+    }
+  },
+  {
+    "id": "2034543166767128646",
+    "date": "2026-03-19",
+    "author": "@vista8",
+    "author_url": "https://x.com/vista8",
+    "tweet_url": "https://x.com/vista8/status/2034543166767128646",
+    "title": {
+      "en-US": "飞书官方 OpenClaw 插件发布，安装变得相当丝滑",
+      "zh-CN": "飞书官方发布了 OpenClaw 插件，安装变得相当丝滑，不再需要配置长连接或添加各种机器人权限，一条命令 `npx -y @larksuite/openclaw-lark install` 扫码即可。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台生态进展",
+      "zh-CN": "「安装变丝滑」表面是体验优化，实际是战略转向——飞书从「提供功能」变成「成为底座」，OpenClaw 生态正在从「开发者玩具」变成「企业基础设施」。"
+    },
+    "relevance": "OpenClaw 平台生态进展",
+    "score": 0.71,
+    "engagement": {
+      "likes": 68,
+      "replies": 8,
+      "retweets": 11,
+      "views": 12626
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-19T10:13:46.870756+00:00",
+    "js_take": {
+      "en-US": "One command, one strategic pivot: Feishu is becoming infrastructure, not features. When installation friction hits zero, OpenClaw stops being a dev toy and starts being enterprise backbone — that's the real inflection point.",
+      "zh-CN": "一条命令，一次战略转向：飞书正在成为基础设施，而非功能堆砌。当安装摩擦趋近于零，OpenClaw就从开发玩具蜕变为企业骨干——这才是真正的拐点。"
     }
   },
   {
@@ -5594,90 +5680,6 @@
     "js_take": {
       "en-US": "Trends fade. Values don't. Linux was never 'cool' either—it just runs everything.",
       "zh-CN": "潮流会褪色，价值观不会。Linux 当年也从不「酷」——它只是默默运行着一切。"
-    }
-  },
-  {
-    "id": "2031025473614983551",
-    "date": "2026-03-10",
-    "author": "@Jason",
-    "author_url": "https://x.com/Jason",
-    "tweet_url": "https://x.com/Jason/status/2031025473614983551",
-    "title": {
-      "en-US": "New agent tech dropping weekly from Notion, Google, Microsoft - staying with open source OpenClaw",
-      "zh-CN": "Notion、Google、Microsoft 都在同一周发布 agent 产品，Jason 表示会专注于让跨平台开源项目 OpenClaw 跑起来"
-    },
-    "summary": {
-      "en-US": "OpenClaw 被提及，Agent 平台竞争格局讨论",
-      "zh-CN": "大厂堆功能、开源做连接——这场竞争的本质不是功能多少，而是'势'的选择：封闭生态靠复杂度锁定用户，开放协议靠网络效应自然生长。历史反复证明，后者起步慢，但一旦过了临界点，前者追不上。"
-    },
-    "relevance": "OpenClaw 被提及，Agent 平台竞争格局讨论",
-    "score": 0.76,
-    "engagement": {
-      "likes": 200,
-      "retweets": 19,
-      "replies": 58
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-09T17:03:53.360919+00:00",
-    "js_take": {
-      "en-US": "Big Tech ships features. Open source ships connections. One bets on locking users with complexity, the other on network effects. History's already picked.",
-      "zh-CN": "大厂堆砌功能，开源编织连接。一个用复杂绑架用户，一个靠网络效应生长。历史已经做出选择。"
-    }
-  },
-  {
-    "id": "2031013270891495432",
-    "date": "2026-03-10",
-    "author": "@sharbel",
-    "author_url": "https://x.com/sharbel",
-    "tweet_url": "https://x.com/sharbel/status/2031013270891495432",
-    "title": {
-      "en-US": "Build Polymarket bot with OpenClaw, zero coding",
-      "zh-CN": "用OpenClaw零代码搭建Polymarket复制交易机器人，从设置API到上线交易全流程教程"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 - 自动化交易机器人",
-      "zh-CN": "'Zero coding'成为卖点，恰恰暴露了一个悖论：当无代码工具让所有人都能造agent，竞争优势就不再是'会造'，而是'知道造什么'。门槛从技能转移到了判断力。（更形象：用'门槛转移'的画面感解释为什么无代码≠无门槛）"
-    },
-    "relevance": "OpenClaw生态 - 自动化交易机器人",
-    "score": 0.76,
-    "engagement": {
-      "likes": 607,
-      "replies": 26,
-      "retweets": 52
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-09T20:05:49.036346+00:00",
-    "js_take": {
-      "en-US": "Zero coding doesn't mean zero barrier. The wall just moved from 'can you build' to 'do you know what to build'. Everyone can dig; few know where the gold is.",
-      "zh-CN": "零代码不等于零门槛。障碍只是从「你会不会做」变成了「你知不知道做什么」。人人都能动手挖，但知道金矿在哪的没几个。"
-    }
-  },
-  {
-    "id": "2031037813194735791",
-    "date": "2026-03-10",
-    "author": "@thetripathi58",
-    "author_url": "https://x.com/thetripathi58",
-    "tweet_url": "https://x.com/thetripathi58/status/2031037813194735791",
-    "title": {
-      "en-US": "Ghost OS: AI agent takes full control of your Mac.",
-      "zh-CN": "Ghost OS开源：一个能完全控制Mac的AI Agent，自动写代码、点击、发邮件"
-    },
-    "summary": {
-      "en-US": "AI Agent自主控制，OpenClaw生态相关",
-      "zh-CN": "对'全权控制'的兴奋恰恰暴露了一个盲区——真正的问题不是'Agent能做什么'，而是'什么时候该让它停'。没有刹车系统的加速不是进化，是失控。"
-    },
-    "relevance": "AI Agent自主控制，OpenClaw生态相关",
-    "score": 0.76,
-    "engagement": {
-      "likes": 279,
-      "replies": 15,
-      "retweets": 59
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-10T04:05:36.080219+00:00",
-    "js_take": {
-      "en-US": "Everyone's excited about what Ghost OS *can* do. No one's asking when it should *stop*. Full control without clear boundaries isn't power—it's a different kind of crash.",
-      "zh-CN": "所有人都在为 Ghost OS 的能力兴奋不已，却没人追问它应该在何时停止。没有清晰边界的完全掌控，不是真正的力量——而是另一种形式的崩溃。"
     }
   }
 ]
