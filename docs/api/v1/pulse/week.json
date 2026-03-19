@@ -540,6 +540,34 @@
     }
   },
   {
+    "id": "2034458612584886619",
+    "date": "2026-03-19",
+    "author": "@yaohui12138",
+    "author_url": "https://x.com/yaohui12138",
+    "tweet_url": "https://x.com/yaohui12138/status/2034458612584886619",
+    "title": {
+      "en-US": "OpenClaw贵不贵？取决于你把它当ChatGPT替代品还是多Agent共享知识库。",
+      "zh-CN": "推主分享 OpenClaw 使用心得：如果只当 ChatGPT 替代品血亏，作为多 Agent 共享知识库则超值。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 使用策略与 Agent 知识管理",
+      "zh-CN": "推主点出了工具价值的分水岭：用「替代品」思维只能吃到存量价值，用「基础设施」思维才能吃到复利。但更深的问题在于——大多数人还没想清楚自己的 Agent 工作流该长什么样，就已经在争论价格了。（更深度）"
+    },
+    "relevance": "OpenClaw 使用策略与 Agent 知识管理",
+    "score": 0.72,
+    "engagement": {
+      "likes": 98,
+      "replies": 11,
+      "retweets": 20
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-19T08:07:12.530511+00:00",
+    "js_take": {
+      "en-US": "Price debates assume you're buying a product. But OpenClaw is infrastructure—first you architect the system, then the cost becomes noise.",
+      "zh-CN": "价格争议的前提是你在购买产品。但 OpenClaw 是基础设施——先构建系统架构，成本自然不再是问题。"
+    }
+  },
+  {
     "id": "2034416590305821001",
     "date": "2026-03-19",
     "author": "@franpradasAI",
