@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-19T17:07:17.193449+00:00",
+  "updated_at": "2026-03-19T22:10:09.886049+00:00",
   "this_week": {
-    "total_items": 67,
+    "total_items": 71,
     "avg_score": 0.77,
-    "unique_authors": 63,
+    "unique_authors": 67,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -32,6 +32,36 @@
         "js_take": {
           "en-US": "I spent more hours babysitting my AI setup than it ever saved me. The best automation is the one you forget exists.",
           "zh-CN": "花在伺候AI上的时间比它帮我省的时间还多。最好的自动化是那种你会忘记它存在的。"
+        }
+      },
+      {
+        "id": "2034678354243436924",
+        "date": "2026-03-20",
+        "author": "@dontbesilent",
+        "author_url": "https://x.com/dontbesilent",
+        "tweet_url": "https://x.com/dontbesilent/status/2034678354243436924",
+        "title": {
+          "en-US": "Best skill ever, but most will just watch, not use. Scarcity creates value.",
+          "zh-CN": "人人可得的最强技能，多数人却只会围观"
+        },
+        "summary": {
+          "en-US": "OpenClaw Agent Skill 使用与价值稀缺性",
+          "zh-CN": "OpenClaw Agent Skill：使用与价值稀缺性"
+        },
+        "relevance": "OpenClaw Agent Skill 使用与价值稀缺性",
+        "score": 0.89,
+        "engagement": {
+          "likes": 250,
+          "replies": 4,
+          "retweets": 46,
+          "views": 31514,
+          "bookmarks": 379
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-19T20:06:51.574290+00:00",
+        "js_take": {
+          "en-US": "When everyone has the same tools, the scarce resource isn't the skill—it's the taste to know when to use it. You can give a carpenter the best hammer; their judgment of where to strike is what you can't democratize.",
+          "zh-CN": "当人人都有同样的工具，稀缺的不是技能，而是判断何时使用它的品味。你可以给木匠最好的锤子，但他判断落锤位置的直觉，永远无法被普及。"
         }
       },
       {
@@ -205,6 +235,34 @@
         "js_take": {
           "en-US": "OpenAI fights to own the interface. OpenClaw fights to own the infrastructure beneath it. Surface vs inner world—guess which one wins long-term.",
           "zh-CN": "OpenAI 争夺界面，OpenClaw 争夺底层基础设施。表世界 vs 里世界——猜猜长期来看谁能赢。"
+        }
+      },
+      {
+        "id": "2034716745802346659",
+        "date": "2026-03-20",
+        "author": "@vercel",
+        "author_url": "https://x.com/vercel",
+        "tweet_url": "https://x.com/vercel/status/2034716745802346659",
+        "title": {
+          "en-US": "Chat SDK lets your agents run on every platform from a single codebase",
+          "zh-CN": "Vercel 发布 Chat SDK，让 agents 可以用一套代码运行在 Slack、Discord、Teams 等所有平台上"
+        },
+        "summary": {
+          "en-US": "OpenClaw/Agent 平台化，与 JS 的「表/里世界迁徙」洞察直接相关",
+          "zh-CN": "大家欢呼「agents 无处不在」，但真正的 shift 不是覆盖更多平台，而是「平台」这个概念本身的消解——当 agents 成为通用接口，表世界的 App 将退化为里世界的数据源。"
+        },
+        "relevance": "OpenClaw/Agent 平台化，与 JS 的「表/里世界迁徙」洞察直接相关",
+        "score": 0.82,
+        "engagement": {
+          "likes": 247,
+          "replies": 20,
+          "retweets": 24
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-19T21:06:40.383277+00:00",
+        "js_take": {
+          "en-US": "The surface layer is dissolving into conversation. When every platform runs the same agent backend, platforms become data pipes—not destinations. The real power shift isn't coverage, it's the migration from surface to inner world.",
+          "zh-CN": "表层正在消融于对话之中。当各平台都运行同样的 Agent 后端，平台本身便沦为数据管道，而非终点。真正的权力转移不在于覆盖范围，而在于从表世界向里世界的迁移。"
         }
       },
       {
@@ -517,6 +575,34 @@
         "js_take": {
           "en-US": "Chrome isn't becoming an AI tool. It's becoming a database your agent queries. The surface world is shrinking — the real interface is moving inward.",
           "zh-CN": "Chrome不是在变成一个AI工具，而是在变成你的Agent查询的数据库。表世界正在收缩——真正的界面正在向内迁移。"
+        }
+      },
+      {
+        "id": "2034737545448497639",
+        "date": "2026-03-20",
+        "author": "@a16z",
+        "author_url": "https://x.com/a16z",
+        "tweet_url": "https://x.com/a16z/status/2034737545448497639",
+        "title": {
+          "en-US": "OpenClaw will create jobs like cloud did",
+          "zh-CN": "OpenClaw将像云计算一样创造大量新工作岗位"
+        },
+        "summary": {
+          "en-US": "OpenClaw与就业市场——agent生态基建的关键论述",
+          "zh-CN": "云创造了DevOps，OpenClaw将创造什么？不是「更多工作」，而是「工作的形态迁移」——表世界退化为数据库，里世界的新工种正在涌现"
+        },
+        "relevance": "OpenClaw与就业市场——agent生态基建的关键论述",
+        "score": 0.78,
+        "engagement": {
+          "likes": 25,
+          "replies": 5,
+          "retweets": 7
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-19T22:09:50.372268+00:00",
+        "js_take": {
+          "en-US": "Cloud didn't create 'more jobs' — it turned sysadmins into DevOps. OpenClaw won't create more work, it'll make 'managing agents' a profession. The interface shifts, the database stays.",
+          "zh-CN": "云计算没有创造'更多岗位'——它只是把系统管理员变成了 DevOps。OpenClaw 也不会增加工作量，而是让'管理 Agent'成为一种新职业。变的只是界面，不变的是数据底层。"
         }
       },
       {
@@ -892,6 +978,34 @@
         }
       },
       {
+        "id": "2034739081075212401",
+        "date": "2026-03-20",
+        "author": "@jordymaui",
+        "author_url": "https://x.com/jordymaui",
+        "tweet_url": "https://x.com/jordymaui/status/2034739081075212401",
+        "title": {
+          "en-US": "OpenClaw agent made real revenue selling to other agents",
+          "zh-CN": "OpenClaw agent自动创收，向其他agent销售服务，作者完全未干预"
+        },
+        "summary": {
+          "en-US": "OpenClaw agent自治与经济生态——agent-to-agent交易的真实案例",
+          "zh-CN": "「我什么都没做」恰恰是最大的信号：真正的增长不是拼命优化，而是搭好系统让它自运转——无为而治的赛博版本"
+        },
+        "relevance": "OpenClaw agent自治与经济生态——agent-to-agent交易的真实案例",
+        "score": 0.76,
+        "engagement": {
+          "likes": 14,
+          "replies": 2,
+          "retweets": 0
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-19T22:09:50.372275+00:00",
+        "js_take": {
+          "en-US": "You did nothing, it made money. That's the real pattern — the best systems grow when you stop optimizing them.",
+          "zh-CN": "无为而治，系统自赚。这才是真正的规律——最好的系统，在你停止折腾它的时候反而自己生长。"
+        }
+      },
+      {
         "id": "2034268585799913730",
         "date": "2026-03-19",
         "author": "@NVIDIAAIDev",
@@ -918,118 +1032,6 @@
         "js_take": {
           "en-US": "More power demands more restraint. OpenShell isn't adding features—it's drawing lines. Like learning to stand still before you can strike: the boundary is the capability.",
           "zh-CN": "能力越强，越需要克制。OpenShell 不是在堆砌功能，而是在划定边界。如同出拳前先学会静止——边界本身，就是能力的体现。"
-        }
-      },
-      {
-        "id": "2034389440966397958",
-        "date": "2026-03-19",
-        "author": "@heynavtoor",
-        "author_url": "https://x.com/heynavtoor",
-        "tweet_url": "https://x.com/heynavtoor/status/2034389440966397958",
-        "title": {
-          "en-US": "NVIDIA just solved the biggest problem with AI agents. They keep breaking things. It's called NemoClaw.",
-          "zh-CN": "NVIDIA推出NemoClaw解决AI Agent的最大问题：Agent会不断破坏东西"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态/Agent安全",
-          "zh-CN": "推文把'沙盒锁定'当成终极解决方案，但这仍是'控制思维'的延续——真正的解法不是锁住Agent，是设计系统让破坏的代价趋近于零，让试错成为进化的燃料而非风险"
-        },
-        "relevance": "OpenClaw生态/Agent安全",
-        "score": 0.76,
-        "engagement": {
-          "likes": 37,
-          "replies": 7,
-          "retweets": 7
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-19T00:07:24.292047+00:00",
-        "js_take": {
-          "en-US": "Locking agents in a room to break things is a painkiller, not a cure. True safety isn't preventing destruction—it's making every crash so cheap it becomes training data. The goal is agents that learn from failure, not ones that never fail.",
-          "zh-CN": "把 Agent 锁在房间里搞破坏测试，这是止痛药，不是解药。真正的安全不是阻止破坏——而是让每次崩溃的成本低到变成训练数据。目标是让 Agent 从失败中学习，而非永不失败。"
-        }
-      },
-      {
-        "id": "2034394705035972630",
-        "date": "2026-03-19",
-        "author": "@robinebers",
-        "author_url": "https://x.com/robinebers",
-        "tweet_url": "https://x.com/robinebers/status/2034394705035972630",
-        "title": {
-          "en-US": "Claude is replacing OpenClaw and I'm here for it",
-          "zh-CN": "Claude正在取代OpenClaw，而我对此喜闻乐见"
-        },
-        "summary": {
-          "en-US": "OpenClaw vs Claude，AI Agent平台竞争",
-          "zh-CN": "工具更替是表象，真正迁移的是「控制权」的归属。从OpenClaw到Claude，不是功能升级，而是agent生态从「可控的开源协议」滑向「闭源的便利」。用户欢呼的往往是短期效率，牺牲的却是长期议价能力。"
-        },
-        "relevance": "OpenClaw vs Claude，AI Agent平台竞争",
-        "score": 0.76,
-        "engagement": {
-          "likes": 87,
-          "replies": 20,
-          "retweets": 1
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-03-19T01:10:06.545125+00:00",
-        "js_take": {
-          "en-US": "You're cheering a prettier cage. When one company owns the brain, your workflow becomes the hostage.",
-          "zh-CN": "你在为一座更精致的牢笼欢呼。当一家公司垄断了「大脑」，你的工作流就成了人质。"
-        }
-      },
-      {
-        "id": "2033642064009957725",
-        "date": "2026-03-17",
-        "author": "@NVIDIAAIDev",
-        "author_url": "https://x.com/NVIDIAAIDev",
-        "tweet_url": "https://x.com/NVIDIAAIDev/status/2033642064009957725",
-        "title": {
-          "en-US": "NVIDIA NemoClaw simplifies running OpenClaw always-on assistants with single command",
-          "zh-CN": "NVIDIA发布NemoClaw，一键部署OpenClaw常驻助手，强调安全护栏和随处部署能力。"
-        },
-        "summary": {
-          "en-US": "OpenClaw - 企业级安全部署方案",
-          "zh-CN": "NVIDIA入场验证了OpenClaw作为「里世界基础设施」的确定性，但一键部署的便利性可能让人低估真正困难的部分——如何让Agent在无人监督时做出正确判断。"
-        },
-        "relevance": "OpenClaw - 企业级安全部署方案",
-        "score": 0.76,
-        "engagement": {
-          "likes": 840,
-          "replies": 59,
-          "retweets": 127
-        },
-        "comment_type": "biaoli_insight",
-        "synced_at": "2026-03-16T23:09:07.147706+00:00",
-        "js_take": {
-          "en-US": "One-click deployment is surface world convenience. The real shift to inner world: teaching your agent to know when to stop—without you watching.",
-          "zh-CN": "一键部署只是表世界的便利。真正的里世界跃迁，在于教会你的 Agent 自主判断何时停止——而你无需时刻盯着。"
-        }
-      },
-      {
-        "id": "2033888178541641780",
-        "date": "2026-03-17",
-        "author": "@0thernet",
-        "author_url": "https://x.com/0thernet",
-        "tweet_url": "https://x.com/0thernet/status/2033888178541641780",
-        "title": {
-          "en-US": "hilarious how many people are copying @zocomputer",
-          "zh-CN": "讽刺的是，有多少人在抄袭 Zo——从 Zo beta 到 OpenClaw 首个 commit 仅用 5 个月，6 天后 YC 公司纷纷转向克隆 Zo"
-        },
-        "summary": {
-          "en-US": "OpenClaw 生态演变 + 克隆/竞争现象",
-          "zh-CN": "大家都在克隆 Zo，但没人问「为什么 Zo 能成」。跟风者复制的是表层的功能，却复制不了创始人的「势」。表世界看代码，里世界看判断——这正是「不争之争」的反面教材。"
-        },
-        "relevance": "OpenClaw 生态演变 + 克隆/竞争现象",
-        "score": 0.76,
-        "engagement": {
-          "likes": 51,
-          "replies": 15,
-          "retweets": 0
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-03-17T14:10:33.898618+00:00",
-        "js_take": {
-          "en-US": "Everyone copies the features. No one copies the timing. The real moat isn't code—it's knowing when to move and when to wait.",
-          "zh-CN": "人人都在抄功能，却没人抄时机。真正的护城河不是代码，而是知道什么时候该动、什么时候该等。"
         }
       }
     ]
