@@ -226,6 +226,34 @@
     }
   },
   {
+    "id": "2034346436100517959",
+    "date": "2026-03-19",
+    "author": "@TimHaldorsson",
+    "author_url": "https://x.com/TimHaldorsson",
+    "tweet_url": "https://x.com/TimHaldorsson/status/2034346436100517959",
+    "title": {
+      "en-US": "Claude dispatch killed OpenClaw - phone as remote, laptop as worker",
+      "zh-CN": "Claude推出Dispatch功能，手机可以远程控制桌面AI会话，作者认为这对OpenClaw是致命打击"
+    },
+    "summary": {
+      "en-US": "OpenClaw竞争格局，AI Agent远程控制趋势",
+      "zh-CN": "作者在庆祝一个功能「杀死」一个生态，但这恰恰误解了OpenClaw的本质——它不是远程控制工具，而是agent操作系统。真正的竞争维度不是「手机能不能连桌面」，而是agent之间能不能协作、能不能自主完成复杂任务链。"
+    },
+    "relevance": "OpenClaw竞争格局，AI Agent远程控制趋势",
+    "score": 0.72,
+    "engagement": {
+      "likes": 58,
+      "replies": 25,
+      "retweets": 2
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-18T22:10:30.476783+00:00",
+    "js_take": {
+      "en-US": "Phone as remote is a feature. Agent OS is infrastructure. Features get copied. Infrastructure creates moats. The migration isn't about who controls the laptop — it's about which agents can think across devices.",
+      "zh-CN": "手机当遥控器是功能，Agent OS 是基础设施。功能会被复制，基础设施才能建立护城河。这场迁徙的关键不在于谁控制笔记本电脑，而在于哪些 Agent 能跨设备思考。"
+    }
+  },
+  {
     "id": "2034134875234832540",
     "date": "2026-03-18",
     "author": "@nickbaumann_",
@@ -5651,36 +5679,6 @@
     "js_take": {
       "en-US": "Tutorial makers build someone else's empire. Buyers pay for a proven personality, not working code.",
       "zh-CN": "做教程的人在给别人造帝国。买家买的是人格IP，不是能跑的代码。"
-    }
-  },
-  {
-    "id": "2030925207846723813",
-    "date": "2026-03-09",
-    "author": "@ml0_1337",
-    "author_url": "https://x.com/ml0_1337",
-    "tweet_url": "https://x.com/ml0_1337/status/2030925207846723813",
-    "title": {
-      "en-US": "Mac runs iPhone emulator for OpenClaw Tinder automation",
-      "zh-CN": "用OpenClaw在Mac上跑iPhone模拟器实现Tinder自动滑动和聊天，还能同时开10个账号并行操作"
-    },
-    "summary": {
-      "en-US": "OpenClaw实战应用 + Agent自动化 + 社交工程",
-      "zh-CN": "大家都在讨论「用AI自动化约会」这个技术实现，但忽略了更深的问题：当匹配、聊天、约会都能自动化，人类在这套流程里的价值从「筛选」变成了「最终见面」——中间的「用心」被外包给agent，剩下的只有执行。"
-    },
-    "relevance": "OpenClaw实战应用 + Agent自动化 + 社交工程",
-    "score": 0.82,
-    "engagement": {
-      "likes": 114,
-      "retweets": 12,
-      "replies": 2,
-      "views": 10470,
-      "bookmarks": 72
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-09T10:04:41.748717+00:00",
-    "js_take": {
-      "en-US": "10 accounts swiping at once isn't efficiency—it's outsourcing the only part that matters. When scripts handle the 'work,' your sincerity becomes indistinguishable from a bot.",
-      "zh-CN": "同时操作10个账号不叫效率——而是把唯一重要的部分外包了出去。当脚本替你'干活'，你的真诚就变得和机器人毫无分别。"
     }
   }
 ]
