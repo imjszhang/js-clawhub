@@ -25,6 +25,63 @@
     "synced_at": "2026-03-20T17:09:07.645433+00:00"
   },
   {
+    "id": "2034819008130949353",
+    "date": "2026-03-21",
+    "author": "@sarfraj_ab75685",
+    "author_url": "https://x.com/sarfraj_ab75685",
+    "tweet_url": "https://x.com/sarfraj_ab75685/status/2034819008130949353",
+    "title": {
+      "en-US": "OpenClaw bot runs 6 AI agents 24/7 for business scouting",
+      "zh-CN": "OpenClaw bot 24/7运行6个AI agent自动寻找本地商家、建demo站、发冷邮件"
+    },
+    "summary": {
+      "en-US": "OpenClaw + Agent运营实践",
+      "zh-CN": "「6个agents 24/7运行」听起来很酷，但你可能正在优化一个即将被大厂免费化的工作流——真正的护城河不是自动化流程，而是你在流程中积累的判断力。"
+    },
+    "relevance": "OpenClaw + Agent运营实践",
+    "score": 0.76,
+    "engagement": {
+      "likes": 136,
+      "replies": 118,
+      "retweets": 34
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-20T18:09:13.854170+00:00",
+    "js_take": {
+      "en-US": "Ran 8 agents 24/7 for 3 months. Then Google released it free. The automation wasn't the asset—the edge cases I learned were.",
+      "zh-CN": "8个智能体7×24小时跑了三个月，谷歌却免费发布了同样功能。自动化不是资产，学到的边缘案例才是。"
+    }
+  },
+  {
+    "id": "2035048113099219134",
+    "date": "2026-03-21",
+    "author": "@gabriel1",
+    "author_url": "https://x.com/gabriel1",
+    "tweet_url": "https://x.com/gabriel1/status/2035048113099219134",
+    "title": {
+      "en-US": "Was skeptical of OpenClaw, turns out I was stupid. Visionary product. Access everything from anywhere is how world will run.",
+      "zh-CN": "作者承认自己最初怀疑OpenClaw是错的，现在认为它是极具远见的产品，能随时随地访问一切完成工作显然是未来世界的运行方式。"
+    },
+    "summary": {
+      "en-US": "OpenClaw产品价值与分布式工作趋势",
+      "zh-CN": "从'怀疑'到'信服'的转变，恰恰说明了'势'的力量——不是强行说服，而是让产品本身证明；OpenClaw的远见不在于功能，而在于它预判了'里世界成为新交互层'的结构性迁移。"
+    },
+    "relevance": "OpenClaw产品价值与分布式工作趋势",
+    "score": 0.7,
+    "engagement": {
+      "likes": 513,
+      "replies": 38,
+      "retweets": 14,
+      "views": 19964
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-20T19:08:54.994203+00:00",
+    "js_take": {
+      "en-US": "Skepticism flipping to belief means this isn't marketing — it's momentum. 'Access everything from anywhere' isn't a feature, it's the new layer.",
+      "zh-CN": "怀疑转为信任，说明这不是营销，而是势。'随处访问一切'不是功能，是新层级。"
+    }
+  },
+  {
     "id": "2034678354243436924",
     "date": "2026-03-20",
     "author": "@dontbesilent",
