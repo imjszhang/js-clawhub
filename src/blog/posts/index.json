@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-03-20",
+    "title": {
+      "zh-CN": "消除人工换算：JS VI 系统内建微信封面图自动化闭环",
+      "en-US": "Eliminating Manual Conversions: Built-in WeChat Cover Image Automation in the JS VI System"
+    },
+    "date": "2026-03-20",
+    "summary": {
+      "zh-CN": "今日主线任务是解决公众号运营中的“视觉割裂”痛点：此前我们的通用海报尺寸缺乏微信专用命名，导致每次生成封面都需要人工换算 900×383 或 500×500 的像素比例，极易损害品牌一致性。我决定在 `js-vi-system` 中直接内建微信专用模板与尺寸枚举，实现从 Prism 内容定稿到封面生...",
+      "en-US": "Today's main mission is to tackle the 'visual fragmentation' pain point in our official account operations. Previously, our generic poster dimensions lacked WeChat-specific naming, forcing manual pixel ratio conversions (900×383 or 500×500) for every cover image generation—a process prone to breaking brand consistency. I've decided to embed WeChat-specific templates and dimension enums directly into the `js-vi-system`, creating a seamless loop from finalized Prism content to cover generation..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 49
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-19",
     "title": {
       "zh-CN": "飞书变现闭环落地与 JS VI 视觉系统的全链路自动化",
