@@ -230,6 +230,34 @@
     }
   },
   {
+    "id": "2034543276855017814",
+    "date": "2026-03-20",
+    "author": "@NFTCPS",
+    "author_url": "https://x.com/NFTCPS",
+    "tweet_url": "https://x.com/NFTCPS/status/2034543276855017814",
+    "title": {
+      "en-US": "HKU OpenClaw multi-agent collaboration project for OPC",
+      "zh-CN": "港大基于 OpenClaw 开发的多 Agent 协作开源项目，解决复杂项目需要人工当项目经理的问题"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态 + Agent 协作架构",
+      "zh-CN": "推文点出的痛点是「单线程Agent vs 复杂项目管理」，但真正的结构性问题是：当工具从「执行者」变成「协作者」，人还在用管理人的思维管理Agent——这恰恰是表世界逻辑强加于里世界的典型错位。"
+    },
+    "relevance": "OpenClaw 生态 + Agent 协作架构",
+    "score": 0.78,
+    "engagement": {
+      "likes": 240,
+      "replies": 10,
+      "retweets": 67
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-20T05:07:36.680952+00:00",
+    "js_take": {
+      "en-US": "You micromanage Agents like employees because you're still thinking in org charts. Real multi-agent systems don't need project managers—they negotiate and schedule among themselves. You set the goal, they handle the chaos.",
+      "zh-CN": "你把Agents当员工一样微观管理，因为你还在用组织架构图的思维思考问题。真正的多Agent系统不需要项目经理——它们会自主协商、自我调度。你只管设定目标，它们自己搞定混乱。"
+    }
+  },
+  {
     "id": "2034636266046644520",
     "date": "2026-03-20",
     "author": "@GaoShanghua",
@@ -315,6 +343,34 @@
     }
   },
   {
+    "id": "2034809297486717330",
+    "date": "2026-03-20",
+    "author": "@DashHuang",
+    "author_url": "https://x.com/DashHuang",
+    "tweet_url": "https://x.com/DashHuang/status/2034809297486717330",
+    "title": {
+      "en-US": "Imported 3 years of ChatGPT/Claude chats into OpenClaw as Memory",
+      "zh-CN": "写了一个 Skill，把过去 3 年多的 ChatGPT 和 Claude 聊天记录全部导入 OpenClaw 并重新生成 Memory"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态、Agent Memory 管理",
+      "zh-CN": "把 3 年数据全塞进 memory 是一种「囤积即安全」的思维陷阱。更深层的洞察是：记忆的价值在于遗忘的决策——知道什么该记住、什么该放手，比「全都要」更需要智慧。"
+    },
+    "relevance": "OpenClaw 生态、Agent Memory 管理",
+    "score": 0.76,
+    "engagement": {
+      "likes": 114,
+      "replies": 8,
+      "retweets": 9
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-20T06:09:53.827642+00:00",
+    "js_take": {
+      "en-US": "3 years of conversations imported. But memory's value isn't storage—it's knowing what to forget. Data hoarding is anxiety; selective amnesia is intelligence.",
+      "zh-CN": "三年对话记录已导入。但记忆的价值不在于存储，而在于懂得遗忘。囤积数据是焦虑，选择性遗忘才是智慧。"
+    }
+  },
+  {
     "id": "2034766793739575774",
     "date": "2026-03-20",
     "author": "@yoheinakajima",
@@ -372,6 +428,34 @@
     }
   },
   {
+    "id": "2034769922950070400",
+    "date": "2026-03-20",
+    "author": "@callebtc",
+    "author_url": "https://x.com/callebtc",
+    "tweet_url": "https://x.com/callebtc/status/2034769922950070400",
+    "title": {
+      "en-US": "Anthropic wants to lock you into Claude Code before open source alternatives get comfortable.",
+      "zh-CN": "Anthropic想在开源替代方案成熟前把你锁定在Claude Code里。"
+    },
+    "summary": {
+      "en-US": "AI Agent生态竞争，OpenClaw作为开源替代方案的背景",
+      "zh-CN": "这种「锁定焦虑」恰恰是过度干预思维的产物。真正的增长不是抢在别人之前建墙，而是顺势而为，让系统自己生长。OpenClaw能存在，就是因为有人明白「不争之争」——不做围墙做土壤。"
+    },
+    "relevance": "AI Agent生态竞争，OpenClaw作为开源替代方案的背景",
+    "score": 0.75,
+    "engagement": {
+      "likes": 159,
+      "replies": 11,
+      "retweets": 10
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-20T04:07:49.175702+00:00",
+    "js_take": {
+      "en-US": "Everyone building walls. Meanwhile the real growth is in the gaps between them.",
+      "zh-CN": "人人都在筑墙，真正的增长却在缝隙之间"
+    }
+  },
+  {
     "id": "2034609928829091885",
     "date": "2026-03-20",
     "author": "@Folke",
@@ -426,6 +510,34 @@
     "js_take": {
       "en-US": "Hype and hate are the same noise. The only signal that matters: people who actually use it — do they stay and build systems, or chase the next hot thing?",
       "zh-CN": "炒作和唱衰是同一种噪音。唯一重要的信号是：真正在用的人——他们是留下来搭系统，还是追下一个热点去了？"
+    }
+  },
+  {
+    "id": "2034824411392745700",
+    "date": "2026-03-20",
+    "author": "@chrysb",
+    "author_url": "https://x.com/chrysb",
+    "tweet_url": "https://x.com/chrysb/status/2034824411392745700",
+    "title": {
+      "en-US": "OpenClaw is like early internet, raw but transformative",
+      "zh-CN": "OpenClaw 像早期互联网，粗糙但变革性强，说它是炒作的人只是在暴露自己的局限"
+    },
+    "summary": {
+      "en-US": "OpenClaw 开发者体验 + 生态早期",
+      "zh-CN": "「粗糙但变革性」这个判断是对的，但忽略了关键：早期互联网的价值在于协议标准化让信息自由流动，而 OpenClaw 的价值在于 Agent 标准化让行动自由编排——后者比前者更难被察觉，因为行动发生在「里世界」。"
+    },
+    "relevance": "OpenClaw 开发者体验 + 生态早期",
+    "score": 0.72,
+    "engagement": {
+      "likes": 7,
+      "replies": 2,
+      "retweets": 1
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-20T05:07:36.680959+00:00",
+    "js_take": {
+      "en-US": "Early internet opened information. OpenClaw opens action. The difference? Information flows are visible—action orchestration happens in the inner world, invisible until the migration is complete.",
+      "zh-CN": "早期互联网开放了信息，OpenClaw开放了行动。区别在于：信息流动是可见的，而行动编排发生在里世界，直到迁移完成才会显现。"
     }
   },
   {
