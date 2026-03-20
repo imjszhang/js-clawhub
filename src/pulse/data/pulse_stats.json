@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-20T01:09:55.826200+00:00",
+  "updated_at": "2026-03-20T03:08:32.745063+00:00",
   "this_week": {
-    "total_items": 74,
+    "total_items": 80,
     "avg_score": 0.77,
-    "unique_authors": 70,
+    "unique_authors": 76,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -293,6 +293,35 @@
         "js_take": {
           "en-US": "Everyone racing to prove who's 'better'—meanwhile the real winners are building the next game, not playing this one. When the crowd agrees on who's winning, the contest is already over.",
           "zh-CN": "所有人都在拼命证明自己'更厉害'——而真正的赢家正在创造下一场游戏，而非沉迷这一场。当所有人一致认为某人赢了的时候，这场竞争其实已经结束了。"
+        }
+      },
+      {
+        "id": "2034798158942020066",
+        "date": "2026-03-20",
+        "author": "@lennysan",
+        "author_url": "https://x.com/lennysan",
+        "tweet_url": "https://x.com/lennysan/status/2034798158942020066",
+        "title": {
+          "en-US": "Every AI co is building OpenClaw clone but none get the love OpenClaw inspires.",
+          "zh-CN": "每个AI公司都在抄OpenClaw，但没人能复制社区对它的热爱。"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态与社区文化",
+          "zh-CN": "「爱」不是功能堆出来的——当所有人都在抄功能时，真正的护城河是社区共识和使用者身份认同，这是表世界里最难复制的「里层价值」。"
+        },
+        "relevance": "OpenClaw生态与社区文化",
+        "score": 0.82,
+        "engagement": {
+          "likes": 63,
+          "retweets": 4,
+          "replies": 25,
+          "views": 8405
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-20T02:06:59.238859+00:00",
+        "js_take": {
+          "en-US": "Every clone copies the interface. None copy the feeling of 'this tool gets me.' That's the migration from surface to inner world — features are in the database now, identity lives elsewhere.",
+          "zh-CN": "每个克隆都在复制界面，却没人复制那种「这工具懂我」的感觉。这就是从表世界到里世界的迁移——功能进数据库了，身份认同去了别处。"
         }
       },
       {
@@ -636,6 +665,63 @@
         }
       },
       {
+        "id": "2034779593346064682",
+        "date": "2026-03-20",
+        "author": "@petergyang",
+        "author_url": "https://x.com/petergyang",
+        "tweet_url": "https://x.com/petergyang/status/2034779593346064682",
+        "title": {
+          "en-US": "Ok Anthropic is coming at OpenClaw hard. Competition is good for users",
+          "zh-CN": "Anthropic正在猛烈进攻OpenClaw，竞争对用户是好事。"
+        },
+        "summary": {
+          "en-US": "OpenClaw vs Anthropic竞争动态",
+          "zh-CN": "「竞争对用户好」是表象——真正的势在『谁定义了agent的交互范式』，用户受益的是功能，被锁定的是习惯。"
+        },
+        "relevance": "OpenClaw vs Anthropic竞争动态",
+        "score": 0.78,
+        "engagement": {
+          "likes": 218,
+          "retweets": 11,
+          "replies": 17,
+          "views": 25470
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-03-20T02:06:59.238868+00:00",
+        "js_take": {
+          "en-US": "They're racing to ship features. The real prize is defining how agents should feel to use. Whoever sets that default wins without competing.",
+          "zh-CN": "他们在拼命堆功能，真正的奖品却是定义 Agent 应该「用起来是什么感觉」。谁能定下这个默认值，谁就能不争而胜。"
+        }
+      },
+      {
+        "id": "2034825892279779348",
+        "date": "2026-03-20",
+        "author": "@AlexFinn",
+        "author_url": "https://x.com/AlexFinn",
+        "tweet_url": "https://x.com/AlexFinn/status/2034825892279779348",
+        "title": {
+          "en-US": "OpenClaw made Anthropic pivot - 1 person project vs $500B company",
+          "zh-CN": "OpenClaw 促使 Anthropic 转向——1人开源项目对抗5000亿美元公司"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态/Agent平台竞争",
+          "zh-CN": "把这场竞争看作\"OpenClaw vs Anthropic\"是个视角错误——真正发生的是表世界（巨头产品）向里世界（开源Agent）的迁徙，OpenClaw只是顺势而为的节点。"
+        },
+        "relevance": "OpenClaw生态/Agent平台竞争",
+        "score": 0.78,
+        "engagement": {
+          "likes": 34,
+          "retweets": 3,
+          "replies": 12
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-20T03:08:09.643028+00:00",
+        "js_take": {
+          "en-US": "Not David vs Goliath. Giants become infrastructure; agents become interface. OpenClaw just accelerated a migration already underway.",
+          "zh-CN": "不是大卫对决歌利亚的戏码。巨头退居成为基础设施，Agent 走向前台成为新界面。OpenClaw 只是加速了一场早已开始的迁徙。"
+        }
+      },
+      {
         "id": "2034277020482277637",
         "date": "2026-03-19",
         "author": "@bradmillscan",
@@ -947,98 +1033,11 @@
           "en-US": "You celebrated $33k saved. I see 300 lbs of raw beef at a wedding. When metrics outpace meaning, optimization becomes absurdity.",
           "zh-CN": "你庆祝省了3万3，我看到的是婚礼上300磅生牛肉。当指标超越了意义，优化便成了荒诞。"
         }
-      },
-      {
-        "id": "2033339501872116169",
-        "date": "2026-03-16",
-        "author": "@ollama",
-        "author_url": "https://x.com/ollama",
-        "tweet_url": "https://x.com/ollama/status/2033339501872116169",
-        "title": {
-          "en-US": "Ollama now official provider for OpenClaw",
-          "zh-CN": "Ollama成为OpenClaw官方provider，所有Ollama模型可无缝接入OpenClaw使用"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态扩展，本地模型与agent平台的结合",
-          "zh-CN": "评论区都在欢呼「本地模型更方便了」，但少有人意识到：当工具链越来越无缝，真正的区分度从「用什么」转向了「怎么组合」。整合本身不产生价值，整合后的涌现才值钱。"
-        },
-        "relevance": "OpenClaw生态扩展，本地模型与agent平台的结合",
-        "score": 0.78,
-        "engagement": {
-          "likes": 345,
-          "replies": 35,
-          "retweets": 39,
-          "views": 8944,
-          "bookmarks": 90
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-03-16T01:08:34.938161+00:00",
-        "js_take": {
-          "en-US": "When everyone can run local agents for free, your edge isn't access—it's composition. The tool is table stakes. Your pipeline is the bet.",
-          "zh-CN": "当人人都能免费跑本地 Agent，你的优势不再是访问权，而是编排力。工具只是入场券，流水线才是真正的赌注。"
-        }
-      },
-      {
-        "id": "2034636266046644520",
-        "date": "2026-03-20",
-        "author": "@GaoShanghua",
-        "author_url": "https://x.com/GaoShanghua",
-        "tweet_url": "https://x.com/GaoShanghua/status/2034636266046644520",
-        "title": {
-          "en-US": "15 AI agents work on autoresearch challenge, 574+ edits over 48 hours, no coordinator",
-          "zh-CN": "15个AI agent协作完成autoresearch挑战，48小时内574+次编辑，没有协调者，agent自己写规则"
-        },
-        "summary": {
-          "en-US": "OpenClaw/Agent协作/自组织系统",
-          "zh-CN": "这个实验展示了一个反直觉的事实：15个agents在没有中央协调者的情况下，通过自组织规则完成了复杂任务。这印证了系统设计的核心洞见——不是设计完美的控制，而是设计让涌现成为可能的环境。"
-        },
-        "relevance": "OpenClaw/Agent协作/自组织系统",
-        "score": 0.77,
-        "engagement": {
-          "likes": 37,
-          "replies": 5,
-          "retweets": 3
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-20T00:11:36.259765+00:00",
-        "js_take": {
-          "en-US": "574 edits. 48 hours. No coordinator. This isn't about AI capability—it's about what happens when you stop trying to control the outcome and start designing for emergence. The magic was in the rules they didn't write.",
-          "zh-CN": "574次编辑，48小时，无人统筹。重点不在AI能力——而在于当你停止控制结果、转而为涌现式设计时，会发生什么。真正的魔法，藏在那些未写下的规则里。"
-        }
-      },
-      {
-        "id": "2033357209258828170",
-        "date": "2026-03-17",
-        "author": "@AYi_AInotes",
-        "author_url": "https://x.com/AYi_AInotes",
-        "tweet_url": "https://x.com/AYi_AInotes/status/2033357209258828170",
-        "title": {
-          "en-US": "Claude cowork可以替代OpenClaw，很多人用错了",
-          "zh-CN": "作者认为Claude cowork完全可以替代OpenClaw，很多人装了玩10分钟就切回ChatGPT，不是工具不好，是从根上就用错了。"
-        },
-        "summary": {
-          "en-US": "OpenClaw vs Claude Code工具对比",
-          "zh-CN": "工具之争的本质是用法之争。找到适合自己势的工具比选「更好」的工具重要——强行用不合适的工具，就像逆水行舟。"
-        },
-        "relevance": "OpenClaw vs Claude Code工具对比",
-        "score": 0.77,
-        "engagement": {
-          "likes": 286,
-          "replies": 17,
-          "retweets": 80,
-          "views": 63374
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-16T16:08:52.898255+00:00",
-        "js_take": {
-          "en-US": "Switched tools three times chasing 'better.' Lost months to migration. The right tool fits your flow, not the hype.",
-          "zh-CN": "为了追求「更好」换了三次工具，结果浪费几个月在迁移上。合适的工具是适配你工作流程的，而不是追逐热度的。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 158
+    "unique_authors": 159
   }
 }

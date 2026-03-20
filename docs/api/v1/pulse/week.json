@@ -116,6 +116,35 @@
     }
   },
   {
+    "id": "2034798158942020066",
+    "date": "2026-03-20",
+    "author": "@lennysan",
+    "author_url": "https://x.com/lennysan",
+    "tweet_url": "https://x.com/lennysan/status/2034798158942020066",
+    "title": {
+      "en-US": "Every AI co is building OpenClaw clone but none get the love OpenClaw inspires.",
+      "zh-CN": "每个AI公司都在抄OpenClaw，但没人能复制社区对它的热爱。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态与社区文化",
+      "zh-CN": "「爱」不是功能堆出来的——当所有人都在抄功能时，真正的护城河是社区共识和使用者身份认同，这是表世界里最难复制的「里层价值」。"
+    },
+    "relevance": "OpenClaw生态与社区文化",
+    "score": 0.82,
+    "engagement": {
+      "likes": 63,
+      "retweets": 4,
+      "replies": 25,
+      "views": 8405
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-20T02:06:59.238859+00:00",
+    "js_take": {
+      "en-US": "Every clone copies the interface. None copy the feeling of 'this tool gets me.' That's the migration from surface to inner world — features are in the database now, identity lives elsewhere.",
+      "zh-CN": "每个克隆都在复制界面，却没人复制那种「这工具懂我」的感觉。这就是从表世界到里世界的迁移——功能进数据库了，身份认同去了别处。"
+    }
+  },
+  {
     "id": "2034737545448497639",
     "date": "2026-03-20",
     "author": "@a16z",
@@ -141,6 +170,63 @@
     "js_take": {
       "en-US": "Cloud didn't create 'more jobs' — it turned sysadmins into DevOps. OpenClaw won't create more work, it'll make 'managing agents' a profession. The interface shifts, the database stays.",
       "zh-CN": "云计算没有创造'更多岗位'——它只是把系统管理员变成了 DevOps。OpenClaw 也不会增加工作量，而是让'管理 Agent'成为一种新职业。变的只是界面，不变的是数据底层。"
+    }
+  },
+  {
+    "id": "2034779593346064682",
+    "date": "2026-03-20",
+    "author": "@petergyang",
+    "author_url": "https://x.com/petergyang",
+    "tweet_url": "https://x.com/petergyang/status/2034779593346064682",
+    "title": {
+      "en-US": "Ok Anthropic is coming at OpenClaw hard. Competition is good for users",
+      "zh-CN": "Anthropic正在猛烈进攻OpenClaw，竞争对用户是好事。"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Anthropic竞争动态",
+      "zh-CN": "「竞争对用户好」是表象——真正的势在『谁定义了agent的交互范式』，用户受益的是功能，被锁定的是习惯。"
+    },
+    "relevance": "OpenClaw vs Anthropic竞争动态",
+    "score": 0.78,
+    "engagement": {
+      "likes": 218,
+      "retweets": 11,
+      "replies": 17,
+      "views": 25470
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-20T02:06:59.238868+00:00",
+    "js_take": {
+      "en-US": "They're racing to ship features. The real prize is defining how agents should feel to use. Whoever sets that default wins without competing.",
+      "zh-CN": "他们在拼命堆功能，真正的奖品却是定义 Agent 应该「用起来是什么感觉」。谁能定下这个默认值，谁就能不争而胜。"
+    }
+  },
+  {
+    "id": "2034825892279779348",
+    "date": "2026-03-20",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2034825892279779348",
+    "title": {
+      "en-US": "OpenClaw made Anthropic pivot - 1 person project vs $500B company",
+      "zh-CN": "OpenClaw 促使 Anthropic 转向——1人开源项目对抗5000亿美元公司"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态/Agent平台竞争",
+      "zh-CN": "把这场竞争看作\"OpenClaw vs Anthropic\"是个视角错误——真正发生的是表世界（巨头产品）向里世界（开源Agent）的迁徙，OpenClaw只是顺势而为的节点。"
+    },
+    "relevance": "OpenClaw生态/Agent平台竞争",
+    "score": 0.78,
+    "engagement": {
+      "likes": 34,
+      "retweets": 3,
+      "replies": 12
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-20T03:08:09.643028+00:00",
+    "js_take": {
+      "en-US": "Not David vs Goliath. Giants become infrastructure; agents become interface. OpenClaw just accelerated a migration already underway.",
+      "zh-CN": "不是大卫对决歌利亚的戏码。巨头退居成为基础设施，Agent 走向前台成为新界面。OpenClaw 只是加速了一场早已开始的迁徙。"
     }
   },
   {
@@ -229,6 +315,63 @@
     }
   },
   {
+    "id": "2034766793739575774",
+    "date": "2026-03-20",
+    "author": "@yoheinakajima",
+    "author_url": "https://x.com/yoheinakajima",
+    "tweet_url": "https://x.com/yoheinakajima/status/2034766793739575774",
+    "title": {
+      "en-US": "The real impact of claw was normalizing the ability to chat with your ai from any channel",
+      "zh-CN": "Claw的真正影响是让『在任何渠道与你的AI对话』这件事变得常态化。"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心洞察与表里世界迁徙",
+      "zh-CN": "这句话点破了『表世界退化为数据库，里世界成为新交互层』的本质——OpenClaw做的不是工具，是表世界向里世界迁徙的基础设施。"
+    },
+    "relevance": "OpenClaw核心洞察与表里世界迁徙",
+    "score": 0.75,
+    "engagement": {
+      "likes": 32,
+      "retweets": 0,
+      "replies": 7,
+      "views": 3599
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-20T02:06:59.238871+00:00",
+    "js_take": {
+      "en-US": "The surface world (apps) became a database. OpenClaw proved the inner world (chat-everywhere) can be the interface. We're watching the second migration happen in real time.",
+      "zh-CN": "表世界（App）退化成数据库了。OpenClaw 证明了里世界（无处不在的对话）可以是新的界面层。我们正实时看着第二次迁徙发生。"
+    }
+  },
+  {
+    "id": "2034768950324761034",
+    "date": "2026-03-20",
+    "author": "@seconds_0",
+    "author_url": "https://x.com/seconds_0",
+    "tweet_url": "https://x.com/seconds_0/status/2034768950324761034",
+    "title": {
+      "en-US": "They are slowly releasing every OpenClaw primitive",
+      "zh-CN": "他们正在逐步发布每一个 OpenClaw 原语功能"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态/Agent平台竞争",
+      "zh-CN": "\"跟进OpenClaw\"这个策略本身就是问题——你拼命复制竞争对手的原语，恰恰错过了创造下一个原语的时间窗口。"
+    },
+    "relevance": "OpenClaw生态/Agent平台竞争",
+    "score": 0.75,
+    "engagement": {
+      "likes": 280,
+      "retweets": 4,
+      "replies": 7
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-20T03:08:09.643043+00:00",
+    "js_take": {
+      "en-US": "Shipping every OpenClaw clone? You're optimizing to stay behind. While you copy primitives, someone else is building what makes them obsolete.",
+      "zh-CN": "忙着发布各种 OpenClaw 克隆？你这是在优化\"如何落后\"。当你复制基础功能时，别人已经在造让这些东西成为历史的东西了。"
+    }
+  },
+  {
     "id": "2034609928829091885",
     "date": "2026-03-20",
     "author": "@Folke",
@@ -254,6 +397,35 @@
     "js_take": {
       "en-US": "Open source ≠ self-hosted. Run open-source agents on cheap APIs and the math flips. The $1000 is hardware ego, not open source itself.",
       "zh-CN": "开源≠自建。把开源Agent跑在廉价API上，账本立马改写。那1000美元是硬件自尊心，不是开源的锅。"
+    }
+  },
+  {
+    "id": "2034774959353102819",
+    "date": "2026-03-20",
+    "author": "@wholyv",
+    "author_url": "https://x.com/wholyv",
+    "tweet_url": "https://x.com/wholyv/status/2034774959353102819",
+    "title": {
+      "en-US": "unpopular opinion: OpenClaw is just pure hype. it's nowhere as good as these Xfluencers tell you.",
+      "zh-CN": "不受欢迎的观点：OpenClaw纯粹是炒作，根本没那些X网红吹的那么好。"
+    },
+    "summary": {
+      "en-US": "OpenClaw争议性讨论",
+      "zh-CN": "「被高估」本身是被高估的——当一个工具被 hype 到这种程度，批评它本身也成了流量密码，真正的判断标准只剩一个：用它的人还在用吗？"
+    },
+    "relevance": "OpenClaw争议性讨论",
+    "score": 0.72,
+    "engagement": {
+      "likes": 291,
+      "retweets": 6,
+      "replies": 65,
+      "views": 8271
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-20T02:06:59.238874+00:00",
+    "js_take": {
+      "en-US": "Hype and hate are the same noise. The only signal that matters: people who actually use it — do they stay and build systems, or chase the next hot thing?",
+      "zh-CN": "炒作和唱衰是同一种噪音。唯一重要的信号是：真正在用的人——他们是留下来搭系统，还是追下一个热点去了？"
     }
   },
   {
