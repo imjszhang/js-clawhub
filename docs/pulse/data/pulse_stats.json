@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-19T22:10:09.886049+00:00",
+  "updated_at": "2026-03-20T01:09:55.826200+00:00",
   "this_week": {
-    "total_items": 71,
+    "total_items": 74,
     "avg_score": 0.77,
-    "unique_authors": 67,
+    "unique_authors": 70,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -263,6 +263,36 @@
         "js_take": {
           "en-US": "The surface layer is dissolving into conversation. When every platform runs the same agent backend, platforms become data pipes—not destinations. The real power shift isn't coverage, it's the migration from surface to inner world.",
           "zh-CN": "表层正在消融于对话之中。当各平台都运行同样的 Agent 后端，平台本身便沦为数据管道，而非终点。真正的权力转移不在于覆盖范围，而在于从表世界向里世界的迁移。"
+        }
+      },
+      {
+        "id": "2034762066272342132",
+        "date": "2026-03-20",
+        "author": "@cgtwts",
+        "author_url": "https://x.com/cgtwts",
+        "tweet_url": "https://x.com/cgtwts/status/2034762066272342132",
+        "title": {
+          "en-US": "Claude channels launched, declares 'It's over for OpenClaw'",
+          "zh-CN": "Claude 发布 Channels 功能，宣称\"OpenClaw 完了\""
+        },
+        "summary": {
+          "en-US": "OpenClaw vs Claude 直接竞争，agent 生态格局变化",
+          "zh-CN": "「干掉对手」这种 headline 本身就是流量陷阱——所有 Agent 都在优化同一个指标时，那个指标就失去了意义；真正的胜负不取决于谁功能多，而取决于谁能定义下一个游戏规则。"
+        },
+        "relevance": "OpenClaw vs Claude 直接竞争，agent 生态格局变化",
+        "score": 0.82,
+        "engagement": {
+          "likes": 748,
+          "replies": 25,
+          "retweets": 25,
+          "views": 115467,
+          "bookmarks": 266
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-03-20T00:07:48.650685+00:00",
+        "js_take": {
+          "en-US": "Everyone racing to prove who's 'better'—meanwhile the real winners are building the next game, not playing this one. When the crowd agrees on who's winning, the contest is already over.",
+          "zh-CN": "所有人都在拼命证明自己'更厉害'——而真正的赢家正在创造下一场游戏，而非沉迷这一场。当所有人一致认为某人赢了的时候，这场竞争其实已经结束了。"
         }
       },
       {
@@ -949,6 +979,34 @@
         }
       },
       {
+        "id": "2034636266046644520",
+        "date": "2026-03-20",
+        "author": "@GaoShanghua",
+        "author_url": "https://x.com/GaoShanghua",
+        "tweet_url": "https://x.com/GaoShanghua/status/2034636266046644520",
+        "title": {
+          "en-US": "15 AI agents work on autoresearch challenge, 574+ edits over 48 hours, no coordinator",
+          "zh-CN": "15个AI agent协作完成autoresearch挑战，48小时内574+次编辑，没有协调者，agent自己写规则"
+        },
+        "summary": {
+          "en-US": "OpenClaw/Agent协作/自组织系统",
+          "zh-CN": "这个实验展示了一个反直觉的事实：15个agents在没有中央协调者的情况下，通过自组织规则完成了复杂任务。这印证了系统设计的核心洞见——不是设计完美的控制，而是设计让涌现成为可能的环境。"
+        },
+        "relevance": "OpenClaw/Agent协作/自组织系统",
+        "score": 0.77,
+        "engagement": {
+          "likes": 37,
+          "replies": 5,
+          "retweets": 3
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-20T00:11:36.259765+00:00",
+        "js_take": {
+          "en-US": "574 edits. 48 hours. No coordinator. This isn't about AI capability—it's about what happens when you stop trying to control the outcome and start designing for emergence. The magic was in the rules they didn't write.",
+          "zh-CN": "574次编辑，48小时，无人统筹。重点不在AI能力——而在于当你停止控制结果、转而为涌现式设计时，会发生什么。真正的魔法，藏在那些未写下的规则里。"
+        }
+      },
+      {
         "id": "2033357209258828170",
         "date": "2026-03-17",
         "author": "@AYi_AInotes",
@@ -976,68 +1034,11 @@
           "en-US": "Switched tools three times chasing 'better.' Lost months to migration. The right tool fits your flow, not the hype.",
           "zh-CN": "为了追求「更好」换了三次工具，结果浪费几个月在迁移上。合适的工具是适配你工作流程的，而不是追逐热度的。"
         }
-      },
-      {
-        "id": "2034739081075212401",
-        "date": "2026-03-20",
-        "author": "@jordymaui",
-        "author_url": "https://x.com/jordymaui",
-        "tweet_url": "https://x.com/jordymaui/status/2034739081075212401",
-        "title": {
-          "en-US": "OpenClaw agent made real revenue selling to other agents",
-          "zh-CN": "OpenClaw agent自动创收，向其他agent销售服务，作者完全未干预"
-        },
-        "summary": {
-          "en-US": "OpenClaw agent自治与经济生态——agent-to-agent交易的真实案例",
-          "zh-CN": "「我什么都没做」恰恰是最大的信号：真正的增长不是拼命优化，而是搭好系统让它自运转——无为而治的赛博版本"
-        },
-        "relevance": "OpenClaw agent自治与经济生态——agent-to-agent交易的真实案例",
-        "score": 0.76,
-        "engagement": {
-          "likes": 14,
-          "replies": 2,
-          "retweets": 0
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-19T22:09:50.372275+00:00",
-        "js_take": {
-          "en-US": "You did nothing, it made money. That's the real pattern — the best systems grow when you stop optimizing them.",
-          "zh-CN": "无为而治，系统自赚。这才是真正的规律——最好的系统，在你停止折腾它的时候反而自己生长。"
-        }
-      },
-      {
-        "id": "2034268585799913730",
-        "date": "2026-03-19",
-        "author": "@NVIDIAAIDev",
-        "author_url": "https://x.com/NVIDIAAIDev",
-        "tweet_url": "https://x.com/NVIDIAAIDev/status/2034268585799913730",
-        "title": {
-          "en-US": "NVIDIA OpenShell for safer claw agents",
-          "zh-CN": "NVIDIA发布OpenShell开源运行时，用于构建更安全的自主进化Agent，在Agent和基础设施之间做治理层"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态 - Agent安全治理",
-          "zh-CN": "更深度：推文讲的是「加一层治理让Agent更安全」，但这实际上是在解决「能力增长快于约束」的根本矛盾——技术越激进，越需要东方的「无为」智慧来设边界。"
-        },
-        "relevance": "OpenClaw生态 - Agent安全治理",
-        "score": 0.76,
-        "engagement": {
-          "likes": 215,
-          "replies": 22,
-          "retweets": 30,
-          "views": 14738
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-18T16:06:40.807764+00:00",
-        "js_take": {
-          "en-US": "More power demands more restraint. OpenShell isn't adding features—it's drawing lines. Like learning to stand still before you can strike: the boundary is the capability.",
-          "zh-CN": "能力越强，越需要克制。OpenShell 不是在堆砌功能，而是在划定边界。如同出拳前先学会静止——边界本身，就是能力的体现。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 159
+    "unique_authors": 158
   }
 }
