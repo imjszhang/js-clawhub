@@ -53,6 +53,34 @@
     }
   },
   {
+    "id": "2034966323436888125",
+    "date": "2026-03-21",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2034966323436888125",
+    "title": {
+      "en-US": "OpenClaw founders: which model are you using?",
+      "zh-CN": "OpenClaw创始人发起投票：你在用哪个模型？GPT-5.4、Minimax-M2.7还是Claude Opus 4.6"
+    },
+    "summary": {
+      "en-US": "直接相关 - OpenClaw平台，创始人互动",
+      "zh-CN": "选模型变成了选边站，但129条回复里大部分在论证『我选的对』；真正的问题被忽略了——模型是手段，你要解决什么问题才是目的，很多人忙着优化手段，却忘了验证目的。"
+    },
+    "relevance": "直接相关 - OpenClaw平台，创始人互动",
+    "score": 0.75,
+    "engagement": {
+      "likes": 85,
+      "retweets": 1,
+      "replies": 129
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-20T21:08:44.873817+00:00",
+    "js_take": {
+      "en-US": "Out of 129 replies, how many mention the problem they're solving vs. why their model choice is superior? This obsession with optimizing tools while skipping problem validation is exactly why most people never ship useful agents.",
+      "zh-CN": "在129条回复里，有多少人在说他们要解决什么问题，又有多少人在论证自己选的模型为什么更牛？这种跳过问题验证、只顾着优化工具的执念，正是大多数人永远做不出有用Agent的根本原因。"
+    }
+  },
+  {
     "id": "2035048113099219134",
     "date": "2026-03-21",
     "author": "@gabriel1",
