@@ -857,6 +857,34 @@
     }
   },
   {
+    "id": "2034530824801132768",
+    "date": "2026-03-20",
+    "author": "@huangyun_122",
+    "author_url": "https://x.com/huangyun_122",
+    "tweet_url": "https://x.com/huangyun_122/status/2034530824801132768",
+    "title": {
+      "en-US": "介绍QVeris——汇聚数千API、专为AI Agent设计的工具，OpenClaw可直接调用",
+      "zh-CN": "介绍QVeris——汇聚数千API、专为AI Agent设计的工具，OpenClaw可直接调用"
+    },
+    "summary": {
+      "en-US": "OpenClaw + Agent工具集成",
+      "zh-CN": "原推在讲一个工具的价值，但工具真正的分水岭不是「有多少API」，而是「能不能在不被注意的情况下消失」。好的Agent基础设施应该像水电一样——用的时候顺手，不用的时候感觉不到存在。到处炫耀自己有多少功能的，往往还没过易用性的坎。"
+    },
+    "relevance": "OpenClaw + Agent工具集成",
+    "score": 0.72,
+    "engagement": {
+      "likes": 82,
+      "replies": 4,
+      "retweets": 16
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-20T14:08:29.700144+00:00",
+    "js_take": {
+      "en-US": "Thousands of APIs sound sexy, but great agent infrastructure should be like water — there when you need it, invisible when you don't. If I have to read your docs to get started, you're not infrastructure yet. You're just a feature list.",
+      "zh-CN": "几千个API听起来很诱人，但优秀的智能体基础设施应该像水一样——需要时触手可及，不需要时无感存在。如果我还得先读文档才能上手，那你还算不上基础设施，只是一份功能清单而已。"
+    }
+  },
+  {
     "id": "2034586151713915052",
     "date": "2026-03-20",
     "author": "@dfolloni",

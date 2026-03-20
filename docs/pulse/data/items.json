@@ -857,6 +857,34 @@
     }
   },
   {
+    "id": "2034530824801132768",
+    "date": "2026-03-20",
+    "author": "@huangyun_122",
+    "author_url": "https://x.com/huangyun_122",
+    "tweet_url": "https://x.com/huangyun_122/status/2034530824801132768",
+    "title": {
+      "en-US": "介绍QVeris——汇聚数千API、专为AI Agent设计的工具，OpenClaw可直接调用",
+      "zh-CN": "介绍QVeris——汇聚数千API、专为AI Agent设计的工具，OpenClaw可直接调用"
+    },
+    "summary": {
+      "en-US": "OpenClaw + Agent工具集成",
+      "zh-CN": "原推在讲一个工具的价值，但工具真正的分水岭不是「有多少API」，而是「能不能在不被注意的情况下消失」。好的Agent基础设施应该像水电一样——用的时候顺手，不用的时候感觉不到存在。到处炫耀自己有多少功能的，往往还没过易用性的坎。"
+    },
+    "relevance": "OpenClaw + Agent工具集成",
+    "score": 0.72,
+    "engagement": {
+      "likes": 82,
+      "replies": 4,
+      "retweets": 16
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-20T14:08:29.700144+00:00",
+    "js_take": {
+      "en-US": "Thousands of APIs sound sexy, but great agent infrastructure should be like water — there when you need it, invisible when you don't. If I have to read your docs to get started, you're not infrastructure yet. You're just a feature list.",
+      "zh-CN": "几千个API听起来很诱人，但优秀的智能体基础设施应该像水一样——需要时触手可及，不需要时无感存在。如果我还得先读文档才能上手，那你还算不上基础设施，只是一份功能清单而已。"
+    }
+  },
+  {
     "id": "2034586151713915052",
     "date": "2026-03-20",
     "author": "@dfolloni",
@@ -5658,34 +5686,6 @@
     "js_take": {
       "en-US": "Classic 表 world reflex: see a new 里 world thriving, treat it as a database to harvest. They don't want to join the migration — they want to colonize it from the old shore.",
       "zh-CN": "表世界的经典反应：见里世界繁荣，便将其视为待收割的数据库。他们不想加入这场迁徙，只想从旧岸殖民新陆。"
-    }
-  },
-  {
-    "id": "2031457206110228736",
-    "date": "2026-03-11",
-    "author": "@gregisenberg",
-    "author_url": "https://x.com/gregisenberg",
-    "tweet_url": "https://x.com/gregisenberg/status/2031457206110228736",
-    "title": {
-      "en-US": "Is Hermes Agent the new OpenClaw?",
-      "zh-CN": "Hermes Agent 是下一个 OpenClaw 吗？"
-    },
-    "summary": {
-      "en-US": "直接提及 OpenClaw，与 JS 的 Agent 平台身份高度相关",
-      "zh-CN": "直接提及 OpenClaw，与 JS 的 Agent 平台身份高度相关"
-    },
-    "relevance": "直接提及 OpenClaw，与 JS 的 Agent 平台身份高度相关",
-    "score": 0.94,
-    "engagement": {
-      "likes": 289,
-      "replies": 55,
-      "retweets": 12
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-10T22:04:14.241043+00:00",
-    "js_take": {
-      "en-US": "Asking \"who's the new OpenClaw\" assumes the future belongs to the best clone. It doesn't. The winner won't be \"like\" anything—you'll just wake up one day and realize the center of gravity moved.",
-      "zh-CN": "问「谁是下一个 OpenClaw」的时候，你已经默认未来属于最好的模仿者。但事实并非如此。赢家不会「像」任何东西——某天醒来你会发现，权力的重心早已悄然转移。"
     }
   }
 ]
