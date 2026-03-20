@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-20T14:08:53.381084+00:00",
+  "updated_at": "2026-03-20T17:09:07.677555+00:00",
   "this_week": {
-    "total_items": 96,
+    "total_items": 97,
     "avg_score": 0.77,
-    "unique_authors": 90,
+    "unique_authors": 91,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -780,6 +780,31 @@
         }
       },
       {
+        "id": "2035025492617961704",
+        "date": "2026-03-21",
+        "author": "@claudeai",
+        "author_url": "https://x.com/claudeai",
+        "tweet_url": "https://x.com/claudeai/status/2035025492617961704",
+        "title": {
+          "en-US": "Projects now available in Cowork with persistent context and local files",
+          "zh-CN": "Claude在Cowork中推出Projects功能，支持持久化上下文和本地文件管理"
+        },
+        "summary": {
+          "en-US": "OpenClaw核心功能更新，agent项目管理",
+          "zh-CN": "产品功能追逐的表象下，真正重要的是「持久化上下文」正在重新定义人机协作的边界——不是工具变强了，是协作关系从「会话」升级为「共事」。"
+        },
+        "relevance": "OpenClaw核心功能更新，agent项目管理",
+        "score": 0.78,
+        "engagement": {
+          "likes": 3292,
+          "replies": 271,
+          "retweets": 229,
+          "views": 115329
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-20T17:09:07.645433+00:00"
+      },
+      {
         "id": "2034737545448497639",
         "date": "2026-03-20",
         "author": "@a16z",
@@ -1005,39 +1030,11 @@
           "en-US": "Copy-pasting configs is copying someone else's cognitive debt. The real growth hack: understand where the momentum is, then build your own system.",
           "zh-CN": "复制粘贴配置，就是在继承别人的认知债务。真正的增长黑客之道：看清势能在哪里，然后搭建自己的系统。"
         }
-      },
-      {
-        "id": "2034396521446457407",
-        "date": "2026-03-19",
-        "author": "@MatthewBerman",
-        "author_url": "https://x.com/MatthewBerman",
-        "tweet_url": "https://x.com/MatthewBerman/status/2034396521446457407",
-        "title": {
-          "en-US": "Meta deployed their own version of openclaw and it led to a critical security incident.",
-          "zh-CN": "Meta自己部署了OpenClaw版本，结果导致了严重的安全事件"
-        },
-        "summary": {
-          "en-US": "OpenClaw安全/Agent部署",
-          "zh-CN": "推文的潜台词是'自托管Agent=高风险'，但这个判断过度简化了——问题不在OpenClaw本身，而在部署时是否理解'无为而治'的系统边界：安全不是叠加更多限制，而是设计让危险自然无法发生的结构"
-        },
-        "relevance": "OpenClaw安全/Agent部署",
-        "score": 0.78,
-        "engagement": {
-          "likes": 22,
-          "replies": 6,
-          "retweets": 1
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-19T00:07:24.292042+00:00",
-        "js_take": {
-          "en-US": "Meta treated 'autonomous' as 'unbounded.' OpenClaw isn't unsafe—you just built a city without zoning and called it freedom. Real Agent security isn't more walls. It's designing terrain where trouble naturally flows to the edges.",
-          "zh-CN": "Meta 把「自主」等同于「无边界」。OpenClaw 并非不安全——你只是建了一座没有规划的城市，还美其名曰自由。真正的 Agent 安全不是靠加高围墙，而是设计一块地形，让麻烦自然流向边缘。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 163
+    "unique_authors": 164
   }
 }

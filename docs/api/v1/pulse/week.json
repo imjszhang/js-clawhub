@@ -1,5 +1,30 @@
 [
   {
+    "id": "2035025492617961704",
+    "date": "2026-03-21",
+    "author": "@claudeai",
+    "author_url": "https://x.com/claudeai",
+    "tweet_url": "https://x.com/claudeai/status/2035025492617961704",
+    "title": {
+      "en-US": "Projects now available in Cowork with persistent context and local files",
+      "zh-CN": "Claude在Cowork中推出Projects功能，支持持久化上下文和本地文件管理"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心功能更新，agent项目管理",
+      "zh-CN": "产品功能追逐的表象下，真正重要的是「持久化上下文」正在重新定义人机协作的边界——不是工具变强了，是协作关系从「会话」升级为「共事」。"
+    },
+    "relevance": "OpenClaw核心功能更新，agent项目管理",
+    "score": 0.78,
+    "engagement": {
+      "likes": 3292,
+      "replies": 271,
+      "retweets": 229,
+      "views": 115329
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-20T17:09:07.645433+00:00"
+  },
+  {
     "id": "2034678354243436924",
     "date": "2026-03-20",
     "author": "@dontbesilent",
