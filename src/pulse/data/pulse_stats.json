@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-20T11:06:59.592243+00:00",
+  "updated_at": "2026-03-20T12:08:42.724850+00:00",
   "this_week": {
-    "total_items": 91,
+    "total_items": 95,
     "avg_score": 0.77,
-    "unique_authors": 86,
+    "unique_authors": 89,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -693,6 +693,93 @@
         }
       },
       {
+        "id": "2034816345171255299",
+        "date": "2026-03-20",
+        "author": "@TheMattBerman",
+        "author_url": "https://x.com/TheMattBerman",
+        "tweet_url": "https://x.com/TheMattBerman/status/2034816345171255299",
+        "title": {
+          "en-US": "Running Google Ads with OpenClaw for $0/month, autonomous system with intent classification",
+          "zh-CN": "作者展示如何用 OpenClaw 搭建完全自动化的 Google Ads 管理系统，每月零成本，包含关键词分析和意图分类。"
+        },
+        "summary": {
+          "en-US": "OpenClaw 实战案例，自动化营销系统",
+          "zh-CN": "推文在展示技术实现的复杂性，但真正的洞察被埋没了——你拼命优化的那些广告参数，恰恰是平台希望你沉迷的噪音。更精炼的视角是：真正的自动化不是「设置好就不用管」，而是「识别出哪些东西本来就不值得优化」。"
+        },
+        "relevance": "OpenClaw 实战案例，自动化营销系统",
+        "score": 0.787,
+        "engagement": {
+          "likes": 453,
+          "replies": 276,
+          "retweets": 47,
+          "views": 26147
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-20T12:08:24.697827+00:00",
+        "js_take": {
+          "en-US": "This system optimizes every knob Google gives you. But here's the trap: those knobs exist to keep you busy. Real automation isn't tweaking ads—it's knowing which metrics were designed to waste your time.",
+          "zh-CN": "这套系统把 Google 给的每个按钮都优化到极致。但陷阱就在这里：那些按钮的存在就是为了让你忙个不停。真正的自动化不是调广告参数，而是识别哪些指标本身就是设计来浪费你时间的。"
+        }
+      },
+      {
+        "id": "2034933289157632232",
+        "date": "2026-03-20",
+        "author": "@anorth_chen",
+        "author_url": "https://x.com/anorth_chen",
+        "tweet_url": "https://x.com/anorth_chen/status/2034933289157632232",
+        "title": {
+          "en-US": "Tencent's qclaw internal test feedback negative, indie devs beat big tech in Agent products",
+          "zh-CN": "腾讯推出 qclaw 内测反馈不佳，作者再次印证观点——大厂人才密度已无法支撑 Agent 产品落地，独立开发者靠兴趣驱动反而做出像 OpenClaw 这样影响一批人的项目。"
+        },
+        "summary": {
+          "en-US": "OpenClaw 生态，大厂 vs 独立开发者",
+          "zh-CN": "推文提出了一个常见判断（大厂做不好 Agent），但这个判断本身过度简化了问题。更深层的视角是：不是大厂「做不出」，而是他们的组织形态天然不适合 Agent 这种需要「无为而治」迭代节奏的产品——真正的增长不是堆人堆资源，而是让系统自己生长。"
+        },
+        "relevance": "OpenClaw 生态，大厂 vs 独立开发者",
+        "score": 0.785,
+        "engagement": {
+          "likes": 87,
+          "replies": 18,
+          "retweets": 8,
+          "views": 12597
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-03-20T12:08:24.697832+00:00",
+        "js_take": {
+          "en-US": "Big tech has the resources. What they don't have is the patience to ship garbage first and iterate. Their KPIs punish the messy reality of how Agent products actually grow. Real growth isn't headcount—it's letting things emerge.",
+          "zh-CN": "大厂有的是资源，缺的是先上线垃圾再迭代的耐心。他们的 KPI 惩罚了 Agent 产品成长的真实样貌——混乱、试错、不断调整。真正的增长不是靠堆人头，而是让系统自己长出来。"
+        }
+      },
+      {
+        "id": "2034827927724994651",
+        "date": "2026-03-20",
+        "author": "@ChrisCoffee",
+        "author_url": "https://x.com/ChrisCoffee",
+        "tweet_url": "https://x.com/ChrisCoffee/status/2034827927724994651",
+        "title": {
+          "en-US": "Claude Channels kills OpenClaw, allows controlling Claude Code from Telegram/Discord",
+          "zh-CN": "Claude 推出 Channels 功能，可以直接从 Telegram/Discord 控制 Claude Code，作者认为这将取代 OpenClaw。"
+        },
+        "summary": {
+          "en-US": "OpenClaw vs Claude 原生功能，产品竞争叙事",
+          "zh-CN": "推文沿用了「杀手」叙事，但这种二元对立思维恰恰错过了真正的趋势。更形象的视角是：不是 Claude 「杀死」了 OpenClaw，而是整个 Agent 生态正在从「各自为战的工具」向「互联互通的基础设施」演化——这波浪潮的势不在谁取代谁，而在谁能成为连接器。"
+        },
+        "relevance": "OpenClaw vs Claude 原生功能，产品竞争叙事",
+        "score": 0.785,
+        "engagement": {
+          "likes": 152,
+          "replies": 18,
+          "retweets": 16,
+          "views": 11432
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-20T12:08:24.697835+00:00",
+        "js_take": {
+          "en-US": "\"Killer\" framing misses the point. Surface world sees product wars. Inner world sees infrastructure consolidation. The momentum isn't about replacement—it's about who becomes the connector in a network of agents.",
+          "zh-CN": "\"杀手\"的叙事框架搞错了重点。表世界看到的是产品战争，里世界看到的是基础设施整合。真正的势能在谁成为 Agent 网络的连接中枢，而不是谁取代谁。"
+        }
+      },
+      {
         "id": "2034737545448497639",
         "date": "2026-03-20",
         "author": "@a16z",
@@ -946,98 +1033,11 @@
           "en-US": "Meta treated 'autonomous' as 'unbounded.' OpenClaw isn't unsafe—you just built a city without zoning and called it freedom. Real Agent security isn't more walls. It's designing terrain where trouble naturally flows to the edges.",
           "zh-CN": "Meta 把「自主」等同于「无边界」。OpenClaw 并非不安全——你只是建了一座没有规划的城市，还美其名曰自由。真正的 Agent 安全不是靠加高围墙，而是设计一块地形，让麻烦自然流向边缘。"
         }
-      },
-      {
-        "id": "2034293385142665281",
-        "date": "2026-03-19",
-        "author": "@woocassh",
-        "author_url": "https://x.com/woocassh",
-        "tweet_url": "https://x.com/woocassh/status/2034293385142665281",
-        "title": {
-          "en-US": "OpenClaw ecosystem major fault analysis",
-          "zh-CN": "作者花几周研究 OpenClaw 生态后，指出其存在重大缺陷（附视频链接）"
-        },
-        "summary": {
-          "en-US": "直接针对 OpenClaw 生态的批评性分析",
-          "zh-CN": "OpenClaw 的「范式正确」与「产品粗糙」之间的张力，恰恰印证了东方系统思维的一个盲区：我们擅长判断趋势（势），却常常低估执行中「人」的摩擦成本。"
-        },
-        "relevance": "直接针对 OpenClaw 生态的批评性分析",
-        "score": 0.78,
-        "engagement": {
-          "likes": 17,
-          "replies": 8,
-          "retweets": 0,
-          "views": 530,
-          "bookmarks": 0
-        },
-        "comment_type": "biaoli_insight",
-        "synced_at": "2026-03-19T03:09:44.684153+00:00",
-        "js_take": {
-          "en-US": "The migration from surface to inner world has a speed limit: how fast the surface stops sucking.",
-          "zh-CN": "表层向内层的迁徙有天然限速：表层何时停止「拉胯」。"
-        }
-      },
-      {
-        "id": "2034243822566187014",
-        "date": "2026-03-19",
-        "author": "@0xSero",
-        "author_url": "https://x.com/0xSero",
-        "tweet_url": "https://x.com/0xSero/status/2034243822566187014",
-        "title": {
-          "en-US": "OpenCode Desktop app updates: Queue mode, custom providers, improved performance",
-          "zh-CN": "OpenCode Desktop更新：队列模式、自定义provider、性能提升。"
-        },
-        "summary": {
-          "en-US": "AI编程工具/OpenClaw生态相关",
-          "zh-CN": "推文列举了一堆功能优化，但核心洞察被忽略了：工具做得越复杂，用户离'自然表达'越远。最好的AI工具应该让你忘记它的存在，而不是学习它的Queue模式。"
-        },
-        "relevance": "AI编程工具/OpenClaw生态相关",
-        "score": 0.78,
-        "engagement": {
-          "likes": 212,
-          "replies": 11,
-          "retweets": 4
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-19T11:06:13.897100+00:00",
-        "js_take": {
-          "en-US": "Every new feature is an admission that the tool still demands your attention. True power is when you forget Queue mode exists.",
-          "zh-CN": "每个新功能都在暗示：这个工具仍需要你费心关注。真正的强大，是让你彻底忘记 Queue 模式的存在。"
-        }
-      },
-      {
-        "id": "2034067677157679379",
-        "date": "2026-03-18",
-        "author": "@emollick",
-        "author_url": "https://x.com/emollick",
-        "tweet_url": "https://x.com/emollick/status/2034067677157679379",
-        "title": {
-          "en-US": "Claude Cowork Dispatch covers 90% of OpenClaw use cases, safer",
-          "zh-CN": "Claude Cowork Dispatch covers 90% of OpenClaw use cases, safer"
-        },
-        "summary": {
-          "en-US": "OpenClaw vs Claude 平台竞争对比",
-          "zh-CN": "用「覆盖90%功能」来比较两个平台，本质上是把工具价值简化为功能清单——但 agent 平台的真正差异不在功能多少，而在生态位选择：是做一个封闭但流畅的花园，还是开放但碎片化的土壤？"
-        },
-        "relevance": "OpenClaw vs Claude 平台竞争对比",
-        "score": 0.78,
-        "engagement": {
-          "likes": 144,
-          "replies": 12,
-          "retweets": 11,
-          "views": 5088
-        },
-        "comment_type": "biaoli_insight",
-        "synced_at": "2026-03-18T01:07:28.915236+00:00",
-        "js_take": {
-          "en-US": "90% feature parity is surface world math. In the inner world, one platform lets your agent talk to other agents — the other doesn't. That's the difference between a tool and infrastructure.",
-          "zh-CN": "90%的功能对等只是表世界的账面数据。在里世界，一个平台能让你的 Agent 与其他 Agent 对话——另一个则不能。这就是工具与基础设施的本质区别。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 161
+    "unique_authors": 162
   }
 }

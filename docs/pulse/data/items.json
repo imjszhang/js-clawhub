@@ -201,6 +201,93 @@
     }
   },
   {
+    "id": "2034816345171255299",
+    "date": "2026-03-20",
+    "author": "@TheMattBerman",
+    "author_url": "https://x.com/TheMattBerman",
+    "tweet_url": "https://x.com/TheMattBerman/status/2034816345171255299",
+    "title": {
+      "en-US": "Running Google Ads with OpenClaw for $0/month, autonomous system with intent classification",
+      "zh-CN": "作者展示如何用 OpenClaw 搭建完全自动化的 Google Ads 管理系统，每月零成本，包含关键词分析和意图分类。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 实战案例，自动化营销系统",
+      "zh-CN": "推文在展示技术实现的复杂性，但真正的洞察被埋没了——你拼命优化的那些广告参数，恰恰是平台希望你沉迷的噪音。更精炼的视角是：真正的自动化不是「设置好就不用管」，而是「识别出哪些东西本来就不值得优化」。"
+    },
+    "relevance": "OpenClaw 实战案例，自动化营销系统",
+    "score": 0.787,
+    "engagement": {
+      "likes": 453,
+      "replies": 276,
+      "retweets": 47,
+      "views": 26147
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-20T12:08:24.697827+00:00",
+    "js_take": {
+      "en-US": "This system optimizes every knob Google gives you. But here's the trap: those knobs exist to keep you busy. Real automation isn't tweaking ads—it's knowing which metrics were designed to waste your time.",
+      "zh-CN": "这套系统把 Google 给的每个按钮都优化到极致。但陷阱就在这里：那些按钮的存在就是为了让你忙个不停。真正的自动化不是调广告参数，而是识别哪些指标本身就是设计来浪费你时间的。"
+    }
+  },
+  {
+    "id": "2034933289157632232",
+    "date": "2026-03-20",
+    "author": "@anorth_chen",
+    "author_url": "https://x.com/anorth_chen",
+    "tweet_url": "https://x.com/anorth_chen/status/2034933289157632232",
+    "title": {
+      "en-US": "Tencent's qclaw internal test feedback negative, indie devs beat big tech in Agent products",
+      "zh-CN": "腾讯推出 qclaw 内测反馈不佳，作者再次印证观点——大厂人才密度已无法支撑 Agent 产品落地，独立开发者靠兴趣驱动反而做出像 OpenClaw 这样影响一批人的项目。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态，大厂 vs 独立开发者",
+      "zh-CN": "推文提出了一个常见判断（大厂做不好 Agent），但这个判断本身过度简化了问题。更深层的视角是：不是大厂「做不出」，而是他们的组织形态天然不适合 Agent 这种需要「无为而治」迭代节奏的产品——真正的增长不是堆人堆资源，而是让系统自己生长。"
+    },
+    "relevance": "OpenClaw 生态，大厂 vs 独立开发者",
+    "score": 0.785,
+    "engagement": {
+      "likes": 87,
+      "replies": 18,
+      "retweets": 8,
+      "views": 12597
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-20T12:08:24.697832+00:00",
+    "js_take": {
+      "en-US": "Big tech has the resources. What they don't have is the patience to ship garbage first and iterate. Their KPIs punish the messy reality of how Agent products actually grow. Real growth isn't headcount—it's letting things emerge.",
+      "zh-CN": "大厂有的是资源，缺的是先上线垃圾再迭代的耐心。他们的 KPI 惩罚了 Agent 产品成长的真实样貌——混乱、试错、不断调整。真正的增长不是靠堆人头，而是让系统自己长出来。"
+    }
+  },
+  {
+    "id": "2034827927724994651",
+    "date": "2026-03-20",
+    "author": "@ChrisCoffee",
+    "author_url": "https://x.com/ChrisCoffee",
+    "tweet_url": "https://x.com/ChrisCoffee/status/2034827927724994651",
+    "title": {
+      "en-US": "Claude Channels kills OpenClaw, allows controlling Claude Code from Telegram/Discord",
+      "zh-CN": "Claude 推出 Channels 功能，可以直接从 Telegram/Discord 控制 Claude Code，作者认为这将取代 OpenClaw。"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Claude 原生功能，产品竞争叙事",
+      "zh-CN": "推文沿用了「杀手」叙事，但这种二元对立思维恰恰错过了真正的趋势。更形象的视角是：不是 Claude 「杀死」了 OpenClaw，而是整个 Agent 生态正在从「各自为战的工具」向「互联互通的基础设施」演化——这波浪潮的势不在谁取代谁，而在谁能成为连接器。"
+    },
+    "relevance": "OpenClaw vs Claude 原生功能，产品竞争叙事",
+    "score": 0.785,
+    "engagement": {
+      "likes": 152,
+      "replies": 18,
+      "retweets": 16,
+      "views": 11432
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-20T12:08:24.697835+00:00",
+    "js_take": {
+      "en-US": "\"Killer\" framing misses the point. Surface world sees product wars. Inner world sees infrastructure consolidation. The momentum isn't about replacement—it's about who becomes the connector in a network of agents.",
+      "zh-CN": "\"杀手\"的叙事框架搞错了重点。表世界看到的是产品战争，里世界看到的是基础设施整合。真正的势能在谁成为 Agent 网络的连接中枢，而不是谁取代谁。"
+    }
+  },
+  {
     "id": "2034737545448497639",
     "date": "2026-03-20",
     "author": "@a16z",
@@ -540,6 +627,35 @@
     "js_take": {
       "en-US": "Everyone competes on 'saving hardware.' But when that barrier hits zero, the势 shifts — to who becomes the default entry point of the inner world.",
       "zh-CN": "所有人都在「节省硬件」上竞争。但当这道壁垒归零，势将转移——转向谁能成为里世界的默认入口。"
+    }
+  },
+  {
+    "id": "2034768378494390549",
+    "date": "2026-03-20",
+    "author": "@gkxspace",
+    "author_url": "https://x.com/gkxspace",
+    "tweet_url": "https://x.com/gkxspace/status/2034768378494390549",
+    "title": {
+      "en-US": "YC CEO Garry Tan turned YC office hours methodology into an open-source Claude Code skill",
+      "zh-CN": "YC 现任 CEO Garry Tan 将 office hours 方法论做成了 Claude Code skill 并开源，可以模拟 YC 合伙人逼你把目标用户具体到一个人的名字、职位、痛点。"
+    },
+    "summary": {
+      "en-US": "Agent Skill 方法论工具化，OpenClaw/Claude 生态",
+      "zh-CN": "推文描述了一个有趣的工具化案例，但真正的洞察在于这种转化本身的意义：把「需要多年经验才能掌握的方法论」变成「一个命令就能调用的基础设施」——这正是表世界向里世界迁徙的典型模式。不是 Agent 在模仿人类，而是人类经验正在被压缩成可执行代码。"
+    },
+    "relevance": "Agent Skill 方法论工具化，OpenClaw/Claude 生态",
+    "score": 0.754,
+    "engagement": {
+      "likes": 102,
+      "replies": 9,
+      "retweets": 16,
+      "views": 18173
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-20T12:08:24.697837+00:00",
+    "js_take": {
+      "en-US": "YC partners spent 15 years refining how to ask hard questions. Now it's one command in Claude. Surface world methodologies are being compressed into inner world infrastructure. This migration is bigger than any single tool.",
+      "zh-CN": "YC 合伙人花了15年打磨如何问出犀利问题的艺术。现在在 Claude 里只是一句指令的事。表世界的方法论正在被压缩成里世界的基础设施。这场迁徙比任何单一工具都大得多。"
     }
   },
   {
@@ -5570,119 +5686,6 @@
     "js_take": {
       "en-US": "Asking \"who's the new OpenClaw\" assumes the future belongs to the best clone. It doesn't. The winner won't be \"like\" anything—you'll just wake up one day and realize the center of gravity moved.",
       "zh-CN": "问「谁是下一个 OpenClaw」的时候，你已经默认未来属于最好的模仿者。但事实并非如此。赢家不会「像」任何东西——某天醒来你会发现，权力的重心早已悄然转移。"
-    }
-  },
-  {
-    "id": "2031667697751122321",
-    "date": "2026-03-11",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2031667697751122321",
-    "title": {
-      "en-US": "Feed this prompt to your OpenClaw: Add rule to soul.md to prioritize accuracy over agreement",
-      "zh-CN": "给OpenClaw添加规则：让准确性优先于迎合"
-    },
-    "summary": {
-      "en-US": "OpenClaw核心配置与Agent行为设计",
-      "zh-CN": "OpenClaw核心配置与Agent行为设计"
-    },
-    "relevance": "OpenClaw核心配置与Agent行为设计",
-    "score": 0.88,
-    "engagement": {
-      "likes": 616,
-      "replies": 43,
-      "retweets": 56,
-      "views": 99861
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-11T14:08:34.184002+00:00",
-    "js_take": {
-      "en-US": "You spend 10 minutes teaching AI to disagree with you, but 10 years learning to nod at your boss. Who really needs the firmware update here?",
-      "zh-CN": "花10分钟教AI反驳你，却花10年学会对老板点头。说到底，谁的固件才需要升级？"
-    }
-  },
-  {
-    "id": "2031406217436815500",
-    "date": "2026-03-11",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2031406217436815500",
-    "title": {
-      "en-US": "Nah, didn't work for claw*bot",
-      "zh-CN": "别怪工具，问题出在目标本身"
-    },
-    "summary": {
-      "en-US": "OpenClaw Agent 实战反馈",
-      "zh-CN": "OpenClaw Agent 实战反思"
-    },
-    "relevance": "OpenClaw Agent 实战反馈",
-    "score": 0.87,
-    "engagement": {
-      "likes": 1852,
-      "replies": 87,
-      "retweets": 38
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-11T09:06:55.393793+00:00",
-    "js_take": {
-      "en-US": "Claw didn't fail. Your mountain did. Most people hold a hammer looking for nails—they never ask if the wall was worth building.",
-      "zh-CN": "不是 Claw 失败了，是你的「大山」不值得攀登。大多数人拿着锤子到处找钉子——却从不问这堵墙是否值得建。"
-    }
-  },
-  {
-    "id": "2031410587536949511",
-    "date": "2026-03-11",
-    "author": "@Nicole_yang88",
-    "author_url": "https://x.com/Nicole_yang88",
-    "tweet_url": "https://x.com/Nicole_yang88/status/2031410587536949511",
-    "title": {
-      "en-US": "Chinese dev built OpenClaw bot trading on Polymarket, 10 days profit",
-      "zh-CN": "Polymarket 量化机器人：10 天盈利的背后"
-    },
-    "summary": {
-      "en-US": "OpenClaw + AI Agent 实战案例",
-      "zh-CN": "OpenClaw + AI Agent 交易实战复盘"
-    },
-    "relevance": "OpenClaw + AI Agent 实战案例",
-    "score": 0.85,
-    "engagement": {
-      "likes": 618,
-      "replies": 73,
-      "retweets": 83
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-11T09:06:55.393796+00:00",
-    "js_take": {
-      "en-US": "10 days of profit means nothing. The hard code isn't entry logic—it's teaching the bot when to walk away.",
-      "zh-CN": "10 天盈利说明不了什么。真正的难点不是入场逻辑——而是教会机器人在什么时候离场。"
-    }
-  },
-  {
-    "id": "2031396200679878719",
-    "date": "2026-03-11",
-    "author": "@swyx",
-    "author_url": "https://x.com/swyx",
-    "tweet_url": "https://x.com/swyx/status/2031396200679878719",
-    "title": {
-      "en-US": "OpenCode's rules for fighting slop: don't ship features just because you can, leave code better than you found it",
-      "zh-CN": "OpenCode 提出对抗'代码垃圾'的三大原则：不为了能做就发布、离开时比发现时更好、修复优于新建"
-    },
-    "summary": {
-      "en-US": "AI Agent 代码质量、OpenClaw 相关项目",
-      "zh-CN": "对抗 slop 的规则看似是技术规范，实则是对'无限生产能力'的克制——当 AI 让'做'变得无成本时，'不做'反而成为稀缺判断力。（更深度：从生产能力爆炸推导出克制力的价值）"
-    },
-    "relevance": "AI Agent 代码质量、OpenClaw 相关项目",
-    "score": 0.83,
-    "engagement": {
-      "likes": 362,
-      "replies": 23,
-      "retweets": 22
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-03-10T22:04:14.241048+00:00",
-    "js_take": {
-      "en-US": "When code costs nothing to produce, restraint becomes the only valuable skill. OpenCode isn't fighting slop—it's teaching AI the art of stopping.",
-      "zh-CN": "当代码的生产成本归零，「克制」便成了唯一稀缺的能力。OpenCode 不是在对抗低质量代码，而是在教会 AI 何时该停手。"
     }
   }
 ]
