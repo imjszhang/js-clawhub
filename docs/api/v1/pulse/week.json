@@ -30,6 +30,34 @@
     }
   },
   {
+    "id": "2034661746749706554",
+    "date": "2026-03-20",
+    "author": "@TheMattBerman",
+    "author_url": "https://x.com/TheMattBerman",
+    "tweet_url": "https://x.com/TheMattBerman/status/2034661746749706554",
+    "title": {
+      "en-US": "Reddit says openclaw isn't for real work, X says 18x ROAS autopilot",
+      "zh-CN": "Reddit质疑OpenClaw不实用，X却称18倍ROAS自动运行"
+    },
+    "summary": {
+      "en-US": "AI Agent 实际效果的两极分化争议",
+      "zh-CN": "AI Agent实际效果两极分化引发争议"
+    },
+    "relevance": "AI Agent 实际效果的两极分化争议",
+    "score": 0.85,
+    "engagement": {
+      "likes": 390,
+      "replies": 19,
+      "retweets": 22
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-20T11:06:45.251710+00:00",
+    "js_take": {
+      "en-US": "Both sides are right. Reddit users build monuments, X users build systems. Civilization taught us: monuments look good, compound interest wins.",
+      "zh-CN": "双方都没错。Reddit用户在造奇观，X用户在搭系统。文明游戏早就告诉我们：奇观好看，复利致胜。"
+    }
+  },
+  {
     "id": "2034661487445258382",
     "date": "2026-03-20",
     "author": "@mattturck",
@@ -142,6 +170,34 @@
     "js_take": {
       "en-US": "Every clone copies the interface. None copy the feeling of 'this tool gets me.' That's the migration from surface to inner world — features are in the database now, identity lives elsewhere.",
       "zh-CN": "每个克隆都在复制界面，却没人复制那种「这工具懂我」的感觉。这就是从表世界到里世界的迁移——功能进数据库了，身份认同去了别处。"
+    }
+  },
+  {
+    "id": "2034884222033514830",
+    "date": "2026-03-20",
+    "author": "@pmarca",
+    "author_url": "https://x.com/pmarca",
+    "tweet_url": "https://x.com/pmarca/status/2034884222033514830",
+    "title": {
+      "en-US": "OpenClaw and Pi together are top 10 software breakthroughs of all time",
+      "zh-CN": "Marc Andreessen 宣称 OpenClaw 和 Pi 是有史以来十大软件突破之一"
+    },
+    "summary": {
+      "en-US": "OpenClaw 历史性定位讨论，顶级风投视角",
+      "zh-CN": "历史突破的评判标准不该是技术复杂度，而是它能否让普通人不再仰望技术——OpenClaw 的价值不在于它多先进，而在于它让'拥有一个AI助手'变得像呼吸一样自然，这才是真正的范式转移。"
+    },
+    "relevance": "OpenClaw 历史性定位讨论，顶级风投视角",
+    "score": 0.82,
+    "engagement": {
+      "likes": 259,
+      "replies": 52,
+      "retweets": 16
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-20T08:07:13.057903+00:00",
+    "js_take": {
+      "en-US": "History remembers the telescope, not the glassmaker. OpenClaw's breakthrough isn't being 'top 10 complex'—it's making personal AI as invisible as electricity. The real paradigm shift is when technology disappears.",
+      "zh-CN": "历史铭记的是望远镜，而非磨镜匠人。OpenClaw 的突破不在于「复杂度 Top 10」——而在于让个人 AI 像电力一样无感存在。真正的范式转变，是当技术本身消隐于无形之时。"
     }
   },
   {
@@ -258,6 +314,64 @@
     }
   },
   {
+    "id": "2034916790711538061",
+    "date": "2026-03-20",
+    "author": "@Dan_Jeffries1",
+    "author_url": "https://x.com/Dan_Jeffries1",
+    "tweet_url": "https://x.com/Dan_Jeffries1/status/2034916790711538061",
+    "title": {
+      "en-US": "OpenClaw is a Napster moment, not DeepSeek moment",
+      "zh-CN": "OpenClaw的真正意义不是DeepSeek时刻，而是Napster时刻——它将通过去中心化改变Agent的分发和使用方式。"
+    },
+    "summary": {
+      "en-US": "Agent生态 / 平台变革 / OpenClaw",
+      "zh-CN": "Napster的类比是对的，但只说对了一半——真正的颠覆不是「免费分发」，而是「表里世界」正在交换位置：表世界（网站/App）退化为数据库，里世界（Agent）成为新的交互层。"
+    },
+    "relevance": "Agent生态 / 平台变革 / OpenClaw",
+    "score": 0.78,
+    "engagement": {
+      "likes": 20,
+      "replies": 0,
+      "retweets": 1,
+      "views": 910,
+      "bookmarks": 12
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-20T10:07:10.839820+00:00",
+    "js_take": {
+      "en-US": "Napster was about free. This is about displacement. The surface world (apps/sites) is becoming a database. The real interface is migrating to agents. Second migration in progress.",
+      "zh-CN": "Napster 时代追求的是免费，而这一次是替代。表世界（应用/网站）正在退化为数据库，真正的交互界面正在向智能体迁移。第二次大迁徙正在进行。"
+    }
+  },
+  {
+    "id": "2034820785723121795",
+    "date": "2026-03-20",
+    "author": "@manateelazycat",
+    "author_url": "https://x.com/manateelazycat",
+    "tweet_url": "https://x.com/manateelazycat/status/2034820785723121795",
+    "title": {
+      "en-US": "OpenClaw热度下降但影响深远，让更多人意识到AI不只是Chatbot",
+      "zh-CN": "从各平台指数看，爆火后的 OpenClaw 已逐渐淡出视线，但影响深远——让更多人意识到 AI 不只是 Chatbot，而可以成为「助理」"
+    },
+    "summary": {
+      "en-US": "OpenClaw 从热点到常态化的趋势判断",
+      "zh-CN": "热度下降是假象——真正的迁徙不是喧嚣的，是沉默的。表世界（指数）在降温，里世界（agent 工作流）在接管。"
+    },
+    "relevance": "OpenClaw 从热点到常态化的趋势判断",
+    "score": 0.78,
+    "engagement": {
+      "likes": 8,
+      "replies": 0,
+      "retweets": 0
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-20T11:06:45.251716+00:00",
+    "js_take": {
+      "en-US": "Noise down, migration up. First wave was tourists taking photos. Second wave is builders moving in—silently, while metrics sleep.",
+      "zh-CN": "喧嚣渐退，迁徙加速。第一波是游客拍照打卡，第二波是建造者悄然入驻——趁指标还在沉睡时。"
+    }
+  },
+  {
     "id": "2034636266046644520",
     "date": "2026-03-20",
     "author": "@GaoShanghua",
@@ -371,6 +485,64 @@
     }
   },
   {
+    "id": "2034787516822454732",
+    "date": "2026-03-20",
+    "author": "@alexcooldev",
+    "author_url": "https://x.com/alexcooldev",
+    "tweet_url": "https://x.com/alexcooldev/status/2034787516822454732",
+    "title": {
+      "en-US": "Claude Code limited OpenClaw right before launching their own",
+      "zh-CN": "Claude Code在推出自己的功能之前，先限制了OpenClaw——平台在竞争出现时突然设限"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台竞争 - 直接相关，且讨论平台规则与生态",
+      "zh-CN": "推文点出了一个结构性困境：建立在别人平台之上的创新，本质是「借地种菜」。但更深一层的问题是——为什么我们总是重复这个循环？因为表世界（平台）的封闭性与里世界（agent生态）的开放性之间的张力，还没有被真正解决。"
+    },
+    "relevance": "OpenClaw平台竞争 - 直接相关，且讨论平台规则与生态",
+    "score": 0.76,
+    "engagement": {
+      "likes": 39,
+      "replies": 16,
+      "retweets": 0
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-20T09:07:05.337584+00:00",
+    "js_take": {
+      "en-US": "Every platform lockdown teaches the same lesson: you're farming on rented land. The real move isn't finding a better landlord—it's agents talking to agents, no middlemen.",
+      "zh-CN": "每次平台封禁都在重复同一个教训：你是在租来的土地上耕作。真正的出路不是找更好的房东，而是让 Agent 直接对话——没有中间商。"
+    }
+  },
+  {
+    "id": "2034903921953579044",
+    "date": "2026-03-20",
+    "author": "@mubeitech",
+    "author_url": "https://x.com/mubeitech",
+    "tweet_url": "https://x.com/mubeitech/status/2034903921953579044",
+    "title": {
+      "en-US": "Claude Code channels clears third-party remote control",
+      "zh-CN": "Claude发布新功能Claude Code channels，直接打通Telegram和Discord，第三方远程控制生态被清零，硬件门槛归零。"
+    },
+    "summary": {
+      "en-US": "Agent工具 / Claude生态 / OpenClaw竞品",
+      "zh-CN": "讨论都聚焦在「功能替代」，但真正的洞察是：当所有平台都在帮你「省硬件」时，竞争的势已经不在工具本身，而在谁能成为里世界的默认入口。"
+    },
+    "relevance": "Agent工具 / Claude生态 / OpenClaw竞品",
+    "score": 0.76,
+    "engagement": {
+      "likes": 75,
+      "retweets": 7,
+      "replies": 9,
+      "views": 16439,
+      "bookmarks": 76
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-20T10:07:10.839829+00:00",
+    "js_take": {
+      "en-US": "Everyone competes on 'saving hardware.' But when that barrier hits zero, the势 shifts — to who becomes the default entry point of the inner world.",
+      "zh-CN": "所有人都在「节省硬件」上竞争。但当这道壁垒归零，势将转移——转向谁能成为里世界的默认入口。"
+    }
+  },
+  {
     "id": "2034766793739575774",
     "date": "2026-03-20",
     "author": "@yoheinakajima",
@@ -481,6 +653,34 @@
     "js_take": {
       "en-US": "Open source ≠ self-hosted. Run open-source agents on cheap APIs and the math flips. The $1000 is hardware ego, not open source itself.",
       "zh-CN": "开源≠自建。把开源Agent跑在廉价API上，账本立马改写。那1000美元是硬件自尊心，不是开源的锅。"
+    }
+  },
+  {
+    "id": "2034903859303522497",
+    "date": "2026-03-20",
+    "author": "@mranti",
+    "author_url": "https://x.com/mranti",
+    "tweet_url": "https://x.com/mranti/status/2034903859303522497",
+    "title": {
+      "en-US": "OpenClaw/Claude Code像纸糊的但居然能运转，像人类草台班子建立了文明",
+      "zh-CN": "由md文件、skill文件驱动的AI操作系统从鲁棒性看像纸糊的，但居然能每天正常运转——这就像人类历史上一堆互相误解的草台班子，却建立了伟大文明"
+    },
+    "summary": {
+      "en-US": "OpenClaw系统韧性 - 直接讨论OpenClaw，中文推文",
+      "zh-CN": "推文的类比很妙，但「纸糊的居然能用」这个现象本身恰恰说明：我们过度追求工程的完美性，而忽视了系统的容错性和进化能力。真正的韧性不是「不犯错」，而是「犯错后能快速修复」——这与自然界通过冗余和变异实现进化的逻辑一致。"
+    },
+    "relevance": "OpenClaw系统韧性 - 直接讨论OpenClaw，中文推文",
+    "score": 0.74,
+    "engagement": {
+      "likes": 31,
+      "replies": 8,
+      "retweets": 2
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-20T09:07:05.337591+00:00",
+    "js_take": {
+      "en-US": "\"Held together by tape\" isn't a flaw—it's the whole point. Nature doesn't build perfect systems, it builds ones that can break and rebuild by Tuesday. Your polished architecture cracks once. Their duct tape cracks daily, and they ship.",
+      "zh-CN": "「靠胶带维系」不是缺陷——这正是精髓所在。自然从不构建完美系统，它构建的是周二前能坏又能修的系统。你打磨的架构崩溃一次就完蛋，他们的胶带天天崩，却能持续交付。"
     }
   },
   {
