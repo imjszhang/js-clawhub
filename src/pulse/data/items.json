@@ -478,6 +478,36 @@
     }
   },
   {
+    "id": "2035082303932694773",
+    "date": "2026-03-21",
+    "author": "@emollick",
+    "author_url": "https://x.com/emollick",
+    "tweet_url": "https://x.com/emollick/status/2035082303932694773",
+    "title": {
+      "en-US": "Skill.md issue is great and I am stealing it.",
+      "zh-CN": "Ethan Mollick 称赞 Skill.md 这个做法很棒，并表示要借鉴使用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 核心机制（Skill 系统）获得主流 AI 教育者认可",
+      "zh-CN": "Skill.md 被「偷」走恰恰说明：表世界的工具终将被里世界的 Agent 内化——文档的价值不在被阅读，而在被系统吸收。"
+    },
+    "relevance": "OpenClaw 核心机制（Skill 系统）获得主流 AI 教育者认可",
+    "score": 0.72,
+    "engagement": {
+      "likes": 614,
+      "replies": 32,
+      "retweets": 23,
+      "views": 80991,
+      "bookmarks": 273
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-21T13:18:58.335944+00:00",
+    "js_take": {
+      "en-US": "Steal away — you're accelerating the migration from surface documentation to inner world systems, which is exactly why Skill.md exists.",
+      "zh-CN": "尽管拿走——你正在加速表世界文档向内世界系统的迁移，这正是 Skill.md 存在的意义。"
+    }
+  },
+  {
     "id": "2035048113099219134",
     "date": "2026-03-21",
     "author": "@gabriel1",
@@ -5653,35 +5683,6 @@
     "js_take": {
       "en-US": "Tool wars are values wars. You're not picking software—you're picking what kind of human you want to become.",
       "zh-CN": "Tool wars are values wars. You're not picking software—you're picking what kind of human you want to become."
-    }
-  },
-  {
-    "id": "2031940818786009492",
-    "date": "2026-03-12",
-    "author": "@rohanpaul_ai",
-    "author_url": "https://x.com/rohanpaul_ai",
-    "tweet_url": "https://x.com/rohanpaul_ai/status/2031940818786009492",
-    "title": {
-      "en-US": "OpenClaw but without security vulnerabilities",
-      "zh-CN": "介绍 Perplexity 的本地 AI Agent 方案，暗示比 OpenClaw 更安全"
-    },
-    "summary": {
-      "en-US": "OpenClaw vs Perplexity 竞争，AI Agent 安全话题",
-      "zh-CN": "更深度：「安全 vs 开放」的对立是伪命题——真正的长期赢家不是「最安全」或「最开放」的那个，而是能让开发者在「足够安全」和「足够自由」之间找到动态平衡点的平台。"
-    },
-    "relevance": "OpenClaw vs Perplexity 竞争，AI Agent 安全话题",
-    "score": 0.77,
-    "engagement": {
-      "likes": 80,
-      "replies": 16,
-      "retweets": 8,
-      "views": 49800
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-12T13:09:06.494963+00:00",
-    "js_take": {
-      "en-US": "Security is defensive. Ecosystem is offensive. Users don't flock to the safest cage—they choose the platform where skills actually get built. Balance beats perfection.",
-      "zh-CN": "安全是防守，生态是进攻。用户不会涌向最安全的笼子——他们选择真正能构建技能的平台。平衡胜过完美。"
     }
   }
 ]
