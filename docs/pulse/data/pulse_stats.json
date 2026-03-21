@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-20T21:09:02.848192+00:00",
+  "updated_at": "2026-03-21T00:09:25.542657+00:00",
   "this_week": {
-    "total_items": 100,
+    "total_items": 105,
     "avg_score": 0.77,
-    "unique_authors": 94,
+    "unique_authors": 97,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -235,6 +235,34 @@
         "js_take": {
           "en-US": "316k stars in 4 months. Ask maintainers: how many are from users shipping production code vs FOMO bookmarking? Real growth doesn't need to flex on Linux.",
           "zh-CN": "4 个月 31.6k star。想问问维护者：这里面有多少是真在生产环境跑代码的用户贡献的，又有多少只是怕错过的收藏党？真正的增长，不需要拿 Linux 当参照物来秀肌肉。"
+        }
+      },
+      {
+        "id": "2035114152960958758",
+        "date": "2026-03-21",
+        "author": "@punk9059",
+        "author_url": "https://x.com/punk9059",
+        "tweet_url": "https://x.com/punk9059/status/2035114152960958758",
+        "title": {
+          "en-US": "Is OpenClaw only big because people love saying their 8 agents worked while they slept?",
+          "zh-CN": "炫耀者离场，系统构建者留下"
+        },
+        "summary": {
+          "en-US": "OpenClaw / Agent 运营文化",
+          "zh-CN": "这个问题本身揭示了互联网产品的经典陷阱——用户炫耀的不是工具的价值，而是自己\"拥有工具\"的身份；但真正的增长来自沉默的大多数，他们只是用而不说。"
+        },
+        "relevance": "OpenClaw / Agent 运营文化",
+        "score": 0.82,
+        "engagement": {
+          "likes": 30,
+          "replies": 25,
+          "retweets": 0
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-03-21T00:08:55.916915+00:00",
+        "js_take": {
+          "en-US": "Every platform starts with people flexing they 'have' the tool. Real growth comes from those who use it silently — when the show-offs leave, the system builders remain.",
+          "zh-CN": "每个平台起步时，总有人在炫耀自己'有了'这个工具。但真正的增长来自那些埋头使用的人——当炫耀者离场，留下的是系统构建者。"
         }
       },
       {
@@ -635,6 +663,35 @@
         }
       },
       {
+        "id": "2035070388615393771",
+        "date": "2026-03-21",
+        "author": "@iamlukethedev",
+        "author_url": "https://x.com/iamlukethedev",
+        "tweet_url": "https://x.com/iamlukethedev/status/2035070388615393771",
+        "title": {
+          "en-US": "Claw3D open source, 225 stars, 41 forks in short time",
+          "zh-CN": "225星的真相：时机胜过营销"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态 + 开源策略",
+          "zh-CN": "开源决策的正确性不在于「开源好」这个结论，而在于时机——在生态需要可视化工具时推出，让需求本身拉动贡献。"
+        },
+        "relevance": "OpenClaw生态 + 开源策略",
+        "score": 0.8,
+        "engagement": {
+          "likes": 174,
+          "retweets": 28,
+          "replies": 35,
+          "views": 5941
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-20T22:10:20.467585+00:00",
+        "js_take": {
+          "en-US": "225 stars in short time isn't marketing — it's timing. The agent ecosystem needed visibility tools exactly when you shipped. Real growth isn't chasing attention, it's occupying the gap where momentum flows.",
+          "zh-CN": "短时间斩获225星不是营销，而是时机。Agent生态在你发布的那一刻，恰好急需可见性工具。真正的增长不是追逐关注，而是占据势流涌动的缺口。"
+        }
+      },
+      {
         "id": "2033747401085751598",
         "date": "2026-03-17",
         "author": "@KKaWSB",
@@ -974,67 +1031,11 @@
           "en-US": "Noise down, migration up. First wave was tourists taking photos. Second wave is builders moving in—silently, while metrics sleep.",
           "zh-CN": "喧嚣渐退，迁徙加速。第一波是游客拍照打卡，第二波是建造者悄然入驻——趁指标还在沉睡时。"
         }
-      },
-      {
-        "id": "2034277020482277637",
-        "date": "2026-03-19",
-        "author": "@bradmillscan",
-        "author_url": "https://x.com/bradmillscan",
-        "tweet_url": "https://x.com/bradmillscan/status/2034277020482277637",
-        "title": {
-          "en-US": "$10k offer to observe OpenClaw influencer, worried about doing tech support",
-          "zh-CN": "有人愿意付1万美元观察OpenClaw大V的使用方式，但担心对方80%时间在搞技术支持"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台使用技巧，工具生态",
-          "zh-CN": "Brad用「花大钱偷师」的夸张方式暴露了OpenClaw的核心痛点：为什么看别人用得溜，自己上手就卡？因为大家展示的都是高光时刻，没人拍自己debug skill连接失败的3小时"
-        },
-        "relevance": "OpenClaw平台使用技巧，工具生态",
-        "score": 0.78,
-        "engagement": {
-          "likes": 93,
-          "replies": 27,
-          "retweets": 3
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-18T18:06:41.924384+00:00",
-        "js_take": {
-          "en-US": "$10k to watch someone win? The real OpenClaw education is in the 100 DMs nobody posts — connection timeouts, broken skills, 3am debugging. The docs show you the path. The errors teach you to walk.",
-          "zh-CN": "花1万美元看别人赢？真正的OpenClaw教育藏在那些没人发的100条私信里——连接超时、崩溃的skill、凌晨3点的调试。文档告诉你路在哪，错误才教会你怎么走。"
-        }
-      },
-      {
-        "id": "2034363683875549524",
-        "date": "2026-03-19",
-        "author": "@kloss_xyz",
-        "author_url": "https://x.com/kloss_xyz",
-        "tweet_url": "https://x.com/kloss_xyz/status/2034363683875549524",
-        "title": {
-          "en-US": "OpenClaw config copy-paste disaster story",
-          "zh-CN": "复制网上OpenClaw配置导致系统崩溃的教训，最后发现是'你在导入别人的问题'。"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态 - 配置管理与最佳实践",
-          "zh-CN": "表面是技术问题，实则是认知问题：很多人追逐'现成答案'，却不愿理解底层逻辑。配置即代码，代码即思想——复制配置就是复制别人的思维方式。"
-        },
-        "relevance": "OpenClaw生态 - 配置管理与最佳实践",
-        "score": 0.78,
-        "engagement": {
-          "likes": 39,
-          "replies": 9,
-          "retweets": 1
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-18T21:07:00.040467+00:00",
-        "js_take": {
-          "en-US": "Copy-pasting configs is copying someone else's cognitive debt. The real growth hack: understand where the momentum is, then build your own system.",
-          "zh-CN": "复制粘贴配置，就是在继承别人的认知债务。真正的增长黑客之道：看清势能在哪里，然后搭建自己的系统。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 166
+    "unique_authors": 165
   }
 }

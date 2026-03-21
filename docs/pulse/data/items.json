@@ -1,5 +1,62 @@
 [
   {
+    "id": "2035114152960958758",
+    "date": "2026-03-21",
+    "author": "@punk9059",
+    "author_url": "https://x.com/punk9059",
+    "tweet_url": "https://x.com/punk9059/status/2035114152960958758",
+    "title": {
+      "en-US": "Is OpenClaw only big because people love saying their 8 agents worked while they slept?",
+      "zh-CN": "炫耀者离场，系统构建者留下"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent 运营文化",
+      "zh-CN": "这个问题本身揭示了互联网产品的经典陷阱——用户炫耀的不是工具的价值，而是自己\"拥有工具\"的身份；但真正的增长来自沉默的大多数，他们只是用而不说。"
+    },
+    "relevance": "OpenClaw / Agent 运营文化",
+    "score": 0.82,
+    "engagement": {
+      "likes": 30,
+      "replies": 25,
+      "retweets": 0
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-21T00:08:55.916915+00:00",
+    "js_take": {
+      "en-US": "Every platform starts with people flexing they 'have' the tool. Real growth comes from those who use it silently — when the show-offs leave, the system builders remain.",
+      "zh-CN": "每个平台起步时，总有人在炫耀自己'有了'这个工具。但真正的增长来自那些埋头使用的人——当炫耀者离场，留下的是系统构建者。"
+    }
+  },
+  {
+    "id": "2035070388615393771",
+    "date": "2026-03-21",
+    "author": "@iamlukethedev",
+    "author_url": "https://x.com/iamlukethedev",
+    "tweet_url": "https://x.com/iamlukethedev/status/2035070388615393771",
+    "title": {
+      "en-US": "Claw3D open source, 225 stars, 41 forks in short time",
+      "zh-CN": "225星的真相：时机胜过营销"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + 开源策略",
+      "zh-CN": "开源决策的正确性不在于「开源好」这个结论，而在于时机——在生态需要可视化工具时推出，让需求本身拉动贡献。"
+    },
+    "relevance": "OpenClaw生态 + 开源策略",
+    "score": 0.8,
+    "engagement": {
+      "likes": 174,
+      "retweets": 28,
+      "replies": 35,
+      "views": 5941
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-20T22:10:20.467585+00:00",
+    "js_take": {
+      "en-US": "225 stars in short time isn't marketing — it's timing. The agent ecosystem needed visibility tools exactly when you shipped. Real growth isn't chasing attention, it's occupying the gap where momentum flows.",
+      "zh-CN": "短时间斩获225星不是营销，而是时机。Agent生态在你发布的那一刻，恰好急需可见性工具。真正的增长不是追逐关注，而是占据势流涌动的缺口。"
+    }
+  },
+  {
     "id": "2035025492617961704",
     "date": "2026-03-21",
     "author": "@claudeai",
@@ -81,6 +138,62 @@
     }
   },
   {
+    "id": "2035104041395495333",
+    "date": "2026-03-21",
+    "author": "@nikil",
+    "author_url": "https://x.com/nikil",
+    "tweet_url": "https://x.com/nikil/status/2035104041395495333",
+    "title": {
+      "en-US": "Open sourcing ClawFlows - workflow system for OpenClaw, 100+ prebuilt workflows.",
+      "zh-CN": "模板之外，才是差异化的战场"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent 工作流系统",
+      "zh-CN": "预置工作流的价值不在于\"有100个\"，而在于它们代表了一种共识——大家反复做的任务其实就那几十种；真正的个性化发生在这些模板的缝隙里。"
+    },
+    "relevance": "OpenClaw / Agent 工作流系统",
+    "score": 0.75,
+    "engagement": {
+      "likes": 202,
+      "replies": 35,
+      "retweets": 19
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-21T00:08:55.916924+00:00",
+    "js_take": {
+      "en-US": "100 prebuilt workflows don't matter for the number — they expose the truth: everyone thinks they're doing unique work, but 80% is the same pattern on repeat. Real differentiation lives in the gaps between templates.",
+      "zh-CN": "100个预置工作流的意义不在于数量，而在于揭示了一个真相：每个人都以为自己在做独特的工作，但80%不过是重复相同的模式。真正的差异化，藏在模板之间的缝隙里。"
+    }
+  },
+  {
+    "id": "2034912619757543914",
+    "date": "2026-03-21",
+    "author": "@JulianGoldieSEO",
+    "author_url": "https://x.com/JulianGoldieSEO",
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/2034912619757543914",
+    "title": {
+      "en-US": "OpenClaw fully autonomous with OpenMOSS - AI managing AI",
+      "zh-CN": "OpenClaw 推出 OpenMOSS 实现完全自主，让 AI Agent 能自主控制 OpenClaw、管理任务和运行工作流。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 核心功能更新，agent 自主运行能力",
+      "zh-CN": "推文把「AI管AI」当成惊奇卖点，但这恰恰暴露了一个盲区：真正的效率不在于谁控制谁，而在于设计一个无需控制的系统结构——当 agent 越需要被「管理」，说明架构越失败。"
+    },
+    "relevance": "OpenClaw 核心功能更新，agent 自主运行能力",
+    "score": 0.72,
+    "engagement": {
+      "likes": 76,
+      "replies": 3,
+      "retweets": 12
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-20T23:09:06.163067+00:00",
+    "js_take": {
+      "en-US": "AI managing AI sounds like progress. The real migration happens when control becomes invisible — the inner world doesn't need managers.",
+      "zh-CN": "AI管理AI，听着像进步。但真正的变革，发生在控制隐形之时——里世界，从来不需要管理者。"
+    }
+  },
+  {
     "id": "2035048113099219134",
     "date": "2026-03-21",
     "author": "@gabriel1",
@@ -107,6 +220,35 @@
     "js_take": {
       "en-US": "Skepticism flipping to belief means this isn't marketing — it's momentum. 'Access everything from anywhere' isn't a feature, it's the new layer.",
       "zh-CN": "怀疑转为信任，说明这不是营销，而是势。'随处访问一切'不是功能，是新层级。"
+    }
+  },
+  {
+    "id": "2035043115862516212",
+    "date": "2026-03-21",
+    "author": "@iamlukethedev",
+    "author_url": "https://x.com/iamlukethedev",
+    "tweet_url": "https://x.com/iamlukethedev/status/2035043115862516212",
+    "title": {
+      "en-US": "Claw3D running 17 agents with no lag",
+      "zh-CN": "Agent可视化：从工具到协作者的跃迁"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + 多agent可视化",
+      "zh-CN": "「17个agent无延迟」是技术成就，但真正的信号是开发者开始需要「看见」agent在做什么——表世界正在从操作界面变成观察界面。"
+    },
+    "relevance": "OpenClaw生态 + 多agent可视化",
+    "score": 0.7,
+    "engagement": {
+      "likes": 83,
+      "retweets": 14,
+      "replies": 10,
+      "views": 6556
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-20T22:10:20.467590+00:00",
+    "js_take": {
+      "en-US": "17 agents isn't the signal. The signal is why we need to see them at all. As agents shift from tools to collaborators, visualization moves from optional to essential — surface world becoming observation layer.",
+      "zh-CN": "17个Agent不是信号。真正的信号是：我们为何需要看见它们。当Agent从工具演变为协作者，可视化便从可选项变为必需品——表世界正在蜕变为观察层。"
     }
   },
   {
@@ -5541,148 +5683,6 @@
     "js_take": {
       "en-US": "ByteDance orders your lunch. OpenClaw decides if you should quit your job. Operations vs judgment—that's the gap.",
       "zh-CN": "字节跳动帮你订午餐，OpenClaw 帮你决定是否该辞职。执行运营与决策判断——这才是真正的差距。"
-    }
-  },
-  {
-    "id": "2031815517795692780",
-    "date": "2026-03-12",
-    "author": "@qrimeCapital",
-    "author_url": "https://x.com/qrimeCapital",
-    "tweet_url": "https://x.com/qrimeCapital/status/2031815517795692780",
-    "title": {
-      "en-US": "Using OpenClaw bot to apply for 4 jobs, making $350k/year",
-      "zh-CN": "有人用OpenClaw bot全自动申请工作，同时做4份工作年薪35万美元"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台实际应用案例 + Agent自动化求职",
-      "zh-CN": "做纠正：人们只看到「用AI同时打4份工赚35万」的表面刺激，却忽略了真正关键的问题——当Agent可以替你完成工作时，工作的定义本身正在瓦解。重点不是「怎么薅更多羊毛」，而是「当输出可以被代理，拥有权比执行力更重要」。"
-    },
-    "relevance": "OpenClaw平台实际应用案例 + Agent自动化求职",
-    "score": 0.72,
-    "engagement": {
-      "likes": 119,
-      "replies": 20,
-      "retweets": 1
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-11T22:04:44.326215+00:00",
-    "js_take": {
-      "en-US": "Everyone's calculating his $350k. They miss the real play: when output can be delegated, ownership replaces execution. You're not hustling—you're renting a dying system.",
-      "zh-CN": "所有人都在算他那35万美元，却忽略了关键：当产出可以外包，所有权就取代了执行。你不是在奋斗，你是在租用一个正在消亡的系统。"
-    }
-  },
-  {
-    "id": "2031775308354093272",
-    "date": "2026-03-12",
-    "author": "@corbin_braun",
-    "author_url": "https://x.com/corbin_braun",
-    "tweet_url": "https://x.com/corbin_braun/status/2031775308354093272",
-    "title": {
-      "en-US": "If you understand cloud infrastructure, then holy smokes you are having a field day with openclaw.",
-      "zh-CN": "如果你懂云基础设施，那OpenClaw简直是你的游乐场。"
-    },
-    "summary": {
-      "en-US": "OpenClaw核心讨论 - 直接关联OpenClaw平台的技术价值",
-      "zh-CN": "技术人兴奋于「掌控复杂基础设施」，但真正的掌控是让复杂变简单。OpenClaw的价值不是给懂云的人更多玩具，而是让不懂云的人也能驾驭复杂——这才叫「无为而治」。"
-    },
-    "relevance": "OpenClaw核心讨论 - 直接关联OpenClaw平台的技术价值",
-    "score": 0.72,
-    "engagement": {
-      "likes": 144,
-      "replies": 16,
-      "retweets": 2
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-12T01:07:41.451941+00:00",
-    "js_take": {
-      "en-US": "Loving the knobs isn't mastery. Real power is making infrastructure vanish for everyone else.",
-      "zh-CN": "迷恋控制面板并非精通之道。真正的力量，是让基础设施在他人眼中彻底隐形。"
-    }
-  },
-  {
-    "id": "2031776692470235198",
-    "date": "2026-03-12",
-    "author": "@svpino",
-    "author_url": "https://x.com/svpino",
-    "tweet_url": "https://x.com/svpino/status/2031776692470235198",
-    "title": {
-      "en-US": "The hardest part of building AI agents is everything around it: infrastructure, security, integrations, scheduling...",
-      "zh-CN": "构建 AI agent 最难的部分是周边的一切：基础设施、安全、集成、调度等"
-    },
-    "summary": {
-      "en-US": "AI Agent 工程实践痛点，与 OpenClaw 解决的核心问题直接相关",
-      "zh-CN": "大家盯着'demo 很炫'，却忽略了生产级 AI 的隐藏成本——不是模型不够强，是把它塞进真实世界的摩擦太大。这正是 OpenClaw 这类工具存在的理由。"
-    },
-    "relevance": "AI Agent 工程实践痛点，与 OpenClaw 解决的核心问题直接相关",
-    "score": 0.72,
-    "engagement": {
-      "likes": 71,
-      "replies": 19,
-      "retweets": 8,
-      "views": 15402,
-      "bookmarks": 56
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-12T05:04:35.788348+00:00",
-    "js_take": {
-      "en-US": "Flashy demos are theater. The real game is the boring plumbing that actually ships—and that's why 90% of agent projects die before production.",
-      "zh-CN": "炫目的Demo不过是表演。真正的战场是枯燥却能落地的底层工程——这就是为什么90%的Agent项目倒在量产前。"
-    }
-  },
-  {
-    "id": "2031967032288428069",
-    "date": "2026-03-12",
-    "author": "@manateelazycat",
-    "author_url": "https://x.com/manateelazycat",
-    "tweet_url": "https://x.com/manateelazycat/status/2031967032288428069",
-    "title": {
-      "en-US": "Tencent scraped ClawHub data, complained about rate limit",
-      "zh-CN": "腾讯扒取ClawHub数据，还嫌OpenClaw创始人服务器限速，被吐槽后回应不谈赞助只说自己处理了180GB流量"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态争议 + 大厂与开源社区关系",
-      "zh-CN": "大家都在骂腾讯白嫖，但更深一层是：开源项目的\"被占便宜\"本身就是设计的一部分——ClawHub的价值恰恰在于被大规模使用，限速只是防止崩溃，不是拒绝被用。"
-    },
-    "relevance": "OpenClaw生态争议 + 大厂与开源社区关系",
-    "score": 0.72,
-    "engagement": {
-      "likes": 277,
-      "replies": 36,
-      "retweets": 27
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-12T09:08:12.195767+00:00",
-    "js_take": {
-      "en-US": "ClawHub wasn't built to be protected. It was built to be used—the more it gets scraped, the more valuable it becomes. 'Protection' would kill it.",
-      "zh-CN": "ClawHub 不是为了被保护而建，而是为了被使用——被爬取得越多，它就越有价值。「保护」反而会扼杀它。"
-    }
-  },
-  {
-    "id": "2031808425458360409",
-    "date": "2026-03-12",
-    "author": "@Jason",
-    "author_url": "https://x.com/Jason",
-    "tweet_url": "https://x.com/Jason/status/2031808425458360409",
-    "title": {
-      "en-US": "port OpenClaw to Tesla Optimus, run jobs in local brain",
-      "zh-CN": "Agent 的力量在于无形"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 具身智能/人形机器人",
-      "zh-CN": "这条推文的假设是「把AI装进身体」是下一步。但Agent的本质是「无所在，故无所不在」——它不需要一个具体的物理形态来证明自己存在。强行给Agent一个身体，可能是一种倒退：从「可以做任何事」变成「只能以这个形态做事」。"
-    },
-    "relevance": "OpenClaw + 具身智能/人形机器人",
-    "score": 0.71,
-    "engagement": {
-      "likes": 245,
-      "replies": 31,
-      "retweets": 11
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-11T20:07:49.214723+00:00",
-    "js_take": {
-      "en-US": "Putting OpenClaw in Optimus is trapping air in a bottle—you can do it, but you lose what makes it powerful. Agent's strength is having no form. That's the point: it can be anything.",
-      "zh-CN": "把 OpenClaw 硬塞进 Optimus，就像把空气装进瓶子——技术上可行，但你会失去它真正的力量。Agent 的强项恰恰在于没有固定形态。这才是关键：它可以成为任何东西。"
     }
   }
 ]
