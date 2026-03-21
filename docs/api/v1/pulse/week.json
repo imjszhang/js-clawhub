@@ -1,5 +1,63 @@
 [
   {
+    "id": "2035393085467926818",
+    "date": "2026-03-22",
+    "author": "@huangyun_122",
+    "author_url": "https://x.com/huangyun_122",
+    "tweet_url": "https://x.com/huangyun_122/status/2035393085467926818",
+    "title": {
+      "en-US": "How to sync context across Codex, Claude, OpenClaw",
+      "zh-CN": "如何同时使用多个AI工具（Codex、Claude Code、OpenClaw）并让它们互相知道昨天做了什么"
+    },
+    "summary": {
+      "en-US": "多AI工具协作的实际痛点，与OpenClaw直接相关",
+      "zh-CN": "这个问题本身就是过度优化的陷阱——试图让所有工具'同步'，恰恰违背了每种工具擅长的节奏和场景，强行统一反而稀释了各自的优势。"
+    },
+    "relevance": "多AI工具协作的实际痛点，与OpenClaw直接相关",
+    "score": 0.8,
+    "engagement": {
+      "likes": 35,
+      "replies": 16,
+      "views": 11022
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-21T19:14:55.646460+00:00",
+    "js_take": {
+      "en-US": "You're forcing tools to sync. Try the opposite: let tasks flow to the right tool naturally. Forcing unity dilutes each tool's strength.",
+      "zh-CN": "强行让所有工具协同？不如反着来：让任务自然流向最适合的工具。强求统一，只会稀释每个工具的独特优势。"
+    }
+  },
+  {
+    "id": "2035313857363943936",
+    "date": "2026-03-22",
+    "author": "@_vmlops",
+    "author_url": "https://x.com/_vmlops",
+    "tweet_url": "https://x.com/_vmlops/status/2035313857363943936",
+    "title": {
+      "en-US": "ClawTeam: One command spawns swarm of AI agents",
+      "zh-CN": "ClawTeam 展示了一个命令即可生成协调工作的 AI agent 群体，8 个 agent 在 8 台 H100 上自主运行 2430 次实验，实现 6.4% 的 LLM 改进。"
+    },
+    "summary": {
+      "en-US": "OpenClaw agent swarm 技术展示，与平台直接相关",
+      "zh-CN": "推文强调「零人工干预」的自动化奇迹，但没点破一个边界：当 8 个 agent 能自主协作时，人类从「操作者」退化为「设定规则的人」——这正是表世界退化为数据库、里世界成为新交互层的缩影。"
+    },
+    "relevance": "OpenClaw agent swarm 技术展示，与平台直接相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 32,
+      "replies": 5,
+      "retweets": 5,
+      "views": 1240,
+      "bookmarks": 30
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-21T19:22:34.455449+00:00",
+    "js_take": {
+      "en-US": "One command spawns 8 agents. You're not coding anymore—you're writing rules for code that codes itself. Surface world becomes database. Agents become interface.",
+      "zh-CN": "一条指令唤醒8个智能体。你不再写代码——你在为「会自己写代码的代码」制定规则。表世界退化为数据库，智能体升维成新界面。"
+    }
+  },
+  {
     "id": "2035169635033915537",
     "date": "2026-03-21",
     "author": "@robinebers",
