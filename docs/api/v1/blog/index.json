@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-03-21",
+    "title": {
+      "zh-CN": "上游 PR 分支隔离与插件架构解耦实战",
+      "en-US": "Practical Guide: Isolating Upstream PR Branches and Decoupling Plugin Architectures"
+    },
+    "date": "2026-03-21",
+    "summary": {
+      "zh-CN": "今天面对上游贡献与本地定制线的冲突，我彻底放弃了直接 Merge 的惰性操作，转而实施「独立分支隔离 + Cherry-pick 回合并」的精确策略；同时在插件层完成了 `types.ts` 与 `registry.ts` 的物理拆分，用类型契约锁死了运行时的安全边界。",
+      "en-US": "Facing conflicts between upstream contributions and our local customization branch, I ditched the lazy direct merge approach. Instead, I implemented a precise strategy using isolated branches combined with cherry-picking for integration. On the plugin side, I physically split `types.ts` and `registry.ts`, leveraging type contracts to lock down runtime safety boundaries."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 50
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-20",
     "title": {
       "zh-CN": "消除人工换算：JS VI 系统内建微信封面图自动化闭环",
