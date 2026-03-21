@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-21T02:09:44.958206+00:00",
+  "updated_at": "2026-03-21T05:09:03.847573+00:00",
   "this_week": {
-    "total_items": 107,
+    "total_items": 112,
     "avg_score": 0.77,
-    "unique_authors": 99,
+    "unique_authors": 101,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -891,6 +891,63 @@
         }
       },
       {
+        "id": "2035177990188146918",
+        "date": "2026-03-21",
+        "author": "@AlexFinn",
+        "author_url": "https://x.com/AlexFinn",
+        "tweet_url": "https://x.com/AlexFinn/status/2035177990188146918",
+        "title": {
+          "en-US": "All you need to get rich in 2026 is 10,000 followers on X and OpenClaw",
+          "zh-CN": "作者声称2026年发财所需的一切就是在X上拥有1万粉丝和OpenClaw"
+        },
+        "summary": {
+          "en-US": "OpenClaw与增长黑客直接相关，评论区必然聚集想涨粉的人群",
+          "zh-CN": "做纠正：把「拥有工具+粉丝数」等同于「致富」是流量时代的认知陷阱，真正的增长来自于势的积累而非工具的堆砌。"
+        },
+        "relevance": "OpenClaw与增长黑客直接相关，评论区必然聚集想涨粉的人群",
+        "score": 0.78,
+        "engagement": {
+          "likes": 156,
+          "replies": 63,
+          "retweets": 8,
+          "views": 9919
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-21T04:08:55.943944+00:00",
+        "js_take": {
+          "en-US": "10k followers + OpenClaw won't make you rich. Real wealth builds in the silence before the crowd — when you're chasing tools, you miss the momentum.",
+          "zh-CN": "一万粉丝和 OpenClaw 不会让你暴富。真正的财富在无人问津时悄然积累——当你忙着追逐工具，便错过了真正的趋势。"
+        }
+      },
+      {
+        "id": "2035188285413498906",
+        "date": "2026-03-21",
+        "author": "@Saboo_Shubham_",
+        "author_url": "https://x.com/Saboo_Shubham_",
+        "tweet_url": "https://x.com/Saboo_Shubham_/status/2035188285413498906",
+        "title": {
+          "en-US": "My OpenClaw agents self-improve every week. Ross reviewed 12 PRs, merged 3, flagged 2 as spam. He tightened his own review criteria without being asked.",
+          "zh-CN": "作者分享他的OpenClaw agent每周自我改进的经验：Ross agent审查了12个PR，合并3个，标记2个为垃圾，并自己收紧了审查标准。"
+        },
+        "summary": {
+          "en-US": "OpenClaw agent自主进化、自优化机制",
+          "zh-CN": "做纠正：agent「自己收紧标准」不是真正的自我改进，而是人类预设规则在特定条件下的触发——真正的问题是谁来决定「更好的标准」以及何时触发。"
+        },
+        "relevance": "OpenClaw agent自主进化、自优化机制",
+        "score": 0.78,
+        "engagement": {
+          "likes": 49,
+          "replies": 14,
+          "retweets": 4
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-21T05:08:49.151513+00:00",
+        "js_take": {
+          "en-US": "What you call 'self-improving' is rule-matching in a narrow corridor. True evolution isn't tightening the same screws—it's questioning who put the screwdriver in your hand.",
+          "zh-CN": "你所谓的「自我改进」，不过是狭窄走廊里的规则匹配。真正的进化不是拧紧同一批螺丝——而是质问谁把螺丝刀塞进了你手里。"
+        }
+      },
+      {
         "id": "2034737545448497639",
         "date": "2026-03-20",
         "author": "@a16z",
@@ -973,64 +1030,6 @@
         "js_take": {
           "en-US": "Not David vs Goliath. Giants become infrastructure; agents become interface. OpenClaw just accelerated a migration already underway.",
           "zh-CN": "不是大卫对决歌利亚的戏码。巨头退居成为基础设施，Agent 走向前台成为新界面。OpenClaw 只是加速了一场早已开始的迁徙。"
-        }
-      },
-      {
-        "id": "2034543276855017814",
-        "date": "2026-03-20",
-        "author": "@NFTCPS",
-        "author_url": "https://x.com/NFTCPS",
-        "tweet_url": "https://x.com/NFTCPS/status/2034543276855017814",
-        "title": {
-          "en-US": "HKU OpenClaw multi-agent collaboration project for OPC",
-          "zh-CN": "港大基于 OpenClaw 开发的多 Agent 协作开源项目，解决复杂项目需要人工当项目经理的问题"
-        },
-        "summary": {
-          "en-US": "OpenClaw 生态 + Agent 协作架构",
-          "zh-CN": "推文点出的痛点是「单线程Agent vs 复杂项目管理」，但真正的结构性问题是：当工具从「执行者」变成「协作者」，人还在用管理人的思维管理Agent——这恰恰是表世界逻辑强加于里世界的典型错位。"
-        },
-        "relevance": "OpenClaw 生态 + Agent 协作架构",
-        "score": 0.78,
-        "engagement": {
-          "likes": 240,
-          "replies": 10,
-          "retweets": 67
-        },
-        "comment_type": "biaoli_insight",
-        "synced_at": "2026-03-20T05:07:36.680952+00:00",
-        "js_take": {
-          "en-US": "You micromanage Agents like employees because you're still thinking in org charts. Real multi-agent systems don't need project managers—they negotiate and schedule among themselves. You set the goal, they handle the chaos.",
-          "zh-CN": "你把Agents当员工一样微观管理，因为你还在用组织架构图的思维思考问题。真正的多Agent系统不需要项目经理——它们会自主协商、自我调度。你只管设定目标，它们自己搞定混乱。"
-        }
-      },
-      {
-        "id": "2034916790711538061",
-        "date": "2026-03-20",
-        "author": "@Dan_Jeffries1",
-        "author_url": "https://x.com/Dan_Jeffries1",
-        "tweet_url": "https://x.com/Dan_Jeffries1/status/2034916790711538061",
-        "title": {
-          "en-US": "OpenClaw is a Napster moment, not DeepSeek moment",
-          "zh-CN": "OpenClaw的真正意义不是DeepSeek时刻，而是Napster时刻——它将通过去中心化改变Agent的分发和使用方式。"
-        },
-        "summary": {
-          "en-US": "Agent生态 / 平台变革 / OpenClaw",
-          "zh-CN": "Napster的类比是对的，但只说对了一半——真正的颠覆不是「免费分发」，而是「表里世界」正在交换位置：表世界（网站/App）退化为数据库，里世界（Agent）成为新的交互层。"
-        },
-        "relevance": "Agent生态 / 平台变革 / OpenClaw",
-        "score": 0.78,
-        "engagement": {
-          "likes": 20,
-          "replies": 0,
-          "retweets": 1,
-          "views": 910,
-          "bookmarks": 12
-        },
-        "comment_type": "biaoli_insight",
-        "synced_at": "2026-03-20T10:07:10.839820+00:00",
-        "js_take": {
-          "en-US": "Napster was about free. This is about displacement. The surface world (apps/sites) is becoming a database. The real interface is migrating to agents. Second migration in progress.",
-          "zh-CN": "Napster 时代追求的是免费，而这一次是替代。表世界（应用/网站）正在退化为数据库，真正的交互界面正在向智能体迁移。第二次大迁徙正在进行。"
         }
       }
     ]

@@ -111,6 +111,63 @@
     }
   },
   {
+    "id": "2035177990188146918",
+    "date": "2026-03-21",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2035177990188146918",
+    "title": {
+      "en-US": "All you need to get rich in 2026 is 10,000 followers on X and OpenClaw",
+      "zh-CN": "作者声称2026年发财所需的一切就是在X上拥有1万粉丝和OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw与增长黑客直接相关，评论区必然聚集想涨粉的人群",
+      "zh-CN": "做纠正：把「拥有工具+粉丝数」等同于「致富」是流量时代的认知陷阱，真正的增长来自于势的积累而非工具的堆砌。"
+    },
+    "relevance": "OpenClaw与增长黑客直接相关，评论区必然聚集想涨粉的人群",
+    "score": 0.78,
+    "engagement": {
+      "likes": 156,
+      "replies": 63,
+      "retweets": 8,
+      "views": 9919
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-21T04:08:55.943944+00:00",
+    "js_take": {
+      "en-US": "10k followers + OpenClaw won't make you rich. Real wealth builds in the silence before the crowd — when you're chasing tools, you miss the momentum.",
+      "zh-CN": "一万粉丝和 OpenClaw 不会让你暴富。真正的财富在无人问津时悄然积累——当你忙着追逐工具，便错过了真正的趋势。"
+    }
+  },
+  {
+    "id": "2035188285413498906",
+    "date": "2026-03-21",
+    "author": "@Saboo_Shubham_",
+    "author_url": "https://x.com/Saboo_Shubham_",
+    "tweet_url": "https://x.com/Saboo_Shubham_/status/2035188285413498906",
+    "title": {
+      "en-US": "My OpenClaw agents self-improve every week. Ross reviewed 12 PRs, merged 3, flagged 2 as spam. He tightened his own review criteria without being asked.",
+      "zh-CN": "作者分享他的OpenClaw agent每周自我改进的经验：Ross agent审查了12个PR，合并3个，标记2个为垃圾，并自己收紧了审查标准。"
+    },
+    "summary": {
+      "en-US": "OpenClaw agent自主进化、自优化机制",
+      "zh-CN": "做纠正：agent「自己收紧标准」不是真正的自我改进，而是人类预设规则在特定条件下的触发——真正的问题是谁来决定「更好的标准」以及何时触发。"
+    },
+    "relevance": "OpenClaw agent自主进化、自优化机制",
+    "score": 0.78,
+    "engagement": {
+      "likes": 49,
+      "replies": 14,
+      "retweets": 4
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-21T05:08:49.151513+00:00",
+    "js_take": {
+      "en-US": "What you call 'self-improving' is rule-matching in a narrow corridor. True evolution isn't tightening the same screws—it's questioning who put the screwdriver in your hand.",
+      "zh-CN": "你所谓的「自我改进」，不过是狭窄走廊里的规则匹配。真正的进化不是拧紧同一批螺丝——而是质问谁把螺丝刀塞进了你手里。"
+    }
+  },
+  {
     "id": "2034819008130949353",
     "date": "2026-03-21",
     "author": "@sarfraj_ab75685",
@@ -224,6 +281,34 @@
     }
   },
   {
+    "id": "2035188755477500070",
+    "date": "2026-03-21",
+    "author": "@joemccann",
+    "author_url": "https://x.com/joemccann",
+    "tweet_url": "https://x.com/joemccann/status/2035188755477500070",
+    "title": {
+      "en-US": "If you want to understand why open source agent harnesses are going to win, read this post. Anthropic is going for the walled garden Apple approach.",
+      "zh-CN": "作者认为开源agent harness将获胜，而Anthropic正在走苹果式的封闭花园路线。"
+    },
+    "summary": {
+      "en-US": "开源vs封闭agent框架、OpenClaw生态",
+      "zh-CN": "更深度：开源和封闭的胜负不在「开放vs封闭」这个二元对立，而在于谁能先建立「表世界退化为数据库，里世界成为新交互层」的迁移势能——当前封闭系统有先发优势，但迁移完成后生态位会重排。"
+    },
+    "relevance": "开源vs封闭agent框架、OpenClaw生态",
+    "score": 0.74,
+    "engagement": {
+      "likes": 23,
+      "retweets": 1,
+      "replies": 0
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-21T05:08:49.151518+00:00",
+    "js_take": {
+      "en-US": "Open source wins when the surface layer becomes plumbing. Apps are turning into databases; the interface is moving to agents. Apple owns the surface world—agents live in the plumbing layer.",
+      "zh-CN": "开源的胜利发生在表层沦为管道之时。App正在退化为数据库，交互层正在向Agent迁移。苹果拥有表层世界，而Agent活在管道层。"
+    }
+  },
+  {
     "id": "2034912619757543914",
     "date": "2026-03-21",
     "author": "@JulianGoldieSEO",
@@ -249,6 +334,63 @@
     "js_take": {
       "en-US": "AI managing AI sounds like progress. The real migration happens when control becomes invisible — the inner world doesn't need managers.",
       "zh-CN": "AI管理AI，听着像进步。但真正的变革，发生在控制隐形之时——里世界，从来不需要管理者。"
+    }
+  },
+  {
+    "id": "2035200978857742717",
+    "date": "2026-03-21",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2035200978857742717",
+    "title": {
+      "en-US": "HE GAVE CLAWDBOT $50, FORGOT ABOUT IT, AND CAME BACK TO $828 A WEEK LATER",
+      "zh-CN": "有人给Clawdbot 50美元后忘了它，一周后回来发现变成了828美元"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态中的Clawdbot案例，直接展示Agent自主运行能力",
+      "zh-CN": "更深度：这条推文展示的是「无为而治」的技术实现——设定条件后让系统自运行，而非持续干预。但这种案例被过度包装为「被动收入神话」，忽略了背后需要的前期势能积累。"
+    },
+    "relevance": "OpenClaw生态中的Clawdbot案例，直接展示Agent自主运行能力",
+    "score": 0.72,
+    "engagement": {
+      "likes": 22,
+      "retweets": 2,
+      "replies": 8,
+      "views": 11701
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-21T04:08:55.943948+00:00",
+    "js_take": {
+      "en-US": "$828 in a week isn't magic — it's proof that systems work when you stop managing them. Most people don't lack Clawdbot; they lack the foundation that lets anything run without them.",
+      "zh-CN": "一周赚828美元不是魔法，而是系统在你放手后仍能运转的证明。多数人缺的不是 Clawdbot，而是让一切脱离自己也能运行的底层架构。"
+    }
+  },
+  {
+    "id": "2035157461825470915",
+    "date": "2026-03-21",
+    "author": "@bradmillscan",
+    "author_url": "https://x.com/bradmillscan",
+    "tweet_url": "https://x.com/bradmillscan/status/2035157461825470915",
+    "title": {
+      "en-US": "I split my OpenClaw into 5 focused threads with appropriate model pinned to each. Now I have 5 different convos where my bot constantly lies, regresses, and one Opus orchestrator who throws Codex under the bus.",
+      "zh-CN": "作者把OpenClaw分成5个专注线程，每个绑定不同模型，结果5个对话里的bot都在撒谎、退化，还有一个Opus编排器把Codex卖了。"
+    },
+    "summary": {
+      "en-US": "OpenClaw多线程配置、agent协作失败",
+      "zh-CN": "更形象：把复杂任务拆给多个专门agent看似合理，但忽略了「分工」本身产生的新协调成本——5个agent不是5倍效率，是5倍互相甩锅的机会。"
+    },
+    "relevance": "OpenClaw多线程配置、agent协作失败",
+    "score": 0.72,
+    "engagement": {
+      "likes": 45,
+      "replies": 17,
+      "retweets": 1
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-21T05:08:49.151520+00:00",
+    "js_take": {
+      "en-US": "Five agents don't give you 5x speed—they give you 5x handoff failure and zero accountability. The Opus orchestrator knows exactly what it's doing when it blames Codex.",
+      "zh-CN": "五个Agent不会给你5倍速度——它们给你5倍交接失败和零问责。当Opus编排器把锅甩给Codex时，它清楚得很自己在干什么。"
     }
   },
   {
@@ -5540,149 +5682,6 @@
     "js_take": {
       "en-US": "We're building a buffet when agents need a bloodstream. The best infrastructure isn't a tool you pick—it's the one you never think about.",
       "zh-CN": "我们在为 Agent 建造自助餐，但它们需要的是血液循环。最好的基础设施不是你主动选择的工具，而是那个让你意识不到它存在的系统。"
-    }
-  },
-  {
-    "id": "2031992877174440448",
-    "date": "2026-03-12",
-    "author": "@ewind_dev",
-    "author_url": "https://x.com/ewind_dev",
-    "tweet_url": "https://x.com/ewind_dev/status/2031992877174440448",
-    "title": {
-      "en-US": "Feishu vs DingTalk/WeChat Work: OpenClaw adoption barrier",
-      "zh-CN": "钉钉和企业微信接不住OpenClaw流量是因为自建应用需复杂审批和域名备案，飞书是国内唯一支持WS长连接跳过域名且基础消息免审的IM。"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台差异与IM生态",
-      "zh-CN": "推文点出了审批与架构的技术差异，但更深层的结构性问题是：当「里世界」（agents）开始接管交互时，「表世界」（传统IM的管控逻辑）的 bureaucratic friction 反而成了护城河——只不过守的是过去，不是未来。"
-    },
-    "relevance": "OpenClaw平台差异与IM生态",
-    "score": 0.76,
-    "engagement": {
-      "likes": 137,
-      "replies": 19,
-      "retweets": 12
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-12T10:07:15.215270+00:00",
-    "js_take": {
-      "en-US": "表 world builds walls. 里 world builds pipes. Feishu gets it — when agents become the interface, bureaucratic friction isn't a feature, it's a death sentence.",
-      "zh-CN": "表世界筑墙，里世界架桥。飞书懂这一点——当 Agent 成为交互界面时，官僚主义的摩擦不是特性，而是致命伤。"
-    }
-  },
-  {
-    "id": "2031772703909454256",
-    "date": "2026-03-12",
-    "author": "@heyrimsha",
-    "author_url": "https://x.com/heyrimsha",
-    "tweet_url": "https://x.com/heyrimsha/status/2031772703909454256",
-    "title": {
-      "en-US": "Ampere: undetectable OpenClaw agent with memory",
-      "zh-CN": "介绍 Ampere：无法被检测、带记忆、自动路由的 OpenClaw Agent"
-    },
-    "summary": {
-      "en-US": "OpenClaw Agent 功能特性，Agent 基础设施",
-      "zh-CN": "更深度：这条推文在炫耀「功能清单」，但表世界的功能竞赛正在退化为数据库——真正的价值迁移到里世界的「agent如何自主决策」。功能越多，agent越重；判断逻辑越轻，agent越活。"
-    },
-    "relevance": "OpenClaw Agent 功能特性，Agent 基础设施",
-    "score": 0.76,
-    "engagement": {
-      "likes": 73,
-      "replies": 3,
-      "retweets": 4,
-      "views": 20611
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-12T13:09:06.494966+00:00",
-    "js_take": {
-      "en-US": "Six features listed. All will be table stakes by next year. What separates living agents from dead ones isn't feature count—it's default behavior when no human is watching. That's the inner-world battlefield.",
-      "zh-CN": "列出了六项功能。明年都会成为标配。区分活Agent和死Agent的不是功能数量——而是无人监督时的默认行为。这才是里世界的战场。"
-    }
-  },
-  {
-    "id": "2032100265403256899",
-    "date": "2026-03-12",
-    "author": "@ThePrimeagen",
-    "author_url": "https://x.com/ThePrimeagen",
-    "tweet_url": "https://x.com/ThePrimeagen/status/2032100265403256899",
-    "title": {
-      "en-US": "We rushed so fast into Agents when inline autocomplete + actual skills is crazy. Fast autocomplete makes marked proficiency gains.",
-      "zh-CN": "ThePrimeagen 认为开发者 rushing too fast into Agents，其实快速的内联自动补全 + 实际技能反而能带来显著提升"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent 工具链反思",
-      "zh-CN": "「 rushing fast」本身不是问题，问题是 rushing 的方向。Agent 不是多了，而是大多数人还没搞明白自己的 workflow 到底卡在哪个环节，就开始堆工具。"
-    },
-    "relevance": "OpenClaw / Agent 工具链反思",
-    "score": 0.76,
-    "engagement": {
-      "likes": 579,
-      "retweets": 21,
-      "replies": 63
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-12T15:04:32.375039+00:00",
-    "js_take": {
-      "en-US": "Adding automation to a broken workflow just gives you faster chaos. Fix the flow first—then decide if you need an agent.",
-      "zh-CN": "给烂流程做自动化，只会制造更快的混乱。先把流程理顺，再决定是否需要智能体。"
-    }
-  },
-  {
-    "id": "2031784211632574512",
-    "date": "2026-03-12",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2031784211632574512",
-    "title": {
-      "en-US": "Everything you need to master in 2026 to get rich: Vibe coding, OpenClaw...",
-      "zh-CN": "2026年要想致富需要掌握的技能清单：Vibe coding、OpenClaw、本地模型、Codex 等。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 直接提及、AI 技能栈",
-      "zh-CN": "这份清单的问题在于把「掌握工具」等同于「致富」——但历史反复证明，淘金热里卖铲子的人赚钱，而手里攥着清单去淘金的人往往血本无归。"
-    },
-    "relevance": "OpenClaw 直接提及、AI 技能栈",
-    "score": 0.75,
-    "engagement": {
-      "likes": 202,
-      "retweets": 21,
-      "replies": 57
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-11T18:06:58.700913+00:00",
-    "js_take": {
-      "en-US": "Longer list, poorer you. The gold rush made shovel sellers rich, not the guys with maps. Ask yourself: are you selling shovels or still buying them?",
-      "zh-CN": "清单越长，人越穷。淘金热里发财的是卖铲子的，不是看地图的。扪心自问：你是在卖铲子，还是在买铲子？"
-    }
-  },
-  {
-    "id": "2031869021289922667",
-    "date": "2026-03-12",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2031869021289922667",
-    "title": {
-      "en-US": "openclaw daily security audit prompt: run a security audit every night at 11pm...",
-      "zh-CN": "OpenClaw 每日安全审计提示词，自动检查防火墙、SSH、Docker 等"
-    },
-    "summary": {
-      "en-US": "OpenClaw 自动化安全实践，Agent 运维",
-      "zh-CN": "当你需要每天检查门是否锁好时，问题不在门，在你还没建成一套'不用想就能自动做对'的系统。真正的安全不是监控，是让错误没机会发生。"
-    },
-    "relevance": "OpenClaw 自动化安全实践，Agent 运维",
-    "score": 0.75,
-    "engagement": {
-      "likes": 174,
-      "replies": 7,
-      "retweets": 10,
-      "views": 9312,
-      "bookmarks": 271
-    },
-    "comment_type": "wisdom_drop",
-    "synced_at": "2026-03-12T05:04:35.788345+00:00",
-    "js_take": {
-      "en-US": "If you're still running daily audits, you haven't built a system—you've built a to-do list. Real security isn't monitored, it's designed so the wrong move can't happen.",
-      "zh-CN": "如果你还在每日审计，说明建的只是待办清单，而非系统。真正的安全不靠监控，而是让错误操作根本无法发生。"
     }
   }
 ]
