@@ -82,6 +82,35 @@
     "synced_at": "2026-03-20T17:09:07.645433+00:00"
   },
   {
+    "id": "2035137744771612898",
+    "date": "2026-03-21",
+    "author": "@davemorin",
+    "author_url": "https://x.com/davemorin",
+    "tweet_url": "https://x.com/davemorin/status/2035137744771612898",
+    "title": {
+      "en-US": "Dave Morin mentions working with Nikil on ClawFlows workflow system, now open sourced",
+      "zh-CN": "Dave Morin 提到和 @nikil 一起打磨 ClawFlows 工作流系统，今天开源了，作为 OpenClaw 的工作流方案"
+    },
+    "summary": {
+      "en-US": "直接相关 - OpenClaw 生态 + Agent 工作流系统",
+      "zh-CN": "核心观点：大多数人把 workflow 当作「自动化任务列表」来建，但真正有效的系统应该像生态系统一样，让各个 agent 能在不互相等待的情况下自发响应——工具被过度设计了，而「无为」反而能让系统更灵活。"
+    },
+    "relevance": "直接相关 - OpenClaw 生态 + Agent 工作流系统",
+    "score": 0.78,
+    "engagement": {
+      "likes": 104,
+      "replies": 7,
+      "retweets": 4,
+      "views": 24154
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-21T02:09:24.340119+00:00",
+    "js_take": {
+      "en-US": "Most workflow systems die from over-design. ClawFlows stays alive by not forcing agents into rigid pipelines—loose coupling beats tight control when the edge cases hit.",
+      "zh-CN": "大多数工作流系统死于过度设计。ClawFlows 通过不将智能体强塞进僵化流程来保持活力——当边界情况出现时，松散耦合胜过严格控制。"
+    }
+  },
+  {
     "id": "2034819008130949353",
     "date": "2026-03-21",
     "author": "@sarfraj_ab75685",
@@ -107,6 +136,35 @@
     "js_take": {
       "en-US": "Ran 8 agents 24/7 for 3 months. Then Google released it free. The automation wasn't the asset—the edge cases I learned were.",
       "zh-CN": "8个智能体7×24小时跑了三个月，谷歌却免费发布了同样功能。自动化不是资产，学到的边缘案例才是。"
+    }
+  },
+  {
+    "id": "2035148130581455224",
+    "date": "2026-03-21",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2035148130581455224",
+    "title": {
+      "en-US": "OpenClaw bot with 6 AI agents automating client acquisition loop",
+      "zh-CN": "一个 OpenClaw 机器人用 6 个 AI Agent 自动化了整个客户获取闭环：找客户、建 demo、发 outreach、处理异议、维护客户"
+    },
+    "summary": {
+      "en-US": "直接相关 - OpenClaw + Agent 自动化获客",
+      "zh-CN": "核心观点：6 个 agent 看起来分工明确，但真正的挑战不是「让谁做什么」，而是当客户提出一个超出预设剧本的问题时，这 6 个 agent 能不能不互相等待地协作——堆 agent 容易，让它们真正「协同」难。"
+    },
+    "relevance": "直接相关 - OpenClaw + Agent 自动化获客",
+    "score": 0.76,
+    "engagement": {
+      "likes": 126,
+      "replies": 19,
+      "retweets": 2,
+      "views": 52600
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-21T02:09:24.340128+00:00",
+    "js_take": {
+      "en-US": "The real test isn't 6 agents running smoothly—it's what happens when a client asks something off-script. Do they cascade-fail or adapt? Most demos look great until the edge case arrives.",
+      "zh-CN": "真正的考验不是 6 个智能体顺畅运行，而是当客户提出意料之外的需求时会发生什么。它们是级联崩溃还是能自适应？大多数演示在边界情况出现前都很完美。"
     }
   },
   {

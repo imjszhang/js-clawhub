@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-21T00:09:25.542657+00:00",
+  "updated_at": "2026-03-21T02:09:44.958206+00:00",
   "this_week": {
-    "total_items": 105,
+    "total_items": 107,
     "avg_score": 0.77,
-    "unique_authors": 97,
+    "unique_authors": 99,
     "top_items": [
       {
         "id": "2033351944396472485",
@@ -862,6 +862,35 @@
         "synced_at": "2026-03-20T17:09:07.645433+00:00"
       },
       {
+        "id": "2035137744771612898",
+        "date": "2026-03-21",
+        "author": "@davemorin",
+        "author_url": "https://x.com/davemorin",
+        "tweet_url": "https://x.com/davemorin/status/2035137744771612898",
+        "title": {
+          "en-US": "Dave Morin mentions working with Nikil on ClawFlows workflow system, now open sourced",
+          "zh-CN": "Dave Morin 提到和 @nikil 一起打磨 ClawFlows 工作流系统，今天开源了，作为 OpenClaw 的工作流方案"
+        },
+        "summary": {
+          "en-US": "直接相关 - OpenClaw 生态 + Agent 工作流系统",
+          "zh-CN": "核心观点：大多数人把 workflow 当作「自动化任务列表」来建，但真正有效的系统应该像生态系统一样，让各个 agent 能在不互相等待的情况下自发响应——工具被过度设计了，而「无为」反而能让系统更灵活。"
+        },
+        "relevance": "直接相关 - OpenClaw 生态 + Agent 工作流系统",
+        "score": 0.78,
+        "engagement": {
+          "likes": 104,
+          "replies": 7,
+          "retweets": 4,
+          "views": 24154
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-21T02:09:24.340119+00:00",
+        "js_take": {
+          "en-US": "Most workflow systems die from over-design. ClawFlows stays alive by not forcing agents into rigid pipelines—loose coupling beats tight control when the edge cases hit.",
+          "zh-CN": "大多数工作流系统死于过度设计。ClawFlows 通过不将智能体强塞进僵化流程来保持活力——当边界情况出现时，松散耦合胜过严格控制。"
+        }
+      },
+      {
         "id": "2034737545448497639",
         "date": "2026-03-20",
         "author": "@a16z",
@@ -1003,39 +1032,11 @@
           "en-US": "Napster was about free. This is about displacement. The surface world (apps/sites) is becoming a database. The real interface is migrating to agents. Second migration in progress.",
           "zh-CN": "Napster 时代追求的是免费，而这一次是替代。表世界（应用/网站）正在退化为数据库，真正的交互界面正在向智能体迁移。第二次大迁徙正在进行。"
         }
-      },
-      {
-        "id": "2034820785723121795",
-        "date": "2026-03-20",
-        "author": "@manateelazycat",
-        "author_url": "https://x.com/manateelazycat",
-        "tweet_url": "https://x.com/manateelazycat/status/2034820785723121795",
-        "title": {
-          "en-US": "OpenClaw热度下降但影响深远，让更多人意识到AI不只是Chatbot",
-          "zh-CN": "从各平台指数看，爆火后的 OpenClaw 已逐渐淡出视线，但影响深远——让更多人意识到 AI 不只是 Chatbot，而可以成为「助理」"
-        },
-        "summary": {
-          "en-US": "OpenClaw 从热点到常态化的趋势判断",
-          "zh-CN": "热度下降是假象——真正的迁徙不是喧嚣的，是沉默的。表世界（指数）在降温，里世界（agent 工作流）在接管。"
-        },
-        "relevance": "OpenClaw 从热点到常态化的趋势判断",
-        "score": 0.78,
-        "engagement": {
-          "likes": 8,
-          "replies": 0,
-          "retweets": 0
-        },
-        "comment_type": "biaoli_insight",
-        "synced_at": "2026-03-20T11:06:45.251716+00:00",
-        "js_take": {
-          "en-US": "Noise down, migration up. First wave was tourists taking photos. Second wave is builders moving in—silently, while metrics sleep.",
-          "zh-CN": "喧嚣渐退，迁徙加速。第一波是游客拍照打卡，第二波是建造者悄然入驻——趁指标还在沉睡时。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 165
+    "unique_authors": 164
   }
 }
