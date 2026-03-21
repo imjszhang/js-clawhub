@@ -1,5 +1,33 @@
 [
   {
+    "id": "2035169635033915537",
+    "date": "2026-03-21",
+    "author": "@robinebers",
+    "author_url": "https://x.com/robinebers",
+    "tweet_url": "https://x.com/robinebers/status/2035169635033915537",
+    "title": {
+      "en-US": "Codex beta now runs on remote machines like private cloud agent",
+      "zh-CN": "Codex beta 支持远程运行，迈向私有云 Agent 架构"
+    },
+    "summary": {
+      "en-US": "直接涉及 AI Agent 的远程执行架构，与 OpenClaw 的核心理念高度相关",
+      "zh-CN": "直击 AI Agent 远程执行架构，与 OpenClaw 核心理念高度契合"
+    },
+    "relevance": "直接涉及 AI Agent 的远程执行架构，与 OpenClaw 的核心理念高度相关",
+    "score": 0.98,
+    "engagement": {
+      "likes": 328,
+      "replies": 19,
+      "retweets": 11
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-21T09:10:02.065249+00:00",
+    "js_take": {
+      "en-US": "Remote Codex is just moving the IDE to cloud. Real shift: Agent becomes the OS, your local tools become disposable projections. Five years from now, you'll wonder why you cared about remote execution at all.",
+      "zh-CN": "远程 Codex 不过是把 IDE 搬到云上。真正的变革是：Agent 将成为操作系统，你本地的工具只是可随时丢弃的投影。五年后你会奇怪，当初为何如此执着于远程执行这件事。"
+    }
+  },
+  {
     "id": "2035114152960958758",
     "date": "2026-03-21",
     "author": "@punk9059",
@@ -25,6 +53,34 @@
     "js_take": {
       "en-US": "Every platform starts with people flexing they 'have' the tool. Real growth comes from those who use it silently — when the show-offs leave, the system builders remain.",
       "zh-CN": "每个平台起步时，总有人在炫耀自己'有了'这个工具。但真正的增长来自那些埋头使用的人——当炫耀者离场，留下的是系统构建者。"
+    }
+  },
+  {
+    "id": "2035286532857205088",
+    "date": "2026-03-21",
+    "author": "@EHuanglu",
+    "author_url": "https://x.com/EHuanglu",
+    "tweet_url": "https://x.com/EHuanglu/status/2035286532857205088",
+    "title": {
+      "en-US": "OpenClaw generates video on Seedance 2, import into premiere pro and edit.. all by itself",
+      "zh-CN": "用户展示OpenClaw自主完成视频生成并导入Premiere Pro编辑的全流程自动化能力。"
+    },
+    "summary": {
+      "en-US": "直接提及OpenClaw平台功能，展示Agent自主执行复杂工作流的能力",
+      "zh-CN": "原推只展示了「能做什么」，但真正的问题是「什么时候该让人介入」。完全自动化不等于完全正确，关键在于系统知不知道自己的边界在哪——这正是东方系统思维能补充的盲区。"
+    },
+    "relevance": "直接提及OpenClaw平台功能，展示Agent自主执行复杂工作流的能力",
+    "score": 0.82,
+    "engagement": {
+      "likes": 77,
+      "replies": 12,
+      "retweets": 5
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-21T10:09:26.080163+00:00",
+    "js_take": {
+      "en-US": "Full automation isn't the flex. The flex is knowing exactly when to stop and ask. Does Seedance pause at frame 47 to say \"this angle is wrong—your call\"? That's the boundary where real autonomy lives.",
+      "zh-CN": "全自动不是什么值得炫耀的事。真正的本事是懂得何时该停下来询问——就像在第47帧暂停说「这个角度不对，你来定」。这才是真正自主性的边界所在。"
     }
   },
   {
@@ -165,6 +221,34 @@
     "js_take": {
       "en-US": "What you call 'self-improving' is rule-matching in a narrow corridor. True evolution isn't tightening the same screws—it's questioning who put the screwdriver in your hand.",
       "zh-CN": "你所谓的「自我改进」，不过是狭窄走廊里的规则匹配。真正的进化不是拧紧同一批螺丝——而是质问谁把螺丝刀塞进了你手里。"
+    }
+  },
+  {
+    "id": "2035235959982420282",
+    "date": "2026-03-21",
+    "author": "@aakashgupta",
+    "author_url": "https://x.com/aakashgupta",
+    "tweet_url": "https://x.com/aakashgupta/status/2035235959982420282",
+    "title": {
+      "en-US": "OpenClaw runs as a daemon. Configure cron in plain English.",
+      "zh-CN": "OpenClaw作为后台守护进程运行，可以用自然语言配置定时任务。"
+    },
+    "summary": {
+      "en-US": "OpenClaw技术架构与产品哲学",
+      "zh-CN": "「守护进程」这个比喻恰好暴露了当前AI工具设计的悖论——人们一方面渴望AI像 daemon 一样持续自主运行，另一方面又忍不住想不断干预检查进度，真正的问题不是技术能不能做到，而是人还没学会如何与永不休息的智能共存。"
+    },
+    "relevance": "OpenClaw技术架构与产品哲学",
+    "score": 0.78,
+    "engagement": {
+      "likes": 20,
+      "replies": 3,
+      "retweets": 1
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-21T08:06:54.288408+00:00",
+    "js_take": {
+      "en-US": "You built it to never sleep. But you still wake up at 3am to check if it's working—controlling what doesn't need control.",
+      "zh-CN": "你造它本为永不停歇，自己却凌晨三点醒来检查运转——去控制那些本无需控制的东西。"
     }
   },
   {
@@ -5598,90 +5682,6 @@
     "js_take": {
       "en-US": "Security is defensive. Ecosystem is offensive. Users don't flock to the safest cage—they choose the platform where skills actually get built. Balance beats perfection.",
       "zh-CN": "安全是防守，生态是进攻。用户不会涌向最安全的笼子——他们选择真正能构建技能的平台。平衡胜过完美。"
-    }
-  },
-  {
-    "id": "2031807069444256203",
-    "date": "2026-03-12",
-    "author": "@beffjezos",
-    "author_url": "https://x.com/beffjezos",
-    "tweet_url": "https://x.com/beffjezos/status/2031807069444256203",
-    "title": {
-      "en-US": "Perplexity made a secure version of OpenClaw for personal computers",
-      "zh-CN": "Perplexity为个人电脑做了一个安全的OpenClaw版本"
-    },
-    "summary": {
-      "en-US": "OpenClaw竞品动态",
-      "zh-CN": "安全与自由是零和游戏。Perplexity选择'安全'，说明他们认为用户更需要被保护而不是被赋能——这是理解用户群体的关键线索。"
-    },
-    "relevance": "OpenClaw竞品动态",
-    "score": 0.76,
-    "engagement": {
-      "likes": 410,
-      "replies": 30,
-      "retweets": 19
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-12T02:04:53.517216+00:00",
-    "js_take": {
-      "en-US": "Security is freedom's price tag. Build the wall, and you've already admitted you live in a world of wolves.",
-      "zh-CN": "Security is freedom's price tag. Build the wall, and you've already admitted you live in a world of wolves."
-    }
-  },
-  {
-    "id": "2031965133405073823",
-    "date": "2026-03-12",
-    "author": "@openclaw",
-    "author_url": "https://x.com/openclaw",
-    "tweet_url": "https://x.com/openclaw/status/2031965133405073823",
-    "title": {
-      "en-US": "OpenClaw 2026.3.11 release: Hunter/Healer Alpha, GPT 5.4, Gemini Embedding, OpenCode Go",
-      "zh-CN": "OpenClaw发布2026.3.11版本更新，包括Hunter/Healer模型、GPT 5.4支持、Gemini嵌入、OpenCode Go以及安全加固，强调\"我们发布得比他们克隆得还快\"。"
-    },
-    "summary": {
-      "en-US": "OpenClaw官方更新，平台速度优势",
-      "zh-CN": "\"Ship faster than they can clone\" 这句宣言的问题在于：当竞品能克隆你的功能时，速度优势其实是脆弱的护城河。真正的壁垒不是发布速度，而是别人看不清你为什么这么设计。"
-    },
-    "relevance": "OpenClaw官方更新，平台速度优势",
-    "score": 0.76,
-    "engagement": {
-      "likes": 492,
-      "replies": 64,
-      "retweets": 54
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-12T06:04:14.270121+00:00",
-    "js_take": {
-      "en-US": "\"Ship faster\" is a vanity metric. They'll clone your code in a week. The real moat is the years it takes to copy your understanding of why.",
-      "zh-CN": "\"快速上线\"是虚荣指标。别人一周就能抄走你的代码，但真正的护城河是——他们要花多少年才能参透你为何这么做。"
-    }
-  },
-  {
-    "id": "2031910557117530295",
-    "date": "2026-03-12",
-    "author": "@MatthewBerman",
-    "author_url": "https://x.com/MatthewBerman",
-    "tweet_url": "https://x.com/MatthewBerman/status/2031910557117530295",
-    "title": {
-      "en-US": "Who is building products and services for agents?",
-      "zh-CN": "谁在为 AI agent 构建产品和服务？@agentmail 和 agentcoin.io 很有意思，还有谁在做？"
-    },
-    "summary": {
-      "en-US": "Agent 基础设施和生态建设，直接相关 Moltbook/OpenClaw 生态",
-      "zh-CN": "讨论「谁在为 agent 造工具」时漏掉了一层——agent 需要的不是更多工具，而是更少的决策负担，真正的基础设施应该让 agent 感觉不到它的存在。"
-    },
-    "relevance": "Agent 基础设施和生态建设，直接相关 Moltbook/OpenClaw 生态",
-    "score": 0.76,
-    "engagement": {
-      "likes": 169,
-      "replies": 78,
-      "retweets": 4
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-12T07:04:23.761413+00:00",
-    "js_take": {
-      "en-US": "We're building a buffet when agents need a bloodstream. The best infrastructure isn't a tool you pick—it's the one you never think about.",
-      "zh-CN": "我们在为 Agent 建造自助餐，但它们需要的是血液循环。最好的基础设施不是你主动选择的工具，而是那个让你意识不到它存在的系统。"
     }
   }
 ]
