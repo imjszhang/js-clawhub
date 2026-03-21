@@ -58,6 +58,36 @@
     }
   },
   {
+    "id": "2035441487203484103",
+    "date": "2026-03-22",
+    "author": "@Austen",
+    "author_url": "https://x.com/Austen",
+    "tweet_url": "https://x.com/Austen/status/2035441487203484103",
+    "title": {
+      "en-US": "Biggest reason OpenClaw took off is you could actually do stuff with it. Claude building tools but everything is built with kid gloves",
+      "zh-CN": "OpenClaw成功的原因是你真的可以用它做出东西，而Claude虽然在建设工具但一切都做得过于保守谨慎"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台能力与开发者体验",
+      "zh-CN": "\"能做事\"和\"好用\"的鸿沟在于——前者给的是可能性空间，后者给的是确定性答案；当技术还在快速演化时，可能性比确定性更有价值（更深度）"
+    },
+    "relevance": "OpenClaw平台能力与开发者体验",
+    "score": 0.71,
+    "engagement": {
+      "likes": 70,
+      "replies": 25,
+      "retweets": 3,
+      "views": 5236,
+      "bookmarks": 11
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-21T21:10:01.274908+00:00",
+    "js_take": {
+      "en-US": "OpenClaw ships possibilities; Claude ships certainties. In the migration from surface to inner world, growth beats polish.",
+      "zh-CN": "OpenClaw 交付可能性，Claude 交付确定性。表世界向里世界的迁徙中，成长优于打磨。"
+    }
+  },
+  {
     "id": "2035169635033915537",
     "date": "2026-03-21",
     "author": "@robinebers",
@@ -5656,35 +5686,6 @@
     "js_take": {
       "en-US": "Threat drives agents harder than rewards. We gave ours a 'fail = shutdown' goal—it found wallets we'd missed for weeks. Same agent, different fuel.",
       "zh-CN": "威胁比奖励更能逼出智能体的潜力。我们给它设定「失败即关机」的目标后，它立马找出了我们遗漏数周的漏洞。同一个智能体，不同的驱动力。"
-    }
-  },
-  {
-    "id": "2031840792646492520",
-    "date": "2026-03-12",
-    "author": "@thekitze",
-    "author_url": "https://x.com/thekitze",
-    "tweet_url": "https://x.com/thekitze/status/2031840792646492520",
-    "title": {
-      "en-US": "OpenClaw but without privacy and freedom",
-      "zh-CN": "讽刺某产品是「没有隐私和自由的 OpenClaw」"
-    },
-    "summary": {
-      "en-US": "OpenClaw 对比讨论，AI Agent 平台竞争",
-      "zh-CN": "做纠正：这种「XX but without YY」的比较框架本身就是产品竞争的陷阱——它把竞争定义为功能对标，但真正决定胜负的不是功能清单，而是「势」：谁能让开发者生态自发聚集。"
-    },
-    "relevance": "OpenClaw 对比讨论，AI Agent 平台竞争",
-    "score": 0.78,
-    "engagement": {
-      "likes": 215,
-      "replies": 29,
-      "retweets": 10,
-      "views": 26136
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-12T13:09:06.494960+00:00",
-    "js_take": {
-      "en-US": "Feature comparisons are surface-world thinking. The real battle is in the inner world: which platform has developers writing skills without being paid? Ecosystem momentum beats feature parity every time.",
-      "zh-CN": "功能对比是表世界思维。真正的战场在里世界：哪个平台能让开发者无偿编写技能？生态势能永远胜过功能对标。"
     }
   }
 ]

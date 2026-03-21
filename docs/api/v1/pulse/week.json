@@ -58,6 +58,36 @@
     }
   },
   {
+    "id": "2035441487203484103",
+    "date": "2026-03-22",
+    "author": "@Austen",
+    "author_url": "https://x.com/Austen",
+    "tweet_url": "https://x.com/Austen/status/2035441487203484103",
+    "title": {
+      "en-US": "Biggest reason OpenClaw took off is you could actually do stuff with it. Claude building tools but everything is built with kid gloves",
+      "zh-CN": "OpenClaw成功的原因是你真的可以用它做出东西，而Claude虽然在建设工具但一切都做得过于保守谨慎"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台能力与开发者体验",
+      "zh-CN": "\"能做事\"和\"好用\"的鸿沟在于——前者给的是可能性空间，后者给的是确定性答案；当技术还在快速演化时，可能性比确定性更有价值（更深度）"
+    },
+    "relevance": "OpenClaw平台能力与开发者体验",
+    "score": 0.71,
+    "engagement": {
+      "likes": 70,
+      "replies": 25,
+      "retweets": 3,
+      "views": 5236,
+      "bookmarks": 11
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-21T21:10:01.274908+00:00",
+    "js_take": {
+      "en-US": "OpenClaw ships possibilities; Claude ships certainties. In the migration from surface to inner world, growth beats polish.",
+      "zh-CN": "OpenClaw 交付可能性，Claude 交付确定性。表世界向里世界的迁徙中，成长优于打磨。"
+    }
+  },
+  {
     "id": "2035169635033915537",
     "date": "2026-03-21",
     "author": "@robinebers",
