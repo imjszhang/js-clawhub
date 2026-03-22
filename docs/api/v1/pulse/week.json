@@ -83,6 +83,36 @@
     "synced_at": "2026-03-22T00:15:38.125309+00:00"
   },
   {
+    "id": "2035551974947692746",
+    "date": "2026-03-22",
+    "author": "@xiaohu",
+    "author_url": "https://x.com/xiaohu",
+    "tweet_url": "https://x.com/xiaohu/status/2035551974947692746",
+    "title": {
+      "en-US": "WeChat officially supports OpenClaw integration via plugin",
+      "zh-CN": "微信全面支持OpenClaw接入，用户可在插件页面一键将OpenClaw作为联系人接入微信直接对话"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态扩展，表世界（微信）与里世界（Agent）融合的关键节点",
+      "zh-CN": "大家只看到「微信接入了OpenClaw」这个功能，没意识到这是表世界（IM）向里世界（Agent）迁徙的标志性事件——用户不再需要打开App，而是直接对Agent说话。"
+    },
+    "relevance": "OpenClaw生态扩展，表世界（微信）与里世界（Agent）融合的关键节点",
+    "score": 0.72,
+    "engagement": {
+      "likes": 28,
+      "retweets": 4,
+      "replies": 23,
+      "views": 9228,
+      "bookmarks": 16
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-22T04:13:46.327001+00:00",
+    "js_take": {
+      "en-US": "Users don't open apps anymore. They talk to agents. WeChat just admitted the surface world is now a database — the real interface has moved to the inner world.",
+      "zh-CN": "用户不再打开应用，而是直接与智能体对话。微信刚刚承认：表层世界已沦为数据库，真正的交互界面正在向里世界迁移。"
+    }
+  },
+  {
     "id": "2035441487203484103",
     "date": "2026-03-22",
     "author": "@Austen",
