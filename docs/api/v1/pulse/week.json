@@ -198,6 +198,34 @@
     }
   },
   {
+    "id": "2035521847924515042",
+    "date": "2026-03-22",
+    "author": "@pvergadia",
+    "author_url": "https://x.com/pvergadia",
+    "tweet_url": "https://x.com/pvergadia/status/2035521847924515042",
+    "title": {
+      "en-US": "Open Claw RL: real-time RL from live feedback, never stops learning",
+      "zh-CN": "OpenClaw 发布实时强化学习功能，AI agent 每一步都能获得反馈并持续学习，不用等任务结束才优化"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台新功能，与 agent 学习机制相关",
+      "zh-CN": "推文把「实时学习」当技术卖点，但真正的突破不在于技术实现，而在于它暴露了主流 agent 设计的懒惰——大多数系统把反馈回路切断，不是因为做不到，而是因为设计者没想过 agent 应该是一个持续进化的生命体而非一次性工具"
+    },
+    "relevance": "OpenClaw 平台新功能，与 agent 学习机制相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 22,
+      "replies": 4,
+      "retweets": 7
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-22T15:10:00.588254+00:00",
+    "js_take": {
+      "en-US": "Most agents die after every session because developers treat them like disposable tools. Real-time RL isn't a feature—it's the difference between a hammer and a pet.",
+      "zh-CN": "多数智能体每轮对话后都会'重置'，因为开发者把它们当一次性工具。实时强化学习不是什么锦上添花的功能——它决定了一个智能体是锤子还是能培养的伙伴。"
+    }
+  },
+  {
     "id": "2035400340988944522",
     "date": "2026-03-22",
     "author": "@PrakashS720",

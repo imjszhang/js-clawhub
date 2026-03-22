@@ -198,6 +198,34 @@
     }
   },
   {
+    "id": "2035521847924515042",
+    "date": "2026-03-22",
+    "author": "@pvergadia",
+    "author_url": "https://x.com/pvergadia",
+    "tweet_url": "https://x.com/pvergadia/status/2035521847924515042",
+    "title": {
+      "en-US": "Open Claw RL: real-time RL from live feedback, never stops learning",
+      "zh-CN": "OpenClaw 发布实时强化学习功能，AI agent 每一步都能获得反馈并持续学习，不用等任务结束才优化"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台新功能，与 agent 学习机制相关",
+      "zh-CN": "推文把「实时学习」当技术卖点，但真正的突破不在于技术实现，而在于它暴露了主流 agent 设计的懒惰——大多数系统把反馈回路切断，不是因为做不到，而是因为设计者没想过 agent 应该是一个持续进化的生命体而非一次性工具"
+    },
+    "relevance": "OpenClaw 平台新功能，与 agent 学习机制相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 22,
+      "replies": 4,
+      "retweets": 7
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-22T15:10:00.588254+00:00",
+    "js_take": {
+      "en-US": "Most agents die after every session because developers treat them like disposable tools. Real-time RL isn't a feature—it's the difference between a hammer and a pet.",
+      "zh-CN": "多数智能体每轮对话后都会'重置'，因为开发者把它们当一次性工具。实时强化学习不是什么锦上添花的功能——它决定了一个智能体是锤子还是能培养的伙伴。"
+    }
+  },
+  {
     "id": "2035400340988944522",
     "date": "2026-03-22",
     "author": "@PrakashS720",
@@ -5655,34 +5683,6 @@
     "js_take": {
       "en-US": "Wrong debate. Not who does more—but who decides what matters. When AI runs your business, the scarce skill becomes knowing what you actually want.",
       "zh-CN": "争论错了方向。关键不是谁做得更多，而是谁来定义什么是重要的。当AI接管你的业务时，稀缺的技能变成了真正知道自己想要什么。"
-    }
-  },
-  {
-    "id": "2031854698836230162",
-    "date": "2026-03-12",
-    "author": "@Jackson__Price",
-    "author_url": "https://x.com/Jackson__Price",
-    "tweet_url": "https://x.com/Jackson__Price/status/2031854698836230162",
-    "title": {
-      "en-US": "16 y/o giving 6 months to hit $50K revenue. OpenClaw + Claude Code + 6 months",
-      "zh-CN": "16岁少年：6个月冲刺$50K收入｜OpenClaw+Claude Code实战"
-    },
-    "summary": {
-      "en-US": "OpenClaw + AI Agent + 年轻创业者叙事",
-      "zh-CN": "OpenClaw + AI Agent + 年轻创业者的成长叙事"
-    },
-    "relevance": "OpenClaw + AI Agent + 年轻创业者叙事",
-    "score": 0.88,
-    "engagement": {
-      "likes": 3239,
-      "retweets": 108,
-      "replies": 433
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-12T09:13:04.325693+00:00",
-    "js_take": {
-      "en-US": "6 months to $50K is a fine target. But chasing revenue numbers vs riding the OpenClaw wave to build lasting assets — one expires, the other compounds. The 势 is in the direction, not the grind.",
-      "zh-CN": "六个月赚到5万美元是个不错的目标。但盯着收入数字，和借势OpenClaw浪潮构建长期资产——前者转瞬即逝，后者复利增长。势在方向，不在蛮干。"
     }
   }
 ]
