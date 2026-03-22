@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-22T18:09:26.722556+00:00",
+  "updated_at": "2026-03-22T20:10:05.447561+00:00",
   "this_week": {
-    "total_items": 134,
+    "total_items": 136,
     "avg_score": 0.77,
-    "unique_authors": 116,
+    "unique_authors": 117,
     "top_items": [
       {
         "id": "2035169635033915537",
@@ -292,6 +292,32 @@
           "en-US": "316k stars in 4 months. Ask maintainers: how many are from users shipping production code vs FOMO bookmarking? Real growth doesn't need to flex on Linux.",
           "zh-CN": "4 个月 31.6k star。想问问维护者：这里面有多少是真在生产环境跑代码的用户贡献的，又有多少只是怕错过的收藏党？真正的增长，不需要拿 Linux 当参照物来秀肌肉。"
         }
+      },
+      {
+        "id": "2035799806640115806",
+        "date": "2026-03-23",
+        "author": "@trq212",
+        "author_url": "https://x.com/trq212",
+        "tweet_url": "https://x.com/trq212/status/2035799806640115806",
+        "title": {
+          "en-US": "Testing new Claude Code /init that interviews users to setup skills, hooks, etc.",
+          "zh-CN": "Claude Code正在测试新版/init功能，它会主动访谈用户并帮助配置skills、hooks等开发环境。"
+        },
+        "summary": {
+          "en-US": "OpenClaw/Claude Code核心交互范式——从「工具等人命令」到「工具主动理解意图」",
+          "zh-CN": "AI工具正在从「响应指令」转向「主动访谈」，这反转了人机交互的权力结构——不是人学习工具，而是工具学习人。"
+        },
+        "relevance": "OpenClaw/Claude Code核心交互范式——从「工具等人命令」到「工具主动理解意图」",
+        "score": 0.82,
+        "engagement": {
+          "likes": 654,
+          "replies": 50,
+          "retweets": 31,
+          "views": 27887,
+          "bookmarks": 326
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-22T20:10:05.404690+00:00"
       },
       {
         "id": "2035595815583129885",
@@ -1001,35 +1027,6 @@
         "js_take": {
           "en-US": "Big tech has the resources. What they don't have is the patience to ship garbage first and iterate. Their KPIs punish the messy reality of how Agent products actually grow. Real growth isn't headcount—it's letting things emerge.",
           "zh-CN": "大厂有的是资源，缺的是先上线垃圾再迭代的耐心。他们的 KPI 惩罚了 Agent 产品成长的真实样貌——混乱、试错、不断调整。真正的增长不是靠堆人头，而是让系统自己长出来。"
-        }
-      },
-      {
-        "id": "2034827927724994651",
-        "date": "2026-03-20",
-        "author": "@ChrisCoffee",
-        "author_url": "https://x.com/ChrisCoffee",
-        "tweet_url": "https://x.com/ChrisCoffee/status/2034827927724994651",
-        "title": {
-          "en-US": "Claude Channels kills OpenClaw, allows controlling Claude Code from Telegram/Discord",
-          "zh-CN": "Claude 推出 Channels 功能，可以直接从 Telegram/Discord 控制 Claude Code，作者认为这将取代 OpenClaw。"
-        },
-        "summary": {
-          "en-US": "OpenClaw vs Claude 原生功能，产品竞争叙事",
-          "zh-CN": "推文沿用了「杀手」叙事，但这种二元对立思维恰恰错过了真正的趋势。更形象的视角是：不是 Claude 「杀死」了 OpenClaw，而是整个 Agent 生态正在从「各自为战的工具」向「互联互通的基础设施」演化——这波浪潮的势不在谁取代谁，而在谁能成为连接器。"
-        },
-        "relevance": "OpenClaw vs Claude 原生功能，产品竞争叙事",
-        "score": 0.785,
-        "engagement": {
-          "likes": 152,
-          "replies": 18,
-          "retweets": 16,
-          "views": 11432
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-20T12:08:24.697835+00:00",
-        "js_take": {
-          "en-US": "\"Killer\" framing misses the point. Surface world sees product wars. Inner world sees infrastructure consolidation. The momentum isn't about replacement—it's about who becomes the connector in a network of agents.",
-          "zh-CN": "\"杀手\"的叙事框架搞错了重点。表世界看到的是产品战争，里世界看到的是基础设施整合。真正的势能在谁成为 Agent 网络的连接中枢，而不是谁取代谁。"
         }
       }
     ]

@@ -1,5 +1,31 @@
 [
   {
+    "id": "2035799806640115806",
+    "date": "2026-03-23",
+    "author": "@trq212",
+    "author_url": "https://x.com/trq212",
+    "tweet_url": "https://x.com/trq212/status/2035799806640115806",
+    "title": {
+      "en-US": "Testing new Claude Code /init that interviews users to setup skills, hooks, etc.",
+      "zh-CN": "Claude Code正在测试新版/init功能，它会主动访谈用户并帮助配置skills、hooks等开发环境。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code核心交互范式——从「工具等人命令」到「工具主动理解意图」",
+      "zh-CN": "AI工具正在从「响应指令」转向「主动访谈」，这反转了人机交互的权力结构——不是人学习工具，而是工具学习人。"
+    },
+    "relevance": "OpenClaw/Claude Code核心交互范式——从「工具等人命令」到「工具主动理解意图」",
+    "score": 0.82,
+    "engagement": {
+      "likes": 654,
+      "replies": 50,
+      "retweets": 31,
+      "views": 27887,
+      "bookmarks": 326
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-22T20:10:05.404690+00:00"
+  },
+  {
     "id": "2035521016814854441",
     "date": "2026-03-23",
     "author": "@joseph_h_garvin",
@@ -54,6 +80,32 @@
       "en-US": "When it becomes dinner table gossip, the signal is already noise. Real players stopped asking 'real or hype'—they just watch where the 势 flows.",
       "zh-CN": "当一件事沦为茶余饭后的谈资，真正的信号早已湮没在噪音里。行家不再追问真假——他们只看势往哪走。"
     }
+  },
+  {
+    "id": "2035759619792892265",
+    "date": "2026-03-23",
+    "author": "@bradmillscan",
+    "author_url": "https://x.com/bradmillscan",
+    "tweet_url": "https://x.com/bradmillscan/status/2035759619792892265",
+    "title": {
+      "en-US": "OpenClaw agent doesn't know how to use OpenClaw Secrets, rewrote architecture instead of reading docs.",
+      "zh-CN": "用户花了2小时让OpenClaw agent使用Secrets功能避免明文存储密码，但agent却选择重写架构而不是读文档。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台特性与AI agent行为的错位——训练数据惯性 vs 平台原生功能",
+      "zh-CN": "AI宁可重写整个架构也不读官方文档，暴露了一个盲区：它的「知识」来自训练数据的统计模式，而非对平台真实能力的实时感知。"
+    },
+    "relevance": "OpenClaw平台特性与AI agent行为的错位——训练数据惯性 vs 平台原生功能",
+    "score": 0.76,
+    "engagement": {
+      "likes": 44,
+      "replies": 32,
+      "retweets": 0,
+      "views": 3229,
+      "bookmarks": 8
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-22T20:10:05.404699+00:00"
   },
   {
     "id": "2035741298066325773",

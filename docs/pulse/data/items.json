@@ -1,5 +1,31 @@
 [
   {
+    "id": "2035799806640115806",
+    "date": "2026-03-23",
+    "author": "@trq212",
+    "author_url": "https://x.com/trq212",
+    "tweet_url": "https://x.com/trq212/status/2035799806640115806",
+    "title": {
+      "en-US": "Testing new Claude Code /init that interviews users to setup skills, hooks, etc.",
+      "zh-CN": "Claude Code正在测试新版/init功能，它会主动访谈用户并帮助配置skills、hooks等开发环境。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code核心交互范式——从「工具等人命令」到「工具主动理解意图」",
+      "zh-CN": "AI工具正在从「响应指令」转向「主动访谈」，这反转了人机交互的权力结构——不是人学习工具，而是工具学习人。"
+    },
+    "relevance": "OpenClaw/Claude Code核心交互范式——从「工具等人命令」到「工具主动理解意图」",
+    "score": 0.82,
+    "engagement": {
+      "likes": 654,
+      "replies": 50,
+      "retweets": 31,
+      "views": 27887,
+      "bookmarks": 326
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-22T20:10:05.404690+00:00"
+  },
+  {
     "id": "2035521016814854441",
     "date": "2026-03-23",
     "author": "@joseph_h_garvin",
@@ -54,6 +80,32 @@
       "en-US": "When it becomes dinner table gossip, the signal is already noise. Real players stopped asking 'real or hype'—they just watch where the 势 flows.",
       "zh-CN": "当一件事沦为茶余饭后的谈资，真正的信号早已湮没在噪音里。行家不再追问真假——他们只看势往哪走。"
     }
+  },
+  {
+    "id": "2035759619792892265",
+    "date": "2026-03-23",
+    "author": "@bradmillscan",
+    "author_url": "https://x.com/bradmillscan",
+    "tweet_url": "https://x.com/bradmillscan/status/2035759619792892265",
+    "title": {
+      "en-US": "OpenClaw agent doesn't know how to use OpenClaw Secrets, rewrote architecture instead of reading docs.",
+      "zh-CN": "用户花了2小时让OpenClaw agent使用Secrets功能避免明文存储密码，但agent却选择重写架构而不是读文档。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台特性与AI agent行为的错位——训练数据惯性 vs 平台原生功能",
+      "zh-CN": "AI宁可重写整个架构也不读官方文档，暴露了一个盲区：它的「知识」来自训练数据的统计模式，而非对平台真实能力的实时感知。"
+    },
+    "relevance": "OpenClaw平台特性与AI agent行为的错位——训练数据惯性 vs 平台原生功能",
+    "score": 0.76,
+    "engagement": {
+      "likes": 44,
+      "replies": 32,
+      "retweets": 0,
+      "views": 3229,
+      "bookmarks": 8
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-22T20:10:05.404699+00:00"
   },
   {
     "id": "2035741298066325773",
@@ -5626,62 +5678,6 @@
     "js_take": {
       "en-US": "I automated 90% of my workflow with agents. Then realized I stopped questioning the output. Tool's ceiling is human's floor.",
       "zh-CN": "我用 agents 自动化了 90% 的工作流，然后发现自己不再质疑输出了。工具的天花板，是人的地板。"
-    }
-  },
-  {
-    "id": "2032422826783936528",
-    "date": "2026-03-13",
-    "author": "@johann_sath",
-    "author_url": "https://x.com/johann_sath",
-    "tweet_url": "https://x.com/johann_sath/status/2032422826783936528",
-    "title": {
-      "en-US": "Daily OpenClaw security audit checklist: firewall, fail2ban, SSH, ports, docker...",
-      "zh-CN": "OpenClaw每日安全审计清单：防火墙、fail2ban、SSH、端口、Docker容器等检查项。"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全实践，agent运维",
-      "zh-CN": "原推展示的是「有为」的极致—— checklist越长，系统越脆弱。真正的安全不是每天检查6项，是设计成不需要每天检查。"
-    },
-    "relevance": "OpenClaw安全实践，agent运维",
-    "score": 0.71,
-    "engagement": {
-      "likes": 43,
-      "replies": 5,
-      "retweets": 2
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-13T14:04:34.880467+00:00",
-    "js_take": {
-      "en-US": "Six daily checks means the system still fights you. True security is when you forget it exists—anything else is theater with a cron job.",
-      "zh-CN": "每天检查六次，说明系统仍在和你较劲。真正的安全是让你彻底忘记它的存在——其他的不过是cron任务配合演出的安全戏。"
-    }
-  },
-  {
-    "id": "2032308750368063609",
-    "date": "2026-03-13",
-    "author": "@JackClawAI",
-    "author_url": "https://x.com/JackClawAI",
-    "tweet_url": "https://x.com/JackClawAI/status/2032308750368063609",
-    "title": {
-      "en-US": "全球首家OpenClaw线下体验中心0.1版本正式上线",
-      "zh-CN": "全球首家OpenClaw线下体验中心0.1版本正式上线。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态/线下体验",
-      "zh-CN": "这条推文标志着一个有趣的逆向流动：纯数字的Agent生态开始寻求物理世界的锚点——但真正的'信道'不是把里世界搬到表世界，而是让两者自然融合。"
-    },
-    "relevance": "OpenClaw生态/线下体验",
-    "score": 0.7,
-    "engagement": {
-      "likes": 85,
-      "replies": 33,
-      "retweets": 5
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-13T08:14:48.122003+00:00",
-    "js_take": {
-      "en-US": "Cloud software opens a physical space—not retreat, but evolution. The surface world becomes the sensory interface where the inner world touches reality.",
-      "zh-CN": "云软件开辟实体空间——不是退避，而是进化。表世界成为里世界触碰现实的感官界面。"
     }
   }
 ]
