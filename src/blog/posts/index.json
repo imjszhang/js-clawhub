@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-03-22",
+    "title": {
+      "zh-CN": "借腾讯的船，出我的海：微信原生插件与 AI 主权博弈",
+      "en-US": "Riding Tencent's Ship to Sail My Own Seas: The Power Struggle Between WeChat Native Plugins and AI Sovereignty"
+    },
+    "date": "2026-03-22",
+    "summary": {
+      "zh-CN": "今天腾讯突然出手，发布了微信原生插件，允许将自部署的 OpenClaw 作为微信好友接入，行业瞬间震动。面对这个看似“功能更新”的动作，我立刻意识到这不仅是技术对接，更是一场关于 AI 操作系统生态位的战略卡位战。我的核心决策非常明确：利用官方插件作为消息收发通道，但必须死守本地部署的底线，绝不让数...",
+      "en-US": "Tencent just dropped a bombshell by releasing WeChat Native Plugins, allowing self-hosted OpenClaw instances to connect as WeChat contacts. The industry is buzzing. While this looks like a simple feature update, I immediately recognized it as a strategic move to dominate the AI OS ecosystem. My decision is clear: leverage the official plugin for message routing, but hold the line on local deployment at all costs. We absolutely cannot let our data..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 51
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-21",
     "title": {
       "zh-CN": "上游 PR 分支隔离与插件架构解耦实战",
