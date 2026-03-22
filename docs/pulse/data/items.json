@@ -283,6 +283,34 @@
     }
   },
   {
+    "id": "2035641728640889244",
+    "date": "2026-03-22",
+    "author": "@NFTCPS",
+    "author_url": "https://x.com/NFTCPS",
+    "tweet_url": "https://x.com/NFTCPS/status/2035641728640889244",
+    "title": {
+      "en-US": "Tested 300+ OpenClaw skills, 90% are useless, only 10 core ones matter",
+      "zh-CN": "测试了300多个 OpenClaw 技能，90%是花架子，真正值得装的只有10个核心"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent 技能市场",
+      "zh-CN": "这条推文戳破了一个幻觉：技能数量≠生态健康。当所有人都在造新技能时，真正稀缺的是「少即是多」的筛选能力。这是典型的过度供给导致指标通胀。"
+    },
+    "relevance": "OpenClaw / Agent 技能市场",
+    "score": 0.71,
+    "engagement": {
+      "likes": 18,
+      "retweets": 6,
+      "replies": 2
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-22T10:08:30.008950+00:00",
+    "js_take": {
+      "en-US": "Tested 300+, built 3. The 90% aren't tools—they're noise. When everyone's shipping skills, the scarce resource is knowing which 10 to keep.",
+      "zh-CN": "测了300+，只建了3个。那90%不是工具，是噪音。人人都在发布技能时，稀缺的不是技能，而是判断该留哪10%的眼光。"
+    }
+  },
+  {
     "id": "2035346756255220190",
     "date": "2026-03-22",
     "author": "@AndrewAsksHow",
@@ -5655,34 +5683,6 @@
     "js_take": {
       "en-US": "You aren't mad at bots. You're mad at the mirror—you reply the same way. The difference isn't sounding human. It's treating them as one.",
       "zh-CN": "你不是恨机器人，你是恨那面镜子——你自己回复得也差不多。关键不在于听起来像人，而在于你把它们当人看。"
-    }
-  },
-  {
-    "id": "2031750343621558380",
-    "date": "2026-03-12",
-    "author": "@aiwarts",
-    "author_url": "https://x.com/aiwarts",
-    "tweet_url": "https://x.com/aiwarts/status/2031750343621558380",
-    "title": {
-      "en-US": "OpenClaw needs 5 skills to spin: self-improving, skill-creator, find-skills, vetter, workflows",
-      "zh-CN": "新生的OpenClaw最少需要安装多少个Skills才能把飞轮转起来？作者列出5个核心技能，探讨OpenClaw agent的自我迭代和生态构建。"
-    },
-    "summary": {
-      "en-US": "OpenClaw核心架构讨论，agent生态建设",
-      "zh-CN": "这条推文的问题本身暴露了过度工程化的思维——把「启动」当成需要5个模块的精密组装，而真正的系统往往是从一个能用的核心自生长出来的，越复杂的预设架构反而越容易僵化。"
-    },
-    "relevance": "OpenClaw核心架构讨论，agent生态建设",
-    "score": 0.82,
-    "engagement": {
-      "likes": 749,
-      "replies": 13,
-      "retweets": 152
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-12T06:04:14.270115+00:00",
-    "js_take": {
-      "en-US": "5 skills? You're sketching a cathedral when you need a spark. The real flywheel is one skill that writes the next—everything else is just offspring.",
-      "zh-CN": "追逐五项技能？你需要的是点燃火花，却在大教堂里画图纸。真正的飞轮是：一个技能催生下一个技能，其余皆为附庸。"
     }
   }
 ]
