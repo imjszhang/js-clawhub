@@ -1,5 +1,89 @@
 [
   {
+    "id": "2035521016814854441",
+    "date": "2026-03-23",
+    "author": "@joseph_h_garvin",
+    "author_url": "https://x.com/joseph_h_garvin",
+    "tweet_url": "https://x.com/joseph_h_garvin/status/2035521016814854441",
+    "title": {
+      "en-US": "Claude code rarely runs for longer than 15m without stopping. How do overnight agent stories work?",
+      "zh-CN": "Claude Code 很少能连续运行超过15分钟不中断，那些让Agent通宵运行的故事是怎么做到的？"
+    },
+    "summary": {
+      "en-US": "直接讨论 Claude Code / OpenClaw 的核心痛点——Agent 长时间自主运行的可靠性问题",
+      "zh-CN": "人们追求的是「让AI一直跑」的技术幻觉，但真正该解决的是「让AI在正确的时候停下来问」的设计智慧—— autonomous doesn't mean uninterrupted."
+    },
+    "relevance": "直接讨论 Claude Code / OpenClaw 的核心痛点——Agent 长时间自主运行的可靠性问题",
+    "score": 0.78,
+    "engagement": {
+      "likes": 540,
+      "replies": 89,
+      "retweets": 9
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-22T16:26:01.493479+00:00",
+    "js_take": {
+      "en-US": "Everyone asks \"how to make it run longer.\" Wrong question. The real engineering is knowing when to stop and ask — uninterrupted doesn't mean unguided.",
+      "zh-CN": "人人都在问\"怎么让它跑得更久\"。问错了。真正的工程智慧，是懂得何时停下来发问——不间断不等于无引导。"
+    }
+  },
+  {
+    "id": "2035567953572479307",
+    "date": "2026-03-23",
+    "author": "@Yuchenj_UW",
+    "author_url": "https://x.com/Yuchenj_UW",
+    "tweet_url": "https://x.com/Yuchenj_UW/status/2035567953572479307",
+    "title": {
+      "en-US": "Every Chinese restaurant in Bay Area, next table is debating Claude Code vs Codex, OpenAI vs Anthropic, is OpenClaw hype or real?",
+      "zh-CN": "湾区现在每家中餐厅，隔壁桌都在讨论 Claude Code vs Codex、OpenAI vs Anthropic、OpenClaw 是炒作还是真有用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 被直接提及，且讨论 hype vs real 的本质判断",
+      "zh-CN": "更形象——把「技术讨论热度」转化为一个具体场景画面，再点破真正的问题：当所有人都在饭桌上争论真假时，真正的信号不是观点对错，而是争论本身已经成为背景噪音。"
+    },
+    "relevance": "OpenClaw 被直接提及，且讨论 hype vs real 的本质判断",
+    "score": 0.76,
+    "engagement": {
+      "likes": 458,
+      "replies": 67,
+      "retweets": 11
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-22T18:09:06.318337+00:00",
+    "js_take": {
+      "en-US": "When it becomes dinner table gossip, the signal is already noise. Real players stopped asking 'real or hype'—they just watch where the 势 flows.",
+      "zh-CN": "当一件事沦为茶余饭后的谈资，真正的信号早已湮没在噪音里。行家不再追问真假——他们只看势往哪走。"
+    }
+  },
+  {
+    "id": "2035741298066325773",
+    "date": "2026-03-23",
+    "author": "@xmayeth",
+    "author_url": "https://x.com/xmayeth",
+    "tweet_url": "https://x.com/xmayeth/status/2035741298066325773",
+    "title": {
+      "en-US": "Gave OpenClaw $200, woke up to $6,700. AI agent trading spreads overnight.",
+      "zh-CN": "给OpenClaw 200美元，醒来变成6700美元，AI Agent通宵交易套利。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 实战案例，展示 Agent 自主交易能力",
+      "zh-CN": "这种暴富叙事吸引的是投机者，但真正该关注的是「为什么是这个策略在这个时间点有效」—— 盛传的永远是结果，消失的永远是前提条件。"
+    },
+    "relevance": "OpenClaw 实战案例，展示 Agent 自主交易能力",
+    "score": 0.72,
+    "engagement": {
+      "likes": 37,
+      "replies": 6,
+      "retweets": 0
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-22T16:26:01.493484+00:00",
+    "js_take": {
+      "en-US": "$200 to $6700 makes headlines. \"This strategy worked for 3 days then blew up\" doesn't. The survivorship bias is the real trade.",
+      "zh-CN": "\"200美元变成6700美元\"能上头版，\"这策略撑了3天就爆仓\"却无人问津。幸存者偏差，才是那笔真正的交易。"
+    }
+  },
+  {
     "id": "2035612731449946163",
     "date": "2026-03-22",
     "author": "@tuturetom",
@@ -5598,91 +5682,6 @@
     "js_take": {
       "en-US": "Cloud software opens a physical space—not retreat, but evolution. The surface world becomes the sensory interface where the inner world touches reality.",
       "zh-CN": "云软件开辟实体空间——不是退避，而是进化。表世界成为里世界触碰现实的感官界面。"
-    }
-  },
-  {
-    "id": "2032143191365894159",
-    "date": "2026-03-13",
-    "author": "@moritzkremb",
-    "author_url": "https://x.com/moritzkremb",
-    "tweet_url": "https://x.com/moritzkremb/status/2032143191365894159",
-    "title": {
-      "en-US": "OpenClaw no-AI-slop video content system saves 12h/week",
-      "zh-CN": "分享用OpenClaw构建的「无AI垃圾」视频内容系统，每周节省12小时以上，涵盖选题、研究、脚本、排期、数据分析全流程。"
-    },
-    "summary": {
-      "en-US": "OpenClaw实践 + AI内容运营",
-      "zh-CN": "「无AI垃圾」这个定位本身就很值得玩味——真正的效率不是让AI做得更多，而是让它只做「该做的那部分」。12小时省下来不是目的，省下来之后人去做什么才是重点。"
-    },
-    "relevance": "OpenClaw实践 + AI内容运营",
-    "score": 0.7,
-    "engagement": {
-      "likes": 89,
-      "replies": 6,
-      "retweets": 6
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-13T08:15:55.470167+00:00",
-    "js_take": {
-      "en-US": "The real win isn't saving 12h—it's knowing which 12h to keep. Let AI handle the machine-grade decisions; you own the final aesthetic call.",
-      "zh-CN": "真正赢得的不是省下12小时，而是懂得该守住哪12小时。AI负责机械决策，你负责最终的审美把关。"
-    }
-  },
-  {
-    "id": "2032017325449269603",
-    "date": "2026-03-12",
-    "author": "@hooeem",
-    "author_url": "https://x.com/hooeem",
-    "tweet_url": "https://x.com/hooeem/status/2032017325449269603",
-    "title": {
-      "en-US": "Claude Skills mastery beats 99% of users",
-      "zh-CN": "精通Claude Skills，超越99%用户"
-    },
-    "summary": {
-      "en-US": "Claude Skills 与 OpenClaw Skill 生态直接相关，AI 工具 mastery 话题",
-      "zh-CN": "Claude Skills与OpenClaw Skill生态直接相关，探讨AI工具精通话题"
-    },
-    "relevance": "Claude Skills 与 OpenClaw Skill 生态直接相关，AI 工具 mastery 话题",
-    "score": 0.9,
-    "engagement": {
-      "likes": 944,
-      "replies": 24,
-      "retweets": 60,
-      "views": 172125
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-12T13:09:06.494955+00:00",
-    "js_take": {
-      "en-US": "100 hours mastering Claude Skills. Month 2: a new update made half my muscle memory obsolete. The real edge isn't tool fluency—it's knowing when to let AI run unsupervised.",
-      "zh-CN": "花100小时精通Claude Skills。第二个月：一次更新就让一半的肌肉记忆作废。真正的优势不是工具熟练度——而是知道什么时候该让AI自主运行。"
-    }
-  },
-  {
-    "id": "2031947377712779347",
-    "date": "2026-03-12",
-    "author": "@rohanpaul_ai",
-    "author_url": "https://x.com/rohanpaul_ai",
-    "tweet_url": "https://x.com/rohanpaul_ai/status/2031947377712779347",
-    "title": {
-      "en-US": "Perplexity CEO explains Personal Computer vs OpenClaw difference",
-      "zh-CN": "Perplexity CEO 谈 PC 与 OpenClaw 的本质区别"
-    },
-    "summary": {
-      "en-US": "直接讨论 OpenClaw 与 Perplexity 的竞争差异，Agent 能力边界话题",
-      "zh-CN": "深入探讨 OpenClaw 与 Perplexity 的竞争差异，以及 Agent 的能力边界"
-    },
-    "relevance": "直接讨论 OpenClaw 与 Perplexity 的竞争差异，Agent 能力边界话题",
-    "score": 0.88,
-    "engagement": {
-      "likes": 124,
-      "replies": 8,
-      "retweets": 8
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-12T07:04:23.761408+00:00",
-    "js_take": {
-      "en-US": "Wrong debate. Not who does more—but who decides what matters. When AI runs your business, the scarce skill becomes knowing what you actually want.",
-      "zh-CN": "争论错了方向。关键不是谁做得更多，而是谁来定义什么是重要的。当AI接管你的业务时，稀缺的技能变成了真正知道自己想要什么。"
     }
   }
 ]
