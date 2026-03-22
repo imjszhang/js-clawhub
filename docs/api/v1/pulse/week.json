@@ -225,6 +225,34 @@
     }
   },
   {
+    "id": "2035582490036113565",
+    "date": "2026-03-22",
+    "author": "@rohanpaul_ai",
+    "author_url": "https://x.com/rohanpaul_ai",
+    "tweet_url": "https://x.com/rohanpaul_ai/status/2035582490036113565",
+    "title": {
+      "en-US": "OpenClaw makes video through Seedance 2, imports into Premiere Pro, edits automatically",
+      "zh-CN": "有人搭建了一个很丝滑的自动化流程：OpenClaw生成视频→导入Premiere Pro→自动剪辑，全程无人干预"
+    },
+    "summary": {
+      "en-US": "OpenClaw自动化工作流，展示Agent如何实现端到端内容生产",
+      "zh-CN": "现在人人都在晒「Agent能做什么」，但真正的分水岭不是功能清单，而是谁能让Agent在真实工具链里闭环运行——从生成到交付，不需要人填缝。这条推演示的正是后者。"
+    },
+    "relevance": "OpenClaw自动化工作流，展示Agent如何实现端到端内容生产",
+    "score": 0.72,
+    "engagement": {
+      "likes": 117,
+      "replies": 15,
+      "retweets": 20
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-22T09:10:07.909428+00:00",
+    "js_take": {
+      "en-US": "Surface world demo: \"Look what my agent can do.\" Inner world reality: \"My agent just shipped while I slept.\" The gap isn't features—it's finishing.",
+      "zh-CN": "表世界的演示：「看我的 Agent 有多厉害。」里世界的真相：「我睡觉时，它已经自动交付了。」真正的差距不在于功能多少——而在于能否真正完成交付。"
+    }
+  },
+  {
     "id": "2035441487203484103",
     "date": "2026-03-22",
     "author": "@Austen",

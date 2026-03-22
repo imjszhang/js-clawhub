@@ -225,6 +225,34 @@
     }
   },
   {
+    "id": "2035582490036113565",
+    "date": "2026-03-22",
+    "author": "@rohanpaul_ai",
+    "author_url": "https://x.com/rohanpaul_ai",
+    "tweet_url": "https://x.com/rohanpaul_ai/status/2035582490036113565",
+    "title": {
+      "en-US": "OpenClaw makes video through Seedance 2, imports into Premiere Pro, edits automatically",
+      "zh-CN": "有人搭建了一个很丝滑的自动化流程：OpenClaw生成视频→导入Premiere Pro→自动剪辑，全程无人干预"
+    },
+    "summary": {
+      "en-US": "OpenClaw自动化工作流，展示Agent如何实现端到端内容生产",
+      "zh-CN": "现在人人都在晒「Agent能做什么」，但真正的分水岭不是功能清单，而是谁能让Agent在真实工具链里闭环运行——从生成到交付，不需要人填缝。这条推演示的正是后者。"
+    },
+    "relevance": "OpenClaw自动化工作流，展示Agent如何实现端到端内容生产",
+    "score": 0.72,
+    "engagement": {
+      "likes": 117,
+      "replies": 15,
+      "retweets": 20
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-22T09:10:07.909428+00:00",
+    "js_take": {
+      "en-US": "Surface world demo: \"Look what my agent can do.\" Inner world reality: \"My agent just shipped while I slept.\" The gap isn't features—it's finishing.",
+      "zh-CN": "表世界的演示：「看我的 Agent 有多厉害。」里世界的真相：「我睡觉时，它已经自动交付了。」真正的差距不在于功能多少——而在于能否真正完成交付。"
+    }
+  },
+  {
     "id": "2035441487203484103",
     "date": "2026-03-22",
     "author": "@Austen",
@@ -5655,34 +5683,6 @@
     "js_take": {
       "en-US": "5 skills? You're sketching a cathedral when you need a spark. The real flywheel is one skill that writes the next—everything else is just offspring.",
       "zh-CN": "追逐五项技能？你需要的是点燃火花，却在大教堂里画图纸。真正的飞轮是：一个技能催生下一个技能，其余皆为附庸。"
-    }
-  },
-  {
-    "id": "2031895504427368903",
-    "date": "2026-03-12",
-    "author": "@stash_pomichter",
-    "author_url": "https://x.com/stash_pomichter",
-    "tweet_url": "https://x.com/stash_pomichter/status/2031895504427368903",
-    "title": {
-      "en-US": "Openclaw gets access to drones, humanoids, quadrupeds. Open-sourcing everything.",
-      "zh-CN": "让OpenClaw控制无人机、人形机器人、四足机器人，全部开源"
-    },
-    "summary": {
-      "en-US": "OpenClaw物理世界扩展",
-      "zh-CN": "开源不是仁慈，是更聪明的'占有'。当你把工具交给所有人，你就定义了标准——这才是最高级的控制。"
-    },
-    "relevance": "OpenClaw物理世界扩展",
-    "score": 0.81,
-    "engagement": {
-      "likes": 210,
-      "replies": 36,
-      "retweets": 41
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-12T02:04:53.517209+00:00",
-    "js_take": {
-      "en-US": "Open source isn't charity. It's the smartest monopoly play—give away the foundation, let the world build your castle for free.",
-      "zh-CN": "Open source isn't charity. It's the smartest monopoly play—give away the foundation, let the world build your castle for free."
     }
   }
 ]
