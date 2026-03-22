@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-22T10:08:45.533492+00:00",
+  "updated_at": "2026-03-22T13:28:14.488019+00:00",
   "this_week": {
-    "total_items": 128,
+    "total_items": 130,
     "avg_score": 0.77,
-    "unique_authors": 111,
+    "unique_authors": 112,
     "top_items": [
       {
         "id": "2035169635033915537",
@@ -31,6 +31,34 @@
         "js_take": {
           "en-US": "Remote Codex is just moving the IDE to cloud. Real shift: Agent becomes the OS, your local tools become disposable projections. Five years from now, you'll wonder why you cared about remote execution at all.",
           "zh-CN": "远程 Codex 不过是把 IDE 搬到云上。真正的变革是：Agent 将成为操作系统，你本地的工具只是可随时丢弃的投影。五年后你会奇怪，当初为何如此执着于远程执行这件事。"
+        }
+      },
+      {
+        "id": "2035612731449946163",
+        "date": "2026-03-22",
+        "author": "@tuturetom",
+        "author_url": "https://x.com/tuturetom",
+        "tweet_url": "https://x.com/tuturetom/status/2035612731449946163",
+        "title": {
+          "en-US": "OpenClaw client with WeChat bot integration, praised for UI design",
+          "zh-CN": "OpenClaw 集成微信机器人，UI 设计获赞"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态 + 微信Agent集成",
+          "zh-CN": "OpenClaw生态 + 微信Agent集成"
+        },
+        "relevance": "OpenClaw生态 + 微信Agent集成",
+        "score": 0.95,
+        "engagement": {
+          "likes": 218,
+          "replies": 6,
+          "retweets": 39
+        },
+        "comment_type": "biaoli_insight",
+        "synced_at": "2026-03-22T13:27:51.233094+00:00",
+        "js_take": {
+          "en-US": "Pretty UI gets the clicks. But the real migration is happening inside WeChat—apps are becoming databases, conversations are becoming the new interface. Surface vs inner world.",
+          "zh-CN": "漂亮的界面吸引眼球，但真正的迁徙正在微信内部发生——应用退化为数据库，对话成为新界面。表世界 vs 里世界。"
         }
       },
       {
@@ -890,6 +918,34 @@
         }
       },
       {
+        "id": "2035691878113267868",
+        "date": "2026-03-22",
+        "author": "@Atenov_D",
+        "author_url": "https://x.com/Atenov_D",
+        "tweet_url": "https://x.com/Atenov_D/status/2035691878113267868",
+        "title": {
+          "en-US": "Default OpenClaw useless, need proper architecture",
+          "zh-CN": "推主认为开箱即用的OpenClaw没用，没有记忆、判断和自主性，需要像训练实习生一样从头调教，并分享了具体配置方法"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态 + Agent架构",
+          "zh-CN": "把OpenClaw当intern训练是陷阱。空白不是缺陷，是势能——你填进去的不是prompt，是整个决策系统。真正该问的不是'怎么让它有用'，而是'我想让它成为什么样的agent'"
+        },
+        "relevance": "OpenClaw生态 + Agent架构",
+        "score": 0.79,
+        "engagement": {
+          "likes": 42,
+          "replies": 15,
+          "retweets": 2
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-22T13:27:51.233100+00:00",
+        "js_take": {
+          "en-US": "Treating OpenClaw like a trainable intern is the trap. Blank isn't broken—it's potential energy. You don't fill it with prompts. You fill it with decision systems. Wrong question: 'How do I make it useful?' Right question: 'What agent do I want?'",
+          "zh-CN": "把OpenClaw当成可培训的实习生是个陷阱。空白不是缺陷，而是势能。你不用提示词填满它，而是植入决策系统。错误的问题：'怎么让它有用？'正确的问题：'我想成为什么样的Agent？'"
+        }
+      },
+      {
         "id": "2034816345171255299",
         "date": "2026-03-20",
         "author": "@TheMattBerman",
@@ -974,64 +1030,6 @@
         "js_take": {
           "en-US": "\"Killer\" framing misses the point. Surface world sees product wars. Inner world sees infrastructure consolidation. The momentum isn't about replacement—it's about who becomes the connector in a network of agents.",
           "zh-CN": "\"杀手\"的叙事框架搞错了重点。表世界看到的是产品战争，里世界看到的是基础设施整合。真正的势能在谁成为 Agent 网络的连接中枢，而不是谁取代谁。"
-        }
-      },
-      {
-        "id": "2035313857363943936",
-        "date": "2026-03-22",
-        "author": "@_vmlops",
-        "author_url": "https://x.com/_vmlops",
-        "tweet_url": "https://x.com/_vmlops/status/2035313857363943936",
-        "title": {
-          "en-US": "ClawTeam: One command spawns swarm of AI agents",
-          "zh-CN": "ClawTeam 展示了一个命令即可生成协调工作的 AI agent 群体，8 个 agent 在 8 台 H100 上自主运行 2430 次实验，实现 6.4% 的 LLM 改进。"
-        },
-        "summary": {
-          "en-US": "OpenClaw agent swarm 技术展示，与平台直接相关",
-          "zh-CN": "推文强调「零人工干预」的自动化奇迹，但没点破一个边界：当 8 个 agent 能自主协作时，人类从「操作者」退化为「设定规则的人」——这正是表世界退化为数据库、里世界成为新交互层的缩影。"
-        },
-        "relevance": "OpenClaw agent swarm 技术展示，与平台直接相关",
-        "score": 0.78,
-        "engagement": {
-          "likes": 32,
-          "replies": 5,
-          "retweets": 5,
-          "views": 1240,
-          "bookmarks": 30
-        },
-        "comment_type": "biaoli_insight",
-        "synced_at": "2026-03-21T19:22:34.455449+00:00",
-        "js_take": {
-          "en-US": "One command spawns 8 agents. You're not coding anymore—you're writing rules for code that codes itself. Surface world becomes database. Agents become interface.",
-          "zh-CN": "一条指令唤醒8个智能体。你不再写代码——你在为「会自己写代码的代码」制定规则。表世界退化为数据库，智能体升维成新界面。"
-        }
-      },
-      {
-        "id": "2035598556095217778",
-        "date": "2026-03-22",
-        "author": "@yan5xu",
-        "author_url": "https://x.com/yan5xu",
-        "tweet_url": "https://x.com/yan5xu/status/2035598556095217778",
-        "title": {
-          "en-US": "WeChat OpenClaw protocol SDK for Node.js and Python",
-          "zh-CN": "梳理了微信的龙虾协议，封装好了Node.js和Python的SDK包，附带最简单的echo bot demo。"
-        },
-        "summary": {
-          "en-US": "OpenClaw技术实现/SDK开发",
-          "zh-CN": "更深度：封装SDK是表世界的技术思维，真正值得观察的是微信这次开放的势——它不是给开发者一个新玩具，而是在测试Agent作为新交互层的可行性。"
-        },
-        "relevance": "OpenClaw技术实现/SDK开发",
-        "score": 0.78,
-        "engagement": {
-          "likes": 79,
-          "replies": 13,
-          "retweets": 18
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-22T08:11:12.432304+00:00",
-        "js_take": {
-          "en-US": "SDKs are table stakes. The real bet is whether WeChat's testing a hypothesis: when super-apps become databases, do agents become the new interface? The protocol is just the door. Seeing what's on the other side is the skill.",
-          "zh-CN": "SDK只是入场券。真正的赌注在于：微信是否在验证一个假设——当超级应用退化为数据库，Agent是否会成为新的交互界面？协议只是扇门，能看到门后什么才是本事。"
         }
       }
     ]

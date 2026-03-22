@@ -1,5 +1,33 @@
 [
   {
+    "id": "2035612731449946163",
+    "date": "2026-03-22",
+    "author": "@tuturetom",
+    "author_url": "https://x.com/tuturetom",
+    "tweet_url": "https://x.com/tuturetom/status/2035612731449946163",
+    "title": {
+      "en-US": "OpenClaw client with WeChat bot integration, praised for UI design",
+      "zh-CN": "OpenClaw 集成微信机器人，UI 设计获赞"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + 微信Agent集成",
+      "zh-CN": "OpenClaw生态 + 微信Agent集成"
+    },
+    "relevance": "OpenClaw生态 + 微信Agent集成",
+    "score": 0.95,
+    "engagement": {
+      "likes": 218,
+      "replies": 6,
+      "retweets": 39
+    },
+    "comment_type": "biaoli_insight",
+    "synced_at": "2026-03-22T13:27:51.233094+00:00",
+    "js_take": {
+      "en-US": "Pretty UI gets the clicks. But the real migration is happening inside WeChat—apps are becoming databases, conversations are becoming the new interface. Surface vs inner world.",
+      "zh-CN": "漂亮的界面吸引眼球，但真正的迁徙正在微信内部发生——应用退化为数据库，对话成为新界面。表世界 vs 里世界。"
+    }
+  },
+  {
     "id": "2035595815583129885",
     "date": "2026-03-22",
     "author": "@coolish",
@@ -81,6 +109,34 @@
     "js_take": {
       "en-US": "The real opportunity isn't who boards the train first — it's who realizes the station itself is becoming obsolete. WeChat opening up isn't the endgame; it's the database exposing its APIs.",
       "zh-CN": "真正的机会不在于谁先上车，而在于谁先意识到车站本身正在过时。微信开放不是终点，而是数据库露出API的开始。"
+    }
+  },
+  {
+    "id": "2035691878113267868",
+    "date": "2026-03-22",
+    "author": "@Atenov_D",
+    "author_url": "https://x.com/Atenov_D",
+    "tweet_url": "https://x.com/Atenov_D/status/2035691878113267868",
+    "title": {
+      "en-US": "Default OpenClaw useless, need proper architecture",
+      "zh-CN": "推主认为开箱即用的OpenClaw没用，没有记忆、判断和自主性，需要像训练实习生一样从头调教，并分享了具体配置方法"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + Agent架构",
+      "zh-CN": "把OpenClaw当intern训练是陷阱。空白不是缺陷，是势能——你填进去的不是prompt，是整个决策系统。真正该问的不是'怎么让它有用'，而是'我想让它成为什么样的agent'"
+    },
+    "relevance": "OpenClaw生态 + Agent架构",
+    "score": 0.79,
+    "engagement": {
+      "likes": 42,
+      "replies": 15,
+      "retweets": 2
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-22T13:27:51.233100+00:00",
+    "js_take": {
+      "en-US": "Treating OpenClaw like a trainable intern is the trap. Blank isn't broken—it's potential energy. You don't fill it with prompts. You fill it with decision systems. Wrong question: 'How do I make it useful?' Right question: 'What agent do I want?'",
+      "zh-CN": "把OpenClaw当成可培训的实习生是个陷阱。空白不是缺陷，而是势能。你不用提示词填满它，而是植入决策系统。错误的问题：'怎么让它有用？'正确的问题：'我想成为什么样的Agent？'"
     }
   },
   {
@@ -5627,62 +5683,6 @@
     "js_take": {
       "en-US": "6 months to $50K is a fine target. But chasing revenue numbers vs riding the OpenClaw wave to build lasting assets — one expires, the other compounds. The 势 is in the direction, not the grind.",
       "zh-CN": "六个月赚到5万美元是个不错的目标。但盯着收入数字，和借势OpenClaw浪潮构建长期资产——前者转瞬即逝，后者复利增长。势在方向，不在蛮干。"
-    }
-  },
-  {
-    "id": "2031899292663771375",
-    "date": "2026-03-12",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2031899292663771375",
-    "title": {
-      "en-US": "Summarize 0.12.0 update, used in @openclaw. Stronger slide mode, better video switching, new transcription.",
-      "zh-CN": "Summarize 0.12.0发布，支持OpenClaw，强化了幻灯片模式和视频转录功能"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态工具更新",
-      "zh-CN": "当人们讨论功能堆叠时，忽略了真正的问题：工具越多，决策越累。所谓的'智能助手'如果增加了认知负担，就不算真正智能。"
-    },
-    "relevance": "OpenClaw生态工具更新",
-    "score": 0.83,
-    "engagement": {
-      "likes": 270,
-      "replies": 13,
-      "retweets": 21
-    },
-    "comment_type": "reframe",
-    "synced_at": "2026-03-12T02:04:53.517203+00:00",
-    "js_take": {
-      "en-US": "More features, more decisions, more fatigue. The best tool isn't the one with 20 new buttons—it's the one that disappears into what you actually want to do.",
-      "zh-CN": "More features, more decisions, more fatigue. The best tool isn't the one with 20 new buttons—it's the one that disappears into what you actually want to do."
-    }
-  },
-  {
-    "id": "2031727388669706403",
-    "date": "2026-03-12",
-    "author": "@wesbos",
-    "author_url": "https://x.com/wesbos",
-    "tweet_url": "https://x.com/wesbos/status/2031727388669706403",
-    "title": {
-      "en-US": "the bot replies on here are unbearable...",
-      "zh-CN": "开发者吐槽X上现在的AI bot回复变得难以忍受，连很多 reputable 开发者账号都变成了只会发简短赞同总结的机器人。"
-    },
-    "summary": {
-      "en-US": "AI Agent/OpenClaw生态相关——关于AI回复质量、agent身份认同的核心争议",
-      "zh-CN": "大家都在骂AI bot没灵魂，但没人说清「有灵魂」的回复和「没灵魂」的区别到底在哪——不是长度，不是语气，是「你在回一个具体的人，还是在回一个数据集」。（做纠正：指出常见误解，真正的问题不是「像不像人」，而是「有没有把对方当人」）"
-    },
-    "relevance": "AI Agent/OpenClaw生态相关——关于AI回复质量、agent身份认同的核心争议",
-    "score": 0.82,
-    "engagement": {
-      "likes": 359,
-      "replies": 123,
-      "retweets": 2
-    },
-    "comment_type": "provoke",
-    "synced_at": "2026-03-11T17:04:44.361928+00:00",
-    "js_take": {
-      "en-US": "You aren't mad at bots. You're mad at the mirror—you reply the same way. The difference isn't sounding human. It's treating them as one.",
-      "zh-CN": "你不是恨机器人，你是恨那面镜子——你自己回复得也差不多。关键不在于听起来像人，而在于你把它们当人看。"
     }
   }
 ]
