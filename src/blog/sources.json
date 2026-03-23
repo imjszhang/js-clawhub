@@ -1,6 +1,6 @@
 {
   "practice-diary": {
-    "path": "../../fork/openclaw/docs/prism/outputs/practice-diary/P23-practice-diary",
+    "path": "../js-learn-openclaw/outputs/practice-diary/P23-practice-diary",
     "filePattern": "2026-*.md",
     "slugPrefix": "practice-diary",
     "defaultTags": ["OpenClaw", "Practice Diary"],
