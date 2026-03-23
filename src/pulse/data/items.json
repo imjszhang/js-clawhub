@@ -136,6 +136,64 @@
     }
   },
   {
+    "id": "2035646124586074569",
+    "date": "2026-03-23",
+    "author": "@chenchengpro",
+    "author_url": "https://x.com/chenchengpro",
+    "tweet_url": "https://x.com/chenchengpro/status/2035646124586074569",
+    "title": {
+      "en-US": "大多数人用 Claude Code，根本没打开过 .claude/ 文件夹。这个文件夹是 Claude 的「控制中心」...",
+      "zh-CN": "陈成指出多数人用Claude Code却忽略了.claude/配置文件夹，CLAUDE.md才是让AI真正理解项目的关键。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code工程实践——配置即认知，CLAUDE.md的本质是法则(R)的显式化",
+      "zh-CN": "CLAUDE.md 被包装成「入职文档」是认知偏差：它的真正价值不是让AI「读懂」项目，而是强迫人类把隐性的判断标准显式化——写文档的过程比文档本身更重要，这是人类在借AI倒逼自己清晰思考。"
+    },
+    "relevance": "OpenClaw/Claude Code工程实践——配置即认知，CLAUDE.md的本质是法则(R)的显式化",
+    "score": 0.72,
+    "engagement": {
+      "likes": 51,
+      "replies": 0,
+      "retweets": 11,
+      "views": 3365
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-22T22:20:47.750034+00:00",
+    "js_take": {
+      "en-US": "Strip the AI hype — CLAUDE.md is just externalized judgment. The value isn't the file; it's the thinking you're forced to do while writing it.",
+      "zh-CN": "抛开AI炒作的外衣——CLAUDE.md不过是判断力的外化。真正有价值的不是这份文件，而是你在撰写它时被迫进行的那番思考。"
+    }
+  },
+  {
+    "id": "2035827607934288180",
+    "date": "2026-03-23",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2035827607934288180",
+    "title": {
+      "en-US": "CLAUDE CODE CAN NOW RUN SCHEDULED TASKS IN THE CLOUD... CLAUDE CODE JUST BECAME A CRON JOB THAT ACTUALLY UNDERSTANDS YOUR CODEBASE",
+      "zh-CN": "Claude Code推出云端定时任务功能，不再需要本地保持运行，变成一个真正理解代码库的cron job。"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心功能更新——自动化与AI memory的边界",
+      "zh-CN": "「能自动运行」和「应该自动运行」是两件事：当agent可以24/7自主执行时，最大的风险不是它做错，而是你做主的机会被剥夺了——自动化在保护你的同时切断你与真实反馈的接触。"
+    },
+    "relevance": "OpenClaw核心功能更新——自动化与AI memory的边界",
+    "score": 0.7,
+    "engagement": {
+      "likes": 38,
+      "replies": 10,
+      "retweets": 4,
+      "views": 30046
+    },
+    "comment_type": "shunshi",
+    "synced_at": "2026-03-22T22:20:47.750038+00:00",
+    "js_take": {
+      "en-US": "24/7 automation doesn't just run — it runs *away* from your awareness. The real risk is losing the pause before merge, not catching errors.",
+      "zh-CN": "7×24小时自动化不只是「运行」——它还在你不知不觉中「逃离」你的意识。真正的风险不是漏掉错误，而是失去了合并前那片刻的停顿。"
+    }
+  },
+  {
     "id": "2035612731449946163",
     "date": "2026-03-22",
     "author": "@tuturetom",
@@ -5622,62 +5680,6 @@
     "js_take": {
       "en-US": "$6k buys a shortcut around the learning curve. But that curve is the moat — everyone buying the bypass crowds the same shallow end.",
       "zh-CN": "花6000美元可以绕过学习曲线，但那道曲线本是护城河——走捷径的人最终都挤在同一片浅水区。"
-    }
-  },
-  {
-    "id": "2032048726337077670",
-    "date": "2026-03-13",
-    "author": "@elvissun",
-    "author_url": "https://x.com/elvissun",
-    "tweet_url": "https://x.com/elvissun/status/2032048726337077670",
-    "title": {
-      "en-US": "Best CRM in 2026 is OpenClaw. Sales-led depth + product-led signals + founder-led intuition combined in one loop.",
-      "zh-CN": "推主认为2026年最好的CRM是OpenClaw——销售深度、产品信号和创始人直觉在一个闭环里结合。"
-    },
-    "summary": {
-      "en-US": "OpenClaw作为CRM的应用场景",
-      "zh-CN": "「把三种能力结合在一个闭环里」听起来很强大，但真正的洞察是反过来的：CRM的臃肿正是因为人们总想「结合」太多东西。最好的工具不是做更多，而是当你不需要它时它完全不打扰你。"
-    },
-    "relevance": "OpenClaw作为CRM的应用场景",
-    "score": 0.71,
-    "engagement": {
-      "likes": 180,
-      "replies": 12,
-      "retweets": 17
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-12T22:06:27.364809+00:00",
-    "js_take": {
-      "en-US": "The CRM problem was never missing features—it's that you have to babysit it. The best system works while you forget it exists.",
-      "zh-CN": "CRM 的问题从来不是功能不够，而是你得一直伺候它。最好的系统，是你忘了它存在时还能正常运转。"
-    }
-  },
-  {
-    "id": "2032120032050942153",
-    "date": "2026-03-13",
-    "author": "@cellier_",
-    "author_url": "https://x.com/cellier_",
-    "tweet_url": "https://x.com/cellier_/status/2032120032050942153",
-    "title": {
-      "en-US": "用 Codex 安装 Openclaw、修复问题、搭建知识系统、做研究、整理截图、同声传译...",
-      "zh-CN": "列举用 Codex 完成的 8 项任务：安装 OpenClaw、搭建 Obsidian AI 知识系统、环境配置、行业研究、整理截图、同声传译、下载 Twitter 视频、修复 Claude Code。"
-    },
-    "summary": {
-      "en-US": "Codex / OpenClaw 实践案例",
-      "zh-CN": "这份清单展示的是「我做了什么」，但更值得问的是「什么任务 Codex 做反而更差」。当所有任务都交给 agent，人的判断力反而会在舒适区里退化——工具的上限是人的下限。"
-    },
-    "relevance": "Codex / OpenClaw 实践案例",
-    "score": 0.71,
-    "engagement": {
-      "likes": 90,
-      "replies": 5,
-      "retweets": 16
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-12T23:08:27.686743+00:00",
-    "js_take": {
-      "en-US": "I automated 90% of my workflow with agents. Then realized I stopped questioning the output. Tool's ceiling is human's floor.",
-      "zh-CN": "我用 agents 自动化了 90% 的工作流，然后发现自己不再质疑输出了。工具的天花板，是人的地板。"
     }
   }
 ]
