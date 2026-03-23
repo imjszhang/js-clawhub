@@ -222,6 +222,34 @@
     "synced_at": "2026-03-22T20:10:05.404699+00:00"
   },
   {
+    "id": "2036004113390223408",
+    "date": "2026-03-23",
+    "author": "@CardilloSamuel",
+    "author_url": "https://x.com/CardilloSamuel",
+    "tweet_url": "https://x.com/CardilloSamuel/status/2036004113390223408",
+    "title": {
+      "en-US": "OpenClaw founder blocked me for preferring Hermes",
+      "zh-CN": "OpenClaw 创始人因为我表示更喜欢 Hermes Agent 就拉黑了我，甚至没有 @ 他"
+    },
+    "summary": {
+      "en-US": "OpenClaw 社区争议、创始人态度",
+      "zh-CN": "创始人对批评的反应比他做的产品更能说明问题。技术产品的护城河不是代码，是团队能不能接受\"不喜欢它\"的人存在。"
+    },
+    "relevance": "OpenClaw 社区争议、创始人态度",
+    "score": 0.73,
+    "engagement": {
+      "likes": 238,
+      "replies": 27,
+      "retweets": 5
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-23T11:11:28.151315+00:00",
+    "js_take": {
+      "en-US": "A founder blocking critics tells you more about the ecosystem than any product demo. The real moat isn't code—it's the stomach to let haters coexist.",
+      "zh-CN": "创始人屏蔽批评者的举动，比任何产品演示都更能暴露生态系统的本质。真正的护城河不是代码，而是容得下异见共存的气量。"
+    }
+  },
+  {
     "id": "2035741298066325773",
     "date": "2026-03-23",
     "author": "@xmayeth",
