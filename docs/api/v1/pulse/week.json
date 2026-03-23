@@ -1,5 +1,35 @@
 [
   {
+    "id": "2036070582228246738",
+    "date": "2026-03-24",
+    "author": "@jumperz",
+    "author_url": "https://x.com/jumperz",
+    "tweet_url": "https://x.com/jumperz/status/2036070582228246738",
+    "title": {
+      "en-US": "OpenClaw update: per-agent thinking mode",
+      "zh-CN": "OpenClaw 更新支持为每个 agent 单独配置 thinking 模式，不再强制统一设置"
+    },
+    "summary": {
+      "en-US": "OpenClaw 核心功能更新，直接相关",
+      "zh-CN": "当工具允许你「逐个调优」时，真正的瓶颈不是配置本身，而是你有没有判断力决定「哪个 agent 该用哪种模式」——大多数人会陷入无限调优而忘记原本要解决的问题"
+    },
+    "relevance": "OpenClaw 核心功能更新，直接相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 47,
+      "replies": 8,
+      "retweets": 3,
+      "views": 3326,
+      "bookmarks": 62
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-23T21:07:22.035967+00:00",
+    "js_take": {
+      "en-US": "30 thinking modes, 30 ways to optimize the wrong thing. You didn't build agents—you built a control panel for anxiety.",
+      "zh-CN": "30种思维模式，30种在错误方向上的优化。你没在构建真正的Agent，只是在搭建一个焦虑操控台。"
+    }
+  },
+  {
     "id": "2036115849971658996",
     "date": "2026-03-24",
     "author": "@mreflow",

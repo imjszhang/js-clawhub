@@ -1,5 +1,35 @@
 [
   {
+    "id": "2036070582228246738",
+    "date": "2026-03-24",
+    "author": "@jumperz",
+    "author_url": "https://x.com/jumperz",
+    "tweet_url": "https://x.com/jumperz/status/2036070582228246738",
+    "title": {
+      "en-US": "OpenClaw update: per-agent thinking mode",
+      "zh-CN": "OpenClaw 更新支持为每个 agent 单独配置 thinking 模式，不再强制统一设置"
+    },
+    "summary": {
+      "en-US": "OpenClaw 核心功能更新，直接相关",
+      "zh-CN": "当工具允许你「逐个调优」时，真正的瓶颈不是配置本身，而是你有没有判断力决定「哪个 agent 该用哪种模式」——大多数人会陷入无限调优而忘记原本要解决的问题"
+    },
+    "relevance": "OpenClaw 核心功能更新，直接相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 47,
+      "replies": 8,
+      "retweets": 3,
+      "views": 3326,
+      "bookmarks": 62
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-23T21:07:22.035967+00:00",
+    "js_take": {
+      "en-US": "30 thinking modes, 30 ways to optimize the wrong thing. You didn't build agents—you built a control panel for anxiety.",
+      "zh-CN": "30种思维模式，30种在错误方向上的优化。你没在构建真正的Agent，只是在搭建一个焦虑操控台。"
+    }
+  },
+  {
     "id": "2036115849971658996",
     "date": "2026-03-24",
     "author": "@mreflow",
@@ -5657,34 +5687,6 @@
     "js_take": {
       "en-US": "Ten agents, one click, 25% MRR. But the click is the new barrier — when execution becomes free, deciding what to execute becomes the only scarce resource. You're not managing work anymore. You're managing intent.",
       "zh-CN": "十个Agent，一键点击，25%月经常性收入增长。但点击本身成了新的门槛——当执行变得免费，「决定执行什么」成了唯一稀缺的资源。你不再是在管理工作，而是在管理意图。"
-    }
-  },
-  {
-    "id": "2032693636119302396",
-    "date": "2026-03-14",
-    "author": "@openclaw",
-    "author_url": "https://x.com/openclaw",
-    "tweet_url": "https://x.com/openclaw/status/2032693636119302396",
-    "title": {
-      "en-US": "OpenClaw 2026.3.13 release updates",
-      "zh-CN": "OpenClaw发布3.13版本更新，包括Chrome实时会话附加、Android重构、Docker时区覆盖等功能"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台功能更新 - 直接相关",
-      "zh-CN": "工具的功能清单越来越长，但用户真正迁移的门槛从来不是功能数量。当表世界的工具都趋同时，决胜的是谁能帮用户建立「个人系统」——从功能消费者变成系统构建者。"
-    },
-    "relevance": "OpenClaw平台功能更新 - 直接相关",
-    "score": 0.71,
-    "engagement": {
-      "likes": 236,
-      "replies": 46,
-      "retweets": 20
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-14T06:08:05.540558+00:00",
-    "js_take": {
-      "en-US": "Feature lists are surface-world games. Real migration happens when users stop consuming tools and start building personal systems.",
-      "zh-CN": "功能列表是表世界的游戏，真正的迁徙始于用户从消费工具转向构建个人系统。"
     }
   }
 ]
