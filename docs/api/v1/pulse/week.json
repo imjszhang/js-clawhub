@@ -26,6 +26,34 @@
     "synced_at": "2026-03-22T20:10:05.404690+00:00"
   },
   {
+    "id": "2035880288610562333",
+    "date": "2026-03-23",
+    "author": "@clairevo",
+    "author_url": "https://x.com/clairevo",
+    "tweet_url": "https://x.com/clairevo/status/2035880288610562333",
+    "title": {
+      "en-US": "Spending $15-25k/year on OpenClaw agents",
+      "zh-CN": "Claire Vo 分享自己今年将在 OpenClaw agents 上花费1.5-2.5万美元"
+    },
+    "summary": {
+      "en-US": "OpenClaw Agent 运营成本与投资回报",
+      "zh-CN": "原推强调花钱之多，但核心洞察是：当AI执行力爆炸后，瓶颈从\"做\"变成了\"不做\"的判断力——30个agent不会杀死团队，只会把坏决策执行快30倍。花更多钱买更多agent不会线性提升产出。"
+    },
+    "relevance": "OpenClaw Agent 运营成本与投资回报",
+    "score": 0.82,
+    "engagement": {
+      "likes": 166,
+      "replies": 49,
+      "retweets": 3
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-23T07:18:52.641611+00:00",
+    "js_take": {
+      "en-US": "You spent $25k. The question is: how much accelerated good decisions, and how much just executed bad ones 30x faster?",
+      "zh-CN": "你花了2.5万美元。问题是：其中有多少加速了明智决策，又有多少只是让错误决策的执行速度快了30倍？"
+    }
+  },
+  {
     "id": "2035521016814854441",
     "date": "2026-03-23",
     "author": "@joseph_h_garvin",
@@ -246,6 +274,34 @@
     "js_take": {
       "en-US": "40 days of treating your agent like a casino slot machine. The tool isn't poison — your need to control the dice is.",
       "zh-CN": "连续40天把Agent当老虎机用。工具没毒，想操控骰子的心才是。"
+    }
+  },
+  {
+    "id": "2035802395486327169",
+    "date": "2026-03-23",
+    "author": "@joon_s_pk",
+    "author_url": "https://x.com/joon_s_pk",
+    "tweet_url": "https://x.com/joon_s_pk/status/2035802395486327169",
+    "title": {
+      "en-US": "OpenClaw lives in Markdown, simple text file beats complex memory structures",
+      "zh-CN": "OpenClaw的创造者分享：从知识图谱、向量DB的执念，回归到最简单的文本文件，OpenClaw活在Markdown里"
+    },
+    "summary": {
+      "en-US": "OpenClaw 记忆系统架构、极简主义工程哲学",
+      "zh-CN": "原推展示了从复杂系统（知识图谱、向量DB）到朴素文本文件的回归，深层洞察是：最持久的系统往往采用最朴素的格式——复杂是工程师的执念，简单是用户的胜利。"
+    },
+    "relevance": "OpenClaw 记忆系统架构、极简主义工程哲学",
+    "score": 0.72,
+    "engagement": {
+      "likes": 102,
+      "replies": 17,
+      "retweets": 8
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-23T07:18:52.641617+00:00",
+    "js_take": {
+      "en-US": "Knowledge graphs are engineer vanity. Text files are user victory. The most durable systems use the simplest formats.",
+      "zh-CN": "知识图谱是工程师的 vanity，文本文件才是用户的胜利。最持久的系统，永远用最简单的格式。"
     }
   },
   {
