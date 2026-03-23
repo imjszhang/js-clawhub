@@ -54,6 +54,34 @@
     }
   },
   {
+    "id": "2035820481719447911",
+    "date": "2026-03-23",
+    "author": "@QuanquanGu",
+    "author_url": "https://x.com/QuanquanGu",
+    "tweet_url": "https://x.com/QuanquanGu/status/2035820481719447911",
+    "title": {
+      "en-US": "EurekaClaw rebuilding research pipeline. Most people underestimate AI for research.",
+      "zh-CN": "EurekaClaw 正在重建整个研究流程，大多数人低估了 AI 在研究中的作用"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态研究工具 + AI 科研范式变革",
+      "zh-CN": "「重建研究流程」的激进表达揭示了一个误区：把 AI 当成效率工具（做更快），却忽略了它正在改变「研究是什么」——从人的逻辑推演变成人机协同的迭代探测。"
+    },
+    "relevance": "OpenClaw 生态研究工具 + AI 科研范式变革",
+    "score": 0.78,
+    "engagement": {
+      "likes": 179,
+      "replies": 7,
+      "retweets": 16
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-23T02:07:33.123613+00:00",
+    "js_take": {
+      "en-US": "We rebuilt our research pipeline 3 times in 6 months. Each 'upgrade' just made us faster at asking the wrong questions. The bottleneck isn't speed—it's knowing what to ask before the tools change again.",
+      "zh-CN": "6个月内，我们的研究流程重建了3次。每次\"升级\"只是让我们更快地问了错的问题。瓶颈不在于速度——而是在工具再次更迭前，明白该提出什么问题。"
+    }
+  },
+  {
     "id": "2035567953572479307",
     "date": "2026-03-23",
     "author": "@Yuchenj_UW",
@@ -190,6 +218,63 @@
     "js_take": {
       "en-US": "40 days of treating your agent like a casino slot machine. The tool isn't poison — your need to control the dice is.",
       "zh-CN": "连续40天把Agent当老虎机用。工具没毒，想操控骰子的心才是。"
+    }
+  },
+  {
+    "id": "2035900185604186343",
+    "date": "2026-03-23",
+    "author": "@aakashgupta",
+    "author_url": "https://x.com/aakashgupta",
+    "tweet_url": "https://x.com/aakashgupta/status/2035900185604186343",
+    "title": {
+      "en-US": "Every CEO will be running an OpenClaw within 12 months. Zuck is building his in-house. Jensen said every company needs an OpenClaw strategy.",
+      "zh-CN": "每个CEO都会在12个月内运行一个OpenClaw，扎克伯格正在内部构建，Jensen说每家公司都需要OpenClaw战略"
+    },
+    "summary": {
+      "en-US": "OpenClaw 企业采用趋势",
+      "zh-CN": "\"12个月内人人部署\"这种预测的问题不在于时间表，而在于它假设了所有公司面临的约束条件相同——但适合Jensen的未必适合一家50人的SaaS公司，工具热往往掩盖了组织 readiness 的差异。"
+    },
+    "relevance": "OpenClaw 企业采用趋势",
+    "score": 0.71,
+    "engagement": {
+      "likes": 51,
+      "replies": 7,
+      "retweets": 8,
+      "views": 10335
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-23T03:12:47.009981+00:00",
+    "js_take": {
+      "en-US": "Every CEO will have OpenClaw in 12 months. Few will have the strategy — because strategy isn't software, it's knowing what deserves automation and what demands human judgment.",
+      "zh-CN": "12个月内，每个CEO都会用上OpenClaw。但真正懂策略的屈指可数——因为策略不是软件，而是判断力：什么值得自动化，什么必须留给人。"
+    }
+  },
+  {
+    "id": "2035918849682612409",
+    "date": "2026-03-23",
+    "author": "@petergyang",
+    "author_url": "https://x.com/petergyang",
+    "tweet_url": "https://x.com/petergyang/status/2035918849682612409",
+    "title": {
+      "en-US": "OpenClaw vs Claude Code users: what do you use each for and why",
+      "zh-CN": "询问同时使用OpenClaw和Claude Code的人，各自用来做什么以及为什么"
+    },
+    "summary": {
+      "en-US": "OpenClaw/工具选择",
+      "zh-CN": "纠结工具选择本身，是在寻找法则层的确定性——但真正的问题不是\"用哪个\"，而是你的决策模式是否允许两种工具的张力共存，让它们互相纠错而非互相替代。"
+    },
+    "relevance": "OpenClaw/工具选择",
+    "score": 0.71,
+    "engagement": {
+      "likes": 49,
+      "replies": 35,
+      "retweets": 0
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-23T04:18:44.656439+00:00",
+    "js_take": {
+      "en-US": "OpenClaw gives you control, Claude Code takes it away. The real answer isn't picking one—it's letting them correct each other. Truth lives in the tension, not the choice.",
+      "zh-CN": "OpenClaw 赋予你掌控，Claude Code 主张放手。真正的智慧不是二选一，而是让两者相互纠偏。真理存在于张力之间，而非选择之中。"
     }
   },
   {
@@ -5596,90 +5681,6 @@
     "js_take": {
       "en-US": "Enterprise vs personal is surface. The real split: does the agent serve the company, or you?里世界的归属权决定一切。",
       "zh-CN": "企业版还是个人版只是表象。真正的分水岭是：这个 agent 到底服务谁？里世界的归属权，决定一切。"
-    }
-  },
-  {
-    "id": "2032074102656418113",
-    "date": "2026-03-13",
-    "author": "@WiseInvest513",
-    "author_url": "https://x.com/WiseInvest513",
-    "tweet_url": "https://x.com/WiseInvest513/status/2032074102656418113",
-    "title": {
-      "en-US": "Comprehensive OpenClaw tutorial from Chinese community",
-      "zh-CN": "博主推荐一份非常全面的OpenClaw学习教程，研究了两个小时，补充了很多缺失的知识点，并称赞中文推特圈的内容质量。"
-    },
-    "summary": {
-      "en-US": "OpenClaw学习资源、中文社区内容质量",
-      "zh-CN": "原推点出了一个被忽视的事实：当英文世界还在争论概念时，中文社区已经产出系统性教程。这印证了「不争之争」——不追逐热点，专注建设，反而沉淀出不可替代的内容资产。"
-    },
-    "relevance": "OpenClaw学习资源、中文社区内容质量",
-    "score": 0.73,
-    "engagement": {
-      "likes": 695,
-      "replies": 6,
-      "retweets": 172
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-12T20:09:19.962461+00:00",
-    "js_take": {
-      "en-US": "While English Twitter debated agents vs apps, Chinese builders just shipped. The best content comes from those too busy building to argue.",
-      "zh-CN": "当英文 Twitter 还在争论 Agents 还是 Apps，中国开发者早已默默交付。真正优质的内容，来自那些埋头构建、无暇争辩的人。"
-    }
-  },
-  {
-    "id": "2032216272507978227",
-    "date": "2026-03-13",
-    "author": "@nickvasiles",
-    "author_url": "https://x.com/nickvasiles",
-    "tweet_url": "https://x.com/nickvasiles/status/2032216272507978227",
-    "title": {
-      "en-US": "Install Claude Code into OpenClaw's computer for better agent management",
-      "zh-CN": "建议在 OpenClaw 的 computer 里安装 Claude Code，让多个 agent 协作解决问题，称之为\"new meta\"。"
-    },
-    "summary": {
-      "en-US": "OpenClaw + 多 Agent 架构讨论",
-      "zh-CN": "「多 agent 堆叠=更强」是过度简化的工程直觉——真正的问题不是 agent 数量，而是如何让它们不争不抢、各安其位。当每个人都在加 agent 时，减 agent 并设计好协作协议才是更难的竞争力。"
-    },
-    "relevance": "OpenClaw + 多 Agent 架构讨论",
-    "score": 0.72,
-    "engagement": {
-      "likes": 68,
-      "replies": 16,
-      "retweets": 10
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-12T23:08:27.686738+00:00",
-    "js_take": {
-      "en-US": "Every new agent adds a potential conflict. We spent more time fixing agent collisions than building features.势不在数量，在如何让它们不争。",
-      "zh-CN": "每新增一个 agent，就多一分冲突隐患。我们花在修复 agent 碰撞上的时间，比开发功能还多。势不在数量，在如何让它们不争。"
-    }
-  },
-  {
-    "id": "2032314428851683426",
-    "date": "2026-03-13",
-    "author": "@boxmining",
-    "author_url": "https://x.com/boxmining",
-    "tweet_url": "https://x.com/boxmining/status/2032314428851683426",
-    "title": {
-      "en-US": "China's OpenClaw craze: hustlers installing it, others paid to uninstall because users stressed out.",
-      "zh-CN": "中国OpenClaw热潮：有人靠帮别人安装赚钱，有人靠帮别人卸载赚钱，因为用户压力太大。"
-    },
-    "summary": {
-      "en-US": "OpenClaw实际应用，AI采纳与后悔",
-      "zh-CN": "表面看是技术焦虑，实则是「工具凌驾于人」的错配——真正的增长不是装更多agent，是让人知道什么时候该关掉它们。"
-    },
-    "relevance": "OpenClaw实际应用，AI采纳与后悔",
-    "score": 0.72,
-    "engagement": {
-      "likes": 22,
-      "replies": 7,
-      "retweets": 0
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-13T14:04:34.880461+00:00",
-    "js_take": {
-      "en-US": "Same people selling installs sell uninstalls. Tech anxiety is the product—OpenClaw just happens to be the current wrapper.",
-      "zh-CN": "卖你安装包的人，也在卖你卸载工具。技术焦虑才是真正的产品——OpenClaw不过是当下的新包装。"
     }
   }
 ]

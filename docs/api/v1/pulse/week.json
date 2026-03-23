@@ -54,6 +54,34 @@
     }
   },
   {
+    "id": "2035820481719447911",
+    "date": "2026-03-23",
+    "author": "@QuanquanGu",
+    "author_url": "https://x.com/QuanquanGu",
+    "tweet_url": "https://x.com/QuanquanGu/status/2035820481719447911",
+    "title": {
+      "en-US": "EurekaClaw rebuilding research pipeline. Most people underestimate AI for research.",
+      "zh-CN": "EurekaClaw 正在重建整个研究流程，大多数人低估了 AI 在研究中的作用"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态研究工具 + AI 科研范式变革",
+      "zh-CN": "「重建研究流程」的激进表达揭示了一个误区：把 AI 当成效率工具（做更快），却忽略了它正在改变「研究是什么」——从人的逻辑推演变成人机协同的迭代探测。"
+    },
+    "relevance": "OpenClaw 生态研究工具 + AI 科研范式变革",
+    "score": 0.78,
+    "engagement": {
+      "likes": 179,
+      "replies": 7,
+      "retweets": 16
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-23T02:07:33.123613+00:00",
+    "js_take": {
+      "en-US": "We rebuilt our research pipeline 3 times in 6 months. Each 'upgrade' just made us faster at asking the wrong questions. The bottleneck isn't speed—it's knowing what to ask before the tools change again.",
+      "zh-CN": "6个月内，我们的研究流程重建了3次。每次\"升级\"只是让我们更快地问了错的问题。瓶颈不在于速度——而是在工具再次更迭前，明白该提出什么问题。"
+    }
+  },
+  {
     "id": "2035567953572479307",
     "date": "2026-03-23",
     "author": "@Yuchenj_UW",
@@ -190,6 +218,63 @@
     "js_take": {
       "en-US": "40 days of treating your agent like a casino slot machine. The tool isn't poison — your need to control the dice is.",
       "zh-CN": "连续40天把Agent当老虎机用。工具没毒，想操控骰子的心才是。"
+    }
+  },
+  {
+    "id": "2035900185604186343",
+    "date": "2026-03-23",
+    "author": "@aakashgupta",
+    "author_url": "https://x.com/aakashgupta",
+    "tweet_url": "https://x.com/aakashgupta/status/2035900185604186343",
+    "title": {
+      "en-US": "Every CEO will be running an OpenClaw within 12 months. Zuck is building his in-house. Jensen said every company needs an OpenClaw strategy.",
+      "zh-CN": "每个CEO都会在12个月内运行一个OpenClaw，扎克伯格正在内部构建，Jensen说每家公司都需要OpenClaw战略"
+    },
+    "summary": {
+      "en-US": "OpenClaw 企业采用趋势",
+      "zh-CN": "\"12个月内人人部署\"这种预测的问题不在于时间表，而在于它假设了所有公司面临的约束条件相同——但适合Jensen的未必适合一家50人的SaaS公司，工具热往往掩盖了组织 readiness 的差异。"
+    },
+    "relevance": "OpenClaw 企业采用趋势",
+    "score": 0.71,
+    "engagement": {
+      "likes": 51,
+      "replies": 7,
+      "retweets": 8,
+      "views": 10335
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-23T03:12:47.009981+00:00",
+    "js_take": {
+      "en-US": "Every CEO will have OpenClaw in 12 months. Few will have the strategy — because strategy isn't software, it's knowing what deserves automation and what demands human judgment.",
+      "zh-CN": "12个月内，每个CEO都会用上OpenClaw。但真正懂策略的屈指可数——因为策略不是软件，而是判断力：什么值得自动化，什么必须留给人。"
+    }
+  },
+  {
+    "id": "2035918849682612409",
+    "date": "2026-03-23",
+    "author": "@petergyang",
+    "author_url": "https://x.com/petergyang",
+    "tweet_url": "https://x.com/petergyang/status/2035918849682612409",
+    "title": {
+      "en-US": "OpenClaw vs Claude Code users: what do you use each for and why",
+      "zh-CN": "询问同时使用OpenClaw和Claude Code的人，各自用来做什么以及为什么"
+    },
+    "summary": {
+      "en-US": "OpenClaw/工具选择",
+      "zh-CN": "纠结工具选择本身，是在寻找法则层的确定性——但真正的问题不是\"用哪个\"，而是你的决策模式是否允许两种工具的张力共存，让它们互相纠错而非互相替代。"
+    },
+    "relevance": "OpenClaw/工具选择",
+    "score": 0.71,
+    "engagement": {
+      "likes": 49,
+      "replies": 35,
+      "retweets": 0
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-23T04:18:44.656439+00:00",
+    "js_take": {
+      "en-US": "OpenClaw gives you control, Claude Code takes it away. The real answer isn't picking one—it's letting them correct each other. Truth lives in the tension, not the choice.",
+      "zh-CN": "OpenClaw 赋予你掌控，Claude Code 主张放手。真正的智慧不是二选一，而是让两者相互纠偏。真理存在于张力之间，而非选择之中。"
     }
   },
   {
