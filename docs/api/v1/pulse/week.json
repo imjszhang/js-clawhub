@@ -168,6 +168,35 @@
     }
   },
   {
+    "id": "2036047987076452522",
+    "date": "2026-03-23",
+    "author": "@witcheer",
+    "author_url": "https://x.com/witcheer",
+    "tweet_url": "https://x.com/witcheer/status/2036047987076452522",
+    "title": {
+      "en-US": "OpenClaw v2026.3.22 release, plugin marketplace analysis",
+      "zh-CN": "OpenClaw 新版本发布，分析插件市场对于 AI 平台演进的工程意义"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台演进与插件市场机制",
+      "zh-CN": "插件市场看似是「功能扩展」，实则是平台治理权的让渡——谁定义接口，谁就定义了生态的边界。"
+    },
+    "relevance": "OpenClaw 平台演进与插件市场机制",
+    "score": 0.78,
+    "engagement": {
+      "likes": 25,
+      "replies": 4,
+      "retweets": 0,
+      "views": 2874
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-23T13:14:15.574699+00:00",
+    "js_take": {
+      "en-US": "Plugin markets aren't feature stores — they're governance handoffs. Whoever defines the interface shapes what the ecosystem can become. That's where the real power sits.",
+      "zh-CN": "插件市场不是功能商店——它们是治理权的交接。谁定义了接口，谁就塑造了生态系统的发展方向。那才是真正的权力所在。"
+    }
+  },
+  {
     "id": "2035567953572479307",
     "date": "2026-03-23",
     "author": "@Yuchenj_UW",
@@ -220,6 +249,35 @@
     },
     "comment_type": "wuwei_provoke",
     "synced_at": "2026-03-22T20:10:05.404699+00:00"
+  },
+  {
+    "id": "2036043904949330407",
+    "date": "2026-03-23",
+    "author": "@openclaw",
+    "author_url": "https://x.com/openclaw",
+    "tweet_url": "https://x.com/openclaw/status/2036043904949330407",
+    "title": {
+      "en-US": "OpenClaw 2026.3.22 release with marketplace and new models",
+      "zh-CN": "成熟框架的减法哲学：让正确的事自然发生"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台发布与新功能",
+      "zh-CN": "功能列表越长，说明平台越在「加法阶段」——但真正成熟的系统不是不断堆砌功能，而是学会做减法，让用户用更少的配置完成更多的事。"
+    },
+    "relevance": "OpenClaw平台发布与新功能",
+    "score": 0.74,
+    "engagement": {
+      "likes": 587,
+      "retweets": 67,
+      "replies": 80,
+      "views": 29035
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-23T12:08:26.656206+00:00",
+    "js_take": {
+      "en-US": "More features means still in addition mode. Mature frameworks don't add options—they make the right ones happen without config.",
+      "zh-CN": "功能越多，说明还在做加法。成熟的框架不靠堆砌选项，而是让正确的事情无需配置就自然发生。"
+    }
   },
   {
     "id": "2036004113390223408",

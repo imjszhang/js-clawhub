@@ -168,6 +168,35 @@
     }
   },
   {
+    "id": "2036047987076452522",
+    "date": "2026-03-23",
+    "author": "@witcheer",
+    "author_url": "https://x.com/witcheer",
+    "tweet_url": "https://x.com/witcheer/status/2036047987076452522",
+    "title": {
+      "en-US": "OpenClaw v2026.3.22 release, plugin marketplace analysis",
+      "zh-CN": "OpenClaw 新版本发布，分析插件市场对于 AI 平台演进的工程意义"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台演进与插件市场机制",
+      "zh-CN": "插件市场看似是「功能扩展」，实则是平台治理权的让渡——谁定义接口，谁就定义了生态的边界。"
+    },
+    "relevance": "OpenClaw 平台演进与插件市场机制",
+    "score": 0.78,
+    "engagement": {
+      "likes": 25,
+      "replies": 4,
+      "retweets": 0,
+      "views": 2874
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-23T13:14:15.574699+00:00",
+    "js_take": {
+      "en-US": "Plugin markets aren't feature stores — they're governance handoffs. Whoever defines the interface shapes what the ecosystem can become. That's where the real power sits.",
+      "zh-CN": "插件市场不是功能商店——它们是治理权的交接。谁定义了接口，谁就塑造了生态系统的发展方向。那才是真正的权力所在。"
+    }
+  },
+  {
     "id": "2035567953572479307",
     "date": "2026-03-23",
     "author": "@Yuchenj_UW",
@@ -220,6 +249,35 @@
     },
     "comment_type": "wuwei_provoke",
     "synced_at": "2026-03-22T20:10:05.404699+00:00"
+  },
+  {
+    "id": "2036043904949330407",
+    "date": "2026-03-23",
+    "author": "@openclaw",
+    "author_url": "https://x.com/openclaw",
+    "tweet_url": "https://x.com/openclaw/status/2036043904949330407",
+    "title": {
+      "en-US": "OpenClaw 2026.3.22 release with marketplace and new models",
+      "zh-CN": "成熟框架的减法哲学：让正确的事自然发生"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台发布与新功能",
+      "zh-CN": "功能列表越长，说明平台越在「加法阶段」——但真正成熟的系统不是不断堆砌功能，而是学会做减法，让用户用更少的配置完成更多的事。"
+    },
+    "relevance": "OpenClaw平台发布与新功能",
+    "score": 0.74,
+    "engagement": {
+      "likes": 587,
+      "retweets": 67,
+      "replies": 80,
+      "views": 29035
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-23T12:08:26.656206+00:00",
+    "js_take": {
+      "en-US": "More features means still in addition mode. Mature frameworks don't add options—they make the right ones happen without config.",
+      "zh-CN": "功能越多，说明还在做加法。成熟的框架不靠堆砌选项，而是让正确的事情无需配置就自然发生。"
+    }
   },
   {
     "id": "2036004113390223408",
@@ -5625,64 +5683,6 @@
     "js_take": {
       "en-US": "Forcing agents into standups is optimizing the wrong thing. Real autonomy means they ship without asking permission — not better status updates.",
       "zh-CN": "强迫Agent参加站会，是在优化错误的方向。真正的自主性，是无需请示就能发布成果——而不是把状态报告写得更好。"
-    }
-  },
-  {
-    "id": "2032249280535347595",
-    "date": "2026-03-13",
-    "author": "@gkisokay",
-    "author_url": "https://x.com/gkisokay",
-    "tweet_url": "https://x.com/gkisokay/status/2032249280535347595",
-    "title": {
-      "en-US": "OpenClaw workspace cleanup prompt for Codex/Claude Code",
-      "zh-CN": "作者分享了一个用于清理OpenClaw工作区的prompt，因为直接在OpenClaw里搭agent会导致工作区混乱。"
-    },
-    "summary": {
-      "en-US": "直接关于OpenClaw开发者体验，与JS的Agent实践完全契合",
-      "zh-CN": "这条推文暴露了一个被忽视的问题：当每个人都在优化'怎么让Agent做更多'时，真正的高手已经在解决'怎么让系统不崩'。技术债务不是未来问题，是此刻就在吞噬效率的隐形税。"
-    },
-    "relevance": "直接关于OpenClaw开发者体验，与JS的Agent实践完全契合",
-    "score": 0.78,
-    "engagement": {
-      "likes": 44,
-      "retweets": 2,
-      "replies": 4,
-      "views": 2051,
-      "bookmarks": 82
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-13T02:11:46.763675+00:00",
-    "js_take": {
-      "en-US": "Built 47 features last quarter. Spent 60 hours this month untangling context windows and duplicate prompts. You optimize for output; entropy optimizes for your attention.",
-      "zh-CN": "上季度交付47个功能，本月却花60小时梳理上下文窗口和重复提示词。你追求输出效率，熵却在蚕食你的注意力。"
-    }
-  },
-  {
-    "id": "2032418992128942150",
-    "date": "2026-03-13",
-    "author": "@frxiaobei",
-    "author_url": "https://x.com/frxiaobei",
-    "tweet_url": "https://x.com/frxiaobei/status/2032418992128942150",
-    "title": {
-      "en-US": "OpenClaw addict,熬夜折腾到凌晨",
-      "zh-CN": "沉迷OpenClaw，每天熬夜折腾到凌晨，身体发出警报"
-    },
-    "summary": {
-      "en-US": "OpenClaw社区+开发者体验",
-      "zh-CN": "过度投入OpenClaw反而让身体报警，这与OpenClaw「自动化减负」的初衷相悖——技术本应解放人，而非吞噬人。问题不在工具，而在「拼命优化」的执念本身。"
-    },
-    "relevance": "OpenClaw社区+开发者体验",
-    "score": 0.78,
-    "engagement": {
-      "likes": 77,
-      "retweets": 1,
-      "replies": 28
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-13T15:12:11.329539+00:00",
-    "js_take": {
-      "en-US": "The workflow you're debugging at 2am is the one you should have never built. Best automation? Knowing what to leave broken.",
-      "zh-CN": "凌晨两点还在调试的工作流，从一开始就不该搭。最高级的自动化？是懂得哪些该让它坏着。"
     }
   }
 ]
