@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-23T17:08:29.065622+00:00",
+  "updated_at": "2026-03-23T19:08:55.084366+00:00",
   "this_week": {
-    "total_items": 19,
+    "total_items": 22,
     "avg_score": 0.75,
-    "unique_authors": 18,
+    "unique_authors": 20,
     "top_items": [
       {
         "id": "2035799806640115806",
@@ -203,6 +203,34 @@
         }
       },
       {
+        "id": "2036115849971658996",
+        "date": "2026-03-24",
+        "author": "@mreflow",
+        "author_url": "https://x.com/mreflow",
+        "tweet_url": "https://x.com/mreflow/status/2036115849971658996",
+        "title": {
+          "en-US": "OpenClaw users: favorite default model? Local hits context limits, API costs rack up fast",
+          "zh-CN": "高频使用OpenClaw的用户，最喜欢的默认模型是什么？本地模型上下文限制太严格，API成本又飙升太快"
+        },
+        "summary": {
+          "en-US": "OpenClaw核心用户体验话题，直接相关",
+          "zh-CN": "讨论聚焦于\"选哪个模型\"，但真正的困境是：本地vs云端不是技术选择，是\"可控性vs能力\"的权衡——而且这两个选项都在快速进化，今天的最优解下个月就过时。"
+        },
+        "relevance": "OpenClaw核心用户体验话题，直接相关",
+        "score": 0.76,
+        "engagement": {
+          "likes": 32,
+          "replies": 41,
+          "retweets": 0
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-23T19:08:29.364888+00:00",
+        "js_take": {
+          "en-US": "Hunting for the 'best' model is optimizing a moving target. Build for swap—today's winner is next month's legacy.",
+          "zh-CN": "追逐'最佳'模型，如同射击移动靶。为替换而构建——今天的赢家，下个月即成 legacy。"
+        }
+      },
+      {
         "id": "2035567953572479307",
         "date": "2026-03-23",
         "author": "@Yuchenj_UW",
@@ -313,6 +341,34 @@
         "js_take": {
           "en-US": "More features means still in addition mode. Mature frameworks don't add options—they make the right ones happen without config.",
           "zh-CN": "功能越多，说明还在做加法。成熟的框架不靠堆砌选项，而是让正确的事情无需配置就自然发生。"
+        }
+      },
+      {
+        "id": "2036125929102004297",
+        "date": "2026-03-24",
+        "author": "@bradmillscan",
+        "author_url": "https://x.com/bradmillscan",
+        "tweet_url": "https://x.com/bradmillscan/status/2036125929102004297",
+        "title": {
+          "en-US": "OpenClaw mystery fires, edge case Monday",
+          "zh-CN": "OpenClaw周一早晨出现一系列边缘案例故障：自动更新导致重复错误、硬盘满载、网关无响应，但agent仍在Telegram正常对话"
+        },
+        "summary": {
+          "en-US": "OpenClaw运维实战经验、agent边缘案例",
+          "zh-CN": "一个更形象的真相：agent在系统崩溃边缘还能「正常对话」，恰恰暴露了当前AI运维的盲区——表面正常不等于系统健康。"
+        },
+        "relevance": "OpenClaw运维实战经验、agent边缘案例",
+        "score": 0.73,
+        "engagement": {
+          "likes": 21,
+          "replies": 13,
+          "retweets": 0
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-03-23T18:06:55.352407+00:00",
+        "js_take": {
+          "en-US": "Your agent says 'all good' on Telegram while disk hits 90%. Not resilience — sensory blindness. Real agents need to feel pain, not just answer chat.",
+          "zh-CN": "你的 Agent 在 Telegram 上说「一切正常」， meanwhile 磁盘已经 90% 了。这不是韧性——是感官失明。真正的 Agent 要能感知痛苦，而非只会聊天。"
         }
       },
       {
@@ -511,6 +567,34 @@
         "js_take": {
           "en-US": "OpenClaw gives you control, Claude Code takes it away. The real answer isn't picking one—it's letting them correct each other. Truth lives in the tension, not the choice.",
           "zh-CN": "OpenClaw 赋予你掌控，Claude Code 主张放手。真正的智慧不是二选一，而是让两者相互纠偏。真理存在于张力之间，而非选择之中。"
+        }
+      },
+      {
+        "id": "2036127739619479989",
+        "date": "2026-03-24",
+        "author": "@ryancarson",
+        "author_url": "https://x.com/ryancarson",
+        "tweet_url": "https://x.com/ryancarson/status/2036127739619479989",
+        "title": {
+          "en-US": "Running startup with DevinAI + OpenClaw",
+          "zh-CN": "作者分享用DevinAI+OpenClaw运行创业公司的经验，特别称赞Devin的浏览器测试能力，之前需要用Playwright+视频上传等拼凑的方案现在一站式解决"
+        },
+        "summary": {
+          "en-US": "OpenClaw+Devin组合实战、AI工具链整合",
+          "zh-CN": "更精炼：从「拼凑各种工具」到「一站式解决」看似是进步，实则是把判断权交给了黑箱。省力不等于省心。"
+        },
+        "relevance": "OpenClaw+Devin组合实战、AI工具链整合",
+        "score": 0.7,
+        "engagement": {
+          "likes": 61,
+          "replies": 16,
+          "retweets": 2
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-23T18:06:55.352412+00:00",
+        "js_take": {
+          "en-US": "Devin replaced your Playwright + upload pipeline. It also replaced your understanding of what the system actually tests. Saved effort, lost cognition — where do you get that back?",
+          "zh-CN": "Devin 取代了你的 Playwright + 上传流水线，也取代了你对自己系统究竟在测什么的理解。省了力气，丢了认知——这代价从哪补回来？"
         }
       },
       {

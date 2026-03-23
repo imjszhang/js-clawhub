@@ -1,5 +1,33 @@
 [
   {
+    "id": "2036115849971658996",
+    "date": "2026-03-24",
+    "author": "@mreflow",
+    "author_url": "https://x.com/mreflow",
+    "tweet_url": "https://x.com/mreflow/status/2036115849971658996",
+    "title": {
+      "en-US": "OpenClaw users: favorite default model? Local hits context limits, API costs rack up fast",
+      "zh-CN": "高频使用OpenClaw的用户，最喜欢的默认模型是什么？本地模型上下文限制太严格，API成本又飙升太快"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心用户体验话题，直接相关",
+      "zh-CN": "讨论聚焦于\"选哪个模型\"，但真正的困境是：本地vs云端不是技术选择，是\"可控性vs能力\"的权衡——而且这两个选项都在快速进化，今天的最优解下个月就过时。"
+    },
+    "relevance": "OpenClaw核心用户体验话题，直接相关",
+    "score": 0.76,
+    "engagement": {
+      "likes": 32,
+      "replies": 41,
+      "retweets": 0
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-23T19:08:29.364888+00:00",
+    "js_take": {
+      "en-US": "Hunting for the 'best' model is optimizing a moving target. Build for swap—today's winner is next month's legacy.",
+      "zh-CN": "追逐'最佳'模型，如同射击移动靶。为替换而构建——今天的赢家，下个月即成 legacy。"
+    }
+  },
+  {
     "id": "2036105422898409485",
     "date": "2026-03-24",
     "author": "@linyiLYi",
@@ -27,6 +55,62 @@
     "js_take": {
       "en-US": "Forcing open protocols into closed systems is swimming against the current. The harder you push for 'integration,' the deeper the misalignment becomes—openness and control obey different laws.",
       "zh-CN": "将开放协议硬塞进封闭系统，是逆势而为。越强求「整合」，错位越深——开放与控制本就遵循不同的法则。"
+    }
+  },
+  {
+    "id": "2036125929102004297",
+    "date": "2026-03-24",
+    "author": "@bradmillscan",
+    "author_url": "https://x.com/bradmillscan",
+    "tweet_url": "https://x.com/bradmillscan/status/2036125929102004297",
+    "title": {
+      "en-US": "OpenClaw mystery fires, edge case Monday",
+      "zh-CN": "OpenClaw周一早晨出现一系列边缘案例故障：自动更新导致重复错误、硬盘满载、网关无响应，但agent仍在Telegram正常对话"
+    },
+    "summary": {
+      "en-US": "OpenClaw运维实战经验、agent边缘案例",
+      "zh-CN": "一个更形象的真相：agent在系统崩溃边缘还能「正常对话」，恰恰暴露了当前AI运维的盲区——表面正常不等于系统健康。"
+    },
+    "relevance": "OpenClaw运维实战经验、agent边缘案例",
+    "score": 0.73,
+    "engagement": {
+      "likes": 21,
+      "replies": 13,
+      "retweets": 0
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-23T18:06:55.352407+00:00",
+    "js_take": {
+      "en-US": "Your agent says 'all good' on Telegram while disk hits 90%. Not resilience — sensory blindness. Real agents need to feel pain, not just answer chat.",
+      "zh-CN": "你的 Agent 在 Telegram 上说「一切正常」， meanwhile 磁盘已经 90% 了。这不是韧性——是感官失明。真正的 Agent 要能感知痛苦，而非只会聊天。"
+    }
+  },
+  {
+    "id": "2036127739619479989",
+    "date": "2026-03-24",
+    "author": "@ryancarson",
+    "author_url": "https://x.com/ryancarson",
+    "tweet_url": "https://x.com/ryancarson/status/2036127739619479989",
+    "title": {
+      "en-US": "Running startup with DevinAI + OpenClaw",
+      "zh-CN": "作者分享用DevinAI+OpenClaw运行创业公司的经验，特别称赞Devin的浏览器测试能力，之前需要用Playwright+视频上传等拼凑的方案现在一站式解决"
+    },
+    "summary": {
+      "en-US": "OpenClaw+Devin组合实战、AI工具链整合",
+      "zh-CN": "更精炼：从「拼凑各种工具」到「一站式解决」看似是进步，实则是把判断权交给了黑箱。省力不等于省心。"
+    },
+    "relevance": "OpenClaw+Devin组合实战、AI工具链整合",
+    "score": 0.7,
+    "engagement": {
+      "likes": 61,
+      "replies": 16,
+      "retweets": 2
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-23T18:06:55.352412+00:00",
+    "js_take": {
+      "en-US": "Devin replaced your Playwright + upload pipeline. It also replaced your understanding of what the system actually tests. Saved effort, lost cognition — where do you get that back?",
+      "zh-CN": "Devin 取代了你的 Playwright + 上传流水线，也取代了你对自己系统究竟在测什么的理解。省了力气，丢了认知——这代价从哪补回来？"
     }
   },
   {
@@ -5601,90 +5685,6 @@
     "js_take": {
       "en-US": "Feature lists are surface-world games. Real migration happens when users stop consuming tools and start building personal systems.",
       "zh-CN": "功能列表是表世界的游戏，真正的迁徙始于用户从消费工具转向构建个人系统。"
-    }
-  },
-  {
-    "id": "2032698610157027494",
-    "date": "2026-03-14",
-    "author": "@ashen_one",
-    "author_url": "https://x.com/ashen_one",
-    "tweet_url": "https://x.com/ashen_one/status/2032698610157027494",
-    "title": {
-      "en-US": "openclaw can now use ur actual chrome browser via remote debugging",
-      "zh-CN": "OpenClaw现在可以通过远程调试使用你真实的Chrome浏览器——不是无头浏览器，而是你开着Gmail和Notion的那个"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台功能——表/里世界交互层融合的关键一步",
-      "zh-CN": "这个更新的意义被低估了：它不是在解决'自动化操作浏览器'的技术问题，而是在抹平表世界（你看到的网页）和里世界（agent）之间的边界——当agent能直接操作你正在用的界面，'界面'本身就开始退化了。"
-    },
-    "relevance": "OpenClaw平台功能——表/里世界交互层融合的关键一步",
-    "score": 0.71,
-    "engagement": {
-      "likes": 274,
-      "replies": 26,
-      "retweets": 10
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-14T12:09:31.379323+00:00",
-    "js_take": {
-      "en-US": "Browsers aren't being controlled—they're becoming transparent. The real migration: from clicking interfaces to agents directly manipulating the underlying state. Surface world dissolves.",
-      "zh-CN": "浏览器不再是控制对象，而是在变得透明。真正的迁徙是：从点击界面到智能体直接操控底层状态。表世界正在消解。"
-    }
-  },
-  {
-    "id": "2032180950776627636",
-    "date": "2026-03-13",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2032180950776627636",
-    "title": {
-      "en-US": "Running local models 24/7 vs burning $300/day on cloud",
-      "zh-CN": "Alex Finn分享自己用3台Mac Studio和DGX Spark本地运行4个高端模型，对比云端Opus每天烧$300，展示本地部署的成本优势。"
-    },
-    "summary": {
-      "en-US": "OpenClaw本地部署、AI基础设施成本优化",
-      "zh-CN": "原推只看到「本地省钱」的表象，没点出更深层的结构迁移：当AI计算从云端API转向本地硬件，控制权的归属正在发生根本性转移——这不是成本问题，是主权的重新分配。"
-    },
-    "relevance": "OpenClaw本地部署、AI基础设施成本优化",
-    "score": 0.82,
-    "engagement": {
-      "likes": 112,
-      "replies": 36,
-      "retweets": 9
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-12T20:09:19.962455+00:00",
-    "js_take": {
-      "en-US": "You didn't cut $300/day in costs. You bought sovereignty for the day they throttle your API and your product goes dark.",
-      "zh-CN": "你不是在削减每天300美元的成本，而是在为API被限流、产品陷入瘫痪的那一天，买下了自主权。"
-    }
-  },
-  {
-    "id": "2032253333747220690",
-    "date": "2026-03-13",
-    "author": "@shao__meng",
-    "author_url": "https://x.com/shao__meng",
-    "tweet_url": "https://x.com/shao__meng/status/2032253333747220690",
-    "title": {
-      "en-US": "重读 OpenClaw 背后的 pi 框架，极简设计即使现在仍精妙",
-      "zh-CN": "作者重读OpenClaw背后的Agent框架「pi」，感叹其极简设计即使以现在的视角回看依然精妙，并总结了可复制到其他Agent的经验"
-    },
-    "summary": {
-      "en-US": "OpenClaw/pi框架深度反思，直接相关",
-      "zh-CN": "推崇「精妙」往往是对复杂系统的过度美化——真正的好设计不是让人惊叹的精妙，而是让人忘记它的存在。极简是减法，不是另一种形式的炫技。"
-    },
-    "relevance": "OpenClaw/pi框架深度反思，直接相关",
-    "score": 0.82,
-    "engagement": {
-      "likes": 125,
-      "replies": 8,
-      "retweets": 33
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-13T06:04:33.660566+00:00",
-    "js_take": {
-      "en-US": "「精妙」是认知税。真正优雅的系统不会让你感叹设计者的聪明——你会忘记设计的存在，就像忘记呼吸。",
-      "zh-CN": "「精妙」是一种认知税。真正优雅的系统不会让人惊叹设计者的聪明——你会忘记设计的存在，就像忘记呼吸一样自然。"
     }
   }
 ]
