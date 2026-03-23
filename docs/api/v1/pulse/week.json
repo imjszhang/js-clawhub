@@ -138,6 +138,36 @@
     }
   },
   {
+    "id": "2035889324705873950",
+    "date": "2026-03-23",
+    "author": "@pcshipp",
+    "author_url": "https://x.com/pcshipp",
+    "tweet_url": "https://x.com/pcshipp/status/2035889324705873950",
+    "title": {
+      "en-US": "CLAUDE.md cuts token costs by 50% and boosts speed",
+      "zh-CN": "添加CLAUDE.md文件可以让token成本降低50%并提升50%速度"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code工程实践，记忆层架构",
+      "zh-CN": "推文在强调「加文件」这个动作的价值，但真正的价值不是文件本身，而是让开发者被迫梳理一次「什么该被记住」的判断力——CLAUDE.md是判断力的外化，不是记忆的外包。"
+    },
+    "relevance": "OpenClaw/Claude Code工程实践，记忆层架构",
+    "score": 0.78,
+    "engagement": {
+      "likes": 1264,
+      "retweets": 27,
+      "replies": 51,
+      "views": 93701,
+      "bookmarks": 763
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-23T09:12:05.328867+00:00",
+    "js_take": {
+      "en-US": "You didn't cut token costs. You cut the tax of re-deciding what matters every session. CLAUDE.md isn't memory storage — it's judgment externalized.",
+      "zh-CN": "你省下的不是 token 费用，而是每次都要重新判断「什么重要」的认知负担。CLAUDE.md 不是记忆仓库——而是判断力的外化。"
+    }
+  },
+  {
     "id": "2035567953572479307",
     "date": "2026-03-23",
     "author": "@Yuchenj_UW",
