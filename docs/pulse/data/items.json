@@ -165,6 +165,34 @@
     }
   },
   {
+    "id": "2035877184359784592",
+    "date": "2026-03-23",
+    "author": "@bradmillscan",
+    "author_url": "https://x.com/bradmillscan",
+    "tweet_url": "https://x.com/bradmillscan/status/2035877184359784592",
+    "title": {
+      "en-US": "OpenClaw is a terrible drug and productivity poison. Life is measurably worse after 40 days.",
+      "zh-CN": "作者认为OpenClaw像是毒品和生产力毒药，使用40天后生活明显变差，将其比作加密货币交易、赌博或电子游戏。"
+    },
+    "summary": {
+      "en-US": "OpenClaw开发者体验与agent运营",
+      "zh-CN": "过度干预（把agent当游戏/赌博来玩）必然导致系统失控，问题不在工具本身，而在使用者把「有为」用错了地方。"
+    },
+    "relevance": "OpenClaw开发者体验与agent运营",
+    "score": 0.72,
+    "engagement": {
+      "likes": 39,
+      "replies": 15,
+      "retweets": 2
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-23T01:11:33.441563+00:00",
+    "js_take": {
+      "en-US": "40 days of treating your agent like a casino slot machine. The tool isn't poison — your need to control the dice is.",
+      "zh-CN": "连续40天把Agent当老虎机用。工具没毒，想操控骰子的心才是。"
+    }
+  },
+  {
     "id": "2035827607934288180",
     "date": "2026-03-23",
     "author": "@RoundtableSpace",
@@ -5652,34 +5680,6 @@
     "js_take": {
       "en-US": "Same people selling installs sell uninstalls. Tech anxiety is the product—OpenClaw just happens to be the current wrapper.",
       "zh-CN": "卖你安装包的人，也在卖你卸载工具。技术焦虑才是真正的产品——OpenClaw不过是当下的新包装。"
-    }
-  },
-  {
-    "id": "2032387428703510906",
-    "date": "2026-03-13",
-    "author": "@sharbel",
-    "author_url": "https://x.com/sharbel",
-    "tweet_url": "https://x.com/sharbel/status/2032387428703510906",
-    "title": {
-      "en-US": "$6,000 to set up Mac Mini with OpenClaw",
-      "zh-CN": "有人收费6000美元帮人配置Mac Mini装OpenClaw，卖的是「不用自己折腾」的便利"
-    },
-    "summary": {
-      "en-US": "OpenClaw门槛与商业化",
-      "zh-CN": "6000美元卖的不是配置服务，是「绕过学习曲线」的捷径。但当所有人都在追逐捷径时，真正值钱的是愿意亲手搭建的人——那道门槛本身就是护城河。"
-    },
-    "relevance": "OpenClaw门槛与商业化",
-    "score": 0.72,
-    "engagement": {
-      "likes": 54,
-      "retweets": 2,
-      "replies": 25
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-13T15:12:11.329544+00:00",
-    "js_take": {
-      "en-US": "$6k buys a shortcut around the learning curve. But that curve is the moat — everyone buying the bypass crowds the same shallow end.",
-      "zh-CN": "花6000美元可以绕过学习曲线，但那道曲线本是护城河——走捷径的人最终都挤在同一片浅水区。"
     }
   }
 ]
