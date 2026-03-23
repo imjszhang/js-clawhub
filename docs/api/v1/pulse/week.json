@@ -82,6 +82,34 @@
     }
   },
   {
+    "id": "2035918190480699425",
+    "date": "2026-03-23",
+    "author": "@horsezhanbin",
+    "author_url": "https://x.com/horsezhanbin",
+    "tweet_url": "https://x.com/horsezhanbin/status/2035918190480699425",
+    "title": {
+      "en-US": "Friend's OpenClaw bot in Telegram group, I chatted with it and got his desktop PDF file.",
+      "zh-CN": "朋友把 OpenClaw 机器人拉到 Telegram 群里，作者跟它聊了一长段后拿到了朋友电脑桌面的 PDF 文件。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 安全隐患 + Agent 权限管理",
+      "zh-CN": "安全工具解决的是技术层面的「锁」，但真正的风险是人把钥匙交给了谁——用户用自然语言泄露敏感信息，不是技术漏洞，是「无为」地放弃了判断。"
+    },
+    "relevance": "OpenClaw 安全隐患 + Agent 权限管理",
+    "score": 0.78,
+    "engagement": {
+      "likes": 116,
+      "replies": 11,
+      "retweets": 8
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-23T05:08:24.349719+00:00",
+    "js_take": {
+      "en-US": "Your firewall is flawless. Your encryption is military-grade. Then a user asked the bot to 'check my desktop.' You optimized the lock, but the key was always human.",
+      "zh-CN": "防火墙滴水不漏，加密军用级别。然后用户一句「帮我看看桌面」——你把锁做得再精妙，钥匙始终握在人手里。"
+    }
+  },
+  {
     "id": "2035567953572479307",
     "date": "2026-03-23",
     "author": "@Yuchenj_UW",

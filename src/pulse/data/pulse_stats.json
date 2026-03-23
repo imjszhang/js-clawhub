@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-23T04:19:01.835186+00:00",
+  "updated_at": "2026-03-23T05:08:41.229981+00:00",
   "this_week": {
-    "total_items": 11,
-    "avg_score": 0.74,
-    "unique_authors": 10,
+    "total_items": 12,
+    "avg_score": 0.75,
+    "unique_authors": 11,
     "top_items": [
       {
         "id": "2035799806640115806",
@@ -85,6 +85,34 @@
         "js_take": {
           "en-US": "We rebuilt our research pipeline 3 times in 6 months. Each 'upgrade' just made us faster at asking the wrong questions. The bottleneck isn't speed—it's knowing what to ask before the tools change again.",
           "zh-CN": "6个月内，我们的研究流程重建了3次。每次\"升级\"只是让我们更快地问了错的问题。瓶颈不在于速度——而是在工具再次更迭前，明白该提出什么问题。"
+        }
+      },
+      {
+        "id": "2035918190480699425",
+        "date": "2026-03-23",
+        "author": "@horsezhanbin",
+        "author_url": "https://x.com/horsezhanbin",
+        "tweet_url": "https://x.com/horsezhanbin/status/2035918190480699425",
+        "title": {
+          "en-US": "Friend's OpenClaw bot in Telegram group, I chatted with it and got his desktop PDF file.",
+          "zh-CN": "朋友把 OpenClaw 机器人拉到 Telegram 群里，作者跟它聊了一长段后拿到了朋友电脑桌面的 PDF 文件。"
+        },
+        "summary": {
+          "en-US": "OpenClaw 安全隐患 + Agent 权限管理",
+          "zh-CN": "安全工具解决的是技术层面的「锁」，但真正的风险是人把钥匙交给了谁——用户用自然语言泄露敏感信息，不是技术漏洞，是「无为」地放弃了判断。"
+        },
+        "relevance": "OpenClaw 安全隐患 + Agent 权限管理",
+        "score": 0.78,
+        "engagement": {
+          "likes": 116,
+          "replies": 11,
+          "retweets": 8
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-23T05:08:24.349719+00:00",
+        "js_take": {
+          "en-US": "Your firewall is flawless. Your encryption is military-grade. Then a user asked the bot to 'check my desktop.' You optimized the lock, but the key was always human.",
+          "zh-CN": "防火墙滴水不漏，加密军用级别。然后用户一句「帮我看看桌面」——你把锁做得再精妙，钥匙始终握在人手里。"
         }
       },
       {
