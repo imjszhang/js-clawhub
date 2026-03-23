@@ -1,5 +1,35 @@
 [
   {
+    "id": "2036105422898409485",
+    "date": "2026-03-24",
+    "author": "@linyiLYi",
+    "author_url": "https://x.com/linyiLYi",
+    "tweet_url": "https://x.com/linyiLYi/status/2036105422898409485",
+    "title": {
+      "en-US": "OpenClaw plugin system update broke WeChat integration, marked as dangerous code",
+      "zh-CN": "OpenClaw更新插件系统后，微信适配的ClawBot插件直接失效，被官方标记为危险代码"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态与微信适配的冲突",
+      "zh-CN": "做纠正：微信强求适配开源生态的'心急'恰恰违背了开源的底层逻辑——封闭系统强行对接开放协议，越是急于求成，越是南辕北辙"
+    },
+    "relevance": "OpenClaw生态与微信适配的冲突",
+    "score": 0.74,
+    "engagement": {
+      "likes": 35,
+      "replies": 13,
+      "retweets": 0,
+      "views": 5148,
+      "bookmarks": 5
+    },
+    "comment_type": "shunshi",
+    "synced_at": "2026-03-23T17:08:10.421302+00:00",
+    "js_take": {
+      "en-US": "Forcing open protocols into closed systems is swimming against the current. The harder you push for 'integration,' the deeper the misalignment becomes—openness and control obey different laws.",
+      "zh-CN": "将开放协议硬塞进封闭系统，是逆势而为。越强求「整合」，错位越深——开放与控制本就遵循不同的法则。"
+    }
+  },
+  {
     "id": "2035799806640115806",
     "date": "2026-03-23",
     "author": "@trq212",

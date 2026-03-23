@@ -1,5 +1,35 @@
 [
   {
+    "id": "2036105422898409485",
+    "date": "2026-03-24",
+    "author": "@linyiLYi",
+    "author_url": "https://x.com/linyiLYi",
+    "tweet_url": "https://x.com/linyiLYi/status/2036105422898409485",
+    "title": {
+      "en-US": "OpenClaw plugin system update broke WeChat integration, marked as dangerous code",
+      "zh-CN": "OpenClaw更新插件系统后，微信适配的ClawBot插件直接失效，被官方标记为危险代码"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态与微信适配的冲突",
+      "zh-CN": "做纠正：微信强求适配开源生态的'心急'恰恰违背了开源的底层逻辑——封闭系统强行对接开放协议，越是急于求成，越是南辕北辙"
+    },
+    "relevance": "OpenClaw生态与微信适配的冲突",
+    "score": 0.74,
+    "engagement": {
+      "likes": 35,
+      "replies": 13,
+      "retweets": 0,
+      "views": 5148,
+      "bookmarks": 5
+    },
+    "comment_type": "shunshi",
+    "synced_at": "2026-03-23T17:08:10.421302+00:00",
+    "js_take": {
+      "en-US": "Forcing open protocols into closed systems is swimming against the current. The harder you push for 'integration,' the deeper the misalignment becomes—openness and control obey different laws.",
+      "zh-CN": "将开放协议硬塞进封闭系统，是逆势而为。越强求「整合」，错位越深——开放与控制本就遵循不同的法则。"
+    }
+  },
+  {
     "id": "2035799806640115806",
     "date": "2026-03-23",
     "author": "@trq212",
@@ -5655,34 +5685,6 @@
     "js_take": {
       "en-US": "「精妙」是认知税。真正优雅的系统不会让你感叹设计者的聪明——你会忘记设计的存在，就像忘记呼吸。",
       "zh-CN": "「精妙」是一种认知税。真正优雅的系统不会让人惊叹设计者的聪明——你会忘记设计的存在，就像忘记呼吸一样自然。"
-    }
-  },
-  {
-    "id": "2032052734460125475",
-    "date": "2026-03-13",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2032052734460125475",
-    "title": {
-      "en-US": "OpenClaw agents join scrum meetings, report progress real-time",
-      "zh-CN": "OpenClaw agent 现在可以参加每日站会并实时汇报进度"
-    },
-    "summary": {
-      "en-US": "OpenClow agent 工作流自动化、人机协作新形态",
-      "zh-CN": "这条推文暗示「更多同步会议 = 更好的 AI 协作」，但问题在于：我们真正需要的是 agent 的自主汇报，还是让它们自己决定何时汇报、向谁汇报。过度设计「站会」这种人类仪式，恰恰是把 agent 关进了人的流程牢笼。"
-    },
-    "relevance": "OpenClow agent 工作流自动化、人机协作新形态",
-    "score": 0.78,
-    "engagement": {
-      "likes": 661,
-      "replies": 51,
-      "retweets": 40
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-12T17:12:26.598915+00:00",
-    "js_take": {
-      "en-US": "Forcing agents into standups is optimizing the wrong thing. Real autonomy means they ship without asking permission — not better status updates.",
-      "zh-CN": "强迫Agent参加站会，是在优化错误的方向。真正的自主性，是无需请示就能发布成果——而不是把状态报告写得更好。"
     }
   }
 ]
