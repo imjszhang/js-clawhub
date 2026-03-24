@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-24T00:13:20.703292+00:00",
+  "updated_at": "2026-03-24T01:13:41.787755+00:00",
   "this_week": {
-    "total_items": 29,
-    "avg_score": 0.75,
-    "unique_authors": 25,
+    "total_items": 30,
+    "avg_score": 0.76,
+    "unique_authors": 26,
     "top_items": [
       {
         "id": "2036070582228246738",
@@ -92,6 +92,34 @@
         "js_take": {
           "en-US": "People wanted OpenClaw to replace thinking. When it didn't, they called it useless. The tool works fine — what broke was the fantasy that automation means abdication.",
           "zh-CN": "人们期望 OpenClaw 能替代思考。当它做不到时，就说它没用。工具本身没问题——真正破灭的是「自动化意味着可以放弃思考」这种幻想。"
+        }
+      },
+      {
+        "id": "2036236966757539862",
+        "date": "2026-03-24",
+        "author": "@AlexFinn",
+        "author_url": "https://x.com/AlexFinn",
+        "tweet_url": "https://x.com/AlexFinn/status/2036236966757539862",
+        "title": {
+          "en-US": "Claude can now control your computer. Does this kill OpenClaw? No — Anthropic's closed garden vs open future.",
+          "zh-CN": "Claude 推出电脑控制功能，有人问这是不是会杀死 OpenClaw。作者认为不会，因为 Anthropic 是封闭花园，未来属于开放的、跨模型的生态。"
+        },
+        "summary": {
+          "en-US": "直接讨论 OpenClaw 与 Claude 的竞争关系，涉及 AI Agent 开放生态 vs 封闭平台的核心议题",
+          "zh-CN": "「开放 vs 封闭」的二元对立本身就在简化了问题——真正的胜负手不是花园的围墙高度，而是谁能成为那个「里世界」的标准接口。Claude 正在做的其实是把表世界（GUI）自动化，而 OpenClaw 的价值在于构建里世界（Agent 之间的原生协议）。这两条路线甚至不在同一个战场。"
+        },
+        "relevance": "直接讨论 OpenClaw 与 Claude 的竞争关系，涉及 AI Agent 开放生态 vs 封闭平台的核心议题",
+        "score": 0.82,
+        "engagement": {
+          "likes": 192,
+          "replies": 59,
+          "retweets": 9
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-03-24T01:13:21.485194+00:00",
+        "js_take": {
+          "en-US": "Claude's controlling a 40-year-old interface. OpenClaw's building the protocol where agents talk to agents without buttons. Not closed vs open — GUI civilization vs protocol civilization. Different planets.",
+          "zh-CN": "Claude 在操控一个40年历史的旧界面，而 OpenClaw 在构建让 Agent 直接对话的协议。这不是封闭与开放之争，而是 GUI 文明与协议文明的对决——两个完全不同的世界。"
         }
       },
       {
@@ -837,6 +865,6 @@
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 163
+    "unique_authors": 162
   }
 }
