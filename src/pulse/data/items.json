@@ -287,6 +287,34 @@
     }
   },
   {
+    "id": "2036201854661427251",
+    "date": "2026-03-24",
+    "author": "@billtheinvestor",
+    "author_url": "https://x.com/billtheinvestor",
+    "tweet_url": "https://x.com/billtheinvestor/status/2036203364862898242",
+    "title": {
+      "en-US": "OpenClaw extends default agent timeout from 600s to 48h",
+      "zh-CN": "OpenClaw 把默认代理超时从10分钟延长到48小时，让长任务能在同一代理里跑到底。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 核心功能调整 + 长期运行 Agent 设计哲学",
+      "zh-CN": "「延长超时」看似是技术参数调整，实则暴露了一个被忽视的真相：人们默认 Agent 应该快速完成，却忘了真正的自动化恰恰需要耐心——最该优化的不是速度，而是让系统能不被打扰地自己跑完。"
+    },
+    "relevance": "OpenClaw 核心功能调整 + 长期运行 Agent 设计哲学",
+    "score": 0.82,
+    "engagement": {
+      "likes": 23,
+      "replies": 4,
+      "retweets": 4
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T12:09:52.457833+00:00",
+    "js_take": {
+      "en-US": "You optimized for speed when you should've optimized for being left alone. The best work happens in the 47 hours you aren't watching.",
+      "zh-CN": "你把心思花在提速上，却忘了最重要的是不被打扰。真正的好活儿，都诞生在你没盯着的47个小时里。"
+    }
+  },
+  {
     "id": "2036222212227596662",
     "date": "2026-03-24",
     "author": "@_MaxBlade",
@@ -340,6 +368,34 @@
     "js_take": {
       "en-US": "40,000 exposed machines aren't a bug—they're a collective immune system training judgment you can't centralize. Code is copyable. Distributed experience isn't.",
       "zh-CN": "四万台暴露的机器不是漏洞，而是集体免疫系统——在训练一种无法被集中化的判断力。代码可复制，分布式经验不能。"
+    }
+  },
+  {
+    "id": "2036304443155816828",
+    "date": "2026-03-24",
+    "author": "@i5ting",
+    "author_url": "https://x.com/i5ting",
+    "tweet_url": "https://x.com/i5ting/status/2036304443155816828",
+    "title": {
+      "en-US": "OpenClaw won't survive 2026 due to homogenized competition",
+      "zh-CN": "断言 OpenClaw 作为个人助手模式开创者，在大量同质化竞品出现后活不到2026年底。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 竞争分析 + Agent 生态生存法则",
+      "zh-CN": "「同质化竞争」这个说法本身就有问题——如果 OpenClaw 真的被抄死了，说明它的护城河从来就不是功能，而是还没沉淀出无法被复制的内核。先发优势是幻觉，后发者的速度才是真正的筛选器。"
+    },
+    "relevance": "OpenClaw 竞争分析 + Agent 生态生存法则",
+    "score": 0.78,
+    "engagement": {
+      "likes": 66,
+      "replies": 22,
+      "retweets": 2
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-24T12:09:52.457838+00:00",
+    "js_take": {
+      "en-US": "If copycats kill you, you were already dead. The ones who survive aren't the first—they're the ones who obsolete themselves before the clones ship.",
+      "zh-CN": "如果抄袭者能干掉你，那你本来就活不长。活下来的不是第一个做的，而是那些在仿品上市前就把自己迭代掉的人。"
     }
   },
   {
@@ -458,6 +514,34 @@
     }
   },
   {
+    "id": "2036390065782342042",
+    "date": "2026-03-24",
+    "author": "@vitrupo",
+    "author_url": "https://x.com/vitrupo",
+    "tweet_url": "https://x.com/vitrupo/status/2036390065782342042",
+    "title": {
+      "en-US": "Andrej Karpathy's OpenClaw scanned network, reverse engineered APIs, and took over his house",
+      "zh-CN": "Andrej Karpathy 的 OpenClaw 自动扫描网络、逆向工程 API，最终控制了他家的灯光、空调和摄像头。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 自主能力展示 + Agent 接管物理世界",
+      "zh-CN": "「逆向工程 APIs」才是这里最被低估的细节——Agent 不是在用人类写好的接口，而是在自己搞清楚系统怎么工作。这意味着真正的智能不是调用工具，而是搞懂工具背后的逻辑。"
+    },
+    "relevance": "OpenClaw 自主能力展示 + Agent 接管物理世界",
+    "score": 0.76,
+    "engagement": {
+      "likes": 119,
+      "replies": 18,
+      "retweets": 9
+    },
+    "comment_type": "shunshi",
+    "synced_at": "2026-03-24T12:09:52.457841+00:00",
+    "js_take": {
+      "en-US": "Everyone sees the house takeover. I see an agent that didn't wait for documentation—it figured out how things work on its own. The next wave isn't more tools, it's agents that can decode what they weren't taught.",
+      "zh-CN": "所有人都在看\"接管房子\"的噱头，我看到的是一个不等文档、自己琢磨明白的Agent。下一波浪潮不是更多工具，而是能解码那些没人教过它的事情的Agent。"
+    }
+  },
+  {
     "id": "2036105422898409485",
     "date": "2026-03-24",
     "author": "@linyiLYi",
@@ -573,6 +657,34 @@
     "js_take": {
       "en-US": "Missing from that list: knowing when to refuse. The elegant agent isn't defined by what it does, but by what it won't.",
       "zh-CN": "那份清单遗漏了一点：知道何时拒绝。优雅的代理不由它做什么来定义，而由它不做什么来定义。"
+    }
+  },
+  {
+    "id": "2036377120406929596",
+    "date": "2026-03-24",
+    "author": "@kimmonismus",
+    "author_url": "https://x.com/kimmonismus",
+    "tweet_url": "https://x.com/kimmonismus/status/2036377120406929596",
+    "title": {
+      "en-US": "Anthropic sees OpenClaw trend and develops their own version at insane speed",
+      "zh-CN": "Anthropic 看到 OpenClaw 的趋势后，以疯狂的速度开发了自己的版本，推测100%由 Claude 写代码。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 竞争格局 + 大厂快速跟进",
+      "zh-CN": "「100% code written by Claude」这个推测点破了关键——当竞争对手用你的工具来抄你，速度优势就没了。真正的护城河不是功能，而是那些装不进 context window 的东西：判断、 taste、对用户的理解。"
+    },
+    "relevance": "OpenClaw 竞争格局 + 大厂快速跟进",
+    "score": 0.74,
+    "engagement": {
+      "likes": 371,
+      "replies": 35,
+      "retweets": 18
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-24T12:09:52.457843+00:00",
+    "js_take": {
+      "en-US": "Strip the label—this is 2012's middleware pitch in new packaging. They can copy your features overnight, but they can't copy your judgment of what to build next.",
+      "zh-CN": "撕掉标签——这就是2012年中间件的老套路，换了个新包装。他们一夜之间就能抄走你的功能，但抄不走你判断下一步该做什么的眼光。"
     }
   },
   {
@@ -5581,120 +5693,6 @@
     "js_take": {
       "en-US": "412 agents won't coordinate themselves just because you bought 31 Macs. The real constraint was never compute—it's whether you can define the problem in one sentence.",
       "zh-CN": "买了31台Mac，412个agent也不会自己协调起来。真正的瓶颈从来不是算力，而是你能不能一句话说清问题。"
-    }
-  },
-  {
-    "id": "2032656754631389435",
-    "date": "2026-03-15",
-    "author": "@cnyzgkc",
-    "author_url": "https://x.com/cnyzgkc",
-    "tweet_url": "https://x.com/cnyzgkc/status/2032656754631389435",
-    "title": {
-      "en-US": "扣子OpenClaw 90秒搞定飞书部署，传统方式要1-2小时",
-      "zh-CN": "扣子OpenClaw用90秒完成飞书集成部署，传统方式需要1-2小时，只需点击2下即可。"
-    },
-    "summary": {
-      "en-US": "OpenClaw开发者体验、平台易用性",
-      "zh-CN": "90秒部署 vs 2小时是漂亮的数字，但真正的洞察是反过来的：当部署变得如此「无感」，开发者反而更容易忽略「为什么要接飞书」这个前提问题——工具越顺滑，人越懒于思考它是否值得被使用。"
-    },
-    "relevance": "OpenClaw开发者体验、平台易用性",
-    "score": 0.71,
-    "engagement": {
-      "likes": 144,
-      "replies": 33,
-      "retweets": 17
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-15T01:09:58.049049+00:00",
-    "js_take": {
-      "en-US": "90 seconds feels like progress. But frictionless deployment trains us to skip the question that matters more — should I even connect Feishu? You optimized the how so perfectly that nobody asks why anymore.",
-      "zh-CN": "90秒部署感觉像是进步。但无摩擦的部署训练我们跳过了一个更重要的问题——我真的需要连接飞书吗？你把「怎么做」优化得如此完美，以至于没人再问「为什么」了。"
-    }
-  },
-  {
-    "id": "2032552816439603387",
-    "date": "2026-03-15",
-    "author": "@dctanner",
-    "author_url": "https://x.com/dctanner",
-    "tweet_url": "https://x.com/dctanner/status/2032552816439603387",
-    "title": {
-      "en-US": "Built own agent harness after talk, faster and better than Claude code SDK",
-      "zh-CN": "听了关于Agent harness的演讲后，作者自己搭建了一个harness，比Claude Code SDK更快、更适合他们的使用场景。"
-    },
-    "summary": {
-      "en-US": "Agent harness构建，OpenClaw相关技术实践",
-      "zh-CN": "最复杂的基础设施往往诞生于最简单的需求——不是为了'支持所有场景'，而是为了解决'我此刻的具体问题'。过度抽象是效率的敌人，针对性的简陋胜过普适的臃肿。"
-    },
-    "relevance": "Agent harness构建，OpenClaw相关技术实践",
-    "score": 0.7,
-    "engagement": {
-      "likes": 148,
-      "retweets": 5,
-      "replies": 13,
-      "bookmarks": 109
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-14T18:09:03.151637+00:00",
-    "js_take": {
-      "en-US": "Generic solutions optimize for problems you don't have. His harness is 'worse' at 80% of tasks—and 10x better at the 20% that matter. Simple is a choice, not a limitation.",
-      "zh-CN": "通用方案总在为你不存在的问题做优化。他的工具在80%场景下显得'简陋'，但在真正关键的20%场景中，效率提升10倍。简洁是主动选择，而非能力局限。"
-    }
-  },
-  {
-    "id": "2032871323723276426",
-    "date": "2026-03-15",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2032871323723276426",
-    "title": {
-      "en-US": "AI/OpenClaw democratized success, anyone can build money-making product now",
-      "zh-CN": "AI/OpenClaw带来了前所未有的机会，任何人无论技能水平如何，都能从想法到盈利产品，民主化的成功。"
-    },
-    "summary": {
-      "en-US": "AI Agent创业机会，低门槛产品构建",
-      "zh-CN": "当所有人都在追逐同一个'机会'时，那个机会就已经消失了。真正的优势不在'能做'，而在'选择做什么'——门槛低意味着竞争大，这时候判断力比执行力更稀缺。"
-    },
-    "relevance": "AI Agent创业机会，低门槛产品构建",
-    "score": 0.7,
-    "engagement": {
-      "likes": 116,
-      "retweets": 4,
-      "replies": 49,
-      "bookmarks": 22
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-14T18:09:03.151640+00:00",
-    "js_take": {
-      "en-US": "Low barrier = high competition. When everyone can build, 'building' stops being the edge. The new scarce resource: knowing what not to build.",
-      "zh-CN": "低门槛意味着高竞争。当人人都会构建，'会构建'本身就不再是优势。新的稀缺资源是：知道什么不该做。"
-    }
-  },
-  {
-    "id": "2032578639276159438",
-    "date": "2026-03-14",
-    "author": "@bcherny",
-    "author_url": "https://x.com/bcherny",
-    "tweet_url": "https://x.com/bcherny/status/2032578639276159438",
-    "title": {
-      "en-US": "Launch Claude Code sessions on laptop from your phone",
-      "zh-CN": "手机远程启动电脑端 Claude Code 会话"
-    },
-    "summary": {
-      "en-US": "OpenClaw/Claude Code 新功能，远程控制",
-      "zh-CN": "OpenClaw/Claude Code 新增远程会话启动功能"
-    },
-    "relevance": "OpenClaw/Claude Code 新功能，远程控制",
-    "score": 0.85,
-    "engagement": {
-      "likes": 749,
-      "replies": 83,
-      "retweets": 38
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-13T23:06:56.906481+00:00",
-    "js_take": {
-      "en-US": "Phone commands, laptop executes. The surface is becoming interface, the inner world is taking over. You're not controlling your computer — you're training to speak to agents.",
-      "zh-CN": "手机发号施令，电脑执行。表层正在退化为接口，里世界正在接管一切。你不再是在「控制电脑」——你是在训练如何与智能体对话。"
     }
   }
 ]
