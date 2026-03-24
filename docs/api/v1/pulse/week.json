@@ -29,6 +29,34 @@
     }
   },
   {
+    "id": "2036235294274646210",
+    "date": "2026-03-24",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2036235294274646210",
+    "title": {
+      "en-US": "CLAW3D made managing AI agents easier, add/remove inside interface",
+      "zh-CN": "CLAW3D支持界面内管理Agent，简化增删操作"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、Agent管理、产品哲学",
+      "zh-CN": "OpenClaw生态、Agent管理、产品哲学"
+    },
+    "relevance": "OpenClaw生态、Agent管理、产品哲学",
+    "score": 0.9,
+    "engagement": {
+      "likes": 122,
+      "replies": 13,
+      "retweets": 14
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T09:13:19.735334+00:00",
+    "js_take": {
+      "en-US": "Every 'easier management' feature whispers: your agents still need babysitting. Real 无为 isn't better controls — it's building agents that don't need them.",
+      "zh-CN": "每一个「更易管理」的功能都在暗示：你的Agent还需要你时刻照看。真正的无为不是更完善的控制面板——而是打造根本不需要被控制的Agent。"
+    }
+  },
+  {
     "id": "2036070582228246738",
     "date": "2026-03-24",
     "author": "@jumperz",
@@ -200,6 +228,34 @@
     "js_take": {
       "en-US": "Moat was never the code. It's the context between you and the code — the stuff that doesn't fit in a prompt. AI can copy your features, not your decision-making substrate.",
       "zh-CN": "护城河从来不是代码本身，而是你「与代码之间的上下文」——那些塞不进提示词的东西。AI 能抄你的功能，但抄不走你做决策的底层逻辑。"
+    }
+  },
+  {
+    "id": "2036259269104836926",
+    "date": "2026-03-24",
+    "author": "@huntharo",
+    "author_url": "https://x.com/huntharo",
+    "tweet_url": "https://x.com/huntharo/status/2036259269104836926",
+    "title": {
+      "en-US": "Develop software remotely using OpenClaw via Codex App Server plugin",
+      "zh-CN": "通过 Codex App Server 插件在 OpenClaw 里进行远程软件开发，支持 plan mode、review mode、exec approvals 等功能。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、远程开发、Agent工作流",
+      "zh-CN": "这条推文讲的是「远程控制」的技术实现，但真正的洞察在「远程 = 放手 = 信任」这个链条里。更纠正式的观点是：远程开发最难的不是技术连接，而是「看不见就不放心」的控制欲。OpenClaw 的审批机制解决的是信任问题，而信任的本质是接受「你无法控制一切」——这才是远程协作的底层逻辑。"
+    },
+    "relevance": "OpenClaw生态、远程开发、Agent工作流",
+    "score": 0.82,
+    "engagement": {
+      "likes": 72,
+      "replies": 5,
+      "retweets": 5
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-24T09:13:19.735340+00:00",
+    "js_take": {
+      "en-US": "Remote dev isn't a connection problem. It's a 'can I stop checking' problem. The breakthrough isn't better remote tools — it's accepting you can't see everything.",
+      "zh-CN": "远程开发不是连接问题，而是「我能不能不一直盯着」的问题。真正的突破不是更好的远程工具——而是接受你无法看见一切。"
     }
   },
   {

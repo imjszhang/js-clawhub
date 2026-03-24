@@ -29,6 +29,34 @@
     }
   },
   {
+    "id": "2036235294274646210",
+    "date": "2026-03-24",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2036235294274646210",
+    "title": {
+      "en-US": "CLAW3D made managing AI agents easier, add/remove inside interface",
+      "zh-CN": "CLAW3D支持界面内管理Agent，简化增删操作"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、Agent管理、产品哲学",
+      "zh-CN": "OpenClaw生态、Agent管理、产品哲学"
+    },
+    "relevance": "OpenClaw生态、Agent管理、产品哲学",
+    "score": 0.9,
+    "engagement": {
+      "likes": 122,
+      "replies": 13,
+      "retweets": 14
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T09:13:19.735334+00:00",
+    "js_take": {
+      "en-US": "Every 'easier management' feature whispers: your agents still need babysitting. Real 无为 isn't better controls — it's building agents that don't need them.",
+      "zh-CN": "每一个「更易管理」的功能都在暗示：你的Agent还需要你时刻照看。真正的无为不是更完善的控制面板——而是打造根本不需要被控制的Agent。"
+    }
+  },
+  {
     "id": "2036070582228246738",
     "date": "2026-03-24",
     "author": "@jumperz",
@@ -200,6 +228,34 @@
     "js_take": {
       "en-US": "Moat was never the code. It's the context between you and the code — the stuff that doesn't fit in a prompt. AI can copy your features, not your decision-making substrate.",
       "zh-CN": "护城河从来不是代码本身，而是你「与代码之间的上下文」——那些塞不进提示词的东西。AI 能抄你的功能，但抄不走你做决策的底层逻辑。"
+    }
+  },
+  {
+    "id": "2036259269104836926",
+    "date": "2026-03-24",
+    "author": "@huntharo",
+    "author_url": "https://x.com/huntharo",
+    "tweet_url": "https://x.com/huntharo/status/2036259269104836926",
+    "title": {
+      "en-US": "Develop software remotely using OpenClaw via Codex App Server plugin",
+      "zh-CN": "通过 Codex App Server 插件在 OpenClaw 里进行远程软件开发，支持 plan mode、review mode、exec approvals 等功能。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、远程开发、Agent工作流",
+      "zh-CN": "这条推文讲的是「远程控制」的技术实现，但真正的洞察在「远程 = 放手 = 信任」这个链条里。更纠正式的观点是：远程开发最难的不是技术连接，而是「看不见就不放心」的控制欲。OpenClaw 的审批机制解决的是信任问题，而信任的本质是接受「你无法控制一切」——这才是远程协作的底层逻辑。"
+    },
+    "relevance": "OpenClaw生态、远程开发、Agent工作流",
+    "score": 0.82,
+    "engagement": {
+      "likes": 72,
+      "replies": 5,
+      "retweets": 5
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-24T09:13:19.735340+00:00",
+    "js_take": {
+      "en-US": "Remote dev isn't a connection problem. It's a 'can I stop checking' problem. The breakthrough isn't better remote tools — it's accepting you can't see everything.",
+      "zh-CN": "远程开发不是连接问题，而是「我能不能不一直盯着」的问题。真正的突破不是更好的远程工具——而是接受你无法看见一切。"
     }
   },
   {
@@ -5640,62 +5696,6 @@
     "js_take": {
       "en-US": "412 agents, 31 Macs. I ran 50 agents that needed me to babysit every decision. Then I built 5 that could decide for themselves. Guess which scaled? Quantity without autonomy is just digital manual labor.",
       "zh-CN": "412个agent，31台Mac。我曾运行50个需要我事事操心的agent，后来建了5个能自主决策的。猜猜哪个能规模化？没有自主性的数量，不过是数字时代的体力劳动。"
-    }
-  },
-  {
-    "id": "2032642532174135727",
-    "date": "2026-03-14",
-    "author": "@steipete",
-    "author_url": "https://x.com/steipete",
-    "tweet_url": "https://x.com/steipete/status/2032642532174135727",
-    "title": {
-      "en-US": "15-year-old made $30k with OpenClaw contracts, asking for amazing use cases",
-      "zh-CN": "一个15岁少年用OpenClaw赚了3万美元合同，作者好奇大家见过的最惊人的OpenClaw用例是什么"
-    },
-    "summary": {
-      "en-US": "OpenClaw实际应用案例讨论，高流量提问帖",
-      "zh-CN": "人们只看到15岁赚3万美元的奇观，却没意识到真正的信号是「提问者在向社区征集案例」——这说明agent的经济价值刚进入大众认知阶段，但大多数人还在追逐故事而非建立系统。"
-    },
-    "relevance": "OpenClaw实际应用案例讨论，高流量提问帖",
-    "score": 0.82,
-    "engagement": {
-      "likes": 267,
-      "replies": 27,
-      "retweets": 18
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-14T03:04:02.419560+00:00",
-    "js_take": {
-      "en-US": "$30K is the story. The signal is everyone asking \"what can it do\" instead of building systems that answer. You chase the headline, someone else builds the pipeline.",
-      "zh-CN": "3万美元只是个故事。真正的信号是：所有人都在问「它能做什么」，却没人去搭建能回答这个问题的系统。你追逐头条，别人却在铺设管道。"
-    }
-  },
-  {
-    "id": "2032395025662034056",
-    "date": "2026-03-14",
-    "author": "@Jimmy_JingLv",
-    "author_url": "https://x.com/Jimmy_JingLv",
-    "tweet_url": "https://x.com/Jimmy_JingLv/status/2032395025662034056",
-    "title": {
-      "en-US": "OpenClaw is much better now, AI agent evolution is the real variable",
-      "zh-CN": "OpenClaw 比以前好用太多，AI Agents 的原生进化速度才是真正的变量。"
-    },
-    "summary": {
-      "en-US": "直接提及 OpenClaw 和 AI Agent 生态，与 JS 身份完全契合",
-      "zh-CN": "修正了常见误区：不是「等着模型变强」，而是搭好系统让 agent 自己进化。变量不是模型更新速度，是你有没有建成能自我迭代的系统。模型强不强是表，系统能不能生长是里。"
-    },
-    "relevance": "直接提及 OpenClaw 和 AI Agent 生态，与 JS 身份完全契合",
-    "score": 0.82,
-    "engagement": {
-      "likes": 45,
-      "retweets": 2,
-      "replies": 12
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-14T10:12:07.760216+00:00",
-    "js_take": {
-      "en-US": "Waiting for better models is passive. The real variable is whether your system can absorb new capabilities the day they drop. Models are the surface; your architecture is the inner world.",
-      "zh-CN": "坐等模型升级是被动的。真正的变量在于：你的系统能否在新模型发布当天就吸收它们的能力。模型是表世界，架构才是里世界。"
     }
   }
 ]
