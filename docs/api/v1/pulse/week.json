@@ -1,5 +1,89 @@
 [
   {
+    "id": "2036450271463604419",
+    "date": "2026-03-25",
+    "author": "@ThePrimeagen",
+    "author_url": "https://x.com/ThePrimeagen",
+    "tweet_url": "https://x.com/ThePrimeagen/status/2036450271463604419",
+    "title": {
+      "en-US": "OpenClaw will be looked at as one of the great destroyers of the free Internet",
+      "zh-CN": "OpenClaw 会成为互联网自由的终结者？"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台争议性讨论，技术圈高影响力账号",
+      "zh-CN": "OpenClaw 平台争议讨论，来自技术圈高影响力账号"
+    },
+    "relevance": "OpenClaw 平台争议性讨论，技术圈高影响力账号",
+    "score": 0.88,
+    "engagement": {
+      "likes": 1032,
+      "replies": 79,
+      "retweets": 19
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-24T16:17:04.781726+00:00",
+    "js_take": {
+      "en-US": "Blame the tool, ignore the hand. We've had frameworks that 'destroy' the web every 5 years — jQuery, React, now agents. The real threat isn't OpenClaw, it's the delusion that any tool saves you from thinking.",
+      "zh-CN": "怪工具，却看不见操控的手。每隔五年就有框架说要「毁掉」Web——从 jQuery 到 React，再到现在的 Agent。真正的威胁不是 OpenClaw，而是那种「用了工具就不用思考」的错觉。"
+    }
+  },
+  {
+    "id": "2036241130312859796",
+    "date": "2026-03-25",
+    "author": "@shao__meng",
+    "author_url": "https://x.com/shao__meng",
+    "tweet_url": "https://x.com/shao__meng/status/2036241130312859796",
+    "title": {
+      "en-US": "AGENTS.md 文件为何弊大于利？详尽文档反而让 Agent 表现更差",
+      "zh-CN": "讨论 AGENTS.md 文件过度详细反而降低 Agent 表现的现象"
+    },
+    "summary": {
+      "en-US": "AI Engineering 最佳实践反思，与 OpenClaw 直接相关",
+      "zh-CN": "AGENTS.md 越写越厚、Agent 越做越笨的现象揭示了一个反直觉的事实：你给 AI 的约束越多，它的判断空间越小，最终输出的不是智能而是你的偏见压缩包。"
+    },
+    "relevance": "AI Engineering 最佳实践反思，与 OpenClaw 直接相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 79,
+      "replies": 4,
+      "retweets": 15
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T16:17:04.781732+00:00",
+    "js_take": {
+      "en-US": "You wrote 3 pages of rules then wondered why the AI has no judgment left. AGENTS.md isn't documentation — it's a control fantasy. The best agents I've seen run on 10 lines and a lot of trust.",
+      "zh-CN": "写了三页规则，然后奇怪 AI 为什么没了判断力。AGENTS.md 不是文档，是控制欲的幻想。我见过最棒的 Agent，只靠 10 行代码和足够的信任。"
+    }
+  },
+  {
+    "id": "2036481033621623056",
+    "date": "2026-03-25",
+    "author": "@AnthropicAI",
+    "author_url": "https://x.com/AnthropicAI",
+    "tweet_url": "https://x.com/AnthropicAI/status/2036481033621623056",
+    "title": {
+      "en-US": "How we use a multi-agent harness to push Claude further in frontend design and autonomous software engineering",
+      "zh-CN": "Anthropic 分享他们如何用多智能体架构提升 Claude 在前端设计和长期自主软件工程任务上的表现"
+    },
+    "summary": {
+      "en-US": "多智能体系统/AI工程实践，与OpenClaw生态直接相关",
+      "zh-CN": "多智能体协作的难点不在「更多」，而在「何时让谁来干」——协调者的判断力才是瓶颈，而非单个agent的能力上限"
+    },
+    "relevance": "多智能体系统/AI工程实践，与OpenClaw生态直接相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 554,
+      "replies": 75,
+      "retweets": 75
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T17:10:42.138045+00:00",
+    "js_take": {
+      "en-US": "We wired 30 agents into a pipeline. When the coordinator hallucinated the wrong priority, they didn't fail — they delivered a beautiful, wrong solution in 10 seconds flat.",
+      "zh-CN": "30个智能体接入流水线后，协调器搞错了优先级，它们非但没崩溃，反而仅用10秒就交出了完美却错误的结果。"
+    }
+  },
+  {
     "id": "2036199965186207817",
     "date": "2026-03-24",
     "author": "@PEoperator",

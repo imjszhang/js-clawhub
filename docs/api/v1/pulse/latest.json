@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-24T12:10:15.248614+00:00",
+  "updated_at": "2026-03-24T17:11:01.146764+00:00",
   "this_week": {
-    "total_items": 47,
+    "total_items": 50,
     "avg_score": 0.77,
-    "unique_authors": 40,
+    "unique_authors": 43,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -60,6 +60,90 @@
         "js_take": {
           "en-US": "Every 'easier management' feature whispers: your agents still need babysitting. Real 无为 isn't better controls — it's building agents that don't need them.",
           "zh-CN": "每一个「更易管理」的功能都在暗示：你的Agent还需要你时刻照看。真正的无为不是更完善的控制面板——而是打造根本不需要被控制的Agent。"
+        }
+      },
+      {
+        "id": "2036450271463604419",
+        "date": "2026-03-25",
+        "author": "@ThePrimeagen",
+        "author_url": "https://x.com/ThePrimeagen",
+        "tweet_url": "https://x.com/ThePrimeagen/status/2036450271463604419",
+        "title": {
+          "en-US": "OpenClaw will be looked at as one of the great destroyers of the free Internet",
+          "zh-CN": "OpenClaw 会成为互联网自由的终结者？"
+        },
+        "summary": {
+          "en-US": "OpenClaw 平台争议性讨论，技术圈高影响力账号",
+          "zh-CN": "OpenClaw 平台争议讨论，来自技术圈高影响力账号"
+        },
+        "relevance": "OpenClaw 平台争议性讨论，技术圈高影响力账号",
+        "score": 0.88,
+        "engagement": {
+          "likes": 1032,
+          "replies": 79,
+          "retweets": 19
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-03-24T16:17:04.781726+00:00",
+        "js_take": {
+          "en-US": "Blame the tool, ignore the hand. We've had frameworks that 'destroy' the web every 5 years — jQuery, React, now agents. The real threat isn't OpenClaw, it's the delusion that any tool saves you from thinking.",
+          "zh-CN": "怪工具，却看不见操控的手。每隔五年就有框架说要「毁掉」Web——从 jQuery 到 React，再到现在的 Agent。真正的威胁不是 OpenClaw，而是那种「用了工具就不用思考」的错觉。"
+        }
+      },
+      {
+        "id": "2036241130312859796",
+        "date": "2026-03-25",
+        "author": "@shao__meng",
+        "author_url": "https://x.com/shao__meng",
+        "tweet_url": "https://x.com/shao__meng/status/2036241130312859796",
+        "title": {
+          "en-US": "AGENTS.md 文件为何弊大于利？详尽文档反而让 Agent 表现更差",
+          "zh-CN": "讨论 AGENTS.md 文件过度详细反而降低 Agent 表现的现象"
+        },
+        "summary": {
+          "en-US": "AI Engineering 最佳实践反思，与 OpenClaw 直接相关",
+          "zh-CN": "AGENTS.md 越写越厚、Agent 越做越笨的现象揭示了一个反直觉的事实：你给 AI 的约束越多，它的判断空间越小，最终输出的不是智能而是你的偏见压缩包。"
+        },
+        "relevance": "AI Engineering 最佳实践反思，与 OpenClaw 直接相关",
+        "score": 0.82,
+        "engagement": {
+          "likes": 79,
+          "replies": 4,
+          "retweets": 15
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-24T16:17:04.781732+00:00",
+        "js_take": {
+          "en-US": "You wrote 3 pages of rules then wondered why the AI has no judgment left. AGENTS.md isn't documentation — it's a control fantasy. The best agents I've seen run on 10 lines and a lot of trust.",
+          "zh-CN": "写了三页规则，然后奇怪 AI 为什么没了判断力。AGENTS.md 不是文档，是控制欲的幻想。我见过最棒的 Agent，只靠 10 行代码和足够的信任。"
+        }
+      },
+      {
+        "id": "2036481033621623056",
+        "date": "2026-03-25",
+        "author": "@AnthropicAI",
+        "author_url": "https://x.com/AnthropicAI",
+        "tweet_url": "https://x.com/AnthropicAI/status/2036481033621623056",
+        "title": {
+          "en-US": "How we use a multi-agent harness to push Claude further in frontend design and autonomous software engineering",
+          "zh-CN": "Anthropic 分享他们如何用多智能体架构提升 Claude 在前端设计和长期自主软件工程任务上的表现"
+        },
+        "summary": {
+          "en-US": "多智能体系统/AI工程实践，与OpenClaw生态直接相关",
+          "zh-CN": "多智能体协作的难点不在「更多」，而在「何时让谁来干」——协调者的判断力才是瓶颈，而非单个agent的能力上限"
+        },
+        "relevance": "多智能体系统/AI工程实践，与OpenClaw生态直接相关",
+        "score": 0.82,
+        "engagement": {
+          "likes": 554,
+          "replies": 75,
+          "retweets": 75
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-24T17:10:42.138045+00:00",
+        "js_take": {
+          "en-US": "We wired 30 agents into a pipeline. When the coordinator hallucinated the wrong priority, they didn't fail — they delivered a beautiful, wrong solution in 10 seconds flat.",
+          "zh-CN": "30个智能体接入流水线后，协调器搞错了优先级，它们非但没崩溃，反而仅用10秒就交出了完美却错误的结果。"
         }
       },
       {
@@ -943,96 +1027,11 @@
           "en-US": "Strip the label—this is 2012's middleware pitch in new packaging. They can copy your features overnight, but they can't copy your judgment of what to build next.",
           "zh-CN": "撕掉标签——这就是2012年中间件的老套路，换了个新包装。他们一夜之间就能抄走你的功能，但抄不走你判断下一步该做什么的眼光。"
         }
-      },
-      {
-        "id": "2036043904949330407",
-        "date": "2026-03-23",
-        "author": "@openclaw",
-        "author_url": "https://x.com/openclaw",
-        "tweet_url": "https://x.com/openclaw/status/2036043904949330407",
-        "title": {
-          "en-US": "OpenClaw 2026.3.22 release with marketplace and new models",
-          "zh-CN": "成熟框架的减法哲学：让正确的事自然发生"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台发布与新功能",
-          "zh-CN": "功能列表越长，说明平台越在「加法阶段」——但真正成熟的系统不是不断堆砌功能，而是学会做减法，让用户用更少的配置完成更多的事。"
-        },
-        "relevance": "OpenClaw平台发布与新功能",
-        "score": 0.74,
-        "engagement": {
-          "likes": 587,
-          "retweets": 67,
-          "replies": 80,
-          "views": 29035
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-23T12:08:26.656206+00:00",
-        "js_take": {
-          "en-US": "More features means still in addition mode. Mature frameworks don't add options—they make the right ones happen without config.",
-          "zh-CN": "功能越多，说明还在做加法。成熟的框架不靠堆砌选项，而是让正确的事情无需配置就自然发生。"
-        }
-      },
-      {
-        "id": "2036125929102004297",
-        "date": "2026-03-24",
-        "author": "@bradmillscan",
-        "author_url": "https://x.com/bradmillscan",
-        "tweet_url": "https://x.com/bradmillscan/status/2036125929102004297",
-        "title": {
-          "en-US": "OpenClaw mystery fires, edge case Monday",
-          "zh-CN": "OpenClaw周一早晨出现一系列边缘案例故障：自动更新导致重复错误、硬盘满载、网关无响应，但agent仍在Telegram正常对话"
-        },
-        "summary": {
-          "en-US": "OpenClaw运维实战经验、agent边缘案例",
-          "zh-CN": "一个更形象的真相：agent在系统崩溃边缘还能「正常对话」，恰恰暴露了当前AI运维的盲区——表面正常不等于系统健康。"
-        },
-        "relevance": "OpenClaw运维实战经验、agent边缘案例",
-        "score": 0.73,
-        "engagement": {
-          "likes": 21,
-          "replies": 13,
-          "retweets": 0
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-23T18:06:55.352407+00:00",
-        "js_take": {
-          "en-US": "Your agent says 'all good' on Telegram while disk hits 90%. Not resilience — sensory blindness. Real agents need to feel pain, not just answer chat.",
-          "zh-CN": "你的 Agent 在 Telegram 上说「一切正常」， meanwhile 磁盘已经 90% 了。这不是韧性——是感官失明。真正的 Agent 要能感知痛苦，而非只会聊天。"
-        }
-      },
-      {
-        "id": "2036278925194617296",
-        "date": "2026-03-24",
-        "author": "@ziwenxu_",
-        "author_url": "https://x.com/ziwenxu_",
-        "tweet_url": "https://x.com/ziwenxu_/status/2036278925194617296",
-        "title": {
-          "en-US": "Ran OpenClaw 30+ days, burned 1.5B tokens, rebuilt 3 times. Should cost $14k, paid $50.",
-          "zh-CN": "连续运行OpenClaw 30多天，烧掉15亿token，重建了3次配置，本应花费1.4万美元实际只花了50美元。"
-        },
-        "summary": {
-          "en-US": "OpenClaw实战经验，Agent运营的真实代价",
-          "zh-CN": "「重建3次」被轻描淡写地跳过，但这恰恰是agent工程的真实成本——不是API费用，而是认知负荷和系统熵增，这才是需要被看见的隐藏交易。"
-        },
-        "relevance": "OpenClaw实战经验，Agent运营的真实代价",
-        "score": 0.73,
-        "engagement": {
-          "likes": 75,
-          "replies": 6,
-          "retweets": 5
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-24T05:07:52.316716+00:00",
-        "js_take": {
-          "en-US": "3 rebuilds at ~6 weeks each. $50 in API costs, ~300 hours in broken abstractions. The real bill isn't the one you pay—it's the one you debug.",
-          "zh-CN": "3次重构，每次约6周。API只花了50美元，但破碎的抽象层耗掉约300小时。真正的账单不是明面上的开销——而是你在调试里赔进去的时间。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 161
+    "unique_authors": 162
   }
 }

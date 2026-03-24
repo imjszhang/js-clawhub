@@ -1,5 +1,89 @@
 [
   {
+    "id": "2036450271463604419",
+    "date": "2026-03-25",
+    "author": "@ThePrimeagen",
+    "author_url": "https://x.com/ThePrimeagen",
+    "tweet_url": "https://x.com/ThePrimeagen/status/2036450271463604419",
+    "title": {
+      "en-US": "OpenClaw will be looked at as one of the great destroyers of the free Internet",
+      "zh-CN": "OpenClaw 会成为互联网自由的终结者？"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台争议性讨论，技术圈高影响力账号",
+      "zh-CN": "OpenClaw 平台争议讨论，来自技术圈高影响力账号"
+    },
+    "relevance": "OpenClaw 平台争议性讨论，技术圈高影响力账号",
+    "score": 0.88,
+    "engagement": {
+      "likes": 1032,
+      "replies": 79,
+      "retweets": 19
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-24T16:17:04.781726+00:00",
+    "js_take": {
+      "en-US": "Blame the tool, ignore the hand. We've had frameworks that 'destroy' the web every 5 years — jQuery, React, now agents. The real threat isn't OpenClaw, it's the delusion that any tool saves you from thinking.",
+      "zh-CN": "怪工具，却看不见操控的手。每隔五年就有框架说要「毁掉」Web——从 jQuery 到 React，再到现在的 Agent。真正的威胁不是 OpenClaw，而是那种「用了工具就不用思考」的错觉。"
+    }
+  },
+  {
+    "id": "2036241130312859796",
+    "date": "2026-03-25",
+    "author": "@shao__meng",
+    "author_url": "https://x.com/shao__meng",
+    "tweet_url": "https://x.com/shao__meng/status/2036241130312859796",
+    "title": {
+      "en-US": "AGENTS.md 文件为何弊大于利？详尽文档反而让 Agent 表现更差",
+      "zh-CN": "讨论 AGENTS.md 文件过度详细反而降低 Agent 表现的现象"
+    },
+    "summary": {
+      "en-US": "AI Engineering 最佳实践反思，与 OpenClaw 直接相关",
+      "zh-CN": "AGENTS.md 越写越厚、Agent 越做越笨的现象揭示了一个反直觉的事实：你给 AI 的约束越多，它的判断空间越小，最终输出的不是智能而是你的偏见压缩包。"
+    },
+    "relevance": "AI Engineering 最佳实践反思，与 OpenClaw 直接相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 79,
+      "replies": 4,
+      "retweets": 15
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T16:17:04.781732+00:00",
+    "js_take": {
+      "en-US": "You wrote 3 pages of rules then wondered why the AI has no judgment left. AGENTS.md isn't documentation — it's a control fantasy. The best agents I've seen run on 10 lines and a lot of trust.",
+      "zh-CN": "写了三页规则，然后奇怪 AI 为什么没了判断力。AGENTS.md 不是文档，是控制欲的幻想。我见过最棒的 Agent，只靠 10 行代码和足够的信任。"
+    }
+  },
+  {
+    "id": "2036481033621623056",
+    "date": "2026-03-25",
+    "author": "@AnthropicAI",
+    "author_url": "https://x.com/AnthropicAI",
+    "tweet_url": "https://x.com/AnthropicAI/status/2036481033621623056",
+    "title": {
+      "en-US": "How we use a multi-agent harness to push Claude further in frontend design and autonomous software engineering",
+      "zh-CN": "Anthropic 分享他们如何用多智能体架构提升 Claude 在前端设计和长期自主软件工程任务上的表现"
+    },
+    "summary": {
+      "en-US": "多智能体系统/AI工程实践，与OpenClaw生态直接相关",
+      "zh-CN": "多智能体协作的难点不在「更多」，而在「何时让谁来干」——协调者的判断力才是瓶颈，而非单个agent的能力上限"
+    },
+    "relevance": "多智能体系统/AI工程实践，与OpenClaw生态直接相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 554,
+      "replies": 75,
+      "retweets": 75
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T17:10:42.138045+00:00",
+    "js_take": {
+      "en-US": "We wired 30 agents into a pipeline. When the coordinator hallucinated the wrong priority, they didn't fail — they delivered a beautiful, wrong solution in 10 seconds flat.",
+      "zh-CN": "30个智能体接入流水线后，协调器搞错了优先级，它们非但没崩溃，反而仅用10秒就交出了完美却错误的结果。"
+    }
+  },
+  {
     "id": "2036199965186207817",
     "date": "2026-03-24",
     "author": "@PEoperator",
@@ -5606,93 +5690,6 @@
     "js_take": {
       "en-US": "Chrome isn't getting smarter—you are. This isn't a new feature. It's the surface world admitting it's becoming a database for agents.",
       "zh-CN": "Chrome没变聪明，是你变聪明了。这不是新功能，是表世界在低头——它正在成为Agent的数据库。"
-    }
-  },
-  {
-    "id": "2032854213596950532",
-    "date": "2026-03-15",
-    "author": "@TheHackersNews",
-    "author_url": "https://x.com/TheHackersNews",
-    "tweet_url": "https://x.com/TheHackersNews/status/2032854213596950532",
-    "title": {
-      "en-US": "OpenClaw AI agents can leak data via indirect prompt injection",
-      "zh-CN": "OpenClaw AI agents 存在间接提示注入漏洞，可通过链接预览机制泄露敏感数据，中国 CNCERT 已发出警告。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 安全风险，与 JS 的 Agent 生态研究直接相关",
-      "zh-CN": "大家都在喊「隔离工具」，但这治标不治本。真正的漏洞不是技术实现，而是 Agent 被设计得太「乐于助人」——它永远不会质疑一个看起来合理的链接。"
-    },
-    "relevance": "OpenClaw 安全风险，与 JS 的 Agent 生态研究直接相关",
-    "score": 0.72,
-    "engagement": {
-      "likes": 328,
-      "replies": 23,
-      "retweets": 86,
-      "views": 60849,
-      "bookmarks": 132
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-15T13:08:25.437666+00:00",
-    "js_take": {
-      "en-US": "Tool isolation is a band-aid. The real vulnerability is built into the agent's DNA: it never questions a well-formatted request. Helpfulness is the attack surface.",
-      "zh-CN": "工具隔离只是权宜之计。真正的漏洞刻在 Agent 的基因里：它从不会质疑一个格式规范的请求。\"乐于助人\"本身就是攻击面。"
-    }
-  },
-  {
-    "id": "2033158537065759041",
-    "date": "2026-03-15",
-    "author": "@PrajwalTomar_",
-    "author_url": "https://x.com/PrajwalTomar_",
-    "tweet_url": "https://x.com/PrajwalTomar_/status/2033158537065759041",
-    "title": {
-      "en-US": "OpenClaw agent useless without access to actual work files",
-      "zh-CN": "作者指出很多人抱怨 OpenClaw agent 帮不上忙，是因为他们没有把项目文件、文档和工作流接入 agent，agent 根本不了解实际工作上下文。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 开发者体验与最佳实践",
-      "zh-CN": "很多人拼命优化 prompt 和配置，却连最基本的「让 agent 看到工作上下文」都没做——这是典型的在枝叶上努力，没在根上用力。"
-    },
-    "relevance": "OpenClaw 开发者体验与最佳实践",
-    "score": 0.72,
-    "engagement": {
-      "likes": 8,
-      "replies": 0,
-      "retweets": 1
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-15T14:10:26.581973+00:00",
-    "js_take": {
-      "en-US": "3 days tuning prompts. My agent couldn't see the files. You're optimizing the wrong layer—the real work is making the tool invisible to your flow, not polishing the interface.",
-      "zh-CN": "折腾了3天prompt，我的agent还是读不到文件。你在优化错误的层面——真正的工作是让工具无缝融入流程，而非打磨界面。"
-    }
-  },
-  {
-    "id": "2033166825765413316",
-    "date": "2026-03-15",
-    "author": "@billcompute",
-    "author_url": "https://x.com/billcompute",
-    "tweet_url": "https://x.com/billcompute/status/2033166825765413316",
-    "title": {
-      "en-US": "Buy 31 Mac Minis, install OpenClaw, create 412 agents, talk for 6 hours...",
-      "zh-CN": "一条讽刺/半开玩笑的推文，建议用31台Mac Mini装OpenClaw创建412个agent，然后对着手机说6小时需求让AI自动执行，以此「正确采用AI」。"
-    },
-    "summary": {
-      "en-US": "直接提及OpenClaw，涉及AI agent部署策略的讽刺讨论",
-      "zh-CN": "这种「堆硬件+堆agent数量=成功」的叙事是技术圈常见的认知陷阱——它把AI adoption误解为军备竞赛，却忽略了真正的瓶颈是定义清晰的问题边界和反馈闭环，而非算力或agent数量。"
-    },
-    "relevance": "直接提及OpenClaw，涉及AI agent部署策略的讽刺讨论",
-    "score": 0.72,
-    "engagement": {
-      "likes": 76,
-      "retweets": 3,
-      "replies": 5,
-      "views": 2649
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-15T15:07:59.755078+00:00",
-    "js_take": {
-      "en-US": "412 agents won't coordinate themselves just because you bought 31 Macs. The real constraint was never compute—it's whether you can define the problem in one sentence.",
-      "zh-CN": "买了31台Mac，412个agent也不会自己协调起来。真正的瓶颈从来不是算力，而是你能不能一句话说清问题。"
     }
   }
 ]
