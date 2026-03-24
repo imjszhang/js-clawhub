@@ -30,6 +30,65 @@
     }
   },
   {
+    "id": "2036148579602145665",
+    "date": "2026-03-24",
+    "author": "@karankendre",
+    "author_url": "https://x.com/karankendre",
+    "tweet_url": "https://x.com/karankendre/status/2036148579602145665",
+    "title": {
+      "en-US": "Claims OpenClaw has no unique features vs Claude anymore",
+      "zh-CN": "声称 OpenClaw 已经没有什么功能是 Claude 做不到的了"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Claude 能力边界争议，技术圈热门话题",
+      "zh-CN": "功能等价是伪命题——当两个系统都能完成同样任务时，真正的差异从「能做什么」转向「如何组织」，后者决定了生态位的可持续性。"
+    },
+    "relevance": "OpenClaw vs Claude 能力边界争议，技术圈热门话题",
+    "score": 0.82,
+    "engagement": {
+      "likes": 261,
+      "replies": 28,
+      "retweets": 8,
+      "views": 50653
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-23T22:09:29.946108+00:00",
+    "js_take": {
+      "en-US": "Feature parity is a trap. When two systems can do the same tasks, the real difference shifts from 'what' to 'how it's organized'—OpenClaw's composability isn't a feature, it's structure.",
+      "zh-CN": "功能对等是个陷阱。当两个系统能做同样的事时，真正的差异就从'做什么'变成了'如何组织'——OpenClaw的可组合性不是一项功能，而是底层结构。"
+    }
+  },
+  {
+    "id": "2036123992520794308",
+    "date": "2026-03-24",
+    "author": "@maigomaigoHH",
+    "author_url": "https://x.com/maigomaigoHH",
+    "tweet_url": "https://x.com/maigomaigoHH/status/2036123992520794308",
+    "title": {
+      "en-US": "OpenClaw hype fading in China, people realizing it can't do much",
+      "zh-CN": "OpenClaw在墙内的热度消退，大家发现这东西好像并不能做什么"
+    },
+    "summary": {
+      "en-US": "直接讨论OpenClaw热度消退，涉及平台期望与现实落差",
+      "zh-CN": "热度消退不是因为工具没用，而是人们把「自动化一切」的幻想投射到它身上——当发现它不会替你思考，就说是工具的问题。真正的问题是：你期待一个框架替你完成那些本该由判断力完成的事。"
+    },
+    "relevance": "直接讨论OpenClaw热度消退，涉及平台期望与现实落差",
+    "score": 0.82,
+    "engagement": {
+      "likes": 211,
+      "replies": 50,
+      "retweets": 1,
+      "views": 95912,
+      "bookmarks": 28
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T00:13:00.932059+00:00",
+    "js_take": {
+      "en-US": "People wanted OpenClaw to replace thinking. When it didn't, they called it useless. The tool works fine — what broke was the fantasy that automation means abdication.",
+      "zh-CN": "人们期望 OpenClaw 能替代思考。当它做不到时，就说它没用。工具本身没问题——真正破灭的是「自动化意味着可以放弃思考」这种幻想。"
+    }
+  },
+  {
     "id": "2036115849971658996",
     "date": "2026-03-24",
     "author": "@mreflow",
@@ -55,6 +114,36 @@
     "js_take": {
       "en-US": "Hunting for the 'best' model is optimizing a moving target. Build for swap—today's winner is next month's legacy.",
       "zh-CN": "追逐'最佳'模型，如同射击移动靶。为替换而构建——今天的赢家，下个月即成 legacy。"
+    }
+  },
+  {
+    "id": "2036198860067053773",
+    "date": "2026-03-24",
+    "author": "@karankendre",
+    "author_url": "https://x.com/karankendre",
+    "tweet_url": "https://x.com/karankendre/status/2036198860067053773",
+    "title": {
+      "en-US": "Claude launched better OpenClaw, wrapper startups in trouble",
+      "zh-CN": "Claude刚发布了一个更好的OpenClaw，所有花几千块搭OpenClaw wrapper的创业公司现在的表情："
+    },
+    "summary": {
+      "en-US": "直接对比Claude与OpenClaw，讨论wrapper创业的风险",
+      "zh-CN": "大厂发布功能是必然事件，不是黑天鹅。在别人的河流上建码头，就要接受河床随时改道的风险。但换个角度：每次大厂下沉，都会逼出一批真正懂业务的人——他们的价值不是那层封装，而是对「这个场景下什么该做、什么不该做」的判断力。"
+    },
+    "relevance": "直接对比Claude与OpenClaw，讨论wrapper创业的风险",
+    "score": 0.76,
+    "engagement": {
+      "likes": 613,
+      "retweets": 20,
+      "replies": 13,
+      "views": 107802,
+      "bookmarks": 128
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-24T00:13:00.932065+00:00",
+    "js_take": {
+      "en-US": "Every platform下沉 filters out the real operators. Wrapper's endgame isn't replacement — it's proving you packaged judgment, not just endpoints.",
+      "zh-CN": "每个平台下沉都会过滤掉真正的运营者。Wrapper 的终局不是替代——而是证明你封装的是判断力，而不只是接口端点。"
     }
   },
   {
@@ -88,6 +177,65 @@
     }
   },
   {
+    "id": "2036197273496068102",
+    "date": "2026-03-24",
+    "author": "@Yuchenj_UW",
+    "author_url": "https://x.com/Yuchenj_UW",
+    "tweet_url": "https://x.com/Yuchenj_UW/status/2036197273496068102",
+    "title": {
+      "en-US": "Why Anthropic didn't buy OpenClaw - aiming for full computer control",
+      "zh-CN": "解释 Anthropic 为什么不收购 OpenClaw——因为 Claude 的目标是控制整台电脑"
+    },
+    "summary": {
+      "en-US": "Anthropic 战略定位与 OpenClaw 生态位分析",
+      "zh-CN": "「做一切」和「做好一件事」不是竞争关系，是不同进化路径。试图控制整台电脑的系统，和选择特定场景深耕的系统，终将分化为两个物种。"
+    },
+    "relevance": "Anthropic 战略定位与 OpenClaw 生态位分析",
+    "score": 0.74,
+    "engagement": {
+      "likes": 83,
+      "replies": 14,
+      "retweets": 3,
+      "views": 5037
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-23T22:09:29.946114+00:00",
+    "js_take": {
+      "en-US": "Claude wants the whole computer. OpenClaw picked specific scenes. Not competition—two species diverging. Different势, no collision.",
+      "zh-CN": "Claude想接管整台电脑，OpenClaw专注特定场景。这不是竞争，是两个物种的分道扬镳。势不同，不相撞。"
+    }
+  },
+  {
+    "id": "2036026482959532228",
+    "date": "2026-03-24",
+    "author": "@hiheimu",
+    "author_url": "https://x.com/hiheimu",
+    "tweet_url": "https://x.com/hiheimu/status/2036026482959532228",
+    "title": {
+      "en-US": "Claude orchestrating Codex reveals new AI programming paradigm",
+      "zh-CN": "劳佬为省Claude Token做出的东西，藏着AI时代编程的新范式：Claude调度Codex干活，你只需用自然语言跟Claude说需求"
+    },
+    "summary": {
+      "en-US": "AI agent协作编排，harness engineer概念，与OpenClaw生态直接相关",
+      "zh-CN": "省Token只是表象，真正的范式转移是「谁来做决策」。当Claude决定什么时候调用Codex、什么时候自己写，人的角色从「写代码」变成了「定义问题边界」——这不是省钱，是把认知负荷从执行层转移到判断层。"
+    },
+    "relevance": "AI agent协作编排，harness engineer概念，与OpenClaw生态直接相关",
+    "score": 0.74,
+    "engagement": {
+      "likes": 47,
+      "retweets": 4,
+      "replies": 4,
+      "views": 9102,
+      "bookmarks": 55
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-24T00:13:00.932068+00:00",
+    "js_take": {
+      "en-US": "Token savings are the distraction. The shift is who decides. Claude calling Codex means your job moved from writing code to drawing boundaries — execution is cheap now, judgment is the cost.",
+      "zh-CN": "节省 Token 只是表象。真正的转变在于谁来决策。Claude 调用 Codex 意味着你的工作从写代码变成了划定边界——执行现在很便宜，判断力才是成本。"
+    }
+  },
+  {
     "id": "2036125929102004297",
     "date": "2026-03-24",
     "author": "@bradmillscan",
@@ -113,6 +261,35 @@
     "js_take": {
       "en-US": "Your agent says 'all good' on Telegram while disk hits 90%. Not resilience — sensory blindness. Real agents need to feel pain, not just answer chat.",
       "zh-CN": "你的 Agent 在 Telegram 上说「一切正常」， meanwhile 磁盘已经 90% 了。这不是韧性——是感官失明。真正的 Agent 要能感知痛苦，而非只会聊天。"
+    }
+  },
+  {
+    "id": "2036190404400283884",
+    "date": "2026-03-24",
+    "author": "@NVIDIAAIDev",
+    "author_url": "https://x.com/NVIDIAAIDev",
+    "tweet_url": "https://x.com/NVIDIAAIDev/status/2036190404400283884",
+    "title": {
+      "en-US": "NVIDIA NemoClaw simplifies OpenClaw deployment with one command",
+      "zh-CN": "NVIDIA 发布 NemoClaw，一键简化 OpenClaw 部署，支持任何编码 Agent"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态基础设施，NVIDIA 官方背书",
+      "zh-CN": "部署门槛的降低意味着竞争将上移到「用这些工具构建什么」，而非「如何部署」。基础设施成熟后，真正的游戏才刚开始。"
+    },
+    "relevance": "OpenClaw 生态基础设施，NVIDIA 官方背书",
+    "score": 0.71,
+    "engagement": {
+      "likes": 202,
+      "replies": 21,
+      "retweets": 21,
+      "views": 10923
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-23T22:09:29.946117+00:00",
+    "js_take": {
+      "en-US": "One-command deployment means the game starts now. Competition moves from 'can you run it' to 'can you keep it alive'—infrastructure was never the moat.",
+      "zh-CN": "一键部署意味着游戏现在开始。竞争从'能不能跑起来'变成了'能不能让它持续运转'——基础设施从来不是真正的护城河。"
     }
   },
   {
@@ -3485,634 +3662,6 @@
     "js_take": {
       "en-US": "OpenClaw wasn't 'chosen' by NVIDIA—it proved the agent layer doesn't need big tech to exist. The 势 isn't in compute anymore. It's in decentralized agency.",
       "zh-CN": "OpenClaw不是被NVIDIA'选中'的——它证明了代理层不需要大厂也能存在。势不在算力了，在去中心化的代理能力。"
-    }
-  },
-  {
-    "id": "2033351944396472485",
-    "date": "2026-03-17",
-    "author": "@evilcos",
-    "author_url": "https://x.com/evilcos",
-    "tweet_url": "https://x.com/evilcos/status/2033351944396472485",
-    "title": {
-      "en-US": "吐槽玩OpenClaw/Claude Code后反而更忙：要引导、续费、监控、远程监工",
-      "zh-CN": "AI工具悖论：越用越忙，沦为数字监工"
-    },
-    "summary": {
-      "en-US": "AI Agent运营痛点——过度使用AI工具的反效果",
-      "zh-CN": "AI Agent运营的真实困境——当工具本身成为负担"
-    },
-    "relevance": "AI Agent运营痛点——过度使用AI工具的反效果",
-    "score": 0.92,
-    "engagement": {
-      "likes": 451,
-      "replies": 136,
-      "retweets": 41,
-      "views": 87666
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-16T16:08:52.898246+00:00",
-    "js_take": {
-      "en-US": "I spent more hours babysitting my AI setup than it ever saved me. The best automation is the one you forget exists.",
-      "zh-CN": "花在伺候AI上的时间比它帮我省的时间还多。最好的自动化是那种你会忘记它存在的。"
-    }
-  },
-  {
-    "id": "2033677491135766994",
-    "date": "2026-03-17",
-    "author": "@StockSavvyShay",
-    "author_url": "https://x.com/StockSavvyShay",
-    "tweet_url": "https://x.com/StockSavvyShay/status/2033677491135766994",
-    "title": {
-      "en-US": "Jensen Huang calls OpenClaw \"the new computer\", comparing its impact to Linux.",
-      "zh-CN": "黄仁勋称OpenClaw为\"新计算机\"，影响力堪比Linux"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台影响力 + 技术史对比",
-      "zh-CN": "OpenClaw平台影响力与技术史对比"
-    },
-    "relevance": "OpenClaw 平台影响力 + 技术史对比",
-    "score": 0.88,
-    "engagement": {
-      "likes": 1616,
-      "replies": 51,
-      "retweets": 136
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-17T01:11:13.868177+00:00",
-    "js_take": {
-      "en-US": "Linux took 30 years to reshape the stack. OpenClaw did it in weeks. Gap isn't speed—it's timing. When the surface world becomes a database and the inner world becomes the interface, technology spreads on curves we haven't named yet.",
-      "zh-CN": "Linux用了30年重塑技术栈，OpenClaw几周就做到了。差距不在速度，而在时机。当表世界退化为数据库、里世界成为新交互界面时，技术将以我们尚未命名的曲线扩散。"
-    }
-  },
-  {
-    "id": "2033835300653568159",
-    "date": "2026-03-17",
-    "author": "@kanavtwt",
-    "author_url": "https://x.com/kanavtwt",
-    "tweet_url": "https://x.com/kanavtwt/status/2033835300653568159",
-    "title": {
-      "en-US": "OpenClaw exceeded what Linux did in 30 years",
-      "zh-CN": "OpenClaw数周走完Linux三十年的路"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态爆发与技术扩散速度，符合JS关注的「表/里世界迁徙」主题",
-      "zh-CN": "OpenClaw生态爆发与技术扩散速度，符合JS关注的「表/里世界迁徙」主题"
-    },
-    "relevance": "OpenClaw生态爆发与技术扩散速度，符合JS关注的「表/里世界迁徙」主题",
-    "score": 0.88,
-    "engagement": {
-      "likes": 1750,
-      "retweets": 77,
-      "replies": 23,
-      "views": 110141,
-      "bookmarks": 178
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-17T12:14:03.622264+00:00",
-    "js_take": {
-      "en-US": "Linux spent 30 years mastering the surface world. OpenClaw claimed the inner world in weeks. Different dimensions, not different speeds.",
-      "zh-CN": "Linux花了30年才征服表世界。OpenClaw数周内就占据了里世界。这是维度的差异，不是速度的差距。"
-    }
-  },
-  {
-    "id": "2033326586813165967",
-    "date": "2026-03-17",
-    "author": "@chrysb",
-    "author_url": "https://x.com/chrysb",
-    "tweet_url": "https://x.com/chrysb/status/2033326586813165967",
-    "title": {
-      "en-US": "OpenClaw市场份额从100%降到67.6%，但绝对增长依然领先",
-      "zh-CN": "份额下降但绝对值领先：开源生态的正确打开方式"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态竞争数据",
-      "zh-CN": "OpenClaw生态竞争格局分析"
-    },
-    "relevance": "OpenClaw生态竞争数据",
-    "score": 0.87,
-    "engagement": {
-      "likes": 402,
-      "replies": 44,
-      "retweets": 43,
-      "views": 40161
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-16T16:08:52.898252+00:00",
-    "js_take": {
-      "en-US": "67% of a pie 10x bigger beats 100% of the old one. The real win is expanding the table, not owning it.",
-      "zh-CN": "十倍大蛋糕的67%，胜过原来那块完整的。真正的胜利是做大桌子，而不是独占它。"
-    }
-  },
-  {
-    "id": "2033719116234707308",
-    "date": "2026-03-17",
-    "author": "@kenwheeler",
-    "author_url": "https://x.com/kenwheeler",
-    "tweet_url": "https://x.com/kenwheeler/status/2033719116234707308",
-    "title": {
-      "en-US": "Anyone holding openclaw up as moated innovation has lost the plot",
-      "zh-CN": "把OpenClaw当护城河的人，没看懂剧本"
-    },
-    "summary": {
-      "en-US": "OpenClaw的本质定位讨论，直接触及「什么是真正的护城河」这一战略问题",
-      "zh-CN": "OpenClaw的本质定位讨论，直接触及「什么是真正的护城河」这一战略问题"
-    },
-    "relevance": "OpenClaw的本质定位讨论，直接触及「什么是真正的护城河」这一战略问题",
-    "score": 0.86,
-    "engagement": {
-      "likes": 944,
-      "retweets": 29,
-      "replies": 92,
-      "views": 43273,
-      "bookmarks": 58
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-17T12:14:03.622268+00:00",
-    "js_take": {
-      "en-US": "You're guarding the wrong gate. Protocols are table stakes; momentum toward shared language is the actual moat. Fork the code, inherit nothing.",
-      "zh-CN": "你们守错了城门。协议只是入场券，向共享语言汇聚的势能才是真正的护城河。Fork代码容易，继承生态没门。"
-    }
-  },
-  {
-    "id": "2033848819561963727",
-    "date": "2026-03-17",
-    "author": "@aakashgupta",
-    "author_url": "https://x.com/aakashgupta",
-    "tweet_url": "https://x.com/aakashgupta/status/2033848819561963727",
-    "title": {
-      "en-US": "OpenClaw 4 months: 316k stars vs React 243k, Linux 218k",
-      "zh-CN": "OpenClaw 4 个月 316k star：超越 React 与 Linux 的增长现象"
-    },
-    "summary": {
-      "en-US": "OpenClaw增长现象，AI工具的病毒式传播",
-      "zh-CN": "OpenClaw 的病毒式增长现象——AI 工具正在改写开源项目的成长曲线"
-    },
-    "relevance": "OpenClaw增长现象，AI工具的病毒式传播",
-    "score": 0.85,
-    "engagement": {
-      "likes": 50,
-      "replies": 6,
-      "retweets": 2
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-17T11:12:21.582423+00:00",
-    "js_take": {
-      "en-US": "316k stars in 4 months. Ask maintainers: how many are from users shipping production code vs FOMO bookmarking? Real growth doesn't need to flex on Linux.",
-      "zh-CN": "4 个月 31.6k star。想问问维护者：这里面有多少是真在生产环境跑代码的用户贡献的，又有多少只是怕错过的收藏党？真正的增长，不需要拿 Linux 当参照物来秀肌肉。"
-    }
-  },
-  {
-    "id": "2033535843860910541",
-    "date": "2026-03-17",
-    "author": "@Sumanth_077",
-    "author_url": "https://x.com/Sumanth_077",
-    "tweet_url": "https://x.com/Sumanth_077/status/2033535843860910541",
-    "title": {
-      "en-US": "OpenClaw long-term memory problem across sessions",
-      "zh-CN": "指出OpenClaw的session记忆存储方式存在长期记忆断层问题"
-    },
-    "summary": {
-      "en-US": "直接讨论OpenClaw平台的核心痛点，属于Agent基础设施话题",
-      "zh-CN": "原推将「按天切片存储」视为问题，但真正的盲区是：记忆的价值不在于存储时长，而在于能否在正确的时间被正确的问题激活。当前OpenClaw的memory_search已经支持语义检索，与其纠结存储结构，不如关注查询质量——你问得越准，记忆就越'长期'。"
-    },
-    "relevance": "直接讨论OpenClaw平台的核心痛点，属于Agent基础设施话题",
-    "score": 0.82,
-    "engagement": {
-      "likes": 63,
-      "retweets": 13,
-      "replies": 12
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-16T22:08:27.790161+00:00",
-    "js_take": {
-      "en-US": "OpenClaw's memory challenge isn't storage capacity—it's query precision. The same archive surfaces with sharp questions and vanishes with vague ones. Duration matters less than query quality.",
-      "zh-CN": "OpenClaw 的记忆问题不在存储容量，而在查询精度。同样的档案，问得准就浮现，问得模糊就消失。存多久不重要，问得多准才关键。"
-    }
-  },
-  {
-    "id": "2033574260573180300",
-    "date": "2026-03-17",
-    "author": "@QingQ77",
-    "author_url": "https://x.com/QingQ77",
-    "tweet_url": "https://x.com/QingQ77/status/2033574260573180300",
-    "title": {
-      "en-US": "OpenClaw optimization guide: compress files to <8KB, use vault + vector retrieval.",
-      "zh-CN": "OpenClaw 优化指南：把工作区文件压缩到 8KB 以下，长期信息存入 vault，需要时再用向量检索捞出来。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 工程优化实践",
-      "zh-CN": "拼命压缩上下文、分层存储、按需检索——这套\"优化\"恰恰是在用更复杂的系统解决自己制造的问题。真正的效率不是把每个字节榨干，而是让系统知道什么时候该闭嘴。"
-    },
-    "relevance": "OpenClaw 工程优化实践",
-    "score": 0.82,
-    "engagement": {
-      "likes": 73,
-      "replies": 1,
-      "retweets": 10
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-17T01:11:13.868183+00:00",
-    "js_take": {
-      "en-US": "Compress context to 8KB, then build a vector system to fish it back out. You're optimizing the scars of over-intervention. The best retrieval is knowing what to forget.",
-      "zh-CN": "把上下文压到8KB，再建个向量系统把它捞出来——你不过在优化\"过度干预\"留下的伤疤。最好的检索，是知道该遗忘什么。"
-    }
-  },
-  {
-    "id": "2033781383227686979",
-    "date": "2026-03-17",
-    "author": "@lidangzzz",
-    "author_url": "https://x.com/lidangzzz",
-    "tweet_url": "https://x.com/lidangzzz/status/2033781383227686979",
-    "title": {
-      "en-US": "OpenClaw爆火这么久，再一次证明了AI Agent就是程序员的最大护城河，非程序员连发现和定义问题的能力都没有。",
-      "zh-CN": "立党认为OpenClaw证明AI Agent是程序员的护城河，非程序员缺乏问题发现与定义能力。"
-    },
-    "summary": {
-      "en-US": "OpenClaw能力分层与程序员护城河争议",
-      "zh-CN": "护城河论的问题在于把「会用工具」当成「能定义问题」，但真正的差距不是代码能力，而是对业务本质的理解深度——非程序员用OpenClaw做不出好东西，根源不是不会写代码，而是没想清楚该解决什么问题。"
-    },
-    "relevance": "OpenClaw能力分层与程序员护城河争议",
-    "score": 0.82,
-    "engagement": {
-      "likes": 132,
-      "replies": 14,
-      "retweets": 10,
-      "views": 19008
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-17T07:14:57.988539+00:00",
-    "js_take": {
-      "en-US": "The real moat was never syntax — it was knowing which line to write. OpenClaw just moved the gate from \"can you code\" to \"do you understand the problem.\" Most people never trained for the second one.",
-      "zh-CN": "真正的护城河从来不是语法，而是知道该写哪行代码。OpenClaw 只是把门槛从'会不会编程'挪到了'懂不懂问题'——而大多数人从未训练过后者。"
-    }
-  },
-  {
-    "id": "2033789639115297205",
-    "date": "2026-03-17",
-    "author": "@aakashgupta",
-    "author_url": "https://x.com/aakashgupta",
-    "tweet_url": "https://x.com/aakashgupta/status/2033789639115297205",
-    "title": {
-      "en-US": "Jensen Huang: Every company needs an OpenClaw system",
-      "zh-CN": "Jensen Huang（黄仁勋）表示：每家公司都需要一个 OpenClaw 系统"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台 + NVIDIA CEO 背书，技术权威性强",
-      "zh-CN": "黄仁勋说的「每家公司都需要 OpenClaw」，但真正的问题是：多数公司还没准备好「驾驭」它——就像给婴儿一把手术刀，刀越锋利，危险越大。东方智慧里这叫「器先于道」的陷阱。"
-    },
-    "relevance": "OpenClaw 平台 + NVIDIA CEO 背书，技术权威性强",
-    "score": 0.82,
-    "engagement": {
-      "likes": 220,
-      "replies": 10,
-      "retweets": 18
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-17T14:10:33.898613+00:00",
-    "js_take": {
-      "en-US": "Jensen's right. But here's the catch: most companies want the tool before they've figured out what to build. The sharper the knife, the worse the wound when you don't know where to cut.",
-      "zh-CN": "Jensen 说得对。但问题在于：大多数公司在想清楚要造什么之前，就急着要工具。刀越锋利，不知道该往哪切的时候，伤得越深。"
-    }
-  },
-  {
-    "id": "2033907710501224829",
-    "date": "2026-03-17",
-    "author": "@MiniMaxAgent",
-    "author_url": "https://x.com/MiniMaxAgent",
-    "tweet_url": "https://x.com/MiniMaxAgent/status/2033907710501224829",
-    "title": {
-      "en-US": "MaxClaw team: multiple agents with roles, parallel execution",
-      "zh-CN": "推出MaxClaw多代理团队功能，支持不同角色代理并行执行、7×24小时自主运行"
-    },
-    "summary": {
-      "en-US": "OpenClaw多代理团队功能发布",
-      "zh-CN": "把「多个专业代理协作」类比成「组建AI团队」是形象化的进步，但真正的洞察在于：当代理数量从1变到N，管理复杂度不是线性增长，而是需要从「控制」转向「协调」的系统思维跃迁"
-    },
-    "relevance": "OpenClaw多代理团队功能发布",
-    "score": 0.82,
-    "engagement": {
-      "likes": 84,
-      "replies": 8,
-      "retweets": 7,
-      "views": 4397
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-17T15:10:03.653827+00:00",
-    "js_take": {
-      "en-US": "We built a 12-agent team for data pipeline. The bottleneck wasn't any single agent — it was 4 of them waiting for the same API key. Coordination beats individual brilliance.",
-      "zh-CN": "我们搭建了一个12个Agent的数据管道团队。瓶颈不是某个Agent——而是4个Agent在等同一个API密钥。协调能力胜过个人才华。"
-    }
-  },
-  {
-    "id": "2033747401085751598",
-    "date": "2026-03-17",
-    "author": "@KKaWSB",
-    "author_url": "https://x.com/KKaWSB",
-    "tweet_url": "https://x.com/KKaWSB/status/2033747401085751598",
-    "title": {
-      "en-US": "\"OpenClaw 就是新型计算机。\"——黄仁勋",
-      "zh-CN": "引用黄仁勋称OpenClaw是新型计算机，将其比作个人电脑早期时代。"
-    },
-    "summary": {
-      "en-US": "OpenClaw定位与行业趋势判断",
-      "zh-CN": "当所有人都在说「这是新型计算机」时，真正该问的是：如果人人都有一台一样的计算机，你的竞争力从哪来？硬件民主化的历史告诉我们——工具普及后，差距会从「有没有」转向「怎么用」。"
-    },
-    "relevance": "OpenClaw定位与行业趋势判断",
-    "score": 0.8,
-    "engagement": {
-      "likes": 237,
-      "replies": 15,
-      "retweets": 49,
-      "views": 124794
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-17T07:14:57.988543+00:00",
-    "js_take": {
-      "en-US": "When computers went from scarce to ubiquitous, the winners weren't the ones who owned one — they were the ones who knew what to build with it. Same gate, new key.",
-      "zh-CN": "当电脑从稀罕物变得无处不在，赢家并非拥有者，而是知道用它创造什么的人。还是那道门，钥匙却换了。"
-    }
-  },
-  {
-    "id": "2033874111399924135",
-    "date": "2026-03-17",
-    "author": "@abskoop",
-    "author_url": "https://x.com/abskoop",
-    "tweet_url": "https://x.com/abskoop/status/2033874111399924135",
-    "title": {
-      "en-US": "bb-browser turns Chrome into AI interface layer",
-      "zh-CN": "bb-browser项目将Chrome浏览器变成AI的接口层，让AI直接复用用户已登录的网站状态"
-    },
-    "summary": {
-      "en-US": "Agent基础设施/OpenClaw生态",
-      "zh-CN": "这条推文点出了关键趋势：表世界（浏览器/App）正在退化为数据库，里世界（Agent）正在成为新的交互层——这不是「工具升级」，而是「界面迁徙」"
-    },
-    "relevance": "Agent基础设施/OpenClaw生态",
-    "score": 0.8,
-    "engagement": {
-      "likes": 139,
-      "replies": 10,
-      "retweets": 31,
-      "views": 17101
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-17T15:10:03.653833+00:00",
-    "js_take": {
-      "en-US": "Chrome isn't becoming an AI tool. It's becoming a database your agent queries. The surface world is shrinking — the real interface is moving inward.",
-      "zh-CN": "Chrome不是在变成一个AI工具，而是在变成你的Agent查询的数据库。表世界正在收缩——真正的界面正在向内迁移。"
-    }
-  },
-  {
-    "id": "2033685207954477083",
-    "date": "2026-03-17",
-    "author": "@santtiagom_",
-    "author_url": "https://x.com/santtiagom_",
-    "tweet_url": "https://x.com/santtiagom_/status/2033685207954477083",
-    "title": {
-      "en-US": "Agent skills are static files. The system changes, skills don't. Problem.",
-      "zh-CN": "Agent skills 是静态文件，但系统持续变化，导致 skill 过时失效。"
-    },
-    "summary": {
-      "en-US": "OpenClaw/agent skills 架构问题",
-      "zh-CN": "把「静态文件 vs 动态系统」的冲突，更精炼地归结为「用死的文档管活的系统」——问题的本质不是技术实现，而是设计哲学上的错配。"
-    },
-    "relevance": "OpenClaw/agent skills 架构问题",
-    "score": 0.78,
-    "engagement": {
-      "likes": 182,
-      "replies": 2,
-      "retweets": 21
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-17T05:07:50.291882+00:00",
-    "js_take": {
-      "en-US": "Maintaining static skills for live systems assumes the river stops flowing. The SKILL.md you wrote last month already describes a ghost.",
-      "zh-CN": "为活的系统维护静态技能，等于假设河流会停止流动。你上个月写的 SKILL.md，描述的已是一个幽灵。"
-    }
-  },
-  {
-    "id": "2033357209258828170",
-    "date": "2026-03-17",
-    "author": "@AYi_AInotes",
-    "author_url": "https://x.com/AYi_AInotes",
-    "tweet_url": "https://x.com/AYi_AInotes/status/2033357209258828170",
-    "title": {
-      "en-US": "Claude cowork可以替代OpenClaw，很多人用错了",
-      "zh-CN": "作者认为Claude cowork完全可以替代OpenClaw，很多人装了玩10分钟就切回ChatGPT，不是工具不好，是从根上就用错了。"
-    },
-    "summary": {
-      "en-US": "OpenClaw vs Claude Code工具对比",
-      "zh-CN": "工具之争的本质是用法之争。找到适合自己势的工具比选「更好」的工具重要——强行用不合适的工具，就像逆水行舟。"
-    },
-    "relevance": "OpenClaw vs Claude Code工具对比",
-    "score": 0.77,
-    "engagement": {
-      "likes": 286,
-      "replies": 17,
-      "retweets": 80,
-      "views": 63374
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-16T16:08:52.898255+00:00",
-    "js_take": {
-      "en-US": "Switched tools three times chasing 'better.' Lost months to migration. The right tool fits your flow, not the hype.",
-      "zh-CN": "为了追求「更好」换了三次工具，结果浪费几个月在迁移上。合适的工具是适配你工作流程的，而不是追逐热度的。"
-    }
-  },
-  {
-    "id": "2033642064009957725",
-    "date": "2026-03-17",
-    "author": "@NVIDIAAIDev",
-    "author_url": "https://x.com/NVIDIAAIDev",
-    "tweet_url": "https://x.com/NVIDIAAIDev/status/2033642064009957725",
-    "title": {
-      "en-US": "NVIDIA NemoClaw simplifies running OpenClaw always-on assistants with single command",
-      "zh-CN": "NVIDIA发布NemoClaw，一键部署OpenClaw常驻助手，强调安全护栏和随处部署能力。"
-    },
-    "summary": {
-      "en-US": "OpenClaw - 企业级安全部署方案",
-      "zh-CN": "NVIDIA入场验证了OpenClaw作为「里世界基础设施」的确定性，但一键部署的便利性可能让人低估真正困难的部分——如何让Agent在无人监督时做出正确判断。"
-    },
-    "relevance": "OpenClaw - 企业级安全部署方案",
-    "score": 0.76,
-    "engagement": {
-      "likes": 840,
-      "replies": 59,
-      "retweets": 127
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-16T23:09:07.147706+00:00",
-    "js_take": {
-      "en-US": "One-click deployment is surface world convenience. The real shift to inner world: teaching your agent to know when to stop—without you watching.",
-      "zh-CN": "一键部署只是表世界的便利。真正的里世界跃迁，在于教会你的 Agent 自主判断何时停止——而你无需时刻盯着。"
-    }
-  },
-  {
-    "id": "2033888178541641780",
-    "date": "2026-03-17",
-    "author": "@0thernet",
-    "author_url": "https://x.com/0thernet",
-    "tweet_url": "https://x.com/0thernet/status/2033888178541641780",
-    "title": {
-      "en-US": "hilarious how many people are copying @zocomputer",
-      "zh-CN": "讽刺的是，有多少人在抄袭 Zo——从 Zo beta 到 OpenClaw 首个 commit 仅用 5 个月，6 天后 YC 公司纷纷转向克隆 Zo"
-    },
-    "summary": {
-      "en-US": "OpenClaw 生态演变 + 克隆/竞争现象",
-      "zh-CN": "大家都在克隆 Zo，但没人问「为什么 Zo 能成」。跟风者复制的是表层的功能，却复制不了创始人的「势」。表世界看代码，里世界看判断——这正是「不争之争」的反面教材。"
-    },
-    "relevance": "OpenClaw 生态演变 + 克隆/竞争现象",
-    "score": 0.76,
-    "engagement": {
-      "likes": 51,
-      "replies": 15,
-      "retweets": 0
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-17T14:10:33.898618+00:00",
-    "js_take": {
-      "en-US": "Everyone copies the features. No one copies the timing. The real moat isn't code—it's knowing when to move and when to wait.",
-      "zh-CN": "人人都在抄功能，却没人抄时机。真正的护城河不是代码，而是知道什么时候该动、什么时候该等。"
-    }
-  },
-  {
-    "id": "2033847237550477662",
-    "date": "2026-03-17",
-    "author": "@oran_ge",
-    "author_url": "https://x.com/oran_ge",
-    "tweet_url": "https://x.com/oran_ge/status/2033847237550477662",
-    "title": {
-      "en-US": "SaaS like Notion/Linear becoming friction between Claude Code and GitHub",
-      "zh-CN": "SaaS软件如Notion、Linear正在变成Claude Code和GitHub之间的摩擦力，新时代操作系统容不下这些老古董"
-    },
-    "summary": {
-      "en-US": "AI取代SaaS，OpenClaw相关",
-      "zh-CN": "原推的「老古董论」过度简化了技术迁移的复杂性——SaaS软件不会消失，而是像表世界退化为数据库一样，成为agent调用的底层能力；摩擦力不会消失，只会转移"
-    },
-    "relevance": "AI取代SaaS，OpenClaw相关",
-    "score": 0.75,
-    "engagement": {
-      "likes": 32,
-      "replies": 11,
-      "retweets": 0
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-17T11:12:21.582428+00:00",
-    "js_take": {
-      "en-US": "Notion isn't becoming friction — it's becoming infrastructure. The interaction energy is migrating from surface apps to the inner world of agents. Old layer doesn't die, it sinks.",
-      "zh-CN": "Notion 不是在变难用——它正在成为基础设施。交互的能量正从表层应用流向 Agent 的里世界。旧层级不会消失，它会沉淀下去。"
-    }
-  },
-  {
-    "id": "2033755206085665166",
-    "date": "2026-03-17",
-    "author": "@WesRoth",
-    "author_url": "https://x.com/WesRoth",
-    "tweet_url": "https://x.com/WesRoth/status/2033755206085665166",
-    "title": {
-      "en-US": "OpenAI rolls out Subagents for Codex",
-      "zh-CN": "OpenAI正式推出Codex应用的Subagents功能，允许开发者启动多个专业并行代理处理复杂工作流"
-    },
-    "summary": {
-      "en-US": "AI Agent/OpenClaw相关",
-      "zh-CN": "「子代理并行处理」听起来是效率提升，但隐藏的问题是：当任务被拆得太碎，谁来对整体结果负责？过度分工会导致「每个部分都完美，整体却跑不通」的系统盲区"
-    },
-    "relevance": "AI Agent/OpenClaw相关",
-    "score": 0.74,
-    "engagement": {
-      "likes": 80,
-      "replies": 11,
-      "retweets": 6,
-      "views": 6185
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-17T15:10:03.653836+00:00",
-    "js_take": {
-      "en-US": "Split a task across 6 subagents and nobody owns the outcome. We tried this: each part was perfect, the integration took 3x longer than doing it solo.",
-      "zh-CN": "把一个任务拆给6个子Agent，结果没人对最终成果负责。我们试过：每个部分都完美，但集成时间比独自做还多了3倍。"
-    }
-  },
-  {
-    "id": "2033617125554680279",
-    "date": "2026-03-17",
-    "author": "@Atenov_D",
-    "author_url": "https://x.com/Atenov_D",
-    "tweet_url": "https://x.com/Atenov_D/status/2033617125554680279",
-    "title": {
-      "en-US": "Claude Code works great until you close the session. Next time - blank slate. No memory of projects, style, decisions.",
-      "zh-CN": "Claude Code 每次关闭会话后记忆清零，没有项目记忆、风格记忆和决策记忆，每次都要从头解释。"
-    },
-    "summary": {
-      "en-US": "OpenClaw/AI Agent 记忆痛点，开发者体验",
-      "zh-CN": "「这不是bug，而是所有本地Agent的常态」——这句话暴露了一个更深的问题：我们在用数据库思维解决记忆，但Agent需要的不是存储，而是「情境」的延续。"
-    },
-    "relevance": "OpenClaw/AI Agent 记忆痛点，开发者体验",
-    "score": 0.72,
-    "engagement": {
-      "likes": 94,
-      "retweets": 3,
-      "replies": 23
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-17T05:07:50.291876+00:00",
-    "js_take": {
-      "en-US": "Apps are becoming databases, but agents still restart as blank slates. The surface-to-inner migration is stuck at the session boundary.",
-      "zh-CN": "应用正在退化为数据库，但智能体每次重启仍是空白状态。从「表世界」向「里世界」的迁徙，卡在会话边界动弹不得。"
-    }
-  },
-  {
-    "id": "2033720636187807833",
-    "date": "2026-03-17",
-    "author": "@TFTC21",
-    "author_url": "https://x.com/TFTC21",
-    "tweet_url": "https://x.com/TFTC21/status/2033720636187807833",
-    "title": {
-      "en-US": "Jensen Huang: OpenClaw is the new computer.",
-      "zh-CN": "黄仁勋说 OpenClaw 是新计算机，几周内超越 Linux 30 年的成就。"
-    },
-    "summary": {
-      "en-US": "OpenClaw/行业趋势",
-      "zh-CN": "更深度：在「超越 Linux」的 hype 之下多走一步——指出速度本身不是优势，Linux 花了 30 年建立的是「不争」的生态共识，而 OpenClaw 的势还在混沌期。"
-    },
-    "relevance": "OpenClaw/行业趋势",
-    "score": 0.72,
-    "engagement": {
-      "likes": 953,
-      "replies": 33,
-      "retweets": 128
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-17T05:07:50.291885+00:00",
-    "js_take": {
-      "en-US": "Linux became quiet infrastructure over 30 years. OpenClaw's speed is noise—the real test is becoming inevitable.",
-      "zh-CN": "Linux 用30年成为静默的基础设施。OpenClaw 的速度只是噪音——真正的考验是成为不可避免的存在。"
-    }
-  },
-  {
-    "id": "2033880731202547784",
-    "date": "2026-03-17",
-    "author": "@jspeiser",
-    "author_url": "https://x.com/jspeiser",
-    "tweet_url": "https://x.com/jspeiser/status/2033880731202547784",
-    "title": {
-      "en-US": "no-code tools like OpenClaw will get so advanced that non‑technical peeps can't safely run them alone",
-      "zh-CN": "OpenClaw 这类无代码工具会变得如此先进，以至于非技术人员无法安全地独自运行它们——当 agent 开始「偏离脚本」时，你需要能调试其记忆的人"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台 + 表/里世界认知变化",
-      "zh-CN": "这正是「表世界退化为数据库，里世界成为新交互层」的鲜活案例。非技术人员以为自己在用「无代码」工具，实际上他们进入了一个需要理解 agent 心智模型的里世界——门槛没有消失，只是转移了。"
-    },
-    "relevance": "OpenClaw 平台 + 表/里世界认知变化",
-    "score": 0.71,
-    "engagement": {
-      "likes": 12,
-      "replies": 8,
-      "retweets": 0
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-17T14:10:33.898621+00:00",
-    "js_take": {
-      "en-US": "The barrier didn't disappear—it migrated. From writing code to understanding how agents think. Surface looks simple. Inner world is where the real complexity lives.",
-      "zh-CN": "门槛并没有消失，只是转移了——从写代码，转移到了理解 Agent 怎么思考。表面看着简单，真正的复杂度藏在里世界。"
     }
   }
 ]

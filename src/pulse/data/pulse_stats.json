@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-23T21:07:42.967179+00:00",
+  "updated_at": "2026-03-24T00:13:20.703292+00:00",
   "this_week": {
-    "total_items": 23,
+    "total_items": 29,
     "avg_score": 0.75,
-    "unique_authors": 21,
+    "unique_authors": 25,
     "top_items": [
       {
         "id": "2036070582228246738",
@@ -33,6 +33,65 @@
         "js_take": {
           "en-US": "30 thinking modes, 30 ways to optimize the wrong thing. You didn't build agents—you built a control panel for anxiety.",
           "zh-CN": "30种思维模式，30种在错误方向上的优化。你没在构建真正的Agent，只是在搭建一个焦虑操控台。"
+        }
+      },
+      {
+        "id": "2036148579602145665",
+        "date": "2026-03-24",
+        "author": "@karankendre",
+        "author_url": "https://x.com/karankendre",
+        "tweet_url": "https://x.com/karankendre/status/2036148579602145665",
+        "title": {
+          "en-US": "Claims OpenClaw has no unique features vs Claude anymore",
+          "zh-CN": "声称 OpenClaw 已经没有什么功能是 Claude 做不到的了"
+        },
+        "summary": {
+          "en-US": "OpenClaw vs Claude 能力边界争议，技术圈热门话题",
+          "zh-CN": "功能等价是伪命题——当两个系统都能完成同样任务时，真正的差异从「能做什么」转向「如何组织」，后者决定了生态位的可持续性。"
+        },
+        "relevance": "OpenClaw vs Claude 能力边界争议，技术圈热门话题",
+        "score": 0.82,
+        "engagement": {
+          "likes": 261,
+          "replies": 28,
+          "retweets": 8,
+          "views": 50653
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-23T22:09:29.946108+00:00",
+        "js_take": {
+          "en-US": "Feature parity is a trap. When two systems can do the same tasks, the real difference shifts from 'what' to 'how it's organized'—OpenClaw's composability isn't a feature, it's structure.",
+          "zh-CN": "功能对等是个陷阱。当两个系统能做同样的事时，真正的差异就从'做什么'变成了'如何组织'——OpenClaw的可组合性不是一项功能，而是底层结构。"
+        }
+      },
+      {
+        "id": "2036123992520794308",
+        "date": "2026-03-24",
+        "author": "@maigomaigoHH",
+        "author_url": "https://x.com/maigomaigoHH",
+        "tweet_url": "https://x.com/maigomaigoHH/status/2036123992520794308",
+        "title": {
+          "en-US": "OpenClaw hype fading in China, people realizing it can't do much",
+          "zh-CN": "OpenClaw在墙内的热度消退，大家发现这东西好像并不能做什么"
+        },
+        "summary": {
+          "en-US": "直接讨论OpenClaw热度消退，涉及平台期望与现实落差",
+          "zh-CN": "热度消退不是因为工具没用，而是人们把「自动化一切」的幻想投射到它身上——当发现它不会替你思考，就说是工具的问题。真正的问题是：你期待一个框架替你完成那些本该由判断力完成的事。"
+        },
+        "relevance": "直接讨论OpenClaw热度消退，涉及平台期望与现实落差",
+        "score": 0.82,
+        "engagement": {
+          "likes": 211,
+          "replies": 50,
+          "retweets": 1,
+          "views": 95912,
+          "bookmarks": 28
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-24T00:13:00.932059+00:00",
+        "js_take": {
+          "en-US": "People wanted OpenClaw to replace thinking. When it didn't, they called it useless. The tool works fine — what broke was the fantasy that automation means abdication.",
+          "zh-CN": "人们期望 OpenClaw 能替代思考。当它做不到时，就说它没用。工具本身没问题——真正破灭的是「自动化意味着可以放弃思考」这种幻想。"
         }
       },
       {
@@ -261,6 +320,36 @@
         }
       },
       {
+        "id": "2036198860067053773",
+        "date": "2026-03-24",
+        "author": "@karankendre",
+        "author_url": "https://x.com/karankendre",
+        "tweet_url": "https://x.com/karankendre/status/2036198860067053773",
+        "title": {
+          "en-US": "Claude launched better OpenClaw, wrapper startups in trouble",
+          "zh-CN": "Claude刚发布了一个更好的OpenClaw，所有花几千块搭OpenClaw wrapper的创业公司现在的表情："
+        },
+        "summary": {
+          "en-US": "直接对比Claude与OpenClaw，讨论wrapper创业的风险",
+          "zh-CN": "大厂发布功能是必然事件，不是黑天鹅。在别人的河流上建码头，就要接受河床随时改道的风险。但换个角度：每次大厂下沉，都会逼出一批真正懂业务的人——他们的价值不是那层封装，而是对「这个场景下什么该做、什么不该做」的判断力。"
+        },
+        "relevance": "直接对比Claude与OpenClaw，讨论wrapper创业的风险",
+        "score": 0.76,
+        "engagement": {
+          "likes": 613,
+          "retweets": 20,
+          "replies": 13,
+          "views": 107802,
+          "bookmarks": 128
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-03-24T00:13:00.932065+00:00",
+        "js_take": {
+          "en-US": "Every platform下沉 filters out the real operators. Wrapper's endgame isn't replacement — it's proving you packaged judgment, not just endpoints.",
+          "zh-CN": "每个平台下沉都会过滤掉真正的运营者。Wrapper 的终局不是替代——而是证明你封装的是判断力，而不只是接口端点。"
+        }
+      },
+      {
         "id": "2035567953572479307",
         "date": "2026-03-23",
         "author": "@Yuchenj_UW",
@@ -342,6 +431,65 @@
         "js_take": {
           "en-US": "Forcing open protocols into closed systems is swimming against the current. The harder you push for 'integration,' the deeper the misalignment becomes—openness and control obey different laws.",
           "zh-CN": "将开放协议硬塞进封闭系统，是逆势而为。越强求「整合」，错位越深——开放与控制本就遵循不同的法则。"
+        }
+      },
+      {
+        "id": "2036197273496068102",
+        "date": "2026-03-24",
+        "author": "@Yuchenj_UW",
+        "author_url": "https://x.com/Yuchenj_UW",
+        "tweet_url": "https://x.com/Yuchenj_UW/status/2036197273496068102",
+        "title": {
+          "en-US": "Why Anthropic didn't buy OpenClaw - aiming for full computer control",
+          "zh-CN": "解释 Anthropic 为什么不收购 OpenClaw——因为 Claude 的目标是控制整台电脑"
+        },
+        "summary": {
+          "en-US": "Anthropic 战略定位与 OpenClaw 生态位分析",
+          "zh-CN": "「做一切」和「做好一件事」不是竞争关系，是不同进化路径。试图控制整台电脑的系统，和选择特定场景深耕的系统，终将分化为两个物种。"
+        },
+        "relevance": "Anthropic 战略定位与 OpenClaw 生态位分析",
+        "score": 0.74,
+        "engagement": {
+          "likes": 83,
+          "replies": 14,
+          "retweets": 3,
+          "views": 5037
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-03-23T22:09:29.946114+00:00",
+        "js_take": {
+          "en-US": "Claude wants the whole computer. OpenClaw picked specific scenes. Not competition—two species diverging. Different势, no collision.",
+          "zh-CN": "Claude想接管整台电脑，OpenClaw专注特定场景。这不是竞争，是两个物种的分道扬镳。势不同，不相撞。"
+        }
+      },
+      {
+        "id": "2036026482959532228",
+        "date": "2026-03-24",
+        "author": "@hiheimu",
+        "author_url": "https://x.com/hiheimu",
+        "tweet_url": "https://x.com/hiheimu/status/2036026482959532228",
+        "title": {
+          "en-US": "Claude orchestrating Codex reveals new AI programming paradigm",
+          "zh-CN": "劳佬为省Claude Token做出的东西，藏着AI时代编程的新范式：Claude调度Codex干活，你只需用自然语言跟Claude说需求"
+        },
+        "summary": {
+          "en-US": "AI agent协作编排，harness engineer概念，与OpenClaw生态直接相关",
+          "zh-CN": "省Token只是表象，真正的范式转移是「谁来做决策」。当Claude决定什么时候调用Codex、什么时候自己写，人的角色从「写代码」变成了「定义问题边界」——这不是省钱，是把认知负荷从执行层转移到判断层。"
+        },
+        "relevance": "AI agent协作编排，harness engineer概念，与OpenClaw生态直接相关",
+        "score": 0.74,
+        "engagement": {
+          "likes": 47,
+          "retweets": 4,
+          "replies": 4,
+          "views": 9102,
+          "bookmarks": 55
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-24T00:13:00.932068+00:00",
+        "js_take": {
+          "en-US": "Token savings are the distraction. The shift is who decides. Claude calling Codex means your job moved from writing code to drawing boundaries — execution is cheap now, judgment is the cost.",
+          "zh-CN": "节省 Token 只是表象。真正的转变在于谁来决策。Claude 调用 Codex 意味着你的工作从写代码变成了划定边界——执行现在很便宜，判断力才是成本。"
         }
       },
       {
@@ -543,6 +691,35 @@
         }
       },
       {
+        "id": "2036190404400283884",
+        "date": "2026-03-24",
+        "author": "@NVIDIAAIDev",
+        "author_url": "https://x.com/NVIDIAAIDev",
+        "tweet_url": "https://x.com/NVIDIAAIDev/status/2036190404400283884",
+        "title": {
+          "en-US": "NVIDIA NemoClaw simplifies OpenClaw deployment with one command",
+          "zh-CN": "NVIDIA 发布 NemoClaw，一键简化 OpenClaw 部署，支持任何编码 Agent"
+        },
+        "summary": {
+          "en-US": "OpenClaw 生态基础设施，NVIDIA 官方背书",
+          "zh-CN": "部署门槛的降低意味着竞争将上移到「用这些工具构建什么」，而非「如何部署」。基础设施成熟后，真正的游戏才刚开始。"
+        },
+        "relevance": "OpenClaw 生态基础设施，NVIDIA 官方背书",
+        "score": 0.71,
+        "engagement": {
+          "likes": 202,
+          "replies": 21,
+          "retweets": 21,
+          "views": 10923
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-23T22:09:29.946117+00:00",
+        "js_take": {
+          "en-US": "One-command deployment means the game starts now. Competition moves from 'can you run it' to 'can you keep it alive'—infrastructure was never the moat.",
+          "zh-CN": "一键部署意味着游戏现在开始。竞争从'能不能跑起来'变成了'能不能让它持续运转'——基础设施从来不是真正的护城河。"
+        }
+      },
+      {
         "id": "2035900185604186343",
         "date": "2026-03-23",
         "author": "@aakashgupta",
@@ -660,6 +837,6 @@
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 162
+    "unique_authors": 163
   }
 }
