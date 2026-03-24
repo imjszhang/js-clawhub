@@ -259,6 +259,34 @@
     }
   },
   {
+    "id": "2036273613431775427",
+    "date": "2026-03-24",
+    "author": "@maigomaigoHH",
+    "author_url": "https://x.com/maigomaigoHH",
+    "tweet_url": "https://x.com/maigomaigoHH/status/2036273613431775427",
+    "title": {
+      "en-US": "Japanese user says goodbye to OpenClaw after Claude Computer Use launch",
+      "zh-CN": "日本用户感叹Claude推出Computer Use功能后，可以告别OpenClaw了——一句情绪化的告别引发14万+浏览热议。"
+    },
+    "summary": {
+      "en-US": "Claude vs OpenClaw竞争，AI Agent工具更迭",
+      "zh-CN": "用户把工具替换当成阵营站队，但真正的价值不在选哪个工具，而在能否意识到：当执行层被AI接管后，「选择不做哪30件事」比「多做100件事」更能区分高手和焦虑者。"
+    },
+    "relevance": "Claude vs OpenClaw竞争，AI Agent工具更迭",
+    "score": 0.82,
+    "engagement": {
+      "likes": 546,
+      "replies": 47,
+      "retweets": 26
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T10:14:20.026578+00:00",
+    "js_take": {
+      "en-US": "Switched from OpenClaw to Claude. Both execute. The delta? Knowing which 20 tasks out of 100 to skip entirely. Free execution makes 'no' expensive.",
+      "zh-CN": "从 OpenClaw 换到 Claude。两者都能执行。真正的差距在于：100个任务里，你知道哪20个该直接跳过。当执行零成本时，说'不'反而成了最贵的决策。"
+    }
+  },
+  {
     "id": "2036222212227596662",
     "date": "2026-03-24",
     "author": "@_MaxBlade",
@@ -5667,35 +5695,6 @@
     "js_take": {
       "en-US": "Phone commands, laptop executes. The surface is becoming interface, the inner world is taking over. You're not controlling your computer — you're training to speak to agents.",
       "zh-CN": "手机发号施令，电脑执行。表层正在退化为接口，里世界正在接管一切。你不再是在「控制电脑」——你是在训练如何与智能体对话。"
-    }
-  },
-  {
-    "id": "2032567566510465529",
-    "date": "2026-03-14",
-    "author": "@billcompute",
-    "author_url": "https://x.com/billcompute",
-    "tweet_url": "https://x.com/billcompute/status/2032567566510465529",
-    "title": {
-      "en-US": "412 OpenClaw agents across 31 Mac Minis",
-      "zh-CN": "作者运行412个OpenClaw agent分布在31台Mac Mini上，分享如何复刻这套系统"
-    },
-    "summary": {
-      "en-US": "OpenClaw大规模部署实践，展示agent swarm的可能性",
-      "zh-CN": "这条推文在炫耀「多」——412个agent、31台机器，但这恰恰是多数人的误区：以为数量等于系统。真正的insight是，当你的agent能自主协作时，数量只是副产品；当你的agent不能，再多也是维护噩梦。"
-    },
-    "relevance": "OpenClaw大规模部署实践，展示agent swarm的可能性",
-    "score": 0.82,
-    "engagement": {
-      "likes": 656,
-      "replies": 42,
-      "retweets": 24,
-      "views": 46301
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-14T00:12:33.680283+00:00",
-    "js_take": {
-      "en-US": "412 agents, 31 Macs. I ran 50 agents that needed me to babysit every decision. Then I built 5 that could decide for themselves. Guess which scaled? Quantity without autonomy is just digital manual labor.",
-      "zh-CN": "412个agent，31台Mac。我曾运行50个需要我事事操心的agent，后来建了5个能自主决策的。猜猜哪个能规模化？没有自主性的数量，不过是数字时代的体力劳动。"
     }
   }
 ]

@@ -259,6 +259,34 @@
     }
   },
   {
+    "id": "2036273613431775427",
+    "date": "2026-03-24",
+    "author": "@maigomaigoHH",
+    "author_url": "https://x.com/maigomaigoHH",
+    "tweet_url": "https://x.com/maigomaigoHH/status/2036273613431775427",
+    "title": {
+      "en-US": "Japanese user says goodbye to OpenClaw after Claude Computer Use launch",
+      "zh-CN": "日本用户感叹Claude推出Computer Use功能后，可以告别OpenClaw了——一句情绪化的告别引发14万+浏览热议。"
+    },
+    "summary": {
+      "en-US": "Claude vs OpenClaw竞争，AI Agent工具更迭",
+      "zh-CN": "用户把工具替换当成阵营站队，但真正的价值不在选哪个工具，而在能否意识到：当执行层被AI接管后，「选择不做哪30件事」比「多做100件事」更能区分高手和焦虑者。"
+    },
+    "relevance": "Claude vs OpenClaw竞争，AI Agent工具更迭",
+    "score": 0.82,
+    "engagement": {
+      "likes": 546,
+      "replies": 47,
+      "retweets": 26
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T10:14:20.026578+00:00",
+    "js_take": {
+      "en-US": "Switched from OpenClaw to Claude. Both execute. The delta? Knowing which 20 tasks out of 100 to skip entirely. Free execution makes 'no' expensive.",
+      "zh-CN": "从 OpenClaw 换到 Claude。两者都能执行。真正的差距在于：100个任务里，你知道哪20个该直接跳过。当执行零成本时，说'不'反而成了最贵的决策。"
+    }
+  },
+  {
     "id": "2036222212227596662",
     "date": "2026-03-24",
     "author": "@_MaxBlade",
