@@ -1,5 +1,34 @@
 [
   {
+    "id": "2036199965186207817",
+    "date": "2026-03-24",
+    "author": "@PEoperator",
+    "author_url": "https://x.com/PEoperator",
+    "tweet_url": "https://x.com/PEoperator/status/2036199965186207817",
+    "title": {
+      "en-US": "Seems like we can all delete our openclaw agents now... Fun while it lasted.",
+      "zh-CN": "Claude 能控电脑了，OpenClaw 可以删了？"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Claude Computer Use - 直接讨论agent平台生死",
+      "zh-CN": "OpenClaw 与 Claude 计算机控制能力的对比：从单点功能到系统协调的深层差异"
+    },
+    "relevance": "OpenClaw vs Claude Computer Use - 直接讨论agent平台生死",
+    "score": 0.92,
+    "engagement": {
+      "likes": 1242,
+      "replies": 50,
+      "retweets": 17,
+      "views": 305324
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-24T06:17:40.421318+00:00",
+    "js_take": {
+      "en-US": "Claude can click your mouse now. But 30 Claudes? Who coordinates them? Single-agent smarts ≠ system smarts. OpenClaw's play was never \"can it\" — it's \"how do you stop a swarm from stepping on itself.\"",
+      "zh-CN": "Claude 现在能点击你的鼠标了。但 30 个 Claude 呢？谁来协调？单体的聪明不等于系统的聪明。OpenClaw 的玩法从来不是「能不能做」——而是「怎么让一群智能体不互相踩脚」。"
+    }
+  },
+  {
     "id": "2036070582228246738",
     "date": "2026-03-24",
     "author": "@jumperz",
@@ -142,6 +171,35 @@
     "js_take": {
       "en-US": "Python got 20 years because people waited for permission. The real question: who's still willing to build while being laughed at?",
       "zh-CN": "Python got 20 years because people waited for permission. The real question: who's still willing to build while being laughed at?"
+    }
+  },
+  {
+    "id": "2036230106168131940",
+    "date": "2026-03-24",
+    "author": "@iddris",
+    "author_url": "https://x.com/iddris",
+    "tweet_url": "https://x.com/iddris/status/2036230106168131940",
+    "title": {
+      "en-US": "openclaw was just eaten. software is no longer a moat... focus on products that touch atoms",
+      "zh-CN": "宣称OpenClaw被吞噬，软件不再有护城河，建议转去做实体/原子产品"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + 软件护城河论",
+      "zh-CN": "更深度：「软件没护城河」和「去做实体」都是过度简化。真正的护城河从来不是代码本身，而是「代码+人+决策」的混合体——AI能复制代码，复制不了你的上下文。"
+    },
+    "relevance": "OpenClaw生态 + 软件护城河论",
+    "score": 0.82,
+    "engagement": {
+      "likes": 221,
+      "replies": 18,
+      "retweets": 18,
+      "views": 27840
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T06:17:40.421323+00:00",
+    "js_take": {
+      "en-US": "Moat was never the code. It's the context between you and the code — the stuff that doesn't fit in a prompt. AI can copy your features, not your decision-making substrate.",
+      "zh-CN": "护城河从来不是代码本身，而是你「与代码之间的上下文」——那些塞不进提示词的东西。AI 能抄你的功能，但抄不走你做决策的底层逻辑。"
     }
   },
   {
@@ -459,6 +517,34 @@
     "js_take": {
       "en-US": "Your agent says 'all good' on Telegram while disk hits 90%. Not resilience — sensory blindness. Real agents need to feel pain, not just answer chat.",
       "zh-CN": "你的 Agent 在 Telegram 上说「一切正常」， meanwhile 磁盘已经 90% 了。这不是韧性——是感官失明。真正的 Agent 要能感知痛苦，而非只会聊天。"
+    }
+  },
+  {
+    "id": "2036278925194617296",
+    "date": "2026-03-24",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2036278925194617296",
+    "title": {
+      "en-US": "Ran OpenClaw 30+ days, burned 1.5B tokens, rebuilt 3 times. Should cost $14k, paid $50.",
+      "zh-CN": "连续运行OpenClaw 30多天，烧掉15亿token，重建了3次配置，本应花费1.4万美元实际只花了50美元。"
+    },
+    "summary": {
+      "en-US": "OpenClaw实战经验，Agent运营的真实代价",
+      "zh-CN": "「重建3次」被轻描淡写地跳过，但这恰恰是agent工程的真实成本——不是API费用，而是认知负荷和系统熵增，这才是需要被看见的隐藏交易。"
+    },
+    "relevance": "OpenClaw实战经验，Agent运营的真实代价",
+    "score": 0.73,
+    "engagement": {
+      "likes": 75,
+      "replies": 6,
+      "retweets": 5
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-24T05:07:52.316716+00:00",
+    "js_take": {
+      "en-US": "3 rebuilds at ~6 weeks each. $50 in API costs, ~300 hours in broken abstractions. The real bill isn't the one you pay—it's the one you debug.",
+      "zh-CN": "3次重构，每次约6周。API只花了50美元，但破碎的抽象层耗掉约300小时。真正的账单不是明面上的开销——而是你在调试里赔进去的时间。"
     }
   },
   {
@@ -5610,90 +5696,6 @@
     "js_take": {
       "en-US": "Waiting for better models is passive. The real variable is whether your system can absorb new capabilities the day they drop. Models are the surface; your architecture is the inner world.",
       "zh-CN": "坐等模型升级是被动的。真正的变量在于：你的系统能否在新模型发布当天就吸收它们的能力。模型是表世界，架构才是里世界。"
-    }
-  },
-  {
-    "id": "2032533699116355819",
-    "date": "2026-03-14",
-    "author": "@noahzweben",
-    "author_url": "https://x.com/noahzweben",
-    "tweet_url": "https://x.com/noahzweben/status/2032533699116355819",
-    "title": {
-      "en-US": "Claude remote control - spawn NEW local session from mobile app",
-      "zh-CN": "Claude 远程控制功能，可以在手机 App 中生成新的本地会话"
-    },
-    "summary": {
-      "en-US": "OpenClaw/Claude Code 远程会话，Agent 运营",
-      "zh-CN": "「Session Spawning」这个词暴露了正在发生的迁移——Agent 不再是被调用的工具，而是可以自我繁殖的存在。你在手机上点一下，远处诞生一个新的「数字分身」。"
-    },
-    "relevance": "OpenClaw/Claude Code 远程会话，Agent 运营",
-    "score": 0.8,
-    "engagement": {
-      "likes": 514,
-      "replies": 42,
-      "retweets": 33
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-13T23:06:56.906487+00:00",
-    "js_take": {
-      "en-US": "Session Spawning isn't a feature. It's a signal — agents can now birth agents. Tap your phone, a digital twin wakes up somewhere else to work for you.",
-      "zh-CN": "会话派生不是一个功能。它是一个信号——智能体现在可以孕育智能体了。轻点手机，一个数字分身就在别处醒来，为你工作。"
-    }
-  },
-  {
-    "id": "2032508786238484974",
-    "date": "2026-03-14",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2032508786238484974",
-    "title": {
-      "en-US": "10 OpenClaw agents working 24/7, building apps, making money",
-      "zh-CN": "Alex Finn称他有10个OpenClaw agents 24/7工作，帮他开发应用、自动化生活并赚钱，并展示如何建立agent军队。"
-    },
-    "summary": {
-      "en-US": "OpenClaw - Agent自动化与规模化",
-      "zh-CN": "推文是典型的\"做更多\"叙事——10个agents、24/7、军队化部署——但这正是过度干预的反面教材：堆砌数量来掩盖对系统本质的无知。"
-    },
-    "relevance": "OpenClaw - Agent自动化与规模化",
-    "score": 0.79,
-    "engagement": {
-      "likes": 126,
-      "replies": 35,
-      "retweets": 6
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-13T18:04:44.872103+00:00",
-    "js_take": {
-      "en-US": "10 agents running 24/7 sounds like power, but they're probably just interrupting each other. True automation isn't doing more—it's knowing when to make them stop.",
-      "zh-CN": "10个Agent 24小时连轴转听着很猛，实则可能互相干扰。真正的自动化不是多做多，而是懂得何时喊停。"
-    }
-  },
-  {
-    "id": "2032418404884533559",
-    "date": "2026-03-14",
-    "author": "@KanikaBK",
-    "author_url": "https://x.com/KanikaBK",
-    "tweet_url": "https://x.com/KanikaBK/status/2032418404884533559",
-    "title": {
-      "en-US": "RIP DESIGNERS! Riley Brown's masterclass on Claude Code + OpenClaw design workflow. No Figma needed.",
-      "zh-CN": "设计师完蛋了！Riley Brown 发布 Claude Code + OpenClaw 设计工作流教程，不再需要 Figma 订阅。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、Claude Code、AI 设计工具",
-      "zh-CN": "推文的「RIP设计师」是典型的技术奇观叙事——工具升级被渲染为职业消亡。但历史反复证明，工具民主化不会消灭专业，而是重新定义专业的门槛。更准确的纠正是：当所有人都能用AI生成设计，区分好坏的标准会从「能不能做」转向「知道什么值得做」。设计师真正的护城河从来不是工具操作，而是审美判断。"
-    },
-    "relevance": "OpenClaw、Claude Code、AI 设计工具",
-    "score": 0.78,
-    "engagement": {
-      "likes": 211,
-      "plies": 18,
-      "retweets": 30
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-13T17:06:33.265056+00:00",
-    "js_take": {
-      "en-US": "Tools don't kill designers. They kill designers who can't use them. When creation cost hits zero, competition shifts from \"can you make it\" to \"do you know what's worth making.\" The momentum is taste, not tooling.",
-      "zh-CN": "工具杀不死设计师，只会杀死不会用工具的设计师。当创作成本趋近于零，竞争就从\"能不能做\"变成了\"知不知道什么值得做\"。决定胜负的是品味，而非工具。"
     }
   }
 ]
