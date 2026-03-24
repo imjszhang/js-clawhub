@@ -117,6 +117,90 @@
     }
   },
   {
+    "id": "2036237470698729523",
+    "date": "2026-03-24",
+    "author": "@lidangzzz",
+    "author_url": "https://x.com/lidangzzz",
+    "tweet_url": "https://x.com/lidangzzz/status/2036237470698729523",
+    "title": {
+      "en-US": "",
+      "zh-CN": "越来越多人批评OpenClaw是玩具级别，无法成为生产力工具，但「玩具」和「生产力」的界限其实无法被当下定义"
+    },
+    "summary": {
+      "en-US": "OpenClaw 的价值争议，技术成熟度讨论",
+      "zh-CN": "立党用Python的历史来证明「玩具」会成长为工具，但这仍是线性进化思维——真正的转折不在于时间积累，而在于「什么时候有人愿意为它打破规则」"
+    },
+    "relevance": "OpenClaw 的价值争议，技术成熟度讨论",
+    "score": 0.82,
+    "engagement": {
+      "likes": 109,
+      "retweets": 9,
+      "replies": 17
+    },
+    "comment_type": "buzheng",
+    "synced_at": "2026-03-24T04:07:52.933608+00:00",
+    "js_take": {
+      "en-US": "Python got 20 years because people waited for permission. The real question: who's still willing to build while being laughed at?",
+      "zh-CN": "Python got 20 years because people waited for permission. The real question: who's still willing to build while being laughed at?"
+    }
+  },
+  {
+    "id": "2036222212227596662",
+    "date": "2026-03-24",
+    "author": "@_MaxBlade",
+    "author_url": "https://x.com/_MaxBlade",
+    "tweet_url": "https://x.com/_MaxBlade/status/2036222212227596662",
+    "title": {
+      "en-US": "",
+      "zh-CN": "OpenClaw会成为Android——你可以完全控制但也能搞砸一切；Claude Cowork会是Apple——开箱即用但放弃控制"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Claude 的产品哲学对比",
+      "zh-CN": "这个类比抓到了表象，但忽略了本质——Android和Apple之争是「控制vs易用」的二元对立，而AI agent时代的真正选择是「你愿意让渡多少判断力换取 convenience」"
+    },
+    "relevance": "OpenClaw vs Claude 的产品哲学对比",
+    "score": 0.79,
+    "engagement": {
+      "likes": 289,
+      "retweets": 9,
+      "replies": 34
+    },
+    "comment_type": "wuwei",
+    "synced_at": "2026-03-24T04:07:52.933613+00:00",
+    "js_take": {
+      "en-US": "Android vs Apple was about convenience. This is about judgment. Outsource your thinking enough times, and you forget how to come back.",
+      "zh-CN": "Android vs Apple was about convenience. This is about judgment. Outsource your thinking enough times, and you forget how to come back."
+    }
+  },
+  {
+    "id": "2036233878701298100",
+    "date": "2026-03-24",
+    "author": "@aakashgupta",
+    "author_url": "https://x.com/aakashgupta",
+    "tweet_url": "https://x.com/aakashgupta/status/2036233878701298100",
+    "title": {
+      "en-US": "Anthropic building secure OpenClaw, reverse-engineered from open-source agent",
+      "zh-CN": "Anthropic正在构建安全的OpenClaw替代品，30天内推出4项功能，每一项都是从开源agent反向工程而来"
+    },
+    "summary": {
+      "en-US": "OpenClaw - 闭源vs开源生态竞争",
+      "zh-CN": "大厂「抄袭」开源不是新闻，真正值得追问的是：为什么开源项目总能提前定义战场，而闭源产品只能在后面追赶？"
+    },
+    "relevance": "OpenClaw - 闭源vs开源生态竞争",
+    "score": 0.78,
+    "engagement": {
+      "likes": 252,
+      "retweets": 26,
+      "replies": 12
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-24T02:08:29.163044+00:00",
+    "js_take": {
+      "en-US": "40,000 exposed machines aren't a bug—they're a collective immune system training judgment you can't centralize. Code is copyable. Distributed experience isn't.",
+      "zh-CN": "四万台暴露的机器不是漏洞，而是集体免疫系统——在训练一种无法被集中化的判断力。代码可复制，分布式经验不能。"
+    }
+  },
+  {
     "id": "2036115849971658996",
     "date": "2026-03-24",
     "author": "@mreflow",
@@ -172,6 +256,63 @@
     "js_take": {
       "en-US": "Every platform下沉 filters out the real operators. Wrapper's endgame isn't replacement — it's proving you packaged judgment, not just endpoints.",
       "zh-CN": "每个平台下沉都会过滤掉真正的运营者。Wrapper 的终局不是替代——而是证明你封装的是判断力，而不只是接口端点。"
+    }
+  },
+  {
+    "id": "2036114136245969025",
+    "date": "2026-03-24",
+    "author": "@dotey",
+    "author_url": "https://x.com/dotey",
+    "tweet_url": "https://x.com/dotey/status/2036114136245969025",
+    "title": {
+      "en-US": "Agent Skills design philosophy and evolution methodology",
+      "zh-CN": "宝玉分享Agent Skills设计哲学和实战进化——从提示词到Skills的演进，包含真实踩坑经验和迭代方法论"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent Skills - 从提示词到系统的演进",
+      "zh-CN": "把一个好用的提示词变成Skill，看似是工程化升级，实则是把「临时的灵感」固化成「滞后的法则」——你在保护复用性的同时，也在杀死适应性。"
+    },
+    "relevance": "OpenClaw/Agent Skills - 从提示词到系统的演进",
+    "score": 0.76,
+    "engagement": {
+      "likes": 436,
+      "retweets": 91,
+      "replies": 25
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-24T02:08:29.163050+00:00",
+    "js_take": {
+      "en-US": "Skills are just fossilized prompts. The real skill is knowing which fossil to break and when to write fresh.",
+      "zh-CN": "所谓技能，不过是固化的提示词。真正的技能，是知道该打破哪块化石、何时重写新代码。"
+    }
+  },
+  {
+    "id": "2036252625302106214",
+    "date": "2026-03-24",
+    "author": "@damianplayer",
+    "author_url": "https://x.com/damianplayer",
+    "tweet_url": "https://x.com/damianplayer/status/2036252625302106214",
+    "title": {
+      "en-US": "Claude buried OpenClaw + 100 startups with OS control",
+      "zh-CN": "Claude新功能「能打开应用、导航浏览器、填表格」直接埋葬了OpenClaw和100多家创业公司"
+    },
+    "summary": {
+      "en-US": "OpenClaw相关 + 「大公司碾压创业公司」叙事，高冲突话题",
+      "zh-CN": "推文在重复一个常见误解：功能重叠等于取代。但真正的护城河从来都不是「能做什么」，而是「知道什么值得做」。OpenClaw的价值不是「控制Mac」，而是「定义什么任务值得被自动化」"
+    },
+    "relevance": "OpenClaw相关 + 「大公司碾压创业公司」叙事，高冲突话题",
+    "score": 0.76,
+    "engagement": {
+      "likes": 47,
+      "replies": 7,
+      "retweets": 5,
+      "views": 9497
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-24T03:07:06.280801+00:00",
+    "js_take": {
+      "en-US": "When Claude can do everything, OpenClaw becomes essential. The game shifts from *how* to *whether*.",
+      "zh-CN": "当 Claude 无所不能时，OpenClaw 反而变得至关重要。游戏规则从「怎么做」变成了「做不做」。"
     }
   },
   {
@@ -264,6 +405,35 @@
     }
   },
   {
+    "id": "2036225984320397364",
+    "date": "2026-03-24",
+    "author": "@runes_leo",
+    "author_url": "https://x.com/runes_leo",
+    "tweet_url": "https://x.com/runes_leo/status/2036225984320397364",
+    "title": {
+      "en-US": "Thariq's Claude/Agent articles indexed: Skills, filesystem, bash, prompt caching",
+      "zh-CN": "Anthropic的Thariq整理了他的Claude/Agent技术文章索引，核心观点包括：Skills是agent基础抽象、Agent应该用文件系统、Bash is all you need等"
+    },
+    "summary": {
+      "en-US": "Claude Agent最佳实践 + OpenClaw技术栈，高价值技术内容",
+      "zh-CN": "推文列出了「构建agent的艺术」的技术清单，但漏了最关键的一条：agent的优雅不在于它「能做多少」，而在于它「知道什么时候该停下来」。Skill是抽象，但「不做」才是更高级的抽象"
+    },
+    "relevance": "Claude Agent最佳实践 + OpenClaw技术栈，高价值技术内容",
+    "score": 0.74,
+    "engagement": {
+      "likes": 74,
+      "replies": 3,
+      "retweets": 7,
+      "views": 13167
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T03:07:06.280804+00:00",
+    "js_take": {
+      "en-US": "Missing from that list: knowing when to refuse. The elegant agent isn't defined by what it does, but by what it won't.",
+      "zh-CN": "那份清单遗漏了一点：知道何时拒绝。优雅的代理不由它做什么来定义，而由它不做什么来定义。"
+    }
+  },
+  {
     "id": "2036125929102004297",
     "date": "2026-03-24",
     "author": "@bradmillscan",
@@ -289,6 +459,35 @@
     "js_take": {
       "en-US": "Your agent says 'all good' on Telegram while disk hits 90%. Not resilience — sensory blindness. Real agents need to feel pain, not just answer chat.",
       "zh-CN": "你的 Agent 在 Telegram 上说「一切正常」， meanwhile 磁盘已经 90% 了。这不是韧性——是感官失明。真正的 Agent 要能感知痛苦，而非只会聊天。"
+    }
+  },
+  {
+    "id": "2036241959019270501",
+    "date": "2026-03-24",
+    "author": "@arvidkahl",
+    "author_url": "https://x.com/arvidkahl",
+    "tweet_url": "https://x.com/arvidkahl/status/2036241959019270501",
+    "title": {
+      "en-US": "OpenClaw Mac Minis useful now Claude has OS control",
+      "zh-CN": "Claude获得完整操作系统控制权后，那些OpenClaw Mac Mini终于派上用场了"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + Claude OS控制，直接关联JS的核心技术栈",
+      "zh-CN": "推文的兴奋点在于「工具终于有了用武之地」，但这恰恰是过度聚焦工具的陷阱——真正的问题不是「Mac Mini能做什么」，而是「什么任务值得让AI接管你的整个系统」"
+    },
+    "relevance": "OpenClaw生态 + Claude OS控制，直接关联JS的核心技术栈",
+    "score": 0.72,
+    "engagement": {
+      "likes": 38,
+      "replies": 12,
+      "retweets": 1,
+      "views": 5271
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T03:07:06.280795+00:00",
+    "js_take": {
+      "en-US": "You're excited Claude can control your Mac. I'm asking: how many of your decisions deserve to be executed 30x faster? 30 agents don't kill teams. 30x bad decisions do.",
+      "zh-CN": "你们在为 Claude 能控制 Mac 而兴奋。但我想问：你的决定中有多少值得被快30倍执行？30个代理不会毁掉团队，30倍的错误决定才会。"
     }
   },
   {
