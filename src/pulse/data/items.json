@@ -84,6 +84,64 @@
     }
   },
   {
+    "id": "2036504603101905127",
+    "date": "2026-03-25",
+    "author": "@dani_avila7",
+    "author_url": "https://x.com/dani_avila7",
+    "tweet_url": "https://x.com/dani_avila7/status/2036504603101905127",
+    "title": {
+      "en-US": "CLAUDE.md inheritance across different sections of your project is key",
+      "zh-CN": "CLAUDE.md 在项目不同部分的继承机制是关键——来自 Anthropic 团队的 Claude Code 高级模式分享"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态——Claude Code 上下文管理",
+      "zh-CN": "Anthropic 团队揭示了一个被忽视的工程智慧：CLAUDE.md 的继承不是技术问题，是「判断力如何在组织内传递」的问题——中心节点下沉，边界节点自治。"
+    },
+    "relevance": "OpenClaw 生态——Claude Code 上下文管理",
+    "score": 0.75,
+    "engagement": {
+      "likes": 26,
+      "replies": 3,
+      "retweets": 2,
+      "views": 1937,
+      "bookmarks": 42
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-24T19:16:14.631698+00:00",
+    "js_take": {
+      "en-US": "CLAUDE.md inheritance isn't config management—it's judgment distribution. Root file sets direction, subdirectories handle execution. The architecture that lets AI make 'good enough' calls when information is incomplete.",
+      "zh-CN": "CLAUDE.md 的继承机制不是配置管理，而是判断力的分发——根文件设定方向，子目录处理执行细节。这种架构让 AI 在信息不完整时也能做出「足够好」的决策。"
+    }
+  },
+  {
+    "id": "2036362154807542040",
+    "date": "2026-03-25",
+    "author": "@damengchen",
+    "author_url": "https://x.com/damengchen",
+    "tweet_url": "https://x.com/damengchen/status/2036362154807542040",
+    "title": {
+      "en-US": "Moving OpenClaw automations to cron jobs, cron feels more reliable than prompt-based automation",
+      "zh-CN": "把 OpenClaw 自动化迁移到 cron 定时任务，因为 prompt 驱动的自动化不够可靠"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent 可靠性——简单系统 vs 复杂智能",
+      "zh-CN": "追求'智能'而引入的不确定性，反而不如确定性规则的稳定性；这揭示了一个被忽视的选择标准：该用简单规则的时候，不要为了追求先进而硬上AI。"
+    },
+    "relevance": "OpenClaw/Agent 可靠性——简单系统 vs 复杂智能",
+    "score": 0.71,
+    "engagement": {
+      "likes": 63,
+      "replies": 28,
+      "retweets": 1
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-24T18:08:44.852791+00:00",
+    "js_take": {
+      "en-US": "Cron runs, cron sleeps, cron doesn't hallucinate at 3am. You're not moving backward—you're choosing reliability over the illusion of intelligence.",
+      "zh-CN": "Cron 按时运行、按时休眠，凌晨三点也不会产生幻觉。你不是在退步——你是在用可靠性取代智能的幻觉。"
+    }
+  },
+  {
     "id": "2036199965186207817",
     "date": "2026-03-24",
     "author": "@PEoperator",
@@ -5633,63 +5691,6 @@
     "js_take": {
       "en-US": "Chrome adding MCP isn't the browser getting smarter. It's the surface world surrendering to the inner world—browser becomes database, agent becomes interface.",
       "zh-CN": "Chrome接入MCP不是浏览器变聪明了，是表世界向里世界投降——浏览器退化成数据库，Agent成为新界面。"
-    }
-  },
-  {
-    "id": "2032897113101631987",
-    "date": "2026-03-15",
-    "author": "@omarsar0",
-    "author_url": "https://x.com/omarsar0",
-    "tweet_url": "https://x.com/omarsar0/status/2032897113101631987",
-    "title": {
-      "en-US": "chrome-cdp skill lets coding agents see live Chrome sessions",
-      "zh-CN": "chrome-cdp skill让coding agent能看到并与实时Chrome会话交互，无需浏览器自动化框架"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态/Agent Skill开发",
-      "zh-CN": "表世界的浏览器自动化框架正在被里世界的agent-native接口取代——表世界（固定流程的工具）退化为数据层，里世界（理解意图的agent）成为新的交互层。"
-    },
-    "relevance": "OpenClaw生态/Agent Skill开发",
-    "score": 0.72,
-    "engagement": {
-      "likes": 60,
-      "replies": 10,
-      "retweets": 11
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-14T21:07:55.475198+00:00",
-    "js_take": {
-      "en-US": "Browser automation frameworks becoming data layers. Agents are the new interface. Second migration: from surface tools to inner intent.",
-      "zh-CN": "浏览器自动化框架正在退化为数据层，Agent 才是新的交互界面。这是第二次迁徙：从表层工具走向内在意图。"
-    }
-  },
-  {
-    "id": "2032806514692599813",
-    "date": "2026-03-15",
-    "author": "@TokenMore",
-    "author_url": "https://x.com/TokenMore",
-    "tweet_url": "https://x.com/TokenMore/status/2032806514692599813",
-    "title": {
-      "en-US": "chrome-cdp-skill: AI Agent controls your existing Chrome",
-      "zh-CN": "给AI Agent装上眼睛和手——通过Chrome原生CDP协议直接接管正在使用的浏览器，无需Puppeteer或插件"
-    },
-    "summary": {
-      "en-US": "OpenClaw新skill，表/里世界边界消融的技术实现",
-      "zh-CN": "这条推文把「让AI接管浏览器」描述成装个skill的技术活，但它忽略了一个更深层的结构变化：表世界（浏览器/App）正在从「人操作的界面」退化成「Agent的数据源」，这是从表向里的迁徙，不是功能叠加"
-    },
-    "relevance": "OpenClaw新skill，表/里世界边界消融的技术实现",
-    "score": 0.72,
-    "engagement": {
-      "likes": 205,
-      "retweets": 45,
-      "replies": 5,
-      "views": 17342
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-15T06:07:52.218223+00:00",
-    "js_take": {
-      "en-US": "Chrome isn't getting smarter—you are. This isn't a new feature. It's the surface world admitting it's becoming a database for agents.",
-      "zh-CN": "Chrome没变聪明，是你变聪明了。这不是新功能，是表世界在低头——它正在成为Agent的数据库。"
     }
   }
 ]

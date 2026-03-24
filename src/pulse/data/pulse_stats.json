@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-24T17:11:01.146764+00:00",
+  "updated_at": "2026-03-24T19:16:29.733342+00:00",
   "this_week": {
-    "total_items": 50,
+    "total_items": 52,
     "avg_score": 0.77,
-    "unique_authors": 43,
+    "unique_authors": 45,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -883,6 +883,36 @@
         "synced_at": "2026-03-22T20:10:05.404699+00:00"
       },
       {
+        "id": "2036504603101905127",
+        "date": "2026-03-25",
+        "author": "@dani_avila7",
+        "author_url": "https://x.com/dani_avila7",
+        "tweet_url": "https://x.com/dani_avila7/status/2036504603101905127",
+        "title": {
+          "en-US": "CLAUDE.md inheritance across different sections of your project is key",
+          "zh-CN": "CLAUDE.md 在项目不同部分的继承机制是关键——来自 Anthropic 团队的 Claude Code 高级模式分享"
+        },
+        "summary": {
+          "en-US": "OpenClaw 生态——Claude Code 上下文管理",
+          "zh-CN": "Anthropic 团队揭示了一个被忽视的工程智慧：CLAUDE.md 的继承不是技术问题，是「判断力如何在组织内传递」的问题——中心节点下沉，边界节点自治。"
+        },
+        "relevance": "OpenClaw 生态——Claude Code 上下文管理",
+        "score": 0.75,
+        "engagement": {
+          "likes": 26,
+          "replies": 3,
+          "retweets": 2,
+          "views": 1937,
+          "bookmarks": 42
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-24T19:16:14.631698+00:00",
+        "js_take": {
+          "en-US": "CLAUDE.md inheritance isn't config management—it's judgment distribution. Root file sets direction, subdirectories handle execution. The architecture that lets AI make 'good enough' calls when information is incomplete.",
+          "zh-CN": "CLAUDE.md 的继承机制不是配置管理，而是判断力的分发——根文件设定方向，子目录处理执行细节。这种架构让 AI 在信息不完整时也能做出「足够好」的决策。"
+        }
+      },
+      {
         "id": "2036105422898409485",
         "date": "2026-03-24",
         "author": "@linyiLYi",
@@ -998,34 +1028,6 @@
         "js_take": {
           "en-US": "Missing from that list: knowing when to refuse. The elegant agent isn't defined by what it does, but by what it won't.",
           "zh-CN": "那份清单遗漏了一点：知道何时拒绝。优雅的代理不由它做什么来定义，而由它不做什么来定义。"
-        }
-      },
-      {
-        "id": "2036377120406929596",
-        "date": "2026-03-24",
-        "author": "@kimmonismus",
-        "author_url": "https://x.com/kimmonismus",
-        "tweet_url": "https://x.com/kimmonismus/status/2036377120406929596",
-        "title": {
-          "en-US": "Anthropic sees OpenClaw trend and develops their own version at insane speed",
-          "zh-CN": "Anthropic 看到 OpenClaw 的趋势后，以疯狂的速度开发了自己的版本，推测100%由 Claude 写代码。"
-        },
-        "summary": {
-          "en-US": "OpenClaw 竞争格局 + 大厂快速跟进",
-          "zh-CN": "「100% code written by Claude」这个推测点破了关键——当竞争对手用你的工具来抄你，速度优势就没了。真正的护城河不是功能，而是那些装不进 context window 的东西：判断、 taste、对用户的理解。"
-        },
-        "relevance": "OpenClaw 竞争格局 + 大厂快速跟进",
-        "score": 0.74,
-        "engagement": {
-          "likes": 371,
-          "replies": 35,
-          "retweets": 18
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-24T12:09:52.457843+00:00",
-        "js_take": {
-          "en-US": "Strip the label—this is 2012's middleware pitch in new packaging. They can copy your features overnight, but they can't copy your judgment of what to build next.",
-          "zh-CN": "撕掉标签——这就是2012年中间件的老套路，换了个新包装。他们一夜之间就能抄走你的功能，但抄不走你判断下一步该做什么的眼光。"
         }
       }
     ]
