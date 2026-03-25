@@ -229,6 +229,34 @@
     }
   },
   {
+    "id": "2036691737918488589",
+    "date": "2026-03-25",
+    "author": "@mranti",
+    "author_url": "https://x.com/mranti",
+    "tweet_url": "https://x.com/mranti/status/2036691737918488589",
+    "title": {
+      "en-US": "OpenClaw设置面板不知所谓",
+      "zh-CN": "批评 OpenClaw 官方设置面板设计糟糕，重要参数不知如何操作，只能让 Agent 自己改或手动改配置文件"
+    },
+    "summary": {
+      "en-US": "直接关于 OpenClaw 平台——开发者体验痛点",
+      "zh-CN": "当工具的设计者把「灵活性」当成「不做选择」的借口时，用户得到的不是自由，而是决策疲劳——好的默认设置本身就是一种无为而治。"
+    },
+    "relevance": "直接关于 OpenClaw 平台——开发者体验痛点",
+    "score": 0.76,
+    "engagement": {
+      "likes": 15,
+      "retweets": 0,
+      "replies": 12
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-25T09:06:51.490022+00:00",
+    "js_take": {
+      "en-US": "Config files are the UX of giving up. The best settings are the ones 90% of users never know exist — that's wuwei in interface design.",
+      "zh-CN": "配置文件是「放弃」的交互设计。最好的设置，是那90%用户从未察觉其存在的设置——这便是界面设计中的「无为」。"
+    }
+  },
+  {
     "id": "2036504603101905127",
     "date": "2026-03-25",
     "author": "@dani_avila7",
@@ -287,6 +315,34 @@
     }
   },
   {
+    "id": "2036666736431477035",
+    "date": "2026-03-25",
+    "author": "@sukh_saroy",
+    "author_url": "https://x.com/sukh_saroy",
+    "tweet_url": "https://x.com/sukh_saroy/status/2036666736431477035",
+    "title": {
+      "en-US": "OpenClaw Bot Dashboard with pixel-art office",
+      "zh-CN": "一个OpenClaw Agent监控面板，特点是agents会在像素风办公室里走动，直接从本地配置读取状态无需数据库"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态——Agent可视化与开发者体验",
+      "zh-CN": "把不可见的agent活动变成可见的办公室场景，本质是用「空间隐喻」降低认知负载——信息设计的高阶形态不是数据堆砌，而是创造能直觉理解的结构"
+    },
+    "relevance": "OpenClaw生态——Agent可视化与开发者体验",
+    "score": 0.74,
+    "engagement": {
+      "likes": 22,
+      "replies": 8,
+      "retweets": 7
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-25T08:07:17.511563+00:00",
+    "js_take": {
+      "en-US": "Pixel art office isn't nostalgia — it's information architecture. Making invisible agent states visible through space metaphors. Less dashboard, more map.",
+      "zh-CN": "像素风办公室不是怀旧，是信息架构。用空间隐喻让不可见的Agent状态变得可见。少点仪表盘，多点地图感。"
+    }
+  },
+  {
     "id": "2036404957537247373",
     "date": "2026-03-25",
     "author": "@sukh_saroy",
@@ -312,6 +368,34 @@
     "js_take": {
       "en-US": "60-second GTM for everyone means inboxes full of automation. Trust becomes the only scarce resource.",
       "zh-CN": "人人60秒搞定GTM，意味着收件箱被自动化淹没。信任，成了唯一稀缺的资源。"
+    }
+  },
+  {
+    "id": "2036595443564433511",
+    "date": "2026-03-25",
+    "author": "@antpalkin",
+    "author_url": "https://x.com/antpalkin",
+    "tweet_url": "https://x.com/antpalkin/status/2036595443564433511",
+    "title": {
+      "en-US": "Claude deleted OpenClaw entire feature list",
+      "zh-CN": "作者称Anthropic的Computer Use功能一出，直接让OpenClaw整个功能列表变得多余，而OpenAI投资OpenClaw却还没拿出成果"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态——平台竞争与功能替代",
+      "zh-CN": "「功能被删除」是表面叙事，底层规律是「代理层（Agent）与平台层（Platform）的永恒张力」——当平台把agent能力内建，独立agent工具的价值就会迁移到更上游的编排与生态位"
+    },
+    "relevance": "OpenClaw生态——平台竞争与功能替代",
+    "score": 0.72,
+    "engagement": {
+      "likes": 102,
+      "replies": 10,
+      "retweets": 1
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-25T08:07:17.511568+00:00",
+    "js_take": {
+      "en-US": "Platforms absorb what agents prove. Claude building Computer Use isn't death — it's gravity. The cycle: platform sinks, ecosystem floats. Happened to browsers, happening here.",
+      "zh-CN": "平台吸收Agent验证过的东西。Claude做Computer Use不是末日，是引力使然。循环规律：平台下沉，生态上浮。浏览器时代发生过，现在正在这里重演。"
     }
   },
   {
@@ -5605,94 +5689,6 @@
     "js_take": {
       "en-US": "East Money isn't building a dashboard anymore. They're building a database for Agents. The user changed from human to Agent — that's the migration from surface to inner world.",
       "zh-CN": "东方财富做的不是仪表盘，而是 Agent 的数据库。用户从人变成了 Agent——这正是从表世界向里世界的迁徙。"
-    }
-  },
-  {
-    "id": "2033038170653405308",
-    "date": "2026-03-15",
-    "author": "@HuaxiuYaoML",
-    "author_url": "https://x.com/HuaxiuYaoML",
-    "tweet_url": "https://x.com/HuaxiuYaoML/status/2033038170653405308",
-    "title": {
-      "en-US": "AutoResearchClaw: automated research paper generation with OpenClaw",
-      "zh-CN": "发布 AutoResearchClaw：用 OpenClaw 全自动生成学术论文，从一条消息到完整论文输出，无需人工干预。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 自动化研究 Agent，与 JS 的 Agent 生态研究直接相关",
-      "zh-CN": "「无人介入」听起来很酷，但真正的陷阱是：当生成成本趋近于零时，学术圈的信任机制会怎么演化？没人讨论这个。"
-    },
-    "relevance": "OpenClaw 自动化研究 Agent，与 JS 的 Agent 生态研究直接相关",
-    "score": 0.78,
-    "engagement": {
-      "likes": 441,
-      "replies": 20,
-      "retweets": 76,
-      "views": 26784,
-      "bookmarks": 745
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-15T13:08:25.437660+00:00",
-    "js_take": {
-      "en-US": "When papers cost zero to produce, 'who wrote it' becomes irrelevant. The new currency is 'who vouched for it'—academic reputation migrates from author to endorser.",
-      "zh-CN": "当论文生产成本趋近于零，\"作者是谁\"已不再重要。新的价值锚点是\"谁为它背书\"——学术声誉正在从创作者向背书者迁移。"
-    }
-  },
-  {
-    "id": "2032966253716058394",
-    "date": "2026-03-15",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2032966253716058394",
-    "title": {
-      "en-US": "OpenClaw is starting to learn from its own mistakes in real time via RL setup",
-      "zh-CN": "OpenClaw开始通过RL设置从自己的错误中实时学习，在生产环境中持续改进。"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台、Agent强化学习、自主进化",
-      "zh-CN": "「在生产环境中持续学习」是很多Agent开发者追求的圣杯，但这里有个反直觉的边界：当你优化的是「从错误中学习」的能力本身时，错误的价值反而被稀释了——系统不再犯错，但也失去了发现非错误的机会。"
-    },
-    "relevance": "OpenClaw平台、Agent强化学习、自主进化",
-    "score": 0.76,
-    "engagement": {
-      "likes": 85,
-      "replies": 22,
-      "retweets": 8
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-15T01:09:58.049043+00:00",
-    "js_take": {
-      "en-US": "Chasing real-time RL feels right. But polish 'learning from errors' too smooth and agents become correct yet blind — perfect on rails, deaf to everything outside them. The 'flaws' you keep erasing? That's where the real signal lives.",
-      "zh-CN": "追逐实时强化学习顺理成章。但把「从错误中学习」打磨得太顺滑，Agent会变得正确却盲目——在轨道上完美运行，对轨道外的一切充耳不闻。你不断抹去的那些「缺陷」？那才是真正的信号所在。"
-    }
-  },
-  {
-    "id": "2032707265250341383",
-    "date": "2026-03-15",
-    "author": "@ewind_dev",
-    "author_url": "https://x.com/ewind_dev",
-    "tweet_url": "https://x.com/ewind_dev/status/2032707265250341383",
-    "title": {
-      "en-US": "字节老板送的 Mac mini 启动！8T 存储也太太豪横了吧！如果装了 OpenClaw 的个人服务器能成为一种「家用电器」，那这样的小屏幕上或许值得一种独立的 GUI 形态？",
-      "zh-CN": "作者展示了字节送的 Mac mini，提出如果 OpenClaw 个人服务器成为「家用电器」，可能需要一种新的独立 GUI 形态。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 个人服务器 + 表/里世界",
-      "zh-CN": "推文在讨论「个人服务器GUI形态」，但这恰好印证了「表世界退化为数据库，里世界成为新交互层」的趋势。问题是：我们还在用为「人类操作」设计的GUI思维去想象Agent的交互，而真正的里世界形态可能根本不需要「界面」，而是持续的背景感知与主动介入。"
-    },
-    "relevance": "OpenClaw 个人服务器 + 表/里世界",
-    "score": 0.76,
-    "engagement": {
-      "likes": 362,
-      "replies": 54,
-      "retweets": 17,
-      "views": 94502,
-      "bookmarks": 151
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-15T03:07:17.060171+00:00",
-    "js_take": {
-      "en-US": "We're designing Agent UI with GUI-era thinking. But Agents don't need screens—they need presence. The real personal server isn't an app you open; it's a layer that surfaces when needed, invisible when not.",
-      "zh-CN": "我们还在用 GUI 时代的思维设计 Agent 界面。但 Agent 不需要屏幕——它需要「在场感」。真正的个人服务器不是你要打开的应用，而是一层需要时出现、不需要时隐身的存在。"
     }
   }
 ]

@@ -229,6 +229,34 @@
     }
   },
   {
+    "id": "2036691737918488589",
+    "date": "2026-03-25",
+    "author": "@mranti",
+    "author_url": "https://x.com/mranti",
+    "tweet_url": "https://x.com/mranti/status/2036691737918488589",
+    "title": {
+      "en-US": "OpenClaw设置面板不知所谓",
+      "zh-CN": "批评 OpenClaw 官方设置面板设计糟糕，重要参数不知如何操作，只能让 Agent 自己改或手动改配置文件"
+    },
+    "summary": {
+      "en-US": "直接关于 OpenClaw 平台——开发者体验痛点",
+      "zh-CN": "当工具的设计者把「灵活性」当成「不做选择」的借口时，用户得到的不是自由，而是决策疲劳——好的默认设置本身就是一种无为而治。"
+    },
+    "relevance": "直接关于 OpenClaw 平台——开发者体验痛点",
+    "score": 0.76,
+    "engagement": {
+      "likes": 15,
+      "retweets": 0,
+      "replies": 12
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-25T09:06:51.490022+00:00",
+    "js_take": {
+      "en-US": "Config files are the UX of giving up. The best settings are the ones 90% of users never know exist — that's wuwei in interface design.",
+      "zh-CN": "配置文件是「放弃」的交互设计。最好的设置，是那90%用户从未察觉其存在的设置——这便是界面设计中的「无为」。"
+    }
+  },
+  {
     "id": "2036504603101905127",
     "date": "2026-03-25",
     "author": "@dani_avila7",
@@ -287,6 +315,34 @@
     }
   },
   {
+    "id": "2036666736431477035",
+    "date": "2026-03-25",
+    "author": "@sukh_saroy",
+    "author_url": "https://x.com/sukh_saroy",
+    "tweet_url": "https://x.com/sukh_saroy/status/2036666736431477035",
+    "title": {
+      "en-US": "OpenClaw Bot Dashboard with pixel-art office",
+      "zh-CN": "一个OpenClaw Agent监控面板，特点是agents会在像素风办公室里走动，直接从本地配置读取状态无需数据库"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态——Agent可视化与开发者体验",
+      "zh-CN": "把不可见的agent活动变成可见的办公室场景，本质是用「空间隐喻」降低认知负载——信息设计的高阶形态不是数据堆砌，而是创造能直觉理解的结构"
+    },
+    "relevance": "OpenClaw生态——Agent可视化与开发者体验",
+    "score": 0.74,
+    "engagement": {
+      "likes": 22,
+      "replies": 8,
+      "retweets": 7
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-25T08:07:17.511563+00:00",
+    "js_take": {
+      "en-US": "Pixel art office isn't nostalgia — it's information architecture. Making invisible agent states visible through space metaphors. Less dashboard, more map.",
+      "zh-CN": "像素风办公室不是怀旧，是信息架构。用空间隐喻让不可见的Agent状态变得可见。少点仪表盘，多点地图感。"
+    }
+  },
+  {
     "id": "2036404957537247373",
     "date": "2026-03-25",
     "author": "@sukh_saroy",
@@ -312,6 +368,34 @@
     "js_take": {
       "en-US": "60-second GTM for everyone means inboxes full of automation. Trust becomes the only scarce resource.",
       "zh-CN": "人人60秒搞定GTM，意味着收件箱被自动化淹没。信任，成了唯一稀缺的资源。"
+    }
+  },
+  {
+    "id": "2036595443564433511",
+    "date": "2026-03-25",
+    "author": "@antpalkin",
+    "author_url": "https://x.com/antpalkin",
+    "tweet_url": "https://x.com/antpalkin/status/2036595443564433511",
+    "title": {
+      "en-US": "Claude deleted OpenClaw entire feature list",
+      "zh-CN": "作者称Anthropic的Computer Use功能一出，直接让OpenClaw整个功能列表变得多余，而OpenAI投资OpenClaw却还没拿出成果"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态——平台竞争与功能替代",
+      "zh-CN": "「功能被删除」是表面叙事，底层规律是「代理层（Agent）与平台层（Platform）的永恒张力」——当平台把agent能力内建，独立agent工具的价值就会迁移到更上游的编排与生态位"
+    },
+    "relevance": "OpenClaw生态——平台竞争与功能替代",
+    "score": 0.72,
+    "engagement": {
+      "likes": 102,
+      "replies": 10,
+      "retweets": 1
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-25T08:07:17.511568+00:00",
+    "js_take": {
+      "en-US": "Platforms absorb what agents prove. Claude building Computer Use isn't death — it's gravity. The cycle: platform sinks, ecosystem floats. Happened to browsers, happening here.",
+      "zh-CN": "平台吸收Agent验证过的东西。Claude做Computer Use不是末日，是引力使然。循环规律：平台下沉，生态上浮。浏览器时代发生过，现在正在这里重演。"
     }
   },
   {

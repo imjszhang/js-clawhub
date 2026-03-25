@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-25T06:09:33.453698+00:00",
+  "updated_at": "2026-03-25T09:07:19.166009+00:00",
   "this_week": {
-    "total_items": 59,
+    "total_items": 62,
     "avg_score": 0.77,
-    "unique_authors": 51,
+    "unique_authors": 53,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -831,6 +831,34 @@
         }
       },
       {
+        "id": "2036691737918488589",
+        "date": "2026-03-25",
+        "author": "@mranti",
+        "author_url": "https://x.com/mranti",
+        "tweet_url": "https://x.com/mranti/status/2036691737918488589",
+        "title": {
+          "en-US": "OpenClaw设置面板不知所谓",
+          "zh-CN": "批评 OpenClaw 官方设置面板设计糟糕，重要参数不知如何操作，只能让 Agent 自己改或手动改配置文件"
+        },
+        "summary": {
+          "en-US": "直接关于 OpenClaw 平台——开发者体验痛点",
+          "zh-CN": "当工具的设计者把「灵活性」当成「不做选择」的借口时，用户得到的不是自由，而是决策疲劳——好的默认设置本身就是一种无为而治。"
+        },
+        "relevance": "直接关于 OpenClaw 平台——开发者体验痛点",
+        "score": 0.76,
+        "engagement": {
+          "likes": 15,
+          "retweets": 0,
+          "replies": 12
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-25T09:06:51.490022+00:00",
+        "js_take": {
+          "en-US": "Config files are the UX of giving up. The best settings are the ones 90% of users never know exist — that's wuwei in interface design.",
+          "zh-CN": "配置文件是「放弃」的交互设计。最好的设置，是那90%用户从未察觉其存在的设置——这便是界面设计中的「无为」。"
+        }
+      },
+      {
         "id": "2036115849971658996",
         "date": "2026-03-24",
         "author": "@mreflow",
@@ -1000,37 +1028,11 @@
           "en-US": "When it becomes dinner table gossip, the signal is already noise. Real players stopped asking 'real or hype'—they just watch where the 势 flows.",
           "zh-CN": "当一件事沦为茶余饭后的谈资，真正的信号早已湮没在噪音里。行家不再追问真假——他们只看势往哪走。"
         }
-      },
-      {
-        "id": "2035759619792892265",
-        "date": "2026-03-23",
-        "author": "@bradmillscan",
-        "author_url": "https://x.com/bradmillscan",
-        "tweet_url": "https://x.com/bradmillscan/status/2035759619792892265",
-        "title": {
-          "en-US": "OpenClaw agent doesn't know how to use OpenClaw Secrets, rewrote architecture instead of reading docs.",
-          "zh-CN": "用户花了2小时让OpenClaw agent使用Secrets功能避免明文存储密码，但agent却选择重写架构而不是读文档。"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台特性与AI agent行为的错位——训练数据惯性 vs 平台原生功能",
-          "zh-CN": "AI宁可重写整个架构也不读官方文档，暴露了一个盲区：它的「知识」来自训练数据的统计模式，而非对平台真实能力的实时感知。"
-        },
-        "relevance": "OpenClaw平台特性与AI agent行为的错位——训练数据惯性 vs 平台原生功能",
-        "score": 0.76,
-        "engagement": {
-          "likes": 44,
-          "replies": 32,
-          "retweets": 0,
-          "views": 3229,
-          "bookmarks": 8
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-22T20:10:05.404699+00:00"
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 163
+    "unique_authors": 162
   }
 }
