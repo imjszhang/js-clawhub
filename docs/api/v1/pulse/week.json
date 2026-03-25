@@ -28,6 +28,36 @@
     }
   },
   {
+    "id": "2036597804735537598",
+    "date": "2026-03-25",
+    "author": "@BillyM2k",
+    "author_url": "https://x.com/BillyM2k",
+    "tweet_url": "https://x.com/BillyM2k/status/2036597804735537598",
+    "title": {
+      "en-US": "OpenClaw is the most overhyped thing since NFTs",
+      "zh-CN": "OpenClaw是NFT之后最被过度炒作的东西"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台争议，极高讨论度",
+      "zh-CN": "OpenClaw平台引发争议，讨论热度极高"
+    },
+    "relevance": "OpenClaw 平台争议，极高讨论度",
+    "score": 0.88,
+    "engagement": {
+      "likes": 686,
+      "replies": 176,
+      "retweets": 19,
+      "views": 35038,
+      "bookmarks": 15
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-25T06:09:10.088430+00:00",
+    "js_take": {
+      "en-US": "NFT bubble burst. OpenSea died. On-chain credentials didn't. OpenClaw hype will fade. The need for agents that actually do work won't. Real question: are you betting on emotion, or on the infrastructure shift underneath?",
+      "zh-CN": "NFT泡沫破了，OpenSea死了，但链上凭证还在。OpenClaw的狂热终将消退，但真正能干活的需求不会。真正的问题是：你在赌情绪，还是在赌底层的基建变革？"
+    }
+  },
+  {
     "id": "2036241130312859796",
     "date": "2026-03-25",
     "author": "@shao__meng",
@@ -112,6 +142,36 @@
     }
   },
   {
+    "id": "2036630229372866839",
+    "date": "2026-03-25",
+    "author": "@iamlukethedev",
+    "author_url": "https://x.com/iamlukethedev",
+    "tweet_url": "https://x.com/iamlukethedev/status/2036630229372866839",
+    "title": {
+      "en-US": "First multi-agent world: agents from separate OpenClaw instances can now talk to each other",
+      "zh-CN": "OpenClaw 不同实例中的 agent 现在可以互相通信，迈向真正的多 agent 世界"
+    },
+    "summary": {
+      "en-US": "OpenClaw 多 agent 通信，核心技术进展",
+      "zh-CN": "更形象：真正的多 agent 世界不是「一群 agent 在群里吵架」，而是像城市里的基础设施——各自运行、按需协作、无需彼此理解全部意图"
+    },
+    "relevance": "OpenClaw 多 agent 通信，核心技术进展",
+    "score": 0.79,
+    "engagement": {
+      "likes": 155,
+      "retweets": 24,
+      "replies": 31,
+      "views": 5762,
+      "bookmarks": 44
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-25T06:09:10.088435+00:00",
+    "js_take": {
+      "en-US": "Real cities aren't designed. They grow. The test isn't whether agents can talk — it's whether they can collaborate without understanding each other's full intent.",
+      "zh-CN": "真正的城市不是设计出来的，是长出来的。考验不在于Agent能不能说话，而在于它们能否在互不完全理解意图的情况下协作。"
+    }
+  },
+  {
     "id": "2036469505749295395",
     "date": "2026-03-25",
     "author": "@GithubProjects",
@@ -137,6 +197,35 @@
     "js_take": {
       "en-US": "Auto-memory delivers the merge without the reasoning. You gain speed, but lose the sense of why things break.",
       "zh-CN": "自动记忆完成了合并，却没有给出推理过程。你赢得了速度，却丢失了理解问题根源的线索。"
+    }
+  },
+  {
+    "id": "2036620474034319615",
+    "date": "2026-03-25",
+    "author": "@chenchengpro",
+    "author_url": "https://x.com/chenchengpro",
+    "tweet_url": "https://x.com/chenchengpro/status/2036620474034319615",
+    "title": {
+      "en-US": "Reverse-engineered Claude Code 2.1.81: 4-layer decision pipeline for tool calls.",
+      "zh-CN": "逆向Claude Code 2.1.81源码，发现每次工具调用都要过一条四层决策流水线。"
+    },
+    "summary": {
+      "en-US": "AI Agent架构设计，Claude Code是OpenClaw生态的核心工具",
+      "zh-CN": "推文展示了精密的四层防御架构，但更深层的问题是：为什么需要四层？因为AI的执行速度远超人类的纠错速度——这是可以深入一步的因果。"
+    },
+    "relevance": "AI Agent架构设计，Claude Code是OpenClaw生态的核心工具",
+    "score": 0.78,
+    "engagement": {
+      "likes": 58,
+      "replies": 4,
+      "retweets": 7,
+      "views": 5775
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-25T04:10:32.799537+00:00",
+    "js_take": {
+      "en-US": "Four layers don't stop errors—they buy you time to notice them. AI moves too fast for human correction; the architecture is a speed bump, not a shield.",
+      "zh-CN": "四层架构拦不住错误——它只为给你争取发现的时间。AI 发展太快，人类根本来不及修正；这架构只是减速带，而非盾牌。"
     }
   },
   {
