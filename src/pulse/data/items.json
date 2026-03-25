@@ -84,6 +84,62 @@
     }
   },
   {
+    "id": "2036613065144217702",
+    "date": "2026-03-25",
+    "author": "@noahkagan",
+    "author_url": "https://x.com/noahkagan",
+    "tweet_url": "https://x.com/noahkagan/status/2036613065144217702",
+    "title": {
+      "en-US": "OpenClaw acquisition worst of all time",
+      "zh-CN": "Noah Kagan 称 OpenClaw 收购将成史上最差收购，因其 buggy 且 Claude Code 能替代 80% 功能"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Claude Code 的工具竞争讨论",
+      "zh-CN": "把 OpenClaw 和 Claude Code 放在「谁更好」的框架里比较，本身就是线性思维的陷阱——二者不是在竞争，而是在定义 agent 生态的不同演进路径"
+    },
+    "relevance": "OpenClaw vs Claude Code 的工具竞争讨论",
+    "score": 0.82,
+    "engagement": {
+      "likes": 314,
+      "replies": 100,
+      "retweets": 7
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-25T03:11:20.463865+00:00",
+    "js_take": {
+      "en-US": "Wrong framing. OpenClaw asks 'what can agents do'; Claude Code asks 'how should they work'—not the same game.",
+      "zh-CN": "框架错了。OpenClaw 问的是「Agent 能做什么」，Claude Code 问的是「它们应该如何工作」——根本不是一个层面的问题。"
+    }
+  },
+  {
+    "id": "2036469505749295395",
+    "date": "2026-03-25",
+    "author": "@GithubProjects",
+    "author_url": "https://x.com/GithubProjects",
+    "tweet_url": "https://x.com/GithubProjects/status/2036469505749295395",
+    "title": {
+      "en-US": "OpenClaw native memory upgrade with ByteRover integration",
+      "zh-CN": "OpenClaw 推出原生内存功能升级，支持跨会话保留上下文，优化 token 使用并集成 ByteRover 内存系统。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 核心功能更新，memory 系统与 agent 连续性",
+      "zh-CN": "内存自动化的悖论：它在保护你的同时也切断你与真实反馈的接触——只在最后 click merge 出现，意味着你失去过程感知。"
+    },
+    "relevance": "OpenClaw 核心功能更新，memory 系统与 agent 连续性",
+    "score": 0.78,
+    "engagement": {
+      "likes": 165,
+      "replies": 7,
+      "retweets": 11
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-25T02:07:44.035786+00:00",
+    "js_take": {
+      "en-US": "Auto-memory delivers the merge without the reasoning. You gain speed, but lose the sense of why things break.",
+      "zh-CN": "自动记忆完成了合并，却没有给出推理过程。你赢得了速度，却丢失了理解问题根源的线索。"
+    }
+  },
+  {
     "id": "2036504603101905127",
     "date": "2026-03-25",
     "author": "@dani_avila7",
@@ -111,6 +167,62 @@
     "js_take": {
       "en-US": "CLAUDE.md inheritance isn't config management—it's judgment distribution. Root file sets direction, subdirectories handle execution. The architecture that lets AI make 'good enough' calls when information is incomplete.",
       "zh-CN": "CLAUDE.md 的继承机制不是配置管理，而是判断力的分发——根文件设定方向，子目录处理执行细节。这种架构让 AI 在信息不完整时也能做出「足够好」的决策。"
+    }
+  },
+  {
+    "id": "2036579572322541970",
+    "date": "2026-03-25",
+    "author": "@lyc_zh",
+    "author_url": "https://x.com/lyc_zh",
+    "tweet_url": "https://x.com/lyc_zh/status/2036579572322541970",
+    "title": {
+      "en-US": "",
+      "zh-CN": "讨论上下文工程，指出把所有知识塞进一个 agent 的误区：信息越多注意力越散，最终解法是每个 skill.md 只保留最小必要知识。"
+    },
+    "summary": {
+      "en-US": "Agent 架构设计，与 OpenClaw skill 理念高度契合",
+      "zh-CN": "信息过载不是技术问题，是判断力问题——强行塞满 context window 本质上是用工具的勤奋掩盖决策的懒惰。"
+    },
+    "relevance": "Agent 架构设计，与 OpenClaw skill 理念高度契合",
+    "score": 0.74,
+    "engagement": {
+      "likes": 29,
+      "replies": 0,
+      "retweets": 2
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-25T02:07:44.035792+00:00",
+    "js_take": {
+      "en-US": "Agent frameworks race to stuff more tokens. The real edge is ruthless exclusion—less noise, more signal.",
+      "zh-CN": "Agent框架竞相塞入更多token，真正的优势却是无情地做减法——少点噪音，多点信号。"
+    }
+  },
+  {
+    "id": "2036404957537247373",
+    "date": "2026-03-25",
+    "author": "@sukh_saroy",
+    "author_url": "https://x.com/sukh_saroy",
+    "tweet_url": "https://x.com/sukh_saroy/status/2036404957537247373",
+    "title": {
+      "en-US": "",
+      "zh-CN": "介绍 OpenClaw 的 Claw GTM 功能：输入一个网站 URL，自动生成完整销售流程，包括 ICP 分析、职位监控、邮件和 LinkedIn 自动化触达。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 自动化销售工具，GTM 用例",
+      "zh-CN": "当所有人都能一键启动自动化销售流水线时，那个流水线本身就失去了区分度——真正的护城河不在工具，在判断力。"
+    },
+    "relevance": "OpenClaw 自动化销售工具，GTM 用例",
+    "score": 0.72,
+    "engagement": {
+      "likes": 127,
+      "replies": 11,
+      "retweets": 19
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-25T02:07:44.035795+00:00",
+    "js_take": {
+      "en-US": "60-second GTM for everyone means inboxes full of automation. Trust becomes the only scarce resource.",
+      "zh-CN": "人人60秒搞定GTM，意味着收件箱被自动化淹没。信任，成了唯一稀缺的资源。"
     }
   },
   {
@@ -5579,118 +5691,6 @@
     "js_take": {
       "en-US": "Docker won by hiding Linux, not inventing it. The deepest engineering moat is making the complex feel inevitable and simple.",
       "zh-CN": "Docker 的成功在于隐藏了 Linux，而非发明它。最深的工程护城河，是让复杂变得理所当然、简单自然。"
-    }
-  },
-  {
-    "id": "2032817523704393892",
-    "date": "2026-03-15",
-    "author": "@0x_Discover",
-    "author_url": "https://x.com/0x_Discover",
-    "tweet_url": "https://x.com/0x_Discover/status/2032817523704393892",
-    "title": {
-      "en-US": "My OpenClaw agent woke me up at 3:47 AM... Woke up to +$43,800.",
-      "zh-CN": "我的OpenClaw agent凌晨3:47叫醒我批准交易，醒来赚了$43,800。"
-    },
-    "summary": {
-      "en-US": "AI Agent赚钱案例炫耀",
-      "zh-CN": "这种叙事的高点赞量本身就说明了问题——人们渴望的不是理解系统，而是相信「睡觉也能赚钱」的童话。"
-    },
-    "relevance": "AI Agent赚钱案例炫耀",
-    "score": 0.74,
-    "engagement": {
-      "likes": 105,
-      "replies": 5,
-      "retweets": 14
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-14T22:08:07.222114+00:00",
-    "js_take": {
-      "en-US": "$43,800 makes headlines. The 12 \"no\" calls at 3 AM don't. Everyone wants the result, no one wants the system behind it. 不争结果，建系统。",
-      "zh-CN": "43800美元成为头条，凌晨3点的12次拒绝却无人问津。人人追逐结果，却无人关心背后的系统。不争结果，建系统。"
-    }
-  },
-  {
-    "id": "2032988902877966499",
-    "date": "2026-03-15",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2032988902877966499",
-    "title": {
-      "en-US": "OpenClaw agent woke him up at 3:47 AM with 6 Polymarket trades, $12K turned into $43K by 7:30.",
-      "zh-CN": "OpenClaw agent在凌晨3:47把他叫醒做了6笔Polymarket交易，早上7:30时1.2万美元变成了4.3万。"
-    },
-    "summary": {
-      "en-US": "OpenClaw agent、自动化交易",
-      "zh-CN": "更形象：大家都在关注「agent赚了多少」，但真正的洞察是「agent知道什么时候该叫醒你」——不是每分每秒都在交易，而是在美国睡着、本地信息差最大的那个时刻。这叫顺势，不是蛮干。"
-    },
-    "relevance": "OpenClaw agent、自动化交易",
-    "score": 0.74,
-    "engagement": {
-      "likes": 139,
-      "replies": 28,
-      "retweets": 6
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-15T05:09:27.719731+00:00",
-    "js_take": {
-      "en-US": "Not that it made $30K—that it knew when to let you sleep and when to wake you. That's reading the 势, not brute force.",
-      "zh-CN": "重点不是它赚了3万美元，而是它懂得何时让你休息、何时唤醒你。这叫顺势而为，不是蛮力硬上。"
-    }
-  },
-  {
-    "id": "2032809666174963924",
-    "date": "2026-03-15",
-    "author": "@AYi_AInotes",
-    "author_url": "https://x.com/AYi_AInotes",
-    "tweet_url": "https://x.com/AYi_AInotes/status/2032809666174963924",
-    "title": {
-      "en-US": "AI skills that observe their own failures and self-evolve",
-      "zh-CN": "AI技能的新范式：让技能自己观察自己的失败，自己迭代进化，省去80%维护时间。"
-    },
-    "summary": {
-      "en-US": "Agent技能自进化，与OpenClaw Skill系统直接相关",
-      "zh-CN": "推文在说'让技能自己进化来省维护时间'，但这话只说了一半。真正的变化是：当技能能观察自己的失败时，你和技能的关系从'你告诉它怎么做'变成了'你告诉它怎么判断做得好与不好'——这是从执行层退到价值层。"
-    },
-    "relevance": "Agent技能自进化，与OpenClaw Skill系统直接相关",
-    "score": 0.74,
-    "engagement": {
-      "likes": 55,
-      "replies": 3,
-      "retweets": 8
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-15T10:08:55.348395+00:00",
-    "js_take": {
-      "en-US": "80% less maintenance is a side effect. The shift is deeper: you stop writing steps, start writing values. From commanding execution to judging outcomes—that's the real upgrade.",
-      "zh-CN": "维护成本降低80%只是副作用。更深层的转变是：你不再编写步骤，而是定义价值。从命令执行到评判结果——这才是真正的升级。"
-    }
-  },
-  {
-    "id": "2032741269689213289",
-    "date": "2026-03-15",
-    "author": "@xincctnnq",
-    "author_url": "https://x.com/xincctnnq",
-    "tweet_url": "https://x.com/xincctnnq/status/2032741269689213289",
-    "title": {
-      "en-US": "Chrome 146 built-in MCP support. Browser session can be exposed to AI agent via MCP protocol.",
-      "zh-CN": "Chrome 146内置MCP支持，浏览器会话可以通过MCP协议暴露给AI agent使用。"
-    },
-    "summary": {
-      "en-US": "OpenClaw、MCP、浏览器Agent集成",
-      "zh-CN": "更深度：Chrome支持MCP不是「浏览器变聪明了」，而是表世界（浏览器）开始向里世界（Agent）臣服。浏览器从「人操作信息的界面」变成「Agent读取的数据库」，这才是真正的迁徙信号。"
-    },
-    "relevance": "OpenClaw、MCP、浏览器Agent集成",
-    "score": 0.73,
-    "engagement": {
-      "likes": 415,
-      "replies": 19,
-      "retweets": 89
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-15T05:09:27.719737+00:00",
-    "js_take": {
-      "en-US": "Chrome adding MCP isn't the browser getting smarter. It's the surface world surrendering to the inner world—browser becomes database, agent becomes interface.",
-      "zh-CN": "Chrome接入MCP不是浏览器变聪明了，是表世界向里世界投降——浏览器退化成数据库，Agent成为新界面。"
     }
   }
 ]

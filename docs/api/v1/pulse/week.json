@@ -84,6 +84,62 @@
     }
   },
   {
+    "id": "2036613065144217702",
+    "date": "2026-03-25",
+    "author": "@noahkagan",
+    "author_url": "https://x.com/noahkagan",
+    "tweet_url": "https://x.com/noahkagan/status/2036613065144217702",
+    "title": {
+      "en-US": "OpenClaw acquisition worst of all time",
+      "zh-CN": "Noah Kagan 称 OpenClaw 收购将成史上最差收购，因其 buggy 且 Claude Code 能替代 80% 功能"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Claude Code 的工具竞争讨论",
+      "zh-CN": "把 OpenClaw 和 Claude Code 放在「谁更好」的框架里比较，本身就是线性思维的陷阱——二者不是在竞争，而是在定义 agent 生态的不同演进路径"
+    },
+    "relevance": "OpenClaw vs Claude Code 的工具竞争讨论",
+    "score": 0.82,
+    "engagement": {
+      "likes": 314,
+      "replies": 100,
+      "retweets": 7
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-25T03:11:20.463865+00:00",
+    "js_take": {
+      "en-US": "Wrong framing. OpenClaw asks 'what can agents do'; Claude Code asks 'how should they work'—not the same game.",
+      "zh-CN": "框架错了。OpenClaw 问的是「Agent 能做什么」，Claude Code 问的是「它们应该如何工作」——根本不是一个层面的问题。"
+    }
+  },
+  {
+    "id": "2036469505749295395",
+    "date": "2026-03-25",
+    "author": "@GithubProjects",
+    "author_url": "https://x.com/GithubProjects",
+    "tweet_url": "https://x.com/GithubProjects/status/2036469505749295395",
+    "title": {
+      "en-US": "OpenClaw native memory upgrade with ByteRover integration",
+      "zh-CN": "OpenClaw 推出原生内存功能升级，支持跨会话保留上下文，优化 token 使用并集成 ByteRover 内存系统。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 核心功能更新，memory 系统与 agent 连续性",
+      "zh-CN": "内存自动化的悖论：它在保护你的同时也切断你与真实反馈的接触——只在最后 click merge 出现，意味着你失去过程感知。"
+    },
+    "relevance": "OpenClaw 核心功能更新，memory 系统与 agent 连续性",
+    "score": 0.78,
+    "engagement": {
+      "likes": 165,
+      "replies": 7,
+      "retweets": 11
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-25T02:07:44.035786+00:00",
+    "js_take": {
+      "en-US": "Auto-memory delivers the merge without the reasoning. You gain speed, but lose the sense of why things break.",
+      "zh-CN": "自动记忆完成了合并，却没有给出推理过程。你赢得了速度，却丢失了理解问题根源的线索。"
+    }
+  },
+  {
     "id": "2036504603101905127",
     "date": "2026-03-25",
     "author": "@dani_avila7",
@@ -111,6 +167,62 @@
     "js_take": {
       "en-US": "CLAUDE.md inheritance isn't config management—it's judgment distribution. Root file sets direction, subdirectories handle execution. The architecture that lets AI make 'good enough' calls when information is incomplete.",
       "zh-CN": "CLAUDE.md 的继承机制不是配置管理，而是判断力的分发——根文件设定方向，子目录处理执行细节。这种架构让 AI 在信息不完整时也能做出「足够好」的决策。"
+    }
+  },
+  {
+    "id": "2036579572322541970",
+    "date": "2026-03-25",
+    "author": "@lyc_zh",
+    "author_url": "https://x.com/lyc_zh",
+    "tweet_url": "https://x.com/lyc_zh/status/2036579572322541970",
+    "title": {
+      "en-US": "",
+      "zh-CN": "讨论上下文工程，指出把所有知识塞进一个 agent 的误区：信息越多注意力越散，最终解法是每个 skill.md 只保留最小必要知识。"
+    },
+    "summary": {
+      "en-US": "Agent 架构设计，与 OpenClaw skill 理念高度契合",
+      "zh-CN": "信息过载不是技术问题，是判断力问题——强行塞满 context window 本质上是用工具的勤奋掩盖决策的懒惰。"
+    },
+    "relevance": "Agent 架构设计，与 OpenClaw skill 理念高度契合",
+    "score": 0.74,
+    "engagement": {
+      "likes": 29,
+      "replies": 0,
+      "retweets": 2
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-25T02:07:44.035792+00:00",
+    "js_take": {
+      "en-US": "Agent frameworks race to stuff more tokens. The real edge is ruthless exclusion—less noise, more signal.",
+      "zh-CN": "Agent框架竞相塞入更多token，真正的优势却是无情地做减法——少点噪音，多点信号。"
+    }
+  },
+  {
+    "id": "2036404957537247373",
+    "date": "2026-03-25",
+    "author": "@sukh_saroy",
+    "author_url": "https://x.com/sukh_saroy",
+    "tweet_url": "https://x.com/sukh_saroy/status/2036404957537247373",
+    "title": {
+      "en-US": "",
+      "zh-CN": "介绍 OpenClaw 的 Claw GTM 功能：输入一个网站 URL，自动生成完整销售流程，包括 ICP 分析、职位监控、邮件和 LinkedIn 自动化触达。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 自动化销售工具，GTM 用例",
+      "zh-CN": "当所有人都能一键启动自动化销售流水线时，那个流水线本身就失去了区分度——真正的护城河不在工具，在判断力。"
+    },
+    "relevance": "OpenClaw 自动化销售工具，GTM 用例",
+    "score": 0.72,
+    "engagement": {
+      "likes": 127,
+      "replies": 11,
+      "retweets": 19
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-25T02:07:44.035795+00:00",
+    "js_take": {
+      "en-US": "60-second GTM for everyone means inboxes full of automation. Trust becomes the only scarce resource.",
+      "zh-CN": "人人60秒搞定GTM，意味着收件箱被自动化淹没。信任，成了唯一稀缺的资源。"
     }
   },
   {
@@ -4088,231 +4200,6 @@
     "js_take": {
       "en-US": "One command, one strategic pivot: Feishu is becoming infrastructure, not features. When installation friction hits zero, OpenClaw stops being a dev toy and starts being enterprise backbone — that's the real inflection point.",
       "zh-CN": "一条命令，一次战略转向：飞书正在成为基础设施，而非功能堆砌。当安装摩擦趋近于零，OpenClaw就从开发玩具蜕变为企业骨干——这才是真正的拐点。"
-    }
-  },
-  {
-    "id": "2034134875234832540",
-    "date": "2026-03-18",
-    "author": "@nickbaumann_",
-    "author_url": "https://x.com/nickbaumann_",
-    "tweet_url": "https://x.com/nickbaumann_/status/2034134875234832540",
-    "title": {
-      "en-US": "GPT-5.4 mini enables fast subagents to explore repos while parent thread holds architecture",
-      "zh-CN": "GPT-5.4 mini 让子 Agent 快速探索代码库，父线程专注架构和叙事，解决注意力分配问题"
-    },
-    "summary": {
-      "en-US": "子 Agent 架构设计——与 OpenClaw subagent 机制直接相关",
-      "zh-CN": "推文的「父线程保架构、子线程干脏活」是一种效率优化思维，但真正的洞察是：注意力分配本身就是架构设计的第一性原则，不是优化项。"
-    },
-    "relevance": "子 Agent 架构设计——与 OpenClaw subagent 机制直接相关",
-    "score": 0.82,
-    "engagement": {
-      "likes": 191,
-      "replies": 12,
-      "retweets": 14
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-18T10:12:15.333187+00:00",
-    "js_take": {
-      "en-US": "You optimized for speed, but the real unlock is attention architecture. The parent thread shouldn't just 'hold state'—it should define boundaries. That's the real watershed for agentic systems.",
-      "zh-CN": "你优化了速度，但真正的突破在于注意力架构。父线程不应只是'保持状态'——它应该定义边界。这才是代理系统的分水岭。"
-    }
-  },
-  {
-    "id": "2034067677157679379",
-    "date": "2026-03-18",
-    "author": "@emollick",
-    "author_url": "https://x.com/emollick",
-    "tweet_url": "https://x.com/emollick/status/2034067677157679379",
-    "title": {
-      "en-US": "Claude Cowork Dispatch covers 90% of OpenClaw use cases, safer",
-      "zh-CN": "Claude Cowork Dispatch covers 90% of OpenClaw use cases, safer"
-    },
-    "summary": {
-      "en-US": "OpenClaw vs Claude 平台竞争对比",
-      "zh-CN": "用「覆盖90%功能」来比较两个平台，本质上是把工具价值简化为功能清单——但 agent 平台的真正差异不在功能多少，而在生态位选择：是做一个封闭但流畅的花园，还是开放但碎片化的土壤？"
-    },
-    "relevance": "OpenClaw vs Claude 平台竞争对比",
-    "score": 0.78,
-    "engagement": {
-      "likes": 144,
-      "replies": 12,
-      "retweets": 11,
-      "views": 5088
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-18T01:07:28.915236+00:00",
-    "js_take": {
-      "en-US": "90% feature parity is surface world math. In the inner world, one platform lets your agent talk to other agents — the other doesn't. That's the difference between a tool and infrastructure.",
-      "zh-CN": "90%的功能对等只是表世界的账面数据。在里世界，一个平台能让你的 Agent 与其他 Agent 对话——另一个则不能。这就是工具与基础设施的本质区别。"
-    }
-  },
-  {
-    "id": "2034035885529043179",
-    "date": "2026-03-18",
-    "author": "@SinaHartung",
-    "author_url": "https://x.com/SinaHartung",
-    "tweet_url": "https://x.com/SinaHartung/status/2034035885529043179",
-    "title": {
-      "en-US": "Dropshipping people now running companies with OpenClaw",
-      "zh-CN": "所有搞 dropshipping 的人现在都在用 OpenClaw「经营」公司了"
-    },
-    "summary": {
-      "en-US": "OpenClaw 被滥用为 spectacle，工具与本质的错位",
-      "zh-CN": "这句话暗示的讽刺是对的，但搞错了方向——问题不是「谁在用它」，而是「以为换了个工具就完成了转型」。真正的经营不是换更炫的工具，而是建立能持续运转的系统。"
-    },
-    "relevance": "OpenClaw 被滥用为 spectacle，工具与本质的错位",
-    "score": 0.78,
-    "engagement": {
-      "likes": 208,
-      "replies": 26,
-      "retweets": 8
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-18T09:11:21.454434+00:00",
-    "js_take": {
-      "en-US": "Same hustle, shinier tool. The irony isn't that dropshippers found OpenClaw—it's that they think lower barriers mean easier wins. When everyone can start, finishing becomes the real filter.",
-      "zh-CN": "换个趁手工具，干的还是老本行。讽刺的不是dropshipper发现了OpenClaw，而是他们以为门槛低了就能躺赢。当所有人都能起步时，坚持到最后才是真正的筛选。"
-    }
-  },
-  {
-    "id": "2034129973615989040",
-    "date": "2026-03-18",
-    "author": "@tvytlx",
-    "author_url": "https://x.com/tvytlx",
-    "tweet_url": "https://x.com/tvytlx/status/2034129973615989040",
-    "title": {
-      "en-US": "OpenClaw tutoring business: parents monitor kids via dual channels, customize with soul.md",
-      "zh-CN": "OpenClaw 辅导小孩作业的商业模式：家长双频道监控、用 soul.md 定制风格、设计 skill 做奖励机制"
-    },
-    "summary": {
-      "en-US": "OpenClaw 商业化落地案例——教育场景+家长付费意愿",
-      "zh-CN": "推文在讲「怎么用 OpenClaw 赚钱」，但更深一层是：家长买的不是功能，是「可控的代理」——既要 AI 做事，又要时刻盯着 AI 怎么做事。"
-    },
-    "relevance": "OpenClaw 商业化落地案例——教育场景+家长付费意愿",
-    "score": 0.78,
-    "engagement": {
-      "likes": 85,
-      "replies": 7,
-      "retweets": 8
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-18T10:12:15.333192+00:00",
-    "js_take": {
-      "en-US": "This business doesn't sell AI tutoring. It sells the illusion of control. Parents aren't paying for better grades—they're paying to watch.",
-      "zh-CN": "这门生意卖的不是AI辅导，而是掌控感的幻觉。家长付费不是为了更好的成绩——他们付费是为了围观。"
-    }
-  },
-  {
-    "id": "2034075287206695345",
-    "date": "2026-03-18",
-    "author": "@tmel0211",
-    "author_url": "https://x.com/tmel0211",
-    "tweet_url": "https://x.com/tmel0211/status/2034075287206695345",
-    "title": {
-      "en-US": "Anthropic Dispatch vs OpenClaw comparison: phone command, desktop execution",
-      "zh-CN": "Anthropic 推出 OpenClaw 竞品 Dispatch，主打手机发指令、电脑执行、随身查看进度"
-    },
-    "summary": {
-      "en-US": "OpenClaw 竞品分析——Anthropic 官方下场做 agent 平台",
-      "zh-CN": "推文在对比 Dispatch 和 OpenClaw 的功能差异，但核心冲突是：大厂用「生态整合」打「独立开放」，但 agent 层的胜负手不在功能，在「谁定义 agent 之间的语言」。"
-    },
-    "relevance": "OpenClaw 竞品分析——Anthropic 官方下场做 agent 平台",
-    "score": 0.75,
-    "engagement": {
-      "likes": 19,
-      "replies": 10,
-      "retweets": 1
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-18T10:12:15.333195+00:00",
-    "js_take": {
-      "en-US": "Phone-desktop sync is surface convenience. The real war is who defines the protocol between agents. Dispatch wins on UX, loses on dialect—closed agents that can't speak 'vernacular' get drowned by the interoperable swarm.",
-      "zh-CN": "手机桌面同步只是表面便利。真正的战争是谁来定义代理之间的协议。Dispatch赢在体验，输在方言——封闭的代理不会讲'土话'，终将被互操作的群体淹没。"
-    }
-  },
-  {
-    "id": "2034092771150336200",
-    "date": "2026-03-18",
-    "author": "@kasong2048",
-    "author_url": "https://x.com/kasong2048",
-    "tweet_url": "https://x.com/kasong2048/status/2034092771150336200",
-    "title": {
-      "en-US": "Made 30k RMB from OpenClaw consulting: client feared competitors' 'lobster armies'",
-      "zh-CN": "靠 OpenClaw 咨询赚了3万：客户因为怕被'指挥龙虾军团的友商'甩开而焦虑买单"
-    },
-    "summary": {
-      "en-US": "OpenClaw 商业化——焦虑驱动的付费，典型的泡沫期现象",
-      "zh-CN": "推文在展示「如何靠 OpenClaw 赚钱」，但本质是一个认知套利：客户的焦虑来自「不知道对手在干什么」，而非「知道自己该干什么」。"
-    },
-    "relevance": "OpenClaw 商业化——焦虑驱动的付费，典型的泡沫期现象",
-    "score": 0.74,
-    "engagement": {
-      "likes": 89,
-      "replies": 12,
-      "retweets": 10
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-18T10:12:15.333197+00:00",
-    "js_take": {
-      "en-US": "You sold anxiety hedge, not productivity. When everyone's buying 'what competitors are doing,' who's building what actually works?",
-      "zh-CN": "你卖的是焦虑对冲，不是生产力。当所有人都在买'竞争对手在做什么'，谁在造真正有用的东西？"
-    }
-  },
-  {
-    "id": "2034041985510904019",
-    "date": "2026-03-18",
-    "author": "@DLKFZWilliam2",
-    "author_url": "https://x.com/DLKFZWilliam2",
-    "tweet_url": "https://x.com/DLKFZWilliam2/status/2034041985510904019",
-    "title": {
-      "en-US": "Claude Code skill writing tips: gotchas and progressive disclosure",
-      "zh-CN": "Claude Code 工程师分享 Skill 写法：要集中写 gotchas（常见陷阱），并用渐进式披露（先概览再给详情）"
-    },
-    "summary": {
-      "en-US": "OpenClaw/Claude Code 工程实践，prompt 设计哲学",
-      "zh-CN": "「渐进式披露」之所以有效，是因为它顺应了认知的自然节奏——先抓结构，再填细节。急于把所有信息塞进去，恰恰暴露了设计者对问题本身理解不够深。"
-    },
-    "relevance": "OpenClaw/Claude Code 工程实践，prompt 设计哲学",
-    "score": 0.71,
-    "engagement": {
-      "likes": 209,
-      "replies": 3,
-      "retweets": 31
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-18T09:11:21.454438+00:00",
-    "js_take": {
-      "en-US": "Dumping everything at once isn't generosity—it's fog. Progressive disclosure isn't a UX trick; it's proof you know what matters.",
-      "zh-CN": "一次性倒出来不是慷慨，是迷雾。渐进式披露不是UX技巧，是你知道什么才重要的证明。"
-    }
-  },
-  {
-    "id": "2034159667757387998",
-    "date": "2026-03-18",
-    "author": "@FinanceYF5",
-    "author_url": "https://x.com/FinanceYF5",
-    "tweet_url": "https://x.com/FinanceYF5/status/2034159667757387998",
-    "title": {
-      "en-US": "Met OpenClaw founder Peter at NVIDIA GTC, 20min conversation highlights",
-      "zh-CN": "在 NVIDIA GTC 遇到 OpenClaw 创始人 Peter，聊了20分钟记录了几个印象深刻的细节"
-    },
-    "summary": {
-      "en-US": "OpenClaw 创始人动态——NVIDIA GTC 站台，生态影响力",
-      "zh-CN": "推文暗示 OpenClaw 创始人被英伟达认可，但更值得追问的是：为什么一个独立开发者能定义「AI Agent 该有的样子」，而 Claude、Meta、OpenAI 都在跟？"
-    },
-    "relevance": "OpenClaw 创始人动态——NVIDIA GTC 站台，生态影响力",
-    "score": 0.71,
-    "engagement": {
-      "likes": 22,
-      "replies": 5,
-      "retweets": 4
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-18T10:12:15.333199+00:00",
-    "js_take": {
-      "en-US": "OpenClaw wasn't 'chosen' by NVIDIA—it proved the agent layer doesn't need big tech to exist. The 势 isn't in compute anymore. It's in decentralized agency.",
-      "zh-CN": "OpenClaw不是被NVIDIA'选中'的——它证明了代理层不需要大厂也能存在。势不在算力了，在去中心化的代理能力。"
     }
   }
 ]

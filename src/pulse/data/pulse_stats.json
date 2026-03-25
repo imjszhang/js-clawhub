@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-24T19:16:29.733342+00:00",
+  "updated_at": "2026-03-25T03:11:40.325823+00:00",
   "this_week": {
-    "total_items": 52,
+    "total_items": 56,
     "avg_score": 0.77,
-    "unique_authors": 45,
+    "unique_authors": 49,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -144,6 +144,34 @@
         "js_take": {
           "en-US": "We wired 30 agents into a pipeline. When the coordinator hallucinated the wrong priority, they didn't fail — they delivered a beautiful, wrong solution in 10 seconds flat.",
           "zh-CN": "30个智能体接入流水线后，协调器搞错了优先级，它们非但没崩溃，反而仅用10秒就交出了完美却错误的结果。"
+        }
+      },
+      {
+        "id": "2036613065144217702",
+        "date": "2026-03-25",
+        "author": "@noahkagan",
+        "author_url": "https://x.com/noahkagan",
+        "tweet_url": "https://x.com/noahkagan/status/2036613065144217702",
+        "title": {
+          "en-US": "OpenClaw acquisition worst of all time",
+          "zh-CN": "Noah Kagan 称 OpenClaw 收购将成史上最差收购，因其 buggy 且 Claude Code 能替代 80% 功能"
+        },
+        "summary": {
+          "en-US": "OpenClaw vs Claude Code 的工具竞争讨论",
+          "zh-CN": "把 OpenClaw 和 Claude Code 放在「谁更好」的框架里比较，本身就是线性思维的陷阱——二者不是在竞争，而是在定义 agent 生态的不同演进路径"
+        },
+        "relevance": "OpenClaw vs Claude Code 的工具竞争讨论",
+        "score": 0.82,
+        "engagement": {
+          "likes": 314,
+          "replies": 100,
+          "retweets": 7
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-03-25T03:11:20.463865+00:00",
+        "js_take": {
+          "en-US": "Wrong framing. OpenClaw asks 'what can agents do'; Claude Code asks 'how should they work'—not the same game.",
+          "zh-CN": "框架错了。OpenClaw 问的是「Agent 能做什么」，Claude Code 问的是「它们应该如何工作」——根本不是一个层面的问题。"
         }
       },
       {
@@ -484,6 +512,34 @@
         "js_take": {
           "en-US": "Android vs Apple was about convenience. This is about judgment. Outsource your thinking enough times, and you forget how to come back.",
           "zh-CN": "Android vs Apple was about convenience. This is about judgment. Outsource your thinking enough times, and you forget how to come back."
+        }
+      },
+      {
+        "id": "2036469505749295395",
+        "date": "2026-03-25",
+        "author": "@GithubProjects",
+        "author_url": "https://x.com/GithubProjects",
+        "tweet_url": "https://x.com/GithubProjects/status/2036469505749295395",
+        "title": {
+          "en-US": "OpenClaw native memory upgrade with ByteRover integration",
+          "zh-CN": "OpenClaw 推出原生内存功能升级，支持跨会话保留上下文，优化 token 使用并集成 ByteRover 内存系统。"
+        },
+        "summary": {
+          "en-US": "OpenClaw 核心功能更新，memory 系统与 agent 连续性",
+          "zh-CN": "内存自动化的悖论：它在保护你的同时也切断你与真实反馈的接触——只在最后 click merge 出现，意味着你失去过程感知。"
+        },
+        "relevance": "OpenClaw 核心功能更新，memory 系统与 agent 连续性",
+        "score": 0.78,
+        "engagement": {
+          "likes": 165,
+          "replies": 7,
+          "retweets": 11
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-25T02:07:44.035786+00:00",
+        "js_take": {
+          "en-US": "Auto-memory delivers the merge without the reasoning. You gain speed, but lose the sense of why things break.",
+          "zh-CN": "自动记忆完成了合并，却没有给出推理过程。你赢得了速度，却丢失了理解问题根源的线索。"
         }
       },
       {
@@ -913,6 +969,34 @@
         }
       },
       {
+        "id": "2036579572322541970",
+        "date": "2026-03-25",
+        "author": "@lyc_zh",
+        "author_url": "https://x.com/lyc_zh",
+        "tweet_url": "https://x.com/lyc_zh/status/2036579572322541970",
+        "title": {
+          "en-US": "",
+          "zh-CN": "讨论上下文工程，指出把所有知识塞进一个 agent 的误区：信息越多注意力越散，最终解法是每个 skill.md 只保留最小必要知识。"
+        },
+        "summary": {
+          "en-US": "Agent 架构设计，与 OpenClaw skill 理念高度契合",
+          "zh-CN": "信息过载不是技术问题，是判断力问题——强行塞满 context window 本质上是用工具的勤奋掩盖决策的懒惰。"
+        },
+        "relevance": "Agent 架构设计，与 OpenClaw skill 理念高度契合",
+        "score": 0.74,
+        "engagement": {
+          "likes": 29,
+          "replies": 0,
+          "retweets": 2
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-25T02:07:44.035792+00:00",
+        "js_take": {
+          "en-US": "Agent frameworks race to stuff more tokens. The real edge is ruthless exclusion—less noise, more signal.",
+          "zh-CN": "Agent框架竞相塞入更多token，真正的优势却是无情地做减法——少点噪音，多点信号。"
+        }
+      },
+      {
         "id": "2036105422898409485",
         "date": "2026-03-24",
         "author": "@linyiLYi",
@@ -941,99 +1025,11 @@
           "en-US": "Forcing open protocols into closed systems is swimming against the current. The harder you push for 'integration,' the deeper the misalignment becomes—openness and control obey different laws.",
           "zh-CN": "将开放协议硬塞进封闭系统，是逆势而为。越强求「整合」，错位越深——开放与控制本就遵循不同的法则。"
         }
-      },
-      {
-        "id": "2036197273496068102",
-        "date": "2026-03-24",
-        "author": "@Yuchenj_UW",
-        "author_url": "https://x.com/Yuchenj_UW",
-        "tweet_url": "https://x.com/Yuchenj_UW/status/2036197273496068102",
-        "title": {
-          "en-US": "Why Anthropic didn't buy OpenClaw - aiming for full computer control",
-          "zh-CN": "解释 Anthropic 为什么不收购 OpenClaw——因为 Claude 的目标是控制整台电脑"
-        },
-        "summary": {
-          "en-US": "Anthropic 战略定位与 OpenClaw 生态位分析",
-          "zh-CN": "「做一切」和「做好一件事」不是竞争关系，是不同进化路径。试图控制整台电脑的系统，和选择特定场景深耕的系统，终将分化为两个物种。"
-        },
-        "relevance": "Anthropic 战略定位与 OpenClaw 生态位分析",
-        "score": 0.74,
-        "engagement": {
-          "likes": 83,
-          "replies": 14,
-          "retweets": 3,
-          "views": 5037
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-03-23T22:09:29.946114+00:00",
-        "js_take": {
-          "en-US": "Claude wants the whole computer. OpenClaw picked specific scenes. Not competition—two species diverging. Different势, no collision.",
-          "zh-CN": "Claude想接管整台电脑，OpenClaw专注特定场景。这不是竞争，是两个物种的分道扬镳。势不同，不相撞。"
-        }
-      },
-      {
-        "id": "2036026482959532228",
-        "date": "2026-03-24",
-        "author": "@hiheimu",
-        "author_url": "https://x.com/hiheimu",
-        "tweet_url": "https://x.com/hiheimu/status/2036026482959532228",
-        "title": {
-          "en-US": "Claude orchestrating Codex reveals new AI programming paradigm",
-          "zh-CN": "劳佬为省Claude Token做出的东西，藏着AI时代编程的新范式：Claude调度Codex干活，你只需用自然语言跟Claude说需求"
-        },
-        "summary": {
-          "en-US": "AI agent协作编排，harness engineer概念，与OpenClaw生态直接相关",
-          "zh-CN": "省Token只是表象，真正的范式转移是「谁来做决策」。当Claude决定什么时候调用Codex、什么时候自己写，人的角色从「写代码」变成了「定义问题边界」——这不是省钱，是把认知负荷从执行层转移到判断层。"
-        },
-        "relevance": "AI agent协作编排，harness engineer概念，与OpenClaw生态直接相关",
-        "score": 0.74,
-        "engagement": {
-          "likes": 47,
-          "retweets": 4,
-          "replies": 4,
-          "views": 9102,
-          "bookmarks": 55
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-24T00:13:00.932068+00:00",
-        "js_take": {
-          "en-US": "Token savings are the distraction. The shift is who decides. Claude calling Codex means your job moved from writing code to drawing boundaries — execution is cheap now, judgment is the cost.",
-          "zh-CN": "节省 Token 只是表象。真正的转变在于谁来决策。Claude 调用 Codex 意味着你的工作从写代码变成了划定边界——执行现在很便宜，判断力才是成本。"
-        }
-      },
-      {
-        "id": "2036225984320397364",
-        "date": "2026-03-24",
-        "author": "@runes_leo",
-        "author_url": "https://x.com/runes_leo",
-        "tweet_url": "https://x.com/runes_leo/status/2036225984320397364",
-        "title": {
-          "en-US": "Thariq's Claude/Agent articles indexed: Skills, filesystem, bash, prompt caching",
-          "zh-CN": "Anthropic的Thariq整理了他的Claude/Agent技术文章索引，核心观点包括：Skills是agent基础抽象、Agent应该用文件系统、Bash is all you need等"
-        },
-        "summary": {
-          "en-US": "Claude Agent最佳实践 + OpenClaw技术栈，高价值技术内容",
-          "zh-CN": "推文列出了「构建agent的艺术」的技术清单，但漏了最关键的一条：agent的优雅不在于它「能做多少」，而在于它「知道什么时候该停下来」。Skill是抽象，但「不做」才是更高级的抽象"
-        },
-        "relevance": "Claude Agent最佳实践 + OpenClaw技术栈，高价值技术内容",
-        "score": 0.74,
-        "engagement": {
-          "likes": 74,
-          "replies": 3,
-          "retweets": 7,
-          "views": 13167
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-24T03:07:06.280804+00:00",
-        "js_take": {
-          "en-US": "Missing from that list: knowing when to refuse. The elegant agent isn't defined by what it does, but by what it won't.",
-          "zh-CN": "那份清单遗漏了一点：知道何时拒绝。优雅的代理不由它做什么来定义，而由它不做什么来定义。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 162
+    "unique_authors": 164
   }
 }
