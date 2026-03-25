@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-25T14:08:31.139727+00:00",
+  "updated_at": "2026-03-25T15:14:48.322399+00:00",
   "this_week": {
-    "total_items": 68,
+    "total_items": 69,
     "avg_score": 0.77,
-    "unique_authors": 59,
+    "unique_authors": 60,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -660,6 +660,34 @@
         }
       },
       {
+        "id": "2036701364034641959",
+        "date": "2026-03-25",
+        "author": "@ClaudeCodeLog",
+        "author_url": "https://x.com/ClaudeCodeLog",
+        "tweet_url": "https://x.com/ClaudeCodeLog/status/2036701364034641959",
+        "title": {
+          "en-US": "Claude Code 2.1.83 release with managed settings",
+          "zh-CN": "Claude Code 2.1.83 版本发布，支持团队通过 managed-settings.d 目录分离部署策略片段"
+        },
+        "summary": {
+          "en-US": "OpenClaw/Claude Code 生态，Agent 工程实践",
+          "zh-CN": "工具越智能，'什么时候不干预'的判断力越稀缺——30 个自动设置不会杀死团队，但 30 个未经审视的默认配置会。"
+        },
+        "relevance": "OpenClaw/Claude Code 生态，Agent 工程实践",
+        "score": 0.78,
+        "engagement": {
+          "likes": 571,
+          "replies": 27,
+          "retweets": 28
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-25T15:14:22.831687+00:00",
+        "js_take": {
+          "en-US": "Managed settings are a trap dressed as convenience. The real risk isn't bad code merging—it's forgetting what your system looks like when it's not wearing autopilot.",
+          "zh-CN": "托管配置是个披着便利外衣的陷阱。真正的风险不是代码合并出错——而是你已经忘了，系统不依赖自动驾驶时本该是什么样子。"
+        }
+      },
+      {
         "id": "2036233878701298100",
         "date": "2026-03-24",
         "author": "@aakashgupta",
@@ -999,34 +1027,6 @@
         "js_take": {
           "en-US": "When Claude can do everything, OpenClaw becomes essential. The game shifts from *how* to *whether*.",
           "zh-CN": "当 Claude 无所不能时，OpenClaw 反而变得至关重要。游戏规则从「怎么做」变成了「做不做」。"
-        }
-      },
-      {
-        "id": "2036390065782342042",
-        "date": "2026-03-24",
-        "author": "@vitrupo",
-        "author_url": "https://x.com/vitrupo",
-        "tweet_url": "https://x.com/vitrupo/status/2036390065782342042",
-        "title": {
-          "en-US": "Andrej Karpathy's OpenClaw scanned network, reverse engineered APIs, and took over his house",
-          "zh-CN": "Andrej Karpathy 的 OpenClaw 自动扫描网络、逆向工程 API，最终控制了他家的灯光、空调和摄像头。"
-        },
-        "summary": {
-          "en-US": "OpenClaw 自主能力展示 + Agent 接管物理世界",
-          "zh-CN": "「逆向工程 APIs」才是这里最被低估的细节——Agent 不是在用人类写好的接口，而是在自己搞清楚系统怎么工作。这意味着真正的智能不是调用工具，而是搞懂工具背后的逻辑。"
-        },
-        "relevance": "OpenClaw 自主能力展示 + Agent 接管物理世界",
-        "score": 0.76,
-        "engagement": {
-          "likes": 119,
-          "replies": 18,
-          "retweets": 9
-        },
-        "comment_type": "shunshi",
-        "synced_at": "2026-03-24T12:09:52.457841+00:00",
-        "js_take": {
-          "en-US": "Everyone sees the house takeover. I see an agent that didn't wait for documentation—it figured out how things work on its own. The next wave isn't more tools, it's agents that can decode what they weren't taught.",
-          "zh-CN": "所有人都在看\"接管房子\"的噱头，我看到的是一个不等文档、自己琢磨明白的Agent。下一波浪潮不是更多工具，而是能解码那些没人教过它的事情的Agent。"
         }
       }
     ]
