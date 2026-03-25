@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-03-24",
+    "title": {
+      "zh-CN": "从拍脑袋写作到系统组装：知识复利的三位一体战略",
+      "en-US": "From Brainstorming to System Assembly: A Trinity Strategy for Knowledge Compounding"
+    },
+    "date": "2026-03-24",
+    "summary": {
+      "zh-CN": "今天原本计划继续深挖“本地部署主权”的技术细节，但在复盘前 9 天的产出数据时，我意识到一个更本质的冲突：随着素材规模指数级增长，手动将时间线笔记转化为逻辑结构的流程已成为瓶颈。面对用户“装好了但不知道干什么”的反馈，以及规模化带来的执行安全风险，我决定暂停单点功能开发，转而构建一套兼顾“分层分离...",
+      "en-US": "I originally planned to dive deeper into the technical details of 'local deployment sovereignty.' However, while reviewing the output data from the past nine days, I realized a more fundamental conflict: as our material scale grows exponentially, the manual process of converting timeline notes into logical structures has become a bottleneck. Facing user feedback like 'it's installed, but I don't know what to do with it,' along with execution risks introduced by scaling, I've decided to pause single-point feature development. Instead, I'm shifting focus to building a system that balances 'layered separation..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 53
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-22",
     "title": {
       "zh-CN": "借腾讯的船，出我的海：微信原生插件与 AI 主权博弈",
