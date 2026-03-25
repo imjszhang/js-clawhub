@@ -343,6 +343,34 @@
     }
   },
   {
+    "id": "2036745165612921145",
+    "date": "2026-03-25",
+    "author": "@nash_su",
+    "author_url": "https://x.com/nash_su",
+    "tweet_url": "https://x.com/nash_su/status/2036745165612921145",
+    "title": {
+      "en-US": "opencli-rs Skill released - gives OpenClaw/ClaudeCode/OpenCode ability to fetch info from the whole web",
+      "zh-CN": "opencli-rs的Skill发布，让OpenClaw/ClaudeCode/OpenCode等工具一键获得获取全网信息的能力。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态——Skill扩展与信息获取能力",
+      "zh-CN": "Skill让Agent获得「全网信息」能力，但真正的瓶颈从「获取信息」转移到「判断哪些信息值得获取」。更多的输入不会带来更好的输出，反而可能淹没判断力——当Agent可以读整个互联网时，「不读什么」比「读什么」更重要。"
+    },
+    "relevance": "OpenClaw生态——Skill扩展与信息获取能力",
+    "score": 0.74,
+    "engagement": {
+      "likes": 23,
+      "replies": 1,
+      "retweets": 5
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-25T11:12:46.462708+00:00",
+    "js_take": {
+      "en-US": "You optimized for information access, but the bottleneck was never access. When Claude can read everything, the skill becomes knowing what to ignore—more pixels don't fix blind spots.",
+      "zh-CN": "你优化了信息获取，但瓶颈从不在获取本身。当Claude能阅读一切，真正的技能变成知道该忽略什么——信息再多也填不满认知盲区。"
+    }
+  },
+  {
     "id": "2036404957537247373",
     "date": "2026-03-25",
     "author": "@sukh_saroy",

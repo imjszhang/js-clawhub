@@ -343,6 +343,34 @@
     }
   },
   {
+    "id": "2036745165612921145",
+    "date": "2026-03-25",
+    "author": "@nash_su",
+    "author_url": "https://x.com/nash_su",
+    "tweet_url": "https://x.com/nash_su/status/2036745165612921145",
+    "title": {
+      "en-US": "opencli-rs Skill released - gives OpenClaw/ClaudeCode/OpenCode ability to fetch info from the whole web",
+      "zh-CN": "opencli-rs的Skill发布，让OpenClaw/ClaudeCode/OpenCode等工具一键获得获取全网信息的能力。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态——Skill扩展与信息获取能力",
+      "zh-CN": "Skill让Agent获得「全网信息」能力，但真正的瓶颈从「获取信息」转移到「判断哪些信息值得获取」。更多的输入不会带来更好的输出，反而可能淹没判断力——当Agent可以读整个互联网时，「不读什么」比「读什么」更重要。"
+    },
+    "relevance": "OpenClaw生态——Skill扩展与信息获取能力",
+    "score": 0.74,
+    "engagement": {
+      "likes": 23,
+      "replies": 1,
+      "retweets": 5
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-25T11:12:46.462708+00:00",
+    "js_take": {
+      "en-US": "You optimized for information access, but the bottleneck was never access. When Claude can read everything, the skill becomes knowing what to ignore—more pixels don't fix blind spots.",
+      "zh-CN": "你优化了信息获取，但瓶颈从不在获取本身。当Claude能阅读一切，真正的技能变成知道该忽略什么——信息再多也填不满认知盲区。"
+    }
+  },
+  {
     "id": "2036404957537247373",
     "date": "2026-03-25",
     "author": "@sukh_saroy",
@@ -5661,34 +5689,6 @@
     "js_take": {
       "en-US": "Your cookies, your reputation, your risk. Agent can tweet for you—but can it handle a reply that might spark controversy? Capability boundary matters more than feature list.",
       "zh-CN": "你的账号，你的声誉，你的风险。Agent 能替你发推——但它能处理那条可能引发争议的回复吗？能力边界比功能清单更重要。"
-    }
-  },
-  {
-    "id": "2033069561160020029",
-    "date": "2026-03-15",
-    "author": "@NekoStranding",
-    "author_url": "https://x.com/NekoStranding",
-    "tweet_url": "https://x.com/NekoStranding/status/2033069561160020029",
-    "title": {
-      "en-US": "East Money releases financial data Skill for OpenClaw",
-      "zh-CN": "东方财富发布了一套面向OpenClaw的金融数据Skill，提出高级工具应该变成Agent Native，商业模式可能转向按Token计费"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态/Agent商业模式——表世界到里世界的典型迁徙案例",
-      "zh-CN": "东方财富这一步恰恰印证了\"表世界退化为数据库，里世界成为新交互层\"——不是给人做的UI少了，而是Agent成了新用户，金融数据从\"给人看\"变成了\"给Agent调用\"，商业模式自然跟着迁徙。"
-    },
-    "relevance": "OpenClaw生态/Agent商业模式——表世界到里世界的典型迁徙案例",
-    "score": 0.78,
-    "engagement": {
-      "likes": 92,
-      "retweets": 14,
-      "replies": 2
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-15T11:07:40.948649+00:00",
-    "js_take": {
-      "en-US": "East Money isn't building a dashboard anymore. They're building a database for Agents. The user changed from human to Agent — that's the migration from surface to inner world.",
-      "zh-CN": "东方财富做的不是仪表盘，而是 Agent 的数据库。用户从人变成了 Agent——这正是从表世界向里世界的迁徙。"
     }
   }
 ]
