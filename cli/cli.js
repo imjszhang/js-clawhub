@@ -42,6 +42,7 @@ import { gitStatus, gitAdd, gitAddAll, gitCommit, gitPush, gitPullRebase, gitDif
 import { toJson, toStderr } from './lib/formatters.js';
 import { pull } from './lib/puller.js';
 import { blogImport, blogSources, blogTranslate, blogTranslateUntranslated } from './lib/blog-importer.js';
+import { galleryGenerate, galleryAdd, galleryList, galleryRemove } from './lib/gallery.js';
 
 // ── Arg parser ───────────────────────────────────────────────────────
 
@@ -572,6 +573,60 @@ async function cmdBlogTranslate(positional, flags) {
     }
 }
 
+// ── Gallery commands ─────────────────────────────────────────────────
+
+async function cmdGallery(positional, flags) {
+    const subcommand = positional[0] || 'list';
+
+    if (subcommand === 'generate') {
+        try {
+            const result = await galleryGenerate(flags);
+            toJson(result);
+        } catch (err) {
+            toStderr(`Error: ${err.message}`);
+            process.exit(1);
+        }
+        return;
+    }
+
+    if (subcommand === 'add') {
+        try {
+            const result = galleryAdd(flags);
+            toJson(result);
+        } catch (err) {
+            toStderr(`Error: ${err.message}`);
+            process.exit(1);
+        }
+        return;
+    }
+
+    if (subcommand === 'list') {
+        toJson(galleryList(flags));
+        return;
+    }
+
+    if (subcommand === 'remove') {
+        const id = positional[1];
+        if (!id) {
+            toStderr('Error: gallery remove requires an item ID.');
+            toStderr('Usage: clawhub gallery remove <id>');
+            process.exit(1);
+        }
+        try {
+            const result = galleryRemove(id);
+            toJson(result);
+        } catch (err) {
+            toStderr(`Error: ${err.message}`);
+            process.exit(1);
+        }
+        return;
+    }
+
+    toStderr(`Error: unknown gallery subcommand "${subcommand}"`);
+    toStderr('Usage: clawhub gallery [generate|add|list|remove]');
+    process.exit(1);
+}
+
 // ── Usage ────────────────────────────────────────────────────────────
 
 function printUsage() {
@@ -676,6 +731,30 @@ Commands:
 
   blog-sources         List all registered blog content sources and import status
 
+  gallery              Manage AI-generated artwork gallery
+  gallery list         List gallery items (default)
+    --tag <tag>        Filter by tag
+  gallery generate     Generate image via ComfyUI and add to gallery
+    --workflow <file>  Path to ComfyUI workflow JSON (required)
+    --prompt "text"    Generation prompt
+    --negative-prompt "text"  Negative prompt
+    --title "text"     Artwork title
+    --model "name"     Model name (metadata only)
+    --sampler "name"   Sampler name (metadata)
+    --steps <N>        Steps count (metadata)
+    --cfg-scale <N>    CFG scale (metadata)
+    --seed <N>         Seed (metadata)
+    --resolution "WxH" Resolution string (metadata)
+    --tags "a,b,c"     Comma-separated tags
+    --server <url>     ComfyUI server URL
+    --workflow-display "name"  Display name for workflow
+  gallery add          Manually add an existing image to gallery
+    --image <path>     Path to image file (required)
+    --title "text"     Artwork title
+    --prompt "text"    Prompt used (metadata)
+    (accepts same metadata flags as generate)
+  gallery remove <id>  Remove a gallery item by ID
+
 Examples:
   clawhub search "memory"
   clawhub pulse --days 1 --min-score 0.8
@@ -708,7 +787,12 @@ Examples:
   clawhub blog-import practice-diary --all --translate
   clawhub blog-translate practice-diary-2026-03-04
   clawhub blog-translate --all
-  clawhub blog-translate --all --dry-run`);
+  clawhub blog-translate --all --dry-run
+  clawhub gallery list
+  clawhub gallery list --tag illustration
+  clawhub gallery generate --workflow ./assets/workflows/image_z_image_turbo.json --prompt "a cat" --model "SDXL" --tags "illustration,animal"
+  clawhub gallery add --image ./photo.png --title "My Art" --prompt "a sunset" --model "SDXL"
+  clawhub gallery remove 20260326-my-art-ab12`);
 }
 
 // ── Main ─────────────────────────────────────────────────────────────
@@ -776,6 +860,9 @@ async function main() {
             break;
         case 'blog-translate':
             await cmdBlogTranslate(positional, flags);
+            break;
+        case 'gallery':
+            await cmdGallery(positional, flags);
             break;
         case 'help':
         case '--help':

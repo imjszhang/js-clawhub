@@ -48,6 +48,10 @@ const BILINGUAL_FIELDS = {
     'guide/data/index.json': {
         '[].title': true,
     },
+    'gallery/data/index.json': {
+        '[].title': true,
+        '[].description': true,
+    },
 };
 
 const LOCALES = ['zh-CN', 'en-US'];
@@ -279,6 +283,15 @@ function generateApiLayer() {
     writeFileSync(join(apiDir, 'pulse', 'week.json'), JSON.stringify(weekItems, null, 2), 'utf-8');
     fileCount++;
 
+    // gallery/index.json + gallery images
+    const gallerySrc = join(SRC, 'gallery', 'data', 'index.json');
+    if (existsSync(gallerySrc)) {
+        const galleryApiDir = join(apiDir, 'gallery');
+        mkdirSync(galleryApiDir, { recursive: true });
+        cpSync(gallerySrc, join(galleryApiDir, 'index.json'));
+        fileCount++;
+    }
+
     // craft/ — methodology guide + scaffold + templates
     const craftSrc = join(SRC, 'craft');
     if (existsSync(craftSrc)) {
@@ -298,9 +311,15 @@ function generateSitemap() {
     const blogPosts = JSON.parse(readFileSync(join(SRC, 'blog', 'posts', 'index.json'), 'utf-8'));
     const skills = JSON.parse(readFileSync(join(SRC, 'skills', 'data', 'index.json'), 'utf-8'));
 
+    const galleryFile = join(SRC, 'gallery', 'data', 'index.json');
+    const galleryItems = existsSync(galleryFile) ? JSON.parse(readFileSync(galleryFile, 'utf-8')) : [];
+
     const latestBlogDate = blogPosts.length ? blogPosts[0].date : today;
     const latestSkillDate = skills.length
         ? skills.reduce((max, s) => s.date > max ? s.date : max, skills[0].date)
+        : today;
+    const latestGalleryDate = galleryItems.length
+        ? galleryItems.reduce((max, g) => (g.createdAt || '') > max ? g.createdAt : max, galleryItems[0].createdAt || today)
         : today;
     const latestDate = [latestBlogDate, latestSkillDate].reduce((max, d) => d > max ? d : max);
 
@@ -311,7 +330,17 @@ function generateSitemap() {
         { loc: '/guide/', lastmod: today, changefreq: 'monthly', priority: '0.8' },
         { loc: '/pulse/', lastmod: today, changefreq: 'daily', priority: '0.7' },
         { loc: '/projects/', lastmod: today, changefreq: 'monthly', priority: '0.7' },
+        { loc: '/gallery/', lastmod: latestGalleryDate, changefreq: 'weekly', priority: '0.7' },
     ];
+
+    for (const item of galleryItems) {
+        urls.push({
+            loc: `/gallery/detail.html?id=${item.id}`,
+            lastmod: item.createdAt || today,
+            changefreq: 'monthly',
+            priority: '0.6',
+        });
+    }
 
     for (const post of blogPosts) {
         urls.push({

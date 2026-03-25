@@ -1,0 +1,3 @@
+[submodule "vendor/js-comfyui-skill"]
+	path = vendor/js-comfyui-skill
+	url = https://github.com/imjszhang/js-comfyui-skill.git

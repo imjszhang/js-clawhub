@@ -12,6 +12,7 @@ const Nav = {
         { i18nKey: 'nav.projects', href: '/projects/' },
         { i18nKey: 'nav.guide', href: '/guide/' },
         { i18nKey: 'nav.blog', href: '/blog/' },
+        { i18nKey: 'nav.gallery', href: '/gallery/' },
     ],
 
     /**
@@ -30,7 +31,7 @@ const Nav = {
      */
     getBasePath() {
         const path = window.location.pathname;
-        if (path.includes('/projects/') || path.includes('/skills/') || path.includes('/blog/') || path.includes('/pulse/') || path.includes('/guide/')) {
+        if (path.includes('/projects/') || path.includes('/skills/') || path.includes('/blog/') || path.includes('/pulse/') || path.includes('/guide/') || path.includes('/gallery/')) {
             return '../';
         }
         return './';
@@ -128,7 +129,7 @@ const Nav = {
     isActive(currentPath, itemHref) {
         if (itemHref === '/') {
             return currentPath.endsWith('/') && !currentPath.includes('/projects/') && !currentPath.includes('/skills/') && 
-                   !currentPath.includes('/blog/') && !currentPath.includes('/pulse/') && !currentPath.includes('/guide/');
+                   !currentPath.includes('/blog/') && !currentPath.includes('/pulse/') && !currentPath.includes('/guide/') && !currentPath.includes('/gallery/');
         }
         return currentPath.includes(itemHref);
     },

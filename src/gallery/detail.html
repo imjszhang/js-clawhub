@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>作品详情 - JS ClawHub</title>
+    <meta id="meta-description" name="description" content="JS ClawHub AI 创作作品详情">
+    <meta name="author" content="imjszhang">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article">
+    <meta id="og-title" property="og:title" content="作品详情 - JS ClawHub">
+    <meta id="og-description" property="og:description" content="AI 创作作品详情 — 附完整创作参数">
+    <meta id="og-image" property="og:image" content="">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="作品详情 - JS ClawHub">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
+
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Space Grotesk', 'sans-serif'],
+                        mono: ['JetBrains Mono', 'monospace'],
+                    },
+                    colors: {
+                        brand: { yellow: '#FCD228', black: '#000000', white: '#FFFFFF' }
+                    },
+                    boxShadow: {
+                        'brutal': '4px 4px 0px 0px #000000',
+                        'brutal-lg': '8px 8px 0px 0px #000000',
+                        'brutal-hover': '2px 2px 0px 0px #000000',
+                        'brutal-white': '4px 4px 0px 0px #FFFFFF',
+                    },
+                    borderWidth: { '3': '3px' },
+                    animation: {
+                        'slide-up': 'slideUp 0.8s ease-out forwards',
+                    },
+                    keyframes: {
+                        slideUp: { '0%': { opacity: '0', transform: 'translateY(40px)' }, '100%': { opacity: '1', transform: 'translateY(0)' } }
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="../shared/css/brutal.css">
+
+    <!-- i18n -->
+    <script src="../shared/js/i18n/index.js"></script>
+    <script src="../shared/js/i18n/locales/zh-CN.js"></script>
+    <script src="../shared/js/i18n/locales/en-US.js"></script>
+    <script>if (typeof I18nManager !== 'undefined') I18nManager.init();</script>
+</head>
+<body class="min-h-screen font-sans selection:bg-black selection:text-brand-yellow overflow-x-hidden">
+
+    <div id="canvas-container" class="fixed inset-0 -z-10 opacity-40 pointer-events-none"></div>
+    <div id="nav-container"></div>
+
+    <main class="pt-32 pb-24 px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto">
+
+        <!-- Back link -->
+        <div class="mb-8">
+            <a href="./" class="font-mono font-bold text-sm hover:bg-black hover:text-brand-yellow hover:px-2 transition-all" data-i18n="gallery.backToGallery">← 返回画廊</a>
+        </div>
+
+        <!-- Loading State -->
+        <div id="loading-state" class="text-center py-12">
+            <div class="brutal-loading mx-auto mb-4"></div>
+            <p class="font-mono font-bold" data-i18n="gallery.loadingDetail">LOADING...</p>
+        </div>
+
+        <!-- Detail Content (hidden until loaded) -->
+        <div id="detail-content" class="hidden">
+            <div class="grid grid-cols-1 lg:grid-cols-5 gap-8">
+
+                <!-- Image Section (3/5 width on desktop) -->
+                <div class="lg:col-span-3">
+                    <div id="image-container" class="brutal-card brutal-card-static overflow-hidden cursor-pointer" onclick="GalleryDetail.toggleFullscreen()">
+                        <img id="detail-image" src="" alt="" class="w-full h-auto block">
+                    </div>
+                </div>
+
+                <!-- Creation Info Panel (2/5 width on desktop) -->
+                <div class="lg:col-span-2 flex flex-col gap-4">
+
+                    <!-- Title & Meta -->
+                    <div class="brutal-card brutal-card-static p-5">
+                        <div id="detail-tags" class="flex flex-wrap gap-1 mb-3"></div>
+                        <h1 id="detail-title" class="text-2xl font-black uppercase mb-2"></h1>
+                        <p id="detail-description" class="text-sm font-medium text-black/70 mb-3"></p>
+                        <time id="detail-date" class="font-mono text-xs text-black/50"></time>
+                    </div>
+
+                    <!-- Creation Parameters -->
+                    <div class="brutal-card brutal-card-static p-5">
+                        <h2 class="font-mono font-black text-sm uppercase mb-4 pb-2 border-b-3 border-black" data-i18n="gallery.creationInfo">CREATION INFO</h2>
+
+                        <!-- Prompt -->
+                        <div id="prompt-section" class="mb-4 hidden">
+                            <div class="flex items-center justify-between mb-1">
+                                <label class="font-mono text-xs font-bold text-black/60 uppercase" data-i18n="gallery.prompt">Prompt</label>
+                                <button onclick="GalleryDetail.copyText('prompt')" class="font-mono text-[10px] font-bold px-2 py-1 border-2 border-black hover:bg-black hover:text-brand-yellow transition-all" data-i18n="gallery.copy">COPY</button>
+                            </div>
+                            <p id="detail-prompt" class="text-sm bg-black/5 p-3 font-mono leading-relaxed break-words"></p>
+                        </div>
+
+                        <!-- Negative Prompt -->
+                        <div id="neg-prompt-section" class="mb-4 hidden">
+                            <label class="font-mono text-xs font-bold text-black/60 uppercase mb-1 block" data-i18n="gallery.negativePrompt">Negative Prompt</label>
+                            <p id="detail-neg-prompt" class="text-xs bg-black/5 p-3 font-mono leading-relaxed break-words text-black/70"></p>
+                        </div>
+
+                        <!-- Parameters Grid -->
+                        <div id="params-grid" class="grid grid-cols-2 gap-2"></div>
+                    </div>
+
+                    <!-- Actions -->
+                    <div class="flex flex-col gap-2">
+                        <button onclick="GalleryDetail.copyAllParams()" class="brutal-btn-primary px-4 py-3 text-sm w-full" data-i18n="gallery.copyAll">COPY ALL PARAMS</button>
+                        <button onclick="GalleryDetail.shareLink()" class="brutal-btn-secondary px-4 py-3 text-sm w-full" data-i18n="gallery.shareLink">SHARE LINK</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Error State -->
+        <div id="error-state" class="hidden text-center py-12">
+            <p class="font-mono font-bold text-2xl" data-i18n="gallery.itemNotFound">// ARTWORK NOT FOUND</p>
+            <p class="font-medium mt-2">
+                <a href="./" class="underline decoration-2 underline-offset-4" data-i18n="gallery.browseAll">浏览全部作品</a>
+            </p>
+        </div>
+
+    </main>
+
+    <!-- Fullscreen Overlay -->
+    <div id="fullscreen-overlay" class="fixed inset-0 z-50 bg-black/90 hidden items-center justify-center cursor-pointer" onclick="GalleryDetail.toggleFullscreen()">
+        <img id="fullscreen-image" src="" alt="" class="max-w-[95vw] max-h-[95vh] object-contain">
+        <button class="absolute top-6 right-6 text-white font-mono font-bold text-2xl hover:text-brand-yellow">✕</button>
+    </div>
+
+    <!-- Copy Toast -->
+    <div id="copy-toast" class="fixed bottom-8 left-1/2 -translate-x-1/2 z-50 bg-black text-brand-yellow font-mono font-bold px-6 py-3 border-3 border-brand-yellow shadow-brutal hidden transition-all">
+        <span data-i18n="gallery.copied">已复制！</span>
+    </div>
+
+    <div id="footer-container"></div>
+
+    <script src="../shared/js/threejs-bg.js"></script>
+    <script src="../shared/js/nav.js"></script>
+    <script src="../shared/js/footer.js"></script>
+    <script src="./js/detail.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const params = new URLSearchParams(window.location.search);
+            const id = params.get('id');
+            if (id) {
+                GalleryDetail.load(id);
+            } else {
+                document.getElementById('loading-state')?.remove();
+                document.getElementById('error-state')?.classList.remove('hidden');
+            }
+        });
+        window.addEventListener('localechange', () => {
+            I18nManager.updateDOM();
+            const params = new URLSearchParams(window.location.search);
+            const id = params.get('id');
+            if (id) GalleryDetail.load(id);
+        });
+    </script>
+</body>
+</html>

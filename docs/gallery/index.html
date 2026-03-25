@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>画廊 - JS ClawHub</title>
+    <meta name="description" content="JS ClawHub AI 创作画廊 - ComfyUI 生成的作品集，附完整创作参数">
+    <meta name="author" content="imjszhang">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="画廊 - JS ClawHub">
+    <meta property="og:description" content="AI 创作画廊 — 每张图附完整提示词、工作流与模型信息">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="画廊 - JS ClawHub">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
+
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Space Grotesk', 'sans-serif'],
+                        mono: ['JetBrains Mono', 'monospace'],
+                    },
+                    colors: {
+                        brand: { yellow: '#FCD228', black: '#000000', white: '#FFFFFF' }
+                    },
+                    boxShadow: {
+                        'brutal': '4px 4px 0px 0px #000000',
+                        'brutal-lg': '8px 8px 0px 0px #000000',
+                        'brutal-hover': '2px 2px 0px 0px #000000',
+                        'brutal-white': '4px 4px 0px 0px #FFFFFF',
+                    },
+                    borderWidth: { '3': '3px' },
+                    animation: {
+                        'slide-up': 'slideUp 0.8s ease-out forwards',
+                    },
+                    keyframes: {
+                        slideUp: { '0%': { opacity: '0', transform: 'translateY(40px)' }, '100%': { opacity: '1', transform: 'translateY(0)' } }
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="../shared/css/brutal.css">
+
+    <!-- i18n -->
+    <script src="../shared/js/i18n/index.js"></script>
+    <script src="../shared/js/i18n/locales/zh-CN.js"></script>
+    <script src="../shared/js/i18n/locales/en-US.js"></script>
+    <script>if (typeof I18nManager !== 'undefined') I18nManager.init();</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DL14E140EC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DL14E140EC');
+</script>
+</head>
+<body class="min-h-screen font-sans selection:bg-black selection:text-brand-yellow overflow-x-hidden">
+
+    <div id="canvas-container" class="fixed inset-0 -z-10 opacity-40 pointer-events-none"></div>
+    <div id="nav-container"></div>
+
+    <main class="pt-32 pb-24 px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto">
+
+        <!-- Page Title -->
+        <section class="mb-12">
+            <h1 class="brutal-section-title mb-6">Gallery</h1>
+            <p class="text-xl font-bold max-w-2xl border-l-4 border-black pl-6 bg-white/50 p-4" data-i18n-html="gallery.heroDesc">
+                AI 创作作品集 — 每张图附完整<span class="bg-black text-brand-yellow px-1">创作参数</span>，可复制复现。
+            </p>
+        </section>
+
+        <!-- Filter Toolbar -->
+        <section id="filter-toolbar" class="mb-8 hidden">
+            <input id="gallery-search" type="text" class="brutal-search mb-4" placeholder="搜索作品..." data-i18n-placeholder="gallery.searchPlaceholder">
+
+            <div id="tag-filters" class="flex flex-wrap gap-2 mb-4"></div>
+
+            <div class="flex items-center justify-between">
+                <div class="flex items-center gap-3">
+                    <select id="sort-select" class="brutal-select">
+                        <option value="newest" data-i18n="gallery.sortNewest">最新优先</option>
+                        <option value="oldest" data-i18n="gallery.sortOldest">最早优先</option>
+                    </select>
+                </div>
+                <span id="results-count" class="font-mono text-xs text-black/60"></span>
+            </div>
+        </section>
+
+        <!-- Gallery Grid -->
+        <div id="gallery-container" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div id="loading-state" class="col-span-full text-center py-12">
+                <div class="brutal-loading mx-auto mb-4"></div>
+                <p class="font-mono font-bold" data-i18n="gallery.loading">LOADING...</p>
+            </div>
+        </div>
+
+        <!-- Empty State -->
+        <div id="empty-state" class="hidden text-center py-12">
+            <p class="font-mono font-bold text-2xl" data-i18n="gallery.noItems">// NO ARTWORKS YET</p>
+            <p class="font-medium mt-2" data-i18n="gallery.noItemsDesc">作品即将上线，敬请期待。</p>
+        </div>
+
+        <!-- Error State -->
+        <div id="error-state" class="hidden text-center py-12">
+            <p class="font-mono font-bold text-2xl" data-i18n="gallery.errorTitle">// ERROR LOADING GALLERY</p>
+            <p class="font-medium mt-2" data-i18n="gallery.errorDesc">加载失败，请刷新页面重试。</p>
+        </div>
+
+    </main>
+
+    <div id="footer-container"></div>
+
+    <script src="../shared/js/threejs-bg.js"></script>
+    <script src="../shared/js/nav.js"></script>
+    <script src="../shared/js/footer.js"></script>
+    <script src="./js/gallery.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            Gallery.loadItems();
+            document.title = typeof I18nManager !== 'undefined' ? I18nManager.t('gallery.pageTitle') : document.title;
+        });
+        window.addEventListener('localechange', () => {
+            document.title = I18nManager.t('gallery.pageTitle');
+            I18nManager.updateDOM();
+            Gallery.loadItems();
+        });
+    </script>
+</body>
+</html>
