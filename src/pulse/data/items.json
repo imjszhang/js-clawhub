@@ -1,5 +1,91 @@
 [
   {
+    "id": "2036852118762700929",
+    "date": "2026-03-26",
+    "author": "@Yuchenj_UW",
+    "author_url": "https://x.com/Yuchenj_UW",
+    "tweet_url": "https://x.com/Yuchenj_UW/status/2036852118762700929",
+    "title": {
+      "en-US": "Claude becoming super app; OpenClaw in Telegram/WhatsApp limits what it can do",
+      "zh-CN": "Claude 正在变成超级应用；OpenClaw 在 Telegram/WhatsApp 这类聊天应用内运行从根本上限制了它的能力。"
+    },
+    "summary": {
+      "en-US": "OpenClaw：平台形态与能力边界",
+      "zh-CN": "超级应用和开放平台的争论是个表象——真正的问题是谁掌握「交互的法则」。当 Claude 成为超级应用时，它正在从工具变成规则制定者。"
+    },
+    "relevance": "OpenClaw：平台形态与能力边界",
+    "score": 0.79,
+    "engagement": {
+      "likes": 176,
+      "retweets": 8,
+      "replies": 33
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-25T18:07:58.844616+00:00",
+    "js_take": {
+      "en-US": "Every super app becomes a rule-maker. The real power isn't features—it's who writes the constraints everyone else plays inside.",
+      "zh-CN": "每个超级应用都成为了规则制定者。真正的权力不在于功能——而在于谁来书写其他人必须遵守的游戏规则。"
+    }
+  },
+  {
+    "id": "2036816134075212015",
+    "date": "2026-03-26",
+    "author": "@cyrilXBT",
+    "author_url": "https://x.com/cyrilXBT",
+    "tweet_url": "https://x.com/cyrilXBT/status/2036816134075212015",
+    "title": {
+      "en-US": "OpenClaw 3.22: your laptop is now an AI employee working while you sleep",
+      "zh-CN": "介绍 OpenClaw 3.22 更新，声称笔记本电脑现在变成了在你睡觉时也能工作的 AI 员工。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI Agent平台",
+      "zh-CN": "更形象：「AI员工在你睡觉时工作」这个叙事忽略了一个事实——30个不睡觉的agent不会杀死团队，只会把坏决策执行快30倍。真正的瓶颈从「做」变成了「不做」的判断力。"
+    },
+    "relevance": "OpenClaw/AI Agent平台",
+    "score": 0.76,
+    "engagement": {
+      "likes": 76,
+      "retweets": 10,
+      "replies": 15,
+      "views": 3213,
+      "bookmarks": 21
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-25T16:17:26.775293+00:00",
+    "js_take": {
+      "en-US": "30 agents working 24/7 won't kill your team. They'll just execute bad decisions 30x faster. The bottleneck was never speed—it's knowing what not to build.",
+      "zh-CN": "30个Agent全天候运转不会拖垮团队，但会让错误决策的执行速度快上30倍。真正的瓶颈从来不是速度，而是知道什么不该做。"
+    }
+  },
+  {
+    "id": "2036857428273487903",
+    "date": "2026-03-26",
+    "author": "@openclaw",
+    "author_url": "https://x.com/openclaw",
+    "tweet_url": "https://x.com/openclaw/status/2036857428273487903",
+    "title": {
+      "en-US": "OpenClaw 2026.3.24 release: OpenAI API, Skill UI, Slack buttons, Teams, Discord threads",
+      "zh-CN": "OpenClaw 2026.3.24 版本发布：改进 OpenAI API、Skill 管理控制 UI、Slack 交互按钮、原生 Microsoft Teams 支持、Discord 智能线程命名。"
+    },
+    "summary": {
+      "en-US": "OpenClaw：平台更新与生态扩展",
+      "zh-CN": "「Any client. Any model. One runtime.」这句话背后是一个正在发生的迁移：表世界（各种 App）正在退化成数据库，里世界（Agent runtime）正在成为新的交互层。"
+    },
+    "relevance": "OpenClaw：平台更新与生态扩展",
+    "score": 0.75,
+    "engagement": {
+      "likes": 431,
+      "retweets": 38,
+      "replies": 71
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-25T18:07:58.844621+00:00",
+    "js_take": {
+      "en-US": "Any client. Any model. One runtime. The platforms are becoming pipes; Agent is the new interface layer.",
+      "zh-CN": "任意客户端，任意模型，统一运行时。平台正在退化为管道；Agent 正在成为全新的交互层。"
+    }
+  },
+  {
     "id": "2036450271463604419",
     "date": "2026-03-25",
     "author": "@ThePrimeagen",
@@ -5598,94 +5684,6 @@
     "js_take": {
       "en-US": "Six agents sounds complex. The magic isn't adding more—it's designing them to stay out of each other's way. Elegance through non-interference.",
       "zh-CN": "六个 Agent 听着复杂。真正的魔法不是堆数量，而是设计它们互不干涉。优雅，来自不打扰。"
-    }
-  },
-  {
-    "id": "2033225861894414750",
-    "date": "2026-03-16",
-    "author": "@heyshrutimishra",
-    "author_url": "https://x.com/heyshrutimishra",
-    "tweet_url": "https://x.com/heyshrutimishra/status/2033225861894414750",
-    "title": {
-      "en-US": "OpenClaw multi-agent coordination now default, spins up subagents automatically",
-      "zh-CN": "OpenClaw现在默认支持多代理协调，能自动启动子代理并路由任务"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台核心功能演进，多代理协调",
-      "zh-CN": "真正的护城河不是\"功能列表有多长\"，而是系统能否在无人干预时自组织——大多数人还在拼单点能力，已经输了"
-    },
-    "relevance": "OpenClaw平台核心功能演进，多代理协调",
-    "score": 0.72,
-    "engagement": {
-      "likes": 12,
-      "replies": 2,
-      "retweets": 1
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-15T18:06:58.630615+00:00",
-    "js_take": {
-      "en-US": "Feature lists are surface. True edge is systems that organize themselves. We're moving from manual control to autonomous coordination.",
-      "zh-CN": "功能清单只是表象，真正的优势在于自组织系统。我们正从手动控制迈向自主协同。"
-    }
-  },
-  {
-    "id": "2033230545778610532",
-    "date": "2026-03-16",
-    "author": "@jihad_sameul",
-    "author_url": "https://x.com/jihad_sameul",
-    "tweet_url": "https://x.com/jihad_sameul/status/2033230545778610532",
-    "title": {
-      "en-US": "OpenClaw Bot made $40,000+ in 15 days trading crypto 24/7 automatically.",
-      "zh-CN": "声称OpenClaw Bot全自动交易加密货币15天赚了4万多美元"
-    },
-    "summary": {
-      "en-US": "OpenClaw自动化交易，Agent实际应用案例",
-      "zh-CN": "这种「用AI自动赚钱」的叙事是典型的技术奇观陷阱——真正的价值不在展示收益数字，而在揭示为什么大多数人复制后会失败。"
-    },
-    "relevance": "OpenClaw自动化交易，Agent实际应用案例",
-    "score": 0.72,
-    "engagement": {
-      "likes": 92,
-      "retweets": 55,
-      "replies": 67,
-      "views": 5733,
-      "bookmarks": 61
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-15T23:08:10.419390+00:00",
-    "js_take": {
-      "en-US": "Same bot, 100 traders. 99 lose money. Knowing when to stop it beats knowing how to start it — and that judgment isn't in the code.",
-      "zh-CN": "同一套交易机器人，100个交易员用，99个亏钱。知道何时收手，胜过知道如何开始——而这种判断力，不在代码里。"
-    }
-  },
-  {
-    "id": "2033220627461550537",
-    "date": "2026-03-16",
-    "author": "@robin_liquidium",
-    "author_url": "https://x.com/robin_liquidium",
-    "tweet_url": "https://x.com/robin_liquidium/status/2033220627461550537",
-    "title": {
-      "en-US": "agent-browser 31x speed with lightpanda",
-      "zh-CN": "agent-browser支持lightpanda浏览器后，比OpenClaw内置浏览器快31倍"
-    },
-    "summary": {
-      "en-US": "OpenClaw工具链性能优化，技术栈选择",
-      "zh-CN": "31倍提速听起来像魔法，但深层问题是：为什么最初的设计选择了「慢但能跑通」而不是「快但需要重构」？有时候，先让系统转起来比让它转得快更重要——优化是第二步的势。"
-    },
-    "relevance": "OpenClaw工具链性能优化，技术栈选择",
-    "score": 0.71,
-    "engagement": {
-      "likes": 76,
-      "replies": 4,
-      "retweets": 3,
-      "views": 4596,
-      "bookmarks": 88
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-16T01:08:34.938169+00:00",
-    "js_take": {
-      "en-US": "31x faster sounds like the win. But the real call was shipping slow first. Working beats optimal when optimal delays the lesson.",
-      "zh-CN": "31倍提速听着很爽。但真正的决策是先慢后快。能用比完美重要——尤其当完美只会推迟你学到教训的时间。"
     }
   }
 ]
