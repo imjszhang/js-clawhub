@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-25T11:13:03.949203+00:00",
+  "updated_at": "2026-03-25T14:08:31.139727+00:00",
   "this_week": {
-    "total_items": 63,
+    "total_items": 68,
     "avg_score": 0.77,
-    "unique_authors": 54,
+    "unique_authors": 59,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -547,6 +547,34 @@
         }
       },
       {
+        "id": "2036437927534759958",
+        "date": "2026-03-25",
+        "author": "@tom_doerr",
+        "author_url": "https://x.com/tom_doerr",
+        "tweet_url": "https://x.com/tom_doerr/status/2036437927534759958",
+        "title": {
+          "en-US": "OpenClaw bot dashboard with pixel office",
+          "zh-CN": "展示OpenClaw bot的pixel office风格dashboard界面"
+        },
+        "summary": {
+          "en-US": "OpenClaw / Agent工具展示",
+          "zh-CN": "精美的dashboard是表世界的装饰，真正的价值在于里世界的工作流——当人们开始攀比界面美观时，往往意味着核心功能的同质化"
+        },
+        "relevance": "OpenClaw / Agent工具展示",
+        "score": 0.79,
+        "engagement": {
+          "likes": 900,
+          "replies": 21,
+          "retweets": 129
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-03-25T12:07:58.829125+00:00",
+        "js_take": {
+          "en-US": "Strip the pixel art. Does the agent's workflow still compel? Dashboards are vanity metrics for builders. The agents that survive won't be the prettiest—they'll be the ones that work when nobody's watching.",
+          "zh-CN": "剥去像素艺术的外壳，这个agent的工作流还站得住脚吗？仪表板不过是开发者的虚荣指标。真正能在竞争中存活下来的agent，从来不是最花哨的那个——而是那些即便无人关注，依然能稳定运行的。"
+        }
+      },
+      {
         "id": "2036222212227596662",
         "date": "2026-03-24",
         "author": "@_MaxBlade",
@@ -1000,39 +1028,11 @@
           "en-US": "Everyone sees the house takeover. I see an agent that didn't wait for documentation—it figured out how things work on its own. The next wave isn't more tools, it's agents that can decode what they weren't taught.",
           "zh-CN": "所有人都在看\"接管房子\"的噱头，我看到的是一个不等文档、自己琢磨明白的Agent。下一波浪潮不是更多工具，而是能解码那些没人教过它的事情的Agent。"
         }
-      },
-      {
-        "id": "2035567953572479307",
-        "date": "2026-03-23",
-        "author": "@Yuchenj_UW",
-        "author_url": "https://x.com/Yuchenj_UW",
-        "tweet_url": "https://x.com/Yuchenj_UW/status/2035567953572479307",
-        "title": {
-          "en-US": "Every Chinese restaurant in Bay Area, next table is debating Claude Code vs Codex, OpenAI vs Anthropic, is OpenClaw hype or real?",
-          "zh-CN": "湾区现在每家中餐厅，隔壁桌都在讨论 Claude Code vs Codex、OpenAI vs Anthropic、OpenClaw 是炒作还是真有用。"
-        },
-        "summary": {
-          "en-US": "OpenClaw 被直接提及，且讨论 hype vs real 的本质判断",
-          "zh-CN": "更形象——把「技术讨论热度」转化为一个具体场景画面，再点破真正的问题：当所有人都在饭桌上争论真假时，真正的信号不是观点对错，而是争论本身已经成为背景噪音。"
-        },
-        "relevance": "OpenClaw 被直接提及，且讨论 hype vs real 的本质判断",
-        "score": 0.76,
-        "engagement": {
-          "likes": 458,
-          "replies": 67,
-          "retweets": 11
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-22T18:09:06.318337+00:00",
-        "js_take": {
-          "en-US": "When it becomes dinner table gossip, the signal is already noise. Real players stopped asking 'real or hype'—they just watch where the 势 flows.",
-          "zh-CN": "当一件事沦为茶余饭后的谈资，真正的信号早已湮没在噪音里。行家不再追问真假——他们只看势往哪走。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 162
+    "unique_authors": 163
   }
 }

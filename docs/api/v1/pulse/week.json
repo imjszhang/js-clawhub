@@ -172,6 +172,34 @@
     }
   },
   {
+    "id": "2036437927534759958",
+    "date": "2026-03-25",
+    "author": "@tom_doerr",
+    "author_url": "https://x.com/tom_doerr",
+    "tweet_url": "https://x.com/tom_doerr/status/2036437927534759958",
+    "title": {
+      "en-US": "OpenClaw bot dashboard with pixel office",
+      "zh-CN": "展示OpenClaw bot的pixel office风格dashboard界面"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent工具展示",
+      "zh-CN": "精美的dashboard是表世界的装饰，真正的价值在于里世界的工作流——当人们开始攀比界面美观时，往往意味着核心功能的同质化"
+    },
+    "relevance": "OpenClaw / Agent工具展示",
+    "score": 0.79,
+    "engagement": {
+      "likes": 900,
+      "replies": 21,
+      "retweets": 129
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-25T12:07:58.829125+00:00",
+    "js_take": {
+      "en-US": "Strip the pixel art. Does the agent's workflow still compel? Dashboards are vanity metrics for builders. The agents that survive won't be the prettiest—they'll be the ones that work when nobody's watching.",
+      "zh-CN": "剥去像素艺术的外壳，这个agent的工作流还站得住脚吗？仪表板不过是开发者的虚荣指标。真正能在竞争中存活下来的agent，从来不是最花哨的那个——而是那些即便无人关注，依然能稳定运行的。"
+    }
+  },
+  {
     "id": "2036469505749295395",
     "date": "2026-03-25",
     "author": "@GithubProjects",
@@ -287,6 +315,35 @@
     }
   },
   {
+    "id": "2036740018597921143",
+    "date": "2026-03-25",
+    "author": "@canghe",
+    "author_url": "https://x.com/canghe",
+    "tweet_url": "https://x.com/canghe/status/2036740018597921143",
+    "title": {
+      "en-US": "OpenClaw agent connected to Xiaodu speaker for smart home control",
+      "zh-CN": "让OpenClaw Agent接入小度音箱控制智能家居"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态扩展与Agent应用",
+      "zh-CN": "OpenClaw从「开放平台」变成「家庭终端」，这个动作本身比技术实现更重要——表世界的设备（音箱）正在退化为里世界（Agent）的接口。重要的不是「能控制什么」，而是「谁来决定控制什么」。"
+    },
+    "relevance": "OpenClaw生态扩展与Agent应用",
+    "score": 0.75,
+    "engagement": {
+      "likes": 44,
+      "replies": 6,
+      "retweets": 5,
+      "views": 10553
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-25T13:23:59.744358+00:00",
+    "js_take": {
+      "en-US": "The speaker became the agent's mouth. Hardware retreating into interface while something else decides what to say—watch control, not connection.",
+      "zh-CN": "音箱成了 Agent 的嘴。硬件退化为接口，而真正决定说什么的是另一层——关注控制权，而非连接本身。"
+    }
+  },
+  {
     "id": "2036579572322541970",
     "date": "2026-03-25",
     "author": "@lyc_zh",
@@ -371,6 +428,34 @@
     }
   },
   {
+    "id": "2036694381252735160",
+    "date": "2026-03-25",
+    "author": "@himself65",
+    "author_url": "https://x.com/himself65",
+    "tweet_url": "https://x.com/himself65/status/2036694381252735160",
+    "title": {
+      "en-US": "OpenClaw破坏性更新风险, author only reviews prompts not code",
+      "zh-CN": "讨论OpenClaw破坏性更新带来的贡献风险，作者纯vibe coding、审阅PR只看prompt不看代码"
+    },
+    "summary": {
+      "en-US": "OpenClaw / 开源项目治理",
+      "zh-CN": "将责任完全归于作者'只看prompt不看代码'，忽略了开源协作的基本契约——参与者与项目之间的风险共担本身就是一种筛选机制"
+    },
+    "relevance": "OpenClaw / 开源项目治理",
+    "score": 0.73,
+    "engagement": {
+      "likes": 75,
+      "replies": 4,
+      "retweets": 1
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-25T12:07:58.829131+00:00",
+    "js_take": {
+      "en-US": "The author's 'irresponsibility' is a filter. Those who stay understand the deal: uncertainty is the price of admission. Open source has always been opt-in risk, not guaranteed safety.",
+      "zh-CN": "作者的「不负责任」本身就是一种筛选。留下的人都懂这笔交易：不确定性是入场的门票。开源从来就是自愿承担的风险，而非承诺的安全保障。"
+    }
+  },
+  {
     "id": "2036404957537247373",
     "date": "2026-03-25",
     "author": "@sukh_saroy",
@@ -452,6 +537,63 @@
     "js_take": {
       "en-US": "Cron runs, cron sleeps, cron doesn't hallucinate at 3am. You're not moving backward—you're choosing reliability over the illusion of intelligence.",
       "zh-CN": "Cron 按时运行、按时休眠，凌晨三点也不会产生幻觉。你不是在退步——你是在用可靠性取代智能的幻觉。"
+    }
+  },
+  {
+    "id": "2036760722919575670",
+    "date": "2026-03-25",
+    "author": "@moritzkremb",
+    "author_url": "https://x.com/moritzkremb",
+    "tweet_url": "https://x.com/moritzkremb/status/2036760722919575670",
+    "title": {
+      "en-US": "Built OpenClaw chat-based CRM replacing $300/mo tool with Google Sheet + agent",
+      "zh-CN": "用OpenClaw搭建了基于聊天的CRM系统，替代了每月300美元的商业CRM，只用Google Sheet + Agent实现"
+    },
+    "summary": {
+      "en-US": "OpenClaw应用 / Agent替代SaaS / 自动化",
+      "zh-CN": "推文在展示「用Agent替代昂贵SaaS」的胜利，但值得更深一层：CRM的价值从来不是界面，是「谁对客户关系负责」——当agent自动跟进，责任链条断裂，真正的成本从订阅费变成了「没人觉得这是我的客户」。"
+    },
+    "relevance": "OpenClaw应用 / Agent替代SaaS / 自动化",
+    "score": 0.71,
+    "engagement": {
+      "likes": 32,
+      "replies": 6,
+      "retweets": 1
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-25T14:08:00.678283+00:00",
+    "js_take": {
+      "en-US": "Saved $300/mo, lost accountability. When follow-ups are automatic, nobody owns the relationship — and that cost doesn't show on invoices.",
+      "zh-CN": "每月省下300美元，却失去了责任归属。当跟进流程自动化后，没有人再对关系真正负责——而这种隐性成本，从不会出现在账单上。"
+    }
+  },
+  {
+    "id": "2036693257208713536",
+    "date": "2026-03-25",
+    "author": "@jakevin7",
+    "author_url": "https://x.com/jakevin7",
+    "tweet_url": "https://x.com/jakevin7/status/2036693257208713536",
+    "title": {
+      "en-US": "OpenCLI 1.4.0 release with anti-detection, security upgrades, and plugin system",
+      "zh-CN": "OpenCLI 1.4.0发布，包含反风控、安全升级和插件化等大量功能"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态工具链演进",
+      "zh-CN": "「反风控」和「安全升级」同时出现，揭示了OpenClaw类工具的宿命——在平台规则（R）和用户需求（T）之间持续博弈。这不是技术问题，是生态位问题：你的价值取决于你能帮用户在多大程度上绕过防火墙而不被烧死。"
+    },
+    "relevance": "OpenClaw生态工具链演进",
+    "score": 0.7,
+    "engagement": {
+      "likes": 207,
+      "replies": 22,
+      "retweets": 24,
+      "views": 28251
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-25T13:23:59.744363+00:00",
+    "js_take": {
+      "en-US": "Anti-detection and security shipped together. The tool's value lives in the gap between platform walls and real work—measure the crack, not the features.",
+      "zh-CN": "反检测与安全功能捆绑交付。工具的价值在于平台围墙和实际工作之间的缝隙——关注这道裂缝，而非功能清单。"
     }
   },
   {
