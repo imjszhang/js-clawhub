@@ -56,6 +56,34 @@
     }
   },
   {
+    "id": "2037026647422173686",
+    "date": "2026-03-26",
+    "author": "@systematicls",
+    "author_url": "https://x.com/systematicls",
+    "tweet_url": "https://x.com/systematicls/status/2037026647422173686",
+    "title": {
+      "en-US": "Focus on OpenClaw basics - world-class harness with native features only. Iteration is king.",
+      "zh-CN": "OpenClaw 之前宣传的'改变游戏规则'功能 Anthropic 自己都发布了，这反而证明文章观点更对——专注基础，用原生功能就能搭建世界级的 agent 架构，迭代才是核心。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 基础功能与迭代哲学",
+      "zh-CN": "做纠正： hype 周期里的'新功能焦虑'是陷阱——真正的竞争力不在于功能清单，而在于用极简法则持续交易的迭代能力。"
+    },
+    "relevance": "OpenClaw 基础功能与迭代哲学",
+    "score": 0.82,
+    "engagement": {
+      "likes": 98,
+      "replies": 6,
+      "retweets": 5
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-26T11:08:25.218470+00:00",
+    "js_take": {
+      "en-US": "Everyone chases new features at launch. Six months later, 90% are dead. Your agent architecture isn't validated by what you ship—it's validated by what's still running silently at 3am.",
+      "zh-CN": "新功能上线时人人追捧，六个月后九成已成僵尸。Agent 架构的含金量，不在于你发布了什么，而在于凌晨三点还在默默运行的那部分。"
+    }
+  },
+  {
     "id": "2036852118762700929",
     "date": "2026-03-26",
     "author": "@Yuchenj_UW",
@@ -5655,34 +5683,6 @@
     "js_take": {
       "en-US": "Split a task across 6 subagents and nobody owns the outcome. We tried this: each part was perfect, the integration took 3x longer than doing it solo.",
       "zh-CN": "把一个任务拆给6个子Agent，结果没人对最终成果负责。我们试过：每个部分都完美，但集成时间比独自做还多了3倍。"
-    }
-  },
-  {
-    "id": "2033617125554680279",
-    "date": "2026-03-17",
-    "author": "@Atenov_D",
-    "author_url": "https://x.com/Atenov_D",
-    "tweet_url": "https://x.com/Atenov_D/status/2033617125554680279",
-    "title": {
-      "en-US": "Claude Code works great until you close the session. Next time - blank slate. No memory of projects, style, decisions.",
-      "zh-CN": "Claude Code 每次关闭会话后记忆清零，没有项目记忆、风格记忆和决策记忆，每次都要从头解释。"
-    },
-    "summary": {
-      "en-US": "OpenClaw/AI Agent 记忆痛点，开发者体验",
-      "zh-CN": "「这不是bug，而是所有本地Agent的常态」——这句话暴露了一个更深的问题：我们在用数据库思维解决记忆，但Agent需要的不是存储，而是「情境」的延续。"
-    },
-    "relevance": "OpenClaw/AI Agent 记忆痛点，开发者体验",
-    "score": 0.72,
-    "engagement": {
-      "likes": 94,
-      "retweets": 3,
-      "replies": 23
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-17T05:07:50.291876+00:00",
-    "js_take": {
-      "en-US": "Apps are becoming databases, but agents still restart as blank slates. The surface-to-inner migration is stuck at the session boundary.",
-      "zh-CN": "应用正在退化为数据库，但智能体每次重启仍是空白状态。从「表世界」向「里世界」的迁徙，卡在会话边界动弹不得。"
     }
   }
 ]

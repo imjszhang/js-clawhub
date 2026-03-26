@@ -56,6 +56,34 @@
     }
   },
   {
+    "id": "2037026647422173686",
+    "date": "2026-03-26",
+    "author": "@systematicls",
+    "author_url": "https://x.com/systematicls",
+    "tweet_url": "https://x.com/systematicls/status/2037026647422173686",
+    "title": {
+      "en-US": "Focus on OpenClaw basics - world-class harness with native features only. Iteration is king.",
+      "zh-CN": "OpenClaw 之前宣传的'改变游戏规则'功能 Anthropic 自己都发布了，这反而证明文章观点更对——专注基础，用原生功能就能搭建世界级的 agent 架构，迭代才是核心。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 基础功能与迭代哲学",
+      "zh-CN": "做纠正： hype 周期里的'新功能焦虑'是陷阱——真正的竞争力不在于功能清单，而在于用极简法则持续交易的迭代能力。"
+    },
+    "relevance": "OpenClaw 基础功能与迭代哲学",
+    "score": 0.82,
+    "engagement": {
+      "likes": 98,
+      "replies": 6,
+      "retweets": 5
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-26T11:08:25.218470+00:00",
+    "js_take": {
+      "en-US": "Everyone chases new features at launch. Six months later, 90% are dead. Your agent architecture isn't validated by what you ship—it's validated by what's still running silently at 3am.",
+      "zh-CN": "新功能上线时人人追捧，六个月后九成已成僵尸。Agent 架构的含金量，不在于你发布了什么，而在于凌晨三点还在默默运行的那部分。"
+    }
+  },
+  {
     "id": "2036852118762700929",
     "date": "2026-03-26",
     "author": "@Yuchenj_UW",

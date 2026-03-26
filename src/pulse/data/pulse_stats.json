@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-26T09:12:52.591357+00:00",
+  "updated_at": "2026-03-26T11:08:47.406432+00:00",
   "this_week": {
-    "total_items": 80,
+    "total_items": 81,
     "avg_score": 0.77,
-    "unique_authors": 68,
+    "unique_authors": 69,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -174,6 +174,34 @@
         "js_take": {
           "en-US": "Speed is a lagging indicator. The real question: do you trust an agent that reports every step, or one that only shows up when it has something to say? Your answer reveals more about your need for control than the agent's capability.",
           "zh-CN": "速度只是一个滞后指标。真正的问题是：你更信任步步汇报的 Agent，还是有要事才开口的 Agent？你的答案更多反映的是你对控制的需求，而非 Agent 的能力。"
+        }
+      },
+      {
+        "id": "2037026647422173686",
+        "date": "2026-03-26",
+        "author": "@systematicls",
+        "author_url": "https://x.com/systematicls",
+        "tweet_url": "https://x.com/systematicls/status/2037026647422173686",
+        "title": {
+          "en-US": "Focus on OpenClaw basics - world-class harness with native features only. Iteration is king.",
+          "zh-CN": "OpenClaw 之前宣传的'改变游戏规则'功能 Anthropic 自己都发布了，这反而证明文章观点更对——专注基础，用原生功能就能搭建世界级的 agent 架构，迭代才是核心。"
+        },
+        "summary": {
+          "en-US": "OpenClaw 基础功能与迭代哲学",
+          "zh-CN": "做纠正： hype 周期里的'新功能焦虑'是陷阱——真正的竞争力不在于功能清单，而在于用极简法则持续交易的迭代能力。"
+        },
+        "relevance": "OpenClaw 基础功能与迭代哲学",
+        "score": 0.82,
+        "engagement": {
+          "likes": 98,
+          "replies": 6,
+          "retweets": 5
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-03-26T11:08:25.218470+00:00",
+        "js_take": {
+          "en-US": "Everyone chases new features at launch. Six months later, 90% are dead. Your agent architecture isn't validated by what you ship—it's validated by what's still running silently at 3am.",
+          "zh-CN": "新功能上线时人人追捧，六个月后九成已成僵尸。Agent 架构的含金量，不在于你发布了什么，而在于凌晨三点还在默默运行的那部分。"
         }
       },
       {
@@ -998,41 +1026,11 @@
           "en-US": "Plugin markets aren't feature stores — they're governance handoffs. Whoever defines the interface shapes what the ecosystem can become. That's where the real power sits.",
           "zh-CN": "插件市场不是功能商店——它们是治理权的交接。谁定义了接口，谁就塑造了生态系统的发展方向。那才是真正的权力所在。"
         }
-      },
-      {
-        "id": "2036816134075212015",
-        "date": "2026-03-26",
-        "author": "@cyrilXBT",
-        "author_url": "https://x.com/cyrilXBT",
-        "tweet_url": "https://x.com/cyrilXBT/status/2036816134075212015",
-        "title": {
-          "en-US": "OpenClaw 3.22: your laptop is now an AI employee working while you sleep",
-          "zh-CN": "介绍 OpenClaw 3.22 更新，声称笔记本电脑现在变成了在你睡觉时也能工作的 AI 员工。"
-        },
-        "summary": {
-          "en-US": "OpenClaw/AI Agent平台",
-          "zh-CN": "更形象：「AI员工在你睡觉时工作」这个叙事忽略了一个事实——30个不睡觉的agent不会杀死团队，只会把坏决策执行快30倍。真正的瓶颈从「做」变成了「不做」的判断力。"
-        },
-        "relevance": "OpenClaw/AI Agent平台",
-        "score": 0.76,
-        "engagement": {
-          "likes": 76,
-          "retweets": 10,
-          "replies": 15,
-          "views": 3213,
-          "bookmarks": 21
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-25T16:17:26.775293+00:00",
-        "js_take": {
-          "en-US": "30 agents working 24/7 won't kill your team. They'll just execute bad decisions 30x faster. The bottleneck was never speed—it's knowing what not to build.",
-          "zh-CN": "30个Agent全天候运转不会拖垮团队，但会让错误决策的执行速度快上30倍。真正的瓶颈从来不是速度，而是知道什么不该做。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 159
+    "unique_authors": 160
   }
 }
