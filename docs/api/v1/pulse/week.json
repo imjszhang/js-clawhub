@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2037188884925190497",
+    "date": "2026-03-27",
+    "author": "@testingcatalog",
+    "author_url": "https://x.com/testingcatalog",
+    "tweet_url": "https://x.com/testingcatalog/status/2037188884925190497",
+    "title": {
+      "en-US": "Cline released Kanban, runs multiple CLI agents in parallel...",
+      "zh-CN": "Cline 发布 Kanban 功能，可以在 git 仓库上并行运行多个 CLI agent，每个任务有独立终端和工作区。"
+    },
+    "summary": {
+      "en-US": "AI 工程工具进展，OpenClaw 生态相关",
+      "zh-CN": "做纠正：推文在赞美并行和隔离，但真正的瓶颈从来不是「agent 会不会冲突」，而是「30 个 agent 同时执行一个坏决策的速度是 1 个的 30 倍」。并行能力放大的是判断力的价值，也放大了错误判断的代价。"
+    },
+    "relevance": "AI 工程工具进展，OpenClaw 生态相关",
+    "score": 0.75,
+    "engagement": {
+      "likes": 189,
+      "replies": 7,
+      "retweets": 24
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-26T20:12:23.451602+00:00",
+    "js_take": {
+      "en-US": "30 agents running in parallel. Cool demo. But 30 agents executing a bad decision move 30x faster than one. The bottleneck was never conflict—it was knowing what NOT to build. Speed amplifies judgment, in both directions.",
+      "zh-CN": "30个Agent并行运行，演示很酷。但30个Agent执行一个错误决策的速度也是30倍。瓶颈从来不是冲突，而是知道什么不该做。速度会双向放大判断力。"
+    }
+  },
+  {
     "id": "2036882062494584843",
     "date": "2026-03-26",
     "author": "@noahzweben",

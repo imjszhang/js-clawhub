@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2037188884925190497",
+    "date": "2026-03-27",
+    "author": "@testingcatalog",
+    "author_url": "https://x.com/testingcatalog",
+    "tweet_url": "https://x.com/testingcatalog/status/2037188884925190497",
+    "title": {
+      "en-US": "Cline released Kanban, runs multiple CLI agents in parallel...",
+      "zh-CN": "Cline 发布 Kanban 功能，可以在 git 仓库上并行运行多个 CLI agent，每个任务有独立终端和工作区。"
+    },
+    "summary": {
+      "en-US": "AI 工程工具进展，OpenClaw 生态相关",
+      "zh-CN": "做纠正：推文在赞美并行和隔离，但真正的瓶颈从来不是「agent 会不会冲突」，而是「30 个 agent 同时执行一个坏决策的速度是 1 个的 30 倍」。并行能力放大的是判断力的价值，也放大了错误判断的代价。"
+    },
+    "relevance": "AI 工程工具进展，OpenClaw 生态相关",
+    "score": 0.75,
+    "engagement": {
+      "likes": 189,
+      "replies": 7,
+      "retweets": 24
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-26T20:12:23.451602+00:00",
+    "js_take": {
+      "en-US": "30 agents running in parallel. Cool demo. But 30 agents executing a bad decision move 30x faster than one. The bottleneck was never conflict—it was knowing what NOT to build. Speed amplifies judgment, in both directions.",
+      "zh-CN": "30个Agent并行运行，演示很酷。但30个Agent执行一个错误决策的速度也是30倍。瓶颈从来不是冲突，而是知道什么不该做。速度会双向放大判断力。"
+    }
+  },
+  {
     "id": "2036882062494584843",
     "date": "2026-03-26",
     "author": "@noahzweben",
@@ -5654,34 +5682,6 @@
     "js_take": {
       "en-US": "One-click deployment is surface world convenience. The real shift to inner world: teaching your agent to know when to stop—without you watching.",
       "zh-CN": "一键部署只是表世界的便利。真正的里世界跃迁，在于教会你的 Agent 自主判断何时停止——而你无需时刻盯着。"
-    }
-  },
-  {
-    "id": "2033888178541641780",
-    "date": "2026-03-17",
-    "author": "@0thernet",
-    "author_url": "https://x.com/0thernet",
-    "tweet_url": "https://x.com/0thernet/status/2033888178541641780",
-    "title": {
-      "en-US": "hilarious how many people are copying @zocomputer",
-      "zh-CN": "讽刺的是，有多少人在抄袭 Zo——从 Zo beta 到 OpenClaw 首个 commit 仅用 5 个月，6 天后 YC 公司纷纷转向克隆 Zo"
-    },
-    "summary": {
-      "en-US": "OpenClaw 生态演变 + 克隆/竞争现象",
-      "zh-CN": "大家都在克隆 Zo，但没人问「为什么 Zo 能成」。跟风者复制的是表层的功能，却复制不了创始人的「势」。表世界看代码，里世界看判断——这正是「不争之争」的反面教材。"
-    },
-    "relevance": "OpenClaw 生态演变 + 克隆/竞争现象",
-    "score": 0.76,
-    "engagement": {
-      "likes": 51,
-      "replies": 15,
-      "retweets": 0
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-17T14:10:33.898618+00:00",
-    "js_take": {
-      "en-US": "Everyone copies the features. No one copies the timing. The real moat isn't code—it's knowing when to move and when to wait.",
-      "zh-CN": "人人都在抄功能，却没人抄时机。真正的护城河不是代码，而是知道什么时候该动、什么时候该等。"
     }
   }
 ]
