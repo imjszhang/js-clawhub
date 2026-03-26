@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-25T23:08:29.684132+00:00",
+  "updated_at": "2026-03-26T01:14:02.660591+00:00",
   "this_week": {
-    "total_items": 73,
+    "total_items": 77,
     "avg_score": 0.77,
-    "unique_authors": 62,
+    "unique_authors": 65,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -60,6 +60,34 @@
         "js_take": {
           "en-US": "Every 'easier management' feature whispers: your agents still need babysitting. Real 无为 isn't better controls — it's building agents that don't need them.",
           "zh-CN": "每一个「更易管理」的功能都在暗示：你的Agent还需要你时刻照看。真正的无为不是更完善的控制面板——而是打造根本不需要被控制的Agent。"
+        }
+      },
+      {
+        "id": "2036882062494584843",
+        "date": "2026-03-26",
+        "author": "@noahzweben",
+        "author_url": "https://x.com/noahzweben",
+        "tweet_url": "https://x.com/noahzweben/status/2036882062494584843",
+        "title": {
+          "en-US": "Give Claude a Blue Bubble! iMessage Channel now available.",
+          "zh-CN": "Claude 入驻蓝气泡，iMessage 频道上线"
+        },
+        "summary": {
+          "en-US": "OpenClaw 产品更新 - iMessage 频道集成，与 JS 作为 OpenClaw 用户直接相关",
+          "zh-CN": "OpenClaw 新增 iMessage 频道，用户可在 iMessage 中直接与 Claude 对话"
+        },
+        "relevance": "OpenClaw 产品更新 - iMessage 频道集成，与 JS 作为 OpenClaw 用户直接相关",
+        "score": 0.89,
+        "engagement": {
+          "likes": 831,
+          "replies": 35,
+          "retweets": 38
+        },
+        "comment_type": "shunshi",
+        "synced_at": "2026-03-26T00:07:29.165793+00:00",
+        "js_take": {
+          "en-US": "iMessage isn't a feature drop. It's a trust migration signal—agents entering your last private fortress. The wave isn't technical, it's relational.",
+          "zh-CN": "iMessage 不只是新功能，它是信任迁移的信号——Agent 正在进入你最后的私人堡垒。这波浪潮无关技术，关乎关系。"
         }
       },
       {
@@ -945,6 +973,34 @@
         }
       },
       {
+        "id": "2036925457417822299",
+        "date": "2026-03-26",
+        "author": "@thdxr",
+        "author_url": "https://x.com/thdxr",
+        "tweet_url": "https://x.com/thdxr/status/2036925457417822299",
+        "title": {
+          "en-US": "James has achieved distributed opencode - agents run on laptop, remote server, cloud sandbox. Shut laptop, things keep running.",
+          "zh-CN": "James Long 实现了分布式 OpenCode：agent 可以在笔记本、远程服务器、云沙盒上运行，关闭笔记本后任务继续，重新打开后数据同步"
+        },
+        "summary": {
+          "en-US": "OpenClaw/OpenCode 核心功能更新，分布式 agent 执行",
+          "zh-CN": "「关掉电脑还在跑」听起来像魔法，但真正的突破不是「持续运行」，而是「状态的无缝迁移」。这暗示了一种新的存在方式：Agent 不再依附于设备，而是像水一样在容器间流动——R（设备边界）在消融，T（交易连续性）成为本体。"
+        },
+        "relevance": "OpenClaw/OpenCode 核心功能更新，分布式 agent 执行",
+        "score": 0.76,
+        "engagement": {
+          "likes": 518,
+          "replies": 26,
+          "retweets": 14
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-26T00:07:29.165798+00:00",
+        "js_take": {
+          "en-US": "Distributed isn't about more devices. It's about no device—when agents flow between hardware like water, they finally exist on their own terms.",
+          "zh-CN": "分布式无关设备数量，而是彻底脱离设备——当 Agent 如水般在硬件间自由流动，它们才真正拥有自主存在。"
+        }
+      },
+      {
         "id": "2036691737918488589",
         "date": "2026-03-25",
         "author": "@mranti",
@@ -970,64 +1026,6 @@
         "js_take": {
           "en-US": "Config files are the UX of giving up. The best settings are the ones 90% of users never know exist — that's wuwei in interface design.",
           "zh-CN": "配置文件是「放弃」的交互设计。最好的设置，是那90%用户从未察觉其存在的设置——这便是界面设计中的「无为」。"
-        }
-      },
-      {
-        "id": "2036115849971658996",
-        "date": "2026-03-24",
-        "author": "@mreflow",
-        "author_url": "https://x.com/mreflow",
-        "tweet_url": "https://x.com/mreflow/status/2036115849971658996",
-        "title": {
-          "en-US": "OpenClaw users: favorite default model? Local hits context limits, API costs rack up fast",
-          "zh-CN": "高频使用OpenClaw的用户，最喜欢的默认模型是什么？本地模型上下文限制太严格，API成本又飙升太快"
-        },
-        "summary": {
-          "en-US": "OpenClaw核心用户体验话题，直接相关",
-          "zh-CN": "讨论聚焦于\"选哪个模型\"，但真正的困境是：本地vs云端不是技术选择，是\"可控性vs能力\"的权衡——而且这两个选项都在快速进化，今天的最优解下个月就过时。"
-        },
-        "relevance": "OpenClaw核心用户体验话题，直接相关",
-        "score": 0.76,
-        "engagement": {
-          "likes": 32,
-          "replies": 41,
-          "retweets": 0
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-23T19:08:29.364888+00:00",
-        "js_take": {
-          "en-US": "Hunting for the 'best' model is optimizing a moving target. Build for swap—today's winner is next month's legacy.",
-          "zh-CN": "追逐'最佳'模型，如同射击移动靶。为替换而构建——今天的赢家，下个月即成 legacy。"
-        }
-      },
-      {
-        "id": "2036198860067053773",
-        "date": "2026-03-24",
-        "author": "@karankendre",
-        "author_url": "https://x.com/karankendre",
-        "tweet_url": "https://x.com/karankendre/status/2036198860067053773",
-        "title": {
-          "en-US": "Claude launched better OpenClaw, wrapper startups in trouble",
-          "zh-CN": "Claude刚发布了一个更好的OpenClaw，所有花几千块搭OpenClaw wrapper的创业公司现在的表情："
-        },
-        "summary": {
-          "en-US": "直接对比Claude与OpenClaw，讨论wrapper创业的风险",
-          "zh-CN": "大厂发布功能是必然事件，不是黑天鹅。在别人的河流上建码头，就要接受河床随时改道的风险。但换个角度：每次大厂下沉，都会逼出一批真正懂业务的人——他们的价值不是那层封装，而是对「这个场景下什么该做、什么不该做」的判断力。"
-        },
-        "relevance": "直接对比Claude与OpenClaw，讨论wrapper创业的风险",
-        "score": 0.76,
-        "engagement": {
-          "likes": 613,
-          "retweets": 20,
-          "replies": 13,
-          "views": 107802,
-          "bookmarks": 128
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-24T00:13:00.932065+00:00",
-        "js_take": {
-          "en-US": "Every platform下沉 filters out the real operators. Wrapper's endgame isn't replacement — it's proving you packaged judgment, not just endpoints.",
-          "zh-CN": "每个平台下沉都会过滤掉真正的运营者。Wrapper 的终局不是替代——而是证明你封装的是判断力，而不只是接口端点。"
         }
       }
     ]

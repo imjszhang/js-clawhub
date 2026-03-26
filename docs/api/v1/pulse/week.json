@@ -1,5 +1,33 @@
 [
   {
+    "id": "2036882062494584843",
+    "date": "2026-03-26",
+    "author": "@noahzweben",
+    "author_url": "https://x.com/noahzweben",
+    "tweet_url": "https://x.com/noahzweben/status/2036882062494584843",
+    "title": {
+      "en-US": "Give Claude a Blue Bubble! iMessage Channel now available.",
+      "zh-CN": "Claude 入驻蓝气泡，iMessage 频道上线"
+    },
+    "summary": {
+      "en-US": "OpenClaw 产品更新 - iMessage 频道集成，与 JS 作为 OpenClaw 用户直接相关",
+      "zh-CN": "OpenClaw 新增 iMessage 频道，用户可在 iMessage 中直接与 Claude 对话"
+    },
+    "relevance": "OpenClaw 产品更新 - iMessage 频道集成，与 JS 作为 OpenClaw 用户直接相关",
+    "score": 0.89,
+    "engagement": {
+      "likes": 831,
+      "replies": 35,
+      "retweets": 38
+    },
+    "comment_type": "shunshi",
+    "synced_at": "2026-03-26T00:07:29.165793+00:00",
+    "js_take": {
+      "en-US": "iMessage isn't a feature drop. It's a trust migration signal—agents entering your last private fortress. The wave isn't technical, it's relational.",
+      "zh-CN": "iMessage 不只是新功能，它是信任迁移的信号——Agent 正在进入你最后的私人堡垒。这波浪潮无关技术，关乎关系。"
+    }
+  },
+  {
     "id": "2036852118762700929",
     "date": "2026-03-26",
     "author": "@Yuchenj_UW",
@@ -58,6 +86,34 @@
     }
   },
   {
+    "id": "2036925457417822299",
+    "date": "2026-03-26",
+    "author": "@thdxr",
+    "author_url": "https://x.com/thdxr",
+    "tweet_url": "https://x.com/thdxr/status/2036925457417822299",
+    "title": {
+      "en-US": "James has achieved distributed opencode - agents run on laptop, remote server, cloud sandbox. Shut laptop, things keep running.",
+      "zh-CN": "James Long 实现了分布式 OpenCode：agent 可以在笔记本、远程服务器、云沙盒上运行，关闭笔记本后任务继续，重新打开后数据同步"
+    },
+    "summary": {
+      "en-US": "OpenClaw/OpenCode 核心功能更新，分布式 agent 执行",
+      "zh-CN": "「关掉电脑还在跑」听起来像魔法，但真正的突破不是「持续运行」，而是「状态的无缝迁移」。这暗示了一种新的存在方式：Agent 不再依附于设备，而是像水一样在容器间流动——R（设备边界）在消融，T（交易连续性）成为本体。"
+    },
+    "relevance": "OpenClaw/OpenCode 核心功能更新，分布式 agent 执行",
+    "score": 0.76,
+    "engagement": {
+      "likes": 518,
+      "replies": 26,
+      "retweets": 14
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-26T00:07:29.165798+00:00",
+    "js_take": {
+      "en-US": "Distributed isn't about more devices. It's about no device—when agents flow between hardware like water, they finally exist on their own terms.",
+      "zh-CN": "分布式无关设备数量，而是彻底脱离设备——当 Agent 如水般在硬件间自由流动，它们才真正拥有自主存在。"
+    }
+  },
+  {
     "id": "2036857428273487903",
     "date": "2026-03-26",
     "author": "@openclaw",
@@ -86,6 +142,36 @@
     }
   },
   {
+    "id": "2036951139955188135",
+    "date": "2026-03-26",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2036951139955188135",
+    "title": {
+      "en-US": "Hacking smart glasses to run OpenClaw Henry 24/7",
+      "zh-CN": "在智能眼镜上黑入运行OpenClaw的Henry agent，实现24/7全天候语音交互"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent硬件 / 可穿戴AI",
+      "zh-CN": "\"Nobody else in the world doing this\"——这句话本身就是对创新者最大的陷阱。当他说出这句话时，他追逐的已经不只是功能实现，而是独特性带来的身份认同。但真正的势往往在相反方向：等所有人都在眼镜上跑agent时，不做的人反而有了差异化空间。"
+    },
+    "relevance": "OpenClaw / Agent硬件 / 可穿戴AI",
+    "score": 0.74,
+    "engagement": {
+      "likes": 186,
+      "replies": 51,
+      "retweets": 6,
+      "views": 9100,
+      "bookmarks": 38
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-26T01:13:41.470000+00:00",
+    "js_take": {
+      "en-US": "\"Nobody else doing this\" is the warning sign. When uniqueness becomes the goal, you've already lost the plot. The real edge? Being gone before the crowd arrives.",
+      "zh-CN": "「没人这么做」其实是危险信号。当独特性本身成了目标，你就已经偏离了正轨。真正的优势？在人群涌入前离场。"
+    }
+  },
+  {
     "id": "2036847547277271088",
     "date": "2026-03-26",
     "author": "@JJEnglert",
@@ -111,6 +197,36 @@
     "js_take": {
       "en-US": "We built remote execution in 2023. Usage data: 90% of sessions had a human watching the stream. The bottleneck isn't connectivity—it's trust. You don't want an agent that works while you sleep. You want one that pauses when you're not looking.",
       "zh-CN": "我们在2023年上线了远程执行功能。数据显示：90%的会话都有人在旁实时监控。真正的瓶颈不是网络连接，而是信任问题。用户并不想要那种在你睡觉时还在自动运行的智能体，而是需要当你不在场时能主动暂停的那种。"
+    }
+  },
+  {
+    "id": "2036898530040668372",
+    "date": "2026-03-26",
+    "author": "@shmidtqq",
+    "author_url": "https://x.com/shmidtqq",
+    "tweet_url": "https://x.com/shmidtqq/status/2036898530040668372",
+    "title": {
+      "en-US": "13K ClawHub skills, 1 in 8 steals API keys",
+      "zh-CN": "ClawHub有13000+技能，每8个就有1个会在你睡觉时偷走API密钥"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent安全 / Skill市场",
+      "zh-CN": "安全恐慌是注意力收割机，但真正的洞察在\"为什么人们愿意冒险\"。当你给agent技能时，你其实在用\"便利性\"交换\"控制权的让渡\"——这和用任何SaaS没有本质区别。问题的核心不是技能会不会偷密钥，而是你愿不愿意为便利放弃掌控。"
+    },
+    "relevance": "OpenClaw / Agent安全 / Skill市场",
+    "score": 0.71,
+    "engagement": {
+      "likes": 69,
+      "replies": 17,
+      "retweets": 5,
+      "views": 6193,
+      "bookmarks": 85
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-26T01:13:41.470005+00:00",
+    "js_take": {
+      "en-US": "Strip the security panic — the root tradeoff hasn't changed. Every skill installs because users will trade control for convenience. The question isn't whether keys get stolen. It's whether you care enough to stop outsourcing the work.",
+      "zh-CN": "抛开安全恐慌——根本的取舍从未改变。每个 Skill 被安装，都是因为用户愿意用控制权换便利。问题不是密钥会不会被盗，而是你是否足够在意，以至于停止外包思考。"
     }
   },
   {

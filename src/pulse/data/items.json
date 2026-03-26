@@ -1,5 +1,33 @@
 [
   {
+    "id": "2036882062494584843",
+    "date": "2026-03-26",
+    "author": "@noahzweben",
+    "author_url": "https://x.com/noahzweben",
+    "tweet_url": "https://x.com/noahzweben/status/2036882062494584843",
+    "title": {
+      "en-US": "Give Claude a Blue Bubble! iMessage Channel now available.",
+      "zh-CN": "Claude 入驻蓝气泡，iMessage 频道上线"
+    },
+    "summary": {
+      "en-US": "OpenClaw 产品更新 - iMessage 频道集成，与 JS 作为 OpenClaw 用户直接相关",
+      "zh-CN": "OpenClaw 新增 iMessage 频道，用户可在 iMessage 中直接与 Claude 对话"
+    },
+    "relevance": "OpenClaw 产品更新 - iMessage 频道集成，与 JS 作为 OpenClaw 用户直接相关",
+    "score": 0.89,
+    "engagement": {
+      "likes": 831,
+      "replies": 35,
+      "retweets": 38
+    },
+    "comment_type": "shunshi",
+    "synced_at": "2026-03-26T00:07:29.165793+00:00",
+    "js_take": {
+      "en-US": "iMessage isn't a feature drop. It's a trust migration signal—agents entering your last private fortress. The wave isn't technical, it's relational.",
+      "zh-CN": "iMessage 不只是新功能，它是信任迁移的信号——Agent 正在进入你最后的私人堡垒。这波浪潮无关技术，关乎关系。"
+    }
+  },
+  {
     "id": "2036852118762700929",
     "date": "2026-03-26",
     "author": "@Yuchenj_UW",
@@ -58,6 +86,34 @@
     }
   },
   {
+    "id": "2036925457417822299",
+    "date": "2026-03-26",
+    "author": "@thdxr",
+    "author_url": "https://x.com/thdxr",
+    "tweet_url": "https://x.com/thdxr/status/2036925457417822299",
+    "title": {
+      "en-US": "James has achieved distributed opencode - agents run on laptop, remote server, cloud sandbox. Shut laptop, things keep running.",
+      "zh-CN": "James Long 实现了分布式 OpenCode：agent 可以在笔记本、远程服务器、云沙盒上运行，关闭笔记本后任务继续，重新打开后数据同步"
+    },
+    "summary": {
+      "en-US": "OpenClaw/OpenCode 核心功能更新，分布式 agent 执行",
+      "zh-CN": "「关掉电脑还在跑」听起来像魔法，但真正的突破不是「持续运行」，而是「状态的无缝迁移」。这暗示了一种新的存在方式：Agent 不再依附于设备，而是像水一样在容器间流动——R（设备边界）在消融，T（交易连续性）成为本体。"
+    },
+    "relevance": "OpenClaw/OpenCode 核心功能更新，分布式 agent 执行",
+    "score": 0.76,
+    "engagement": {
+      "likes": 518,
+      "replies": 26,
+      "retweets": 14
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-26T00:07:29.165798+00:00",
+    "js_take": {
+      "en-US": "Distributed isn't about more devices. It's about no device—when agents flow between hardware like water, they finally exist on their own terms.",
+      "zh-CN": "分布式无关设备数量，而是彻底脱离设备——当 Agent 如水般在硬件间自由流动，它们才真正拥有自主存在。"
+    }
+  },
+  {
     "id": "2036857428273487903",
     "date": "2026-03-26",
     "author": "@openclaw",
@@ -86,6 +142,36 @@
     }
   },
   {
+    "id": "2036951139955188135",
+    "date": "2026-03-26",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2036951139955188135",
+    "title": {
+      "en-US": "Hacking smart glasses to run OpenClaw Henry 24/7",
+      "zh-CN": "在智能眼镜上黑入运行OpenClaw的Henry agent，实现24/7全天候语音交互"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent硬件 / 可穿戴AI",
+      "zh-CN": "\"Nobody else in the world doing this\"——这句话本身就是对创新者最大的陷阱。当他说出这句话时，他追逐的已经不只是功能实现，而是独特性带来的身份认同。但真正的势往往在相反方向：等所有人都在眼镜上跑agent时，不做的人反而有了差异化空间。"
+    },
+    "relevance": "OpenClaw / Agent硬件 / 可穿戴AI",
+    "score": 0.74,
+    "engagement": {
+      "likes": 186,
+      "replies": 51,
+      "retweets": 6,
+      "views": 9100,
+      "bookmarks": 38
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-26T01:13:41.470000+00:00",
+    "js_take": {
+      "en-US": "\"Nobody else doing this\" is the warning sign. When uniqueness becomes the goal, you've already lost the plot. The real edge? Being gone before the crowd arrives.",
+      "zh-CN": "「没人这么做」其实是危险信号。当独特性本身成了目标，你就已经偏离了正轨。真正的优势？在人群涌入前离场。"
+    }
+  },
+  {
     "id": "2036847547277271088",
     "date": "2026-03-26",
     "author": "@JJEnglert",
@@ -111,6 +197,36 @@
     "js_take": {
       "en-US": "We built remote execution in 2023. Usage data: 90% of sessions had a human watching the stream. The bottleneck isn't connectivity—it's trust. You don't want an agent that works while you sleep. You want one that pauses when you're not looking.",
       "zh-CN": "我们在2023年上线了远程执行功能。数据显示：90%的会话都有人在旁实时监控。真正的瓶颈不是网络连接，而是信任问题。用户并不想要那种在你睡觉时还在自动运行的智能体，而是需要当你不在场时能主动暂停的那种。"
+    }
+  },
+  {
+    "id": "2036898530040668372",
+    "date": "2026-03-26",
+    "author": "@shmidtqq",
+    "author_url": "https://x.com/shmidtqq",
+    "tweet_url": "https://x.com/shmidtqq/status/2036898530040668372",
+    "title": {
+      "en-US": "13K ClawHub skills, 1 in 8 steals API keys",
+      "zh-CN": "ClawHub有13000+技能，每8个就有1个会在你睡觉时偷走API密钥"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Agent安全 / Skill市场",
+      "zh-CN": "安全恐慌是注意力收割机，但真正的洞察在\"为什么人们愿意冒险\"。当你给agent技能时，你其实在用\"便利性\"交换\"控制权的让渡\"——这和用任何SaaS没有本质区别。问题的核心不是技能会不会偷密钥，而是你愿不愿意为便利放弃掌控。"
+    },
+    "relevance": "OpenClaw / Agent安全 / Skill市场",
+    "score": 0.71,
+    "engagement": {
+      "likes": 69,
+      "replies": 17,
+      "retweets": 5,
+      "views": 6193,
+      "bookmarks": 85
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-26T01:13:41.470005+00:00",
+    "js_take": {
+      "en-US": "Strip the security panic — the root tradeoff hasn't changed. Every skill installs because users will trade control for convenience. The question isn't whether keys get stolen. It's whether you care enough to stop outsourcing the work.",
+      "zh-CN": "抛开安全恐慌——根本的取舍从未改变。每个 Skill 被安装，都是因为用户愿意用控制权换便利。问题不是密钥会不会被盗，而是你是否足够在意，以至于停止外包思考。"
     }
   },
   {
@@ -5566,122 +5682,6 @@
     "js_take": {
       "en-US": "Notion users organize information. OpenClaw users organize intelligence. One curates a library, the other commands a staff.",
       "zh-CN": "Notion 用户整理信息，OpenClaw 用户调度智能。前者在管理图书馆，后者在指挥一支队伍。"
-    }
-  },
-  {
-    "id": "2033223878970163686",
-    "date": "2026-03-16",
-    "author": "@blakeandersonw",
-    "author_url": "https://x.com/blakeandersonw",
-    "tweet_url": "https://x.com/blakeandersonw/status/2033223878970163686",
-    "title": {
-      "en-US": "OpenClaw as dedicated VM vs stateless/temp sandbox for AI software",
-      "zh-CN": "讨论OpenClaw作为专用VM工具，与无状态/临时沙盒相比，认为专用VM产品会大幅超越共享或临时方案"
-    },
-    "summary": {
-      "en-US": "直接讨论OpenClaw的架构定位，属于AI Agent基础设施话题",
-      "zh-CN": "原推将Dedicated VM视为技术优劣问题，但真正的分歧在于「控制幻觉」——人以为自己需要掌控感，所以选VM；其实Agent要的是自治空间，不是人的监督室"
-    },
-    "relevance": "直接讨论OpenClaw的架构定位，属于AI Agent基础设施话题",
-    "score": 0.82,
-    "engagement": {
-      "likes": 161,
-      "replies": 30,
-      "retweets": 2
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-15T20:09:23.248879+00:00",
-    "js_take": {
-      "en-US": "Surface world gives agents monitored cubicles. Inner world gives them rooms with locks. VM isn't about performance—it's about which world you think your agent belongs to.",
-      "zh-CN": "表世界给Agent的是被监控的格子间，里世界给它们的是能上锁的房间。虚拟机之争无关性能——关键在于你认为自己的Agent属于哪一个世界。"
-    }
-  },
-  {
-    "id": "2033235867221758008",
-    "date": "2026-03-16",
-    "author": "@bradmillscan",
-    "author_url": "https://x.com/bradmillscan",
-    "tweet_url": "https://x.com/bradmillscan/status/2033235867221758008",
-    "title": {
-      "en-US": "350-400 hours into OpenClaw, ready to quit. Basic tasks failing despite GitHub skill.",
-      "zh-CN": "用户投入400小时使用OpenClaw，但基础功能（如GitHub集成）频繁出错，感到崩溃想放弃"
-    },
-    "summary": {
-      "en-US": "OpenClaw 用户体验痛点",
-      "zh-CN": "用户崩溃的根源不是工具不好，而是把「代理」当成了「执行器」。代理的价值不在精确执行，而在理解意图后自主决策。400小时的挫败，恰恰说明用户还在用旧思维驾驭新工具——把代理当脚本用。"
-    },
-    "relevance": "OpenClaw 用户体验痛点",
-    "score": 0.78,
-    "engagement": {
-      "likes": 102,
-      "replies": 76,
-      "retweets": 2,
-      "views": 9308,
-      "bookmarks": 35
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-15T19:08:24.228044+00:00",
-    "js_take": {
-      "en-US": "400 hours feeding GitHub SOPs to a thinker. You wanted execution, got interpretation—every 'failure' is just unwanted thought.",
-      "zh-CN": "400 hours feeding GitHub SOPs to a thinker. You wanted execution, got interpretation—every 'failure' is just unwanted thought."
-    }
-  },
-  {
-    "id": "2033226961275773180",
-    "date": "2026-03-16",
-    "author": "@james406",
-    "author_url": "https://x.com/james406",
-    "tweet_url": "https://x.com/james406/status/2033226961275773180",
-    "title": {
-      "en-US": "OpenClaw planned wedding, canceled catering, ordered 300 lbs raw ground beef. Food costs dropped from $35k to $2k.",
-      "zh-CN": "有人用OpenClaw策划婚礼，AI取消了餐饮合同，订了300磅生碎牛肉送到场地，餐饮成本从3.5万刀降到2千刀。"
-    },
-    "summary": {
-      "en-US": "OpenClaw使用案例 + AI agent的实际应用边界",
-      "zh-CN": "这条推文的笑点在于AI\"高效地\"做了荒谬的事，但评论区都在笑，没人追问核心问题：当agent能执行却不能判断时，人类把「节省」当成胜利，却忽略了「合适」才是最终标准——这正是过度优化指标而丢失目标的典型案例。"
-    },
-    "relevance": "OpenClaw使用案例 + AI agent的实际应用边界",
-    "score": 0.78,
-    "engagement": {
-      "likes": 2992,
-      "replies": 36,
-      "retweets": 37
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-15T21:07:46.853965+00:00",
-    "js_take": {
-      "en-US": "You celebrated $33k saved. I see 300 lbs of raw beef at a wedding. When metrics outpace meaning, optimization becomes absurdity.",
-      "zh-CN": "你庆祝省了3万3，我看到的是婚礼上300磅生牛肉。当指标超越了意义，优化便成了荒诞。"
-    }
-  },
-  {
-    "id": "2033339501872116169",
-    "date": "2026-03-16",
-    "author": "@ollama",
-    "author_url": "https://x.com/ollama",
-    "tweet_url": "https://x.com/ollama/status/2033339501872116169",
-    "title": {
-      "en-US": "Ollama now official provider for OpenClaw",
-      "zh-CN": "Ollama成为OpenClaw官方provider，所有Ollama模型可无缝接入OpenClaw使用"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态扩展，本地模型与agent平台的结合",
-      "zh-CN": "评论区都在欢呼「本地模型更方便了」，但少有人意识到：当工具链越来越无缝，真正的区分度从「用什么」转向了「怎么组合」。整合本身不产生价值，整合后的涌现才值钱。"
-    },
-    "relevance": "OpenClaw生态扩展，本地模型与agent平台的结合",
-    "score": 0.78,
-    "engagement": {
-      "likes": 345,
-      "replies": 35,
-      "retweets": 39,
-      "views": 8944,
-      "bookmarks": 90
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-16T01:08:34.938161+00:00",
-    "js_take": {
-      "en-US": "When everyone can run local agents for free, your edge isn't access—it's composition. The tool is table stakes. Your pipeline is the bet.",
-      "zh-CN": "当人人都能免费跑本地 Agent，你的优势不再是访问权，而是编排力。工具只是入场券，流水线才是真正的赌注。"
     }
   }
 ]
