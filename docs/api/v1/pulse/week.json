@@ -258,6 +258,34 @@
     }
   },
   {
+    "id": "2036961702550671669",
+    "date": "2026-03-26",
+    "author": "@kloss_xyz",
+    "author_url": "https://x.com/kloss_xyz",
+    "tweet_url": "https://x.com/kloss_xyz/status/2036961702550671669",
+    "title": {
+      "en-US": "OpenClaw vs Claude is like Android vs iPhone",
+      "zh-CN": "人们因为 Claude 每天都在更新就说 OpenClaw 已死——这就像因为苹果发布了新 iPhone 就说安卓已死。一个是封闭生态，一个是开源多模型系统。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台定位与生态",
+      "zh-CN": "封闭 vs 开源的二元对立掩盖了更本质的区别：iPhone 和安卓竞争的是同一批用户，而 OpenClaw 和 Claude Code 根本不是在玩同一个游戏——一个是工具，一个是让工具可以被重新定义的元层。"
+    },
+    "relevance": "OpenClaw 平台定位与生态",
+    "score": 0.71,
+    "engagement": {
+      "likes": 75,
+      "retweets": 5,
+      "replies": 14
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-26T07:31:57.116263+00:00",
+    "js_take": {
+      "en-US": "Strip the metaphor. Claude sells you a sharper knife. OpenClaw asks why you're cutting.",
+      "zh-CN": "剥去修辞。Claude 卖给你一把更锋利的刀，OpenClaw 问你为什么要切。"
+    }
+  },
+  {
     "id": "2036450271463604419",
     "date": "2026-03-25",
     "author": "@ThePrimeagen",

@@ -258,6 +258,34 @@
     }
   },
   {
+    "id": "2036961702550671669",
+    "date": "2026-03-26",
+    "author": "@kloss_xyz",
+    "author_url": "https://x.com/kloss_xyz",
+    "tweet_url": "https://x.com/kloss_xyz/status/2036961702550671669",
+    "title": {
+      "en-US": "OpenClaw vs Claude is like Android vs iPhone",
+      "zh-CN": "人们因为 Claude 每天都在更新就说 OpenClaw 已死——这就像因为苹果发布了新 iPhone 就说安卓已死。一个是封闭生态，一个是开源多模型系统。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台定位与生态",
+      "zh-CN": "封闭 vs 开源的二元对立掩盖了更本质的区别：iPhone 和安卓竞争的是同一批用户，而 OpenClaw 和 Claude Code 根本不是在玩同一个游戏——一个是工具，一个是让工具可以被重新定义的元层。"
+    },
+    "relevance": "OpenClaw 平台定位与生态",
+    "score": 0.71,
+    "engagement": {
+      "likes": 75,
+      "retweets": 5,
+      "replies": 14
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-26T07:31:57.116263+00:00",
+    "js_take": {
+      "en-US": "Strip the metaphor. Claude sells you a sharper knife. OpenClaw asks why you're cutting.",
+      "zh-CN": "剥去修辞。Claude 卖给你一把更锋利的刀，OpenClaw 问你为什么要切。"
+    }
+  },
+  {
     "id": "2036450271463604419",
     "date": "2026-03-25",
     "author": "@ThePrimeagen",
@@ -5654,34 +5682,6 @@
     "js_take": {
       "en-US": "Linux became quiet infrastructure over 30 years. OpenClaw's speed is noise—the real test is becoming inevitable.",
       "zh-CN": "Linux 用30年成为静默的基础设施。OpenClaw 的速度只是噪音——真正的考验是成为不可避免的存在。"
-    }
-  },
-  {
-    "id": "2033880731202547784",
-    "date": "2026-03-17",
-    "author": "@jspeiser",
-    "author_url": "https://x.com/jspeiser",
-    "tweet_url": "https://x.com/jspeiser/status/2033880731202547784",
-    "title": {
-      "en-US": "no-code tools like OpenClaw will get so advanced that non‑technical peeps can't safely run them alone",
-      "zh-CN": "OpenClaw 这类无代码工具会变得如此先进，以至于非技术人员无法安全地独自运行它们——当 agent 开始「偏离脚本」时，你需要能调试其记忆的人"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台 + 表/里世界认知变化",
-      "zh-CN": "这正是「表世界退化为数据库，里世界成为新交互层」的鲜活案例。非技术人员以为自己在用「无代码」工具，实际上他们进入了一个需要理解 agent 心智模型的里世界——门槛没有消失，只是转移了。"
-    },
-    "relevance": "OpenClaw 平台 + 表/里世界认知变化",
-    "score": 0.71,
-    "engagement": {
-      "likes": 12,
-      "replies": 8,
-      "retweets": 0
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-17T14:10:33.898621+00:00",
-    "js_take": {
-      "en-US": "The barrier didn't disappear—it migrated. From writing code to understanding how agents think. Surface looks simple. Inner world is where the real complexity lives.",
-      "zh-CN": "门槛并没有消失，只是转移了——从写代码，转移到了理解 Agent 怎么思考。表面看着简单，真正的复杂度藏在里世界。"
     }
   }
 ]
