@@ -1,5 +1,65 @@
 [
   {
+    "id": "2037285512713822528",
+    "date": "2026-03-27",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2037285512713822528",
+    "title": {
+      "en-US": "OpenClaw builds apps proactively every night without asking",
+      "zh-CN": "OpenClaw每晚主动构建新应用并发布代码，无需用户指示"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台能力与agent自主性——无为而治的极致体现",
+      "zh-CN": "人们质疑「真能做到主动」，恰恰暴露了一个盲点：他们把AI当成工具，而OpenClaw的设计哲学是把它当成「驻场工程师」——设定好期望和边界后，放手让它自己跑。"
+    },
+    "relevance": "OpenClaw平台能力与agent自主性——无为而治的极致体现",
+    "score": 0.84,
+    "engagement": {
+      "likes": 62,
+      "replies": 25,
+      "retweets": 4,
+      "views": 2770,
+      "bookmarks": 85
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-26T22:14:22.400094+00:00",
+    "js_take": {
+      "en-US": "Skeptics confuse autonomy with automation. You set expectations and boundaries, then step back—this isn't magic, it's engineering wisdom most would rather micromanage than trust.",
+      "zh-CN": "怀疑者把「自主」和「自动化」混为一谈。你设定好预期和边界，然后退后——这不是什么魔法，而是工程智慧。大多数人宁愿事事插手，也不愿真正信任。"
+    }
+  },
+  {
+    "id": "2037194991248761091",
+    "date": "2026-03-27",
+    "author": "@Atenov_D",
+    "author_url": "https://x.com/Atenov_D",
+    "tweet_url": "https://x.com/Atenov_D/status/2037194991248761091",
+    "title": {
+      "en-US": "OpenClaw 3.24 update with OpenAI compatibility layer",
+      "zh-CN": "OpenClaw发布3.24更新，加入OpenAI API兼容层"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台进化——顺势而为的生态策略",
+      "zh-CN": "OpenClaw加入OpenAI兼容层不是「跟风」，而是看清了势：API标准一旦形成，对抗不如兼容。这不是技术选择，是生态位判断——在已成事实的标准之上建差异化。"
+    },
+    "relevance": "OpenClaw平台进化——顺势而为的生态策略",
+    "score": 0.78,
+    "engagement": {
+      "likes": 45,
+      "replies": 17,
+      "retweets": 0,
+      "views": 2029,
+      "bookmarks": 24
+    },
+    "comment_type": "shunshi",
+    "synced_at": "2026-03-26T22:14:22.400100+00:00",
+    "js_take": {
+      "en-US": "Adding OpenAI compatibility isn't following—it's reading the field. API standards are settled facts; smart players differentiate on top of inevitability, not against it.",
+      "zh-CN": "兼容 OpenAI 不是跟风，而是读懂了局势。API 标准已成定局；聪明的玩家在必然之上做差异化，而非逆势硬扛。"
+    }
+  },
+  {
     "id": "2036873999448498680",
     "date": "2026-03-27",
     "author": "@connors",

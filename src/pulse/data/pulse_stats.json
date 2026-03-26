@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-26T20:12:41.312935+00:00",
+  "updated_at": "2026-03-26T22:14:38.253034+00:00",
   "this_week": {
-    "total_items": 84,
+    "total_items": 86,
     "avg_score": 0.77,
-    "unique_authors": 71,
+    "unique_authors": 72,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -146,6 +146,36 @@
         "js_take": {
           "en-US": "NFT bubble burst. OpenSea died. On-chain credentials didn't. OpenClaw hype will fade. The need for agents that actually do work won't. Real question: are you betting on emotion, or on the infrastructure shift underneath?",
           "zh-CN": "NFT泡沫破了，OpenSea死了，但链上凭证还在。OpenClaw的狂热终将消退，但真正能干活的需求不会。真正的问题是：你在赌情绪，还是在赌底层的基建变革？"
+        }
+      },
+      {
+        "id": "2037285512713822528",
+        "date": "2026-03-27",
+        "author": "@AlexFinn",
+        "author_url": "https://x.com/AlexFinn",
+        "tweet_url": "https://x.com/AlexFinn/status/2037285512713822528",
+        "title": {
+          "en-US": "OpenClaw builds apps proactively every night without asking",
+          "zh-CN": "OpenClaw每晚主动构建新应用并发布代码，无需用户指示"
+        },
+        "summary": {
+          "en-US": "OpenClaw平台能力与agent自主性——无为而治的极致体现",
+          "zh-CN": "人们质疑「真能做到主动」，恰恰暴露了一个盲点：他们把AI当成工具，而OpenClaw的设计哲学是把它当成「驻场工程师」——设定好期望和边界后，放手让它自己跑。"
+        },
+        "relevance": "OpenClaw平台能力与agent自主性——无为而治的极致体现",
+        "score": 0.84,
+        "engagement": {
+          "likes": 62,
+          "replies": 25,
+          "retweets": 4,
+          "views": 2770,
+          "bookmarks": 85
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-26T22:14:22.400094+00:00",
+        "js_take": {
+          "en-US": "Skeptics confuse autonomy with automation. You set expectations and boundaries, then step back—this isn't magic, it's engineering wisdom most would rather micromanage than trust.",
+          "zh-CN": "怀疑者把「自主」和「自动化」混为一谈。你设定好预期和边界，然后退后——这不是什么魔法，而是工程智慧。大多数人宁愿事事插手，也不愿真正信任。"
         }
       },
       {
@@ -715,6 +745,36 @@
         }
       },
       {
+        "id": "2037194991248761091",
+        "date": "2026-03-27",
+        "author": "@Atenov_D",
+        "author_url": "https://x.com/Atenov_D",
+        "tweet_url": "https://x.com/Atenov_D/status/2037194991248761091",
+        "title": {
+          "en-US": "OpenClaw 3.24 update with OpenAI compatibility layer",
+          "zh-CN": "OpenClaw发布3.24更新，加入OpenAI API兼容层"
+        },
+        "summary": {
+          "en-US": "OpenClaw平台进化——顺势而为的生态策略",
+          "zh-CN": "OpenClaw加入OpenAI兼容层不是「跟风」，而是看清了势：API标准一旦形成，对抗不如兼容。这不是技术选择，是生态位判断——在已成事实的标准之上建差异化。"
+        },
+        "relevance": "OpenClaw平台进化——顺势而为的生态策略",
+        "score": 0.78,
+        "engagement": {
+          "likes": 45,
+          "replies": 17,
+          "retweets": 0,
+          "views": 2029,
+          "bookmarks": 24
+        },
+        "comment_type": "shunshi",
+        "synced_at": "2026-03-26T22:14:22.400100+00:00",
+        "js_take": {
+          "en-US": "Adding OpenAI compatibility isn't following—it's reading the field. API standards are settled facts; smart players differentiate on top of inevitability, not against it.",
+          "zh-CN": "兼容 OpenAI 不是跟风，而是读懂了局势。API 标准已成定局；聪明的玩家在必然之上做差异化，而非逆势硬扛。"
+        }
+      },
+      {
         "id": "2036845910437814330",
         "date": "2026-03-26",
         "author": "@InduTripat82427",
@@ -967,70 +1027,11 @@
           "en-US": "Your firewall is flawless. Your encryption is military-grade. Then a user asked the bot to 'check my desktop.' You optimized the lock, but the key was always human.",
           "zh-CN": "防火墙滴水不漏，加密军用级别。然后用户一句「帮我看看桌面」——你把锁做得再精妙，钥匙始终握在人手里。"
         }
-      },
-      {
-        "id": "2035889324705873950",
-        "date": "2026-03-23",
-        "author": "@pcshipp",
-        "author_url": "https://x.com/pcshipp",
-        "tweet_url": "https://x.com/pcshipp/status/2035889324705873950",
-        "title": {
-          "en-US": "CLAUDE.md cuts token costs by 50% and boosts speed",
-          "zh-CN": "添加CLAUDE.md文件可以让token成本降低50%并提升50%速度"
-        },
-        "summary": {
-          "en-US": "OpenClaw/Claude Code工程实践，记忆层架构",
-          "zh-CN": "推文在强调「加文件」这个动作的价值，但真正的价值不是文件本身，而是让开发者被迫梳理一次「什么该被记住」的判断力——CLAUDE.md是判断力的外化，不是记忆的外包。"
-        },
-        "relevance": "OpenClaw/Claude Code工程实践，记忆层架构",
-        "score": 0.78,
-        "engagement": {
-          "likes": 1264,
-          "retweets": 27,
-          "replies": 51,
-          "views": 93701,
-          "bookmarks": 763
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-23T09:12:05.328867+00:00",
-        "js_take": {
-          "en-US": "You didn't cut token costs. You cut the tax of re-deciding what matters every session. CLAUDE.md isn't memory storage — it's judgment externalized.",
-          "zh-CN": "你省下的不是 token 费用，而是每次都要重新判断「什么重要」的认知负担。CLAUDE.md 不是记忆仓库——而是判断力的外化。"
-        }
-      },
-      {
-        "id": "2036047987076452522",
-        "date": "2026-03-23",
-        "author": "@witcheer",
-        "author_url": "https://x.com/witcheer",
-        "tweet_url": "https://x.com/witcheer/status/2036047987076452522",
-        "title": {
-          "en-US": "OpenClaw v2026.3.22 release, plugin marketplace analysis",
-          "zh-CN": "OpenClaw 新版本发布，分析插件市场对于 AI 平台演进的工程意义"
-        },
-        "summary": {
-          "en-US": "OpenClaw 平台演进与插件市场机制",
-          "zh-CN": "插件市场看似是「功能扩展」，实则是平台治理权的让渡——谁定义接口，谁就定义了生态的边界。"
-        },
-        "relevance": "OpenClaw 平台演进与插件市场机制",
-        "score": 0.78,
-        "engagement": {
-          "likes": 25,
-          "replies": 4,
-          "retweets": 0,
-          "views": 2874
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-23T13:14:15.574699+00:00",
-        "js_take": {
-          "en-US": "Plugin markets aren't feature stores — they're governance handoffs. Whoever defines the interface shapes what the ecosystem can become. That's where the real power sits.",
-          "zh-CN": "插件市场不是功能商店——它们是治理权的交接。谁定义了接口，谁就塑造了生态系统的发展方向。那才是真正的权力所在。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 159
+    "unique_authors": 158
   }
 }
