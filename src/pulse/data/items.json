@@ -86,6 +86,34 @@
     }
   },
   {
+    "id": "2036847547277271088",
+    "date": "2026-03-26",
+    "author": "@JJEnglert",
+    "author_url": "https://x.com/JJEnglert",
+    "tweet_url": "https://x.com/JJEnglert/status/2036847547277271088",
+    "title": {
+      "en-US": "Claude Dispatch vs OpenClaw comparison",
+      "zh-CN": "对比测试 Claude Dispatch 和 OpenClaw，讨论远程让 AI 在本地电脑工作的体验"
+    },
+    "summary": {
+      "en-US": "直接涉及 OpenClaw 与竞品的对比，属于核心关注话题",
+      "zh-CN": "「手机放口袋，Claude 在机器上」这个愿景的问题不在于技术可行性，而在于人们误以为「远程连接+自动执行」等于「 agent 在替你工作」。真正的边界是你愿不愿意把判断权交出去——大多数人连自动合并 PR 都不敢点，何况让 AI 在你不在时改生产代码。"
+    },
+    "relevance": "直接涉及 OpenClaw 与竞品的对比，属于核心关注话题",
+    "score": 0.72,
+    "engagement": {
+      "likes": 12,
+      "replies": 5,
+      "retweets": 0
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-25T23:08:08.538126+00:00",
+    "js_take": {
+      "en-US": "We built remote execution in 2023. Usage data: 90% of sessions had a human watching the stream. The bottleneck isn't connectivity—it's trust. You don't want an agent that works while you sleep. You want one that pauses when you're not looking.",
+      "zh-CN": "我们在2023年上线了远程执行功能。数据显示：90%的会话都有人在旁实时监控。真正的瓶颈不是网络连接，而是信任问题。用户并不想要那种在你睡觉时还在自动运行的智能体，而是需要当你不在场时能主动暂停的那种。"
+    }
+  },
+  {
     "id": "2036450271463604419",
     "date": "2026-03-25",
     "author": "@ThePrimeagen",
@@ -5654,36 +5682,6 @@
     "js_take": {
       "en-US": "When everyone can run local agents for free, your edge isn't access—it's composition. The tool is table stakes. Your pipeline is the bet.",
       "zh-CN": "当人人都能免费跑本地 Agent，你的优势不再是访问权，而是编排力。工具只是入场券，流水线才是真正的赌注。"
-    }
-  },
-  {
-    "id": "2033301938830221399",
-    "date": "2026-03-16",
-    "author": "@dotta",
-    "author_url": "https://x.com/dotta",
-    "tweet_url": "https://x.com/dotta/status/2033301938830221399",
-    "title": {
-      "en-US": "Sparkwave using six OpenClaw agents via Paperclip",
-      "zh-CN": "Sparkwave项目正在通过Paperclip协调六个OpenClaw agent一起工作"
-    },
-    "summary": {
-      "en-US": "OpenClaw多agent协调实战案例，系统复杂度管理",
-      "zh-CN": "「六个agent协调」听起来很厉害，但真正的洞察是反直觉的：agent越多，单点智能的重要性越低，系统架构的重要性越高。复杂系统的优雅不在于每个部件多强，而在于它们如何不争。"
-    },
-    "relevance": "OpenClaw多agent协调实战案例，系统复杂度管理",
-    "score": 0.75,
-    "engagement": {
-      "likes": 107,
-      "replies": 4,
-      "retweets": 9,
-      "views": 15991,
-      "bookmarks": 146
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-16T01:08:34.938166+00:00",
-    "js_take": {
-      "en-US": "Six agents sounds complex. The magic isn't adding more—it's designing them to stay out of each other's way. Elegance through non-interference.",
-      "zh-CN": "六个 Agent 听着复杂。真正的魔法不是堆数量，而是设计它们互不干涉。优雅，来自不打扰。"
     }
   }
 ]
