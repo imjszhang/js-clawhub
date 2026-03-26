@@ -199,6 +199,34 @@
     }
   },
   {
+    "id": "2037145068230881699",
+    "date": "2026-03-26",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2037145068230881699",
+    "title": {
+      "en-US": "As a founder, what do you prefer? 1. OpenClaw 2. Hemers Agent 3. Claude Cowork",
+      "zh-CN": "创始人提问：OpenClaw、Hemers Agent、Claude Cowork 三个 Agent 平台你选哪个，已有 41 条回复对比优劣"
+    },
+    "summary": {
+      "en-US": "OpenClaw 直接相关话题——适合用「顺势而为」视角解构「选择焦虑」",
+      "zh-CN": "41 条回复在比较三个工具的优劣，但问题本身可能有误。当框架还在快速演化时，「选哪个」的焦虑往往大于选择本身的价值——真正困住人的不是工具差异，而是害怕选错的执念。这是「顺势而为」要破除的执念。"
+    },
+    "relevance": "OpenClaw 直接相关话题——适合用「顺势而为」视角解构「选择焦虑」",
+    "score": 0.76,
+    "engagement": {
+      "likes": 24,
+      "replies": 41,
+      "retweets": 0
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-26T14:15:57.819354+00:00",
+    "js_take": {
+      "en-US": "The gap between these three is smaller than the time you'll spend worrying which to pick. Frameworks change. Pick what won't lock you in.",
+      "zh-CN": "纠结选哪个框架的时间，比它们之间的实际差距还长。技术总会迭代，关键是别把自己锁死。"
+    }
+  },
+  {
     "id": "2036857428273487903",
     "date": "2026-03-26",
     "author": "@openclaw",
@@ -5654,35 +5682,6 @@
     "js_take": {
       "en-US": "Notion isn't becoming friction — it's becoming infrastructure. The interaction energy is migrating from surface apps to the inner world of agents. Old layer doesn't die, it sinks.",
       "zh-CN": "Notion 不是在变难用——它正在成为基础设施。交互的能量正从表层应用流向 Agent 的里世界。旧层级不会消失，它会沉淀下去。"
-    }
-  },
-  {
-    "id": "2033755206085665166",
-    "date": "2026-03-17",
-    "author": "@WesRoth",
-    "author_url": "https://x.com/WesRoth",
-    "tweet_url": "https://x.com/WesRoth/status/2033755206085665166",
-    "title": {
-      "en-US": "OpenAI rolls out Subagents for Codex",
-      "zh-CN": "OpenAI正式推出Codex应用的Subagents功能，允许开发者启动多个专业并行代理处理复杂工作流"
-    },
-    "summary": {
-      "en-US": "AI Agent/OpenClaw相关",
-      "zh-CN": "「子代理并行处理」听起来是效率提升，但隐藏的问题是：当任务被拆得太碎，谁来对整体结果负责？过度分工会导致「每个部分都完美，整体却跑不通」的系统盲区"
-    },
-    "relevance": "AI Agent/OpenClaw相关",
-    "score": 0.74,
-    "engagement": {
-      "likes": 80,
-      "replies": 11,
-      "retweets": 6,
-      "views": 6185
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-17T15:10:03.653836+00:00",
-    "js_take": {
-      "en-US": "Split a task across 6 subagents and nobody owns the outcome. We tried this: each part was perfect, the integration took 3x longer than doing it solo.",
-      "zh-CN": "把一个任务拆给6个子Agent，结果没人对最终成果负责。我们试过：每个部分都完美，但集成时间比独自做还多了3倍。"
     }
   }
 ]

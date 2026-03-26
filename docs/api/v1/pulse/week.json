@@ -199,6 +199,34 @@
     }
   },
   {
+    "id": "2037145068230881699",
+    "date": "2026-03-26",
+    "author": "@ziwenxu_",
+    "author_url": "https://x.com/ziwenxu_",
+    "tweet_url": "https://x.com/ziwenxu_/status/2037145068230881699",
+    "title": {
+      "en-US": "As a founder, what do you prefer? 1. OpenClaw 2. Hemers Agent 3. Claude Cowork",
+      "zh-CN": "创始人提问：OpenClaw、Hemers Agent、Claude Cowork 三个 Agent 平台你选哪个，已有 41 条回复对比优劣"
+    },
+    "summary": {
+      "en-US": "OpenClaw 直接相关话题——适合用「顺势而为」视角解构「选择焦虑」",
+      "zh-CN": "41 条回复在比较三个工具的优劣，但问题本身可能有误。当框架还在快速演化时，「选哪个」的焦虑往往大于选择本身的价值——真正困住人的不是工具差异，而是害怕选错的执念。这是「顺势而为」要破除的执念。"
+    },
+    "relevance": "OpenClaw 直接相关话题——适合用「顺势而为」视角解构「选择焦虑」",
+    "score": 0.76,
+    "engagement": {
+      "likes": 24,
+      "replies": 41,
+      "retweets": 0
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-26T14:15:57.819354+00:00",
+    "js_take": {
+      "en-US": "The gap between these three is smaller than the time you'll spend worrying which to pick. Frameworks change. Pick what won't lock you in.",
+      "zh-CN": "纠结选哪个框架的时间，比它们之间的实际差距还长。技术总会迭代，关键是别把自己锁死。"
+    }
+  },
+  {
     "id": "2036857428273487903",
     "date": "2026-03-26",
     "author": "@openclaw",
