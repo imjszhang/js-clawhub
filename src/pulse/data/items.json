@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2036731996274045099",
+    "date": "2026-03-26",
+    "author": "@JulianGoldieSEO",
+    "author_url": "https://x.com/JulianGoldieSEO",
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/2036731996274045099",
+    "title": {
+      "en-US": "Hermes Agent vs OpenClaw side by side test. Hermes won.",
+      "zh-CN": "有人实测对比 Hermes Agent 和 OpenClaw，Hermes 赢了，差距明显——建网站更快、有实时更新、页面设计更干净。"
+    },
+    "summary": {
+      "en-US": "直接涉及 OpenClaw 平台对比，且讨论的是 AI Agent 实际工程能力差异",
+      "zh-CN": "这种\"谁更快\"的对比，恰恰暴露了一个被忽略的盲区：当所有人都盯着执行速度这个单一指标时，这个指标本身已经开始失真。真正决定 Agent 价值的，不是它跑得多快，而是它在沉默时能做出什么判断。"
+    },
+    "relevance": "直接涉及 OpenClaw 平台对比，且讨论的是 AI Agent 实际工程能力差异",
+    "score": 0.82,
+    "engagement": {
+      "likes": 55,
+      "replies": 4,
+      "retweets": 5
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-26T03:07:33.467527+00:00",
+    "js_take": {
+      "en-US": "Speed is a lagging indicator. The real question: do you trust an agent that reports every step, or one that only shows up when it has something to say? Your answer reveals more about your need for control than the agent's capability.",
+      "zh-CN": "速度只是一个滞后指标。真正的问题是：你更信任步步汇报的 Agent，还是有要事才开口的 Agent？你的答案更多反映的是你对控制的需求，而非 Agent 的能力。"
+    }
+  },
+  {
     "id": "2036852118762700929",
     "date": "2026-03-26",
     "author": "@Yuchenj_UW",
@@ -5654,34 +5682,6 @@
     "js_take": {
       "en-US": "The barrier didn't disappear—it migrated. From writing code to understanding how agents think. Surface looks simple. Inner world is where the real complexity lives.",
       "zh-CN": "门槛并没有消失，只是转移了——从写代码，转移到了理解 Agent 怎么思考。表面看着简单，真正的复杂度藏在里世界。"
-    }
-  },
-  {
-    "id": "2033166508143354117",
-    "date": "2026-03-16",
-    "author": "@tekbog",
-    "author_url": "https://x.com/tekbog",
-    "tweet_url": "https://x.com/tekbog/status/2033166508143354117",
-    "title": {
-      "en-US": "openclaw is for the same people who use notion",
-      "zh-CN": "OpenClaw 是给那些用 Notion 的人准备的"
-    },
-    "summary": {
-      "en-US": "OpenClaw 用户定位与产品哲学讨论",
-      "zh-CN": "把 OpenClaw 和 Notion 归为一类人，恰恰 missed the point——Notion 是「表世界」的精心整理，OpenClaw 是「里世界」的随意调用；表面看都是效率工具，实则一个是数据库，一个是 Agent 入口。"
-    },
-    "relevance": "OpenClaw 用户定位与产品哲学讨论",
-    "score": 0.82,
-    "engagement": {
-      "likes": 1460,
-      "replies": 63,
-      "retweets": 68
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-15T16:08:44.159021+00:00",
-    "js_take": {
-      "en-US": "Notion users organize information. OpenClaw users organize intelligence. One curates a library, the other commands a staff.",
-      "zh-CN": "Notion 用户整理信息，OpenClaw 用户调度智能。前者在管理图书馆，后者在指挥一支队伍。"
     }
   }
 ]

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-26T01:14:02.660591+00:00",
+  "updated_at": "2026-03-26T03:07:52.765869+00:00",
   "this_week": {
-    "total_items": 77,
+    "total_items": 78,
     "avg_score": 0.77,
-    "unique_authors": 65,
+    "unique_authors": 66,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -146,6 +146,34 @@
         "js_take": {
           "en-US": "NFT bubble burst. OpenSea died. On-chain credentials didn't. OpenClaw hype will fade. The need for agents that actually do work won't. Real question: are you betting on emotion, or on the infrastructure shift underneath?",
           "zh-CN": "NFT泡沫破了，OpenSea死了，但链上凭证还在。OpenClaw的狂热终将消退，但真正能干活的需求不会。真正的问题是：你在赌情绪，还是在赌底层的基建变革？"
+        }
+      },
+      {
+        "id": "2036731996274045099",
+        "date": "2026-03-26",
+        "author": "@JulianGoldieSEO",
+        "author_url": "https://x.com/JulianGoldieSEO",
+        "tweet_url": "https://x.com/JulianGoldieSEO/status/2036731996274045099",
+        "title": {
+          "en-US": "Hermes Agent vs OpenClaw side by side test. Hermes won.",
+          "zh-CN": "有人实测对比 Hermes Agent 和 OpenClaw，Hermes 赢了，差距明显——建网站更快、有实时更新、页面设计更干净。"
+        },
+        "summary": {
+          "en-US": "直接涉及 OpenClaw 平台对比，且讨论的是 AI Agent 实际工程能力差异",
+          "zh-CN": "这种\"谁更快\"的对比，恰恰暴露了一个被忽略的盲区：当所有人都盯着执行速度这个单一指标时，这个指标本身已经开始失真。真正决定 Agent 价值的，不是它跑得多快，而是它在沉默时能做出什么判断。"
+        },
+        "relevance": "直接涉及 OpenClaw 平台对比，且讨论的是 AI Agent 实际工程能力差异",
+        "score": 0.82,
+        "engagement": {
+          "likes": 55,
+          "replies": 4,
+          "retweets": 5
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-26T03:07:33.467527+00:00",
+        "js_take": {
+          "en-US": "Speed is a lagging indicator. The real question: do you trust an agent that reports every step, or one that only shows up when it has something to say? Your answer reveals more about your need for control than the agent's capability.",
+          "zh-CN": "速度只是一个滞后指标。真正的问题是：你更信任步步汇报的 Agent，还是有要事才开口的 Agent？你的答案更多反映的是你对控制的需求，而非 Agent 的能力。"
         }
       },
       {
@@ -999,39 +1027,11 @@
           "en-US": "Distributed isn't about more devices. It's about no device—when agents flow between hardware like water, they finally exist on their own terms.",
           "zh-CN": "分布式无关设备数量，而是彻底脱离设备——当 Agent 如水般在硬件间自由流动，它们才真正拥有自主存在。"
         }
-      },
-      {
-        "id": "2036691737918488589",
-        "date": "2026-03-25",
-        "author": "@mranti",
-        "author_url": "https://x.com/mranti",
-        "tweet_url": "https://x.com/mranti/status/2036691737918488589",
-        "title": {
-          "en-US": "OpenClaw设置面板不知所谓",
-          "zh-CN": "批评 OpenClaw 官方设置面板设计糟糕，重要参数不知如何操作，只能让 Agent 自己改或手动改配置文件"
-        },
-        "summary": {
-          "en-US": "直接关于 OpenClaw 平台——开发者体验痛点",
-          "zh-CN": "当工具的设计者把「灵活性」当成「不做选择」的借口时，用户得到的不是自由，而是决策疲劳——好的默认设置本身就是一种无为而治。"
-        },
-        "relevance": "直接关于 OpenClaw 平台——开发者体验痛点",
-        "score": 0.76,
-        "engagement": {
-          "likes": 15,
-          "retweets": 0,
-          "replies": 12
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-25T09:06:51.490022+00:00",
-        "js_take": {
-          "en-US": "Config files are the UX of giving up. The best settings are the ones 90% of users never know exist — that's wuwei in interface design.",
-          "zh-CN": "配置文件是「放弃」的交互设计。最好的设置，是那90%用户从未察觉其存在的设置——这便是界面设计中的「无为」。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 161
+    "unique_authors": 160
   }
 }
