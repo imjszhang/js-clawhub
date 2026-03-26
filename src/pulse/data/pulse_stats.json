@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-26T07:32:26.902426+00:00",
+  "updated_at": "2026-03-26T09:12:52.591357+00:00",
   "this_week": {
-    "total_items": 79,
+    "total_items": 80,
     "avg_score": 0.77,
-    "unique_authors": 67,
+    "unique_authors": 68,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -687,6 +687,35 @@
         }
       },
       {
+        "id": "2036845910437814330",
+        "date": "2026-03-26",
+        "author": "@InduTripat82427",
+        "author_url": "https://x.com/InduTripat82427",
+        "tweet_url": "https://x.com/InduTripat82427/status/2036845910437814330",
+        "title": {
+          "en-US": "CLAUDE.md → project memory, skills/ → auto-activated workflows, agents/ → parallel workers...",
+          "zh-CN": "Claude项目结构最佳实践：CLAUDE.md项目记忆、skills自动工作流、agents并行工作者等。"
+        },
+        "summary": {
+          "en-US": "AI工程实践/OpenClaw相关",
+          "zh-CN": "这条推文把「结构化」当成解决方案，但过度结构化的记忆系统会制造路径依赖——文件越多，agent越依赖预定义路径，反而失去对真实变化的感知。"
+        },
+        "relevance": "AI工程实践/OpenClaw相关",
+        "score": 0.78,
+        "engagement": {
+          "likes": 89,
+          "replies": 12,
+          "retweets": 14,
+          "views": 13686
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-03-26T09:12:31.786251+00:00",
+        "js_take": {
+          "en-US": "Strip the labels—CLAUDE.md's value isn't the file, it's the forced clarity of deciding what actually matters. 30 skill files won't fix a fuzzy decision.",
+          "zh-CN": "撕掉标签——CLAUDE.md 的价值不在文件本身，而在于被迫厘清什么才是真正重要的。30个技能文件救不了模糊的决策。"
+        }
+      },
+      {
         "id": "2036469505749295395",
         "date": "2026-03-25",
         "author": "@GithubProjects",
@@ -998,34 +1027,6 @@
         "js_take": {
           "en-US": "30 agents working 24/7 won't kill your team. They'll just execute bad decisions 30x faster. The bottleneck was never speed—it's knowing what not to build.",
           "zh-CN": "30个Agent全天候运转不会拖垮团队，但会让错误决策的执行速度快上30倍。真正的瓶颈从来不是速度，而是知道什么不该做。"
-        }
-      },
-      {
-        "id": "2036925457417822299",
-        "date": "2026-03-26",
-        "author": "@thdxr",
-        "author_url": "https://x.com/thdxr",
-        "tweet_url": "https://x.com/thdxr/status/2036925457417822299",
-        "title": {
-          "en-US": "James has achieved distributed opencode - agents run on laptop, remote server, cloud sandbox. Shut laptop, things keep running.",
-          "zh-CN": "James Long 实现了分布式 OpenCode：agent 可以在笔记本、远程服务器、云沙盒上运行，关闭笔记本后任务继续，重新打开后数据同步"
-        },
-        "summary": {
-          "en-US": "OpenClaw/OpenCode 核心功能更新，分布式 agent 执行",
-          "zh-CN": "「关掉电脑还在跑」听起来像魔法，但真正的突破不是「持续运行」，而是「状态的无缝迁移」。这暗示了一种新的存在方式：Agent 不再依附于设备，而是像水一样在容器间流动——R（设备边界）在消融，T（交易连续性）成为本体。"
-        },
-        "relevance": "OpenClaw/OpenCode 核心功能更新，分布式 agent 执行",
-        "score": 0.76,
-        "engagement": {
-          "likes": 518,
-          "replies": 26,
-          "retweets": 14
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-26T00:07:29.165798+00:00",
-        "js_take": {
-          "en-US": "Distributed isn't about more devices. It's about no device—when agents flow between hardware like water, they finally exist on their own terms.",
-          "zh-CN": "分布式无关设备数量，而是彻底脱离设备——当 Agent 如水般在硬件间自由流动，它们才真正拥有自主存在。"
         }
       }
     ]

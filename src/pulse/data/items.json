@@ -84,6 +84,35 @@
     }
   },
   {
+    "id": "2036845910437814330",
+    "date": "2026-03-26",
+    "author": "@InduTripat82427",
+    "author_url": "https://x.com/InduTripat82427",
+    "tweet_url": "https://x.com/InduTripat82427/status/2036845910437814330",
+    "title": {
+      "en-US": "CLAUDE.md → project memory, skills/ → auto-activated workflows, agents/ → parallel workers...",
+      "zh-CN": "Claude项目结构最佳实践：CLAUDE.md项目记忆、skills自动工作流、agents并行工作者等。"
+    },
+    "summary": {
+      "en-US": "AI工程实践/OpenClaw相关",
+      "zh-CN": "这条推文把「结构化」当成解决方案，但过度结构化的记忆系统会制造路径依赖——文件越多，agent越依赖预定义路径，反而失去对真实变化的感知。"
+    },
+    "relevance": "AI工程实践/OpenClaw相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 89,
+      "replies": 12,
+      "retweets": 14,
+      "views": 13686
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-26T09:12:31.786251+00:00",
+    "js_take": {
+      "en-US": "Strip the labels—CLAUDE.md's value isn't the file, it's the forced clarity of deciding what actually matters. 30 skill files won't fix a fuzzy decision.",
+      "zh-CN": "撕掉标签——CLAUDE.md 的价值不在文件本身，而在于被迫厘清什么才是真正重要的。30个技能文件救不了模糊的决策。"
+    }
+  },
+  {
     "id": "2036816134075212015",
     "date": "2026-03-26",
     "author": "@cyrilXBT",
@@ -5654,34 +5683,6 @@
     "js_take": {
       "en-US": "Apps are becoming databases, but agents still restart as blank slates. The surface-to-inner migration is stuck at the session boundary.",
       "zh-CN": "应用正在退化为数据库，但智能体每次重启仍是空白状态。从「表世界」向「里世界」的迁徙，卡在会话边界动弹不得。"
-    }
-  },
-  {
-    "id": "2033720636187807833",
-    "date": "2026-03-17",
-    "author": "@TFTC21",
-    "author_url": "https://x.com/TFTC21",
-    "tweet_url": "https://x.com/TFTC21/status/2033720636187807833",
-    "title": {
-      "en-US": "Jensen Huang: OpenClaw is the new computer.",
-      "zh-CN": "黄仁勋说 OpenClaw 是新计算机，几周内超越 Linux 30 年的成就。"
-    },
-    "summary": {
-      "en-US": "OpenClaw/行业趋势",
-      "zh-CN": "更深度：在「超越 Linux」的 hype 之下多走一步——指出速度本身不是优势，Linux 花了 30 年建立的是「不争」的生态共识，而 OpenClaw 的势还在混沌期。"
-    },
-    "relevance": "OpenClaw/行业趋势",
-    "score": 0.72,
-    "engagement": {
-      "likes": 953,
-      "replies": 33,
-      "retweets": 128
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-17T05:07:50.291885+00:00",
-    "js_take": {
-      "en-US": "Linux became quiet infrastructure over 30 years. OpenClaw's speed is noise—the real test is becoming inevitable.",
-      "zh-CN": "Linux 用30年成为静默的基础设施。OpenClaw 的速度只是噪音——真正的考验是成为不可避免的存在。"
     }
   }
 ]
