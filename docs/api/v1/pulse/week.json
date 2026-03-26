@@ -1,5 +1,33 @@
 [
   {
+    "id": "2036873999448498680",
+    "date": "2026-03-27",
+    "author": "@connors",
+    "author_url": "https://x.com/connors",
+    "tweet_url": "https://x.com/connors/status/2036873999448498680",
+    "title": {
+      "en-US": "Sutro: email client designed for people and their agents (BYO Claude/Codex/OpenClaw)",
+      "zh-CN": "Sutro——为人和agents设计的邮件客户端，自带Claude/Codex/OpenClaw agent协作"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态——agent作为基础设施融入日常工具",
+      "zh-CN": "更深度：'BYO agent'的邮件客户端是个信号——工具从'软件即服务'变成'软件即容器'，真正的价值不再是功能本身，而是能plug进多少agents。"
+    },
+    "relevance": "OpenClaw生态——agent作为基础设施融入日常工具",
+    "score": 0.75,
+    "engagement": {
+      "likes": 185,
+      "replies": 16,
+      "retweets": 9
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-26T17:13:32.372178+00:00",
+    "js_take": {
+      "en-US": "Sutro isn't \"another email app.\" It's software shifting from \"we give you features\" to \"we give you a container.\" Future competition: who can plug in more agents, not who has more features.",
+      "zh-CN": "Sutro 不是「又一个邮件应用」。它的本质是软件形态从「给你功能」向「给你容器」的转变。未来的竞争焦点是谁能接入更多智能体，而非谁的功能更丰富。"
+    }
+  },
+  {
     "id": "2036882062494584843",
     "date": "2026-03-26",
     "author": "@noahzweben",

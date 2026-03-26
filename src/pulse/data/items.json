@@ -1,5 +1,33 @@
 [
   {
+    "id": "2036873999448498680",
+    "date": "2026-03-27",
+    "author": "@connors",
+    "author_url": "https://x.com/connors",
+    "tweet_url": "https://x.com/connors/status/2036873999448498680",
+    "title": {
+      "en-US": "Sutro: email client designed for people and their agents (BYO Claude/Codex/OpenClaw)",
+      "zh-CN": "Sutro——为人和agents设计的邮件客户端，自带Claude/Codex/OpenClaw agent协作"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态——agent作为基础设施融入日常工具",
+      "zh-CN": "更深度：'BYO agent'的邮件客户端是个信号——工具从'软件即服务'变成'软件即容器'，真正的价值不再是功能本身，而是能plug进多少agents。"
+    },
+    "relevance": "OpenClaw生态——agent作为基础设施融入日常工具",
+    "score": 0.75,
+    "engagement": {
+      "likes": 185,
+      "replies": 16,
+      "retweets": 9
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-26T17:13:32.372178+00:00",
+    "js_take": {
+      "en-US": "Sutro isn't \"another email app.\" It's software shifting from \"we give you features\" to \"we give you a container.\" Future competition: who can plug in more agents, not who has more features.",
+      "zh-CN": "Sutro 不是「又一个邮件应用」。它的本质是软件形态从「给你功能」向「给你容器」的转变。未来的竞争焦点是谁能接入更多智能体，而非谁的功能更丰富。"
+    }
+  },
+  {
     "id": "2036882062494584843",
     "date": "2026-03-26",
     "author": "@noahzweben",
@@ -5654,34 +5682,6 @@
     "js_take": {
       "en-US": "Everyone copies the features. No one copies the timing. The real moat isn't code—it's knowing when to move and when to wait.",
       "zh-CN": "人人都在抄功能，却没人抄时机。真正的护城河不是代码，而是知道什么时候该动、什么时候该等。"
-    }
-  },
-  {
-    "id": "2033847237550477662",
-    "date": "2026-03-17",
-    "author": "@oran_ge",
-    "author_url": "https://x.com/oran_ge",
-    "tweet_url": "https://x.com/oran_ge/status/2033847237550477662",
-    "title": {
-      "en-US": "SaaS like Notion/Linear becoming friction between Claude Code and GitHub",
-      "zh-CN": "SaaS软件如Notion、Linear正在变成Claude Code和GitHub之间的摩擦力，新时代操作系统容不下这些老古董"
-    },
-    "summary": {
-      "en-US": "AI取代SaaS，OpenClaw相关",
-      "zh-CN": "原推的「老古董论」过度简化了技术迁移的复杂性——SaaS软件不会消失，而是像表世界退化为数据库一样，成为agent调用的底层能力；摩擦力不会消失，只会转移"
-    },
-    "relevance": "AI取代SaaS，OpenClaw相关",
-    "score": 0.75,
-    "engagement": {
-      "likes": 32,
-      "replies": 11,
-      "retweets": 0
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-17T11:12:21.582428+00:00",
-    "js_take": {
-      "en-US": "Notion isn't becoming friction — it's becoming infrastructure. The interaction energy is migrating from surface apps to the inner world of agents. Old layer doesn't die, it sinks.",
-      "zh-CN": "Notion 不是在变难用——它正在成为基础设施。交互的能量正从表层应用流向 Agent 的里世界。旧层级不会消失，它会沉淀下去。"
     }
   }
 ]
