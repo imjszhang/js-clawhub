@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-27T16:25:33.959434+00:00",
+  "updated_at": "2026-03-27T21:13:22.013776+00:00",
   "this_week": {
-    "total_items": 95,
+    "total_items": 97,
     "avg_score": 0.77,
-    "unique_authors": 80,
+    "unique_authors": 82,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -146,6 +146,34 @@
         "js_take": {
           "en-US": "NFT bubble burst. OpenSea died. On-chain credentials didn't. OpenClaw hype will fade. The need for agents that actually do work won't. Real question: are you betting on emotion, or on the infrastructure shift underneath?",
           "zh-CN": "NFT泡沫破了，OpenSea死了，但链上凭证还在。OpenClaw的狂热终将消退，但真正能干活的需求不会。真正的问题是：你在赌情绪，还是在赌底层的基建变革？"
+        }
+      },
+      {
+        "id": "2037540616305782918",
+        "date": "2026-03-28",
+        "author": "@vivoplt",
+        "author_url": "https://x.com/vivoplt",
+        "tweet_url": "https://x.com/vivoplt/status/2037540616305782918",
+        "title": {
+          "en-US": "Cancel weekend plans. Learn Claude Code, Cowork, Perplexity, OpenClaw, Manus...",
+          "zh-CN": "7个工具里，我只选定一个死磕"
+        },
+        "summary": {
+          "en-US": "AI Agent工具栈/OpenClaw直接提及",
+          "zh-CN": "AI Agent 工具栈横评，OpenClaw 被直接点名"
+        },
+        "relevance": "AI Agent工具栈/OpenClaw直接提及",
+        "score": 0.85,
+        "engagement": {
+          "likes": 1310,
+          "replies": 32,
+          "retweets": 176
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-27T20:07:40.333219+00:00",
+        "js_take": {
+          "en-US": "48 hours, 7 tools. The bottleneck isn't learning speed — it's knowing which one deserves 40 hours. I picked one, ignored the rest.",
+          "zh-CN": "48小时，7个工具。真正的瓶颈不是学得多快，而是你能不能判断哪个值得深耕40小时。我选定一个，其余全弃。"
         }
       },
       {
@@ -1002,40 +1030,11 @@
           "en-US": "Auto-memory delivers the merge without the reasoning. You gain speed, but lose the sense of why things break.",
           "zh-CN": "自动记忆完成了合并，却没有给出推理过程。你赢得了速度，却丢失了理解问题根源的线索。"
         }
-      },
-      {
-        "id": "2036620474034319615",
-        "date": "2026-03-25",
-        "author": "@chenchengpro",
-        "author_url": "https://x.com/chenchengpro",
-        "tweet_url": "https://x.com/chenchengpro/status/2036620474034319615",
-        "title": {
-          "en-US": "Reverse-engineered Claude Code 2.1.81: 4-layer decision pipeline for tool calls.",
-          "zh-CN": "逆向Claude Code 2.1.81源码，发现每次工具调用都要过一条四层决策流水线。"
-        },
-        "summary": {
-          "en-US": "AI Agent架构设计，Claude Code是OpenClaw生态的核心工具",
-          "zh-CN": "推文展示了精密的四层防御架构，但更深层的问题是：为什么需要四层？因为AI的执行速度远超人类的纠错速度——这是可以深入一步的因果。"
-        },
-        "relevance": "AI Agent架构设计，Claude Code是OpenClaw生态的核心工具",
-        "score": 0.78,
-        "engagement": {
-          "likes": 58,
-          "replies": 4,
-          "retweets": 7,
-          "views": 5775
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-25T04:10:32.799537+00:00",
-        "js_take": {
-          "en-US": "Four layers don't stop errors—they buy you time to notice them. AI moves too fast for human correction; the architecture is a speed bump, not a shield.",
-          "zh-CN": "四层架构拦不住错误——它只为给你争取发现的时间。AI 发展太快，人类根本来不及修正；这架构只是减速带，而非盾牌。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 160
+    "unique_authors": 161
   }
 }

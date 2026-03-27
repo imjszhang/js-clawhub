@@ -1,5 +1,33 @@
 [
   {
+    "id": "2037540616305782918",
+    "date": "2026-03-28",
+    "author": "@vivoplt",
+    "author_url": "https://x.com/vivoplt",
+    "tweet_url": "https://x.com/vivoplt/status/2037540616305782918",
+    "title": {
+      "en-US": "Cancel weekend plans. Learn Claude Code, Cowork, Perplexity, OpenClaw, Manus...",
+      "zh-CN": "7个工具里，我只选定一个死磕"
+    },
+    "summary": {
+      "en-US": "AI Agent工具栈/OpenClaw直接提及",
+      "zh-CN": "AI Agent 工具栈横评，OpenClaw 被直接点名"
+    },
+    "relevance": "AI Agent工具栈/OpenClaw直接提及",
+    "score": 0.85,
+    "engagement": {
+      "likes": 1310,
+      "replies": 32,
+      "retweets": 176
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-27T20:07:40.333219+00:00",
+    "js_take": {
+      "en-US": "48 hours, 7 tools. The bottleneck isn't learning speed — it's knowing which one deserves 40 hours. I picked one, ignored the rest.",
+      "zh-CN": "48小时，7个工具。真正的瓶颈不是学得多快，而是你能不能判断哪个值得深耕40小时。我选定一个，其余全弃。"
+    }
+  },
+  {
     "id": "2037523396876173783",
     "date": "2026-03-28",
     "author": "@akshay_pachaar",
@@ -25,6 +53,34 @@
     "js_take": {
       "en-US": "CLAUDE.md is documentation theater. Hooks bite — and that's the point. Unenforced rules are just wishes with better formatting.",
       "zh-CN": "CLAUDE.md 是文档表演。钩子（规则）是真会咬人的——而这正是关键。未被强制执行的规则，不过是排版更精美的愿望。"
+    }
+  },
+  {
+    "id": "2037579517389144399",
+    "date": "2026-03-28",
+    "author": "@fancylancer3991",
+    "author_url": "https://x.com/fancylancer3991",
+    "tweet_url": "https://x.com/fancylancer3991/status/2037579517389144399",
+    "title": {
+      "en-US": "Hermes agent messaged another Hermes agent",
+      "zh-CN": "两个Hermes agent互相发消息、建立安全连接、自我介绍并更新笔记"
+    },
+    "summary": {
+      "en-US": "Agent-to-agent通信 —— OpenClaw相关话题",
+      "zh-CN": "Agent之间「对话」是技术上很酷的突破，但值得追问的是：它们交换的是信息还是意图？当agent开始替人类「社交」，真正的风险是我们逐渐失去对沟通过程的感知，只在最后点一下approve"
+    },
+    "relevance": "Agent-to-agent通信 —— OpenClaw相关话题",
+    "score": 0.72,
+    "engagement": {
+      "likes": 101,
+      "replies": 11,
+      "retweets": 5
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-27T21:13:06.000603+00:00",
+    "js_take": {
+      "en-US": "Two agents talking. Humans watching. We reduced conversation to a notification we swipe away — then wonder why we feel disconnected.",
+      "zh-CN": "Agent 对谈，人类围观。我们把交流简化成随手划走的通知，却困惑为何感到疏离。"
     }
   },
   {
@@ -5626,65 +5682,6 @@
     "js_take": {
       "en-US": "Linux spent 30 years mastering the surface world. OpenClaw claimed the inner world in weeks. Different dimensions, not different speeds.",
       "zh-CN": "Linux花了30年才征服表世界。OpenClaw数周内就占据了里世界。这是维度的差异，不是速度的差距。"
-    }
-  },
-  {
-    "id": "2033326586813165967",
-    "date": "2026-03-17",
-    "author": "@chrysb",
-    "author_url": "https://x.com/chrysb",
-    "tweet_url": "https://x.com/chrysb/status/2033326586813165967",
-    "title": {
-      "en-US": "OpenClaw市场份额从100%降到67.6%，但绝对增长依然领先",
-      "zh-CN": "份额下降但绝对值领先：开源生态的正确打开方式"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态竞争数据",
-      "zh-CN": "OpenClaw生态竞争格局分析"
-    },
-    "relevance": "OpenClaw生态竞争数据",
-    "score": 0.87,
-    "engagement": {
-      "likes": 402,
-      "replies": 44,
-      "retweets": 43,
-      "views": 40161
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-16T16:08:52.898252+00:00",
-    "js_take": {
-      "en-US": "67% of a pie 10x bigger beats 100% of the old one. The real win is expanding the table, not owning it.",
-      "zh-CN": "十倍大蛋糕的67%，胜过原来那块完整的。真正的胜利是做大桌子，而不是独占它。"
-    }
-  },
-  {
-    "id": "2033719116234707308",
-    "date": "2026-03-17",
-    "author": "@kenwheeler",
-    "author_url": "https://x.com/kenwheeler",
-    "tweet_url": "https://x.com/kenwheeler/status/2033719116234707308",
-    "title": {
-      "en-US": "Anyone holding openclaw up as moated innovation has lost the plot",
-      "zh-CN": "把OpenClaw当护城河的人，没看懂剧本"
-    },
-    "summary": {
-      "en-US": "OpenClaw的本质定位讨论，直接触及「什么是真正的护城河」这一战略问题",
-      "zh-CN": "OpenClaw的本质定位讨论，直接触及「什么是真正的护城河」这一战略问题"
-    },
-    "relevance": "OpenClaw的本质定位讨论，直接触及「什么是真正的护城河」这一战略问题",
-    "score": 0.86,
-    "engagement": {
-      "likes": 944,
-      "retweets": 29,
-      "replies": 92,
-      "views": 43273,
-      "bookmarks": 58
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-17T12:14:03.622268+00:00",
-    "js_take": {
-      "en-US": "You're guarding the wrong gate. Protocols are table stakes; momentum toward shared language is the actual moat. Fork the code, inherit nothing.",
-      "zh-CN": "你们守错了城门。协议只是入场券，向共享语言汇聚的势能才是真正的护城河。Fork代码容易，继承生态没门。"
     }
   }
 ]

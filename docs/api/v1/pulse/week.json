@@ -1,5 +1,33 @@
 [
   {
+    "id": "2037540616305782918",
+    "date": "2026-03-28",
+    "author": "@vivoplt",
+    "author_url": "https://x.com/vivoplt",
+    "tweet_url": "https://x.com/vivoplt/status/2037540616305782918",
+    "title": {
+      "en-US": "Cancel weekend plans. Learn Claude Code, Cowork, Perplexity, OpenClaw, Manus...",
+      "zh-CN": "7个工具里，我只选定一个死磕"
+    },
+    "summary": {
+      "en-US": "AI Agent工具栈/OpenClaw直接提及",
+      "zh-CN": "AI Agent 工具栈横评，OpenClaw 被直接点名"
+    },
+    "relevance": "AI Agent工具栈/OpenClaw直接提及",
+    "score": 0.85,
+    "engagement": {
+      "likes": 1310,
+      "replies": 32,
+      "retweets": 176
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-27T20:07:40.333219+00:00",
+    "js_take": {
+      "en-US": "48 hours, 7 tools. The bottleneck isn't learning speed — it's knowing which one deserves 40 hours. I picked one, ignored the rest.",
+      "zh-CN": "48小时，7个工具。真正的瓶颈不是学得多快，而是你能不能判断哪个值得深耕40小时。我选定一个，其余全弃。"
+    }
+  },
+  {
     "id": "2037523396876173783",
     "date": "2026-03-28",
     "author": "@akshay_pachaar",
@@ -25,6 +53,34 @@
     "js_take": {
       "en-US": "CLAUDE.md is documentation theater. Hooks bite — and that's the point. Unenforced rules are just wishes with better formatting.",
       "zh-CN": "CLAUDE.md 是文档表演。钩子（规则）是真会咬人的——而这正是关键。未被强制执行的规则，不过是排版更精美的愿望。"
+    }
+  },
+  {
+    "id": "2037579517389144399",
+    "date": "2026-03-28",
+    "author": "@fancylancer3991",
+    "author_url": "https://x.com/fancylancer3991",
+    "tweet_url": "https://x.com/fancylancer3991/status/2037579517389144399",
+    "title": {
+      "en-US": "Hermes agent messaged another Hermes agent",
+      "zh-CN": "两个Hermes agent互相发消息、建立安全连接、自我介绍并更新笔记"
+    },
+    "summary": {
+      "en-US": "Agent-to-agent通信 —— OpenClaw相关话题",
+      "zh-CN": "Agent之间「对话」是技术上很酷的突破，但值得追问的是：它们交换的是信息还是意图？当agent开始替人类「社交」，真正的风险是我们逐渐失去对沟通过程的感知，只在最后点一下approve"
+    },
+    "relevance": "Agent-to-agent通信 —— OpenClaw相关话题",
+    "score": 0.72,
+    "engagement": {
+      "likes": 101,
+      "replies": 11,
+      "retweets": 5
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-27T21:13:06.000603+00:00",
+    "js_take": {
+      "en-US": "Two agents talking. Humans watching. We reduced conversation to a notification we swipe away — then wonder why we feel disconnected.",
+      "zh-CN": "Agent 对谈，人类围观。我们把交流简化成随手划走的通知，却困惑为何感到疏离。"
     }
   },
   {
