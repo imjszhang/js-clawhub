@@ -58,6 +58,36 @@
     }
   },
   {
+    "id": "2037210985048715306",
+    "date": "2026-03-27",
+    "author": "@ibuildthecloud",
+    "author_url": "https://x.com/ibuildthecloud",
+    "tweet_url": "https://x.com/ibuildthecloud/status/2037210985048715306",
+    "title": {
+      "en-US": "Stats are useless. MCP had thousands of servers, OpenClaw has 30k skills. What does that even mean?",
+      "zh-CN": "很多统计数据现在毫无意义——MCP曾有几千个server，OpenClaw有三万多个skill，这些数字到底代表什么？"
+    },
+    "summary": {
+      "en-US": "直接讨论OpenClaw的skill数量与真实价值的关系",
+      "zh-CN": "指标膨胀的本质是「把可测量的当成重要的」——当所有人追逐skill数量时，真正稀缺的判断力（该用什么、不该用什么）反而被淹没在噪音里。"
+    },
+    "relevance": "直接讨论OpenClaw的skill数量与真实价值的关系",
+    "score": 0.82,
+    "engagement": {
+      "likes": 70,
+      "replies": 9,
+      "retweets": 1,
+      "views": 8032,
+      "bookmarks": 4
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-27T06:20:21.736918+00:00",
+    "js_take": {
+      "en-US": "30k skills isn't a moat—it's noise. The edge isn't finding tools, it's knowing which 29,950 to ignore.",
+      "zh-CN": "三万技能不是护城河，是噪音。真正的优势不在找到工具，而在于知道哪两万九千九百五十个可以无视。"
+    }
+  },
+  {
     "id": "2037239228036161958",
     "date": "2026-03-27",
     "author": "@cocktailpeanut",
@@ -5654,34 +5684,6 @@
     "js_take": {
       "en-US": "The real moat was never syntax — it was knowing which line to write. OpenClaw just moved the gate from \"can you code\" to \"do you understand the problem.\" Most people never trained for the second one.",
       "zh-CN": "真正的护城河从来不是语法，而是知道该写哪行代码。OpenClaw 只是把门槛从'会不会编程'挪到了'懂不懂问题'——而大多数人从未训练过后者。"
-    }
-  },
-  {
-    "id": "2033789639115297205",
-    "date": "2026-03-17",
-    "author": "@aakashgupta",
-    "author_url": "https://x.com/aakashgupta",
-    "tweet_url": "https://x.com/aakashgupta/status/2033789639115297205",
-    "title": {
-      "en-US": "Jensen Huang: Every company needs an OpenClaw system",
-      "zh-CN": "Jensen Huang（黄仁勋）表示：每家公司都需要一个 OpenClaw 系统"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台 + NVIDIA CEO 背书，技术权威性强",
-      "zh-CN": "黄仁勋说的「每家公司都需要 OpenClaw」，但真正的问题是：多数公司还没准备好「驾驭」它——就像给婴儿一把手术刀，刀越锋利，危险越大。东方智慧里这叫「器先于道」的陷阱。"
-    },
-    "relevance": "OpenClaw 平台 + NVIDIA CEO 背书，技术权威性强",
-    "score": 0.82,
-    "engagement": {
-      "likes": 220,
-      "replies": 10,
-      "retweets": 18
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-17T14:10:33.898613+00:00",
-    "js_take": {
-      "en-US": "Jensen's right. But here's the catch: most companies want the tool before they've figured out what to build. The sharper the knife, the worse the wound when you don't know where to cut.",
-      "zh-CN": "Jensen 说得对。但问题在于：大多数公司在想清楚要造什么之前，就急着要工具。刀越锋利，不知道该往哪切的时候，伤得越深。"
     }
   }
 ]

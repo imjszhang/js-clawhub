@@ -58,6 +58,36 @@
     }
   },
   {
+    "id": "2037210985048715306",
+    "date": "2026-03-27",
+    "author": "@ibuildthecloud",
+    "author_url": "https://x.com/ibuildthecloud",
+    "tweet_url": "https://x.com/ibuildthecloud/status/2037210985048715306",
+    "title": {
+      "en-US": "Stats are useless. MCP had thousands of servers, OpenClaw has 30k skills. What does that even mean?",
+      "zh-CN": "很多统计数据现在毫无意义——MCP曾有几千个server，OpenClaw有三万多个skill，这些数字到底代表什么？"
+    },
+    "summary": {
+      "en-US": "直接讨论OpenClaw的skill数量与真实价值的关系",
+      "zh-CN": "指标膨胀的本质是「把可测量的当成重要的」——当所有人追逐skill数量时，真正稀缺的判断力（该用什么、不该用什么）反而被淹没在噪音里。"
+    },
+    "relevance": "直接讨论OpenClaw的skill数量与真实价值的关系",
+    "score": 0.82,
+    "engagement": {
+      "likes": 70,
+      "replies": 9,
+      "retweets": 1,
+      "views": 8032,
+      "bookmarks": 4
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-27T06:20:21.736918+00:00",
+    "js_take": {
+      "en-US": "30k skills isn't a moat—it's noise. The edge isn't finding tools, it's knowing which 29,950 to ignore.",
+      "zh-CN": "三万技能不是护城河，是噪音。真正的优势不在找到工具，而在于知道哪两万九千九百五十个可以无视。"
+    }
+  },
+  {
     "id": "2037239228036161958",
     "date": "2026-03-27",
     "author": "@cocktailpeanut",

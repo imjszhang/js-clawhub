@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-27T04:07:46.178632+00:00",
+  "updated_at": "2026-03-27T06:20:41.983937+00:00",
   "this_week": {
-    "total_items": 90,
+    "total_items": 91,
     "avg_score": 0.77,
-    "unique_authors": 76,
+    "unique_authors": 77,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -204,6 +204,36 @@
         "js_take": {
           "en-US": "The real bottleneck was never syntax—it was knowing what to build. Tools just moved the hard part upstream.",
           "zh-CN": "真正的瓶颈从来不是语法，而是想清楚该做什么。工具只是把难题前移了。"
+        }
+      },
+      {
+        "id": "2037210985048715306",
+        "date": "2026-03-27",
+        "author": "@ibuildthecloud",
+        "author_url": "https://x.com/ibuildthecloud",
+        "tweet_url": "https://x.com/ibuildthecloud/status/2037210985048715306",
+        "title": {
+          "en-US": "Stats are useless. MCP had thousands of servers, OpenClaw has 30k skills. What does that even mean?",
+          "zh-CN": "很多统计数据现在毫无意义——MCP曾有几千个server，OpenClaw有三万多个skill，这些数字到底代表什么？"
+        },
+        "summary": {
+          "en-US": "直接讨论OpenClaw的skill数量与真实价值的关系",
+          "zh-CN": "指标膨胀的本质是「把可测量的当成重要的」——当所有人追逐skill数量时，真正稀缺的判断力（该用什么、不该用什么）反而被淹没在噪音里。"
+        },
+        "relevance": "直接讨论OpenClaw的skill数量与真实价值的关系",
+        "score": 0.82,
+        "engagement": {
+          "likes": 70,
+          "replies": 9,
+          "retweets": 1,
+          "views": 8032,
+          "bookmarks": 4
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-03-27T06:20:21.736918+00:00",
+        "js_take": {
+          "en-US": "30k skills isn't a moat—it's noise. The edge isn't finding tools, it's knowing which 29,950 to ignore.",
+          "zh-CN": "三万技能不是护城河，是噪音。真正的优势不在找到工具，而在于知道哪两万九千九百五十个可以无视。"
         }
       },
       {
@@ -999,39 +1029,11 @@
           "en-US": "40,000 exposed machines aren't a bug—they're a collective immune system training judgment you can't centralize. Code is copyable. Distributed experience isn't.",
           "zh-CN": "四万台暴露的机器不是漏洞，而是集体免疫系统——在训练一种无法被集中化的判断力。代码可复制，分布式经验不能。"
         }
-      },
-      {
-        "id": "2036304443155816828",
-        "date": "2026-03-24",
-        "author": "@i5ting",
-        "author_url": "https://x.com/i5ting",
-        "tweet_url": "https://x.com/i5ting/status/2036304443155816828",
-        "title": {
-          "en-US": "OpenClaw won't survive 2026 due to homogenized competition",
-          "zh-CN": "断言 OpenClaw 作为个人助手模式开创者，在大量同质化竞品出现后活不到2026年底。"
-        },
-        "summary": {
-          "en-US": "OpenClaw 竞争分析 + Agent 生态生存法则",
-          "zh-CN": "「同质化竞争」这个说法本身就有问题——如果 OpenClaw 真的被抄死了，说明它的护城河从来就不是功能，而是还没沉淀出无法被复制的内核。先发优势是幻觉，后发者的速度才是真正的筛选器。"
-        },
-        "relevance": "OpenClaw 竞争分析 + Agent 生态生存法则",
-        "score": 0.78,
-        "engagement": {
-          "likes": 66,
-          "replies": 22,
-          "retweets": 2
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-03-24T12:09:52.457838+00:00",
-        "js_take": {
-          "en-US": "If copycats kill you, you were already dead. The ones who survive aren't the first—they're the ones who obsolete themselves before the clones ship.",
-          "zh-CN": "如果抄袭者能干掉你，那你本来就活不长。活下来的不是第一个做的，而是那些在仿品上市前就把自己迭代掉的人。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 158
+    "unique_authors": 159
   }
 }
