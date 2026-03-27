@@ -288,6 +288,34 @@
     }
   },
   {
+    "id": "2037456088770162693",
+    "date": "2026-03-27",
+    "author": "@aakashgupta",
+    "author_url": "https://x.com/aakashgupta",
+    "tweet_url": "https://x.com/aakashgupta/status/2037456088770162693",
+    "title": {
+      "en-US": "OpenClaw vs Claude Cowork comparison",
+      "zh-CN": "对比OpenClaw和Claude Cowork——前者是反应式的（用完即走），后者更接近但还需人指向，真正的分野在于「判断权在谁手里」。"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心话题——直接讨论Agent平台的本质差异",
+      "zh-CN": "原推把对比维度放在功能层面（reactive vs closer），但真正的分野不是工具能做什么，而是「谁在主导」：是人指向工具，还是工具自己知道该做什么。"
+    },
+    "relevance": "OpenClaw核心话题——直接讨论Agent平台的本质差异",
+    "score": 0.73,
+    "engagement": {
+      "likes": 33,
+      "replies": 13,
+      "retweets": 2
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-27T11:13:29.987311+00:00",
+    "js_take": {
+      "en-US": "Wrong frame—the split isn't reactive vs closer, it's who holds judgment. When the tool decides the next move, the shift is structural.",
+      "zh-CN": "框架有误——分歧不在反应式vs主动式，而在谁掌握判断权。当工具自主决定下一步时，变革是结构性的。"
+    }
+  },
+  {
     "id": "2036882062494584843",
     "date": "2026-03-26",
     "author": "@noahzweben",

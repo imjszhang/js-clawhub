@@ -288,6 +288,34 @@
     }
   },
   {
+    "id": "2037456088770162693",
+    "date": "2026-03-27",
+    "author": "@aakashgupta",
+    "author_url": "https://x.com/aakashgupta",
+    "tweet_url": "https://x.com/aakashgupta/status/2037456088770162693",
+    "title": {
+      "en-US": "OpenClaw vs Claude Cowork comparison",
+      "zh-CN": "对比OpenClaw和Claude Cowork——前者是反应式的（用完即走），后者更接近但还需人指向，真正的分野在于「判断权在谁手里」。"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心话题——直接讨论Agent平台的本质差异",
+      "zh-CN": "原推把对比维度放在功能层面（reactive vs closer），但真正的分野不是工具能做什么，而是「谁在主导」：是人指向工具，还是工具自己知道该做什么。"
+    },
+    "relevance": "OpenClaw核心话题——直接讨论Agent平台的本质差异",
+    "score": 0.73,
+    "engagement": {
+      "likes": 33,
+      "replies": 13,
+      "retweets": 2
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-27T11:13:29.987311+00:00",
+    "js_take": {
+      "en-US": "Wrong frame—the split isn't reactive vs closer, it's who holds judgment. When the tool decides the next move, the shift is structural.",
+      "zh-CN": "框架有误——分歧不在反应式vs主动式，而在谁掌握判断权。当工具自主决定下一步时，变革是结构性的。"
+    }
+  },
+  {
     "id": "2036882062494584843",
     "date": "2026-03-26",
     "author": "@noahzweben",
@@ -5657,34 +5685,6 @@
     "js_take": {
       "en-US": "OpenClaw's memory challenge isn't storage capacity—it's query precision. The same archive surfaces with sharp questions and vanishes with vague ones. Duration matters less than query quality.",
       "zh-CN": "OpenClaw 的记忆问题不在存储容量，而在查询精度。同样的档案，问得准就浮现，问得模糊就消失。存多久不重要，问得多准才关键。"
-    }
-  },
-  {
-    "id": "2033574260573180300",
-    "date": "2026-03-17",
-    "author": "@QingQ77",
-    "author_url": "https://x.com/QingQ77",
-    "tweet_url": "https://x.com/QingQ77/status/2033574260573180300",
-    "title": {
-      "en-US": "OpenClaw optimization guide: compress files to <8KB, use vault + vector retrieval.",
-      "zh-CN": "OpenClaw 优化指南：把工作区文件压缩到 8KB 以下，长期信息存入 vault，需要时再用向量检索捞出来。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 工程优化实践",
-      "zh-CN": "拼命压缩上下文、分层存储、按需检索——这套\"优化\"恰恰是在用更复杂的系统解决自己制造的问题。真正的效率不是把每个字节榨干，而是让系统知道什么时候该闭嘴。"
-    },
-    "relevance": "OpenClaw 工程优化实践",
-    "score": 0.82,
-    "engagement": {
-      "likes": 73,
-      "replies": 1,
-      "retweets": 10
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-17T01:11:13.868183+00:00",
-    "js_take": {
-      "en-US": "Compress context to 8KB, then build a vector system to fish it back out. You're optimizing the scars of over-intervention. The best retrieval is knowing what to forget.",
-      "zh-CN": "把上下文压到8KB，再建个向量系统把它捞出来——你不过在优化\"过度干预\"留下的伤疤。最好的检索，是知道该遗忘什么。"
     }
   }
 ]
