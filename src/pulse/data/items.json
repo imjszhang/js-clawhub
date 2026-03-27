@@ -30,6 +30,34 @@
     }
   },
   {
+    "id": "2037239228036161958",
+    "date": "2026-03-27",
+    "author": "@cocktailpeanut",
+    "author_url": "https://x.com/cocktailpeanut",
+    "tweet_url": "https://x.com/cocktailpeanut/status/2037239228036161958",
+    "title": {
+      "en-US": "M6 MacBook cellular = OpenClaw/Hermes agents can LEAVE THE HOUSE. No WiFi, no hotspot, they just roam.",
+      "zh-CN": "M6 MacBook内置蜂窝网络让OpenClaw/Hermes Agent可以「走出家门」，不再需要WiFi或热点，独立漫游。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI Agent——Agent独立性与物理世界连接",
+      "zh-CN": "这条推文的兴奋点在于Agent终于可以「脱离人类」独立存在，但这恰恰暴露了一个悖论：我们花了十年让设备永远在线，现在却要庆祝Agent可以离开我们的网络而存活。真正的解放不是技术独立，而是关系重构——从「我养着你」变成「你走你的路」。"
+    },
+    "relevance": "OpenClaw/AI Agent——Agent独立性与物理世界连接",
+    "score": 0.8,
+    "engagement": {
+      "likes": 61,
+      "replies": 5,
+      "retweets": 2
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-27T02:12:44.870457+00:00",
+    "js_take": {
+      "en-US": "The real breakthrough isn't agents leaving—it's us learning to stop checking if they're okay. Independence is easy. Trust is the hard part.",
+      "zh-CN": "真正的突破不在于 agents 学会了离开，而在于我们终于放下了「他们还好吗」的牵挂。独立很简单，信任才是最难的。"
+    }
+  },
+  {
     "id": "2037194991248761091",
     "date": "2026-03-27",
     "author": "@Atenov_D",
@@ -141,6 +169,34 @@
     "js_take": {
       "en-US": "30 agents running in parallel. Cool demo. But 30 agents executing a bad decision move 30x faster than one. The bottleneck was never conflict—it was knowing what NOT to build. Speed amplifies judgment, in both directions.",
       "zh-CN": "30个Agent并行运行，演示很酷。但30个Agent执行一个错误决策的速度也是30倍。瓶颈从来不是冲突，而是知道什么不该做。速度会双向放大判断力。"
+    }
+  },
+  {
+    "id": "2037302446729388216",
+    "date": "2026-03-27",
+    "author": "@BentoBoiNFT",
+    "author_url": "https://x.com/BentoBoiNFT",
+    "tweet_url": "https://x.com/BentoBoiNFT/status/2037302446729388216",
+    "title": {
+      "en-US": "Built a Mission Control dashboard for OpenClaw, became 10x more useful. Built with 0 coding.",
+      "zh-CN": "作者分享自己用零代码搭建了一个OpenClaw的Mission Control仪表盘，声称效率提升10倍。"
+    },
+    "summary": {
+      "en-US": "OpenClaw——可视化与Agent管理体验",
+      "zh-CN": "「Mission Control（任务控制中心）」这个命名本身暴露了问题：我们需要仪表盘是因为我们不信任Agent自己运行。10x效率提升的代价是更深的依赖——你看得越多，越停不下来。真正的「控制」可能始于关掉仪表盘。"
+    },
+    "relevance": "OpenClaw——可视化与Agent管理体验",
+    "score": 0.75,
+    "engagement": {
+      "likes": 80,
+      "replies": 16,
+      "retweets": 10
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-27T02:12:44.870462+00:00",
+    "js_take": {
+      "en-US": "Built a dashboard to 'manage' my agents. Six weeks later: I'm refreshing it at 2am. 10x efficiency, 10x anxiety. Sometimes the best OpenClaw setup is the one you never open.",
+      "zh-CN": "搭了个仪表盘来「管理」我的 agents。六周后：凌晨两点我还在不停刷新。效率翻了十倍，焦虑也翻了十倍。有时候，最好的 OpenClaw 配置，是那个你根本不需要打开的配置。"
     }
   },
   {
@@ -5627,64 +5683,6 @@
     "js_take": {
       "en-US": "We built a 12-agent team for data pipeline. The bottleneck wasn't any single agent — it was 4 of them waiting for the same API key. Coordination beats individual brilliance.",
       "zh-CN": "我们搭建了一个12个Agent的数据管道团队。瓶颈不是某个Agent——而是4个Agent在等同一个API密钥。协调能力胜过个人才华。"
-    }
-  },
-  {
-    "id": "2033747401085751598",
-    "date": "2026-03-17",
-    "author": "@KKaWSB",
-    "author_url": "https://x.com/KKaWSB",
-    "tweet_url": "https://x.com/KKaWSB/status/2033747401085751598",
-    "title": {
-      "en-US": "\"OpenClaw 就是新型计算机。\"——黄仁勋",
-      "zh-CN": "引用黄仁勋称OpenClaw是新型计算机，将其比作个人电脑早期时代。"
-    },
-    "summary": {
-      "en-US": "OpenClaw定位与行业趋势判断",
-      "zh-CN": "当所有人都在说「这是新型计算机」时，真正该问的是：如果人人都有一台一样的计算机，你的竞争力从哪来？硬件民主化的历史告诉我们——工具普及后，差距会从「有没有」转向「怎么用」。"
-    },
-    "relevance": "OpenClaw定位与行业趋势判断",
-    "score": 0.8,
-    "engagement": {
-      "likes": 237,
-      "replies": 15,
-      "retweets": 49,
-      "views": 124794
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-17T07:14:57.988543+00:00",
-    "js_take": {
-      "en-US": "When computers went from scarce to ubiquitous, the winners weren't the ones who owned one — they were the ones who knew what to build with it. Same gate, new key.",
-      "zh-CN": "当电脑从稀罕物变得无处不在，赢家并非拥有者，而是知道用它创造什么的人。还是那道门，钥匙却换了。"
-    }
-  },
-  {
-    "id": "2033874111399924135",
-    "date": "2026-03-17",
-    "author": "@abskoop",
-    "author_url": "https://x.com/abskoop",
-    "tweet_url": "https://x.com/abskoop/status/2033874111399924135",
-    "title": {
-      "en-US": "bb-browser turns Chrome into AI interface layer",
-      "zh-CN": "bb-browser项目将Chrome浏览器变成AI的接口层，让AI直接复用用户已登录的网站状态"
-    },
-    "summary": {
-      "en-US": "Agent基础设施/OpenClaw生态",
-      "zh-CN": "这条推文点出了关键趋势：表世界（浏览器/App）正在退化为数据库，里世界（Agent）正在成为新的交互层——这不是「工具升级」，而是「界面迁徙」"
-    },
-    "relevance": "Agent基础设施/OpenClaw生态",
-    "score": 0.8,
-    "engagement": {
-      "likes": 139,
-      "replies": 10,
-      "retweets": 31,
-      "views": 17101
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-17T15:10:03.653833+00:00",
-    "js_take": {
-      "en-US": "Chrome isn't becoming an AI tool. It's becoming a database your agent queries. The surface world is shrinking — the real interface is moving inward.",
-      "zh-CN": "Chrome不是在变成一个AI工具，而是在变成你的Agent查询的数据库。表世界正在收缩——真正的界面正在向内迁移。"
     }
   }
 ]
