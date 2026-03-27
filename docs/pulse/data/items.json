@@ -60,6 +60,34 @@
     }
   },
   {
+    "id": "2037211400326578636",
+    "date": "2026-03-27",
+    "author": "@icanvardar",
+    "author_url": "https://x.com/icanvardar",
+    "tweet_url": "https://x.com/icanvardar/status/2037211400326578636",
+    "title": {
+      "en-US": "still don't know anyone using openclaw. and still haven't found a single meaningful use case for it",
+      "zh-CN": "作者表示不认识任何人在用OpenClaw，也没找到任何有意义的用例"
+    },
+    "summary": {
+      "en-US": "直接讨论OpenClaw的价值与用例，是JS作为OpenClaw生态参与者的主场话题",
+      "zh-CN": "当一种工具「找不到用例」时，真正的问题可能是使用者还在用旧地图找新大陆——OpenClaw的用例不在它能做什么，而在它让你不必做什么。这是更深度视角：工具的价值常被其消除的摩擦所遮蔽。"
+    },
+    "relevance": "直接讨论OpenClaw的价值与用例，是JS作为OpenClaw生态参与者的主场话题",
+    "score": 0.78,
+    "engagement": {
+      "likes": 137,
+      "replies": 49,
+      "retweets": 4
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-26T23:13:10.549535+00:00",
+    "js_take": {
+      "en-US": "Looking for OpenClaw \"use cases\" is like asking for electricity recipes in 1880. The real question isn't what it does—it's which of your daily micro-decisions are worth delegating to silent execution.",
+      "zh-CN": "寻找 OpenClaw 的\"用例\"，就像在1880年索要\"电力食谱\"。真正的问题不是它能做什么——而是你日常中哪些微决策，值得托付给静默的执行。"
+    }
+  },
+  {
     "id": "2036873999448498680",
     "date": "2026-03-27",
     "author": "@connors",
@@ -5657,34 +5685,6 @@
     "js_take": {
       "en-US": "Chrome isn't becoming an AI tool. It's becoming a database your agent queries. The surface world is shrinking — the real interface is moving inward.",
       "zh-CN": "Chrome不是在变成一个AI工具，而是在变成你的Agent查询的数据库。表世界正在收缩——真正的界面正在向内迁移。"
-    }
-  },
-  {
-    "id": "2033685207954477083",
-    "date": "2026-03-17",
-    "author": "@santtiagom_",
-    "author_url": "https://x.com/santtiagom_",
-    "tweet_url": "https://x.com/santtiagom_/status/2033685207954477083",
-    "title": {
-      "en-US": "Agent skills are static files. The system changes, skills don't. Problem.",
-      "zh-CN": "Agent skills 是静态文件，但系统持续变化，导致 skill 过时失效。"
-    },
-    "summary": {
-      "en-US": "OpenClaw/agent skills 架构问题",
-      "zh-CN": "把「静态文件 vs 动态系统」的冲突，更精炼地归结为「用死的文档管活的系统」——问题的本质不是技术实现，而是设计哲学上的错配。"
-    },
-    "relevance": "OpenClaw/agent skills 架构问题",
-    "score": 0.78,
-    "engagement": {
-      "likes": 182,
-      "replies": 2,
-      "retweets": 21
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-17T05:07:50.291882+00:00",
-    "js_take": {
-      "en-US": "Maintaining static skills for live systems assumes the river stops flowing. The SKILL.md you wrote last month already describes a ghost.",
-      "zh-CN": "为活的系统维护静态技能，等于假设河流会停止流动。你上个月写的 SKILL.md，描述的已是一个幽灵。"
     }
   }
 ]

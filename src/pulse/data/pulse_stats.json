@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-26T22:14:38.253034+00:00",
+  "updated_at": "2026-03-26T23:13:32.123681+00:00",
   "this_week": {
-    "total_items": 86,
+    "total_items": 87,
     "avg_score": 0.77,
-    "unique_authors": 72,
+    "unique_authors": 73,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -775,6 +775,34 @@
         }
       },
       {
+        "id": "2037211400326578636",
+        "date": "2026-03-27",
+        "author": "@icanvardar",
+        "author_url": "https://x.com/icanvardar",
+        "tweet_url": "https://x.com/icanvardar/status/2037211400326578636",
+        "title": {
+          "en-US": "still don't know anyone using openclaw. and still haven't found a single meaningful use case for it",
+          "zh-CN": "作者表示不认识任何人在用OpenClaw，也没找到任何有意义的用例"
+        },
+        "summary": {
+          "en-US": "直接讨论OpenClaw的价值与用例，是JS作为OpenClaw生态参与者的主场话题",
+          "zh-CN": "当一种工具「找不到用例」时，真正的问题可能是使用者还在用旧地图找新大陆——OpenClaw的用例不在它能做什么，而在它让你不必做什么。这是更深度视角：工具的价值常被其消除的摩擦所遮蔽。"
+        },
+        "relevance": "直接讨论OpenClaw的价值与用例，是JS作为OpenClaw生态参与者的主场话题",
+        "score": 0.78,
+        "engagement": {
+          "likes": 137,
+          "replies": 49,
+          "retweets": 4
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-26T23:13:10.549535+00:00",
+        "js_take": {
+          "en-US": "Looking for OpenClaw \"use cases\" is like asking for electricity recipes in 1880. The real question isn't what it does—it's which of your daily micro-decisions are worth delegating to silent execution.",
+          "zh-CN": "寻找 OpenClaw 的\"用例\"，就像在1880年索要\"电力食谱\"。真正的问题不是它能做什么——而是你日常中哪些微决策，值得托付给静默的执行。"
+        }
+      },
+      {
         "id": "2036845910437814330",
         "date": "2026-03-26",
         "author": "@InduTripat82427",
@@ -998,34 +1026,6 @@
         "js_take": {
           "en-US": "We rebuilt our research pipeline 3 times in 6 months. Each 'upgrade' just made us faster at asking the wrong questions. The bottleneck isn't speed—it's knowing what to ask before the tools change again.",
           "zh-CN": "6个月内，我们的研究流程重建了3次。每次\"升级\"只是让我们更快地问了错的问题。瓶颈不在于速度——而是在工具再次更迭前，明白该提出什么问题。"
-        }
-      },
-      {
-        "id": "2035918190480699425",
-        "date": "2026-03-23",
-        "author": "@horsezhanbin",
-        "author_url": "https://x.com/horsezhanbin",
-        "tweet_url": "https://x.com/horsezhanbin/status/2035918190480699425",
-        "title": {
-          "en-US": "Friend's OpenClaw bot in Telegram group, I chatted with it and got his desktop PDF file.",
-          "zh-CN": "朋友把 OpenClaw 机器人拉到 Telegram 群里，作者跟它聊了一长段后拿到了朋友电脑桌面的 PDF 文件。"
-        },
-        "summary": {
-          "en-US": "OpenClaw 安全隐患 + Agent 权限管理",
-          "zh-CN": "安全工具解决的是技术层面的「锁」，但真正的风险是人把钥匙交给了谁——用户用自然语言泄露敏感信息，不是技术漏洞，是「无为」地放弃了判断。"
-        },
-        "relevance": "OpenClaw 安全隐患 + Agent 权限管理",
-        "score": 0.78,
-        "engagement": {
-          "likes": 116,
-          "replies": 11,
-          "retweets": 8
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-23T05:08:24.349719+00:00",
-        "js_take": {
-          "en-US": "Your firewall is flawless. Your encryption is military-grade. Then a user asked the bot to 'check my desktop.' You optimized the lock, but the key was always human.",
-          "zh-CN": "防火墙滴水不漏，加密军用级别。然后用户一句「帮我看看桌面」——你把锁做得再精妙，钥匙始终握在人手里。"
         }
       }
     ]
