@@ -174,6 +174,36 @@
     }
   },
   {
+    "id": "2037335774786642177",
+    "date": "2026-03-27",
+    "author": "@Scobleizer",
+    "author_url": "https://x.com/Scobleizer",
+    "tweet_url": "https://x.com/Scobleizer/status/2037335774786642177",
+    "title": {
+      "en-US": "Set up OpenClaw cloud instance, secure, curated Skill Hub with one-click install.",
+      "zh-CN": "Robert Scoble 分享在云端部署 OpenClaw 的经验，无需本地 Mac Mini 或 DGX，强调安全性和 Skill Hub 的一键安装能力。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台采用与云部署实践",
+      "zh-CN": "「把复杂工具塞进云端一键启动」看似是降低门槛，实则可能切断了用户与系统真实反馈的接触——自动化在保护你的同时也让你失去了感知力。"
+    },
+    "relevance": "OpenClaw 平台采用与云部署实践",
+    "score": 0.78,
+    "engagement": {
+      "likes": 123,
+      "replies": 27,
+      "retweets": 28,
+      "views": 11578,
+      "bookmarks": 107
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-27T08:08:38.525295+00:00",
+    "js_take": {
+      "en-US": "一键部署三个月后，出问题才发现我对底层网络一无所知。你拼命追求的「零摩擦」，恰恰是让你变脆弱的 friction。",
+      "zh-CN": "一键部署三个月后，出问题才发现我对底层网络一无所知。你拼命追求的「零摩擦」，恰恰是让你变脆弱的根源。"
+    }
+  },
+  {
     "id": "2036873999448498680",
     "date": "2026-03-27",
     "author": "@connors",
@@ -5655,35 +5685,6 @@
     "js_take": {
       "en-US": "Compress context to 8KB, then build a vector system to fish it back out. You're optimizing the scars of over-intervention. The best retrieval is knowing what to forget.",
       "zh-CN": "把上下文压到8KB，再建个向量系统把它捞出来——你不过在优化\"过度干预\"留下的伤疤。最好的检索，是知道该遗忘什么。"
-    }
-  },
-  {
-    "id": "2033781383227686979",
-    "date": "2026-03-17",
-    "author": "@lidangzzz",
-    "author_url": "https://x.com/lidangzzz",
-    "tweet_url": "https://x.com/lidangzzz/status/2033781383227686979",
-    "title": {
-      "en-US": "OpenClaw爆火这么久，再一次证明了AI Agent就是程序员的最大护城河，非程序员连发现和定义问题的能力都没有。",
-      "zh-CN": "立党认为OpenClaw证明AI Agent是程序员的护城河，非程序员缺乏问题发现与定义能力。"
-    },
-    "summary": {
-      "en-US": "OpenClaw能力分层与程序员护城河争议",
-      "zh-CN": "护城河论的问题在于把「会用工具」当成「能定义问题」，但真正的差距不是代码能力，而是对业务本质的理解深度——非程序员用OpenClaw做不出好东西，根源不是不会写代码，而是没想清楚该解决什么问题。"
-    },
-    "relevance": "OpenClaw能力分层与程序员护城河争议",
-    "score": 0.82,
-    "engagement": {
-      "likes": 132,
-      "replies": 14,
-      "retweets": 10,
-      "views": 19008
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-17T07:14:57.988539+00:00",
-    "js_take": {
-      "en-US": "The real moat was never syntax — it was knowing which line to write. OpenClaw just moved the gate from \"can you code\" to \"do you understand the problem.\" Most people never trained for the second one.",
-      "zh-CN": "真正的护城河从来不是语法，而是知道该写哪行代码。OpenClaw 只是把门槛从'会不会编程'挪到了'懂不懂问题'——而大多数人从未训练过后者。"
     }
   }
 ]

@@ -174,6 +174,36 @@
     }
   },
   {
+    "id": "2037335774786642177",
+    "date": "2026-03-27",
+    "author": "@Scobleizer",
+    "author_url": "https://x.com/Scobleizer",
+    "tweet_url": "https://x.com/Scobleizer/status/2037335774786642177",
+    "title": {
+      "en-US": "Set up OpenClaw cloud instance, secure, curated Skill Hub with one-click install.",
+      "zh-CN": "Robert Scoble 分享在云端部署 OpenClaw 的经验，无需本地 Mac Mini 或 DGX，强调安全性和 Skill Hub 的一键安装能力。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台采用与云部署实践",
+      "zh-CN": "「把复杂工具塞进云端一键启动」看似是降低门槛，实则可能切断了用户与系统真实反馈的接触——自动化在保护你的同时也让你失去了感知力。"
+    },
+    "relevance": "OpenClaw 平台采用与云部署实践",
+    "score": 0.78,
+    "engagement": {
+      "likes": 123,
+      "replies": 27,
+      "retweets": 28,
+      "views": 11578,
+      "bookmarks": 107
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-27T08:08:38.525295+00:00",
+    "js_take": {
+      "en-US": "一键部署三个月后，出问题才发现我对底层网络一无所知。你拼命追求的「零摩擦」，恰恰是让你变脆弱的 friction。",
+      "zh-CN": "一键部署三个月后，出问题才发现我对底层网络一无所知。你拼命追求的「零摩擦」，恰恰是让你变脆弱的根源。"
+    }
+  },
+  {
     "id": "2036873999448498680",
     "date": "2026-03-27",
     "author": "@connors",

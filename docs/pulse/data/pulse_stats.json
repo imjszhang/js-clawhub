@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-27T06:20:41.983937+00:00",
+  "updated_at": "2026-03-27T08:09:09.409570+00:00",
   "this_week": {
-    "total_items": 91,
+    "total_items": 92,
     "avg_score": 0.77,
-    "unique_authors": 77,
+    "unique_authors": 78,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -889,6 +889,36 @@
         }
       },
       {
+        "id": "2037335774786642177",
+        "date": "2026-03-27",
+        "author": "@Scobleizer",
+        "author_url": "https://x.com/Scobleizer",
+        "tweet_url": "https://x.com/Scobleizer/status/2037335774786642177",
+        "title": {
+          "en-US": "Set up OpenClaw cloud instance, secure, curated Skill Hub with one-click install.",
+          "zh-CN": "Robert Scoble 分享在云端部署 OpenClaw 的经验，无需本地 Mac Mini 或 DGX，强调安全性和 Skill Hub 的一键安装能力。"
+        },
+        "summary": {
+          "en-US": "OpenClaw 平台采用与云部署实践",
+          "zh-CN": "「把复杂工具塞进云端一键启动」看似是降低门槛，实则可能切断了用户与系统真实反馈的接触——自动化在保护你的同时也让你失去了感知力。"
+        },
+        "relevance": "OpenClaw 平台采用与云部署实践",
+        "score": 0.78,
+        "engagement": {
+          "likes": 123,
+          "replies": 27,
+          "retweets": 28,
+          "views": 11578,
+          "bookmarks": 107
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-27T08:08:38.525295+00:00",
+        "js_take": {
+          "en-US": "一键部署三个月后，出问题才发现我对底层网络一无所知。你拼命追求的「零摩擦」，恰恰是让你变脆弱的 friction。",
+          "zh-CN": "一键部署三个月后，出问题才发现我对底层网络一无所知。你拼命追求的「零摩擦」，恰恰是让你变脆弱的根源。"
+        }
+      },
+      {
         "id": "2036845910437814330",
         "date": "2026-03-26",
         "author": "@InduTripat82427",
@@ -1001,39 +1031,11 @@
           "en-US": "Managed settings are a trap dressed as convenience. The real risk isn't bad code merging—it's forgetting what your system looks like when it's not wearing autopilot.",
           "zh-CN": "托管配置是个披着便利外衣的陷阱。真正的风险不是代码合并出错——而是你已经忘了，系统不依赖自动驾驶时本该是什么样子。"
         }
-      },
-      {
-        "id": "2036233878701298100",
-        "date": "2026-03-24",
-        "author": "@aakashgupta",
-        "author_url": "https://x.com/aakashgupta",
-        "tweet_url": "https://x.com/aakashgupta/status/2036233878701298100",
-        "title": {
-          "en-US": "Anthropic building secure OpenClaw, reverse-engineered from open-source agent",
-          "zh-CN": "Anthropic正在构建安全的OpenClaw替代品，30天内推出4项功能，每一项都是从开源agent反向工程而来"
-        },
-        "summary": {
-          "en-US": "OpenClaw - 闭源vs开源生态竞争",
-          "zh-CN": "大厂「抄袭」开源不是新闻，真正值得追问的是：为什么开源项目总能提前定义战场，而闭源产品只能在后面追赶？"
-        },
-        "relevance": "OpenClaw - 闭源vs开源生态竞争",
-        "score": 0.78,
-        "engagement": {
-          "likes": 252,
-          "retweets": 26,
-          "replies": 12
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-24T02:08:29.163044+00:00",
-        "js_take": {
-          "en-US": "40,000 exposed machines aren't a bug—they're a collective immune system training judgment you can't centralize. Code is copyable. Distributed experience isn't.",
-          "zh-CN": "四万台暴露的机器不是漏洞，而是集体免疫系统——在训练一种无法被集中化的判断力。代码可复制，分布式经验不能。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 159
+    "unique_authors": 160
   }
 }
