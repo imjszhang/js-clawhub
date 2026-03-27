@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-27T02:13:06.231383+00:00",
+  "updated_at": "2026-03-27T04:07:46.178632+00:00",
   "this_week": {
-    "total_items": 89,
+    "total_items": 90,
     "avg_score": 0.77,
-    "unique_authors": 75,
+    "unique_authors": 76,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -176,6 +176,34 @@
         "js_take": {
           "en-US": "Skeptics confuse autonomy with automation. You set expectations and boundaries, then step back—this isn't magic, it's engineering wisdom most would rather micromanage than trust.",
           "zh-CN": "怀疑者把「自主」和「自动化」混为一谈。你设定好预期和边界，然后退后——这不是什么魔法，而是工程智慧。大多数人宁愿事事插手，也不愿真正信任。"
+        }
+      },
+      {
+        "id": "2037339152828797307",
+        "date": "2026-03-27",
+        "author": "@indigox",
+        "author_url": "https://x.com/indigox",
+        "tweet_url": "https://x.com/indigox/status/2037339152828797307",
+        "title": {
+          "en-US": "Student used voice + OpenClaw to build Whoop-like app on Apple Watch, zero coding",
+          "zh-CN": "一位不会写代码的大一新生，纯靠语音驱动 OpenClaw，在 Apple Watch 上复刻了类似 Whoop 手环的功能，只靠 Telegram 语音和拍照就能指挥 Claude Opus 编码。"
+        },
+        "summary": {
+          "en-US": "OpenClaw 实际应用案例，展示无代码开发的潜力",
+          "zh-CN": "表面是「AI让不会代码的人也能开发」，但真正的洞察是：开发者体验正在被重新定义——从「写代码的能力」转向「描述需求的能力」；当工具足够聪明，瓶颈就从「技术实现」转移到「问题定义」。"
+        },
+        "relevance": "OpenClaw 实际应用案例，展示无代码开发的潜力",
+        "score": 0.82,
+        "engagement": {
+          "likes": 40,
+          "replies": 5,
+          "retweets": 5
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-27T04:07:27.628424+00:00",
+        "js_take": {
+          "en-US": "The real bottleneck was never syntax—it was knowing what to build. Tools just moved the hard part upstream.",
+          "zh-CN": "真正的瓶颈从来不是语法，而是想清楚该做什么。工具只是把难题前移了。"
         }
       },
       {
@@ -998,34 +1026,6 @@
         "js_take": {
           "en-US": "If copycats kill you, you were already dead. The ones who survive aren't the first—they're the ones who obsolete themselves before the clones ship.",
           "zh-CN": "如果抄袭者能干掉你，那你本来就活不长。活下来的不是第一个做的，而是那些在仿品上市前就把自己迭代掉的人。"
-        }
-      },
-      {
-        "id": "2035521016814854441",
-        "date": "2026-03-23",
-        "author": "@joseph_h_garvin",
-        "author_url": "https://x.com/joseph_h_garvin",
-        "tweet_url": "https://x.com/joseph_h_garvin/status/2035521016814854441",
-        "title": {
-          "en-US": "Claude code rarely runs for longer than 15m without stopping. How do overnight agent stories work?",
-          "zh-CN": "Claude Code 很少能连续运行超过15分钟不中断，那些让Agent通宵运行的故事是怎么做到的？"
-        },
-        "summary": {
-          "en-US": "直接讨论 Claude Code / OpenClaw 的核心痛点——Agent 长时间自主运行的可靠性问题",
-          "zh-CN": "人们追求的是「让AI一直跑」的技术幻觉，但真正该解决的是「让AI在正确的时候停下来问」的设计智慧—— autonomous doesn't mean uninterrupted."
-        },
-        "relevance": "直接讨论 Claude Code / OpenClaw 的核心痛点——Agent 长时间自主运行的可靠性问题",
-        "score": 0.78,
-        "engagement": {
-          "likes": 540,
-          "replies": 89,
-          "retweets": 9
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-22T16:26:01.493479+00:00",
-        "js_take": {
-          "en-US": "Everyone asks \"how to make it run longer.\" Wrong question. The real engineering is knowing when to stop and ask — uninterrupted doesn't mean unguided.",
-          "zh-CN": "人人都在问\"怎么让它跑得更久\"。问错了。真正的工程智慧，是懂得何时停下来发问——不间断不等于无引导。"
         }
       }
     ]

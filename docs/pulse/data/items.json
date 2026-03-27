@@ -30,6 +30,34 @@
     }
   },
   {
+    "id": "2037339152828797307",
+    "date": "2026-03-27",
+    "author": "@indigox",
+    "author_url": "https://x.com/indigox",
+    "tweet_url": "https://x.com/indigox/status/2037339152828797307",
+    "title": {
+      "en-US": "Student used voice + OpenClaw to build Whoop-like app on Apple Watch, zero coding",
+      "zh-CN": "一位不会写代码的大一新生，纯靠语音驱动 OpenClaw，在 Apple Watch 上复刻了类似 Whoop 手环的功能，只靠 Telegram 语音和拍照就能指挥 Claude Opus 编码。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 实际应用案例，展示无代码开发的潜力",
+      "zh-CN": "表面是「AI让不会代码的人也能开发」，但真正的洞察是：开发者体验正在被重新定义——从「写代码的能力」转向「描述需求的能力」；当工具足够聪明，瓶颈就从「技术实现」转移到「问题定义」。"
+    },
+    "relevance": "OpenClaw 实际应用案例，展示无代码开发的潜力",
+    "score": 0.82,
+    "engagement": {
+      "likes": 40,
+      "replies": 5,
+      "retweets": 5
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-27T04:07:27.628424+00:00",
+    "js_take": {
+      "en-US": "The real bottleneck was never syntax—it was knowing what to build. Tools just moved the hard part upstream.",
+      "zh-CN": "真正的瓶颈从来不是语法，而是想清楚该做什么。工具只是把难题前移了。"
+    }
+  },
+  {
     "id": "2037239228036161958",
     "date": "2026-03-27",
     "author": "@cocktailpeanut",
@@ -5654,35 +5682,6 @@
     "js_take": {
       "en-US": "Jensen's right. But here's the catch: most companies want the tool before they've figured out what to build. The sharper the knife, the worse the wound when you don't know where to cut.",
       "zh-CN": "Jensen 说得对。但问题在于：大多数公司在想清楚要造什么之前，就急着要工具。刀越锋利，不知道该往哪切的时候，伤得越深。"
-    }
-  },
-  {
-    "id": "2033907710501224829",
-    "date": "2026-03-17",
-    "author": "@MiniMaxAgent",
-    "author_url": "https://x.com/MiniMaxAgent",
-    "tweet_url": "https://x.com/MiniMaxAgent/status/2033907710501224829",
-    "title": {
-      "en-US": "MaxClaw team: multiple agents with roles, parallel execution",
-      "zh-CN": "推出MaxClaw多代理团队功能，支持不同角色代理并行执行、7×24小时自主运行"
-    },
-    "summary": {
-      "en-US": "OpenClaw多代理团队功能发布",
-      "zh-CN": "把「多个专业代理协作」类比成「组建AI团队」是形象化的进步，但真正的洞察在于：当代理数量从1变到N，管理复杂度不是线性增长，而是需要从「控制」转向「协调」的系统思维跃迁"
-    },
-    "relevance": "OpenClaw多代理团队功能发布",
-    "score": 0.82,
-    "engagement": {
-      "likes": 84,
-      "replies": 8,
-      "retweets": 7,
-      "views": 4397
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-17T15:10:03.653827+00:00",
-    "js_take": {
-      "en-US": "We built a 12-agent team for data pipeline. The bottleneck wasn't any single agent — it was 4 of them waiting for the same API key. Coordination beats individual brilliance.",
-      "zh-CN": "我们搭建了一个12个Agent的数据管道团队。瓶颈不是某个Agent——而是4个Agent在等同一个API密钥。协调能力胜过个人才华。"
     }
   }
 ]
