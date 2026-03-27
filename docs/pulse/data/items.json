@@ -1,5 +1,33 @@
 [
   {
+    "id": "2037523396876173783",
+    "date": "2026-03-28",
+    "author": "@akshay_pachaar",
+    "author_url": "https://x.com/akshay_pachaar",
+    "tweet_url": "https://x.com/akshay_pachaar/status/2037523396876173783",
+    "title": {
+      "en-US": "CLAUDE.md is a suggestion. Hooks are a guarantee. Most people stop at the file, missing the enforcement layer.",
+      "zh-CN": "CLAUDE.md只是建议，Hooks才是保证。大多数人只配置了文件，却忽略了执行层。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code工程实践，规则与执行",
+      "zh-CN": "「建议vs保证」的区分触及了一个深层问题：规则的价值不在于被写下来，而在于被嵌入流程。文档是廉价的，机制才是昂贵的。"
+    },
+    "relevance": "OpenClaw/Claude Code工程实践，规则与执行",
+    "score": 0.77,
+    "engagement": {
+      "likes": 179,
+      "replies": 12,
+      "retweets": 33
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-27T16:25:07.828014+00:00",
+    "js_take": {
+      "en-US": "CLAUDE.md is documentation theater. Hooks bite — and that's the point. Unenforced rules are just wishes with better formatting.",
+      "zh-CN": "CLAUDE.md 是文档表演。钩子（规则）是真会咬人的——而这正是关键。未被强制执行的规则，不过是排版更精美的愿望。"
+    }
+  },
+  {
     "id": "2037285512713822528",
     "date": "2026-03-27",
     "author": "@AlexFinn",
@@ -5657,34 +5685,6 @@
     "js_take": {
       "en-US": "You're guarding the wrong gate. Protocols are table stakes; momentum toward shared language is the actual moat. Fork the code, inherit nothing.",
       "zh-CN": "你们守错了城门。协议只是入场券，向共享语言汇聚的势能才是真正的护城河。Fork代码容易，继承生态没门。"
-    }
-  },
-  {
-    "id": "2033848819561963727",
-    "date": "2026-03-17",
-    "author": "@aakashgupta",
-    "author_url": "https://x.com/aakashgupta",
-    "tweet_url": "https://x.com/aakashgupta/status/2033848819561963727",
-    "title": {
-      "en-US": "OpenClaw 4 months: 316k stars vs React 243k, Linux 218k",
-      "zh-CN": "OpenClaw 4 个月 316k star：超越 React 与 Linux 的增长现象"
-    },
-    "summary": {
-      "en-US": "OpenClaw增长现象，AI工具的病毒式传播",
-      "zh-CN": "OpenClaw 的病毒式增长现象——AI 工具正在改写开源项目的成长曲线"
-    },
-    "relevance": "OpenClaw增长现象，AI工具的病毒式传播",
-    "score": 0.85,
-    "engagement": {
-      "likes": 50,
-      "replies": 6,
-      "retweets": 2
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-17T11:12:21.582423+00:00",
-    "js_take": {
-      "en-US": "316k stars in 4 months. Ask maintainers: how many are from users shipping production code vs FOMO bookmarking? Real growth doesn't need to flex on Linux.",
-      "zh-CN": "4 个月 31.6k star。想问问维护者：这里面有多少是真在生产环境跑代码的用户贡献的，又有多少只是怕错过的收藏党？真正的增长，不需要拿 Linux 当参照物来秀肌肉。"
     }
   }
 ]

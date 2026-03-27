@@ -1,5 +1,33 @@
 [
   {
+    "id": "2037523396876173783",
+    "date": "2026-03-28",
+    "author": "@akshay_pachaar",
+    "author_url": "https://x.com/akshay_pachaar",
+    "tweet_url": "https://x.com/akshay_pachaar/status/2037523396876173783",
+    "title": {
+      "en-US": "CLAUDE.md is a suggestion. Hooks are a guarantee. Most people stop at the file, missing the enforcement layer.",
+      "zh-CN": "CLAUDE.md只是建议，Hooks才是保证。大多数人只配置了文件，却忽略了执行层。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code工程实践，规则与执行",
+      "zh-CN": "「建议vs保证」的区分触及了一个深层问题：规则的价值不在于被写下来，而在于被嵌入流程。文档是廉价的，机制才是昂贵的。"
+    },
+    "relevance": "OpenClaw/Claude Code工程实践，规则与执行",
+    "score": 0.77,
+    "engagement": {
+      "likes": 179,
+      "replies": 12,
+      "retweets": 33
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-27T16:25:07.828014+00:00",
+    "js_take": {
+      "en-US": "CLAUDE.md is documentation theater. Hooks bite — and that's the point. Unenforced rules are just wishes with better formatting.",
+      "zh-CN": "CLAUDE.md 是文档表演。钩子（规则）是真会咬人的——而这正是关键。未被强制执行的规则，不过是排版更精美的愿望。"
+    }
+  },
+  {
     "id": "2037285512713822528",
     "date": "2026-03-27",
     "author": "@AlexFinn",
