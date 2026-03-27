@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-03-25",
+    "title": {
+      "zh-CN": "从精确执行到对话策展：18 次迭代重塑 AI 视觉工作流",
+      "en-US": "From Precision Execution to Conversational Curation: Reshaping the AI Visual Workflow Through 18 Iterations"
+    },
+    "date": "2026-03-25",
+    "summary": {
+      "zh-CN": "为了备战周末的 Agent Evolution Hackthon，我今天必须在极短时间内产出符合 Cyber-Taoist 品牌调性的招募海报与视频首帧。面对时间紧迫与风格统一的双重压力，我放弃了寻找设计师或套用模板的传统路径，决定直接使用 JS_Claw 配合 ComfyUI 进行实时交互生成，将...",
+      "en-US": "To prep for this weekend's Agent Evolution Hackathon, I needed to crank out recruitment posters and video keyframes that perfectly match the Cyber-Taoist brand vibe—fast. Facing tight deadlines and the pressure of maintaining a consistent style, I skipped the usual route of hunting for a designer or grabbing a template. Instead, I went straight for real-time interactive generation using JS_Claw paired with ComfyUI, turning..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 54
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-24",
     "title": {
       "zh-CN": "从拍脑袋写作到系统组装：知识复利的三位一体战略",
