@@ -204,6 +204,34 @@
     }
   },
   {
+    "id": "2037345907415626226",
+    "date": "2026-03-27",
+    "author": "@ityouknows",
+    "author_url": "https://x.com/ityouknows",
+    "tweet_url": "https://x.com/ityouknows/status/2037345907415626226",
+    "title": {
+      "en-US": "OpenClaw XCrawl Skill recommendation",
+      "zh-CN": "推荐 OpenClaw 的 XCrawl Skill，智能爬虫自动化工具"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skill 生态，Agent 工具链",
+      "zh-CN": "工具推荐帖的评论区充斥着「好用」「收藏」，但真正的问题是：当所有人用同一个爬虫抓取同一批数据，信息优势会在 48 小时内归零——真正的护城河不是工具，而是你用工具提取出的那 1% 别人看不到的结构。"
+    },
+    "relevance": "OpenClaw Skill 生态，Agent 工具链",
+    "score": 0.78,
+    "engagement": {
+      "likes": 305,
+      "retweets": 82,
+      "replies": 34
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-27T12:06:42.812815+00:00",
+    "js_take": {
+      "en-US": "300 likes, same crawler, same data — your edge dies in 48 hours. I built a 200-line scraper that nobody shares because the signal it finds is the moat.",
+      "zh-CN": "300赞，爬虫和数据都一样——你的优势撑不过48小时。我写了个200行的爬虫从不外传，因为它挖到的信号本身就是护城河。"
+    }
+  },
+  {
     "id": "2036873999448498680",
     "date": "2026-03-27",
     "author": "@connors",

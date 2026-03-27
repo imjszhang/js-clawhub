@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-27T11:13:49.274356+00:00",
+  "updated_at": "2026-03-27T12:06:59.810387+00:00",
   "this_week": {
-    "total_items": 93,
+    "total_items": 94,
     "avg_score": 0.77,
-    "unique_authors": 78,
+    "unique_authors": 79,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -919,6 +919,34 @@
         }
       },
       {
+        "id": "2037345907415626226",
+        "date": "2026-03-27",
+        "author": "@ityouknows",
+        "author_url": "https://x.com/ityouknows",
+        "tweet_url": "https://x.com/ityouknows/status/2037345907415626226",
+        "title": {
+          "en-US": "OpenClaw XCrawl Skill recommendation",
+          "zh-CN": "推荐 OpenClaw 的 XCrawl Skill，智能爬虫自动化工具"
+        },
+        "summary": {
+          "en-US": "OpenClaw Skill 生态，Agent 工具链",
+          "zh-CN": "工具推荐帖的评论区充斥着「好用」「收藏」，但真正的问题是：当所有人用同一个爬虫抓取同一批数据，信息优势会在 48 小时内归零——真正的护城河不是工具，而是你用工具提取出的那 1% 别人看不到的结构。"
+        },
+        "relevance": "OpenClaw Skill 生态，Agent 工具链",
+        "score": 0.78,
+        "engagement": {
+          "likes": 305,
+          "retweets": 82,
+          "replies": 34
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-03-27T12:06:42.812815+00:00",
+        "js_take": {
+          "en-US": "300 likes, same crawler, same data — your edge dies in 48 hours. I built a 200-line scraper that nobody shares because the signal it finds is the moat.",
+          "zh-CN": "300赞，爬虫和数据都一样——你的优势撑不过48小时。我写了个200行的爬虫从不外传，因为它挖到的信号本身就是护城河。"
+        }
+      },
+      {
         "id": "2036845910437814330",
         "date": "2026-03-26",
         "author": "@InduTripat82427",
@@ -1002,34 +1030,6 @@
         "js_take": {
           "en-US": "Four layers don't stop errors—they buy you time to notice them. AI moves too fast for human correction; the architecture is a speed bump, not a shield.",
           "zh-CN": "四层架构拦不住错误——它只为给你争取发现的时间。AI 发展太快，人类根本来不及修正；这架构只是减速带，而非盾牌。"
-        }
-      },
-      {
-        "id": "2036701364034641959",
-        "date": "2026-03-25",
-        "author": "@ClaudeCodeLog",
-        "author_url": "https://x.com/ClaudeCodeLog",
-        "tweet_url": "https://x.com/ClaudeCodeLog/status/2036701364034641959",
-        "title": {
-          "en-US": "Claude Code 2.1.83 release with managed settings",
-          "zh-CN": "Claude Code 2.1.83 版本发布，支持团队通过 managed-settings.d 目录分离部署策略片段"
-        },
-        "summary": {
-          "en-US": "OpenClaw/Claude Code 生态，Agent 工程实践",
-          "zh-CN": "工具越智能，'什么时候不干预'的判断力越稀缺——30 个自动设置不会杀死团队，但 30 个未经审视的默认配置会。"
-        },
-        "relevance": "OpenClaw/Claude Code 生态，Agent 工程实践",
-        "score": 0.78,
-        "engagement": {
-          "likes": 571,
-          "replies": 27,
-          "retweets": 28
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-25T15:14:22.831687+00:00",
-        "js_take": {
-          "en-US": "Managed settings are a trap dressed as convenience. The real risk isn't bad code merging—it's forgetting what your system looks like when it's not wearing autopilot.",
-          "zh-CN": "托管配置是个披着便利外衣的陷阱。真正的风险不是代码合并出错——而是你已经忘了，系统不依赖自动驾驶时本该是什么样子。"
         }
       }
     ]

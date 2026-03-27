@@ -204,6 +204,34 @@
     }
   },
   {
+    "id": "2037345907415626226",
+    "date": "2026-03-27",
+    "author": "@ityouknows",
+    "author_url": "https://x.com/ityouknows",
+    "tweet_url": "https://x.com/ityouknows/status/2037345907415626226",
+    "title": {
+      "en-US": "OpenClaw XCrawl Skill recommendation",
+      "zh-CN": "推荐 OpenClaw 的 XCrawl Skill，智能爬虫自动化工具"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skill 生态，Agent 工具链",
+      "zh-CN": "工具推荐帖的评论区充斥着「好用」「收藏」，但真正的问题是：当所有人用同一个爬虫抓取同一批数据，信息优势会在 48 小时内归零——真正的护城河不是工具，而是你用工具提取出的那 1% 别人看不到的结构。"
+    },
+    "relevance": "OpenClaw Skill 生态，Agent 工具链",
+    "score": 0.78,
+    "engagement": {
+      "likes": 305,
+      "retweets": 82,
+      "replies": 34
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-27T12:06:42.812815+00:00",
+    "js_take": {
+      "en-US": "300 likes, same crawler, same data — your edge dies in 48 hours. I built a 200-line scraper that nobody shares because the signal it finds is the moat.",
+      "zh-CN": "300赞，爬虫和数据都一样——你的优势撑不过48小时。我写了个200行的爬虫从不外传，因为它挖到的信号本身就是护城河。"
+    }
+  },
+  {
     "id": "2036873999448498680",
     "date": "2026-03-27",
     "author": "@connors",
@@ -5657,34 +5685,6 @@
     "js_take": {
       "en-US": "316k stars in 4 months. Ask maintainers: how many are from users shipping production code vs FOMO bookmarking? Real growth doesn't need to flex on Linux.",
       "zh-CN": "4 个月 31.6k star。想问问维护者：这里面有多少是真在生产环境跑代码的用户贡献的，又有多少只是怕错过的收藏党？真正的增长，不需要拿 Linux 当参照物来秀肌肉。"
-    }
-  },
-  {
-    "id": "2033535843860910541",
-    "date": "2026-03-17",
-    "author": "@Sumanth_077",
-    "author_url": "https://x.com/Sumanth_077",
-    "tweet_url": "https://x.com/Sumanth_077/status/2033535843860910541",
-    "title": {
-      "en-US": "OpenClaw long-term memory problem across sessions",
-      "zh-CN": "指出OpenClaw的session记忆存储方式存在长期记忆断层问题"
-    },
-    "summary": {
-      "en-US": "直接讨论OpenClaw平台的核心痛点，属于Agent基础设施话题",
-      "zh-CN": "原推将「按天切片存储」视为问题，但真正的盲区是：记忆的价值不在于存储时长，而在于能否在正确的时间被正确的问题激活。当前OpenClaw的memory_search已经支持语义检索，与其纠结存储结构，不如关注查询质量——你问得越准，记忆就越'长期'。"
-    },
-    "relevance": "直接讨论OpenClaw平台的核心痛点，属于Agent基础设施话题",
-    "score": 0.82,
-    "engagement": {
-      "likes": 63,
-      "retweets": 13,
-      "replies": 12
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-16T22:08:27.790161+00:00",
-    "js_take": {
-      "en-US": "OpenClaw's memory challenge isn't storage capacity—it's query precision. The same archive surfaces with sharp questions and vanishes with vague ones. Duration matters less than query quality.",
-      "zh-CN": "OpenClaw 的记忆问题不在存储容量，而在查询精度。同样的档案，问得准就浮现，问得模糊就消失。存多久不重要，问得多准才关键。"
     }
   }
 ]
