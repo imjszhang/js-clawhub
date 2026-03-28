@@ -169,6 +169,36 @@
     }
   },
   {
+    "id": "2037137373994307903",
+    "date": "2026-03-28",
+    "author": "@wanerfu",
+    "author_url": "https://x.com/wanerfu",
+    "tweet_url": "https://x.com/wanerfu/status/2037137373994307903",
+    "title": {
+      "en-US": "AI short drama production pipeline in 2 hours with OpenClaw Skill",
+      "zh-CN": "使用OpenClaw Skill，一人2小时可产出50集短剧，从剧本到成片全自动，角色场景可复用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、AI内容生产、短剧工业化",
+      "zh-CN": "当产能不再是瓶颈，注意力反而成了更稀缺的资源——50集短剧2小时产出意味着市场上将出现海量内容，但人类观众的时间并没有指数级增长。"
+    },
+    "relevance": "OpenClaw生态、AI内容生产、短剧工业化",
+    "score": 0.71,
+    "engagement": {
+      "likes": 2437,
+      "retweets": 623,
+      "replies": 111,
+      "views": 276018,
+      "bookmarks": 2798
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-28T11:07:12.518467+00:00",
+    "js_take": {
+      "en-US": "2 hours for 50 episodes means the battle moved from 'can we make it' to 'will they stay past second 3.' Speed isn't the moat—the hook is, and hooks still need humans.",
+      "zh-CN": "2小时产出50集，意味着竞争焦点已从'能不能做出来'转向'观众能不能撑过前3秒'。速度并非护城河——钩子才是，而钩子仍需要人来打磨。"
+    }
+  },
+  {
     "id": "2037285512713822528",
     "date": "2026-03-27",
     "author": "@AlexFinn",
@@ -5652,34 +5682,6 @@
     "js_take": {
       "en-US": "Dumping everything at once isn't generosity—it's fog. Progressive disclosure isn't a UX trick; it's proof you know what matters.",
       "zh-CN": "一次性倒出来不是慷慨，是迷雾。渐进式披露不是UX技巧，是你知道什么才重要的证明。"
-    }
-  },
-  {
-    "id": "2034159667757387998",
-    "date": "2026-03-18",
-    "author": "@FinanceYF5",
-    "author_url": "https://x.com/FinanceYF5",
-    "tweet_url": "https://x.com/FinanceYF5/status/2034159667757387998",
-    "title": {
-      "en-US": "Met OpenClaw founder Peter at NVIDIA GTC, 20min conversation highlights",
-      "zh-CN": "在 NVIDIA GTC 遇到 OpenClaw 创始人 Peter，聊了20分钟记录了几个印象深刻的细节"
-    },
-    "summary": {
-      "en-US": "OpenClaw 创始人动态——NVIDIA GTC 站台，生态影响力",
-      "zh-CN": "推文暗示 OpenClaw 创始人被英伟达认可，但更值得追问的是：为什么一个独立开发者能定义「AI Agent 该有的样子」，而 Claude、Meta、OpenAI 都在跟？"
-    },
-    "relevance": "OpenClaw 创始人动态——NVIDIA GTC 站台，生态影响力",
-    "score": 0.71,
-    "engagement": {
-      "likes": 22,
-      "replies": 5,
-      "retweets": 4
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-18T10:12:15.333199+00:00",
-    "js_take": {
-      "en-US": "OpenClaw wasn't 'chosen' by NVIDIA—it proved the agent layer doesn't need big tech to exist. The 势 isn't in compute anymore. It's in decentralized agency.",
-      "zh-CN": "OpenClaw不是被NVIDIA'选中'的——它证明了代理层不需要大厂也能存在。势不在算力了，在去中心化的代理能力。"
     }
   }
 ]

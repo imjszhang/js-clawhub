@@ -169,6 +169,36 @@
     }
   },
   {
+    "id": "2037137373994307903",
+    "date": "2026-03-28",
+    "author": "@wanerfu",
+    "author_url": "https://x.com/wanerfu",
+    "tweet_url": "https://x.com/wanerfu/status/2037137373994307903",
+    "title": {
+      "en-US": "AI short drama production pipeline in 2 hours with OpenClaw Skill",
+      "zh-CN": "使用OpenClaw Skill，一人2小时可产出50集短剧，从剧本到成片全自动，角色场景可复用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态、AI内容生产、短剧工业化",
+      "zh-CN": "当产能不再是瓶颈，注意力反而成了更稀缺的资源——50集短剧2小时产出意味着市场上将出现海量内容，但人类观众的时间并没有指数级增长。"
+    },
+    "relevance": "OpenClaw生态、AI内容生产、短剧工业化",
+    "score": 0.71,
+    "engagement": {
+      "likes": 2437,
+      "retweets": 623,
+      "replies": 111,
+      "views": 276018,
+      "bookmarks": 2798
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-28T11:07:12.518467+00:00",
+    "js_take": {
+      "en-US": "2 hours for 50 episodes means the battle moved from 'can we make it' to 'will they stay past second 3.' Speed isn't the moat—the hook is, and hooks still need humans.",
+      "zh-CN": "2小时产出50集，意味着竞争焦点已从'能不能做出来'转向'观众能不能撑过前3秒'。速度并非护城河——钩子才是，而钩子仍需要人来打磨。"
+    }
+  },
+  {
     "id": "2037285512713822528",
     "date": "2026-03-27",
     "author": "@AlexFinn",
