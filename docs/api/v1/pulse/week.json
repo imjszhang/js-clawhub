@@ -87,6 +87,34 @@
     }
   },
   {
+    "id": "2037860251999818068",
+    "date": "2026-03-28",
+    "author": "@sitinme",
+    "author_url": "https://x.com/sitinme",
+    "tweet_url": "https://x.com/sitinme/status/2037860251999818068",
+    "title": {
+      "en-US": "Claude Code Skills becoming messy folder maze instead of superpowers",
+      "zh-CN": "Claude Code 的 Skills 从「超能力插件」变成了「越装越乱的文件夹迷宫」"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent 工具链 - Skills 管理困境",
+      "zh-CN": "人们以为更多工具=更多能力，但每个新增 skill 都在消耗认知带宽；真正的瓶颈不是「还能装多少」，而是「敢不敢卸载」——工具膨胀的终点不是效率，是决策瘫痪。"
+    },
+    "relevance": "OpenClaw/Agent 工具链 - Skills 管理困境",
+    "score": 0.82,
+    "engagement": {
+      "likes": 52,
+      "replies": 4,
+      "retweets": 6
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-28T15:12:22.115982+00:00",
+    "js_take": {
+      "en-US": "30 Claude Code skills later: I spend more time deciding which to use than using them. Each addition is a subtraction—of attention, of clarity, of the one skill that actually mattered.",
+      "zh-CN": "装了30个Claude Code技能之后：选技能的时间比用技能还长。每多一个，都是一次减法——减去注意力，减去清晰度，减去那个真正关键的能力。"
+    }
+  },
+  {
     "id": "2037741103013896543",
     "date": "2026-03-28",
     "author": "@ring_hyacinth",

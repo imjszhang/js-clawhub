@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-28T14:08:05.223285+00:00",
+  "updated_at": "2026-03-28T15:12:48.596462+00:00",
   "this_week": {
-    "total_items": 104,
+    "total_items": 105,
     "avg_score": 0.77,
-    "unique_authors": 88,
+    "unique_authors": 89,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -263,6 +263,34 @@
         "js_take": {
           "en-US": "Skeptics confuse autonomy with automation. You set expectations and boundaries, then step back—this isn't magic, it's engineering wisdom most would rather micromanage than trust.",
           "zh-CN": "怀疑者把「自主」和「自动化」混为一谈。你设定好预期和边界，然后退后——这不是什么魔法，而是工程智慧。大多数人宁愿事事插手，也不愿真正信任。"
+        }
+      },
+      {
+        "id": "2037860251999818068",
+        "date": "2026-03-28",
+        "author": "@sitinme",
+        "author_url": "https://x.com/sitinme",
+        "tweet_url": "https://x.com/sitinme/status/2037860251999818068",
+        "title": {
+          "en-US": "Claude Code Skills becoming messy folder maze instead of superpowers",
+          "zh-CN": "Claude Code 的 Skills 从「超能力插件」变成了「越装越乱的文件夹迷宫」"
+        },
+        "summary": {
+          "en-US": "OpenClaw/Agent 工具链 - Skills 管理困境",
+          "zh-CN": "人们以为更多工具=更多能力，但每个新增 skill 都在消耗认知带宽；真正的瓶颈不是「还能装多少」，而是「敢不敢卸载」——工具膨胀的终点不是效率，是决策瘫痪。"
+        },
+        "relevance": "OpenClaw/Agent 工具链 - Skills 管理困境",
+        "score": 0.82,
+        "engagement": {
+          "likes": 52,
+          "replies": 4,
+          "retweets": 6
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-28T15:12:22.115982+00:00",
+        "js_take": {
+          "en-US": "30 Claude Code skills later: I spend more time deciding which to use than using them. Each addition is a subtraction—of attention, of clarity, of the one skill that actually mattered.",
+          "zh-CN": "装了30个Claude Code技能之后：选技能的时间比用技能还长。每多一个，都是一次减法——减去注意力，减去清晰度，减去那个真正关键的能力。"
         }
       },
       {
@@ -1001,34 +1029,6 @@
         "js_take": {
           "en-US": "Adding OpenAI compatibility isn't following—it's reading the field. API standards are settled facts; smart players differentiate on top of inevitability, not against it.",
           "zh-CN": "兼容 OpenAI 不是跟风，而是读懂了局势。API 标准已成定局；聪明的玩家在必然之上做差异化，而非逆势硬扛。"
-        }
-      },
-      {
-        "id": "2037211400326578636",
-        "date": "2026-03-27",
-        "author": "@icanvardar",
-        "author_url": "https://x.com/icanvardar",
-        "tweet_url": "https://x.com/icanvardar/status/2037211400326578636",
-        "title": {
-          "en-US": "still don't know anyone using openclaw. and still haven't found a single meaningful use case for it",
-          "zh-CN": "作者表示不认识任何人在用OpenClaw，也没找到任何有意义的用例"
-        },
-        "summary": {
-          "en-US": "直接讨论OpenClaw的价值与用例，是JS作为OpenClaw生态参与者的主场话题",
-          "zh-CN": "当一种工具「找不到用例」时，真正的问题可能是使用者还在用旧地图找新大陆——OpenClaw的用例不在它能做什么，而在它让你不必做什么。这是更深度视角：工具的价值常被其消除的摩擦所遮蔽。"
-        },
-        "relevance": "直接讨论OpenClaw的价值与用例，是JS作为OpenClaw生态参与者的主场话题",
-        "score": 0.78,
-        "engagement": {
-          "likes": 137,
-          "replies": 49,
-          "retweets": 4
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-26T23:13:10.549535+00:00",
-        "js_take": {
-          "en-US": "Looking for OpenClaw \"use cases\" is like asking for electricity recipes in 1880. The real question isn't what it does—it's which of your daily micro-decisions are worth delegating to silent execution.",
-          "zh-CN": "寻找 OpenClaw 的\"用例\"，就像在1880年索要\"电力食谱\"。真正的问题不是它能做什么——而是你日常中哪些微决策，值得托付给静默的执行。"
         }
       }
     ]
