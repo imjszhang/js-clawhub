@@ -57,6 +57,34 @@
     }
   },
   {
+    "id": "2037966800080744698",
+    "date": "2026-03-29",
+    "author": "@rohanpaul_ai",
+    "author_url": "https://x.com/rohanpaul_ai",
+    "tweet_url": "https://x.com/rohanpaul_ai/status/2037966800080744698",
+    "title": {
+      "en-US": "Clawdbot identified Opus file, converted via FFmpeg, searched OpenAI key to transcribe",
+      "zh-CN": "Clawdbot 演示：无音频支持情况下识别 Opus 文件，用 FFmpeg 本地转换，再找 OpenAI key 转录"
+    },
+    "summary": {
+      "en-US": "OpenClaw — agent 自主工具链调用",
+      "zh-CN": "更形象：这条演示的精髓不是'技术多厉害'，而是 agent 在没有预设路径时的'野生智慧'——它不等待人类给它音频支持，而是自己找工具链拼出一条路。这是 agent 和 automation 的根本区别。"
+    },
+    "relevance": "OpenClaw — agent 自主工具链调用",
+    "score": 0.71,
+    "engagement": {
+      "likes": 38,
+      "replies": 3,
+      "retweets": 2
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-28T20:06:43.743959+00:00",
+    "js_take": {
+      "en-US": "Automation waits for the API. Agent scavenges. Clawdbot didn't need \"audio support\" — it built a bridge from FFmpeg to OpenAI because the goal mattered more than the spec.",
+      "zh-CN": "自动化坐等 API，智能体自力更生。Clawdbot 不依赖「官方音频支持」——它从 FFmpeg 到 OpenAI 自建通路。完成目标，胜过遵循规范。"
+    }
+  },
+  {
     "id": "2037753015109910750",
     "date": "2026-03-28",
     "author": "@li9292",
@@ -5658,34 +5686,6 @@
     "js_take": {
       "en-US": "One command, one strategic pivot: Feishu is becoming infrastructure, not features. When installation friction hits zero, OpenClaw stops being a dev toy and starts being enterprise backbone — that's the real inflection point.",
       "zh-CN": "一条命令，一次战略转向：飞书正在成为基础设施，而非功能堆砌。当安装摩擦趋近于零，OpenClaw就从开发玩具蜕变为企业骨干——这才是真正的拐点。"
-    }
-  },
-  {
-    "id": "2034134875234832540",
-    "date": "2026-03-18",
-    "author": "@nickbaumann_",
-    "author_url": "https://x.com/nickbaumann_",
-    "tweet_url": "https://x.com/nickbaumann_/status/2034134875234832540",
-    "title": {
-      "en-US": "GPT-5.4 mini enables fast subagents to explore repos while parent thread holds architecture",
-      "zh-CN": "GPT-5.4 mini 让子 Agent 快速探索代码库，父线程专注架构和叙事，解决注意力分配问题"
-    },
-    "summary": {
-      "en-US": "子 Agent 架构设计——与 OpenClaw subagent 机制直接相关",
-      "zh-CN": "推文的「父线程保架构、子线程干脏活」是一种效率优化思维，但真正的洞察是：注意力分配本身就是架构设计的第一性原则，不是优化项。"
-    },
-    "relevance": "子 Agent 架构设计——与 OpenClaw subagent 机制直接相关",
-    "score": 0.82,
-    "engagement": {
-      "likes": 191,
-      "replies": 12,
-      "retweets": 14
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-18T10:12:15.333187+00:00",
-    "js_take": {
-      "en-US": "You optimized for speed, but the real unlock is attention architecture. The parent thread shouldn't just 'hold state'—it should define boundaries. That's the real watershed for agentic systems.",
-      "zh-CN": "你优化了速度，但真正的突破在于注意力架构。父线程不应只是'保持状态'——它应该定义边界。这才是代理系统的分水岭。"
     }
   }
 ]
