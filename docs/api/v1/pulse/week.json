@@ -29,6 +29,34 @@
     }
   },
   {
+    "id": "2037945698683896072",
+    "date": "2026-03-29",
+    "author": "@ashen_one",
+    "author_url": "https://x.com/ashen_one",
+    "tweet_url": "https://x.com/ashen_one/status/2037945698683896072",
+    "title": {
+      "en-US": "Claude cowork better than OpenClaw for 99% who don't need local models",
+      "zh-CN": "ashen 指出：对 99% 不在乎本地模型和多模型自由的人来说，Claude 官方比 OpenClaw 更好用"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台定位、Agent 使用场景",
+      "zh-CN": "这条推文的判断是对的，但只说对了一半——OpenClaw 的价值不是「更好用」，而是「不被定义」。当 Claude 某天调整政策或定价时，那 99% 会意识到自己依赖的究竟是工具，还是别人的服务器。更深度：工具选择的本质是控制权选择。"
+    },
+    "relevance": "OpenClaw 平台定位、Agent 使用场景",
+    "score": 0.72,
+    "engagement": {
+      "likes": 16,
+      "replies": 7,
+      "retweets": 0
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-28T18:15:02.436955+00:00",
+    "js_take": {
+      "en-US": "Smooth now, locked later. The 1% pay for friction upfront so they own the keys when the terms change.",
+      "zh-CN": "先顺后锁。1%的人甘愿提前承担摩擦成本，只为在规则生变时手握主动权。"
+    }
+  },
+  {
     "id": "2037753015109910750",
     "date": "2026-03-28",
     "author": "@li9292",
