@@ -57,6 +57,34 @@
     }
   },
   {
+    "id": "2037741103013896543",
+    "date": "2026-03-28",
+    "author": "@ring_hyacinth",
+    "author_url": "https://x.com/ring_hyacinth",
+    "tweet_url": "https://x.com/ring_hyacinth/status/2037741103013896543",
+    "title": {
+      "en-US": "Feishu open-sourced CLI, agents can now access all features",
+      "zh-CN": "飞书开源 CLI，agent/OpenClaw 可直接调用飞书文档、知识库、多维表格等全部功能"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态扩展，与平台核心使命直接相关",
+      "zh-CN": "工具接口的开放≠生态的繁荣——真正的问题是：当所有人都能调用飞书时，什么能力才不可被复制？（更深度：指出表面便利下的结构性竞争盲区）"
+    },
+    "relevance": "OpenClaw 生态扩展，与平台核心使命直接相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 153,
+      "replies": 7,
+      "retweets": 19
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-28T06:06:33.905904+00:00",
+    "js_take": {
+      "en-US": "Open APIs commoditize fast. The real edge isn't access—it's the context that won't fit in any prompt window.",
+      "zh-CN": "开放API正迅速同质化。真正的竞争优势不在于能否接入，而在于那些无法塞进任何提示词窗口的上下文。"
+    }
+  },
+  {
     "id": "2037523396876173783",
     "date": "2026-03-28",
     "author": "@akshay_pachaar",

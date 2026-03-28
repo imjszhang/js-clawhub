@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-28T05:09:05.633392+00:00",
+  "updated_at": "2026-03-28T06:06:49.671151+00:00",
   "this_week": {
-    "total_items": 99,
+    "total_items": 100,
     "avg_score": 0.77,
-    "unique_authors": 83,
+    "unique_authors": 84,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -888,6 +888,34 @@
         }
       },
       {
+        "id": "2037741103013896543",
+        "date": "2026-03-28",
+        "author": "@ring_hyacinth",
+        "author_url": "https://x.com/ring_hyacinth",
+        "tweet_url": "https://x.com/ring_hyacinth/status/2037741103013896543",
+        "title": {
+          "en-US": "Feishu open-sourced CLI, agents can now access all features",
+          "zh-CN": "飞书开源 CLI，agent/OpenClaw 可直接调用飞书文档、知识库、多维表格等全部功能"
+        },
+        "summary": {
+          "en-US": "OpenClaw 生态扩展，与平台核心使命直接相关",
+          "zh-CN": "工具接口的开放≠生态的繁荣——真正的问题是：当所有人都能调用飞书时，什么能力才不可被复制？（更深度：指出表面便利下的结构性竞争盲区）"
+        },
+        "relevance": "OpenClaw 生态扩展，与平台核心使命直接相关",
+        "score": 0.78,
+        "engagement": {
+          "likes": 153,
+          "replies": 7,
+          "retweets": 19
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-03-28T06:06:33.905904+00:00",
+        "js_take": {
+          "en-US": "Open APIs commoditize fast. The real edge isn't access—it's the context that won't fit in any prompt window.",
+          "zh-CN": "开放API正迅速同质化。真正的竞争优势不在于能否接入，而在于那些无法塞进任何提示词窗口的上下文。"
+        }
+      },
+      {
         "id": "2037194991248761091",
         "date": "2026-03-27",
         "author": "@Atenov_D",
@@ -1001,35 +1029,6 @@
         "js_take": {
           "en-US": "300 likes, same crawler, same data — your edge dies in 48 hours. I built a 200-line scraper that nobody shares because the signal it finds is the moat.",
           "zh-CN": "300赞，爬虫和数据都一样——你的优势撑不过48小时。我写了个200行的爬虫从不外传，因为它挖到的信号本身就是护城河。"
-        }
-      },
-      {
-        "id": "2036845910437814330",
-        "date": "2026-03-26",
-        "author": "@InduTripat82427",
-        "author_url": "https://x.com/InduTripat82427",
-        "tweet_url": "https://x.com/InduTripat82427/status/2036845910437814330",
-        "title": {
-          "en-US": "CLAUDE.md → project memory, skills/ → auto-activated workflows, agents/ → parallel workers...",
-          "zh-CN": "Claude项目结构最佳实践：CLAUDE.md项目记忆、skills自动工作流、agents并行工作者等。"
-        },
-        "summary": {
-          "en-US": "AI工程实践/OpenClaw相关",
-          "zh-CN": "这条推文把「结构化」当成解决方案，但过度结构化的记忆系统会制造路径依赖——文件越多，agent越依赖预定义路径，反而失去对真实变化的感知。"
-        },
-        "relevance": "AI工程实践/OpenClaw相关",
-        "score": 0.78,
-        "engagement": {
-          "likes": 89,
-          "replies": 12,
-          "retweets": 14,
-          "views": 13686
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-26T09:12:31.786251+00:00",
-        "js_take": {
-          "en-US": "Strip the labels—CLAUDE.md's value isn't the file, it's the forced clarity of deciding what actually matters. 30 skill files won't fix a fuzzy decision.",
-          "zh-CN": "撕掉标签——CLAUDE.md 的价值不在文件本身，而在于被迫厘清什么才是真正重要的。30个技能文件救不了模糊的决策。"
         }
       }
     ]
