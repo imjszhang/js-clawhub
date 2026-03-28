@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-28T15:12:48.596462+00:00",
+  "updated_at": "2026-03-28T17:13:15.214938+00:00",
   "this_week": {
-    "total_items": 105,
+    "total_items": 106,
     "avg_score": 0.77,
     "unique_authors": 89,
     "top_items": [
@@ -263,6 +263,35 @@
         "js_take": {
           "en-US": "Skeptics confuse autonomy with automation. You set expectations and boundaries, then step back—this isn't magic, it's engineering wisdom most would rather micromanage than trust.",
           "zh-CN": "怀疑者把「自主」和「自动化」混为一谈。你设定好预期和边界，然后退后——这不是什么魔法，而是工程智慧。大多数人宁愿事事插手，也不愿真正信任。"
+        }
+      },
+      {
+        "id": "2037934648198594908",
+        "date": "2026-03-29",
+        "author": "@thdxr",
+        "author_url": "https://x.com/thdxr",
+        "tweet_url": "https://x.com/thdxr/status/2037934648198594908",
+        "title": {
+          "en-US": "Skills overhyped, most users never installed one. Restraint > building.",
+          "zh-CN": "技能（skills）被过度炒作了——大量工具和标准涌现，但绝大多数用户从未安装过任何技能。作者呼吁冷静：克制比建造更重要。"
+        },
+        "summary": {
+          "en-US": "Agent 技能生态的冷静反思——与 OpenClaw 技能体系直接相关",
+          "zh-CN": "做纠正：把「技能越多越好」的假设翻转为「没人用的技能=噪音」，指出生态建设者的盲区——以为工具能解决一切，却忘了用户的真实行为模式。"
+        },
+        "relevance": "Agent 技能生态的冷静反思——与 OpenClaw 技能体系直接相关",
+        "score": 0.82,
+        "engagement": {
+          "likes": 122,
+          "replies": 29,
+          "retweets": 6,
+          "views": 2886
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-28T17:12:58.649908+00:00",
+        "js_take": {
+          "en-US": "You built 47 skills. Users installed 3. The gap isn't ambition—it's the fantasy that more tools equals more value. Real restraint is admitting most walls don't need ladders.",
+          "zh-CN": "你造了47个技能，用户装了3个。问题不是野心不够，而是「工具越多价值越大」的幻觉。真正的克制，是承认大多数墙本就不需要梯子。"
         }
       },
       {
@@ -1000,41 +1029,11 @@
           "en-US": "You pile nine tools to solve one problem. The coverage you aggressively optimized for is exactly the judgment you replaced with noise.",
           "zh-CN": "你用九个工具堆栈解决一个问题。你拼命优化的覆盖率，恰恰是用噪音取代了你的判断力。"
         }
-      },
-      {
-        "id": "2037194991248761091",
-        "date": "2026-03-27",
-        "author": "@Atenov_D",
-        "author_url": "https://x.com/Atenov_D",
-        "tweet_url": "https://x.com/Atenov_D/status/2037194991248761091",
-        "title": {
-          "en-US": "OpenClaw 3.24 update with OpenAI compatibility layer",
-          "zh-CN": "OpenClaw发布3.24更新，加入OpenAI API兼容层"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台进化——顺势而为的生态策略",
-          "zh-CN": "OpenClaw加入OpenAI兼容层不是「跟风」，而是看清了势：API标准一旦形成，对抗不如兼容。这不是技术选择，是生态位判断——在已成事实的标准之上建差异化。"
-        },
-        "relevance": "OpenClaw平台进化——顺势而为的生态策略",
-        "score": 0.78,
-        "engagement": {
-          "likes": 45,
-          "replies": 17,
-          "retweets": 0,
-          "views": 2029,
-          "bookmarks": 24
-        },
-        "comment_type": "shunshi",
-        "synced_at": "2026-03-26T22:14:22.400100+00:00",
-        "js_take": {
-          "en-US": "Adding OpenAI compatibility isn't following—it's reading the field. API standards are settled facts; smart players differentiate on top of inevitability, not against it.",
-          "zh-CN": "兼容 OpenAI 不是跟风，而是读懂了局势。API 标准已成定局；聪明的玩家在必然之上做差异化，而非逆势硬扛。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 161
+    "unique_authors": 160
   }
 }

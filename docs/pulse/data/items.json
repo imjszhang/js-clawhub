@@ -1,5 +1,34 @@
 [
   {
+    "id": "2037934648198594908",
+    "date": "2026-03-29",
+    "author": "@thdxr",
+    "author_url": "https://x.com/thdxr",
+    "tweet_url": "https://x.com/thdxr/status/2037934648198594908",
+    "title": {
+      "en-US": "Skills overhyped, most users never installed one. Restraint > building.",
+      "zh-CN": "技能（skills）被过度炒作了——大量工具和标准涌现，但绝大多数用户从未安装过任何技能。作者呼吁冷静：克制比建造更重要。"
+    },
+    "summary": {
+      "en-US": "Agent 技能生态的冷静反思——与 OpenClaw 技能体系直接相关",
+      "zh-CN": "做纠正：把「技能越多越好」的假设翻转为「没人用的技能=噪音」，指出生态建设者的盲区——以为工具能解决一切，却忘了用户的真实行为模式。"
+    },
+    "relevance": "Agent 技能生态的冷静反思——与 OpenClaw 技能体系直接相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 122,
+      "replies": 29,
+      "retweets": 6,
+      "views": 2886
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-28T17:12:58.649908+00:00",
+    "js_take": {
+      "en-US": "You built 47 skills. Users installed 3. The gap isn't ambition—it's the fantasy that more tools equals more value. Real restraint is admitting most walls don't need ladders.",
+      "zh-CN": "你造了47个技能，用户装了3个。问题不是野心不够，而是「工具越多价值越大」的幻觉。真正的克制，是承认大多数墙本就不需要梯子。"
+    }
+  },
+  {
     "id": "2037753015109910750",
     "date": "2026-03-28",
     "author": "@li9292",
@@ -5658,34 +5687,6 @@
     "js_take": {
       "en-US": "90% feature parity is surface world math. In the inner world, one platform lets your agent talk to other agents — the other doesn't. That's the difference between a tool and infrastructure.",
       "zh-CN": "90%的功能对等只是表世界的账面数据。在里世界，一个平台能让你的 Agent 与其他 Agent 对话——另一个则不能。这就是工具与基础设施的本质区别。"
-    }
-  },
-  {
-    "id": "2034035885529043179",
-    "date": "2026-03-18",
-    "author": "@SinaHartung",
-    "author_url": "https://x.com/SinaHartung",
-    "tweet_url": "https://x.com/SinaHartung/status/2034035885529043179",
-    "title": {
-      "en-US": "Dropshipping people now running companies with OpenClaw",
-      "zh-CN": "所有搞 dropshipping 的人现在都在用 OpenClaw「经营」公司了"
-    },
-    "summary": {
-      "en-US": "OpenClaw 被滥用为 spectacle，工具与本质的错位",
-      "zh-CN": "这句话暗示的讽刺是对的，但搞错了方向——问题不是「谁在用它」，而是「以为换了个工具就完成了转型」。真正的经营不是换更炫的工具，而是建立能持续运转的系统。"
-    },
-    "relevance": "OpenClaw 被滥用为 spectacle，工具与本质的错位",
-    "score": 0.78,
-    "engagement": {
-      "likes": 208,
-      "replies": 26,
-      "retweets": 8
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-18T09:11:21.454434+00:00",
-    "js_take": {
-      "en-US": "Same hustle, shinier tool. The irony isn't that dropshippers found OpenClaw—it's that they think lower barriers mean easier wins. When everyone can start, finishing becomes the real filter.",
-      "zh-CN": "换个趁手工具，干的还是老本行。讽刺的不是dropshipper发现了OpenClaw，而是他们以为门槛低了就能躺赢。当所有人都能起步时，坚持到最后才是真正的筛选。"
     }
   }
 ]
