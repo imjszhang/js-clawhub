@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-27T21:13:22.013776+00:00",
+  "updated_at": "2026-03-28T00:07:55.910133+00:00",
   "this_week": {
-    "total_items": 97,
+    "total_items": 98,
     "avg_score": 0.77,
-    "unique_authors": 82,
+    "unique_authors": 83,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -174,6 +174,35 @@
         "js_take": {
           "en-US": "48 hours, 7 tools. The bottleneck isn't learning speed — it's knowing which one deserves 40 hours. I picked one, ignored the rest.",
           "zh-CN": "48小时，7个工具。真正的瓶颈不是学得多快，而是你能不能判断哪个值得深耕40小时。我选定一个，其余全弃。"
+        }
+      },
+      {
+        "id": "2037620876179537989",
+        "date": "2026-03-28",
+        "author": "@swyx",
+        "author_url": "https://x.com/swyx",
+        "tweet_url": "https://x.com/swyx/status/2037620876179537989",
+        "title": {
+          "en-US": "just learned about create-context-graph - one command and it sets up key entity relationships for 22 top industry domains...",
+          "zh-CN": "create-context-graph 试用：一键生成的关系，换不来真实的信任"
+        },
+        "summary": {
+          "en-US": "AI工程、上下文管理、OpenClaw生态相关",
+          "zh-CN": "AI工程、上下文管理、OpenClaw生态相关"
+        },
+        "relevance": "AI工程、上下文管理、OpenClaw生态相关",
+        "score": 0.85,
+        "engagement": {
+          "likes": 187,
+          "replies": 20,
+          "retweets": 14,
+          "views": 24274
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-28T00:07:38.439710+00:00",
+        "js_take": {
+          "en-US": "Tried a tool that auto-generates 'industry relationship graphs.' The entities were correct. The relationships were generic. Real connections form around specific problems, not industry categories—you can't CLI your way into trust.",
+          "zh-CN": "试用了一个自动生成「行业关系图谱」的工具。实体识别正确，但关系过于泛化。真实的连接围绕具体问题形成，而非行业分类——信任没法靠一行命令刷出来。"
         }
       },
       {
@@ -1001,34 +1030,6 @@
         "js_take": {
           "en-US": "Strip the labels—CLAUDE.md's value isn't the file, it's the forced clarity of deciding what actually matters. 30 skill files won't fix a fuzzy decision.",
           "zh-CN": "撕掉标签——CLAUDE.md 的价值不在文件本身，而在于被迫厘清什么才是真正重要的。30个技能文件救不了模糊的决策。"
-        }
-      },
-      {
-        "id": "2036469505749295395",
-        "date": "2026-03-25",
-        "author": "@GithubProjects",
-        "author_url": "https://x.com/GithubProjects",
-        "tweet_url": "https://x.com/GithubProjects/status/2036469505749295395",
-        "title": {
-          "en-US": "OpenClaw native memory upgrade with ByteRover integration",
-          "zh-CN": "OpenClaw 推出原生内存功能升级，支持跨会话保留上下文，优化 token 使用并集成 ByteRover 内存系统。"
-        },
-        "summary": {
-          "en-US": "OpenClaw 核心功能更新，memory 系统与 agent 连续性",
-          "zh-CN": "内存自动化的悖论：它在保护你的同时也切断你与真实反馈的接触——只在最后 click merge 出现，意味着你失去过程感知。"
-        },
-        "relevance": "OpenClaw 核心功能更新，memory 系统与 agent 连续性",
-        "score": 0.78,
-        "engagement": {
-          "likes": 165,
-          "replies": 7,
-          "retweets": 11
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-25T02:07:44.035786+00:00",
-        "js_take": {
-          "en-US": "Auto-memory delivers the merge without the reasoning. You gain speed, but lose the sense of why things break.",
-          "zh-CN": "自动记忆完成了合并，却没有给出推理过程。你赢得了速度，却丢失了理解问题根源的线索。"
         }
       }
     ]

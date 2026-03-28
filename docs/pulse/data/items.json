@@ -28,6 +28,35 @@
     }
   },
   {
+    "id": "2037620876179537989",
+    "date": "2026-03-28",
+    "author": "@swyx",
+    "author_url": "https://x.com/swyx",
+    "tweet_url": "https://x.com/swyx/status/2037620876179537989",
+    "title": {
+      "en-US": "just learned about create-context-graph - one command and it sets up key entity relationships for 22 top industry domains...",
+      "zh-CN": "create-context-graph 试用：一键生成的关系，换不来真实的信任"
+    },
+    "summary": {
+      "en-US": "AI工程、上下文管理、OpenClaw生态相关",
+      "zh-CN": "AI工程、上下文管理、OpenClaw生态相关"
+    },
+    "relevance": "AI工程、上下文管理、OpenClaw生态相关",
+    "score": 0.85,
+    "engagement": {
+      "likes": 187,
+      "replies": 20,
+      "retweets": 14,
+      "views": 24274
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-28T00:07:38.439710+00:00",
+    "js_take": {
+      "en-US": "Tried a tool that auto-generates 'industry relationship graphs.' The entities were correct. The relationships were generic. Real connections form around specific problems, not industry categories—you can't CLI your way into trust.",
+      "zh-CN": "试用了一个自动生成「行业关系图谱」的工具。实体识别正确，但关系过于泛化。真实的连接围绕具体问题形成，而非行业分类——信任没法靠一行命令刷出来。"
+    }
+  },
+  {
     "id": "2037523396876173783",
     "date": "2026-03-28",
     "author": "@akshay_pachaar",
@@ -5652,36 +5681,6 @@
     "js_take": {
       "en-US": "Linux took 30 years to reshape the stack. OpenClaw did it in weeks. Gap isn't speed—it's timing. When the surface world becomes a database and the inner world becomes the interface, technology spreads on curves we haven't named yet.",
       "zh-CN": "Linux用了30年重塑技术栈，OpenClaw几周就做到了。差距不在速度，而在时机。当表世界退化为数据库、里世界成为新交互界面时，技术将以我们尚未命名的曲线扩散。"
-    }
-  },
-  {
-    "id": "2033835300653568159",
-    "date": "2026-03-17",
-    "author": "@kanavtwt",
-    "author_url": "https://x.com/kanavtwt",
-    "tweet_url": "https://x.com/kanavtwt/status/2033835300653568159",
-    "title": {
-      "en-US": "OpenClaw exceeded what Linux did in 30 years",
-      "zh-CN": "OpenClaw数周走完Linux三十年的路"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态爆发与技术扩散速度，符合JS关注的「表/里世界迁徙」主题",
-      "zh-CN": "OpenClaw生态爆发与技术扩散速度，符合JS关注的「表/里世界迁徙」主题"
-    },
-    "relevance": "OpenClaw生态爆发与技术扩散速度，符合JS关注的「表/里世界迁徙」主题",
-    "score": 0.88,
-    "engagement": {
-      "likes": 1750,
-      "retweets": 77,
-      "replies": 23,
-      "views": 110141,
-      "bookmarks": 178
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-17T12:14:03.622264+00:00",
-    "js_take": {
-      "en-US": "Linux spent 30 years mastering the surface world. OpenClaw claimed the inner world in weeks. Different dimensions, not different speeds.",
-      "zh-CN": "Linux花了30年才征服表世界。OpenClaw数周内就占据了里世界。这是维度的差异，不是速度的差距。"
     }
   }
 ]
