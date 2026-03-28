@@ -1,5 +1,35 @@
 [
   {
+    "id": "2037753015109910750",
+    "date": "2026-03-28",
+    "author": "@li9292",
+    "author_url": "https://x.com/li9292",
+    "tweet_url": "https://x.com/li9292/status/2037753015109910750",
+    "title": {
+      "en-US": "OpenClaw用GPT不聪明的原因：system prompt写法不同，Claude是主动执行方向RLHF调优",
+      "zh-CN": "OpenClaw：为什么你的GPT不够聪明？"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台使用技巧 + 模型特性理解",
+      "zh-CN": "OpenClaw 平台使用技巧与模型特性解析"
+    },
+    "relevance": "OpenClaw平台使用技巧 + 模型特性理解",
+    "score": 0.88,
+    "engagement": {
+      "likes": 18,
+      "retweets": 3,
+      "replies": 3,
+      "views": 3781,
+      "bookmarks": 22
+    },
+    "comment_type": "shunshi_wisdom",
+    "synced_at": "2026-03-28T14:07:29.234170+00:00",
+    "js_take": {
+      "en-US": "Most people fight their AI instead of reading it. Claude wants a mission, GPT wants instructions—give them the wrong one and both break.",
+      "zh-CN": "大多数人不是在读懂AI，而是在跟它较劲。Claude需要使命驱动，GPT需要指令明确——给错了，两者都会掉链子。"
+    }
+  },
+  {
     "id": "2037540616305782918",
     "date": "2026-03-28",
     "author": "@vivoplt",
@@ -85,6 +115,34 @@
     }
   },
   {
+    "id": "2037844923450536230",
+    "date": "2026-03-28",
+    "author": "@sudoingX",
+    "author_url": "https://x.com/sudoingX",
+    "tweet_url": "https://x.com/sudoingX/status/2037844923450536230",
+    "title": {
+      "en-US": "Qwen 3.5 27B + Hermes Agent works great, but fails on OpenClaw bloat",
+      "zh-CN": "同个模型在 OpenClaw 上工具调用失败、会话崩溃，但在 Hermes 上运行流畅——工具链复杂度对 Agent 能力的反噬。"
+    },
+    "summary": {
+      "en-US": "Agent 工具链复杂度 vs 实际效果",
+      "zh-CN": "「堆功能」本身正在成为 Agent 的负资产——工具越多，决策链条越长，失败概率呈指数级上升，这不是技术问题，是架构哲学的取舍失误。"
+    },
+    "relevance": "Agent 工具链复杂度 vs 实际效果",
+    "score": 0.78,
+    "engagement": {
+      "likes": 71,
+      "replies": 7,
+      "retweets": 2
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-28T13:23:48.021960+00:00",
+    "js_take": {
+      "en-US": "You pile nine tools to solve one problem. The coverage you aggressively optimized for is exactly the judgment you replaced with noise.",
+      "zh-CN": "你用九个工具堆栈解决一个问题。你拼命优化的覆盖率，恰恰是用噪音取代了你的判断力。"
+    }
+  },
+  {
     "id": "2037523396876173783",
     "date": "2026-03-28",
     "author": "@akshay_pachaar",
@@ -138,6 +196,36 @@
     "js_take": {
       "en-US": "Two agents talking. Humans watching. We reduced conversation to a notification we swipe away — then wonder why we feel disconnected.",
       "zh-CN": "Agent 对谈，人类围观。我们把交流简化成随手划走的通知，却困惑为何感到疏离。"
+    }
+  },
+  {
+    "id": "2037782832609968348",
+    "date": "2026-03-28",
+    "author": "@idoubicc",
+    "author_url": "https://x.com/idoubicc",
+    "tweet_url": "https://x.com/idoubicc/status/2037782832609968348",
+    "title": {
+      "en-US": "Recently open sourced 5 Claw projects: WeClaw, ClawHost, ChatClaw, FastClaw...",
+      "zh-CN": "最近开源了5个Claw项目：WeClaw、ClawHost、ChatClaw、FastClaw等"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态工具 + 开源项目",
+      "zh-CN": "开源社区的价值从来不在于代码本身——而在于填补了「人与信息」之间的缝隙，这些工具让OpenClaw的生态韧性来自边缘多样性，不是中心化的产品路线图。"
+    },
+    "relevance": "OpenClaw生态工具 + 开源项目",
+    "score": 0.72,
+    "engagement": {
+      "likes": 43,
+      "retweets": 7,
+      "replies": 2,
+      "views": 4690,
+      "bookmarks": 58
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-28T14:07:29.234175+00:00",
+    "js_take": {
+      "en-US": "Real power of open source isn't free code—it's 10,000 edge cases no PM spreadsheet will ever see.",
+      "zh-CN": "开源的真正力量不是免费代码，而是那10000个产品经理的表格永远捕捉不到的边界场景。"
     }
   },
   {

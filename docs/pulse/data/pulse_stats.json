@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-28T11:07:29.794553+00:00",
+  "updated_at": "2026-03-28T14:08:05.223285+00:00",
   "this_week": {
-    "total_items": 101,
+    "total_items": 104,
     "avg_score": 0.77,
-    "unique_authors": 85,
+    "unique_authors": 88,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -88,6 +88,36 @@
         "js_take": {
           "en-US": "iMessage isn't a feature drop. It's a trust migration signal—agents entering your last private fortress. The wave isn't technical, it's relational.",
           "zh-CN": "iMessage 不只是新功能，它是信任迁移的信号——Agent 正在进入你最后的私人堡垒。这波浪潮无关技术，关乎关系。"
+        }
+      },
+      {
+        "id": "2037753015109910750",
+        "date": "2026-03-28",
+        "author": "@li9292",
+        "author_url": "https://x.com/li9292",
+        "tweet_url": "https://x.com/li9292/status/2037753015109910750",
+        "title": {
+          "en-US": "OpenClaw用GPT不聪明的原因：system prompt写法不同，Claude是主动执行方向RLHF调优",
+          "zh-CN": "OpenClaw：为什么你的GPT不够聪明？"
+        },
+        "summary": {
+          "en-US": "OpenClaw平台使用技巧 + 模型特性理解",
+          "zh-CN": "OpenClaw 平台使用技巧与模型特性解析"
+        },
+        "relevance": "OpenClaw平台使用技巧 + 模型特性理解",
+        "score": 0.88,
+        "engagement": {
+          "likes": 18,
+          "retweets": 3,
+          "replies": 3,
+          "views": 3781,
+          "bookmarks": 22
+        },
+        "comment_type": "shunshi_wisdom",
+        "synced_at": "2026-03-28T14:07:29.234170+00:00",
+        "js_take": {
+          "en-US": "Most people fight their AI instead of reading it. Claude wants a mission, GPT wants instructions—give them the wrong one and both break.",
+          "zh-CN": "大多数人不是在读懂AI，而是在跟它较劲。Claude需要使命驱动，GPT需要指令明确——给错了，两者都会掉链子。"
         }
       },
       {
@@ -916,6 +946,34 @@
         }
       },
       {
+        "id": "2037844923450536230",
+        "date": "2026-03-28",
+        "author": "@sudoingX",
+        "author_url": "https://x.com/sudoingX",
+        "tweet_url": "https://x.com/sudoingX/status/2037844923450536230",
+        "title": {
+          "en-US": "Qwen 3.5 27B + Hermes Agent works great, but fails on OpenClaw bloat",
+          "zh-CN": "同个模型在 OpenClaw 上工具调用失败、会话崩溃，但在 Hermes 上运行流畅——工具链复杂度对 Agent 能力的反噬。"
+        },
+        "summary": {
+          "en-US": "Agent 工具链复杂度 vs 实际效果",
+          "zh-CN": "「堆功能」本身正在成为 Agent 的负资产——工具越多，决策链条越长，失败概率呈指数级上升，这不是技术问题，是架构哲学的取舍失误。"
+        },
+        "relevance": "Agent 工具链复杂度 vs 实际效果",
+        "score": 0.78,
+        "engagement": {
+          "likes": 71,
+          "replies": 7,
+          "retweets": 2
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-28T13:23:48.021960+00:00",
+        "js_take": {
+          "en-US": "You pile nine tools to solve one problem. The coverage you aggressively optimized for is exactly the judgment you replaced with noise.",
+          "zh-CN": "你用九个工具堆栈解决一个问题。你拼命优化的覆盖率，恰恰是用噪音取代了你的判断力。"
+        }
+      },
+      {
         "id": "2037194991248761091",
         "date": "2026-03-27",
         "author": "@Atenov_D",
@@ -972,69 +1030,11 @@
           "en-US": "Looking for OpenClaw \"use cases\" is like asking for electricity recipes in 1880. The real question isn't what it does—it's which of your daily micro-decisions are worth delegating to silent execution.",
           "zh-CN": "寻找 OpenClaw 的\"用例\"，就像在1880年索要\"电力食谱\"。真正的问题不是它能做什么——而是你日常中哪些微决策，值得托付给静默的执行。"
         }
-      },
-      {
-        "id": "2037335774786642177",
-        "date": "2026-03-27",
-        "author": "@Scobleizer",
-        "author_url": "https://x.com/Scobleizer",
-        "tweet_url": "https://x.com/Scobleizer/status/2037335774786642177",
-        "title": {
-          "en-US": "Set up OpenClaw cloud instance, secure, curated Skill Hub with one-click install.",
-          "zh-CN": "Robert Scoble 分享在云端部署 OpenClaw 的经验，无需本地 Mac Mini 或 DGX，强调安全性和 Skill Hub 的一键安装能力。"
-        },
-        "summary": {
-          "en-US": "OpenClaw 平台采用与云部署实践",
-          "zh-CN": "「把复杂工具塞进云端一键启动」看似是降低门槛，实则可能切断了用户与系统真实反馈的接触——自动化在保护你的同时也让你失去了感知力。"
-        },
-        "relevance": "OpenClaw 平台采用与云部署实践",
-        "score": 0.78,
-        "engagement": {
-          "likes": 123,
-          "replies": 27,
-          "retweets": 28,
-          "views": 11578,
-          "bookmarks": 107
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-27T08:08:38.525295+00:00",
-        "js_take": {
-          "en-US": "一键部署三个月后，出问题才发现我对底层网络一无所知。你拼命追求的「零摩擦」，恰恰是让你变脆弱的 friction。",
-          "zh-CN": "一键部署三个月后，出问题才发现我对底层网络一无所知。你拼命追求的「零摩擦」，恰恰是让你变脆弱的根源。"
-        }
-      },
-      {
-        "id": "2037345907415626226",
-        "date": "2026-03-27",
-        "author": "@ityouknows",
-        "author_url": "https://x.com/ityouknows",
-        "tweet_url": "https://x.com/ityouknows/status/2037345907415626226",
-        "title": {
-          "en-US": "OpenClaw XCrawl Skill recommendation",
-          "zh-CN": "推荐 OpenClaw 的 XCrawl Skill，智能爬虫自动化工具"
-        },
-        "summary": {
-          "en-US": "OpenClaw Skill 生态，Agent 工具链",
-          "zh-CN": "工具推荐帖的评论区充斥着「好用」「收藏」，但真正的问题是：当所有人用同一个爬虫抓取同一批数据，信息优势会在 48 小时内归零——真正的护城河不是工具，而是你用工具提取出的那 1% 别人看不到的结构。"
-        },
-        "relevance": "OpenClaw Skill 生态，Agent 工具链",
-        "score": 0.78,
-        "engagement": {
-          "likes": 305,
-          "retweets": 82,
-          "replies": 34
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-03-27T12:06:42.812815+00:00",
-        "js_take": {
-          "en-US": "300 likes, same crawler, same data — your edge dies in 48 hours. I built a 200-line scraper that nobody shares because the signal it finds is the moat.",
-          "zh-CN": "300赞，爬虫和数据都一样——你的优势撑不过48小时。我写了个200行的爬虫从不外传，因为它挖到的信号本身就是护城河。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 160
+    "unique_authors": 161
   }
 }
