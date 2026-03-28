@@ -113,6 +113,34 @@
     }
   },
   {
+    "id": "2037745243672416327",
+    "date": "2026-03-28",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2037745243672416327",
+    "title": {
+      "en-US": "OpenClaw Nerve dashboard: kanban, voice mode, sub agent control, live memory editing",
+      "zh-CN": "OpenClaw推出免费任务控制中心Nerve，支持看板、语音模式、子代理控制和实时内存编辑"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台 + Agent工具",
+      "zh-CN": "产品功能堆砌的陷阱：当dashboard能做的事越来越多，你花在「管理Agent」上的时间就越来越长。Agent的终极价值是让你少做事，而不是给你一个新玩具来频繁调参。"
+    },
+    "relevance": "OpenClaw平台 + Agent工具",
+    "score": 0.71,
+    "engagement": {
+      "likes": 49,
+      "retweets": 5,
+      "replies": 12
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-28T05:08:48.826710+00:00",
+    "js_take": {
+      "en-US": "More dashboards, more micromanagement, less real autonomy. A good agent earns trust by disappearing—if you're still tuning knobs, you built a remote control.",
+      "zh-CN": "仪表盘越多，管控越细，真正的自主性反而越少。优秀的智能体靠「隐形」赢得信任——如果你还在不停调参，那你做的只是个遥控器。"
+    }
+  },
+  {
     "id": "2037285512713822528",
     "date": "2026-03-27",
     "author": "@AlexFinn",
