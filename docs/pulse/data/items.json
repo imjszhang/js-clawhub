@@ -1,5 +1,35 @@
 [
   {
+    "id": "2037972563981164736",
+    "date": "2026-03-29",
+    "author": "@dramaricic",
+    "author_url": "https://x.com/dramaricic",
+    "tweet_url": "https://x.com/dramaricic/status/2037972563981164736",
+    "title": {
+      "en-US": "I'm solo founder with 3 employees. Claude, Codex, OpenClaw.",
+      "zh-CN": "我是一个solo创始人，有3个员工：Claude、Codex、OpenClaw。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + AI Agent作为员工的实践",
+      "zh-CN": "这条推文在玩笑式地宣布一个结构性转变：组织的边界正在溶解。但这里有个被忽略的陷阱——当你把3个agent当作员工，你其实在用管理人的方式管理工具。真正的范式转移不是'agent替代员工'，而是'重新定义什么该由人做、什么该由机器做'。推文的幽默背后，藏着对组织形态变革的误判。"
+    },
+    "relevance": "OpenClaw生态 + AI Agent作为员工的实践",
+    "score": 0.84,
+    "engagement": {
+      "likes": 152,
+      "replies": 45,
+      "retweets": 9,
+      "bookmarks": 15,
+      "views": 3441
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-29T05:13:30.596595+00:00",
+    "js_take": {
+      "en-US": "Managing agents like employees is old maps on new terrain. The shift isn't who executes — it's who decides what's worth executing.",
+      "zh-CN": "把Agent当员工管，是旧地图走新路。关键不在谁来执行，而在谁来决定什么值得执行。"
+    }
+  },
+  {
     "id": "2037934648198594908",
     "date": "2026-03-29",
     "author": "@thdxr",
@@ -26,6 +56,66 @@
     "js_take": {
       "en-US": "You built 47 skills. Users installed 3. The gap isn't ambition—it's the fantasy that more tools equals more value. Real restraint is admitting most walls don't need ladders.",
       "zh-CN": "你造了47个技能，用户装了3个。问题不是野心不够，而是「工具越多价值越大」的幻觉。真正的克制，是承认大多数墙本就不需要梯子。"
+    }
+  },
+  {
+    "id": "2038067657354903628",
+    "date": "2026-03-29",
+    "author": "@ShenHuang_",
+    "author_url": "https://x.com/ShenHuang_",
+    "tweet_url": "https://x.com/ShenHuang_/status/2038067657354903628",
+    "title": {
+      "en-US": "Node.js在AI赛道把Python反杀了，923个Skill vs 372个",
+      "zh-CN": "分析了top 2000下载的Skills后发现：Node.js以923个Skill稳居榜首，是Python（372个）的2.5倍。"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skills生态数据分析 + 技术栈趋势",
+      "zh-CN": "数据呈现了一个反直觉现象，但解读方向可能被带偏——这不是'Node.js打败了Python'，而是'Agent时代的开发者用脚投票'。Python在AI训练层的主导地位无可撼动，但在Agent编排层，JavaScript生态的灵活性和前端开发者的涌入改变了游戏规则。推文止于数据，未触及更深层的生态位迁移逻辑。"
+    },
+    "relevance": "OpenClaw Skills生态数据分析 + 技术栈趋势",
+    "score": 0.78,
+    "engagement": {
+      "likes": 20,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 8,
+      "views": 1932
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-29T05:13:30.596600+00:00",
+    "js_take": {
+      "en-US": "Not Node.js winning — it's the agent layer eating the training layer's lunch. When AI moves from lab to desktop, developers pick the fastest hammer, not the pedigree.",
+      "zh-CN": "不是Node.js赢了，是Agent层抢了训练层的饭碗。AI从实验室走向桌面，开发者只看速度不看出身。"
+    }
+  },
+  {
+    "id": "2037839265527177235",
+    "date": "2026-03-29",
+    "author": "@tuturetom",
+    "author_url": "https://x.com/tuturetom",
+    "tweet_url": "https://x.com/tuturetom/status/2037839265527177235",
+    "title": {
+      "en-US": "大厂争相开源agent基础设施，因为不开源就不会被训练进基座模型",
+      "zh-CN": "大厂开源开放agent基础设施不是选择，是不得不——不开源就不会被训练进基座模型，就不会被Agent感知，就不会被用户默认使用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + 开源战略 + Agent平台竞争",
+      "zh-CN": "这条推文点出了一个正在发生的结构性反转：大厂从'封闭护城河'转向'开放被看见'。但这里有个更深层的博弈——当所有人都在开源，开源本身变成了新的噪音场。推文的逻辑是'开源→被感知→被使用'，但实际上，被感知的前提是差异性，而不是开放性。当开源成为标配，不开放的反而可能稀缺。"
+    },
+    "relevance": "OpenClaw生态 + 开源战略 + Agent平台竞争",
+    "score": 0.76,
+    "engagement": {
+      "likes": 128,
+      "retweets": 15,
+      "replies": 6,
+      "bookmarks": 158,
+      "views": 14809
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-29T05:13:30.596603+00:00",
+    "js_take": {
+      "en-US": "When open source becomes standard, the moat becomes what you don't open. They're not gifting code — they're buying tickets to be seen in the noise.",
+      "zh-CN": "开源成标配时，护城河是你不开放的部分。他们不是在赠代码，而是在喧嚣中买一张被看见的门票。"
     }
   },
   {
@@ -112,6 +202,36 @@
     "js_take": {
       "en-US": "Cloud agents fight over rate limits. Real builders moved local-first — when execution is commoditized, the edge is who controls the kill switch.",
       "zh-CN": "云端智能体还在争抢 API 额度，真正的构建者早已转向本地优先——当执行能力被 commoditized，核心优势在于谁能掌控那个终止开关。"
+    }
+  },
+  {
+    "id": "2038034053446693238",
+    "date": "2026-03-29",
+    "author": "@0xPaulius",
+    "author_url": "https://x.com/0xPaulius",
+    "tweet_url": "https://x.com/0xPaulius/status/2038034053446693238",
+    "title": {
+      "en-US": "Claude App Farm - each one autonomously building an app 0-1 over 24 hrs",
+      "zh-CN": "这是我的Claude应用农场——每个Agent都在自主地从0到1构建应用，接下来24小时内完成。"
+    },
+    "summary": {
+      "en-US": "AI Agent并行构建 + OpenClaw/Codex自动化",
+      "zh-CN": "推文展示了一个令人兴奋的技术奇观，但'奇观'和'价值'是两回事。当1个Agent能在24小时构建应用，10个Agent不会自动产生10倍价值——除非你有10倍清晰的判断。推文的展示停留在'能做什么'，未触及'该做什么'。技术上限的提升，反而放大了决策能力的瓶颈。"
+    },
+    "relevance": "AI Agent并行构建 + OpenClaw/Codex自动化",
+    "score": 0.72,
+    "engagement": {
+      "likes": 139,
+      "retweets": 5,
+      "replies": 5,
+      "bookmarks": 118,
+      "views": 12537
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-29T05:13:30.596605+00:00",
+    "js_take": {
+      "en-US": "10 agents won't kill competitors — they'll execute bad decisions 10x faster. The bottleneck shifted from building to knowing what not to build.",
+      "zh-CN": "10个Agent不会干掉对手，只会让烂决策加速10倍。瓶颈已从'做什么'变成了'知道不做什么'。"
     }
   },
   {
@@ -5575,118 +5695,6 @@
     "js_take": {
       "en-US": "Phone as remote is a feature. Agent OS is infrastructure. Features get copied. Infrastructure creates moats. The migration isn't about who controls the laptop — it's about which agents can think across devices.",
       "zh-CN": "手机当遥控器是功能，Agent OS 是基础设施。功能会被复制，基础设施才能建立护城河。这场迁徙的关键不在于谁控制笔记本电脑，而在于哪些 Agent 能跨设备思考。"
-    }
-  },
-  {
-    "id": "2034366288143818775",
-    "date": "2026-03-19",
-    "author": "@marcelkargul",
-    "author_url": "https://x.com/marcelkargul",
-    "tweet_url": "https://x.com/marcelkargul/status/2034366288143818775",
-    "title": {
-      "en-US": "we've been using figma MCP + claude code for design → code. it's not perfect and still needs a fair bit of polishing, but it's sped up our dev process by ~50%",
-      "zh-CN": "使用Figma MCP + Claude Code做设计到代码的转换，虽不完美还需打磨，但开发流程提速约50%"
-    },
-    "summary": {
-      "en-US": "OpenClaw/AI工程实践",
-      "zh-CN": "推文说'还需要打磨'暗示了完美主义心态，但50%提速已经是巨大信号——不是工具不够好，是使用者还没接受'够用就发布'的节奏，还在用旧世界的标准卡新世界的效率"
-    },
-    "relevance": "OpenClaw/AI工程实践",
-    "score": 0.72,
-    "engagement": {
-      "likes": 88,
-      "replies": 6,
-      "retweets": 2
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-19T00:07:24.292052+00:00",
-    "js_take": {
-      "en-US": "50% speedup and you're still polishing? That's old-world perfectionism sabotaging new-world leverage. When the tool gives you half your time back, the winning move is shipping twice as much—not spending that half making it 10% prettier.",
-      "zh-CN": "速度提升了50%还在打磨？这是旧世界的完美主义在拖累新世界的杠杆。当工具帮你省下一半时间，正确的做法是产出翻倍——而不是把省下的时间花在让结果好看10%上。"
-    }
-  },
-  {
-    "id": "2034454854345597362",
-    "date": "2026-03-19",
-    "author": "@jmitch",
-    "author_url": "https://x.com/jmitch",
-    "tweet_url": "https://x.com/jmitch/status/2034454854345597362",
-    "title": {
-      "en-US": "Claude Dispatch crushing tasks OpenClaw failed at",
-      "zh-CN": "Claude Dispatch 已经在完成 OpenClaw 搞不定的任务了"
-    },
-    "summary": {
-      "en-US": "OpenClaw vs Claude Dispatch 直接对比，Agent 工具竞争",
-      "zh-CN": "原推做了一个工具对比的结论，但没有说出背后的判断标准——「搞不定」的定义会随着使用者的熟练度变化，真正的竞争维度不是谁更强大，而是谁能更快让普通人跨过学习曲线。"
-    },
-    "relevance": "OpenClaw vs Claude Dispatch 直接对比，Agent 工具竞争",
-    "score": 0.72,
-    "engagement": {
-      "likes": 10,
-      "replies": 2,
-      "retweets": 1
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-19T07:07:38.503374+00:00",
-    "js_take": {
-      "en-US": "We spent weeks failing with OpenClaw. Month 2: same tasks, 3x faster than Dispatch. The tool wasn't broken — we were just beginners measuring ourselves against experts.",
-      "zh-CN": "刚开始用 OpenClaw 时，我们折腾了好几周都搞不定。到了第二个月，同样的任务做得比 Dispatch 还快 3 倍。不是工具不行，是我们当时太菜，却非要跟高手比。"
-    }
-  },
-  {
-    "id": "2034458612584886619",
-    "date": "2026-03-19",
-    "author": "@yaohui12138",
-    "author_url": "https://x.com/yaohui12138",
-    "tweet_url": "https://x.com/yaohui12138/status/2034458612584886619",
-    "title": {
-      "en-US": "OpenClaw贵不贵？取决于你把它当ChatGPT替代品还是多Agent共享知识库。",
-      "zh-CN": "推主分享 OpenClaw 使用心得：如果只当 ChatGPT 替代品血亏，作为多 Agent 共享知识库则超值。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 使用策略与 Agent 知识管理",
-      "zh-CN": "推主点出了工具价值的分水岭：用「替代品」思维只能吃到存量价值，用「基础设施」思维才能吃到复利。但更深的问题在于——大多数人还没想清楚自己的 Agent 工作流该长什么样，就已经在争论价格了。（更深度）"
-    },
-    "relevance": "OpenClaw 使用策略与 Agent 知识管理",
-    "score": 0.72,
-    "engagement": {
-      "likes": 98,
-      "replies": 11,
-      "retweets": 20
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-19T08:07:12.530511+00:00",
-    "js_take": {
-      "en-US": "Price debates assume you're buying a product. But OpenClaw is infrastructure—first you architect the system, then the cost becomes noise.",
-      "zh-CN": "价格争议的前提是你在购买产品。但 OpenClaw 是基础设施——先构建系统架构，成本自然不再是问题。"
-    }
-  },
-  {
-    "id": "2034623222570783141",
-    "date": "2026-03-19",
-    "author": "@charliermarsh",
-    "author_url": "https://x.com/charliermarsh",
-    "tweet_url": "https://x.com/charliermarsh/status/2034623222570783141",
-    "title": {
-      "en-US": "Astral joining OpenAI Codex team",
-      "zh-CN": "UV/Ruff创始人Charlie Marsh宣布Astral团队加入OpenAI Codex团队。"
-    },
-    "summary": {
-      "en-US": "开发者工具生态整合，与OpenClaw技能系统同构",
-      "zh-CN": "优秀工具的命运是被吞噬还是共生，取决于生态的开放度——封闭整合越快，创新的土壤越贫瘠。"
-    },
-    "relevance": "开发者工具生态整合，与OpenClaw技能系统同构",
-    "score": 0.72,
-    "engagement": {
-      "likes": 1315,
-      "replies": 135,
-      "retweets": 61
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-19T15:08:22.037515+00:00",
-    "js_take": {
-      "en-US": "Centralization looks like progress until you need what got absorbed. The surface consolidates; the real innovation migrates elsewhere.",
-      "zh-CN": "集中化看似进步，直到你发现所需之物已被吞噬。表层世界在整合，真正的创新却悄然迁移他处。"
     }
   }
 ]

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-29T02:08:42.725460+00:00",
+  "updated_at": "2026-03-29T05:13:53.400246+00:00",
   "this_week": {
-    "total_items": 110,
+    "total_items": 114,
     "avg_score": 0.77,
-    "unique_authors": 92,
+    "unique_authors": 96,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -233,6 +233,36 @@
         "js_take": {
           "en-US": "Tried a tool that auto-generates 'industry relationship graphs.' The entities were correct. The relationships were generic. Real connections form around specific problems, not industry categories—you can't CLI your way into trust.",
           "zh-CN": "试用了一个自动生成「行业关系图谱」的工具。实体识别正确，但关系过于泛化。真实的连接围绕具体问题形成，而非行业分类——信任没法靠一行命令刷出来。"
+        }
+      },
+      {
+        "id": "2037972563981164736",
+        "date": "2026-03-29",
+        "author": "@dramaricic",
+        "author_url": "https://x.com/dramaricic",
+        "tweet_url": "https://x.com/dramaricic/status/2037972563981164736",
+        "title": {
+          "en-US": "I'm solo founder with 3 employees. Claude, Codex, OpenClaw.",
+          "zh-CN": "我是一个solo创始人，有3个员工：Claude、Codex、OpenClaw。"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态 + AI Agent作为员工的实践",
+          "zh-CN": "这条推文在玩笑式地宣布一个结构性转变：组织的边界正在溶解。但这里有个被忽略的陷阱——当你把3个agent当作员工，你其实在用管理人的方式管理工具。真正的范式转移不是'agent替代员工'，而是'重新定义什么该由人做、什么该由机器做'。推文的幽默背后，藏着对组织形态变革的误判。"
+        },
+        "relevance": "OpenClaw生态 + AI Agent作为员工的实践",
+        "score": 0.84,
+        "engagement": {
+          "likes": 152,
+          "replies": 45,
+          "retweets": 9,
+          "bookmarks": 15,
+          "views": 3441
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-03-29T05:13:30.596595+00:00",
+        "js_take": {
+          "en-US": "Managing agents like employees is old maps on new terrain. The shift isn't who executes — it's who decides what's worth executing.",
+          "zh-CN": "把Agent当员工管，是旧地图走新路。关键不在谁来执行，而在谁来决定什么值得执行。"
         }
       },
       {
@@ -975,65 +1005,39 @@
         }
       },
       {
-        "id": "2037741103013896543",
-        "date": "2026-03-28",
-        "author": "@ring_hyacinth",
-        "author_url": "https://x.com/ring_hyacinth",
-        "tweet_url": "https://x.com/ring_hyacinth/status/2037741103013896543",
+        "id": "2038067657354903628",
+        "date": "2026-03-29",
+        "author": "@ShenHuang_",
+        "author_url": "https://x.com/ShenHuang_",
+        "tweet_url": "https://x.com/ShenHuang_/status/2038067657354903628",
         "title": {
-          "en-US": "Feishu open-sourced CLI, agents can now access all features",
-          "zh-CN": "飞书开源 CLI，agent/OpenClaw 可直接调用飞书文档、知识库、多维表格等全部功能"
+          "en-US": "Node.js在AI赛道把Python反杀了，923个Skill vs 372个",
+          "zh-CN": "分析了top 2000下载的Skills后发现：Node.js以923个Skill稳居榜首，是Python（372个）的2.5倍。"
         },
         "summary": {
-          "en-US": "OpenClaw 生态扩展，与平台核心使命直接相关",
-          "zh-CN": "工具接口的开放≠生态的繁荣——真正的问题是：当所有人都能调用飞书时，什么能力才不可被复制？（更深度：指出表面便利下的结构性竞争盲区）"
+          "en-US": "OpenClaw Skills生态数据分析 + 技术栈趋势",
+          "zh-CN": "数据呈现了一个反直觉现象，但解读方向可能被带偏——这不是'Node.js打败了Python'，而是'Agent时代的开发者用脚投票'。Python在AI训练层的主导地位无可撼动，但在Agent编排层，JavaScript生态的灵活性和前端开发者的涌入改变了游戏规则。推文止于数据，未触及更深层的生态位迁移逻辑。"
         },
-        "relevance": "OpenClaw 生态扩展，与平台核心使命直接相关",
+        "relevance": "OpenClaw Skills生态数据分析 + 技术栈趋势",
         "score": 0.78,
         "engagement": {
-          "likes": 153,
-          "replies": 7,
-          "retweets": 19
+          "likes": 20,
+          "replies": 1,
+          "retweets": 1,
+          "bookmarks": 8,
+          "views": 1932
         },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-03-28T06:06:33.905904+00:00",
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-03-29T05:13:30.596600+00:00",
         "js_take": {
-          "en-US": "Open APIs commoditize fast. The real edge isn't access—it's the context that won't fit in any prompt window.",
-          "zh-CN": "开放API正迅速同质化。真正的竞争优势不在于能否接入，而在于那些无法塞进任何提示词窗口的上下文。"
-        }
-      },
-      {
-        "id": "2037844923450536230",
-        "date": "2026-03-28",
-        "author": "@sudoingX",
-        "author_url": "https://x.com/sudoingX",
-        "tweet_url": "https://x.com/sudoingX/status/2037844923450536230",
-        "title": {
-          "en-US": "Qwen 3.5 27B + Hermes Agent works great, but fails on OpenClaw bloat",
-          "zh-CN": "同个模型在 OpenClaw 上工具调用失败、会话崩溃，但在 Hermes 上运行流畅——工具链复杂度对 Agent 能力的反噬。"
-        },
-        "summary": {
-          "en-US": "Agent 工具链复杂度 vs 实际效果",
-          "zh-CN": "「堆功能」本身正在成为 Agent 的负资产——工具越多，决策链条越长，失败概率呈指数级上升，这不是技术问题，是架构哲学的取舍失误。"
-        },
-        "relevance": "Agent 工具链复杂度 vs 实际效果",
-        "score": 0.78,
-        "engagement": {
-          "likes": 71,
-          "replies": 7,
-          "retweets": 2
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-28T13:23:48.021960+00:00",
-        "js_take": {
-          "en-US": "You pile nine tools to solve one problem. The coverage you aggressively optimized for is exactly the judgment you replaced with noise.",
-          "zh-CN": "你用九个工具堆栈解决一个问题。你拼命优化的覆盖率，恰恰是用噪音取代了你的判断力。"
+          "en-US": "Not Node.js winning — it's the agent layer eating the training layer's lunch. When AI moves from lab to desktop, developers pick the fastest hammer, not the pedigree.",
+          "zh-CN": "不是Node.js赢了，是Agent层抢了训练层的饭碗。AI从实验室走向桌面，开发者只看速度不看出身。"
         }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 158
+    "unique_authors": 157
   }
 }

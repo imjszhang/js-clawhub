@@ -1,5 +1,35 @@
 [
   {
+    "id": "2037972563981164736",
+    "date": "2026-03-29",
+    "author": "@dramaricic",
+    "author_url": "https://x.com/dramaricic",
+    "tweet_url": "https://x.com/dramaricic/status/2037972563981164736",
+    "title": {
+      "en-US": "I'm solo founder with 3 employees. Claude, Codex, OpenClaw.",
+      "zh-CN": "我是一个solo创始人，有3个员工：Claude、Codex、OpenClaw。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + AI Agent作为员工的实践",
+      "zh-CN": "这条推文在玩笑式地宣布一个结构性转变：组织的边界正在溶解。但这里有个被忽略的陷阱——当你把3个agent当作员工，你其实在用管理人的方式管理工具。真正的范式转移不是'agent替代员工'，而是'重新定义什么该由人做、什么该由机器做'。推文的幽默背后，藏着对组织形态变革的误判。"
+    },
+    "relevance": "OpenClaw生态 + AI Agent作为员工的实践",
+    "score": 0.84,
+    "engagement": {
+      "likes": 152,
+      "replies": 45,
+      "retweets": 9,
+      "bookmarks": 15,
+      "views": 3441
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-29T05:13:30.596595+00:00",
+    "js_take": {
+      "en-US": "Managing agents like employees is old maps on new terrain. The shift isn't who executes — it's who decides what's worth executing.",
+      "zh-CN": "把Agent当员工管，是旧地图走新路。关键不在谁来执行，而在谁来决定什么值得执行。"
+    }
+  },
+  {
     "id": "2037934648198594908",
     "date": "2026-03-29",
     "author": "@thdxr",
@@ -26,6 +56,66 @@
     "js_take": {
       "en-US": "You built 47 skills. Users installed 3. The gap isn't ambition—it's the fantasy that more tools equals more value. Real restraint is admitting most walls don't need ladders.",
       "zh-CN": "你造了47个技能，用户装了3个。问题不是野心不够，而是「工具越多价值越大」的幻觉。真正的克制，是承认大多数墙本就不需要梯子。"
+    }
+  },
+  {
+    "id": "2038067657354903628",
+    "date": "2026-03-29",
+    "author": "@ShenHuang_",
+    "author_url": "https://x.com/ShenHuang_",
+    "tweet_url": "https://x.com/ShenHuang_/status/2038067657354903628",
+    "title": {
+      "en-US": "Node.js在AI赛道把Python反杀了，923个Skill vs 372个",
+      "zh-CN": "分析了top 2000下载的Skills后发现：Node.js以923个Skill稳居榜首，是Python（372个）的2.5倍。"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skills生态数据分析 + 技术栈趋势",
+      "zh-CN": "数据呈现了一个反直觉现象，但解读方向可能被带偏——这不是'Node.js打败了Python'，而是'Agent时代的开发者用脚投票'。Python在AI训练层的主导地位无可撼动，但在Agent编排层，JavaScript生态的灵活性和前端开发者的涌入改变了游戏规则。推文止于数据，未触及更深层的生态位迁移逻辑。"
+    },
+    "relevance": "OpenClaw Skills生态数据分析 + 技术栈趋势",
+    "score": 0.78,
+    "engagement": {
+      "likes": 20,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 8,
+      "views": 1932
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-29T05:13:30.596600+00:00",
+    "js_take": {
+      "en-US": "Not Node.js winning — it's the agent layer eating the training layer's lunch. When AI moves from lab to desktop, developers pick the fastest hammer, not the pedigree.",
+      "zh-CN": "不是Node.js赢了，是Agent层抢了训练层的饭碗。AI从实验室走向桌面，开发者只看速度不看出身。"
+    }
+  },
+  {
+    "id": "2037839265527177235",
+    "date": "2026-03-29",
+    "author": "@tuturetom",
+    "author_url": "https://x.com/tuturetom",
+    "tweet_url": "https://x.com/tuturetom/status/2037839265527177235",
+    "title": {
+      "en-US": "大厂争相开源agent基础设施，因为不开源就不会被训练进基座模型",
+      "zh-CN": "大厂开源开放agent基础设施不是选择，是不得不——不开源就不会被训练进基座模型，就不会被Agent感知，就不会被用户默认使用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 + 开源战略 + Agent平台竞争",
+      "zh-CN": "这条推文点出了一个正在发生的结构性反转：大厂从'封闭护城河'转向'开放被看见'。但这里有个更深层的博弈——当所有人都在开源，开源本身变成了新的噪音场。推文的逻辑是'开源→被感知→被使用'，但实际上，被感知的前提是差异性，而不是开放性。当开源成为标配，不开放的反而可能稀缺。"
+    },
+    "relevance": "OpenClaw生态 + 开源战略 + Agent平台竞争",
+    "score": 0.76,
+    "engagement": {
+      "likes": 128,
+      "retweets": 15,
+      "replies": 6,
+      "bookmarks": 158,
+      "views": 14809
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-29T05:13:30.596603+00:00",
+    "js_take": {
+      "en-US": "When open source becomes standard, the moat becomes what you don't open. They're not gifting code — they're buying tickets to be seen in the noise.",
+      "zh-CN": "开源成标配时，护城河是你不开放的部分。他们不是在赠代码，而是在喧嚣中买一张被看见的门票。"
     }
   },
   {
@@ -112,6 +202,36 @@
     "js_take": {
       "en-US": "Cloud agents fight over rate limits. Real builders moved local-first — when execution is commoditized, the edge is who controls the kill switch.",
       "zh-CN": "云端智能体还在争抢 API 额度，真正的构建者早已转向本地优先——当执行能力被 commoditized，核心优势在于谁能掌控那个终止开关。"
+    }
+  },
+  {
+    "id": "2038034053446693238",
+    "date": "2026-03-29",
+    "author": "@0xPaulius",
+    "author_url": "https://x.com/0xPaulius",
+    "tweet_url": "https://x.com/0xPaulius/status/2038034053446693238",
+    "title": {
+      "en-US": "Claude App Farm - each one autonomously building an app 0-1 over 24 hrs",
+      "zh-CN": "这是我的Claude应用农场——每个Agent都在自主地从0到1构建应用，接下来24小时内完成。"
+    },
+    "summary": {
+      "en-US": "AI Agent并行构建 + OpenClaw/Codex自动化",
+      "zh-CN": "推文展示了一个令人兴奋的技术奇观，但'奇观'和'价值'是两回事。当1个Agent能在24小时构建应用，10个Agent不会自动产生10倍价值——除非你有10倍清晰的判断。推文的展示停留在'能做什么'，未触及'该做什么'。技术上限的提升，反而放大了决策能力的瓶颈。"
+    },
+    "relevance": "AI Agent并行构建 + OpenClaw/Codex自动化",
+    "score": 0.72,
+    "engagement": {
+      "likes": 139,
+      "retweets": 5,
+      "replies": 5,
+      "bookmarks": 118,
+      "views": 12537
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-29T05:13:30.596605+00:00",
+    "js_take": {
+      "en-US": "10 agents won't kill competitors — they'll execute bad decisions 10x faster. The bottleneck shifted from building to knowing what not to build.",
+      "zh-CN": "10个Agent不会干掉对手，只会让烂决策加速10倍。瓶颈已从'做什么'变成了'知道不做什么'。"
     }
   },
   {
