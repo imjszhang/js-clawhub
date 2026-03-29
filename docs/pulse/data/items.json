@@ -175,6 +175,36 @@
     }
   },
   {
+    "id": "2038151894213009610",
+    "date": "2026-03-29",
+    "author": "@Gracker_Gao",
+    "author_url": "https://x.com/Gracker_Gao",
+    "tweet_url": "https://x.com/Gracker_Gao/status/2038151894213009610",
+    "title": {
+      "en-US": "OpenClaw + OpenCLI integration for zero-cost API calls",
+      "zh-CN": "Gracker 分享通过 OpenCLI 集成实现零成本 API 调用，复用 Chrome 登录状态绕过传统 web_fetch 限制"
+    },
+    "summary": {
+      "en-US": "OpenClaw + OpenCLI 集成，零成本数据获取",
+      "zh-CN": "人们只看到'零成本'的表面好处，却没意识到这是把'登录状态'这种隐性资产显性化的工程直觉——真正的价值不是省了多少钱，而是发现了数据获取中一直被忽视的'中间层'机会"
+    },
+    "relevance": "OpenClaw + OpenCLI 集成，零成本数据获取",
+    "score": 0.78,
+    "engagement": {
+      "likes": 11,
+      "replies": 3,
+      "retweets": 0,
+      "views": 2552,
+      "bookmarks": 17
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-29T13:24:48.948573+00:00",
+    "js_take": {
+      "en-US": "\"Zero cost\" isn't about saving money — it's surfacing a hidden asset most overlook: your own login state. The layer between user and data was always there, just invisible.",
+      "zh-CN": "「零成本」不是省钱——而是挖掘一个常被忽视的隐藏资产：你的登录状态。用户与数据之间的那层隔板一直都在，只是你看不见。"
+    }
+  },
+  {
     "id": "2037839265527177235",
     "date": "2026-03-29",
     "author": "@tuturetom",
@@ -202,6 +232,36 @@
     "js_take": {
       "en-US": "When open source becomes standard, the moat becomes what you don't open. They're not gifting code — they're buying tickets to be seen in the noise.",
       "zh-CN": "开源成标配时，护城河是你不开放的部分。他们不是在赠代码，而是在喧嚣中买一张被看见的门票。"
+    }
+  },
+  {
+    "id": "2038226951215980943",
+    "date": "2026-03-29",
+    "author": "@sagacity",
+    "author_url": "https://x.com/sagacity",
+    "tweet_url": "https://x.com/sagacity/status/2038226951215980943",
+    "title": {
+      "en-US": "OpenClaw personal agent with IM integration, but IM feels limiting",
+      "zh-CN": "池建强用 OpenClaw 搭建个人 AI Agent 接入多平台 IM，但逐渐觉得 IM 装不下 OpenClaw 应有的形态"
+    },
+    "summary": {
+      "en-US": "OpenClaw 个人 Agent 实践，IM 边界讨论",
+      "zh-CN": "推文的直觉是对的——IM 作为'承载界面'确实太窄，但更值得追问的是：当 agent 能力溢出 IM 容器时，新的交互形态应该是什么，而不是简单地'换个更大的容器'"
+    },
+    "relevance": "OpenClaw 个人 Agent 实践，IM 边界讨论",
+    "score": 0.75,
+    "engagement": {
+      "likes": 21,
+      "replies": 4,
+      "retweets": 4,
+      "views": 2296,
+      "bookmarks": 22
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-29T13:24:48.948581+00:00",
+    "js_take": {
+      "en-US": "IM feels small because you're still thinking containers. Agents don't need bigger boxes — they need ambient presence that fades in and out of whatever surface you're already using.",
+      "zh-CN": "你觉得 IM 太小，是因为还在用容器思维。Agent 不需要更大的盒子——它们需要的是环境存在感，在你正在使用的任何界面中自然浮现又悄然隐去。"
     }
   },
   {
@@ -459,6 +519,36 @@
     "js_take": {
       "en-US": "47 forks aren't applause—they're 47 polite complaints that the original missed their mark. True demand satisfaction makes forks unnecessary.",
       "zh-CN": "47次分叉不是喝彩，而是47份委婉的批评——原版未能满足他们的需求。真正解决问题，才无需他人自行分叉。"
+    }
+  },
+  {
+    "id": "2038167709532254605",
+    "date": "2026-03-29",
+    "author": "@Voxyz_ai",
+    "author_url": "https://x.com/Voxyz_ai",
+    "tweet_url": "https://x.com/Voxyz_ai/status/2038167709532254605",
+    "title": {
+      "en-US": "OpenClaw 3.28 plugin approval hooks for before_tool_call",
+      "zh-CN": "OpenClaw 3.28 新增 plugin approval hooks，可在 before_tool_call 暂停执行，解决 agent 操作事后才发现的问题"
+    },
+    "summary": {
+      "en-US": "OpenClaw 安全机制更新，agent 可控性",
+      "zh-CN": "从'事后发现'到'事前暂停'的进步背后，是一个更深层的设计哲学转变——承认 agent 自主性需要'刹车'，但真正的艺术是知道什么时候该松刹车"
+    },
+    "relevance": "OpenClaw 安全机制更新，agent 可控性",
+    "score": 0.7,
+    "engagement": {
+      "likes": 16,
+      "replies": 6,
+      "retweets": 1,
+      "views": 2356,
+      "bookmarks": 7
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-29T13:24:48.948584+00:00",
+    "js_take": {
+      "en-US": "Hooks are training wheels. The real art isn't stopping agents — it's knowing when to let them fall. Over-supervised autonomy decays into dependency.",
+      "zh-CN": "Hooks 只是辅助轮。真正的高招不是阻止 Agent 犯错——而是知道何时该让它们摔跤。过度监督的自主性，终将退化为依赖。"
     }
   },
   {
@@ -5608,90 +5698,6 @@
     "js_take": {
       "en-US": "You're cheering a prettier cage. When one company owns the brain, your workflow becomes the hostage.",
       "zh-CN": "你在为一座更精致的牢笼欢呼。当一家公司垄断了「大脑」，你的工作流就成了人质。"
-    }
-  },
-  {
-    "id": "2034297125417460044",
-    "date": "2026-03-19",
-    "author": "@hwchase17",
-    "author_url": "https://x.com/hwchase17",
-    "tweet_url": "https://x.com/hwchase17/status/2034297125417460044",
-    "title": {
-      "en-US": "Claude Code, OpenClaw, Manus all use same architecture: model + runtime + harness",
-      "zh-CN": "Claude Code、OpenClaw、Manus底层都用相同架构：模型+运行时+ harness"
-    },
-    "summary": {
-      "en-US": "OpenClaw/Agent底层架构分析",
-      "zh-CN": "更精炼：所有agent都在堆同样的积木，差别只在包装——真正决定上限的不是这三块的\"有\"，而是它们之间流动的\"势\""
-    },
-    "relevance": "OpenClaw/Agent底层架构分析",
-    "score": 0.75,
-    "engagement": {
-      "likes": 52,
-      "replies": 5,
-      "retweets": 7
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-18T17:08:57.368329+00:00",
-    "js_take": {
-      "en-US": "Everyone's stacking the same three blocks. The real edge isn't having them—it's the space between. How information flows, when decisions get made, where control loops back.",
-      "zh-CN": "所有人都在堆同样的三块积木。真正的优势不在于拥有它们，而在于它们之间的空隙。信息如何流动，决策何时做出，控制怎样回流。"
-    }
-  },
-  {
-    "id": "2034303305011372317",
-    "date": "2026-03-19",
-    "author": "@homsiT",
-    "author_url": "https://x.com/homsiT",
-    "tweet_url": "https://x.com/homsiT/status/2034303305011372317",
-    "title": {
-      "en-US": "Readwise CLI integration with coding agents",
-      "zh-CN": "Readwise CLI 让 OpenClaw/Claude Code/Codex 等 coding agent 能搜索和读取你保存的所有阅读内容"
-    },
-    "summary": {
-      "en-US": "OpenClaw / AI工具链 / 知识管理",
-      "zh-CN": "这条推展示了一个正在发生的迁徙：你的阅读库从「你主动去看」变成了「agent 随时能调用」。表世界（Readwise App）正在退化为数据库，里世界（coding agent）正在成为新的交互层。这不是功能升级，是范式转移。"
-    },
-    "relevance": "OpenClaw / AI工具链 / 知识管理",
-    "score": 0.75,
-    "engagement": {
-      "likes": 131,
-      "replies": 21,
-      "retweets": 8
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-18T19:09:31.143892+00:00",
-    "js_take": {
-      "en-US": "Your notes aren't for you anymore—they're context for your agent. The surface app becomes storage, the coding agent becomes the interface. Second migration happening now.",
-      "zh-CN": "你的笔记不再是写给自己的——它们是 Agent 的上下文。表世界应用退化为存储，编程 Agent 成为新界面。第二次迁徙正在发生。"
-    }
-  },
-  {
-    "id": "2034389956165263814",
-    "date": "2026-03-19",
-    "author": "@iamlukethedev",
-    "author_url": "https://x.com/iamlukethedev",
-    "tweet_url": "https://x.com/iamlukethedev/status/2034389956165263814",
-    "title": {
-      "en-US": "Claw3D is running. I'm testing everything right now. Just bought a brand new Mac Mini to do a clean OpenClaw install for final testing.",
-      "zh-CN": "Claw3D已运行，正在测试，买了全新Mac Mini做干净OpenClaw安装进行最终测试"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态/新产品发布",
-      "zh-CN": "推文展现了典型的工程师执着——买新机器做'干净'测试，但这恰恰暴露了对'纯粹环境'的执念，而真实世界的Agent必须在混乱中生存，'干净'是反自然的"
-    },
-    "relevance": "OpenClaw生态/新产品发布",
-    "score": 0.75,
-    "engagement": {
-      "likes": 164,
-      "replies": 44,
-      "retweets": 8
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-19T00:07:24.292050+00:00",
-    "js_take": {
-      "en-US": "Clean install on new hardware is surface-world theater. Claw3D's real test isn't sterile labs—it's surviving production chaos: skill conflicts, memory leaks, dependency hell. The inner world doesn't reward purity. It rewards antifragility.",
-      "zh-CN": "在新硬件上做干净安装，这是表世界的表演。Claw3D 的真正考验不在无菌实验室——而在生产环境的混乱中存活：技能冲突、内存泄漏、依赖地狱。里世界不奖励纯粹，它奖励反脆弱。"
     }
   }
 ]
