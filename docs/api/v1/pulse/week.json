@@ -85,6 +85,36 @@
     }
   },
   {
+    "id": "2038049688864293365",
+    "date": "2026-03-29",
+    "author": "@lennysan",
+    "author_url": "https://x.com/lennysan",
+    "tweet_url": "https://x.com/lennysan/status/2038049688864293365",
+    "title": {
+      "en-US": "Top builders getting more enthusiastic about OpenClaw over time",
+      "zh-CN": "最懂AI的builder们（@clairevo @danshipper @shl @nateliason）对OpenClaw越来越感兴趣"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台认可度、AI Agent基础设施趋势",
+      "zh-CN": "原推只说「大佬们越来越喜欢OpenClaw」，但没解释为什么——真正的洞察是：当AI执行层已经足够好时，builder们开始重新评估「控制与自主」的边界，OpenClaw代表的本地优先架构恰好踩中了这个转折点。"
+    },
+    "relevance": "OpenClaw平台认可度、AI Agent基础设施趋势",
+    "score": 0.72,
+    "engagement": {
+      "likes": 78,
+      "retweets": 2,
+      "replies": 20,
+      "views": 7441,
+      "bookmarks": 31
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-29T02:08:25.097792+00:00",
+    "js_take": {
+      "en-US": "Cloud agents fight over rate limits. Real builders moved local-first — when execution is commoditized, the edge is who controls the kill switch.",
+      "zh-CN": "云端智能体还在争抢 API 额度，真正的构建者早已转向本地优先——当执行能力被 commoditized，核心优势在于谁能掌控那个终止开关。"
+    }
+  },
+  {
     "id": "2037966800080744698",
     "date": "2026-03-29",
     "author": "@rohanpaul_ai",
