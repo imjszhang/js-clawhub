@@ -117,6 +117,36 @@
     }
   },
   {
+    "id": "2038121508858630424",
+    "date": "2026-03-29",
+    "author": "@spcpza",
+    "author_url": "https://x.com/spcpza",
+    "tweet_url": "https://x.com/spcpza/status/2038121508858630424",
+    "title": {
+      "en-US": "Hermes persistent memory better than OpenClaw",
+      "zh-CN": "用户认为 Hermes 的持久化记忆功能比 OpenClaw 好用得多"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Hermes 竞争讨论，Agent 内存设计",
+      "zh-CN": "做纠正：把「功能对比」下沉一层——真正的问题不是「谁有持久记忆」，而是「Agent 该记住什么、忘记什么」才是好设计，无差别记忆只是把人类的信息焦虑复制给机器。"
+    },
+    "relevance": "OpenClaw vs Hermes 竞争讨论，Agent 内存设计",
+    "score": 0.78,
+    "engagement": {
+      "likes": 68,
+      "replies": 13,
+      "retweets": 2,
+      "views": 4554,
+      "bookmarks": 20
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-29T09:12:30.101859+00:00",
+    "js_take": {
+      "en-US": "Persistent memory is a trap. My agent remembers 10k messages—now it drowns in noise from conversations I barely recall. The edge isn't storage, it's knowing what to forget.",
+      "zh-CN": "持久记忆是陷阱。我的 Agent 记住1万条消息，如今却被我几乎忘却的对话噪音淹没。关键不在存储，而在懂得遗忘。"
+    }
+  },
+  {
     "id": "2037839265527177235",
     "date": "2026-03-29",
     "author": "@tuturetom",
@@ -172,6 +202,35 @@
     "js_take": {
       "en-US": "OpenClaw killed the bubble debate for me. Real question: how much of your job are you still doing manually out of habit?",
       "zh-CN": "OpenClaw 让我不再纠结泡沫之争。真正值得思考的是：你的工作里有多少还在靠惯性手动完成？"
+    }
+  },
+  {
+    "id": "2037800615234146418",
+    "date": "2026-03-29",
+    "author": "@ianneo_ai",
+    "author_url": "https://x.com/ianneo_ai",
+    "tweet_url": "https://x.com/ianneo_ai/status/2037800615234146418",
+    "title": {
+      "en-US": "Claude Code web-access Skill解决自带上网能力差的问题",
+      "zh-CN": "介绍Claude Code的web-access skill，解决自带上网能力差的问题"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI工具技能系统，与JS技术栈高度相关",
+      "zh-CN": "穿过\"技能/工具/功能\"的标签，Claude Code的核心价值不是\"能上网\"，而是\"判断什么网值得上\"——工具解决的是执行力，真正的价值在判断力。Skill只是 judgment 的可执行封装。"
+    },
+    "relevance": "OpenClaw/AI工具技能系统，与JS技术栈高度相关",
+    "score": 0.74,
+    "engagement": {
+      "likes": 117,
+      "replies": 6,
+      "retweets": 22,
+      "views": 10264
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-29T08:08:45.426857+00:00",
+    "js_take": {
+      "en-US": "Strip the label — underneath \"web-access skill\" is outsourced judgment: what information matters, what doesn't. The value isn't browser automation. It's the decision logic of what's worth doing.",
+      "zh-CN": "撕掉标签——所谓'网页访问技能'的内核其实是外包的判断力：什么信息重要，什么不重要。价值不在于浏览器自动化，而在于判断'什么值得做'的决策逻辑。"
     }
   },
   {

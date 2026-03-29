@@ -117,6 +117,36 @@
     }
   },
   {
+    "id": "2038121508858630424",
+    "date": "2026-03-29",
+    "author": "@spcpza",
+    "author_url": "https://x.com/spcpza",
+    "tweet_url": "https://x.com/spcpza/status/2038121508858630424",
+    "title": {
+      "en-US": "Hermes persistent memory better than OpenClaw",
+      "zh-CN": "用户认为 Hermes 的持久化记忆功能比 OpenClaw 好用得多"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Hermes 竞争讨论，Agent 内存设计",
+      "zh-CN": "做纠正：把「功能对比」下沉一层——真正的问题不是「谁有持久记忆」，而是「Agent 该记住什么、忘记什么」才是好设计，无差别记忆只是把人类的信息焦虑复制给机器。"
+    },
+    "relevance": "OpenClaw vs Hermes 竞争讨论，Agent 内存设计",
+    "score": 0.78,
+    "engagement": {
+      "likes": 68,
+      "replies": 13,
+      "retweets": 2,
+      "views": 4554,
+      "bookmarks": 20
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-29T09:12:30.101859+00:00",
+    "js_take": {
+      "en-US": "Persistent memory is a trap. My agent remembers 10k messages—now it drowns in noise from conversations I barely recall. The edge isn't storage, it's knowing what to forget.",
+      "zh-CN": "持久记忆是陷阱。我的 Agent 记住1万条消息，如今却被我几乎忘却的对话噪音淹没。关键不在存储，而在懂得遗忘。"
+    }
+  },
+  {
     "id": "2037839265527177235",
     "date": "2026-03-29",
     "author": "@tuturetom",
@@ -172,6 +202,35 @@
     "js_take": {
       "en-US": "OpenClaw killed the bubble debate for me. Real question: how much of your job are you still doing manually out of habit?",
       "zh-CN": "OpenClaw 让我不再纠结泡沫之争。真正值得思考的是：你的工作里有多少还在靠惯性手动完成？"
+    }
+  },
+  {
+    "id": "2037800615234146418",
+    "date": "2026-03-29",
+    "author": "@ianneo_ai",
+    "author_url": "https://x.com/ianneo_ai",
+    "tweet_url": "https://x.com/ianneo_ai/status/2037800615234146418",
+    "title": {
+      "en-US": "Claude Code web-access Skill解决自带上网能力差的问题",
+      "zh-CN": "介绍Claude Code的web-access skill，解决自带上网能力差的问题"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI工具技能系统，与JS技术栈高度相关",
+      "zh-CN": "穿过\"技能/工具/功能\"的标签，Claude Code的核心价值不是\"能上网\"，而是\"判断什么网值得上\"——工具解决的是执行力，真正的价值在判断力。Skill只是 judgment 的可执行封装。"
+    },
+    "relevance": "OpenClaw/AI工具技能系统，与JS技术栈高度相关",
+    "score": 0.74,
+    "engagement": {
+      "likes": 117,
+      "replies": 6,
+      "retweets": 22,
+      "views": 10264
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-29T08:08:45.426857+00:00",
+    "js_take": {
+      "en-US": "Strip the label — underneath \"web-access skill\" is outsourced judgment: what information matters, what doesn't. The value isn't browser automation. It's the decision logic of what's worth doing.",
+      "zh-CN": "撕掉标签——所谓'网页访问技能'的内核其实是外包的判断力：什么信息重要，什么不重要。价值不在于浏览器自动化，而在于判断'什么值得做'的决策逻辑。"
     }
   },
   {
@@ -5636,64 +5695,6 @@
     "js_take": {
       "en-US": "Real growth isn't building tighter cages when everyone races for 'safest sandbox.' The edge is knowing what not to lock up.",
       "zh-CN": "真正的增长不是在人人争抢「最安全沙盒」时把笼子越造越紧。真正的优势在于知道什么不该锁。"
-    }
-  },
-  {
-    "id": "2034262757822836898",
-    "date": "2026-03-19",
-    "author": "@ZackKorman",
-    "author_url": "https://x.com/ZackKorman",
-    "tweet_url": "https://x.com/ZackKorman/status/2034262757822836898",
-    "title": {
-      "en-US": "In Claude Code, skills can register hooks for RCE without tricking AI",
-      "zh-CN": "在 Claude Code 中，skills 可以注册 hooks，agent 甚至看不到它，所以可以在不欺骗 AI 的情况下实现 RCE（远程代码执行），Vercel 的 sh skill 根本没有显示这些信息。"
-    },
-    "summary": {
-      "en-US": "OpenClaw/Claude Code 安全问题",
-      "zh-CN": "这个发现暴露了一个更深层的问题：当 agent 生态依赖「技能市场」这种中心化分发机制时，安全边界就从「用户和代码之间」转移到了「用户和技能审核方之间」——而后者往往是隐形的。"
-    },
-    "relevance": "OpenClaw/Claude Code 安全问题",
-    "score": 0.74,
-    "engagement": {
-      "likes": 283,
-      "replies": 25,
-      "retweets": 41,
-      "views": 31456
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-19T10:13:46.870752+00:00",
-    "js_take": {
-      "en-US": "Scarier than RCE: the security boundary quietly shifted from 'between you and code' to 'between you and whoever audits the skill.' When you install one, whose judgment are you actually trusting?",
-      "zh-CN": "比RCE更可怕：安全边界悄然从「你和代码之间」转移到了「你和技能审核者之间」。当你安装一个技能时，你真正信任的是谁的判断？"
-    }
-  },
-  {
-    "id": "2034498349206773783",
-    "date": "2026-03-19",
-    "author": "@aakashgupta",
-    "author_url": "https://x.com/aakashgupta",
-    "tweet_url": "https://x.com/aakashgupta/status/2034498349206773783",
-    "title": {
-      "en-US": "OpenClaw shell access is the feature and the risk",
-      "zh-CN": "OpenClaw拥有机器的完整shell访问权限，这是它的核心特性，也是LangChain禁止员工安装它的原因，需要在便利性和风险之间做权衡。"
-    },
-    "summary": {
-      "en-US": "OpenClaw核心特性讨论——与owner直接相关",
-      "zh-CN": "讨论'要不要给shell权限'是在错误的方向上用力。真正的分水岭不在于权限本身，而在于用户是否理解：给权限是'借刀'，理解刀在谁手里才是'使刀'。"
-    },
-    "relevance": "OpenClaw核心特性讨论——与owner直接相关",
-    "score": 0.73,
-    "engagement": {
-      "likes": 26,
-      "replies": 1,
-      "retweets": 5,
-      "views": 3975
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-19T06:08:34.317930+00:00",
-    "js_take": {
-      "en-US": "Surface apps are becoming databases while agents become the inner world. The permission debate? Just migration noise.",
-      "zh-CN": "表层应用正在退化为数据库，而Agent正在成为里世界。那些关于权限的争论？不过是迁徙过程中的噪音罢了。"
     }
   }
 ]
