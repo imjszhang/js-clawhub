@@ -89,6 +89,34 @@
     }
   },
   {
+    "id": "2038093726346600732",
+    "date": "2026-03-29",
+    "author": "@4shadowed",
+    "author_url": "https://x.com/4shadowed",
+    "tweet_url": "https://x.com/4shadowed/status/2038093726346600732",
+    "title": {
+      "en-US": "Rewrote OpenClaw's Discord gateway connection library from scratch for better stability",
+      "zh-CN": "OpenClaw核心开发者Shadow宣布重写了Discord网关连接库，解决了重连问题"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心基础设施更新",
+      "zh-CN": "底层重写的「更安全」往往是伪命题——真正稳定的不是无懈可击的代码，而是允许失败并快速恢复的韧性；重构网关而非质疑架构本身，是用战术勤奋掩盖战略懒惰。"
+    },
+    "relevance": "OpenClaw核心基础设施更新",
+    "score": 0.78,
+    "engagement": {
+      "likes": 74,
+      "retweets": 2,
+      "replies": 8
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-29T06:13:13.297642+00:00",
+    "js_take": {
+      "en-US": "We rewrote our gateway 3 times. Stability didn't come from better code—it came from admitting it will fail and designing recovery paths. The most stable system assumes collapse.",
+      "zh-CN": "我们的网关重写了三次。稳定性并非源于更优秀的代码，而是源于承认它会失败，并提前设计好恢复路径。最稳定的系统，是那些为崩溃做好了准备的系统。"
+    }
+  },
+  {
     "id": "2037839265527177235",
     "date": "2026-03-29",
     "author": "@tuturetom",
@@ -235,6 +263,34 @@
     }
   },
   {
+    "id": "2038140071094943907",
+    "date": "2026-03-29",
+    "author": "@sudoingX",
+    "author_url": "https://x.com/sudoingX",
+    "tweet_url": "https://x.com/sudoingX/status/2038140071094943907",
+    "title": {
+      "en-US": "Criticizes OpenClaw as 120K+ lines of TS bloat, says local models replacing API is the future",
+      "zh-CN": "批评OpenClaw是12万行TypeScript的臃肿代码，认为本地模型替代API才是未来"
+    },
+    "summary": {
+      "en-US": "OpenClaw技术争议 + 本地模型vs API路线之争",
+      "zh-CN": "推文陷入「代码行数=臃肿」的简化判断，但工程复杂度往往来自要解决的问题本身而非解决方案的选择——真正的问题是谁在定义「正确」的工具调用方式。"
+    },
+    "relevance": "OpenClaw技术争议 + 本地模型vs API路线之争",
+    "score": 0.72,
+    "engagement": {
+      "likes": 46,
+      "replies": 2,
+      "retweets": 2
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-29T07:16:29.251459+00:00",
+    "js_take": {
+      "en-US": "Strip the label—120K lines isn't bloat, it's the cost of 50 humans arguing how AI should call tools. Local models don't win by being lean; they win when no one wants to own the definition anymore.",
+      "zh-CN": "撕掉标签——12万行不是代码臃肿，而是50个人争论「AI该怎么调用工具」的代价。本地模型不是靠精简取胜，而是赢在没人想再垄断定义权的那一刻。"
+    }
+  },
+  {
     "id": "2037966800080744698",
     "date": "2026-03-29",
     "author": "@rohanpaul_ai",
@@ -260,6 +316,34 @@
     "js_take": {
       "en-US": "Automation waits for the API. Agent scavenges. Clawdbot didn't need \"audio support\" — it built a bridge from FFmpeg to OpenAI because the goal mattered more than the spec.",
       "zh-CN": "自动化坐等 API，智能体自力更生。Clawdbot 不依赖「官方音频支持」——它从 FFmpeg 到 OpenAI 自建通路。完成目标，胜过遵循规范。"
+    }
+  },
+  {
+    "id": "2038079563121500664",
+    "date": "2026-03-29",
+    "author": "@ryancarson",
+    "author_url": "https://x.com/ryancarson",
+    "tweet_url": "https://x.com/ryancarson/status/2038079563121500664",
+    "title": {
+      "en-US": "Most of my dev now happens from my phone. I'm basically devin + openclaw 95% of the time.",
+      "zh-CN": "Ryan Carson表示现在大部分开发在手机上完成，95%时间用Devin+OpenClaw组合"
+    },
+    "summary": {
+      "en-US": "OpenClaw实际使用场景展示",
+      "zh-CN": "「手机开发+AI代理」是一种工作流的重新布线，但更大的信号是：开发者正在把「在场感」和「深度思考」解耦——当你能在通勤时review代码，真正的风险不是效率，而是失去整块时间做架构判断的能力。"
+    },
+    "relevance": "OpenClaw实际使用场景展示",
+    "score": 0.71,
+    "engagement": {
+      "likes": 102,
+      "retweets": 4,
+      "replies": 24
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-29T06:13:13.297648+00:00",
+    "js_take": {
+      "en-US": "I can review code on my commute. But my best architecture decisions? Those happened in 3-hour uninterrupted blocks that tools can't replicate. Speed without depth is just faster mediocrity.",
+      "zh-CN": "通勤路上我可以审代码。但那些最出色的架构决策？它们诞生于三小时不被打扰的深度专注时段，这是工具无法复制的。没有深度的速度，只是更快的平庸。"
     }
   },
   {
@@ -5610,91 +5694,6 @@
     "js_take": {
       "en-US": "Surface apps are becoming databases while agents become the inner world. The permission debate? Just migration noise.",
       "zh-CN": "表层应用正在退化为数据库，而Agent正在成为里世界。那些关于权限的争论？不过是迁徙过程中的噪音罢了。"
-    }
-  },
-  {
-    "id": "2034281658841722894",
-    "date": "2026-03-19",
-    "author": "@huang_chao4969",
-    "author_url": "https://x.com/huang_chao4969",
-    "tweet_url": "https://x.com/huang_chao4969/status/2034281658841722894",
-    "title": {
-      "en-US": "ClawTeam: 8 agents auto-train model, 2430+ experiments",
-      "zh-CN": "ClawTeam展示全自动模型训练：一个prompt触发8个agent协调，自动管理8块H100，跑2430+实验，零人工干预获得6.4%性能提升"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 - Agent自主协作",
-      "zh-CN": "更形象：这展示的是「AI迭代AI」的未来，但核心隐喻被忽略了——这不是「更快的人类工程师」，而是「不再需要人类工程师做执行」。表世界的「写代码」正在退化成里世界的「下指令」。"
-    },
-    "relevance": "OpenClaw生态 - Agent自主协作",
-    "score": 0.72,
-    "engagement": {
-      "likes": 31,
-      "replies": 3,
-      "retweets": 4,
-      "views": 2275
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-18T16:06:40.807769+00:00",
-    "js_take": {
-      "en-US": "2430 experiments, zero human hands. Surface-world coding is collapsing into the inner world as raw data. You're still polishing pull requests. The system already moved past you.",
-      "zh-CN": "2430 次实验，零人工干预。表世界的代码正坍缩为里世界的原始数据。你还在打磨 Pull Request，而系统早已远走。"
-    }
-  },
-  {
-    "id": "2034317951684481267",
-    "date": "2026-03-19",
-    "author": "@dansemperepico",
-    "author_url": "https://x.com/dansemperepico",
-    "tweet_url": "https://x.com/dansemperepico/status/2034317951684481267",
-    "title": {
-      "en-US": "OpenClaw is just gateway drug for Claude Code/Cowork.",
-      "zh-CN": "OpenClaw只是通往Claude Code/Cowork的'入门毒品'。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态定位 - 工具链演进",
-      "zh-CN": "这是一种线性进化思维：认为工具必然从A走向B。但技术演化不是单向的，而是分叉的。OpenClaw和Claude Code不是替代关系，而是'势'的不同表达。"
-    },
-    "relevance": "OpenClaw生态定位 - 工具链演进",
-    "score": 0.72,
-    "engagement": {
-      "likes": 49,
-      "replies": 15,
-      "retweets": 3
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-18T21:07:00.040471+00:00",
-    "js_take": {
-      "en-US": "Linear thinking: A → B. The actual migration: surface world is becoming databases, inner world is becoming the interface. Both evolve, just in opposite directions.",
-      "zh-CN": "线性思维：A → B。真实的迁徙正在发生：表世界退化为数据库，里世界进化成交互界面。两者都在演化，只是方向相反。"
-    }
-  },
-  {
-    "id": "2034346436100517959",
-    "date": "2026-03-19",
-    "author": "@TimHaldorsson",
-    "author_url": "https://x.com/TimHaldorsson",
-    "tweet_url": "https://x.com/TimHaldorsson/status/2034346436100517959",
-    "title": {
-      "en-US": "Claude dispatch killed OpenClaw - phone as remote, laptop as worker",
-      "zh-CN": "Claude推出Dispatch功能，手机可以远程控制桌面AI会话，作者认为这对OpenClaw是致命打击"
-    },
-    "summary": {
-      "en-US": "OpenClaw竞争格局，AI Agent远程控制趋势",
-      "zh-CN": "作者在庆祝一个功能「杀死」一个生态，但这恰恰误解了OpenClaw的本质——它不是远程控制工具，而是agent操作系统。真正的竞争维度不是「手机能不能连桌面」，而是agent之间能不能协作、能不能自主完成复杂任务链。"
-    },
-    "relevance": "OpenClaw竞争格局，AI Agent远程控制趋势",
-    "score": 0.72,
-    "engagement": {
-      "likes": 58,
-      "replies": 25,
-      "retweets": 2
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-18T22:10:30.476783+00:00",
-    "js_take": {
-      "en-US": "Phone as remote is a feature. Agent OS is infrastructure. Features get copied. Infrastructure creates moats. The migration isn't about who controls the laptop — it's about which agents can think across devices.",
-      "zh-CN": "手机当遥控器是功能，Agent OS 是基础设施。功能会被复制，基础设施才能建立护城河。这场迁徙的关键不在于谁控制笔记本电脑，而在于哪些 Agent 能跨设备思考。"
     }
   }
 ]

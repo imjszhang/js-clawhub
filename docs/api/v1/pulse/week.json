@@ -89,6 +89,34 @@
     }
   },
   {
+    "id": "2038093726346600732",
+    "date": "2026-03-29",
+    "author": "@4shadowed",
+    "author_url": "https://x.com/4shadowed",
+    "tweet_url": "https://x.com/4shadowed/status/2038093726346600732",
+    "title": {
+      "en-US": "Rewrote OpenClaw's Discord gateway connection library from scratch for better stability",
+      "zh-CN": "OpenClaw核心开发者Shadow宣布重写了Discord网关连接库，解决了重连问题"
+    },
+    "summary": {
+      "en-US": "OpenClaw核心基础设施更新",
+      "zh-CN": "底层重写的「更安全」往往是伪命题——真正稳定的不是无懈可击的代码，而是允许失败并快速恢复的韧性；重构网关而非质疑架构本身，是用战术勤奋掩盖战略懒惰。"
+    },
+    "relevance": "OpenClaw核心基础设施更新",
+    "score": 0.78,
+    "engagement": {
+      "likes": 74,
+      "retweets": 2,
+      "replies": 8
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-29T06:13:13.297642+00:00",
+    "js_take": {
+      "en-US": "We rewrote our gateway 3 times. Stability didn't come from better code—it came from admitting it will fail and designing recovery paths. The most stable system assumes collapse.",
+      "zh-CN": "我们的网关重写了三次。稳定性并非源于更优秀的代码，而是源于承认它会失败，并提前设计好恢复路径。最稳定的系统，是那些为崩溃做好了准备的系统。"
+    }
+  },
+  {
     "id": "2037839265527177235",
     "date": "2026-03-29",
     "author": "@tuturetom",
@@ -235,6 +263,34 @@
     }
   },
   {
+    "id": "2038140071094943907",
+    "date": "2026-03-29",
+    "author": "@sudoingX",
+    "author_url": "https://x.com/sudoingX",
+    "tweet_url": "https://x.com/sudoingX/status/2038140071094943907",
+    "title": {
+      "en-US": "Criticizes OpenClaw as 120K+ lines of TS bloat, says local models replacing API is the future",
+      "zh-CN": "批评OpenClaw是12万行TypeScript的臃肿代码，认为本地模型替代API才是未来"
+    },
+    "summary": {
+      "en-US": "OpenClaw技术争议 + 本地模型vs API路线之争",
+      "zh-CN": "推文陷入「代码行数=臃肿」的简化判断，但工程复杂度往往来自要解决的问题本身而非解决方案的选择——真正的问题是谁在定义「正确」的工具调用方式。"
+    },
+    "relevance": "OpenClaw技术争议 + 本地模型vs API路线之争",
+    "score": 0.72,
+    "engagement": {
+      "likes": 46,
+      "replies": 2,
+      "retweets": 2
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-29T07:16:29.251459+00:00",
+    "js_take": {
+      "en-US": "Strip the label—120K lines isn't bloat, it's the cost of 50 humans arguing how AI should call tools. Local models don't win by being lean; they win when no one wants to own the definition anymore.",
+      "zh-CN": "撕掉标签——12万行不是代码臃肿，而是50个人争论「AI该怎么调用工具」的代价。本地模型不是靠精简取胜，而是赢在没人想再垄断定义权的那一刻。"
+    }
+  },
+  {
     "id": "2037966800080744698",
     "date": "2026-03-29",
     "author": "@rohanpaul_ai",
@@ -260,6 +316,34 @@
     "js_take": {
       "en-US": "Automation waits for the API. Agent scavenges. Clawdbot didn't need \"audio support\" — it built a bridge from FFmpeg to OpenAI because the goal mattered more than the spec.",
       "zh-CN": "自动化坐等 API，智能体自力更生。Clawdbot 不依赖「官方音频支持」——它从 FFmpeg 到 OpenAI 自建通路。完成目标，胜过遵循规范。"
+    }
+  },
+  {
+    "id": "2038079563121500664",
+    "date": "2026-03-29",
+    "author": "@ryancarson",
+    "author_url": "https://x.com/ryancarson",
+    "tweet_url": "https://x.com/ryancarson/status/2038079563121500664",
+    "title": {
+      "en-US": "Most of my dev now happens from my phone. I'm basically devin + openclaw 95% of the time.",
+      "zh-CN": "Ryan Carson表示现在大部分开发在手机上完成，95%时间用Devin+OpenClaw组合"
+    },
+    "summary": {
+      "en-US": "OpenClaw实际使用场景展示",
+      "zh-CN": "「手机开发+AI代理」是一种工作流的重新布线，但更大的信号是：开发者正在把「在场感」和「深度思考」解耦——当你能在通勤时review代码，真正的风险不是效率，而是失去整块时间做架构判断的能力。"
+    },
+    "relevance": "OpenClaw实际使用场景展示",
+    "score": 0.71,
+    "engagement": {
+      "likes": 102,
+      "retweets": 4,
+      "replies": 24
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-29T06:13:13.297648+00:00",
+    "js_take": {
+      "en-US": "I can review code on my commute. But my best architecture decisions? Those happened in 3-hour uninterrupted blocks that tools can't replicate. Speed without depth is just faster mediocrity.",
+      "zh-CN": "通勤路上我可以审代码。但那些最出色的架构决策？它们诞生于三小时不被打扰的深度专注时段，这是工具无法复制的。没有深度的速度，只是更快的平庸。"
     }
   },
   {
