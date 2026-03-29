@@ -29,6 +29,34 @@
     }
   },
   {
+    "id": "2038049076923744674",
+    "date": "2026-03-29",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2038049076923744674",
+    "title": {
+      "en-US": "Anyone who thinks AI is a bubble has never used OpenClaw",
+      "zh-CN": "Anyone who thinks AI is a bubble has never used OpenClaw"
+    },
+    "summary": {
+      "en-US": "直接提及OpenClaw，AI Agent平台",
+      "zh-CN": "这条推文的结构是「工具体验反驳质疑」，但真正的张力在于：AI是不是泡沫，取决于你用它来做什么——用它做 yesterday's task 是泡沫，用它做 tomorrow's workflow 是地基。"
+    },
+    "relevance": "直接提及OpenClaw，AI Agent平台",
+    "score": 0.74,
+    "engagement": {
+      "likes": 132,
+      "replies": 49,
+      "retweets": 2
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-29T01:09:58.027281+00:00",
+    "js_take": {
+      "en-US": "OpenClaw killed the bubble debate for me. Real question: how much of your job are you still doing manually out of habit?",
+      "zh-CN": "OpenClaw 让我不再纠结泡沫之争。真正值得思考的是：你的工作里有多少还在靠惯性手动完成？"
+    }
+  },
+  {
     "id": "2037945698683896072",
     "date": "2026-03-29",
     "author": "@ashen_one",
@@ -5657,35 +5685,6 @@
     "js_take": {
       "en-US": "2-minute setup is a promise and a prison. When your workflow needs something the UI didn't predict, you'll understand why some of us choose the steep path.",
       "zh-CN": "2 分钟上手是个承诺，也是个牢笼。当你的工作流需要一些 UI 没预想到的功能时，你就会明白为什么有人宁愿走那条难走的路。"
-    }
-  },
-  {
-    "id": "2034543166767128646",
-    "date": "2026-03-19",
-    "author": "@vista8",
-    "author_url": "https://x.com/vista8",
-    "tweet_url": "https://x.com/vista8/status/2034543166767128646",
-    "title": {
-      "en-US": "飞书官方 OpenClaw 插件发布，安装变得相当丝滑",
-      "zh-CN": "飞书官方发布了 OpenClaw 插件，安装变得相当丝滑，不再需要配置长连接或添加各种机器人权限，一条命令 `npx -y @larksuite/openclaw-lark install` 扫码即可。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台生态进展",
-      "zh-CN": "「安装变丝滑」表面是体验优化，实际是战略转向——飞书从「提供功能」变成「成为底座」，OpenClaw 生态正在从「开发者玩具」变成「企业基础设施」。"
-    },
-    "relevance": "OpenClaw 平台生态进展",
-    "score": 0.71,
-    "engagement": {
-      "likes": 68,
-      "replies": 8,
-      "retweets": 11,
-      "views": 12626
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-19T10:13:46.870756+00:00",
-    "js_take": {
-      "en-US": "One command, one strategic pivot: Feishu is becoming infrastructure, not features. When installation friction hits zero, OpenClaw stops being a dev toy and starts being enterprise backbone — that's the real inflection point.",
-      "zh-CN": "一条命令，一次战略转向：飞书正在成为基础设施，而非功能堆砌。当安装摩擦趋近于零，OpenClaw就从开发玩具蜕变为企业骨干——这才是真正的拐点。"
     }
   }
 ]
