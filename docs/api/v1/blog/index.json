@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-03-27",
+    "title": {
+      "zh-CN": "把编码外包给 Cursor：OpenClaw 架构降本的关键一跃",
+      "en-US": "Outsourcing Coding to Cursor: The Key Leap in Reducing OpenClaw's Costs"
+    },
+    "date": "2026-03-27",
+    "summary": {
+      "zh-CN": "今天终于捅破了 OpenClaw 成本优化的最后一层窗户纸：将高消耗的编程任务从原生 Chat 上下文中彻底剥离，通过 ACP 协议外包给 Cursor CLI。这不仅是配置上的微调，更是从“可记录”向“可教学”演进中，解决 Token 成本结构性难题的必经之路。",
+      "en-US": "Today, we finally pierced the last barrier in OpenClaw's cost optimization: completely decoupling high-consumption coding tasks from the native Chat context and outsourcing them to the Cursor CLI via the ACP protocol. This isn't just a minor configuration tweak; it's a necessary step in our evolution from 'recordable' to 'teachable,' solving the structural challenges of token costs."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 56
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-25",
     "title": {
       "zh-CN": "从精确执行到对话策展：18 次迭代重塑 AI 视觉工作流",
