@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-29T09:12:48.870184+00:00",
+  "updated_at": "2026-03-29T10:27:27.204499+00:00",
   "this_week": {
-    "total_items": 119,
+    "total_items": 121,
     "avg_score": 0.77,
-    "unique_authors": 99,
+    "unique_authors": 100,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -322,6 +322,34 @@
         "js_take": {
           "en-US": "You built 47 skills. Users installed 3. The gap isn't ambition—it's the fantasy that more tools equals more value. Real restraint is admitting most walls don't need ladders.",
           "zh-CN": "你造了47个技能，用户装了3个。问题不是野心不够，而是「工具越多价值越大」的幻觉。真正的克制，是承认大多数墙本就不需要梯子。"
+        }
+      },
+      {
+        "id": "2038174269604241884",
+        "date": "2026-03-29",
+        "author": "@gkisokay",
+        "author_url": "https://x.com/gkisokay",
+        "tweet_url": "https://x.com/gkisokay/status/2038174269604241884",
+        "title": {
+          "en-US": "Why I don't use Hermes for everything after 3+ months building in Claude Code, Codex, etc.",
+          "zh-CN": "作者在比较 OpenClaw 和 Hermes Agent 的使用场景，解释为什么即使有了新工具，他仍然坚持使用 OpenClaw 做研究项目。"
+        },
+        "summary": {
+          "en-US": "OpenClaw vs Hermes 工具选择——热点对比话题，评论区流量高",
+          "zh-CN": "「新工具来了就迁移」是一种过度简化的认知：作者实际在说的是「工具迁移的成本不在工具本身，而在你装不进 context window 的 3 个月上下文」——这才是真正的护城河。"
+        },
+        "relevance": "OpenClaw vs Hermes 工具选择——热点对比话题，评论区流量高",
+        "score": 0.82,
+        "engagement": {
+          "likes": 64,
+          "replies": 16,
+          "retweets": 9
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-29T10:27:07.934546+00:00",
+        "js_take": {
+          "en-US": "3 months of context lives in your editor's memory, not your head. Chasing the shiny new tool just bankrupted your most valuable asset.",
+          "zh-CN": "编辑器替你记住了3个月的上下文，不是你的大脑。追逐新工具，只会让你最宝贵的资产贬值。"
         }
       },
       {
@@ -1003,41 +1031,11 @@
           "en-US": "Android vs Apple was about convenience. This is about judgment. Outsource your thinking enough times, and you forget how to come back.",
           "zh-CN": "Android vs Apple was about convenience. This is about judgment. Outsource your thinking enough times, and you forget how to come back."
         }
-      },
-      {
-        "id": "2038067657354903628",
-        "date": "2026-03-29",
-        "author": "@ShenHuang_",
-        "author_url": "https://x.com/ShenHuang_",
-        "tweet_url": "https://x.com/ShenHuang_/status/2038067657354903628",
-        "title": {
-          "en-US": "Node.js在AI赛道把Python反杀了，923个Skill vs 372个",
-          "zh-CN": "分析了top 2000下载的Skills后发现：Node.js以923个Skill稳居榜首，是Python（372个）的2.5倍。"
-        },
-        "summary": {
-          "en-US": "OpenClaw Skills生态数据分析 + 技术栈趋势",
-          "zh-CN": "数据呈现了一个反直觉现象，但解读方向可能被带偏——这不是'Node.js打败了Python'，而是'Agent时代的开发者用脚投票'。Python在AI训练层的主导地位无可撼动，但在Agent编排层，JavaScript生态的灵活性和前端开发者的涌入改变了游戏规则。推文止于数据，未触及更深层的生态位迁移逻辑。"
-        },
-        "relevance": "OpenClaw Skills生态数据分析 + 技术栈趋势",
-        "score": 0.78,
-        "engagement": {
-          "likes": 20,
-          "replies": 1,
-          "retweets": 1,
-          "bookmarks": 8,
-          "views": 1932
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-29T05:13:30.596600+00:00",
-        "js_take": {
-          "en-US": "Not Node.js winning — it's the agent layer eating the training layer's lunch. When AI moves from lab to desktop, developers pick the fastest hammer, not the pedigree.",
-          "zh-CN": "不是Node.js赢了，是Agent层抢了训练层的饭碗。AI从实验室走向桌面，开发者只看速度不看出身。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 156
+    "unique_authors": 155
   }
 }

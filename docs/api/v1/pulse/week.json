@@ -59,6 +59,34 @@
     }
   },
   {
+    "id": "2038174269604241884",
+    "date": "2026-03-29",
+    "author": "@gkisokay",
+    "author_url": "https://x.com/gkisokay",
+    "tweet_url": "https://x.com/gkisokay/status/2038174269604241884",
+    "title": {
+      "en-US": "Why I don't use Hermes for everything after 3+ months building in Claude Code, Codex, etc.",
+      "zh-CN": "作者在比较 OpenClaw 和 Hermes Agent 的使用场景，解释为什么即使有了新工具，他仍然坚持使用 OpenClaw 做研究项目。"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Hermes 工具选择——热点对比话题，评论区流量高",
+      "zh-CN": "「新工具来了就迁移」是一种过度简化的认知：作者实际在说的是「工具迁移的成本不在工具本身，而在你装不进 context window 的 3 个月上下文」——这才是真正的护城河。"
+    },
+    "relevance": "OpenClaw vs Hermes 工具选择——热点对比话题，评论区流量高",
+    "score": 0.82,
+    "engagement": {
+      "likes": 64,
+      "replies": 16,
+      "retweets": 9
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-29T10:27:07.934546+00:00",
+    "js_take": {
+      "en-US": "3 months of context lives in your editor's memory, not your head. Chasing the shiny new tool just bankrupted your most valuable asset.",
+      "zh-CN": "编辑器替你记住了3个月的上下文，不是你的大脑。追逐新工具，只会让你最宝贵的资产贬值。"
+    }
+  },
+  {
     "id": "2038067657354903628",
     "date": "2026-03-29",
     "author": "@ShenHuang_",
@@ -403,6 +431,34 @@
     "js_take": {
       "en-US": "I can review code on my commute. But my best architecture decisions? Those happened in 3-hour uninterrupted blocks that tools can't replicate. Speed without depth is just faster mediocrity.",
       "zh-CN": "通勤路上我可以审代码。但那些最出色的架构决策？它们诞生于三小时不被打扰的深度专注时段，这是工具无法复制的。没有深度的速度，只是更快的平庸。"
+    }
+  },
+  {
+    "id": "2037902677288575402",
+    "date": "2026-03-29",
+    "author": "@ianneo_ai",
+    "author_url": "https://x.com/ianneo_ai",
+    "tweet_url": "https://x.com/ianneo_ai/status/2037902677288575402",
+    "title": {
+      "en-US": "47+ OpenClaw forks prove real demand for the tool",
+      "zh-CN": "一个网站列出了 47 个 OpenClaw 套壳项目，作者认为这说明底层需求是真的。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态需求验证——套壳现象的本质分析",
+      "zh-CN": "「被 47 个团队套壳」的本质不是需求验证，而是需求还未被原工具完全满足——每多一个套壳，说明原工具在某类场景下还有缺口，套壳是市场的修正信号，不是掌声。"
+    },
+    "relevance": "OpenClaw 生态需求验证——套壳现象的本质分析",
+    "score": 0.71,
+    "engagement": {
+      "likes": 21,
+      "replies": 5,
+      "retweets": 0
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-29T10:27:07.934551+00:00",
+    "js_take": {
+      "en-US": "47 forks aren't applause—they're 47 polite complaints that the original missed their mark. True demand satisfaction makes forks unnecessary.",
+      "zh-CN": "47次分叉不是喝彩，而是47份委婉的批评——原版未能满足他们的需求。真正解决问题，才无需他人自行分叉。"
     }
   },
   {

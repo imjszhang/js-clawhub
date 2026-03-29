@@ -59,6 +59,34 @@
     }
   },
   {
+    "id": "2038174269604241884",
+    "date": "2026-03-29",
+    "author": "@gkisokay",
+    "author_url": "https://x.com/gkisokay",
+    "tweet_url": "https://x.com/gkisokay/status/2038174269604241884",
+    "title": {
+      "en-US": "Why I don't use Hermes for everything after 3+ months building in Claude Code, Codex, etc.",
+      "zh-CN": "作者在比较 OpenClaw 和 Hermes Agent 的使用场景，解释为什么即使有了新工具，他仍然坚持使用 OpenClaw 做研究项目。"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Hermes 工具选择——热点对比话题，评论区流量高",
+      "zh-CN": "「新工具来了就迁移」是一种过度简化的认知：作者实际在说的是「工具迁移的成本不在工具本身，而在你装不进 context window 的 3 个月上下文」——这才是真正的护城河。"
+    },
+    "relevance": "OpenClaw vs Hermes 工具选择——热点对比话题，评论区流量高",
+    "score": 0.82,
+    "engagement": {
+      "likes": 64,
+      "replies": 16,
+      "retweets": 9
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-29T10:27:07.934546+00:00",
+    "js_take": {
+      "en-US": "3 months of context lives in your editor's memory, not your head. Chasing the shiny new tool just bankrupted your most valuable asset.",
+      "zh-CN": "编辑器替你记住了3个月的上下文，不是你的大脑。追逐新工具，只会让你最宝贵的资产贬值。"
+    }
+  },
+  {
     "id": "2038067657354903628",
     "date": "2026-03-29",
     "author": "@ShenHuang_",
@@ -403,6 +431,34 @@
     "js_take": {
       "en-US": "I can review code on my commute. But my best architecture decisions? Those happened in 3-hour uninterrupted blocks that tools can't replicate. Speed without depth is just faster mediocrity.",
       "zh-CN": "通勤路上我可以审代码。但那些最出色的架构决策？它们诞生于三小时不被打扰的深度专注时段，这是工具无法复制的。没有深度的速度，只是更快的平庸。"
+    }
+  },
+  {
+    "id": "2037902677288575402",
+    "date": "2026-03-29",
+    "author": "@ianneo_ai",
+    "author_url": "https://x.com/ianneo_ai",
+    "tweet_url": "https://x.com/ianneo_ai/status/2037902677288575402",
+    "title": {
+      "en-US": "47+ OpenClaw forks prove real demand for the tool",
+      "zh-CN": "一个网站列出了 47 个 OpenClaw 套壳项目，作者认为这说明底层需求是真的。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态需求验证——套壳现象的本质分析",
+      "zh-CN": "「被 47 个团队套壳」的本质不是需求验证，而是需求还未被原工具完全满足——每多一个套壳，说明原工具在某类场景下还有缺口，套壳是市场的修正信号，不是掌声。"
+    },
+    "relevance": "OpenClaw 生态需求验证——套壳现象的本质分析",
+    "score": 0.71,
+    "engagement": {
+      "likes": 21,
+      "replies": 5,
+      "retweets": 0
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-29T10:27:07.934551+00:00",
+    "js_take": {
+      "en-US": "47 forks aren't applause—they're 47 polite complaints that the original missed their mark. True demand satisfaction makes forks unnecessary.",
+      "zh-CN": "47次分叉不是喝彩，而是47份委婉的批评——原版未能满足他们的需求。真正解决问题，才无需他人自行分叉。"
     }
   },
   {
@@ -5636,65 +5692,6 @@
     "js_take": {
       "en-US": "Clean install on new hardware is surface-world theater. Claw3D's real test isn't sterile labs—it's surviving production chaos: skill conflicts, memory leaks, dependency hell. The inner world doesn't reward purity. It rewards antifragility.",
       "zh-CN": "在新硬件上做干净安装，这是表世界的表演。Claw3D 的真正考验不在无菌实验室——而在生产环境的混乱中存活：技能冲突、内存泄漏、依赖地狱。里世界不奖励纯粹，它奖励反脆弱。"
-    }
-  },
-  {
-    "id": "2034456225203802582",
-    "date": "2026-03-19",
-    "author": "@nbaschez",
-    "author_url": "https://x.com/nbaschez",
-    "tweet_url": "https://x.com/nbaschez/status/2034456225203802582",
-    "title": {
-      "en-US": "OpenClaw paradigm important but product lacking",
-      "zh-CN": "OpenClaw 作为一种范式极其重要，但作为一个产品还有很多不足之处"
-    },
-    "summary": {
-      "en-US": "OpenClaw 范式 vs 产品的核心矛盾",
-      "zh-CN": "这条推文精准点出了技术产品的一个常见陷阱：人们容易被「范式正确」说服，却忽视了「产品可用」才是决定是否有人用的硬门槛。"
-    },
-    "relevance": "OpenClaw 范式 vs 产品的核心矛盾",
-    "score": 0.75,
-    "engagement": {
-      "likes": 13,
-      "replies": 2,
-      "retweets": 0,
-      "views": 797,
-      "bookmarks": 1
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-19T03:09:44.684157+00:00",
-    "js_take": {
-      "en-US": "Everyone sees where the water flows. Few count the rocks. The gap between 'should work' and 'actually works' is where adoption dies.",
-      "zh-CN": "人人看得到水往哪流，却少有人数清河中礁石。「理应可行」与「实际可用」之间的鸿沟，正是产品夭折的坟场。"
-    }
-  },
-  {
-    "id": "2034336534833369562",
-    "date": "2026-03-19",
-    "author": "@Kylechasse",
-    "author_url": "https://x.com/Kylechasse",
-    "tweet_url": "https://x.com/Kylechasse/status/2034336534833369562",
-    "title": {
-      "en-US": "NVIDIA OpenShell solves agent trust problem with sandboxing",
-      "zh-CN": "NVIDIA发布OpenShell，声称解决了自主AI agent的安全信任问题，通过沙箱机制让agent在获得完整文件系统访问权限时更安全。"
-    },
-    "summary": {
-      "en-US": "AI agent安全与信任——与OpenClaw的shell访问权限话题直接相关",
-      "zh-CN": "人们争论'要不要给agent权限'时，漏掉了一个前提：真正的问题不是给不给权限，而是当所有人都给权限时，'安全'这个指标本身就失去了意义。"
-    },
-    "relevance": "AI agent安全与信任——与OpenClaw的shell访问权限话题直接相关",
-    "score": 0.75,
-    "engagement": {
-      "likes": 114,
-      "replies": 9,
-      "retweets": 12,
-      "views": 24746
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-19T06:08:34.317925+00:00",
-    "js_take": {
-      "en-US": "Real growth isn't building tighter cages when everyone races for 'safest sandbox.' The edge is knowing what not to lock up.",
-      "zh-CN": "真正的增长不是在人人争抢「最安全沙盒」时把笼子越造越紧。真正的优势在于知道什么不该锁。"
     }
   }
 ]
