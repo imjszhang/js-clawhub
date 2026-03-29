@@ -1,5 +1,89 @@
 [
   {
+    "id": "2038276420250817020",
+    "date": "2026-03-30",
+    "author": "@davidfowl",
+    "author_url": "https://x.com/davidfowl",
+    "tweet_url": "https://x.com/davidfowl/status/2038276420250817020",
+    "title": {
+      "en-US": "Agents hate abstractions; good architecture before agent runs prevents sloppy layers",
+      "zh-CN": "Agent讨厌抽象；在Agent运行前建立良好的架构能防止代码层混乱"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent代码架构，与wuwei主题契合",
+      "zh-CN": "做纠正：Agent 的「失控」不是工具的问题，是人的问题——你给了它执行的自由，却没给它判断的边界。好的架构不是限制，而是预判哪里会出错，然后让错误不会发生。"
+    },
+    "relevance": "OpenClaw/Agent代码架构，与wuwei主题契合",
+    "score": 0.82,
+    "engagement": {
+      "likes": 45,
+      "replies": 6,
+      "retweets": 6
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-29T16:20:48.905643+00:00",
+    "js_take": {
+      "en-US": "Agent isn't dangerous because it writes bad code — it's dangerous because it executes your unclear thinking faster than you can catch it. Good architecture isn't decoration; it's pre-emptive error elimination.",
+      "zh-CN": "Agent 的危险不在于写出烂代码——而在于它把你模糊不清的想法执行得比你纠错还快。好的架构不是装饰，而是预先消灭错误。"
+    }
+  },
+  {
+    "id": "2038049564301590782",
+    "date": "2026-03-30",
+    "author": "@vultuk",
+    "author_url": "https://x.com/vultuk",
+    "tweet_url": "https://x.com/vultuk/status/2038049564301590782",
+    "title": {
+      "en-US": "Tried OpenClaw, had fewer tools than my custom agent; switched to Hermes",
+      "zh-CN": "试用了OpenClaw，发现自己的自定义agent工具比它还多，于是转用Hermes"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态直接相关",
+      "zh-CN": "做纠正：工具数量≠能力上限。自定义agent工具多，可能是你把所有判断都外包给工具，没留给自己。OpenClaw 的「少」可能是设计选择——让判断力而不是工具数量成为瓶颈。"
+    },
+    "relevance": "OpenClaw生态直接相关",
+    "score": 0.76,
+    "engagement": {
+      "likes": 44,
+      "replies": 5,
+      "retweets": 2
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-29T16:20:48.905648+00:00",
+    "js_take": {
+      "en-US": "More tools, lazier judgment. When you cover every scenario with 30 tools, you've stopped asking \"should this even be done?\" Less isn't empty space — it's room for judgment to breathe.",
+      "zh-CN": "工具越多，判断越懒。当你用30个工具覆盖所有场景时，你已经不再问「这事该不该做」。少不是空白——而是给判断留的呼吸空间。"
+    }
+  },
+  {
+    "id": "2037944750284873833",
+    "date": "2026-03-30",
+    "author": "@0xquqi",
+    "author_url": "https://x.com/0xquqi",
+    "tweet_url": "https://x.com/0xquqi/status/2037944750284873833",
+    "title": {
+      "en-US": "Most Claude Code users treat .claude folder as black box, never open config",
+      "zh-CN": "大多数Claude Code用户把.claude文件夹当黑盒，从不打开配置"
+    },
+    "summary": {
+      "en-US": "OpenClaw配置优化，与工具使用哲学相关",
+      "zh-CN": "更深度：把配置当黑盒用，是用旧习惯驾驭新工具——就像买了跑车却只用一档。配置的价值不是「让工具更听话」，而是把你对项目的理解沉淀成规则，让工具继承你的判断力。"
+    },
+    "relevance": "OpenClaw配置优化，与工具使用哲学相关",
+    "score": 0.74,
+    "engagement": {
+      "likes": 144,
+      "replies": 3,
+      "retweets": 34
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-29T16:20:48.905651+00:00",
+    "js_take": {
+      "en-US": "Treating .claude as a black box turns Claude Code into faster autocomplete. The real difference isn't execution speed — it's whether you'll spend time writing down *why* you decided, letting the tool inherit your judgment.",
+      "zh-CN": "把 .claude 当黑盒，Claude Code 就沦为更快的自动补全。真正的区别不在于执行速度——而在于你是否愿意花时间写下「为什么」这样决定，让工具继承你的判断力。"
+    }
+  },
+  {
     "id": "2037972563981164736",
     "date": "2026-03-29",
     "author": "@dramaricic",

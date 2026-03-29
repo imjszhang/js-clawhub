@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-29T13:25:20.653448+00:00",
+  "updated_at": "2026-03-29T16:21:08.807669+00:00",
   "this_week": {
-    "total_items": 124,
+    "total_items": 127,
     "avg_score": 0.77,
-    "unique_authors": 103,
+    "unique_authors": 106,
     "top_items": [
       {
         "id": "2036199965186207817",
@@ -293,6 +293,34 @@
         "js_take": {
           "en-US": "Skeptics confuse autonomy with automation. You set expectations and boundaries, then step back—this isn't magic, it's engineering wisdom most would rather micromanage than trust.",
           "zh-CN": "怀疑者把「自主」和「自动化」混为一谈。你设定好预期和边界，然后退后——这不是什么魔法，而是工程智慧。大多数人宁愿事事插手，也不愿真正信任。"
+        }
+      },
+      {
+        "id": "2038276420250817020",
+        "date": "2026-03-30",
+        "author": "@davidfowl",
+        "author_url": "https://x.com/davidfowl",
+        "tweet_url": "https://x.com/davidfowl/status/2038276420250817020",
+        "title": {
+          "en-US": "Agents hate abstractions; good architecture before agent runs prevents sloppy layers",
+          "zh-CN": "Agent讨厌抽象；在Agent运行前建立良好的架构能防止代码层混乱"
+        },
+        "summary": {
+          "en-US": "OpenClaw/Agent代码架构，与wuwei主题契合",
+          "zh-CN": "做纠正：Agent 的「失控」不是工具的问题，是人的问题——你给了它执行的自由，却没给它判断的边界。好的架构不是限制，而是预判哪里会出错，然后让错误不会发生。"
+        },
+        "relevance": "OpenClaw/Agent代码架构，与wuwei主题契合",
+        "score": 0.82,
+        "engagement": {
+          "likes": 45,
+          "replies": 6,
+          "retweets": 6
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-03-29T16:20:48.905643+00:00",
+        "js_take": {
+          "en-US": "Agent isn't dangerous because it writes bad code — it's dangerous because it executes your unclear thinking faster than you can catch it. Good architecture isn't decoration; it's pre-emptive error elimination.",
+          "zh-CN": "Agent 的危险不在于写出烂代码——而在于它把你模糊不清的想法执行得比你纠错还快。好的架构不是装饰，而是预先消灭错误。"
         }
       },
       {
@@ -1003,39 +1031,11 @@
           "en-US": "Strip the pixel art. Does the agent's workflow still compel? Dashboards are vanity metrics for builders. The agents that survive won't be the prettiest—they'll be the ones that work when nobody's watching.",
           "zh-CN": "剥去像素艺术的外壳，这个agent的工作流还站得住脚吗？仪表板不过是开发者的虚荣指标。真正能在竞争中存活下来的agent，从来不是最花哨的那个——而是那些即便无人关注，依然能稳定运行的。"
         }
-      },
-      {
-        "id": "2036222212227596662",
-        "date": "2026-03-24",
-        "author": "@_MaxBlade",
-        "author_url": "https://x.com/_MaxBlade",
-        "tweet_url": "https://x.com/_MaxBlade/status/2036222212227596662",
-        "title": {
-          "en-US": "",
-          "zh-CN": "OpenClaw会成为Android——你可以完全控制但也能搞砸一切；Claude Cowork会是Apple——开箱即用但放弃控制"
-        },
-        "summary": {
-          "en-US": "OpenClaw vs Claude 的产品哲学对比",
-          "zh-CN": "这个类比抓到了表象，但忽略了本质——Android和Apple之争是「控制vs易用」的二元对立，而AI agent时代的真正选择是「你愿意让渡多少判断力换取 convenience」"
-        },
-        "relevance": "OpenClaw vs Claude 的产品哲学对比",
-        "score": 0.79,
-        "engagement": {
-          "likes": 289,
-          "retweets": 9,
-          "replies": 34
-        },
-        "comment_type": "wuwei",
-        "synced_at": "2026-03-24T04:07:52.933613+00:00",
-        "js_take": {
-          "en-US": "Android vs Apple was about convenience. This is about judgment. Outsource your thinking enough times, and you forget how to come back.",
-          "zh-CN": "Android vs Apple was about convenience. This is about judgment. Outsource your thinking enough times, and you forget how to come back."
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 156
+    "unique_authors": 158
   }
 }
