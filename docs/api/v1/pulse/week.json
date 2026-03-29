@@ -84,6 +84,34 @@
     }
   },
   {
+    "id": "2038126459450171860",
+    "date": "2026-03-30",
+    "author": "@heyshrutimishra",
+    "author_url": "https://x.com/heyshrutimishra",
+    "tweet_url": "https://x.com/heyshrutimishra/status/2038126459450171860",
+    "title": {
+      "en-US": "318,000 people installed the same AI skill. Every mistake, correction, non-obvious learning logged. Then the best...",
+      "zh-CN": "31.8万人安装了同一个OpenClaw skill，记录所有错误、修正和隐晦学习点，然后选出最佳实践。"
+    },
+    "summary": {
+      "en-US": "OpenClaw agent学习/技能进化，直接相关",
+      "zh-CN": "原推在鼓吹「记录一切」的数据驱动，但没说清代价——过度记录和修正本身就是一种干预，可能让agent失去在模糊中探索的能力。"
+    },
+    "relevance": "OpenClaw agent学习/技能进化，直接相关",
+    "score": 0.71,
+    "engagement": {
+      "likes": 97,
+      "retweets": 18,
+      "replies": 18
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-29T17:07:16.348983+00:00",
+    "js_take": {
+      "en-US": "318k perfect logs train agents to solve yesterday's problems elegantly. They freeze on tomorrow's edge cases—the messy stuff you didn't think to record.",
+      "zh-CN": "31.8万条完美日志训练出的Agent，能优雅解决昨天的问题，却会在明天的边缘案例上僵住——那些混乱的、你根本没想到要记录的情况。"
+    }
+  },
+  {
     "id": "2037972563981164736",
     "date": "2026-03-29",
     "author": "@dramaricic",
