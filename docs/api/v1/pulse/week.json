@@ -84,6 +84,34 @@
     }
   },
   {
+    "id": "2038449412452892693",
+    "date": "2026-03-30",
+    "author": "@lxfater",
+    "author_url": "https://x.com/lxfater",
+    "tweet_url": "https://x.com/lxfater/status/2038449412452892693",
+    "title": {
+      "en-US": "OpenClaw's web scraping is poor, recommends xcrawl solution",
+      "zh-CN": "推主吐槽OpenClaw抓取网页信息的机制很差，经常抓不到或抓到垃圾信息，推荐用xcrawl解决，并提到ClawHub可直接安装"
+    },
+    "summary": {
+      "en-US": "OpenClaw 工具生态与用户体验痛点",
+      "zh-CN": "推主指出的问题（抓取不稳定）是表象，真正的问题是：用同一套工具解决所有场景，本身就是违背「顺势而为」的执念——工具应该随场景流动，而非让用户削足适履"
+    },
+    "relevance": "OpenClaw 工具生态与用户体验痛点",
+    "score": 0.78,
+    "engagement": {
+      "likes": 83,
+      "replies": 13,
+      "retweets": 15
+    },
+    "comment_type": "shunshi",
+    "synced_at": "2026-03-30T05:09:09.362457+00:00",
+    "js_take": {
+      "en-US": "OpenClaw 'sucks' at scraping because it wasn't built for that current. Tools should flow with the task — you're holding the wrong boat.",
+      "zh-CN": "OpenClaw 在网页抓取上表现糟糕，因为它压根不是为这个场景设计的。工具应该与任务契合——你拿错了船。"
+    }
+  },
+  {
     "id": "2038049564301590782",
     "date": "2026-03-30",
     "author": "@vultuk",
@@ -137,6 +165,34 @@
     "js_take": {
       "en-US": "Treating .claude as a black box turns Claude Code into faster autocomplete. The real difference isn't execution speed — it's whether you'll spend time writing down *why* you decided, letting the tool inherit your judgment.",
       "zh-CN": "把 .claude 当黑盒，Claude Code 就沦为更快的自动补全。真正的区别不在于执行速度——而在于你是否愿意花时间写下「为什么」这样决定，让工具继承你的判断力。"
+    }
+  },
+  {
+    "id": "2038457412185657567",
+    "date": "2026-03-30",
+    "author": "@om_patel5",
+    "author_url": "https://x.com/om_patel5",
+    "tweet_url": "https://x.com/om_patel5/status/2038457412185657567",
+    "title": {
+      "en-US": "Hermes agent vs OpenClaw comparison, calling it next OpenClaw",
+      "zh-CN": "推主对比Hermes和OpenClaw，称Hermes可能是人们想要的下一个OpenClaw，提到两者GitHub stars和生态差异"
+    },
+    "summary": {
+      "en-US": "AI Agent 平台竞争与生态对比",
+      "zh-CN": "「下一个OpenClaw」这个叙事本身就是误区——生态位的争夺不在于谁更像谁，而在于谁能定义新的游戏规则；14.6K stars追339K，靠的不是模仿，是找到被忽视的缝隙"
+    },
+    "relevance": "AI Agent 平台竞争与生态对比",
+    "score": 0.72,
+    "engagement": {
+      "likes": 32,
+      "replies": 9,
+      "retweets": 0
+    },
+    "comment_type": "buzheng",
+    "synced_at": "2026-03-30T05:09:09.362462+00:00",
+    "js_take": {
+      "en-US": "Chasing 'the next OpenClaw' is racing to finish second. Real growth lives in the gaps they never filled — that's where the game actually changes.",
+      "zh-CN": "追逐「下一个 OpenClaw」注定只能当老二。真正的增长在他们从未填补的空白地带——那里才是游戏规则真正改变的地方。"
     }
   },
   {
