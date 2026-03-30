@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-30T14:14:01.032416+00:00",
+  "updated_at": "2026-03-30T20:10:35.468351+00:00",
   "this_week": {
-    "total_items": 16,
+    "total_items": 17,
     "avg_score": 0.77,
-    "unique_authors": 16,
+    "unique_authors": 17,
     "top_items": [
       {
         "id": "2038357970606498032",
@@ -393,6 +393,34 @@
         "js_take": {
           "en-US": "Structure isn't organized. It's earned. You don't tidy up for the AI — you think harder about what to break apart, then the AI executes.",
           "zh-CN": "结构不是整理出来的，而是思考出来的。与其为AI做整理，不如花更多功夫想清楚该拆什么，剩下的交给AI执行。"
+        }
+      },
+      {
+        "id": "2038670345054347412",
+        "date": "2026-03-31",
+        "author": "@Hesamation",
+        "author_url": "https://x.com/Hesamation",
+        "tweet_url": "https://x.com/Hesamation/status/2038670345054347412",
+        "title": {
+          "en-US": "Claude killed OpenClaw again — can now use your computer, coding and end-to-end testing for UI, interact with GUI-only tools",
+          "zh-CN": "Claude 再次「杀死」OpenClaw——现在能使用你的电脑、进行 UI 的编码和端到端测试、与仅支持 GUI 的工具交互"
+        },
+        "summary": {
+          "en-US": "OpenClaw 竞争格局 + Claude Computer Use",
+          "zh-CN": "「X killed Y」这种叙事过度简化了工具生态——当一个新工具出现时，旧工具不会消失，而是退化为更高层次的基础设施；真正的护城河从「功能」转向「装不进context window的上下文」。"
+        },
+        "relevance": "OpenClaw 竞争格局 + Claude Computer Use",
+        "score": 0.71,
+        "engagement": {
+          "likes": 113,
+          "replies": 20,
+          "retweets": 5
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-03-30T20:10:16.953235+00:00",
+        "js_take": {
+          "en-US": "Strip the hype — Claude didn't kill anything. Tools don't die; they become infrastructure. The moat moves from features to context that won't fit in a prompt.",
+          "zh-CN": "剥去炒作的外衣——Claude 并没有「杀死」任何东西。工具不会消亡，它们会沉淀为基础设施。护城河正在从功能特性，转向那些无法塞进提示词的深层上下文。"
         }
       },
       {
