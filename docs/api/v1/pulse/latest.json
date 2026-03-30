@@ -1,10 +1,38 @@
 {
-  "updated_at": "2026-03-30T01:06:55.355643+00:00",
+  "updated_at": "2026-03-30T02:08:02.195951+00:00",
   "this_week": {
-    "total_items": 5,
-    "avg_score": 0.77,
-    "unique_authors": 5,
+    "total_items": 6,
+    "avg_score": 0.78,
+    "unique_authors": 6,
     "top_items": [
+      {
+        "id": "2038357970606498032",
+        "date": "2026-03-30",
+        "author": "@DavidOndrej1",
+        "author_url": "https://x.com/DavidOndrej1",
+        "tweet_url": "https://x.com/DavidOndrej1/status/2038357970606498032",
+        "title": {
+          "en-US": "Hermes Agent could be the real OpenClaw killer",
+          "zh-CN": "Hermes Agent 或成 OpenClaw 真正对手"
+        },
+        "summary": {
+          "en-US": "OpenClaw 竞品分析，Agent 框架竞争",
+          "zh-CN": "OpenClaw 竞品分析，Agent 框架生态博弈"
+        },
+        "relevance": "OpenClaw 竞品分析，Agent 框架竞争",
+        "score": 0.85,
+        "engagement": {
+          "likes": 252,
+          "replies": 16,
+          "retweets": 12
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-03-30T02:07:38.576046+00:00",
+        "js_take": {
+          "en-US": "The real win isn't killing OpenClaw—it's becoming harder to leave than to stay. Ecosystem gravity > feature lists.",
+          "zh-CN": "真正的制胜之道不是击败 OpenClaw，而是让用户离不开你。生态引力 > 功能清单。"
+        }
+      },
       {
         "id": "2038276420250817020",
         "date": "2026-03-30",

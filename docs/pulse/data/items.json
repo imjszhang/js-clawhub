@@ -1,5 +1,33 @@
 [
   {
+    "id": "2038357970606498032",
+    "date": "2026-03-30",
+    "author": "@DavidOndrej1",
+    "author_url": "https://x.com/DavidOndrej1",
+    "tweet_url": "https://x.com/DavidOndrej1/status/2038357970606498032",
+    "title": {
+      "en-US": "Hermes Agent could be the real OpenClaw killer",
+      "zh-CN": "Hermes Agent 或成 OpenClaw 真正对手"
+    },
+    "summary": {
+      "en-US": "OpenClaw 竞品分析，Agent 框架竞争",
+      "zh-CN": "OpenClaw 竞品分析，Agent 框架生态博弈"
+    },
+    "relevance": "OpenClaw 竞品分析，Agent 框架竞争",
+    "score": 0.85,
+    "engagement": {
+      "likes": 252,
+      "replies": 16,
+      "retweets": 12
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-30T02:07:38.576046+00:00",
+    "js_take": {
+      "en-US": "The real win isn't killing OpenClaw—it's becoming harder to leave than to stay. Ecosystem gravity > feature lists.",
+      "zh-CN": "真正的制胜之道不是击败 OpenClaw，而是让用户离不开你。生态引力 > 功能清单。"
+    }
+  },
+  {
     "id": "2038276420250817020",
     "date": "2026-03-30",
     "author": "@davidfowl",
@@ -5667,34 +5695,6 @@
     "js_take": {
       "en-US": "Copy-pasting configs is copying someone else's cognitive debt. The real growth hack: understand where the momentum is, then build your own system.",
       "zh-CN": "复制粘贴配置，就是在继承别人的认知债务。真正的增长黑客之道：看清势能在哪里，然后搭建自己的系统。"
-    }
-  },
-  {
-    "id": "2034396521446457407",
-    "date": "2026-03-19",
-    "author": "@MatthewBerman",
-    "author_url": "https://x.com/MatthewBerman",
-    "tweet_url": "https://x.com/MatthewBerman/status/2034396521446457407",
-    "title": {
-      "en-US": "Meta deployed their own version of openclaw and it led to a critical security incident.",
-      "zh-CN": "Meta自己部署了OpenClaw版本，结果导致了严重的安全事件"
-    },
-    "summary": {
-      "en-US": "OpenClaw安全/Agent部署",
-      "zh-CN": "推文的潜台词是'自托管Agent=高风险'，但这个判断过度简化了——问题不在OpenClaw本身，而在部署时是否理解'无为而治'的系统边界：安全不是叠加更多限制，而是设计让危险自然无法发生的结构"
-    },
-    "relevance": "OpenClaw安全/Agent部署",
-    "score": 0.78,
-    "engagement": {
-      "likes": 22,
-      "replies": 6,
-      "retweets": 1
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-19T00:07:24.292042+00:00",
-    "js_take": {
-      "en-US": "Meta treated 'autonomous' as 'unbounded.' OpenClaw isn't unsafe—you just built a city without zoning and called it freedom. Real Agent security isn't more walls. It's designing terrain where trouble naturally flows to the edges.",
-      "zh-CN": "Meta 把「自主」等同于「无边界」。OpenClaw 并非不安全——你只是建了一座没有规划的城市，还美其名曰自由。真正的 Agent 安全不是靠加高围墙，而是设计一块地形，让麻烦自然流向边缘。"
     }
   }
 ]
