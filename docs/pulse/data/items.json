@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2038409934556283391",
+    "date": "2026-03-30",
+    "author": "@andrewchen",
+    "author_url": "https://x.com/andrewchen",
+    "tweet_url": "https://x.com/andrewchen/status/2038409934556283391",
+    "title": {
+      "en-US": "learning from openclaw: 95%+ of agentic coding will be done via voice, from our phones in the future",
+      "zh-CN": "OpenClaw 团队观察到：未来95%以上的 agentic 编码将通过语音在手机上完成"
+    },
+    "summary": {
+      "en-US": "OpenClaw 使用场景预测，直接相关",
+      "zh-CN": "做纠正：把「语音编码」当成未来趋势，忽略了真正的瓶颈从「输入速度」转移到了「决策质量」——30个 agent 同时工作时，杀死你的不是打字慢，而是你说错一句话被30倍放大执行"
+    },
+    "relevance": "OpenClaw 使用场景预测，直接相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 55,
+      "retweets": 2,
+      "replies": 20
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-30T01:06:36.427213+00:00",
+    "js_take": {
+      "en-US": "Voice frees your hands but straps a megaphone to your judgment. When 30 agents hear one vague command, they don't amplify your intent—they compound your error 30x.",
+      "zh-CN": "语音控制解放了双手，却把你的判断力绑上了扩音器。当30个智能体听到一个模糊指令时，它们不是在放大你的意图，而是把你的错误放大了30倍。"
+    }
+  },
+  {
     "id": "2038049564301590782",
     "date": "2026-03-30",
     "author": "@vultuk",
@@ -5667,36 +5695,6 @@
     "js_take": {
       "en-US": "Meta treated 'autonomous' as 'unbounded.' OpenClaw isn't unsafe—you just built a city without zoning and called it freedom. Real Agent security isn't more walls. It's designing terrain where trouble naturally flows to the edges.",
       "zh-CN": "Meta 把「自主」等同于「无边界」。OpenClaw 并非不安全——你只是建了一座没有规划的城市，还美其名曰自由。真正的 Agent 安全不是靠加高围墙，而是设计一块地形，让麻烦自然流向边缘。"
-    }
-  },
-  {
-    "id": "2034293385142665281",
-    "date": "2026-03-19",
-    "author": "@woocassh",
-    "author_url": "https://x.com/woocassh",
-    "tweet_url": "https://x.com/woocassh/status/2034293385142665281",
-    "title": {
-      "en-US": "OpenClaw ecosystem major fault analysis",
-      "zh-CN": "作者花几周研究 OpenClaw 生态后，指出其存在重大缺陷（附视频链接）"
-    },
-    "summary": {
-      "en-US": "直接针对 OpenClaw 生态的批评性分析",
-      "zh-CN": "OpenClaw 的「范式正确」与「产品粗糙」之间的张力，恰恰印证了东方系统思维的一个盲区：我们擅长判断趋势（势），却常常低估执行中「人」的摩擦成本。"
-    },
-    "relevance": "直接针对 OpenClaw 生态的批评性分析",
-    "score": 0.78,
-    "engagement": {
-      "likes": 17,
-      "replies": 8,
-      "retweets": 0,
-      "views": 530,
-      "bookmarks": 0
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-19T03:09:44.684153+00:00",
-    "js_take": {
-      "en-US": "The migration from surface to inner world has a speed limit: how fast the surface stops sucking.",
-      "zh-CN": "表层向内层的迁徙有天然限速：表层何时停止「拉胯」。"
     }
   }
 ]
