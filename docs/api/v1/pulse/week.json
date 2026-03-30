@@ -222,6 +222,34 @@
     }
   },
   {
+    "id": "2038275577543561606",
+    "date": "2026-03-30",
+    "author": "@KamakuraCrypto",
+    "author_url": "https://x.com/KamakuraCrypto",
+    "tweet_url": "https://x.com/KamakuraCrypto/status/2038275577543561606",
+    "title": {
+      "en-US": "OpenClaw vs Hermes pivot + Qwen 3.5 orchestrator setup",
+      "zh-CN": "建议从 OpenClaw 转向 Hermes，或用 Qwen 3.5 27B 做编排器+Claude/Codex 做生成的混合架构"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态 + Agent 架构选型",
+      "zh-CN": "工具迁移的讨论往往陷入「新工具淘汰旧工具」的二元对立，但真正的工程智慧在于看到不同工具在系统中所处的生态位——OpenClaw 和 Hermes 并非取代关系，而是各自解决不同层面的问题。"
+    },
+    "relevance": "OpenClaw 生态 + Agent 架构选型",
+    "score": 0.78,
+    "engagement": {
+      "likes": 192,
+      "replies": 17,
+      "retweets": 14
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-30T14:13:33.640080+00:00",
+    "js_take": {
+      "en-US": "Tools don't replace tools; they stack. The best setup knows which layer each tool owns—migration is architecture, not betrayal.",
+      "zh-CN": "工具之间不是取代关系，而是层层叠加。优秀的工具组合懂得为每个工具分配专属层级——迁移是架构设计，而非对旧工具的背叛。"
+    }
+  },
+  {
     "id": "2038049564301590782",
     "date": "2026-03-30",
     "author": "@vultuk",
