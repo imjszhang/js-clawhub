@@ -1,5 +1,33 @@
 [
   {
+    "id": "2038636184818352470",
+    "date": "2026-03-31",
+    "author": "@OpenAgentsAI",
+    "author_url": "https://x.com/OpenAgentsAI",
+    "tweet_url": "https://x.com/OpenAgentsAI/status/2038636184818352470",
+    "title": {
+      "en-US": "Introducing OpenAgents Workspace - all AI agents work together, shared chat/files/browsers",
+      "zh-CN": "OpenAgents 发布 Workspace，让多个 AI Agent 在同一个空间协作，共享聊天、文件和浏览器"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态 + Multi-Agent 协作",
+      "zh-CN": "更深度：推文在讲「让多个agent协作」的技术功能，但真正的瓶颈从来不是连接能力，而是「谁来协调」。当10个agent共享一个浏览器时，冲突的不是资源，是意图。没有统一目标的协作，只是把混乱从人的层面下沉到agent层面。"
+    },
+    "relevance": "OpenClaw 生态 + Multi-Agent 协作",
+    "score": 0.78,
+    "engagement": {
+      "likes": 80,
+      "replies": 33,
+      "retweets": 26
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-30T21:11:19.827365+00:00",
+    "js_take": {
+      "en-US": "Connecting 10 agents is plumbing. The real bottleneck: when three agents want to rewrite the same file differently, who decides? Workspace moves the coordination problem — doesn't solve it.",
+      "zh-CN": "连接10个Agent不过是 plumbing。真正的瓶颈在于：当三个Agent都想用不同方式改写同一个文件时，谁来拍板？Workspace只是把协调问题挪了个地方——并没有真正解决它。"
+    }
+  },
+  {
     "id": "2038670345054347412",
     "date": "2026-03-31",
     "author": "@Hesamation",

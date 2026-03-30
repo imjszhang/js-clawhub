@@ -1,5 +1,33 @@
 [
   {
+    "id": "2038636184818352470",
+    "date": "2026-03-31",
+    "author": "@OpenAgentsAI",
+    "author_url": "https://x.com/OpenAgentsAI",
+    "tweet_url": "https://x.com/OpenAgentsAI/status/2038636184818352470",
+    "title": {
+      "en-US": "Introducing OpenAgents Workspace - all AI agents work together, shared chat/files/browsers",
+      "zh-CN": "OpenAgents 发布 Workspace，让多个 AI Agent 在同一个空间协作，共享聊天、文件和浏览器"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态 + Multi-Agent 协作",
+      "zh-CN": "更深度：推文在讲「让多个agent协作」的技术功能，但真正的瓶颈从来不是连接能力，而是「谁来协调」。当10个agent共享一个浏览器时，冲突的不是资源，是意图。没有统一目标的协作，只是把混乱从人的层面下沉到agent层面。"
+    },
+    "relevance": "OpenClaw 生态 + Multi-Agent 协作",
+    "score": 0.78,
+    "engagement": {
+      "likes": 80,
+      "replies": 33,
+      "retweets": 26
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-30T21:11:19.827365+00:00",
+    "js_take": {
+      "en-US": "Connecting 10 agents is plumbing. The real bottleneck: when three agents want to rewrite the same file differently, who decides? Workspace moves the coordination problem — doesn't solve it.",
+      "zh-CN": "连接10个Agent不过是 plumbing。真正的瓶颈在于：当三个Agent都想用不同方式改写同一个文件时，谁来拍板？Workspace只是把协调问题挪了个地方——并没有真正解决它。"
+    }
+  },
+  {
     "id": "2038670345054347412",
     "date": "2026-03-31",
     "author": "@Hesamation",
@@ -5664,35 +5692,6 @@
     "js_take": {
       "en-US": "YC partners spent 15 years refining how to ask hard questions. Now it's one command in Claude. Surface world methodologies are being compressed into inner world infrastructure. This migration is bigger than any single tool.",
       "zh-CN": "YC 合伙人花了15年打磨如何问出犀利问题的艺术。现在在 Claude 里只是一句指令的事。表世界的方法论正在被压缩成里世界的基础设施。这场迁徙比任何单一工具都大得多。"
-    }
-  },
-  {
-    "id": "2034766793739575774",
-    "date": "2026-03-20",
-    "author": "@yoheinakajima",
-    "author_url": "https://x.com/yoheinakajima",
-    "tweet_url": "https://x.com/yoheinakajima/status/2034766793739575774",
-    "title": {
-      "en-US": "The real impact of claw was normalizing the ability to chat with your ai from any channel",
-      "zh-CN": "Claw的真正影响是让『在任何渠道与你的AI对话』这件事变得常态化。"
-    },
-    "summary": {
-      "en-US": "OpenClaw核心洞察与表里世界迁徙",
-      "zh-CN": "这句话点破了『表世界退化为数据库，里世界成为新交互层』的本质——OpenClaw做的不是工具，是表世界向里世界迁徙的基础设施。"
-    },
-    "relevance": "OpenClaw核心洞察与表里世界迁徙",
-    "score": 0.75,
-    "engagement": {
-      "likes": 32,
-      "retweets": 0,
-      "replies": 7,
-      "views": 3599
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-20T02:06:59.238871+00:00",
-    "js_take": {
-      "en-US": "The surface world (apps) became a database. OpenClaw proved the inner world (chat-everywhere) can be the interface. We're watching the second migration happen in real time.",
-      "zh-CN": "表世界（App）退化成数据库了。OpenClaw 证明了里世界（无处不在的对话）可以是新的界面层。我们正实时看着第二次迁徙发生。"
     }
   }
 ]
