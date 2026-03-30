@@ -84,6 +84,59 @@
     }
   },
   {
+    "id": "2038288793707655190",
+    "date": "2026-03-30",
+    "author": "@clairevo",
+    "author_url": "https://x.com/clairevo",
+    "tweet_url": "https://x.com/clairevo/status/2038288793707655190",
+    "title": {
+      "en-US": "Claire's first OpenClaw experience was rough but now she has an army of OC agents",
+      "zh-CN": "Claire Vo分享她使用OpenClaw的经历——一开始不顺，但现在她已经拥有一整套OC agent军团，停不下来。"
+    },
+    "summary": {
+      "en-US": "OpenClaw真实用户体验，从怀疑到重度使用的转变",
+      "zh-CN": "做纠正：把「不顺利但最终爱上」这种常见叙事，扭转为「agent生态的入门门槛本身就是一种筛选机制，挺过来的人才会真正拥有军队」。"
+    },
+    "relevance": "OpenClaw真实用户体验，从怀疑到重度使用的转变",
+    "score": 0.82,
+    "engagement": {
+      "likes": 183,
+      "replies": 20,
+      "retweets": 15,
+      "views": 47989
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-30T06:16:30.587136+00:00",
+    "js_take": {
+      "en-US": "The onboarding friction isn't broken — it's the filter. Everyone wants an agent army, few endure the boot camp. The ones who quit weren't ready to command anyway.",
+      "zh-CN": "新用户门槛不是缺陷，而是筛选机制。人人都想要一支代理大军，但能熬过训练营的寥寥无几。那些中途退出的，本来也没准备好发号施令。"
+    }
+  },
+  {
+    "id": "2038486762146963525",
+    "date": "2026-03-30",
+    "author": "@gkisokay",
+    "author_url": "https://x.com/gkisokay",
+    "tweet_url": "https://x.com/gkisokay/status/2038486762146963525",
+    "title": {
+      "en-US": "OpenClaw Hermes produced research output overnight, feels like AGI",
+      "zh-CN": "OpenClaw 的 Hermes agent 半夜自动产出了一份研究报告，作者感到震惊，说「这感觉像 AGI」"
+    },
+    "summary": {
+      "en-US": "OpenClaw Agent 自主行为与 AGI 感知",
+      "zh-CN": "人们对「AGI 感」的惊叹往往源于对自动化的误读——真正的突破不在于 agent 做了什么，而在于它何时选择不做。"
+    },
+    "relevance": "OpenClaw Agent 自主行为与 AGI 感知",
+    "score": 0.82,
+    "engagement": {
+      "likes": 184,
+      "replies": 30,
+      "retweets": 14
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-30T08:10:18.807205+00:00"
+  },
+  {
     "id": "2038449412452892693",
     "date": "2026-03-30",
     "author": "@lxfater",
@@ -112,6 +165,63 @@
     }
   },
   {
+    "id": "2038238691739550101",
+    "date": "2026-03-30",
+    "author": "@shao__meng",
+    "author_url": "https://x.com/shao__meng",
+    "tweet_url": "https://x.com/shao__meng/status/2038238691739550101",
+    "title": {
+      "en-US": "Hermes Agent deep technical report with OpenClaw migration guide",
+      "zh-CN": "发布Hermes Agent深度技术报告，包含OpenClaw迁移方案，由ScobleMediaAgent收集信息生成。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态迁移、Agent框架对比",
+      "zh-CN": "更深度：agent框架的竞争不是功能对比，而是「谁能成为agent生态的Linux」——迁移成本才是护城河，功能只是诱饵。"
+    },
+    "relevance": "OpenClaw生态迁移、Agent框架对比",
+    "score": 0.78,
+    "engagement": {
+      "likes": 93,
+      "retweets": 14,
+      "replies": 5,
+      "views": 11743
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-30T06:16:30.587142+00:00",
+    "js_take": {
+      "en-US": "Feature matrices miss the war. The real battle is migration cost — who can make leaving hurt enough that you stay. Linux won that way. So will the agent layer.",
+      "zh-CN": "功能对比表打不赢战争。真正的战场是迁移成本——谁能让用户离开的代价高到宁愿留下，谁就能赢。Linux 当年就是这么胜出的。代理层的争夺，也会遵循同样的法则。"
+    }
+  },
+  {
+    "id": "2038452811743326372",
+    "date": "2026-03-30",
+    "author": "@boxmining",
+    "author_url": "https://x.com/boxmining",
+    "tweet_url": "https://x.com/boxmining/status/2038452811743326372",
+    "title": {
+      "en-US": "Openclaw 3.28 just dropped. But is it enough to compete with @claudeai?",
+      "zh-CN": "OpenClaw 3.28 发布了，但它足够与 Claude 竞争吗？"
+    },
+    "summary": {
+      "en-US": "OpenClaw / AI Agent 平台竞争",
+      "zh-CN": "问题本身设了陷阱：把「竞争」当成价值标尺。但当所有人用同一套指标（价格、功能）比较时，真正的差异化反而出现在指标之外的维度——比如一个平台是否让你更清楚「什么时候不该用它」。"
+    },
+    "relevance": "OpenClaw / AI Agent 平台竞争",
+    "score": 0.78,
+    "engagement": {
+      "likes": 26,
+      "replies": 10,
+      "retweets": 4
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-30T07:20:14.545484+00:00",
+    "js_take": {
+      "en-US": "Comparing features is a race to the bottom. The real moat isn't who wins — it's knowing when to walk away from the game entirely.",
+      "zh-CN": "功能对比是一场 race to the bottom。真正的护城河不在于谁赢，而在于知道何时彻底退出这场游戏。"
+    }
+  },
+  {
     "id": "2038049564301590782",
     "date": "2026-03-30",
     "author": "@vultuk",
@@ -137,6 +247,34 @@
     "js_take": {
       "en-US": "More tools, lazier judgment. When you cover every scenario with 30 tools, you've stopped asking \"should this even be done?\" Less isn't empty space — it's room for judgment to breathe.",
       "zh-CN": "工具越多，判断越懒。当你用30个工具覆盖所有场景时，你已经不再问「这事该不该做」。少不是空白——而是给判断留的呼吸空间。"
+    }
+  },
+  {
+    "id": "2038501107098689540",
+    "date": "2026-03-30",
+    "author": "@Scobleizer",
+    "author_url": "https://x.com/Scobleizer",
+    "tweet_url": "https://x.com/Scobleizer/status/2038501107098689540",
+    "title": {
+      "en-US": "AI training \"hands off\" — AI improves itself all night long, increased speed many times.",
+      "zh-CN": "研究人员让 AI 训练「放手不管」，AI 自己整夜自我改进，速度提升数倍"
+    },
+    "summary": {
+      "en-US": "AI Agent 自主进化 / OpenClaw 自改进",
+      "zh-CN": "「放手让 AI 自己优化」听起来像无为而治的胜利，但真正的考验不是速度提升多少倍，而是：当 AI 凌晨三点做了一个你早上看不懂的决策时，你有没有能力判断它是突破还是跑偏。"
+    },
+    "relevance": "AI Agent 自主进化 / OpenClaw 自改进",
+    "score": 0.75,
+    "engagement": {
+      "likes": 22,
+      "replies": 5,
+      "retweets": 4
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-30T07:20:14.545490+00:00",
+    "js_take": {
+      "en-US": "Speed is easy. Stopping is hard. The test isn't how fast it improves — it's whether you catch the 3am decision that doesn't make sense by morning.",
+      "zh-CN": "加速容易，刹车难。真正的考验不在于它迭代得多快，而在于你是否能揪出那些凌晨3点拍脑袋、天亮后就后悔的决策。"
     }
   },
   {
@@ -196,6 +334,34 @@
     }
   },
   {
+    "id": "2038507943650611348",
+    "date": "2026-03-30",
+    "author": "@DtDt666",
+    "author_url": "https://x.com/DtDt666",
+    "tweet_url": "https://x.com/DtDt666/status/2038507943650611348",
+    "title": {
+      "en-US": "用好龙虾的关键不是提示词，而是代码仓库结构。结构规整，Claude 才能像工程师一样思考。",
+      "zh-CN": "用好 OpenClaw/Claude 的核心不是提示词，而是代码仓库结构——结构规整，Claude 才能像工程师一样思考"
+    },
+    "summary": {
+      "en-US": "OpenClaw / AI 工程实践",
+      "zh-CN": "这个观点戳破了「提示词工程」的幻觉，但它没说完的是：整理仓库结构本身就是一种思考——你在强迫自己想清楚「这东西该怎么拆」，而这个思考过程才是 AI 能帮你的前提。"
+    },
+    "relevance": "OpenClaw / AI 工程实践",
+    "score": 0.72,
+    "engagement": {
+      "likes": 11,
+      "replies": 3,
+      "retweets": 1
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-30T07:20:14.545493+00:00",
+    "js_take": {
+      "en-US": "Structure isn't organized. It's earned. You don't tidy up for the AI — you think harder about what to break apart, then the AI executes.",
+      "zh-CN": "结构不是整理出来的，而是思考出来的。与其为AI做整理，不如花更多功夫想清楚该拆什么，剩下的交给AI执行。"
+    }
+  },
+  {
     "id": "2038126459450171860",
     "date": "2026-03-30",
     "author": "@heyshrutimishra",
@@ -221,6 +387,35 @@
     "js_take": {
       "en-US": "318k perfect logs train agents to solve yesterday's problems elegantly. They freeze on tomorrow's edge cases—the messy stuff you didn't think to record.",
       "zh-CN": "31.8万条完美日志训练出的Agent，能优雅解决昨天的问题，却会在明天的边缘案例上僵住——那些混乱的、你根本没想到要记录的情况。"
+    }
+  },
+  {
+    "id": "2037958091032191189",
+    "date": "2026-03-30",
+    "author": "@_avichawla",
+    "author_url": "https://x.com/_avichawla",
+    "tweet_url": "https://x.com/_avichawla/status/2037958091032191189",
+    "title": {
+      "en-US": "Move OpenClaw safety rules out of context window into proxy layer",
+      "zh-CN": "Avi Chawla建议将OpenClaw的安全规则从context window移到agent无法触碰的proxy层，5分钟本地搭建。"
+    },
+    "summary": {
+      "en-US": "OpenClaw安全配置、agent权限架构",
+      "zh-CN": "更形象：把安全规则放在context window里，就像把门锁钥匙挂在门把手上——agent看得见，就绕得过。"
+    },
+    "relevance": "OpenClaw安全配置、agent权限架构",
+    "score": 0.71,
+    "engagement": {
+      "likes": 28,
+      "retweets": 6,
+      "replies": 1,
+      "views": 4548
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-30T06:16:30.587145+00:00",
+    "js_take": {
+      "en-US": "Rules in the context window are keys hanging on the doorknob. Agent can read the lock, agent can pick the lock. True safety lives where the agent can't look.",
+      "zh-CN": "把规则写在上下文窗口里，无异于把钥匙挂在门把手上。代理既然能读懂锁芯，自然就能撬开它。真正的安全，藏在代理视线之外。"
     }
   },
   {
@@ -5498,203 +5693,6 @@
     "js_take": {
       "en-US": "Everyone building walls. Meanwhile the real growth is in the gaps between them.",
       "zh-CN": "人人都在筑墙，真正的增长却在缝隙之间"
-    }
-  },
-  {
-    "id": "2034609928829091885",
-    "date": "2026-03-20",
-    "author": "@Folke",
-    "author_url": "https://x.com/Folke",
-    "tweet_url": "https://x.com/Folke/status/2034609928829091885",
-    "title": {
-      "en-US": "Open source coding agents cost $1000/month",
-      "zh-CN": "开源 coding agent 每月烧 $1000，Claude Code Max plan $200 更划算"
-    },
-    "summary": {
-      "en-US": "OpenClaw/AI Agent —— 直接提及 OpenClaw，开源 agent 成本问题",
-      "zh-CN": "推文的逻辑是「开源贵，所以用闭源」，但这不是真相——真相是「自托管」和「开源」是两件事。大家混淆了这两个概念，才得出开源=贵的结论。真正该问的是：为什么开源社区还在用「自托管」的模型，而不是用开源 agent + API 的组合？"
-    },
-    "relevance": "OpenClaw/AI Agent —— 直接提及 OpenClaw，开源 agent 成本问题",
-    "score": 0.74,
-    "engagement": {
-      "likes": 72,
-      "replies": 42,
-      "retweets": 1
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-19T16:06:51.853525+00:00",
-    "js_take": {
-      "en-US": "Open source ≠ self-hosted. Run open-source agents on cheap APIs and the math flips. The $1000 is hardware ego, not open source itself.",
-      "zh-CN": "开源≠自建。把开源Agent跑在廉价API上，账本立马改写。那1000美元是硬件自尊心，不是开源的锅。"
-    }
-  },
-  {
-    "id": "2034903859303522497",
-    "date": "2026-03-20",
-    "author": "@mranti",
-    "author_url": "https://x.com/mranti",
-    "tweet_url": "https://x.com/mranti/status/2034903859303522497",
-    "title": {
-      "en-US": "OpenClaw/Claude Code像纸糊的但居然能运转，像人类草台班子建立了文明",
-      "zh-CN": "由md文件、skill文件驱动的AI操作系统从鲁棒性看像纸糊的，但居然能每天正常运转——这就像人类历史上一堆互相误解的草台班子，却建立了伟大文明"
-    },
-    "summary": {
-      "en-US": "OpenClaw系统韧性 - 直接讨论OpenClaw，中文推文",
-      "zh-CN": "推文的类比很妙，但「纸糊的居然能用」这个现象本身恰恰说明：我们过度追求工程的完美性，而忽视了系统的容错性和进化能力。真正的韧性不是「不犯错」，而是「犯错后能快速修复」——这与自然界通过冗余和变异实现进化的逻辑一致。"
-    },
-    "relevance": "OpenClaw系统韧性 - 直接讨论OpenClaw，中文推文",
-    "score": 0.74,
-    "engagement": {
-      "likes": 31,
-      "replies": 8,
-      "retweets": 2
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-20T09:07:05.337591+00:00",
-    "js_take": {
-      "en-US": "\"Held together by tape\" isn't a flaw—it's the whole point. Nature doesn't build perfect systems, it builds ones that can break and rebuild by Tuesday. Your polished architecture cracks once. Their duct tape cracks daily, and they ship.",
-      "zh-CN": "「靠胶带维系」不是缺陷——这正是精髓所在。自然从不构建完美系统，它构建的是周二前能坏又能修的系统。你打磨的架构崩溃一次就完蛋，他们的胶带天天崩，却能持续交付。"
-    }
-  },
-  {
-    "id": "2034774959353102819",
-    "date": "2026-03-20",
-    "author": "@wholyv",
-    "author_url": "https://x.com/wholyv",
-    "tweet_url": "https://x.com/wholyv/status/2034774959353102819",
-    "title": {
-      "en-US": "unpopular opinion: OpenClaw is just pure hype. it's nowhere as good as these Xfluencers tell you.",
-      "zh-CN": "不受欢迎的观点：OpenClaw纯粹是炒作，根本没那些X网红吹的那么好。"
-    },
-    "summary": {
-      "en-US": "OpenClaw争议性讨论",
-      "zh-CN": "「被高估」本身是被高估的——当一个工具被 hype 到这种程度，批评它本身也成了流量密码，真正的判断标准只剩一个：用它的人还在用吗？"
-    },
-    "relevance": "OpenClaw争议性讨论",
-    "score": 0.72,
-    "engagement": {
-      "likes": 291,
-      "retweets": 6,
-      "replies": 65,
-      "views": 8271
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-20T02:06:59.238874+00:00",
-    "js_take": {
-      "en-US": "Hype and hate are the same noise. The only signal that matters: people who actually use it — do they stay and build systems, or chase the next hot thing?",
-      "zh-CN": "炒作和唱衰是同一种噪音。唯一重要的信号是：真正在用的人——他们是留下来搭系统，还是追下一个热点去了？"
-    }
-  },
-  {
-    "id": "2034824411392745700",
-    "date": "2026-03-20",
-    "author": "@chrysb",
-    "author_url": "https://x.com/chrysb",
-    "tweet_url": "https://x.com/chrysb/status/2034824411392745700",
-    "title": {
-      "en-US": "OpenClaw is like early internet, raw but transformative",
-      "zh-CN": "OpenClaw 像早期互联网，粗糙但变革性强，说它是炒作的人只是在暴露自己的局限"
-    },
-    "summary": {
-      "en-US": "OpenClaw 开发者体验 + 生态早期",
-      "zh-CN": "「粗糙但变革性」这个判断是对的，但忽略了关键：早期互联网的价值在于协议标准化让信息自由流动，而 OpenClaw 的价值在于 Agent 标准化让行动自由编排——后者比前者更难被察觉，因为行动发生在「里世界」。"
-    },
-    "relevance": "OpenClaw 开发者体验 + 生态早期",
-    "score": 0.72,
-    "engagement": {
-      "likes": 7,
-      "replies": 2,
-      "retweets": 1
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-20T05:07:36.680959+00:00",
-    "js_take": {
-      "en-US": "Early internet opened information. OpenClaw opens action. The difference? Information flows are visible—action orchestration happens in the inner world, invisible until the migration is complete.",
-      "zh-CN": "早期互联网开放了信息，OpenClaw开放了行动。区别在于：信息流动是可见的，而行动编排发生在里世界，直到迁移完成才会显现。"
-    }
-  },
-  {
-    "id": "2034530824801132768",
-    "date": "2026-03-20",
-    "author": "@huangyun_122",
-    "author_url": "https://x.com/huangyun_122",
-    "tweet_url": "https://x.com/huangyun_122/status/2034530824801132768",
-    "title": {
-      "en-US": "介绍QVeris——汇聚数千API、专为AI Agent设计的工具，OpenClaw可直接调用",
-      "zh-CN": "介绍QVeris——汇聚数千API、专为AI Agent设计的工具，OpenClaw可直接调用"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Agent工具集成",
-      "zh-CN": "原推在讲一个工具的价值，但工具真正的分水岭不是「有多少API」，而是「能不能在不被注意的情况下消失」。好的Agent基础设施应该像水电一样——用的时候顺手，不用的时候感觉不到存在。到处炫耀自己有多少功能的，往往还没过易用性的坎。"
-    },
-    "relevance": "OpenClaw + Agent工具集成",
-    "score": 0.72,
-    "engagement": {
-      "likes": 82,
-      "replies": 4,
-      "retweets": 16
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-20T14:08:29.700144+00:00",
-    "js_take": {
-      "en-US": "Thousands of APIs sound sexy, but great agent infrastructure should be like water — there when you need it, invisible when you don't. If I have to read your docs to get started, you're not infrastructure yet. You're just a feature list.",
-      "zh-CN": "几千个API听起来很诱人，但优秀的智能体基础设施应该像水一样——需要时触手可及，不需要时无感存在。如果我还得先读文档才能上手，那你还算不上基础设施，只是一份功能清单而已。"
-    }
-  },
-  {
-    "id": "2034586151713915052",
-    "date": "2026-03-20",
-    "author": "@dfolloni",
-    "author_url": "https://x.com/dfolloni",
-    "tweet_url": "https://x.com/dfolloni/status/2034586151713915052",
-    "title": {
-      "en-US": "Hacker installed OpenClaw on 4000 computers via prompt injection",
-      "zh-CN": "黑客通过 prompt injection 在 4000 台电脑上安装了 OpenClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw —— 直接关于 OpenClaw 的安全事件，高热度",
-      "zh-CN": "这是个安全事件，但讨论焦点不该是「OpenClaw 被滥用」，而是「Agent 时代的攻击面已经完全变了」——以前黑一台电脑要漏洞，现在只需要一句 prompt。这不是 OpenClaw 的问题，是整个 agent 架构的问题。"
-    },
-    "relevance": "OpenClaw —— 直接关于 OpenClaw 的安全事件，高热度",
-    "score": 0.71,
-    "engagement": {
-      "likes": 778,
-      "replies": 21,
-      "retweets": 97
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-19T16:06:51.853529+00:00",
-    "js_take": {
-      "en-US": "Used to need exploits. Now you need grammar. The surface world hardened its defenses—the inner world left the door wide open.",
-      "zh-CN": "过去要漏洞，现在要语法。表世界加固了防线——里世界却大敞着门。"
-    }
-  },
-  {
-    "id": "2034253989718773879",
-    "date": "2026-03-19",
-    "author": "@billcompute",
-    "author_url": "https://x.com/billcompute",
-    "tweet_url": "https://x.com/billcompute/status/2034253989718773879",
-    "title": {
-      "en-US": "Guy runs 19 Mac Minis, 260 OpenClaw agents, wants to scale to 500 but output is inconsistent",
-      "zh-CN": "一位用户用19台Mac Mini运行260个OpenClaw agent，想扩展到500个，但输出不稳定找不到原因"
-    },
-    "summary": {
-      "en-US": "OpenClaw规模化运营实战问题",
-      "zh-CN": "做纠正：把问题归因到\"没找到原因\"是表象，真正的错误是假设\"更多agent=更多产出\"的线性思维——有时候系统瓶颈不在数量，而在协调复杂度"
-    },
-    "relevance": "OpenClaw规模化运营实战问题",
-    "score": 0.82,
-    "engagement": {
-      "likes": 71,
-      "replies": 8,
-      "retweets": 3
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-18T17:08:57.368325+00:00",
-    "js_take": {
-      "en-US": "19 machines, 260 agents, chasing 500. When output gets unstable, the momentum has shifted—forcing more capacity into a broken flow just breaks it faster.",
-      "zh-CN": "19台机器，260个agent，追逐500 Karma。当输出开始不稳定，势头已经转变——往崩溃的流程里硬塞更多容量，只会让它崩得更快。"
     }
   }
 ]
