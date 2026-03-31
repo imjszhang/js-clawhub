@@ -28,6 +28,36 @@
     }
   },
   {
+    "id": "2038716269126734169",
+    "date": "2026-03-31",
+    "author": "@kloss_xyz",
+    "author_url": "https://x.com/kloss_xyz",
+    "tweet_url": "https://x.com/kloss_xyz/status/2038716269126734169",
+    "title": {
+      "en-US": "OpenClaw isn't dead, it's one of the fastest growing repos. Calling it dead proves you're larping.",
+      "zh-CN": "有人唱衰OpenClaw说它已经死了，但作者反驳说它实际上是增长最快的仓库之一，公司都在内部研究重建，说它已经死的人只是在装懂。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态讨论，直接涉及JS的核心关注领域",
+      "zh-CN": "「已死」vs「增长最快」的争论暴露了一个认知盲区：人们习惯用噪音（社交媒体热度）判断生命力，但真正的系统进化往往在低调中发生——当讨论集中在「死没死」这种二元判断时，恰恰说明大多数人看不见真正的势在哪。"
+    },
+    "relevance": "OpenClaw 生态讨论，直接涉及JS的核心关注领域",
+    "score": 0.78,
+    "engagement": {
+      "likes": 41,
+      "replies": 9,
+      "retweets": 0,
+      "views": 5521,
+      "bookmarks": 2
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-31T04:15:23.466425+00:00",
+    "js_take": {
+      "en-US": "Debates about 'dead or alive' are spectator sports. Real momentum never shows up on trending lists—it builds in the commits you don't see.",
+      "zh-CN": "关于'死或活'的争论只是旁观者的消遣。真正的势能从不上热搜——它在那些你看不见的代码提交中悄然积累。"
+    }
+  },
+  {
     "id": "2038706612479959296",
     "date": "2026-03-31",
     "author": "@lennysan",

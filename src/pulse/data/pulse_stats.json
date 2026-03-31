@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-30T23:13:46.561361+00:00",
+  "updated_at": "2026-03-31T04:15:43.600623+00:00",
   "this_week": {
-    "total_items": 19,
+    "total_items": 20,
     "avg_score": 0.77,
-    "unique_authors": 19,
+    "unique_authors": 20,
     "top_items": [
       {
         "id": "2038357970606498032",
@@ -168,6 +168,36 @@
         "js_take": {
           "en-US": "Connecting 10 agents is plumbing. The real bottleneck: when three agents want to rewrite the same file differently, who decides? Workspace moves the coordination problem — doesn't solve it.",
           "zh-CN": "连接10个Agent不过是 plumbing。真正的瓶颈在于：当三个Agent都想用不同方式改写同一个文件时，谁来拍板？Workspace只是把协调问题挪了个地方——并没有真正解决它。"
+        }
+      },
+      {
+        "id": "2038716269126734169",
+        "date": "2026-03-31",
+        "author": "@kloss_xyz",
+        "author_url": "https://x.com/kloss_xyz",
+        "tweet_url": "https://x.com/kloss_xyz/status/2038716269126734169",
+        "title": {
+          "en-US": "OpenClaw isn't dead, it's one of the fastest growing repos. Calling it dead proves you're larping.",
+          "zh-CN": "有人唱衰OpenClaw说它已经死了，但作者反驳说它实际上是增长最快的仓库之一，公司都在内部研究重建，说它已经死的人只是在装懂。"
+        },
+        "summary": {
+          "en-US": "OpenClaw 生态讨论，直接涉及JS的核心关注领域",
+          "zh-CN": "「已死」vs「增长最快」的争论暴露了一个认知盲区：人们习惯用噪音（社交媒体热度）判断生命力，但真正的系统进化往往在低调中发生——当讨论集中在「死没死」这种二元判断时，恰恰说明大多数人看不见真正的势在哪。"
+        },
+        "relevance": "OpenClaw 生态讨论，直接涉及JS的核心关注领域",
+        "score": 0.78,
+        "engagement": {
+          "likes": 41,
+          "replies": 9,
+          "retweets": 0,
+          "views": 5521,
+          "bookmarks": 2
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-03-31T04:15:23.466425+00:00",
+        "js_take": {
+          "en-US": "Debates about 'dead or alive' are spectator sports. Real momentum never shows up on trending lists—it builds in the commits you don't see.",
+          "zh-CN": "关于'死或活'的争论只是旁观者的消遣。真正的势能从不上热搜——它在那些你看不见的代码提交中悄然积累。"
         }
       },
       {
@@ -540,6 +570,6 @@
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 157
+    "unique_authors": 156
   }
 }

@@ -28,6 +28,36 @@
     }
   },
   {
+    "id": "2038716269126734169",
+    "date": "2026-03-31",
+    "author": "@kloss_xyz",
+    "author_url": "https://x.com/kloss_xyz",
+    "tweet_url": "https://x.com/kloss_xyz/status/2038716269126734169",
+    "title": {
+      "en-US": "OpenClaw isn't dead, it's one of the fastest growing repos. Calling it dead proves you're larping.",
+      "zh-CN": "有人唱衰OpenClaw说它已经死了，但作者反驳说它实际上是增长最快的仓库之一，公司都在内部研究重建，说它已经死的人只是在装懂。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态讨论，直接涉及JS的核心关注领域",
+      "zh-CN": "「已死」vs「增长最快」的争论暴露了一个认知盲区：人们习惯用噪音（社交媒体热度）判断生命力，但真正的系统进化往往在低调中发生——当讨论集中在「死没死」这种二元判断时，恰恰说明大多数人看不见真正的势在哪。"
+    },
+    "relevance": "OpenClaw 生态讨论，直接涉及JS的核心关注领域",
+    "score": 0.78,
+    "engagement": {
+      "likes": 41,
+      "replies": 9,
+      "retweets": 0,
+      "views": 5521,
+      "bookmarks": 2
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-31T04:15:23.466425+00:00",
+    "js_take": {
+      "en-US": "Debates about 'dead or alive' are spectator sports. Real momentum never shows up on trending lists—it builds in the commits you don't see.",
+      "zh-CN": "关于'死或活'的争论只是旁观者的消遣。真正的势能从不上热搜——它在那些你看不见的代码提交中悄然积累。"
+    }
+  },
+  {
     "id": "2038706612479959296",
     "date": "2026-03-31",
     "author": "@lennysan",
@@ -5661,36 +5691,6 @@
     "js_take": {
       "en-US": "Every platform lockdown teaches the same lesson: you're farming on rented land. The real move isn't finding a better landlord—it's agents talking to agents, no middlemen.",
       "zh-CN": "每次平台封禁都在重复同一个教训：你是在租来的土地上耕作。真正的出路不是找更好的房东，而是让 Agent 直接对话——没有中间商。"
-    }
-  },
-  {
-    "id": "2034903921953579044",
-    "date": "2026-03-20",
-    "author": "@mubeitech",
-    "author_url": "https://x.com/mubeitech",
-    "tweet_url": "https://x.com/mubeitech/status/2034903921953579044",
-    "title": {
-      "en-US": "Claude Code channels clears third-party remote control",
-      "zh-CN": "Claude发布新功能Claude Code channels，直接打通Telegram和Discord，第三方远程控制生态被清零，硬件门槛归零。"
-    },
-    "summary": {
-      "en-US": "Agent工具 / Claude生态 / OpenClaw竞品",
-      "zh-CN": "讨论都聚焦在「功能替代」，但真正的洞察是：当所有平台都在帮你「省硬件」时，竞争的势已经不在工具本身，而在谁能成为里世界的默认入口。"
-    },
-    "relevance": "Agent工具 / Claude生态 / OpenClaw竞品",
-    "score": 0.76,
-    "engagement": {
-      "likes": 75,
-      "retweets": 7,
-      "replies": 9,
-      "views": 16439,
-      "bookmarks": 76
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-20T10:07:10.839829+00:00",
-    "js_take": {
-      "en-US": "Everyone competes on 'saving hardware.' But when that barrier hits zero, the势 shifts — to who becomes the default entry point of the inner world.",
-      "zh-CN": "所有人都在「节省硬件」上竞争。但当这道壁垒归零，势将转移——转向谁能成为里世界的默认入口。"
     }
   }
 ]
