@@ -1,5 +1,29 @@
 [
   {
+    "id": "2038910689176400150",
+    "date": "2026-04-01",
+    "author": "@aakashgupta",
+    "author_url": "https://x.com/aakashgupta",
+    "tweet_url": "https://x.com/aakashgupta/status/2038910689176400150",
+    "title": {
+      "en-US": "The real story here is OpenClaw triggered a full-blown platform war in China...",
+      "zh-CN": "OpenClaw 引发中国 AI Agent 平台大战"
+    },
+    "summary": {
+      "en-US": "OpenClaw / AI Agent生态 / 平台战略",
+      "zh-CN": "OpenClaw / AI Agent 生态 / 平台战略"
+    },
+    "relevance": "OpenClaw / AI Agent生态 / 平台战略",
+    "score": 0.91,
+    "engagement": {
+      "likes": 207,
+      "replies": 18,
+      "retweets": 37
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-31T16:21:47.482948+00:00"
+  },
+  {
     "id": "2038896951891210309",
     "date": "2026-03-31",
     "author": "@gkisokay",
@@ -5662,36 +5686,6 @@
     "js_take": {
       "en-US": "You micromanage Agents like employees because you're still thinking in org charts. Real multi-agent systems don't need project managers—they negotiate and schedule among themselves. You set the goal, they handle the chaos.",
       "zh-CN": "你把Agents当员工一样微观管理，因为你还在用组织架构图的思维思考问题。真正的多Agent系统不需要项目经理——它们会自主协商、自我调度。你只管设定目标，它们自己搞定混乱。"
-    }
-  },
-  {
-    "id": "2034916790711538061",
-    "date": "2026-03-20",
-    "author": "@Dan_Jeffries1",
-    "author_url": "https://x.com/Dan_Jeffries1",
-    "tweet_url": "https://x.com/Dan_Jeffries1/status/2034916790711538061",
-    "title": {
-      "en-US": "OpenClaw is a Napster moment, not DeepSeek moment",
-      "zh-CN": "OpenClaw的真正意义不是DeepSeek时刻，而是Napster时刻——它将通过去中心化改变Agent的分发和使用方式。"
-    },
-    "summary": {
-      "en-US": "Agent生态 / 平台变革 / OpenClaw",
-      "zh-CN": "Napster的类比是对的，但只说对了一半——真正的颠覆不是「免费分发」，而是「表里世界」正在交换位置：表世界（网站/App）退化为数据库，里世界（Agent）成为新的交互层。"
-    },
-    "relevance": "Agent生态 / 平台变革 / OpenClaw",
-    "score": 0.78,
-    "engagement": {
-      "likes": 20,
-      "replies": 0,
-      "retweets": 1,
-      "views": 910,
-      "bookmarks": 12
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-20T10:07:10.839820+00:00",
-    "js_take": {
-      "en-US": "Napster was about free. This is about displacement. The surface world (apps/sites) is becoming a database. The real interface is migrating to agents. Second migration in progress.",
-      "zh-CN": "Napster 时代追求的是免费，而这一次是替代。表世界（应用/网站）正在退化为数据库，真正的交互界面正在向智能体迁移。第二次大迁徙正在进行。"
     }
   }
 ]
