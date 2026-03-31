@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-03-29",
+    "title": {
+      "zh-CN": "拒绝黑箱记忆：构建三层协同的认知外挂体系",
+      "en-US": "No More Black Box Memory: Building a Three-Tier Collaborative Cognitive Stack"
+    },
+    "date": "2026-03-29",
+    "summary": {
+      "zh-CN": "面对市面上 AI 记忆方案普遍存在的“黑箱不可控”与“缺乏分层”痛点，今天我正式确立了由原生记忆、Knowledge Prism 及 Collector 组成的三层解耦架构，旨在将散乱的时间线笔记转化为具备时间复利的结构化数字资产。",
+      "en-US": "Tired of the 'black box' unpredictability and lack of layering in current AI memory solutions? Today, I'm officially rolling out a three-tier decoupled architecture comprising Native Memory, Knowledge Prism, and Collector. The goal is to transform scattered timeline notes into structured digital assets that compound in value over time."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 58
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-27",
     "title": {
       "zh-CN": "把编码外包给 Cursor：OpenClaw 架构降本的关键一跃",
