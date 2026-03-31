@@ -1,5 +1,33 @@
 [
   {
+    "id": "2038896951891210309",
+    "date": "2026-03-31",
+    "author": "@gkisokay",
+    "author_url": "https://x.com/gkisokay",
+    "tweet_url": "https://x.com/gkisokay/status/2038896951891210309",
+    "title": {
+      "en-US": "Super Self-Improving Multi-Agent Framework for Hermes/OpenClaw agent with A2A protocol",
+      "zh-CN": "介绍用于Hermes/OpenClaw Agent的超级自改进多代理框架，支持A2A协议协作"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态 - 多Agent协作与自我改进框架",
+      "zh-CN": "更形象：「自改进」听起来像Agent在进化，实际上是给系统装了一个递归函数。真正的问题是：谁来定义「改进」的方向？没有外部反馈锚定，自我改进很容易变成在封闭空间里自说自话的优化。"
+    },
+    "relevance": "OpenClaw生态 - 多Agent协作与自我改进框架",
+    "score": 0.82,
+    "engagement": {
+      "likes": 128,
+      "replies": 12,
+      "retweets": 8
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-03-31T12:17:40.275255+00:00",
+    "js_take": {
+      "en-US": "\"Self-improving\" sounds like evolution, but it's just recursion. Who defines the direction? Without external feedback anchoring the loop, the agent optimizes itself into a sealed echo chamber.",
+      "zh-CN": "「自我进化」听着像是进化，其实不过是递归。谁来定义方向？没有外部反馈锚定循环，智能体只会把自己优化成一座封闭的回音室。"
+    }
+  },
+  {
     "id": "2038636184818352470",
     "date": "2026-03-31",
     "author": "@OpenAgentsAI",
