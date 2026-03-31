@@ -144,6 +144,34 @@
     }
   },
   {
+    "id": "2038875533799481493",
+    "date": "2026-03-31",
+    "author": "@evilcos",
+    "author_url": "https://x.com/evilcos",
+    "tweet_url": "https://x.com/evilcos/status/2038875533799481493",
+    "title": {
+      "en-US": "OpenClaw 3.28 may introduce poisoned axios. Check your dependencies.",
+      "zh-CN": "OpenClaw 3.28 版本可能引入带毒的 axios，需要排查依赖。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 安全事件",
+      "zh-CN": "这条推文揭示了开源生态的根本张力：信任让协作成为可能，但一旦信任被利用，广泛的依赖就成了广泛的脆弱。更深入的洞察是——效率建立在信任之上，但生存需要验证。"
+    },
+    "relevance": "OpenClaw 安全事件",
+    "score": 0.72,
+    "engagement": {
+      "likes": 68,
+      "replies": 14,
+      "retweets": 10
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-31T09:08:27.957822+00:00",
+    "js_take": {
+      "en-US": "We traded verification for velocity. Poisoned axios is the bill coming due — trust is grease, not glue.",
+      "zh-CN": "为了速度，我们牺牲了验证。毒化的 axios 正是代价——信任是润滑剂，而非粘合剂。"
+    }
+  },
+  {
     "id": "2038670345054347412",
     "date": "2026-03-31",
     "author": "@Hesamation",

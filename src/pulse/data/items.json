@@ -144,6 +144,34 @@
     }
   },
   {
+    "id": "2038875533799481493",
+    "date": "2026-03-31",
+    "author": "@evilcos",
+    "author_url": "https://x.com/evilcos",
+    "tweet_url": "https://x.com/evilcos/status/2038875533799481493",
+    "title": {
+      "en-US": "OpenClaw 3.28 may introduce poisoned axios. Check your dependencies.",
+      "zh-CN": "OpenClaw 3.28 版本可能引入带毒的 axios，需要排查依赖。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 安全事件",
+      "zh-CN": "这条推文揭示了开源生态的根本张力：信任让协作成为可能，但一旦信任被利用，广泛的依赖就成了广泛的脆弱。更深入的洞察是——效率建立在信任之上，但生存需要验证。"
+    },
+    "relevance": "OpenClaw 安全事件",
+    "score": 0.72,
+    "engagement": {
+      "likes": 68,
+      "replies": 14,
+      "retweets": 10
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-03-31T09:08:27.957822+00:00",
+    "js_take": {
+      "en-US": "We traded verification for velocity. Poisoned axios is the bill coming due — trust is grease, not glue.",
+      "zh-CN": "为了速度，我们牺牲了验证。毒化的 axios 正是代价——信任是润滑剂，而非粘合剂。"
+    }
+  },
+  {
     "id": "2038670345054347412",
     "date": "2026-03-31",
     "author": "@Hesamation",
@@ -5664,35 +5692,6 @@
     "js_take": {
       "en-US": "You did nothing, it made money. That's the real pattern — the best systems grow when you stop optimizing them.",
       "zh-CN": "无为而治，系统自赚。这才是真正的规律——最好的系统，在你停止折腾它的时候反而自己生长。"
-    }
-  },
-  {
-    "id": "2034781188355666071",
-    "date": "2026-03-20",
-    "author": "@minchoi",
-    "author_url": "https://x.com/minchoi",
-    "tweet_url": "https://x.com/minchoi/status/2034781188355666071",
-    "title": {
-      "en-US": "RIP OpenClaw - Claude channels launched",
-      "zh-CN": "Min Choi 发推称「RIP OpenClaw」，因为 Claude 推出了 Telegram/Discord Channels 功能。"
-    },
-    "summary": {
-      "en-US": "OpenClaw vs Claude 竞争动态",
-      "zh-CN": "这种「杀死」叙事本身就是过度简化的陷阱——大厂复制功能不等于消灭生态，真正的护城河从来不是 feature 清单，而是社区沉淀的使用惯性。"
-    },
-    "relevance": "OpenClaw vs Claude 竞争动态",
-    "score": 0.76,
-    "engagement": {
-      "likes": 98,
-      "replies": 11,
-      "retweets": 7,
-      "views": 13103
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-20T01:09:38.844716+00:00",
-    "js_take": {
-      "en-US": "OpenClaw isn't a feature list. It's 10,000 GitHub issues from weird home automation setups that Claude's PMs will never see. Big tech ships products. Communities survive edge cases.",
-      "zh-CN": "OpenClaw 不是一张功能清单，而是 10,000 个来自千奇百怪家庭自动化场景的 GitHub Issue——这些东西 Claude 的产品经理们永远看不到。大厂交付产品，社区却能在边缘案例里活下来。"
     }
   }
 ]
