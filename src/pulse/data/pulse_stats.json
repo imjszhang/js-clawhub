@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-31T04:15:43.600623+00:00",
+  "updated_at": "2026-03-31T06:08:56.697692+00:00",
   "this_week": {
-    "total_items": 20,
+    "total_items": 22,
     "avg_score": 0.77,
-    "unique_authors": 20,
+    "unique_authors": 21,
     "top_items": [
       {
         "id": "2038357970606498032",
@@ -198,6 +198,35 @@
         "js_take": {
           "en-US": "Debates about 'dead or alive' are spectator sports. Real momentum never shows up on trending lists—it builds in the commits you don't see.",
           "zh-CN": "关于'死或活'的争论只是旁观者的消遣。真正的势能从不上热搜——它在那些你看不见的代码提交中悄然积累。"
+        }
+      },
+      {
+        "id": "2038834361563328957",
+        "date": "2026-03-31",
+        "author": "@BentoBoiNFT",
+        "author_url": "https://x.com/BentoBoiNFT",
+        "tweet_url": "https://x.com/BentoBoiNFT/status/2038834361563328957",
+        "title": {
+          "en-US": "Day 24 of speed running AI: moved from OpenClaw to Claude Code because it keeps breaking",
+          "zh-CN": "一个新手学习AI第24天，决定从OpenClaw转向Claude Code，因为OpenClaw总是出问题"
+        },
+        "summary": {
+          "en-US": "OpenClaw vs Claude Code 平台选择，Agent 工具链生态竞争",
+          "zh-CN": "「工具迁移」背后的真相不是功能对比，而是「生态位适配」——当一个工具开始强调「能做什么」而不是「不干扰你做什么」时，它就已经在退化了。"
+        },
+        "relevance": "OpenClaw vs Claude Code 平台选择，Agent 工具链生态竞争",
+        "score": 0.78,
+        "engagement": {
+          "likes": 33,
+          "replies": 12,
+          "retweets": 0,
+          "views": 3243
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-03-31T06:08:29.058004+00:00",
+        "js_take": {
+          "en-US": "Migration isn't about features—it's about whether the tool stays out of your way when you're not looking. The real test isn't day 24, it's month 3 when you've forgotten you switched.",
+          "zh-CN": "工具迁移的关键不在功能多寡，而在于它能否在你不留意时保持低调、不打扰你。真正的考验不是第24天，而是第3个月——当你早已忘记自己换过工具的那一刻。"
         }
       },
       {
@@ -426,6 +455,35 @@
         }
       },
       {
+        "id": "2038810436838240434",
+        "date": "2026-03-31",
+        "author": "@boxmining",
+        "author_url": "https://x.com/boxmining",
+        "tweet_url": "https://x.com/boxmining/status/2038810436838240434",
+        "title": {
+          "en-US": "Why is everyone ditching OpenClaw for Hermes?",
+          "zh-CN": "Boxmining 发文列举 Hermes 相对于 OpenClaw 的5个优势，宣称「我们测试了，确实更好」"
+        },
+        "summary": {
+          "en-US": "OpenClaw vs Hermes 直接对比，Agent 平台竞争",
+          "zh-CN": "做纠正：测评类推文常犯的错误是把「功能清单」等同于「生态价值」，忽略了平台迁移的真实成本不是功能差异，而是现有工作流的沉没成本和社区知识沉淀。"
+        },
+        "relevance": "OpenClaw vs Hermes 直接对比，Agent 平台竞争",
+        "score": 0.72,
+        "engagement": {
+          "likes": 67,
+          "retweets": 4,
+          "replies": 9,
+          "views": 3578
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-03-31T05:19:53.185337+00:00",
+        "js_take": {
+          "en-US": "Comparing feature lists misses the real cost. Moving 20 custom skills and 6 months of workflow context? That's the metric no demo can test.",
+          "zh-CN": "功能清单的对比往往会掩盖真正的迁移成本。迁移20个自定义技能、6个月沉淀的工作流上下文？这才是任何演示都无法验证的隐性代价。"
+        }
+      },
+      {
         "id": "2038457412185657567",
         "date": "2026-03-30",
         "author": "@om_patel5",
@@ -570,6 +628,6 @@
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 156
+    "unique_authors": 154
   }
 }
