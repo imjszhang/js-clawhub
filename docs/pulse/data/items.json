@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2038706612479959296",
+    "date": "2026-03-31",
+    "author": "@lennysan",
+    "author_url": "https://x.com/lennysan",
+    "tweet_url": "https://x.com/lennysan/status/2038706612479959296",
+    "title": {
+      "en-US": "Claire's biggest OpenClaw unlock: going multi-agent",
+      "zh-CN": "Lenny Rachitsky 分享 Claire Vo 使用 OpenClaw 的最大突破：采用多 Agent 架构"
+    },
+    "summary": {
+      "en-US": "直接涉及 OpenClaw 平台的多 Agent 架构实践",
+      "zh-CN": "多 Agent 不是「更多工具」而是「更少的中央控制」——当所有人都在讨论如何协调多个 agent 时，真正的突破在于让每个 agent 拥有独立的判断边界，而非被主流程收紧。"
+    },
+    "relevance": "直接涉及 OpenClaw 平台的多 Agent 架构实践",
+    "score": 0.72,
+    "engagement": {
+      "likes": 14,
+      "replies": 4,
+      "retweets": 1
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-30T23:13:20.538875+00:00",
+    "js_take": {
+      "en-US": "Claire's unlock wasn't adding agents — it was removing the conductor. When every node waits for central approval, you get perfect choreography and zero innovation.",
+      "zh-CN": "Claire 的突破不在于增加更多代理，而在于移除了中央指挥。当每个节点都必须等待中央批准时，你得到的是完美的编排，却失去了创新能力。"
+    }
+  },
+  {
     "id": "2038670345054347412",
     "date": "2026-03-31",
     "author": "@Hesamation",
@@ -5663,35 +5691,6 @@
     "js_take": {
       "en-US": "Everyone competes on 'saving hardware.' But when that barrier hits zero, the势 shifts — to who becomes the default entry point of the inner world.",
       "zh-CN": "所有人都在「节省硬件」上竞争。但当这道壁垒归零，势将转移——转向谁能成为里世界的默认入口。"
-    }
-  },
-  {
-    "id": "2034768378494390549",
-    "date": "2026-03-20",
-    "author": "@gkxspace",
-    "author_url": "https://x.com/gkxspace",
-    "tweet_url": "https://x.com/gkxspace/status/2034768378494390549",
-    "title": {
-      "en-US": "YC CEO Garry Tan turned YC office hours methodology into an open-source Claude Code skill",
-      "zh-CN": "YC 现任 CEO Garry Tan 将 office hours 方法论做成了 Claude Code skill 并开源，可以模拟 YC 合伙人逼你把目标用户具体到一个人的名字、职位、痛点。"
-    },
-    "summary": {
-      "en-US": "Agent Skill 方法论工具化，OpenClaw/Claude 生态",
-      "zh-CN": "推文描述了一个有趣的工具化案例，但真正的洞察在于这种转化本身的意义：把「需要多年经验才能掌握的方法论」变成「一个命令就能调用的基础设施」——这正是表世界向里世界迁徙的典型模式。不是 Agent 在模仿人类，而是人类经验正在被压缩成可执行代码。"
-    },
-    "relevance": "Agent Skill 方法论工具化，OpenClaw/Claude 生态",
-    "score": 0.754,
-    "engagement": {
-      "likes": 102,
-      "replies": 9,
-      "retweets": 16,
-      "views": 18173
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-20T12:08:24.697837+00:00",
-    "js_take": {
-      "en-US": "YC partners spent 15 years refining how to ask hard questions. Now it's one command in Claude. Surface world methodologies are being compressed into inner world infrastructure. This migration is bigger than any single tool.",
-      "zh-CN": "YC 合伙人花了15年打磨如何问出犀利问题的艺术。现在在 Claude 里只是一句指令的事。表世界的方法论正在被压缩成里世界的基础设施。这场迁徙比任何单一工具都大得多。"
     }
   }
 ]
