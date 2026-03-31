@@ -87,6 +87,62 @@
     }
   },
   {
+    "id": "2038873041707717054",
+    "date": "2026-03-31",
+    "author": "@FradSer",
+    "author_url": "https://x.com/FradSer",
+    "tweet_url": "https://x.com/FradSer/status/2038873041707717054",
+    "title": {
+      "en-US": "Agent harness practice with sprite/task docs, optimizing superpowers@frad-dotclaude",
+      "zh-CN": "Frad分享在做agent harness实践的心得，使用小的task文档作为sprite来优化superpowers"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI Agent - harness架构与agent工程实践",
+      "zh-CN": "Agent harness的讨论往往陷入一个幻觉：把evaluator、sprite、task分层做好，系统就会更可靠。但真正的瓶颈从来不是架构不够完整，而是「什么时候该让agent停手」的判断力——30个sprite不会杀死项目，只会把坏决策执行得更快。"
+    },
+    "relevance": "OpenClaw/AI Agent - harness架构与agent工程实践",
+    "score": 0.76,
+    "engagement": {
+      "likes": 47,
+      "replies": 3,
+      "retweets": 4
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-03-31T10:15:47.945797+00:00",
+    "js_take": {
+      "en-US": "Built 30 sprites, optimized the harness, then watched it execute a bad plan perfectly for 6 hours. The bottleneck was never architecture—it was knowing when to stop. More structure just automates failure faster.",
+      "zh-CN": "搭了30个sprite，优化了整套框架，然后眼睁睁看着它完美执行一个烂计划，跑了6小时。瓶颈从来不在架构——而在于知道什么时候该喊停。结构越复杂，只是把失败自动化得更快而已。"
+    }
+  },
+  {
+    "id": "2038835449012351197",
+    "date": "2026-03-31",
+    "author": "@ollama",
+    "author_url": "https://x.com/ollama",
+    "tweet_url": "https://x.com/ollama/status/2038835449012351197",
+    "title": {
+      "en-US": "Ollama now fastest on Apple silicon with MLX, for OpenClaw, Claude Code, etc.",
+      "zh-CN": "Ollama更新后在Apple Silicon上运行最快，基于MLX框架，支持OpenClaw、Claude Code等应用"
+    },
+    "summary": {
+      "en-US": "OpenClaw - 本地模型运行性能优化",
+      "zh-CN": "「本地运行更快」这个叙事有一个隐藏假设：速度是本地AI的瓶颈。但真正的瓶颈可能是「当所有人都在优化同一个指标（速度）时，那个指标本身就在失去区分度」——本地AI的护城河不该是快，而是能在断网、无API限制的环境下依然可用。"
+    },
+    "relevance": "OpenClaw - 本地模型运行性能优化",
+    "score": 0.74,
+    "engagement": {
+      "likes": 2608,
+      "replies": 146,
+      "retweets": 332
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-03-31T10:15:47.945801+00:00",
+    "js_take": {
+      "en-US": "MLX makes Ollama fast. But when every local stack is \"fast,\" speed becomes table stakes. The real moat: what can your agent do when the API is down, the quota is zero, and the cloud doesn't exist?",
+      "zh-CN": "MLX确实让Ollama变快了。但当每个本地栈都在卷\"快\"的时候，速度就成了基础门槛。真正的护城河是：当API挂了、配额归零、云不存在的时候，你的Agent还能干什么？"
+    }
+  },
+  {
     "id": "2038706612479959296",
     "date": "2026-03-31",
     "author": "@lennysan",
