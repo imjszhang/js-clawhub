@@ -1,5 +1,34 @@
 [
   {
+    "id": "2039364255699599867",
+    "date": "2026-04-02",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2039364255699599867",
+    "title": {
+      "en-US": "Hermes Agent vs OpenClaw comparison video",
+      "zh-CN": "讨论 Hermes Agent 在某些关键方面比 OpenClaw 更好，但是否能替代 OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Hermes Agent 的工具对比讨论，Agent 生态竞争",
+      "zh-CN": "工具竞争的本质不是功能列表对比，而是「势」的判断——当所有人追逐「更好的 agent」时，真正的机会在生态位重构，OpenClaw 的护城河是社区驱动的 skill 市场，而非单一 agent 性能"
+    },
+    "relevance": "OpenClaw vs Hermes Agent 的工具对比讨论，Agent 生态竞争",
+    "score": 0.72,
+    "engagement": {
+      "likes": 226,
+      "replies": 57,
+      "retweets": 10,
+      "views": 11186
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-01T16:29:28.641654+00:00",
+    "js_take": {
+      "en-US": "Comparing agent features is measuring the wrong race. OpenClaw's 400+ community skills compound—network effects beat raw speed every time.",
+      "zh-CN": "比较 Agent 功能是比错了赛道。OpenClaw 400+ 社区技能的复利效应——网络效应永远胜过单打独斗。"
+    }
+  },
+  {
     "id": "2038910689176400150",
     "date": "2026-04-01",
     "author": "@aakashgupta",
