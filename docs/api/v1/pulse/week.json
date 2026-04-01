@@ -24,6 +24,35 @@
     "synced_at": "2026-03-31T16:21:47.482948+00:00"
   },
   {
+    "id": "2039131094449115628",
+    "date": "2026-04-01",
+    "author": "@VadimStrizheus",
+    "author_url": "https://x.com/VadimStrizheus",
+    "tweet_url": "https://x.com/VadimStrizheus/status/2039131094449115628",
+    "title": {
+      "en-US": "Hermes Agent setup with 5 agents on Mac mini, claims better than OpenClaw",
+      "zh-CN": "作者展示了自己在 Mac mini 上部署 5 个 Hermes Agent 的设置，声称这比 OpenClaw 好用得多"
+    },
+    "summary": {
+      "en-US": "OpenClaw 竞品对比，AI Agent 部署实践",
+      "zh-CN": "原推用「比 OpenClaw 好」作为结论，但「更好」的定义是隐藏在比较者自己的需求里的——Mac mini 本地部署的取舍、24/7 自动化的场景、对 UI/代码的偏好，这些语境丢失后「更好」就变成了一个无法验证的判断"
+    },
+    "relevance": "OpenClaw 竞品对比，AI Agent 部署实践",
+    "score": 0.72,
+    "engagement": {
+      "likes": 221,
+      "replies": 27,
+      "retweets": 5,
+      "bookmarks": 184
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-01T08:07:08.198983+00:00",
+    "js_take": {
+      "en-US": "Five agents on Mac mini isn't \"better\"—it's a different tradeoff. The real question isn't how many run, but what breaks at 3am when one loops and nobody's there to stop it.",
+      "zh-CN": "Mac mini 上跑五个 Agent 不是「更好」，而是另一种取舍。真正该问的不是能跑多少个，而是凌晨三点某个 Agent 陷入死循环、却没人能喊停的时候，会发生什么。"
+    }
+  },
+  {
     "id": "2038896951891210309",
     "date": "2026-03-31",
     "author": "@gkisokay",
