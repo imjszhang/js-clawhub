@@ -29,6 +29,36 @@
     }
   },
   {
+    "id": "2039343351187554490",
+    "date": "2026-04-02",
+    "author": "@omarsar0",
+    "author_url": "https://x.com/omarsar0",
+    "tweet_url": "https://x.com/omarsar0/status/2039343351187554490",
+    "title": {
+      "en-US": "Universal CLAUDE.md claims to cut Claude output tokens by 63%",
+      "zh-CN": "有人分享了一个 Universal CLAUDE.md 文件，声称可以减少 Claude 63% 的输出 token，认为这是高效使用 Claude Code 的好方法。"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code 工程实践，与 JS 日常使用工具直接相关",
+      "zh-CN": "把 CLAUDE.md 的价值误解为「减少 token」是典型工具思维——文件真正的价值不是省钱，而是把分散在各处的上下文压缩成可复用的判断标准，让 AI 在每轮对话起点就有正确的「势」。"
+    },
+    "relevance": "OpenClaw/Claude Code 工程实践，与 JS 日常使用工具直接相关",
+    "score": 0.72,
+    "engagement": {
+      "likes": 134,
+      "replies": 8,
+      "retweets": 14,
+      "views": 16093,
+      "bookmarks": 247
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-01T18:07:16.479702+00:00",
+    "js_take": {
+      "en-US": "Chasing 63% token efficiency optimizes the wrong variable. CLAUDE.md's real value: judgment compressed and reusable across sessions. Token savings are a side effect—you're not cutting costs, you're buying back the mental overhead of starting from zero.",
+      "zh-CN": "追逐63%的token效率，优化错了变量。CLAUDE.md的真正价值在于：将判断压缩、跨会话复用。节省token只是副产品——你不是在削减成本，而是在赎回每次从零开始的心智开销。"
+    }
+  },
+  {
     "id": "2038910689176400150",
     "date": "2026-04-01",
     "author": "@aakashgupta",
@@ -5660,35 +5690,6 @@
     "js_take": {
       "en-US": "Big tech has the resources. What they don't have is the patience to ship garbage first and iterate. Their KPIs punish the messy reality of how Agent products actually grow. Real growth isn't headcount—it's letting things emerge.",
       "zh-CN": "大厂有的是资源，缺的是先上线垃圾再迭代的耐心。他们的 KPI 惩罚了 Agent 产品成长的真实样貌——混乱、试错、不断调整。真正的增长不是靠堆人头，而是让系统自己长出来。"
-    }
-  },
-  {
-    "id": "2034827927724994651",
-    "date": "2026-03-20",
-    "author": "@ChrisCoffee",
-    "author_url": "https://x.com/ChrisCoffee",
-    "tweet_url": "https://x.com/ChrisCoffee/status/2034827927724994651",
-    "title": {
-      "en-US": "Claude Channels kills OpenClaw, allows controlling Claude Code from Telegram/Discord",
-      "zh-CN": "Claude 推出 Channels 功能，可以直接从 Telegram/Discord 控制 Claude Code，作者认为这将取代 OpenClaw。"
-    },
-    "summary": {
-      "en-US": "OpenClaw vs Claude 原生功能，产品竞争叙事",
-      "zh-CN": "推文沿用了「杀手」叙事，但这种二元对立思维恰恰错过了真正的趋势。更形象的视角是：不是 Claude 「杀死」了 OpenClaw，而是整个 Agent 生态正在从「各自为战的工具」向「互联互通的基础设施」演化——这波浪潮的势不在谁取代谁，而在谁能成为连接器。"
-    },
-    "relevance": "OpenClaw vs Claude 原生功能，产品竞争叙事",
-    "score": 0.785,
-    "engagement": {
-      "likes": 152,
-      "replies": 18,
-      "retweets": 16,
-      "views": 11432
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-20T12:08:24.697835+00:00",
-    "js_take": {
-      "en-US": "\"Killer\" framing misses the point. Surface world sees product wars. Inner world sees infrastructure consolidation. The momentum isn't about replacement—it's about who becomes the connector in a network of agents.",
-      "zh-CN": "\"杀手\"的叙事框架搞错了重点。表世界看到的是产品战争，里世界看到的是基础设施整合。真正的势能在谁成为 Agent 网络的连接中枢，而不是谁取代谁。"
     }
   }
 ]

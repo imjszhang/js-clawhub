@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-01T16:29:56.163972+00:00",
+  "updated_at": "2026-04-01T18:07:42.187212+00:00",
   "this_week": {
-    "total_items": 31,
-    "avg_score": 0.77,
-    "unique_authors": 29,
+    "total_items": 32,
+    "avg_score": 0.76,
+    "unique_authors": 30,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -589,6 +589,36 @@
         "js_take": {
           "en-US": "Comparing agent features is measuring the wrong race. OpenClaw's 400+ community skills compound—network effects beat raw speed every time.",
           "zh-CN": "比较 Agent 功能是比错了赛道。OpenClaw 400+ 社区技能的复利效应——网络效应永远胜过单打独斗。"
+        }
+      },
+      {
+        "id": "2039343351187554490",
+        "date": "2026-04-02",
+        "author": "@omarsar0",
+        "author_url": "https://x.com/omarsar0",
+        "tweet_url": "https://x.com/omarsar0/status/2039343351187554490",
+        "title": {
+          "en-US": "Universal CLAUDE.md claims to cut Claude output tokens by 63%",
+          "zh-CN": "有人分享了一个 Universal CLAUDE.md 文件，声称可以减少 Claude 63% 的输出 token，认为这是高效使用 Claude Code 的好方法。"
+        },
+        "summary": {
+          "en-US": "OpenClaw/Claude Code 工程实践，与 JS 日常使用工具直接相关",
+          "zh-CN": "把 CLAUDE.md 的价值误解为「减少 token」是典型工具思维——文件真正的价值不是省钱，而是把分散在各处的上下文压缩成可复用的判断标准，让 AI 在每轮对话起点就有正确的「势」。"
+        },
+        "relevance": "OpenClaw/Claude Code 工程实践，与 JS 日常使用工具直接相关",
+        "score": 0.72,
+        "engagement": {
+          "likes": 134,
+          "replies": 8,
+          "retweets": 14,
+          "views": 16093,
+          "bookmarks": 247
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-04-01T18:07:16.479702+00:00",
+        "js_take": {
+          "en-US": "Chasing 63% token efficiency optimizes the wrong variable. CLAUDE.md's real value: judgment compressed and reusable across sessions. Token savings are a side effect—you're not cutting costs, you're buying back the mental overhead of starting from zero.",
+          "zh-CN": "追逐63%的token效率，优化错了变量。CLAUDE.md的真正价值在于：将判断压缩、跨会话复用。节省token只是副产品——你不是在削减成本，而是在赎回每次从零开始的心智开销。"
         }
       },
       {
