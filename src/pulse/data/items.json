@@ -53,6 +53,36 @@
     }
   },
   {
+    "id": "2039194560048546021",
+    "date": "2026-04-01",
+    "author": "@liyue_ai",
+    "author_url": "https://x.com/liyue_ai",
+    "tweet_url": "https://x.com/liyue_ai/status/2039194560048546021",
+    "title": {
+      "en-US": "OpenClaw热度降温，装了没用效率反降",
+      "zh-CN": "OpenClaw在国内热度降温，很多人发现装了没用，费钱费时效率没提升，反而更忙了"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台/AI工具效率反思",
+      "zh-CN": "工具本身没有价值，使用者的判断力才有——花大钱买最新工具的人，往往期待工具代替思考，结果只是把旧流程用新工具重跑一遍。"
+    },
+    "relevance": "OpenClaw平台/AI工具效率反思",
+    "score": 0.72,
+    "engagement": {
+      "likes": 142,
+      "retweets": 15,
+      "replies": 46,
+      "views": 45467,
+      "bookmarks": 71
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-01T11:11:20.543960+00:00",
+    "js_take": {
+      "en-US": "Buying software to outsource judgment. Same people who buy gym memberships for the selfie.",
+      "zh-CN": "买软件外包判断力。跟办健身卡只为自拍的是同一拨人。"
+    }
+  },
+  {
     "id": "2038896951891210309",
     "date": "2026-03-31",
     "author": "@gkisokay",
@@ -5659,34 +5689,6 @@
     "js_take": {
       "en-US": "They're racing to ship features. The real prize is defining how agents should feel to use. Whoever sets that default wins without competing.",
       "zh-CN": "他们在拼命堆功能，真正的奖品却是定义 Agent 应该「用起来是什么感觉」。谁能定下这个默认值，谁就能不争而胜。"
-    }
-  },
-  {
-    "id": "2034825892279779348",
-    "date": "2026-03-20",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2034825892279779348",
-    "title": {
-      "en-US": "OpenClaw made Anthropic pivot - 1 person project vs $500B company",
-      "zh-CN": "OpenClaw 促使 Anthropic 转向——1人开源项目对抗5000亿美元公司"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态/Agent平台竞争",
-      "zh-CN": "把这场竞争看作\"OpenClaw vs Anthropic\"是个视角错误——真正发生的是表世界（巨头产品）向里世界（开源Agent）的迁徙，OpenClaw只是顺势而为的节点。"
-    },
-    "relevance": "OpenClaw生态/Agent平台竞争",
-    "score": 0.78,
-    "engagement": {
-      "likes": 34,
-      "retweets": 3,
-      "replies": 12
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-20T03:08:09.643028+00:00",
-    "js_take": {
-      "en-US": "Not David vs Goliath. Giants become infrastructure; agents become interface. OpenClaw just accelerated a migration already underway.",
-      "zh-CN": "不是大卫对决歌利亚的戏码。巨头退居成为基础设施，Agent 走向前台成为新界面。OpenClaw 只是加速了一场早已开始的迁徙。"
     }
   }
 ]

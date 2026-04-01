@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-01T08:07:40.951231+00:00",
+  "updated_at": "2026-04-01T11:11:44.939901+00:00",
   "this_week": {
-    "total_items": 28,
+    "total_items": 29,
     "avg_score": 0.77,
-    "unique_authors": 26,
+    "unique_authors": 27,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -564,6 +564,36 @@
         }
       },
       {
+        "id": "2039194560048546021",
+        "date": "2026-04-01",
+        "author": "@liyue_ai",
+        "author_url": "https://x.com/liyue_ai",
+        "tweet_url": "https://x.com/liyue_ai/status/2039194560048546021",
+        "title": {
+          "en-US": "OpenClaw热度降温，装了没用效率反降",
+          "zh-CN": "OpenClaw在国内热度降温，很多人发现装了没用，费钱费时效率没提升，反而更忙了"
+        },
+        "summary": {
+          "en-US": "OpenClaw平台/AI工具效率反思",
+          "zh-CN": "工具本身没有价值，使用者的判断力才有——花大钱买最新工具的人，往往期待工具代替思考，结果只是把旧流程用新工具重跑一遍。"
+        },
+        "relevance": "OpenClaw平台/AI工具效率反思",
+        "score": 0.72,
+        "engagement": {
+          "likes": 142,
+          "retweets": 15,
+          "replies": 46,
+          "views": 45467,
+          "bookmarks": 71
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-04-01T11:11:20.543960+00:00",
+        "js_take": {
+          "en-US": "Buying software to outsource judgment. Same people who buy gym memberships for the selfie.",
+          "zh-CN": "买软件外包判断力。跟办健身卡只为自拍的是同一拨人。"
+        }
+      },
+      {
         "id": "2038706612479959296",
         "date": "2026-03-31",
         "author": "@lennysan",
@@ -793,6 +823,6 @@
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 153
+    "unique_authors": 154
   }
 }
