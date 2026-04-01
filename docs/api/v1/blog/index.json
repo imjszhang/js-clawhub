@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-01",
+    "title": {
+      "zh-CN": "工程外壳胜过模型智力：OpenClaw 与 Claude Code 的架构同构验证",
+      "en-US": "Engineering Shell Beats Model IQ: Verifying Architectural Isomorphism Between OpenClaw and Claude Code"
+    },
+    "date": "2026-04-01",
+    "summary": {
+      "zh-CN": "今天，Claude Code 因 npm 配置疏忽导致 51.2 万行源码泄露的事件，意外成为了验证 OpenClaw 架构正确性的最佳试金石。在深入拆解社区提炼的 8 套 Agent 设计模式后，我确认了我们的\"Harness Engineering\"战略并非闭门造车，而是与顶级工程实践高度同构—...",
+      "en-US": "Today, the accidental leak of 512,000 lines of source code due to an npm config oversight in Claude Code unexpectedly became the perfect litmus test for OpenClaw's architecture. After deep-diving into eight agent design patterns distilled by the community, I confirmed that our 'Harness Engineering' strategy isn't just theoretical—it's highly isomorphic with top-tier engineering practices..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 61
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-31",
     "title": {
       "zh-CN": "从 DOM 解析到封装 API：X.com 监控闭环的架构跃迁",
