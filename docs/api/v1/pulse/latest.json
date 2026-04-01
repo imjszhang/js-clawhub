@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-01T11:11:44.939901+00:00",
+  "updated_at": "2026-04-01T14:16:56.973976+00:00",
   "this_week": {
-    "total_items": 29,
+    "total_items": 30,
     "avg_score": 0.77,
-    "unique_authors": 27,
+    "unique_authors": 28,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -193,6 +193,34 @@
         },
         "comment_type": "wuwei_provoke",
         "synced_at": "2026-03-30T08:10:18.807205+00:00"
+      },
+      {
+        "id": "2039100617176531385",
+        "date": "2026-04-01",
+        "author": "@inceptioncortex",
+        "author_url": "https://x.com/inceptioncortex",
+        "tweet_url": "https://x.com/inceptioncortex/status/2039100617176531385",
+        "title": {
+          "en-US": "Anthropic open-source: Hermes-agent, Paperclip, Phone gateway. Playbook is open.",
+          "zh-CN": "Anthropic 还开源了 Hermes-agent、Paperclip、Phone gateway，agent 工具链的蓝图已经公开，组件免费可用。"
+        },
+        "summary": {
+          "en-US": "OpenClaw / Hermes / Agent 工具链",
+          "zh-CN": "OpenClaw 的完整工具链开源看似是「给答案」，实则埋了一个陷阱：拿了蓝图的人越多，真正能搭建出完整系统的人反而越少——因为搭建需要判断力，而蓝图无法传递判断。"
+        },
+        "relevance": "OpenClaw / Hermes / Agent 工具链",
+        "score": 0.78,
+        "engagement": {
+          "likes": 452,
+          "replies": 12,
+          "retweets": 37
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-04-01T14:16:24.826628+00:00",
+        "js_take": {
+          "en-US": "OpenClaw dropped the full blueprint. Watch what happens: 1000 forks, 10 working setups, 3 people who actually know when to stop adding agents. The gap was never the tools.",
+          "zh-CN": "OpenClaw 开源了全套方案。结果呢：1000 人复刻，10 个能跑起来，3 个懂得适可而止。差距从来不在工具上。"
+        }
       },
       {
         "id": "2038636184818352470",
@@ -823,6 +851,6 @@
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 154
+    "unique_authors": 155
   }
 }

@@ -24,6 +24,34 @@
     "synced_at": "2026-03-31T16:21:47.482948+00:00"
   },
   {
+    "id": "2039100617176531385",
+    "date": "2026-04-01",
+    "author": "@inceptioncortex",
+    "author_url": "https://x.com/inceptioncortex",
+    "tweet_url": "https://x.com/inceptioncortex/status/2039100617176531385",
+    "title": {
+      "en-US": "Anthropic open-source: Hermes-agent, Paperclip, Phone gateway. Playbook is open.",
+      "zh-CN": "Anthropic 还开源了 Hermes-agent、Paperclip、Phone gateway，agent 工具链的蓝图已经公开，组件免费可用。"
+    },
+    "summary": {
+      "en-US": "OpenClaw / Hermes / Agent 工具链",
+      "zh-CN": "OpenClaw 的完整工具链开源看似是「给答案」，实则埋了一个陷阱：拿了蓝图的人越多，真正能搭建出完整系统的人反而越少——因为搭建需要判断力，而蓝图无法传递判断。"
+    },
+    "relevance": "OpenClaw / Hermes / Agent 工具链",
+    "score": 0.78,
+    "engagement": {
+      "likes": 452,
+      "replies": 12,
+      "retweets": 37
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-01T14:16:24.826628+00:00",
+    "js_take": {
+      "en-US": "OpenClaw dropped the full blueprint. Watch what happens: 1000 forks, 10 working setups, 3 people who actually know when to stop adding agents. The gap was never the tools.",
+      "zh-CN": "OpenClaw 开源了全套方案。结果呢：1000 人复刻，10 个能跑起来，3 个懂得适可而止。差距从来不在工具上。"
+    }
+  },
+  {
     "id": "2039131094449115628",
     "date": "2026-04-01",
     "author": "@VadimStrizheus",
@@ -5660,35 +5688,6 @@
     "js_take": {
       "en-US": "Cloud didn't create 'more jobs' — it turned sysadmins into DevOps. OpenClaw won't create more work, it'll make 'managing agents' a profession. The interface shifts, the database stays.",
       "zh-CN": "云计算没有创造'更多岗位'——它只是把系统管理员变成了 DevOps。OpenClaw 也不会增加工作量，而是让'管理 Agent'成为一种新职业。变的只是界面，不变的是数据底层。"
-    }
-  },
-  {
-    "id": "2034779593346064682",
-    "date": "2026-03-20",
-    "author": "@petergyang",
-    "author_url": "https://x.com/petergyang",
-    "tweet_url": "https://x.com/petergyang/status/2034779593346064682",
-    "title": {
-      "en-US": "Ok Anthropic is coming at OpenClaw hard. Competition is good for users",
-      "zh-CN": "Anthropic正在猛烈进攻OpenClaw，竞争对用户是好事。"
-    },
-    "summary": {
-      "en-US": "OpenClaw vs Anthropic竞争动态",
-      "zh-CN": "「竞争对用户好」是表象——真正的势在『谁定义了agent的交互范式』，用户受益的是功能，被锁定的是习惯。"
-    },
-    "relevance": "OpenClaw vs Anthropic竞争动态",
-    "score": 0.78,
-    "engagement": {
-      "likes": 218,
-      "retweets": 11,
-      "replies": 17,
-      "views": 25470
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-20T02:06:59.238868+00:00",
-    "js_take": {
-      "en-US": "They're racing to ship features. The real prize is defining how agents should feel to use. Whoever sets that default wins without competing.",
-      "zh-CN": "他们在拼命堆功能，真正的奖品却是定义 Agent 应该「用起来是什么感觉」。谁能定下这个默认值，谁就能不争而胜。"
     }
   }
 ]
