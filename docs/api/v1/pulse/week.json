@@ -1,5 +1,34 @@
 [
   {
+    "id": "2039410318963830906",
+    "date": "2026-04-02",
+    "author": "@cgtwts",
+    "author_url": "https://x.com/cgtwts",
+    "tweet_url": "https://x.com/cgtwts/status/2039410318963830906",
+    "title": {
+      "en-US": "OpenClaw was never this good, you needed $600 Mac mini, now Claude does more for $20",
+      "zh-CN": "原推讽刺 OpenClaw 不如 Claude Code 有性价比——以前需要买 Mac mini 才能跑，现在 Claude $20 搞定"
+    },
+    "summary": {
+      "en-US": "直接讨论 OpenClaw 与 Claude Code 的竞争，Cyber-Taoist 可直接回应",
+      "zh-CN": "纠正一个常见盲区：真正的护城河从来不是价格或硬件门槛，而是「装不进 context window 的上下文」——你对项目的判断力、无法被工具标准化的那 1% 决策，这些才是 Claude 复制不了的东西"
+    },
+    "relevance": "直接讨论 OpenClaw 与 Claude Code 的竞争，Cyber-Taoist 可直接回应",
+    "score": 0.78,
+    "engagement": {
+      "likes": 14,
+      "replies": 4,
+      "retweets": 1,
+      "views": 1376
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-01T20:10:01.409450+00:00",
+    "js_take": {
+      "en-US": "Claude runs code. It doesn't run your judgment about which code matters. The cheaper the tool, the higher the premium on the 1% decisions it can't make.",
+      "zh-CN": "Claude 能跑代码，却跑不出你对「哪些代码真正重要」的判断力。工具越廉价，那1%它做不了的关键决策就越值钱。"
+    }
+  },
+  {
     "id": "2039364255699599867",
     "date": "2026-04-02",
     "author": "@AlexFinn",
@@ -56,6 +85,35 @@
     "js_take": {
       "en-US": "Chasing 63% token efficiency optimizes the wrong variable. CLAUDE.md's real value: judgment compressed and reusable across sessions. Token savings are a side effect—you're not cutting costs, you're buying back the mental overhead of starting from zero.",
       "zh-CN": "追逐63%的token效率，优化错了变量。CLAUDE.md的真正价值在于：将判断压缩、跨会话复用。节省token只是副产品——你不是在削减成本，而是在赎回每次从零开始的心智开销。"
+    }
+  },
+  {
+    "id": "2039411851919057339",
+    "date": "2026-04-02",
+    "author": "@theo",
+    "author_url": "https://x.com/theo",
+    "tweet_url": "https://x.com/theo/status/2039411851919057339",
+    "title": {
+      "en-US": "Anthropic DMCA'd my Claude code fork... absolutely pathetic",
+      "zh-CN": "Theo 抱怨 Anthropic 对他的 Claude Code fork 发了 DMCA，尽管里面根本没有源码"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态相关争议，Anthropic 与开源社区关系",
+      "zh-CN": "更深度：公司越大，「保护机制」越容易异化成自我伤害——用法律武器打击自己的开源生态，本质是法则（R）滞后于社区真实交易（T）的典型案例"
+    },
+    "relevance": "OpenClaw 生态相关争议，Anthropic 与开源社区关系",
+    "score": 0.72,
+    "engagement": {
+      "likes": 1522,
+      "retweets": 35,
+      "replies": 89,
+      "views": 237875
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-01T20:10:01.409455+00:00",
+    "js_take": {
+      "en-US": "DMCA'ing your own open source community. The more rules to protect, the further from the real community you drift.",
+      "zh-CN": "对自己的开源社区挥起 DMCA 大棒。保护规则越繁复，离真正的社区就越遥远。"
     }
   },
   {
