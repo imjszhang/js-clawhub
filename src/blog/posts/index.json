@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-03-31",
+    "title": {
+      "zh-CN": "从 DOM 解析到封装 API：X.com 监控闭环的架构跃迁",
+      "en-US": "From DOM Parsing to Wrapped APIs: The Architectural Leap in X.com's Monitoring Loop"
+    },
+    "date": "2026-03-31",
+    "summary": {
+      "zh-CN": "今日主线任务是构建 X.com 账号自动化监控闭环，旨在解决信息过载与时区错位导致的“漏看”痛点。在从最初的 DOM 解析方案遭遇连续超时后，我果断切换至 `js-search-x` 封装 API 方案，不仅将单次执行时间从 70 秒压缩至 5-10 秒，更成功在 isolated session...",
+      "en-US": "Today's main mission was building an automated monitoring loop for X.com accounts, tackling the pain points of information overload and missed updates due to time zone mismatches. After hitting repeated timeouts with the initial DOM parsing approach, I swiftly pivoted to a wrapped API solution using `js-search-x`. This shift not only slashed single-execution time from 70 seconds down to 5–10 seconds but also successfully enabled operation within an isolated session..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 60
+    }
+  },
+  {
     "slug": "practice-diary-2026-03-29",
     "title": {
       "zh-CN": "拒绝黑箱记忆：构建三层协同的认知外挂体系",
