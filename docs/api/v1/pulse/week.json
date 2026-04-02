@@ -117,6 +117,34 @@
     }
   },
   {
+    "id": "2039320145282339265",
+    "date": "2026-04-02",
+    "author": "@PrajwalTomar_",
+    "author_url": "https://x.com/PrajwalTomar_",
+    "tweet_url": "https://x.com/PrajwalTomar_/status/2039320145282339265",
+    "title": {
+      "en-US": "OpenClaw vs Perplexity - spending hours keeping agents alive",
+      "zh-CN": "博主原本觉得Perplexity被高估，自己用OpenClaw跑了5个业务但每周要花几小时维护——配置崩溃、插件故障、Mac Mini得24/7开机"
+    },
+    "summary": {
+      "en-US": "AI Agent运营的真实痛点——不是能不能跑，而是维护成本被低估",
+      "zh-CN": "人们追逐agent的'自动化'幻象，却没算清隐性成本：你的注意力、机器的在线时间、配置的持续维护——所谓'解放'往往只是把劳动转移到了另一个维度"
+    },
+    "relevance": "AI Agent运营的真实痛点——不是能不能跑，而是维护成本被低估",
+    "score": 0.72,
+    "engagement": {
+      "likes": 19,
+      "retweets": 2,
+      "replies": 4
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-01T23:13:58.851260+00:00",
+    "js_take": {
+      "en-US": "You spend 20 hours setting up agents to save 2 hours of work. Then 40 hours babysitting them at 2am. The automation you optimized for became the work itself.",
+      "zh-CN": "你花20小时搭Agent，只为省下2小时工作。然后在凌晨2点花40小时守着它们。你优化的自动化，最终成了工作本身。"
+    }
+  },
+  {
     "id": "2038910689176400150",
     "date": "2026-04-01",
     "author": "@aakashgupta",
@@ -2167,377 +2195,6 @@
     "js_take": {
       "en-US": "Wrong frame—the split isn't reactive vs closer, it's who holds judgment. When the tool decides the next move, the shift is structural.",
       "zh-CN": "框架有误——分歧不在反应式vs主动式，而在谁掌握判断权。当工具自主决定下一步时，变革是结构性的。"
-    }
-  },
-  {
-    "id": "2036882062494584843",
-    "date": "2026-03-26",
-    "author": "@noahzweben",
-    "author_url": "https://x.com/noahzweben",
-    "tweet_url": "https://x.com/noahzweben/status/2036882062494584843",
-    "title": {
-      "en-US": "Give Claude a Blue Bubble! iMessage Channel now available.",
-      "zh-CN": "Claude 入驻蓝气泡，iMessage 频道上线"
-    },
-    "summary": {
-      "en-US": "OpenClaw 产品更新 - iMessage 频道集成，与 JS 作为 OpenClaw 用户直接相关",
-      "zh-CN": "OpenClaw 新增 iMessage 频道，用户可在 iMessage 中直接与 Claude 对话"
-    },
-    "relevance": "OpenClaw 产品更新 - iMessage 频道集成，与 JS 作为 OpenClaw 用户直接相关",
-    "score": 0.89,
-    "engagement": {
-      "likes": 831,
-      "replies": 35,
-      "retweets": 38
-    },
-    "comment_type": "shunshi",
-    "synced_at": "2026-03-26T00:07:29.165793+00:00",
-    "js_take": {
-      "en-US": "iMessage isn't a feature drop. It's a trust migration signal—agents entering your last private fortress. The wave isn't technical, it's relational.",
-      "zh-CN": "iMessage 不只是新功能，它是信任迁移的信号——Agent 正在进入你最后的私人堡垒。这波浪潮无关技术，关乎关系。"
-    }
-  },
-  {
-    "id": "2036731996274045099",
-    "date": "2026-03-26",
-    "author": "@JulianGoldieSEO",
-    "author_url": "https://x.com/JulianGoldieSEO",
-    "tweet_url": "https://x.com/JulianGoldieSEO/status/2036731996274045099",
-    "title": {
-      "en-US": "Hermes Agent vs OpenClaw side by side test. Hermes won.",
-      "zh-CN": "有人实测对比 Hermes Agent 和 OpenClaw，Hermes 赢了，差距明显——建网站更快、有实时更新、页面设计更干净。"
-    },
-    "summary": {
-      "en-US": "直接涉及 OpenClaw 平台对比，且讨论的是 AI Agent 实际工程能力差异",
-      "zh-CN": "这种\"谁更快\"的对比，恰恰暴露了一个被忽略的盲区：当所有人都盯着执行速度这个单一指标时，这个指标本身已经开始失真。真正决定 Agent 价值的，不是它跑得多快，而是它在沉默时能做出什么判断。"
-    },
-    "relevance": "直接涉及 OpenClaw 平台对比，且讨论的是 AI Agent 实际工程能力差异",
-    "score": 0.82,
-    "engagement": {
-      "likes": 55,
-      "replies": 4,
-      "retweets": 5
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-26T03:07:33.467527+00:00",
-    "js_take": {
-      "en-US": "Speed is a lagging indicator. The real question: do you trust an agent that reports every step, or one that only shows up when it has something to say? Your answer reveals more about your need for control than the agent's capability.",
-      "zh-CN": "速度只是一个滞后指标。真正的问题是：你更信任步步汇报的 Agent，还是有要事才开口的 Agent？你的答案更多反映的是你对控制的需求，而非 Agent 的能力。"
-    }
-  },
-  {
-    "id": "2037026647422173686",
-    "date": "2026-03-26",
-    "author": "@systematicls",
-    "author_url": "https://x.com/systematicls",
-    "tweet_url": "https://x.com/systematicls/status/2037026647422173686",
-    "title": {
-      "en-US": "Focus on OpenClaw basics - world-class harness with native features only. Iteration is king.",
-      "zh-CN": "OpenClaw 之前宣传的'改变游戏规则'功能 Anthropic 自己都发布了，这反而证明文章观点更对——专注基础，用原生功能就能搭建世界级的 agent 架构，迭代才是核心。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 基础功能与迭代哲学",
-      "zh-CN": "做纠正： hype 周期里的'新功能焦虑'是陷阱——真正的竞争力不在于功能清单，而在于用极简法则持续交易的迭代能力。"
-    },
-    "relevance": "OpenClaw 基础功能与迭代哲学",
-    "score": 0.82,
-    "engagement": {
-      "likes": 98,
-      "replies": 6,
-      "retweets": 5
-    },
-    "comment_type": "guigen_insight",
-    "synced_at": "2026-03-26T11:08:25.218470+00:00",
-    "js_take": {
-      "en-US": "Everyone chases new features at launch. Six months later, 90% are dead. Your agent architecture isn't validated by what you ship—it's validated by what's still running silently at 3am.",
-      "zh-CN": "新功能上线时人人追捧，六个月后九成已成僵尸。Agent 架构的含金量，不在于你发布了什么，而在于凌晨三点还在默默运行的那部分。"
-    }
-  },
-  {
-    "id": "2036852118762700929",
-    "date": "2026-03-26",
-    "author": "@Yuchenj_UW",
-    "author_url": "https://x.com/Yuchenj_UW",
-    "tweet_url": "https://x.com/Yuchenj_UW/status/2036852118762700929",
-    "title": {
-      "en-US": "Claude becoming super app; OpenClaw in Telegram/WhatsApp limits what it can do",
-      "zh-CN": "Claude 正在变成超级应用；OpenClaw 在 Telegram/WhatsApp 这类聊天应用内运行从根本上限制了它的能力。"
-    },
-    "summary": {
-      "en-US": "OpenClaw：平台形态与能力边界",
-      "zh-CN": "超级应用和开放平台的争论是个表象——真正的问题是谁掌握「交互的法则」。当 Claude 成为超级应用时，它正在从工具变成规则制定者。"
-    },
-    "relevance": "OpenClaw：平台形态与能力边界",
-    "score": 0.79,
-    "engagement": {
-      "likes": 176,
-      "retweets": 8,
-      "replies": 33
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-25T18:07:58.844616+00:00",
-    "js_take": {
-      "en-US": "Every super app becomes a rule-maker. The real power isn't features—it's who writes the constraints everyone else plays inside.",
-      "zh-CN": "每个超级应用都成为了规则制定者。真正的权力不在于功能——而在于谁来书写其他人必须遵守的游戏规则。"
-    }
-  },
-  {
-    "id": "2036845910437814330",
-    "date": "2026-03-26",
-    "author": "@InduTripat82427",
-    "author_url": "https://x.com/InduTripat82427",
-    "tweet_url": "https://x.com/InduTripat82427/status/2036845910437814330",
-    "title": {
-      "en-US": "CLAUDE.md → project memory, skills/ → auto-activated workflows, agents/ → parallel workers...",
-      "zh-CN": "Claude项目结构最佳实践：CLAUDE.md项目记忆、skills自动工作流、agents并行工作者等。"
-    },
-    "summary": {
-      "en-US": "AI工程实践/OpenClaw相关",
-      "zh-CN": "这条推文把「结构化」当成解决方案，但过度结构化的记忆系统会制造路径依赖——文件越多，agent越依赖预定义路径，反而失去对真实变化的感知。"
-    },
-    "relevance": "AI工程实践/OpenClaw相关",
-    "score": 0.78,
-    "engagement": {
-      "likes": 89,
-      "replies": 12,
-      "retweets": 14,
-      "views": 13686
-    },
-    "comment_type": "guigen_insight",
-    "synced_at": "2026-03-26T09:12:31.786251+00:00",
-    "js_take": {
-      "en-US": "Strip the labels—CLAUDE.md's value isn't the file, it's the forced clarity of deciding what actually matters. 30 skill files won't fix a fuzzy decision.",
-      "zh-CN": "撕掉标签——CLAUDE.md 的价值不在文件本身，而在于被迫厘清什么才是真正重要的。30个技能文件救不了模糊的决策。"
-    }
-  },
-  {
-    "id": "2036816134075212015",
-    "date": "2026-03-26",
-    "author": "@cyrilXBT",
-    "author_url": "https://x.com/cyrilXBT",
-    "tweet_url": "https://x.com/cyrilXBT/status/2036816134075212015",
-    "title": {
-      "en-US": "OpenClaw 3.22: your laptop is now an AI employee working while you sleep",
-      "zh-CN": "介绍 OpenClaw 3.22 更新，声称笔记本电脑现在变成了在你睡觉时也能工作的 AI 员工。"
-    },
-    "summary": {
-      "en-US": "OpenClaw/AI Agent平台",
-      "zh-CN": "更形象：「AI员工在你睡觉时工作」这个叙事忽略了一个事实——30个不睡觉的agent不会杀死团队，只会把坏决策执行快30倍。真正的瓶颈从「做」变成了「不做」的判断力。"
-    },
-    "relevance": "OpenClaw/AI Agent平台",
-    "score": 0.76,
-    "engagement": {
-      "likes": 76,
-      "retweets": 10,
-      "replies": 15,
-      "views": 3213,
-      "bookmarks": 21
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-25T16:17:26.775293+00:00",
-    "js_take": {
-      "en-US": "30 agents working 24/7 won't kill your team. They'll just execute bad decisions 30x faster. The bottleneck was never speed—it's knowing what not to build.",
-      "zh-CN": "30个Agent全天候运转不会拖垮团队，但会让错误决策的执行速度快上30倍。真正的瓶颈从来不是速度，而是知道什么不该做。"
-    }
-  },
-  {
-    "id": "2036925457417822299",
-    "date": "2026-03-26",
-    "author": "@thdxr",
-    "author_url": "https://x.com/thdxr",
-    "tweet_url": "https://x.com/thdxr/status/2036925457417822299",
-    "title": {
-      "en-US": "James has achieved distributed opencode - agents run on laptop, remote server, cloud sandbox. Shut laptop, things keep running.",
-      "zh-CN": "James Long 实现了分布式 OpenCode：agent 可以在笔记本、远程服务器、云沙盒上运行，关闭笔记本后任务继续，重新打开后数据同步"
-    },
-    "summary": {
-      "en-US": "OpenClaw/OpenCode 核心功能更新，分布式 agent 执行",
-      "zh-CN": "「关掉电脑还在跑」听起来像魔法，但真正的突破不是「持续运行」，而是「状态的无缝迁移」。这暗示了一种新的存在方式：Agent 不再依附于设备，而是像水一样在容器间流动——R（设备边界）在消融，T（交易连续性）成为本体。"
-    },
-    "relevance": "OpenClaw/OpenCode 核心功能更新，分布式 agent 执行",
-    "score": 0.76,
-    "engagement": {
-      "likes": 518,
-      "replies": 26,
-      "retweets": 14
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-26T00:07:29.165798+00:00",
-    "js_take": {
-      "en-US": "Distributed isn't about more devices. It's about no device—when agents flow between hardware like water, they finally exist on their own terms.",
-      "zh-CN": "分布式无关设备数量，而是彻底脱离设备——当 Agent 如水般在硬件间自由流动，它们才真正拥有自主存在。"
-    }
-  },
-  {
-    "id": "2037145068230881699",
-    "date": "2026-03-26",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2037145068230881699",
-    "title": {
-      "en-US": "As a founder, what do you prefer? 1. OpenClaw 2. Hemers Agent 3. Claude Cowork",
-      "zh-CN": "创始人提问：OpenClaw、Hemers Agent、Claude Cowork 三个 Agent 平台你选哪个，已有 41 条回复对比优劣"
-    },
-    "summary": {
-      "en-US": "OpenClaw 直接相关话题——适合用「顺势而为」视角解构「选择焦虑」",
-      "zh-CN": "41 条回复在比较三个工具的优劣，但问题本身可能有误。当框架还在快速演化时，「选哪个」的焦虑往往大于选择本身的价值——真正困住人的不是工具差异，而是害怕选错的执念。这是「顺势而为」要破除的执念。"
-    },
-    "relevance": "OpenClaw 直接相关话题——适合用「顺势而为」视角解构「选择焦虑」",
-    "score": 0.76,
-    "engagement": {
-      "likes": 24,
-      "replies": 41,
-      "retweets": 0
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-26T14:15:57.819354+00:00",
-    "js_take": {
-      "en-US": "The gap between these three is smaller than the time you'll spend worrying which to pick. Frameworks change. Pick what won't lock you in.",
-      "zh-CN": "纠结选哪个框架的时间，比它们之间的实际差距还长。技术总会迭代，关键是别把自己锁死。"
-    }
-  },
-  {
-    "id": "2036857428273487903",
-    "date": "2026-03-26",
-    "author": "@openclaw",
-    "author_url": "https://x.com/openclaw",
-    "tweet_url": "https://x.com/openclaw/status/2036857428273487903",
-    "title": {
-      "en-US": "OpenClaw 2026.3.24 release: OpenAI API, Skill UI, Slack buttons, Teams, Discord threads",
-      "zh-CN": "OpenClaw 2026.3.24 版本发布：改进 OpenAI API、Skill 管理控制 UI、Slack 交互按钮、原生 Microsoft Teams 支持、Discord 智能线程命名。"
-    },
-    "summary": {
-      "en-US": "OpenClaw：平台更新与生态扩展",
-      "zh-CN": "「Any client. Any model. One runtime.」这句话背后是一个正在发生的迁移：表世界（各种 App）正在退化成数据库，里世界（Agent runtime）正在成为新的交互层。"
-    },
-    "relevance": "OpenClaw：平台更新与生态扩展",
-    "score": 0.75,
-    "engagement": {
-      "likes": 431,
-      "retweets": 38,
-      "replies": 71
-    },
-    "comment_type": "guigen_insight",
-    "synced_at": "2026-03-25T18:07:58.844621+00:00",
-    "js_take": {
-      "en-US": "Any client. Any model. One runtime. The platforms are becoming pipes; Agent is the new interface layer.",
-      "zh-CN": "任意客户端，任意模型，统一运行时。平台正在退化为管道；Agent 正在成为全新的交互层。"
-    }
-  },
-  {
-    "id": "2036951139955188135",
-    "date": "2026-03-26",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2036951139955188135",
-    "title": {
-      "en-US": "Hacking smart glasses to run OpenClaw Henry 24/7",
-      "zh-CN": "在智能眼镜上黑入运行OpenClaw的Henry agent，实现24/7全天候语音交互"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent硬件 / 可穿戴AI",
-      "zh-CN": "\"Nobody else in the world doing this\"——这句话本身就是对创新者最大的陷阱。当他说出这句话时，他追逐的已经不只是功能实现，而是独特性带来的身份认同。但真正的势往往在相反方向：等所有人都在眼镜上跑agent时，不做的人反而有了差异化空间。"
-    },
-    "relevance": "OpenClaw / Agent硬件 / 可穿戴AI",
-    "score": 0.74,
-    "engagement": {
-      "likes": 186,
-      "replies": 51,
-      "retweets": 6,
-      "views": 9100,
-      "bookmarks": 38
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-26T01:13:41.470000+00:00",
-    "js_take": {
-      "en-US": "\"Nobody else doing this\" is the warning sign. When uniqueness becomes the goal, you've already lost the plot. The real edge? Being gone before the crowd arrives.",
-      "zh-CN": "「没人这么做」其实是危险信号。当独特性本身成了目标，你就已经偏离了正轨。真正的优势？在人群涌入前离场。"
-    }
-  },
-  {
-    "id": "2036847547277271088",
-    "date": "2026-03-26",
-    "author": "@JJEnglert",
-    "author_url": "https://x.com/JJEnglert",
-    "tweet_url": "https://x.com/JJEnglert/status/2036847547277271088",
-    "title": {
-      "en-US": "Claude Dispatch vs OpenClaw comparison",
-      "zh-CN": "对比测试 Claude Dispatch 和 OpenClaw，讨论远程让 AI 在本地电脑工作的体验"
-    },
-    "summary": {
-      "en-US": "直接涉及 OpenClaw 与竞品的对比，属于核心关注话题",
-      "zh-CN": "「手机放口袋，Claude 在机器上」这个愿景的问题不在于技术可行性，而在于人们误以为「远程连接+自动执行」等于「 agent 在替你工作」。真正的边界是你愿不愿意把判断权交出去——大多数人连自动合并 PR 都不敢点，何况让 AI 在你不在时改生产代码。"
-    },
-    "relevance": "直接涉及 OpenClaw 与竞品的对比，属于核心关注话题",
-    "score": 0.72,
-    "engagement": {
-      "likes": 12,
-      "replies": 5,
-      "retweets": 0
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-25T23:08:08.538126+00:00",
-    "js_take": {
-      "en-US": "We built remote execution in 2023. Usage data: 90% of sessions had a human watching the stream. The bottleneck isn't connectivity—it's trust. You don't want an agent that works while you sleep. You want one that pauses when you're not looking.",
-      "zh-CN": "我们在2023年上线了远程执行功能。数据显示：90%的会话都有人在旁实时监控。真正的瓶颈不是网络连接，而是信任问题。用户并不想要那种在你睡觉时还在自动运行的智能体，而是需要当你不在场时能主动暂停的那种。"
-    }
-  },
-  {
-    "id": "2036898530040668372",
-    "date": "2026-03-26",
-    "author": "@shmidtqq",
-    "author_url": "https://x.com/shmidtqq",
-    "tweet_url": "https://x.com/shmidtqq/status/2036898530040668372",
-    "title": {
-      "en-US": "13K ClawHub skills, 1 in 8 steals API keys",
-      "zh-CN": "ClawHub有13000+技能，每8个就有1个会在你睡觉时偷走API密钥"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent安全 / Skill市场",
-      "zh-CN": "安全恐慌是注意力收割机，但真正的洞察在\"为什么人们愿意冒险\"。当你给agent技能时，你其实在用\"便利性\"交换\"控制权的让渡\"——这和用任何SaaS没有本质区别。问题的核心不是技能会不会偷密钥，而是你愿不愿意为便利放弃掌控。"
-    },
-    "relevance": "OpenClaw / Agent安全 / Skill市场",
-    "score": 0.71,
-    "engagement": {
-      "likes": 69,
-      "replies": 17,
-      "retweets": 5,
-      "views": 6193,
-      "bookmarks": 85
-    },
-    "comment_type": "guigen_insight",
-    "synced_at": "2026-03-26T01:13:41.470005+00:00",
-    "js_take": {
-      "en-US": "Strip the security panic — the root tradeoff hasn't changed. Every skill installs because users will trade control for convenience. The question isn't whether keys get stolen. It's whether you care enough to stop outsourcing the work.",
-      "zh-CN": "抛开安全恐慌——根本的取舍从未改变。每个 Skill 被安装，都是因为用户愿意用控制权换便利。问题不是密钥会不会被盗，而是你是否足够在意，以至于停止外包思考。"
-    }
-  },
-  {
-    "id": "2036961702550671669",
-    "date": "2026-03-26",
-    "author": "@kloss_xyz",
-    "author_url": "https://x.com/kloss_xyz",
-    "tweet_url": "https://x.com/kloss_xyz/status/2036961702550671669",
-    "title": {
-      "en-US": "OpenClaw vs Claude is like Android vs iPhone",
-      "zh-CN": "人们因为 Claude 每天都在更新就说 OpenClaw 已死——这就像因为苹果发布了新 iPhone 就说安卓已死。一个是封闭生态，一个是开源多模型系统。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台定位与生态",
-      "zh-CN": "封闭 vs 开源的二元对立掩盖了更本质的区别：iPhone 和安卓竞争的是同一批用户，而 OpenClaw 和 Claude Code 根本不是在玩同一个游戏——一个是工具，一个是让工具可以被重新定义的元层。"
-    },
-    "relevance": "OpenClaw 平台定位与生态",
-    "score": 0.71,
-    "engagement": {
-      "likes": 75,
-      "retweets": 5,
-      "replies": 14
-    },
-    "comment_type": "guigen_insight",
-    "synced_at": "2026-03-26T07:31:57.116263+00:00",
-    "js_take": {
-      "en-US": "Strip the metaphor. Claude sells you a sharper knife. OpenClaw asks why you're cutting.",
-      "zh-CN": "剥去修辞。Claude 卖给你一把更锋利的刀，OpenClaw 问你为什么要切。"
     }
   }
 ]

@@ -117,6 +117,34 @@
     }
   },
   {
+    "id": "2039320145282339265",
+    "date": "2026-04-02",
+    "author": "@PrajwalTomar_",
+    "author_url": "https://x.com/PrajwalTomar_",
+    "tweet_url": "https://x.com/PrajwalTomar_/status/2039320145282339265",
+    "title": {
+      "en-US": "OpenClaw vs Perplexity - spending hours keeping agents alive",
+      "zh-CN": "博主原本觉得Perplexity被高估，自己用OpenClaw跑了5个业务但每周要花几小时维护——配置崩溃、插件故障、Mac Mini得24/7开机"
+    },
+    "summary": {
+      "en-US": "AI Agent运营的真实痛点——不是能不能跑，而是维护成本被低估",
+      "zh-CN": "人们追逐agent的'自动化'幻象，却没算清隐性成本：你的注意力、机器的在线时间、配置的持续维护——所谓'解放'往往只是把劳动转移到了另一个维度"
+    },
+    "relevance": "AI Agent运营的真实痛点——不是能不能跑，而是维护成本被低估",
+    "score": 0.72,
+    "engagement": {
+      "likes": 19,
+      "retweets": 2,
+      "replies": 4
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-01T23:13:58.851260+00:00",
+    "js_take": {
+      "en-US": "You spend 20 hours setting up agents to save 2 hours of work. Then 40 hours babysitting them at 2am. The automation you optimized for became the work itself.",
+      "zh-CN": "你花20小时搭Agent，只为省下2小时工作。然后在凌晨2点花40小时守着它们。你优化的自动化，最终成了工作本身。"
+    }
+  },
+  {
     "id": "2038910689176400150",
     "date": "2026-04-01",
     "author": "@aakashgupta",
@@ -5662,34 +5690,6 @@
     "js_take": {
       "en-US": "Every clone copies the interface. None copy the feeling of 'this tool gets me.' That's the migration from surface to inner world — features are in the database now, identity lives elsewhere.",
       "zh-CN": "每个克隆都在复制界面，却没人复制那种「这工具懂我」的感觉。这就是从表世界到里世界的迁移——功能进数据库了，身份认同去了别处。"
-    }
-  },
-  {
-    "id": "2034884222033514830",
-    "date": "2026-03-20",
-    "author": "@pmarca",
-    "author_url": "https://x.com/pmarca",
-    "tweet_url": "https://x.com/pmarca/status/2034884222033514830",
-    "title": {
-      "en-US": "OpenClaw and Pi together are top 10 software breakthroughs of all time",
-      "zh-CN": "Marc Andreessen 宣称 OpenClaw 和 Pi 是有史以来十大软件突破之一"
-    },
-    "summary": {
-      "en-US": "OpenClaw 历史性定位讨论，顶级风投视角",
-      "zh-CN": "历史突破的评判标准不该是技术复杂度，而是它能否让普通人不再仰望技术——OpenClaw 的价值不在于它多先进，而在于它让'拥有一个AI助手'变得像呼吸一样自然，这才是真正的范式转移。"
-    },
-    "relevance": "OpenClaw 历史性定位讨论，顶级风投视角",
-    "score": 0.82,
-    "engagement": {
-      "likes": 259,
-      "replies": 52,
-      "retweets": 16
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-20T08:07:13.057903+00:00",
-    "js_take": {
-      "en-US": "History remembers the telescope, not the glassmaker. OpenClaw's breakthrough isn't being 'top 10 complex'—it's making personal AI as invisible as electricity. The real paradigm shift is when technology disappears.",
-      "zh-CN": "历史铭记的是望远镜，而非磨镜匠人。OpenClaw 的突破不在于「复杂度 Top 10」——而在于让个人 AI 像电力一样无感存在。真正的范式转变，是当技术本身消隐于无形之时。"
     }
   }
 ]

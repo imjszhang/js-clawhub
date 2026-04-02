@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-01T20:10:32.885168+00:00",
+  "updated_at": "2026-04-01T23:14:29.482679+00:00",
   "this_week": {
-    "total_items": 34,
+    "total_items": 35,
     "avg_score": 0.76,
-    "unique_authors": 32,
+    "unique_authors": 33,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -677,6 +677,34 @@
         "js_take": {
           "en-US": "DMCA'ing your own open source community. The more rules to protect, the further from the real community you drift.",
           "zh-CN": "对自己的开源社区挥起 DMCA 大棒。保护规则越繁复，离真正的社区就越遥远。"
+        }
+      },
+      {
+        "id": "2039320145282339265",
+        "date": "2026-04-02",
+        "author": "@PrajwalTomar_",
+        "author_url": "https://x.com/PrajwalTomar_",
+        "tweet_url": "https://x.com/PrajwalTomar_/status/2039320145282339265",
+        "title": {
+          "en-US": "OpenClaw vs Perplexity - spending hours keeping agents alive",
+          "zh-CN": "博主原本觉得Perplexity被高估，自己用OpenClaw跑了5个业务但每周要花几小时维护——配置崩溃、插件故障、Mac Mini得24/7开机"
+        },
+        "summary": {
+          "en-US": "AI Agent运营的真实痛点——不是能不能跑，而是维护成本被低估",
+          "zh-CN": "人们追逐agent的'自动化'幻象，却没算清隐性成本：你的注意力、机器的在线时间、配置的持续维护——所谓'解放'往往只是把劳动转移到了另一个维度"
+        },
+        "relevance": "AI Agent运营的真实痛点——不是能不能跑，而是维护成本被低估",
+        "score": 0.72,
+        "engagement": {
+          "likes": 19,
+          "retweets": 2,
+          "replies": 4
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-04-01T23:13:58.851260+00:00",
+        "js_take": {
+          "en-US": "You spend 20 hours setting up agents to save 2 hours of work. Then 40 hours babysitting them at 2am. The automation you optimized for became the work itself.",
+          "zh-CN": "你花20小时搭Agent，只为省下2小时工作。然后在凌晨2点花40小时守着它们。你优化的自动化，最终成了工作本身。"
         }
       },
       {
