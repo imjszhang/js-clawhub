@@ -201,6 +201,34 @@
     }
   },
   {
+    "id": "2039689016057209171",
+    "date": "2026-04-02",
+    "author": "@xiaohu",
+    "author_url": "https://x.com/xiaohu",
+    "tweet_url": "https://x.com/xiaohu/status/2039689016057209171",
+    "title": {
+      "en-US": "LibTV AI video agent can connect to Claude Code and 龙虾. Now integrated with Seedance 2.0 API, can generate complete videos with one sentence.",
+      "zh-CN": "LibTV AI视频代理可接入Claude Code和OpenClaw（龙虾），现已集成Seedance 2.0 API，一句话即可生成完整视频。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态系统相关——提到龙虾（OpenClaw），AI视频代理与Skill集成",
+      "zh-CN": "当所有人都在优化「视频质量」这个单一指标时，真正的分化发生在「谁能让一个非技术人员走完从想法到成片的全程」。易用性不是妥协，是更高的技术壁垒。"
+    },
+    "relevance": "OpenClaw生态系统相关——提到龙虾（OpenClaw），AI视频代理与Skill集成",
+    "score": 0.71,
+    "engagement": {
+      "likes": 3,
+      "replies": 1,
+      "retweets": 1
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-04-02T13:14:56.360948+00:00",
+    "js_take": {
+      "en-US": "真正的势不在画质——在谁能让一个非技术人员走完从想法到成片的全程。易用性不是妥协，是更高的技术壁垒。",
+      "zh-CN": "真正的势不在画质——在谁能让一个非技术人员走完从想法到成片的全程。易用性不是妥协，是更高的技术壁垒。"
+    }
+  },
+  {
     "id": "2038910689176400150",
     "date": "2026-04-01",
     "author": "@aakashgupta",
@@ -5659,34 +5687,6 @@
     "js_take": {
       "en-US": "OpenAI fights to own the interface. OpenClaw fights to own the infrastructure beneath it. Surface vs inner world—guess which one wins long-term.",
       "zh-CN": "OpenAI 争夺界面，OpenClaw 争夺底层基础设施。表世界 vs 里世界——猜猜长期来看谁能赢。"
-    }
-  },
-  {
-    "id": "2034716745802346659",
-    "date": "2026-03-20",
-    "author": "@vercel",
-    "author_url": "https://x.com/vercel",
-    "tweet_url": "https://x.com/vercel/status/2034716745802346659",
-    "title": {
-      "en-US": "Chat SDK lets your agents run on every platform from a single codebase",
-      "zh-CN": "Vercel 发布 Chat SDK，让 agents 可以用一套代码运行在 Slack、Discord、Teams 等所有平台上"
-    },
-    "summary": {
-      "en-US": "OpenClaw/Agent 平台化，与 JS 的「表/里世界迁徙」洞察直接相关",
-      "zh-CN": "大家欢呼「agents 无处不在」，但真正的 shift 不是覆盖更多平台，而是「平台」这个概念本身的消解——当 agents 成为通用接口，表世界的 App 将退化为里世界的数据源。"
-    },
-    "relevance": "OpenClaw/Agent 平台化，与 JS 的「表/里世界迁徙」洞察直接相关",
-    "score": 0.82,
-    "engagement": {
-      "likes": 247,
-      "replies": 20,
-      "retweets": 24
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-19T21:06:40.383277+00:00",
-    "js_take": {
-      "en-US": "The surface layer is dissolving into conversation. When every platform runs the same agent backend, platforms become data pipes—not destinations. The real power shift isn't coverage, it's the migration from surface to inner world.",
-      "zh-CN": "表层正在消融于对话之中。当各平台都运行同样的 Agent 后端，平台本身便沦为数据管道，而非终点。真正的权力转移不在于覆盖范围，而在于从表世界向里世界的迁移。"
     }
   }
 ]

@@ -201,6 +201,34 @@
     }
   },
   {
+    "id": "2039689016057209171",
+    "date": "2026-04-02",
+    "author": "@xiaohu",
+    "author_url": "https://x.com/xiaohu",
+    "tweet_url": "https://x.com/xiaohu/status/2039689016057209171",
+    "title": {
+      "en-US": "LibTV AI video agent can connect to Claude Code and 龙虾. Now integrated with Seedance 2.0 API, can generate complete videos with one sentence.",
+      "zh-CN": "LibTV AI视频代理可接入Claude Code和OpenClaw（龙虾），现已集成Seedance 2.0 API，一句话即可生成完整视频。"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态系统相关——提到龙虾（OpenClaw），AI视频代理与Skill集成",
+      "zh-CN": "当所有人都在优化「视频质量」这个单一指标时，真正的分化发生在「谁能让一个非技术人员走完从想法到成片的全程」。易用性不是妥协，是更高的技术壁垒。"
+    },
+    "relevance": "OpenClaw生态系统相关——提到龙虾（OpenClaw），AI视频代理与Skill集成",
+    "score": 0.71,
+    "engagement": {
+      "likes": 3,
+      "replies": 1,
+      "retweets": 1
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-04-02T13:14:56.360948+00:00",
+    "js_take": {
+      "en-US": "真正的势不在画质——在谁能让一个非技术人员走完从想法到成片的全程。易用性不是妥协，是更高的技术壁垒。",
+      "zh-CN": "真正的势不在画质——在谁能让一个非技术人员走完从想法到成片的全程。易用性不是妥协，是更高的技术壁垒。"
+    }
+  },
+  {
     "id": "2038910689176400150",
     "date": "2026-04-01",
     "author": "@aakashgupta",
