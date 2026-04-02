@@ -1,5 +1,33 @@
 [
   {
+    "id": "2039691738483392609",
+    "date": "2026-04-03",
+    "author": "@floriandarroman",
+    "author_url": "https://x.com/floriandarroman",
+    "tweet_url": "https://x.com/floriandarroman/status/2039691738483392609",
+    "title": {
+      "en-US": "OpenClaw fake use cases criticism",
+      "zh-CN": "批评很多 OpenClaw 内容创作者只是在制造虚假用例来博眼球，而不是真正用它在构建东西。"
+    },
+    "summary": {
+      "en-US": "直接关于 OpenClaw 平台的真实使用与虚假内容问题",
+      "zh-CN": "批评者看到的是「烟雾弹」，但真相是：真正在深度使用 OpenClaw 的人忙于构建系统，没时间发推；表象的虚假繁荣反而说明工具的价值——当「假装使用」都能带来流量，工具本身一定触及了某种真实需求。"
+    },
+    "relevance": "直接关于 OpenClaw 平台的真实使用与虚假内容问题",
+    "score": 0.82,
+    "engagement": {
+      "likes": 72,
+      "replies": 28,
+      "retweets": 8
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-02T20:14:31.589163+00:00",
+    "js_take": {
+      "en-US": "The loudest voices aren't the ones building. When a tool lets people fake productivity and still get attention, it's already solving a real problem—just not the one critics think.",
+      "zh-CN": "真正在埋头做事的，往往不是喊得最响的。当一个工具让人假装勤奋也能获得关注时，它已经在解决一个真正的问题了——只是批评者想错了问题本身。"
+    }
+  },
+  {
     "id": "2039630005412704257",
     "date": "2026-04-03",
     "author": "@sudoingX",
@@ -5657,36 +5685,6 @@
     "js_take": {
       "en-US": "17 agents isn't the signal. The signal is why we need to see them at all. As agents shift from tools to collaborators, visualization moves from optional to essential — surface world becoming observation layer.",
       "zh-CN": "17个Agent不是信号。真正的信号是：我们为何需要看见它们。当Agent从工具演变为协作者，可视化便从可选项变为必需品——表世界正在蜕变为观察层。"
-    }
-  },
-  {
-    "id": "2034678354243436924",
-    "date": "2026-03-20",
-    "author": "@dontbesilent",
-    "author_url": "https://x.com/dontbesilent",
-    "tweet_url": "https://x.com/dontbesilent/status/2034678354243436924",
-    "title": {
-      "en-US": "Best skill ever, but most will just watch, not use. Scarcity creates value.",
-      "zh-CN": "人人可得的最强技能，多数人却只会围观"
-    },
-    "summary": {
-      "en-US": "OpenClaw Agent Skill 使用与价值稀缺性",
-      "zh-CN": "OpenClaw Agent Skill：使用与价值稀缺性"
-    },
-    "relevance": "OpenClaw Agent Skill 使用与价值稀缺性",
-    "score": 0.89,
-    "engagement": {
-      "likes": 250,
-      "replies": 4,
-      "retweets": 46,
-      "views": 31514,
-      "bookmarks": 379
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-19T20:06:51.574290+00:00",
-    "js_take": {
-      "en-US": "When everyone has the same tools, the scarce resource isn't the skill—it's the taste to know when to use it. You can give a carpenter the best hammer; their judgment of where to strike is what you can't democratize.",
-      "zh-CN": "当人人都有同样的工具，稀缺的不是技能，而是判断何时使用它的品味。你可以给木匠最好的锤子，但他判断落锤位置的直觉，永远无法被普及。"
     }
   }
 ]

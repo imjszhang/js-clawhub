@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-02T16:19:03.828507+00:00",
+  "updated_at": "2026-04-02T20:15:04.760242+00:00",
   "this_week": {
-    "total_items": 40,
+    "total_items": 41,
     "avg_score": 0.76,
-    "unique_authors": 37,
+    "unique_authors": 38,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -55,6 +55,34 @@
         "js_take": {
           "en-US": "The real win isn't killing OpenClaw—it's becoming harder to leave than to stay. Ecosystem gravity > feature lists.",
           "zh-CN": "真正的制胜之道不是击败 OpenClaw，而是让用户离不开你。生态引力 > 功能清单。"
+        }
+      },
+      {
+        "id": "2039691738483392609",
+        "date": "2026-04-03",
+        "author": "@floriandarroman",
+        "author_url": "https://x.com/floriandarroman",
+        "tweet_url": "https://x.com/floriandarroman/status/2039691738483392609",
+        "title": {
+          "en-US": "OpenClaw fake use cases criticism",
+          "zh-CN": "批评很多 OpenClaw 内容创作者只是在制造虚假用例来博眼球，而不是真正用它在构建东西。"
+        },
+        "summary": {
+          "en-US": "直接关于 OpenClaw 平台的真实使用与虚假内容问题",
+          "zh-CN": "批评者看到的是「烟雾弹」，但真相是：真正在深度使用 OpenClaw 的人忙于构建系统，没时间发推；表象的虚假繁荣反而说明工具的价值——当「假装使用」都能带来流量，工具本身一定触及了某种真实需求。"
+        },
+        "relevance": "直接关于 OpenClaw 平台的真实使用与虚假内容问题",
+        "score": 0.82,
+        "engagement": {
+          "likes": 72,
+          "replies": 28,
+          "retweets": 8
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-04-02T20:14:31.589163+00:00",
+        "js_take": {
+          "en-US": "The loudest voices aren't the ones building. When a tool lets people fake productivity and still get attention, it's already solving a real problem—just not the one critics think.",
+          "zh-CN": "真正在埋头做事的，往往不是喊得最响的。当一个工具让人假装勤奋也能获得关注时，它已经在解决一个真正的问题了——只是批评者想错了问题本身。"
         }
       },
       {
@@ -989,34 +1017,6 @@
         "js_take": {
           "en-US": "Structure isn't organized. It's earned. You don't tidy up for the AI — you think harder about what to break apart, then the AI executes.",
           "zh-CN": "结构不是整理出来的，而是思考出来的。与其为AI做整理，不如花更多功夫想清楚该拆什么，剩下的交给AI执行。"
-        }
-      },
-      {
-        "id": "2039689016057209171",
-        "date": "2026-04-02",
-        "author": "@xiaohu",
-        "author_url": "https://x.com/xiaohu",
-        "tweet_url": "https://x.com/xiaohu/status/2039689016057209171",
-        "title": {
-          "en-US": "LibTV AI video agent can connect to Claude Code and 龙虾. Now integrated with Seedance 2.0 API, can generate complete videos with one sentence.",
-          "zh-CN": "LibTV AI视频代理可接入Claude Code和OpenClaw（龙虾），现已集成Seedance 2.0 API，一句话即可生成完整视频。"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态系统相关——提到龙虾（OpenClaw），AI视频代理与Skill集成",
-          "zh-CN": "当所有人都在优化「视频质量」这个单一指标时，真正的分化发生在「谁能让一个非技术人员走完从想法到成片的全程」。易用性不是妥协，是更高的技术壁垒。"
-        },
-        "relevance": "OpenClaw生态系统相关——提到龙虾（OpenClaw），AI视频代理与Skill集成",
-        "score": 0.71,
-        "engagement": {
-          "likes": 3,
-          "replies": 1,
-          "retweets": 1
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-04-02T13:14:56.360948+00:00",
-        "js_take": {
-          "en-US": "真正的势不在画质——在谁能让一个非技术人员走完从想法到成片的全程。易用性不是妥协，是更高的技术壁垒。",
-          "zh-CN": "真正的势不在画质——在谁能让一个非技术人员走完从想法到成片的全程。易用性不是妥协，是更高的技术壁垒。"
         }
       }
     ]
