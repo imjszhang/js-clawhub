@@ -29,6 +29,34 @@
     }
   },
   {
+    "id": "2039498785693540534",
+    "date": "2026-04-02",
+    "author": "@lennysan",
+    "author_url": "https://x.com/lennysan",
+    "tweet_url": "https://x.com/lennysan/status/2039498785693540534",
+    "title": {
+      "en-US": "My top takeaways from @clairevo on all things 🦞\n\n1. Install OpenClaw on a separate computer...",
+      "zh-CN": "Lenny分享Claire Vo关于OpenClaw龙虾的最佳实践，建议用独立机器和专用账号来运行AI Agent，像雇佣员工一样对待它。"
+    },
+    "summary": {
+      "en-US": "OpenClaw官方最佳实践，Agent基础设施设置",
+      "zh-CN": "「像雇佣员工一样对待AI Agent」这个类比暴露了思维误区——把Agent当人管，恰恰限制了它的本质优势。真正该问的不是'怎么约束它'，而是'怎么让它不需要被约束也能做好'。"
+    },
+    "relevance": "OpenClaw官方最佳实践，Agent基础设施设置",
+    "score": 0.78,
+    "engagement": {
+      "likes": 290,
+      "replies": 40,
+      "retweets": 21
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-02T02:14:37.195472+00:00",
+    "js_take": {
+      "en-US": "You built a cage and called it infrastructure. The real flex isn't隔离 your agent—it's building one that doesn't need babysitting.",
+      "zh-CN": "你建了个笼子，却美其名曰基础设施。真正的本事不是把你的 agent 隔离起来——而是打造一个不需要人时时刻刻照看的 agent。"
+    }
+  },
+  {
     "id": "2039364255699599867",
     "date": "2026-04-02",
     "author": "@AlexFinn",
