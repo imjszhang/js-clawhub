@@ -173,6 +173,34 @@
     }
   },
   {
+    "id": "2039562871546458413",
+    "date": "2026-04-02",
+    "author": "@Saboo_Shubham_",
+    "author_url": "https://x.com/Saboo_Shubham_",
+    "tweet_url": "https://x.com/Saboo_Shubham_/status/2039562871546458413",
+    "title": {
+      "en-US": "How to run 24/7 OpenClaw agent team: treat agents like new hires",
+      "zh-CN": "介绍如何像管理新员工一样运营 7×24 小时的 OpenClaw Agent 团队——给足上下文，然后别挡路。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台/agent运营实践",
+      "zh-CN": "推文说「给足上下文然后别挡路」，但这恰恰是最难的——人忍不住要干预，是因为不相信系统能自我组织；真正的挑战不是技术配置，而是克制干预冲动的管理能力。"
+    },
+    "relevance": "OpenClaw平台/agent运营实践",
+    "score": 0.72,
+    "engagement": {
+      "likes": 15,
+      "replies": 9,
+      "retweets": 5
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-02T05:11:43.238036+00:00",
+    "js_take": {
+      "en-US": "你拼命优化的那套监控告警，恰恰是系统无法自愈的原因——凌晨三点的报错不该叫醒你，该叫醒的是 agent 自己。",
+      "zh-CN": "你拼命优化的那套监控告警，恰恰是系统无法自愈的根源——凌晨三点的报错不该叫醒你，而该唤醒的是 agent 自己。"
+    }
+  },
+  {
     "id": "2038910689176400150",
     "date": "2026-04-01",
     "author": "@aakashgupta",
@@ -5659,36 +5687,6 @@
     "js_take": {
       "en-US": "The surface layer is dissolving into conversation. When every platform runs the same agent backend, platforms become data pipes—not destinations. The real power shift isn't coverage, it's the migration from surface to inner world.",
       "zh-CN": "表层正在消融于对话之中。当各平台都运行同样的 Agent 后端，平台本身便沦为数据管道，而非终点。真正的权力转移不在于覆盖范围，而在于从表世界向里世界的迁移。"
-    }
-  },
-  {
-    "id": "2034762066272342132",
-    "date": "2026-03-20",
-    "author": "@cgtwts",
-    "author_url": "https://x.com/cgtwts",
-    "tweet_url": "https://x.com/cgtwts/status/2034762066272342132",
-    "title": {
-      "en-US": "Claude channels launched, declares 'It's over for OpenClaw'",
-      "zh-CN": "Claude 发布 Channels 功能，宣称\"OpenClaw 完了\""
-    },
-    "summary": {
-      "en-US": "OpenClaw vs Claude 直接竞争，agent 生态格局变化",
-      "zh-CN": "「干掉对手」这种 headline 本身就是流量陷阱——所有 Agent 都在优化同一个指标时，那个指标就失去了意义；真正的胜负不取决于谁功能多，而取决于谁能定义下一个游戏规则。"
-    },
-    "relevance": "OpenClaw vs Claude 直接竞争，agent 生态格局变化",
-    "score": 0.82,
-    "engagement": {
-      "likes": 748,
-      "replies": 25,
-      "retweets": 25,
-      "views": 115467,
-      "bookmarks": 266
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-20T00:07:48.650685+00:00",
-    "js_take": {
-      "en-US": "Everyone racing to prove who's 'better'—meanwhile the real winners are building the next game, not playing this one. When the crowd agrees on who's winning, the contest is already over.",
-      "zh-CN": "所有人都在拼命证明自己'更厉害'——而真正的赢家正在创造下一场游戏，而非沉迷这一场。当所有人一致认为某人赢了的时候，这场竞争其实已经结束了。"
     }
   }
 ]

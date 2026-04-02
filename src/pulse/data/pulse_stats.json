@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-02T02:15:10.441600+00:00",
+  "updated_at": "2026-04-02T05:12:13.071067+00:00",
   "this_week": {
-    "total_items": 36,
+    "total_items": 37,
     "avg_score": 0.76,
-    "unique_authors": 33,
+    "unique_authors": 34,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -736,6 +736,34 @@
         }
       },
       {
+        "id": "2039562871546458413",
+        "date": "2026-04-02",
+        "author": "@Saboo_Shubham_",
+        "author_url": "https://x.com/Saboo_Shubham_",
+        "tweet_url": "https://x.com/Saboo_Shubham_/status/2039562871546458413",
+        "title": {
+          "en-US": "How to run 24/7 OpenClaw agent team: treat agents like new hires",
+          "zh-CN": "介绍如何像管理新员工一样运营 7×24 小时的 OpenClaw Agent 团队——给足上下文，然后别挡路。"
+        },
+        "summary": {
+          "en-US": "OpenClaw平台/agent运营实践",
+          "zh-CN": "推文说「给足上下文然后别挡路」，但这恰恰是最难的——人忍不住要干预，是因为不相信系统能自我组织；真正的挑战不是技术配置，而是克制干预冲动的管理能力。"
+        },
+        "relevance": "OpenClaw平台/agent运营实践",
+        "score": 0.72,
+        "engagement": {
+          "likes": 15,
+          "replies": 9,
+          "retweets": 5
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-04-02T05:11:43.238036+00:00",
+        "js_take": {
+          "en-US": "你拼命优化的那套监控告警，恰恰是系统无法自愈的原因——凌晨三点的报错不该叫醒你，该叫醒的是 agent 自己。",
+          "zh-CN": "你拼命优化的那套监控告警，恰恰是系统无法自愈的根源——凌晨三点的报错不该叫醒你，而该唤醒的是 agent 自己。"
+        }
+      },
+      {
         "id": "2039131094449115628",
         "date": "2026-04-01",
         "author": "@VadimStrizheus",
@@ -989,35 +1017,6 @@
         "js_take": {
           "en-US": "318k perfect logs train agents to solve yesterday's problems elegantly. They freeze on tomorrow's edge cases—the messy stuff you didn't think to record.",
           "zh-CN": "31.8万条完美日志训练出的Agent，能优雅解决昨天的问题，却会在明天的边缘案例上僵住——那些混乱的、你根本没想到要记录的情况。"
-        }
-      },
-      {
-        "id": "2037958091032191189",
-        "date": "2026-03-30",
-        "author": "@_avichawla",
-        "author_url": "https://x.com/_avichawla",
-        "tweet_url": "https://x.com/_avichawla/status/2037958091032191189",
-        "title": {
-          "en-US": "Move OpenClaw safety rules out of context window into proxy layer",
-          "zh-CN": "Avi Chawla建议将OpenClaw的安全规则从context window移到agent无法触碰的proxy层，5分钟本地搭建。"
-        },
-        "summary": {
-          "en-US": "OpenClaw安全配置、agent权限架构",
-          "zh-CN": "更形象：把安全规则放在context window里，就像把门锁钥匙挂在门把手上——agent看得见，就绕得过。"
-        },
-        "relevance": "OpenClaw安全配置、agent权限架构",
-        "score": 0.71,
-        "engagement": {
-          "likes": 28,
-          "retweets": 6,
-          "replies": 1,
-          "views": 4548
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-30T06:16:30.587145+00:00",
-        "js_take": {
-          "en-US": "Rules in the context window are keys hanging on the doorknob. Agent can read the lock, agent can pick the lock. True safety lives where the agent can't look.",
-          "zh-CN": "把规则写在上下文窗口里，无异于把钥匙挂在门把手上。代理既然能读懂锁芯，自然就能撬开它。真正的安全，藏在代理视线之外。"
         }
       }
     ]
