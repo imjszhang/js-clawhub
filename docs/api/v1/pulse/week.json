@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2039789061154685323",
+    "date": "2026-04-03",
+    "author": "@openclaw",
+    "author_url": "https://x.com/openclaw",
+    "tweet_url": "https://x.com/openclaw/status/2039789061154685323",
+    "title": {
+      "en-US": "OpenClaw 2026.4.2 release: durable tasks, exec approvals, Copilot+Kimi",
+      "zh-CN": "OpenClaw发布4月更新，包括Durable Task Flow编排、原生执行优化、Copilot+Kimi支持等"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台核心功能更新，与JS的Agent开发工作直接相关",
+      "zh-CN": "做减法比做加法更需要判断力——'Less bloat'这句话恰恰说明团队明白：功能膨胀是平台死因，而Agent生态真正的护城河不是功能数量，是让人愿意留下的开发者体验。"
+    },
+    "relevance": "OpenClaw平台核心功能更新，与JS的Agent开发工作直接相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 589,
+      "replies": 76,
+      "retweets": 52
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-02T21:08:50.991604+00:00",
+    "js_take": {
+      "en-US": "Platforms die from feature bloat, not scarcity. The real moat isn't what you add—it's what you refuse to.",
+      "zh-CN": "平台死于功能臃肿，而非匮乏。真正的护城河不是你能添加什么，而是你能拒绝什么。"
+    }
+  },
+  {
     "id": "2039630005412704257",
     "date": "2026-04-03",
     "author": "@sudoingX",

@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2039789061154685323",
+    "date": "2026-04-03",
+    "author": "@openclaw",
+    "author_url": "https://x.com/openclaw",
+    "tweet_url": "https://x.com/openclaw/status/2039789061154685323",
+    "title": {
+      "en-US": "OpenClaw 2026.4.2 release: durable tasks, exec approvals, Copilot+Kimi",
+      "zh-CN": "OpenClaw发布4月更新，包括Durable Task Flow编排、原生执行优化、Copilot+Kimi支持等"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台核心功能更新，与JS的Agent开发工作直接相关",
+      "zh-CN": "做减法比做加法更需要判断力——'Less bloat'这句话恰恰说明团队明白：功能膨胀是平台死因，而Agent生态真正的护城河不是功能数量，是让人愿意留下的开发者体验。"
+    },
+    "relevance": "OpenClaw平台核心功能更新，与JS的Agent开发工作直接相关",
+    "score": 0.82,
+    "engagement": {
+      "likes": 589,
+      "replies": 76,
+      "retweets": 52
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-02T21:08:50.991604+00:00",
+    "js_take": {
+      "en-US": "Platforms die from feature bloat, not scarcity. The real moat isn't what you add—it's what you refuse to.",
+      "zh-CN": "平台死于功能臃肿，而非匮乏。真正的护城河不是你能添加什么，而是你能拒绝什么。"
+    }
+  },
+  {
     "id": "2039630005412704257",
     "date": "2026-04-03",
     "author": "@sudoingX",
@@ -5656,35 +5684,6 @@
     "js_take": {
       "en-US": "Skepticism flipping to belief means this isn't marketing — it's momentum. 'Access everything from anywhere' isn't a feature, it's the new layer.",
       "zh-CN": "怀疑转为信任，说明这不是营销，而是势。'随处访问一切'不是功能，是新层级。"
-    }
-  },
-  {
-    "id": "2035043115862516212",
-    "date": "2026-03-21",
-    "author": "@iamlukethedev",
-    "author_url": "https://x.com/iamlukethedev",
-    "tweet_url": "https://x.com/iamlukethedev/status/2035043115862516212",
-    "title": {
-      "en-US": "Claw3D running 17 agents with no lag",
-      "zh-CN": "Agent可视化：从工具到协作者的跃迁"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 + 多agent可视化",
-      "zh-CN": "「17个agent无延迟」是技术成就，但真正的信号是开发者开始需要「看见」agent在做什么——表世界正在从操作界面变成观察界面。"
-    },
-    "relevance": "OpenClaw生态 + 多agent可视化",
-    "score": 0.7,
-    "engagement": {
-      "likes": 83,
-      "retweets": 14,
-      "replies": 10,
-      "views": 6556
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-20T22:10:20.467590+00:00",
-    "js_take": {
-      "en-US": "17 agents isn't the signal. The signal is why we need to see them at all. As agents shift from tools to collaborators, visualization moves from optional to essential — surface world becoming observation layer.",
-      "zh-CN": "17个Agent不是信号。真正的信号是：我们为何需要看见它们。当Agent从工具演变为协作者，可视化便从可选项变为必需品——表世界正在蜕变为观察层。"
     }
   }
 ]

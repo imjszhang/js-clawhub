@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-02T20:15:04.760242+00:00",
+  "updated_at": "2026-04-02T21:09:22.287475+00:00",
   "this_week": {
-    "total_items": 41,
+    "total_items": 42,
     "avg_score": 0.76,
-    "unique_authors": 38,
+    "unique_authors": 39,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -83,6 +83,34 @@
         "js_take": {
           "en-US": "The loudest voices aren't the ones building. When a tool lets people fake productivity and still get attention, it's already solving a real problem—just not the one critics think.",
           "zh-CN": "真正在埋头做事的，往往不是喊得最响的。当一个工具让人假装勤奋也能获得关注时，它已经在解决一个真正的问题了——只是批评者想错了问题本身。"
+        }
+      },
+      {
+        "id": "2039789061154685323",
+        "date": "2026-04-03",
+        "author": "@openclaw",
+        "author_url": "https://x.com/openclaw",
+        "tweet_url": "https://x.com/openclaw/status/2039789061154685323",
+        "title": {
+          "en-US": "OpenClaw 2026.4.2 release: durable tasks, exec approvals, Copilot+Kimi",
+          "zh-CN": "OpenClaw发布4月更新，包括Durable Task Flow编排、原生执行优化、Copilot+Kimi支持等"
+        },
+        "summary": {
+          "en-US": "OpenClaw平台核心功能更新，与JS的Agent开发工作直接相关",
+          "zh-CN": "做减法比做加法更需要判断力——'Less bloat'这句话恰恰说明团队明白：功能膨胀是平台死因，而Agent生态真正的护城河不是功能数量，是让人愿意留下的开发者体验。"
+        },
+        "relevance": "OpenClaw平台核心功能更新，与JS的Agent开发工作直接相关",
+        "score": 0.82,
+        "engagement": {
+          "likes": 589,
+          "replies": 76,
+          "retweets": 52
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-04-02T21:08:50.991604+00:00",
+        "js_take": {
+          "en-US": "Platforms die from feature bloat, not scarcity. The real moat isn't what you add—it's what you refuse to.",
+          "zh-CN": "平台死于功能臃肿，而非匮乏。真正的护城河不是你能添加什么，而是你能拒绝什么。"
         }
       },
       {
@@ -989,34 +1017,6 @@
         "js_take": {
           "en-US": "Chasing 'the next OpenClaw' is racing to finish second. Real growth lives in the gaps they never filled — that's where the game actually changes.",
           "zh-CN": "追逐「下一个 OpenClaw」注定只能当老二。真正的增长在他们从未填补的空白地带——那里才是游戏规则真正改变的地方。"
-        }
-      },
-      {
-        "id": "2038507943650611348",
-        "date": "2026-03-30",
-        "author": "@DtDt666",
-        "author_url": "https://x.com/DtDt666",
-        "tweet_url": "https://x.com/DtDt666/status/2038507943650611348",
-        "title": {
-          "en-US": "用好龙虾的关键不是提示词，而是代码仓库结构。结构规整，Claude 才能像工程师一样思考。",
-          "zh-CN": "用好 OpenClaw/Claude 的核心不是提示词，而是代码仓库结构——结构规整，Claude 才能像工程师一样思考"
-        },
-        "summary": {
-          "en-US": "OpenClaw / AI 工程实践",
-          "zh-CN": "这个观点戳破了「提示词工程」的幻觉，但它没说完的是：整理仓库结构本身就是一种思考——你在强迫自己想清楚「这东西该怎么拆」，而这个思考过程才是 AI 能帮你的前提。"
-        },
-        "relevance": "OpenClaw / AI 工程实践",
-        "score": 0.72,
-        "engagement": {
-          "likes": 11,
-          "replies": 3,
-          "retweets": 1
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-30T07:20:14.545493+00:00",
-        "js_take": {
-          "en-US": "Structure isn't organized. It's earned. You don't tidy up for the AI — you think harder about what to break apart, then the AI executes.",
-          "zh-CN": "结构不是整理出来的，而是思考出来的。与其为AI做整理，不如花更多功夫想清楚该拆什么，剩下的交给AI执行。"
         }
       }
     ]
