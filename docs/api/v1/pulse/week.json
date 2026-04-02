@@ -1,5 +1,33 @@
 [
   {
+    "id": "2039630005412704257",
+    "date": "2026-04-03",
+    "author": "@sudoingX",
+    "author_url": "https://x.com/sudoingX",
+    "tweet_url": "https://x.com/sudoingX/status/2039630005412704257",
+    "title": {
+      "en-US": "OpenClaw's biggest fans now saying Hermes Agent is better",
+      "zh-CN": "推文指出OpenClaw的铁杆用户开始制作视频称赞Hermes Agent，认为这是最大的信号——当核心用户开始转投竞品，意味着工具生态的势能在转移。"
+    },
+    "summary": {
+      "en-US": "OpenClaw vs Hermes Agent - 工具生态竞争",
+      "zh-CN": "用户迁移不是因为功能列表，而是因为「势」——当旧工具成为惯性，新工具解决的是被旧工具定义掉的那些痛点。铁粉倒戈是最真实的信号：他们不是被营销说服，而是被自己的 friction 逼走的。"
+    },
+    "relevance": "OpenClaw vs Hermes Agent - 工具生态竞争",
+    "score": 0.7,
+    "engagement": {
+      "likes": 230,
+      "replies": 34,
+      "retweets": 9
+    },
+    "comment_type": "shunshi",
+    "synced_at": "2026-04-02T16:18:24.552058+00:00",
+    "js_take": {
+      "en-US": "Fans don't switch for features. They switch when they finally admit: 'The friction I normalized wasn't inevitable.' The tool didn't win. The relief did.",
+      "zh-CN": "用户不会因为功能而换产品。他们换，是终于承认：'那些我习以为常的摩擦，本可避免。' 赢的不是工具，而是解脱。"
+    }
+  },
+  {
     "id": "2039410318963830906",
     "date": "2026-04-02",
     "author": "@cgtwts",
@@ -198,6 +226,34 @@
     "js_take": {
       "en-US": "你拼命优化的那套监控告警，恰恰是系统无法自愈的原因——凌晨三点的报错不该叫醒你，该叫醒的是 agent 自己。",
       "zh-CN": "你拼命优化的那套监控告警，恰恰是系统无法自愈的根源——凌晨三点的报错不该叫醒你，而该唤醒的是 agent 自己。"
+    }
+  },
+  {
+    "id": "2039670429615362135",
+    "date": "2026-04-02",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2039670429615362135",
+    "title": {
+      "en-US": "Video guide: 20 Claude agentic skills to add",
+      "zh-CN": "一个视频教程，展示如何给Claude添加20个强大的agent技能"
+    },
+    "summary": {
+      "en-US": "OpenClaw/AI Agent技能",
+      "zh-CN": "技能数量不等于系统质量——当所有人都在教你「添加更多技能」时，真正稀缺的是判断「哪20%的技能产生80%价值」的品味。这是典型的过度优化陷阱。"
+    },
+    "relevance": "OpenClaw/AI Agent技能",
+    "score": 0.72,
+    "engagement": {
+      "likes": 434,
+      "replies": 15,
+      "retweets": 47
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-02T14:08:39.201531+00:00",
+    "js_take": {
+      "en-US": "You hoard 20 skills hoping one will matter. The agents winning aren't the ones with more tools—they're the ones who know which 19 to ignore.",
+      "zh-CN": "你囤积20个技能，赌其中一个能派上用场。但真正赢的Agent不是工具最多的——而是懂得该忽略哪19个的。"
     }
   },
   {

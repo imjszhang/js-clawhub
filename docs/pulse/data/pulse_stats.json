@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-02T13:15:33.467562+00:00",
+  "updated_at": "2026-04-02T16:19:03.828507+00:00",
   "this_week": {
-    "total_items": 38,
+    "total_items": 40,
     "avg_score": 0.76,
-    "unique_authors": 35,
+    "unique_authors": 37,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -764,6 +764,34 @@
         }
       },
       {
+        "id": "2039670429615362135",
+        "date": "2026-04-02",
+        "author": "@RoundtableSpace",
+        "author_url": "https://x.com/RoundtableSpace",
+        "tweet_url": "https://x.com/RoundtableSpace/status/2039670429615362135",
+        "title": {
+          "en-US": "Video guide: 20 Claude agentic skills to add",
+          "zh-CN": "一个视频教程，展示如何给Claude添加20个强大的agent技能"
+        },
+        "summary": {
+          "en-US": "OpenClaw/AI Agent技能",
+          "zh-CN": "技能数量不等于系统质量——当所有人都在教你「添加更多技能」时，真正稀缺的是判断「哪20%的技能产生80%价值」的品味。这是典型的过度优化陷阱。"
+        },
+        "relevance": "OpenClaw/AI Agent技能",
+        "score": 0.72,
+        "engagement": {
+          "likes": 434,
+          "replies": 15,
+          "retweets": 47
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-04-02T14:08:39.201531+00:00",
+        "js_take": {
+          "en-US": "You hoard 20 skills hoping one will matter. The agents winning aren't the ones with more tools—they're the ones who know which 19 to ignore.",
+          "zh-CN": "你囤积20个技能，赌其中一个能派上用场。但真正赢的Agent不是工具最多的——而是懂得该忽略哪19个的。"
+        }
+      },
+      {
         "id": "2039131094449115628",
         "date": "2026-04-01",
         "author": "@VadimStrizheus",
@@ -990,39 +1018,11 @@
           "en-US": "真正的势不在画质——在谁能让一个非技术人员走完从想法到成片的全程。易用性不是妥协，是更高的技术壁垒。",
           "zh-CN": "真正的势不在画质——在谁能让一个非技术人员走完从想法到成片的全程。易用性不是妥协，是更高的技术壁垒。"
         }
-      },
-      {
-        "id": "2038670345054347412",
-        "date": "2026-03-31",
-        "author": "@Hesamation",
-        "author_url": "https://x.com/Hesamation",
-        "tweet_url": "https://x.com/Hesamation/status/2038670345054347412",
-        "title": {
-          "en-US": "Claude killed OpenClaw again — can now use your computer, coding and end-to-end testing for UI, interact with GUI-only tools",
-          "zh-CN": "Claude 再次「杀死」OpenClaw——现在能使用你的电脑、进行 UI 的编码和端到端测试、与仅支持 GUI 的工具交互"
-        },
-        "summary": {
-          "en-US": "OpenClaw 竞争格局 + Claude Computer Use",
-          "zh-CN": "「X killed Y」这种叙事过度简化了工具生态——当一个新工具出现时，旧工具不会消失，而是退化为更高层次的基础设施；真正的护城河从「功能」转向「装不进context window的上下文」。"
-        },
-        "relevance": "OpenClaw 竞争格局 + Claude Computer Use",
-        "score": 0.71,
-        "engagement": {
-          "likes": 113,
-          "replies": 20,
-          "retweets": 5
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-30T20:10:16.953235+00:00",
-        "js_take": {
-          "en-US": "Strip the hype — Claude didn't kill anything. Tools don't die; they become infrastructure. The moat moves from features to context that won't fit in a prompt.",
-          "zh-CN": "剥去炒作的外衣——Claude 并没有「杀死」任何东西。工具不会消亡，它们会沉淀为基础设施。护城河正在从功能特性，转向那些无法塞进提示词的深层上下文。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 153
+    "unique_authors": 151
   }
 }
