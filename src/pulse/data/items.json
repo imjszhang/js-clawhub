@@ -56,6 +56,34 @@
     }
   },
   {
+    "id": "203970193851073073480",
+    "date": "2026-04-03",
+    "author": "@svpino",
+    "author_url": "https://x.com/svpino",
+    "tweet_url": "https://x.com/svpino/status/2039701938510733480",
+    "title": {
+      "en-US": "Competitor to OpenClaw launched as a feature, now has 700,000 users. Agentic AI taking over.",
+      "zh-CN": "有人把 OpenClaw 的竞争对手当作一个功能推出，现在已经有 70 万用户。"
+    },
+    "summary": {
+      "en-US": "直接提及 OpenClaw，讨论 Agent 生态竞争",
+      "zh-CN": "这条推文揭示了一个被忽视的真相：OpenClaw 代表的「开放 Agent 平台」愿景，正在被「封闭产品+Agent 功能」模式快速蚕食。70 万用户选择的不是「Agent 的未来」，而是「不用改变的现在」。更深入的洞察是：用户永远选择阻力最小的路径，而不是理论上最好的设计。"
+    },
+    "relevance": "直接提及 OpenClaw，讨论 Agent 生态竞争",
+    "score": 0.74,
+    "engagement": {
+      "likes": 74,
+      "retweets": 6,
+      "replies": 15
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-04-02T23:10:07.134394+00:00",
+    "js_take": {
+      "en-US": "700k users picked 'good enough I already know' over 'better but I have to learn.' The threat isn't competition — it's inertia wearing your competitor's mask.",
+      "zh-CN": "70万用户选择了「够用且熟悉」，而非「更好但要重学」。真正的威胁不是竞争对手，而是惯性披着竞争的外衣。"
+    }
+  },
+  {
     "id": "2039630005412704257",
     "date": "2026-04-03",
     "author": "@sudoingX",
@@ -5655,35 +5683,6 @@
     "js_take": {
       "en-US": "Steal away — you're accelerating the migration from surface documentation to inner world systems, which is exactly why Skill.md exists.",
       "zh-CN": "尽管拿走——你正在加速表世界文档向内世界系统的迁移，这正是 Skill.md 存在的意义。"
-    }
-  },
-  {
-    "id": "2035048113099219134",
-    "date": "2026-03-21",
-    "author": "@gabriel1",
-    "author_url": "https://x.com/gabriel1",
-    "tweet_url": "https://x.com/gabriel1/status/2035048113099219134",
-    "title": {
-      "en-US": "Was skeptical of OpenClaw, turns out I was stupid. Visionary product. Access everything from anywhere is how world will run.",
-      "zh-CN": "作者承认自己最初怀疑OpenClaw是错的，现在认为它是极具远见的产品，能随时随地访问一切完成工作显然是未来世界的运行方式。"
-    },
-    "summary": {
-      "en-US": "OpenClaw产品价值与分布式工作趋势",
-      "zh-CN": "从'怀疑'到'信服'的转变，恰恰说明了'势'的力量——不是强行说服，而是让产品本身证明；OpenClaw的远见不在于功能，而在于它预判了'里世界成为新交互层'的结构性迁移。"
-    },
-    "relevance": "OpenClaw产品价值与分布式工作趋势",
-    "score": 0.7,
-    "engagement": {
-      "likes": 513,
-      "replies": 38,
-      "retweets": 14,
-      "views": 19964
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-20T19:08:54.994203+00:00",
-    "js_take": {
-      "en-US": "Skepticism flipping to belief means this isn't marketing — it's momentum. 'Access everything from anywhere' isn't a feature, it's the new layer.",
-      "zh-CN": "怀疑转为信任，说明这不是营销，而是势。'随处访问一切'不是功能，是新层级。"
     }
   }
 ]

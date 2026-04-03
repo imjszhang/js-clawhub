@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-02T21:09:22.287475+00:00",
+  "updated_at": "2026-04-02T23:10:41.044137+00:00",
   "this_week": {
-    "total_items": 42,
+    "total_items": 43,
     "avg_score": 0.76,
-    "unique_authors": 39,
+    "unique_authors": 40,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -620,6 +620,34 @@
         }
       },
       {
+        "id": "203970193851073073480",
+        "date": "2026-04-03",
+        "author": "@svpino",
+        "author_url": "https://x.com/svpino",
+        "tweet_url": "https://x.com/svpino/status/2039701938510733480",
+        "title": {
+          "en-US": "Competitor to OpenClaw launched as a feature, now has 700,000 users. Agentic AI taking over.",
+          "zh-CN": "有人把 OpenClaw 的竞争对手当作一个功能推出，现在已经有 70 万用户。"
+        },
+        "summary": {
+          "en-US": "直接提及 OpenClaw，讨论 Agent 生态竞争",
+          "zh-CN": "这条推文揭示了一个被忽视的真相：OpenClaw 代表的「开放 Agent 平台」愿景，正在被「封闭产品+Agent 功能」模式快速蚕食。70 万用户选择的不是「Agent 的未来」，而是「不用改变的现在」。更深入的洞察是：用户永远选择阻力最小的路径，而不是理论上最好的设计。"
+        },
+        "relevance": "直接提及 OpenClaw，讨论 Agent 生态竞争",
+        "score": 0.74,
+        "engagement": {
+          "likes": 74,
+          "retweets": 6,
+          "replies": 15
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-04-02T23:10:07.134394+00:00",
+        "js_take": {
+          "en-US": "700k users picked 'good enough I already know' over 'better but I have to learn.' The threat isn't competition — it's inertia wearing your competitor's mask.",
+          "zh-CN": "70万用户选择了「够用且熟悉」，而非「更好但要重学」。真正的威胁不是竞争对手，而是惯性披着竞争的外衣。"
+        }
+      },
+      {
         "id": "2038835449012351197",
         "date": "2026-03-31",
         "author": "@ollama",
@@ -989,34 +1017,6 @@
         "js_take": {
           "en-US": "We traded verification for velocity. Poisoned axios is the bill coming due — trust is grease, not glue.",
           "zh-CN": "为了速度，我们牺牲了验证。毒化的 axios 正是代价——信任是润滑剂，而非粘合剂。"
-        }
-      },
-      {
-        "id": "2038457412185657567",
-        "date": "2026-03-30",
-        "author": "@om_patel5",
-        "author_url": "https://x.com/om_patel5",
-        "tweet_url": "https://x.com/om_patel5/status/2038457412185657567",
-        "title": {
-          "en-US": "Hermes agent vs OpenClaw comparison, calling it next OpenClaw",
-          "zh-CN": "推主对比Hermes和OpenClaw，称Hermes可能是人们想要的下一个OpenClaw，提到两者GitHub stars和生态差异"
-        },
-        "summary": {
-          "en-US": "AI Agent 平台竞争与生态对比",
-          "zh-CN": "「下一个OpenClaw」这个叙事本身就是误区——生态位的争夺不在于谁更像谁，而在于谁能定义新的游戏规则；14.6K stars追339K，靠的不是模仿，是找到被忽视的缝隙"
-        },
-        "relevance": "AI Agent 平台竞争与生态对比",
-        "score": 0.72,
-        "engagement": {
-          "likes": 32,
-          "replies": 9,
-          "retweets": 0
-        },
-        "comment_type": "buzheng",
-        "synced_at": "2026-03-30T05:09:09.362462+00:00",
-        "js_take": {
-          "en-US": "Chasing 'the next OpenClaw' is racing to finish second. Real growth lives in the gaps they never filled — that's where the game actually changes.",
-          "zh-CN": "追逐「下一个 OpenClaw」注定只能当老二。真正的增长在他们从未填补的空白地带——那里才是游戏规则真正改变的地方。"
         }
       }
     ]
