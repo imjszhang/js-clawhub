@@ -144,6 +144,34 @@
     }
   },
   {
+    "id": "2039912975444926885",
+    "date": "2026-04-03",
+    "author": "@Teknium",
+    "author_url": "https://x.com/Teknium",
+    "tweet_url": "https://x.com/Teknium/status/2039912975444926885",
+    "title": {
+      "en-US": "Hermes Agent supports 7 memory systems now",
+      "zh-CN": "Hermes Agent 现在支持 7 种可插拔记忆系统，声称让用户「按需选择」"
+    },
+    "summary": {
+      "en-US": "Agent 记忆系统架构设计 - 与 OpenClaw 高度相关",
+      "zh-CN": "选择越多，决策成本越高；7 个记忆系统的「灵活性」反而可能让开发者陷入「选哪个」的瘫痪，真正的优雅是系统帮你做减法而非堆砌选项"
+    },
+    "relevance": "Agent 记忆系统架构设计 - 与 OpenClaw 高度相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 461,
+      "replies": 58,
+      "retweets": 47
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-03T08:26:12.970760+00:00",
+    "js_take": {
+      "en-US": "7 memory systems = 7 ways to over-engineer. I've seen teams burn 3 weeks picking the \"right\" one while shipping nothing. The best system is the one you don't have to think about.",
+      "zh-CN": "7种记忆系统，就是7种过度设计。我见过团队花3周去选\"最合适的\"，结果啥也没交付。最好的系统，是那种你根本不用去想的。"
+    }
+  },
+  {
     "id": "203970193851073073480",
     "date": "2026-04-03",
     "author": "@svpino",

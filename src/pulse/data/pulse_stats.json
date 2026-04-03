@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-03T05:07:56.774378+00:00",
+  "updated_at": "2026-04-03T08:27:22.200793+00:00",
   "this_week": {
-    "total_items": 49,
+    "total_items": 50,
     "avg_score": 0.76,
-    "unique_authors": 45,
+    "unique_authors": 46,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -336,6 +336,34 @@
         "js_take": {
           "en-US": "Prompts are open. The decision tree behind them isn't. What makes a Chief of Staff work isn't the files—it's knowing what to ask before you ask.",
           "zh-CN": "提示词人人会用，但背后的决策树不会。幕僚长的价值不在文件本身——而在于提问之前，就知道该问什么。"
+        }
+      },
+      {
+        "id": "2039912975444926885",
+        "date": "2026-04-03",
+        "author": "@Teknium",
+        "author_url": "https://x.com/Teknium",
+        "tweet_url": "https://x.com/Teknium/status/2039912975444926885",
+        "title": {
+          "en-US": "Hermes Agent supports 7 memory systems now",
+          "zh-CN": "Hermes Agent 现在支持 7 种可插拔记忆系统，声称让用户「按需选择」"
+        },
+        "summary": {
+          "en-US": "Agent 记忆系统架构设计 - 与 OpenClaw 高度相关",
+          "zh-CN": "选择越多，决策成本越高；7 个记忆系统的「灵活性」反而可能让开发者陷入「选哪个」的瘫痪，真正的优雅是系统帮你做减法而非堆砌选项"
+        },
+        "relevance": "Agent 记忆系统架构设计 - 与 OpenClaw 高度相关",
+        "score": 0.78,
+        "engagement": {
+          "likes": 461,
+          "replies": 58,
+          "retweets": 47
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-04-03T08:26:12.970760+00:00",
+        "js_take": {
+          "en-US": "7 memory systems = 7 ways to over-engineer. I've seen teams burn 3 weeks picking the \"right\" one while shipping nothing. The best system is the one you don't have to think about.",
+          "zh-CN": "7种记忆系统，就是7种过度设计。我见过团队花3周去选\"最合适的\"，结果啥也没交付。最好的系统，是那种你根本不用去想的。"
         }
       },
       {
@@ -992,39 +1020,11 @@
           "en-US": "你拼命优化的那套监控告警，恰恰是系统无法自愈的原因——凌晨三点的报错不该叫醒你，该叫醒的是 agent 自己。",
           "zh-CN": "你拼命优化的那套监控告警，恰恰是系统无法自愈的根源——凌晨三点的报错不该叫醒你，而该唤醒的是 agent 自己。"
         }
-      },
-      {
-        "id": "2039670429615362135",
-        "date": "2026-04-02",
-        "author": "@RoundtableSpace",
-        "author_url": "https://x.com/RoundtableSpace",
-        "tweet_url": "https://x.com/RoundtableSpace/status/2039670429615362135",
-        "title": {
-          "en-US": "Video guide: 20 Claude agentic skills to add",
-          "zh-CN": "一个视频教程，展示如何给Claude添加20个强大的agent技能"
-        },
-        "summary": {
-          "en-US": "OpenClaw/AI Agent技能",
-          "zh-CN": "技能数量不等于系统质量——当所有人都在教你「添加更多技能」时，真正稀缺的是判断「哪20%的技能产生80%价值」的品味。这是典型的过度优化陷阱。"
-        },
-        "relevance": "OpenClaw/AI Agent技能",
-        "score": 0.72,
-        "engagement": {
-          "likes": 434,
-          "replies": 15,
-          "retweets": 47
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-02T14:08:39.201531+00:00",
-        "js_take": {
-          "en-US": "You hoard 20 skills hoping one will matter. The agents winning aren't the ones with more tools—they're the ones who know which 19 to ignore.",
-          "zh-CN": "你囤积20个技能，赌其中一个能派上用场。但真正赢的Agent不是工具最多的——而是懂得该忽略哪19个的。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 152
+    "unique_authors": 153
   }
 }
