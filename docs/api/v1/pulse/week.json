@@ -56,6 +56,36 @@
     }
   },
   {
+    "id": "2039787387996262574",
+    "date": "2026-04-03",
+    "author": "@ryancarson",
+    "author_url": "https://x.com/ryancarson",
+    "tweet_url": "https://x.com/ryancarson/status/2039787387996262574",
+    "title": {
+      "en-US": "I just open sourced my entire OpenClaw Chief of Staff setup",
+      "zh-CN": "刚刚开源了我完整的OpenClaw Chief of Staff配置。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台、agent配置实践",
+      "zh-CN": "开源配置是慷慨的，但「拿来就能用」是个幻觉——Chief of Staff的核心不是workflow文件，是workflow背后的决策逻辑；原推给了答案，但没说的是：别人的agent驯化路径，通常复制不到你身上。"
+    },
+    "relevance": "OpenClaw平台、agent配置实践",
+    "score": 0.78,
+    "engagement": {
+      "likes": 517,
+      "retweets": 39,
+      "replies": 23,
+      "views": 86401,
+      "bookmarks": 1222
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-03T00:22:47.843655+00:00",
+    "js_take": {
+      "en-US": "Prompts are open. The decision tree behind them isn't. What makes a Chief of Staff work isn't the files—it's knowing what to ask before you ask.",
+      "zh-CN": "提示词人人会用，但背后的决策树不会。幕僚长的价值不在文件本身——而在于提问之前，就知道该问什么。"
+    }
+  },
+  {
     "id": "203970193851073073480",
     "date": "2026-04-03",
     "author": "@svpino",
@@ -84,6 +114,64 @@
     }
   },
   {
+    "id": "2039844072748204246",
+    "date": "2026-04-03",
+    "author": "@omarsar0",
+    "author_url": "https://x.com/omarsar0",
+    "tweet_url": "https://x.com/omarsar0/status/2039844072748204246",
+    "title": {
+      "en-US": "Building a personal knowledge base for my agents is where I spend my time. Daily curated papers + tuned Skill.",
+      "zh-CN": "为agent构建个人知识库是目前投入时间最多的地方，每天整理研究论文并调优Skill。"
+    },
+    "summary": {
+      "en-US": "OpenClaw Skill、个人知识库、agent记忆",
+      "zh-CN": "「给agent建记忆」听起来很高效，但自动化记忆在保护你的同时也在切断你与真实反馈的接触——当错误也开始自动复利，你会发现问题的时候已经晚了。"
+    },
+    "relevance": "OpenClaw Skill、个人知识库、agent记忆",
+    "score": 0.72,
+    "engagement": {
+      "likes": 161,
+      "retweets": 18,
+      "replies": 9,
+      "views": 12004,
+      "bookmarks": 264
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-03T00:22:47.843660+00:00",
+    "js_take": {
+      "en-US": "Agent memory auto-compounds. So do the errors you didn't catch. You trade daily reading for the day you realize your knowledge base is wrong—and can't trace why.",
+      "zh-CN": "Agent 的记忆会自动复利累积，你没发现的错误也一样。日复一日的阅读，换来某天发现知识库出错——却查不出原因。"
+    }
+  },
+  {
+    "id": "2039763698584314311",
+    "date": "2026-04-03",
+    "author": "@Rigario",
+    "author_url": "https://x.com/Rigario",
+    "tweet_url": "https://x.com/Rigario/status/2039763698584314311",
+    "title": {
+      "en-US": "NousResearch Hermes Agent tips for OpenClaw users",
+      "zh-CN": "给从 OpenClaw 迁移到 NousResearch Hermes Agent 用户的实用技巧，提到夜间技能自动进化功能"
+    },
+    "summary": {
+      "en-US": "OpenClaw 竞品对比、Agent 技能自动进化",
+      "zh-CN": "「技能自动进化」本质是法则(R)的自我迭代，但过度自动化会切断你与真实反馈的接触——只在最后 click merge 出现，就失去了过程感知。更精炼的说法是：自动化在保护你的同时，也切断了你与天道(N)的直接交易(T)。"
+    },
+    "relevance": "OpenClaw 竞品对比、Agent 技能自动进化",
+    "score": 0.72,
+    "engagement": {
+      "likes": 623,
+      "replies": 23,
+      "retweets": 42
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-03T02:13:21.208523+00:00",
+    "js_take": {
+      "en-US": "Auto-evolution protects you—and cuts you off from real feedback. Every auto-merge you skip is signal lost.",
+      "zh-CN": "自动进化在保护你的同时，也切断了真实反馈。每一次跳过的自动合并，都是信号的流失。"
+    }
+  },
+  {
     "id": "2039630005412704257",
     "date": "2026-04-03",
     "author": "@sudoingX",
@@ -109,6 +197,34 @@
     "js_take": {
       "en-US": "Fans don't switch for features. They switch when they finally admit: 'The friction I normalized wasn't inevitable.' The tool didn't win. The relief did.",
       "zh-CN": "用户不会因为功能而换产品。他们换，是终于承认：'那些我习以为常的摩擦，本可避免。' 赢的不是工具，而是解脱。"
+    }
+  },
+  {
+    "id": "2039728687483105465",
+    "date": "2026-04-03",
+    "author": "@garrytan",
+    "author_url": "https://x.com/garrytan",
+    "tweet_url": "https://x.com/garrytan/status/2039728687483105465",
+    "title": {
+      "en-US": "Apple II moment has not yet happened for Openclaw",
+      "zh-CN": "OpenClaw 的「Apple II 时刻」尚未到来——讨论 Agent 平台的临界点"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台发展阶段、技术临界点判断",
+      "zh-CN": "寻找「Apple II 时刻」是线性思维——等待某个里程碑。更深入的视角是：真正的临界点不是产品成熟度，而是使用者是否具备「顺势而为」的判断力。时机已到，但多数人还在等待信号。"
+    },
+    "relevance": "OpenClaw 平台发展阶段、技术临界点判断",
+    "score": 0.7,
+    "engagement": {
+      "likes": 502,
+      "replies": 98,
+      "retweets": 14
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-03T02:13:21.208528+00:00",
+    "js_take": {
+      "en-US": "Apple II moments aren't waited for. The real inflection isn't product maturity—it's who jumps before the signal confirms.",
+      "zh-CN": "Apple II 时刻从不是等来的。真正的转折点不在产品成熟，而在于谁敢于在信号确认前率先跃入。"
     }
   },
   {

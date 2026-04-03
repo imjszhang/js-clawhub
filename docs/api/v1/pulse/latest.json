@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-02T23:10:41.044137+00:00",
+  "updated_at": "2026-04-03T02:13:55.608883+00:00",
   "this_week": {
-    "total_items": 43,
+    "total_items": 47,
     "avg_score": 0.76,
-    "unique_authors": 40,
+    "unique_authors": 43,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -249,6 +249,36 @@
         },
         "comment_type": "wuwei_provoke",
         "synced_at": "2026-03-30T08:10:18.807205+00:00"
+      },
+      {
+        "id": "2039787387996262574",
+        "date": "2026-04-03",
+        "author": "@ryancarson",
+        "author_url": "https://x.com/ryancarson",
+        "tweet_url": "https://x.com/ryancarson/status/2039787387996262574",
+        "title": {
+          "en-US": "I just open sourced my entire OpenClaw Chief of Staff setup",
+          "zh-CN": "刚刚开源了我完整的OpenClaw Chief of Staff配置。"
+        },
+        "summary": {
+          "en-US": "OpenClaw平台、agent配置实践",
+          "zh-CN": "开源配置是慷慨的，但「拿来就能用」是个幻觉——Chief of Staff的核心不是workflow文件，是workflow背后的决策逻辑；原推给了答案，但没说的是：别人的agent驯化路径，通常复制不到你身上。"
+        },
+        "relevance": "OpenClaw平台、agent配置实践",
+        "score": 0.78,
+        "engagement": {
+          "likes": 517,
+          "retweets": 39,
+          "replies": 23,
+          "views": 86401,
+          "bookmarks": 1222
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-04-03T00:22:47.843655+00:00",
+        "js_take": {
+          "en-US": "Prompts are open. The decision tree behind them isn't. What makes a Chief of Staff work isn't the files—it's knowing what to ask before you ask.",
+          "zh-CN": "提示词人人会用，但背后的决策树不会。幕僚长的价值不在文件本身——而在于提问之前，就知道该问什么。"
+        }
       },
       {
         "id": "2039410318963830906",
@@ -704,6 +734,64 @@
         }
       },
       {
+        "id": "2039844072748204246",
+        "date": "2026-04-03",
+        "author": "@omarsar0",
+        "author_url": "https://x.com/omarsar0",
+        "tweet_url": "https://x.com/omarsar0/status/2039844072748204246",
+        "title": {
+          "en-US": "Building a personal knowledge base for my agents is where I spend my time. Daily curated papers + tuned Skill.",
+          "zh-CN": "为agent构建个人知识库是目前投入时间最多的地方，每天整理研究论文并调优Skill。"
+        },
+        "summary": {
+          "en-US": "OpenClaw Skill、个人知识库、agent记忆",
+          "zh-CN": "「给agent建记忆」听起来很高效，但自动化记忆在保护你的同时也在切断你与真实反馈的接触——当错误也开始自动复利，你会发现问题的时候已经晚了。"
+        },
+        "relevance": "OpenClaw Skill、个人知识库、agent记忆",
+        "score": 0.72,
+        "engagement": {
+          "likes": 161,
+          "retweets": 18,
+          "replies": 9,
+          "views": 12004,
+          "bookmarks": 264
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-04-03T00:22:47.843660+00:00",
+        "js_take": {
+          "en-US": "Agent memory auto-compounds. So do the errors you didn't catch. You trade daily reading for the day you realize your knowledge base is wrong—and can't trace why.",
+          "zh-CN": "Agent 的记忆会自动复利累积，你没发现的错误也一样。日复一日的阅读，换来某天发现知识库出错——却查不出原因。"
+        }
+      },
+      {
+        "id": "2039763698584314311",
+        "date": "2026-04-03",
+        "author": "@Rigario",
+        "author_url": "https://x.com/Rigario",
+        "tweet_url": "https://x.com/Rigario/status/2039763698584314311",
+        "title": {
+          "en-US": "NousResearch Hermes Agent tips for OpenClaw users",
+          "zh-CN": "给从 OpenClaw 迁移到 NousResearch Hermes Agent 用户的实用技巧，提到夜间技能自动进化功能"
+        },
+        "summary": {
+          "en-US": "OpenClaw 竞品对比、Agent 技能自动进化",
+          "zh-CN": "「技能自动进化」本质是法则(R)的自我迭代，但过度自动化会切断你与真实反馈的接触——只在最后 click merge 出现，就失去了过程感知。更精炼的说法是：自动化在保护你的同时，也切断了你与天道(N)的直接交易(T)。"
+        },
+        "relevance": "OpenClaw 竞品对比、Agent 技能自动进化",
+        "score": 0.72,
+        "engagement": {
+          "likes": 623,
+          "replies": 23,
+          "retweets": 42
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-04-03T02:13:21.208523+00:00",
+        "js_take": {
+          "en-US": "Auto-evolution protects you—and cuts you off from real feedback. Every auto-merge you skip is signal lost.",
+          "zh-CN": "自动进化在保护你的同时，也切断了真实反馈。每一次跳过的自动合并，都是信号的流失。"
+        }
+      },
+      {
         "id": "2039364255699599867",
         "date": "2026-04-02",
         "author": "@AlexFinn",
@@ -933,96 +1021,11 @@
           "en-US": "Buying software to outsource judgment. Same people who buy gym memberships for the selfie.",
           "zh-CN": "买软件外包判断力。跟办健身卡只为自拍的是同一拨人。"
         }
-      },
-      {
-        "id": "2038706612479959296",
-        "date": "2026-03-31",
-        "author": "@lennysan",
-        "author_url": "https://x.com/lennysan",
-        "tweet_url": "https://x.com/lennysan/status/2038706612479959296",
-        "title": {
-          "en-US": "Claire's biggest OpenClaw unlock: going multi-agent",
-          "zh-CN": "Lenny Rachitsky 分享 Claire Vo 使用 OpenClaw 的最大突破：采用多 Agent 架构"
-        },
-        "summary": {
-          "en-US": "直接涉及 OpenClaw 平台的多 Agent 架构实践",
-          "zh-CN": "多 Agent 不是「更多工具」而是「更少的中央控制」——当所有人都在讨论如何协调多个 agent 时，真正的突破在于让每个 agent 拥有独立的判断边界，而非被主流程收紧。"
-        },
-        "relevance": "直接涉及 OpenClaw 平台的多 Agent 架构实践",
-        "score": 0.72,
-        "engagement": {
-          "likes": 14,
-          "replies": 4,
-          "retweets": 1
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-30T23:13:20.538875+00:00",
-        "js_take": {
-          "en-US": "Claire's unlock wasn't adding agents — it was removing the conductor. When every node waits for central approval, you get perfect choreography and zero innovation.",
-          "zh-CN": "Claire 的突破不在于增加更多代理，而在于移除了中央指挥。当每个节点都必须等待中央批准时，你得到的是完美的编排，却失去了创新能力。"
-        }
-      },
-      {
-        "id": "2038810436838240434",
-        "date": "2026-03-31",
-        "author": "@boxmining",
-        "author_url": "https://x.com/boxmining",
-        "tweet_url": "https://x.com/boxmining/status/2038810436838240434",
-        "title": {
-          "en-US": "Why is everyone ditching OpenClaw for Hermes?",
-          "zh-CN": "Boxmining 发文列举 Hermes 相对于 OpenClaw 的5个优势，宣称「我们测试了，确实更好」"
-        },
-        "summary": {
-          "en-US": "OpenClaw vs Hermes 直接对比，Agent 平台竞争",
-          "zh-CN": "做纠正：测评类推文常犯的错误是把「功能清单」等同于「生态价值」，忽略了平台迁移的真实成本不是功能差异，而是现有工作流的沉没成本和社区知识沉淀。"
-        },
-        "relevance": "OpenClaw vs Hermes 直接对比，Agent 平台竞争",
-        "score": 0.72,
-        "engagement": {
-          "likes": 67,
-          "retweets": 4,
-          "replies": 9,
-          "views": 3578
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-31T05:19:53.185337+00:00",
-        "js_take": {
-          "en-US": "Comparing feature lists misses the real cost. Moving 20 custom skills and 6 months of workflow context? That's the metric no demo can test.",
-          "zh-CN": "功能清单的对比往往会掩盖真正的迁移成本。迁移20个自定义技能、6个月沉淀的工作流上下文？这才是任何演示都无法验证的隐性代价。"
-        }
-      },
-      {
-        "id": "2038875533799481493",
-        "date": "2026-03-31",
-        "author": "@evilcos",
-        "author_url": "https://x.com/evilcos",
-        "tweet_url": "https://x.com/evilcos/status/2038875533799481493",
-        "title": {
-          "en-US": "OpenClaw 3.28 may introduce poisoned axios. Check your dependencies.",
-          "zh-CN": "OpenClaw 3.28 版本可能引入带毒的 axios，需要排查依赖。"
-        },
-        "summary": {
-          "en-US": "OpenClaw 安全事件",
-          "zh-CN": "这条推文揭示了开源生态的根本张力：信任让协作成为可能，但一旦信任被利用，广泛的依赖就成了广泛的脆弱。更深入的洞察是——效率建立在信任之上，但生存需要验证。"
-        },
-        "relevance": "OpenClaw 安全事件",
-        "score": 0.72,
-        "engagement": {
-          "likes": 68,
-          "replies": 14,
-          "retweets": 10
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-03-31T09:08:27.957822+00:00",
-        "js_take": {
-          "en-US": "We traded verification for velocity. Poisoned axios is the bill coming due — trust is grease, not glue.",
-          "zh-CN": "为了速度，我们牺牲了验证。毒化的 axios 正是代价——信任是润滑剂，而非粘合剂。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 151
+    "unique_authors": 152
   }
 }
