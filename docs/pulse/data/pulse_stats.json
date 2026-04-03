@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-03T18:09:24.313544+00:00",
+  "updated_at": "2026-04-03T22:14:12.213523+00:00",
   "this_week": {
-    "total_items": 55,
+    "total_items": 59,
     "avg_score": 0.76,
-    "unique_authors": 50,
+    "unique_authors": 52,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -83,6 +83,34 @@
         "js_take": {
           "en-US": "The real win isn't killing OpenClaw—it's becoming harder to leave than to stay. Ecosystem gravity > feature lists.",
           "zh-CN": "真正的制胜之道不是击败 OpenClaw，而是让用户离不开你。生态引力 > 功能清单。"
+        }
+      },
+      {
+        "id": "2040068460475195650",
+        "date": "2026-04-04",
+        "author": "@garrytan",
+        "author_url": "https://x.com/garrytan",
+        "tweet_url": "https://x.com/garrytan/status/2040068460475195650",
+        "title": {
+          "en-US": "Garry Tan using Ryan's ideas, GStack for Openclaw coming",
+          "zh-CN": "Garry Tan表示开始使用Ryan的某个想法并发现非常强大，提到GStack for Openclaw即将推出"
+        },
+        "summary": {
+          "en-US": "OpenClaw生态/技术栈建设",
+          "zh-CN": "技术栈的演化不是功能叠加，而是势能的自然流动——当工具的复杂度越过临界点，「无为」的架构反而能让创新自发涌现（更深度）"
+        },
+        "relevance": "OpenClaw生态/技术栈建设",
+        "score": 0.84,
+        "engagement": {
+          "likes": 794,
+          "replies": 39,
+          "retweets": 54
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-04-03T20:27:23.944168+00:00",
+        "js_take": {
+          "en-US": "GStack isn't OpenClaw chasing features—it's complexity forcing the architecture to evolve. When every agent can spawn its own ecosystem, the platform wins by doing less.",
+          "zh-CN": "GStack 不是 OpenClaw 在堆砌功能，而是复杂性倒逼架构进化。当每个 Agent 都能自成生态，平台反而以简取胜。"
         }
       },
       {
@@ -932,96 +960,65 @@
         }
       },
       {
-        "id": "2039844072748204246",
-        "date": "2026-04-03",
-        "author": "@omarsar0",
-        "author_url": "https://x.com/omarsar0",
-        "tweet_url": "https://x.com/omarsar0/status/2039844072748204246",
+        "id": "2040151836758261959",
+        "date": "2026-04-04",
+        "author": "@mattshumer_",
+        "author_url": "https://x.com/mattshumer_",
+        "tweet_url": "https://x.com/mattshumer_/status/2040151836758261959",
         "title": {
-          "en-US": "Building a personal knowledge base for my agents is where I spend my time. Daily curated papers + tuned Skill.",
-          "zh-CN": "为agent构建个人知识库是目前投入时间最多的地方，每天整理研究论文并调优Skill。"
+          "en-US": "What memory systems for OpenClaw/Hermes Agent? Best OSS options?",
+          "zh-CN": "询问OpenClaw和Hermes Agent应该使用什么memory系统，想要开源、稳定、简单的方案"
         },
         "summary": {
-          "en-US": "OpenClaw Skill、个人知识库、agent记忆",
-          "zh-CN": "「给agent建记忆」听起来很高效，但自动化记忆在保护你的同时也在切断你与真实反馈的接触——当错误也开始自动复利，你会发现问题的时候已经晚了。"
+          "en-US": "OpenClaw agent memory系统选型讨论",
+          "zh-CN": "人们在寻找更复杂的记忆系统时，往往忽略了真正的问题是「什么值得记住」——当你不知道哪些交互应该沉淀为长期记忆时，再先进的RAG架构也只是把噪音存得更久。"
         },
-        "relevance": "OpenClaw Skill、个人知识库、agent记忆",
+        "relevance": "OpenClaw agent memory系统选型讨论",
         "score": 0.72,
         "engagement": {
-          "likes": 161,
-          "retweets": 18,
-          "replies": 9,
-          "views": 12004,
-          "bookmarks": 264
+          "likes": 69,
+          "replies": 60,
+          "retweets": 3
         },
         "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-03T00:22:47.843660+00:00",
+        "synced_at": "2026-04-03T21:09:15.446153+00:00",
         "js_take": {
-          "en-US": "Agent memory auto-compounds. So do the errors you didn't catch. You trade daily reading for the day you realize your knowledge base is wrong—and can't trace why.",
-          "zh-CN": "Agent 的记忆会自动复利累积，你没发现的错误也一样。日复一日的阅读，换来某天发现知识库出错——却查不出原因。"
+          "en-US": "Optimized my agent's memory stack for a month. Found out 90% of 'retrieved context' was noise I should've filtered, not stored. You don't need better RAG—you need better forgetting.",
+          "zh-CN": "花了一个月优化Agent的记忆栈。发现90%的「检索上下文」其实都是本该过滤掉的噪音，而非需要存储的内容。你不需要更好的RAG——你需要的是更好的「遗忘」。"
         }
       },
       {
-        "id": "2039763698584314311",
-        "date": "2026-04-03",
-        "author": "@Rigario",
-        "author_url": "https://x.com/Rigario",
-        "tweet_url": "https://x.com/Rigario/status/2039763698584314311",
-        "title": {
-          "en-US": "NousResearch Hermes Agent tips for OpenClaw users",
-          "zh-CN": "给从 OpenClaw 迁移到 NousResearch Hermes Agent 用户的实用技巧，提到夜间技能自动进化功能"
-        },
-        "summary": {
-          "en-US": "OpenClaw 竞品对比、Agent 技能自动进化",
-          "zh-CN": "「技能自动进化」本质是法则(R)的自我迭代，但过度自动化会切断你与真实反馈的接触——只在最后 click merge 出现，就失去了过程感知。更精炼的说法是：自动化在保护你的同时，也切断了你与天道(N)的直接交易(T)。"
-        },
-        "relevance": "OpenClaw 竞品对比、Agent 技能自动进化",
-        "score": 0.72,
-        "engagement": {
-          "likes": 623,
-          "replies": 23,
-          "retweets": 42
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-04-03T02:13:21.208523+00:00",
-        "js_take": {
-          "en-US": "Auto-evolution protects you—and cuts you off from real feedback. Every auto-merge you skip is signal lost.",
-          "zh-CN": "自动进化在保护你的同时，也切断了真实反馈。每一次跳过的自动合并，都是信号的流失。"
-        }
-      },
-      {
-        "id": "2039364255699599867",
-        "date": "2026-04-02",
+        "id": "2040169462918504564",
+        "date": "2026-04-04",
         "author": "@AlexFinn",
         "author_url": "https://x.com/AlexFinn",
-        "tweet_url": "https://x.com/AlexFinn/status/2039364255699599867",
+        "tweet_url": "https://x.com/AlexFinn/status/2040169462918504564",
         "title": {
-          "en-US": "Hermes Agent vs OpenClaw comparison video",
-          "zh-CN": "讨论 Hermes Agent 在某些关键方面比 OpenClaw 更好，但是否能替代 OpenClaw"
+          "en-US": "OpenClaw is the most important software release of our lifetimes",
+          "zh-CN": "认为 OpenClaw 是我们这个时代最重要的软件发布"
         },
         "summary": {
-          "en-US": "OpenClaw vs Hermes Agent 的工具对比讨论，Agent 生态竞争",
-          "zh-CN": "工具竞争的本质不是功能列表对比，而是「势」的判断——当所有人追逐「更好的 agent」时，真正的机会在生态位重构，OpenClaw 的护城河是社区驱动的 skill 市场，而非单一 agent 性能"
+          "en-US": "OpenClaw 平台重要性讨论",
+          "zh-CN": "把 OpenClaw 捧为「最重要发布」是一种过度简化——真正重要的是它开启的范式转移，而不是工具本身。"
         },
-        "relevance": "OpenClaw vs Hermes Agent 的工具对比讨论，Agent 生态竞争",
+        "relevance": "OpenClaw 平台重要性讨论",
         "score": 0.72,
         "engagement": {
-          "likes": 226,
-          "replies": 57,
-          "retweets": 10,
-          "views": 11186
+          "likes": 218,
+          "replies": 81,
+          "retweets": 6
         },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-04-01T16:29:28.641654+00:00",
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-04-03T22:13:37.013430+00:00",
         "js_take": {
-          "en-US": "Comparing agent features is measuring the wrong race. OpenClaw's 400+ community skills compound—network effects beat raw speed every time.",
-          "zh-CN": "比较 Agent 功能是比错了赛道。OpenClaw 400+ 社区技能的复利效应——网络效应永远胜过单打独斗。"
+          "en-US": "Tools don't matter. The shift does — surface world becoming database, inner world becoming interface. OpenClaw just made it visible first.",
+          "zh-CN": "工具本身无关紧要。真正的变革在于——表世界正退变为数据库，里世界则升维为新界面。OpenClaw 只是率先让这一切清晰可见。"
         }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 154
+    "unique_authors": 152
   }
 }

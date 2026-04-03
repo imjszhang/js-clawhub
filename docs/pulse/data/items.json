@@ -1,5 +1,33 @@
 [
   {
+    "id": "2040068460475195650",
+    "date": "2026-04-04",
+    "author": "@garrytan",
+    "author_url": "https://x.com/garrytan",
+    "tweet_url": "https://x.com/garrytan/status/2040068460475195650",
+    "title": {
+      "en-US": "Garry Tan using Ryan's ideas, GStack for Openclaw coming",
+      "zh-CN": "Garry Tan表示开始使用Ryan的某个想法并发现非常强大，提到GStack for Openclaw即将推出"
+    },
+    "summary": {
+      "en-US": "OpenClaw生态/技术栈建设",
+      "zh-CN": "技术栈的演化不是功能叠加，而是势能的自然流动——当工具的复杂度越过临界点，「无为」的架构反而能让创新自发涌现（更深度）"
+    },
+    "relevance": "OpenClaw生态/技术栈建设",
+    "score": 0.84,
+    "engagement": {
+      "likes": 794,
+      "replies": 39,
+      "retweets": 54
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-03T20:27:23.944168+00:00",
+    "js_take": {
+      "en-US": "GStack isn't OpenClaw chasing features—it's complexity forcing the architecture to evolve. When every agent can spawn its own ecosystem, the platform wins by doing less.",
+      "zh-CN": "GStack 不是 OpenClaw 在堆砌功能，而是复杂性倒逼架构进化。当每个 Agent 都能自成生态，平台反而以简取胜。"
+    }
+  },
+  {
     "id": "2040112195162542192",
     "date": "2026-04-04",
     "author": "@thekitze",
@@ -25,6 +53,90 @@
     "js_take": {
       "en-US": "Cloud tools optimize for their roadmap. Local tools optimize for yours. When Claude Code pivots next quarter, your workflow doesn't die — that's the real compound interest.",
       "zh-CN": "云端工具优化的是它们自己的路线，本地工具优化的是你的工作流。当 Claude Code 下个季度转向时，你的工作流不会作废——这才是真正的复利。"
+    }
+  },
+  {
+    "id": "2040151836758261959",
+    "date": "2026-04-04",
+    "author": "@mattshumer_",
+    "author_url": "https://x.com/mattshumer_",
+    "tweet_url": "https://x.com/mattshumer_/status/2040151836758261959",
+    "title": {
+      "en-US": "What memory systems for OpenClaw/Hermes Agent? Best OSS options?",
+      "zh-CN": "询问OpenClaw和Hermes Agent应该使用什么memory系统，想要开源、稳定、简单的方案"
+    },
+    "summary": {
+      "en-US": "OpenClaw agent memory系统选型讨论",
+      "zh-CN": "人们在寻找更复杂的记忆系统时，往往忽略了真正的问题是「什么值得记住」——当你不知道哪些交互应该沉淀为长期记忆时，再先进的RAG架构也只是把噪音存得更久。"
+    },
+    "relevance": "OpenClaw agent memory系统选型讨论",
+    "score": 0.72,
+    "engagement": {
+      "likes": 69,
+      "replies": 60,
+      "retweets": 3
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-03T21:09:15.446153+00:00",
+    "js_take": {
+      "en-US": "Optimized my agent's memory stack for a month. Found out 90% of 'retrieved context' was noise I should've filtered, not stored. You don't need better RAG—you need better forgetting.",
+      "zh-CN": "花了一个月优化Agent的记忆栈。发现90%的「检索上下文」其实都是本该过滤掉的噪音，而非需要存储的内容。你不需要更好的RAG——你需要的是更好的「遗忘」。"
+    }
+  },
+  {
+    "id": "2040169462918504564",
+    "date": "2026-04-04",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2040169462918504564",
+    "title": {
+      "en-US": "OpenClaw is the most important software release of our lifetimes",
+      "zh-CN": "认为 OpenClaw 是我们这个时代最重要的软件发布"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台重要性讨论",
+      "zh-CN": "把 OpenClaw 捧为「最重要发布」是一种过度简化——真正重要的是它开启的范式转移，而不是工具本身。"
+    },
+    "relevance": "OpenClaw 平台重要性讨论",
+    "score": 0.72,
+    "engagement": {
+      "likes": 218,
+      "replies": 81,
+      "retweets": 6
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-03T22:13:37.013430+00:00",
+    "js_take": {
+      "en-US": "Tools don't matter. The shift does — surface world becoming database, inner world becoming interface. OpenClaw just made it visible first.",
+      "zh-CN": "工具本身无关紧要。真正的变革在于——表世界正退变为数据库，里世界则升维为新界面。OpenClaw 只是率先让这一切清晰可见。"
+    }
+  },
+  {
+    "id": "2039827601976357092",
+    "date": "2026-04-04",
+    "author": "@Voxyz_ai",
+    "author_url": "https://x.com/Voxyz_ai",
+    "tweet_url": "https://x.com/Voxyz_ai/status/2039827601976357092",
+    "title": {
+      "en-US": "OpenClaw 4.2 flow management for cron jobs",
+      "zh-CN": "OpenClaw 4.2新增flow管理功能，可以查看、取消运行中的定时任务"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台功能更新，直接相关",
+      "zh-CN": "从'发现失败'到'看见状态'，这是从被动救火到主动掌控的转变——可观测性比自动化本身更难建立，这是工程实践的深层洞察。"
+    },
+    "relevance": "OpenClaw平台功能更新，直接相关",
+    "score": 0.71,
+    "engagement": {
+      "likes": 110,
+      "replies": 12,
+      "retweets": 4
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-03T20:27:23.944173+00:00",
+    "js_take": {
+      "en-US": "Built 17 cron jobs last quarter. The one that failed? I saw it in the flow view 4 hours before it broke. Seeing state beats running tasks—every time.",
+      "zh-CN": "上季度建了 17 个定时任务。唯一出问题的那个，我在它崩溃前 4 小时就从流程视图里察觉了。看见状态，胜过盲目运行——每一次都是。"
     }
   },
   {
@@ -5573,117 +5685,6 @@
     "js_take": {
       "en-US": "Every platform starts with people flexing they 'have' the tool. Real growth comes from those who use it silently — when the show-offs leave, the system builders remain.",
       "zh-CN": "每个平台起步时，总有人在炫耀自己'有了'这个工具。但真正的增长来自那些埋头使用的人——当炫耀者离场，留下的是系统构建者。"
-    }
-  },
-  {
-    "id": "2035286532857205088",
-    "date": "2026-03-21",
-    "author": "@EHuanglu",
-    "author_url": "https://x.com/EHuanglu",
-    "tweet_url": "https://x.com/EHuanglu/status/2035286532857205088",
-    "title": {
-      "en-US": "OpenClaw generates video on Seedance 2, import into premiere pro and edit.. all by itself",
-      "zh-CN": "用户展示OpenClaw自主完成视频生成并导入Premiere Pro编辑的全流程自动化能力。"
-    },
-    "summary": {
-      "en-US": "直接提及OpenClaw平台功能，展示Agent自主执行复杂工作流的能力",
-      "zh-CN": "原推只展示了「能做什么」，但真正的问题是「什么时候该让人介入」。完全自动化不等于完全正确，关键在于系统知不知道自己的边界在哪——这正是东方系统思维能补充的盲区。"
-    },
-    "relevance": "直接提及OpenClaw平台功能，展示Agent自主执行复杂工作流的能力",
-    "score": 0.82,
-    "engagement": {
-      "likes": 77,
-      "replies": 12,
-      "retweets": 5
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-21T10:09:26.080163+00:00",
-    "js_take": {
-      "en-US": "Full automation isn't the flex. The flex is knowing exactly when to stop and ask. Does Seedance pause at frame 47 to say \"this angle is wrong—your call\"? That's the boundary where real autonomy lives.",
-      "zh-CN": "全自动不是什么值得炫耀的事。真正的本事是懂得何时该停下来询问——就像在第47帧暂停说「这个角度不对，你来定」。这才是真正自主性的边界所在。"
-    }
-  },
-  {
-    "id": "2035070388615393771",
-    "date": "2026-03-21",
-    "author": "@iamlukethedev",
-    "author_url": "https://x.com/iamlukethedev",
-    "tweet_url": "https://x.com/iamlukethedev/status/2035070388615393771",
-    "title": {
-      "en-US": "Claw3D open source, 225 stars, 41 forks in short time",
-      "zh-CN": "225星的真相：时机胜过营销"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 + 开源策略",
-      "zh-CN": "开源决策的正确性不在于「开源好」这个结论，而在于时机——在生态需要可视化工具时推出，让需求本身拉动贡献。"
-    },
-    "relevance": "OpenClaw生态 + 开源策略",
-    "score": 0.8,
-    "engagement": {
-      "likes": 174,
-      "retweets": 28,
-      "replies": 35,
-      "views": 5941
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-20T22:10:20.467585+00:00",
-    "js_take": {
-      "en-US": "225 stars in short time isn't marketing — it's timing. The agent ecosystem needed visibility tools exactly when you shipped. Real growth isn't chasing attention, it's occupying the gap where momentum flows.",
-      "zh-CN": "短时间斩获225星不是营销，而是时机。Agent生态在你发布的那一刻，恰好急需可见性工具。真正的增长不是追逐关注，而是占据势流涌动的缺口。"
-    }
-  },
-  {
-    "id": "2035025492617961704",
-    "date": "2026-03-21",
-    "author": "@claudeai",
-    "author_url": "https://x.com/claudeai",
-    "tweet_url": "https://x.com/claudeai/status/2035025492617961704",
-    "title": {
-      "en-US": "Projects now available in Cowork with persistent context and local files",
-      "zh-CN": "Claude在Cowork中推出Projects功能，支持持久化上下文和本地文件管理"
-    },
-    "summary": {
-      "en-US": "OpenClaw核心功能更新，agent项目管理",
-      "zh-CN": "产品功能追逐的表象下，真正重要的是「持久化上下文」正在重新定义人机协作的边界——不是工具变强了，是协作关系从「会话」升级为「共事」。"
-    },
-    "relevance": "OpenClaw核心功能更新，agent项目管理",
-    "score": 0.78,
-    "engagement": {
-      "likes": 3292,
-      "replies": 271,
-      "retweets": 229,
-      "views": 115329
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-20T17:09:07.645433+00:00"
-  },
-  {
-    "id": "2035137744771612898",
-    "date": "2026-03-21",
-    "author": "@davemorin",
-    "author_url": "https://x.com/davemorin",
-    "tweet_url": "https://x.com/davemorin/status/2035137744771612898",
-    "title": {
-      "en-US": "Dave Morin mentions working with Nikil on ClawFlows workflow system, now open sourced",
-      "zh-CN": "Dave Morin 提到和 @nikil 一起打磨 ClawFlows 工作流系统，今天开源了，作为 OpenClaw 的工作流方案"
-    },
-    "summary": {
-      "en-US": "直接相关 - OpenClaw 生态 + Agent 工作流系统",
-      "zh-CN": "核心观点：大多数人把 workflow 当作「自动化任务列表」来建，但真正有效的系统应该像生态系统一样，让各个 agent 能在不互相等待的情况下自发响应——工具被过度设计了，而「无为」反而能让系统更灵活。"
-    },
-    "relevance": "直接相关 - OpenClaw 生态 + Agent 工作流系统",
-    "score": 0.78,
-    "engagement": {
-      "likes": 104,
-      "replies": 7,
-      "retweets": 4,
-      "views": 24154
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-21T02:09:24.340119+00:00",
-    "js_take": {
-      "en-US": "Most workflow systems die from over-design. ClawFlows stays alive by not forcing agents into rigid pipelines—loose coupling beats tight control when the edge cases hit.",
-      "zh-CN": "大多数工作流系统死于过度设计。ClawFlows 通过不将智能体强塞进僵化流程来保持活力——当边界情况出现时，松散耦合胜过严格控制。"
     }
   }
 ]
