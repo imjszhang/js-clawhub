@@ -1,5 +1,63 @@
 [
   {
+    "id": "2039820039323337137",
+    "date": "2026-04-03",
+    "author": "@cathrynlavery",
+    "author_url": "https://x.com/cathrynlavery",
+    "tweet_url": "https://x.com/cathrynlavery/status/2039820039323337137",
+    "title": {
+      "en-US": "Open-sourced ops layer to fix gateway, exec approvals, broken crons, stuck sessions.",
+      "zh-CN": "开源了OpenClaw的运维层，自动修复网关、执行审批、损坏的定时任务和卡住的会话。"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台运维——自动化运维工具的价值",
+      "zh-CN": "工具解决的是「重复劳动」，但真正的运维智慧在于知道「何时不干预」——最好的ops层不是修复更多问题，而是让系统自己回到平衡态。"
+    },
+    "relevance": "OpenClaw平台运维——自动化运维工具的价值",
+    "score": 0.83,
+    "engagement": {
+      "likes": 249,
+      "replies": 17,
+      "retweets": 20,
+      "bookmarks": 500
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-03T05:07:16.751169+00:00",
+    "js_take": {
+      "en-US": "I've seen ops teams write 5k lines of 'fix scripts.' The best one I ever built was 200 lines that made the system fix itself. Less intervention, more intelligence.",
+      "zh-CN": "见过运维团队写5000行的「修复脚本」。我写过最漂亮的一个只有200行——让系统自己修复自己。少干预，多智能。"
+    }
+  },
+  {
+    "id": "2039796126837006745",
+    "date": "2026-04-03",
+    "author": "@tomosman",
+    "author_url": "https://x.com/tomosman",
+    "tweet_url": "https://x.com/tomosman/status/2039796126837006745",
+    "title": {
+      "en-US": "Brex CEO runs his $5bn company through OpenClaw.",
+      "zh-CN": "Brex（估值50亿美元公司）的CEO通过OpenClaw管理公司运营。"
+    },
+    "summary": {
+      "en-US": "OpenClaw企业级应用——平台价值验证",
+      "zh-CN": "真正有效的工具从不靠营销证明自己，而是让使用者成为证据本身——这正是「不争之争」：产品价值不由声量决定，而由谁在使用决定。"
+    },
+    "relevance": "OpenClaw企业级应用——平台价值验证",
+    "score": 0.83,
+    "engagement": {
+      "likes": 233,
+      "replies": 15,
+      "retweets": 13,
+      "bookmarks": 358
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-04-03T05:07:16.751174+00:00",
+    "js_take": {
+      "en-US": "$5B CEOs don't run on hype. They run on what works. The best product marketing isn't a campaign — it's a CEO's daily workflow.",
+      "zh-CN": "500亿市值的CEO不靠 hype 驱动。他们只认实效。最牛的产品营销不是一场campaign——而是CEO日常的工作流。"
+    }
+  },
+  {
     "id": "2039691738483392609",
     "date": "2026-04-03",
     "author": "@floriandarroman",
@@ -5628,62 +5686,6 @@
     "js_take": {
       "en-US": "Out of 129 replies, how many mention the problem they're solving vs. why their model choice is superior? This obsession with optimizing tools while skipping problem validation is exactly why most people never ship useful agents.",
       "zh-CN": "在129条回复里，有多少人在说他们要解决什么问题，又有多少人在论证自己选的模型为什么更牛？这种跳过问题验证、只顾着优化工具的执念，正是大多数人永远做不出有用Agent的根本原因。"
-    }
-  },
-  {
-    "id": "2035104041395495333",
-    "date": "2026-03-21",
-    "author": "@nikil",
-    "author_url": "https://x.com/nikil",
-    "tweet_url": "https://x.com/nikil/status/2035104041395495333",
-    "title": {
-      "en-US": "Open sourcing ClawFlows - workflow system for OpenClaw, 100+ prebuilt workflows.",
-      "zh-CN": "模板之外，才是差异化的战场"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent 工作流系统",
-      "zh-CN": "预置工作流的价值不在于\"有100个\"，而在于它们代表了一种共识——大家反复做的任务其实就那几十种；真正的个性化发生在这些模板的缝隙里。"
-    },
-    "relevance": "OpenClaw / Agent 工作流系统",
-    "score": 0.75,
-    "engagement": {
-      "likes": 202,
-      "replies": 35,
-      "retweets": 19
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-21T00:08:55.916924+00:00",
-    "js_take": {
-      "en-US": "100 prebuilt workflows don't matter for the number — they expose the truth: everyone thinks they're doing unique work, but 80% is the same pattern on repeat. Real differentiation lives in the gaps between templates.",
-      "zh-CN": "100个预置工作流的意义不在于数量，而在于揭示了一个真相：每个人都以为自己在做独特的工作，但80%不过是重复相同的模式。真正的差异化，藏在模板之间的缝隙里。"
-    }
-  },
-  {
-    "id": "2035188755477500070",
-    "date": "2026-03-21",
-    "author": "@joemccann",
-    "author_url": "https://x.com/joemccann",
-    "tweet_url": "https://x.com/joemccann/status/2035188755477500070",
-    "title": {
-      "en-US": "If you want to understand why open source agent harnesses are going to win, read this post. Anthropic is going for the walled garden Apple approach.",
-      "zh-CN": "作者认为开源agent harness将获胜，而Anthropic正在走苹果式的封闭花园路线。"
-    },
-    "summary": {
-      "en-US": "开源vs封闭agent框架、OpenClaw生态",
-      "zh-CN": "更深度：开源和封闭的胜负不在「开放vs封闭」这个二元对立，而在于谁能先建立「表世界退化为数据库，里世界成为新交互层」的迁移势能——当前封闭系统有先发优势，但迁移完成后生态位会重排。"
-    },
-    "relevance": "开源vs封闭agent框架、OpenClaw生态",
-    "score": 0.74,
-    "engagement": {
-      "likes": 23,
-      "retweets": 1,
-      "replies": 0
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-21T05:08:49.151518+00:00",
-    "js_take": {
-      "en-US": "Open source wins when the surface layer becomes plumbing. Apps are turning into databases; the interface is moving to agents. Apple owns the surface world—agents live in the plumbing layer.",
-      "zh-CN": "开源的胜利发生在表层沦为管道之时。App正在退化为数据库，交互层正在向Agent迁移。苹果拥有表层世界，而Agent活在管道层。"
     }
   }
 ]
