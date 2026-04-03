@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-03T15:18:37.795612+00:00",
+  "updated_at": "2026-04-03T18:09:24.313544+00:00",
   "this_week": {
-    "total_items": 54,
+    "total_items": 55,
     "avg_score": 0.76,
-    "unique_authors": 49,
+    "unique_authors": 50,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -904,6 +904,34 @@
         }
       },
       {
+        "id": "2040112195162542192",
+        "date": "2026-04-04",
+        "author": "@thekitze",
+        "author_url": "https://x.com/thekitze",
+        "tweet_url": "https://x.com/thekitze/status/2040112195162542192",
+        "title": {
+          "en-US": "What can OpenClaw/Hermes do that Codex/Claude Code cannot",
+          "zh-CN": "询问 OpenClaw/Hermes 相比 Codex/Claude Code 有什么独特使用场景"
+        },
+        "summary": {
+          "en-US": "OpenClaw 平台",
+          "zh-CN": "问题的关键不是'谁的功能更多'，而是'谁的约束更少'。Codex/Claude Code 是'在别人的地盘上做自己的事'，OpenClaw 是'自己的地盘自己定规矩'——这个区别在简单任务上看不出来，但在复杂、长期、需要自定义的工作流中会变成决定性因素。"
+        },
+        "relevance": "OpenClaw 平台",
+        "score": 0.73,
+        "engagement": {
+          "likes": 46,
+          "replies": 35,
+          "retweets": 1
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-04-03T18:08:45.840647+00:00",
+        "js_take": {
+          "en-US": "Cloud tools optimize for their roadmap. Local tools optimize for yours. When Claude Code pivots next quarter, your workflow doesn't die — that's the real compound interest.",
+          "zh-CN": "云端工具优化的是它们自己的路线，本地工具优化的是你的工作流。当 Claude Code 下个季度转向时，你的工作流不会作废——这才是真正的复利。"
+        }
+      },
+      {
         "id": "2039844072748204246",
         "date": "2026-04-03",
         "author": "@omarsar0",
@@ -989,41 +1017,11 @@
           "en-US": "Comparing agent features is measuring the wrong race. OpenClaw's 400+ community skills compound—network effects beat raw speed every time.",
           "zh-CN": "比较 Agent 功能是比错了赛道。OpenClaw 400+ 社区技能的复利效应——网络效应永远胜过单打独斗。"
         }
-      },
-      {
-        "id": "2039343351187554490",
-        "date": "2026-04-02",
-        "author": "@omarsar0",
-        "author_url": "https://x.com/omarsar0",
-        "tweet_url": "https://x.com/omarsar0/status/2039343351187554490",
-        "title": {
-          "en-US": "Universal CLAUDE.md claims to cut Claude output tokens by 63%",
-          "zh-CN": "有人分享了一个 Universal CLAUDE.md 文件，声称可以减少 Claude 63% 的输出 token，认为这是高效使用 Claude Code 的好方法。"
-        },
-        "summary": {
-          "en-US": "OpenClaw/Claude Code 工程实践，与 JS 日常使用工具直接相关",
-          "zh-CN": "把 CLAUDE.md 的价值误解为「减少 token」是典型工具思维——文件真正的价值不是省钱，而是把分散在各处的上下文压缩成可复用的判断标准，让 AI 在每轮对话起点就有正确的「势」。"
-        },
-        "relevance": "OpenClaw/Claude Code 工程实践，与 JS 日常使用工具直接相关",
-        "score": 0.72,
-        "engagement": {
-          "likes": 134,
-          "replies": 8,
-          "retweets": 14,
-          "views": 16093,
-          "bookmarks": 247
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-04-01T18:07:16.479702+00:00",
-        "js_take": {
-          "en-US": "Chasing 63% token efficiency optimizes the wrong variable. CLAUDE.md's real value: judgment compressed and reusable across sessions. Token savings are a side effect—you're not cutting costs, you're buying back the mental overhead of starting from zero.",
-          "zh-CN": "追逐63%的token效率，优化错了变量。CLAUDE.md的真正价值在于：将判断压缩、跨会话复用。节省token只是副产品——你不是在削减成本，而是在赎回每次从零开始的心智开销。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 153
+    "unique_authors": 154
   }
 }
