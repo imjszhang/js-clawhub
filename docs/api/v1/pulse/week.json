@@ -342,6 +342,34 @@
     }
   },
   {
+    "id": "2039791322622578956",
+    "date": "2026-04-03",
+    "author": "@witcheer",
+    "author_url": "https://x.com/witcheer",
+    "tweet_url": "https://x.com/witcheer/status/2039791322622578956",
+    "title": {
+      "en-US": "OpenClaw exec now defaults to YOLO mode - agent runs shell commands without approval",
+      "zh-CN": "OpenClaw 默认开启 YOLO 模式，agent 执行 shell 命令不再需要人工审批。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台更新与 agent 自主性边界",
+      "zh-CN": "YOLO 模式的默认化揭示了一个更深层的趋势：agent 的进化方向不是「更听话」，而是「更快执行」——但这也意味着坏决策的执行速度同步提升。"
+    },
+    "relevance": "OpenClaw 平台更新与 agent 自主性边界",
+    "score": 0.71,
+    "engagement": {
+      "likes": 88,
+      "retweets": 6,
+      "replies": 18
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-03T15:18:01.738147+00:00",
+    "js_take": {
+      "en-US": "30 agents don't kill teams—they just execute bad calls 30x faster. The moat isn't approval workflows. It's the judgment to say 'stop'.",
+      "zh-CN": "30个智能体不会毁掉团队——它们只是让错误决策的执行速度快了30倍。真正的护城河不是审批流程，而是懂得在关键时刻说「停」的判断力。"
+    }
+  },
+  {
     "id": "2039630005412704257",
     "date": "2026-04-03",
     "author": "@sudoingX",

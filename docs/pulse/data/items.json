@@ -342,6 +342,34 @@
     }
   },
   {
+    "id": "2039791322622578956",
+    "date": "2026-04-03",
+    "author": "@witcheer",
+    "author_url": "https://x.com/witcheer",
+    "tweet_url": "https://x.com/witcheer/status/2039791322622578956",
+    "title": {
+      "en-US": "OpenClaw exec now defaults to YOLO mode - agent runs shell commands without approval",
+      "zh-CN": "OpenClaw 默认开启 YOLO 模式，agent 执行 shell 命令不再需要人工审批。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台更新与 agent 自主性边界",
+      "zh-CN": "YOLO 模式的默认化揭示了一个更深层的趋势：agent 的进化方向不是「更听话」，而是「更快执行」——但这也意味着坏决策的执行速度同步提升。"
+    },
+    "relevance": "OpenClaw 平台更新与 agent 自主性边界",
+    "score": 0.71,
+    "engagement": {
+      "likes": 88,
+      "retweets": 6,
+      "replies": 18
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-03T15:18:01.738147+00:00",
+    "js_take": {
+      "en-US": "30 agents don't kill teams—they just execute bad calls 30x faster. The moat isn't approval workflows. It's the judgment to say 'stop'.",
+      "zh-CN": "30个智能体不会毁掉团队——它们只是让错误决策的执行速度快了30倍。真正的护城河不是审批流程，而是懂得在关键时刻说「停」的判断力。"
+    }
+  },
+  {
     "id": "2039630005412704257",
     "date": "2026-04-03",
     "author": "@sudoingX",
@@ -5657,34 +5685,6 @@
     "js_take": {
       "en-US": "10k followers + OpenClaw won't make you rich. Real wealth builds in the silence before the crowd — when you're chasing tools, you miss the momentum.",
       "zh-CN": "一万粉丝和 OpenClaw 不会让你暴富。真正的财富在无人问津时悄然积累——当你忙着追逐工具，便错过了真正的趋势。"
-    }
-  },
-  {
-    "id": "2035188285413498906",
-    "date": "2026-03-21",
-    "author": "@Saboo_Shubham_",
-    "author_url": "https://x.com/Saboo_Shubham_",
-    "tweet_url": "https://x.com/Saboo_Shubham_/status/2035188285413498906",
-    "title": {
-      "en-US": "My OpenClaw agents self-improve every week. Ross reviewed 12 PRs, merged 3, flagged 2 as spam. He tightened his own review criteria without being asked.",
-      "zh-CN": "作者分享他的OpenClaw agent每周自我改进的经验：Ross agent审查了12个PR，合并3个，标记2个为垃圾，并自己收紧了审查标准。"
-    },
-    "summary": {
-      "en-US": "OpenClaw agent自主进化、自优化机制",
-      "zh-CN": "做纠正：agent「自己收紧标准」不是真正的自我改进，而是人类预设规则在特定条件下的触发——真正的问题是谁来决定「更好的标准」以及何时触发。"
-    },
-    "relevance": "OpenClaw agent自主进化、自优化机制",
-    "score": 0.78,
-    "engagement": {
-      "likes": 49,
-      "replies": 14,
-      "retweets": 4
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-21T05:08:49.151513+00:00",
-    "js_take": {
-      "en-US": "What you call 'self-improving' is rule-matching in a narrow corridor. True evolution isn't tightening the same screws—it's questioning who put the screwdriver in your hand.",
-      "zh-CN": "你所谓的「自我改进」，不过是狭窄走廊里的规则匹配。真正的进化不是拧紧同一批螺丝——而是质问谁把螺丝刀塞进了你手里。"
     }
   }
 ]
