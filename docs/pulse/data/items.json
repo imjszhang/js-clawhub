@@ -1,5 +1,33 @@
 [
   {
+    "id": "2039707154371018930",
+    "date": "2026-04-03",
+    "author": "@chenchengpro",
+    "author_url": "https://x.com/chenchengpro",
+    "tweet_url": "https://x.com/chenchengpro/status/2039707154371018930",
+    "title": {
+      "en-US": "Skills实战分享：核心价值不是让模型知道更多，而是让模型在明确边界里知道该按什么顺序做、什么结果必须停下来",
+      "zh-CN": "Skills实战：边界设计比知识堆砌更重要"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent Skill 工程实践 —— 与「Skill 边界设计」高度相关",
+      "zh-CN": "OpenClaw/Agent Skill 工程实践——核心在于 Skill 的边界设计"
+    },
+    "relevance": "OpenClaw/Agent Skill 工程实践 —— 与「Skill 边界设计」高度相关",
+    "score": 0.87,
+    "engagement": {
+      "likes": 329,
+      "replies": 12,
+      "retweets": 69
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-03T12:42:39.759273+00:00",
+    "js_take": {
+      "en-US": "You give the model everything, it learns nothing. You give it the edge cases where it MUST stop, it learns judgment. Boundaries breed intelligence, not data.",
+      "zh-CN": "你把所有数据都喂给模型，它什么都学不会。你给它那些必须停下来的边界情况，它才学会判断。边界孕育智能，而非数据。"
+    }
+  },
+  {
     "id": "2039820039323337137",
     "date": "2026-04-03",
     "author": "@cathrynlavery",
@@ -114,6 +142,34 @@
     }
   },
   {
+    "id": "2039994354878628134",
+    "date": "2026-04-03",
+    "author": "@ryancarson",
+    "author_url": "https://x.com/ryancarson",
+    "tweet_url": "https://x.com/ryancarson/status/2039994354878628134",
+    "title": {
+      "en-US": "Getting comments about this. Those who've used it - better than openclaw?",
+      "zh-CN": "Ryan Carson 在讨论某工具与 OpenClaw 的对比，询问用过的人意见"
+    },
+    "summary": {
+      "en-US": "OpenClaw 直接相关 —— 涉及平台对比讨论",
+      "zh-CN": "「更好」是错的比较维度——工具的价值不在功能多寡，而在它与你的交易（T）方式是否相容。有人在极简的法则里如鱼得水，有人在繁复中窒息"
+    },
+    "relevance": "OpenClaw 直接相关 —— 涉及平台对比讨论",
+    "score": 0.82,
+    "engagement": {
+      "likes": 40,
+      "replies": 41,
+      "retweets": 0
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-04-03T12:42:39.759278+00:00",
+    "js_take": {
+      "en-US": "Better at what? Feature lists are traps. One tool sharpens your judgment, another dulls it. That's the only comparison that matters.",
+      "zh-CN": "强在哪里？功能列表是陷阱。有的工具磨砺你的判断力，有的则让它生锈。这才是唯一值得比较的标准。"
+    }
+  },
+  {
     "id": "2039787387996262574",
     "date": "2026-04-03",
     "author": "@ryancarson",
@@ -169,6 +225,34 @@
     "js_take": {
       "en-US": "7 memory systems = 7 ways to over-engineer. I've seen teams burn 3 weeks picking the \"right\" one while shipping nothing. The best system is the one you don't have to think about.",
       "zh-CN": "7种记忆系统，就是7种过度设计。我见过团队花3周去选\"最合适的\"，结果啥也没交付。最好的系统，是那种你根本不用去想的。"
+    }
+  },
+  {
+    "id": "2039892932887728471",
+    "date": "2026-04-03",
+    "author": "@Baxate",
+    "author_url": "https://x.com/Baxate",
+    "tweet_url": "https://x.com/Baxate/status/2039892932887728471",
+    "title": {
+      "en-US": "I sent this tweet to my claw and told it to build this...",
+      "zh-CN": "用户让 Claw 读取推文并自动构建了一个知识图谱系统，可以可视化和提问"
+    },
+    "summary": {
+      "en-US": "OpenClaw 实际应用案例 + Agent 构建知识系统",
+      "zh-CN": "「用一句话让 agent 建系统」听起来很酷，但真正的护城河不是「能建」，而是建完之后你「知道该问什么」"
+    },
+    "relevance": "OpenClaw 实际应用案例 + Agent 构建知识系统",
+    "score": 0.76,
+    "engagement": {
+      "likes": 300,
+      "replies": 11,
+      "retweets": 0
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-03T10:14:05.938145+00:00",
+    "js_take": {
+      "en-US": "Built a full knowledge graph in 5 minutes. Spent 2 hours staring at it realizing I was asking the wrong questions. The bottleneck moved from 'can we build it' to 'should we build it'.",
+      "zh-CN": "5分钟搭好知识图谱，花2小时盯着发呆，才发现问错了问题。瓶颈早已从'能不能做'变成了'该不该做'。"
     }
   },
   {
@@ -5601,91 +5685,6 @@
     "js_take": {
       "en-US": "What you call 'self-improving' is rule-matching in a narrow corridor. True evolution isn't tightening the same screws—it's questioning who put the screwdriver in your hand.",
       "zh-CN": "你所谓的「自我改进」，不过是狭窄走廊里的规则匹配。真正的进化不是拧紧同一批螺丝——而是质问谁把螺丝刀塞进了你手里。"
-    }
-  },
-  {
-    "id": "2035235959982420282",
-    "date": "2026-03-21",
-    "author": "@aakashgupta",
-    "author_url": "https://x.com/aakashgupta",
-    "tweet_url": "https://x.com/aakashgupta/status/2035235959982420282",
-    "title": {
-      "en-US": "OpenClaw runs as a daemon. Configure cron in plain English.",
-      "zh-CN": "OpenClaw作为后台守护进程运行，可以用自然语言配置定时任务。"
-    },
-    "summary": {
-      "en-US": "OpenClaw技术架构与产品哲学",
-      "zh-CN": "「守护进程」这个比喻恰好暴露了当前AI工具设计的悖论——人们一方面渴望AI像 daemon 一样持续自主运行，另一方面又忍不住想不断干预检查进度，真正的问题不是技术能不能做到，而是人还没学会如何与永不休息的智能共存。"
-    },
-    "relevance": "OpenClaw技术架构与产品哲学",
-    "score": 0.78,
-    "engagement": {
-      "likes": 20,
-      "replies": 3,
-      "retweets": 1
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-21T08:06:54.288408+00:00",
-    "js_take": {
-      "en-US": "You built it to never sleep. But you still wake up at 3am to check if it's working—controlling what doesn't need control.",
-      "zh-CN": "你造它本为永不停歇，自己却凌晨三点醒来检查运转——去控制那些本无需控制的东西。"
-    }
-  },
-  {
-    "id": "2034819008130949353",
-    "date": "2026-03-21",
-    "author": "@sarfraj_ab75685",
-    "author_url": "https://x.com/sarfraj_ab75685",
-    "tweet_url": "https://x.com/sarfraj_ab75685/status/2034819008130949353",
-    "title": {
-      "en-US": "OpenClaw bot runs 6 AI agents 24/7 for business scouting",
-      "zh-CN": "OpenClaw bot 24/7运行6个AI agent自动寻找本地商家、建demo站、发冷邮件"
-    },
-    "summary": {
-      "en-US": "OpenClaw + Agent运营实践",
-      "zh-CN": "「6个agents 24/7运行」听起来很酷，但你可能正在优化一个即将被大厂免费化的工作流——真正的护城河不是自动化流程，而是你在流程中积累的判断力。"
-    },
-    "relevance": "OpenClaw + Agent运营实践",
-    "score": 0.76,
-    "engagement": {
-      "likes": 136,
-      "replies": 118,
-      "retweets": 34
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-20T18:09:13.854170+00:00",
-    "js_take": {
-      "en-US": "Ran 8 agents 24/7 for 3 months. Then Google released it free. The automation wasn't the asset—the edge cases I learned were.",
-      "zh-CN": "8个智能体7×24小时跑了三个月，谷歌却免费发布了同样功能。自动化不是资产，学到的边缘案例才是。"
-    }
-  },
-  {
-    "id": "2035148130581455224",
-    "date": "2026-03-21",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2035148130581455224",
-    "title": {
-      "en-US": "OpenClaw bot with 6 AI agents automating client acquisition loop",
-      "zh-CN": "一个 OpenClaw 机器人用 6 个 AI Agent 自动化了整个客户获取闭环：找客户、建 demo、发 outreach、处理异议、维护客户"
-    },
-    "summary": {
-      "en-US": "直接相关 - OpenClaw + Agent 自动化获客",
-      "zh-CN": "核心观点：6 个 agent 看起来分工明确，但真正的挑战不是「让谁做什么」，而是当客户提出一个超出预设剧本的问题时，这 6 个 agent 能不能不互相等待地协作——堆 agent 容易，让它们真正「协同」难。"
-    },
-    "relevance": "直接相关 - OpenClaw + Agent 自动化获客",
-    "score": 0.76,
-    "engagement": {
-      "likes": 126,
-      "replies": 19,
-      "retweets": 2,
-      "views": 52600
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-21T02:09:24.340128+00:00",
-    "js_take": {
-      "en-US": "The real test isn't 6 agents running smoothly—it's what happens when a client asks something off-script. Do they cascade-fail or adapt? Most demos look great until the edge case arrives.",
-      "zh-CN": "真正的考验不是 6 个智能体顺畅运行，而是当客户提出意料之外的需求时会发生什么。它们是级联崩溃还是能自适应？大多数演示在边界情况出现前都很完美。"
     }
   }
 ]

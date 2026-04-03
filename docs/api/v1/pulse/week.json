@@ -1,5 +1,33 @@
 [
   {
+    "id": "2039707154371018930",
+    "date": "2026-04-03",
+    "author": "@chenchengpro",
+    "author_url": "https://x.com/chenchengpro",
+    "tweet_url": "https://x.com/chenchengpro/status/2039707154371018930",
+    "title": {
+      "en-US": "Skills实战分享：核心价值不是让模型知道更多，而是让模型在明确边界里知道该按什么顺序做、什么结果必须停下来",
+      "zh-CN": "Skills实战：边界设计比知识堆砌更重要"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Agent Skill 工程实践 —— 与「Skill 边界设计」高度相关",
+      "zh-CN": "OpenClaw/Agent Skill 工程实践——核心在于 Skill 的边界设计"
+    },
+    "relevance": "OpenClaw/Agent Skill 工程实践 —— 与「Skill 边界设计」高度相关",
+    "score": 0.87,
+    "engagement": {
+      "likes": 329,
+      "replies": 12,
+      "retweets": 69
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-03T12:42:39.759273+00:00",
+    "js_take": {
+      "en-US": "You give the model everything, it learns nothing. You give it the edge cases where it MUST stop, it learns judgment. Boundaries breed intelligence, not data.",
+      "zh-CN": "你把所有数据都喂给模型，它什么都学不会。你给它那些必须停下来的边界情况，它才学会判断。边界孕育智能，而非数据。"
+    }
+  },
+  {
     "id": "2039820039323337137",
     "date": "2026-04-03",
     "author": "@cathrynlavery",
@@ -114,6 +142,34 @@
     }
   },
   {
+    "id": "2039994354878628134",
+    "date": "2026-04-03",
+    "author": "@ryancarson",
+    "author_url": "https://x.com/ryancarson",
+    "tweet_url": "https://x.com/ryancarson/status/2039994354878628134",
+    "title": {
+      "en-US": "Getting comments about this. Those who've used it - better than openclaw?",
+      "zh-CN": "Ryan Carson 在讨论某工具与 OpenClaw 的对比，询问用过的人意见"
+    },
+    "summary": {
+      "en-US": "OpenClaw 直接相关 —— 涉及平台对比讨论",
+      "zh-CN": "「更好」是错的比较维度——工具的价值不在功能多寡，而在它与你的交易（T）方式是否相容。有人在极简的法则里如鱼得水，有人在繁复中窒息"
+    },
+    "relevance": "OpenClaw 直接相关 —— 涉及平台对比讨论",
+    "score": 0.82,
+    "engagement": {
+      "likes": 40,
+      "replies": 41,
+      "retweets": 0
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-04-03T12:42:39.759278+00:00",
+    "js_take": {
+      "en-US": "Better at what? Feature lists are traps. One tool sharpens your judgment, another dulls it. That's the only comparison that matters.",
+      "zh-CN": "强在哪里？功能列表是陷阱。有的工具磨砺你的判断力，有的则让它生锈。这才是唯一值得比较的标准。"
+    }
+  },
+  {
     "id": "2039787387996262574",
     "date": "2026-04-03",
     "author": "@ryancarson",
@@ -169,6 +225,34 @@
     "js_take": {
       "en-US": "7 memory systems = 7 ways to over-engineer. I've seen teams burn 3 weeks picking the \"right\" one while shipping nothing. The best system is the one you don't have to think about.",
       "zh-CN": "7种记忆系统，就是7种过度设计。我见过团队花3周去选\"最合适的\"，结果啥也没交付。最好的系统，是那种你根本不用去想的。"
+    }
+  },
+  {
+    "id": "2039892932887728471",
+    "date": "2026-04-03",
+    "author": "@Baxate",
+    "author_url": "https://x.com/Baxate",
+    "tweet_url": "https://x.com/Baxate/status/2039892932887728471",
+    "title": {
+      "en-US": "I sent this tweet to my claw and told it to build this...",
+      "zh-CN": "用户让 Claw 读取推文并自动构建了一个知识图谱系统，可以可视化和提问"
+    },
+    "summary": {
+      "en-US": "OpenClaw 实际应用案例 + Agent 构建知识系统",
+      "zh-CN": "「用一句话让 agent 建系统」听起来很酷，但真正的护城河不是「能建」，而是建完之后你「知道该问什么」"
+    },
+    "relevance": "OpenClaw 实际应用案例 + Agent 构建知识系统",
+    "score": 0.76,
+    "engagement": {
+      "likes": 300,
+      "replies": 11,
+      "retweets": 0
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-03T10:14:05.938145+00:00",
+    "js_take": {
+      "en-US": "Built a full knowledge graph in 5 minutes. Spent 2 hours staring at it realizing I was asking the wrong questions. The bottleneck moved from 'can we build it' to 'should we build it'.",
+      "zh-CN": "5分钟搭好知识图谱，花2小时盯着发呆，才发现问错了问题。瓶颈早已从'能不能做'变成了'该不该做'。"
     }
   },
   {

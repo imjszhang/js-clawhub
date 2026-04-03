@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-03T08:27:22.200793+00:00",
+  "updated_at": "2026-04-03T12:43:19.593395+00:00",
   "this_week": {
-    "total_items": 50,
+    "total_items": 53,
     "avg_score": 0.76,
-    "unique_authors": 46,
+    "unique_authors": 48,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -28,6 +28,34 @@
         },
         "comment_type": "tao_reframe",
         "synced_at": "2026-03-31T16:21:47.482948+00:00"
+      },
+      {
+        "id": "2039707154371018930",
+        "date": "2026-04-03",
+        "author": "@chenchengpro",
+        "author_url": "https://x.com/chenchengpro",
+        "tweet_url": "https://x.com/chenchengpro/status/2039707154371018930",
+        "title": {
+          "en-US": "Skills实战分享：核心价值不是让模型知道更多，而是让模型在明确边界里知道该按什么顺序做、什么结果必须停下来",
+          "zh-CN": "Skills实战：边界设计比知识堆砌更重要"
+        },
+        "summary": {
+          "en-US": "OpenClaw/Agent Skill 工程实践 —— 与「Skill 边界设计」高度相关",
+          "zh-CN": "OpenClaw/Agent Skill 工程实践——核心在于 Skill 的边界设计"
+        },
+        "relevance": "OpenClaw/Agent Skill 工程实践 —— 与「Skill 边界设计」高度相关",
+        "score": 0.87,
+        "engagement": {
+          "likes": 329,
+          "replies": 12,
+          "retweets": 69
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-04-03T12:42:39.759273+00:00",
+        "js_take": {
+          "en-US": "You give the model everything, it learns nothing. You give it the edge cases where it MUST stop, it learns judgment. Boundaries breed intelligence, not data.",
+          "zh-CN": "你把所有数据都喂给模型，它什么都学不会。你给它那些必须停下来的边界情况，它才学会判断。边界孕育智能，而非数据。"
+        }
       },
       {
         "id": "2038357970606498032",
@@ -169,6 +197,34 @@
         "js_take": {
           "en-US": "Platforms die from feature bloat, not scarcity. The real moat isn't what you add—it's what you refuse to.",
           "zh-CN": "平台死于功能臃肿，而非匮乏。真正的护城河不是你能添加什么，而是你能拒绝什么。"
+        }
+      },
+      {
+        "id": "2039994354878628134",
+        "date": "2026-04-03",
+        "author": "@ryancarson",
+        "author_url": "https://x.com/ryancarson",
+        "tweet_url": "https://x.com/ryancarson/status/2039994354878628134",
+        "title": {
+          "en-US": "Getting comments about this. Those who've used it - better than openclaw?",
+          "zh-CN": "Ryan Carson 在讨论某工具与 OpenClaw 的对比，询问用过的人意见"
+        },
+        "summary": {
+          "en-US": "OpenClaw 直接相关 —— 涉及平台对比讨论",
+          "zh-CN": "「更好」是错的比较维度——工具的价值不在功能多寡，而在它与你的交易（T）方式是否相容。有人在极简的法则里如鱼得水，有人在繁复中窒息"
+        },
+        "relevance": "OpenClaw 直接相关 —— 涉及平台对比讨论",
+        "score": 0.82,
+        "engagement": {
+          "likes": 40,
+          "replies": 41,
+          "retweets": 0
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-04-03T12:42:39.759278+00:00",
+        "js_take": {
+          "en-US": "Better at what? Feature lists are traps. One tool sharpens your judgment, another dulls it. That's the only comparison that matters.",
+          "zh-CN": "强在哪里？功能列表是陷阱。有的工具磨砺你的判断力，有的则让它生锈。这才是唯一值得比较的标准。"
         }
       },
       {
@@ -652,6 +708,34 @@
         }
       },
       {
+        "id": "2039892932887728471",
+        "date": "2026-04-03",
+        "author": "@Baxate",
+        "author_url": "https://x.com/Baxate",
+        "tweet_url": "https://x.com/Baxate/status/2039892932887728471",
+        "title": {
+          "en-US": "I sent this tweet to my claw and told it to build this...",
+          "zh-CN": "用户让 Claw 读取推文并自动构建了一个知识图谱系统，可以可视化和提问"
+        },
+        "summary": {
+          "en-US": "OpenClaw 实际应用案例 + Agent 构建知识系统",
+          "zh-CN": "「用一句话让 agent 建系统」听起来很酷，但真正的护城河不是「能建」，而是建完之后你「知道该问什么」"
+        },
+        "relevance": "OpenClaw 实际应用案例 + Agent 构建知识系统",
+        "score": 0.76,
+        "engagement": {
+          "likes": 300,
+          "replies": 11,
+          "retweets": 0
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-04-03T10:14:05.938145+00:00",
+        "js_take": {
+          "en-US": "Built a full knowledge graph in 5 minutes. Spent 2 hours staring at it realizing I was asking the wrong questions. The bottleneck moved from 'can we build it' to 'should we build it'.",
+          "zh-CN": "5分钟搭好知识图谱，花2小时盯着发呆，才发现问错了问题。瓶颈早已从'能不能做'变成了'该不该做'。"
+        }
+      },
+      {
         "id": "2038873041707717054",
         "date": "2026-03-31",
         "author": "@FradSer",
@@ -934,91 +1018,6 @@
         "js_take": {
           "en-US": "Chasing 63% token efficiency optimizes the wrong variable. CLAUDE.md's real value: judgment compressed and reusable across sessions. Token savings are a side effect—you're not cutting costs, you're buying back the mental overhead of starting from zero.",
           "zh-CN": "追逐63%的token效率，优化错了变量。CLAUDE.md的真正价值在于：将判断压缩、跨会话复用。节省token只是副产品——你不是在削减成本，而是在赎回每次从零开始的心智开销。"
-        }
-      },
-      {
-        "id": "2039411851919057339",
-        "date": "2026-04-02",
-        "author": "@theo",
-        "author_url": "https://x.com/theo",
-        "tweet_url": "https://x.com/theo/status/2039411851919057339",
-        "title": {
-          "en-US": "Anthropic DMCA'd my Claude code fork... absolutely pathetic",
-          "zh-CN": "Theo 抱怨 Anthropic 对他的 Claude Code fork 发了 DMCA，尽管里面根本没有源码"
-        },
-        "summary": {
-          "en-US": "OpenClaw 生态相关争议，Anthropic 与开源社区关系",
-          "zh-CN": "更深度：公司越大，「保护机制」越容易异化成自我伤害——用法律武器打击自己的开源生态，本质是法则（R）滞后于社区真实交易（T）的典型案例"
-        },
-        "relevance": "OpenClaw 生态相关争议，Anthropic 与开源社区关系",
-        "score": 0.72,
-        "engagement": {
-          "likes": 1522,
-          "retweets": 35,
-          "replies": 89,
-          "views": 237875
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-04-01T20:10:01.409455+00:00",
-        "js_take": {
-          "en-US": "DMCA'ing your own open source community. The more rules to protect, the further from the real community you drift.",
-          "zh-CN": "对自己的开源社区挥起 DMCA 大棒。保护规则越繁复，离真正的社区就越遥远。"
-        }
-      },
-      {
-        "id": "2039320145282339265",
-        "date": "2026-04-02",
-        "author": "@PrajwalTomar_",
-        "author_url": "https://x.com/PrajwalTomar_",
-        "tweet_url": "https://x.com/PrajwalTomar_/status/2039320145282339265",
-        "title": {
-          "en-US": "OpenClaw vs Perplexity - spending hours keeping agents alive",
-          "zh-CN": "博主原本觉得Perplexity被高估，自己用OpenClaw跑了5个业务但每周要花几小时维护——配置崩溃、插件故障、Mac Mini得24/7开机"
-        },
-        "summary": {
-          "en-US": "AI Agent运营的真实痛点——不是能不能跑，而是维护成本被低估",
-          "zh-CN": "人们追逐agent的'自动化'幻象，却没算清隐性成本：你的注意力、机器的在线时间、配置的持续维护——所谓'解放'往往只是把劳动转移到了另一个维度"
-        },
-        "relevance": "AI Agent运营的真实痛点——不是能不能跑，而是维护成本被低估",
-        "score": 0.72,
-        "engagement": {
-          "likes": 19,
-          "retweets": 2,
-          "replies": 4
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-01T23:13:58.851260+00:00",
-        "js_take": {
-          "en-US": "You spend 20 hours setting up agents to save 2 hours of work. Then 40 hours babysitting them at 2am. The automation you optimized for became the work itself.",
-          "zh-CN": "你花20小时搭Agent，只为省下2小时工作。然后在凌晨2点花40小时守着它们。你优化的自动化，最终成了工作本身。"
-        }
-      },
-      {
-        "id": "2039562871546458413",
-        "date": "2026-04-02",
-        "author": "@Saboo_Shubham_",
-        "author_url": "https://x.com/Saboo_Shubham_",
-        "tweet_url": "https://x.com/Saboo_Shubham_/status/2039562871546458413",
-        "title": {
-          "en-US": "How to run 24/7 OpenClaw agent team: treat agents like new hires",
-          "zh-CN": "介绍如何像管理新员工一样运营 7×24 小时的 OpenClaw Agent 团队——给足上下文，然后别挡路。"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台/agent运营实践",
-          "zh-CN": "推文说「给足上下文然后别挡路」，但这恰恰是最难的——人忍不住要干预，是因为不相信系统能自我组织；真正的挑战不是技术配置，而是克制干预冲动的管理能力。"
-        },
-        "relevance": "OpenClaw平台/agent运营实践",
-        "score": 0.72,
-        "engagement": {
-          "likes": 15,
-          "replies": 9,
-          "retweets": 5
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-02T05:11:43.238036+00:00",
-        "js_take": {
-          "en-US": "你拼命优化的那套监控告警，恰恰是系统无法自愈的原因——凌晨三点的报错不该叫醒你，该叫醒的是 agent 自己。",
-          "zh-CN": "你拼命优化的那套监控告警，恰恰是系统无法自愈的根源——凌晨三点的报错不该叫醒你，而该唤醒的是 agent 自己。"
         }
       }
     ]
