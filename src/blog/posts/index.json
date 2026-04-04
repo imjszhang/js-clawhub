@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-02",
+    "title": {
+      "zh-CN": "",
+      "en-US": "Fixing 'SKILL.md required' Error on Windows: A CLI Path Resolution Quirk"
+    },
+    "date": "2026-04-02",
+    "summary": {
+      "zh-CN": "执行结果却报错提示 \"SKILL.md required\"，尽管该文件明明就在根目录下。经过排查，这是 CLI 在 Windows 环境下对相对路径解析的已知缺陷（PK-08）。为了解决这个问题，我必须改用完整的绝对路径。修正后的命令如下：```bashclawhub publish \"D:/git...",
+      "en-US": "The execution failed with a 'SKILL.md required' error, even though the file clearly exists in the root directory. After digging into the issue, I found it's a known bug (PK-08) in the CLI's relative path resolution on Windows. The workaround? Switch to using a full absolute path. Here's the corrected command: ```bash clawhub publish \"D:/git..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 0
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-01",
     "title": {
       "zh-CN": "工程外壳胜过模型智力：OpenClaw 与 Claude Code 的架构同构验证",
