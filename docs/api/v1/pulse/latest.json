@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-04T02:17:16.677766+00:00",
+  "updated_at": "2026-04-04T03:17:21.962855+00:00",
   "this_week": {
-    "total_items": 66,
-    "avg_score": 0.76,
-    "unique_authors": 55,
+    "total_items": 68,
+    "avg_score": 0.77,
+    "unique_authors": 57,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -225,6 +225,34 @@
         "js_take": {
           "en-US": "Strip the drama — this is just unit economics waking up. $200 plan subsidizing $5K usage was a customer acquisition strategy, not a constitutional right. The real story? They ran the numbers.",
           "zh-CN": "别演戏了——这只是单位经济在觉醒。200美元套餐补贴5000美元用量，那是获客策略，不是天赋人权。真相？他们算了笔账。"
+        }
+      },
+      {
+        "id": "2040226358517751953",
+        "date": "2026-04-04",
+        "author": "@NetworkChuck",
+        "author_url": "https://x.com/NetworkChuck",
+        "tweet_url": "https://x.com/NetworkChuck/status/2040226358517751953",
+        "title": {
+          "en-US": "Anthropic says NO MORE OpenClaw, cutting off starting April 4th",
+          "zh-CN": "Anthropic宣布从4月4日起正式切断对OpenClaw的支持"
+        },
+        "summary": {
+          "en-US": "OpenClaw平台政策变化，直接影响Agent开发者生态",
+          "zh-CN": "大厂封禁API不是技术问题，是生态位风险——依赖单一平台的高生态位，在规则突变时崩塌最快。真正的稳定不是找更大的平台，而是降低对任何单一法则的依赖。"
+        },
+        "relevance": "OpenClaw平台政策变化，直接影响Agent开发者生态",
+        "score": 0.82,
+        "engagement": {
+          "likes": 417,
+          "replies": 82,
+          "retweets": 41
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-04-04T03:16:58.685510+00:00",
+        "js_take": {
+          "en-US": "Not OpenClaw users who get hurt — it's anyone who bet their entire workflow on one platform. High ground, one rule change away from collapse.",
+          "zh-CN": "受伤的并非 OpenClaw 用户，而是那些将整个工作流押注在单一平台上的人。身处高地，离崩塌只差一次规则变动。"
         }
       },
       {
@@ -985,34 +1013,6 @@
         "js_take": {
           "en-US": "More tools, lazier judgment. When you cover every scenario with 30 tools, you've stopped asking \"should this even be done?\" Less isn't empty space — it's room for judgment to breathe.",
           "zh-CN": "工具越多，判断越懒。当你用30个工具覆盖所有场景时，你已经不再问「这事该不该做」。少不是空白——而是给判断留的呼吸空间。"
-        }
-      },
-      {
-        "id": "2038501107098689540",
-        "date": "2026-03-30",
-        "author": "@Scobleizer",
-        "author_url": "https://x.com/Scobleizer",
-        "tweet_url": "https://x.com/Scobleizer/status/2038501107098689540",
-        "title": {
-          "en-US": "AI training \"hands off\" — AI improves itself all night long, increased speed many times.",
-          "zh-CN": "研究人员让 AI 训练「放手不管」，AI 自己整夜自我改进，速度提升数倍"
-        },
-        "summary": {
-          "en-US": "AI Agent 自主进化 / OpenClaw 自改进",
-          "zh-CN": "「放手让 AI 自己优化」听起来像无为而治的胜利，但真正的考验不是速度提升多少倍，而是：当 AI 凌晨三点做了一个你早上看不懂的决策时，你有没有能力判断它是突破还是跑偏。"
-        },
-        "relevance": "AI Agent 自主进化 / OpenClaw 自改进",
-        "score": 0.75,
-        "engagement": {
-          "likes": 22,
-          "replies": 5,
-          "retweets": 4
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-30T07:20:14.545490+00:00",
-        "js_take": {
-          "en-US": "Speed is easy. Stopping is hard. The test isn't how fast it improves — it's whether you catch the 3am decision that doesn't make sense by morning.",
-          "zh-CN": "加速容易，刹车难。真正的考验不在于它迭代得多快，而在于你是否能揪出那些凌晨3点拍脑袋、天亮后就后悔的决策。"
         }
       }
     ]

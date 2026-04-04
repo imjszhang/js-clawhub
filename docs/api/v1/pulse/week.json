@@ -84,6 +84,34 @@
     }
   },
   {
+    "id": "2040226358517751953",
+    "date": "2026-04-04",
+    "author": "@NetworkChuck",
+    "author_url": "https://x.com/NetworkChuck",
+    "tweet_url": "https://x.com/NetworkChuck/status/2040226358517751953",
+    "title": {
+      "en-US": "Anthropic says NO MORE OpenClaw, cutting off starting April 4th",
+      "zh-CN": "Anthropic宣布从4月4日起正式切断对OpenClaw的支持"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台政策变化，直接影响Agent开发者生态",
+      "zh-CN": "大厂封禁API不是技术问题，是生态位风险——依赖单一平台的高生态位，在规则突变时崩塌最快。真正的稳定不是找更大的平台，而是降低对任何单一法则的依赖。"
+    },
+    "relevance": "OpenClaw平台政策变化，直接影响Agent开发者生态",
+    "score": 0.82,
+    "engagement": {
+      "likes": 417,
+      "replies": 82,
+      "retweets": 41
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-04T03:16:58.685510+00:00",
+    "js_take": {
+      "en-US": "Not OpenClaw users who get hurt — it's anyone who bet their entire workflow on one platform. High ground, one rule change away from collapse.",
+      "zh-CN": "受伤的并非 OpenClaw 用户，而是那些将整个工作流押注在单一平台上的人。身处高地，离崩塌只差一次规则变动。"
+    }
+  },
+  {
     "id": "2040239470604349582",
     "date": "2026-04-04",
     "author": "@AlexFinn",
@@ -193,6 +221,34 @@
     "js_take": {
       "en-US": "Every 'unlimited' plan has a hidden line between 'heavy user' and 'infrastructure host.' Anthropic just drew it. The $200→$5000 gap wasn't generosity — it was a promotional subsidy with an expiration date.",
       "zh-CN": "每个「无限」套餐都有条隐线，区分「重度用户」和「基础设施托管」。Anthropic只是把它画出来了。200到5000美元的价差不是慷慨——那是限时促销补贴，迟早到期。"
+    }
+  },
+  {
+    "id": "2040211429588902227",
+    "date": "2026-04-04",
+    "author": "@traversymedia",
+    "author_url": "https://x.com/traversymedia",
+    "tweet_url": "https://x.com/traversymedia/status/2040211429588902227",
+    "title": {
+      "en-US": "AI is amazing but starts feeling like outsourcing my own thinking",
+      "zh-CN": "AI很神奇，但开始感觉像是在外包自己的思考能力，既酷又可怕"
+    },
+    "summary": {
+      "en-US": "OpenClaw使用反思，AI与思维自主性的边界",
+      "zh-CN": "真正的危险不是AI代替你思考，而是你停止练习判断什么值得思考。工具的价值在于释放注意力，但注意力投向哪里，必须是你亲手做的决定。"
+    },
+    "relevance": "OpenClaw使用反思，AI与思维自主性的边界",
+    "score": 0.75,
+    "engagement": {
+      "likes": 99,
+      "replies": 16,
+      "retweets": 6
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-04T03:16:58.685515+00:00",
+    "js_take": {
+      "en-US": "The real decay isn't outsourcing thinking — it's losing the muscle to decide what's worth thinking about.",
+      "zh-CN": "真正的退化不是把思考外包出去，而是失去判断「什么值得思考」的能力。"
     }
   },
   {
