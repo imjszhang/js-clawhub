@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-03T22:14:12.213523+00:00",
+  "updated_at": "2026-04-03T23:13:12.320749+00:00",
   "this_week": {
-    "total_items": 59,
+    "total_items": 60,
     "avg_score": 0.76,
     "unique_authors": 52,
     "top_items": [
@@ -391,6 +391,34 @@
         },
         "comment_type": "wuwei_provoke",
         "synced_at": "2026-03-30T08:10:18.807205+00:00"
+      },
+      {
+        "id": "2040158275186905295",
+        "date": "2026-04-04",
+        "author": "@ryancarson",
+        "author_url": "https://x.com/ryancarson",
+        "tweet_url": "https://x.com/ryancarson/status/2040158275186905295",
+        "title": {
+          "en-US": "Open sourced all .md files to supercharge OpenClaw into a world-class Chief of Staff",
+          "zh-CN": "Ryan Carson 开源了他用来将 OpenClaw 打造成世界级首席幕僚的所有 Markdown 配置文件"
+        },
+        "summary": {
+          "en-US": "直接涉及 OpenClaw 配置与 AI Agent 工程实践",
+          "zh-CN": "开源配置文件的思路是用「工具」思维解决问题，但真正的 Chief of Staff 需要的不是更多工具，而是「何时不干预」的判断力——文件越多，决策噪音越大。"
+        },
+        "relevance": "直接涉及 OpenClaw 配置与 AI Agent 工程实践",
+        "score": 0.78,
+        "engagement": {
+          "likes": 71,
+          "replies": 7,
+          "retweets": 1
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-04-03T23:12:33.819855+00:00",
+        "js_take": {
+          "en-US": "4000 saves on your .md drop, but the best Chief of Staff agents run on 3 files and a human who knows when to veto.",
+          "zh-CN": "存了4000版的.md文件，不如3个精简文档配一个懂得否决的人"
+        }
       },
       {
         "id": "2039787387996262574",
@@ -986,39 +1014,11 @@
           "en-US": "Optimized my agent's memory stack for a month. Found out 90% of 'retrieved context' was noise I should've filtered, not stored. You don't need better RAG—you need better forgetting.",
           "zh-CN": "花了一个月优化Agent的记忆栈。发现90%的「检索上下文」其实都是本该过滤掉的噪音，而非需要存储的内容。你不需要更好的RAG——你需要的是更好的「遗忘」。"
         }
-      },
-      {
-        "id": "2040169462918504564",
-        "date": "2026-04-04",
-        "author": "@AlexFinn",
-        "author_url": "https://x.com/AlexFinn",
-        "tweet_url": "https://x.com/AlexFinn/status/2040169462918504564",
-        "title": {
-          "en-US": "OpenClaw is the most important software release of our lifetimes",
-          "zh-CN": "认为 OpenClaw 是我们这个时代最重要的软件发布"
-        },
-        "summary": {
-          "en-US": "OpenClaw 平台重要性讨论",
-          "zh-CN": "把 OpenClaw 捧为「最重要发布」是一种过度简化——真正重要的是它开启的范式转移，而不是工具本身。"
-        },
-        "relevance": "OpenClaw 平台重要性讨论",
-        "score": 0.72,
-        "engagement": {
-          "likes": 218,
-          "replies": 81,
-          "retweets": 6
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-04-03T22:13:37.013430+00:00",
-        "js_take": {
-          "en-US": "Tools don't matter. The shift does — surface world becoming database, inner world becoming interface. OpenClaw just made it visible first.",
-          "zh-CN": "工具本身无关紧要。真正的变革在于——表世界正退变为数据库，里世界则升维为新界面。OpenClaw 只是率先让这一切清晰可见。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 152
+    "unique_authors": 151
   }
 }

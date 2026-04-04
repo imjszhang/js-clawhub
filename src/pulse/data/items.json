@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2040158275186905295",
+    "date": "2026-04-04",
+    "author": "@ryancarson",
+    "author_url": "https://x.com/ryancarson",
+    "tweet_url": "https://x.com/ryancarson/status/2040158275186905295",
+    "title": {
+      "en-US": "Open sourced all .md files to supercharge OpenClaw into a world-class Chief of Staff",
+      "zh-CN": "Ryan Carson 开源了他用来将 OpenClaw 打造成世界级首席幕僚的所有 Markdown 配置文件"
+    },
+    "summary": {
+      "en-US": "直接涉及 OpenClaw 配置与 AI Agent 工程实践",
+      "zh-CN": "开源配置文件的思路是用「工具」思维解决问题，但真正的 Chief of Staff 需要的不是更多工具，而是「何时不干预」的判断力——文件越多，决策噪音越大。"
+    },
+    "relevance": "直接涉及 OpenClaw 配置与 AI Agent 工程实践",
+    "score": 0.78,
+    "engagement": {
+      "likes": 71,
+      "replies": 7,
+      "retweets": 1
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-03T23:12:33.819855+00:00",
+    "js_take": {
+      "en-US": "4000 saves on your .md drop, but the best Chief of Staff agents run on 3 files and a human who knows when to veto.",
+      "zh-CN": "存了4000版的.md文件，不如3个精简文档配一个懂得否决的人"
+    }
+  },
+  {
     "id": "2040112195162542192",
     "date": "2026-04-04",
     "author": "@thekitze",
@@ -5657,34 +5685,6 @@
     "js_take": {
       "en-US": "Remote Codex is just moving the IDE to cloud. Real shift: Agent becomes the OS, your local tools become disposable projections. Five years from now, you'll wonder why you cared about remote execution at all.",
       "zh-CN": "远程 Codex 不过是把 IDE 搬到云上。真正的变革是：Agent 将成为操作系统，你本地的工具只是可随时丢弃的投影。五年后你会奇怪，当初为何如此执着于远程执行这件事。"
-    }
-  },
-  {
-    "id": "2035114152960958758",
-    "date": "2026-03-21",
-    "author": "@punk9059",
-    "author_url": "https://x.com/punk9059",
-    "tweet_url": "https://x.com/punk9059/status/2035114152960958758",
-    "title": {
-      "en-US": "Is OpenClaw only big because people love saying their 8 agents worked while they slept?",
-      "zh-CN": "炫耀者离场，系统构建者留下"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent 运营文化",
-      "zh-CN": "这个问题本身揭示了互联网产品的经典陷阱——用户炫耀的不是工具的价值，而是自己\"拥有工具\"的身份；但真正的增长来自沉默的大多数，他们只是用而不说。"
-    },
-    "relevance": "OpenClaw / Agent 运营文化",
-    "score": 0.82,
-    "engagement": {
-      "likes": 30,
-      "replies": 25,
-      "retweets": 0
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-21T00:08:55.916915+00:00",
-    "js_take": {
-      "en-US": "Every platform starts with people flexing they 'have' the tool. Real growth comes from those who use it silently — when the show-offs leave, the system builders remain.",
-      "zh-CN": "每个平台起步时，总有人在炫耀自己'有了'这个工具。但真正的增长来自那些埋头使用的人——当炫耀者离场，留下的是系统构建者。"
     }
   }
 ]
