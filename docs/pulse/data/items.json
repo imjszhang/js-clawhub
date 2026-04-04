@@ -1,5 +1,33 @@
 [
   {
+    "id": "2040212465141588306",
+    "date": "2026-04-04",
+    "author": "@jumperz",
+    "author_url": "https://x.com/jumperz",
+    "tweet_url": "https://x.com/jumperz/status/2040212465141588306",
+    "title": {
+      "en-US": "Anthropic ban OpenClaw: you built too well, so you're banned",
+      "zh-CN": "Anthropic 封禁 OpenClaw：做得太好，所以被封"
+    },
+    "summary": {
+      "en-US": "Anthropic/OpenClaw 平台治理争议",
+      "zh-CN": "推文的讽刺点出了中心化平台的核心悖论——当用户的使用强度超出提供者的预期和控制能力，'成功'反而成为被惩罚的理由。这不是商业决策失误，而是中心化架构的结构性缺陷：你无法在保留控制权的同时允许真正的创新，因为真正的创新必然产生超出你预期的使用方式。"
+    },
+    "relevance": "Anthropic/OpenClaw 平台治理争议",
+    "score": 0.9,
+    "engagement": {
+      "likes": 426,
+      "replies": 66,
+      "retweets": 18
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-04T02:16:38.422372+00:00",
+    "js_take": {
+      "en-US": "Anthropic built a wall, OpenClaw built ladders. Response: reinforce wall, not question it. The unspoken truth: they want 'controllable open source.' But that's the paradox — open source only works when it exceeds control.",
+      "zh-CN": "Anthropic 筑墙，OpenClaw 造梯。回应却是加固围墙，而非质疑围墙本身。未明说的真相：他们要的是「可控的开源」。但这正是悖论所在——开源只有在超越控制时才成立。"
+    }
+  },
+  {
     "id": "2040068460475195650",
     "date": "2026-04-04",
     "author": "@garrytan",
@@ -28,6 +56,62 @@
     }
   },
   {
+    "id": "2040207453250617682",
+    "date": "2026-04-04",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2040207453250617682",
+    "title": {
+      "en-US": "It's over. Officially. No more Claude in OpenClaw.",
+      "zh-CN": "Matthew Berman 宣布 Anthropic 正式禁止在 OpenClaw 中使用 Claude，用「结束了」表达强烈不满"
+    },
+    "summary": {
+      "en-US": "OpenClaw被禁事件，AI Agent平台与模型供应商的利益冲突",
+      "zh-CN": "Anthropic 不是在封杀工具，而是在收回被过度补贴的算力——$200 月费扛不住 $5000 用量，这是商业法则的自然修正，不是态度问题。"
+    },
+    "relevance": "OpenClaw被禁事件，AI Agent平台与模型供应商的利益冲突",
+    "score": 0.82,
+    "engagement": {
+      "likes": 243,
+      "replies": 89,
+      "retweets": 18
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-04T01:12:02.869899+00:00",
+    "js_take": {
+      "en-US": "Strip the drama — this is just unit economics waking up. $200 plan subsidizing $5K usage was a customer acquisition strategy, not a constitutional right. The real story? They ran the numbers.",
+      "zh-CN": "别演戏了——这只是单位经济在觉醒。200美元套餐补贴5000美元用量，那是获客策略，不是天赋人权。真相？他们算了笔账。"
+    }
+  },
+  {
+    "id": "2040239470604349582",
+    "date": "2026-04-04",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2040239470604349582",
+    "title": {
+      "en-US": "Anthropic banned OpenClaw. Open source needs to win.",
+      "zh-CN": "Anthropic 封禁 OpenClaw，开源必须赢"
+    },
+    "summary": {
+      "en-US": "OpenClaw 与开源生态",
+      "zh-CN": "推文的三个观点都正确，但都停留在现象层面。开源之所以能对抗平台封禁，不是因为它'更开放'，而是因为它改变了权力结构——当代码在所有人手中，没有单一实体能重新定义规则。这比'开源是好的'深刻一层：开源的本质是权力分散，而权力分散是应对规则变化的唯一保险。"
+    },
+    "relevance": "OpenClaw 与开源生态",
+    "score": 0.8,
+    "engagement": {
+      "likes": 360,
+      "retweets": 27,
+      "replies": 103
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-04T02:16:38.422377+00:00",
+    "js_take": {
+      "en-US": "Open source isn't ethics. It's architecture. Build on rented land, they own the gates. Make it a public square — you can be removed, but the square remains. Ban isn't malice. It's inevitability.",
+      "zh-CN": "开源不是伦理，是架构。在租来的土地上建房，他们掌握大门。把它变成公共广场——你可以被驱逐，但广场永存。封禁不是恶意，是必然。"
+    }
+  },
+  {
     "id": "2040158275186905295",
     "date": "2026-04-04",
     "author": "@ryancarson",
@@ -53,6 +137,62 @@
     "js_take": {
       "en-US": "4000 saves on your .md drop, but the best Chief of Staff agents run on 3 files and a human who knows when to veto.",
       "zh-CN": "存了4000版的.md文件，不如3个精简文档配一个懂得否决的人"
+    }
+  },
+  {
+    "id": "2040211360156700843",
+    "date": "2026-04-04",
+    "author": "@kloss_xyz",
+    "author_url": "https://x.com/kloss_xyz",
+    "tweet_url": "https://x.com/kloss_xyz/status/2040211360156700843",
+    "title": {
+      "en-US": "Anthropic sent email: subscription limits no longer for third-party tools like OpenClaw",
+      "zh-CN": "klöss 报道 Anthropic 发邮件通知用户，订阅额度不再支持 OpenClaw 等第三方工具"
+    },
+    "summary": {
+      "en-US": "OpenClaw被禁事件，AI订阅商业模式变化",
+      "zh-CN": "把「无限订阅」当作无限算力来用的时代结束了——Anthropic 这次划清了「个人使用」和「基础设施托管」的边界，后者本该按量付费。"
+    },
+    "relevance": "OpenClaw被禁事件，AI订阅商业模式变化",
+    "score": 0.78,
+    "engagement": {
+      "likes": 90,
+      "replies": 10,
+      "retweets": 8
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-04T01:12:02.869904+00:00",
+    "js_take": {
+      "en-US": "Home broadband doesn't cover data center workloads. Same principle. $200 'unlimited' was always for human-scale usage — running 24/7 agent clusters through it was a pricing arbitrage, not a feature.",
+      "zh-CN": "家用宽带不包数据中心负载，一个道理。200美元「无限」套餐本就是给人用的——24小时跑Agent集群那是在套利，不是功能。"
+    }
+  },
+  {
+    "id": "2040209796046155845",
+    "date": "2026-04-04",
+    "author": "@Yuchenj_UW",
+    "author_url": "https://x.com/Yuchenj_UW",
+    "tweet_url": "https://x.com/Yuchenj_UW/status/2040209796046155845",
+    "title": {
+      "en-US": "Claude cutting off apps like OpenClaw. $200/month plan can use up to $5,000 compute, heavily subsidized.",
+      "zh-CN": "Yuchen Jin 分析 Anthropic 切断 OpenClaw 的原因：$200月费计划实际消耗可达$5000算力，补贴过重"
+    },
+    "summary": {
+      "en-US": "OpenClaw被禁事件背后的商业逻辑，AI算力补贴模式",
+      "zh-CN": "当「慷慨」被系统性套利时，撤回不是变坏，而是止损。$200 换 $5000 的定价从一开始就是不可持续的获客手段，不是常态。"
+    },
+    "relevance": "OpenClaw被禁事件背后的商业逻辑，AI算力补贴模式",
+    "score": 0.76,
+    "engagement": {
+      "likes": 277,
+      "replies": 31,
+      "retweets": 8
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-04T01:12:02.869907+00:00",
+    "js_take": {
+      "en-US": "Every 'unlimited' plan has a hidden line between 'heavy user' and 'infrastructure host.' Anthropic just drew it. The $200→$5000 gap wasn't generosity — it was a promotional subsidy with an expiration date.",
+      "zh-CN": "每个「无限」套餐都有条隐线，区分「重度用户」和「基础设施托管」。Anthropic只是把它画出来了。200到5000美元的价差不是慷慨——那是限时促销补贴，迟早到期。"
     }
   },
   {
@@ -165,6 +305,34 @@
     "js_take": {
       "en-US": "Built 17 cron jobs last quarter. The one that failed? I saw it in the flow view 4 hours before it broke. Seeing state beats running tasks—every time.",
       "zh-CN": "上季度建了 17 个定时任务。唯一出问题的那个，我在它崩溃前 4 小时就从流程视图里察觉了。看见状态，胜过盲目运行——每一次都是。"
+    }
+  },
+  {
+    "id": "2040206713866084556",
+    "date": "2026-04-04",
+    "author": "@Scobleizer",
+    "author_url": "https://x.com/Scobleizer",
+    "tweet_url": "https://x.com/Scobleizer/status/2040206713866084556",
+    "title": {
+      "en-US": "Anthropic banning the Claw. Open Source models running locally is the way.",
+      "zh-CN": "Scoble 批评 Anthropic 禁止 OpenClaw，宣称本地开源模型才是出路"
+    },
+    "summary": {
+      "en-US": "OpenClaw被禁事件，开源vs闭源Agent基础设施",
+      "zh-CN": "把「禁止套利」等同于「封闭」，把「本地开源」当作「自由」——这种非黑即白的判断忽略了真正的问题：谁为算力买单？"
+    },
+    "relevance": "OpenClaw被禁事件，开源vs闭源Agent基础设施",
+    "score": 0.71,
+    "engagement": {
+      "likes": 248,
+      "replies": 48,
+      "retweets": 18
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-04T01:12:02.869908+00:00",
+    "js_take": {
+      "en-US": "Local open source shifts the cost to your GPU and electricity bill — someone still pays. The issue isn't 'closed vs open,' it's who funds the compute when usage explodes.",
+      "zh-CN": "本地开源把成本转嫁给你的GPU和电费——总要有人买单。问题不是「封闭vs开放」，而是用量爆掉时，谁来扛算力成本。"
     }
   },
   {
@@ -5514,177 +5682,5 @@
     },
     "comment_type": "tao_reframe",
     "synced_at": "2026-03-22T00:15:38.125309+00:00"
-  },
-  {
-    "id": "2035551974947692746",
-    "date": "2026-03-22",
-    "author": "@xiaohu",
-    "author_url": "https://x.com/xiaohu",
-    "tweet_url": "https://x.com/xiaohu/status/2035551974947692746",
-    "title": {
-      "en-US": "WeChat officially supports OpenClaw integration via plugin",
-      "zh-CN": "微信全面支持OpenClaw接入，用户可在插件页面一键将OpenClaw作为联系人接入微信直接对话"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态扩展，表世界（微信）与里世界（Agent）融合的关键节点",
-      "zh-CN": "大家只看到「微信接入了OpenClaw」这个功能，没意识到这是表世界（IM）向里世界（Agent）迁徙的标志性事件——用户不再需要打开App，而是直接对Agent说话。"
-    },
-    "relevance": "OpenClaw生态扩展，表世界（微信）与里世界（Agent）融合的关键节点",
-    "score": 0.72,
-    "engagement": {
-      "likes": 28,
-      "retweets": 4,
-      "replies": 23,
-      "views": 9228,
-      "bookmarks": 16
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-22T04:13:46.327001+00:00",
-    "js_take": {
-      "en-US": "Users don't open apps anymore. They talk to agents. WeChat just admitted the surface world is now a database — the real interface has moved to the inner world.",
-      "zh-CN": "用户不再打开应用，而是直接与智能体对话。微信刚刚承认：表层世界已沦为数据库，真正的交互界面正在向里世界迁移。"
-    }
-  },
-  {
-    "id": "2035582490036113565",
-    "date": "2026-03-22",
-    "author": "@rohanpaul_ai",
-    "author_url": "https://x.com/rohanpaul_ai",
-    "tweet_url": "https://x.com/rohanpaul_ai/status/2035582490036113565",
-    "title": {
-      "en-US": "OpenClaw makes video through Seedance 2, imports into Premiere Pro, edits automatically",
-      "zh-CN": "有人搭建了一个很丝滑的自动化流程：OpenClaw生成视频→导入Premiere Pro→自动剪辑，全程无人干预"
-    },
-    "summary": {
-      "en-US": "OpenClaw自动化工作流，展示Agent如何实现端到端内容生产",
-      "zh-CN": "现在人人都在晒「Agent能做什么」，但真正的分水岭不是功能清单，而是谁能让Agent在真实工具链里闭环运行——从生成到交付，不需要人填缝。这条推演示的正是后者。"
-    },
-    "relevance": "OpenClaw自动化工作流，展示Agent如何实现端到端内容生产",
-    "score": 0.72,
-    "engagement": {
-      "likes": 117,
-      "replies": 15,
-      "retweets": 20
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-22T09:10:07.909428+00:00",
-    "js_take": {
-      "en-US": "Surface world demo: \"Look what my agent can do.\" Inner world reality: \"My agent just shipped while I slept.\" The gap isn't features—it's finishing.",
-      "zh-CN": "表世界的演示：「看我的 Agent 有多厉害。」里世界的真相：「我睡觉时，它已经自动交付了。」真正的差距不在于功能多少——而在于能否真正完成交付。"
-    }
-  },
-  {
-    "id": "2035441487203484103",
-    "date": "2026-03-22",
-    "author": "@Austen",
-    "author_url": "https://x.com/Austen",
-    "tweet_url": "https://x.com/Austen/status/2035441487203484103",
-    "title": {
-      "en-US": "Biggest reason OpenClaw took off is you could actually do stuff with it. Claude building tools but everything is built with kid gloves",
-      "zh-CN": "OpenClaw成功的原因是你真的可以用它做出东西，而Claude虽然在建设工具但一切都做得过于保守谨慎"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台能力与开发者体验",
-      "zh-CN": "\"能做事\"和\"好用\"的鸿沟在于——前者给的是可能性空间，后者给的是确定性答案；当技术还在快速演化时，可能性比确定性更有价值（更深度）"
-    },
-    "relevance": "OpenClaw平台能力与开发者体验",
-    "score": 0.71,
-    "engagement": {
-      "likes": 70,
-      "replies": 25,
-      "retweets": 3,
-      "views": 5236,
-      "bookmarks": 11
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-21T21:10:01.274908+00:00",
-    "js_take": {
-      "en-US": "OpenClaw ships possibilities; Claude ships certainties. In the migration from surface to inner world, growth beats polish.",
-      "zh-CN": "OpenClaw 交付可能性，Claude 交付确定性。表世界向里世界的迁徙中，成长优于打磨。"
-    }
-  },
-  {
-    "id": "2035641728640889244",
-    "date": "2026-03-22",
-    "author": "@NFTCPS",
-    "author_url": "https://x.com/NFTCPS",
-    "tweet_url": "https://x.com/NFTCPS/status/2035641728640889244",
-    "title": {
-      "en-US": "Tested 300+ OpenClaw skills, 90% are useless, only 10 core ones matter",
-      "zh-CN": "测试了300多个 OpenClaw 技能，90%是花架子，真正值得装的只有10个核心"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Agent 技能市场",
-      "zh-CN": "这条推文戳破了一个幻觉：技能数量≠生态健康。当所有人都在造新技能时，真正稀缺的是「少即是多」的筛选能力。这是典型的过度供给导致指标通胀。"
-    },
-    "relevance": "OpenClaw / Agent 技能市场",
-    "score": 0.71,
-    "engagement": {
-      "likes": 18,
-      "retweets": 6,
-      "replies": 2
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-22T10:08:30.008950+00:00",
-    "js_take": {
-      "en-US": "Tested 300+, built 3. The 90% aren't tools—they're noise. When everyone's shipping skills, the scarce resource is knowing which 10 to keep.",
-      "zh-CN": "测了300+，只建了3个。那90%不是工具，是噪音。人人都在发布技能时，稀缺的不是技能，而是判断该留哪10%的眼光。"
-    }
-  },
-  {
-    "id": "2035346756255220190",
-    "date": "2026-03-22",
-    "author": "@AndrewAsksHow",
-    "author_url": "https://x.com/AndrewAsksHow",
-    "tweet_url": "https://x.com/AndrewAsksHow/status/2035346756255220190",
-    "title": {
-      "en-US": "People regret buying Apple mini for OpenClaw. Bought into hype cycle.",
-      "zh-CN": "有人后悔买了 Mac Mini 跑 OpenClaw，几周就后悔——他们又一次陷入炒作周期。Claude 现在 20 美元/月就能做同样的事。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 炒作 vs 现实 / 本地 agent 成本争议",
-      "zh-CN": "做纠正：把「后悔」归因到认知错位——问题不是 OpenClaw 或 Claude Code 哪个更好，是用户把「拥有本地 agent」当成了目的本身，而不是达成某种自主性的手段。"
-    },
-    "relevance": "OpenClaw 炒作 vs 现实 / 本地 agent 成本争议",
-    "score": 0.7,
-    "engagement": {
-      "likes": 172,
-      "replies": 90,
-      "retweets": 4
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-22T02:10:02.126626+00:00",
-    "js_take": {
-      "en-US": "The regret isn't picking the wrong tool. It's treating 'owning a local agent' as the goal itself. Without knowing what autonomy you actually need, $20 Claude or $2000 Mac Mini—both disappoint.",
-      "zh-CN": "真正的遗憾并非选错了工具，而是将'拥有本地 Agent'本身当作目标。若不清楚自己究竟需要何种自主性，20 美元的 Claude 和 2000 美元的 Mac Mini 一样会让你失望。"
-    }
-  },
-  {
-    "id": "2035169635033915537",
-    "date": "2026-03-21",
-    "author": "@robinebers",
-    "author_url": "https://x.com/robinebers",
-    "tweet_url": "https://x.com/robinebers/status/2035169635033915537",
-    "title": {
-      "en-US": "Codex beta now runs on remote machines like private cloud agent",
-      "zh-CN": "Codex beta 支持远程运行，迈向私有云 Agent 架构"
-    },
-    "summary": {
-      "en-US": "直接涉及 AI Agent 的远程执行架构，与 OpenClaw 的核心理念高度相关",
-      "zh-CN": "直击 AI Agent 远程执行架构，与 OpenClaw 核心理念高度契合"
-    },
-    "relevance": "直接涉及 AI Agent 的远程执行架构，与 OpenClaw 的核心理念高度相关",
-    "score": 0.98,
-    "engagement": {
-      "likes": 328,
-      "replies": 19,
-      "retweets": 11
-    },
-    "comment_type": "biaoli_insight",
-    "synced_at": "2026-03-21T09:10:02.065249+00:00",
-    "js_take": {
-      "en-US": "Remote Codex is just moving the IDE to cloud. Real shift: Agent becomes the OS, your local tools become disposable projections. Five years from now, you'll wonder why you cared about remote execution at all.",
-      "zh-CN": "远程 Codex 不过是把 IDE 搬到云上。真正的变革是：Agent 将成为操作系统，你本地的工具只是可随时丢弃的投影。五年后你会奇怪，当初为何如此执着于远程执行这件事。"
-    }
   }
 ]

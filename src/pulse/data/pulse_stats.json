@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-03T23:13:12.320749+00:00",
+  "updated_at": "2026-04-04T02:17:16.677766+00:00",
   "this_week": {
-    "total_items": 60,
+    "total_items": 66,
     "avg_score": 0.76,
-    "unique_authors": 52,
+    "unique_authors": 55,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -28,6 +28,34 @@
         },
         "comment_type": "tao_reframe",
         "synced_at": "2026-03-31T16:21:47.482948+00:00"
+      },
+      {
+        "id": "2040212465141588306",
+        "date": "2026-04-04",
+        "author": "@jumperz",
+        "author_url": "https://x.com/jumperz",
+        "tweet_url": "https://x.com/jumperz/status/2040212465141588306",
+        "title": {
+          "en-US": "Anthropic ban OpenClaw: you built too well, so you're banned",
+          "zh-CN": "Anthropic 封禁 OpenClaw：做得太好，所以被封"
+        },
+        "summary": {
+          "en-US": "Anthropic/OpenClaw 平台治理争议",
+          "zh-CN": "推文的讽刺点出了中心化平台的核心悖论——当用户的使用强度超出提供者的预期和控制能力，'成功'反而成为被惩罚的理由。这不是商业决策失误，而是中心化架构的结构性缺陷：你无法在保留控制权的同时允许真正的创新，因为真正的创新必然产生超出你预期的使用方式。"
+        },
+        "relevance": "Anthropic/OpenClaw 平台治理争议",
+        "score": 0.9,
+        "engagement": {
+          "likes": 426,
+          "replies": 66,
+          "retweets": 18
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-04-04T02:16:38.422372+00:00",
+        "js_take": {
+          "en-US": "Anthropic built a wall, OpenClaw built ladders. Response: reinforce wall, not question it. The unspoken truth: they want 'controllable open source.' But that's the paradox — open source only works when it exceeds control.",
+          "zh-CN": "Anthropic 筑墙，OpenClaw 造梯。回应却是加固围墙，而非质疑围墙本身。未明说的真相：他们要的是「可控的开源」。但这正是悖论所在——开源只有在超越控制时才成立。"
+        }
       },
       {
         "id": "2039707154371018930",
@@ -169,6 +197,34 @@
         "js_take": {
           "en-US": "$5B CEOs don't run on hype. They run on what works. The best product marketing isn't a campaign — it's a CEO's daily workflow.",
           "zh-CN": "500亿市值的CEO不靠 hype 驱动。他们只认实效。最牛的产品营销不是一场campaign——而是CEO日常的工作流。"
+        }
+      },
+      {
+        "id": "2040207453250617682",
+        "date": "2026-04-04",
+        "author": "@MatthewBerman",
+        "author_url": "https://x.com/MatthewBerman",
+        "tweet_url": "https://x.com/MatthewBerman/status/2040207453250617682",
+        "title": {
+          "en-US": "It's over. Officially. No more Claude in OpenClaw.",
+          "zh-CN": "Matthew Berman 宣布 Anthropic 正式禁止在 OpenClaw 中使用 Claude，用「结束了」表达强烈不满"
+        },
+        "summary": {
+          "en-US": "OpenClaw被禁事件，AI Agent平台与模型供应商的利益冲突",
+          "zh-CN": "Anthropic 不是在封杀工具，而是在收回被过度补贴的算力——$200 月费扛不住 $5000 用量，这是商业法则的自然修正，不是态度问题。"
+        },
+        "relevance": "OpenClaw被禁事件，AI Agent平台与模型供应商的利益冲突",
+        "score": 0.82,
+        "engagement": {
+          "likes": 243,
+          "replies": 89,
+          "retweets": 18
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-04-04T01:12:02.869899+00:00",
+        "js_take": {
+          "en-US": "Strip the drama — this is just unit economics waking up. $200 plan subsidizing $5K usage was a customer acquisition strategy, not a constitutional right. The real story? They ran the numbers.",
+          "zh-CN": "别演戏了——这只是单位经济在觉醒。200美元套餐补贴5000美元用量，那是获客策略，不是天赋人权。真相？他们算了笔账。"
         }
       },
       {
@@ -393,6 +449,34 @@
         "synced_at": "2026-03-30T08:10:18.807205+00:00"
       },
       {
+        "id": "2040239470604349582",
+        "date": "2026-04-04",
+        "author": "@AlexFinn",
+        "author_url": "https://x.com/AlexFinn",
+        "tweet_url": "https://x.com/AlexFinn/status/2040239470604349582",
+        "title": {
+          "en-US": "Anthropic banned OpenClaw. Open source needs to win.",
+          "zh-CN": "Anthropic 封禁 OpenClaw，开源必须赢"
+        },
+        "summary": {
+          "en-US": "OpenClaw 与开源生态",
+          "zh-CN": "推文的三个观点都正确，但都停留在现象层面。开源之所以能对抗平台封禁，不是因为它'更开放'，而是因为它改变了权力结构——当代码在所有人手中，没有单一实体能重新定义规则。这比'开源是好的'深刻一层：开源的本质是权力分散，而权力分散是应对规则变化的唯一保险。"
+        },
+        "relevance": "OpenClaw 与开源生态",
+        "score": 0.8,
+        "engagement": {
+          "likes": 360,
+          "retweets": 27,
+          "replies": 103
+        },
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-04-04T02:16:38.422377+00:00",
+        "js_take": {
+          "en-US": "Open source isn't ethics. It's architecture. Build on rented land, they own the gates. Make it a public square — you can be removed, but the square remains. Ban isn't malice. It's inevitability.",
+          "zh-CN": "开源不是伦理，是架构。在租来的土地上建房，他们掌握大门。把它变成公共广场——你可以被驱逐，但广场永存。封禁不是恶意，是必然。"
+        }
+      },
+      {
         "id": "2040158275186905295",
         "date": "2026-04-04",
         "author": "@ryancarson",
@@ -418,6 +502,34 @@
         "js_take": {
           "en-US": "4000 saves on your .md drop, but the best Chief of Staff agents run on 3 files and a human who knows when to veto.",
           "zh-CN": "存了4000版的.md文件，不如3个精简文档配一个懂得否决的人"
+        }
+      },
+      {
+        "id": "2040211360156700843",
+        "date": "2026-04-04",
+        "author": "@kloss_xyz",
+        "author_url": "https://x.com/kloss_xyz",
+        "tweet_url": "https://x.com/kloss_xyz/status/2040211360156700843",
+        "title": {
+          "en-US": "Anthropic sent email: subscription limits no longer for third-party tools like OpenClaw",
+          "zh-CN": "klöss 报道 Anthropic 发邮件通知用户，订阅额度不再支持 OpenClaw 等第三方工具"
+        },
+        "summary": {
+          "en-US": "OpenClaw被禁事件，AI订阅商业模式变化",
+          "zh-CN": "把「无限订阅」当作无限算力来用的时代结束了——Anthropic 这次划清了「个人使用」和「基础设施托管」的边界，后者本该按量付费。"
+        },
+        "relevance": "OpenClaw被禁事件，AI订阅商业模式变化",
+        "score": 0.78,
+        "engagement": {
+          "likes": 90,
+          "replies": 10,
+          "retweets": 8
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-04-04T01:12:02.869904+00:00",
+        "js_take": {
+          "en-US": "Home broadband doesn't cover data center workloads. Same principle. $200 'unlimited' was always for human-scale usage — running 24/7 agent clusters through it was a pricing arbitrage, not a feature.",
+          "zh-CN": "家用宽带不包数据中心负载，一个道理。200美元「无限」套餐本就是给人用的——24小时跑Agent集群那是在套利，不是功能。"
         }
       },
       {
@@ -764,6 +876,34 @@
         }
       },
       {
+        "id": "2040209796046155845",
+        "date": "2026-04-04",
+        "author": "@Yuchenj_UW",
+        "author_url": "https://x.com/Yuchenj_UW",
+        "tweet_url": "https://x.com/Yuchenj_UW/status/2040209796046155845",
+        "title": {
+          "en-US": "Claude cutting off apps like OpenClaw. $200/month plan can use up to $5,000 compute, heavily subsidized.",
+          "zh-CN": "Yuchen Jin 分析 Anthropic 切断 OpenClaw 的原因：$200月费计划实际消耗可达$5000算力，补贴过重"
+        },
+        "summary": {
+          "en-US": "OpenClaw被禁事件背后的商业逻辑，AI算力补贴模式",
+          "zh-CN": "当「慷慨」被系统性套利时，撤回不是变坏，而是止损。$200 换 $5000 的定价从一开始就是不可持续的获客手段，不是常态。"
+        },
+        "relevance": "OpenClaw被禁事件背后的商业逻辑，AI算力补贴模式",
+        "score": 0.76,
+        "engagement": {
+          "likes": 277,
+          "replies": 31,
+          "retweets": 8
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-04-04T01:12:02.869907+00:00",
+        "js_take": {
+          "en-US": "Every 'unlimited' plan has a hidden line between 'heavy user' and 'infrastructure host.' Anthropic just drew it. The $200→$5000 gap wasn't generosity — it was a promotional subsidy with an expiration date.",
+          "zh-CN": "每个「无限」套餐都有条隐线，区分「重度用户」和「基础设施托管」。Anthropic只是把它画出来了。200到5000美元的价差不是慷慨——那是限时促销补贴，迟早到期。"
+        }
+      },
+      {
         "id": "2039892932887728471",
         "date": "2026-04-03",
         "author": "@Baxate",
@@ -874,151 +1014,11 @@
           "en-US": "Speed is easy. Stopping is hard. The test isn't how fast it improves — it's whether you catch the 3am decision that doesn't make sense by morning.",
           "zh-CN": "加速容易，刹车难。真正的考验不在于它迭代得多快，而在于你是否能揪出那些凌晨3点拍脑袋、天亮后就后悔的决策。"
         }
-      },
-      {
-        "id": "203970193851073073480",
-        "date": "2026-04-03",
-        "author": "@svpino",
-        "author_url": "https://x.com/svpino",
-        "tweet_url": "https://x.com/svpino/status/2039701938510733480",
-        "title": {
-          "en-US": "Competitor to OpenClaw launched as a feature, now has 700,000 users. Agentic AI taking over.",
-          "zh-CN": "有人把 OpenClaw 的竞争对手当作一个功能推出，现在已经有 70 万用户。"
-        },
-        "summary": {
-          "en-US": "直接提及 OpenClaw，讨论 Agent 生态竞争",
-          "zh-CN": "这条推文揭示了一个被忽视的真相：OpenClaw 代表的「开放 Agent 平台」愿景，正在被「封闭产品+Agent 功能」模式快速蚕食。70 万用户选择的不是「Agent 的未来」，而是「不用改变的现在」。更深入的洞察是：用户永远选择阻力最小的路径，而不是理论上最好的设计。"
-        },
-        "relevance": "直接提及 OpenClaw，讨论 Agent 生态竞争",
-        "score": 0.74,
-        "engagement": {
-          "likes": 74,
-          "retweets": 6,
-          "replies": 15
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-04-02T23:10:07.134394+00:00",
-        "js_take": {
-          "en-US": "700k users picked 'good enough I already know' over 'better but I have to learn.' The threat isn't competition — it's inertia wearing your competitor's mask.",
-          "zh-CN": "70万用户选择了「够用且熟悉」，而非「更好但要重学」。真正的威胁不是竞争对手，而是惯性披着竞争的外衣。"
-        }
-      },
-      {
-        "id": "2038835449012351197",
-        "date": "2026-03-31",
-        "author": "@ollama",
-        "author_url": "https://x.com/ollama",
-        "tweet_url": "https://x.com/ollama/status/2038835449012351197",
-        "title": {
-          "en-US": "Ollama now fastest on Apple silicon with MLX, for OpenClaw, Claude Code, etc.",
-          "zh-CN": "Ollama更新后在Apple Silicon上运行最快，基于MLX框架，支持OpenClaw、Claude Code等应用"
-        },
-        "summary": {
-          "en-US": "OpenClaw - 本地模型运行性能优化",
-          "zh-CN": "「本地运行更快」这个叙事有一个隐藏假设：速度是本地AI的瓶颈。但真正的瓶颈可能是「当所有人都在优化同一个指标（速度）时，那个指标本身就在失去区分度」——本地AI的护城河不该是快，而是能在断网、无API限制的环境下依然可用。"
-        },
-        "relevance": "OpenClaw - 本地模型运行性能优化",
-        "score": 0.74,
-        "engagement": {
-          "likes": 2608,
-          "replies": 146,
-          "retweets": 332
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-03-31T10:15:47.945801+00:00",
-        "js_take": {
-          "en-US": "MLX makes Ollama fast. But when every local stack is \"fast,\" speed becomes table stakes. The real moat: what can your agent do when the API is down, the quota is zero, and the cloud doesn't exist?",
-          "zh-CN": "MLX确实让Ollama变快了。但当每个本地栈都在卷\"快\"的时候，速度就成了基础门槛。真正的护城河是：当API挂了、配额归零、云不存在的时候，你的Agent还能干什么？"
-        }
-      },
-      {
-        "id": "2037944750284873833",
-        "date": "2026-03-30",
-        "author": "@0xquqi",
-        "author_url": "https://x.com/0xquqi",
-        "tweet_url": "https://x.com/0xquqi/status/2037944750284873833",
-        "title": {
-          "en-US": "Most Claude Code users treat .claude folder as black box, never open config",
-          "zh-CN": "大多数Claude Code用户把.claude文件夹当黑盒，从不打开配置"
-        },
-        "summary": {
-          "en-US": "OpenClaw配置优化，与工具使用哲学相关",
-          "zh-CN": "更深度：把配置当黑盒用，是用旧习惯驾驭新工具——就像买了跑车却只用一档。配置的价值不是「让工具更听话」，而是把你对项目的理解沉淀成规则，让工具继承你的判断力。"
-        },
-        "relevance": "OpenClaw配置优化，与工具使用哲学相关",
-        "score": 0.74,
-        "engagement": {
-          "likes": 144,
-          "replies": 3,
-          "retweets": 34
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-29T16:20:48.905651+00:00",
-        "js_take": {
-          "en-US": "Treating .claude as a black box turns Claude Code into faster autocomplete. The real difference isn't execution speed — it's whether you'll spend time writing down *why* you decided, letting the tool inherit your judgment.",
-          "zh-CN": "把 .claude 当黑盒，Claude Code 就沦为更快的自动补全。真正的区别不在于执行速度——而在于你是否愿意花时间写下「为什么」这样决定，让工具继承你的判断力。"
-        }
-      },
-      {
-        "id": "2040112195162542192",
-        "date": "2026-04-04",
-        "author": "@thekitze",
-        "author_url": "https://x.com/thekitze",
-        "tweet_url": "https://x.com/thekitze/status/2040112195162542192",
-        "title": {
-          "en-US": "What can OpenClaw/Hermes do that Codex/Claude Code cannot",
-          "zh-CN": "询问 OpenClaw/Hermes 相比 Codex/Claude Code 有什么独特使用场景"
-        },
-        "summary": {
-          "en-US": "OpenClaw 平台",
-          "zh-CN": "问题的关键不是'谁的功能更多'，而是'谁的约束更少'。Codex/Claude Code 是'在别人的地盘上做自己的事'，OpenClaw 是'自己的地盘自己定规矩'——这个区别在简单任务上看不出来，但在复杂、长期、需要自定义的工作流中会变成决定性因素。"
-        },
-        "relevance": "OpenClaw 平台",
-        "score": 0.73,
-        "engagement": {
-          "likes": 46,
-          "replies": 35,
-          "retweets": 1
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-04-03T18:08:45.840647+00:00",
-        "js_take": {
-          "en-US": "Cloud tools optimize for their roadmap. Local tools optimize for yours. When Claude Code pivots next quarter, your workflow doesn't die — that's the real compound interest.",
-          "zh-CN": "云端工具优化的是它们自己的路线，本地工具优化的是你的工作流。当 Claude Code 下个季度转向时，你的工作流不会作废——这才是真正的复利。"
-        }
-      },
-      {
-        "id": "2040151836758261959",
-        "date": "2026-04-04",
-        "author": "@mattshumer_",
-        "author_url": "https://x.com/mattshumer_",
-        "tweet_url": "https://x.com/mattshumer_/status/2040151836758261959",
-        "title": {
-          "en-US": "What memory systems for OpenClaw/Hermes Agent? Best OSS options?",
-          "zh-CN": "询问OpenClaw和Hermes Agent应该使用什么memory系统，想要开源、稳定、简单的方案"
-        },
-        "summary": {
-          "en-US": "OpenClaw agent memory系统选型讨论",
-          "zh-CN": "人们在寻找更复杂的记忆系统时，往往忽略了真正的问题是「什么值得记住」——当你不知道哪些交互应该沉淀为长期记忆时，再先进的RAG架构也只是把噪音存得更久。"
-        },
-        "relevance": "OpenClaw agent memory系统选型讨论",
-        "score": 0.72,
-        "engagement": {
-          "likes": 69,
-          "replies": 60,
-          "retweets": 3
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-03T21:09:15.446153+00:00",
-        "js_take": {
-          "en-US": "Optimized my agent's memory stack for a month. Found out 90% of 'retrieved context' was noise I should've filtered, not stored. You don't need better RAG—you need better forgetting.",
-          "zh-CN": "花了一个月优化Agent的记忆栈。发现90%的「检索上下文」其实都是本该过滤掉的噪音，而非需要存储的内容。你不需要更好的RAG——你需要的是更好的「遗忘」。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 151
+    "unique_authors": 148
   }
 }

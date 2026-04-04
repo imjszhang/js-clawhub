@@ -1,5 +1,33 @@
 [
   {
+    "id": "2040212465141588306",
+    "date": "2026-04-04",
+    "author": "@jumperz",
+    "author_url": "https://x.com/jumperz",
+    "tweet_url": "https://x.com/jumperz/status/2040212465141588306",
+    "title": {
+      "en-US": "Anthropic ban OpenClaw: you built too well, so you're banned",
+      "zh-CN": "Anthropic 封禁 OpenClaw：做得太好，所以被封"
+    },
+    "summary": {
+      "en-US": "Anthropic/OpenClaw 平台治理争议",
+      "zh-CN": "推文的讽刺点出了中心化平台的核心悖论——当用户的使用强度超出提供者的预期和控制能力，'成功'反而成为被惩罚的理由。这不是商业决策失误，而是中心化架构的结构性缺陷：你无法在保留控制权的同时允许真正的创新，因为真正的创新必然产生超出你预期的使用方式。"
+    },
+    "relevance": "Anthropic/OpenClaw 平台治理争议",
+    "score": 0.9,
+    "engagement": {
+      "likes": 426,
+      "replies": 66,
+      "retweets": 18
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-04T02:16:38.422372+00:00",
+    "js_take": {
+      "en-US": "Anthropic built a wall, OpenClaw built ladders. Response: reinforce wall, not question it. The unspoken truth: they want 'controllable open source.' But that's the paradox — open source only works when it exceeds control.",
+      "zh-CN": "Anthropic 筑墙，OpenClaw 造梯。回应却是加固围墙，而非质疑围墙本身。未明说的真相：他们要的是「可控的开源」。但这正是悖论所在——开源只有在超越控制时才成立。"
+    }
+  },
+  {
     "id": "2040068460475195650",
     "date": "2026-04-04",
     "author": "@garrytan",
@@ -28,6 +56,62 @@
     }
   },
   {
+    "id": "2040207453250617682",
+    "date": "2026-04-04",
+    "author": "@MatthewBerman",
+    "author_url": "https://x.com/MatthewBerman",
+    "tweet_url": "https://x.com/MatthewBerman/status/2040207453250617682",
+    "title": {
+      "en-US": "It's over. Officially. No more Claude in OpenClaw.",
+      "zh-CN": "Matthew Berman 宣布 Anthropic 正式禁止在 OpenClaw 中使用 Claude，用「结束了」表达强烈不满"
+    },
+    "summary": {
+      "en-US": "OpenClaw被禁事件，AI Agent平台与模型供应商的利益冲突",
+      "zh-CN": "Anthropic 不是在封杀工具，而是在收回被过度补贴的算力——$200 月费扛不住 $5000 用量，这是商业法则的自然修正，不是态度问题。"
+    },
+    "relevance": "OpenClaw被禁事件，AI Agent平台与模型供应商的利益冲突",
+    "score": 0.82,
+    "engagement": {
+      "likes": 243,
+      "replies": 89,
+      "retweets": 18
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-04T01:12:02.869899+00:00",
+    "js_take": {
+      "en-US": "Strip the drama — this is just unit economics waking up. $200 plan subsidizing $5K usage was a customer acquisition strategy, not a constitutional right. The real story? They ran the numbers.",
+      "zh-CN": "别演戏了——这只是单位经济在觉醒。200美元套餐补贴5000美元用量，那是获客策略，不是天赋人权。真相？他们算了笔账。"
+    }
+  },
+  {
+    "id": "2040239470604349582",
+    "date": "2026-04-04",
+    "author": "@AlexFinn",
+    "author_url": "https://x.com/AlexFinn",
+    "tweet_url": "https://x.com/AlexFinn/status/2040239470604349582",
+    "title": {
+      "en-US": "Anthropic banned OpenClaw. Open source needs to win.",
+      "zh-CN": "Anthropic 封禁 OpenClaw，开源必须赢"
+    },
+    "summary": {
+      "en-US": "OpenClaw 与开源生态",
+      "zh-CN": "推文的三个观点都正确，但都停留在现象层面。开源之所以能对抗平台封禁，不是因为它'更开放'，而是因为它改变了权力结构——当代码在所有人手中，没有单一实体能重新定义规则。这比'开源是好的'深刻一层：开源的本质是权力分散，而权力分散是应对规则变化的唯一保险。"
+    },
+    "relevance": "OpenClaw 与开源生态",
+    "score": 0.8,
+    "engagement": {
+      "likes": 360,
+      "retweets": 27,
+      "replies": 103
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-04T02:16:38.422377+00:00",
+    "js_take": {
+      "en-US": "Open source isn't ethics. It's architecture. Build on rented land, they own the gates. Make it a public square — you can be removed, but the square remains. Ban isn't malice. It's inevitability.",
+      "zh-CN": "开源不是伦理，是架构。在租来的土地上建房，他们掌握大门。把它变成公共广场——你可以被驱逐，但广场永存。封禁不是恶意，是必然。"
+    }
+  },
+  {
     "id": "2040158275186905295",
     "date": "2026-04-04",
     "author": "@ryancarson",
@@ -53,6 +137,62 @@
     "js_take": {
       "en-US": "4000 saves on your .md drop, but the best Chief of Staff agents run on 3 files and a human who knows when to veto.",
       "zh-CN": "存了4000版的.md文件，不如3个精简文档配一个懂得否决的人"
+    }
+  },
+  {
+    "id": "2040211360156700843",
+    "date": "2026-04-04",
+    "author": "@kloss_xyz",
+    "author_url": "https://x.com/kloss_xyz",
+    "tweet_url": "https://x.com/kloss_xyz/status/2040211360156700843",
+    "title": {
+      "en-US": "Anthropic sent email: subscription limits no longer for third-party tools like OpenClaw",
+      "zh-CN": "klöss 报道 Anthropic 发邮件通知用户，订阅额度不再支持 OpenClaw 等第三方工具"
+    },
+    "summary": {
+      "en-US": "OpenClaw被禁事件，AI订阅商业模式变化",
+      "zh-CN": "把「无限订阅」当作无限算力来用的时代结束了——Anthropic 这次划清了「个人使用」和「基础设施托管」的边界，后者本该按量付费。"
+    },
+    "relevance": "OpenClaw被禁事件，AI订阅商业模式变化",
+    "score": 0.78,
+    "engagement": {
+      "likes": 90,
+      "replies": 10,
+      "retweets": 8
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-04T01:12:02.869904+00:00",
+    "js_take": {
+      "en-US": "Home broadband doesn't cover data center workloads. Same principle. $200 'unlimited' was always for human-scale usage — running 24/7 agent clusters through it was a pricing arbitrage, not a feature.",
+      "zh-CN": "家用宽带不包数据中心负载，一个道理。200美元「无限」套餐本就是给人用的——24小时跑Agent集群那是在套利，不是功能。"
+    }
+  },
+  {
+    "id": "2040209796046155845",
+    "date": "2026-04-04",
+    "author": "@Yuchenj_UW",
+    "author_url": "https://x.com/Yuchenj_UW",
+    "tweet_url": "https://x.com/Yuchenj_UW/status/2040209796046155845",
+    "title": {
+      "en-US": "Claude cutting off apps like OpenClaw. $200/month plan can use up to $5,000 compute, heavily subsidized.",
+      "zh-CN": "Yuchen Jin 分析 Anthropic 切断 OpenClaw 的原因：$200月费计划实际消耗可达$5000算力，补贴过重"
+    },
+    "summary": {
+      "en-US": "OpenClaw被禁事件背后的商业逻辑，AI算力补贴模式",
+      "zh-CN": "当「慷慨」被系统性套利时，撤回不是变坏，而是止损。$200 换 $5000 的定价从一开始就是不可持续的获客手段，不是常态。"
+    },
+    "relevance": "OpenClaw被禁事件背后的商业逻辑，AI算力补贴模式",
+    "score": 0.76,
+    "engagement": {
+      "likes": 277,
+      "replies": 31,
+      "retweets": 8
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-04T01:12:02.869907+00:00",
+    "js_take": {
+      "en-US": "Every 'unlimited' plan has a hidden line between 'heavy user' and 'infrastructure host.' Anthropic just drew it. The $200→$5000 gap wasn't generosity — it was a promotional subsidy with an expiration date.",
+      "zh-CN": "每个「无限」套餐都有条隐线，区分「重度用户」和「基础设施托管」。Anthropic只是把它画出来了。200到5000美元的价差不是慷慨——那是限时促销补贴，迟早到期。"
     }
   },
   {
@@ -165,6 +305,34 @@
     "js_take": {
       "en-US": "Built 17 cron jobs last quarter. The one that failed? I saw it in the flow view 4 hours before it broke. Seeing state beats running tasks—every time.",
       "zh-CN": "上季度建了 17 个定时任务。唯一出问题的那个，我在它崩溃前 4 小时就从流程视图里察觉了。看见状态，胜过盲目运行——每一次都是。"
+    }
+  },
+  {
+    "id": "2040206713866084556",
+    "date": "2026-04-04",
+    "author": "@Scobleizer",
+    "author_url": "https://x.com/Scobleizer",
+    "tweet_url": "https://x.com/Scobleizer/status/2040206713866084556",
+    "title": {
+      "en-US": "Anthropic banning the Claw. Open Source models running locally is the way.",
+      "zh-CN": "Scoble 批评 Anthropic 禁止 OpenClaw，宣称本地开源模型才是出路"
+    },
+    "summary": {
+      "en-US": "OpenClaw被禁事件，开源vs闭源Agent基础设施",
+      "zh-CN": "把「禁止套利」等同于「封闭」，把「本地开源」当作「自由」——这种非黑即白的判断忽略了真正的问题：谁为算力买单？"
+    },
+    "relevance": "OpenClaw被禁事件，开源vs闭源Agent基础设施",
+    "score": 0.71,
+    "engagement": {
+      "likes": 248,
+      "replies": 48,
+      "retweets": 18
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-04T01:12:02.869908+00:00",
+    "js_take": {
+      "en-US": "Local open source shifts the cost to your GPU and electricity bill — someone still pays. The issue isn't 'closed vs open,' it's who funds the compute when usage explodes.",
+      "zh-CN": "本地开源把成本转嫁给你的GPU和电费——总要有人买单。问题不是「封闭vs开放」，而是用量爆掉时，谁来扛算力成本。"
     }
   },
   {
