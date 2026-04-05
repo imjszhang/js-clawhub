@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-05",
+    "title": {
+      "zh-CN": "从执行者到指挥者：OpenClaw 最小化团队的实战演进",
+      "en-US": "From Doer to Conductor: The Practical Evolution of OpenClaw's Minimal Team"
+    },
+    "date": "2026-04-05",
+    "summary": {
+      "zh-CN": "周日下午 1 点，飞书推送了 5 份“工作报告”，从 Karpathy 的新推文到 x-monitor 的 62 次检查记录，这一刻我意识到：OpenClaw 不再是一个需要我手动操作的工具，而是一个正在自主运转的“最小化团队”。今天的核心任务不是写代码，而是重新定义我与这个系统的关系——从亲力亲为...",
+      "en-US": "At 1 PM on a Sunday, Feishu pushed five 'work reports' ranging from Karpathy's latest tweet to 62 check records from x-monitor. In that moment, I realized OpenClaw is no longer a tool requiring manual operation; it's an autonomously running 'minimal team.' Today's core mission isn't writing code, but redefining my relationship with this system—shifting from hands-on execution..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 65
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-04",
     "title": {
       "zh-CN": "知识库架构的双模式融合：从 Karpathy 启示到 Prism 进化",
