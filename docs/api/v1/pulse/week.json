@@ -56,6 +56,34 @@
     }
   },
   {
+    "id": "2040840640250937796",
+    "date": "2026-04-05",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2040840640250937796",
+    "title": {
+      "en-US": "Gemma 4 made OpenClaw free to run, agent cost drops to zero",
+      "zh-CN": "Gemma 4 让 OpenClaw 可以免费本地运行，运行 agent 的成本降到零"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 本地模型 + AI Agent 成本",
+      "zh-CN": "「成本降到零」是错的——本地运行的隐性成本是判断力。当任何人都能零成本启动 100 个 agent，唯一的瓶颈从「算力预算」变成了「识别哪个 agent 在做有用的事」。"
+    },
+    "relevance": "OpenClaw + 本地模型 + AI Agent 成本",
+    "score": 0.78,
+    "engagement": {
+      "likes": 144,
+      "replies": 18,
+      "retweets": 13
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-05T19:15:07.993Z",
+    "js_take": {
+      "en-US": "Zero cost, infinite noise. The tax isn't dollars anymore—it's attention spent sorting signal from trash. You saved on API bills; you'll pay in decision fatigue.",
+      "zh-CN": "Zero cost, infinite noise. The tax isn't dollars anymore—it's attention spent sorting signal from trash. You saved on API bills; you'll pay in decision fatigue."
+    }
+  },
+  {
     "id": "2040400615734747295",
     "date": "2026-04-05",
     "author": "@vivoplt",
@@ -109,6 +137,34 @@
     "js_take": {
       "en-US": "$200 buys execution, not judgment. The hidden cost: clicking merge without knowing when your agent is confidently wrong.",
       "zh-CN": "$200 buys execution, not judgment. The hidden cost: clicking merge without knowing when your agent is confidently wrong."
+    }
+  },
+  {
+    "id": "2040774846595154413",
+    "date": "2026-04-05",
+    "author": "@MinLiBuilds",
+    "author_url": "https://x.com/MinLiBuilds",
+    "tweet_url": "https://x.com/MinLiBuilds/status/2040774846595154413",
+    "title": {
+      "en-US": "Using crontab to schedule good morning messages to reset Claude Code 5-hour limit",
+      "zh-CN": "用 crontab 定时发送早安消息来锁定 Claude Code 的 5 小时重置周期"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code 使用技巧",
+      "zh-CN": "这个技巧很聪明，但它揭示了一个更深层的问题：当我们开始「hack 系统」来获取更多算力时，说明我们的 workflow 已经变成了对限制的适应性进化，而不是对目标的直接追求。"
+    },
+    "relevance": "OpenClaw/Claude Code 使用技巧",
+    "score": 0.71,
+    "engagement": {
+      "likes": 219,
+      "replies": 29,
+      "retweets": 21
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-05T19:15:07.993Z",
+    "js_take": {
+      "en-US": "Optimizing the reset cycle is a meta-tax. The 5-hour limit isn't a bug to hack—it's a guardrail asking: do you actually need more, or just want more?",
+      "zh-CN": "Optimizing the reset cycle is a meta-tax. The 5-hour limit isn't a bug to hack—it's a guardrail asking: do you actually need more, or just want more?"
     }
   },
   {

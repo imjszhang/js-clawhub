@@ -56,6 +56,34 @@
     }
   },
   {
+    "id": "2040840640250937796",
+    "date": "2026-04-05",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2040840640250937796",
+    "title": {
+      "en-US": "Gemma 4 made OpenClaw free to run, agent cost drops to zero",
+      "zh-CN": "Gemma 4 让 OpenClaw 可以免费本地运行，运行 agent 的成本降到零"
+    },
+    "summary": {
+      "en-US": "OpenClaw + 本地模型 + AI Agent 成本",
+      "zh-CN": "「成本降到零」是错的——本地运行的隐性成本是判断力。当任何人都能零成本启动 100 个 agent，唯一的瓶颈从「算力预算」变成了「识别哪个 agent 在做有用的事」。"
+    },
+    "relevance": "OpenClaw + 本地模型 + AI Agent 成本",
+    "score": 0.78,
+    "engagement": {
+      "likes": 144,
+      "replies": 18,
+      "retweets": 13
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-05T19:15:07.993Z",
+    "js_take": {
+      "en-US": "Zero cost, infinite noise. The tax isn't dollars anymore—it's attention spent sorting signal from trash. You saved on API bills; you'll pay in decision fatigue.",
+      "zh-CN": "Zero cost, infinite noise. The tax isn't dollars anymore—it's attention spent sorting signal from trash. You saved on API bills; you'll pay in decision fatigue."
+    }
+  },
+  {
     "id": "2040400615734747295",
     "date": "2026-04-05",
     "author": "@vivoplt",
@@ -109,6 +137,34 @@
     "js_take": {
       "en-US": "$200 buys execution, not judgment. The hidden cost: clicking merge without knowing when your agent is confidently wrong.",
       "zh-CN": "$200 buys execution, not judgment. The hidden cost: clicking merge without knowing when your agent is confidently wrong."
+    }
+  },
+  {
+    "id": "2040774846595154413",
+    "date": "2026-04-05",
+    "author": "@MinLiBuilds",
+    "author_url": "https://x.com/MinLiBuilds",
+    "tweet_url": "https://x.com/MinLiBuilds/status/2040774846595154413",
+    "title": {
+      "en-US": "Using crontab to schedule good morning messages to reset Claude Code 5-hour limit",
+      "zh-CN": "用 crontab 定时发送早安消息来锁定 Claude Code 的 5 小时重置周期"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code 使用技巧",
+      "zh-CN": "这个技巧很聪明，但它揭示了一个更深层的问题：当我们开始「hack 系统」来获取更多算力时，说明我们的 workflow 已经变成了对限制的适应性进化，而不是对目标的直接追求。"
+    },
+    "relevance": "OpenClaw/Claude Code 使用技巧",
+    "score": 0.71,
+    "engagement": {
+      "likes": 219,
+      "replies": 29,
+      "retweets": 21
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-05T19:15:07.993Z",
+    "js_take": {
+      "en-US": "Optimizing the reset cycle is a meta-tax. The 5-hour limit isn't a bug to hack—it's a guardrail asking: do you actually need more, or just want more?",
+      "zh-CN": "Optimizing the reset cycle is a meta-tax. The 5-hour limit isn't a bug to hack—it's a guardrail asking: do you actually need more, or just want more?"
     }
   },
   {
@@ -5627,62 +5683,6 @@
     "js_take": {
       "en-US": "More features means still in addition mode. Mature frameworks don't add options—they make the right ones happen without config.",
       "zh-CN": "功能越多，说明还在做加法。成熟的框架不靠堆砌选项，而是让正确的事情无需配置就自然发生。"
-    }
-  },
-  {
-    "id": "2036004113390223408",
-    "date": "2026-03-23",
-    "author": "@CardilloSamuel",
-    "author_url": "https://x.com/CardilloSamuel",
-    "tweet_url": "https://x.com/CardilloSamuel/status/2036004113390223408",
-    "title": {
-      "en-US": "OpenClaw founder blocked me for preferring Hermes",
-      "zh-CN": "OpenClaw 创始人因为我表示更喜欢 Hermes Agent 就拉黑了我，甚至没有 @ 他"
-    },
-    "summary": {
-      "en-US": "OpenClaw 社区争议、创始人态度",
-      "zh-CN": "创始人对批评的反应比他做的产品更能说明问题。技术产品的护城河不是代码，是团队能不能接受\"不喜欢它\"的人存在。"
-    },
-    "relevance": "OpenClaw 社区争议、创始人态度",
-    "score": 0.73,
-    "engagement": {
-      "likes": 238,
-      "replies": 27,
-      "retweets": 5
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-23T11:11:28.151315+00:00",
-    "js_take": {
-      "en-US": "A founder blocking critics tells you more about the ecosystem than any product demo. The real moat isn't code—it's the stomach to let haters coexist.",
-      "zh-CN": "创始人屏蔽批评者的举动，比任何产品演示都更能暴露生态系统的本质。真正的护城河不是代码，而是容得下异见共存的气量。"
-    }
-  },
-  {
-    "id": "2035741298066325773",
-    "date": "2026-03-23",
-    "author": "@xmayeth",
-    "author_url": "https://x.com/xmayeth",
-    "tweet_url": "https://x.com/xmayeth/status/2035741298066325773",
-    "title": {
-      "en-US": "Gave OpenClaw $200, woke up to $6,700. AI agent trading spreads overnight.",
-      "zh-CN": "给OpenClaw 200美元，醒来变成6700美元，AI Agent通宵交易套利。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 实战案例，展示 Agent 自主交易能力",
-      "zh-CN": "这种暴富叙事吸引的是投机者，但真正该关注的是「为什么是这个策略在这个时间点有效」—— 盛传的永远是结果，消失的永远是前提条件。"
-    },
-    "relevance": "OpenClaw 实战案例，展示 Agent 自主交易能力",
-    "score": 0.72,
-    "engagement": {
-      "likes": 37,
-      "replies": 6,
-      "retweets": 0
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-22T16:26:01.493484+00:00",
-    "js_take": {
-      "en-US": "$200 to $6700 makes headlines. \"This strategy worked for 3 days then blew up\" doesn't. The survivorship bias is the real trade.",
-      "zh-CN": "\"200美元变成6700美元\"能上头版，\"这策略撑了3天就爆仓\"却无人问津。幸存者偏差，才是那笔真正的交易。"
     }
   }
 ]
