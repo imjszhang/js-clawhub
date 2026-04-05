@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-04",
+    "title": {
+      "zh-CN": "知识库架构的双模式融合：从 Karpathy 启示到 Prism 进化",
+      "en-US": "Dual-Mode Fusion in Knowledge Base Architecture: From Karpathy's Insights to Prism's Evolution"
+    },
+    "date": "2026-04-04",
+    "summary": {
+      "zh-CN": "今天被 Karpathy 最新发布的 LLM+Obsidian 工作流深深触动，他在中等规模下直接全量读取并自动维护健康检查的轻量模式，让我开始反思我们现有的 `js-knowledge-prism` 是否走了弯路。在深入对比后，我意识到这并非简单的优劣之分，而是“个人研究闭环”与“内容创作生产线”...",
+      "en-US": "Today, I was deeply inspired by Karpathy's newly released LLM+Obsidian workflow. His lightweight approach—directly ingesting the full dataset at a medium scale with automated health checks—made me question whether our current `js-knowledge-prism` project has been taking a detour. After a deep dive comparison, I realized this isn't simply a matter of one being better than the other; it's about distinguishing between a 'personal research loop' and a 'content production pipeline'..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 64
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-02",
     "title": {
       "zh-CN": "",
