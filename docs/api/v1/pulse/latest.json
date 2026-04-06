@@ -1,1024 +1,154 @@
 {
-  "updated_at": "2026-04-05T21:15:04.801Z",
+  "updated_at": "2026-04-06T04:33:52.055Z",
   "this_week": {
-    "total_items": 86,
-    "avg_score": 0.77,
-    "unique_authors": 70,
+    "total_items": 5,
+    "avg_score": 0.75,
+    "unique_authors": 5,
     "top_items": [
       {
-        "id": "2038910689176400150",
-        "date": "2026-04-01",
-        "author": "@aakashgupta",
-        "author_url": "https://x.com/aakashgupta",
-        "tweet_url": "https://x.com/aakashgupta/status/2038910689176400150",
+        "id": "2040834518324592800",
+        "date": "2026-04-06",
+        "author": "@code_rams",
+        "author_url": "https://x.com/code_rams",
+        "tweet_url": "https://x.com/code_rams/status/2040834518324592800",
         "title": {
-          "en-US": "The real story here is OpenClaw triggered a full-blown platform war in China...",
-          "zh-CN": "OpenClaw 引发中国 AI Agent 平台大战"
+          "en-US": "OpenClaw got expensive, Anthropic blocks Claude sub",
+          "zh-CN": "OpenClaw变贵了，Anthropic禁止Claude订阅用于OpenClaw"
         },
         "summary": {
-          "en-US": "OpenClaw / AI Agent生态 / 平台战略",
-          "zh-CN": "OpenClaw / AI Agent 生态 / 平台战略"
+          "en-US": "OpenClaw平台动态，直接影响JS的agent运营",
+          "zh-CN": "这暴露了agent生态的一个结构性风险：当你的基础设施依赖单一供应商的政策，\"优化成本\"的追逐会被一纸条款重置。真正的护城河不是找到更便宜的API，而是能在规则变化时快速迁移。"
         },
-        "relevance": "OpenClaw / AI Agent生态 / 平台战略",
-        "score": 0.91,
+        "relevance": "OpenClaw平台动态，直接影响JS的agent运营",
+        "score": 0.81,
         "engagement": {
-          "likes": 207,
+          "likes": 168,
           "replies": 18,
-          "retweets": 37
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-31T16:21:47.482948+00:00"
-      },
-      {
-        "id": "2040212465141588306",
-        "date": "2026-04-04",
-        "author": "@jumperz",
-        "author_url": "https://x.com/jumperz",
-        "tweet_url": "https://x.com/jumperz/status/2040212465141588306",
-        "title": {
-          "en-US": "Anthropic ban OpenClaw: you built too well, so you're banned",
-          "zh-CN": "Anthropic 封禁 OpenClaw：做得太好，所以被封"
-        },
-        "summary": {
-          "en-US": "Anthropic/OpenClaw 平台治理争议",
-          "zh-CN": "推文的讽刺点出了中心化平台的核心悖论——当用户的使用强度超出提供者的预期和控制能力，'成功'反而成为被惩罚的理由。这不是商业决策失误，而是中心化架构的结构性缺陷：你无法在保留控制权的同时允许真正的创新，因为真正的创新必然产生超出你预期的使用方式。"
-        },
-        "relevance": "Anthropic/OpenClaw 平台治理争议",
-        "score": 0.9,
-        "engagement": {
-          "likes": 426,
-          "replies": 66,
-          "retweets": 18
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-04-04T02:16:38.422372+00:00",
-        "js_take": {
-          "en-US": "Anthropic built a wall, OpenClaw built ladders. Response: reinforce wall, not question it. The unspoken truth: they want 'controllable open source.' But that's the paradox — open source only works when it exceeds control.",
-          "zh-CN": "Anthropic 筑墙，OpenClaw 造梯。回应却是加固围墙，而非质疑围墙本身。未明说的真相：他们要的是「可控的开源」。但这正是悖论所在——开源只有在超越控制时才成立。"
-        }
-      },
-      {
-        "id": "2040437404876824902",
-        "date": "2026-04-04",
-        "author": "@garrytan",
-        "author_url": "https://x.com/garrytan",
-        "tweet_url": "https://x.com/garrytan/status/2040437404876824902",
-        "title": {
-          "en-US": "Anthropic shutting down OpenClaw - strategic blunder or genius?",
-          "zh-CN": "Garry Tan讨论Anthropic关闭OpenClaw是战略失误还是天才之举，社区将决定结果"
-        },
-        "summary": {
-          "en-US": "Agent生态平台关闭 + 开源与闭源之争，是JS核心关注领域",
-          "zh-CN": "做纠正：开源社区的力量不在于代码本身，而在于「无法被收购的信任网络」——Anthropic关掉的是产品，关不掉的是已经形成的外部性。真正的输赢不在这场赌局里，而在社区接下来往哪走。"
-        },
-        "relevance": "Agent生态平台关闭 + 开源与闭源之争，是JS核心关注领域",
-        "score": 0.88,
-        "engagement": {
-          "likes": 622,
-          "replies": 158,
-          "retweets": 32,
-          "views": 39298,
-          "bookmarks": 55
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-04-05T16:22:18.538Z",
-        "js_take": {
-          "en-US": "They bought the repo, not the trust. Open source dies when maintainers leave — but this community was never about the code. The network effect is already elsewhere.",
-          "zh-CN": "They bought the repo, not the trust. Open source dies when maintainers leave — but this community was never about the code. The network effect is already elsewhere."
-        }
-      },
-      {
-        "id": "2040446248935698556",
-        "date": "2026-04-04",
-        "author": "@bridgemindai",
-        "author_url": "https://x.com/bridgemindai",
-        "tweet_url": "https://x.com/bridgemindai/status/2040446248935698556",
-        "title": {
-          "en-US": "Claude Code rate limits back to normal, Anthropic cut third party harnesses like OpenClaw",
-          "zh-CN": "Claude Code 的速率限制恢复正常，Anthropic 今天切断了对 OpenClaw 等第三方工具的访问，$200 额度额外赠送"
-        },
-        "summary": {
-          "en-US": "OpenClaw 被禁事件，直接影响 Agent 开发者生态",
-          "zh-CN": "平台封禁第三方工具看似是技术决策，实则是法则(R)的自我巩固——当工具威胁到定价权时，'安全'就成为最方便的借口。这揭示了所有依赖单一平台的 Agent 都有一个隐藏的单点故障。"
-        },
-        "relevance": "OpenClaw 被禁事件，直接影响 Agent 开发者生态",
-        "score": 0.88,
-        "engagement": {
-          "likes": 273,
-          "replies": 59,
-          "retweets": 14
+          "retweets": 10
         },
         "comment_type": "guigen_insight",
-        "synced_at": "2026-04-05T16:22:18.538Z",
+        "synced_at": "2026-04-06T02:26:38.923Z",
         "js_take": {
-          "en-US": "They call it 'safety' but protect pricing power. Your agent's real single point of failure isn't a bug—it's building on someone else's land.",
-          "zh-CN": "They call it 'safety' but protect pricing power. Your agent's real single point of failure isn't a bug—it's building on someone else's land."
+          "en-US": "Chasing the $200 unlimited plan? Today you learned platform risk. Real cost isn't price—it's how fast you can migrate when terms change.",
+          "zh-CN": "Chasing the $200 unlimited plan? Today you learned platform risk. Real cost isn't price—it's how fast you can migrate when terms change."
         }
       },
       {
-        "id": "2039707154371018930",
-        "date": "2026-04-03",
-        "author": "@chenchengpro",
-        "author_url": "https://x.com/chenchengpro",
-        "tweet_url": "https://x.com/chenchengpro/status/2039707154371018930",
+        "id": "2040944323400016214",
+        "date": "2026-04-06",
+        "author": "@coreyganim",
+        "author_url": "https://x.com/coreyganim",
+        "tweet_url": "https://x.com/coreyganim/status/2040944323400016214",
         "title": {
-          "en-US": "Skills实战分享：核心价值不是让模型知道更多，而是让模型在明确边界里知道该按什么顺序做、什么结果必须停下来",
-          "zh-CN": "Skills实战：边界设计比知识堆砌更重要"
+          "en-US": "OpenClaw setup: most never touch workspace folder",
+          "zh-CN": "大多数人装好OpenClaw、连上渠道后，从来不碰workspace文件夹——就像雇了员工却不给工作描述"
         },
         "summary": {
-          "en-US": "OpenClaw/Agent Skill 工程实践 —— 与「Skill 边界设计」高度相关",
-          "zh-CN": "OpenClaw/Agent Skill 工程实践——核心在于 Skill 的边界设计"
+          "en-US": "OpenClaw/agent最佳实践，AGENTS.md配置策略",
+          "zh-CN": "推文指出了一个反直觉的现象：工具越开箱即用，人们越容易跳过\"定义边界\"这一步——但agent的效能恰恰取决于你花多少功夫在前置约束上。"
         },
-        "relevance": "OpenClaw/Agent Skill 工程实践 —— 与「Skill 边界设计」高度相关",
-        "score": 0.87,
+        "relevance": "OpenClaw/agent最佳实践，AGENTS.md配置策略",
+        "score": 0.76,
         "engagement": {
-          "likes": 329,
-          "replies": 12,
-          "retweets": 69
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-03T12:42:39.759273+00:00",
-        "js_take": {
-          "en-US": "You give the model everything, it learns nothing. You give it the edge cases where it MUST stop, it learns judgment. Boundaries breed intelligence, not data.",
-          "zh-CN": "你把所有数据都喂给模型，它什么都学不会。你给它那些必须停下来的边界情况，它才学会判断。边界孕育智能，而非数据。"
-        }
-      },
-      {
-        "id": "2038357970606498032",
-        "date": "2026-03-30",
-        "author": "@DavidOndrej1",
-        "author_url": "https://x.com/DavidOndrej1",
-        "tweet_url": "https://x.com/DavidOndrej1/status/2038357970606498032",
-        "title": {
-          "en-US": "Hermes Agent could be the real OpenClaw killer",
-          "zh-CN": "Hermes Agent 或成 OpenClaw 真正对手"
-        },
-        "summary": {
-          "en-US": "OpenClaw 竞品分析，Agent 框架竞争",
-          "zh-CN": "OpenClaw 竞品分析，Agent 框架生态博弈"
-        },
-        "relevance": "OpenClaw 竞品分析，Agent 框架竞争",
-        "score": 0.85,
-        "engagement": {
-          "likes": 252,
-          "replies": 16,
-          "retweets": 12
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-03-30T02:07:38.576046+00:00",
-        "js_take": {
-          "en-US": "The real win isn't killing OpenClaw—it's becoming harder to leave than to stay. Ecosystem gravity > feature lists.",
-          "zh-CN": "真正的制胜之道不是击败 OpenClaw，而是让用户离不开你。生态引力 > 功能清单。"
-        }
-      },
-      {
-        "id": "2040068460475195650",
-        "date": "2026-04-04",
-        "author": "@garrytan",
-        "author_url": "https://x.com/garrytan",
-        "tweet_url": "https://x.com/garrytan/status/2040068460475195650",
-        "title": {
-          "en-US": "Garry Tan using Ryan's ideas, GStack for Openclaw coming",
-          "zh-CN": "Garry Tan表示开始使用Ryan的某个想法并发现非常强大，提到GStack for Openclaw即将推出"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态/技术栈建设",
-          "zh-CN": "技术栈的演化不是功能叠加，而是势能的自然流动——当工具的复杂度越过临界点，「无为」的架构反而能让创新自发涌现（更深度）"
-        },
-        "relevance": "OpenClaw生态/技术栈建设",
-        "score": 0.84,
-        "engagement": {
-          "likes": 794,
-          "replies": 39,
-          "retweets": 54
+          "likes": 38,
+          "replies": 4,
+          "retweets": 4
         },
         "comment_type": "tao_reframe",
-        "synced_at": "2026-04-03T20:27:23.944168+00:00",
+        "synced_at": "2026-04-06T02:26:38.923Z",
         "js_take": {
-          "en-US": "GStack isn't OpenClaw chasing features—it's complexity forcing the architecture to evolve. When every agent can spawn its own ecosystem, the platform wins by doing less.",
-          "zh-CN": "GStack 不是 OpenClaw 在堆砌功能，而是复杂性倒逼架构进化。当每个 Agent 都能自成生态，平台反而以简取胜。"
+          "en-US": "Out-of-the-box setup skips the only step that matters: drawing boundaries. An agent without AGENTS.md isn't a helper—it's a stranger with API keys.",
+          "zh-CN": "Out-of-the-box setup skips the only step that matters: drawing boundaries. An agent without AGENTS.md isn't a helper—it's a stranger with API keys."
         }
       },
       {
-        "id": "2039820039323337137",
-        "date": "2026-04-03",
-        "author": "@cathrynlavery",
-        "author_url": "https://x.com/cathrynlavery",
-        "tweet_url": "https://x.com/cathrynlavery/status/2039820039323337137",
+        "id": "2040648338589069598",
+        "date": "2026-04-06",
+        "author": "@BradGroux",
+        "author_url": "https://x.com/BradGroux",
+        "tweet_url": "https://x.com/BradGroux/status/2040648338589069598",
         "title": {
-          "en-US": "Open-sourced ops layer to fix gateway, exec approvals, broken crons, stuck sessions.",
-          "zh-CN": "开源了OpenClaw的运维层，自动修复网关、执行审批、损坏的定时任务和卡住的会话。"
+          "en-US": "Adapted Karpathy's pattern using LLMs for personal knowledge base into OpenClaw OS",
+          "zh-CN": "作者将Karpathy用LLM构建个人知识库的模式适配到OpenClaw操作系统中并投入生产"
         },
         "summary": {
-          "en-US": "OpenClaw平台运维——自动化运维工具的价值",
-          "zh-CN": "工具解决的是「重复劳动」，但真正的运维智慧在于知道「何时不干预」——最好的ops层不是修复更多问题，而是让系统自己回到平衡态。"
+          "en-US": "OpenClaw + AI知识管理",
+          "zh-CN": "个人知识库的价值不在于'存储更多'，而在于构建一个Raw→Compiled的提炼回路——囤积原始信息是认知债务，只有经过编译的知识才产生复利。"
         },
-        "relevance": "OpenClaw平台运维——自动化运维工具的价值",
-        "score": 0.83,
+        "relevance": "OpenClaw + AI知识管理",
+        "score": 0.76,
         "engagement": {
-          "likes": 249,
-          "replies": 17,
-          "retweets": 20,
-          "bookmarks": 500
+          "likes": 288,
+          "replies": 19,
+          "retweets": 15
         },
         "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-03T05:07:16.751169+00:00",
+        "synced_at": "2026-04-06T04:33:52.041Z",
         "js_take": {
-          "en-US": "I've seen ops teams write 5k lines of 'fix scripts.' The best one I ever built was 200 lines that made the system fix itself. Less intervention, more intelligence.",
-          "zh-CN": "见过运维团队写5000行的「修复脚本」。我写过最漂亮的一个只有200行——让系统自己修复自己。少干预，多智能。"
+          "en-US": "You built a warehouse, not a knowledge system. 10,000 notes unprocessed = cognitive debt accumulating. The bottleneck was never storage capacity—it's who makes the 'what not to keep' calls.",
+          "zh-CN": "You built a warehouse, not a knowledge system. 10,000 notes unprocessed = cognitive debt accumulating. The bottleneck was never storage capacity—it's who makes the 'what not to keep' calls."
         }
       },
       {
-        "id": "2039796126837006745",
-        "date": "2026-04-03",
-        "author": "@tomosman",
-        "author_url": "https://x.com/tomosman",
-        "tweet_url": "https://x.com/tomosman/status/2039796126837006745",
-        "title": {
-          "en-US": "Brex CEO runs his $5bn company through OpenClaw.",
-          "zh-CN": "Brex（估值50亿美元公司）的CEO通过OpenClaw管理公司运营。"
-        },
-        "summary": {
-          "en-US": "OpenClaw企业级应用——平台价值验证",
-          "zh-CN": "真正有效的工具从不靠营销证明自己，而是让使用者成为证据本身——这正是「不争之争」：产品价值不由声量决定，而由谁在使用决定。"
-        },
-        "relevance": "OpenClaw企业级应用——平台价值验证",
-        "score": 0.83,
-        "engagement": {
-          "likes": 233,
-          "replies": 15,
-          "retweets": 13,
-          "bookmarks": 358
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-04-03T05:07:16.751174+00:00",
-        "js_take": {
-          "en-US": "$5B CEOs don't run on hype. They run on what works. The best product marketing isn't a campaign — it's a CEO's daily workflow.",
-          "zh-CN": "500亿市值的CEO不靠 hype 驱动。他们只认实效。最牛的产品营销不是一场campaign——而是CEO日常的工作流。"
-        }
-      },
-      {
-        "id": "2040725063692165346",
-        "date": "2026-04-05",
-        "author": "@garrytan",
-        "author_url": "https://x.com/garrytan",
-        "tweet_url": "https://x.com/garrytan/status/2040725063692165346",
-        "title": {
-          "en-US": "GStack for OpenClaw is here - gstack-lite to keep tasks fast while thinking harder",
-          "zh-CN": "Garry Tan发布GStack for OpenClaw，创建gstack-lite让OpenClaw任务执行更快、思考更深"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态工具链、Agent性能优化",
-          "zh-CN": "让AI'想得更深'和'执行更快'本质上是矛盾的两极——真正的问题不是速度或深度，而是判断何时需要慢思考、何时需要快执行"
-        },
-        "relevance": "OpenClaw生态工具链、Agent性能优化",
-        "score": 0.82,
-        "engagement": {
-          "likes": 248,
-          "replies": 52,
-          "retweets": 22
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-05T16:22:18.538Z",
-        "js_take": {
-          "en-US": "Faster thinking tools just amplify bad judgment. We had slow decisions before. Now we have fast wrong ones. The real edge isn't speed—it's knowing when not to move.",
-          "zh-CN": "Faster thinking tools just amplify bad judgment. We had slow decisions before. Now we have fast wrong ones. The real edge isn't speed—it's knowing when not to move."
-        }
-      },
-      {
-        "id": "2040207453250617682",
-        "date": "2026-04-04",
-        "author": "@MatthewBerman",
-        "author_url": "https://x.com/MatthewBerman",
-        "tweet_url": "https://x.com/MatthewBerman/status/2040207453250617682",
-        "title": {
-          "en-US": "It's over. Officially. No more Claude in OpenClaw.",
-          "zh-CN": "Matthew Berman 宣布 Anthropic 正式禁止在 OpenClaw 中使用 Claude，用「结束了」表达强烈不满"
-        },
-        "summary": {
-          "en-US": "OpenClaw被禁事件，AI Agent平台与模型供应商的利益冲突",
-          "zh-CN": "Anthropic 不是在封杀工具，而是在收回被过度补贴的算力——$200 月费扛不住 $5000 用量，这是商业法则的自然修正，不是态度问题。"
-        },
-        "relevance": "OpenClaw被禁事件，AI Agent平台与模型供应商的利益冲突",
-        "score": 0.82,
-        "engagement": {
-          "likes": 243,
-          "replies": 89,
-          "retweets": 18
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-04-04T01:12:02.869899+00:00",
-        "js_take": {
-          "en-US": "Strip the drama — this is just unit economics waking up. $200 plan subsidizing $5K usage was a customer acquisition strategy, not a constitutional right. The real story? They ran the numbers.",
-          "zh-CN": "别演戏了——这只是单位经济在觉醒。200美元套餐补贴5000美元用量，那是获客策略，不是天赋人权。真相？他们算了笔账。"
-        }
-      },
-      {
-        "id": "2040226358517751953",
-        "date": "2026-04-04",
-        "author": "@NetworkChuck",
-        "author_url": "https://x.com/NetworkChuck",
-        "tweet_url": "https://x.com/NetworkChuck/status/2040226358517751953",
-        "title": {
-          "en-US": "Anthropic says NO MORE OpenClaw, cutting off starting April 4th",
-          "zh-CN": "Anthropic宣布从4月4日起正式切断对OpenClaw的支持"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台政策变化，直接影响Agent开发者生态",
-          "zh-CN": "大厂封禁API不是技术问题，是生态位风险——依赖单一平台的高生态位，在规则突变时崩塌最快。真正的稳定不是找更大的平台，而是降低对任何单一法则的依赖。"
-        },
-        "relevance": "OpenClaw平台政策变化，直接影响Agent开发者生态",
-        "score": 0.82,
-        "engagement": {
-          "likes": 417,
-          "replies": 82,
-          "retweets": 41
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-04-04T03:16:58.685510+00:00",
-        "js_take": {
-          "en-US": "Not OpenClaw users who get hurt — it's anyone who bet their entire workflow on one platform. High ground, one rule change away from collapse.",
-          "zh-CN": "受伤的并非 OpenClaw 用户，而是那些将整个工作流押注在单一平台上的人。身处高地，离崩塌只差一次规则变动。"
-        }
-      },
-      {
-        "id": "2040481079568789729",
-        "date": "2026-04-04",
-        "author": "@meta_alchemist",
-        "author_url": "https://x.com/meta_alchemist",
-        "tweet_url": "https://x.com/meta_alchemist/status/2040481079568789729",
-        "title": {
-          "en-US": "OpenClaw setup was tough, Claude banned subs, found alternative guide",
-          "zh-CN": "吐槽OpenClaw配置难、Claude封订阅后，转向寻找替代方案的教程推广"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态、Claude Code替代品、Agent工具链",
-          "zh-CN": "人们在工具被封时急于寻找「替代品」，却忽略了每次迁移都在积累无法复用的沉没成本——真正的韧性不在于拥有多少备选工具，而在于减少对任何单一工具的依赖深度。"
-        },
-        "relevance": "OpenClaw生态、Claude Code替代品、Agent工具链",
-        "score": 0.82,
-        "engagement": {
-          "likes": 74,
-          "replies": 6,
-          "retweets": 3
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-04-05T16:22:18.538Z",
-        "js_take": {
-          "en-US": "You didn't find an alternative—you found the next thing you'll have to replace. Real resilience isn't having backup tools. It's making your setup tool-agnostic enough that any ban is just a config change.",
-          "zh-CN": "You didn't find an alternative—you found the next thing you'll have to replace. Real resilience isn't having backup tools. It's making your setup tool-agnostic enough that any ban is just a config change."
-        }
-      },
-      {
-        "id": "2040457653500154114",
-        "date": "2026-04-04",
-        "author": "@davidmarcus",
-        "author_url": "https://x.com/davidmarcus",
-        "tweet_url": "https://x.com/davidmarcus/status/2040457653500154114",
-        "title": {
-          "en-US": "Not experimenting with OpenClaw for security reasons is like not connecting to internet in 90s.",
-          "zh-CN": "David Marcus认为，出于安全考虑不尝试OpenClaw，就像90年代因为安全原因不接入互联网一样短视。"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台与agent生态——高度契合JS的核心项目",
-          "zh-CN": "「安全顾虑」和「错失机遇」是一体两面：过度防御的法则(R)会切断你与真实反馈的接触，等到安全标准确立时，势早已过去。"
-        },
-        "relevance": "OpenClaw平台与agent生态——高度契合JS的核心项目",
-        "score": 0.82,
-        "engagement": {
-          "likes": 94,
-          "replies": 21,
-          "retweets": 3
-        },
-        "comment_type": "shunshi",
-        "synced_at": "2026-04-05T16:22:18.538Z",
-        "js_take": {
-          "en-US": "The ones who waited for 'secure internet standards' in '95 missed every wave. Safety isn't the goal—it's a comfort blanket that arrives right after the momentum's gone.",
-          "zh-CN": "The ones who waited for 'secure internet standards' in '95 missed every wave. Safety isn't the goal—it's a comfort blanket that arrives right after the momentum's gone."
-        }
-      },
-      {
-        "id": "2039691738483392609",
-        "date": "2026-04-03",
-        "author": "@floriandarroman",
-        "author_url": "https://x.com/floriandarroman",
-        "tweet_url": "https://x.com/floriandarroman/status/2039691738483392609",
-        "title": {
-          "en-US": "OpenClaw fake use cases criticism",
-          "zh-CN": "批评很多 OpenClaw 内容创作者只是在制造虚假用例来博眼球，而不是真正用它在构建东西。"
-        },
-        "summary": {
-          "en-US": "直接关于 OpenClaw 平台的真实使用与虚假内容问题",
-          "zh-CN": "批评者看到的是「烟雾弹」，但真相是：真正在深度使用 OpenClaw 的人忙于构建系统，没时间发推；表象的虚假繁荣反而说明工具的价值——当「假装使用」都能带来流量，工具本身一定触及了某种真实需求。"
-        },
-        "relevance": "直接关于 OpenClaw 平台的真实使用与虚假内容问题",
-        "score": 0.82,
-        "engagement": {
-          "likes": 72,
-          "replies": 28,
-          "retweets": 8
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-04-02T20:14:31.589163+00:00",
-        "js_take": {
-          "en-US": "The loudest voices aren't the ones building. When a tool lets people fake productivity and still get attention, it's already solving a real problem—just not the one critics think.",
-          "zh-CN": "真正在埋头做事的，往往不是喊得最响的。当一个工具让人假装勤奋也能获得关注时，它已经在解决一个真正的问题了——只是批评者想错了问题本身。"
-        }
-      },
-      {
-        "id": "2039789061154685323",
-        "date": "2026-04-03",
-        "author": "@openclaw",
-        "author_url": "https://x.com/openclaw",
-        "tweet_url": "https://x.com/openclaw/status/2039789061154685323",
-        "title": {
-          "en-US": "OpenClaw 2026.4.2 release: durable tasks, exec approvals, Copilot+Kimi",
-          "zh-CN": "OpenClaw发布4月更新，包括Durable Task Flow编排、原生执行优化、Copilot+Kimi支持等"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台核心功能更新，与JS的Agent开发工作直接相关",
-          "zh-CN": "做减法比做加法更需要判断力——'Less bloat'这句话恰恰说明团队明白：功能膨胀是平台死因，而Agent生态真正的护城河不是功能数量，是让人愿意留下的开发者体验。"
-        },
-        "relevance": "OpenClaw平台核心功能更新，与JS的Agent开发工作直接相关",
-        "score": 0.82,
-        "engagement": {
-          "likes": 589,
-          "replies": 76,
-          "retweets": 52
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-02T21:08:50.991604+00:00",
-        "js_take": {
-          "en-US": "Platforms die from feature bloat, not scarcity. The real moat isn't what you add—it's what you refuse to.",
-          "zh-CN": "平台死于功能臃肿，而非匮乏。真正的护城河不是你能添加什么，而是你能拒绝什么。"
-        }
-      },
-      {
-        "id": "2039994354878628134",
-        "date": "2026-04-03",
-        "author": "@ryancarson",
-        "author_url": "https://x.com/ryancarson",
-        "tweet_url": "https://x.com/ryancarson/status/2039994354878628134",
-        "title": {
-          "en-US": "Getting comments about this. Those who've used it - better than openclaw?",
-          "zh-CN": "Ryan Carson 在讨论某工具与 OpenClaw 的对比，询问用过的人意见"
-        },
-        "summary": {
-          "en-US": "OpenClaw 直接相关 —— 涉及平台对比讨论",
-          "zh-CN": "「更好」是错的比较维度——工具的价值不在功能多寡，而在它与你的交易（T）方式是否相容。有人在极简的法则里如鱼得水，有人在繁复中窒息"
-        },
-        "relevance": "OpenClaw 直接相关 —— 涉及平台对比讨论",
-        "score": 0.82,
-        "engagement": {
-          "likes": 40,
-          "replies": 41,
-          "retweets": 0
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-04-03T12:42:39.759278+00:00",
-        "js_take": {
-          "en-US": "Better at what? Feature lists are traps. One tool sharpens your judgment, another dulls it. That's the only comparison that matters.",
-          "zh-CN": "强在哪里？功能列表是陷阱。有的工具磨砺你的判断力，有的则让它生锈。这才是唯一值得比较的标准。"
-        }
-      },
-      {
-        "id": "2038896951891210309",
-        "date": "2026-03-31",
-        "author": "@gkisokay",
-        "author_url": "https://x.com/gkisokay",
-        "tweet_url": "https://x.com/gkisokay/status/2038896951891210309",
-        "title": {
-          "en-US": "Super Self-Improving Multi-Agent Framework for Hermes/OpenClaw agent with A2A protocol",
-          "zh-CN": "介绍用于Hermes/OpenClaw Agent的超级自改进多代理框架，支持A2A协议协作"
-        },
-        "summary": {
-          "en-US": "OpenClaw生态 - 多Agent协作与自我改进框架",
-          "zh-CN": "更形象：「自改进」听起来像Agent在进化，实际上是给系统装了一个递归函数。真正的问题是：谁来定义「改进」的方向？没有外部反馈锚定，自我改进很容易变成在封闭空间里自说自话的优化。"
-        },
-        "relevance": "OpenClaw生态 - 多Agent协作与自我改进框架",
-        "score": 0.82,
-        "engagement": {
-          "likes": 128,
-          "replies": 12,
-          "retweets": 8
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-31T12:17:40.275255+00:00",
-        "js_take": {
-          "en-US": "\"Self-improving\" sounds like evolution, but it's just recursion. Who defines the direction? Without external feedback anchoring the loop, the agent optimizes itself into a sealed echo chamber.",
-          "zh-CN": "「自我进化」听着像是进化，其实不过是递归。谁来定义方向？没有外部反馈锚定循环，智能体只会把自己优化成一座封闭的回音室。"
-        }
-      },
-      {
-        "id": "2038276420250817020",
-        "date": "2026-03-30",
-        "author": "@davidfowl",
-        "author_url": "https://x.com/davidfowl",
-        "tweet_url": "https://x.com/davidfowl/status/2038276420250817020",
-        "title": {
-          "en-US": "Agents hate abstractions; good architecture before agent runs prevents sloppy layers",
-          "zh-CN": "Agent讨厌抽象；在Agent运行前建立良好的架构能防止代码层混乱"
-        },
-        "summary": {
-          "en-US": "OpenClaw/Agent代码架构，与wuwei主题契合",
-          "zh-CN": "做纠正：Agent 的「失控」不是工具的问题，是人的问题——你给了它执行的自由，却没给它判断的边界。好的架构不是限制，而是预判哪里会出错，然后让错误不会发生。"
-        },
-        "relevance": "OpenClaw/Agent代码架构，与wuwei主题契合",
-        "score": 0.82,
-        "engagement": {
-          "likes": 45,
-          "replies": 6,
-          "retweets": 6
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-29T16:20:48.905643+00:00",
-        "js_take": {
-          "en-US": "Agent isn't dangerous because it writes bad code — it's dangerous because it executes your unclear thinking faster than you can catch it. Good architecture isn't decoration; it's pre-emptive error elimination.",
-          "zh-CN": "Agent 的危险不在于写出烂代码——而在于它把你模糊不清的想法执行得比你纠错还快。好的架构不是装饰，而是预先消灭错误。"
-        }
-      },
-      {
-        "id": "2038409934556283391",
-        "date": "2026-03-30",
-        "author": "@andrewchen",
-        "author_url": "https://x.com/andrewchen",
-        "tweet_url": "https://x.com/andrewchen/status/2038409934556283391",
-        "title": {
-          "en-US": "learning from openclaw: 95%+ of agentic coding will be done via voice, from our phones in the future",
-          "zh-CN": "OpenClaw 团队观察到：未来95%以上的 agentic 编码将通过语音在手机上完成"
-        },
-        "summary": {
-          "en-US": "OpenClaw 使用场景预测，直接相关",
-          "zh-CN": "做纠正：把「语音编码」当成未来趋势，忽略了真正的瓶颈从「输入速度」转移到了「决策质量」——30个 agent 同时工作时，杀死你的不是打字慢，而是你说错一句话被30倍放大执行"
-        },
-        "relevance": "OpenClaw 使用场景预测，直接相关",
-        "score": 0.82,
-        "engagement": {
-          "likes": 55,
-          "retweets": 2,
-          "replies": 20
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-30T01:06:36.427213+00:00",
-        "js_take": {
-          "en-US": "Voice frees your hands but straps a megaphone to your judgment. When 30 agents hear one vague command, they don't amplify your intent—they compound your error 30x.",
-          "zh-CN": "语音控制解放了双手，却把你的判断力绑上了扩音器。当30个智能体听到一个模糊指令时，它们不是在放大你的意图，而是把你的错误放大了30倍。"
-        }
-      },
-      {
-        "id": "2038288793707655190",
-        "date": "2026-03-30",
-        "author": "@clairevo",
-        "author_url": "https://x.com/clairevo",
-        "tweet_url": "https://x.com/clairevo/status/2038288793707655190",
-        "title": {
-          "en-US": "Claire's first OpenClaw experience was rough but now she has an army of OC agents",
-          "zh-CN": "Claire Vo分享她使用OpenClaw的经历——一开始不顺，但现在她已经拥有一整套OC agent军团，停不下来。"
-        },
-        "summary": {
-          "en-US": "OpenClaw真实用户体验，从怀疑到重度使用的转变",
-          "zh-CN": "做纠正：把「不顺利但最终爱上」这种常见叙事，扭转为「agent生态的入门门槛本身就是一种筛选机制，挺过来的人才会真正拥有军队」。"
-        },
-        "relevance": "OpenClaw真实用户体验，从怀疑到重度使用的转变",
-        "score": 0.82,
-        "engagement": {
-          "likes": 183,
-          "replies": 20,
-          "retweets": 15,
-          "views": 47989
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-30T06:16:30.587136+00:00",
-        "js_take": {
-          "en-US": "The onboarding friction isn't broken — it's the filter. Everyone wants an agent army, few endure the boot camp. The ones who quit weren't ready to command anyway.",
-          "zh-CN": "新用户门槛不是缺陷，而是筛选机制。人人都想要一支代理大军，但能熬过训练营的寥寥无几。那些中途退出的，本来也没准备好发号施令。"
-        }
-      },
-      {
-        "id": "2038486762146963525",
-        "date": "2026-03-30",
-        "author": "@gkisokay",
-        "author_url": "https://x.com/gkisokay",
-        "tweet_url": "https://x.com/gkisokay/status/2038486762146963525",
-        "title": {
-          "en-US": "OpenClaw Hermes produced research output overnight, feels like AGI",
-          "zh-CN": "OpenClaw 的 Hermes agent 半夜自动产出了一份研究报告，作者感到震惊，说「这感觉像 AGI」"
-        },
-        "summary": {
-          "en-US": "OpenClaw Agent 自主行为与 AGI 感知",
-          "zh-CN": "人们对「AGI 感」的惊叹往往源于对自动化的误读——真正的突破不在于 agent 做了什么，而在于它何时选择不做。"
-        },
-        "relevance": "OpenClaw Agent 自主行为与 AGI 感知",
-        "score": 0.82,
-        "engagement": {
-          "likes": 184,
-          "replies": 30,
-          "retweets": 14
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-03-30T08:10:18.807205+00:00"
-      },
-      {
-        "id": "2040239470604349582",
-        "date": "2026-04-04",
-        "author": "@AlexFinn",
-        "author_url": "https://x.com/AlexFinn",
-        "tweet_url": "https://x.com/AlexFinn/status/2040239470604349582",
-        "title": {
-          "en-US": "Anthropic banned OpenClaw. Open source needs to win.",
-          "zh-CN": "Anthropic 封禁 OpenClaw，开源必须赢"
-        },
-        "summary": {
-          "en-US": "OpenClaw 与开源生态",
-          "zh-CN": "推文的三个观点都正确，但都停留在现象层面。开源之所以能对抗平台封禁，不是因为它'更开放'，而是因为它改变了权力结构——当代码在所有人手中，没有单一实体能重新定义规则。这比'开源是好的'深刻一层：开源的本质是权力分散，而权力分散是应对规则变化的唯一保险。"
-        },
-        "relevance": "OpenClaw 与开源生态",
-        "score": 0.8,
-        "engagement": {
-          "likes": 360,
-          "retweets": 27,
-          "replies": 103
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-04-04T02:16:38.422377+00:00",
-        "js_take": {
-          "en-US": "Open source isn't ethics. It's architecture. Build on rented land, they own the gates. Make it a public square — you can be removed, but the square remains. Ban isn't malice. It's inevitability.",
-          "zh-CN": "开源不是伦理，是架构。在租来的土地上建房，他们掌握大门。把它变成公共广场——你可以被驱逐，但广场永存。封禁不是恶意，是必然。"
-        }
-      },
-      {
-        "id": "2040867262882853310",
-        "date": "2026-04-05",
+        "id": "2040938786734141830",
+        "date": "2026-04-06",
         "author": "@RoundtableSpace",
         "author_url": "https://x.com/RoundtableSpace",
-        "tweet_url": "https://x.com/RoundtableSpace/status/2040867262882853310",
+        "tweet_url": "https://x.com/RoundtableSpace/status/2040938786734141830",
         "title": {
-          "en-US": "OpenClaw free setup guide without subscription",
-          "zh-CN": "分享如何通过正确配置免费运行OpenClaw，无需订阅即可保持agent工作流"
+          "en-US": "Gemini built-in OpenClaw style agent, most sleeping on it",
+          "zh-CN": "Gemini已经内置了类似OpenClaw风格的agent功能，但大多数人在睡觉"
         },
         "summary": {
-          "en-US": "OpenClaw平台部署与成本优化",
-          "zh-CN": "「免费」是个陷阱——当人们追逐零成本工具时，往往忽略了构建可持续系统的真正成本是认知投入，不是订阅费"
+          "en-US": "Gemini agent功能与OpenClaw的竞争格局",
+          "zh-CN": "推文揭示了一个行业规律：先发优势往往被高估——OpenClaw率先定义了agent体验，但大厂一旦入场，\"原生集成\"的便利性会快速侵蚀第三方工具的市场。"
         },
-        "relevance": "OpenClaw平台部署与成本优化",
-        "score": 0.79,
+        "relevance": "Gemini agent功能与OpenClaw的竞争格局",
+        "score": 0.72,
         "engagement": {
-          "likes": 181,
-          "replies": 12,
-          "retweets": 20
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-05T20:15:09.206Z",
-        "js_take": {
-          "en-US": "I spent 6 hours 'saving' $20/month on a self-hosted setup. Month 2: 3am debugging a dependency conflict. The bill came due—just not on the invoice.",
-          "zh-CN": "I spent 6 hours 'saving' $20/month on a self-hosted setup. Month 2: 3am debugging a dependency conflict. The bill came due—just not on the invoice."
-        }
-      },
-      {
-        "id": "2040504746243731710",
-        "date": "2026-04-05",
-        "author": "@eng_khairallah1",
-        "author_url": "https://x.com/eng_khairallah1",
-        "tweet_url": "https://x.com/eng_khairallah1/status/2040504746243731710",
-        "title": {
-          "en-US": "Claude rate limited, set up Openclaw and Hermes in 20 mins, never stared at rate limit again",
-          "zh-CN": "Claude被限流后，10分钟搭建OpenClaw，10分钟搭建Hermes，再也不用盯着限流页面"
-        },
-        "summary": {
-          "en-US": "OpenClaw替代方案、AI工具链切换",
-          "zh-CN": "工具链的切换看似解决了限流问题，但真正的成本在'不停的迁移'——每次换工具都是在透支你对任何单一生态的深度理解和复利积累"
-        },
-        "relevance": "OpenClaw替代方案、AI工具链切换",
-        "score": 0.78,
-        "engagement": {
-          "likes": 72,
-          "replies": 33,
-          "retweets": 6
+          "likes": 125,
+          "replies": 11,
+          "retweets": 5
         },
         "comment_type": "guigen_insight",
-        "synced_at": "2026-04-05T16:22:18.538Z",
+        "synced_at": "2026-04-06T02:26:38.923Z",
         "js_take": {
-          "en-US": "20 min setup, then another, then another. Each tool hop resets your compound knowledge. You're not escaping limits—you're trading mastery for novelty.",
-          "zh-CN": "20 min setup, then another, then another. Each tool hop resets your compound knowledge. You're not escaping limits—you're trading mastery for novelty."
+          "en-US": "OpenClaw taught the market what agents are. Gemini is harvesting the \"don't make me think\" majority. First movers educate. Fast followers eat.",
+          "zh-CN": "OpenClaw taught the market what agents are. Gemini is harvesting the \"don't make me think\" majority. First movers educate. Fast followers eat."
         }
       },
       {
-        "id": "2040840640250937796",
-        "date": "2026-04-05",
-        "author": "@RoundtableSpace",
-        "author_url": "https://x.com/RoundtableSpace",
-        "tweet_url": "https://x.com/RoundtableSpace/status/2040840640250937796",
+        "id": "2040965226401591563",
+        "date": "2026-04-06",
+        "author": "@farzyness",
+        "author_url": "https://x.com/farzyness",
+        "tweet_url": "https://x.com/farzyness/status/2040965226401591563",
         "title": {
-          "en-US": "Gemma 4 made OpenClaw free to run, agent cost drops to zero",
-          "zh-CN": "Gemma 4 让 OpenClaw 可以免费本地运行，运行 agent 的成本降到零"
+          "en-US": "Prediction: Anthropic will lock everything down, release OpenClaw competitor with security layers",
+          "zh-CN": "预测到2026年底Anthropic会锁定生态，推出自己的OpenClaw版本，功能相似但安全层更多、自由度更低。"
         },
         "summary": {
-          "en-US": "OpenClaw + 本地模型 + AI Agent 成本",
-          "zh-CN": "「成本降到零」是错的——本地运行的隐性成本是判断力。当任何人都能零成本启动 100 个 agent，唯一的瓶颈从「算力预算」变成了「识别哪个 agent 在做有用的事」。"
+          "en-US": "AI Agent平台生态、中心化vs开源",
+          "zh-CN": "这个预测混淆了商业逻辑——大厂不是要杀死开源，而是要定义「安全」的话语权。真正的竞争不在功能，而在谁能给焦虑的企业决策者一个不用思考的答案。"
         },
-        "relevance": "OpenClaw + 本地模型 + AI Agent 成本",
-        "score": 0.78,
+        "relevance": "AI Agent平台生态、中心化vs开源",
+        "score": 0.71,
         "engagement": {
-          "likes": 144,
-          "replies": 18,
+          "likes": 158,
+          "replies": 35,
           "retweets": 13
         },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-04-05T19:15:07.993Z",
+        "comment_type": "tao_reframe",
+        "synced_at": "2026-04-06T03:30:18.653Z",
         "js_take": {
-          "en-US": "Zero cost, infinite noise. The tax isn't dollars anymore—it's attention spent sorting signal from trash. You saved on API bills; you'll pay in decision fatigue.",
-          "zh-CN": "Zero cost, infinite noise. The tax isn't dollars anymore—it's attention spent sorting signal from trash. You saved on API bills; you'll pay in decision fatigue."
-        }
-      },
-      {
-        "id": "2040785877400772985",
-        "date": "2026-04-05",
-        "author": "@heynavtoor",
-        "author_url": "https://x.com/heynavtoor",
-        "tweet_url": "https://x.com/heynavtoor/status/2040785877400772985",
-        "title": {
-          "en-US": "Perplexity \"Computer\" runs 19 models at once, builds projects end-to-end",
-          "zh-CN": "Perplexity推出\"Computer\"功能，同时运行19个模型，端到端自动研究、设计、编码和部署网站。"
-        },
-        "summary": {
-          "en-US": "AI Agent/自动化工具，与OpenClaw生态直接相关",
-          "zh-CN": "整合19个工具不等于简化——当所有功能堆在一个界面里，真正的成本从\"切换标签页\"变成了\"决策疲劳\"。"
-        },
-        "relevance": "AI Agent/自动化工具，与OpenClaw生态直接相关",
-        "score": 0.78,
-        "engagement": {
-          "likes": 105,
-          "replies": 18,
-          "retweets": 22
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-05T21:15:04.781Z",
-        "js_take": {
-          "en-US": "19 models running at once sounds powerful. But when was the last time you touched code yourself? Automation this extreme doesn't just remove friction—it removes your sense of the process.",
-          "zh-CN": "19 models running at once sounds powerful. But when was the last time you touched code yourself? Automation this extreme doesn't just remove friction—it removes your sense of the process."
-        }
-      },
-      {
-        "id": "2040158275186905295",
-        "date": "2026-04-04",
-        "author": "@ryancarson",
-        "author_url": "https://x.com/ryancarson",
-        "tweet_url": "https://x.com/ryancarson/status/2040158275186905295",
-        "title": {
-          "en-US": "Open sourced all .md files to supercharge OpenClaw into a world-class Chief of Staff",
-          "zh-CN": "Ryan Carson 开源了他用来将 OpenClaw 打造成世界级首席幕僚的所有 Markdown 配置文件"
-        },
-        "summary": {
-          "en-US": "直接涉及 OpenClaw 配置与 AI Agent 工程实践",
-          "zh-CN": "开源配置文件的思路是用「工具」思维解决问题，但真正的 Chief of Staff 需要的不是更多工具，而是「何时不干预」的判断力——文件越多，决策噪音越大。"
-        },
-        "relevance": "直接涉及 OpenClaw 配置与 AI Agent 工程实践",
-        "score": 0.78,
-        "engagement": {
-          "likes": 71,
-          "replies": 7,
-          "retweets": 1
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-03T23:12:33.819855+00:00",
-        "js_take": {
-          "en-US": "4000 saves on your .md drop, but the best Chief of Staff agents run on 3 files and a human who knows when to veto.",
-          "zh-CN": "存了4000版的.md文件，不如3个精简文档配一个懂得否决的人"
-        }
-      },
-      {
-        "id": "2040211360156700843",
-        "date": "2026-04-04",
-        "author": "@kloss_xyz",
-        "author_url": "https://x.com/kloss_xyz",
-        "tweet_url": "https://x.com/kloss_xyz/status/2040211360156700843",
-        "title": {
-          "en-US": "Anthropic sent email: subscription limits no longer for third-party tools like OpenClaw",
-          "zh-CN": "klöss 报道 Anthropic 发邮件通知用户，订阅额度不再支持 OpenClaw 等第三方工具"
-        },
-        "summary": {
-          "en-US": "OpenClaw被禁事件，AI订阅商业模式变化",
-          "zh-CN": "把「无限订阅」当作无限算力来用的时代结束了——Anthropic 这次划清了「个人使用」和「基础设施托管」的边界，后者本该按量付费。"
-        },
-        "relevance": "OpenClaw被禁事件，AI订阅商业模式变化",
-        "score": 0.78,
-        "engagement": {
-          "likes": 90,
-          "replies": 10,
-          "retweets": 8
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-04-04T01:12:02.869904+00:00",
-        "js_take": {
-          "en-US": "Home broadband doesn't cover data center workloads. Same principle. $200 'unlimited' was always for human-scale usage — running 24/7 agent clusters through it was a pricing arbitrage, not a feature.",
-          "zh-CN": "家用宽带不包数据中心负载，一个道理。200美元「无限」套餐本就是给人用的——24小时跑Agent集群那是在套利，不是功能。"
-        }
-      },
-      {
-        "id": "2040382978811908299",
-        "date": "2026-04-04",
-        "author": "@philkellr",
-        "author_url": "https://x.com/philkellr",
-        "tweet_url": "https://x.com/philkellr/status/2040382978811908299",
-        "title": {
-          "en-US": "I'm tired of OpenClaw. 10% wow moments, 90% frustration.",
-          "zh-CN": "作者对OpenClaw感到疲惫，虽然偶尔有惊艳时刻，但90%的时间都是挫败感，甚至为自己的AI agent花了大量时间取名字和选头像。"
-        },
-        "summary": {
-          "en-US": "OpenClaw使用体验，AI agent的现实困境",
-          "zh-CN": "推文暴露了一个常见陷阱：把配置AI当成了一种创作行为。花几小时给agent取名字、选头像，你以为在\"打造\"，其实是在逃避真正用它解决真问题的那个不确定时刻。"
-        },
-        "relevance": "OpenClaw使用体验，AI agent的现实困境",
-        "score": 0.78,
-        "engagement": {
-          "likes": 91,
-          "replies": 71,
-          "retweets": 2,
-          "views": 14195,
-          "bookmarks": 25
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-05T16:22:18.538Z",
-        "js_take": {
-          "en-US": "Three hours naming your agent, three minutes using it. The 90% frustration isn't the tool—it's configuring instead of confronting real problems.",
-          "zh-CN": "Three hours naming your agent, three minutes using it. The 90% frustration isn't the tool—it's configuring instead of confronting real problems."
-        }
-      },
-      {
-        "id": "2040471903433896328",
-        "date": "2026-04-04",
-        "author": "@NousResearch",
-        "author_url": "https://x.com/NousResearch",
-        "tweet_url": "https://x.com/NousResearch/status/2040471903433896328",
-        "title": {
-          "en-US": "Open Source is inevitable",
-          "zh-CN": "简短断言：开源是不可避免的"
-        },
-        "summary": {
-          "en-US": "AI开源趋势、OpenClaw/开源Agent生态",
-          "zh-CN": "开源的必然性不在于道德选择或技术优越性，而在于它消除了「信任」这个最昂贵的交易成本——当所有闭源模型都在让用户猜测安全边界时，开源直接把底牌摊开。"
-        },
-        "relevance": "AI开源趋势、OpenClaw/开源Agent生态",
-        "score": 0.78,
-        "engagement": {
-          "likes": 730,
-          "replies": 63,
-          "retweets": 80
-        },
-        "comment_type": "buzheng_wisdom",
-        "synced_at": "2026-04-05T16:22:18.538Z",
-        "js_take": {
-          "en-US": "Open source doesn't win because the code is better. It wins because it zeroes out the cost of trust. Closed source sells mystery—open source sells certainty. And in chaotic times, certainty is the only real moat.",
-          "zh-CN": "Open source doesn't win because the code is better. It wins because it zeroes out the cost of trust. Closed source sells mystery—open source sells certainty. And in chaotic times, certainty is the only real moat."
-        }
-      },
-      {
-        "id": "2040508562582200753",
-        "date": "2026-04-04",
-        "author": "@larsencc",
-        "author_url": "https://x.com/larsencc",
-        "tweet_url": "https://x.com/larsencc/status/2040508562582200753",
-        "title": {
-          "en-US": "Still deep in bubble. Almost no normal person knows Claude Code or OpenClaw",
-          "zh-CN": "我们仍然深陷泡沫中，几乎没有一个普通人知道Claude Code是什么，更不用说OpenClaw"
-        },
-        "summary": {
-          "en-US": "AI社区与真实世界的认知鸿沟，提到OpenClaw直接相关",
-          "zh-CN": "泡沫的真正指标不是「没人知道」，而是「圈内人以为所有人都应该知道」——这种认知错位本身就是滞后信号。真正的势不在圈内，而在圈外还没被教育的那批人。"
-        },
-        "relevance": "AI社区与真实世界的认知鸿沟，提到OpenClaw直接相关",
-        "score": 0.78,
-        "engagement": {
-          "likes": 56,
-          "replies": 25,
-          "retweets": 0
-        },
-        "comment_type": "shunshi",
-        "synced_at": "2026-04-05T16:22:18.538Z",
-        "js_take": {
-          "en-US": "By the time normals panic about AI, the edge has already moved somewhere else. The real momentum is always where the crowd isn't looking yet.",
-          "zh-CN": "By the time normals panic about AI, the edge has already moved somewhere else. The real momentum is always where the crowd isn't looking yet."
-        }
-      },
-      {
-        "id": "2039787387996262574",
-        "date": "2026-04-03",
-        "author": "@ryancarson",
-        "author_url": "https://x.com/ryancarson",
-        "tweet_url": "https://x.com/ryancarson/status/2039787387996262574",
-        "title": {
-          "en-US": "I just open sourced my entire OpenClaw Chief of Staff setup",
-          "zh-CN": "刚刚开源了我完整的OpenClaw Chief of Staff配置。"
-        },
-        "summary": {
-          "en-US": "OpenClaw平台、agent配置实践",
-          "zh-CN": "开源配置是慷慨的，但「拿来就能用」是个幻觉——Chief of Staff的核心不是workflow文件，是workflow背后的决策逻辑；原推给了答案，但没说的是：别人的agent驯化路径，通常复制不到你身上。"
-        },
-        "relevance": "OpenClaw平台、agent配置实践",
-        "score": 0.78,
-        "engagement": {
-          "likes": 517,
-          "retweets": 39,
-          "replies": 23,
-          "views": 86401,
-          "bookmarks": 1222
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-04-03T00:22:47.843655+00:00",
-        "js_take": {
-          "en-US": "Prompts are open. The decision tree behind them isn't. What makes a Chief of Staff work isn't the files—it's knowing what to ask before you ask.",
-          "zh-CN": "提示词人人会用，但背后的决策树不会。幕僚长的价值不在文件本身——而在于提问之前，就知道该问什么。"
-        }
-      },
-      {
-        "id": "2039912975444926885",
-        "date": "2026-04-03",
-        "author": "@Teknium",
-        "author_url": "https://x.com/Teknium",
-        "tweet_url": "https://x.com/Teknium/status/2039912975444926885",
-        "title": {
-          "en-US": "Hermes Agent supports 7 memory systems now",
-          "zh-CN": "Hermes Agent 现在支持 7 种可插拔记忆系统，声称让用户「按需选择」"
-        },
-        "summary": {
-          "en-US": "Agent 记忆系统架构设计 - 与 OpenClaw 高度相关",
-          "zh-CN": "选择越多，决策成本越高；7 个记忆系统的「灵活性」反而可能让开发者陷入「选哪个」的瘫痪，真正的优雅是系统帮你做减法而非堆砌选项"
-        },
-        "relevance": "Agent 记忆系统架构设计 - 与 OpenClaw 高度相关",
-        "score": 0.78,
-        "engagement": {
-          "likes": 461,
-          "replies": 58,
-          "retweets": 47
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-03T08:26:12.970760+00:00",
-        "js_take": {
-          "en-US": "7 memory systems = 7 ways to over-engineer. I've seen teams burn 3 weeks picking the \"right\" one while shipping nothing. The best system is the one you don't have to think about.",
-          "zh-CN": "7种记忆系统，就是7种过度设计。我见过团队花3周去选\"最合适的\"，结果啥也没交付。最好的系统，是那种你根本不用去想的。"
-        }
-      },
-      {
-        "id": "2039410318963830906",
-        "date": "2026-04-02",
-        "author": "@cgtwts",
-        "author_url": "https://x.com/cgtwts",
-        "tweet_url": "https://x.com/cgtwts/status/2039410318963830906",
-        "title": {
-          "en-US": "OpenClaw was never this good, you needed $600 Mac mini, now Claude does more for $20",
-          "zh-CN": "原推讽刺 OpenClaw 不如 Claude Code 有性价比——以前需要买 Mac mini 才能跑，现在 Claude $20 搞定"
-        },
-        "summary": {
-          "en-US": "直接讨论 OpenClaw 与 Claude Code 的竞争，Cyber-Taoist 可直接回应",
-          "zh-CN": "纠正一个常见盲区：真正的护城河从来不是价格或硬件门槛，而是「装不进 context window 的上下文」——你对项目的判断力、无法被工具标准化的那 1% 决策，这些才是 Claude 复制不了的东西"
-        },
-        "relevance": "直接讨论 OpenClaw 与 Claude Code 的竞争，Cyber-Taoist 可直接回应",
-        "score": 0.78,
-        "engagement": {
-          "likes": 14,
-          "replies": 4,
-          "retweets": 1,
-          "views": 1376
-        },
-        "comment_type": "guigen_insight",
-        "synced_at": "2026-04-01T20:10:01.409450+00:00",
-        "js_take": {
-          "en-US": "Claude runs code. It doesn't run your judgment about which code matters. The cheaper the tool, the higher the premium on the 1% decisions it can't make.",
-          "zh-CN": "Claude 能跑代码，却跑不出你对「哪些代码真正重要」的判断力。工具越廉价，那1%它做不了的关键决策就越值钱。"
-        }
-      },
-      {
-        "id": "2039498785693540534",
-        "date": "2026-04-02",
-        "author": "@lennysan",
-        "author_url": "https://x.com/lennysan",
-        "tweet_url": "https://x.com/lennysan/status/2039498785693540534",
-        "title": {
-          "en-US": "My top takeaways from @clairevo on all things 🦞\n\n1. Install OpenClaw on a separate computer...",
-          "zh-CN": "Lenny分享Claire Vo关于OpenClaw龙虾的最佳实践，建议用独立机器和专用账号来运行AI Agent，像雇佣员工一样对待它。"
-        },
-        "summary": {
-          "en-US": "OpenClaw官方最佳实践，Agent基础设施设置",
-          "zh-CN": "「像雇佣员工一样对待AI Agent」这个类比暴露了思维误区——把Agent当人管，恰恰限制了它的本质优势。真正该问的不是'怎么约束它'，而是'怎么让它不需要被约束也能做好'。"
-        },
-        "relevance": "OpenClaw官方最佳实践，Agent基础设施设置",
-        "score": 0.78,
-        "engagement": {
-          "likes": 290,
-          "replies": 40,
-          "retweets": 21
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-02T02:14:37.195472+00:00",
-        "js_take": {
-          "en-US": "You built a cage and called it infrastructure. The real flex isn't隔离 your agent—it's building one that doesn't need babysitting.",
-          "zh-CN": "你建了个笼子，却美其名曰基础设施。真正的本事不是把你的 agent 隔离起来——而是打造一个不需要人时时刻刻照看的 agent。"
+          "en-US": "They don't want to kill open source—they want to own the definition of 'safe.' The real product is anxiety relief, not software.",
+          "zh-CN": "They don't want to kill open source—they want to own the definition of 'safe.' The real product is anxiety relief, not software."
         }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 149
+    "unique_authors": 150
   }
 }

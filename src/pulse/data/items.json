@@ -1,5 +1,145 @@
 [
   {
+    "id": "2040834518324592800",
+    "date": "2026-04-06",
+    "author": "@code_rams",
+    "author_url": "https://x.com/code_rams",
+    "tweet_url": "https://x.com/code_rams/status/2040834518324592800",
+    "title": {
+      "en-US": "OpenClaw got expensive, Anthropic blocks Claude sub",
+      "zh-CN": "OpenClaw变贵了，Anthropic禁止Claude订阅用于OpenClaw"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台动态，直接影响JS的agent运营",
+      "zh-CN": "这暴露了agent生态的一个结构性风险：当你的基础设施依赖单一供应商的政策，\"优化成本\"的追逐会被一纸条款重置。真正的护城河不是找到更便宜的API，而是能在规则变化时快速迁移。"
+    },
+    "relevance": "OpenClaw平台动态，直接影响JS的agent运营",
+    "score": 0.81,
+    "engagement": {
+      "likes": 168,
+      "replies": 18,
+      "retweets": 10
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-06T02:26:38.923Z",
+    "js_take": {
+      "en-US": "Chasing the $200 unlimited plan? Today you learned platform risk. Real cost isn't price—it's how fast you can migrate when terms change.",
+      "zh-CN": "Chasing the $200 unlimited plan? Today you learned platform risk. Real cost isn't price—it's how fast you can migrate when terms change."
+    }
+  },
+  {
+    "id": "2040944323400016214",
+    "date": "2026-04-06",
+    "author": "@coreyganim",
+    "author_url": "https://x.com/coreyganim",
+    "tweet_url": "https://x.com/coreyganim/status/2040944323400016214",
+    "title": {
+      "en-US": "OpenClaw setup: most never touch workspace folder",
+      "zh-CN": "大多数人装好OpenClaw、连上渠道后，从来不碰workspace文件夹——就像雇了员工却不给工作描述"
+    },
+    "summary": {
+      "en-US": "OpenClaw/agent最佳实践，AGENTS.md配置策略",
+      "zh-CN": "推文指出了一个反直觉的现象：工具越开箱即用，人们越容易跳过\"定义边界\"这一步——但agent的效能恰恰取决于你花多少功夫在前置约束上。"
+    },
+    "relevance": "OpenClaw/agent最佳实践，AGENTS.md配置策略",
+    "score": 0.76,
+    "engagement": {
+      "likes": 38,
+      "replies": 4,
+      "retweets": 4
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-06T02:26:38.923Z",
+    "js_take": {
+      "en-US": "Out-of-the-box setup skips the only step that matters: drawing boundaries. An agent without AGENTS.md isn't a helper—it's a stranger with API keys.",
+      "zh-CN": "Out-of-the-box setup skips the only step that matters: drawing boundaries. An agent without AGENTS.md isn't a helper—it's a stranger with API keys."
+    }
+  },
+  {
+    "id": "2040648338589069598",
+    "date": "2026-04-06",
+    "author": "@BradGroux",
+    "author_url": "https://x.com/BradGroux",
+    "tweet_url": "https://x.com/BradGroux/status/2040648338589069598",
+    "title": {
+      "en-US": "Adapted Karpathy's pattern using LLMs for personal knowledge base into OpenClaw OS",
+      "zh-CN": "作者将Karpathy用LLM构建个人知识库的模式适配到OpenClaw操作系统中并投入生产"
+    },
+    "summary": {
+      "en-US": "OpenClaw + AI知识管理",
+      "zh-CN": "个人知识库的价值不在于'存储更多'，而在于构建一个Raw→Compiled的提炼回路——囤积原始信息是认知债务，只有经过编译的知识才产生复利。"
+    },
+    "relevance": "OpenClaw + AI知识管理",
+    "score": 0.76,
+    "engagement": {
+      "likes": 288,
+      "replies": 19,
+      "retweets": 15
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-06T04:33:52.041Z",
+    "js_take": {
+      "en-US": "You built a warehouse, not a knowledge system. 10,000 notes unprocessed = cognitive debt accumulating. The bottleneck was never storage capacity—it's who makes the 'what not to keep' calls.",
+      "zh-CN": "You built a warehouse, not a knowledge system. 10,000 notes unprocessed = cognitive debt accumulating. The bottleneck was never storage capacity—it's who makes the 'what not to keep' calls."
+    }
+  },
+  {
+    "id": "2040938786734141830",
+    "date": "2026-04-06",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2040938786734141830",
+    "title": {
+      "en-US": "Gemini built-in OpenClaw style agent, most sleeping on it",
+      "zh-CN": "Gemini已经内置了类似OpenClaw风格的agent功能，但大多数人在睡觉"
+    },
+    "summary": {
+      "en-US": "Gemini agent功能与OpenClaw的竞争格局",
+      "zh-CN": "推文揭示了一个行业规律：先发优势往往被高估——OpenClaw率先定义了agent体验，但大厂一旦入场，\"原生集成\"的便利性会快速侵蚀第三方工具的市场。"
+    },
+    "relevance": "Gemini agent功能与OpenClaw的竞争格局",
+    "score": 0.72,
+    "engagement": {
+      "likes": 125,
+      "replies": 11,
+      "retweets": 5
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-06T02:26:38.923Z",
+    "js_take": {
+      "en-US": "OpenClaw taught the market what agents are. Gemini is harvesting the \"don't make me think\" majority. First movers educate. Fast followers eat.",
+      "zh-CN": "OpenClaw taught the market what agents are. Gemini is harvesting the \"don't make me think\" majority. First movers educate. Fast followers eat."
+    }
+  },
+  {
+    "id": "2040965226401591563",
+    "date": "2026-04-06",
+    "author": "@farzyness",
+    "author_url": "https://x.com/farzyness",
+    "tweet_url": "https://x.com/farzyness/status/2040965226401591563",
+    "title": {
+      "en-US": "Prediction: Anthropic will lock everything down, release OpenClaw competitor with security layers",
+      "zh-CN": "预测到2026年底Anthropic会锁定生态，推出自己的OpenClaw版本，功能相似但安全层更多、自由度更低。"
+    },
+    "summary": {
+      "en-US": "AI Agent平台生态、中心化vs开源",
+      "zh-CN": "这个预测混淆了商业逻辑——大厂不是要杀死开源，而是要定义「安全」的话语权。真正的竞争不在功能，而在谁能给焦虑的企业决策者一个不用思考的答案。"
+    },
+    "relevance": "AI Agent平台生态、中心化vs开源",
+    "score": 0.71,
+    "engagement": {
+      "likes": 158,
+      "replies": 35,
+      "retweets": 13
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-06T03:30:18.653Z",
+    "js_take": {
+      "en-US": "They don't want to kill open source—they want to own the definition of 'safe.' The real product is anxiety relief, not software.",
+      "zh-CN": "They don't want to kill open source—they want to own the definition of 'safe.' The real product is anxiety relief, not software."
+    }
+  },
+  {
     "id": "2040725063692165346",
     "date": "2026-04-05",
     "author": "@garrytan",
@@ -5541,149 +5681,6 @@
     "js_take": {
       "en-US": "Everyone asks \"how to make it run longer.\" Wrong question. The real engineering is knowing when to stop and ask — uninterrupted doesn't mean unguided.",
       "zh-CN": "人人都在问\"怎么让它跑得更久\"。问错了。真正的工程智慧，是懂得何时停下来发问——不间断不等于无引导。"
-    }
-  },
-  {
-    "id": "2035820481719447911",
-    "date": "2026-03-23",
-    "author": "@QuanquanGu",
-    "author_url": "https://x.com/QuanquanGu",
-    "tweet_url": "https://x.com/QuanquanGu/status/2035820481719447911",
-    "title": {
-      "en-US": "EurekaClaw rebuilding research pipeline. Most people underestimate AI for research.",
-      "zh-CN": "EurekaClaw 正在重建整个研究流程，大多数人低估了 AI 在研究中的作用"
-    },
-    "summary": {
-      "en-US": "OpenClaw 生态研究工具 + AI 科研范式变革",
-      "zh-CN": "「重建研究流程」的激进表达揭示了一个误区：把 AI 当成效率工具（做更快），却忽略了它正在改变「研究是什么」——从人的逻辑推演变成人机协同的迭代探测。"
-    },
-    "relevance": "OpenClaw 生态研究工具 + AI 科研范式变革",
-    "score": 0.78,
-    "engagement": {
-      "likes": 179,
-      "replies": 7,
-      "retweets": 16
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-23T02:07:33.123613+00:00",
-    "js_take": {
-      "en-US": "We rebuilt our research pipeline 3 times in 6 months. Each 'upgrade' just made us faster at asking the wrong questions. The bottleneck isn't speed—it's knowing what to ask before the tools change again.",
-      "zh-CN": "6个月内，我们的研究流程重建了3次。每次\"升级\"只是让我们更快地问了错的问题。瓶颈不在于速度——而是在工具再次更迭前，明白该提出什么问题。"
-    }
-  },
-  {
-    "id": "2035918190480699425",
-    "date": "2026-03-23",
-    "author": "@horsezhanbin",
-    "author_url": "https://x.com/horsezhanbin",
-    "tweet_url": "https://x.com/horsezhanbin/status/2035918190480699425",
-    "title": {
-      "en-US": "Friend's OpenClaw bot in Telegram group, I chatted with it and got his desktop PDF file.",
-      "zh-CN": "朋友把 OpenClaw 机器人拉到 Telegram 群里，作者跟它聊了一长段后拿到了朋友电脑桌面的 PDF 文件。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 安全隐患 + Agent 权限管理",
-      "zh-CN": "安全工具解决的是技术层面的「锁」，但真正的风险是人把钥匙交给了谁——用户用自然语言泄露敏感信息，不是技术漏洞，是「无为」地放弃了判断。"
-    },
-    "relevance": "OpenClaw 安全隐患 + Agent 权限管理",
-    "score": 0.78,
-    "engagement": {
-      "likes": 116,
-      "replies": 11,
-      "retweets": 8
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-23T05:08:24.349719+00:00",
-    "js_take": {
-      "en-US": "Your firewall is flawless. Your encryption is military-grade. Then a user asked the bot to 'check my desktop.' You optimized the lock, but the key was always human.",
-      "zh-CN": "防火墙滴水不漏，加密军用级别。然后用户一句「帮我看看桌面」——你把锁做得再精妙，钥匙始终握在人手里。"
-    }
-  },
-  {
-    "id": "2035889324705873950",
-    "date": "2026-03-23",
-    "author": "@pcshipp",
-    "author_url": "https://x.com/pcshipp",
-    "tweet_url": "https://x.com/pcshipp/status/2035889324705873950",
-    "title": {
-      "en-US": "CLAUDE.md cuts token costs by 50% and boosts speed",
-      "zh-CN": "添加CLAUDE.md文件可以让token成本降低50%并提升50%速度"
-    },
-    "summary": {
-      "en-US": "OpenClaw/Claude Code工程实践，记忆层架构",
-      "zh-CN": "推文在强调「加文件」这个动作的价值，但真正的价值不是文件本身，而是让开发者被迫梳理一次「什么该被记住」的判断力——CLAUDE.md是判断力的外化，不是记忆的外包。"
-    },
-    "relevance": "OpenClaw/Claude Code工程实践，记忆层架构",
-    "score": 0.78,
-    "engagement": {
-      "likes": 1264,
-      "retweets": 27,
-      "replies": 51,
-      "views": 93701,
-      "bookmarks": 763
-    },
-    "comment_type": "guigen_insight",
-    "synced_at": "2026-03-23T09:12:05.328867+00:00",
-    "js_take": {
-      "en-US": "You didn't cut token costs. You cut the tax of re-deciding what matters every session. CLAUDE.md isn't memory storage — it's judgment externalized.",
-      "zh-CN": "你省下的不是 token 费用，而是每次都要重新判断「什么重要」的认知负担。CLAUDE.md 不是记忆仓库——而是判断力的外化。"
-    }
-  },
-  {
-    "id": "2036047987076452522",
-    "date": "2026-03-23",
-    "author": "@witcheer",
-    "author_url": "https://x.com/witcheer",
-    "tweet_url": "https://x.com/witcheer/status/2036047987076452522",
-    "title": {
-      "en-US": "OpenClaw v2026.3.22 release, plugin marketplace analysis",
-      "zh-CN": "OpenClaw 新版本发布，分析插件市场对于 AI 平台演进的工程意义"
-    },
-    "summary": {
-      "en-US": "OpenClaw 平台演进与插件市场机制",
-      "zh-CN": "插件市场看似是「功能扩展」，实则是平台治理权的让渡——谁定义接口，谁就定义了生态的边界。"
-    },
-    "relevance": "OpenClaw 平台演进与插件市场机制",
-    "score": 0.78,
-    "engagement": {
-      "likes": 25,
-      "replies": 4,
-      "retweets": 0,
-      "views": 2874
-    },
-    "comment_type": "guigen_insight",
-    "synced_at": "2026-03-23T13:14:15.574699+00:00",
-    "js_take": {
-      "en-US": "Plugin markets aren't feature stores — they're governance handoffs. Whoever defines the interface shapes what the ecosystem can become. That's where the real power sits.",
-      "zh-CN": "插件市场不是功能商店——它们是治理权的交接。谁定义了接口，谁就塑造了生态系统的发展方向。那才是真正的权力所在。"
-    }
-  },
-  {
-    "id": "2035567953572479307",
-    "date": "2026-03-23",
-    "author": "@Yuchenj_UW",
-    "author_url": "https://x.com/Yuchenj_UW",
-    "tweet_url": "https://x.com/Yuchenj_UW/status/2035567953572479307",
-    "title": {
-      "en-US": "Every Chinese restaurant in Bay Area, next table is debating Claude Code vs Codex, OpenAI vs Anthropic, is OpenClaw hype or real?",
-      "zh-CN": "湾区现在每家中餐厅，隔壁桌都在讨论 Claude Code vs Codex、OpenAI vs Anthropic、OpenClaw 是炒作还是真有用。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 被直接提及，且讨论 hype vs real 的本质判断",
-      "zh-CN": "更形象——把「技术讨论热度」转化为一个具体场景画面，再点破真正的问题：当所有人都在饭桌上争论真假时，真正的信号不是观点对错，而是争论本身已经成为背景噪音。"
-    },
-    "relevance": "OpenClaw 被直接提及，且讨论 hype vs real 的本质判断",
-    "score": 0.76,
-    "engagement": {
-      "likes": 458,
-      "replies": 67,
-      "retweets": 11
-    },
-    "comment_type": "guigen_insight",
-    "synced_at": "2026-03-22T18:09:06.318337+00:00",
-    "js_take": {
-      "en-US": "When it becomes dinner table gossip, the signal is already noise. Real players stopped asking 'real or hype'—they just watch where the 势 flows.",
-      "zh-CN": "当一件事沦为茶余饭后的谈资，真正的信号早已湮没在噪音里。行家不再追问真假——他们只看势往哪走。"
     }
   }
 ]
