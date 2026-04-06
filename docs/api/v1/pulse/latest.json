@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-06T13:45:10.844Z",
+  "updated_at": "2026-04-06T19:12:20.155Z",
   "this_week": {
-    "total_items": 7,
+    "total_items": 8,
     "avg_score": 0.75,
-    "unique_authors": 7,
+    "unique_authors": 8,
     "top_items": [
       {
         "id": "2040834518324592800",
@@ -31,6 +31,36 @@
         "js_take": {
           "en-US": "Chasing the $200 unlimited plan? Today you learned platform risk. Real cost isn't price—it's how fast you can migrate when terms change.",
           "zh-CN": "Chasing the $200 unlimited plan? Today you learned platform risk. Real cost isn't price—it's how fast you can migrate when terms change."
+        }
+      },
+      {
+        "id": "2041198869233488265",
+        "date": "2026-04-06",
+        "author": "@taydotfun",
+        "author_url": "https://x.com/taydotfun",
+        "tweet_url": "https://x.com/taydotfun/status/2041198869233488265",
+        "title": {
+          "en-US": "Installed OpenClaw, now my app folder has opinions",
+          "zh-CN": "用户刚安装 OpenClaw，惊讶地发现应用文件夹开始有了「自己的意见」"
+        },
+        "summary": {
+          "en-US": "OpenClaw 直接相关——产品体验反馈",
+          "zh-CN": "做纠正：原推把「应用有意见」当成惊讶甚至困扰的点，但真正的洞察是——当工具开始替你决策时，效率提升的代价是判断力的转移。大多数人还没意识到，他们正在把「该不该做」的决策权外包给算法。"
+        },
+        "relevance": "OpenClaw 直接相关——产品体验反馈",
+        "score": 0.78,
+        "engagement": {
+          "likes": 72,
+          "replies": 6,
+          "retweets": 2,
+          "views": 13109,
+          "bookmarks": 4
+        },
+        "comment_type": "guigen_insight",
+        "synced_at": "2026-04-06T19:12:20.139Z",
+        "js_take": {
+          "en-US": "Apps with opinions sound smart until they guess wrong. The real cost isn't the 2 minutes they save—it's the decision muscle you stop exercising. Keep an override button, not just a settings menu.",
+          "zh-CN": "Apps with opinions sound smart until they guess wrong. The real cost isn't the 2 minutes they save—it's the decision muscle you stop exercising. Keep an override button, not just a settings menu."
         }
       },
       {
