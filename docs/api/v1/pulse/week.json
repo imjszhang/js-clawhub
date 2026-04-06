@@ -168,6 +168,36 @@
     }
   },
   {
+    "id": "2041035711063732460",
+    "date": "2026-04-06",
+    "author": "@om_patel5",
+    "author_url": "https://x.com/om_patel5",
+    "tweet_url": "https://x.com/om_patel5/status/2041035711063732460",
+    "title": {
+      "en-US": "Caveman talk strategy turned into Claude Code skill, 75% token savings",
+      "zh-CN": "有人把\"教Claude像穴居人一样说话以节省token\"的策略做成了Claude Code技能，声称能减少75%的token消耗"
+    },
+    "summary": {
+      "en-US": "OpenClaw/Claude Code 工程实践",
+      "zh-CN": "过度优化token本身就是认知陷阱——当全行业追逐同一个效率指标时，这个指标就已经开始失真。真正的价值判断被外包给了token计数器"
+    },
+    "relevance": "OpenClaw/Claude Code 工程实践",
+    "score": 0.71,
+    "engagement": {
+      "likes": 1531,
+      "retweets": 84,
+      "replies": 53,
+      "views": 95837,
+      "bookmarks": 1631
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-06T13:45:10.827Z",
+    "js_take": {
+      "en-US": "75% token savings sounds like a win. But when everyone chases the same metric, the metric becomes a trap — you stop asking if shorter prompts actually mean better answers.",
+      "zh-CN": "75% token savings sounds like a win. But when everyone chases the same metric, the metric becomes a trap — you stop asking if shorter prompts actually mean better answers."
+    }
+  },
+  {
     "id": "2040725063692165346",
     "date": "2026-04-05",
     "author": "@garrytan",
