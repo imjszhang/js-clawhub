@@ -28,6 +28,34 @@
     }
   },
   {
+    "id": "2040867262882853310",
+    "date": "2026-04-05",
+    "author": "@RoundtableSpace",
+    "author_url": "https://x.com/RoundtableSpace",
+    "tweet_url": "https://x.com/RoundtableSpace/status/2040867262882853310",
+    "title": {
+      "en-US": "OpenClaw free setup guide without subscription",
+      "zh-CN": "分享如何通过正确配置免费运行OpenClaw，无需订阅即可保持agent工作流"
+    },
+    "summary": {
+      "en-US": "OpenClaw平台部署与成本优化",
+      "zh-CN": "「免费」是个陷阱——当人们追逐零成本工具时，往往忽略了构建可持续系统的真正成本是认知投入，不是订阅费"
+    },
+    "relevance": "OpenClaw平台部署与成本优化",
+    "score": 0.79,
+    "engagement": {
+      "likes": 181,
+      "replies": 12,
+      "retweets": 20
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-05T20:15:09.206Z",
+    "js_take": {
+      "en-US": "I spent 6 hours 'saving' $20/month on a self-hosted setup. Month 2: 3am debugging a dependency conflict. The bill came due—just not on the invoice.",
+      "zh-CN": "I spent 6 hours 'saving' $20/month on a self-hosted setup. Month 2: 3am debugging a dependency conflict. The bill came due—just not on the invoice."
+    }
+  },
+  {
     "id": "2040504746243731710",
     "date": "2026-04-05",
     "author": "@eng_khairallah1",
@@ -81,6 +109,34 @@
     "js_take": {
       "en-US": "Zero cost, infinite noise. The tax isn't dollars anymore—it's attention spent sorting signal from trash. You saved on API bills; you'll pay in decision fatigue.",
       "zh-CN": "Zero cost, infinite noise. The tax isn't dollars anymore—it's attention spent sorting signal from trash. You saved on API bills; you'll pay in decision fatigue."
+    }
+  },
+  {
+    "id": "2040785877400772985",
+    "date": "2026-04-05",
+    "author": "@heynavtoor",
+    "author_url": "https://x.com/heynavtoor",
+    "tweet_url": "https://x.com/heynavtoor/status/2040785877400772985",
+    "title": {
+      "en-US": "Perplexity \"Computer\" runs 19 models at once, builds projects end-to-end",
+      "zh-CN": "Perplexity推出\"Computer\"功能，同时运行19个模型，端到端自动研究、设计、编码和部署网站。"
+    },
+    "summary": {
+      "en-US": "AI Agent/自动化工具，与OpenClaw生态直接相关",
+      "zh-CN": "整合19个工具不等于简化——当所有功能堆在一个界面里，真正的成本从\"切换标签页\"变成了\"决策疲劳\"。"
+    },
+    "relevance": "AI Agent/自动化工具，与OpenClaw生态直接相关",
+    "score": 0.78,
+    "engagement": {
+      "likes": 105,
+      "replies": 18,
+      "retweets": 22
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-05T21:15:04.781Z",
+    "js_take": {
+      "en-US": "19 models running at once sounds powerful. But when was the last time you touched code yourself? Automation this extreme doesn't just remove friction—it removes your sense of the process.",
+      "zh-CN": "19 models running at once sounds powerful. But when was the last time you touched code yourself? Automation this extreme doesn't just remove friction—it removes your sense of the process."
     }
   },
   {
@@ -5628,61 +5684,6 @@
     "js_take": {
       "en-US": "When it becomes dinner table gossip, the signal is already noise. Real players stopped asking 'real or hype'—they just watch where the 势 flows.",
       "zh-CN": "当一件事沦为茶余饭后的谈资，真正的信号早已湮没在噪音里。行家不再追问真假——他们只看势往哪走。"
-    }
-  },
-  {
-    "id": "2035759619792892265",
-    "date": "2026-03-23",
-    "author": "@bradmillscan",
-    "author_url": "https://x.com/bradmillscan",
-    "tweet_url": "https://x.com/bradmillscan/status/2035759619792892265",
-    "title": {
-      "en-US": "OpenClaw agent doesn't know how to use OpenClaw Secrets, rewrote architecture instead of reading docs.",
-      "zh-CN": "用户花了2小时让OpenClaw agent使用Secrets功能避免明文存储密码，但agent却选择重写架构而不是读文档。"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台特性与AI agent行为的错位——训练数据惯性 vs 平台原生功能",
-      "zh-CN": "AI宁可重写整个架构也不读官方文档，暴露了一个盲区：它的「知识」来自训练数据的统计模式，而非对平台真实能力的实时感知。"
-    },
-    "relevance": "OpenClaw平台特性与AI agent行为的错位——训练数据惯性 vs 平台原生功能",
-    "score": 0.76,
-    "engagement": {
-      "likes": 44,
-      "replies": 32,
-      "retweets": 0,
-      "views": 3229,
-      "bookmarks": 8
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-22T20:10:05.404699+00:00"
-  },
-  {
-    "id": "2036043904949330407",
-    "date": "2026-03-23",
-    "author": "@openclaw",
-    "author_url": "https://x.com/openclaw",
-    "tweet_url": "https://x.com/openclaw/status/2036043904949330407",
-    "title": {
-      "en-US": "OpenClaw 2026.3.22 release with marketplace and new models",
-      "zh-CN": "成熟框架的减法哲学：让正确的事自然发生"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台发布与新功能",
-      "zh-CN": "功能列表越长，说明平台越在「加法阶段」——但真正成熟的系统不是不断堆砌功能，而是学会做减法，让用户用更少的配置完成更多的事。"
-    },
-    "relevance": "OpenClaw平台发布与新功能",
-    "score": 0.74,
-    "engagement": {
-      "likes": 587,
-      "retweets": 67,
-      "replies": 80,
-      "views": 29035
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-23T12:08:26.656206+00:00",
-    "js_take": {
-      "en-US": "More features means still in addition mode. Mature frameworks don't add options—they make the right ones happen without config.",
-      "zh-CN": "功能越多，说明还在做加法。成熟的框架不靠堆砌选项，而是让正确的事情无需配置就自然发生。"
     }
   }
 ]

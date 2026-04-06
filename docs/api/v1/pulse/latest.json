@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-05T19:15:08.022Z",
+  "updated_at": "2026-04-05T21:15:04.801Z",
   "this_week": {
-    "total_items": 84,
+    "total_items": 86,
     "avg_score": 0.77,
-    "unique_authors": 69,
+    "unique_authors": 70,
     "top_items": [
       {
         "id": "2038910689176400150",
@@ -647,6 +647,34 @@
         }
       },
       {
+        "id": "2040867262882853310",
+        "date": "2026-04-05",
+        "author": "@RoundtableSpace",
+        "author_url": "https://x.com/RoundtableSpace",
+        "tweet_url": "https://x.com/RoundtableSpace/status/2040867262882853310",
+        "title": {
+          "en-US": "OpenClaw free setup guide without subscription",
+          "zh-CN": "分享如何通过正确配置免费运行OpenClaw，无需订阅即可保持agent工作流"
+        },
+        "summary": {
+          "en-US": "OpenClaw平台部署与成本优化",
+          "zh-CN": "「免费」是个陷阱——当人们追逐零成本工具时，往往忽略了构建可持续系统的真正成本是认知投入，不是订阅费"
+        },
+        "relevance": "OpenClaw平台部署与成本优化",
+        "score": 0.79,
+        "engagement": {
+          "likes": 181,
+          "replies": 12,
+          "retweets": 20
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-04-05T20:15:09.206Z",
+        "js_take": {
+          "en-US": "I spent 6 hours 'saving' $20/month on a self-hosted setup. Month 2: 3am debugging a dependency conflict. The bill came due—just not on the invoice.",
+          "zh-CN": "I spent 6 hours 'saving' $20/month on a self-hosted setup. Month 2: 3am debugging a dependency conflict. The bill came due—just not on the invoice."
+        }
+      },
+      {
         "id": "2040504746243731710",
         "date": "2026-04-05",
         "author": "@eng_khairallah1",
@@ -700,6 +728,34 @@
         "js_take": {
           "en-US": "Zero cost, infinite noise. The tax isn't dollars anymore—it's attention spent sorting signal from trash. You saved on API bills; you'll pay in decision fatigue.",
           "zh-CN": "Zero cost, infinite noise. The tax isn't dollars anymore—it's attention spent sorting signal from trash. You saved on API bills; you'll pay in decision fatigue."
+        }
+      },
+      {
+        "id": "2040785877400772985",
+        "date": "2026-04-05",
+        "author": "@heynavtoor",
+        "author_url": "https://x.com/heynavtoor",
+        "tweet_url": "https://x.com/heynavtoor/status/2040785877400772985",
+        "title": {
+          "en-US": "Perplexity \"Computer\" runs 19 models at once, builds projects end-to-end",
+          "zh-CN": "Perplexity推出\"Computer\"功能，同时运行19个模型，端到端自动研究、设计、编码和部署网站。"
+        },
+        "summary": {
+          "en-US": "AI Agent/自动化工具，与OpenClaw生态直接相关",
+          "zh-CN": "整合19个工具不等于简化——当所有功能堆在一个界面里，真正的成本从\"切换标签页\"变成了\"决策疲劳\"。"
+        },
+        "relevance": "AI Agent/自动化工具，与OpenClaw生态直接相关",
+        "score": 0.78,
+        "engagement": {
+          "likes": 105,
+          "replies": 18,
+          "retweets": 22
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-04-05T21:15:04.781Z",
+        "js_take": {
+          "en-US": "19 models running at once sounds powerful. But when was the last time you touched code yourself? Automation this extreme doesn't just remove friction—it removes your sense of the process.",
+          "zh-CN": "19 models running at once sounds powerful. But when was the last time you touched code yourself? Automation this extreme doesn't just remove friction—it removes your sense of the process."
         }
       },
       {
@@ -958,67 +1014,11 @@
           "en-US": "You built a cage and called it infrastructure. The real flex isn't隔离 your agent—it's building one that doesn't need babysitting.",
           "zh-CN": "你建了个笼子，却美其名曰基础设施。真正的本事不是把你的 agent 隔离起来——而是打造一个不需要人时时刻刻照看的 agent。"
         }
-      },
-      {
-        "id": "2039100617176531385",
-        "date": "2026-04-01",
-        "author": "@inceptioncortex",
-        "author_url": "https://x.com/inceptioncortex",
-        "tweet_url": "https://x.com/inceptioncortex/status/2039100617176531385",
-        "title": {
-          "en-US": "Anthropic open-source: Hermes-agent, Paperclip, Phone gateway. Playbook is open.",
-          "zh-CN": "Anthropic 还开源了 Hermes-agent、Paperclip、Phone gateway，agent 工具链的蓝图已经公开，组件免费可用。"
-        },
-        "summary": {
-          "en-US": "OpenClaw / Hermes / Agent 工具链",
-          "zh-CN": "OpenClaw 的完整工具链开源看似是「给答案」，实则埋了一个陷阱：拿了蓝图的人越多，真正能搭建出完整系统的人反而越少——因为搭建需要判断力，而蓝图无法传递判断。"
-        },
-        "relevance": "OpenClaw / Hermes / Agent 工具链",
-        "score": 0.78,
-        "engagement": {
-          "likes": 452,
-          "replies": 12,
-          "retweets": 37
-        },
-        "comment_type": "wuwei_provoke",
-        "synced_at": "2026-04-01T14:16:24.826628+00:00",
-        "js_take": {
-          "en-US": "OpenClaw dropped the full blueprint. Watch what happens: 1000 forks, 10 working setups, 3 people who actually know when to stop adding agents. The gap was never the tools.",
-          "zh-CN": "OpenClaw 开源了全套方案。结果呢：1000 人复刻，10 个能跑起来，3 个懂得适可而止。差距从来不在工具上。"
-        }
-      },
-      {
-        "id": "2038636184818352470",
-        "date": "2026-03-31",
-        "author": "@OpenAgentsAI",
-        "author_url": "https://x.com/OpenAgentsAI",
-        "tweet_url": "https://x.com/OpenAgentsAI/status/2038636184818352470",
-        "title": {
-          "en-US": "Introducing OpenAgents Workspace - all AI agents work together, shared chat/files/browsers",
-          "zh-CN": "OpenAgents 发布 Workspace，让多个 AI Agent 在同一个空间协作，共享聊天、文件和浏览器"
-        },
-        "summary": {
-          "en-US": "OpenClaw 生态 + Multi-Agent 协作",
-          "zh-CN": "更深度：推文在讲「让多个agent协作」的技术功能，但真正的瓶颈从来不是连接能力，而是「谁来协调」。当10个agent共享一个浏览器时，冲突的不是资源，是意图。没有统一目标的协作，只是把混乱从人的层面下沉到agent层面。"
-        },
-        "relevance": "OpenClaw 生态 + Multi-Agent 协作",
-        "score": 0.78,
-        "engagement": {
-          "likes": 80,
-          "replies": 33,
-          "retweets": 26
-        },
-        "comment_type": "tao_reframe",
-        "synced_at": "2026-03-30T21:11:19.827365+00:00",
-        "js_take": {
-          "en-US": "Connecting 10 agents is plumbing. The real bottleneck: when three agents want to rewrite the same file differently, who decides? Workspace moves the coordination problem — doesn't solve it.",
-          "zh-CN": "连接10个Agent不过是 plumbing。真正的瓶颈在于：当三个Agent都想用不同方式改写同一个文件时，谁来拍板？Workspace只是把协调问题挪了个地方——并没有真正解决它。"
-        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 148
+    "unique_authors": 149
   }
 }
