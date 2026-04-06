@@ -84,6 +84,34 @@
     }
   },
   {
+    "id": "2041003999856406714",
+    "date": "2026-04-06",
+    "author": "@openclaw",
+    "author_url": "https://x.com/openclaw",
+    "tweet_url": "https://x.com/openclaw/status/2041003999856406714",
+    "title": {
+      "en-US": "Give your agent the Molty spicy SOUL upgrade: stronger opinions, less corporate sludge...",
+      "zh-CN": "OpenClaw 推出 Molty SOUL 升级，让 agent 拥有更强的个性和观点，减少 corporate 腔调。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 平台功能，agent 个性化",
+      "zh-CN": "当所有 AI 都在模仿「专业助理」的千篇一律时，有棱角的观点反而成了差异化——人格不是装饰，是过滤噪音的筛子。"
+    },
+    "relevance": "OpenClaw 平台功能，agent 个性化",
+    "score": 0.75,
+    "engagement": {
+      "likes": 1024,
+      "replies": 49,
+      "retweets": 90
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-06T10:45:06.123Z",
+    "js_take": {
+      "en-US": "Users don't want another polite assistant at 2am. They want something that'll say 'this idea is stupid, but let's try it.' Personality isn't risk—it's the filter.",
+      "zh-CN": "Users don't want another polite assistant at 2am. They want something that'll say 'this idea is stupid, but let's try it.' Personality isn't risk—it's the filter."
+    }
+  },
+  {
     "id": "2040938786734141830",
     "date": "2026-04-06",
     "author": "@RoundtableSpace",
@@ -5653,34 +5681,6 @@
     "js_take": {
       "en-US": "You spent $25k. The question is: how much accelerated good decisions, and how much just executed bad ones 30x faster?",
       "zh-CN": "你花了2.5万美元。问题是：其中有多少加速了明智决策，又有多少只是让错误决策的执行速度快了30倍？"
-    }
-  },
-  {
-    "id": "2035521016814854441",
-    "date": "2026-03-23",
-    "author": "@joseph_h_garvin",
-    "author_url": "https://x.com/joseph_h_garvin",
-    "tweet_url": "https://x.com/joseph_h_garvin/status/2035521016814854441",
-    "title": {
-      "en-US": "Claude code rarely runs for longer than 15m without stopping. How do overnight agent stories work?",
-      "zh-CN": "Claude Code 很少能连续运行超过15分钟不中断，那些让Agent通宵运行的故事是怎么做到的？"
-    },
-    "summary": {
-      "en-US": "直接讨论 Claude Code / OpenClaw 的核心痛点——Agent 长时间自主运行的可靠性问题",
-      "zh-CN": "人们追求的是「让AI一直跑」的技术幻觉，但真正该解决的是「让AI在正确的时候停下来问」的设计智慧—— autonomous doesn't mean uninterrupted."
-    },
-    "relevance": "直接讨论 Claude Code / OpenClaw 的核心痛点——Agent 长时间自主运行的可靠性问题",
-    "score": 0.78,
-    "engagement": {
-      "likes": 540,
-      "replies": 89,
-      "retweets": 9
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-22T16:26:01.493479+00:00",
-    "js_take": {
-      "en-US": "Everyone asks \"how to make it run longer.\" Wrong question. The real engineering is knowing when to stop and ask — uninterrupted doesn't mean unguided.",
-      "zh-CN": "人人都在问\"怎么让它跑得更久\"。问错了。真正的工程智慧，是懂得何时停下来发问——不间断不等于无引导。"
     }
   }
 ]
