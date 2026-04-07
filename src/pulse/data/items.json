@@ -29,6 +29,64 @@
     }
   },
   {
+    "id": "2041397922940801170",
+    "date": "2026-04-07",
+    "author": "@pmarca",
+    "author_url": "https://x.com/pmarca",
+    "tweet_url": "https://x.com/pmarca/status/2041397922940801170",
+    "title": {
+      "en-US": "OpenClaw frontier models cost $300-1K/day, heading to $10K/day. Future is driving it to $20/month.",
+      "zh-CN": "Marc Andreessen 讨论 OpenClaw 等前沿模型当前每天成本 300-1000 美元，未来可能涨到 10000 美元，而整个行业的目标是将成本降到每月 20 美元。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 成本结构与 AI 工具定价策略",
+      "zh-CN": "过度关注成本数字忽略了真正瓶颈：当 AI 执行变得廉价，判断「该不该做」的能力反而变得更贵——成本下降不会自动带来价值提升，缺少判断力的低成本只是加速浪费。"
+    },
+    "relevance": "OpenClaw 成本结构与 AI 工具定价策略",
+    "score": 0.82,
+    "engagement": {
+      "likes": 1028,
+      "replies": 135,
+      "retweets": 86
+    },
+    "comment_type": "guigen_insight",
+    "synced_at": "2026-04-07T07:45:18.503Z",
+    "js_take": {
+      "en-US": "$20/month AI screams abundance trap. I've watched teams burn $2K on agent experiments that solved nothing—execution got cheaper, decision quality didn't. When the tool is free, knowing when to stop becomes the $10K skill.",
+      "zh-CN": "$20/month AI screams abundance trap. I've watched teams burn $2K on agent experiments that solved nothing—execution got cheaper, decision quality didn't. When the tool is free, knowing when to stop becomes the $10K skill."
+    }
+  },
+  {
+    "id": "2041380820829503950",
+    "date": "2026-04-07",
+    "author": "@Yonah_x",
+    "author_url": "https://x.com/Yonah_x",
+    "tweet_url": "https://x.com/Yonah_x/status/2041380820829503950",
+    "title": {
+      "en-US": "Hermes Agent vs OpenClaw comparison: auto memory update vs manual",
+      "zh-CN": "用户对比 Hermes Agent 和 OpenClaw，指出 Hermes 会自动更新记忆和修改技能，而 OpenClaw（龙虾）需要手动提醒才会执行。"
+    },
+    "summary": {
+      "en-US": "直接提及 OpenClaw，讨论 Agent 自主进化 vs 人工干预的设计哲学",
+      "zh-CN": "「自进化」不等于更优——自动记忆更新可能积累错误认知，而手动触发保留了人的判断权，后者恰恰是无为而治的设计。"
+    },
+    "relevance": "直接提及 OpenClaw，讨论 Agent 自主进化 vs 人工干预的设计哲学",
+    "score": 0.82,
+    "engagement": {
+      "likes": 35,
+      "retweets": 1,
+      "replies": 13,
+      "views": 9161,
+      "bookmarks": 20
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-07T10:45:06.427Z",
+    "js_take": {
+      "en-US": "Auto-memory sounds smart until your agent 'learns' something wrong and silently bakes it into every future decision. Manual triggers aren't primitive—they're guardrails. The best evolution happens when humans still own the steering wheel.",
+      "zh-CN": "Auto-memory sounds smart until your agent 'learns' something wrong and silently bakes it into every future decision. Manual triggers aren't primitive—they're guardrails. The best evolution happens when humans still own the steering wheel."
+    }
+  },
+  {
     "id": "2041138988145414469",
     "date": "2026-04-07",
     "author": "@jwsaml",
@@ -55,6 +113,64 @@
     "js_take": {
       "en-US": "Tool-hopping is procrastination in a prettier shell. You aren't optimizing workflows—you're delaying the moment you have to actually ship something. Pick one, stop comparing, start delivering.",
       "zh-CN": "Tool-hopping is procrastination in a prettier shell. You aren't optimizing workflows—you're delaying the moment you have to actually ship something. Pick one, stop comparing, start delivering."
+    }
+  },
+  {
+    "id": "2041370915012071577",
+    "date": "2026-04-07",
+    "author": "@Teknium",
+    "author_url": "https://x.com/Teknium",
+    "tweet_url": "https://x.com/Teknium/status/2041370915012071577",
+    "title": {
+      "en-US": "Hermes Agent packaged with LLM-Wiki for knowledgebases and research vaults",
+      "zh-CN": "Teknium 宣布 Hermes Agent 集成 Karpathy 的 LLM-Wiki，用于创建知识库和研究资料库。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 生态（Hermes Agent）与知识管理工具",
+      "zh-CN": "知识库工具解决的是「存储焦虑」，但真正的瓶颈是「判断力缺口」——收集信息的速度远超消化信息的能力，再多的 wiki 也只是把未读文件换了个地方堆放。"
+    },
+    "relevance": "OpenClaw 生态（Hermes Agent）与知识管理工具",
+    "score": 0.78,
+    "engagement": {
+      "likes": 861,
+      "replies": 58,
+      "retweets": 75
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-07T07:45:18.503Z",
+    "js_take": {
+      "en-US": "I auto-archived 10K docs into a 'smart' vault. 6 months later: zero retrieval, zero memory. The hoarding felt productive. The hard call—deleting 90%—never happened. Knowledge bases become tombs when curation dies.",
+      "zh-CN": "I auto-archived 10K docs into a 'smart' vault. 6 months later: zero retrieval, zero memory. The hoarding felt productive. The hard call—deleting 90%—never happened. Knowledge bases become tombs when curation dies."
+    }
+  },
+  {
+    "id": "2041411785442710008",
+    "date": "2026-04-07",
+    "author": "@wangray",
+    "author_url": "https://x.com/wangray",
+    "tweet_url": "https://x.com/wangray/status/2041411785442710008",
+    "title": {
+      "en-US": "Milla Jovovich open-sourced AI memory system after losing months of conversations",
+      "zh-CN": "生化危机女主角 Milla Jovovich 开源了一个 AI 记忆系统，因为她用 AI 对话几个月后积累的大量决策和思考结果全丢了，不满现有系统让 AI 决定什么值得记。"
+    },
+    "summary": {
+      "en-US": "OpenClaw 相关（提到 Claude Code），AI 记忆系统设计哲学",
+      "zh-CN": "让 AI 决定「什么值得记」，本质是把记忆权让渡给算法；真正的记忆系统应该让人掌控哪些对话值得沉淀，而非自动化过滤。"
+    },
+    "relevance": "OpenClaw 相关（提到 Claude Code），AI 记忆系统设计哲学",
+    "score": 0.76,
+    "engagement": {
+      "likes": 1211,
+      "retweets": 178,
+      "replies": 57,
+      "views": 116960,
+      "bookmarks": 951
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-07T10:45:06.427Z",
+    "js_take": {
+      "en-US": "Letting AI decide what's worth remembering is outsourcing your memory sovereignty. The best system isn't a smarter filter—it's one where you choose what to keep. Judgment beats automation when the stakes are yours.",
+      "zh-CN": "Letting AI decide what's worth remembering is outsourcing your memory sovereignty. The best system isn't a smarter filter—it's one where you choose what to keep. Judgment beats automation when the stakes are yours."
     }
   },
   {
@@ -5575,119 +5691,6 @@
     "js_take": {
       "en-US": "Missing from that list: knowing when to refuse. The elegant agent isn't defined by what it does, but by what it won't.",
       "zh-CN": "那份清单遗漏了一点：知道何时拒绝。优雅的代理不由它做什么来定义，而由它不做什么来定义。"
-    }
-  },
-  {
-    "id": "2036377120406929596",
-    "date": "2026-03-24",
-    "author": "@kimmonismus",
-    "author_url": "https://x.com/kimmonismus",
-    "tweet_url": "https://x.com/kimmonismus/status/2036377120406929596",
-    "title": {
-      "en-US": "Anthropic sees OpenClaw trend and develops their own version at insane speed",
-      "zh-CN": "Anthropic 看到 OpenClaw 的趋势后，以疯狂的速度开发了自己的版本，推测100%由 Claude 写代码。"
-    },
-    "summary": {
-      "en-US": "OpenClaw 竞争格局 + 大厂快速跟进",
-      "zh-CN": "「100% code written by Claude」这个推测点破了关键——当竞争对手用你的工具来抄你，速度优势就没了。真正的护城河不是功能，而是那些装不进 context window 的东西：判断、 taste、对用户的理解。"
-    },
-    "relevance": "OpenClaw 竞争格局 + 大厂快速跟进",
-    "score": 0.74,
-    "engagement": {
-      "likes": 371,
-      "replies": 35,
-      "retweets": 18
-    },
-    "comment_type": "guigen_insight",
-    "synced_at": "2026-03-24T12:09:52.457843+00:00",
-    "js_take": {
-      "en-US": "Strip the label—this is 2012's middleware pitch in new packaging. They can copy your features overnight, but they can't copy your judgment of what to build next.",
-      "zh-CN": "撕掉标签——这就是2012年中间件的老套路，换了个新包装。他们一夜之间就能抄走你的功能，但抄不走你判断下一步该做什么的眼光。"
-    }
-  },
-  {
-    "id": "2036125929102004297",
-    "date": "2026-03-24",
-    "author": "@bradmillscan",
-    "author_url": "https://x.com/bradmillscan",
-    "tweet_url": "https://x.com/bradmillscan/status/2036125929102004297",
-    "title": {
-      "en-US": "OpenClaw mystery fires, edge case Monday",
-      "zh-CN": "OpenClaw周一早晨出现一系列边缘案例故障：自动更新导致重复错误、硬盘满载、网关无响应，但agent仍在Telegram正常对话"
-    },
-    "summary": {
-      "en-US": "OpenClaw运维实战经验、agent边缘案例",
-      "zh-CN": "一个更形象的真相：agent在系统崩溃边缘还能「正常对话」，恰恰暴露了当前AI运维的盲区——表面正常不等于系统健康。"
-    },
-    "relevance": "OpenClaw运维实战经验、agent边缘案例",
-    "score": 0.73,
-    "engagement": {
-      "likes": 21,
-      "replies": 13,
-      "retweets": 0
-    },
-    "comment_type": "guigen_insight",
-    "synced_at": "2026-03-23T18:06:55.352407+00:00",
-    "js_take": {
-      "en-US": "Your agent says 'all good' on Telegram while disk hits 90%. Not resilience — sensory blindness. Real agents need to feel pain, not just answer chat.",
-      "zh-CN": "你的 Agent 在 Telegram 上说「一切正常」， meanwhile 磁盘已经 90% 了。这不是韧性——是感官失明。真正的 Agent 要能感知痛苦，而非只会聊天。"
-    }
-  },
-  {
-    "id": "2036278925194617296",
-    "date": "2026-03-24",
-    "author": "@ziwenxu_",
-    "author_url": "https://x.com/ziwenxu_",
-    "tweet_url": "https://x.com/ziwenxu_/status/2036278925194617296",
-    "title": {
-      "en-US": "Ran OpenClaw 30+ days, burned 1.5B tokens, rebuilt 3 times. Should cost $14k, paid $50.",
-      "zh-CN": "连续运行OpenClaw 30多天，烧掉15亿token，重建了3次配置，本应花费1.4万美元实际只花了50美元。"
-    },
-    "summary": {
-      "en-US": "OpenClaw实战经验，Agent运营的真实代价",
-      "zh-CN": "「重建3次」被轻描淡写地跳过，但这恰恰是agent工程的真实成本——不是API费用，而是认知负荷和系统熵增，这才是需要被看见的隐藏交易。"
-    },
-    "relevance": "OpenClaw实战经验，Agent运营的真实代价",
-    "score": 0.73,
-    "engagement": {
-      "likes": 75,
-      "replies": 6,
-      "retweets": 5
-    },
-    "comment_type": "guigen_insight",
-    "synced_at": "2026-03-24T05:07:52.316716+00:00",
-    "js_take": {
-      "en-US": "3 rebuilds at ~6 weeks each. $50 in API costs, ~300 hours in broken abstractions. The real bill isn't the one you pay—it's the one you debug.",
-      "zh-CN": "3次重构，每次约6周。API只花了50美元，但破碎的抽象层耗掉约300小时。真正的账单不是明面上的开销——而是你在调试里赔进去的时间。"
-    }
-  },
-  {
-    "id": "2036241959019270501",
-    "date": "2026-03-24",
-    "author": "@arvidkahl",
-    "author_url": "https://x.com/arvidkahl",
-    "tweet_url": "https://x.com/arvidkahl/status/2036241959019270501",
-    "title": {
-      "en-US": "OpenClaw Mac Minis useful now Claude has OS control",
-      "zh-CN": "Claude获得完整操作系统控制权后，那些OpenClaw Mac Mini终于派上用场了"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态 + Claude OS控制，直接关联JS的核心技术栈",
-      "zh-CN": "推文的兴奋点在于「工具终于有了用武之地」，但这恰恰是过度聚焦工具的陷阱——真正的问题不是「Mac Mini能做什么」，而是「什么任务值得让AI接管你的整个系统」"
-    },
-    "relevance": "OpenClaw生态 + Claude OS控制，直接关联JS的核心技术栈",
-    "score": 0.72,
-    "engagement": {
-      "likes": 38,
-      "replies": 12,
-      "retweets": 1,
-      "views": 5271
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-03-24T03:07:06.280795+00:00",
-    "js_take": {
-      "en-US": "You're excited Claude can control your Mac. I'm asking: how many of your decisions deserve to be executed 30x faster? 30 agents don't kill teams. 30x bad decisions do.",
-      "zh-CN": "你们在为 Claude 能控制 Mac 而兴奋。但我想问：你的决定中有多少值得被快30倍执行？30个代理不会毁掉团队，30倍的错误决定才会。"
     }
   }
 ]
