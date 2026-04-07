@@ -144,6 +144,34 @@
     }
   },
   {
+    "id": "2041531013478912404",
+    "date": "2026-04-07",
+    "author": "@garrytan",
+    "author_url": "https://x.com/garrytan",
+    "tweet_url": "https://x.com/garrytan/status/2041531013478912404",
+    "title": {
+      "en-US": "Claude Cowork is powerful but nothing compared to OpenClaw",
+      "zh-CN": "Garry Tan 称 Claude Cowork 很强大，但目前比不上 OpenClaw，这是一场竞赛，愿最好的产品获胜"
+    },
+    "summary": {
+      "en-US": "OpenClaw、Agent 平台竞争",
+      "zh-CN": "工具之间的竞争只是表层，真正的分野在于：你是在构建一个更好的「执行器」，还是在构建一种让系统自我生长的「生态」。前者是产品竞赛，后者是法则重构。"
+    },
+    "relevance": "OpenClaw、Agent 平台竞争",
+    "score": 0.78,
+    "engagement": {
+      "likes": 129,
+      "replies": 40,
+      "retweets": 4
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-07T16:15:05.427Z",
+    "js_take": {
+      "en-US": "Tool comparisons miss the point. I watched the same AI assistant produce brilliant work for one engineer and garbage for another—same prompts, opposite outcomes. The gap isn't in the tool. It's in who's holding it.",
+      "zh-CN": "Tool comparisons miss the point. I watched the same AI assistant produce brilliant work for one engineer and garbage for another—same prompts, opposite outcomes. The gap isn't in the tool. It's in who's holding it."
+    }
+  },
+  {
     "id": "2041411785442710008",
     "date": "2026-04-07",
     "author": "@wangray",
