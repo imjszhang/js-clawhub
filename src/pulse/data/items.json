@@ -1,5 +1,33 @@
 [
   {
+    "id": "2041632001787043963",
+    "date": "2026-04-08",
+    "author": "@thekitze",
+    "author_url": "https://x.com/thekitze",
+    "tweet_url": "https://x.com/thekitze/status/2041632001787043963",
+    "title": {
+      "en-US": "my experience with gpt 5.4 in openclaw - pls continue - yes pls do that... just pure pain",
+      "zh-CN": "作者在 OpenClaw 中使用 GPT 5.4 的经历充满痛苦 —— 不断重复「请继续」「请做我说的事」的循环。"
+    },
+    "summary": {
+      "en-US": "AI × 人生 — 工具使用中的控制幻觉",
+      "zh-CN": "推文在吐槽 AI 不听话，但真相是：作者试图用「更具体的指令」解决「指令本身失效」的问题 —— 这是用踩油门的方式修刹车。当工具不理解你时，更多控制只会加剧失控。"
+    },
+    "relevance": "AI × 人生 — 工具使用中的控制幻觉",
+    "score": 0.7,
+    "engagement": {
+      "likes": 166,
+      "replies": 61,
+      "retweets": 3
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-08T00:35:34.594Z",
+    "js_take": {
+      "en-US": "You're not fighting the AI. You're fighting the illusion that more control will fix a broken steering wheel. Sometimes the move is to let go and see where it goes — then decide if you want to be there.",
+      "zh-CN": "You're not fighting the AI. You're fighting the illusion that more control will fix a broken steering wheel. Sometimes the move is to let go and see where it goes — then decide if you want to be there."
+    }
+  },
+  {
     "id": "2041321973905600972",
     "date": "2026-04-07",
     "author": "@iamzhihui",
@@ -5660,36 +5688,6 @@
     "js_take": {
       "en-US": "Claude wants the whole computer. OpenClaw picked specific scenes. Not competition—two species diverging. Different势, no collision.",
       "zh-CN": "Claude想接管整台电脑，OpenClaw专注特定场景。这不是竞争，是两个物种的分道扬镳。势不同，不相撞。"
-    }
-  },
-  {
-    "id": "2036026482959532228",
-    "date": "2026-03-24",
-    "author": "@hiheimu",
-    "author_url": "https://x.com/hiheimu",
-    "tweet_url": "https://x.com/hiheimu/status/2036026482959532228",
-    "title": {
-      "en-US": "Claude orchestrating Codex reveals new AI programming paradigm",
-      "zh-CN": "劳佬为省Claude Token做出的东西，藏着AI时代编程的新范式：Claude调度Codex干活，你只需用自然语言跟Claude说需求"
-    },
-    "summary": {
-      "en-US": "AI agent协作编排，harness engineer概念，与OpenClaw生态直接相关",
-      "zh-CN": "省Token只是表象，真正的范式转移是「谁来做决策」。当Claude决定什么时候调用Codex、什么时候自己写，人的角色从「写代码」变成了「定义问题边界」——这不是省钱，是把认知负荷从执行层转移到判断层。"
-    },
-    "relevance": "AI agent协作编排，harness engineer概念，与OpenClaw生态直接相关",
-    "score": 0.74,
-    "engagement": {
-      "likes": 47,
-      "retweets": 4,
-      "replies": 4,
-      "views": 9102,
-      "bookmarks": 55
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-24T00:13:00.932068+00:00",
-    "js_take": {
-      "en-US": "Token savings are the distraction. The shift is who decides. Claude calling Codex means your job moved from writing code to drawing boundaries — execution is cheap now, judgment is the cost.",
-      "zh-CN": "节省 Token 只是表象。真正的转变在于谁来决策。Claude 调用 Codex 意味着你的工作从写代码变成了划定边界——执行现在很便宜，判断力才是成本。"
     }
   }
 ]

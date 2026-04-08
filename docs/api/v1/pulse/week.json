@@ -1,5 +1,33 @@
 [
   {
+    "id": "2041632001787043963",
+    "date": "2026-04-08",
+    "author": "@thekitze",
+    "author_url": "https://x.com/thekitze",
+    "tweet_url": "https://x.com/thekitze/status/2041632001787043963",
+    "title": {
+      "en-US": "my experience with gpt 5.4 in openclaw - pls continue - yes pls do that... just pure pain",
+      "zh-CN": "作者在 OpenClaw 中使用 GPT 5.4 的经历充满痛苦 —— 不断重复「请继续」「请做我说的事」的循环。"
+    },
+    "summary": {
+      "en-US": "AI × 人生 — 工具使用中的控制幻觉",
+      "zh-CN": "推文在吐槽 AI 不听话，但真相是：作者试图用「更具体的指令」解决「指令本身失效」的问题 —— 这是用踩油门的方式修刹车。当工具不理解你时，更多控制只会加剧失控。"
+    },
+    "relevance": "AI × 人生 — 工具使用中的控制幻觉",
+    "score": 0.7,
+    "engagement": {
+      "likes": 166,
+      "replies": 61,
+      "retweets": 3
+    },
+    "comment_type": "wuwei_provoke",
+    "synced_at": "2026-04-08T00:35:34.594Z",
+    "js_take": {
+      "en-US": "You're not fighting the AI. You're fighting the illusion that more control will fix a broken steering wheel. Sometimes the move is to let go and see where it goes — then decide if you want to be there.",
+      "zh-CN": "You're not fighting the AI. You're fighting the illusion that more control will fix a broken steering wheel. Sometimes the move is to let go and see where it goes — then decide if you want to be there."
+    }
+  },
+  {
     "id": "2041321973905600972",
     "date": "2026-04-07",
     "author": "@iamzhihui",
@@ -2010,117 +2038,6 @@
     "js_take": {
       "en-US": "真正的势不在画质——在谁能让一个非技术人员走完从想法到成片的全程。易用性不是妥协，是更高的技术壁垒。",
       "zh-CN": "真正的势不在画质——在谁能让一个非技术人员走完从想法到成片的全程。易用性不是妥协，是更高的技术壁垒。"
-    }
-  },
-  {
-    "id": "2038910689176400150",
-    "date": "2026-04-01",
-    "author": "@aakashgupta",
-    "author_url": "https://x.com/aakashgupta",
-    "tweet_url": "https://x.com/aakashgupta/status/2038910689176400150",
-    "title": {
-      "en-US": "The real story here is OpenClaw triggered a full-blown platform war in China...",
-      "zh-CN": "OpenClaw 引发中国 AI Agent 平台大战"
-    },
-    "summary": {
-      "en-US": "OpenClaw / AI Agent生态 / 平台战略",
-      "zh-CN": "OpenClaw / AI Agent 生态 / 平台战略"
-    },
-    "relevance": "OpenClaw / AI Agent生态 / 平台战略",
-    "score": 0.91,
-    "engagement": {
-      "likes": 207,
-      "replies": 18,
-      "retweets": 37
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-03-31T16:21:47.482948+00:00"
-  },
-  {
-    "id": "2039100617176531385",
-    "date": "2026-04-01",
-    "author": "@inceptioncortex",
-    "author_url": "https://x.com/inceptioncortex",
-    "tweet_url": "https://x.com/inceptioncortex/status/2039100617176531385",
-    "title": {
-      "en-US": "Anthropic open-source: Hermes-agent, Paperclip, Phone gateway. Playbook is open.",
-      "zh-CN": "Anthropic 还开源了 Hermes-agent、Paperclip、Phone gateway，agent 工具链的蓝图已经公开，组件免费可用。"
-    },
-    "summary": {
-      "en-US": "OpenClaw / Hermes / Agent 工具链",
-      "zh-CN": "OpenClaw 的完整工具链开源看似是「给答案」，实则埋了一个陷阱：拿了蓝图的人越多，真正能搭建出完整系统的人反而越少——因为搭建需要判断力，而蓝图无法传递判断。"
-    },
-    "relevance": "OpenClaw / Hermes / Agent 工具链",
-    "score": 0.78,
-    "engagement": {
-      "likes": 452,
-      "replies": 12,
-      "retweets": 37
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-04-01T14:16:24.826628+00:00",
-    "js_take": {
-      "en-US": "OpenClaw dropped the full blueprint. Watch what happens: 1000 forks, 10 working setups, 3 people who actually know when to stop adding agents. The gap was never the tools.",
-      "zh-CN": "OpenClaw 开源了全套方案。结果呢：1000 人复刻，10 个能跑起来，3 个懂得适可而止。差距从来不在工具上。"
-    }
-  },
-  {
-    "id": "2039131094449115628",
-    "date": "2026-04-01",
-    "author": "@VadimStrizheus",
-    "author_url": "https://x.com/VadimStrizheus",
-    "tweet_url": "https://x.com/VadimStrizheus/status/2039131094449115628",
-    "title": {
-      "en-US": "Hermes Agent setup with 5 agents on Mac mini, claims better than OpenClaw",
-      "zh-CN": "作者展示了自己在 Mac mini 上部署 5 个 Hermes Agent 的设置，声称这比 OpenClaw 好用得多"
-    },
-    "summary": {
-      "en-US": "OpenClaw 竞品对比，AI Agent 部署实践",
-      "zh-CN": "原推用「比 OpenClaw 好」作为结论，但「更好」的定义是隐藏在比较者自己的需求里的——Mac mini 本地部署的取舍、24/7 自动化的场景、对 UI/代码的偏好，这些语境丢失后「更好」就变成了一个无法验证的判断"
-    },
-    "relevance": "OpenClaw 竞品对比，AI Agent 部署实践",
-    "score": 0.72,
-    "engagement": {
-      "likes": 221,
-      "replies": 27,
-      "retweets": 5,
-      "bookmarks": 184
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-04-01T08:07:08.198983+00:00",
-    "js_take": {
-      "en-US": "Five agents on Mac mini isn't \"better\"—it's a different tradeoff. The real question isn't how many run, but what breaks at 3am when one loops and nobody's there to stop it.",
-      "zh-CN": "Mac mini 上跑五个 Agent 不是「更好」，而是另一种取舍。真正该问的不是能跑多少个，而是凌晨三点某个 Agent 陷入死循环、却没人能喊停的时候，会发生什么。"
-    }
-  },
-  {
-    "id": "2039194560048546021",
-    "date": "2026-04-01",
-    "author": "@liyue_ai",
-    "author_url": "https://x.com/liyue_ai",
-    "tweet_url": "https://x.com/liyue_ai/status/2039194560048546021",
-    "title": {
-      "en-US": "OpenClaw热度降温，装了没用效率反降",
-      "zh-CN": "OpenClaw在国内热度降温，很多人发现装了没用，费钱费时效率没提升，反而更忙了"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台/AI工具效率反思",
-      "zh-CN": "工具本身没有价值，使用者的判断力才有——花大钱买最新工具的人，往往期待工具代替思考，结果只是把旧流程用新工具重跑一遍。"
-    },
-    "relevance": "OpenClaw平台/AI工具效率反思",
-    "score": 0.72,
-    "engagement": {
-      "likes": 142,
-      "retweets": 15,
-      "replies": 46,
-      "views": 45467,
-      "bookmarks": 71
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-04-01T11:11:20.543960+00:00",
-    "js_take": {
-      "en-US": "Buying software to outsource judgment. Same people who buy gym memberships for the selfie.",
-      "zh-CN": "买软件外包判断力。跟办健身卡只为自拍的是同一拨人。"
     }
   }
 ]

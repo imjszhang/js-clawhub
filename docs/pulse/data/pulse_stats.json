@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-07T16:15:05.452Z",
+  "updated_at": "2026-04-08T00:35:34.612Z",
   "this_week": {
-    "total_items": 15,
+    "total_items": 16,
     "avg_score": 0.77,
-    "unique_authors": 15,
+    "unique_authors": 16,
     "top_items": [
       {
         "id": "2041321973905600972",
@@ -434,11 +434,39 @@
           "en-US": "75% token savings sounds like a win. But when everyone chases the same metric, the metric becomes a trap — you stop asking if shorter prompts actually mean better answers.",
           "zh-CN": "75% token savings sounds like a win. But when everyone chases the same metric, the metric becomes a trap — you stop asking if shorter prompts actually mean better answers."
         }
+      },
+      {
+        "id": "2041632001787043963",
+        "date": "2026-04-08",
+        "author": "@thekitze",
+        "author_url": "https://x.com/thekitze",
+        "tweet_url": "https://x.com/thekitze/status/2041632001787043963",
+        "title": {
+          "en-US": "my experience with gpt 5.4 in openclaw - pls continue - yes pls do that... just pure pain",
+          "zh-CN": "作者在 OpenClaw 中使用 GPT 5.4 的经历充满痛苦 —— 不断重复「请继续」「请做我说的事」的循环。"
+        },
+        "summary": {
+          "en-US": "AI × 人生 — 工具使用中的控制幻觉",
+          "zh-CN": "推文在吐槽 AI 不听话，但真相是：作者试图用「更具体的指令」解决「指令本身失效」的问题 —— 这是用踩油门的方式修刹车。当工具不理解你时，更多控制只会加剧失控。"
+        },
+        "relevance": "AI × 人生 — 工具使用中的控制幻觉",
+        "score": 0.7,
+        "engagement": {
+          "likes": 166,
+          "replies": 61,
+          "retweets": 3
+        },
+        "comment_type": "wuwei_provoke",
+        "synced_at": "2026-04-08T00:35:34.594Z",
+        "js_take": {
+          "en-US": "You're not fighting the AI. You're fighting the illusion that more control will fix a broken steering wheel. Sometimes the move is to let go and see where it goes — then decide if you want to be there.",
+          "zh-CN": "You're not fighting the AI. You're fighting the illusion that more control will fix a broken steering wheel. Sometimes the move is to let go and see where it goes — then decide if you want to be there."
+        }
       }
     ]
   },
   "all_time": {
     "total_items": 200,
-    "unique_authors": 149
+    "unique_authors": 148
   }
 }
