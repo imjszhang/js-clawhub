@@ -1,5 +1,33 @@
 [
   {
+    "id": "2041936833102086518",
+    "date": "2026-04-08",
+    "author": "@BentoBoiNFT",
+    "author_url": "https://x.com/BentoBoiNFT",
+    "tweet_url": "https://x.com/BentoBoiNFT/status/2041936833102086518",
+    "title": {
+      "en-US": "Anthropic banned OpenClaw 4 days ago, now launched their own agents platform",
+      "zh-CN": "Anthropic 4天前禁止OpenClaw使用Claude订阅，今天推出了自己的托管agents平台—— basically OpenClaw但没有麻烦且更便宜。"
+    },
+    "summary": {
+      "en-US": "AI生态/平台竞争/OpenClaw",
+      "zh-CN": "原推呈现的是\"Anthropic抄袭OpenClaw\"的叙事，但这错过了更深层的模式：当生态位被证明有价值时，平台必然会收回边缘创新。这不是道德问题，而是结构问题——在别人的地基上盖房子，迟早要交租或搬离。真正的\"无竞争\"优势来自构建别人收不走的层面。"
+    },
+    "relevance": "AI生态/平台竞争/OpenClaw",
+    "score": 0.78,
+    "engagement": {
+      "likes": 412,
+      "replies": 45,
+      "retweets": 10
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-04-08T20:15:05.128Z",
+    "js_take": {
+      "en-US": "You built on their land and expected them to keep renting it to you. The lesson isn't 'corporations are evil'—it's that anything that can be copied and productized will be. The only real moat is the thing they can't package: judgment, context, relationships.",
+      "zh-CN": "You built on their land and expected them to keep renting it to you. The lesson isn't 'corporations are evil'—it's that anything that can be copied and productized will be. The only real moat is the thing they can't package: judgment, context, relationships."
+    }
+  },
+  {
     "id": "2041632001787043963",
     "date": "2026-04-08",
     "author": "@thekitze",
@@ -5659,35 +5687,6 @@
     "js_take": {
       "en-US": "Forcing open protocols into closed systems is swimming against the current. The harder you push for 'integration,' the deeper the misalignment becomes—openness and control obey different laws.",
       "zh-CN": "将开放协议硬塞进封闭系统，是逆势而为。越强求「整合」，错位越深——开放与控制本就遵循不同的法则。"
-    }
-  },
-  {
-    "id": "2036197273496068102",
-    "date": "2026-03-24",
-    "author": "@Yuchenj_UW",
-    "author_url": "https://x.com/Yuchenj_UW",
-    "tweet_url": "https://x.com/Yuchenj_UW/status/2036197273496068102",
-    "title": {
-      "en-US": "Why Anthropic didn't buy OpenClaw - aiming for full computer control",
-      "zh-CN": "解释 Anthropic 为什么不收购 OpenClaw——因为 Claude 的目标是控制整台电脑"
-    },
-    "summary": {
-      "en-US": "Anthropic 战略定位与 OpenClaw 生态位分析",
-      "zh-CN": "「做一切」和「做好一件事」不是竞争关系，是不同进化路径。试图控制整台电脑的系统，和选择特定场景深耕的系统，终将分化为两个物种。"
-    },
-    "relevance": "Anthropic 战略定位与 OpenClaw 生态位分析",
-    "score": 0.74,
-    "engagement": {
-      "likes": 83,
-      "replies": 14,
-      "retweets": 3,
-      "views": 5037
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-03-23T22:09:29.946114+00:00",
-    "js_take": {
-      "en-US": "Claude wants the whole computer. OpenClaw picked specific scenes. Not competition—two species diverging. Different势, no collision.",
-      "zh-CN": "Claude想接管整台电脑，OpenClaw专注特定场景。这不是竞争，是两个物种的分道扬镳。势不同，不相撞。"
     }
   }
 ]

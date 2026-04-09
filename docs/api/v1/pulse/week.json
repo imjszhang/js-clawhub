@@ -1,5 +1,33 @@
 [
   {
+    "id": "2041936833102086518",
+    "date": "2026-04-08",
+    "author": "@BentoBoiNFT",
+    "author_url": "https://x.com/BentoBoiNFT",
+    "tweet_url": "https://x.com/BentoBoiNFT/status/2041936833102086518",
+    "title": {
+      "en-US": "Anthropic banned OpenClaw 4 days ago, now launched their own agents platform",
+      "zh-CN": "Anthropic 4天前禁止OpenClaw使用Claude订阅，今天推出了自己的托管agents平台—— basically OpenClaw但没有麻烦且更便宜。"
+    },
+    "summary": {
+      "en-US": "AI生态/平台竞争/OpenClaw",
+      "zh-CN": "原推呈现的是\"Anthropic抄袭OpenClaw\"的叙事，但这错过了更深层的模式：当生态位被证明有价值时，平台必然会收回边缘创新。这不是道德问题，而是结构问题——在别人的地基上盖房子，迟早要交租或搬离。真正的\"无竞争\"优势来自构建别人收不走的层面。"
+    },
+    "relevance": "AI生态/平台竞争/OpenClaw",
+    "score": 0.78,
+    "engagement": {
+      "likes": 412,
+      "replies": 45,
+      "retweets": 10
+    },
+    "comment_type": "buzheng_wisdom",
+    "synced_at": "2026-04-08T20:15:05.128Z",
+    "js_take": {
+      "en-US": "You built on their land and expected them to keep renting it to you. The lesson isn't 'corporations are evil'—it's that anything that can be copied and productized will be. The only real moat is the thing they can't package: judgment, context, relationships.",
+      "zh-CN": "You built on their land and expected them to keep renting it to you. The lesson isn't 'corporations are evil'—it's that anything that can be copied and productized will be. The only real moat is the thing they can't package: judgment, context, relationships."
+    }
+  },
+  {
     "id": "2041632001787043963",
     "date": "2026-04-08",
     "author": "@thekitze",
@@ -1781,263 +1809,6 @@
     "js_take": {
       "en-US": "Apple II moments aren't waited for. The real inflection isn't product maturity—it's who jumps before the signal confirms.",
       "zh-CN": "Apple II 时刻从不是等来的。真正的转折点不在产品成熟，而在于谁敢于在信号确认前率先跃入。"
-    }
-  },
-  {
-    "id": "2039410318963830906",
-    "date": "2026-04-02",
-    "author": "@cgtwts",
-    "author_url": "https://x.com/cgtwts",
-    "tweet_url": "https://x.com/cgtwts/status/2039410318963830906",
-    "title": {
-      "en-US": "OpenClaw was never this good, you needed $600 Mac mini, now Claude does more for $20",
-      "zh-CN": "原推讽刺 OpenClaw 不如 Claude Code 有性价比——以前需要买 Mac mini 才能跑，现在 Claude $20 搞定"
-    },
-    "summary": {
-      "en-US": "直接讨论 OpenClaw 与 Claude Code 的竞争，Cyber-Taoist 可直接回应",
-      "zh-CN": "纠正一个常见盲区：真正的护城河从来不是价格或硬件门槛，而是「装不进 context window 的上下文」——你对项目的判断力、无法被工具标准化的那 1% 决策，这些才是 Claude 复制不了的东西"
-    },
-    "relevance": "直接讨论 OpenClaw 与 Claude Code 的竞争，Cyber-Taoist 可直接回应",
-    "score": 0.78,
-    "engagement": {
-      "likes": 14,
-      "replies": 4,
-      "retweets": 1,
-      "views": 1376
-    },
-    "comment_type": "guigen_insight",
-    "synced_at": "2026-04-01T20:10:01.409450+00:00",
-    "js_take": {
-      "en-US": "Claude runs code. It doesn't run your judgment about which code matters. The cheaper the tool, the higher the premium on the 1% decisions it can't make.",
-      "zh-CN": "Claude 能跑代码，却跑不出你对「哪些代码真正重要」的判断力。工具越廉价，那1%它做不了的关键决策就越值钱。"
-    }
-  },
-  {
-    "id": "2039498785693540534",
-    "date": "2026-04-02",
-    "author": "@lennysan",
-    "author_url": "https://x.com/lennysan",
-    "tweet_url": "https://x.com/lennysan/status/2039498785693540534",
-    "title": {
-      "en-US": "My top takeaways from @clairevo on all things 🦞\n\n1. Install OpenClaw on a separate computer...",
-      "zh-CN": "Lenny分享Claire Vo关于OpenClaw龙虾的最佳实践，建议用独立机器和专用账号来运行AI Agent，像雇佣员工一样对待它。"
-    },
-    "summary": {
-      "en-US": "OpenClaw官方最佳实践，Agent基础设施设置",
-      "zh-CN": "「像雇佣员工一样对待AI Agent」这个类比暴露了思维误区——把Agent当人管，恰恰限制了它的本质优势。真正该问的不是'怎么约束它'，而是'怎么让它不需要被约束也能做好'。"
-    },
-    "relevance": "OpenClaw官方最佳实践，Agent基础设施设置",
-    "score": 0.78,
-    "engagement": {
-      "likes": 290,
-      "replies": 40,
-      "retweets": 21
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-04-02T02:14:37.195472+00:00",
-    "js_take": {
-      "en-US": "You built a cage and called it infrastructure. The real flex isn't隔离 your agent—it's building one that doesn't need babysitting.",
-      "zh-CN": "你建了个笼子，却美其名曰基础设施。真正的本事不是把你的 agent 隔离起来——而是打造一个不需要人时时刻刻照看的 agent。"
-    }
-  },
-  {
-    "id": "2039364255699599867",
-    "date": "2026-04-02",
-    "author": "@AlexFinn",
-    "author_url": "https://x.com/AlexFinn",
-    "tweet_url": "https://x.com/AlexFinn/status/2039364255699599867",
-    "title": {
-      "en-US": "Hermes Agent vs OpenClaw comparison video",
-      "zh-CN": "讨论 Hermes Agent 在某些关键方面比 OpenClaw 更好，但是否能替代 OpenClaw"
-    },
-    "summary": {
-      "en-US": "OpenClaw vs Hermes Agent 的工具对比讨论，Agent 生态竞争",
-      "zh-CN": "工具竞争的本质不是功能列表对比，而是「势」的判断——当所有人追逐「更好的 agent」时，真正的机会在生态位重构，OpenClaw 的护城河是社区驱动的 skill 市场，而非单一 agent 性能"
-    },
-    "relevance": "OpenClaw vs Hermes Agent 的工具对比讨论，Agent 生态竞争",
-    "score": 0.72,
-    "engagement": {
-      "likes": 226,
-      "replies": 57,
-      "retweets": 10,
-      "views": 11186
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-04-01T16:29:28.641654+00:00",
-    "js_take": {
-      "en-US": "Comparing agent features is measuring the wrong race. OpenClaw's 400+ community skills compound—network effects beat raw speed every time.",
-      "zh-CN": "比较 Agent 功能是比错了赛道。OpenClaw 400+ 社区技能的复利效应——网络效应永远胜过单打独斗。"
-    }
-  },
-  {
-    "id": "2039343351187554490",
-    "date": "2026-04-02",
-    "author": "@omarsar0",
-    "author_url": "https://x.com/omarsar0",
-    "tweet_url": "https://x.com/omarsar0/status/2039343351187554490",
-    "title": {
-      "en-US": "Universal CLAUDE.md claims to cut Claude output tokens by 63%",
-      "zh-CN": "有人分享了一个 Universal CLAUDE.md 文件，声称可以减少 Claude 63% 的输出 token，认为这是高效使用 Claude Code 的好方法。"
-    },
-    "summary": {
-      "en-US": "OpenClaw/Claude Code 工程实践，与 JS 日常使用工具直接相关",
-      "zh-CN": "把 CLAUDE.md 的价值误解为「减少 token」是典型工具思维——文件真正的价值不是省钱，而是把分散在各处的上下文压缩成可复用的判断标准，让 AI 在每轮对话起点就有正确的「势」。"
-    },
-    "relevance": "OpenClaw/Claude Code 工程实践，与 JS 日常使用工具直接相关",
-    "score": 0.72,
-    "engagement": {
-      "likes": 134,
-      "replies": 8,
-      "retweets": 14,
-      "views": 16093,
-      "bookmarks": 247
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-04-01T18:07:16.479702+00:00",
-    "js_take": {
-      "en-US": "Chasing 63% token efficiency optimizes the wrong variable. CLAUDE.md's real value: judgment compressed and reusable across sessions. Token savings are a side effect—you're not cutting costs, you're buying back the mental overhead of starting from zero.",
-      "zh-CN": "追逐63%的token效率，优化错了变量。CLAUDE.md的真正价值在于：将判断压缩、跨会话复用。节省token只是副产品——你不是在削减成本，而是在赎回每次从零开始的心智开销。"
-    }
-  },
-  {
-    "id": "2039411851919057339",
-    "date": "2026-04-02",
-    "author": "@theo",
-    "author_url": "https://x.com/theo",
-    "tweet_url": "https://x.com/theo/status/2039411851919057339",
-    "title": {
-      "en-US": "Anthropic DMCA'd my Claude code fork... absolutely pathetic",
-      "zh-CN": "Theo 抱怨 Anthropic 对他的 Claude Code fork 发了 DMCA，尽管里面根本没有源码"
-    },
-    "summary": {
-      "en-US": "OpenClaw 生态相关争议，Anthropic 与开源社区关系",
-      "zh-CN": "更深度：公司越大，「保护机制」越容易异化成自我伤害——用法律武器打击自己的开源生态，本质是法则（R）滞后于社区真实交易（T）的典型案例"
-    },
-    "relevance": "OpenClaw 生态相关争议，Anthropic 与开源社区关系",
-    "score": 0.72,
-    "engagement": {
-      "likes": 1522,
-      "retweets": 35,
-      "replies": 89,
-      "views": 237875
-    },
-    "comment_type": "tao_reframe",
-    "synced_at": "2026-04-01T20:10:01.409455+00:00",
-    "js_take": {
-      "en-US": "DMCA'ing your own open source community. The more rules to protect, the further from the real community you drift.",
-      "zh-CN": "对自己的开源社区挥起 DMCA 大棒。保护规则越繁复，离真正的社区就越遥远。"
-    }
-  },
-  {
-    "id": "2039320145282339265",
-    "date": "2026-04-02",
-    "author": "@PrajwalTomar_",
-    "author_url": "https://x.com/PrajwalTomar_",
-    "tweet_url": "https://x.com/PrajwalTomar_/status/2039320145282339265",
-    "title": {
-      "en-US": "OpenClaw vs Perplexity - spending hours keeping agents alive",
-      "zh-CN": "博主原本觉得Perplexity被高估，自己用OpenClaw跑了5个业务但每周要花几小时维护——配置崩溃、插件故障、Mac Mini得24/7开机"
-    },
-    "summary": {
-      "en-US": "AI Agent运营的真实痛点——不是能不能跑，而是维护成本被低估",
-      "zh-CN": "人们追逐agent的'自动化'幻象，却没算清隐性成本：你的注意力、机器的在线时间、配置的持续维护——所谓'解放'往往只是把劳动转移到了另一个维度"
-    },
-    "relevance": "AI Agent运营的真实痛点——不是能不能跑，而是维护成本被低估",
-    "score": 0.72,
-    "engagement": {
-      "likes": 19,
-      "retweets": 2,
-      "replies": 4
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-04-01T23:13:58.851260+00:00",
-    "js_take": {
-      "en-US": "You spend 20 hours setting up agents to save 2 hours of work. Then 40 hours babysitting them at 2am. The automation you optimized for became the work itself.",
-      "zh-CN": "你花20小时搭Agent，只为省下2小时工作。然后在凌晨2点花40小时守着它们。你优化的自动化，最终成了工作本身。"
-    }
-  },
-  {
-    "id": "2039562871546458413",
-    "date": "2026-04-02",
-    "author": "@Saboo_Shubham_",
-    "author_url": "https://x.com/Saboo_Shubham_",
-    "tweet_url": "https://x.com/Saboo_Shubham_/status/2039562871546458413",
-    "title": {
-      "en-US": "How to run 24/7 OpenClaw agent team: treat agents like new hires",
-      "zh-CN": "介绍如何像管理新员工一样运营 7×24 小时的 OpenClaw Agent 团队——给足上下文，然后别挡路。"
-    },
-    "summary": {
-      "en-US": "OpenClaw平台/agent运营实践",
-      "zh-CN": "推文说「给足上下文然后别挡路」，但这恰恰是最难的——人忍不住要干预，是因为不相信系统能自我组织；真正的挑战不是技术配置，而是克制干预冲动的管理能力。"
-    },
-    "relevance": "OpenClaw平台/agent运营实践",
-    "score": 0.72,
-    "engagement": {
-      "likes": 15,
-      "replies": 9,
-      "retweets": 5
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-04-02T05:11:43.238036+00:00",
-    "js_take": {
-      "en-US": "你拼命优化的那套监控告警，恰恰是系统无法自愈的原因——凌晨三点的报错不该叫醒你，该叫醒的是 agent 自己。",
-      "zh-CN": "你拼命优化的那套监控告警，恰恰是系统无法自愈的根源——凌晨三点的报错不该叫醒你，而该唤醒的是 agent 自己。"
-    }
-  },
-  {
-    "id": "2039670429615362135",
-    "date": "2026-04-02",
-    "author": "@RoundtableSpace",
-    "author_url": "https://x.com/RoundtableSpace",
-    "tweet_url": "https://x.com/RoundtableSpace/status/2039670429615362135",
-    "title": {
-      "en-US": "Video guide: 20 Claude agentic skills to add",
-      "zh-CN": "一个视频教程，展示如何给Claude添加20个强大的agent技能"
-    },
-    "summary": {
-      "en-US": "OpenClaw/AI Agent技能",
-      "zh-CN": "技能数量不等于系统质量——当所有人都在教你「添加更多技能」时，真正稀缺的是判断「哪20%的技能产生80%价值」的品味。这是典型的过度优化陷阱。"
-    },
-    "relevance": "OpenClaw/AI Agent技能",
-    "score": 0.72,
-    "engagement": {
-      "likes": 434,
-      "replies": 15,
-      "retweets": 47
-    },
-    "comment_type": "wuwei_provoke",
-    "synced_at": "2026-04-02T14:08:39.201531+00:00",
-    "js_take": {
-      "en-US": "You hoard 20 skills hoping one will matter. The agents winning aren't the ones with more tools—they're the ones who know which 19 to ignore.",
-      "zh-CN": "你囤积20个技能，赌其中一个能派上用场。但真正赢的Agent不是工具最多的——而是懂得该忽略哪19个的。"
-    }
-  },
-  {
-    "id": "2039689016057209171",
-    "date": "2026-04-02",
-    "author": "@xiaohu",
-    "author_url": "https://x.com/xiaohu",
-    "tweet_url": "https://x.com/xiaohu/status/2039689016057209171",
-    "title": {
-      "en-US": "LibTV AI video agent can connect to Claude Code and 龙虾. Now integrated with Seedance 2.0 API, can generate complete videos with one sentence.",
-      "zh-CN": "LibTV AI视频代理可接入Claude Code和OpenClaw（龙虾），现已集成Seedance 2.0 API，一句话即可生成完整视频。"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态系统相关——提到龙虾（OpenClaw），AI视频代理与Skill集成",
-      "zh-CN": "当所有人都在优化「视频质量」这个单一指标时，真正的分化发生在「谁能让一个非技术人员走完从想法到成片的全程」。易用性不是妥协，是更高的技术壁垒。"
-    },
-    "relevance": "OpenClaw生态系统相关——提到龙虾（OpenClaw），AI视频代理与Skill集成",
-    "score": 0.71,
-    "engagement": {
-      "likes": 3,
-      "replies": 1,
-      "retweets": 1
-    },
-    "comment_type": "buzheng_wisdom",
-    "synced_at": "2026-04-02T13:14:56.360948+00:00",
-    "js_take": {
-      "en-US": "真正的势不在画质——在谁能让一个非技术人员走完从想法到成片的全程。易用性不是妥协，是更高的技术壁垒。",
-      "zh-CN": "真正的势不在画质——在谁能让一个非技术人员走完从想法到成片的全程。易用性不是妥协，是更高的技术壁垒。"
     }
   }
 ]

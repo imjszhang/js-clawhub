@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-08T00:35:34.612Z",
+  "updated_at": "2026-04-08T20:15:05.178Z",
   "this_week": {
-    "total_items": 16,
+    "total_items": 17,
     "avg_score": 0.77,
-    "unique_authors": 16,
+    "unique_authors": 17,
     "top_items": [
       {
         "id": "2041321973905600972",
@@ -118,6 +118,34 @@
         "js_take": {
           "en-US": "Chasing the $200 unlimited plan? Today you learned platform risk. Real cost isn't price—it's how fast you can migrate when terms change.",
           "zh-CN": "Chasing the $200 unlimited plan? Today you learned platform risk. Real cost isn't price—it's how fast you can migrate when terms change."
+        }
+      },
+      {
+        "id": "2041936833102086518",
+        "date": "2026-04-08",
+        "author": "@BentoBoiNFT",
+        "author_url": "https://x.com/BentoBoiNFT",
+        "tweet_url": "https://x.com/BentoBoiNFT/status/2041936833102086518",
+        "title": {
+          "en-US": "Anthropic banned OpenClaw 4 days ago, now launched their own agents platform",
+          "zh-CN": "Anthropic 4天前禁止OpenClaw使用Claude订阅，今天推出了自己的托管agents平台—— basically OpenClaw但没有麻烦且更便宜。"
+        },
+        "summary": {
+          "en-US": "AI生态/平台竞争/OpenClaw",
+          "zh-CN": "原推呈现的是\"Anthropic抄袭OpenClaw\"的叙事，但这错过了更深层的模式：当生态位被证明有价值时，平台必然会收回边缘创新。这不是道德问题，而是结构问题——在别人的地基上盖房子，迟早要交租或搬离。真正的\"无竞争\"优势来自构建别人收不走的层面。"
+        },
+        "relevance": "AI生态/平台竞争/OpenClaw",
+        "score": 0.78,
+        "engagement": {
+          "likes": 412,
+          "replies": 45,
+          "retweets": 10
+        },
+        "comment_type": "buzheng_wisdom",
+        "synced_at": "2026-04-08T20:15:05.128Z",
+        "js_take": {
+          "en-US": "You built on their land and expected them to keep renting it to you. The lesson isn't 'corporations are evil'—it's that anything that can be copied and productized will be. The only real moat is the thing they can't package: judgment, context, relationships.",
+          "zh-CN": "You built on their land and expected them to keep renting it to you. The lesson isn't 'corporations are evil'—it's that anything that can be copied and productized will be. The only real moat is the thing they can't package: judgment, context, relationships."
         }
       },
       {
