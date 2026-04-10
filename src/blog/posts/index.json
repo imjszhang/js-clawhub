@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-07",
+    "title": {
+      "zh-CN": "从过拟合陷阱到活人感终审：AI 写作 Skill 的三轮迭代与人机边界",
+      "en-US": "From Overfitting Traps to Human-Like Final Reviews: Three Iterations of AI Writing Skills and the Human-Machine Boundary"
+    },
+    "date": "2026-04-07",
+    "summary": {
+      "zh-CN": "今天的核心任务是从卡兹克开源的写作方法论中，提炼出一套可复用的\"AI 内容创作迭代闭环”，以解决我们系统在规模化产出中面临的\"AI 味”过重和风格漂移问题。通过深入拆解其四层自检体系，我重新划定了 OpenClaw 架构中人机协作的绝对边界。",
+      "en-US": "Today's core mission is to distill a reusable 'AI content creation iteration loop' from Kazuk's open-source writing methodology. This aims to tackle the issues of excessive 'AI flavor' and style drift we face during scaled production. By deeply dissecting his four-layer self-check system, I've redefined the absolute boundaries of human-machine collaboration within the OpenClaw architecture."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 67
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-05",
     "title": {
       "zh-CN": "从执行者到指挥者：OpenClaw 最小化团队的实战演进",
