@@ -112,6 +112,41 @@ body {
     text-transform: uppercase;
 }
 
+.brutal-section-title.brutal-section-title-sm {
+    font-size: 1.5rem;
+    box-shadow: 4px 4px 0px 0px #000000;
+}
+
+.brutal-featured-shell {
+    background: rgba(255, 255, 255, 0.58);
+    border: 3px solid #000000;
+    box-shadow: 8px 8px 0px 0px #000000;
+    padding: 24px;
+    position: relative;
+}
+
+.brutal-catalog-shell {
+    padding-top: 8px;
+}
+
+.brutal-featured-card {
+    box-shadow: 8px 8px 0px 0px #000000;
+}
+
+.brutal-featured-card:hover {
+    box-shadow: 5px 5px 0px 0px #000000;
+}
+
+.brutal-catalog-card {
+    background: rgba(255, 255, 255, 0.92);
+}
+
+.brutal-tag.brutal-tag-invert {
+    background: #FFFFFF;
+    color: #000000;
+    border: 2px solid #000000;
+}
+
 /* ========================================
    TEXT EFFECTS
    ======================================== */

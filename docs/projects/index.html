@@ -51,30 +51,44 @@
             </p>
         </section>
 
-        <!-- Search -->
-        <section class="mb-8">
-            <div class="relative">
+        <!-- Featured -->
+        <section id="featured-section" class="mb-14 hidden brutal-featured-shell">
+            <div class="flex flex-col gap-3 mb-6 lg:flex-row lg:items-end lg:justify-between">
+                <div>
+                    <h2 class="brutal-section-title brutal-section-title-sm mb-3" data-i18n="projects.featured">Featured</h2>
+                    <p class="max-w-2xl font-medium text-sm lg:text-base" data-i18n="projects.featuredSubtitle">
+                        先看这几项，它们更能代表当前项目集合的方向和完成度。
+                    </p>
+                </div>
+            </div>
+            <div id="featured-grid" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
+        </section>
+
+        <section id="catalog-section" class="brutal-catalog-shell" aria-labelledby="catalog-title">
+            <div class="flex flex-col gap-3 mb-8 lg:flex-row lg:items-end lg:justify-between">
+                <div>
+                    <h2 id="catalog-title" class="brutal-section-title brutal-section-title-sm mb-3" data-i18n="projects.allProjects">All Projects</h2>
+                    <p class="max-w-2xl font-medium text-sm lg:text-base" data-i18n="projects.catalogSubtitle">
+                        这里是完整项目目录，你可以按分类切换，也可以直接搜索。
+                    </p>
+                </div>
+            </div>
+
+            <div class="relative mb-4">
                 <input type="text" id="project-search" class="brutal-search w-full pl-14" data-i18n-placeholder="projects.searchPlaceholder" placeholder="搜索项目...">
                 <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5">
                     <path stroke-linecap="square" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
                 </svg>
             </div>
-            <div id="category-tabs" class="flex flex-wrap gap-3 mt-4"></div>
-        </section>
+            <div id="category-tabs" class="flex flex-wrap gap-3 mt-4 mb-8"></div>
 
-        <!-- Featured -->
-        <section id="featured-section" class="mb-12 hidden">
-            <h2 class="brutal-section-title text-2xl mb-6" data-i18n="projects.featured">Featured</h2>
-            <div id="featured-grid" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
-        </section>
-
-        <!-- Items Grid -->
-        <div id="items-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <div id="loading-state" class="col-span-full text-center py-12">
-                <div class="brutal-loading mx-auto mb-4"></div>
-                <p class="font-mono font-bold" data-i18n="projects.loading">LOADING...</p>
+            <div id="items-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div id="loading-state" class="col-span-full text-center py-12">
+                    <div class="brutal-loading mx-auto mb-4"></div>
+                    <p class="font-mono font-bold" data-i18n="projects.loading">LOADING...</p>
+                </div>
             </div>
-        </div>
+        </section>
     </main>
     <div id="footer-container"></div>
     <script src="../shared/js/threejs-bg.js"></script>
@@ -92,6 +106,9 @@
             const val = obj[field]; return typeof val === 'string' ? val : (val && val['zh-CN']) || '';
         },
         _t(key) { return typeof I18nManager !== 'undefined' ? I18nManager.t(key) : key; },
+        _featuredKey(item) {
+            return (item.url || item.name || '').trim().toLowerCase();
+        },
 
         async init() {
             try {
@@ -144,7 +161,10 @@
             if (!grid || !section || this.featured.length === 0) return;
             section.classList.remove('hidden');
             grid.innerHTML = this.featured.map(item => `
-                <a href="${this.escapeHtml(item.url)}" target="_blank" class="brutal-card p-6 flex flex-col h-full no-underline text-black">
+                <a href="${this.escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer" class="brutal-card brutal-featured-card p-6 flex flex-col h-full no-underline text-black">
+                    <div class="flex items-start justify-between gap-3 mb-3">
+                        <span class="brutal-tag brutal-tag-invert">${this.escapeHtml(this._t('projects.featuredBadge'))}</span>
+                    </div>
                     <h3 class="text-xl font-bold mb-2 uppercase">${this.escapeHtml(item.name)}</h3>
                     <p class="font-medium text-sm mb-3 flex-grow">${this.escapeHtml(this._l(item, 'desc'))}</p>
                     ${item.jsComment ? `<div class="mt-auto pt-3 border-t-2 border-black/10"><p class="font-mono text-xs text-black/60">// JS: ${this.escapeHtml(this._l(item, 'jsComment'))}</p></div>` : ''}
@@ -159,9 +179,11 @@
 
             let items = [];
             if (this.currentCategory === 'all') {
+                const featuredKeys = new Set(this.featured.map(item => this._featuredKey(item)));
                 this.categories.forEach(cat => {
                     (cat.items || []).forEach(item => {
-                        items.push({ ...item, _categoryId: cat.id, _categoryName: this._l(cat, 'name') });
+                        const enriched = { ...item, _categoryId: cat.id, _categoryName: this._l(cat, 'name') };
+                        if (!featuredKeys.has(this._featuredKey(enriched))) items.push(enriched);
                     });
                 });
             } else {
@@ -180,7 +202,7 @@
                 const href = this.escapeHtml(item.url);
                 const target = ' target="_blank" rel="noopener noreferrer"';
 
-                return `<a href="${href}"${target} class="brutal-card p-6 flex flex-col no-underline text-black project-item" data-tags="${this.escapeHtml((item.tags || []).join(' ') + ' ' + (item._categoryId || ''))}" data-search="${this.escapeHtml((item.name + ' ' + this._l(item, 'desc')).toLowerCase())}">
+                return `<a href="${href}"${target} class="brutal-card brutal-card-static brutal-catalog-card p-6 flex flex-col no-underline text-black project-item" data-tags="${this.escapeHtml((item.tags || []).join(' ') + ' ' + (item._categoryId || ''))}" data-search="${this.escapeHtml((item.name + ' ' + this._l(item, 'desc')).toLowerCase())}">
                     <div class="flex items-start justify-between mb-2">
                         <div>
                             <h3 class="text-lg font-bold uppercase">${this.escapeHtml(item.name)}</h3>
