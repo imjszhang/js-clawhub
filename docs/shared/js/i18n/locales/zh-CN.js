@@ -79,8 +79,8 @@
         projects: {
             pageTitle: '项目 - JS ClawHub',
             pageHeading: '项目',
-            metaDesc: '探索 OpenClaw 生态的全部项目、技能与集成',
-            heroDesc: '探索 OpenClaw 生态的全部项目、技能与<span class="bg-black text-brand-yellow px-1">集成</span>。',
+            metaDesc: '查看 JS 在 GitHub 上公开的 js-* 项目',
+            heroDesc: '这里收录了 JS 在 GitHub 上公开的 <span class="bg-black text-brand-yellow px-1">js-*</span> 项目。',
             searchPlaceholder: '搜索项目...',
             loading: '加载中...',
             errorLoading: '// 加载项目失败',

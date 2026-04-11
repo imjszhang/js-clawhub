@@ -1,55 +1,58 @@
 {
   "projects": [
     {
-      "name": "OpenClaw",
-      "url": "https://openclaw.ai/",
+      "name": "js-clawhub",
+      "url": "https://github.com/imjszhang/js-clawhub",
       "desc": {
-        "zh-CN": "开源个人 AI 助手，运行在你自己的机器上，通过 WhatsApp/Telegram/Discord 等聊天应用交互。",
-        "en-US": "Open-source personal AI assistant that runs on your own machine, interacting via WhatsApp/Telegram/Discord and more."
+        "zh-CN": "JS 的个人项目导航站，以 Agent-first 的方式整理项目、内容与实验。",
+        "en-US": "JS's personal project hub, organized in an agent-first way for projects, content, and experiments."
       },
       "tags": [
         "official",
-        "core"
+        "hub",
+        "agent"
       ],
       "jsComment": {
-        "zh-CN": "2026 年最令人兴奋的开源 AI 项目，没有之一。",
-        "en-US": "The most exciting open-source AI project of 2026, bar none."
+        "zh-CN": "这是整个项目宇宙的入口，先看它最容易理解整体方向。",
+        "en-US": "This is the entry point to the whole project universe and the fastest way to understand the bigger picture."
       },
       "icon": "star",
       "source": "navigation.featured"
     },
     {
-      "name": "ClawHub Skills",
-      "url": "https://clawhub.com/",
+      "name": "js-eyes",
+      "url": "https://github.com/imjszhang/js-eyes",
       "desc": {
-        "zh-CN": "OpenClaw 官方技能市场，下载社区创建的技能扩展你的 AI 助手能力。",
-        "en-US": "Official OpenClaw skill marketplace. Download community-created skills to extend your AI assistant."
+        "zh-CN": "面向 AI Agent 的浏览器扩展项目，让 Agent 拥有更直接的网页交互能力。",
+        "en-US": "A browser extension project for AI agents, giving them a more direct way to interact with the web."
       },
       "tags": [
-        "official",
-        "skills"
+        "extension",
+        "browser",
+        "agent"
       ],
       "jsComment": {
-        "zh-CN": "技能生态是 OpenClaw 的灵魂，这里能找到各种神奇的扩展。",
-        "en-US": "The skill ecosystem is the soul of OpenClaw. Find all kinds of amazing extensions here."
+        "zh-CN": "如果想看更偏产品化的一面，这个仓库很有代表性。",
+        "en-US": "If you want to see the more productized side of the work, this repo is a strong example."
       },
       "icon": "puzzle",
       "source": "navigation.featured"
     },
     {
-      "name": "OpenClaw GitHub",
-      "url": "https://github.com/openclaw/openclaw",
+      "name": "js-knowledge-prism",
+      "url": "https://github.com/imjszhang/js-knowledge-prism",
       "desc": {
-        "zh-CN": "OpenClaw 核心代码仓库，开源、可 hack、可自托管。",
-        "en-US": "OpenClaw core repository. Open-source, hackable, self-hostable."
+        "zh-CN": "JavaScript 知识棱镜 CLI 工具，把知识处理做成可组合、可扩展的命令行工作流。",
+        "en-US": "A JavaScript knowledge prism CLI toolkit that turns knowledge processing into a composable, extensible workflow."
       },
       "tags": [
-        "official",
-        "source"
+        "knowledge",
+        "cli",
+        "javascript"
       ],
       "jsComment": {
-        "zh-CN": "代码质量很高，社区活跃度惊人，值得 star 和 watch。",
-        "en-US": "High code quality, amazing community activity. Worth a star and watch."
+        "zh-CN": "这是知识工具链方向里辨识度很高的一个项目。",
+        "en-US": "This is one of the most distinctive repos in the knowledge-tooling direction."
       },
       "icon": "code",
       "source": "navigation.featured"

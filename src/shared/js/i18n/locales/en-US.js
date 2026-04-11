@@ -79,8 +79,8 @@
         projects: {
             pageTitle: 'Projects - JS ClawHub',
             pageHeading: 'Projects',
-            metaDesc: 'Explore all projects, skills and integrations in the OpenClaw ecosystem',
-            heroDesc: 'Explore all projects, skills and <span class="bg-black text-brand-yellow px-1">integrations</span> in the OpenClaw ecosystem.',
+            metaDesc: "Browse JS's public js-* repositories on GitHub",
+            heroDesc: "This page collects JS's public <span class=\"bg-black text-brand-yellow px-1\">js-*</span> repositories on GitHub.",
             searchPlaceholder: 'Search projects...',
             loading: 'LOADING...',
             errorLoading: '// ERROR LOADING PROJECTS',

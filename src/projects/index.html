@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>项目 - JS ClawHub</title>
-    <meta name="description" content="探索 OpenClaw 生态的全部项目、技能与集成">
+    <meta name="description" content="查看 JS 在 GitHub 上公开的 js-* 项目">
     <meta property="og:type" content="website">
     <meta property="og:title" content="项目 - JS ClawHub">
-    <meta property="og:description" content="探索 OpenClaw 生态的全部项目、技能与集成">
+    <meta property="og:description" content="查看 JS 在 GitHub 上公开的 js-* 项目">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
@@ -38,7 +38,7 @@
         <section class="mb-12">
             <h1 class="brutal-section-title mb-6" data-i18n="projects.pageHeading">Projects</h1>
             <p class="text-xl font-bold max-w-2xl border-l-4 border-black pl-6 bg-white/50 p-4" data-i18n-html="projects.heroDesc">
-                探索 OpenClaw 生态的全部项目、技能与<span class="bg-black text-brand-yellow px-1">集成</span>。
+                这里收录了 JS 在 GitHub 上公开的 <span class="bg-black text-brand-yellow px-1">js-*</span> 项目。
             </p>
         </section>
 
@@ -86,33 +86,12 @@
 
         async init() {
             try {
-                const [navResp, skillsResp] = await Promise.all([
-                    fetch('../data/navigation.json'),
-                    fetch('../skills/data/index.json')
-                ]);
+                const navResp = await fetch('../data/navigation.json');
                 if (!navResp.ok) throw new Error('Failed to load navigation data');
 
                 const navData = await navResp.json();
                 this.featured = navData.featured || [];
                 this.categories = navData.categories || [];
-
-                if (skillsResp.ok) {
-                    const skillsData = await skillsResp.json();
-                    const skillItems = skillsData.map(s => ({
-                        name: s.name,
-                        url: '../skills/detail.html?slug=' + encodeURIComponent(s.slug),
-                        desc: s.desc,
-                        tags: s.tags || [],
-                        _isSkill: true,
-                        _author: s.author,
-                        _slug: s.slug
-                    }));
-                    this.categories.push({
-                        id: 'skills',
-                        name: { 'zh-CN': '技能', 'en-US': 'SKILLS' },
-                        items: skillItems
-                    });
-                }
 
                 document.getElementById('loading-state')?.remove();
                 this.renderTabs();
@@ -189,18 +168,13 @@
             }
 
             grid.innerHTML = items.map(item => {
-                const isSkill = item._isSkill;
                 const href = this.escapeHtml(item.url);
-                const target = isSkill ? '' : ' target="_blank"';
-                const authorHtml = isSkill && item._author
-                    ? '<p class="font-mono text-xs text-black/60 mt-1">by @' + this.escapeHtml(item._author.name) + '</p>'
-                    : '';
+                const target = ' target="_blank" rel="noopener noreferrer"';
 
                 return `<a href="${href}"${target} class="brutal-card p-6 flex flex-col no-underline text-black project-item" data-tags="${this.escapeHtml((item.tags || []).join(' ') + ' ' + (item._categoryId || ''))}" data-search="${this.escapeHtml((item.name + ' ' + this._l(item, 'desc')).toLowerCase())}">
                     <div class="flex items-start justify-between mb-2">
                         <div>
                             <h3 class="text-lg font-bold uppercase">${this.escapeHtml(item.name)}</h3>
-                            ${authorHtml}
                         </div>
                         <svg class="w-5 h-5 flex-shrink-0 ml-2 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="square" d="M9 5l7 7-7 7"/></svg>
                     </div>
