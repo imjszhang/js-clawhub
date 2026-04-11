@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-10",
+    "title": {
+      "zh-CN": "养虾日记定调：从工具横评转向共同进化实证",
+      "en-US": "Shrimp Farming Diary Sets the Tone: Pivoting from Tool Benchmarks to Co-evolution Evidence"
+    },
+    "date": "2026-04-10",
+    "summary": {
+      "zh-CN": "今天最大的决策转折点，在于果断砍掉了原本计划的\"AI Agent 横评”和\"Claude Code 对比”选题，将 KL25 的核心彻底锚定在“用龙虾写日记”这一高频真实场景上。我意识到，如果继续沉迷于工具对比，就偏离了 OpenClaw 作为 Harness 工程学的本质——它不是用来被评测的，而...",
+      "en-US": "Today's major turning point was the decisive call to scrap the planned 'AI Agent Benchmark' and 'Claude Code Comparison' topics. Instead, I'm firmly anchoring KL25's core mission to a high-frequency, real-world scenario: 'writing a diary with lobsters.' I realized that continuing to obsess over tool comparisons would stray from OpenClaw's essence as Harness Engineering. It's not designed to be benchmarked, but rather..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 70
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-07",
     "title": {
       "zh-CN": "从过拟合陷阱到活人感终审：AI 写作 Skill 的三轮迭代与人机边界",
