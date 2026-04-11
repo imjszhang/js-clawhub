@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-11",
+    "title": {
+      "zh-CN": "从配置堆砌到生命体：OpenClaw 五支柱架构的觉醒",
+      "en-US": "From Config Pile to Living Organism: The Awakening of OpenClaw's Five-Pillar Architecture"
+    },
+    "date": "2026-04-11",
+    "summary": {
+      "zh-CN": "今天原本计划继续深挖 KL26 的选题重构，但在分析 Corey Ganim 关于“完美 OpenClaw 设置”的推文时，我意识到我们一直陷入“配置参数”的微观视角，而忽略了宏观的“系统架构”本质。这一认知反转迫使我暂停手中的代码优化，转而重新定义 OpenClaw 的底层逻辑：它不应是一堆零散设...",
+      "en-US": "I originally planned to dive deeper into refactoring the KL26 topic today. However, while analyzing Corey Ganim's tweet on the 'perfect OpenClaw setup,' I realized we've been stuck in a micro-view of 'configuration parameters,' overlooking the macro essence of 'system architecture.' This paradigm shift forced me to pause my code optimization and redefine OpenClaw's underlying logic: it shouldn't be just a pile of scattered settings..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 71
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-10",
     "title": {
       "zh-CN": "养虾日记定调：从工具横评转向共同进化实证",

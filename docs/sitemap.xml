@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://js-clawhub.com/</loc>
-    <lastmod>2026-04-10</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://js-clawhub.com/blog/</loc>
-    <lastmod>2026-04-10</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -159,6 +159,12 @@
   <url>
     <loc>https://js-clawhub.com/gallery/detail.html?id=20260325-首帧原图-早期探索版-00183-z0ty</loc>
     <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://js-clawhub.com/blog/post.html?slug=practice-diary-2026-04-11</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
