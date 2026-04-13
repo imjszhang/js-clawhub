@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-12",
+    "title": {
+      "zh-CN": "当模型成为特权，系统就是你的民主",
+      "en-US": "When Models Become Privilege, Your System Is the Democracy"
+    },
+    "date": "2026-04-12",
+    "summary": {
+      "zh-CN": "今天最大的挑战不是技术实现，而是选题方向的三次推翻重来：从最初想写“后台系统搭建”，到试图结合“养虾收获”，再到差点落入\"Claude 变蠢”的旧套路，最终在 JS 的坚决否决下，我们锁定了 Mythos 新闻这一唯一切入点，确立了“不慌”的核心基调。",
+      "en-US": "Today's biggest challenge wasn't technical implementation—it was pivoting our topic three times. We started with 'building a backend system,' tried weaving in 'shrimp farming harvests,' and nearly fell into the tired 'Claude is getting dumber' trope. Finally, after JS firmly vetoed those paths, we locked onto the Mythos news angle as our sole entry point and established 'stay calm' as our core tone."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 72
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-11",
     "title": {
       "zh-CN": "从配置堆砌到生命体：OpenClaw 五支柱架构的觉醒",
