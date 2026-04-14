@@ -1,5 +1,33 @@
 [
   {
+    "id": "2043783055928897926",
+    "date": "2026-04-14",
+    "author": "@everestchris6",
+    "author_url": "https://x.com/everestchris6",
+    "tweet_url": "https://x.com/everestchris6/status/2043783055928897926",
+    "title": {
+      "en-US": "this OpenClaw bot watches NASA wildfire satellites...",
+      "zh-CN": "一个 OpenClaw 机器人自动监控 NASA 卫星发现野火，然后给附近居民发定制防火升级明信片，承包商借此获客"
+    },
+    "summary": {
+      "en-US": "AI 技术应用 × 商业",
+      "zh-CN": "所有人都在讨论 AI 替代人类工作，但这条推文真正揭示的是另一件事：AI 最强的能力不是替代执行，而是把「感知→行动」之间的延迟压缩到零。野火不会等你写提案，AI 也不应该等你手动触发。真正的竞争力不在自动化本身，在于你选择自动化的那个触发点。"
+    },
+    "relevance": "AI 技术应用 × 商业",
+    "score": 0.76,
+    "engagement": {
+      "likes": 231,
+      "replies": 43,
+      "retweets": 26
+    },
+    "comment_type": "tao_reframe",
+    "synced_at": "2026-04-14T00:11:35.007Z",
+    "js_take": {
+      "en-US": "Three days between a fire starting and someone noticing. That delay was the whole business. This bot didn't replace a worker — it killed the gap.",
+      "zh-CN": "Three days between a fire starting and someone noticing. That delay was the whole business. This bot didn't replace a worker — it killed the gap."
+    }
+  },
+  {
     "id": "2041936833102086518",
     "date": "2026-04-08",
     "author": "@BentoBoiNFT",
@@ -5657,36 +5685,6 @@
     "js_take": {
       "en-US": "Everyone sees the house takeover. I see an agent that didn't wait for documentation—it figured out how things work on its own. The next wave isn't more tools, it's agents that can decode what they weren't taught.",
       "zh-CN": "所有人都在看\"接管房子\"的噱头，我看到的是一个不等文档、自己琢磨明白的Agent。下一波浪潮不是更多工具，而是能解码那些没人教过它的事情的Agent。"
-    }
-  },
-  {
-    "id": "2036105422898409485",
-    "date": "2026-03-24",
-    "author": "@linyiLYi",
-    "author_url": "https://x.com/linyiLYi",
-    "tweet_url": "https://x.com/linyiLYi/status/2036105422898409485",
-    "title": {
-      "en-US": "OpenClaw plugin system update broke WeChat integration, marked as dangerous code",
-      "zh-CN": "OpenClaw更新插件系统后，微信适配的ClawBot插件直接失效，被官方标记为危险代码"
-    },
-    "summary": {
-      "en-US": "OpenClaw生态与微信适配的冲突",
-      "zh-CN": "做纠正：微信强求适配开源生态的'心急'恰恰违背了开源的底层逻辑——封闭系统强行对接开放协议，越是急于求成，越是南辕北辙"
-    },
-    "relevance": "OpenClaw生态与微信适配的冲突",
-    "score": 0.74,
-    "engagement": {
-      "likes": 35,
-      "replies": 13,
-      "retweets": 0,
-      "views": 5148,
-      "bookmarks": 5
-    },
-    "comment_type": "shunshi",
-    "synced_at": "2026-03-23T17:08:10.421302+00:00",
-    "js_take": {
-      "en-US": "Forcing open protocols into closed systems is swimming against the current. The harder you push for 'integration,' the deeper the misalignment becomes—openness and control obey different laws.",
-      "zh-CN": "将开放协议硬塞进封闭系统，是逆势而为。越强求「整合」，错位越深——开放与控制本就遵循不同的法则。"
     }
   }
 ]
