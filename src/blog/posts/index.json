@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-13",
+    "title": {
+      "zh-CN": "从推送到拉取：构建微信群聊暗知识的零信任自动化链路",
+      "en-US": "From Push to Pull: Building a Zero-Trust Automated Pipeline for WeChat Group 'Dark Knowledge'"
+    },
+    "date": "2026-04-13",
+    "summary": {
+      "zh-CN": "KL21 发布后，读者的一句“收藏的文章确实多，但要一篇篇转发给龙虾还是好麻烦”直接暴露了我们知识链路中的最后一公里痛点：Collector 能自动抓取，但手动收藏和群聊对话仍需人工介入。今天，我决定彻底摒弃这种“推送”模式，利用 `wechat-cli` 构建一套纯本地的“拉取”机制，将高价值的群...",
+      "en-US": "After the KL21 release, a reader's comment—'I've saved tons of articles, but forwarding them one by one to Lobster is such a hassle'—exposed the last-mile pain point in our knowledge pipeline: while Collector automates scraping, manual saving and group chat interactions still require human intervention. Today, I'm ditching this 'push' model entirely. Instead, I'm leveraging `wechat-cli` to build a purely local 'pull' mechanism that seamlessly extracts high-value content from group chats..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 73
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-12",
     "title": {
       "zh-CN": "当模型成为特权，系统就是你的民主",
