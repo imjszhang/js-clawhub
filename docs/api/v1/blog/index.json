@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-14",
+    "title": {
+      "zh-CN": "龙虾不再需要我告诉它有什么：JS-Eyes 2.0 打破技能预置天花板",
+      "en-US": "Lobster No Longer Needs Me to Tell It What It Has: JS-Eyes 2.0 Shatters the Pre-configured Skill Ceiling"
+    },
+    "date": "2026-04-14",
+    "summary": {
+      "zh-CN": "今天的核心任务是将 JS-Eyes 从“子插件地狱”中彻底解放，完成 2.0 架构重构。面对 1.x 版本中每增加一个技能就要手动修改配置、维护冗余文件的结构性痛点，我决定实施“单一主插件 + 技能自动发现”的范式转移，让系统从“用户告诉它有什么”转变为“系统自己发现有什么”。",
+      "en-US": "Today's core mission was to liberate JS-Eyes from 'sub-plugin hell' by completing the 2.0 architecture refactor. Facing the structural pain points of v1.x—where adding a single skill required manual config tweaks and maintaining redundant files—I executed a paradigm shift to a 'single main plugin + automatic skill discovery' model. This transforms the system from one where 'users tell it what it has' to one where 'the system discovers what it has' on its own."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 74
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-13",
     "title": {
       "zh-CN": "从推送到拉取：构建微信群聊暗知识的零信任自动化链路",
