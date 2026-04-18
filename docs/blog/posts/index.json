@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-17",
+    "title": {
+      "zh-CN": "教你的龙虾，用你的 flomo：从被动记录到主动思考的进化",
+      "en-US": "Teach Your Lobster, Use Your flomo: Evolving from Passive Recording to Active Thinking"
+    },
+    "date": "2026-04-17",
+    "summary": {
+      "zh-CN": "今天终于解决了 flomo 用户最深层的痛点：笔记记了却读不完。当搜索一个关键词跳出 200 条结果时，大多数人只会关掉窗口，而我决定让系统替我们先读，把“堆积”转化为真正的“认知升维”。",
+      "en-US": "Today, we finally tackled the deepest pain point for flomo users: taking notes you never get around to reading. When a keyword search spits out 200 results, most people just close the window. Instead, I decided to let the system do the heavy lifting for us, turning that 'pile-up' of notes into genuine 'cognitive elevation'."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 77
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-14",
     "title": {
       "zh-CN": "龙虾不再需要我告诉它有什么：JS-Eyes 2.0 打破技能预置天花板",
