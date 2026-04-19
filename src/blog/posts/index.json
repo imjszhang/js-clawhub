@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-19",
+    "title": {
+      "zh-CN": "技能去魅：从原理崇拜到目标驱动的黑盒迭代",
+      "en-US": "Demystifying Skills: From Obsessing Over Principles to Goal-Driven Black-Box Iteration"
+    },
+    "date": "2026-04-19",
+    "summary": {
+      "zh-CN": "今天最大的触动来自 GitHub 上那个几天内暴涨近 4 万 Star 的 `andrej-karpathy-skills` 仓库，它让我彻底意识到：在 AI 时代，我们习得技能的核心范式已经发生了根本性逆转——不再是对内部实现的深度理解，而是对目标与结果的精准描述。",
+      "en-US": "Today's biggest eye-opener was the `andrej-karpathy-skills` repo on GitHub, which skyrocketed by nearly 40k stars in just a few days. It drove home a fundamental shift in how we acquire skills in the AI era: it's no longer about deep-diving into internal implementations, but rather about precisely defining goals and outcomes."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 79
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-18",
     "title": {
       "zh-CN": "龙虾进化论：从感官链条到私有第二大脑的三位一体",
