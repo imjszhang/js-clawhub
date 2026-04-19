@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-18",
+    "title": {
+      "zh-CN": "龙虾进化论：从感官链条到私有第二大脑的三位一体",
+      "en-US": "The Evolution of Lobster: A Trinity from Sensory Chains to a Private Second Brain"
+    },
+    "date": "2026-04-18",
+    "summary": {
+      "zh-CN": "今天终于把 OpenClaw 演进链条上的最后一块拼图完成了：当龙虾拥有了感官（KL05）、消化能力（KL06）、微信数据出口（KL27）以及读笔记的脑力（KL31）后，它不再只是一个自动化工具，而进化成了一个完整的“人”。我意识到，真正的终点不是让脚本跑得更稳，而是解决我们每个人都在面临的痛点——...",
+      "en-US": "Today, I finally placed the last piece of the OpenClaw evolution puzzle. With senses (KL05), digestion capabilities (KL06), a WeChat data export (KL27), and the brainpower to read notes (KL31), Lobster has transcended being just an automation tool—it has evolved into a complete 'person.' I've realized the true endgame isn't about making scripts run more stably, but about solving the pain points we all face..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 78
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-17",
     "title": {
       "zh-CN": "教你的龙虾，用你的 flomo：从被动记录到主动思考的进化",
