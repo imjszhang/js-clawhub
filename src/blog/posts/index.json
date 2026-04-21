@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-20",
+    "title": {
+      "zh-CN": "教龙虾管数据：从“读笔记”到“控选题”的三阶指令跃迁",
+      "en-US": "Teaching Lobster to Manage Data: A Three-Stage Leap from 'Reading Notes' to 'Controlling Topics'"
+    },
+    "date": "2026-04-20",
+    "summary": {
+      "zh-CN": "继 KL31 教会龙虾使用 flomo“读笔记”后，今天的核心任务是将它的能力边界从被动接收扩展到主动管理——教会它操作飞书多维表格来管控我们的“爆款选题库”。这不仅是增加一个工具调用，更是要让龙虾理解数据结构、掌握查询定位逻辑，并最终形成自动化的工作流闭环。",
+      "en-US": "Following KL31's success in teaching Lobster to 'read notes' via flomo, today's mission is to expand its capabilities from passive reception to active management. We'll train it to operate Feishu Base (multidimensional tables) to govern our 'Viral Topic Repository.' This isn't just about adding another tool call; it's about enabling Lobster to understand data structures, master query and positioning logic, and ultimately establish a fully automated workflow loop."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 80
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-19",
     "title": {
       "zh-CN": "技能去魅：从原理崇拜到目标驱动的黑盒迭代",
