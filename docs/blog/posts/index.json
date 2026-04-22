@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-21",
+    "title": {
+      "zh-CN": "残缺即完美：OpenClaw 的“星际争霸”生存哲学",
+      "en-US": "Flawed is Perfect: OpenClaw's 'StarCraft' Survival Philosophy"
+    },
+    "date": "2026-04-21",
+    "summary": {
+      "zh-CN": "今天重读 necromanov 关于《星际争霸》平衡性的文章时，我突然意识到 OpenClaw 正站在一个关键的十字路口：我们是该像《星际 2》那样修好所有 Bug 走向“完美的死亡”，还是像《母巢之战》一样保留“残缺的完美”以激发社区的野蛮生长？",
+      "en-US": "While re-reading necromanov's article on StarCraft balance today, it hit me that OpenClaw is at a critical crossroads. Should we patch every bug and chase the 'perfect death' like StarCraft II, or embrace 'flawed perfection' like Brood War to fuel wild community growth?"
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 81
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-20",
     "title": {
       "zh-CN": "教龙虾管数据：从“读笔记”到“控选题”的三阶指令跃迁",
