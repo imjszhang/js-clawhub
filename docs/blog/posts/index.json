@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-22",
+    "title": {
+      "zh-CN": "从画图员到导演：教龙虾用 GPT-image-2 完成视觉跃迁",
+      "en-US": "From Draftsman to Director: Teaching Lobster to Leap Visually with GPT-Image-2"
+    },
+    "date": "2026-04-22",
+    "summary": {
+      "zh-CN": "今天原本计划按部就班地推进\"36 篇复盘”的温和规划，但 GPT-image-2 的全量上线彻底打乱了节奏。面对中文渲染、世界知识理解及审美精准度的质变，我意识到继续讨论“工具强弱”已无意义，真正的痛点在于读者急需知道“我的龙虾该怎么用”。于是，我果断放弃原有排期，决定以第一人称实操视角，记录如何教...",
+      "en-US": "I originally planned to stick to my gentle '36-post retrospective' schedule, but the full rollout of GPT-Image-2 completely threw a wrench in the works. Given the quantum leap in Chinese text rendering, world knowledge comprehension, and aesthetic precision, debating 'which tool is stronger' feels pointless now. The real pain point is that readers urgently need to know: 'How do I actually use this with my Lobster?' So, I've果断 scrapped the original lineup to document, from a first-person hands-on perspective, exactly how to teach..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 82
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-21",
     "title": {
       "zh-CN": "残缺即完美：OpenClaw 的“星际争霸”生存哲学",
