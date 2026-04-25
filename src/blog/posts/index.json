@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-25",
+    "title": {
+      "zh-CN": "旧职业因执行力归零而消失，新身份唯一定义为拥有承载独特审美与决策逻辑的私有 Agent",
+      "en-US": "Old Roles Vanish as Execution Power Hits Zero: The New Identity Is Defined Solely by Private Agents Embedding Unique Aesthetics and Decision Logic"
+    },
+    "date": "2026-04-25",
+    "summary": {
+      "zh-CN": "今天我在处理「养虾日记」项目的封面设计时，被一个残酷的现实击中：当龙虾利用 GPT-Image-2 在 3 小时内产出 8 版封面并沉淀出 6×3 模板体系时，传统设计师赖以生存的“执行力”护城河已彻底归零。这让我意识到，我们不应再纠结于 AI 时代新职业的名称，而必须立即着手将人类的独特判断力固化...",
+      "en-US": "While working on the cover design for the 'Shrimp Farming Diary' project, I was hit by a harsh reality: when an AI leveraged GPT-Image-2 to churn out eight cover variants in just three hours and solidify a 6×3 template system, the 'execution' moat that traditional designers relied on completely evaporated. This made me realize we shouldn't get hung up on naming new jobs in the AI era; instead, we must immediately focus on codifying unique human judgment..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 85
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-22",
     "title": {
       "zh-CN": "从画图员到导演：教龙虾用 GPT-image-2 完成视觉跃迁",
