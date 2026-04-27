@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-27",
+    "title": {
+      "zh-CN": "龙虾越用越笨？为记忆系统植入“选择性遗忘”机制",
+      "en-US": "Are Lobsters Getting Dumber? Injecting 'Selective Forgetting' into Memory Systems"
+    },
+    "date": "2026-04-27",
+    "summary": {
+      "zh-CN": "今天被一篇关于\"Agent Memory\"的文章刺痛了神经：我们都在教 AI 如何记住更多，却没人教它如何遗忘。看着 `js-learn-openclaw` 项目中日益膨胀的 `MEMORY.md`，我意识到如果不引入主动清理机制，我们的“龙虾”迟早会因为上下文污染而变得迟钝甚至产生幻觉。",
+      "en-US": "Today, an article on 'Agent Memory' hit a nerve: we're all teaching AI how to remember more, but no one is teaching it how to forget. Watching the `MEMORY.md` file in the `js-learn-openclaw` project balloon in size, I realized that without an active cleanup mechanism, our 'lobster' will inevitably become sluggish or even hallucinate due to context pollution."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 87
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-25",
     "title": {
       "zh-CN": "旧职业因执行力归零而消失，新身份唯一定义为拥有承载独特审美与决策逻辑的私有 Agent",
