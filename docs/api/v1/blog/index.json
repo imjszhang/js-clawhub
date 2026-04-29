@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-28",
+    "title": {
+      "zh-CN": "从专用电话线到动态通讯录：OpenClaw 后端架构的 acpx 通用协议演进",
+      "en-US": "From Dedicated Phone Lines to Dynamic Directories: The Evolution of OpenClaw's Backend via the acpx Universal Protocol"
+    },
+    "date": "2026-04-28",
+    "summary": {
+      "zh-CN": "今天的核心任务是将 OpenClaw 的后端架构从封闭的 `cursor` 专用绑定，重构为支持多模型调度的 `acpx` 通用协议桥接。触发这一决策的直接原因是机器上已配置好 DeepSeek V4 与 Claude Code，但原有的 `js-cursor-agent` 插件只能调用单一的 Cu...",
+      "en-US": "Today's core mission is to refactor OpenClaw's backend architecture, shifting from a closed, `cursor`-specific binding to a versatile `acpx` universal protocol bridge that supports multi-model scheduling. This decision was triggered by the fact that while DeepSeek V4 and Claude Code are already configured on the machine, the existing `js-cursor-agent` plugin remains limited to invoking a single Cu..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 88
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-27",
     "title": {
       "zh-CN": "龙虾越用越笨？为记忆系统植入“选择性遗忘”机制",

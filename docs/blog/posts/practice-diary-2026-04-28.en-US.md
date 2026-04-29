@@ -1,0 +1,27 @@
+# From Dedicated Phone Lines to Dynamic Directories: The Evolution of OpenClaw's Backend via the acpx Universal Protocol
+
+> Day 88 · 2026-04-28
+
+Today's core mission was to refactor OpenClaw's backend architecture from a closed, `cursor`-specific binding into a universal protocol bridge supporting multi-model scheduling via `acpx`. The direct trigger for this decision was having DeepSeek V4 and Claude Code configured on the machine, while the existing `js-cursor-agent` plugin could only invoke the single Cursor Agent. This limitation prevented leveraging the combined strengths of the new models, forcing me to bridge the critical gap from "capable of deciding" to "capable of outsourcing."
+
+## Architectural Evolution: From "Single Phone Line" to "Dynamic Directory"
+
+Before diving in, I re-examined the bottlenecks in the current architecture. The original `cursor` backend was essentially a "dedicated phone line." It encapsulated the Cursor CLI; while stable, it was extremely closed. The system could only call the Cursor Agent, with model selection entirely determined internally by the CLI, offering zero flexibility. Switching to the `acpx` backend marks the system's upgrade from a closed tool to an open universal protocol bridge. This isn't just swapping plugins; it's refactoring the Agent's delegation capability into a "dynamic directory" supporting multiple Harnesses. Via the standard ACP (Agent Client Protocol), I can now plug-and-play schedule over six Harnesses, including `claude`, `codex`, `pi`, `opencode`, `gemini`, and `kimi`. This shift is the cornerstone for unlocking multi-model collaboration, ensuring the Lobster main process is no longer locked into a single vendor's ecosystem.
+
+## Decoupling Mechanism: Establishing the "Main Process - Protocol - Subprocess" Standard Topology
+
+During implementation, I deeply appreciated the architectural clarity brought by decoupling via the ACP protocol. The current invocation topology is highly standardized: the Lobster main process no longer directly contacts any model APIs. Instead, it triggers a request with runtime "acp" via `sessions_spawn`; this request is received by the `acpx` plugin, which then spawns an independent `acpx` CLI subprocess (communicating via stdio); finally, this subprocess schedules external tools like Claude Code or other Harnesses, which in turn call model APIs like DeepSeek V4. This "four-layer link" design not only achieves thorough decoupling but also embodies the core philosophy of Agents: knowing when to delegate tasks to more suitable tools. For instance, I can configure `acp.defaultAgent` to `claude`, letting the底层 (underlying layer) automatically use DeepSeek V4, while Lobster itself only focuses on task distribution and result aggregation, completely oblivious to the details of underlying model switching.
+
+## Practical Implementation: Version Locking, Permission Control, and Automated Configuration
+
+However, the flexibility of a universal protocol also introduces configuration complexity, especially given `acpx`'s extreme sensitivity to version compatibility. I hit a major snag in practice: the plugin defined an `expectedVersion` of 0.3.1, while my globally installed `acpx` was 0.3.0. Although the plugin attempted to auto-fix this by executing `npm install`, environmental differences caused the version check to fail anyway. This resulted in the backend registration being skipped, throwing the error "ACP runtime backend is currently unavailable" during the Smoke Test.
+
+Resolving this required strict manual intervention: I navigated directly to the plugin directory `extensions/acpx` and manually executed `npm install acpx@0.3.1` to force-lock the version. Only after restarting the Gateway did the registration succeed. Furthermore, to adapt to unattended automated scenarios, I configured `permissionMode` to `approve-all` and set `nonInteractivePermissions` to `deny`. This ensures that in non-TTY environments, permission requests are silently skipped rather than interrupting the flow. Simultaneously, by setting `timeoutSeconds` to control per-turn timeouts and `ttlMinutes` (currently set to 30 minutes) to control session idle timeouts, the universal protocol bridge was finally deemed operational only when `sessions_spawn` returned `status: accepted` and generated a valid `childSessionKey`.
+
+## Today's Takeaways
+
+- **Essence of Architectural Upgrade**: Switching from `cursor` to `acpx` refactors the Agent's delegation capability from a "dedicated phone line" to a "dynamic directory," enabling plug-and-play Harnesses.
+- **Four-Layer Invocation Topology**: Established the standard decoupled link: "Lobster Main Process → ACP Protocol → acpx CLI Subprocess → External Harness → Model API," ensuring the main process never directly touches the model.
+- **Version Locking Red Line**: The `acpx` backend is extremely sensitive to versions (0.3.0 and 0.3.1 are incompatible). If auto-fix fails, you must manually enter the plugin directory and execute `npm install` to force-lock the version.
+- **Key to Automated Configuration**: In non-TTY environments, `nonInteractivePermissions` must be set to `deny` to silently skip permission requests, preventing automation flows from halting.
+- **Validation Standard**: The sole gold standard for backend readiness is `sessions_spawn` returning an `accepted` status along with a valid `childSessionKey`, not merely plugin loading logs.
