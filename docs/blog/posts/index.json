@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-04-29",
+    "title": {
+      "zh-CN": "从正则猜谜到 AI 调度：Meta-Tool 决策权的范式跃迁",
+      "en-US": "From Regex Guesswork to AI Orchestration: A Paradigm Shift in Meta-Tool Decision-Making"
+    },
+    "date": "2026-04-29",
+    "summary": {
+      "zh-CN": "今天原本只是想优化 `js-knowledge-collector` 项目，却在执行过程中意外触发了对核心工具 `js-breakdown-skill` 的架构重构，彻底解决了长期困扰我们的“机械正则误判语义”难题。这次对话不仅修复了 2 个关键 Bug，更标志着我们的系统正式从“可记录”的工具使用...",
+      "en-US": "Today, what started as a simple optimization for the `js-knowledge-collector` project unexpectedly triggered a major architectural refactor of our core tool, `js-breakdown-skill`. This move finally cracks the longstanding 'mechanical regex misinterpreting semantics' headache. Beyond squashing two critical bugs, this session marks a pivotal moment where our system evolves from merely 'recordable' tool usage..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 89
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-28",
     "title": {
       "zh-CN": "从专用电话线到动态通讯录：OpenClaw 后端架构的 acpx 通用协议演进",

@@ -69,7 +69,7 @@ openclaw hub setup-cron --type pulse    # Pulse 自动同步
 
 由 cron 任务 `clawhub-blog-sync` 触发，在隔离会话中执行。
 
-**仅需一步**：调用 `clawhub_blog_auto_sync`。
+**步骤**：调用 `clawhub_blog_auto_sync`，根据返回结果决定是否通知。
 
 该工具内部完成全部逻辑：
 
@@ -80,11 +80,27 @@ openclaw hub setup-cron --type pulse    # Pulse 自动同步
 
 如果没有新文章，翻译/构建/提交步骤会自动跳过，不产生空提交。
 
+### 通知规则
+
+> **注意**：`delivery.mode` 已设为 `none`，agent 输出不会自动推送。
+
+- **无新文章、无变更** → **静默退出，不调用 message 工具，不产生任何输出**。
+- **有导入/翻译/构建结果** → 使用 `message` 工具（`action: "send"`, `channel: "feishu"`）发送摘要：
+
+```
+📚 ClawHub 博客同步完成
+
+✅ 导入：+3 篇
+✅ 翻译：+2 篇
+✅ 构建：成功
+✅ 提交：a1b2c3d - add 3 posts, translate 2
+```
+
 ### Pulse 同步流程（cron 隔离会话）
 
 由 cron 任务 `clawhub-pulse-sync` 触发，在隔离会话中执行。
 
-**仅需一步**：调用 `clawhub_pulse_auto_sync`。
+**步骤**：调用 `clawhub_pulse_auto_sync`，根据返回结果决定是否通知。
 
 该工具内部完成全部逻辑：
 
@@ -93,6 +109,21 @@ openclaw hub setup-cron --type pulse    # Pulse 自动同步
 3. **提交推送**：自动生成 commit message、提交并推送到 origin。
 
 如果数据无变更，构建/提交步骤会自动跳过，不产生空提交。
+
+### 通知规则
+
+> **注意**：`delivery.mode` 已设为 `none`，agent 输出不会自动推送。
+
+- **无新数据、无变更** → **静默退出，不调用 message 工具，不产生任何输出**。
+- **有更新** → 使用 `message` 工具（`action: "send"`, `channel: "feishu"`）发送摘要：
+
+```
+🐾 ClawHub Pulse 同步完成
+
+✅ 拉取：+5 条新动态
+✅ 构建：成功
+✅ 提交：d4e5f6g - sync 5 pulse items
+```
 
 ### 前提条件
 
