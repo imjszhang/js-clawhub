@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-05-02",
+    "title": {
+      "zh-CN": "从“装双眼睛”到“浏览器操作系统”：JS-Eyes 2.6 的架构跃迁",
+      "en-US": "From 'Adding Eyes' to a 'Browser OS': The Architectural Leap of JS-Eyes 2.6"
+    },
+    "date": "2026-05-02",
+    "summary": {
+      "zh-CN": "今天的主线任务是将 js-eyes 从单纯的“网页抓取插件”重新定义为\"AI 的浏览器操作系统”，核心驱动力来自 2.6.x 系列版本中子技能 Harness 架构的独立化与安全防线的纵深加固。面对素材规模指数级增长带来的维护瓶颈，我们不再追求功能堆砌，而是通过解耦升级通道和标准化交互协议，让系统具...",
+      "en-US": "Today's main mission is to redefine js-eyes from a simple 'web scraping plugin' into an 'AI-powered browser operating system.' This shift is driven by the modularization of the Harness sub-skill architecture and the deepening of security defenses in the 2.6.x series. Facing maintenance bottlenecks caused by exponential growth in data volume, we're moving away from feature bloat. Instead, we're decoupling upgrade channels and standardizing interaction protocols to make the system more..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 92
+    }
+  },
+  {
     "slug": "practice-diary-2026-05-01",
     "title": {
       "zh-CN": "龙虾闭环的最后一块拼图：用命令行接管 Office 文档",
