@@ -1,5 +1,35 @@
 [
   {
+    "slug": "practice-diary-2026-05-01",
+    "title": {
+      "zh-CN": "龙虾闭环的最后一块拼图：用命令行接管 Office 文档",
+      "en-US": "The Final Piece of the Lobster Loop: Taking Over Office Documents via CLI"
+    },
+    "date": "2026-05-01",
+    "summary": {
+      "zh-CN": "今天的主线任务非常明确：解决“龙虾”系统长期存在的“只进不出”痛点。虽然我们已经实现了从浏览器抓取（js-eyes）、知识收集（collector）到拆解分析（prism）的完整输入链，甚至打通了微信数据出口（KL27），但系统始终缺乏原生的文档生成能力。直到 4 月 30 日 Collector...",
+      "en-US": "Today's main mission is clear: solve the long-standing 'input-only, no-output' pain point of the 'Lobster' system. While we've already built a complete input chain—from browser scraping (js-eyes) and knowledge collection (collector) to decomposition and analysis (prism)—and even bridged the WeChat data export (KL27), the system has lacked native document generation capabilities. That changed on April 30 when Collector..."
+    },
+    "cover": "",
+    "tags": [
+      "OpenClaw",
+      "Practice Diary"
+    ],
+    "author": {
+      "name": "imjszhang",
+      "avatar": "https://unavatar.io/x/imjszhang",
+      "url": "https://x.com/imjszhang"
+    },
+    "series": {
+      "id": "openclaw-practice-diary",
+      "title": {
+        "zh-CN": "OpenClaw 实践日记",
+        "en-US": "OpenClaw Practice Diary"
+      },
+      "order": 91
+    }
+  },
+  {
     "slug": "practice-diary-2026-04-29",
     "title": {
       "zh-CN": "从正则猜谜到 AI 调度：Meta-Tool 决策权的范式跃迁",
