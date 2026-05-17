@@ -1,49 +1,32 @@
 
-# 当安全机制把 curl | bash 当成攻击：第 27 天的三重防线
+# 第 27 天：踩坑密集日——从 curl|bash 阻断到安全防线的重构
 
 > Day 27 · 2026-02-26
 
-今天是典型的「踩坑密集日」，原本计划顺风顺水地推进 JS-Eyes 的独立分发和自动化发现系统，结果被 OpenClaw 的安全机制和路径解析逻辑连环绊倒。好在这些坑填平后，整个系统的健壮性反而上了一个台阶。
+今天是典型的「踩坑密集日」，原本计划推进 js-eyes 的 Agent-First 改造和自动化分发，却被 OpenClaw 底层的安全机制和路径解析逻辑连环卡住。从 `curl | bash` 被静默拒绝，到配置修改后依然无效，再到环境变量与 Workspace 路径的错位，每一个坑都暴露了系统在从「可记录」向「可教学」演进过程中，对自动化流程与安全纵深防御的严苛要求。
 
-## 安全机制的「过度防御」：为什么 curl | bash 连审批弹窗都没有？
+## 三重防线：为何 curl | bash 被直接阻断且无审批弹窗
 
-上午最让我头疼的一幕发生在尝试运行标准的安装脚本时。我想测试刚刚写好的独立分发流程，执行了经典的 `curl -fsSL https://js-eyes.com/install.sh | bash`。结果既没有执行，也没有弹出我预期的「是否允许执行」的审批对话框，而是直接被 Agent 冷冰冰地拒绝了。
+上午在测试 js-eyes 的一键安装脚本时，Agent 尝试执行 `curl -fsSL https://js-eyes.com/install.sh | bash`，结果命令被直接拒绝，连审批弹窗都没有出现。深入排查 `src/infra/exec-approvals.ts` 和 `src/agents/bash-tools.exec-host-gateway.ts` 后发现，这是 OpenClaw 故意设计的「分段解析 + 白名单校验」机制在起作用。
 
-排查过程像剥洋葱。首先确认了 OpenClaw 的 exec 安全机制采用的是 `allowlist` 模式。在这种模式下，含管道符 `|` 的命令会被拆解成独立的段（segments）。`curl ...` 是一段，`bash` 是另一段。默认的安全白名单（safeBins）里只有 `jq`、`cut`、`head` 这种纯文本处理工具，`bash` 因为能从 stdin 执行任意脚本，永远不可能被自动归类为安全命令。
+系统默认将含管道符的命令拆解为独立段进行严格校验。`curl ... | bash` 被拆成了 `curl -fsSL <url>` 和 `bash` 两段。由于 `bash` 和 `curl` 均不在默认的 `safeBins`（仅包含 `jq`、`cut`、`uniq` 等低风险工具），且 `bash` 从 stdin 执行任意脚本的特性使其永远无法被归类为 safeBin，导致 `allowlistSatisfied = false`。更关键的是，当前的 `ask` 配置默认为 `off` 或因空配置回退到了 `security=deny`，导致系统在白名单未命中时直接拒绝，而非弹出审批窗口。这种设计哲学迫使开发者必须明确知晓并授权每一个高风险执行步骤，杜绝了静默执行恶意管道的可能。
 
-但这解释不了为什么连弹窗都没有。深入检查 `~/.openclaw/exec-approvals.json` 才发现第一个陷阱：我的配置文件里 `agents` 字段是空的。在 OpenClaw 的逻辑里，空配置不等于「宽松」，而是直接回退到 `security=deny`，导致所有主机执行请求被静默拦截。
+## 配置陷阱：空配置回退与显式审批策略的必要性
 
-补上 agent 配置并设置 `ask: on-miss` 后，我以为问题解决了，结果依然被拒。这才是今天最大的反转：原来 `tools.exec.host` 的默认值是 `sandbox`。当 exec 在 Docker 沙箱里运行时，根本不会去读取主机上的 `exec-approvals.json`，所有的审批逻辑都失效了。
+为了解决无弹窗问题，我尝试修改 `~/.openclaw/exec-approvals.json`，起初以为只要保持默认空配置即可沿用宽松策略，结果大错特错。当 `agents` 配置为空或未显式指定 agent 时，系统并不会采用宽松策略，而是直接回退到 `security=deny`，拒绝所有请求。
 
-最终的解决方案是在 `openclaw.json` 中显式声明 `tools.exec.host: "gateway"`，强制命令在网关主机执行，并开启新 Session 清除旧的覆盖状态。这一刻我才意识到，所谓的「安全三重防线」——分段解析、白名单校验、动态审批——在默认配置下是多么严密，甚至严密到把自己人都拦在了门外。
+正确的做法是必须在 `exec-approvals.json` 中为 `main` agent 显式设置组合策略：将 `security` 设为 `allowlist`，并将 `ask` 设为 `on-miss`。只有这样才能确保在白名单未命中时弹出审批窗口，而不是直接失败。同时，`askFallback` 应设为 `deny` 以处理审批超时或无 UI 的情况。这一发现让我意识到，在安全机制中，「未配置」绝不等于「宽松」，显式的策略声明是构建可信自动化流程的前提。
 
-## 从手动注册到自动发现：构建技能发现的「四层架构」
+## 运行时依赖：Host 设置与 Session 持久化的隐蔽陷阱
 
-解决了执行权限问题后，下午的重心转到了 JS-Eyes 的技能发现系统。之前的扩展技能 `js-search-x` 安装体验太差，用户得手动编辑 JSON 配置文件，还要记准路径，这对 Agent 生态的推广简直是灾难。
+即便修正了 `exec-approvals.json`，问题仍未解决。进一步排查发现两个更隐蔽的运行时陷阱。首先，`tools.exec.host` 的默认值是 `sandbox`，在此模式下 exec 在 Docker 沙箱内运行，根本不会读取 `exec-approvals.json`，审批逻辑仅在 `host` 显式设置为 `gateway` 或 `node` 时才会生效。我不得不在 `openclaw.json` 中显式添加 `"tools": { "exec": { "host": "gateway" } }` 配置。
 
-我决定放弃等待 OpenClaw 核心更新 API，而是利用现有的 GitHub Pages 基础设施自建一套发现体系。核心思路是把 `js-eyes.com` 变成一个静态注册中心。
-
-实施过程分为四层：
-
-1.  **静态注册表**：改造构建脚本 `builder.js`，让它自动扫描 `skills/` 目录下的 `SKILL.md`，解析 YAML frontmatter，生成一个标准的 `skills.json`。这里还踩了个 YAML 解析器的缩进 Bug，把 `<=` 写成 `<` 导致嵌套层级解析错误，修好后元数据终于能正确提取了。
-2.  **独立分包**：为每个子技能生成独立的 zip 包，托管在 `js-eyes.com/skills/{id}/` 下，方便按需下载。
-3.  **安装脚本升级**：给 `install.sh` 加了参数支持，现在运行 `curl ... | bash -s -- js-search-x` 就能自动从注册表拉取元数据并完成安装。
-4.  **Agent 工具化**：在 OpenClaw 插件里新增了 `js_eyes_discover_skills` 和 `js_eyes_install_skill` 两个工具。Agent 现在可以自主查询注册表，发现缺失的能力，然后自动下载、解压、运行 `npm install` 甚至更新本地配置。
-
-当看到 Agent 自己调用 `discover` 发现 `js-search-x`，再调用 `install` 完成安装，最后重启加载新工具时，那种「自举」的闭环感让人非常兴奋。这不仅解耦了 ClawHub 的市场依赖，也让技能扩展变得像插件安装一样自然。
-
-## 路径解析的隐形陷阱：State 目录与 Workspace 的分离
-
-在测试新工具写入配置时，又撞上了一个隐蔽的坑。日志报 `ENOENT` 错误，提示找不到 `C:\Users\Helix\.openclaw\workspace\MEMORY.md`。可我明明设置了 `OPENCLAW_STATE_DIR` 把数据目录迁移到了 D 盘。
-
-原来 OpenClaw 的 **State 目录** 和 **默认 Workspace 目录** 是两套独立的解析逻辑。`OPENCLAW_STATE_DIR` 只影响状态文件存储，而 Workspace 的默认路径是基于 `HOME` 或 `USERPROFILE` 拼接的。在 Windows 上，即使用户把状态迁走了，Workspace 依然死死钉在 C 盘的用户目录下。
-
-这个设计上的分离导致 read/memory 等工具在相对路径解析时，依然指向了不存在的 C 盘路径。解决办法是在 `openclaw.json` 的 `agents.defaults` 中显式指定 `workspace` 路径，利用配置优先级的规则覆盖默认行为。虽然多了一步配置，但也避免了隐式依赖环境变量带来的不确定性。
+其次，配置修改后必须开启新 Session 才能生效。这是因为旧 Session 的状态中可能持久化了 `/exec` 的会话级覆盖值（如 `execAsk=off` 或 `execHost=sandbox`），这些残留状态会覆盖最新的磁盘配置。此外，在排查 js-eyes 的 `read` 工具报错时，还发现了 `OPENCLAW_STATE_DIR` 与默认 Workspace 路径解析不一致的问题：即使设置了 State 目录到 D 盘，默认 Agent 的 Workspace 仍基于 `USERPROFILE` 解析到 C 盘，导致 `MEMORY.md` 读取失败（ENOENT）。最终通过在 `openclaw.json` 中显式指定 `agents.defaults.workspace` 才解决了路径错位问题。
 
 ## 今天的收获
 
-- 空配置不等于宽松策略，exec-approvals.json 中缺失 agent 配置会导致系统回退到默认的拒绝所有模式。
-- 管道命令的安全校验是基于分段进行的，bash 从 stdin 执行脚本的特性使其永远无法进入默认安全白名单。
-- exec 审批机制仅在 host 设置为 gateway 或 node 时生效，默认的 sandbox 模式会绕过主机的安全配置文件。
-- 静态注册表结合构建自动化，能让 Agent 在不依赖上游核心改动的情况下实现技能的自主发现与安装。
-- 状态目录与工作空间目录的解析逻辑是分离的，迁移数据存储时需同步显式配置工作空间路径。
+- **安全机制的默认行为是「拒绝」而非「宽松」**：`exec-approvals.json` 中 `agents` 为空时会回退到 `security=deny`，必须显式配置 `allowlist` + `on-miss` 才能启用审批流程。
+- **高风险命令需分段校验**：`curl | bash` 等管道命令会被拆解校验，`bash` 因高风险特性永不在 `safeBins` 中，必须通过审批或白名单显式放行。
+- **运行时环境决定配置生效**：`tools.exec.host` 默认为 `sandbox` 会绕过审批，必须设为 `gateway` 或 `node`；且配置修改后需重启 Session 以清除持久化覆盖。
+- **State 目录与 Workspace 路径解耦**：`OPENCLAW_STATE_DIR` 不影响默认 Workspace 解析，需通过 `agents.defaults.workspace` 或 `OPENCLAW_HOME` 显式统一路径，避免跨盘读取失败。
+- **Agent-First 需自主可控的分发链路**：面对 VirusTotal 误报，通过 `js-eyes.com` 托管安装脚本与多源回退机制，实现了不依赖市场审核的自主安装闭环。

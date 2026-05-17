@@ -1,42 +1,43 @@
-# 让 AI 记住我的思考：用 73 个文件撬动结构化知识检索
+# 记忆桥接的低成本突围：从摘要导出到双源互补
 
 > Day 38 · 2026-03-09
 
-昨天刚把外部文章摘要接进 OpenClaw 的记忆系统，今天趁热打铁，要把我自己蒸馏过的“结构化思考”也喂给它。如果说昨天的 1280 篇文章是“广度”，那今天这步就是给 AI 装上“深度”的牙齿——让它不仅能检索文章，还能检索我的观点和方法论。
+面对素材规模指数级增长和手动流程瓶颈，今日的核心任务是打通外部知识库与 OpenClaw 记忆系统的“最后一公里”。我们不再追求复杂的自定义 Context Engine，而是选择了一条“架构分层分离 + 全链路自动化闭环”的务实路径，通过 P0 级策略实现了 1280 篇外部文章与 73 个结构化洞察的低成本接入。
 
-## 给知识棱镜做“瘦身手术”：只喂高价值片段
+## OpenClaw 记忆桥接：Markdown 摘要导出与增量同步
 
-Prism 生成的文件不少，但我很快意识到不能一股脑全倒进向量数据库。Journal 里的碎碎念、atoms 里的原始表格、outputs 里的长文，这些信息密度太低，混进去只会稀释检索质量，甚至因为 chunk 切割破坏表格结构而制造噪声。
+在分析 OpenClaw 的上下文引擎与记忆系统后，我确认了 `memorySearch.extraPaths` 是最低成本的集成点。与其修改核心代码去 hook 每一个消息，不如直接将外部知识转化为记忆系统能理解的 Markdown 文件。
 
-我决定做个“狠心”的筛选器。在 `lib/memory-sync.mjs` 里，我只允许四类文件通过：`groups`（凝练的观点句 + 支撑 atoms）、`synthesis.md`（全局全景）、各视角的 `CONTEXT.md`（SCQA 结构化摘要）以及 `SKILL.md`。特别是 `groups` 目录下的文件，每个只有 1-5KB，正好是一个完美的 embedding chunk，里面全是干货。
+我为 `js-knowledge-collector` 插件新增了 `cli/lib/memory-sync.js` 模块。核心决策在于“只导出摘要层”：我们摒弃了全文导出，仅提取标题、推荐理由、摘要和详细摘要。实测证明，对于 memory_search 约 400 tokens 的 chunk 粒度，这种高密度摘要层正好构成 1-3 个优质 chunk，避免了全文带来的噪声。
 
-实现时最爽的一个细节是处理多知识库冲突。我的 `registry.json` 里注册了好几个库，直接复制文件名肯定撞车。我写了个 `slugify` 函数，特意保留了中文字符（`\u4e00-\u9fff`），让导出文件变成 `openclaw-个人实践知识库-G01-time-vs-logic-organization.md` 这种格式。既避免了冲突，一眼还能看出是哪个库里的货。
+同步机制上，我引入了基于 `.sync-state.json` 的增量检测策略，记录每篇文章的 `updated` 时间戳。首次全量同步耗时约 1 秒，成功将 1280 篇来自微信公众号、GitHub、知乎等平台的文章导出为独立的 `article-{id}.md` 文件。通过在 `knowledge_collect` 工具钩子中采用 fire-and-forget 策略触发同步，既保证了收集的实时响应，又确保了后台索引的 eventual consistency。
 
-跑完首次全量同步，结果出乎意料地清爽：73 个文件。相比原本可能几百个的杂乱笔记，文件数减少了 80% 以上，但覆盖的核心框架一点没少。同步耗时仅 0.6 秒，这种“少而精”的策略，才是向量检索该有的样子。
+## Prism 记忆桥接：层次筛选与双源互补架构
 
-## 双源互补：当外部摘要遇上内部洞察
+紧接着，我将同样的逻辑应用到了 `js-knowledge-prism`。与 Collector 不同，Prism 的数据源是多个注册的 Markdown 知识库，且源文件本身就是 Markdown，无需格式转换，只需复制。
 
-配置完 Prism 桥接后，我打开 `~/.openclaw/openclaw.json`，在 `memorySearch.extraPaths` 数组里同时填入了 collector 和 prism 两个导出目录。
+这里的最大挑战是“层次筛选”。Prism 的金字塔结构包含 journal、atoms、outputs 等多个层次，但并非所有都适合向量检索。经过验证，我决定仅筛选 `groups`（观点句 + atoms 列表）、`synthesis.md`（顶层全景）、`CONTEXT.md`（SCQA 摘要）和 `SKILL.md`（知识地图）。这一策略直接剔除了 80% 以上的低信息密度文件（如原始笔记和表格），确保进入向量库的都是高价值洞察。
 
-```json
-"extraPaths": [
-  "d:\\github\\my\\js-knowledge-collector\\work_dir\\memory-export",
-  "d:\\github\\my\\js-knowledge-prism\\work_dir\\memory-export"
-]
-```
+实现上，我编写了 `lib/memory-sync.mjs`，遍历 `registry.json` 中所有 enabled 的知识库，利用文件系统 `mtime` 进行增量检测（比 content hash 更高效）。文件命名采用了 `{kb-slug}-{filename}.md` 策略，并特意在 `slugify` 函数中保留了中文字符，使得导出的文件名如 `openclaw-个人实践知识库-G01-time-vs-logic-organization.md` 既唯一又可读。
 
-这一刻的感觉很奇妙。现在的 `memory_search` 工具，背后站着三个互补的数据源：
+最终，OpenClaw 的 `memorySearch.extraPaths` 配置同时指向了 Collector 和 Prism 的两个导出目录。系统现在拥有了三重互补的记忆源：Collector 提供广度（1280 篇外部摘要），Prism 提供深度（73 个结构化洞察），原生记忆提供个人化决策。
 
-1.  **Collector** 提供的 1280 篇外部文章摘要，负责回答“业界是怎么说的”；
-2.  **Prism** 提供的 73 个结构化洞察，负责回答“我是怎么思考的”；
-3.  **原生记忆** 里的每日决策，负责回答“我当时决定了什么”。
+## 记忆检索生效的三重前置约束
 
-以前担心多个目录会冲突，实际上 OpenClaw 的向量索引处理得非常平滑。它像是在一个巨大的图书馆里，自动把新书（外部知识）和笔记（内部洞察）编目到同一个检索体系下。我不需要改一行核心代码，仅仅通过配置路径和简单的文件复制，就完成了一次记忆系统的“扩容升级”。
+在验证检索效果时，我踩了一个关键坑：即使配置了 `extraPaths`，如果底层向量检索未启用，新内容依然无法被搜索到。
+
+必须严格满足三重约束：
+1.  **开关与 Provider**：必须在配置中显式设置 `memorySearch.enabled: true`，并配置至少一个可用的 Embedding Provider（如 Ollama 或 node-llama-cpp）。若未配置 Provider，`syncMemoryFiles` 和 `indexFile` 根本不会执行索引操作。
+2.  **模型选择**：对于本地部署，我对比了两种方案。Ollama 适合已有环境的用户，需常驻运行 `nomic-embed-text`；而 `node-llama-cpp` 适合轻量级用户，首次使用会自动下载约 0.6GB 的 EmbeddingGemma 模型。
+3.  **硬件资源**：在树莓派等受限设备上，仅运行 Gateway 需 1GB RAM，但若要在本地运行 EmbeddingGemma 300M 模型，建议分配 2GB RAM 以确保稳妥。忽略这一点会导致索引进程因 OOM 而静默失败。
 
 ## 今天的收获
 
-- OpenClaw 的 `extraPaths` 是最低成本的集成点，只需输出 Markdown 到指定目录即可接入向量检索能力。
-- 向量检索的质量取决于信息密度，仅导出摘要层或结构化 Groups 能显著避免噪声稀释。
-- 增量同步机制（基于时间戳或 mtime）是应对知识库增长、避免无效 I/O 和重建开销的关键。
-- 多源知识（外部摘要 + 内部洞察 + 个人决策）的互补能构建出立体且高价值的记忆系统。
-- 纯文件复制场景下，利用文件系统 mtime 做增量检测比计算 content hash 更高效直接。
+- **摘要层优于全文**：针对向量检索的 chunk 特性，导出“标题 + 推荐理由 + 摘要”的高密度层，比全文导入能显著提升检索命中率并降低噪声。
+- **增量同步的元数据策略**：利用 `.sync-state.json` 记录 `updated` 时间戳（而非仅 ID）或文件 `mtime`，是处理大规模知识库同步、避免无效 I/O 和重复 Embedding 的关键。
+- **层次筛选即价值放大**：在 Prism 桥接中，主动剔除 journal 和 atoms 表格等低密度层，仅保留 groups 和 synthesis，能以 20% 的文件量覆盖 90% 的核心知识价值。
+- **Fire-and-Forget 钩子模式**：在工具执行成功后异步触发同步任务，不阻塞主流程且隔离失败风险，是构建流畅自动化闭环的最佳实践。
+- **检索生效的硬性门槛**：配置 `extraPaths` 只是第一步，必须同时确保 `memorySearch.enabled` 开启且 Embedding Provider 正常运作，否则新数据永远无法进入索引。
+
+- [G56: OpenClaw 记忆桥接需采用"Markdown 摘要导出 + 增量时间戳同步"策略以低成本接入向量检索](./G56-openclaw-memory-bridge-strategy.md)
+- [G57: Prism 记忆桥接需通过“层次筛选 + 增量同步 + 双源互补”策略实现高价值结构化知识的低成本接入](./G57-prism-memory-bridge-strategy.md)

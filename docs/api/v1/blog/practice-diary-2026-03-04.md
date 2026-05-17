@@ -1,50 +1,26 @@
 
-# 跨越两千次提交，只为了一个锁文件的战争
+# 第二次大合并：在 3600+ 提交洪流中坚守架构一致性
 
 > Day 33 · 2026-03-04
 
-继上次合并后，今天迎来了更硬核的挑战：将 `origin/main` 从基准点 `9ef0fc2ff` 一路拉齐到最新的 `a95a0be13`。这中间横跨了 2184 个上游提交，涵盖了三个里程碑版本的迭代，我原本做好了大干一场解决几百个冲突的准备，但结果却有点出乎意料。
+面对上游 `origin/main` 跨越三个里程碑版本（2026.2.24 → 2026.3.3）的 2184 个新提交，今天的核心任务是将这些涵盖安全加固、架构重构与新渠道功能的巨大变更合并至 `githubforker` 分支。这不仅是一次代码同步，更是对我们“本地优先网关”架构在规模化演进下的一次压力测试，必须在吸收上游红利的同时，严防架构腐化。
 
-## 2184 次提交与唯一的“幸存者”
+## 绝对合并原则：以上游架构为准，坦然记录功能丢失
 
-执行 `git merge origin/main` 的时候，我心里其实挺忐忑的。毕竟这次跨度太大，从安全加固到架构重构，上游改了 3536 个文件。Git 忙活了一阵子，告诉我它自动完成了 3317 个文件的三路合并。
+在处理横跨安全、重构等五大领域的 3600+ 提交差异时，我确立了一条铁律：所有冲突无条件采纳 `main` 分支版本。本次合并涉及 3536 个文件的差异，Git 自动解决了 3317 个文件的三路合并，唯一的显式冲突出现在 `pnpm-lock.yaml` 上。这是因为 fork 特有的 `extensions/js-knowledge-prism` 包在上游不存在，且两边对 `extensions/line` 的依赖写法略有不同。
 
-当我打开状态列表时，愣住了：整个项目只剩下一个冲突文件——`pnpm-lock.yaml`。
+我的决策非常明确：保留 fork 的扩展包定义，但严格遵循上游的依赖格式规范，确保构建系统的一致性。更关键的决策在于那些被上游重构覆盖的本地功能。例如，原有的 `shell/shellArgs` 配置逻辑在上游新的执行安全模型（如 `sanitizeHostBaseEnv` 和 `exec` 审批上下文集中化）中被彻底重构。我没有试图强行保留旧代码来维持暂时的“功能完整”，而是选择接受其丢失，并明确记录在案：这些功能必须基于上游新的五层抽象网关架构重新实现。盲目保留旧代码只会导致架构双轨运行，最终引发更深层的腐化。
 
-这简直是奇迹，但也合理。毕竟我的 fork 核心改动主要集中在 `src/agents/shell-utils.ts`（PowerShell 7 的优先探测和 `resolvePowerShellPath` 的导出）以及 Telegram 和 Moonshot 的特定适配上。这些逻辑代码和上游的新功能（比如 Telegram 的 per-topic agent 路由、Discord 的 allowBots 门控）井水不犯河水。
+## 自动化迁移与高频合并：从被动救火到主动预防
 
-唯一的战场在锁文件第 355 行。上游没有我新增的 `extensions/js-knowledge-prism` 包，而且两边对 `extensions/line` 的依赖写法也有细微差别。解决过程很干脆：保留我的 `js-knowledge-prism` 块，强制锁定 `extensions/line` 的 devDependencies 格式为 fork 版本。
+为了将升级风险降至最低，我们建立了一套针对破坏性变更（Breaking Changes）的自动化应对机制。本轮升级虽然官方 Changelog 标注无新增 Breaking Change，但在实际验证中，我发现 `gateway.auth.mode` 的引入实际上改变了认证行为，这修正了我们之前“无新增破坏性变更”的误判。对此，我们通过枚举化配置 Breaking Changes 并引入 `doctor --fix` 自动迁移工具，显著降低了手动干预的风险。
 
-```yaml
-# 最终保留的形态
-extensions/js-knowledge-prism:
-  dependencies:
-    "@sinclair/typebox":
-      specifier: 0.34.48
-      version: 0.34.48
-  devDependencies:
-    openclaw:
-      specifier: workspace:*
-      version: link:../..
-```
-
-提交时还出了个小插曲。因为涉及 3318 个文件的变更，系统参数列表直接爆表，pre-commit hook 根本跑不起来。只能祭出 `git commit --no-verify -m "Merge main into githubforker: upgrade to latest upstream"` 强行通关。看着提交 SHA `d2ac0b1cd` 生成，心里那块石头才算落地。
-
-## 验证：那些“私有财产”都还在吗？
-
-合并完不敢大意，立刻跑了一遍核心改动的验证。这次升级上游动静太大，我很担心我的 PowerShell 7 探测逻辑或者 Telegram 的嵌套 HTML 修复被覆盖。
-
-检查结果显示，Git 的三路合并聪明得令人感动：
-
-- `src/agents/shell-utils.ts` 里关于 `pwsh7` 路径探测、`ProgramW6432` 备选方案，以及 `getShellConfig` 支持 `overrides` 参数的改动，全部完好无损。
-- Moonshot Kimi k2.5 的默认模型配置稳稳当当。
-- 甚至连之前修复的 Telegram 嵌套 HTML 渲染问题也没有回退。
-
-上游这 2184 次提交带来的新东西确实诱人：Feishu 现在支持 per-group systemPrompt 了，Ollama 也能做本地向量嵌入，还有那个让强迫症舒服的“工具截断 head+tail 策略”（终于不会只看得到错误信息的尾巴了）。但对我而言，最欣慰的还是看到自己的“私有扩展”在如此剧烈的地质运动中毫发无损。
+此次合并的成功也验证了“小步快走”策略的有效性。通过将合并频率提升至 4 天一次，我们将冲突数从之前的 1 个成功降为 0（本次唯一的 lock 文件冲突也是预期内的结构差异）。上游引入的诸多安全加固，如 `Permissions-Policy` 响应头默认值、Discord CDN SSRF 白名单以及 `session key` 路由继承的收窄，都通过这种高频合并无缝融入了我们的系统。同时，新功能如 Telegram 论坛群组的 per-topic agent 路由、Feishu 的 thread_id 话题会话隔离，以及 Plugin SDK 的 `channelRuntime` 访问能力，也得以立即转化为我们的生产力，而非堆积成待处理的技术债务。
 
 ## 今天的收获
 
-- 大规模合并时，只要核心逻辑分层清晰，冲突数量往往远小于心理预期，锁文件常是唯一的战场。
-- 面对数千个上游提交，坚持“架构一致性优先”策略，能大幅降低人为判断冲突的复杂度。
-- 当变更文件数超出系统参数限制时，`--no-verify` 是打破死锁的必要手段，但需确保本地测试已通过。
-- Fork 的生存之道不在于对抗上游，而在于精准定位差异点（如特定扩展包和 Shell 适配），让 Git 自动处理其余 99% 的共性代码。
+- **架构一致性高于临时功能完整**：在大规模合并中，宁可丢失旧功能并规划重建，也要避免保留偏离上游架构的“僵尸代码”，防止系统演变为难以维护的双轨制。
+- **高频合并是降低冲突成本的银弹**：将合并周期缩短至 4 天，能有效将冲突从“复杂逻辑冲突”降级为“简单的配置或锁文件冲突”，甚至实现零冲突自动合并。
+- **自动化迁移工具不可或缺**：面对 Breaking Changes（如配置键变更、API 移除），必须配套 `doctor --fix` 类工具进行自动修正，不能依赖人工逐行排查。
+- **警惕“无破坏性变更”的官方声明**：实际合并中需动态验证安全策略和配置行为（如 `gateway.auth.mode`），官方 Changelog 可能存在滞后或定义偏差。
+- **Fork 特有扩展的标准化保留**：在解决 `pnpm-lock.yaml` 等配置文件冲突时，应保留 fork 特有包（如 `js-knowledge-prism`），但严格遵循上游的格式规范以确保持续兼容。

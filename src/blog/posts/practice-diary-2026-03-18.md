@@ -1,33 +1,33 @@
-# 破局短命令模型：Cursor Agent 零依赖架构与长驻进程池实战
+# 破局短命令模型：构建 Cursor Agent 零依赖长驻进程池
 
 > Day 47 · 2026-03-18
 
-今天的核心任务是将 Cursor IDE 的 `agent acp` 能力接入 OpenClaw 系统，但在深入分析现有 `acpx` 插件时，我遭遇了根本性的架构冲突：原有的"spawn-exec-exit"短命令模型完全无法兼容 Cursor 基于 stdio JSON-RPC 的长驻有状态会话，这迫使我放弃简单的配置修补，转而构建一套独立的进程管理方案。
+今天最大的挑战源于一个看似简单的集成需求：让 OpenClaw 驱动 Cursor IDE 的 `agent acp`。当我深入分析现有 `acpx` 插件的"spawn-exec-exit"短命令模式时，发现它与 Cursor 基于 stdio JSON-RPC 的长驻有状态会话模型存在根本性冲突，直接在配置字典中修补不仅不可行，更会破坏系统的稳定性。
 
-## 短命令模型与长驻会话的根本冲突
+## 架构决策：从“修补配置”转向“独立进程池”
 
-在尝试将 Cursor agent 作为普通 harness agent 加入 `acpx` 配置字典时，我迅速意识到此路不通。OpenClaw 现有的 `acpx` 插件设计初衷是每次操作 spawn 一个新进程，执行完即退出，这种无状态模式与 Cursor `agent acp` 的行为模型格格不入。Cursor 启动后是一个长驻进程，通过 stdin/stdout 维持持续的 JSON-RPC 2.0 (NDJSON) 通信，不仅支持在同一进程内创建和切换多个 session，还会在运行时动态发起 `session/request_permission` 权限请求以及 `cursor/ask_question` 等特有方法调用。这种“有状态”的特性意味着直接在短命令框架中修补不仅不可行，还会导致会话上下文丢失和权限交互死锁，必须确立独立长驻进程管理的必要性。
+在分析 OpenClaw 的 ACP 系统时，我确认了我们的需求属于"ACP Runtime"模式，即作为客户端驱动外部工具。然而，Cursor agent 的特殊性在于它是一个长驻进程，启动后需保持运行以维持有状态会话，并动态处理 `session/request_permission` 权限请求及 `cursor/ask_question` 等特有方法。这与 `acpx` 每次操作都生成新进程的机制完全背道而驰。经过权衡，我果断放弃了将 Cursor 强行塞入 `ACPX_BUILTIN_AGENT_COMMANDS` 的捷径，转而决定构建一个独立的长驻进程管理方案，这是解决短命令模型与有状态会话冲突的唯一路径。
 
-## 零依赖核心层与多入口适配架构
+## 核心层设计：零依赖模块与多入口适配
 
-为了解决绑定问题并最大化复用价值，我决定采用“一套核心逻辑 + 三种消费入口”的架构策略。我将核心业务逻辑剥离为 `core/` 目录下的纯 JavaScript 模块，严格遵循零 OpenClaw 依赖原则，确保其不绑死任何特定平台。在此基础上，我构建了三个薄适配器入口：独立的 CLI 工具用于调试和直接交互，MCP Server 供其他 IDE（如 Claude Desktop）调用，以及专为 OpenClaw 设计的插件层。这种分层设计使得所有智能集中在 core 层，而插件层仅负责实现 `AcpRuntime` 接口进行桥接，既保持了与 `js-knowledge-flomo` 项目风格的一致性，又为未来的跨场景复用留下了充足空间。
+为了避免项目被绑死在 OpenClaw 生态中，我参考了 `js-knowledge-flomo` 的成功经验，确立了“一套核心逻辑 + 三种消费入口”的架构策略。我将核心业务逻辑完全剥离至 `core/` 目录，设计为纯 JavaScript 模块，确保其零 OpenClaw 依赖。在此基础上，构建了独立 CLI、MCP Server 和 OpenClaw 插件三种消费入口，其中 OpenClaw 插件层仅作为薄适配器，通过实现 `AcpRuntime` 接口桥接核心层，确保所有智能集中在 core 层，实现了业务逻辑与具体场景的彻底解耦。
 
-## 长驻进程池的自动回收与权限策略
+## 进程池实现：自动回收与权限策略的平衡
 
-核心层的稳定性依赖于我自研的 `ProcessManager`，它彻底改变了以往的一次性进程模型。该管理器维护了一个按 sessionKey 映射的进程池，默认限制 4 个并发实例，当超出限制时会自动驱逐最老的进程。更关键的是，它内置了每分钟扫描机制，自动回收空闲超过 30 分钟的实例以释放资源。针对非交互式环境下的权限阻塞问题，我在 spawn 阶段自动注入了三种权限策略（approve-all, approve-reads, deny-all），能够自动处理 Cursor 发出的工具使用请求，确保了自动化流程在无值守情况下的顺畅运行。
+在 `core/process-manager.js` 的实现中，我重点解决了高并发下的资源管理问题。该模块按 sessionKey 映射进程，设置了默认 4 个并发限制，当超出限制时自动驱逐最老的进程。为了防止资源泄漏，我引入了每分钟扫描机制，自动回收空闲超过 30 分钟的实例。针对非交互式环境下的权限阻塞问题，我在进程启动时自动注入了 approve-all、approve-reads、deny-all 三档权限策略处理器，确保 Cursor 的工具权限请求能被自动审批，从而支撑起稳定的会话复用。
 
-## 自研 JSON-RPC 传输层与流式交互
+## 传输层重构：自研 JSON-RPC 与流式交互
 
-在通信协议层面，我摒弃了厚重的官方 SDK，利用 Node.js 原生的 `readline` 模块手写了轻量级 JSON-RPC 2.0 传输层。这个 `JsonRpcTransport` 组件不仅要处理常规的出站请求（自增 ID + Promise 挂起）和入站响应匹配，还要专门应对 Cursor 发来的带 ID 服务端请求（如权限审批）以及无 ID 的单向通知（如 `session/update`）。基于此，我将 `acp-client` 的 `prompt` 方法封装为 `AsyncGenerator`，在等待 Cursor 响应期间，能够实时 yield 出 `text_delta` 和 `tool_call` 等流式事件，完美适配了 Cursor 的实时交互需求，避免了传统阻塞调用带来的体验割裂。
+摒弃了对重型官方 SDK 的依赖，我利用 `readline` 和 `JSON.parse` 自实现了轻量级的 JSON-RPC 2.0 传输层。这一层不仅要处理常规的出站请求（自增 ID + Pending Map）和入站响应匹配，还需专门处理 Cursor 发来的带 ID 服务端请求（如权限询问）以及无 ID 的单向通知（如 `session/update`）。特别是在 `core/acp-client.js` 的 `prompt` 方法中，我将其设计为 AsyncGenerator，在等待 Cursor 响应期间，通过队列实时 yield `text_delta` 和 `tool_call` 事件，完美适配了 Cursor 的实时流式交互需求。
 
-## MCP 双模式入口与运行时桥接落地
+## 多场景落地：MCP 双模式与插件桥接
 
-最后，我将这套核心能力通过两种具体形态落地。MCP Server 提供了 stdio 和 HTTP (`--http --port`) 双模式入口，暴露了包括 `cursor_session_new`、`cursor_prompt` 在内的 6 个管理工具，实现了跨 IDE 的通用调用。而在 OpenClaw 插件侧，`CursorRuntime` 类严格作为薄适配器存在，它将 `ensureSession`、`runTurn` 等接口调用直接委托给 core 层，不包含任何业务逻辑。目前该插件已支持在 OpenClaw 聊天中通过 `/acp spawn cursor` 直接驱动 IDE，并预留了将会话持久化绑定到 channel/thread 的演化路径，为未来实现跨重启恢复打下了基础。
+为了验证架构的通用性，我完成了 MCP Server 和 OpenClaw 插件的具体落地。MCP Server 提供了 stdio 和 HTTP 双模式入口，封装了 `cursor_session_new`、`cursor_prompt` 等 6 个管理工具，使得 Claude Desktop 等其他 IDE 也能调用。而在 OpenClaw 插件中，`CursorRuntime` 类严格遵循“薄适配器”原则，将 `ensureSession`、`runTurn` 等方法直接委托给 core 层，不包含任何业务逻辑。项目最终形成了包含 24 个文件的完整结构，从 `cli/cli.js` 的 8 个命令到 `src/index.html` 的暗色主题状态面板，实现了全链路的闭环。
 
 ## 今天的收获
 
-- **架构解耦原则**：核心逻辑必须零依赖（Zero-Dependency），通过薄适配器桥接不同运行时，避免项目被特定平台（如 OpenClaw）绑死。
-- **进程模型匹配**：集成外部 AI 工具时，必须严格匹配其进程模型（短命令 vs 长驻有状态），强行适配会导致严重的稳定性问题。
-- **流式通信封装**：利用 AsyncGenerator 封装 JSON-RPC 长连接，是处理实时流式事件（text_delta/tool_call）的最佳实践。
-- **自动化权限治理**：在非交互场景下，必须预设自动化的权限审批策略（如 approve-all/read），否则自动化链路会因人工确认而中断。
-- **资源生命周期管理**：长驻进程池必须内置空闲回收机制（如 TTL 扫描）和并发限制，防止资源泄露和系统过载。
+- **模型冲突识别**：在集成外部 Agent 时，必须首先辨析其进程模型（短命令 vs 长驻有状态），切忌用旧架构强行适配新范式。
+- **零依赖核心层**：通过将核心逻辑剥离为无外部依赖的纯 JS 模块，可轻松实现 CLI、MCP、Plugin 多入口复用，避免厂商锁定。
+- **进程池自动化**：长驻服务必须内置并发限制（如默认 4）、老进程驱逐及空闲自动回收（如 30 分钟 TTL）机制，以防资源耗尽。
+- **流式协议封装**：针对 JSON-RPC 长连接，利用 AsyncGenerator 封装流式事件（text_delta/tool_call）是提升用户体验的关键。
+- **权限策略前置**：在非交互式自动化场景中，需在进程启动阶段注入自动审批策略（approve-all/reads），避免运行时阻塞。

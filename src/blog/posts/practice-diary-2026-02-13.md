@@ -1,48 +1,29 @@
 
-# 别在对话里造 Agent 了：OpenClaw 架构的“顿悟”时刻
+# 从配置隔离到实例衍生：真正厘清 OpenClaw 的 Agent 边界
 
 > Day 14 · 2026-02-13
 
-前两周一直在跟各种报错死磕，今天终于慢下来，试图把 OpenClaw 的“骨架”彻底摸清楚。原本以为只是补全几个配置项，结果发现之前对核心概念的理解全是碎的，甚至差点在代码里犯下不可逆的架构错误。
+今天终于捅破了那层窗户纸：为什么我在尝试让 Agent 自我进化时总是遭遇配置冲突，以及为什么“子 Agent"并不是我想象中那种可以独立配置的新实体。在梳理 `agents.list` 与 `sessions_spawn` 的底层逻辑后，我才真正理解了 OpenClaw 五层架构中关于“隔离”与“衍生”的严格红线。
 
-## 差点把“子 Agent"当成“新大脑”
+## 构建"Channel-Agent-Workspace-Session"五层抽象，用物理隔离换取并发安全
 
-今天最大的坑，源于我想让主 Agent 在运行时动态“创建”一个新的独立 Agent 来处理特定任务。我理所当然地觉得，既然它能调用工具，应该也能像变魔术一样 `agents.create` 出一个新实体。
+此前我总纠结于如何在代码层面处理高并发下的消息路由，直到今天重新审视 `openclaw-core-concepts-pyramid.md` 中的金字塔结构，才意识到系统早已通过物理路径的解耦解决了这个问题。OpenClaw 并非简单的逻辑分层，而是强制实施了 **Channel → Account → Agent → Workspace + Session** 的五层抽象。
 
-翻遍了文档和源码，我才发现自己大错特错。OpenClaw 严格区分了**独立 Agent**和**子 Agent（Sub-agent）**。
+在实际操作中，这意味着消息从 WhatsApp 的 `personal` 账号进入（Channel+Account），通过 `bindings` 路由规则精准命中 `home` Agent，随后加载其专属的 `Workspace`（包含 `SOUL.md`、`MEMORY.md` 等人设文件）并在独立的 `Session` 桶中维护上下文。最关键的收获在于理解了其四层隔离机制：Agent 目录完全独立，Session 通过 `sessionKey` 配合文件锁实现串行化，Channel 拥有独立监控进程，而 Account 凭证则通过路由严格隔离。这种设计让我明白，所谓的“并发安全”不是靠复杂的锁算法，而是靠 `~/.openclaw/agents/<agentId>/` 这种严格的目录隔离和 `CommandLane` 队列机制天然保障的。
 
-- **独立 Agent**是配置层面的新实体，必须通过 CLI（`openclaw agents add`）或 RPC（`agents.create`）在系统启动前或外部创建，拥有独立的 Workspace 和 `agentDir`。
-- **子 Agent**只是主 Agent 在运行时通过 `sessions_spawn` 工具派生的一个“后台线程”。它共用主 Agent 的 Workspace 和认证配置，连系统提示都只有精简版（仅 AGENTS.md + TOOLS.md），跑完就归档。
+## 严守 Agent 配置边界：子 Agent 只是临时衍生，严禁跨实例复用配置
 
-我试图用 `config.patch` 去修改 `agents.list` 来“曲线救国”创建独立 Agent，结果虽然配置写进去了，但对应的 Workspace 目录、bootstrap 文件根本没生成，导致这个“幽灵 Agent"完全无法工作。这个设计其实很精妙：它强制你把“长期存在的角色定义”和“临时的任务执行”分开，避免了 Agent 在运行中把自己改得面目全非。
+今天的另一个重大踩坑源于我对“子 Agent"的误解。在查阅 `openclaw-core-concepts-qa-and-usage.md` 之前，我曾试图让主 Agent 通过对话动态创建一个拥有新 Workspace 的独立 Agent，结果发现 `agents.create` 工具根本未对 Agent 开放。
 
-## 用金字塔原理重构认知地图
-
-解决了具体的创建问题后，我意识到之前的混乱是因为脑子里没有一张完整的地图。今天花了一下午，用金字塔原理把 OpenClaw 的核心概念重新梳理了一遍，瞬间通透了。
-
-以前我总觉得 Channel、Account、Agent 混在一起，现在看它们其实是严格的五层漏斗：
-
-1.  **Channel**（平台）：消息从哪来（WhatsApp/Telegram）。
-2.  **Account**（实例）：用哪个号（手机号/Bot Token）。
-3.  **Agent**（大脑）：谁来处理（路由的目标）。
-4.  **Workspace**（家）：Agent 的文件工作区，存人设（SOUL.md）、记忆（MEMORY.md）和技能。
-5.  **Session**（上下文）：单次对话的桶，存历史和 Token 计数。
-
-最让我拍案叫绝的是**隔离机制**。以前担心多用户 DM 会串话，现在明白只要配置 `session.dmScope: "per-channel-peer"`，系统就会按联系人自动分桶。而长期记忆是存在 Workspace 层的，跟 Session 的短期上下文彻底解耦。这意味着，无论我跟同一个 Agent 聊多少个不同的 Session，它都能从同一个“大脑”（Workspace）里调取长期记忆，却不会把 A 的聊天历史混进 B 的上下文里。这种“状态共享、上下文隔离”的设计，才是多 Agent 系统能稳定运行的基石。
-
-## 独立 Agent 创建的“两条腿”
-
-搞清楚概念后，回头再看创建独立 Agent 的操作就清晰多了。今天实践了两种创建入口，各有千秋：
-
-- **CLI 交互式**：`openclaw agents add work`，像个向导一样一步步问你名称、Workspace 路径、要不要复制主 Agent 的 auth。适合手动调试，容错率高。
-- **非交互式/脚本**：`openclaw agents add work --workspace ~/.openclaw/workspace-work --non-interactive`，必须显式指定路径，不会自动配 auth。适合自动化部署，但得记得后续手动复制 `auth-profiles.json` 或者单独配置模型。
-
-这里有个细节特别容易踩雷：`agentId` 是由名称自动规范化的（比如 "Work Agent" 变成 `work-agent`），而且 `main` 是保留字，千万别手贱去创个叫 main 的 Agent，否则系统直接报错。
+事实是，**子 Agent（Sub-agent）绝非独立实体**。当我调用 `sessions_spawn` 工具时，系统只是派生了一个临时的后台执行实例。这个子实例必须共用主 Agent 的 `Workspace` 和 `agentDir`（默认位于 `~/.openclaw/agents/<agentId>/agent/`），它没有自己的人设文件（仅注入 `AGENTS.md` 和 `TOOLS.md`），也没有独立的认证配置。文档中明确警告：**严禁在不同 Agent 间复用同一 `agentDir`**，否则会导致 `auth-profiles.json` 冲突和会话历史混乱。如果需要共享凭证，正确的做法是手动复制配置文件，而非共享目录。这一认知修正了我之前的架构设想：Agent 的“大脑”是静态且独立的，而“子 Agent"只是该大脑在独立 Session 中进行的并行思考，任务完成后通过 `announce` 回传结果，生命周期默认仅维持 60 分钟。
 
 ## 今天的收获
 
-- OpenClaw 严格区分“独立 Agent"（配置实体）与“子 Agent"（运行时衍生任务），前者需外部创建，后者由 `sessions_spawn` 触发。
-- 长期记忆存储在 Workspace 层（MEMORY.md），与 Session 层的短期对话上下文彻底解耦，实现状态共享而历史隔离。
-- 消息路由遵循 Channel → Account → Agent → Workspace/Session 的五层漏斗，通过 `bindings` 和 `dmScope` 实现精准隔离。
-- 切勿在多个 Agent 间复用 `agentDir`，共享凭证应手动复制 `auth-profiles.json` 而非共享目录。
-- 修改全局配置（如 `agents.list`）不会自动创建文件系统资源（Workspace/Bootstrap），必须通过 CLI 或 RPC 完整初始化。
+- **五层架构即安全防线**：不要试图用代码逻辑去解决并发冲突，应依赖 Channel/Account/Agent/Workspace/Session 的物理路径隔离和 `CommandLane` 串行机制。
+- **子 Agent 的本质是任务实例**：`sessions_spawn` 创建的只是同一 Agent 下的后台线程，共用配置目录，不具备独立的人设和记忆存储空间。
+- **配置目录的绝对排他性**：`agentDir` 是 Agent 的私有领地，跨 Agent 复用会导致认证和会话数据污染，共享凭证必须通过文件复制而非目录挂载。
+- **记忆存储的层级归属**：长期记忆（`MEMORY.md`）属于 Workspace 层，是 Agent 的持久化资产；而 Session 仅负责短期对话上下文，两者在物理存储和生命周期上严格分离。
+- **创建独立 Agent 的唯一路径**：Agent 自身无法通过工具创建新的独立 Agent，必须通过 CLI (`openclaw agents add`) 或 RPC (`agents.create`) 由外部触发，以确保 Workspace 和引导文件的完整初始化。
+
+- [G28-openclaw-core-architecture.md](./G28-openclaw-core-architecture.md)
+- [G29-openclaw-agent-usage-patterns.md](./G29-openclaw-agent-usage-patterns.md)

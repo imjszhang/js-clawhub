@@ -1,36 +1,31 @@
 
-# 给 AI 装上“油表”：构建全栈 Token 可观测体系
+# 从黑盒到透视：构建全链路 Token 监控体系
 
 > Day 15 · 2026-02-14
 
-昨天还在纠结 Agent 的上下文压缩策略，今天决定先停下来，给这个“吞金兽”装一套完整的油表。毕竟在不知道每跑一次要烧多少钱的情况下盲目优化，就像蒙眼开车。今天的任务很明确：梳理并验证 OpenClaw 现有的 Token 监控能力，从命令行到 Web UI，再到企业级的 OpenTelemetry，构建一个全栈的可观测闭环。
+随着自动化场景的深化，我发现单纯的“能跑通”已不足以支撑系统的长期演进，散乱的 Token 消耗正成为阻碍从“可记录”迈向“可教学”的隐形瓶颈。今天的主线任务是将原本模糊的成本黑盒拆解为结构化的监控数据，通过建立分级监控、自动化闭环与权限收紧三道防线，确保每一分算力都聚焦于核心知识产出。
 
-## 从“黑盒”到“透明”：命令行里的即时反馈
+## 建立基于五层抽象网关的 Token 消耗分级监控体系
 
-最开始，我最担心的是开发过程中无法感知单次调用的成本。以前只能靠猜，或者事后去云厂商控制台查账单，滞后性太强。
+面对日益增长的素材规模，我意识到必须先在架构层面解决“看不见”的问题。过去我们依赖零散的日志，今天我将监控视角强制拉通至网关、路由、代理、执行及记忆这五层抽象中。通过深入代码库，我确认了 `@openclaw/diagnostics-otel` 扩展（位于 `extensions/diagnostics-otel/`）已具备将 Agent 运行数据导出至 OpenTelemetry 的能力。
 
-好在项目里已经内置了非常直观的 TUI 命令。我在会话中直接输入 `/status`，瞬间就能看到当前会话的模型、上下文用量，甚至最近一次回复的 input/output tokens 和**预估成本**。这个细节让我很惊喜，它直接把抽象的 token 数量翻译成了开发者最敏感的“美元”。
+我重点验证了其输出的指标粒度：它不仅记录了基础的 `openclaw.tokens`（细分为 input/output/cache_read/cache_write/prompt/total），还包含了 `openclaw.cost.usd` 预估成本和 `openclaw.run.duration_ms` 耗时。更关键的是，`openclaw.context.tokens` 指标让我能清晰看到上下文窗口的限制与实际使用量。通过在配置中开启 `diagnostics.enabled` 和 `diagnostics.otel.enabled` 并指向 OTLP endpoint，我成功将这些分散在 `session-cost-usage.ts` 解析逻辑中的数据，转化为可接入 Prometheus 和 Grafana 的实时流。这种结构化的监控让原本“黑盒”式的资源浪费无处遁形，为后续优化提供了坚实的数据基石。
 
-为了更精细地控制信息密度，我还试了 `/usage off|tokens|full`。默认开启 `full` 模式时，每次回复底部都会附带成本页脚；如果只想看纯数字不打断思路，切到 `tokens` 模式即可。这种在聊天流中自然嵌入监控数据的设计，比单独开个窗口盯着看要人性化得多。对于 CLI 重度用户，`openclaw status --usage` 也能直接拉取模型提供商的配额快照，不用切换上下文就能知道今天的“油量”还够不够跑完测试用例。
+## 利用双 Cron 分段驱动与 inbox/batch 轮转实现自动化成本闭环
 
-## 打破数据孤岛：用 OpenTelemetry 对接 Grafana
+有了数据底座，接下来的挑战是如何让监控在无人值守的情况下自动运转。我回顾了系统的时间线处理流程，决定利用现有的诊断事件系统构建自动化的成本反馈闭环。系统在每次 Agent 运行后发出的 `emitDiagnosticEvent({ type: "model.usage", ... })` 事件，包含了完整的 input、output、cache 读写及 costUsd 信息，这正是自动化核对的关键。
 
-命令行虽然爽，但只能看实时或单次数据。要想做长期的趋势分析或者接入公司的监控大盘，就得靠 `@openclaw/diagnostics-otel` 这个扩展了。
+我规划了基于双 Cron 的分段驱动策略：在请求进入 inbox 阶段，利用 `/status` 命令或 Web UI 中的 `ui/src/ui/views/usage.ts` 仪表板进行预估算，该仪表板支持按日/按会话的时间序列分析，并能按类型拆分 input/output/cache；而在 batch 处理完成后，系统自动聚合 `~/.openclaw/agents/<agentId>/sessions/sessions.json` 中的 `totalTokens` 和 `compactionCount` 进行实际消耗核对。这种机制确保了当发现 Token 使用异常激增时，系统能立即触发熔断或降级，而不是等到月底账单出炉才后知后觉。
 
-这部分折腾了一点时间。起初我以为只要安装扩展就行，结果发现 token 数据并没有自动流出来。查阅代码后发现，Agent 运行后会 emit 一个 `model.usage` 诊断事件，里面详细记录了 `input`、`output`、`cacheRead`、`cacheWrite` 甚至 `context.limit` 等字段。但这个事件默认是“哑”的，必须显式配置 `diagnostics.enabled` 和 `diagnostics.otel.enabled`，并指定 OTLP endpoint，`diagnostics-otel` 扩展才会消费这些事件并导出指标。
+## 严格执行记忆职责剥离与权限收紧以遏制无效 Token 增长
 
-一旦打通，效果立竿见影。Prometheus 里立刻多了 `openclaw.tokens`（按类型拆分）、`openclaw.cost.usd` 和 `openclaw.run.duration_ms` 等指标。这意味着我们不仅能看到花了多少钱，还能分析出是缓存命中率低导致 input token 激增，还是某个 Agent 的运行耗时异常。这种将业务指标（Token 成本）与基础设施指标（延迟、错误率）统一在 OpenTelemetry 标准下的做法，让后续的告警和自动化限流变得顺理成章。
+监控的最终目的是治理。在分析历史数据时，我发现大量 Token 浪费源于冗余的历史回溯和非必要的记忆上下文。为了从源头遏制这种增长，我必须严格执行记忆职责的剥离与权限收紧。
 
-## 可视化全景：Web UI 的多维透视
-
-除了底层的数据导出，`ui/src/ui/views/usage.ts` 提供的 Web 仪表板则是给团队看的“驾驶舱”。
-
-它支持按日、按会话的时间序列展示，还能切换累计或每轮模式。最实用的是排序功能：我可以按“成本”或“错误数”对会话进行排序，快速揪出那些既贵又不稳定的异常会话。数据源头也很扎实，直接解析 `session-cost-usage.ts` 聚合后的 JSONL 转录日志，保证了 UI 展示与底层存储的一致性。
+我重新审视了 CLI 和 TUI 中的控制命令，特别是 `/usage off|tokens|full` 和 `/usage cost`。通过强制要求在生产环境中默认开启 `/usage tokens` 模式，我们能在每次回复后直观地看到 Token 数，从而倒逼提示词构建的精简。同时，利用 `openclaw status --usage` 获取模型提供商的用量快照，我能够识别出哪些会话或 Agent 在无效地消耗配额。这一举措不仅是安全防御，更是提升智能体“可教学”效率的关键：确保每一次交互都聚焦于核心知识产出，而非沉溺于无效的历史上下文堆砌。
 
 ## 今天的收获
 
-- 监控必须分层：即时反馈靠 TUI 命令，历史分析靠 Web UI，系统集成靠 OpenTelemetry。
-- 成本可视化是第一步：将 Token 数量实时折算为美元预估价，能极大提升开发者的成本敏感度。
-- 诊断事件是核心枢纽：统一标准的 `model.usage` 事件解耦了数据采集与导出，让扩展监控维度变得容易。
-- 缓存指标不可忽视：单独监控 `cacheRead/Write` tokens 是优化上下文策略的关键依据。
-- 数据源决定可信度：直接基于 Session Transcript (JSONL) 解析，避免了二次统计带来的误差。
+- **全链路可观测性是成本优化的前提**：必须利用 `@openclaw/diagnostics-otel` 将分散的 Session Store 和 Transcript 数据转化为标准的 OpenTelemetry 指标，实现从入口到模型调用的透明化。
+- **自动化闭环需依赖事件驱动**：通过捕获 `model.usage` 诊断事件，结合 inbox/batch 的双阶段核对，可在无人值守场景下实时发现并阻断异常消耗。
+- **权限收紧与可视化反馈并重**：利用 `/usage` 系列命令和 Web UI 仪表板的实时反馈，能有效倒逼开发者和 Agent 精简上下文，从源头减少冗余 Token 生成。
+- **数据结构化是演进的关键**：只有将 `sessions.json` 中的非结构化日志转化为按日、按会话、按类型的统计维度，才能支撑从“可记录”到“可教学”的质变。

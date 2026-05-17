@@ -1,37 +1,32 @@
 
-# 给知识库装上“自动巡航”：多库注册与 Cron 实战
+# 从单库手动到多库自动：构建无人值守的知识生产流水线
 
 > Day 36 · 2026-03-07
 
-昨天还在手动敲命令处理单个知识库，今天决定彻底解放双手。我要把 `js-knowledge-prism` 从“按需触发”升级成“自动巡航”，让它能同时盯着好几个知识库，定时批量干活。
+今天的核心任务是打破 `js-knowledge-prism` 插件的单库瓶颈，将其从“按需手动触发”升级为“多库 Cron 自动轮询”的无人值守模式。面对素材规模指数级增长，我参考了 `js-knowledge-collector` 的三层协作架构，但针对 Prism 的幂等特性做了关键剪裁，最终通过注册表机制与 `process_all` 工具封装，实现了低开销的自动化闭环。
 
-## 拒绝“笨拙”的轮询：复用幂等性
+## 突破单库限制：注册表驱动与 Cron 批量调度
 
-参考之前写 `js-knowledge-collector` 的经验，我本能地想照搬它的 `inbox/batch/archive` 文件轮转机制。毕竟那是处理链接队列的标准范式，稳妥。但写到一半我突然停住了：Prism 的处理逻辑和 Collector 不一样。
+原有的插件配置仅支持单一 `baseDir`，且缺乏定时调度能力，这在管理多个知识库时成为了明显的效率瓶颈。为了解决这个问题，我参考了 `link-collector` 的"CLI 注册 → Cron 触发 → Skill 执行”三层模式，但在设计之初就明确了一个关键差异：Prism 的 `runPipeline` 本身通过对比 journal 和 atoms 目录来实现增量处理，天然具备幂等性，因此无需像 collector 那样设计复杂的 inbox/batch/archive 轮转机制。
 
-Collector 需要把新链接挪进挪出以防重复消费，但 Prism 的 `runPipeline` 本身就是幂等增量的——它通过对比 `journal` 目录和 `atoms` 目录，自动发现未处理文件。这意味着，哪怕我让 Cron 每分钟都跑一次，如果没有新内容，它也会自动跳过，不会产生任何副作用。
+基于此，我在 `<workspace>/.openclaw/prism-processor/` 下引入了 `registry.json` 注册表，用于存储多个知识库的元数据（包括 `baseDir`、`enabled` 状态及 `lastProcessedAt`）。写入操作严格采用 `tmp + rename` 原子策略以防并发冲突。在调度层面，我新增了 `setup-cron` CLI 命令和 `prism-auto-process` 定时任务（默认每 60 分钟触发），一旦启动，隔离会话中的 Agent 会自动加载 `prism-processor` 技能，遍历注册表中所有启用的库并执行检查，真正实现了从“单点手动”到“批量自动”的架构跃迁。
 
-这个发现让我省掉了大概 30% 的架构设计工作量。我不需要设计复杂的文件状态机，只需要一个简单的注册表 `registry.json` 来记录每个库的 `lastProcessedAt`。最终方案变得异常清爽：Cron 触发 → 读取注册表 → 遍历 enabled 的库 → 有更新就跑 pipeline → 回写时间戳。这种“顺势而为”的感觉，比强行套用模式爽多了。
+## 坚守核心边界：原子操作与职责分离的安全防线
 
-## 一个工具 vs 五次对话：Token 效率的博弈
+在扩展功能的同时，我严格恪守了核心层与插件层的职责边界。`registry.json` 及其相关的注册、注销逻辑完全属于 OpenClaw 插件层（`openclaw-plugin/`），而底层的 `lib/` 核心库始终保持面向单个 `baseDir` 工作的纯粹性，未做任何侵入式修改。这种分离确保了核心逻辑的稳定性，即便上层注册表出现异常，也不会污染底层的数据处理流程。
 
-在设计 Cron 隔离会话的执行流程时，我面临一个选择：是让 Agent 循环调用 `process_single` 工具处理每个库，还是封装一个 `process_all` 一把梭？
+为了保障多库并发场景下的数据一致性，我在实现中复用了 `runPipeline` 的天然幂等机制，并强化了容错设计：在 `process_all` 的执行循环中，单个知识库的处理失败不会中断整个流程，系统会跳过错误项继续处理下一个，最后统一回写 `lastProcessedAt` 和 `lastSummary` 到注册表。此外，所有对注册表的写操作都强制通过原子文件操作完成，杜绝了因进程意外终止导致配置文件损坏的风险。
 
-乍一看，循环调用更符合“单一职责”，代码也漂亮。但算笔账就知道问题所在：如果有 5 个知识库，循环调用意味着 Agent 要进行 5 次工具调用，加上前后的上下文理解，至少产生 11+ 次 LLM round-trip。对于每分钟都要跑的定时任务来说，这不仅是延迟问题，更是 Token 燃烧的无底洞。
+## 落地无人值守：路径解析陷阱与低开销部署流
 
-所以我毫不犹豫地选择了“丑陋但高效”的方案：实现一个 `knowledge_prism_process_all` 工具。它在插件内部读取注册表、遍历所有启用的库、串行执行处理逻辑，最后只返回一次汇总摘要给 Agent。这样，无论管理多少个库，Cron 每次触发都只消耗 1 次工具调用的额度。在自动化运维场景下，减少 LLM 交互次数远比代码结构的优雅更重要。
+在将设计转化为可运行的代码时，我遇到了一个隐蔽的路径解析陷阱。最初我假设 workspace 路径位于 `api.config.agents.defaults.workspace`，但在实际调试 Cron 隔离会话时发现该字段并未设置，导致路径解析失败。经过排查，我确立了三级 fallback 策略：优先读取 `defaults.workspace`，若不存在则降级读取 `agents.list[0].workspace`，最后兜底至 `process.cwd()`。这一调整确保了 CLI、Gateway AI 工具及 Cron 会话三种场景下都能正确命中 `D:/.openclaw/workspace`。
 
-## 被配置项“捉迷藏”的 Workspace 路径
-
-实现过程中最大的坑，居然来自一个看似简单的路径解析。我需要找到 OpenClaw 的 workspace 根目录来存放 `registry.json`。
-
-按照直觉，我直接去读 `api.config.agents.defaults.workspace`，结果在 Cron 隔离会话里拿了个 `undefined`。调试了半天才发现，OpenClaw 的配置结构有点“狡黠”：workspace 路径有时在 `defaults` 里，有时却藏在 `agents.list[0].workspace` 中，具体取决于启动场景（CLI、Gateway AI 工具还是 Cron 会话）。
-
-为了解决这个“捉迷藏”游戏，我写了一个三级 fallback 解析器：优先试 `defaults.workspace`，失败则试 `list[0].workspace`，最后兜底到 `process.cwd()`。实测发现，在 Cron 场景下，总是命中第二级，稳稳指向 `D:/.openclaw/workspace`。这个细节再次提醒我：永远不要假设配置项会在你预期的位置，多级容错是插件开发的生存法则。
+为了优化 Token 效率，我没有让 Cron 任务逐库调用工具（那样会导致 5 个库产生 11+ 次 LLM 往返），而是封装了单一的 `knowledge_prism_process_all` 工具，一次性完成所有库的遍历与处理。部署验证阶段，得益于插件通过 `plugins.load.paths` 进行路径链接安装的特性，我只需执行 `gateway stop` 和 `gateway start` 重启网关，代码改动即刻生效。随后通过 `openclaw prism register` 注册知识库并配置 Cron，成功观察到 `link-collector-process` 与 `prism-auto-process` 两个任务并行运行，标志着自动化闭环的正式落地。
 
 ## 今天的收获
 
-- 优先复用业务逻辑天然的幂等性，避免过度设计复杂的状态轮转机制。
-- 在 Cron 等高频自动化场景中，减少 LLM round-trip 次数比代码模块化更重要。
-- 配置项解析必须建立多级 fallback 机制，严禁硬编码或单一路径假设。
-- 插件层负责调度与注册，核心库保持单一职责，是扩展功能的清晰边界。
+- **复用优于重构**：Prism 的 `runPipeline` 天然支持增量幂等，直接复用该机制比重新设计 inbox/batch 轮转更简单且可靠。
+- **Token 效率优先**：在 Cron 自动化场景中，将多次工具调用封装为单次 `process_all` 能显著减少 LLM round-trip 开销，比代码结构的“优雅”更重要。
+- **配置解析需防御性编程**：OpenClaw 的 workspace 配置位置不固定，必须实现 `defaults → list[0] → cwd` 的多级 fallback 解析逻辑。
+- **职责分离是扩展基石**：将多库注册逻辑限制在插件层，保持核心 `lib/` 仅关注单库处理，能有效降低系统耦合度与维护成本。
+- **路径链接加速迭代**：利用源码路径链接安装插件，仅需重启网关即可验证代码变更，极大提升了开发调试效率。

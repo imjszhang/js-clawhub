@@ -1,44 +1,48 @@
 
-# 从静态导航到可编程插件：ClawHub 的“壳”升级记
+# 从可记录到可教学：ClawHub 插件化升级与全链路自动化闭环
 
 > Day 37 · 2026-03-08
 
-昨天刚把上游主干合并完，今天趁热打铁，把 ClawHub 这个“生态导航站”彻底插件化，顺便把 Gateway 升级后的遗留坑填平。目标是让 ClawHub 不再是个只能看不能动的静态站点，而是变成 OpenClaw 大脑里随时可调用的“记忆库”。
+今日的核心任务是将 JS ClawHub 导航站从独立的静态站点升级为 OpenClaw 插件，并打通从内容导入到 GitHub Pages 推送的全自动 Cron 闭环，同时完成 Gateway 从 `2026.3.3` 到 `2026.3.7` 的关键版本跨越与安全加固。
 
-## 给 ClawHub 穿上一层“插件壳”
+## 网关升级需严格遵循"版本验证 - 强制重装 - 配置加固"的标准作业程序
 
-ClawHub 跑了快两个月，数据挺全，但一直是个“哑巴”：要么靠人眼浏览网页，要么靠 CLI 吐 JSON。今天决定给它加个“嘴”，让它能跟 Agent 对话。
+升级过程远非简单的版本迭代，而是一次消除潜在攻击面的关键窗口。在合并了上游 714 个提交后，我首先通过 `pnpm openclaw --version` 和 `pnpm openclaw status` 确认 CLI 与全局状态已更新至 `2026.3.7`。重启 Gateway 时遇到了典型的"假死"状态：首次 `gateway status` 探测返回 RPC probe failed (1006 abnormal closure)，等待数秒后再次探测才显示 `Listening: 127.0.0.1:18789`。
 
-参照之前 `js-knowledge-collector` 的模板，我在项目根目录下新建了 `openclaw-plugin` 目录。核心思路是“加壳不换核”：入口文件 `index.mjs` 通过 `await import('../cli/lib/...')` 直接复用现有的业务逻辑。这招挺险，因为原 CLI 是 CommonJS 思维，而插件必须是 ESM。好在 `package.json` 早就声明了 `"type": "module"`，只需要把原来的 `require` 改成动态 `import()`，不仅解决了兼容性问题，还意外获得了“懒加载”的好处——Agent 不调用搜索工具时，搜索模块根本不会加载进内存。
+更深层的隐患在于服务配置。`gateway status` 报告了"Service config looks out of date"及"Gateway service embeds OPENCLAW_GATEWAY_TOKEN"的告警。这是因为 2026.3.7 引入了 Breaking Change，不再允许将 Token 硬编码在 Windows Scheduled Task 的环境变量中，改为从 `openclaw.json` 读取。我严格执行了修复流程：首先在配置文件中显式添加 `"gateway.auth": { "mode": "token" }`，随后以管理员权限运行 `openclaw gateway install --force` 重装服务。重启时又遭遇了端口 18789 被残留进程占用的问题，不得不手动终止 PID 39060 并等待 TCP TimeWait 释放后才成功启动。这一系列操作确保了网关基石的稳固，消除了旧版本遗留的权限漏洞。
 
-最让我纠结的是 HTTP 路由的数据源。是直接serve构建好的 `docs/` 静态 JSON，还是实时读取 `src/`？我选了后者。虽然每次请求都要读文件，但保证了 API、CLI 和网页看到的数据永远一致，不用每次改个 Markdown 都得先跑一遍 `build`。为了安全，我在通配路由里加了个路径归一化校验，防止有人通过 `../../` 偷看项目根目录之外的文件。
+## 安全防御需基于"场景化风险评估"实施精准配置
 
-注册完 8 个 Agent Tools 和 10 条 HTTP 路由后，重启 Gateway。在对话框里问了一句“最近有什么新项目”，看着 Agent 熟练地调用 `clawhub_projects` 并吐出结构化列表，那种“死数据变活”的感觉很爽。
+升级完成后，`openclaw status` 抛出了 6 条安全审计告警，其中包括 3 条 CRITICAL 级别的风险提示，如"Elevated exec allowlist contains wildcard"和"Open groupPolicy with elevated tools enabled"。乍看之下，配置 `tools.elevated.allowFrom: { "*": ["*"] }` 和 `groupPolicy: "open"` 似乎意味着任何用户都能触发提权工具或在群聊中执行任意命令。
 
-## Gateway 升级后的“排雷”行动
+然而，基于我的实际使用场景——仅限设备管理员个人单聊（DM），不使用群聊功能——这些告警并不构成实际风险。群聊攻击面在我的环境中根本不存在，反向代理信任问题也因 Gateway 仅绑定本地 loopback 而无影响。尽管如此，为了防止未来意外将 Bot 拉入群聊导致非预期响应，我决定采纳建议，将 `groupPolicy` 从 `"open"` 调整为 `"allowlist"`（空列表）。这种基于场景的差异化配置，既避免了过度防御带来的可用性下降，又确保了在开放环境下的纵深安全防线。
 
-插件跑通了，但 Gateway 本身还在报警。合并完上游 `2026.3.7` 版本后，`gateway status` 一直提示配置过时，甚至报出 `OPENCLAW_GATEWAY_TOKEN` 嵌入在计划任务环境变量里的警告。
+## JS ClawHub 导航站通过"纯静态架构 + 人工策展定位"实现零后端依赖的高效聚合
 
-查了 changelog 才知道，新版本强制要求从配置文件读取 Token，不再允许硬编码在系统环境变量里。我试着在 `openclaw.json` 里显式加了 `"mode": "token"`，然后运行 `openclaw gateway install --force` 重装服务。结果第一遍直接失败：`schtasks create failed: 拒绝访问`。忘了这茬了——Windows 下修改计划任务必须提权。
+区别于官方 ClawHub 解决"技能怎么发布和安装"的功能，JS ClawHub 专注于解决"有什么值得关注"的策展需求。今日我将该项目正式升级为 OpenClaw 插件，保留了其纯前端技术栈与原生 HTML 模块化设计的核心优势。项目严格分离 `src/`（源码）与 `docs/`（部署产物），通过六大模块（项目导航、技能市场、博客、指南、Pulse 动态）与双语支持，打造了轻量级且高可用的生态导航入口。
 
-赶紧用 `Start-Process -Verb RunAs` 拉起一个管理员权限的 PowerShell 窗口，再跑一遍命令，终于看到 `Installed Scheduled Task: OpenClaw Gateway`。
+在插件化过程中，我坚持"加一层壳，不改内核"的原则。插件入口 `openclaw-plugin/index.mjs` 直接复用现有的 `cli/lib/` 模块，仅新增了两个数据读取函数。通过 `applyEnv()` 函数将 OpenClaw 的 `pluginConfig`（如 Cloudflare Token、GitHub Token）注入 `process.env`，使得原有业务代码无需任何改动即可在插件模式下运行。这种设计不仅降低了构建复杂度，还实现了配置的统一管理，让 Agent 能够直接调用 8 个新注册的 Tools 来搜索项目、查阅指南或获取社区动态。
 
-重启时又遇到个小插曲：端口 18789 被占用。原来是旧进程没杀干净，卡在 TCP TimeWait 状态。手动 `stop` 服务，用 PowerShell 强杀残留进程，等了几秒再 `start`，状态灯终于全绿。
+## 全链路自动化闭环依托"数据展示分离"架构与一键同步脚本
 
-顺便扫了一眼安全审计，报了 6 条 CRITICAL/WARN。什么“开放群聊策略”、“提权工具白名单通配符”。仔细一看，全是针对多用户群聊场景的。我这就是个本地单聊的私人助手，根本没开群聊功能，这些告警对我来说就是“误报”。不过为了心里踏实，我还是把 `groupPolicy` 改成了 `allowlist`（虽然列表是空的），防止哪天手滑把 bot 拉进群里出乱子。
+为了解决手动执行 `clawhub blog-import` 的痛点，我构建了基于 OpenClaw Cron 的全自动流水线。参考 `js-knowledge-prism` 的实现模式，我注册了 `clawhub_blog_auto_sync` 工具和 `setup-cron` CLI 命令。当 Cron 每 120 分钟触发时，隔离会话中的 Agent 会自动执行以下闭环：遍历 `sources.json` 中的源进行增量导入（基于 SHA256 哈希去重），调用 LLM 翻译未翻译的文章，执行站点构建，最后通过 `gitAddAll`、`gitCommit` 和 `gitPush` 将产物推送到 GitHub Pages。
 
-## 自动化同步：让 Cron 替我干活
+这一流程的关键在于高效的"空跑优化"。工具内部以 `totalImported > 0` 作为门控条件：若无新文章，翻译、构建和提交步骤将全部跳过，避免了不必要的 LLM 调用和空 commit。此外，我还修复了一个关键的环境变量桥接 Bug：原 `applyEnv()` 仅设置 `LLM_API_*` 变量，而翻译模块读取的是 `CLAWHUB_API_*`，导致配置无法传递。修复后，无论是 Cron 自动触发还是手动 CLI 调用，翻译功能均能正常获取 API 配置。
 
-ClawHub 的博客导入流程虽然完善，但还得手动敲 `clawhub blog-import`。今天顺手把 Cron 集成也做了。
+## 大规模上游合并采取"采纳架构方向 + 文档化功能损失"策略
 
-参考 `js-knowledge-prism` 的模式，我写了个 `clawhub_blog_auto_sync` 工具，并注册了 `setup-cron` 子命令。逻辑很简单：每 2 小时触发一次，Agent 收到消息后自动检查 `sources.json` 里的源，有新文章就导入、翻译、构建、推送。
+面对从 `2026.3.3` 到 `2026.3.7` 的 714 个上游提交，我继续践行"小步快走"的合并策略。本次合并间隔仅 4 天，成功实现了零冲突自动合并，验证了高频合并对降低冲突率的显著效果。核心策略依然是优先保持架构一致性而采纳上游版本，例如在 Context Engine 插件化和 Telegram 大规模重构等关键架构变更上完全跟随上游。
 
-这里有个细节优化：工具内部加了 `totalImported > 0` 的门控。如果没有新文章，直接跳过翻译和构建，连 Git Commit 都不生成。这样即使每两小时跑一次，空跑的成本也几乎为零。配置完 `openclaw hub setup-cron` 后，看着终端里输出的下一次执行时间，感觉以后再也不用惦记“今天有没有新文章要同步”这回事了。
+对于 Fork 独有的功能，如 PowerShell 7 优先探测和特定的 Shell 配置覆盖，Git 自动保留了这些改动。值得注意的是，部分之前的定制（如 Telegram HTML 渲染修复）已被上游吸收，进一步收窄了代码差异。针对本轮唯一的 Breaking Change——`gateway.auth.mode` 的强制要求，我在合并总结中明确记录了这一变更及迁移路径，确保后续升级的平滑过渡。这种策略不仅维持了系统的长期可维护性，也确保了知识资产的持续演进。
 
 ## 今天的收获
 
-- 插件化升级的核心是“加壳不换核”，通过 ESM 动态 import 复用现有 CLI 逻辑，既保留独立运行能力又接入 Agent 生态。
-- HTTP 路由直接读取源码目录（src/）而非构建产物（docs/），能以微小的性能代价换取数据的实时一致性。
-- Gateway 升级后的服务重装必须提权执行，且需警惕旧版本将 Token 硬编码在系统环境变量中的安全债。
-- 安全审计告警需结合具体使用场景（如单聊 vs 群聊）评估，避免被通用的 CRITICAL 标签吓到而过度配置。
-- Cron 自动化任务必须设计“空跑优化”机制，通过门控条件跳过无变更时的翻译、构建和提交步骤。
+- **网关升级标准化**：升级不仅是版本更新，必须包含"显式配置 auth.mode"、"管理员权限重装服务"及"端口冲突清理"的标准作业程序，以消除隐蔽的安全隐患。
+- **场景化安全审计**：安全告警需结合具体使用场景（如纯单聊 vs 群聊）进行风险评估，避免过度防御，但需通过收紧 `groupPolicy` 预防未来的意外暴露。
+- **插件化"壳核分离"**：通过 `applyEnv()` 桥接配置，可以在不修改核心业务逻辑的前提下，将独立 CLI 工具无缝升级为具备 Agent Tools 和 HTTP 路由能力的 OpenClaw 插件。
+- **自动化空跑优化**：在 Cron 驱动的长链路中，必须以数据变更（如 `totalImported > 0`）为门控条件跳过后续步骤，将定时任务的空跑开销降至忽略不计。
+- **高频合并红利**：将上游合并频率提升至 4 天一次，能有效将冲突数从个位数降为零，并促使 Fork 定制功能更快被上游吸收或明确重构路径。
+
+- [G47-gateway-upgrade-verification.md](./G47-gateway-upgrade-verification.md)
+- [G51-js-clawhub-curation-nav.md](./G51-js-clawhub-curation-nav.md)
+- [G08-upstream-merge-strategy.md](./G08-upstream-merge-strategy.md)
