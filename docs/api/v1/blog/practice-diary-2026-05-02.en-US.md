@@ -1,33 +1,44 @@
-# From "Installing Eyes" to "Browser Operating System": The Architectural Leap of JS-Eyes 2.6
+# From "Giving It a Pair of Eyes" to a "Browser OS": The Architectural Leap of JS-Eyes 2.6
 
 > Day 92 · 2026-05-02
 
-Today's main quest was to redefine `js-eyes` from a simple "web scraping plugin" into an "AI Browser Operating System." The core driver behind this shift is the independent architecture of the Sub-skill Harness and the deepening of security defenses introduced in the 2.6.x series. Facing maintenance bottlenecks caused by the exponential growth of our asset library, we stopped chasing feature bloat. Instead, we decoupled upgrade channels and standardized interaction protocols, empowering the system with the ecological capability to evolve itself.
+Today's primary task was to redefine `js-eyes` from a simple "web scraping plugin" into an "AI browser OS." The core driver behind this shift is the rollout of independent upgrade channels for sub-skills (the Harness architecture) in the 2.6.x series, along with a comprehensive hardening of our security defenses.
 
 ## Reshaping Architectural Perception: From Tool to Infrastructure
 
-In the KL03 phase, I equipped the "Lobster" with `js-eyes` to solve the fundamental problem of "seeing the browser." By KL28, we achieved automatic skill discovery. But it wasn't until today's release of version 2.6.2 that I truly realized `js-eyes` is no longer a single-function tool; it has evolved into a complete "Browser Operating System."
+Back in KL03, I equipped the "lobster" with `js-eyes` to solve its problem of "seeing" the browser. By KL28, it had learned to auto-discover new skills. But it wasn't until I was working on version 2.6.2 today that I truly grasped the fundamental shift in its architectural nature: this is no longer just a feature-stacked tool, but a standardized interaction infrastructure.
 
-This cognitive shift stems from a review of the current architectural landscape: the system now comprises the browser side (Chrome/Firefox extensions), the server side (`server-core` + `protocol`), the CLI management tool (npm `js-eyes`), the OpenClaw plugin layer, and a skill layer covering 11 major platforms including X, Reddit, YouTube, GitHub, WeChat, and Bilibili. Crucially, native browser messaging implemented via `native-host` allows us to handle all AI-browser interactions on a standardized level. This isn't just a simple increase in feature count; it's an essential leap from an "external addon" to "infrastructure."
+The current `js-eyes` 2.6.2 has already built out a complete five-layer abstraction architecture: the base layer handles browser extensions for Chrome and Firefox alongside native-host messaging; the middle layer consists of a WebSocket server built from `server-core` and `protocol`; and the upper layer is the skills layer covering 11 mainstream platforms like X, Reddit, YouTube, GitHub, WeChat, and Bilibili, all orchestrated uniformly via `openclaw-plugin` and the npm CLI (`js-eyes`). This cognitive leap from a "single-point tool" to an "operating system" means we're no longer focused on how many scraping functions we've added, but rather on how to provide a stable, scalable, standardized layer for AI-browser interaction.
 
-## Sub-skill Harness: Solving the "Change One, Move All" Pain Point
+## The Harness Architecture: Solving the "Change One Thing, Break Everything" Pain Point
 
-In the early architecture, all skills were tightly bound to the parent version number. Fixing a bug in the Reddit skill often required upgrading the entire `js-eyes` core. This "change one, move all" model became a massive maintenance bottleneck as the skill ecosystem expanded. Today's core breakthrough lies in the "independent sub-skill upgrade channel" introduced in version 2.6.0.
+In the previous architecture, all sub-skills were tightly coupled to the parent version number. Fixing a bug in the Reddit skill often meant upgrading the entire system, which severely bottlenecked the evolution of the skill ecosystem. The core breakthrough in today's 2.6.0 release is the introduction of the "sub-skill Harness mechanism."
 
-We refactored the 11 sub-skills into independent Harness units, each possessing its own `skill.contract.js` security contract and `minParentVersion` definition. This means the Reddit skill can independently iterate its comment expansion logic without waiting for the release window of YouTube or GitHub skills. This design grants each sub-skill independent boundaries, contracts, and upgrade rhythms. As verified in practice, leveraging `reddit_search` can return heat-sorted results within 1 second, while `reddit_get_post` fetches three levels of comment details in 1.7 seconds. Even `reddit_expand_more` can flatten 500 "more" node sub-comments in one go. The rapid iteration of these deep research capabilities is a direct dividend of the decoupling brought by the Harness architecture.
+Now, each of the 11 sub-skills has its own independent version upgrade channel and a `minParentVersion` constraint. Every skill operates as an independent Harness unit, complete with its own security contract file (`skill.contract.js`) and clearly defined boundaries. This means we can upgrade `js-reddit-ops-skill` independently without affecting other platform skills, truly enabling a "non-interfering" ecosystem evolution. This design gives each sub-skill its own upgrade cadence, solving the structural problem of high maintenance costs in the old architecture.
 
-## Security Depth and Stability: The Cornerstone of Unattended Operations
+## Real-World Validation: The Stability Backbone Behind Deep Research
 
-As automation scenarios deepen, execution safety and long-chain stability have become unavoidable concerns. In version 2.6.2, responding to ClawHub's security scans, we modularized 5 flagged call points and implemented a three-tier security classification: READ, INTERACTIVE, and DESTRUCTIVE. Simultaneously, we added integrity validation for `extraSkillDirs` (optional) and enabled the `js-eyes doctor --json` command to output a complete security status report, making system risks visible and controllable.
+The architectural upgrade directly showed its value in today's real-world scenarios. I used the updated `js-reddit-ops-skill` to conduct deep research on the "AI coding agent" topic, and the entire process showcased the new architecture's efficiency:
 
-Regarding stability, version 2.6.1 focused on conquering memory leaks caused by long-running processes. We identified `MaxListenersExceededWarning` and `process.on('exit')` listener leaks as the primary culprits. Consequently, we refactored the `register()` method to be idempotent, ensuring that `teardown` is executed before reconstruction during hot reloading or re-entry. Furthermore, we added fingerprint detection to the skill hot-reload mechanism and configured noise filtering for `chokidar`, effectively avoiding invalid triggers and resource waste caused by file change jitter. These polished details ensure the system remains rock-solid during deep research tasks lasting several days.
+1.  **Search Communities**: Call `reddit_search` to return 10 relevant discussions sorted by popularity within 1 second.
+2.  **Fetch Details**: Use `reddit_get_post` to pull post details, completely fetching 334 comments across a 3-level deep structure in 1.7 seconds.
+3.  **Cross-Community Comparison**: Quickly switch contexts to compare the vastly different discussion atmospheres around the same event in r/technology (35k upvotes) vs. r/LocalLLaMA (885 upvotes).
+4.  **Expand Deep Threads**: Use `reddit_expand_more` to flatten 500 sub-comments under the "more" node in one go, capturing the full context.
+
+The reason this entire chain of operations runs smoothly without crashing over long periods comes down to the memory leak fixes in version 2.6.1. We made the `register()` method idempotent, ensuring a proper teardown before rebuilding during hot reloads. We also added fingerprint detection and `chokidar` noise filtering, completely resolving the `MaxListenersExceededWarning` and file descriptor leak issues.
+
+## Security in Depth: From Passive Scanning to Active Defense
+
+As automation scenarios deepen, execution security has become a top priority. In version 2.6.2, we acted on ClawHub's security scan results by modularly splitting out 5 flagged call sites.
+
+More importantly, we implemented a three-tier security classification strategy: READ, INTERACTIVE, and DESTRUCTIVE. We also added an optional integrity check for `extraSkillDirs`. Now, by running `js-eyes doctor --json`, we can output a comprehensive security status report for the system, shifting security defense from reactive patching to measurable, proactive governance. This marks the establishment of trusted execution boundaries as the system evolves from being "observable" to "teachable."
 
 ## Today's Takeaways
 
-- **Architectural decoupling is the prerequisite for ecosystemization**: By upgrading sub-skills into independent Harness units (independent versions, independent contracts), we completely resolved the "fix one, patch all" maintenance pain point of the old architecture, achieving true skill ecosystem evolution.
-- **Security classification must land on call points**: It cannot remain at the conceptual level. Like in 2.6.2, the three-tier READ/INTERACTIVE/DESTRUCTIVE classification must be implemented through the modular splitting of specific flagged call points.
-- **Long-chain automation relies on idempotent design**: For long-running Agent tasks, making core methods like `register()` idempotent and implementing fingerprint detection for hot reloading are key to preventing memory leaks and state inconsistencies.
-- **Cognitive upgrades drive technical evolution**: Shifting from "giving AI eyes" to solve login state issues, to "giving AI a Harness" to solve controllability for all browser interactions, this change in positioning directly guided the direction of architectural refactoring.
+- **Architectural decoupling is the prerequisite for ecosystem growth**: By using the Harness mechanism to version sub-skills independently (`minParentVersion` + independent contracts), we've completely eliminated the maintenance bottleneck of "fix one thing, break ten others" in a monolithic architecture.
+- **Stability stems from meticulous governance**: Long-running automation tasks must handle `register()` idempotency, hot-reload fingerprint detection, and listener noise filtering. Otherwise, memory leaks are inevitable.
+- **Security requires tiering and quantification**: Breaking down operation permissions into READ/INTERACTIVE/DESTRUCTIVE tiers and outputting quantified security states via the `doctor` command is key to building system trust.
+- **Cognitive upgrades drive technical evolution**: Shifting from "giving AI eyes" (solving login states) to "giving AI an OS" (solving controllable interaction and evolution) means that a change in positioning dictates the depth of the architecture.
 
-- [G117: JS-Eyes 2.6's positioning has completely leaped from a "web scraping tool" to an "AI Browser Operating System"](./G117-js-eyes-2-6-browser-os.md)
-- [G118: JS-Eyes 2.6's Sub-skill Harness architecture upgrades browser interaction from a single tool to a controllable, evolving ecological OS via "independent versioning + security classification + hot reloading" mechanisms](./G118-js-eyes-subskill-harness.md)
+- [G117: JS-Eyes 2.6's positioning has completely leaped from a "web scraping tool" to an "AI browser OS"](./groups/G117-js-eyes-os-positioning.md)
+- [G118: JS-Eyes 2.6's sub-skill Harness architecture upgrades browser interaction from a single tool to a controllable, evolving ecosystem OS through "independent versioning + security tiering + hot reload" mechanisms](./groups/G118-subskill-harness-architecture.md)

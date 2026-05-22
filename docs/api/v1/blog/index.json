@@ -3,12 +3,12 @@
     "slug": "practice-diary-2026-05-02",
     "title": {
       "zh-CN": "从“装双眼睛”到“浏览器操作系统”：JS-Eyes 2.6 的架构跃迁",
-      "en-US": ""
+      "en-US": "From \"Just a Pair of Eyes\" to a \"Browser OS\": The Architectural Leap in JS-Eyes 2.6"
     },
     "date": "2026-05-02",
     "summary": {
       "zh-CN": "今天的主线任务是将 js-eyes 从单纯的“网页抓取插件”重新定义为\"AI 的浏览器操作系统”，核心驱动力来自 2.6.x 系列版本中子技能独立升级通道（Harness 架构）的落地与安全防线的全面加固。",
-      "en-US": ""
+      "en-US": "Today’s main focus is redefining JS-Eyes from a basic web scraping plugin to an AI-powered browser OS. This shift is driven by the 2.6.x series, which rolls out the Harness architecture for independent sub-skill upgrades and comprehensively hardens our security defenses."
     },
     "cover": "",
     "tags": [
@@ -38,7 +38,7 @@
     "date": "2026-05-01",
     "summary": {
       "zh-CN": "随后运行 `officecli --version` 验证，并执行 `officecli install` 自动配置 PATH 及将技能文件部署到 AI 编码助手中。整个过程没有遇到任何环境冲突，这在以往涉及 Office 自动化的场景中是极罕见的。对于 Windows 用户，我们也确认了 `irm...",
-      "en-US": ""
+      "en-US": "Next, run `officecli --version` to verify the setup, then execute `officecli install` to automatically configure your PATH and deploy the skill files to your AI coding assistant. The entire process ran smoothly without any environment conflicts—which is pretty rare when dealing with Office automation. For Windows users, we’ve also confirmed that `irm..."
     },
     "cover": "",
     "tags": [
