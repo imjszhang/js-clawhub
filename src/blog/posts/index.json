@@ -63,12 +63,12 @@
     "slug": "practice-diary-2026-04-29",
     "title": {
       "zh-CN": "从正则猜谜到 AI 调度：Meta-Tool 决策权的范式跃迁",
-      "en-US": ""
+      "en-US": "From Regex Guesswork to AI Orchestration: A Paradigm Shift in Meta-Tool Decision Making"
     },
     "date": "2026-04-29",
     "summary": {
       "zh-CN": "今天原本只是想优化 `js-knowledge-collector` 项目，却在执行过程中意外触发了对核心工具 `js-breakdown-skill` 的架构重构，彻底解决了长期困扰我们的“机械正则误判语义”难题。这次重构不仅修复了具体的代码缺陷，更标志着我们的系统从“可记录”正式迈入了“可教学”...",
-      "en-US": ""
+      "en-US": "What started as a quick optimization pass on the `js-knowledge-collector` project today unexpectedly spiraled into a full architectural refactor of our core tool, `js-breakdown-skill`. We finally cracked the long-standing headache of rigid regex misinterpreting semantic context. But this wasn’t just about squashing bugs—it marks a real milestone. Our system is officially stepping up from merely 'recordable' to genuinely 'teachable'..."
     },
     "cover": "",
     "tags": [
