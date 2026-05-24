@@ -32,8 +32,8 @@
   {
     "slug": "practice-diary-2026-05-01",
     "title": {
-      "zh-CN": "",
-      "en-US": ""
+      "zh-CN": "OfficeCLI 零冲突部署：无头环境中的文档生成自动化",
+      "en-US": "Seamless OfficeCLI Deployment: Zero-Conflict Setup and Headless Automation"
     },
     "date": "2026-05-01",
     "summary": {
@@ -93,7 +93,7 @@
     "slug": "practice-diary-2026-04-28",
     "title": {
       "zh-CN": "从专用电话线到动态通讯录：OpenClaw 后端架构的 acpx 通用协议演进",
-      "en-US": ""
+      "en-US": "From Dedicated Phone Lines to Dynamic Directories: The Evolution of OpenClaw's Backend via the acpx Universal Protocol"
     },
     "date": "2026-04-28",
     "summary": {
@@ -123,7 +123,7 @@
     "slug": "practice-diary-2026-04-27",
     "title": {
       "zh-CN": "龙虾越用越笨？为记忆系统引入“选择性遗忘”机制",
-      "en-US": ""
+      "en-US": "Are Lobsters Getting Dumber with Use? Implanting a \"Selective Forgetting\" Mechanism into the Memory System"
     },
     "date": "2026-04-27",
     "summary": {
@@ -153,7 +153,7 @@
     "slug": "practice-diary-2026-04-25",
     "title": {
       "zh-CN": "封面只是副产品：当执行力归零，唯有私有 Agent 是新身份",
-      "en-US": ""
+      "en-US": "Old Professions Vanish as Execution Power Hits Zero; The New Identity Is Defined Solely by Owning a Private Agent That Encapsulates Unique Aesthetics and Decision Logic"
     },
     "date": "2026-04-25",
     "summary": {
@@ -183,7 +183,7 @@
     "slug": "practice-diary-2026-04-22",
     "title": {
       "zh-CN": "从画图员到导演：教龙虾用 GPT-image-2 完成视觉跃迁",
-      "en-US": ""
+      "en-US": "From Draftsman to Director: Teaching Lobster to Leap Visually with GPT-image-2"
     },
     "date": "2026-04-22",
     "summary": {
@@ -213,7 +213,7 @@
     "slug": "practice-diary-2026-04-21",
     "title": {
       "zh-CN": "残缺即完美：OpenClaw 的“星际争霸”生存哲学",
-      "en-US": ""
+      "en-US": "Imperfection is Perfection: OpenClaw's \"StarCraft\" Survival Philosophy"
     },
     "date": "2026-04-21",
     "summary": {
@@ -243,7 +243,7 @@
     "slug": "practice-diary-2026-04-20",
     "title": {
       "zh-CN": "教龙虾管数据：从“读笔记”到“控选题”的三阶指令跃迁",
-      "en-US": ""
+      "en-US": "Teaching Lobster to Manage Data: A Three-Stage Leap from \"Reading Notes\" to \"Controlling Topics\""
     },
     "date": "2026-04-20",
     "summary": {
@@ -273,7 +273,7 @@
     "slug": "practice-diary-2026-04-19",
     "title": {
       "zh-CN": "技能去魅：从原理崇拜到目标驱动的黑盒迭代",
-      "en-US": ""
+      "en-US": "Demystifying Skills: From Principle Worship to Goal-Driven Black Box Iteration"
     },
     "date": "2026-04-19",
     "summary": {
@@ -303,7 +303,7 @@
     "slug": "practice-diary-2026-04-18",
     "title": {
       "zh-CN": "龙虾进化论：从感官碎片到私有第二大脑的三位一体",
-      "en-US": ""
+      "en-US": "The Lobster Evolution: A Trinity from Sensory Chains to a Private Second Brain"
     },
     "date": "2026-04-18",
     "summary": {
@@ -333,7 +333,7 @@
     "slug": "practice-diary-2026-04-17",
     "title": {
       "zh-CN": "教你的龙虾，用你的 flomo：从被动记录到主动思考的进化",
-      "en-US": ""
+      "en-US": "Teach Your Lobster, Use Your flomo: Evolving from Passive Recording to Active Thinking"
     },
     "date": "2026-04-17",
     "summary": {
@@ -363,7 +363,7 @@
     "slug": "practice-diary-2026-04-14",
     "title": {
       "zh-CN": "龙虾不再需要我告诉它有什么：JS-Eyes 2.0 打破技能扩展的预置天花板",
-      "en-US": ""
+      "en-US": "Lobster No Longer Needs Me to Tell It What It Has: JS-Eyes 2.0 Shatters the Pre-set Skill Ceiling"
     },
     "date": "2026-04-14",
     "summary": {
@@ -393,7 +393,7 @@
     "slug": "practice-diary-2026-04-13",
     "title": {
       "zh-CN": "从推送到拉取：构建微信群聊暗知识的零信任自动化链路",
-      "en-US": ""
+      "en-US": "From Push to Pull: Building a Zero-Trust Automated Pipeline for WeChat Group \"Dark Knowledge\""
     },
     "date": "2026-04-13",
     "summary": {
@@ -423,7 +423,7 @@
     "slug": "practice-diary-2026-04-12",
     "title": {
       "zh-CN": "当模型成为特权，系统就是你的民主",
-      "en-US": ""
+      "en-US": "When Models Become Privilege, Systems Are Your Democracy"
     },
     "date": "2026-04-12",
     "summary": {
@@ -453,7 +453,7 @@
     "slug": "practice-diary-2026-04-11",
     "title": {
       "zh-CN": "从配置堆砌到生命体：OpenClaw 五支柱架构的觉醒",
-      "en-US": ""
+      "en-US": "From Configuration Pile-up to Living Organism: The Awakening of OpenClaw's Five-Pillar Architecture"
     },
     "date": "2026-04-11",
     "summary": {
@@ -483,7 +483,7 @@
     "slug": "practice-diary-2026-04-10",
     "title": {
       "zh-CN": "养虾日记的核心转向：从工具横评到共同进化实证",
-      "en-US": ""
+      "en-US": "Shrimp Farming Diary Tone Shift: From Tool Benchmarking to Co-evolution Evidence"
     },
     "date": "2026-04-10",
     "summary": {
@@ -513,7 +513,7 @@
     "slug": "practice-diary-2026-04-07",
     "title": {
       "zh-CN": "从过拟合陷阱到活人感终审：AI 内容创作 Skill 的三轮迭代实录",
-      "en-US": ""
+      "en-US": "From Overfitting Traps to the \"Human Touch\" Final Review: Three Iterations of AI Writing Skills and the Human-Machine Boundary"
     },
     "date": "2026-04-07",
     "summary": {
@@ -543,7 +543,7 @@
     "slug": "practice-diary-2026-04-05",
     "title": {
       "zh-CN": "一人顶三人：我在 OpenClaw 里雇佣了一个最小化团队",
-      "en-US": ""
+      "en-US": "From Executor to Commander: The Practical Evolution of OpenClaw's Minimal Team"
     },
     "date": "2026-04-05",
     "summary": {
@@ -573,7 +573,7 @@
     "slug": "practice-diary-2026-04-04",
     "title": {
       "zh-CN": "知识库架构的双模式融合：从 Karpathy 的轻量闭环到 Prism 的深度蒸馏",
-      "en-US": ""
+      "en-US": "Dual-Mode Fusion of Knowledge Base Architecture: From Karpathy's Insights to Prism's Evolution"
     },
     "date": "2026-04-04",
     "summary": {
@@ -602,8 +602,8 @@
   {
     "slug": "practice-diary-2026-04-02",
     "title": {
-      "zh-CN": "",
-      "en-US": ""
+      "zh-CN": "ClawHub 技能发布：Windows 路径解析缺陷",
+      "en-US": "Publishing Skills to ClawHub: Windows Path Resolution Pitfalls"
     },
     "date": "2026-04-02",
     "summary": {
@@ -633,7 +633,7 @@
     "slug": "practice-diary-2026-04-01",
     "title": {
       "zh-CN": "工程外壳超越模型智力：OpenClaw 与 Claude Code 架构同构性验证",
-      "en-US": ""
+      "en-US": "Engineering Shell Trumps Model Intelligence: Verifying OpenClaw's Architectural Isomorphism with Claude Code"
     },
     "date": "2026-04-01",
     "summary": {
@@ -663,7 +663,7 @@
     "slug": "practice-diary-2026-03-31",
     "title": {
       "zh-CN": "从 DOM 解析到封装 API：X.com 监控闭环的架构突围",
-      "en-US": ""
+      "en-US": "From DOM Parsing to Encapsulated APIs: The Architectural Leap in X.com Monitoring Closed-Loop"
     },
     "date": "2026-03-31",
     "summary": {
@@ -693,7 +693,7 @@
     "slug": "practice-diary-2026-03-29",
     "title": {
       "zh-CN": "拒绝黑箱记忆：构建三层解耦架构打造可进化的认知外挂",
-      "en-US": ""
+      "en-US": "Rejecting the Black Box: Building a Three-Tier Collaborative Cognitive Exoskeleton"
     },
     "date": "2026-03-29",
     "summary": {
@@ -723,7 +723,7 @@
     "slug": "practice-diary-2026-03-27",
     "title": {
       "zh-CN": "把编码外包给 Cursor：ACP 架构如何从结构上终结 OpenClaw 的高 Token 成本",
-      "en-US": ""
+      "en-US": "Outsourcing Coding to Cursor: The Critical Leap in OpenClaw's Cost Reduction Architecture"
     },
     "date": "2026-03-27",
     "summary": {
@@ -753,7 +753,7 @@
     "slug": "practice-diary-2026-03-25",
     "title": {
       "zh-CN": "从精确执行到对话策展：18 次迭代重塑 AI 视觉工作流",
-      "en-US": ""
+      "en-US": "From Precise Execution to Conversational Curation: Reshaping the AI Visual Workflow Through 18 Iterations"
     },
     "date": "2026-03-25",
     "summary": {
@@ -783,7 +783,7 @@
     "slug": "practice-diary-2026-03-24",
     "title": {
       "zh-CN": "从拍脑袋写作到系统组装：知识复利的三位一体战略",
-      "en-US": ""
+      "en-US": "From Gut-Feeling Writing to Systematic Assembly: The Trinity Strategy for Knowledge Compounding"
     },
     "date": "2026-03-24",
     "summary": {
@@ -813,7 +813,7 @@
     "slug": "practice-diary-2026-03-22",
     "title": {
       "zh-CN": "借腾讯的船，出我的海：微信原生插件与 AI 主权博弈",
-      "en-US": ""
+      "en-US": "Borrowing Tencent's Ship to Sail My Own Seas: The Game of WeChat Native Plugins and AI Sovereignty"
     },
     "date": "2026-03-22",
     "summary": {
@@ -843,7 +843,7 @@
     "slug": "practice-diary-2026-03-21",
     "title": {
       "zh-CN": "上游 PR 分支隔离与插件架构解耦实战",
-      "en-US": ""
+      "en-US": "Upstream PR Branch Isolation and Plugin Architecture Decoupling in Practice"
     },
     "date": "2026-03-21",
     "summary": {
@@ -873,7 +873,7 @@
     "slug": "practice-diary-2026-03-20",
     "title": {
       "zh-CN": "消除人工换算：JS VI 系统内建微信封面自动化闭环",
-      "en-US": ""
+      "en-US": "Eliminating Manual Conversions: Built-in WeChat Cover Image Automation in the JS VI System"
     },
     "date": "2026-03-20",
     "summary": {
@@ -903,7 +903,7 @@
     "slug": "practice-diary-2026-03-19",
     "title": {
       "zh-CN": "飞书变现闭环与 JS VI 自动化架构的双线突围",
-      "en-US": ""
+      "en-US": "Implementing the Feishu Monetization Loop and Full-Stack Automation of the JS VI Visual System"
     },
     "date": "2026-03-19",
     "summary": {
@@ -933,7 +933,7 @@
     "slug": "practice-diary-2026-03-18",
     "title": {
       "zh-CN": "破局短命令模型：构建 Cursor Agent 零依赖长驻进程池",
-      "en-US": ""
+      "en-US": "Breaking the Short-Command Model: Cursor Agent's Zero-Dependency Architecture and Long-Running Process Pool in Action"
     },
     "date": "2026-03-18",
     "summary": {
@@ -963,7 +963,7 @@
     "slug": "practice-diary-2026-03-17",
     "title": {
       "zh-CN": "从 Docker 依赖到插拔式沙箱：第 46 天的大规模上游合并实战",
-      "en-US": ""
+      "en-US": "From Docker Dependency to Pluggable Sandboxes: A Massive Upstream Merge on Day 46"
     },
     "date": "2026-03-17",
     "summary": {
@@ -993,7 +993,7 @@
     "slug": "practice-diary-2026-03-12",
     "title": {
       "zh-CN": "降低模板创作门槛：决策引导与确定性骨架的实战落地",
-      "en-US": ""
+      "en-US": "Turning Template Creation from \"Configuration Hell\" into a \"Four-Question Guide\""
     },
     "date": "2026-03-12",
     "summary": {
@@ -1023,7 +1023,7 @@
     "slug": "practice-diary-2026-03-11",
     "title": {
       "zh-CN": "从手动触发到无人值守：知识棱镜全链路自动化与可靠性架构升级",
-      "en-US": ""
+      "en-US": "Let the Diary Grow on Its Own: Leaping from Manual Triggers to Unattended Automation"
     },
     "date": "2026-03-11",
     "summary": {
@@ -1053,7 +1053,7 @@
     "slug": "practice-diary-2026-03-10",
     "title": {
       "zh-CN": "从平面到立体：Prism 记忆桥接与 3D 知识图谱的实战升级",
-      "en-US": ""
+      "en-US": "Equipping the Knowledge Graph with a \"Z-Axis\": Prism Memory Bridging and 3D Visualization in Action"
     },
     "date": "2026-03-10",
     "summary": {
@@ -1083,7 +1083,7 @@
     "slug": "practice-diary-2026-03-09",
     "title": {
       "zh-CN": "记忆桥接的低成本突围：从摘要导出到双源互补",
-      "en-US": ""
+      "en-US": "Letting AI Remember My Thinking: Leveraging 73 Files for Structured Knowledge Retrieval"
     },
     "date": "2026-03-09",
     "summary": {
@@ -1113,7 +1113,7 @@
     "slug": "practice-diary-2026-03-08",
     "title": {
       "zh-CN": "从可记录到可教学：ClawHub 插件化升级与全链路自动化闭环",
-      "en-US": ""
+      "en-US": "From Static Navigation to Programmable Plugins: The \"Shell\" Upgrade of ClawHub"
     },
     "date": "2026-03-08",
     "summary": {
@@ -1143,7 +1143,7 @@
     "slug": "practice-diary-2026-03-07",
     "title": {
       "zh-CN": "从单库手动到多库自动：构建无人值守的知识生产流水线",
-      "en-US": ""
+      "en-US": "Equipping the Knowledge Base with \"Auto-Cruise\": Multi-Repo Registration and Cron in Action"
     },
     "date": "2026-03-07",
     "summary": {
@@ -1173,7 +1173,7 @@
     "slug": "practice-diary-2026-03-06",
     "title": {
       "zh-CN": "从 URL 到知识库：构建无人值守的知识收集器闭环",
-      "en-US": ""
+      "en-US": "Stuffing Standalone Tools into an Agent: A Practical Guide to Pluginizing the Knowledge Collector"
     },
     "date": "2026-03-06",
     "summary": {
@@ -1203,7 +1203,7 @@
     "slug": "practice-diary-2026-03-05",
     "title": {
       "zh-CN": "权限双轨制与状态目录加固：从“能动”到“安全”的闭环实践",
-      "en-US": ""
+      "en-US": "Permission Dual-Track System and State Directory Hardening: From Functional to Secure"
     },
     "date": "2026-03-05",
     "summary": {
@@ -1233,7 +1233,7 @@
     "slug": "practice-diary-2026-03-04",
     "title": {
       "zh-CN": "第二次大合并：在 3600+ 提交洪流中坚守架构一致性",
-      "en-US": ""
+      "en-US": "A War Over a Single Lock File Across 2,000 Commits"
     },
     "date": "2026-03-04",
     "summary": {
@@ -1263,7 +1263,7 @@
     "slug": "practice-diary-2026-03-01",
     "title": {
       "zh-CN": "从可记录到可教学：知识棱镜与 Agent-First 架构的融合实践",
-      "en-US": ""
+      "en-US": "A Victory of Zero Changes to the Core Layer: Implementing the Agent-First Five-Layer Architecture"
     },
     "date": "2026-03-01",
     "summary": {
@@ -1293,7 +1293,7 @@
     "slug": "practice-diary-2026-02-28",
     "title": {
       "zh-CN": "从权限陷阱到记忆治理：筑牢自动化与安全的双重防线",
-      "en-US": ""
+      "en-US": "When 666 Permissions Blocked My Plugin: A Heart-Stopping Leap for the Independent Distribution System"
     },
     "date": "2026-02-28",
     "summary": {
@@ -1323,7 +1323,7 @@
     "slug": "practice-diary-2026-02-27",
     "title": {
       "zh-CN": "从可记录到可教学：权限系统的分层重构与安全闭环",
-      "en-US": ""
+      "en-US": "From \"Asking for Permission at Every Step\" to \"Full Trust\": Regaining Control After a Gateway Restart"
     },
     "date": "2026-02-27",
     "summary": {
@@ -1353,7 +1353,7 @@
     "slug": "practice-diary-2026-02-26",
     "title": {
       "zh-CN": "第 27 天：踩坑密集日——从 curl|bash 阻断到安全防线的重构",
-      "en-US": ""
+      "en-US": "When Security Mechanisms Treat `curl | bash` as an Attack: The Triple Defense Line on Day 27"
     },
     "date": "2026-02-26",
     "summary": {
@@ -1383,7 +1383,7 @@
     "slug": "practice-diary-2026-02-25",
     "title": {
       "zh-CN": "爆发日：五件事同时发生，从可记录迈向可教学",
-      "en-US": ""
+      "en-US": "From User to Creator: The Breakthrough Moment of Releasing Three Plugins in One Day"
     },
     "date": "2026-02-25",
     "summary": {
@@ -1413,7 +1413,7 @@
     "slug": "practice-diary-2026-02-24",
     "title": {
       "zh-CN": "从散乱笔记到自动光谱：知识棱镜工具架构落地实录",
-      "en-US": ""
+      "en-US": "Refracting Scattered Notes into a Spectrum: The Birth of the Knowledge Prism"
     },
     "date": "2026-02-24",
     "summary": {
@@ -1443,7 +1443,7 @@
     "slug": "practice-diary-2026-02-23",
     "title": {
       "zh-CN": "从时间线到知识体：构建 Journal-Pyramid-Outputs 三层蒸馏管线",
-      "en-US": ""
+      "en-US": "Installing a \"Distillation Machine\" for Scattered Notes"
     },
     "date": "2026-02-23",
     "summary": {
@@ -1473,7 +1473,7 @@
     "slug": "practice-diary-2026-02-22",
     "title": {
       "zh-CN": "从 3600 次提交冲突到三层知识架构：第 23 天的架构对齐与重构",
-      "en-US": ""
+      "en-US": "After an 8-Day Gap, I Traded 3,600 Commits for a Knowledge Skeleton"
     },
     "date": "2026-02-22",
     "summary": {
@@ -1503,7 +1503,7 @@
     "slug": "practice-diary-2026-02-14",
     "title": {
       "zh-CN": "从黑盒到透视：构建全链路 Token 监控体系",
-      "en-US": ""
+      "en-US": "Installing a \"Fuel Gauge\" on AI: Building a Full-Stack Token Observability System"
     },
     "date": "2026-02-14",
     "summary": {
@@ -1533,7 +1533,7 @@
     "slug": "practice-diary-2026-02-13",
     "title": {
       "zh-CN": "从配置隔离到实例衍生：真正厘清 OpenClaw 的 Agent 边界",
-      "en-US": ""
+      "en-US": "Stop Building Agents Inside Chats: The \"Epiphany\" Moment of the OpenClaw Architecture"
     },
     "date": "2026-02-13",
     "summary": {
@@ -1584,7 +1584,7 @@
     "slug": "practice-diary-2026-02-12",
     "title": {
       "zh-CN": "从零构建 JS ClawHub：纯静态架构下的策展式生态导航实践",
-      "en-US": ""
+      "en-US": "Reject Heavy Frameworks: Build an Ecosystem Navigation Site in One Day with Vanilla JS and Neo-Brutalism"
     },
     "date": "2026-02-12",
     "summary": {
@@ -1614,7 +1614,7 @@
     "slug": "practice-diary-2026-02-11",
     "title": {
       "zh-CN": "Browser Relay：打通 AI 智能体与日常浏览器的五层架构枢纽",
-      "en-US": ""
+      "en-US": "Letting AI Take Over My Chrome: A Browser Relay Field Log"
     },
     "date": "2026-02-11",
     "summary": {
@@ -1666,7 +1666,7 @@
     "slug": "practice-diary-2026-02-08",
     "title": {
       "zh-CN": "终端兼容与企微部署：打通 AI Agent 执行率与消息可靠送达的最后一公里",
-      "en-US": ""
+      "en-US": "The Pitfall of Backslashes in Paths and the \"Critical 5 Seconds\" of WeCom Callbacks"
     },
     "date": "2026-02-08",
     "summary": {
@@ -1696,7 +1696,7 @@
     "slug": "practice-diary-2026-02-06",
     "title": {
       "zh-CN": "从脚本触发到自主进化：构建无人值守的 Agent 闭环",
-      "en-US": ""
+      "en-US": "Equipping Agents with an \"Auto-Evolution\" Engine and a Compliant \"Exoskeleton\""
     },
     "date": "2026-02-06",
     "summary": {
@@ -1726,7 +1726,7 @@
     "slug": "practice-diary-2026-02-05",
     "title": {
       "zh-CN": "给 Agent 装上双 Cron 引擎：从人工记录到无人值守的知识生产",
-      "en-US": ""
+      "en-US": "Giving Agents a \"Biological Clock\": The Trade-off Between Cron and Heartbeat"
     },
     "date": "2026-02-05",
     "summary": {
@@ -1756,7 +1756,7 @@
     "slug": "practice-diary-2026-02-01",
     "title": {
       "zh-CN": "从静态代码到动态上下文：构建 OpenClaw 的技能与渠道扩展体系",
-      "en-US": ""
+      "en-US": "Generate a Standard Skill with a Single Command: From Directory Structure to Packaging and Publishing"
     },
     "date": "2026-02-01",
     "summary": {
@@ -1922,7 +1922,7 @@
     "slug": "practice-diary-2026-01-31",
     "title": {
       "zh-CN": "从陌生框架到可控智能体：OpenClaw 首日部署与架构摸底实录",
-      "en-US": ""
+      "en-US": "Sizing Up an Unfamiliar AI Framework: From Architecture Reports to TinyCore Extreme Deployment"
     },
     "date": "2026-01-31",
     "summary": {
@@ -1952,7 +1952,7 @@
     "slug": "practice-diary-2026-01-19",
     "title": {
       "zh-CN": "逆向架构破局：让 Agent 实时接管用户正在使用的浏览器",
-      "en-US": ""
+      "en-US": "Reverse Architecture Breakthrough: Real-Time Agent Takeover of Active Browser Sessions"
     },
     "date": "2026-01-19",
     "summary": {
