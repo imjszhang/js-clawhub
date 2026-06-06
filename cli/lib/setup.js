@@ -219,7 +219,7 @@ export async function setupGithubPages() {
     const headers = getGhAuthHeaders(env);
     const [owner, repo] = GITHUB_REPO.split('/');
 
-    let source = { branch: 'master', path: '/docs' };
+    let source = { branch: 'master', path: '/' };
     try {
         const pages = await ghFetch(`/repos/${owner}/${repo}/pages`, headers);
         if (pages.source) {

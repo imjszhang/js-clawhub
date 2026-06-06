@@ -318,7 +318,7 @@ function cmdCommit(flags) {
             toStderr('Staging all changes ...');
             gitAddAll();
         } else if (flags.scope) {
-            const scopeDirs = [`src/${flags.scope}/`, `docs/${flags.scope}/`];
+            const scopeDirs = [`src/${flags.scope}/`];
             toStderr(`Staging scope: ${scopeDirs.join(', ')} ...`);
             gitAdd(scopeDirs);
         } else {
@@ -672,16 +672,16 @@ Commands:
   featured clear <section>
                      Clear all featured items in a section
 
-  build              Build site: copy src/ to docs/, inject GA, validate i18n
+  build              Build site: copy src/ to dist/, inject GA, validate i18n
     --skip-ga          Skip Google Analytics injection
     --skip-i18n        Skip i18n translation validation
     --dry-run          Validate only, don't write files
-    --no-clean         Don't remove docs/ before copying
+    --no-clean         Don't remove dist/ before copying
 
   commit             Stage and commit changes with auto-generated message
     --message "msg"    Use custom commit message (alias: --m)
     --all              Stage all changes (default)
-    --scope <area>     Only stage src/<area>/ and docs/<area>/
+    --scope <area>     Only stage src/<area>/
 
   sync               Build + commit + push in one step
     --no-build         Skip build step

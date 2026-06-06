@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "npx serve src",
     "build": "node build/build.js",
-    "preview": "npx serve docs -l 3000",
+    "preview": "npx serve dist -l 3000",
     "cf:setup": "node --env-file=.env scripts/setup-cloudflare.js",
     "gh:pages": "node --env-file=.env scripts/setup-github-pages.js",
     "cli": "node cli/cli.js",

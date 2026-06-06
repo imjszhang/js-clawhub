@@ -161,39 +161,30 @@ export function generateCommitMessage(files) {
     }
 
     const areas = new Set();
-    let hasDocs = false;
     let hasSrc = false;
 
     for (const f of files) {
-        if (f.startsWith('docs/')) {
-            hasDocs = true;
-        }
         if (f.startsWith('src/')) {
             hasSrc = true;
         }
 
-        if (f.startsWith('src/pulse/') || f.startsWith('docs/pulse/')) {
+        if (f.startsWith('src/pulse/')) {
             areas.add('pulse');
-        } else if (f.startsWith('src/blog/') || f.startsWith('docs/blog/')) {
+        } else if (f.startsWith('src/blog/')) {
             areas.add('blog');
-        } else if (f.startsWith('src/skills/') || f.startsWith('docs/skills/')) {
+        } else if (f.startsWith('src/skills/')) {
             areas.add('skills');
-        } else if (f.startsWith('src/guide/') || f.startsWith('docs/guide/')) {
+        } else if (f.startsWith('src/guide/')) {
             areas.add('guide');
-        } else if (f.startsWith('src/shared/') || f.startsWith('docs/shared/')) {
+        } else if (f.startsWith('src/shared/')) {
             areas.add('shared');
-        } else if (f.startsWith('src/data/') || f.startsWith('docs/data/')) {
+        } else if (f.startsWith('src/data/')) {
             areas.add('data');
         } else if (f.startsWith('cli/')) {
             areas.add('cli');
         } else if (f.startsWith('build/')) {
             areas.add('build');
         }
-    }
-
-    // Only docs/ changed (likely a build output update)
-    if (hasDocs && !hasSrc && areas.size === 0) {
-        return 'build: update site output';
     }
 
     const areaList = [...areas];
@@ -204,21 +195,8 @@ export function generateCommitMessage(files) {
 
     if (areaList.length === 1) {
         const area = areaList[0];
-        if (hasDocs && hasSrc) {
-            return `${area}: update and rebuild`;
-        }
-        if (hasDocs) {
-            return `build: update ${area} output`;
-        }
         return `${area}: update`;
     }
 
-    // Multiple areas
-    if (hasDocs && hasSrc) {
-        return `update ${areaList.join(', ')} and rebuild site`;
-    }
-    if (hasDocs) {
-        return `build: update ${areaList.join(', ')} output`;
-    }
     return `update ${areaList.join(', ')}`;
 }

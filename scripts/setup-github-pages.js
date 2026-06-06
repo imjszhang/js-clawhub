@@ -70,7 +70,7 @@ async function main() {
   const [owner, repo] = GITHUB_REPO.split("/");
 
   // 获取当前 Pages 配置
-  let source = { branch: "master", path: "/docs" };
+  let source = { branch: "master", path: "/" };
   try {
     const pages = await ghFetch(`/repos/${owner}/${repo}/pages`);
     if (pages.source) {

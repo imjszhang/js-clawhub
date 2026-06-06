@@ -1,7 +1,7 @@
 /**
  * ClawHub Builder — site build logic extracted from build/build.js.
  *
- * Copies src/ to docs/ for GitHub Pages deployment, injects Google Analytics,
+ * Copies src/ to dist/ for GitHub Pages deployment, injects Google Analytics,
  * validates i18n completeness, generates /api/v1/ data layer for agent skills,
  * and returns structured results.
  */
@@ -15,7 +15,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const ROOT = resolve(__dirname, '..', '..');
 const SRC = join(ROOT, 'src');
-const DOCS = join(ROOT, 'docs');
+const DOCS = join(ROOT, 'dist');
 const SITE_URL = 'https://js-clawhub.com';
 
 const GA_ID = 'G-DL14E140EC';
@@ -382,10 +382,10 @@ function generateSitemap() {
 // ── Public API ───────────────────────────────────────────────────────
 
 /**
- * Build the site: copy src/ to docs/, inject GA, validate i18n.
+ * Build the site: copy src/ to dist/, inject GA, validate i18n.
  *
  * @param {Object} [options]
- * @param {boolean} [options.clean=true]    Remove docs/ before copying
+ * @param {boolean} [options.clean=true]    Remove dist/ before copying
  * @param {boolean} [options.skipGa=false]  Skip Google Analytics injection
  * @param {boolean} [options.skipI18n=false] Skip i18n validation
  * @param {boolean} [options.dryRun=false]  Only validate, don't write files
@@ -404,21 +404,21 @@ export function build(options = {}) {
 
     // Step 1: Clean (maxRetries handles IDE file-watcher race conditions)
     if (clean && !dryRun) {
-        toStderr('[1/8] Cleaning docs/ ...');
+        toStderr('[1/8] Cleaning dist/ ...');
         if (existsSync(DOCS)) {
             rmSync(DOCS, { recursive: true, force: true, maxRetries: 3, retryDelay: 100 });
         }
         mkdirSync(DOCS, { recursive: true });
     } else if (dryRun) {
-        toStderr('[1/8] Cleaning docs/ ... (skipped: dry-run)');
+        toStderr('[1/8] Cleaning dist/ ... (skipped: dry-run)');
     } else {
-        toStderr('[1/8] Cleaning docs/ ... (skipped: --no-clean)');
+        toStderr('[1/8] Cleaning dist/ ... (skipped: --no-clean)');
     }
 
     // Step 2: Copy
     let filesCopied = 0;
     if (!dryRun) {
-        toStderr('[2/8] Copying src/ → docs/ ...');
+        toStderr('[2/8] Copying src/ → dist/ ...');
         if (!existsSync(DOCS)) {
             mkdirSync(DOCS, { recursive: true });
         }
@@ -426,7 +426,7 @@ export function build(options = {}) {
         cleanBlogImportArtifacts();
         filesCopied = countFiles(DOCS);
     } else {
-        toStderr('[2/8] Copying src/ → docs/ ... (skipped: dry-run)');
+        toStderr('[2/8] Copying src/ → dist/ ... (skipped: dry-run)');
         filesCopied = countFiles(SRC);
     }
 
@@ -496,7 +496,7 @@ export function build(options = {}) {
     } else {
         toStderr('✅ Build complete. No translation issues found.');
     }
-    toStderr(`📁 Output: docs/`);
+    toStderr(`📁 Output: dist/`);
     toStderr(`⏱  ${elapsed}ms\n`);
 
     return { filesCopied, gaInjected, i18nWarnings, apiFiles, sitemapUrls, elapsed, dryRun };
