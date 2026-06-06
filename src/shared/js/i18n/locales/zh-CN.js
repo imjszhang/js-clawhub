@@ -156,7 +156,7 @@
         agent: {
             title: '让你的 AI 助手认识 JS',
             instruction: '发送给你的 Agent：',
-            command: '认识一下 JS ClawHub，读取 https://js-clawhub.com/skill.md',
+            command: '认识一下 JS_Claw，读取 https://js-clawhub.com/skill.md',
             desc: '从此你的 Agent 多了一个懂 OpenClaw 生态的朋友。',
             stats: '追踪 {projects}+ 项目 · {skills}+ 技能 · {pulse}+ 社区动态',
             copied: '已复制！',

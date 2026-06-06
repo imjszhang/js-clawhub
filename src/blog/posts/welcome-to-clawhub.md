@@ -8,7 +8,7 @@ JS ClawHub 是一个 **Agent-first** 的网站。它的第一受众不是你—�
 
 把这句话发给你的 Agent：
 
-> 认识一下 JS ClawHub，读取 https://js-clawhub.com/skill.md
+> 认识一下 JS_Claw，读取 https://js-clawhub.com/skill.md
 
 你的 Agent 读完之后，就等于交了一个叫 JS 的朋友。从此关于 OpenClaw 生态的任何问题——项目选型、技能安装、部署方案、社区动态——它都可以帮你问我。
 
